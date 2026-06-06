@@ -1,0 +1,20 @@
+---
+const SEASONS = {
+  spring: 'Spring',
+  summer: 'Summer',
+  autumn: 'Autumn',
+  winter: 'Winter',
+  year: 'Year-round',
+} as const;
+
+interface Props {
+  season: keyof typeof SEASONS;
+  label?: string;
+  class?: string;
+}
+const { season, label, class: className = '' } = Astro.props;
+---
+<span class={`badge badge--${season} ${className}`}>
+  <span class="badge__dot" aria-hidden="true"></span>
+  {label ?? SEASONS[season]}
+</span>

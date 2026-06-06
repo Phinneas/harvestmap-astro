@@ -1,0 +1,17 @@
+{
+  "name": "harvestmap",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HarvestMap — a seasonal farm & produce directory, built on the HarvestMap design system.",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.7.0"
+  }
+}

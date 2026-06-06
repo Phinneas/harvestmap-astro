@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Sunhollow Orchard",
+    "slug": "sunhollow-orchard",
+    "region": "Stone fruit & orchard",
+    "location": "Sebastopol, CA",
+    "tagline": "Three generations of peaches, apricots and plums on a south-facing hillside.",
+    "image": "https://images.unsplash.com/photo-1542820243-983a04f67b73?q=75&w=1400&auto=format&fit=crop",
+    "imageAlt": "Ripe peaches on a sunlit branch",
+    "seasons": ["summer", "autumn"],
+    "peak": "summer",
+    "produce": ["Peaches", "Apricots", "Nectarines", "Plums", "Cherries"],
+    "inSeasonNow": true,
+    "established": 1971,
+    "stand": "Farm stand open Fri–Sun, 9am–5pm",
+    "practices": ["Certified organic", "Dry-farmed", "Solar-powered pack house"],
+    "description": [
+      "Sunhollow sits on a warm hillside where the fog burns off by mid-morning — exactly what stone fruit wants. The Marchetti family has worked these rows since 1971, and they still pick every peach by hand, ripe, into padded trays.",
+      "Because the orchard is dry-farmed, the trees push their roots deep and the fruit comes off intense and floral. Come in July for the famous Cal Red peaches; the apricots are a blink-and-miss-it three weeks in June."
+    ],
+    "calendar": [
+      { "name": "Cherries", "months": "May – Jun", "season": "spring" },
+      { "name": "Apricots", "months": "June", "season": "summer" },
+      { "name": "Peaches & Nectarines", "months": "Jul – Aug", "season": "summer" },
+      { "name": "Plums", "months": "Aug – Sep", "season": "autumn" }
+    ]
+  },
+  {
+    "name": "Bramble & Bee",
+    "slug": "bramble-and-bee",
+    "region": "Berries & honey",
+    "location": "Hood River, OR",
+    "tagline": "A berry patch and apiary where the rows hum all summer long.",
+    "image": "https://images.unsplash.com/photo-1466065478348-0b967011f8e0?q=75&w=1400&auto=format&fit=crop",
+    "imageAlt": "A close-up mix of fresh summer berries",
+    "seasons": ["spring", "summer"],
+    "peak": "summer",
+    "produce": ["Strawberries", "Raspberries", "Blueberries", "Wildflower honey"],
+    "inSeasonNow": true,
+    "established": 2008,
+    "stand": "U-pick Wed–Sun, 8am–6pm",
+    "practices": ["Pollinator-first", "No synthetic sprays", "Family-run"],
+    "description": [
+      "Bramble & Bee began as four rows of strawberries and twelve hives. Today the patch runs on the same idea: keep the bees happy and the berries take care of themselves.",
+      "It’s a U-pick first and foremost — bring a flat and a sun hat. The wildflower honey is pulled twice a season and sells out within days of the summer harvest."
+    ],
+    "calendar": [
+      { "name": "Strawberries", "months": "May – Jun", "season": "spring" },
+      { "name": "Raspberries", "months": "Jun – Aug", "season": "summer" },
+      { "name": "Blueberries", "months": "Jul – Aug", "season": "summer" },
+      { "name": "Wildflower honey", "months": "Aug", "season": "summer" }
+    ]
+  },
+  {
+    "name": "Mossgrove Mushrooms",
+    "slug": "mossgrove-mushrooms",
+    "region": "Foraged & cultivated fungi",
+    "location": "Olympia, WA",
+    "tagline": "Forest-foraged chanterelles and shaded laying yards of shiitake logs.",
+    "image": "https://images.unsplash.com/photo-1627264593175-96cedf3466c5?q=75&w=1400&auto=format&fit=crop",
+    "imageAlt": "Golden chanterelle mushrooms",
+    "seasons": ["autumn", "winter", "year"],
+    "peak": "autumn",
+    "produce": ["Chanterelles", "Shiitake", "Lion’s mane", "Oyster"],
+    "inSeasonNow": false,
+    "established": 2015,
+    "stand": "Market stall Sat; pre-order anytime",
+    "practices": ["Wild-foraged & cultivated", "Permit-foraged", "Compost-grown substrate"],
+    "description": [
+      "Half of Mossgrove’s harvest is cultivated under cedar shade on inoculated logs; the other half is foraged, by permit, from the wet coastal forest after the first autumn rains.",
+      "Chanterelle season is the headline act — late September through the first hard frost — but the indoor laying yards mean fresh oyster and lion’s mane are available the whole year through."
+    ],
+    "calendar": [
+      { "name": "Oyster & Lion’s mane", "months": "Year-round", "season": "year" },
+      { "name": "Shiitake", "months": "Spring & Autumn", "season": "autumn" },
+      { "name": "Chanterelles", "months": "Sep – Dec", "season": "autumn" },
+      { "name": "Winter hedgehogs", "months": "Dec – Feb", "season": "winter" }
+    ]
+  },
+  {
+    "name": "Goldfield Grainworks",
+    "slug": "goldfield-grainworks",
+    "region": "Grain, squash & roots",
+    "location": "Petaluma, CA",
+    "tagline": "Heritage grains, winter squash and beans dried on the stalk.",
+    "image": "https://images.unsplash.com/photo-1693116463167-ed60d9325894?q=75&w=1400&auto=format&fit=crop",
+    "imageAlt": "A pile of pumpkins and winter squash",
+    "seasons": ["autumn"],
+    "peak": "autumn",
+    "produce": ["Winter squash", "Sweet corn", "Heirloom beans", "Pumpkins"],
+    "inSeasonNow": false,
+    "established": 1994,
+    "stand": "Barn store open daily in autumn, 10am–5pm",
+    "practices": ["Cover-cropped", "Stone-milled on site", "Seed-saving"],
+    "description": [
+      "Goldfield is a dry-land farm that leans into the seasons rather than against them. Summers grow the corn and beans; autumn is for curing squash in the long barn and milling grain to order.",
+      "The pumpkin patch opens the first weekend of October and the heirloom flour — milled the morning you buy it — is what keeps regulars driving out from the city."
+    ],
+    "calendar": [
+      { "name": "Sweet corn", "months": "Aug – Sep", "season": "summer" },
+      { "name": "Heirloom beans", "months": "Sep – Oct", "season": "autumn" },
+      { "name": "Winter squash", "months": "Oct – Dec", "season": "autumn" },
+      { "name": "Stone-milled flour", "months": "Year-round", "season": "year" }
+    ]
+  },
+  {
+    "name": "Tidewater Greens",
+    "slug": "tidewater-greens",
+    "region": "Leafy greens & herbs",
+    "location": "Half Moon Bay, CA",
+    "tagline": "Cool-coast lettuces, chard and cutting herbs, crisp the year round.",
+    "image": "https://images.unsplash.com/photo-1522193582792-c66cf1cddd16?q=75&w=1400&auto=format&fit=crop",
+    "imageAlt": "Rows of leafy kale in a garden",
+    "seasons": ["spring", "summer", "year"],
+    "peak": "spring",
+    "produce": ["Kale", "Lettuces", "Chard", "Cooking herbs"],
+    "inSeasonNow": true,
+    "established": 2012,
+    "stand": "CSA pickup Tue & Fri; market Sat",
+    "practices": ["Certified organic", "Low-till beds", "Coastal fog-irrigated"],
+    "description": [
+      "The marine layer that frustrates beachgoers is exactly why Tidewater’s greens stay tender all summer. Cool nights and damp mornings keep the lettuces from bolting when inland farms have long given up.",
+      "It’s a tight, intensively planted few acres run on a weekly CSA. Expect a dozen kinds of leaf, a rotating cast of cooking herbs, and the sweetest spring chard you’ll find."
+    ],
+    "calendar": [
+      { "name": "Cutting lettuces", "months": "Mar – Jun", "season": "spring" },
+      { "name": "Cooking herbs", "months": "Year-round", "season": "year" },
+      { "name": "Chard & Kale", "months": "Apr – Oct", "season": "summer" },
+      { "name": "Winter hardy greens", "months": "Nov – Feb", "season": "winter" }
+    ]
+  },
+  {
+    "name": "Frostapple Orchard",
+    "slug": "frostapple-orchard",
+    "region": "Apples, pears & cider",
+    "location": "Sebastopol, CA",
+    "tagline": "Eighty heirloom apple varieties and a barrel cider room.",
+    "image": "https://images.unsplash.com/photo-1757901797529-dea7878b0919?q=75&w=1400&auto=format&fit=crop",
+    "imageAlt": "Ripe red apples hanging from a branch",
+    "seasons": ["autumn", "winter"],
+    "peak": "autumn",
+    "produce": ["Heirloom apples", "Pears", "Quince", "Cider"],
+    "inSeasonNow": false,
+    "established": 1952,
+    "stand": "Cider room open Sat–Sun, 11am–6pm",
+    "practices": ["Heirloom-preserving", "Wild-fermented cider", "Bird-friendly"],
+    "description": [
+      "Frostapple is a living library of apples — eighty-odd varieties, many of them grafted from trees you can’t buy anymore. The names alone are worth the visit: Pitmaston Pineapple, Hauer Pippin, Black Gilliflower.",
+      "Pressing starts in October and the wild-fermented cider rests in the barn through winter. The cider room pours flights on weekends once the first batch is ready."
+    ],
+    "calendar": [
+      { "name": "Early apples", "months": "Aug – Sep", "season": "summer" },
+      { "name": "Pears & Quince", "months": "Sep – Oct", "season": "autumn" },
+      { "name": "Heirloom apples", "months": "Oct – Nov", "season": "autumn" },
+      { "name": "Barrel cider", "months": "Dec – Mar", "season": "winter" }
+    ]
+  }
+]

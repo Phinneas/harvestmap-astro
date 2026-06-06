@@ -1,0 +1,140 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SeasonBadge from '../../components/SeasonBadge.astro';
+import Button from '../../components/Button.astro';
+import FarmCard from '../../components/FarmCard.astro';
+import PathLine from '../../components/illustrations/PathLine.astro';
+import Leaf from '../../components/illustrations/Leaf.astro';
+import farms from '../../data/farms.json';
+
+export function getStaticPaths() {
+  return farms.map((farm) => ({ params: { slug: farm.slug }, props: { farm } }));
+}
+
+const { farm } = Astro.props;
+const peakLabels: Record<string, string> = { spring: 'Spring', summer: 'Summer', autumn: 'Autumn', winter: 'Winter', year: 'Year-round' };
+
+const idx = farms.findIndex((f) => f.slug === farm.slug);
+const pool = farms.map((f) => f.image);
+const gallery = [pool[(idx + 1) % pool.length], pool[(idx + 2) % pool.length], pool[(idx + 3) % pool.length]];
+
+const related = farms
+  .filter((f) => f.slug !== farm.slug && f.seasons.some((s) => farm.seasons.includes(s as any)))
+  .slice(0, 3);
+---
+<BaseLayout active="farms" title={`${farm.name} · HarvestMap`} description={farm.tagline}>
+  <div class="container" style="padding-top: var(--space-6);">
+    <a href="/#directory" class="btn btn--ghost" style="margin-bottom: var(--space-4);">← All farms</a>
+
+    <!-- Hero -->
+    <header class="detail-hero">
+      <img src={farm.image} alt={farm.imageAlt} width="1400" height="800" />
+      <div class="detail-hero__content">
+        <span class="eyebrow" style="color: var(--honey);">{farm.region}</span>
+        <h1>{farm.name}</h1>
+        <div class="cluster">
+          {farm.seasons.map((s) => <SeasonBadge season={s} label={s === farm.peak ? `${peakLabels[s]} peak` : peakLabels[s]} />)}
+          <span class="card__loc" style="color: rgba(255,247,236,0.92);">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="color:var(--honey)">
+              <path d="M12 21c5-3 8-7 8-11a8 8 0 1 0-16 0c0 4 3 8 8 11Z"/><circle cx="12" cy="10" r="2.6"/>
+            </svg>
+            {farm.location}
+          </span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Body -->
+    <div class="detail-layout section--tight">
+      <div class="stack stack-6" style="gap: var(--space-7);">
+        <div class="stats-row">
+          <div class="stat"><span class="stat__num">{farm.established}</span><span class="stat__lbl">Established</span></div>
+          <div class="stat"><span class="stat__num">{farm.produce.length}</span><span class="stat__lbl">Crops in rotation</span></div>
+          <div class="stat"><span class="stat__num">{peakLabels[farm.peak]}</span><span class="stat__lbl">Peak season</span></div>
+        </div>
+
+        <div class="prose">
+          {farm.description.map((para) => <p>{para}</p>)}
+        </div>
+
+        <!-- What's in season -->
+        <section class="panel panel--feature">
+          <div class="split" style="margin-bottom: var(--space-4);">
+            <h3 style="display:flex;align-items:center;gap:var(--space-2);"><Leaf style="width:22px;height:22px;color:var(--moss);" /> What’s in season</h3>
+            {farm.inSeasonNow && <SeasonBadge season={farm.peak} label="Harvesting now" />}
+          </div>
+          <ul class="cal">
+            {farm.calendar.map((c) => (
+              <li>
+                <span class="cal__name">{c.name}</span>
+                <span class="cluster" style="gap: var(--space-3);">
+                  <span class="cal__months">{c.months}</span>
+                  <SeasonBadge season={c.season as any} />
+                </span>
+              </li>
+            ))}
+          </ul>
+        </section>
+
+        <!-- Gallery -->
+        <div class="stack stack-3">
+          <span class="eyebrow">From the farm</span>
+          <div class="gallery">
+            {gallery.map((src, i) => <img src={src} alt={`${farm.name} harvest ${i + 1}`} width="500" height="500" loading="lazy" decoding="async" />)}
+          </div>
+        </div>
+      </div>
+
+      <!-- Sidebar -->
+      <aside class="sidebar">
+        <div class="panel panel--feature">
+          <h3 style="margin-bottom: var(--space-3);">Plan a visit</h3>
+          <div class="map-mini" style="position:relative; height:150px; border-radius:var(--radius-md); overflow:clip; border:1px solid var(--line); background:linear-gradient(135deg, color-mix(in srgb, var(--moss) 30%, var(--surface)), color-mix(in srgb, var(--honey) 22%, var(--surface))); display:flex; align-items:center; justify-content:center; margin-bottom:var(--space-4);">
+            <svg viewBox="0 0 24 24" width="36" height="36" fill="none" stroke="var(--clay)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="filter:drop-shadow(var(--shadow-sm));">
+              <path d="M12 21c5-3 8-7 8-11a8 8 0 1 0-16 0c0 4 3 8 8 11Z"/><circle cx="12" cy="10" r="2.6"/>
+            </svg>
+            <span class="code-pill" style="position:absolute; bottom:8px; right:8px;">{farm.location}</span>
+          </div>
+          <ul class="cal" style="margin-bottom: var(--space-4);">
+            <li><span class="cal__name">Hours</span><span class="cal__months" style="text-align:right;max-width:60%;">{farm.stand}</span></li>
+            <li><span class="cal__name">Region</span><span class="cal__months">{farm.region}</span></li>
+          </ul>
+          <div class="stack stack-2">
+            <Button variant="primary" block href="#">Get directions</Button>
+            <Button variant="secondary" block href="#">Save to my map</Button>
+          </div>
+        </div>
+
+        <div class="panel">
+          <span class="eyebrow" style="margin-bottom: var(--space-3); display:block;">How they grow</span>
+          <ul class="list-checks">
+            {farm.practices.map((p) => (
+              <li>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 13 4 4L19 7"/></svg>
+                {p}
+              </li>
+            ))}
+          </ul>
+        </div>
+      </aside>
+    </div>
+  </div>
+
+  <div class="container" aria-hidden="true">
+    <div class="divider"><span class="divider__seed"><Leaf /></span><PathLine class="is-drawn" /><span class="divider__seed"><Leaf /></span></div>
+  </div>
+
+  {related.length > 0 && (
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Keep exploring</span>
+          <h2>More farms in season</h2>
+        </div>
+        <div class="seed-grid">
+          {related.map((f) => <FarmCard farm={f} />)}
+        </div>
+      </div>
+    </section>
+  )}
+</BaseLayout>

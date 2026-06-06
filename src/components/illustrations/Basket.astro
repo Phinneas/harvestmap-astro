@@ -1,0 +1,32 @@
+---
+interface Props { class?: string; label?: string; }
+const { class: className = '', label } = Astro.props;
+---
+<svg
+  viewBox="0 0 120 120"
+  class={`ill ill--stroke ${className}`}
+  fill="none"
+  role={label ? 'img' : undefined}
+  aria-hidden={label ? undefined : 'true'}
+  focusable="false"
+>
+  {label && <title>{label}</title>}
+  <!-- handle -->
+  <path d="M30 58 Q60 6 90 58" pathLength="1" />
+  <!-- basket body -->
+  <path d="M22 58 L30 100 Q32 109 41 109 H79 Q88 109 90 100 L98 58" pathLength="1" />
+  <!-- rim -->
+  <ellipse cx="60" cy="58" rx="40" ry="9" pathLength="1" />
+  <!-- weave -->
+  <path d="M41 61 L45 104" pathLength="1" />
+  <path d="M60 62 L60 106" pathLength="1" />
+  <path d="M79 61 L75 104" pathLength="1" />
+  <path d="M26 76 Q60 86 94 76" pathLength="1" />
+  <path d="M28 92 Q60 101 92 92" pathLength="1" />
+  <!-- produce poking out -->
+  <path d="M48 38 L48 46" pathLength="1" />
+  <path d="M70 35 L70 46" pathLength="1" />
+  <circle class="accent" cx="48" cy="48" r="10" pathLength="1" />
+  <circle class="accent--berry" cx="70" cy="46" r="11" pathLength="1" />
+  <path class="accent--moss" d="M84 40 Q93 29 101 34 Q96 45 84 45 Z" pathLength="1" />
+</svg>

@@ -1,0 +1,22 @@
+---
+interface Props { class?: string; label?: string; }
+const { class: className = '', label } = Astro.props;
+---
+<svg
+  viewBox="0 0 220 48"
+  class={`ill ill--stroke ${className}`}
+  fill="none"
+  role={label ? 'img' : undefined}
+  aria-hidden={label ? undefined : 'true'}
+  focusable="false"
+  preserveAspectRatio="xMidYMid meet"
+>
+  {label && <title>{label}</title>}
+  <!-- start seed -->
+  <circle class="accent--moss" cx="7" cy="34" r="3.5" />
+  <!-- winding dotted trail -->
+  <path d="M10 34 C44 8 74 40 108 22 C142 4 168 38 190 22" style="stroke-dasharray:1 8.5;" pathLength="1" />
+  <!-- destination pin -->
+  <path d="M199 7 C193 7 189 11 189 16.5 C189 24 199 32 199 32 C199 32 209 24 209 16.5 C209 11 205 7 199 7 Z" pathLength="1" />
+  <circle class="accent" cx="199" cy="16.5" r="3.4" />
+</svg>

@@ -1,0 +1,73 @@
+---
+import SeasonBadge from './SeasonBadge.astro';
+
+interface Farm {
+  name: string;
+  slug: string;
+  region: string;
+  location: string;
+  tagline: string;
+  image: string;
+  imageAlt: string;
+  seasons: ('spring' | 'summer' | 'autumn' | 'winter' | 'year')[];
+  peak: 'spring' | 'summer' | 'autumn' | 'winter' | 'year';
+  produce: string[];
+  inSeasonNow?: boolean;
+}
+interface Props { farm: Farm; }
+const { farm } = Astro.props;
+
+const peakLabels = { spring: 'Spring', summer: 'Summer', autumn: 'Autumn', winter: 'Winter', year: 'Year-round' };
+const produceKey = farm.produce.join(' ').toLowerCase();
+---
+<article
+  class="card"
+  data-seasons={farm.seasons.join(' ')}
+  data-name={farm.name.toLowerCase()}
+  data-produce={produceKey}
+>
+  <span class="pin-badge">
+    <SeasonBadge season={farm.peak} label={`${peakLabels[farm.peak]} peak`} />
+  </span>
+
+  <div class="card__media">
+    <img
+      class="card__img"
+      src={farm.image}
+      alt={farm.imageAlt}
+      width="600"
+      height="450"
+      loading="lazy"
+      decoding="async"
+    />
+    {farm.inSeasonNow && (
+      <div class="card__badges">
+        <SeasonBadge season={farm.peak} label="In season now" />
+      </div>
+    )}
+  </div>
+
+  <div class="card__body">
+    <span class="card__eyebrow">
+      <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M12 21c5-3 8-7 8-11a8 8 0 1 0-16 0c0 4 3 8 8 11Z"/><path d="M12 11v0"/>
+      </svg>
+      {farm.region}
+    </span>
+    <h3 class="card__title"><a href={`/farms/${farm.slug}`}>{farm.name}</a></h3>
+    <p class="card__desc">{farm.tagline}</p>
+    <div class="card__tags">
+      {farm.produce.slice(0, 4).map((p) => <span class="tag">{p}</span>)}
+    </div>
+  </div>
+
+  <div class="card__foot">
+    <span class="card__loc">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M12 21c5-3 8-7 8-11a8 8 0 1 0-16 0c0 4 3 8 8 11Z"/><circle cx="12" cy="10" r="2.6"/>
+      </svg>
+      {farm.location}
+    </span>
+    <span aria-hidden="true" style="font-weight:600;font-size:var(--fs-small);color:var(--clay-deep);">View →</span>
+  </div>
+</article>

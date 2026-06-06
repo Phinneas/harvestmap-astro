@@ -1,0 +1,22 @@
+---
+interface Props { class?: string; label?: string; }
+const { class: className = '', label } = Astro.props;
+---
+<svg
+  viewBox="0 0 80 80"
+  class={`ill ill--stroke ${className}`}
+  fill="none"
+  role={label ? 'img' : undefined}
+  aria-hidden={label ? undefined : 'true'}
+  focusable="false"
+>
+  {label && <title>{label}</title>}
+  <path class="accent--moss" d="M40 8 C18 22 14 52 30 72 C50 60 66 34 54 14 C50 9 45 7 40 8 Z" pathLength="1" />
+  <path d="M40 8 C18 22 14 52 30 72 C50 60 66 34 54 14 C50 9 45 7 40 8 Z" pathLength="1" />
+  <path d="M30 70 C40 46 46 28 50 14" pathLength="1" />
+  <path d="M33 56 L23 58" pathLength="1" />
+  <path d="M37 45 L27 44" pathLength="1" />
+  <path d="M42 34 L33 31" pathLength="1" />
+  <path d="M38 62 L48 57" pathLength="1" />
+  <path d="M30 70 L27 77" pathLength="1" />
+</svg>

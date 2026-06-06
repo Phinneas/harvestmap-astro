@@ -1,0 +1,237 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Button from '../components/Button.astro';
+import SeasonBadge from '../components/SeasonBadge.astro';
+import SearchBar from '../components/SearchBar.astro';
+import FarmCard from '../components/FarmCard.astro';
+import EmptyState from '../components/EmptyState.astro';
+import SeasonalBanner from '../components/SeasonalBanner.astro';
+import Basket from '../components/illustrations/Basket.astro';
+import PruningShears from '../components/illustrations/PruningShears.astro';
+import PeachCrossSection from '../components/illustrations/PeachCrossSection.astro';
+import PathLine from '../components/illustrations/PathLine.astro';
+import Leaf from '../components/illustrations/Leaf.astro';
+import BasketTexture from '../components/illustrations/BasketTexture.astro';
+import Mushrooms from '../components/illustrations/Mushrooms.astro';
+import Foragers from '../components/illustrations/Foragers.astro';
+import Birds from '../components/illustrations/Birds.astro';
+import SwayingTrees from '../components/illustrations/SwayingTrees.astro';
+import farms from '../data/farms.json';
+
+const palette = [
+  { n: 'Cream', h: '#FBF3E7', note: 'Background', dark: true },
+  { n: 'Clay', h: '#C2602C', note: 'Primary' },
+  { n: 'Peach', h: '#F2A65A', note: 'Accent' },
+  { n: 'Honey', h: '#E6B450', note: 'Highlight' },
+  { n: 'Orchard', h: '#34503A', note: 'Deep green' },
+  { n: 'Moss', h: '#8A9A5B', note: 'Olive' },
+  { n: 'Berry', h: '#8C3A52', note: 'Plum' },
+  { n: 'Ink', h: '#2E2419', note: 'Text' },
+  { n: 'Bark', h: '#6B5847', note: 'Muted text' },
+];
+
+const type = [
+  { label: 'Display', token: '--fs-display', sample: 'Heirloom & handpicked', style: 'font-family:var(--font-display);font-size:var(--fs-display);line-height:1.03;letter-spacing:-.02em;font-weight:500;' },
+  { label: 'Heading 1', token: '--fs-h1', sample: 'Farms harvesting near you', style: 'font-family:var(--font-display);font-size:var(--fs-h1);line-height:1.05;font-weight:500;' },
+  { label: 'Heading 2', token: '--fs-h2', sample: 'What’s ripe, by season', style: 'font-family:var(--font-display);font-size:var(--fs-h2);font-weight:500;' },
+  { label: 'Lead', token: '--fs-lead', sample: 'Eat with the calendar — here’s the rhythm of the year.', style: 'font-family:var(--font-body);font-size:var(--fs-lead);color:var(--text-muted);' },
+  { label: 'Body', token: '--fs-body', sample: 'Picked ripe, into padded trays, the morning you visit.', style: 'font-family:var(--font-body);font-size:var(--fs-body);' },
+  { label: 'Label', token: '--fs-label', sample: 'IN SEASON NOW', style: 'font-family:var(--font-body);font-size:var(--fs-label);text-transform:uppercase;letter-spacing:.09em;font-weight:600;color:var(--clay);' },
+];
+
+const spacing = [['1', '4'], ['2', '8'], ['3', '12'], ['4', '16'], ['5', '24'], ['6', '32'], ['7', '48'], ['8', '64'], ['9', '96'], ['10', '128']];
+const radii = [['sm', '6px'], ['md', '12px'], ['lg', '20px'], ['xl', '32px'], ['pill', '999px']];
+const shadows = ['xs', 'sm', 'md', 'lg', 'xl'];
+const principles = [
+  { t: 'Whimsy earns its place', d: 'Rotation and motion are subtle and capped. If a flourish doesn’t add delight or clarity, it’s cut.' },
+  { t: 'One hand drew everything', d: 'All line art shares a 2px stroke, round caps and a single ink colour, so it reads as one illustrator.' },
+  { t: 'Warm, never candied', d: 'The palette is sun-ripened. We reach for tints and washes before pure, saturated hues.' },
+  { t: 'Calm down on small screens', d: 'Card rotation and parallax switch off below 768px. Content comes first; whimsy second.' },
+  { t: 'Motion is a guest', d: 'Every animation yields completely to prefers-reduced-motion. Nothing essential depends on movement.' },
+];
+---
+<BaseLayout active="style" title="Design system · HarvestMap" description="The living style guide for the HarvestMap design system — colour, type, components and the Scattered Seed whimsy rules.">
+  <div class="container" style="padding-top: var(--space-7);">
+    <span class="eyebrow"><Basket class="is-drawn" style="width:20px;height:20px;" /> The HarvestMap design system</span>
+    <h1 style="margin: var(--space-3) 0; max-width: 18ch;">A warm, hand-drawn system for finding what’s ripe.</h1>
+    <p class="lead maxw-prose">Everything below is rendered from the same tokens and components the site uses — colour, type, spacing, the component library, the hand-drawn illustrations and the Scattered Seed whimsy rules. Toggle dark mode from the nav to see the aliases shift.</p>
+  </div>
+
+  <!-- Principles -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head"><span class="eyebrow">Design principles</span><h2>Five rules that keep whimsy from tipping into cliché</h2></div>
+      <div class="spec-grid">
+        {principles.map((p, i) => (
+          <div class="panel">
+            <div class="stat__num" style="font-size:1.4rem;">{String(i + 1).padStart(2, '0')}</div>
+            <h3 style="font-size:1.2rem;margin:var(--space-2) 0;">{p.t}</h3>
+            <p class="muted" style="font-size:var(--fs-small);">{p.d}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Colour -->
+  <section class="section" style="background:var(--surface-sunk);">
+    <div class="container">
+      <div class="section-head"><span class="eyebrow">Colour</span><h2>Seven harvest hues + two neutrals</h2><p class="lead">Documented at their light-mode values. Each has tint and dark-mode aliases in the tokens.</p></div>
+      <div class="swatch-grid">
+        {palette.map((c) => (
+          <div class="swatch">
+            <div class="swatch__chip" style={`background:${c.h};${c.dark ? 'box-shadow: inset 0 0 0 1px var(--line);' : ''}`}></div>
+            <div class="swatch__meta"><span class="swatch__name">{c.n}</span><span class="swatch__hex">{c.h} · {c.note}</span></div>
+          </div>
+        ))}
+      </div>
+      <div class="stack stack-3" style="margin-top: var(--space-6);">
+        <span class="eyebrow">Season → colour mapping</span>
+        <div class="cluster">
+          <SeasonBadge season="spring" /><SeasonBadge season="summer" /><SeasonBadge season="autumn" /><SeasonBadge season="winter" /><SeasonBadge season="year" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Type -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head"><span class="eyebrow">Typography</span><h2>Sentient, Figtree &amp; Gambarino</h2></div>
+      <div class="spec-grid" style="margin-bottom: var(--space-6);">
+        <div class="specimen"><span class="specimen__label">Sentient · Display</span><span style="font-family:var(--font-display);font-size:2rem;font-weight:500;">Heirloom &amp; handpicked</span><span class="muted" style="font-size:var(--fs-small);">Headings &amp; titles · weights 400 / 500 / 700</span></div>
+        <div class="specimen"><span class="specimen__label">Figtree · Body &amp; UI</span><span style="font-family:var(--font-body);font-size:1.05rem;">Picked ripe the morning you visit, into padded trays.</span><span class="muted" style="font-size:var(--fs-small);">Body, labels, buttons · 400–700</span></div>
+        <div class="specimen" style="border-color: var(--clay);"><span class="specimen__label" style="color:var(--clay);">Gambarino · Whimsy only</span><span class="whimsy" style="font-size:2rem;">ripe &amp; ready</span><span class="muted" style="font-size:var(--fs-small);">Accents &amp; empty states — never body copy.</span></div>
+      </div>
+      <div class="panel stack stack-4">
+        {type.map((t) => (
+          <div class="scale-row" style="align-items:baseline;">
+            <code class="code-pill">{t.token}</code>
+            <span style={t.style}>{t.sample}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Spacing / radius / shadow -->
+  <section class="section" style="background:var(--surface-sunk);">
+    <div class="container stack stack-7" style="gap: var(--space-8);">
+      <div>
+        <div class="section-head"><span class="eyebrow">Spacing</span><h2>An 8px base unit</h2></div>
+        <div class="panel stack stack-3">
+          {spacing.map(([n, px]) => (
+            <div class="scale-row"><code>space-{n}</code><div class="scale-bar" style={`width:${px}px;`}></div><span class="muted" style="font-size:var(--fs-small);">{px}px</span></div>
+          ))}
+        </div>
+      </div>
+      <div class="split" style="align-items:flex-start; gap: var(--space-7);">
+        <div style="flex:1; min-width:260px;">
+          <div class="section-head"><span class="eyebrow">Radius</span><h2>Five corner tokens</h2></div>
+          <div class="cluster">
+            {radii.map(([n, v]) => (
+              <div class="tile" style="align-items:center;"><div class="tile__demo"><div class="radius-demo" style={`border-radius:${v};${n === 'pill' ? 'width:120px;' : ''}`}></div></div><span class="code-pill">radius-{n}</span></div>
+            ))}
+          </div>
+        </div>
+        <div style="flex:1; min-width:260px;">
+          <div class="section-head"><span class="eyebrow">Elevation</span><h2>Five warm shadows</h2></div>
+          <div class="cluster">
+            {shadows.map((s) => (
+              <div class="tile" style="align-items:center;"><div class="tile__demo"><div class="shadow-demo" style={`box-shadow:var(--shadow-${s});`}></div></div><span class="code-pill">shadow-{s}</span></div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Buttons + badges -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head"><span class="eyebrow">Components</span><h2>Buttons &amp; badges</h2></div>
+      <div class="panel stack stack-5">
+        <div class="cluster"><Button variant="primary">Primary</Button><Button variant="secondary">Secondary</Button><Button variant="ghost">Ghost →</Button></div>
+        <div class="cluster"><Button variant="primary" size="lg">Large primary</Button><Button variant="secondary" size="lg">Large secondary</Button></div>
+        <div class="cluster"><SeasonBadge season="spring" /><SeasonBadge season="summer" /><SeasonBadge season="autumn" /><SeasonBadge season="winter" /><SeasonBadge season="year" /></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Search + card + scattered seed -->
+  <section class="section" style="background:var(--surface-sunk);">
+    <div class="container stack stack-7">
+      <div>
+        <div class="section-head"><span class="eyebrow">Search &amp; filters</span><h2>Find a farm</h2></div>
+        <div class="panel" style="max-width: 560px;"><SearchBar id="sg-search" /></div>
+      </div>
+      <div>
+        <div class="section-head"><span class="eyebrow">Farm card · Scattered Seed</span><h2>Cards sit like hand-dropped seeds</h2><p class="lead">Each card takes a small, capped rotation; hover straightens and lifts it, and the season badge pins over the top edge. Rotation switches off on mobile.</p></div>
+        <div class="seed-grid">
+          {farms.slice(0, 3).map((f) => <FarmCard farm={f} />)}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Banner + empty state -->
+  <section class="section">
+    <div class="container stack stack-7">
+      <div>
+        <div class="section-head"><span class="eyebrow">Seasonal banner</span><h2>Organic blob + a gliding flock</h2></div>
+        <SeasonalBanner />
+      </div>
+      <div>
+        <div class="section-head"><span class="eyebrow">Empty state</span><h2>Whimsy when there’s nothing to show</h2></div>
+        <EmptyState ctaHref="/#directory" ctaLabel="Back to all farms" />
+      </div>
+    </div>
+  </section>
+
+  <!-- Illustration library -->
+  <section class="section" style="background:var(--surface-sunk); position:relative; overflow:hidden;">
+    <div class="container">
+      <div class="section-head"><span class="eyebrow">Iconography &amp; illustration</span><h2>The hand-drawn library</h2><p class="lead">Ten line illustrations on a shared stroke. The last four are animated — they self-draw on load and keep a gentle idle motion (all paused under reduced-motion).</p></div>
+      <div class="spec-grid">
+        <div class="tile" style="align-items:center;"><div class="tile__demo"><Basket class="is-drawn" style="width:80px;color:var(--clay);" /></div><span class="code-pill">Basket</span></div>
+        <div class="tile" style="align-items:center;"><div class="tile__demo"><PruningShears class="is-drawn" style="width:80px;color:var(--orchard);" /></div><span class="code-pill">Pruning shears</span></div>
+        <div class="tile" style="align-items:center;"><div class="tile__demo"><PeachCrossSection class="is-drawn" style="width:74px;color:var(--clay);" /></div><span class="code-pill">Peach cross-section</span></div>
+        <div class="tile" style="align-items:center;"><div class="tile__demo"><Leaf class="is-drawn" style="width:60px;color:var(--moss);" /></div><span class="code-pill">Leaf</span></div>
+        <div class="tile" style="align-items:center;"><div class="tile__demo" style="width:100%;"><PathLine class="is-drawn" style="width:100%;color:var(--clay);" /></div><span class="code-pill">Path line</span></div>
+        <div class="tile" style="align-items:center;"><div class="tile__demo" style="width:100%;"><BasketTexture style="width:100%;height:40px;color:var(--bark);opacity:.5;" /></div><span class="code-pill">Basket texture</span></div>
+        <div class="tile" style="align-items:center;"><div class="tile__demo"><Mushrooms class="is-drawn" style="width:96px;color:var(--orchard);" /></div><span class="code-pill">Mushrooms · animated</span></div>
+        <div class="tile" style="align-items:center;"><div class="tile__demo"><Foragers class="is-drawn" style="width:140px;color:var(--ink);" /></div><span class="code-pill">Foragers · animated</span></div>
+        <div class="tile" style="align-items:center;"><div class="tile__demo"><Birds style="width:150px;color:var(--orchard);" /></div><span class="code-pill">Birds · animated</span></div>
+      </div>
+      <div class="tile" style="margin-top: var(--space-5);">
+        <span class="code-pill" style="align-self:flex-start;">Swaying trees · animated</span>
+        <div class="tile__demo" style="width:100%;min-height:auto;"><SwayingTrees style="width:100%;color:var(--orchard);" /></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Motion + a11y -->
+  <section class="section">
+    <div class="container split" style="align-items:flex-start; gap: var(--space-7);">
+      <div class="panel" style="flex:1; min-width:280px;">
+        <span class="eyebrow" style="display:block;margin-bottom:var(--space-3);">Motion</span>
+        <ul class="cal">
+          <li><span class="cal__name">Self-drawing reveal</span><span class="cal__months">1.4s · ease-out</span></li>
+          <li><span class="cal__name">Trees sway</span><span class="cal__months">6s loop</span></li>
+          <li><span class="cal__name">Birds flap</span><span class="cal__months">1.6s loop</span></li>
+          <li><span class="cal__name">Blob drift</span><span class="cal__months">22s alternate</span></li>
+          <li><span class="cal__name">Card hover</span><span class="cal__months">280ms · organic ease</span></li>
+        </ul>
+      </div>
+      <div class="panel" style="flex:1; min-width:280px;">
+        <span class="eyebrow" style="display:block;margin-bottom:var(--space-3);">Accessibility</span>
+        <ul class="list-checks">
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 13 4 4L19 7"/></svg> Body text meets WCAG AA on cream and on dark.</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 13 4 4L19 7"/></svg> Visible 3px focus rings on every interactive element.</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 13 4 4L19 7"/></svg> All motion and rotation removed under prefers-reduced-motion.</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 13 4 4L19 7"/></svg> Illustrations are aria-hidden unless given a label.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

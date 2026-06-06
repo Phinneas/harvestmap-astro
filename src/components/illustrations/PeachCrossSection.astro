@@ -1,0 +1,30 @@
+---
+interface Props { class?: string; label?: string; }
+const { class: className = '', label } = Astro.props;
+---
+<svg
+  viewBox="0 0 120 120"
+  class={`ill ill--stroke ${className}`}
+  fill="none"
+  role={label ? 'img' : undefined}
+  aria-hidden={label ? undefined : 'true'}
+  focusable="false"
+>
+  {label && <title>{label}</title>}
+  <!-- flesh fill -->
+  <path class="accent" d="M60 20 C32 20 17 45 19 69 C21 97 43 108 60 108 C77 108 99 97 101 69 C103 45 88 20 60 20 Z" pathLength="1" />
+  <!-- flesh outline -->
+  <path d="M60 20 C32 20 17 45 19 69 C21 97 43 108 60 108 C77 108 99 97 101 69 C103 45 88 20 60 20 Z" pathLength="1" />
+  <!-- cleft -->
+  <path d="M60 20 C56 35 64 35 60 50" pathLength="1" />
+  <!-- pit -->
+  <ellipse cx="60" cy="73" rx="17" ry="23" pathLength="1" />
+  <path d="M53 60 C58 70 58 82 54 90" pathLength="1" />
+  <path d="M67 60 C62 70 62 82 66 90" pathLength="1" />
+  <path d="M60 56 L60 90" pathLength="1" />
+  <!-- skin highlight -->
+  <path d="M30 44 C26 52 25 60 27 68" pathLength="1" />
+  <!-- stem + leaf -->
+  <path d="M60 20 L60 11" pathLength="1" />
+  <path class="accent--moss" d="M60 12 Q75 5 86 12 Q74 23 60 15 Z" pathLength="1" />
+</svg>

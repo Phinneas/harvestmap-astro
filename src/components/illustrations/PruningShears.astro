@@ -1,0 +1,26 @@
+---
+interface Props { class?: string; label?: string; }
+const { class: className = '', label } = Astro.props;
+---
+<svg
+  viewBox="0 0 120 120"
+  class={`ill ill--stroke ${className}`}
+  fill="none"
+  role={label ? 'img' : undefined}
+  aria-hidden={label ? undefined : 'true'}
+  focusable="false"
+>
+  {label && <title>{label}</title>}
+  <!-- cutting blade (sickle) -->
+  <path d="M60 58 C48 44 34 37 21 34 C31 30 43 31 52 39" pathLength="1" />
+  <!-- counter jaw -->
+  <path d="M61 60 C50 54 39 52 28 53" pathLength="1" />
+  <!-- handles -->
+  <path d="M60 57 L91 87" pathLength="1" />
+  <path d="M56 61 L80 96" pathLength="1" />
+  <!-- handle loops -->
+  <ellipse cx="97" cy="93" rx="8" ry="10.5" transform="rotate(-40 97 93)" pathLength="1" />
+  <ellipse cx="85" cy="103" rx="8" ry="10.5" transform="rotate(-40 85 103)" pathLength="1" />
+  <!-- pivot bolt -->
+  <circle class="accent--honey" cx="59" cy="58" r="4.5" pathLength="1" />
+</svg>

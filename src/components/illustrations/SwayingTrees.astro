@@ -1,0 +1,68 @@
+---
+/* Animated: a grove whose canopies sway in the wind. Trunks stay rooted.
+   Full-width band — stroke set on the root so <use> instances inherit it. */
+interface Props { class?: string; }
+const { class: className = '' } = Astro.props;
+---
+<svg
+  viewBox="0 0 1200 220"
+  class={`ill ${className}`}
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  aria-hidden="true"
+  focusable="false"
+  preserveAspectRatio="xMidYMax meet"
+>
+  <defs>
+    <g id="hm-trunk">
+      <path d="M-6 0 C-5 -24 -4 -38 -2 -50 M6 0 C5 -24 4 -38 2 -50 M-6 0 Q0 -3 6 0 M0 -38 L-9 -47 M0 -32 L8 -41" />
+    </g>
+    <g id="hm-canopy">
+      <path d="M-44 -70 C-54 -88 -40 -108 -22 -107 C-15 -122 13 -122 19 -107 C41 -110 51 -90 41 -70 C47 -57 28 -47 12 -53 C0 -46 -26 -47 -30 -59 C-40 -57 -47 -63 -44 -70 Z" />
+      <path d="M-26 -78 Q-10 -66 6 -76" />
+      <path d="M2 -96 Q16 -88 28 -96" />
+    </g>
+  </defs>
+
+  <!-- horizon -->
+  <path d="M0 200 Q300 190 600 196 T1200 196" />
+  <path d="M0 210 Q360 202 720 208 T1200 206" opacity="0.6" />
+
+  <!-- grass tufts -->
+  <path d="M250 200 C248 192 246 189 244 185 M256 200 C257 191 258 188 260 184" opacity="0.8" />
+  <path d="M720 206 C718 198 716 195 714 191 M727 206 C728 197 729 194 731 190" opacity="0.8" />
+  <path d="M980 202 C978 195 976 192 974 188 M986 202 C987 195 988 192 990 188" opacity="0.8" />
+
+  <!-- trees: outer <g> places & scales; inner .sway rotates the canopy -->
+  <g transform="translate(150 200) scale(0.9)">
+    <use href="#hm-trunk" />
+    <g class="sway"><use href="#hm-canopy" /></g>
+  </g>
+  <g transform="translate(360 200) scale(1.15)">
+    <use href="#hm-trunk" />
+    <g class="sway sway-2"><use href="#hm-canopy" /></g>
+  </g>
+  <g transform="translate(600 200) scale(1.45)">
+    <use href="#hm-trunk" />
+    <g class="sway sway-3"><use href="#hm-canopy" /></g>
+  </g>
+  <g transform="translate(860 200) scale(1.05)">
+    <use href="#hm-trunk" />
+    <g class="sway"><use href="#hm-canopy" /></g>
+  </g>
+  <g transform="translate(1060 200) scale(0.8)">
+    <use href="#hm-trunk" />
+    <g class="sway sway-2"><use href="#hm-canopy" /></g>
+  </g>
+
+  <!-- bushes -->
+  <g transform="translate(480 214) scale(0.5)">
+    <g class="sway sway--soft"><use href="#hm-canopy" /></g>
+  </g>
+  <g transform="translate(980 216) scale(0.42)">
+    <g class="sway sway--breeze"><use href="#hm-canopy" /></g>
+  </g>
+</svg>

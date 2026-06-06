@@ -1,0 +1,41 @@
+---
+import Button from './Button.astro';
+import Birds from './illustrations/Birds.astro';
+
+interface Props {
+  eyebrow?: string;
+  text?: string;
+  primaryLabel?: string;
+  primaryHref?: string;
+  secondaryLabel?: string;
+  secondaryHref?: string;
+}
+const {
+  eyebrow = 'Late spring · your region',
+  text = 'The stone fruit is blushing and the first berries are in. Forty-one growers near you are harvesting this week.',
+  primaryLabel = 'Browse this week’s harvest',
+  primaryHref = '#directory',
+  secondaryLabel = 'See the season guide',
+  secondaryHref = '#seasons',
+} = Astro.props;
+---
+<section class="banner" aria-labelledby="banner-title">
+  <span class="banner__blob" aria-hidden="true"></span>
+  <span class="banner__blob banner__blob--2" aria-hidden="true"></span>
+  <Birds class="banner__birds flock" />
+
+  <div class="banner__content">
+    <span class="eyebrow">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+        <circle cx="12" cy="12" r="4.5"/><path d="M12 2.5v2M12 19.5v2M4 12H2M22 12h-2M5 5l1.5 1.5M17.5 17.5 19 19M19 5l-1.5 1.5M6.5 17.5 5 19"/>
+      </svg>
+      {eyebrow}
+    </span>
+    <h2 id="banner-title">What’s <span class="whimsy">ripe &amp; ready</span> near you</h2>
+    <p class="lead">{text}</p>
+    <div class="cluster">
+      <Button href={primaryHref} variant="primary" size="lg">{primaryLabel}</Button>
+      <Button href={secondaryHref} variant="ghost" size="lg" style="color:var(--text-invert);">{secondaryLabel} →</Button>
+    </div>
+  </div>
+</section>

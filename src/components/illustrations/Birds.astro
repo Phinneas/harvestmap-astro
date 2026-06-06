@@ -1,0 +1,34 @@
+---
+/* Animated: a small flock glides across while wings flap.
+   Place inside a positioned parent; the .flock class drives the drift. */
+interface Props { class?: string; label?: string; }
+const { class: className = '', label } = Astro.props;
+---
+<svg
+  viewBox="0 0 240 120"
+  class={`ill ill--stroke ${className}`}
+  fill="none"
+  role={label ? 'img' : undefined}
+  aria-hidden={label ? undefined : 'true'}
+  focusable="false"
+>
+  {label && <title>{label}</title>}
+  <!-- bird 1 (lead) -->
+  <g class="bird">
+    <g class="bird-wing-l"><path d="M60 41 C50 31 40 31 30 37" pathLength="1" /></g>
+    <g class="bird-wing-r"><path d="M60 41 C70 31 80 31 90 37" pathLength="1" /></g>
+    <ellipse cx="60" cy="42" rx="5" ry="3" pathLength="1" />
+  </g>
+  <!-- bird 2 -->
+  <g class="bird bird-2">
+    <g class="bird-wing-l"><path d="M132 66 C124 58 116 58 108 63" pathLength="1" /></g>
+    <g class="bird-wing-r"><path d="M132 66 C140 58 148 58 156 63" pathLength="1" /></g>
+    <ellipse cx="132" cy="67" rx="4" ry="2.5" pathLength="1" />
+  </g>
+  <!-- bird 3 -->
+  <g class="bird bird-3">
+    <g class="bird-wing-l"><path d="M188 34 C182 28 176 28 170 32" pathLength="1" /></g>
+    <g class="bird-wing-r"><path d="M188 34 C194 28 200 28 206 32" pathLength="1" /></g>
+    <ellipse cx="188" cy="35" rx="3.4" ry="2.1" pathLength="1" />
+  </g>
+</svg>

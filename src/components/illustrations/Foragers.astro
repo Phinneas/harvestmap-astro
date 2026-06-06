@@ -1,0 +1,62 @@
+---
+/* Animated: two figures gather — they shift their weight (amble) and one
+   reaches up to pick (forager-arm). Add "is-drawn" to self-draw on load. */
+interface Props { class?: string; label?: string; }
+const { class: className = '', label } = Astro.props;
+---
+<svg
+  viewBox="0 0 180 130"
+  class={`ill ill--stroke ${className}`}
+  fill="none"
+  role={label ? 'img' : undefined}
+  aria-hidden={label ? undefined : 'true'}
+  focusable="false"
+>
+  {label && <title>{label}</title>}
+  <!-- ground -->
+  <path d="M8 116 Q90 109 172 116" pathLength="1" />
+
+  <!-- fruiting branch the forager reaches toward -->
+  <path d="M88 18 C84 26 82 31 81 36" pathLength="1" />
+  <circle class="accent" cx="86" cy="20" r="4" pathLength="1" />
+  <circle class="accent--berry" cx="78" cy="25" r="3.6" pathLength="1" />
+  <path class="accent--moss" d="M92 24 Q99 18 105 22 Q99 30 92 26 Z" pathLength="1" />
+
+  <!-- Forager A: sun hat, basket, reaching arm -->
+  <g class="amble">
+    <circle cx="55" cy="42" r="8" pathLength="1" />
+    <path d="M43 40 Q55 47 67 40" pathLength="1" />
+    <path d="M46 39 Q55 27 64 39" pathLength="1" />
+    <path d="M55 50 C54 62 53 74 57 86" pathLength="1" />
+    <path d="M57 86 L51 112" pathLength="1" />
+    <path d="M57 86 L65 110" pathLength="1" />
+    <!-- basket-holding arm -->
+    <path d="M55 60 C47 64 41 72 39 80" pathLength="1" />
+    <!-- basket -->
+    <path d="M30 81 H50 L47 96 Q46 100 42 100 H38 Q34 100 33 96 Z" pathLength="1" />
+    <ellipse cx="40" cy="81" rx="10" ry="3" pathLength="1" />
+    <circle class="accent--honey" cx="40" cy="80" r="3.6" pathLength="1" />
+    <!-- reaching arm -->
+    <g class="forager-arm">
+      <path d="M55 54 C64 49 72 43 79 37" pathLength="1" />
+    </g>
+  </g>
+
+  <!-- Forager B: standing, lifting produce -->
+  <g class="amble" style="animation-delay:-2.6s">
+    <circle cx="131" cy="46" r="7.5" pathLength="1" />
+    <path d="M126 40 Q131 36 136 40" pathLength="1" />
+    <path d="M131 53 C130 64 130 75 131 86" pathLength="1" />
+    <path d="M131 86 L125 110" pathLength="1" />
+    <path d="M131 86 L137 110" pathLength="1" />
+    <path d="M131 62 C123 60 118 58 114 53" pathLength="1" />
+    <path d="M131 62 C140 60 147 55 151 49" pathLength="1" />
+    <circle class="accent" cx="153" cy="47" r="5" pathLength="1" />
+  </g>
+
+  <!-- crate on the ground -->
+  <path d="M142 104 H164 V115 H142 Z" pathLength="1" />
+  <path d="M142 109 H164" pathLength="1" />
+  <circle class="accent--berry" cx="149" cy="103" r="3" pathLength="1" />
+  <circle class="accent--honey" cx="157" cy="103" r="3" pathLength="1" />
+</svg>

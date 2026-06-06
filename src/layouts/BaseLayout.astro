@@ -1,0 +1,87 @@
+---
+import '../styles/global.css';
+import Nav from '../components/Nav.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+  active?: 'home' | 'farms' | 'seasons' | 'style' | '';
+}
+
+const {
+  title = 'HarvestMap — Find what’s ripe near you',
+  description = 'A seasonal directory of small farms, orchards and growers. Discover who is harvesting what, right now, in your region.',
+  active = '',
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="theme-color" content="#FBF3E7" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+
+    <!-- No-flash theme: set before paint -->
+    <script is:inline>
+      (function () {
+        try {
+          var t = localStorage.getItem('hm-theme');
+          if (!t) t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          document.documentElement.dataset.theme = t;
+        } catch (e) {}
+      })();
+    </script>
+
+    <!-- Fonts: Figtree (Google) · Sentient + Gambarino (Fontshare) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://api.fontshare.com" />
+    <link rel="preconnect" href="https://cdn.fontshare.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,400;0,500;0,600;0,700;1,500&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://api.fontshare.com/v2/css?f[]=sentient@400,500,700&f[]=gambarino@400&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <Nav active={active} />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer />
+
+    <!-- Theme toggle + mobile nav: tiny vanilla helpers -->
+    <script is:inline>
+      document.addEventListener('click', function (e) {
+        var t = e.target.closest('[data-theme-toggle]');
+        if (t) {
+          var next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+          document.documentElement.dataset.theme = next;
+          try { localStorage.setItem('hm-theme', next); } catch (err) {}
+          t.setAttribute('aria-pressed', String(next === 'dark'));
+        }
+        var nt = e.target.closest('[data-nav-toggle]');
+        if (nt) {
+          var links = document.getElementById('nav-links');
+          if (links) {
+            var open = links.toggleAttribute('data-open');
+            nt.setAttribute('aria-expanded', String(open));
+          }
+        }
+      });
+    </script>
+  </body>
+</html>

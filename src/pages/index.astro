@@ -1,0 +1,205 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SeasonalBanner from '../components/SeasonalBanner.astro';
+import SearchBar from '../components/SearchBar.astro';
+import FarmCard from '../components/FarmCard.astro';
+import EmptyState from '../components/EmptyState.astro';
+import Button from '../components/Button.astro';
+import PathLine from '../components/illustrations/PathLine.astro';
+import Leaf from '../components/illustrations/Leaf.astro';
+import PeachCrossSection from '../components/illustrations/PeachCrossSection.astro';
+import Basket from '../components/illustrations/Basket.astro';
+import PruningShears from '../components/illustrations/PruningShears.astro';
+import Foragers from '../components/illustrations/Foragers.astro';
+import Mushrooms from '../components/illustrations/Mushrooms.astro';
+import farms from '../data/farms.json';
+
+const total = farms.length;
+const inSeason = farms.filter((f) => f.inSeasonNow).length;
+const countFor = (k: string) => farms.filter((f) => f.seasons.includes(k as any)).length;
+---
+<BaseLayout active="home">
+  <!-- Hero -->
+  <div class="container" style="padding-top: var(--space-7);">
+    <SeasonalBanner
+      eyebrow="Early June · Northern California"
+      text={`The stone fruit is blushing and the first berries are in. ${inSeason} of ${total} growers in your region are harvesting this week.`}
+    />
+    <div class="cluster" style="justify-content:center; gap:var(--space-6); margin-top:var(--space-5); color:var(--text-muted); font-size:var(--fs-small);">
+      <span><b style="color:var(--clay-deep)">120+</b> farms listed</span>
+      <span aria-hidden="true">·</span>
+      <span><b style="color:var(--clay-deep)">6</b> regions</span>
+      <span aria-hidden="true">·</span>
+      <span>Harvest updated <b style="color:var(--clay-deep)">weekly</b></span>
+    </div>
+  </div>
+
+  <!-- Directory -->
+  <section class="section" id="directory">
+    <div class="container">
+      <div class="section-head split">
+        <div class="stack stack-3" style="max-width:46ch;">
+          <span class="eyebrow">
+            <Leaf class="is-drawn" style="width:18px;height:18px;" /> Browse the directory
+          </span>
+          <h2>Farms harvesting near you</h2>
+          <p class="lead">{inSeason} of {total} growers are in season right now. Filter by season, or search for whatever you’re craving.</p>
+        </div>
+        <div style="flex:1; min-width:min(100%, 340px); max-width:480px;">
+          <SearchBar />
+        </div>
+      </div>
+
+      <div class="seed-grid stagger" id="farm-grid" style="margin-top: var(--space-7);">
+        {farms.map((f) => <FarmCard farm={f} />)}
+      </div>
+
+      <EmptyState id="farm-empty" class="is-hidden" />
+    </div>
+  </section>
+
+  <!-- Hand-drawn divider -->
+  <div class="container" aria-hidden="true">
+    <div class="divider">
+      <span class="divider__seed"><Leaf /></span>
+      <PathLine class="is-drawn" />
+      <span class="divider__seed"><Leaf /></span>
+    </div>
+  </div>
+
+  <!-- Season guide -->
+  <section class="section" id="seasons">
+    <div class="container relative">
+      <div class="section-head">
+        <span class="eyebrow">The season guide</span>
+        <h2>What’s ripe, by season</h2>
+        <p class="lead">Eat with the calendar. Here’s the rhythm of the year across our growers — tap a season to find who’s harvesting.</p>
+      </div>
+
+      <div class="season-grid">
+        <!-- Spring -->
+        <article class="panel season-panel" style="--accent: var(--season-spring);">
+          <div class="season-panel__head">
+            <h3><span class="badge__dot" style="background:var(--accent)"></span> Spring</h3>
+            <Leaf class="deco-ill" />
+          </div>
+          <ul>
+            <li><span>Asparagus</span><span class="mo">Mar – May</span></li>
+            <li><span>Cutting lettuces</span><span class="mo">Apr – Jun</span></li>
+            <li><span>Strawberries</span><span class="mo">May – Jun</span></li>
+            <li><span>Peas &amp; herbs</span><span class="mo">Apr – Jun</span></li>
+          </ul>
+          <Button variant="ghost" href="#directory">{countFor('spring')} farms in spring →</Button>
+        </article>
+
+        <!-- Summer -->
+        <article class="panel season-panel" style="--accent: var(--season-summer);">
+          <div class="season-panel__head">
+            <h3><span class="badge__dot" style="background:var(--accent)"></span> Summer</h3>
+            <PeachCrossSection class="deco-ill" />
+          </div>
+          <ul>
+            <li><span>Apricots</span><span class="mo">June</span></li>
+            <li><span>Peaches &amp; nectarines</span><span class="mo">Jul – Aug</span></li>
+            <li><span>Berries</span><span class="mo">Jun – Aug</span></li>
+            <li><span>Sweet corn</span><span class="mo">August</span></li>
+          </ul>
+          <Button variant="ghost" href="#directory">{countFor('summer')} farms in summer →</Button>
+        </article>
+
+        <!-- Autumn -->
+        <article class="panel season-panel" style="--accent: var(--season-autumn);">
+          <div class="season-panel__head">
+            <h3><span class="badge__dot" style="background:var(--accent)"></span> Autumn</h3>
+            <Basket class="deco-ill" />
+          </div>
+          <ul>
+            <li><span>Heirloom apples</span><span class="mo">Sep – Nov</span></li>
+            <li><span>Winter squash</span><span class="mo">Oct – Dec</span></li>
+            <li><span>Chanterelles</span><span class="mo">Sep – Dec</span></li>
+            <li><span>Pears &amp; quince</span><span class="mo">Sep – Oct</span></li>
+          </ul>
+          <Button variant="ghost" href="#directory">{countFor('autumn')} farms in autumn →</Button>
+        </article>
+
+        <!-- Winter -->
+        <article class="panel season-panel" style="--accent: var(--season-winter);">
+          <div class="season-panel__head">
+            <h3><span class="badge__dot" style="background:var(--accent)"></span> Winter</h3>
+            <PruningShears class="deco-ill" />
+          </div>
+          <ul>
+            <li><span>Citrus</span><span class="mo">Dec – Feb</span></li>
+            <li><span>Hardy greens</span><span class="mo">Nov – Feb</span></li>
+            <li><span>Barrel cider</span><span class="mo">Dec – Mar</span></li>
+            <li><span>Storage roots</span><span class="mo">Nov – Feb</span></li>
+          </ul>
+          <Button variant="ghost" href="#directory">{countFor('winter')} farms in winter →</Button>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Grower CTA -->
+  <section class="section">
+    <div class="container">
+      <div class="cta-band">
+        <div class="stack stack-4">
+          <span class="eyebrow">For growers</span>
+          <h2>Grow it? Put your farm on the map.</h2>
+          <p class="lead">List your stand, keep your harvest current, and let neighbours find you when your fruit is at its peak. Free for small farms, forever.</p>
+          <div class="cluster">
+            <Button variant="primary" size="lg" href="#directory">List your farm</Button>
+            <Button variant="secondary" size="lg" href="#directory">How it works</Button>
+          </div>
+        </div>
+        <div class="cta-band__art">
+          <Foragers class="is-drawn" label="Two growers gathering fruit" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Live filtering for the directory -->
+  <script is:inline>
+    (function () {
+      var grid = document.getElementById('farm-grid');
+      if (!grid) return;
+      var cards = Array.prototype.slice.call(grid.children);
+      var empty = document.getElementById('farm-empty');
+      var input = document.getElementById('farm-search');
+      var chips = Array.prototype.slice.call(document.querySelectorAll('.chip[data-filter]'));
+      var season = 'all', q = '';
+      function apply() {
+        var n = 0;
+        cards.forEach(function (c) {
+          var s = c.getAttribute('data-seasons') || '';
+          var name = c.getAttribute('data-name') || '';
+          var prod = c.getAttribute('data-produce') || '';
+          var okS = season === 'all' || s.indexOf(season) > -1;
+          var okQ = !q || name.indexOf(q) > -1 || prod.indexOf(q) > -1;
+          var show = okS && okQ;
+          c.classList.toggle('is-hidden', !show);
+          if (show) n++;
+        });
+        if (empty) empty.classList.toggle('is-hidden', n !== 0);
+      }
+      chips.forEach(function (ch) {
+        ch.addEventListener('click', function () {
+          chips.forEach(function (x) { x.setAttribute('aria-pressed', 'false'); });
+          ch.setAttribute('aria-pressed', 'true');
+          season = ch.getAttribute('data-filter');
+          apply();
+        });
+      });
+      if (input) input.addEventListener('input', function () { q = input.value.trim().toLowerCase(); apply(); });
+      document.addEventListener('click', function (e) {
+        if (e.target.closest('[data-clear-filters]')) {
+          season = 'all'; q = ''; if (input) input.value = '';
+          chips.forEach(function (x) { x.setAttribute('aria-pressed', x.getAttribute('data-filter') === 'all' ? 'true' : 'false'); });
+          apply();
+        }
+      });
+    })();
+  </script>
+</BaseLayout>

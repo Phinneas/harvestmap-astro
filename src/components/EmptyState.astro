@@ -1,0 +1,29 @@
+---
+import Button from './Button.astro';
+import Mushrooms from './illustrations/Mushrooms.astro';
+
+interface Props {
+  title?: string;
+  text?: string;
+  ctaLabel?: string;
+  ctaHref?: string;
+  id?: string;
+  class?: string;
+}
+const {
+  title = 'Nothing’s sprouted here… yet',
+  text = 'No farms match that search just now. Try a different season, or clear your filters to see everyone.',
+  ctaLabel = 'Clear filters',
+  ctaHref,
+  id,
+  class: className = '',
+} = Astro.props;
+---
+<div class={`empty ${className}`} id={id}>
+  <Mushrooms class="empty__art is-drawn" label="A little cluster of mushrooms" />
+  <h3 class="empty__title">{title}</h3>
+  <p>{text}</p>
+  {ctaHref
+    ? <Button href={ctaHref} variant="secondary">{ctaLabel}</Button>
+    : <Button variant="secondary" data-clear-filters>{ctaLabel}</Button>}
+</div>

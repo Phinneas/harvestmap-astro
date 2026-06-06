@@ -1,0 +1,41 @@
+---
+import Button from './Button.astro';
+
+interface Props {
+  id?: string;
+  placeholder?: string;
+  showFilters?: boolean;
+}
+const {
+  id = 'farm-search',
+  placeholder = 'Search farms, produce, or a place…',
+  showFilters = true,
+} = Astro.props;
+
+const chips = [
+  { key: 'all', label: 'All seasons' },
+  { key: 'spring', label: 'Spring' },
+  { key: 'summer', label: 'Summer' },
+  { key: 'autumn', label: 'Autumn' },
+  { key: 'winter', label: 'Winter' },
+];
+---
+<div class="stack stack-4">
+  <div class="search">
+    <svg class="search__ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+      <circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/>
+    </svg>
+    <input id={id} type="search" placeholder={placeholder} aria-label="Search farms" autocomplete="off" />
+    <Button variant="primary" data-search-go>Search</Button>
+  </div>
+
+  {showFilters && (
+    <div class="filters" role="group" aria-label="Filter by season">
+      {chips.map((c) => (
+        <button class="chip" data-filter={c.key} aria-pressed={c.key === 'all' ? 'true' : 'false'}>
+          {c.label}
+        </button>
+      ))}
+    </div>
+  )}
+</div>

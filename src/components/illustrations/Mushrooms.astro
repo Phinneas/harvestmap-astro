@@ -1,0 +1,48 @@
+---
+/* Animated: caps gently bob. Add class "is-drawn" to also self-draw on load. */
+interface Props { class?: string; label?: string; }
+const { class: className = '', label } = Astro.props;
+---
+<svg
+  viewBox="0 0 130 120"
+  class={`ill ill--stroke ${className}`}
+  fill="none"
+  role={label ? 'img' : undefined}
+  aria-hidden={label ? undefined : 'true'}
+  focusable="false"
+>
+  {label && <title>{label}</title>}
+  <!-- ground + grass -->
+  <path d="M10 108 Q65 100 120 108" pathLength="1" />
+  <path d="M30 108 C28 100 26 98 23 94" pathLength="1" />
+  <path d="M104 108 C106 101 108 99 111 95" pathLength="1" />
+
+  <!-- large mushroom -->
+  <g class="bob">
+    <path d="M52 107 C49 92 49 84 51 76" pathLength="1" />
+    <path d="M64 107 C66 92 66 84 63 76" pathLength="1" />
+    <path d="M40 76 Q57 84 75 76" pathLength="1" />
+    <path class="accent" d="M34 76 C34 54 50 42 57 42 C66 42 81 54 81 76 C66 82 49 82 34 76 Z" pathLength="1" />
+    <path d="M34 76 C34 54 50 42 57 42 C66 42 81 54 81 76 C66 82 49 82 34 76 Z" pathLength="1" />
+    <circle cx="48" cy="60" r="3.2" pathLength="1" />
+    <circle cx="64" cy="56" r="2.6" pathLength="1" />
+    <circle cx="58" cy="69" r="2.2" pathLength="1" />
+  </g>
+
+  <!-- medium mushroom -->
+  <g class="bob bob-2">
+    <path d="M92 108 C90 98 90 92 92 86" pathLength="1" />
+    <path d="M101 108 C103 98 103 92 101 86" pathLength="1" />
+    <path d="M84 86 Q96 92 109 86" pathLength="1" />
+    <path class="accent--berry" d="M80 86 C80 72 90 64 96 64 C103 64 113 72 113 86 C102 91 91 91 80 86 Z" pathLength="1" />
+    <path d="M80 86 C80 72 90 64 96 64 C103 64 113 72 113 86 C102 91 91 91 80 86 Z" pathLength="1" />
+  </g>
+
+  <!-- tiny mushroom -->
+  <g class="bob" style="animation-delay:-2.8s">
+    <path d="M21 108 C20 101 20 97 22 93" pathLength="1" />
+    <path d="M29 108 C30 101 30 97 28 93" pathLength="1" />
+    <path class="accent--honey" d="M13 93 C13 84 19 79 25 79 C31 79 37 84 37 93 C29 96 21 96 13 93 Z" pathLength="1" />
+    <path d="M13 93 C13 84 19 79 25 79 C31 79 37 84 37 93 C29 96 21 96 13 93 Z" pathLength="1" />
+  </g>
+</svg>

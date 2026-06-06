@@ -1,0 +1,17 @@
+---
+/* A seamless-ish woven band, used at low opacity as a textural accent. */
+interface Props { class?: string; }
+const { class: className = '' } = Astro.props;
+---
+<svg
+  viewBox="0 0 120 40"
+  class={`ill ill--stroke ${className}`}
+  fill="none"
+  aria-hidden="true"
+  focusable="false"
+  preserveAspectRatio="none"
+>
+  <path d="M0 13 Q10 3 20 13 Q30 23 40 13 Q50 3 60 13 Q70 23 80 13 Q90 3 100 13 Q110 23 120 13" />
+  <path d="M0 27 Q10 17 20 27 Q30 37 40 27 Q50 17 60 27 Q70 37 80 27 Q90 17 100 27 Q110 37 120 27" />
+  <path d="M0 20 Q10 10 20 20 Q30 30 40 20 Q50 10 60 20 Q70 30 80 20 Q90 10 100 20 Q110 30 120 20" opacity="0.5" />
+</svg>
