@@ -1,0 +1,268 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Button from '../components/Button.astro';
+
+const COMMON_CROPS = [
+  'Strawberries', 'Blueberries', 'Raspberries', 'Blackberries',
+  'Apples', 'Pears', 'Peaches', 'Nectarines', 'Apricots', 'Plums', 'Cherries',
+  'Persimmons', 'Figs', 'Oranges', 'Lemons', 'Limes', 'Mandarins',
+  'Pumpkins', 'Squash', 'Corn', 'Tomatoes', 'Peppers', 'Eggplant',
+  'Grapes', 'Kiwi',
+  'Asparagus', 'Green beans', 'Peas',
+  'Herbs', 'Flowers', 'Sunflowers', 'Lavender',
+  'Walnuts', 'Almonds', 'Pecans',
+  'Honey', 'Eggs', 'Christmas trees',
+];
+
+const US_STATES = [
+  { code: '', name: 'Select state…' },
+  { code: 'AL', name: 'Alabama' }, { code: 'AK', name: 'Alaska' },
+  { code: 'AZ', name: 'Arizona' }, { code: 'AR', name: 'Arkansas' },
+  { code: 'CA', name: 'California' }, { code: 'CO', name: 'Colorado' },
+  { code: 'CT', name: 'Connecticut' }, { code: 'DE', name: 'Delaware' },
+  { code: 'DC', name: 'District of Columbia' }, { code: 'FL', name: 'Florida' },
+  { code: 'GA', name: 'Georgia' }, { code: 'HI', name: 'Hawaii' },
+  { code: 'ID', name: 'Idaho' }, { code: 'IL', name: 'Illinois' },
+  { code: 'IN', name: 'Indiana' }, { code: 'IA', name: 'Iowa' },
+  { code: 'KS', name: 'Kansas' }, { code: 'KY', name: 'Kentucky' },
+  { code: 'LA', name: 'Louisiana' }, { code: 'ME', name: 'Maine' },
+  { code: 'MD', name: 'Maryland' }, { code: 'MA', name: 'Massachusetts' },
+  { code: 'MI', name: 'Michigan' }, { code: 'MN', name: 'Minnesota' },
+  { code: 'MS', name: 'Mississippi' }, { code: 'MO', name: 'Missouri' },
+  { code: 'MT', name: 'Montana' }, { code: 'NE', name: 'Nebraska' },
+  { code: 'NV', name: 'Nevada' }, { code: 'NH', name: 'New Hampshire' },
+  { code: 'NJ', name: 'New Jersey' }, { code: 'NM', name: 'New Mexico' },
+  { code: 'NY', name: 'New York' }, { code: 'NC', name: 'North Carolina' },
+  { code: 'ND', name: 'North Dakota' }, { code: 'OH', name: 'Ohio' },
+  { code: 'OK', name: 'Oklahoma' }, { code: 'OR', name: 'Oregon' },
+  { code: 'PA', name: 'Pennsylvania' }, { code: 'RI', name: 'Rhode Island' },
+  { code: 'SC', name: 'South Carolina' }, { code: 'SD', name: 'South Dakota' },
+  { code: 'TN', name: 'Tennessee' }, { code: 'TX', name: 'Texas' },
+  { code: 'UT', name: 'Utah' }, { code: 'VT', name: 'Vermont' },
+  { code: 'VA', name: 'Virginia' }, { code: 'WA', name: 'Washington' },
+  { code: 'WV', name: 'West Virginia' }, { code: 'WI', name: 'Wisconsin' },
+  { code: 'WY', name: 'Wyoming' },
+];
+---
+
+<BaseLayout active="farms" pagefindIgnore={true} title="List your farm · HarvestMap" description="Add your farm to HarvestMap">
+  <div class="container" style="padding-top: var(--space-6); max-width: 720px;">
+    <a href="/" class="btn btn--ghost" style="margin-bottom: var(--space-4);">&larr; Back home</a>
+
+    <div class="section-head">
+      <span class="eyebrow">For growers</span>
+      <h1>List your farm</h1>
+      <p style="color: var(--text-muted); max-width: 46ch;">
+        Add your u-pick farm, orchard, or farm stand to HarvestMap. Your listing will be reviewed before it goes live — usually within 48 hours.
+      </p>
+    </div>
+
+    <form id="add-farm-form" class="stack stack-5" style="margin-top: var(--space-5);">
+      <!-- Honeypot -->
+      <div style="position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden;" aria-hidden="true">
+        <label>Do not fill this field<input type="text" name="website" tabindex="-1" autocomplete="off" /></label>
+      </div>
+
+      <!-- Farm name -->
+      <div class="stack stack-2">
+        <label for="farm-name" class="eyebrow">Farm name <span style="color: var(--clay-deep);">*</span></label>
+        <input
+          id="farm-name"
+          type="text"
+          name="farmName"
+          required
+          placeholder="e.g. Willow Creek Berry Farm"
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        />
+      </div>
+
+      <!-- Location -->
+      <div class="stack stack-2">
+        <label for="farm-city" class="eyebrow">City <span style="color: var(--clay-deep);">*</span></label>
+        <input
+          id="farm-city"
+          type="text"
+          name="farmCity"
+          required
+          placeholder="e.g. Sebastopol"
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        />
+      </div>
+
+      <div class="stack stack-2">
+        <label for="farm-state" class="eyebrow">State <span style="color: var(--clay-deep);">*</span></label>
+        <select
+          id="farm-state"
+          name="farmState"
+          required
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        >
+          {US_STATES.map((s) => <option value={s.code}>{s.name}</option>)}
+        </select>
+      </div>
+
+      <!-- Crops -->
+      <fieldset class="panel" style="border: none; padding: var(--space-4);">
+        <legend class="eyebrow" style="margin-bottom: var(--space-3); display: block;">What do you grow? <span style="color: var(--clay-deep);">*</span></legend>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: var(--space-2);">
+          {COMMON_CROPS.map((crop) => (
+            <label style="display: flex; align-items: center; gap: var(--space-2); padding: var(--space-2); border-radius: var(--radius-sm); cursor: pointer; border: 1px solid var(--line);">
+              <input type="checkbox" name="crops" value={crop} style="accent-color: var(--moss);" />
+              <span style="font-size: var(--fs-small);">{crop}</span>
+            </label>
+          ))}
+        </div>
+        <input
+          type="text"
+          name="otherCrops"
+          placeholder="Other crops (comma-separated)"
+          style="width: 100%; padding: var(--space-3); margin-top: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        />
+      </fieldset>
+
+      <!-- Contact -->
+      <div class="stack stack-2">
+        <label for="farm-website" class="eyebrow">Website <span style="color: var(--text-muted); font-weight: normal;">(optional)</span></label>
+        <input
+          id="farm-website"
+          type="url"
+          name="farmWebsite"
+          placeholder="https://yourfarm.com"
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        />
+      </div>
+
+      <div class="stack stack-2">
+        <label for="farm-phone" class="eyebrow">Phone <span style="color: var(--text-muted); font-weight: normal;">(optional)</span></label>
+        <input
+          id="farm-phone"
+          type="tel"
+          name="farmPhone"
+          placeholder="(555) 123-4567"
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        />
+      </div>
+
+      <div class="stack stack-2">
+        <label for="farmer-name" class="eyebrow">Your name <span style="color: var(--clay-deep);">*</span></label>
+        <input
+          id="farmer-name"
+          type="text"
+          name="reporterName"
+          required
+          placeholder="e.g. Jane Farmer"
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        />
+      </div>
+
+      <div class="stack stack-2">
+        <label for="farmer-email" class="eyebrow">Email <span style="color: var(--clay-deep);">*</span></label>
+        <input
+          id="farmer-email"
+          type="email"
+          name="reporterEmail"
+          required
+          placeholder="you@example.com"
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        />
+        <p style="font-size: var(--fs-small); color: var(--text-muted); margin: 0;">We'll only use this to verify your listing.</p>
+      </div>
+
+      <!-- Description -->
+      <div class="stack stack-2">
+        <label for="farm-description" class="eyebrow">Tell us about your farm <span style="color: var(--text-muted); font-weight: normal;">(optional)</span></label>
+        <textarea
+          id="farm-description"
+          name="description"
+          rows="3"
+          placeholder="e.g. Family-run u-pick berry farm established in 1985. We grow six varieties of blueberries using organic practices."
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text); resize: vertical;"
+        ></textarea>
+      </div>
+
+      <!-- Submit -->
+      <div style="display: flex; gap: var(--space-3); align-items: center;">
+        <Button type="submit" variant="primary">Submit listing</Button>
+        <span id="form-status" style="font-size: var(--fs-small); color: var(--text-muted);"></span>
+      </div>
+    </form>
+
+    <div id="form-success" class="panel panel--feature" style="display: none; margin-top: var(--space-5); padding: var(--space-5);">
+      <h3 style="margin-bottom: var(--space-2);">Thank you!</h3>
+      <p style="color: var(--text-muted); margin: 0;">
+        Your farm listing has been submitted for review. We'll verify the details and publish it — usually within 48 hours. You'll get an email when it's live.
+      </p>
+      <a href="/" class="btn btn--ghost" style="margin-top: var(--space-3);">Back to HarvestMap &rarr;</a>
+    </div>
+  </div>
+</BaseLayout>
+
+<script is:inline>
+  (function () {
+    var form = document.getElementById('add-farm-form');
+    var status = document.getElementById('form-status');
+    var success = document.getElementById('form-success');
+    if (!form) return;
+
+    form.addEventListener('submit', async function (e) {
+      e.preventDefault();
+
+      var hp = form.querySelector('input[name="website"]');
+      if (hp && hp.value) return;
+
+      var formData = new FormData(form);
+      var crops = formData.getAll('crops');
+      var otherCrops = formData.get('otherCrops');
+      if (otherCrops) {
+        otherCrops.split(',').forEach(function (c) {
+          var t = c.trim();
+          if (t) crops.push(t);
+        });
+      }
+
+      if (crops.length === 0) {
+        status.textContent = 'Please select at least one crop.';
+        status.style.color = 'var(--clay-deep)';
+        return;
+      }
+
+      var payload = {
+        type: 'new-farm',
+        farmName: formData.get('farmName') || '',
+        farmCity: formData.get('farmCity') || '',
+        farmState: formData.get('farmState') || '',
+        crops: crops,
+        farmWebsite: formData.get('farmWebsite') || '',
+        farmPhone: formData.get('farmPhone') || '',
+        description: formData.get('description') || '',
+        reporterName: formData.get('reporterName') || '',
+        reporterEmail: formData.get('reporterEmail') || '',
+        submittedAt: new Date().toISOString(),
+      };
+
+      status.textContent = 'Submitting...';
+      status.style.color = 'var(--text-muted)';
+
+      try {
+        var res = await fetch('/api/submit-report', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload),
+        });
+
+        if (res.ok) {
+          form.style.display = 'none';
+          success.style.display = 'block';
+          status.textContent = '';
+        } else {
+          var err = await res.json().catch(function () { return { error: 'Submission failed' }; });
+          status.textContent = err.error || 'Submission failed. Please try again.';
+          status.style.color = 'var(--clay-deep)';
+        }
+      } catch (err) {
+        status.textContent = 'Network error. Please try again.';
+        status.style.color = 'var(--clay-deep)';
+      }
+    });
+  })();
+</script>

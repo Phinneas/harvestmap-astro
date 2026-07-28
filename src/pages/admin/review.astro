@@ -102,20 +102,41 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
         card.style.padding = 'var(--space-4)';
 
         var date = new Date(s.submittedAt).toLocaleString();
+        var isNewFarm = s.type === 'new-farm';
 
         var cropsHtml = (s.crops || []).map(function (c) {
           return '<span class="code-pill">' + escapeHtml(c) + '</span>';
         }).join(' ');
 
+        var typeLabel = isNewFarm
+          ? '<span class="code-pill" style="background: var(--honey); color: var(--ink);">New farm listing</span>'
+          : '<span class="code-pill">Ripe report</span>';
+
+        var titleHtml = isNewFarm
+          ? '<h3 style="margin: var(--space-1) 0;">' + escapeHtml(s.farmName) + '</h3>' +
+            '<span class="card__loc">' + escapeHtml(s.farmCity || '') + (s.farmCity ? ', ' : '') + escapeHtml(s.farmState || '') + '</span>'
+          : '<h3 style="margin: var(--space-1) 0;"><a href="/farms/' + escapeHtml(s.farmSlug) + '" style="color: var(--clay-deep);">' + escapeHtml(s.farmName || s.farmSlug) + '</a></h3>' +
+            '<span class="card__loc">' + escapeHtml(s.farmState || '') + '</span>';
+
+        var extraHtml = '';
+        if (isNewFarm) {
+          if (s.farmWebsite) extraHtml += '<p style="font-size: var(--fs-small); margin: var(--space-1) 0;">Website: <a href="' + escapeHtml(s.farmWebsite) + '" rel="noopener" style="color: var(--clay-deep);">' + escapeHtml(s.farmWebsite) + '</a></p>';
+          if (s.farmPhone) extraHtml += '<p style="font-size: var(--fs-small); margin: var(--space-1) 0;">Phone: ' + escapeHtml(s.farmPhone) + '</p>';
+          if (s.description) extraHtml += '<div class="prose" style="font-size: var(--fs-small);"><p>' + escapeHtml(s.description) + '</p></div>';
+        }
+        if (s.notes) extraHtml += '<div class="prose" style="font-size: var(--fs-small);"><p>' + escapeHtml(s.notes) + '</p></div>';
+
         card.innerHTML =
           '<div class="stack stack-3">' +
             '<div>' +
-              '<span class="eyebrow">Submitted ' + date + '</span>' +
-              '<h3 style="margin: var(--space-1) 0;"><a href="/farms/' + escapeHtml(s.farmSlug) + '" style="color: var(--clay-deep);">' + escapeHtml(s.farmName || s.farmSlug) + '</a></h3>' +
-              '<span class="card__loc">' + escapeHtml(s.farmState || '') + '</span>' +
+              '<div style="display: flex; gap: var(--space-3); align-items: center; margin-bottom: var(--space-1);">' +
+                typeLabel +
+                '<span class="eyebrow">' + date + '</span>' +
+              '</div>' +
+              titleHtml +
             '</div>' +
             (cropsHtml ? '<div class="cluster" style="gap: var(--space-2); flex-wrap: wrap;">' + cropsHtml + '</div>' : '') +
-            (s.notes ? '<div class="prose" style="font-size: var(--fs-small);"><p>' + escapeHtml(s.notes) + '</p></div>' : '') +
+            extraHtml +
             (s.reporterName ? '<p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">From: ' + escapeHtml(s.reporterName) + (s.reporterEmail ? ' (' + escapeHtml(s.reporterEmail) + ')' : '') + '</p>' : '') +
             '<div style="display: flex; gap: var(--space-3); margin-top: var(--space-2);">' +
               '<button class="btn btn--primary" data-action="approve" data-id="' + s.id + '">Approve</button>' +

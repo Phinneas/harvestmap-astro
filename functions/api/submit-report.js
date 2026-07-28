@@ -1,4 +1,5 @@
-// Cloudflare Pages Function — handles "what's ripe" submission form
+// Cloudflare Pages Function — handles submission forms
+// Supports two types: "ripe-report" (default) and "new-farm"
 // Writes submissions to KV namespace bound as SUBMISSIONS_KV.
 // Rate-limits by IP using KV with a 60s window.
 
@@ -17,12 +18,23 @@ export async function onRequestPost({ request, env }) {
     return json({ error: 'Invalid request body' }, 400);
   }
 
-  // Validate required fields
-  if (!data.farmSlug || typeof data.farmSlug !== 'string') {
-    return json({ error: 'Missing farm slug' }, 400);
-  }
-  if (data.farmSlug.length > 200) {
-    return json({ error: 'Invalid farm slug' }, 400);
+  const type = data.type === 'new-farm' ? 'new-farm' : 'ripe-report';
+
+  // Validate required fields — different per type
+  if (type === 'ripe-report') {
+    if (!data.farmSlug || typeof data.farmSlug !== 'string') {
+      return json({ error: 'Missing farm slug' }, 400);
+    }
+    if (data.farmSlug.length > 200) {
+      return json({ error: 'Invalid farm slug' }, 400);
+    }
+  } else {
+    if (!data.farmName || typeof data.farmName !== 'string') {
+      return json({ error: 'Missing farm name' }, 400);
+    }
+    if (!data.farmState || typeof data.farmState !== 'string') {
+      return json({ error: 'Missing farm state' }, 400);
+    }
   }
 
   // Rate limiting by IP
@@ -49,11 +61,16 @@ export async function onRequestPost({ request, env }) {
   const id = crypto.randomUUID();
   const submission = {
     id,
-    farmSlug: data.farmSlug,
+    type,
+    farmSlug: data.farmSlug || '',
     farmName: data.farmName || '',
     farmState: data.farmState || '',
+    farmCity: data.farmCity || '',
     crops: Array.isArray(data.crops) ? data.crops.slice(0, 50) : [],
     notes: typeof data.notes === 'string' ? data.notes.slice(0, 2000) : '',
+    description: typeof data.description === 'string' ? data.description.slice(0, 2000) : '',
+    farmWebsite: typeof data.farmWebsite === 'string' ? data.farmWebsite.slice(0, 500) : '',
+    farmPhone: typeof data.farmPhone === 'string' ? data.farmPhone.slice(0, 50) : '',
     reporterName: typeof data.reporterName === 'string' ? data.reporterName.slice(0, 100) : '',
     reporterEmail: typeof data.reporterEmail === 'string' ? data.reporterEmail.slice(0, 200) : '',
     submittedAt: data.submittedAt || new Date().toISOString(),
