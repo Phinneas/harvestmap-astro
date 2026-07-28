@@ -1,0 +1,173 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+<BaseLayout active="" pagefindIgnore={true} title="Review submissions · HarvestMap" description="Admin review queue for community submissions">
+  <div class="container" style="padding-top: var(--space-6); max-width: 900px;">
+    <div class="section-head">
+      <span class="eyebrow">Admin</span>
+      <h1>Submission review queue</h1>
+    </div>
+
+    <!-- Auth token prompt -->
+    <div id="auth-prompt" class="panel panel--feature" style="margin-top: var(--space-4);">
+      <div class="stack stack-3">
+        <label for="admin-token" class="eyebrow">Admin token</label>
+        <input
+          id="admin-token"
+          type="password"
+          placeholder="Enter admin token"
+          style="width: 100%; max-width: 400px; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        />
+        <button id="auth-btn" class="btn btn--primary">Load submissions</button>
+      </div>
+    </div>
+
+    <!-- Submissions list -->
+    <div id="submissions-list" class="stack stack-4" style="margin-top: var(--space-5); display: none;"></div>
+
+    <!-- Empty state -->
+    <div id="empty-state" class="panel" style="display: none; margin-top: var(--space-4); text-align: center; padding: var(--space-6);">
+      <p style="color: var(--text-muted); margin: 0;">No pending submissions. Nice work!</p>
+    </div>
+  </div>
+</BaseLayout>
+
+<script is:inline>
+  (function () {
+    var authPrompt = document.getElementById('auth-prompt');
+    var tokenInput = document.getElementById('admin-token');
+    var authBtn = document.getElementById('auth-btn');
+    var list = document.getElementById('submissions-list');
+    var empty = document.getElementById('empty-state');
+
+    // Check for saved token
+    var savedToken = localStorage.getItem('harvestmap_admin_token');
+    if (savedToken) {
+      tokenInput.value = savedToken;
+    }
+
+    authBtn.addEventListener('click', loadSubmissions);
+    tokenInput.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') loadSubmissions();
+    });
+
+    function getToken() {
+      var t = tokenInput.value.trim();
+      if (t) localStorage.setItem('harvestmap_admin_token', t);
+      return t;
+    }
+
+    async function loadSubmissions() {
+      var token = getToken();
+      authBtn.textContent = 'Loading...';
+
+      try {
+        var res = await fetch('/api/submissions', {
+          headers: { 'Authorization': 'Bearer ' + token },
+        });
+
+        if (!res.ok) {
+          authBtn.textContent = 'Load submissions';
+          list.innerHTML = '<p style="color: var(--clay-deep);">Failed to load: ' + res.status + '</p>';
+          list.style.display = 'block';
+          return;
+        }
+
+        var data = await res.json();
+        authBtn.textContent = 'Refresh';
+        authPrompt.style.display = 'none';
+        renderSubmissions(data.submissions || []);
+      } catch (e) {
+        authBtn.textContent = 'Load submissions';
+        list.innerHTML = '<p style="color: var(--clay-deep);">Network error</p>';
+        list.style.display = 'block';
+      }
+    }
+
+    function renderSubmissions(submissions) {
+      list.innerHTML = '';
+
+      if (submissions.length === 0) {
+        empty.style.display = 'block';
+        list.style.display = 'none';
+        return;
+      }
+
+      empty.style.display = 'none';
+      list.style.display = 'block';
+
+      submissions.forEach(function (s) {
+        var card = document.createElement('div');
+        card.className = 'panel panel--feature';
+        card.style.padding = 'var(--space-4)';
+
+        var date = new Date(s.submittedAt).toLocaleString();
+
+        var cropsHtml = (s.crops || []).map(function (c) {
+          return '<span class="code-pill">' + escapeHtml(c) + '</span>';
+        }).join(' ');
+
+        card.innerHTML =
+          '<div class="stack stack-3">' +
+            '<div>' +
+              '<span class="eyebrow">Submitted ' + date + '</span>' +
+              '<h3 style="margin: var(--space-1) 0;"><a href="/farms/' + escapeHtml(s.farmSlug) + '" style="color: var(--clay-deep);">' + escapeHtml(s.farmName || s.farmSlug) + '</a></h3>' +
+              '<span class="card__loc">' + escapeHtml(s.farmState || '') + '</span>' +
+            '</div>' +
+            (cropsHtml ? '<div class="cluster" style="gap: var(--space-2); flex-wrap: wrap;">' + cropsHtml + '</div>' : '') +
+            (s.notes ? '<div class="prose" style="font-size: var(--fs-small);"><p>' + escapeHtml(s.notes) + '</p></div>' : '') +
+            (s.reporterName ? '<p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">From: ' + escapeHtml(s.reporterName) + (s.reporterEmail ? ' (' + escapeHtml(s.reporterEmail) + ')' : '') + '</p>' : '') +
+            '<div style="display: flex; gap: var(--space-3); margin-top: var(--space-2);">' +
+              '<button class="btn btn--primary" data-action="approve" data-id="' + s.id + '">Approve</button>' +
+              '<button class="btn btn--ghost" data-action="reject" data-id="' + s.id + '">Reject</button>' +
+            '</div>' +
+          '</div>';
+
+        list.appendChild(card);
+      });
+
+      // Wire up approve/reject buttons
+      list.querySelectorAll('[data-action]').forEach(function (btn) {
+        btn.addEventListener('click', async function () {
+          var action = btn.getAttribute('data-action');
+          var id = btn.getAttribute('data-id');
+          btn.disabled = true;
+          btn.textContent = '...';
+
+          try {
+            var res = await fetch('/api/submissions', {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+                'Authorization': 'Bearer ' + getToken(),
+              },
+              body: JSON.stringify({ id: id, action: action }),
+            });
+
+            if (res.ok) {
+              btn.closest('.panel').style.opacity = '0.5';
+              btn.closest('.panel').style.pointerEvents = 'none';
+              btn.textContent = action === 'approve' ? 'Approved' : 'Rejected';
+            } else {
+              btn.disabled = false;
+              btn.textContent = action === 'approve' ? 'Approve' : 'Reject';
+            }
+          } catch (e) {
+            btn.disabled = false;
+            btn.textContent = action === 'approve' ? 'Approve' : 'Reject';
+          }
+        });
+      });
+    }
+
+    function escapeHtml(s) {
+      if (!s) return '';
+      return String(s)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+  })();
+</script>

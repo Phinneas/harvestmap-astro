@@ -173,6 +173,7 @@ const hasEstablished = farm.established !== undefined;
               <Button variant="primary" block href="#">Get directions</Button>
             )}
             <Button variant="secondary" block href="#">Save to my map</Button>
+            <Button variant="ghost" block href={`/report?farm=${farm.slug}&name=${encodeURIComponent(farm.name)}`}>Report what's ripe</Button>
           </div>
         </div>
 

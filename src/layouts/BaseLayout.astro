@@ -7,12 +7,14 @@ interface Props {
   title?: string;
   description?: string;
   active?: 'home' | 'farms' | 'seasons' | 'style' | '';
+  pagefindIgnore?: boolean;
 }
 
 const {
   title = 'HarvestMap — Find what’s ripe near you',
   description = 'A seasonal directory of small farms, orchards and growers. Discover who is harvesting what, right now, in your region.',
   active = '',
+  pagefindIgnore = false,
 } = Astro.props;
 ---
 
@@ -55,7 +57,7 @@ const {
     />
   </head>
 
-  <body>
+  <body data-pagefind-ignore={pagefindIgnore ? true : undefined}>
     <a class="skip-link" href="#main">Skip to content</a>
     <Nav active={active} />
     <main id="main">

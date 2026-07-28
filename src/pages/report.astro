@@ -1,0 +1,218 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Button from '../components/Button.astro';
+
+const COMMON_CROPS = [
+  'Strawberries', 'Blueberries', 'Raspberries', 'Blackberries',
+  'Apples', 'Pears', 'Peaches', 'Nectarines', 'Apricots', 'Plums', 'Cherries',
+  'Persimmons', 'Figs', 'Oranges', 'Lemons', 'Limes', 'Mandarins',
+  'Pumpkins', 'Squash', 'Corn', 'Tomatoes', 'Peppers', 'Eggplant',
+  'Grapes', 'Kiwi',
+  'Asparagus', 'Green beans', 'Peas',
+  'Herbs', 'Flowers', 'Sunflowers', 'Lavender',
+  'Walnuts', 'Almonds', 'Pecans',
+  'Honey', 'Eggs', 'Christmas trees',
+];
+---
+
+<BaseLayout active="farms" pagefindIgnore={true} title="Report what's ripe · HarvestMap" description="Tell us what's currently available to pick at a farm">
+  <div class="container" style="padding-top: var(--space-6); max-width: 720px;">
+    <a id="back-link" href="/" class="btn btn--ghost" style="margin-bottom: var(--space-4);">&larr; Back</a>
+
+    <div class="section-head">
+      <span class="eyebrow">Community update</span>
+      <h1>What's ripe at <span id="farm-name">this farm</span>?</h1>
+      <p style="color: var(--text-muted); max-width: 42ch;">
+        Help fellow pickers know what's ready right now. Check the crops that are currently available and add any notes about varieties, pricing, or picking tips.
+      </p>
+    </div>
+
+    <form id="ripe-report-form" class="stack stack-5" style="margin-top: var(--space-5);">
+      <!-- Filled by JS from URL query param -->
+      <input type="hidden" id="farm-slug" name="farmSlug" value="" />
+      <input type="hidden" id="farm-name-input" name="farmName" value="" />
+      <input type="hidden" id="farm-state" name="farmState" value="" />
+
+      <!-- Honeypot field -->
+      <div style="position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden;" aria-hidden="true">
+        <label>Do not fill this field<input type="text" name="website" tabindex="-1" autocomplete="off" /></label>
+      </div>
+
+      <!-- Crop checkboxes -->
+      <fieldset class="panel" style="border: none; padding: var(--space-4);">
+        <legend class="eyebrow" style="margin-bottom: var(--space-3); display: block;">Crops available now</legend>
+        <div class="crop-checkboxes" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: var(--space-2);">
+          {COMMON_CROPS.map((crop) => (
+            <label class="crop-check" style="display: flex; align-items: center; gap: var(--space-2); padding: var(--space-2); border-radius: var(--radius-sm); cursor: pointer; border: 1px solid var(--line);">
+              <input type="checkbox" name="crops" value={crop} style="accent-color: var(--moss);" />
+              <span style="font-size: var(--fs-small);">{crop}</span>
+            </label>
+          ))}
+        </div>
+      </fieldset>
+
+      <!-- Other crops not listed -->
+      <div class="stack stack-2">
+        <label for="other-crops" class="eyebrow">Other crops available</label>
+        <input
+          id="other-crops"
+          type="text"
+          name="otherCrops"
+          placeholder="e.g. gooseberries, elderflower, garlic scapes"
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        />
+      </div>
+
+      <!-- Free text notes -->
+      <div class="stack stack-2">
+        <label for="notes" class="eyebrow">Notes for pickers</label>
+        <textarea
+          id="notes"
+          name="notes"
+          rows="4"
+          placeholder="e.g. 'Tulameen raspberries are peaking this week. $5/lb. Bring your own containers.'"
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text); resize: vertical;"
+        ></textarea>
+      </div>
+
+      <!-- Optional submitter info -->
+      <div class="stack stack-2">
+        <label for="reporter-name" class="eyebrow">Your name <span style="color: var(--text-muted); font-weight: normal;">(optional)</span></label>
+        <input
+          id="reporter-name"
+          type="text"
+          name="reporterName"
+          placeholder="e.g. Jane, a regular picker"
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        />
+      </div>
+
+      <div class="stack stack-2">
+        <label for="reporter-email" class="eyebrow">Email <span style="color: var(--text-muted); font-weight: normal;">(optional, for verification only)</span></label>
+        <input
+          id="reporter-email"
+          type="email"
+          name="reporterEmail"
+          placeholder="you@example.com"
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        />
+      </div>
+
+      <!-- Submit -->
+      <div style="display: flex; gap: var(--space-3); align-items: center;">
+        <Button type="submit" variant="primary">Submit report</Button>
+        <span id="form-status" style="font-size: var(--fs-small); color: var(--text-muted);"></span>
+      </div>
+    </form>
+
+    <div id="form-success" class="panel panel--feature" style="display: none; margin-top: var(--space-5); padding: var(--space-5);">
+      <h3 style="margin-bottom: var(--space-2);">Thank you!</h3>
+      <p style="color: var(--text-muted); margin: 0;">
+        Your report has been submitted for review. Once approved, it'll appear on the farm's page and help other pickers find what's ripe.
+      </p>
+      <a id="success-back" href="/" class="btn btn--ghost" style="margin-top: var(--space-3);">Back to farm page &rarr;</a>
+    </div>
+  </div>
+</BaseLayout>
+
+<script is:inline>
+  (function () {
+    // Read farm slug from URL query param
+    var params = new URLSearchParams(window.location.search);
+    var farmSlug = params.get('farm') || '';
+    var farmName = params.get('name') || '';
+
+    if (!farmSlug) {
+      // No farm specified — redirect home
+      window.location.href = '/';
+      return;
+    }
+
+    // Populate hidden fields
+    document.getElementById('farm-slug').value = farmSlug;
+    document.getElementById('farm-name-input').value = farmName;
+    document.getElementById('back-link').href = '/farms/' + farmSlug;
+    document.getElementById('success-back').href = '/farms/' + farmSlug;
+
+    // Set farm name in heading — try fetching the farm page to get the real name
+    var nameEl = document.getElementById('farm-name');
+    if (farmName) {
+      nameEl.textContent = farmName;
+    } else {
+      // Fetch the farm page and extract the h1
+      fetch('/farms/' + farmSlug + '/')
+        .then(function (r) { return r.text(); })
+        .then(function (html) {
+          var match = html.match(/<h1[^>]*>(.*?)<\/h1>/i);
+          if (match) {
+            var name = match[1].replace(/<[^>]*>/g, '').trim();
+            nameEl.textContent = name;
+            document.getElementById('farm-name-input').value = name;
+          } else {
+            nameEl.textContent = farmSlug.replace(/-/g, ' ');
+          }
+        })
+        .catch(function () {
+          nameEl.textContent = farmSlug.replace(/-/g, ' ');
+        });
+    }
+
+    // Form submission
+    var form = document.getElementById('ripe-report-form');
+    var status = document.getElementById('form-status');
+    var success = document.getElementById('form-success');
+    if (!form) return;
+
+    form.addEventListener('submit', async function (e) {
+      e.preventDefault();
+
+      var hp = form.querySelector('input[name="website"]');
+      if (hp && hp.value) return;
+
+      var formData = new FormData(form);
+      var crops = formData.getAll('crops');
+      var otherCrops = formData.get('otherCrops');
+      if (otherCrops) {
+        otherCrops.split(',').forEach(function (c) {
+          var t = c.trim();
+          if (t) crops.push(t);
+        });
+      }
+
+      var payload = {
+        farmSlug: formData.get('farmSlug'),
+        farmName: formData.get('farmName'),
+        farmState: formData.get('farmState'),
+        crops: crops,
+        notes: formData.get('notes') || '',
+        reporterName: formData.get('reporterName') || '',
+        reporterEmail: formData.get('reporterEmail') || '',
+        submittedAt: new Date().toISOString(),
+      };
+
+      status.textContent = 'Submitting...';
+      status.style.color = 'var(--text-muted)';
+
+      try {
+        var res = await fetch('/api/submit-report', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload),
+        });
+
+        if (res.ok) {
+          form.style.display = 'none';
+          success.style.display = 'block';
+          status.textContent = '';
+        } else {
+          var err = await res.json().catch(function () { return { error: 'Submission failed' }; });
+          status.textContent = err.error || 'Submission failed. Please try again.';
+          status.style.color = 'var(--clay-deep)';
+        }
+      } catch (err) {
+        status.textContent = 'Network error. Please try again.';
+        status.style.color = 'var(--clay-deep)';
+      }
+    });
+  })();
+</script>
