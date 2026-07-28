@@ -72,6 +72,48 @@ function extractCrops(text: string): string[] {
 
 const STATE_NAMES = Object.fromEntries(US_STATES.map((s) => [s.code, s.name]));
 
+// Filter out non-farm content that PYO pages mix in with farm listings.
+// These include visitor comments, status updates, price notes, product
+// affiliate links, section headers, and operational notes.
+function isJunkFarmName(name: string): boolean {
+  const lower = name.toLowerCase().trim();
+
+  // Visitor comments
+  if (lower.startsWith('comments from a visitor')) return true;
+
+  // Entries starting with a year (status notes, price notes, updates)
+  if (/^(20\d{2}|19\d{2})\b/.test(lower)) return true;
+
+  // Status / closure notes
+  if (/(permanently|presumed|assumed).*(closed|close)/i.test(lower)) return true;
+  if (lower.startsWith('update ') || lower.startsWith('update for')) return true;
+
+  // Price-only entries
+  if (/^price[s]?\b/.test(lower)) return true;
+
+  // Notes
+  if (lower.startsWith('notes for') || lower.startsWith('note:')) return true;
+
+  // Product affiliate links
+  if (lower.includes('pressure canner') || lower.includes('pressure cooker')) return true;
+  if (lower.includes('presto ')) return true;
+
+  // Section headers / category labels
+  if (/^local (honey|meat|milk|eggs)/i.test(lower)) return true;
+  if (/^pumpkin patches and corn mazes/i.test(lower)) return true;
+  if (lower === 'by appointment only') return true;
+  if (lower.includes('approximate ripening')) return true;
+  if (lower.includes('all organic use approved sprays only')) return true;
+
+  // URLs as names
+  if (/^https?:\/\//i.test(lower)) return true;
+
+  // Very long names (> 80 chars) are notes, not farm names
+  if (name.length > 80) return true;
+
+  return false;
+}
+
 // Parse a farm block from PickYourOwn.org HTML.
 // Farm listings are in <li> or <p> blocks with the farm name as a link
 // or bold text, followed by address/phone/crop text.
@@ -81,6 +123,7 @@ function parseFarmBlock(html: string, stateCode: string): PyoEnrichmentRecord | 
 
   const name = nameMatch[1].replace(/<[^>]*>/g, '').trim();
   if (name.length < 3) return null;
+  if (isJunkFarmName(name)) return null;
 
   const websiteMatch = html.match(/href="(https?:\/\/[^"]+)"/i);
   const website = websiteMatch?.[1];
