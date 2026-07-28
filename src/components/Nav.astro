@@ -1,12 +1,13 @@
 ---
-interface Props { active?: 'home' | 'farms' | 'seasons' | 'style' | ''; }
+interface Props { active?: 'home' | 'farms' | 'seasons' | 'states' | 'blog' | ''; }
 const { active = '' } = Astro.props;
 
 const links = [
   { id: 'home', label: 'Home', href: '/' },
   { id: 'farms', label: 'Browse farms', href: '/#directory' },
   { id: 'seasons', label: "What's in season", href: '/#seasons' },
-  { id: 'style', label: 'Design system', href: '/style-guide' },
+  { id: 'states', label: 'By state', href: '/#states' },
+  { id: 'blog', label: 'Blog', href: '/blog' },
 ];
 ---
 <header class="nav">
