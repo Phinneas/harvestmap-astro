@@ -1,0 +1,136 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Button from '../components/Button.astro';
+import Leaf from '../components/illustrations/Leaf.astro';
+import PathLine from '../components/illustrations/PathLine.astro';
+import Foragers from '../components/illustrations/Foragers.astro';
+---
+
+<BaseLayout active="" title="Grower handbook · HarvestMap" description="How to list your farm and keep your harvest info current on HarvestMap">
+  <div class="container" style="padding-top: var(--space-7); max-width: 760px;">
+    <div class="section-head">
+      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> For growers</span>
+      <h1>Grower handbook</h1>
+      <p class="lead">Everything you need to get your farm on HarvestMap and keep pickers informed about what's ripe. No account, no login, no dashboard to manage.</p>
+    </div>
+
+    <!-- How it works -->
+    <section class="section--tight" style="margin-top: var(--space-6);">
+      <div class="panel panel--feature" style="padding: var(--space-5);">
+        <h2 style="margin-bottom: var(--space-3);">How listing works</h2>
+        <ol class="list-checks" style="padding-left: 0; list-style: none;">
+          <li style="display: flex; gap: var(--space-3); margin-bottom: var(--space-3);">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="var(--moss)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0;"><path d="m5 13 4 4L19 7"/></svg>
+            <div><strong>You submit a form.</strong> Tell us your farm name, location, and what you grow. Takes about 2 minutes. No account needed.</div>
+          </li>
+          <li style="display: flex; gap: var(--space-3); margin-bottom: var(--space-3);">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="var(--moss)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0;"><path d="m5 13 4 4L19 7"/></svg>
+            <div><strong>We review it.</strong> Every submission is reviewed by a real person before it goes live. This usually takes 48 hours. We verify the details and may follow up by email if anything is unclear.</div>
+          </li>
+          <li style="display: flex; gap: var(--space-3); margin-bottom: var(--space-3);">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="var(--moss)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0;"><path d="m5 13 4 4L19 7"/></svg>
+            <div><strong>Your farm goes live.</strong> Once approved, your farm gets its own page on HarvestMap with your crops, location, and contact info. Pickers can find you when your produce is in season.</div>
+          </li>
+          <li style="display: flex; gap: var(--space-3);">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="var(--moss)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0;"><path d="m5 13 4 4L19 7"/></svg>
+            <div><strong>Keep it current.</strong> When your harvest changes, submit a quick "what's ripe" update from your farm page. We review and publish it the same way.</div>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- Important: no instant edits -->
+    <section class="section--tight" style="margin-top: var(--space-5);">
+      <div class="panel" style="padding: var(--space-4); border-style: dashed; border-color: var(--honey);">
+        <h3 style="margin-bottom: var(--space-2);">Changes are not instant</h3>
+        <p style="color: var(--text-muted); margin: 0;">
+          HarvestMap does not have a self-serve dashboard where you can edit your listing directly. This is intentional. Every change, whether it's a new listing or a seasonal update, goes through a quick review before it appears on the site. This keeps the directory accurate and spam-free. You'll never need to log in, remember a password, or manage an account. You just submit a form, and we handle the rest.
+        </p>
+      </div>
+    </section>
+
+    <!-- Two forms -->
+    <section class="section--tight" style="margin-top: var(--space-6);">
+      <h2 style="margin-bottom: var(--space-4);">Two ways to contribute</h2>
+
+      <div class="stack stack-4">
+        <!-- New farm -->
+        <div class="panel panel--feature" style="padding: var(--space-5);">
+          <span class="eyebrow" style="color: var(--honey);">If your farm isn't listed yet</span>
+          <h3 style="margin: var(--space-2) 0;">List your farm</h3>
+          <p style="color: var(--text-muted); margin-bottom: var(--space-3);">
+            Submit your farm name, location, crops, and contact info. We'll create a full profile page for you after review.
+          </p>
+          <Button variant="primary" href="/add-farm">List your farm &rarr;</Button>
+        </div>
+
+        <!-- Update existing -->
+        <div class="panel panel--feature" style="padding: var(--space-5);">
+          <span class="eyebrow" style="color: var(--moss);">If your farm is already listed</span>
+          <h3 style="margin: var(--space-2) 0;">Report what's ripe</h3>
+          <p style="color: var(--text-muted); margin-bottom: var(--space-3);">
+            Find your farm on HarvestMap, click "Report what's ripe," and tell us what's currently available to pick. You can also use this to correct outdated information in the notes field.
+          </p>
+          <div class="cluster" style="gap: var(--space-3);">
+            <Button variant="primary" href="/#states">Find your farm &rarr;</Button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="section--tight" style="margin-top: var(--space-6);">
+      <h2 style="margin-bottom: var(--space-4);">Common questions</h2>
+      <div class="stack stack-3">
+        <div class="panel" style="padding: var(--space-4);">
+          <h4 style="margin-bottom: var(--space-2);">Do I need an account?</h4>
+          <p style="color: var(--text-muted); margin: 0;">No. HarvestMap doesn't use accounts or logins. You submit a form, we review it, and your listing goes live. That's it.</p>
+        </div>
+        <div class="panel" style="padding: var(--space-4);">
+          <h4 style="margin-bottom: var(--space-2);">How long until my listing appears?</h4>
+          <p style="color: var(--text-muted); margin: 0;">Typically 48 hours. We review every submission manually to verify the details. You'll receive an email confirmation when your farm is live.</p>
+        </div>
+        <div class="panel" style="padding: var(--space-4);">
+          <h4 style="margin-bottom: var(--space-2);">My farm is already listed but the information is wrong. How do I fix it?</h4>
+          <p style="color: var(--text-muted); margin: 0;">Find your farm page, click "Report what's ripe," and describe what needs correcting in the notes field. We'll update the listing after review.</p>
+        </div>
+        <div class="panel" style="padding: var(--space-4);">
+          <h4 style="margin-bottom: var(--space-2);">How often should I update my harvest info?</h4>
+          <p style="color: var(--text-muted); margin: 0;">Whenever your crops change. A quick update when a new crop comes into season, or when one finishes, helps pickers find you at the right time. Even a one-line note like "strawberries peaking this week" makes a difference.</p>
+        </div>
+        <div class="panel" style="padding: var(--space-4);">
+          <h4 style="margin-bottom: var(--space-2);">Is it free?</h4>
+          <p style="color: var(--text-muted); margin: 0;">Yes. Listing your farm and updating your harvest info on HarvestMap is free for small farms, forever.</p>
+        </div>
+        <div class="panel" style="padding: var(--space-4);">
+          <h4 style="margin-bottom: var(--space-2);">Where does my farm data come from if I didn't submit it?</h4>
+          <p style="color: var(--text-muted); margin: 0;">Many farms on HarvestMap were imported from the USDA Local Food Portal and PickYourOwn.org. If your farm appears but you didn't add it, that's why. You can claim it by submitting an update with your contact info so we can verify you're the owner.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Divider -->
+    <div class="container" aria-hidden="true" style="margin: var(--space-6) 0;">
+      <div class="divider">
+        <span class="divider__seed"><Leaf /></span>
+        <PathLine class="is-drawn" />
+        <span class="divider__seed"><Leaf /></span>
+      </div>
+    </div>
+
+    <!-- CTA -->
+    <section class="section--tight" style="text-align: center; padding-bottom: var(--space-7);">
+      <div class="cta-band" style="padding: var(--space-6);">
+        <div class="stack stack-3">
+          <Foragers class="is-drawn" style="width: 120px; margin: 0 auto;" label="Growers gathering fruit" />
+          <h2>Ready to get listed?</h2>
+          <p style="color: var(--text-muted);">Takes 2 minutes. No account needed.</p>
+          <div class="cluster" style="justify-content: center;">
+            <Button variant="primary" size="lg" href="/add-farm">List your farm</Button>
+            <Button variant="ghost" size="lg" href="/#states">Browse existing farms</Button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</BaseLayout>
