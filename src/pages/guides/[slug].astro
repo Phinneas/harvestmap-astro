@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SeasonBadge from '../../components/SeasonBadge.astro';
+import Button from '../../components/Button.astro';
+import Leaf from '../../components/illustrations/Leaf.astro';
+import PathLine from '../../components/illustrations/PathLine.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const guides = await getCollection('guides');
+  return guides.map((guide) => ({
+    params: { slug: guide.slug },
+    props: { guide },
+  }));
+}
+
+const { guide } = Astro.props;
+const { Content } = await render(guide);
+
+const stateLink = guide.data.relatedState
+  ? `/${guide.data.relatedState.toLowerCase()}`
+  : null;
+---
+<BaseLayout active="guides" title={`${guide.data.title} · HarvestMap`} description={guide.data.description}>
+  <div class="container" style="padding-top: var(--space-6); max-width: 72ch;">
+    <a href="/guides" class="btn btn--ghost" style="margin-bottom: var(--space-4);">← All guides</a>
+
+    <header style="margin-bottom: var(--space-6);">
+      <div class="cluster" style="margin-bottom: var(--space-3);">
+        <SeasonBadge season={guide.data.season} />
+        <span class="tag">{guide.data.crop}</span>
+        <span class="tag">{guide.data.region}</span>
+      </div>
+      <h1>{guide.data.title}</h1>
+      <p class="lead" style="margin-top: var(--space-3);">{guide.data.description}</p>
+    </header>
+
+    <article class="prose" style="max-width: 100%;">
+      <Content />
+    </article>
+
+    {stateLink && (
+      <div style="margin-top: var(--space-7); padding-top: var(--space-5); border-top: 1px solid var(--line);">
+        <div class="cluster" style="justify-content: space-between; flex-wrap: wrap; gap: var(--space-4);">
+          <div class="stack stack-2">
+            <span class="eyebrow">Find a farm</span>
+            <p style="margin: 0; color: var(--text-muted);">Browse {guide.data.region} farms in our directory.</p>
+          </div>
+          <Button variant="primary" href={stateLink}>Browse farms →</Button>
+        </div>
+      </div>
+    )}
+  </div>
+
+  <div class="container" aria-hidden="true" style="margin-top: var(--space-7);">
+    <div class="divider">
+      <span class="divider__seed"><Leaf /></span>
+      <PathLine class="is-drawn" />
+      <span class="divider__seed"><Leaf /></span>
+    </div>
+  </div>
+</BaseLayout>

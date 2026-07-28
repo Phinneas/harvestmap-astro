@@ -1,5 +1,5 @@
 ---
-interface Props { active?: 'home' | 'farms' | 'seasons' | 'states' | 'blog' | ''; }
+interface Props { active?: 'home' | 'farms' | 'seasons' | 'states' | 'guides' | 'blog' | ''; }
 const { active = '' } = Astro.props;
 
 const links = [
@@ -7,6 +7,7 @@ const links = [
   { id: 'farms', label: 'Browse farms', href: '/#directory' },
   { id: 'seasons', label: "What's in season", href: '/#seasons' },
   { id: 'states', label: 'By state', href: '/#states' },
+  { id: 'guides', label: 'Guides', href: '/guides' },
   { id: 'blog', label: 'Blog', href: '/blog' },
 ];
 ---
