@@ -1,0 +1,164 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Leaf from '../components/illustrations/Leaf.astro';
+
+const query = Astro.url.searchParams.get('q') || '';
+---
+<BaseLayout active="" title={`Search${query ? `: ${query}` : ''} · HarvestMap`} description="Search farms, guides, and harvest information across HarvestMap.">
+  <div class="container" style="padding-top: var(--space-7); max-width: 800px;">
+    <div class="section-head" style="margin-bottom: var(--space-6);">
+      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> Search</span>
+      <h1>Search HarvestMap</h1>
+      <p class="lead">Find farms, guides, and seasonal information across all our content.</p>
+    </div>
+
+    <div class="search search--large" style="margin-bottom: var(--space-6);">
+      <svg class="search__ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/>
+      </svg>
+      <input
+        id="pagefind-search"
+        type="search"
+        placeholder="Search farms, crops, guides, places…"
+        value={query}
+        autocomplete="off"
+        aria-label="Search HarvestMap"
+      />
+    </div>
+
+    <div id="pagefind-results" style="min-height: 200px;">
+      <p id="pagefind-initial" style="color: var(--text-muted);">Start typing to search across all farms, guides, and pages.</p>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .search--large {
+    font-size: var(--fs-body);
+  }
+  .search--large input {
+    font-size: var(--fs-body);
+    padding: var(--space-3) var(--space-3) var(--space-3) var(--space-7);
+  }
+  .search--large .search__ico {
+    width: 20px;
+    height: 20px;
+  }
+  .pf-result {
+    padding: var(--space-4) 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .pf-result:last-child {
+    border-bottom: none;
+  }
+  .pf-result__title {
+    font-weight: 700;
+    font-size: var(--fs-body);
+    margin: 0 0 var(--space-1) 0;
+  }
+  .pf-result__title a {
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .pf-result__title a:hover {
+    color: var(--clay-deep);
+  }
+  .pf-result__excerpt {
+    font-size: var(--fs-small);
+    color: var(--text-muted);
+    margin: 0;
+    line-height: 1.6;
+  }
+  .pf-result__excerpt mark {
+    background: color-mix(in srgb, var(--honey) 30%, var(--surface));
+    color: var(--ink);
+    padding: 0 2px;
+    border-radius: 2px;
+  }
+  .pf-result__url {
+    font-size: var(--fs-xs);
+    color: var(--clay-deep);
+    margin-top: var(--space-1);
+    display: block;
+  }
+</style>
+
+<script is:inline>
+  (async function () {
+    var input = document.getElementById('pagefind-search');
+    var resultsContainer = document.getElementById('pagefind-results');
+    var initialMsg = document.getElementById('pagefind-initial');
+    if (!input || !resultsContainer) return;
+
+    // Update URL with query param as user types
+    function updateUrl(q) {
+      var url = new URL(window.location);
+      if (q) url.searchParams.set('q', q);
+      else url.searchParams.delete('q');
+      window.history.replaceState({}, '', url);
+    }
+
+    // Lazy-load Pagefind only when needed
+    var pagefindSearch = null;
+    async function loadPagefind() {
+      if (pagefindSearch) return pagefindSearch;
+      try {
+        var mod = await import('/pagefind/pagefind.js');
+        pagefindSearch = mod.search;
+        return pagefindSearch;
+      } catch (e) {
+        resultsContainer.innerHTML = '<p style="color: var(--text-muted);">Search index not available. Run <code>npm run build</code> first.</p>';
+        return null;
+      }
+    }
+
+    function renderResults(results) {
+      if (!results || results.length === 0) {
+        resultsContainer.innerHTML = '<p style="color: var(--text-muted);">No results found. Try a different search term.</p>';
+        return;
+      }
+
+      var html = results.map(function (r) {
+        var title = r.meta && r.meta.title ? r.meta.title : r.url;
+        var excerpt = r.excerpt || '';
+        var url = r.url;
+        return '<div class="pf-result">' +
+          '<h3 class="pf-result__title"><a href="' + url + '">' + title + '</a></h3>' +
+          '<p class="pf-result__excerpt">' + excerpt + '</p>' +
+          '<span class="pf-result__url">' + url + '</span>' +
+          '</div>';
+      }).join('');
+
+      resultsContainer.innerHTML = html;
+    }
+
+    var debounceTimer;
+    async function doSearch(q) {
+      if (!q || q.trim().length < 2) {
+        if (initialMsg) initialMsg.style.display = '';
+        resultsContainer.innerHTML = '<p id="pagefind-initial" style="color: var(--text-muted);">Start typing to search across all farms, guides, and pages.</p>';
+        return;
+      }
+      if (initialMsg) initialMsg.style.display = 'none';
+
+      var search = await loadPagefind();
+      if (!search) return;
+
+      var result = await search(q);
+      renderResults(result.results);
+    }
+
+    input.addEventListener('input', function () {
+      var q = input.value.trim();
+      updateUrl(q);
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(function () { doSearch(q); }, 200);
+    });
+
+    // If there is a query in the URL on page load, run search immediately
+    var initialQuery = input.value.trim();
+    if (initialQuery) {
+      doSearch(initialQuery);
+    }
+  })();
+</script>
