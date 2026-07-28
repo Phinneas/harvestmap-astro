@@ -11,21 +11,50 @@
   "region": "Berries & honey",
   "image": "https://images.unsplash.com/photo-1466065478348-0b967011f8e0?q=75&w=1400&auto=format&fit=crop",
   "imageAlt": "A close-up mix of fresh summer berries",
-  "seasons": ["spring", "summer"],
+  "seasons": [
+    "spring",
+    "summer"
+  ],
   "peak": "summer",
-  "produce": ["Strawberries", "Raspberries", "Blueberries", "Wildflower honey"],
+  "produce": [
+    "Strawberries",
+    "Raspberries",
+    "Blueberries",
+    "Wildflower honey"
+  ],
   "inSeasonNow": true,
   "established": 2008,
   "stand": "U-pick Wed–Sun, 8am–6pm",
-  "practices": ["Pollinator-first", "No synthetic sprays", "Family-run"],
+  "practices": [
+    "Pollinator-first",
+    "No synthetic sprays",
+    "Family-run"
+  ],
   "description": [
     "Bramble & Bee began as four rows of strawberries and twelve hives. Today the patch runs on the same idea: keep the bees happy and the berries take care of themselves.",
     "It’s a U-pick first and foremost — bring a flat and a sun hat. The wildflower honey is pulled twice a season and sells out within days of the summer harvest."
   ],
   "calendar": [
-    { "name": "Strawberries", "months": "May – Jun", "season": "spring" },
-    { "name": "Raspberries", "months": "Jun – Aug", "season": "summer" },
-    { "name": "Blueberries", "months": "Jul – Aug", "season": "summer" },
-    { "name": "Wildflower honey", "months": "Aug", "season": "summer" }
-  ]
+    {
+      "name": "Strawberries",
+      "months": "May – Jun",
+      "season": "spring"
+    },
+    {
+      "name": "Raspberries",
+      "months": "Jun – Aug",
+      "season": "summer"
+    },
+    {
+      "name": "Blueberries",
+      "months": "Jul – Aug",
+      "season": "summer"
+    },
+    {
+      "name": "Wildflower honey",
+      "months": "Aug",
+      "season": "summer"
+    }
+  ],
+  "lastConfirmedAt": "2026-07-28"
 }

@@ -49,4 +49,5 @@ export interface Farm {
   practices?: string[];
   description?: string[];
   calendar?: CalendarEntry[];
+  lastConfirmedAt?: string; // ISO date when a submission was last approved for this farm
 }

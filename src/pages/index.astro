@@ -23,13 +23,30 @@ const inSeason = enrichedFarms.filter((f) => f.derivedInSeasonNow).length;
 const withCrops = enrichedFarms.length;
 const enriched = enrichedFarms.filter((f) => f.isEnriched).length;
 const countFor = (k: string) => enrichedFarms.filter((f) => (f.seasons || f.derivedSeasons).includes(k as any)).length;
+
+// "What's ripe this week" — farms with a recent lastConfirmedAt (within 30 days)
+const thirtyDaysAgo = new Date();
+thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+const recentlyConfirmed = enrichedFarms
+  .filter((f) => f.lastConfirmedAt && new Date(f.lastConfirmedAt) >= thirtyDaysAgo)
+  .sort((a, b) => new Date(b.lastConfirmedAt!).getTime() - new Date(a.lastConfirmedAt!).getTime());
+
+const confirmedCount = recentlyConfirmed.length;
+const topConfirmed = recentlyConfirmed.slice(0, 5);
+const confirmedNames = topConfirmed.map((f) => f.name);
+const bannerText = confirmedCount > 0
+  ? `${confirmedCount} ${confirmedCount === 1 ? 'farm was' : 'farms were'} confirmed harvesting this week${confirmedNames.length > 0 ? ' — ' + confirmedNames.slice(0, 3).join(', ') + (confirmedNames.length > 3 ? ' and more' : '') : ''}.`
+  : `${inSeason} of ${total} growers are in season right now. Help us confirm what's ripe — report from any farm page.`;
+const bannerEyebrow = confirmedCount > 0
+  ? 'Updated this week · community-confirmed'
+  : 'This season · find what\'s ripe near you';
 ---
 <BaseLayout active="home">
   <!-- Hero -->
   <div class="container" style="padding-top: var(--space-7);">
     <SeasonalBanner
-      eyebrow="Early June · Northern California"
-      text={`The stone fruit is blushing and the first berries are in. ${inSeason} of ${total} growers in your region are harvesting this week.`}
+      eyebrow={bannerEyebrow}
+      text={bannerText}
     />
     <div class="cluster" style="justify-content:center; gap:var(--space-6); margin-top:var(--space-5); color:var(--text-muted); font-size:var(--fs-small);">
       <span><b style="color:var(--clay-deep)">{total}</b> farms listed</span>
@@ -37,7 +54,28 @@ const countFor = (k: string) => enrichedFarms.filter((f) => (f.seasons || f.deri
       <span><b style="color:var(--clay-deep)">{withCrops}</b> with crop data</span>
       <span aria-hidden="true">·</span>
       <span><b style="color:var(--clay-deep)">{enriched}</b> fully enriched</span>
+      {confirmedCount > 0 && (
+        <>
+          <span aria-hidden="true">·</span>
+          <span><b style="color:var(--moss)">{confirmedCount}</b> confirmed this week</span>
+        </>
+      )}
     </div>
+
+    <!-- Recently confirmed farms strip -->
+    {confirmedCount > 0 && (
+      <div class="container" style="margin-top: var(--space-5);">
+        <div class="cluster" style="gap: var(--space-3); flex-wrap: wrap;">
+          {topConfirmed.map((f) => (
+            <a href={`/farms/${f.slug}`} class="panel" style="padding: var(--space-2) var(--space-4); text-decoration: none; display: inline-flex; align-items: center; gap: var(--space-2); border-color: var(--moss);">
+              <span class="badge__dot" style="background: var(--moss);"></span>
+              <span style="font-weight: 600; color: var(--ink);">{f.name}</span>
+              {f.derivedInSeasonNow && <span style="font-size: var(--fs-small); color: var(--moss);">harvesting now</span>}
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
   </div>
 
   <!-- Directory -->

@@ -11,21 +11,50 @@
   "region": "Apples, pears & cider",
   "image": "https://images.unsplash.com/photo-1757901797529-dea7878b0919?q=75&w=1400&auto=format&fit=crop",
   "imageAlt": "Ripe red apples hanging from a branch",
-  "seasons": ["autumn", "winter"],
+  "seasons": [
+    "autumn",
+    "winter"
+  ],
   "peak": "autumn",
-  "produce": ["Heirloom apples", "Pears", "Quince", "Cider"],
+  "produce": [
+    "Heirloom apples",
+    "Pears",
+    "Quince",
+    "Cider"
+  ],
   "inSeasonNow": false,
   "established": 1952,
   "stand": "Cider room open Sat–Sun, 11am–6pm",
-  "practices": ["Heirloom-preserving", "Wild-fermented cider", "Bird-friendly"],
+  "practices": [
+    "Heirloom-preserving",
+    "Wild-fermented cider",
+    "Bird-friendly"
+  ],
   "description": [
     "Frostapple is a living library of apples — eighty-odd varieties, many of them grafted from trees you can’t buy anymore. The names alone are worth the visit: Pitmaston Pineapple, Hauer Pippin, Black Gilliflower.",
     "Pressing starts in October and the wild-fermented cider rests in the barn through winter. The cider room pours flights on weekends once the first batch is ready."
   ],
   "calendar": [
-    { "name": "Early apples", "months": "Aug – Sep", "season": "summer" },
-    { "name": "Pears & Quince", "months": "Sep – Oct", "season": "autumn" },
-    { "name": "Heirloom apples", "months": "Oct – Nov", "season": "autumn" },
-    { "name": "Barrel cider", "months": "Dec – Mar", "season": "winter" }
-  ]
+    {
+      "name": "Early apples",
+      "months": "Aug – Sep",
+      "season": "summer"
+    },
+    {
+      "name": "Pears & Quince",
+      "months": "Sep – Oct",
+      "season": "autumn"
+    },
+    {
+      "name": "Heirloom apples",
+      "months": "Oct – Nov",
+      "season": "autumn"
+    },
+    {
+      "name": "Barrel cider",
+      "months": "Dec – Mar",
+      "season": "winter"
+    }
+  ],
+  "lastConfirmedAt": "2026-07-28"
 }

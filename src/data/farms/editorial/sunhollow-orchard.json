@@ -11,21 +11,51 @@
   "region": "Stone fruit & orchard",
   "image": "https://images.unsplash.com/photo-1542820243-983a04f67b73?q=75&w=1400&auto=format&fit=crop",
   "imageAlt": "Ripe peaches on a sunlit branch",
-  "seasons": ["summer", "autumn"],
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
   "peak": "summer",
-  "produce": ["Peaches", "Apricots", "Nectarines", "Plums", "Cherries"],
+  "produce": [
+    "Peaches",
+    "Apricots",
+    "Nectarines",
+    "Plums",
+    "Cherries"
+  ],
   "inSeasonNow": true,
   "established": 1971,
   "stand": "Farm stand open Fri–Sun, 9am–5pm",
-  "practices": ["Certified organic", "Dry-farmed", "Solar-powered pack house"],
+  "practices": [
+    "Certified organic",
+    "Dry-farmed",
+    "Solar-powered pack house"
+  ],
   "description": [
     "Sunhollow sits on a warm hillside where the fog burns off by mid-morning — exactly what stone fruit wants. The Marchetti family has worked these rows since 1971, and they still pick every peach by hand, ripe, into padded trays.",
     "Because the orchard is dry-farmed, the trees push their roots deep and the fruit comes off intense and floral. Come in July for the famous Cal Red peaches; the apricots are a blink-and-miss-it three weeks in June."
   ],
   "calendar": [
-    { "name": "Cherries", "months": "May – Jun", "season": "spring" },
-    { "name": "Apricots", "months": "June", "season": "summer" },
-    { "name": "Peaches & Nectarines", "months": "Jul – Aug", "season": "summer" },
-    { "name": "Plums", "months": "Aug – Sep", "season": "autumn" }
-  ]
+    {
+      "name": "Cherries",
+      "months": "May – Jun",
+      "season": "spring"
+    },
+    {
+      "name": "Apricots",
+      "months": "June",
+      "season": "summer"
+    },
+    {
+      "name": "Peaches & Nectarines",
+      "months": "Jul – Aug",
+      "season": "summer"
+    },
+    {
+      "name": "Plums",
+      "months": "Aug – Sep",
+      "season": "autumn"
+    }
+  ],
+  "lastConfirmedAt": "2026-07-28"
 }
