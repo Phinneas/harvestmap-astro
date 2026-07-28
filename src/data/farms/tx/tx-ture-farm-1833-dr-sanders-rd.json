@@ -1,0 +1,19 @@
+{
+  "slug": "tx-ture-farm-1833-dr-sanders-rd",
+  "name": "TX-Ture Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1833 Dr Sanders Rd, TX",
+  "locationCity": "1833 Dr Sanders Rd",
+  "locationState": "TX",
+  "locationZipcode": "76227",
+  "lat": 33.2397630173898,
+  "lon": -96.9774010111473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:20.899Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:20.899Z"
+}

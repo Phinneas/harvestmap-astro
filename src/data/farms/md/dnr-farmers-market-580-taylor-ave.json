@@ -1,0 +1,19 @@
+{
+  "slug": "dnr-farmers-market-580-taylor-ave",
+  "name": "DNR Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "580 Taylor Ave., MD",
+  "locationCity": "580 Taylor Ave.",
+  "locationState": "MD",
+  "locationZipcode": "21401",
+  "lat": 38.98297318607421,
+  "lon": -76.50548259553628,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.944Z"
+}

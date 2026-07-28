@@ -1,0 +1,19 @@
+{
+  "slug": "hoffmans-farm-market-800-hilliard-rome-road",
+  "name": "Hoffmans Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "800 Hilliard-Rome Road, OH",
+  "locationCity": "800 Hilliard-Rome Road",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 39.96692599727163,
+  "lon": -83.14597699937688,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:48.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:48.372Z"
+}

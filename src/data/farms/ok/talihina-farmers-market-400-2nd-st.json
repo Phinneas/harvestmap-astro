@@ -1,0 +1,19 @@
+{
+  "slug": "talihina-farmers-market-400-2nd-st",
+  "name": "Talihina Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 2nd St., OK",
+  "locationCity": "400 2nd St.",
+  "locationState": "OK",
+  "locationZipcode": "74571",
+  "lat": 34.75341254002904,
+  "lon": -95.04518194840658,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.529Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.529Z"
+}

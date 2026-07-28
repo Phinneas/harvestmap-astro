@@ -1,0 +1,19 @@
+{
+  "slug": "miracle-mile-farmers-market-5700-wilshire-blvd",
+  "name": "Miracle Mile Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5700 Wilshire Blvd., CA",
+  "locationCity": "5700 Wilshire Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "90036",
+  "lat": 34.062362840030744,
+  "lon": -118.35403025173426,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

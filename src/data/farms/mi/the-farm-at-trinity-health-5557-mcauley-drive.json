@@ -1,0 +1,20 @@
+{
+  "slug": "the-farm-at-trinity-health-5557-mcauley-drive",
+  "name": "The Farm at Trinity Health",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5557 McAuley Drive, MI",
+  "locationCity": "5557 McAuley Drive",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.2606654,
+  "lon": -83.6469801,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:56.158Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:56.158Z",
+  "crops": []
+}

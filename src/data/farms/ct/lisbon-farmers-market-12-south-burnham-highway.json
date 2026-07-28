@@ -1,0 +1,19 @@
+{
+  "slug": "lisbon-farmers-market-12-south-burnham-highway",
+  "name": "Lisbon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12 South Burnham Highway, CT",
+  "locationCity": "12 South Burnham Highway",
+  "locationState": "CT",
+  "locationZipcode": "",
+  "lat": 41.6035376,
+  "lon": -72.0173946,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.347Z"
+}

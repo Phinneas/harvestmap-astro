@@ -1,0 +1,19 @@
+{
+  "slug": "henry-s-fork-farmers-market-in-ashton-204-main-st",
+  "name": "Henry's Fork Farmers' Market in Ashton",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "204 Main St., ID",
+  "locationCity": "204 Main St.",
+  "locationState": "ID",
+  "locationZipcode": "83420",
+  "lat": 44.071059005368056,
+  "lon": -111.45254202720362,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

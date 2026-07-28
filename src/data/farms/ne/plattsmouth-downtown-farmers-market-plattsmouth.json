@@ -1,0 +1,19 @@
+{
+  "slug": "plattsmouth-downtown-farmers-market-plattsmouth",
+  "name": "Plattsmouth Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Plattsmouth, NE",
+  "locationCity": "Plattsmouth",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "lat": 41.005653,
+  "lon": -95.894144,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:03.888Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:03.888Z"
+}

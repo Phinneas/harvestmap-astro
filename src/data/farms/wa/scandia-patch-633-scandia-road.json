@@ -1,0 +1,19 @@
+{
+  "slug": "scandia-patch-633-scandia-road",
+  "name": "Scandia Patch",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "633 Scandia Road, WA",
+  "locationCity": "633 Scandia Road",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 47.71525900704566,
+  "lon": -122.65669302207263,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:12.648Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:12.648Z"
+}

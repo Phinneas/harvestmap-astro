@@ -1,0 +1,19 @@
+{
+  "slug": "city-heights-farmers-market-wightman-st-and-fairmount-ave",
+  "name": "City Heights Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Wightman St. and Fairmount Ave., CA",
+  "locationCity": "Wightman St. and Fairmount Ave.",
+  "locationState": "CA",
+  "locationZipcode": "92125",
+  "lat": 32.74774002039234,
+  "lon": -117.10092997043438,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

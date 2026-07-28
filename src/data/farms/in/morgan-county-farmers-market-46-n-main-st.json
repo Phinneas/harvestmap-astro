@@ -1,0 +1,19 @@
+{
+  "slug": "morgan-county-farmers-market-46-n-main-st",
+  "name": "Morgan County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "46 N. Main St., IN",
+  "locationCity": "46 N. Main St.",
+  "locationState": "IN",
+  "locationZipcode": "46151",
+  "lat": 39.42734063475986,
+  "lon": -86.42858970463925,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

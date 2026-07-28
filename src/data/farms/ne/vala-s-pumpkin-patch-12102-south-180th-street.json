@@ -1,0 +1,19 @@
+{
+  "slug": "vala-s-pumpkin-patch-12102-south-180th-street",
+  "name": "Vala's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12102 South 180th Street, NE",
+  "locationCity": "12102 South 180th Street",
+  "locationState": "NE",
+  "locationZipcode": "12102",
+  "lat": 41.129496009615,
+  "lon": -96.1998299584723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:58.098Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:58.098Z"
+}

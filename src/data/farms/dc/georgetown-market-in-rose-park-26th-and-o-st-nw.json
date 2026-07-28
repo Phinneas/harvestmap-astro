@@ -1,0 +1,19 @@
+{
+  "slug": "georgetown-market-in-rose-park-26th-and-o-st-nw",
+  "name": "Georgetown Market in Rose Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "26th and O St. NW, DC",
+  "locationCity": "26th and O St. NW",
+  "locationState": "DC",
+  "locationZipcode": "20007",
+  "lat": 38.90856381177695,
+  "lon": -77.01037904709871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

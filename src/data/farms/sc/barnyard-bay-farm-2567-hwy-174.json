@@ -1,0 +1,19 @@
+{
+  "slug": "barnyard-bay-farm-2567-hwy-174",
+  "name": "Barnyard Bay Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2567 Hwy. 174, SC",
+  "locationCity": "2567 Hwy. 174",
+  "locationState": "SC",
+  "locationZipcode": "29438",
+  "lat": 32.5810806901209,
+  "lon": -80.3341862589438,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:45.393Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:45.393Z"
+}

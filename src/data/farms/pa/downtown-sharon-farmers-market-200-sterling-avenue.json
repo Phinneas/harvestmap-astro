@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-sharon-farmers-market-200-sterling-avenue",
+  "name": "Downtown Sharon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Sterling Avenue, PA",
+  "locationCity": "200 Sterling Avenue",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "lat": 41.22905979999999,
+  "lon": -80.5115015,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.660Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.660Z"
+}

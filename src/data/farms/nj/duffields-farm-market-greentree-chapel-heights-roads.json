@@ -1,0 +1,19 @@
+{
+  "slug": "duffields-farm-market-greentree-chapel-heights-roads",
+  "name": "Duffields Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Greentree Chapel Heights Roads, NJ",
+  "locationCity": "Greentree Chapel Heights Roads",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "lat": 39.73618951177462,
+  "lon": -75.09267375756647,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:43.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:43.212Z"
+}

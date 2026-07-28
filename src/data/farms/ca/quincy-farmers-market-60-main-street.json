@@ -1,0 +1,19 @@
+{
+  "slug": "quincy-farmers-market-60-main-street",
+  "name": "Quincy Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "60 Main Street, CA",
+  "locationCity": "60 Main Street",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 39.9373327,
+  "lon": -120.938577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.737Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.737Z"
+}

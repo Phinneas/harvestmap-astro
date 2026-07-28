@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-tracy-farmers-market-10th-st-and-central-ave",
+  "name": "Downtown Tracy Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10th St. and Central Ave., CA",
+  "locationCity": "10th St. and Central Ave.",
+  "locationState": "CA",
+  "locationZipcode": "95376",
+  "lat": 37.738500017551004,
+  "lon": -121.42592998287917,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

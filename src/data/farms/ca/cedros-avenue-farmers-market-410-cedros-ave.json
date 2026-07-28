@@ -1,0 +1,19 @@
+{
+  "slug": "cedros-avenue-farmers-market-410-cedros-ave",
+  "name": "Cedros Avenue Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "410 Cedros Ave., CA",
+  "locationCity": "410 Cedros Ave.",
+  "locationState": "CA",
+  "locationZipcode": "92075",
+  "lat": 32.99696107019551,
+  "lon": -117.27222782081802,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kansas-city-food-hub-3119-terrace-st",
+  "name": "Kansas City Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3119 Terrace St, MO",
+  "locationCity": "3119 Terrace St",
+  "locationState": "MO",
+  "locationZipcode": "",
+  "lat": 39.0701968,
+  "lon": -94.6027877,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:37.040Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:37.040Z"
+}

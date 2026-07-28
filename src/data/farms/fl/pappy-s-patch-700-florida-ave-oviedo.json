@@ -1,0 +1,19 @@
+{
+  "slug": "pappy-s-patch-700-florida-ave-oviedo",
+  "name": "Pappy's Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "700 Florida Ave Oviedo, FL",
+  "locationCity": "700 Florida Ave Oviedo",
+  "locationState": "FL",
+  "locationZipcode": "32765",
+  "lat": 28.6921831574802,
+  "lon": -81.1964241447934,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:56.511Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:56.511Z"
+}

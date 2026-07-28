@@ -1,0 +1,19 @@
+{
+  "slug": "broomfield-farmers-market-1700-w-10th-ave",
+  "name": "Broomfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1700 W. 10th Ave., CO",
+  "locationCity": "1700 W. 10th Ave.",
+  "locationState": "CO",
+  "locationZipcode": "80020",
+  "lat": 39.92885245568665,
+  "lon": -105.08918274323268,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

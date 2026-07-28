@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-highlands-square-3489-w-32nd-ave",
+  "name": "Farmers' Market at Highlands Square",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3489 W. 32nd Ave., CO",
+  "locationCity": "3489 W. 32nd Ave.",
+  "locationState": "CO",
+  "locationZipcode": "80211",
+  "lat": 39.76213805428507,
+  "lon": -105.0333337587567,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

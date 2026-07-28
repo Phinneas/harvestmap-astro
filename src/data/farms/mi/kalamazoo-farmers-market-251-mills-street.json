@@ -1,0 +1,19 @@
+{
+  "slug": "kalamazoo-farmers-market-251-mills-street",
+  "name": "Kalamazoo Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "251 Mills Street, MI",
+  "locationCity": "251 Mills Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.29147710029007,
+  "lon": -85.56646734955487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

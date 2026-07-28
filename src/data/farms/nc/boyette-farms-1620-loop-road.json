@@ -1,0 +1,19 @@
+{
+  "slug": "boyette-farms-1620-loop-road",
+  "name": "Boyette Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1620 Loop Road, NC",
+  "locationCity": "1620 Loop Road",
+  "locationState": "NC",
+  "locationZipcode": "27527",
+  "lat": 35.6766186882555,
+  "lon": -78.4242238763285,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.456Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.456Z"
+}

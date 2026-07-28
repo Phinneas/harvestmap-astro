@@ -1,0 +1,19 @@
+{
+  "slug": "northleaf-winery-llc-232-s-janesville-street",
+  "name": "Northleaf Winery, LLC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "232 S Janesville Street, WI",
+  "locationCity": "232 S Janesville Street",
+  "locationState": "WI",
+  "locationZipcode": "53563",
+  "lat": 42.7745259798945,
+  "lon": -88.936461000208,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:29.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:29.825Z"
+}

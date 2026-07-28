@@ -1,0 +1,19 @@
+{
+  "slug": "farmbox-sf-san-francisco",
+  "name": "FarmBox SF",
+  "source": "usda",
+  "directory": "csa",
+  "location": "San Francisco, CA",
+  "locationCity": "San Francisco",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 37.7749295,
+  "lon": -122.4194155,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:57.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:57.222Z"
+}

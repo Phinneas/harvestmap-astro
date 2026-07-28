@@ -1,0 +1,19 @@
+{
+  "slug": "blairsville-downtown-farmers-market-75-n-morrow-st",
+  "name": "Blairsville Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "75 N. Morrow St., PA",
+  "locationCity": "75 N. Morrow St.",
+  "locationState": "PA",
+  "locationZipcode": "15717",
+  "lat": 40.43244442490057,
+  "lon": -79.25921126616737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

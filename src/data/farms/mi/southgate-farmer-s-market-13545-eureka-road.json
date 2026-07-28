@@ -1,0 +1,19 @@
+{
+  "slug": "southgate-farmer-s-market-13545-eureka-road",
+  "name": "Southgate Farmer s Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13545 Eureka Road, MI",
+  "locationCity": "13545 Eureka Road",
+  "locationState": "MI",
+  "locationZipcode": "13545",
+  "lat": 42.19930397551317,
+  "lon": -83.1905142345141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

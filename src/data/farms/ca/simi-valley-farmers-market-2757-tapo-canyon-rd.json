@@ -1,0 +1,19 @@
+{
+  "slug": "simi-valley-farmers-market-2757-tapo-canyon-rd",
+  "name": "Simi Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2757 Tapo Canyon Rd., CA",
+  "locationCity": "2757 Tapo Canyon Rd.",
+  "locationState": "CA",
+  "locationZipcode": "93063",
+  "lat": 34.28510999739408,
+  "lon": -118.70902938545287,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

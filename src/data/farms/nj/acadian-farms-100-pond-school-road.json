@@ -1,0 +1,19 @@
+{
+  "slug": "acadian-farms-100-pond-school-road",
+  "name": "Acadian Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 Pond School Road, NJ",
+  "locationCity": "100 Pond School Road",
+  "locationState": "NJ",
+  "locationZipcode": "07461",
+  "lat": 41.174451006192,
+  "lon": -74.6153770175834,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:36.014Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:36.014Z"
+}

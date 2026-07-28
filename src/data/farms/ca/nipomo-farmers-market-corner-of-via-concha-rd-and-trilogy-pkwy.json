@@ -1,0 +1,19 @@
+{
+  "slug": "nipomo-farmers-market-corner-of-via-concha-rd-and-trilogy-pkwy",
+  "name": "Nipomo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "corner of Via Concha Rd. and Trilogy Pkwy., CA",
+  "locationCity": "corner of Via Concha Rd. and Trilogy Pkwy.",
+  "locationState": "CA",
+  "locationZipcode": "93444",
+  "lat": 35.03150998849027,
+  "lon": -120.55144996407975,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

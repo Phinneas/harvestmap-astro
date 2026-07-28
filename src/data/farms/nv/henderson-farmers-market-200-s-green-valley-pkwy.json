@@ -1,0 +1,19 @@
+{
+  "slug": "henderson-farmers-market-200-s-green-valley-pkwy",
+  "name": "Henderson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 S.Green Valley Pkwy., NV",
+  "locationCity": "200 S.Green Valley Pkwy.",
+  "locationState": "NV",
+  "locationZipcode": "89015",
+  "lat": 36.02153297990528,
+  "lon": -115.08389581293773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:17.062Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:17.062Z"
+}

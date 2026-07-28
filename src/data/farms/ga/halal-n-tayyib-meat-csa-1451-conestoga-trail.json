@@ -1,0 +1,20 @@
+{
+  "slug": "halal-n-tayyib-meat-csa-1451-conestoga-trail",
+  "name": "Halal-N-Tayyib Meat CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1451 Conestoga Trail, GA",
+  "locationCity": "1451 Conestoga Trail",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "lat": 32.8538722,
+  "lon": -83.7715983,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:11.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:11.091Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "santa-monica-farmers-market-arizona-ave-and-4th-st",
+  "name": "Santa Monica Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Arizona Ave. and 4th St., CA",
+  "locationCity": "Arizona Ave. and 4th St.",
+  "locationState": "CA",
+  "locationZipcode": "90401",
+  "lat": 34.01777998731369,
+  "lon": -118.49676998262143,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

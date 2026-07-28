@@ -1,0 +1,19 @@
+{
+  "slug": "laguna-hills-certified-farmers-market-24155-laguna-hills-mall",
+  "name": "Laguna Hills Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24155 Laguna Hills Mall, CA",
+  "locationCity": "24155 Laguna Hills Mall",
+  "locationState": "CA",
+  "locationZipcode": "24155",
+  "lat": 33.61169613056627,
+  "lon": -117.7090477571115,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

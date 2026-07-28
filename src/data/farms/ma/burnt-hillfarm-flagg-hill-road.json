@@ -1,0 +1,19 @@
+{
+  "slug": "burnt-hillfarm-flagg-hill-road",
+  "name": "Burnt HillFarm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Flagg Hill Road, MA",
+  "locationCity": "Flagg Hill Road",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.6636587475573,
+  "lon": -72.798836180339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.346Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.346Z"
+}

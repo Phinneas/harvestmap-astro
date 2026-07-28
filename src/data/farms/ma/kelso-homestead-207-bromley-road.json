@@ -1,0 +1,19 @@
+{
+  "slug": "kelso-homestead-207-bromley-road",
+  "name": "Kelso Homestead",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "207 Bromley Road, MA",
+  "locationCity": "207 Bromley Road",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.2786576590867,
+  "lon": -72.9069284782312,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.343Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.343Z"
+}

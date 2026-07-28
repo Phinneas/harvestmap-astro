@@ -1,0 +1,19 @@
+{
+  "slug": "paw-paw-farmers-market-118-south-gremps-street",
+  "name": "Paw Paw Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "118 South Gremps Street, MI",
+  "locationCity": "118 South Gremps Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.216797718942274,
+  "lon": -85.89283562829647,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "winnsboro-farmers-market-111-east-carnegie-street",
+  "name": "Winnsboro Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 East Carnegie Street, TX",
+  "locationCity": "111 East Carnegie Street",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "lat": 32.9560358,
+  "lon": -95.28800059999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.063Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.063Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wesleyan-market-4760-forsyth-rd",
+  "name": "Wesleyan Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4760 Forsyth Rd., GA",
+  "locationCity": "4760 Forsyth Rd.",
+  "locationState": "GA",
+  "locationZipcode": "31210",
+  "lat": 32.87761285865671,
+  "lon": -83.71811539542531,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.375Z"
+}

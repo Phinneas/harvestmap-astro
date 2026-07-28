@@ -1,0 +1,20 @@
+{
+  "slug": "midtown-farmers-market-20th-st-k",
+  "name": "Midtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20th St. & K, CA",
+  "locationCity": "20th St. & K",
+  "locationState": "CA",
+  "locationZipcode": "95811",
+  "lat": 38.5756000171302,
+  "lon": -121.48037999937328,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z",
+  "crops": []
+}

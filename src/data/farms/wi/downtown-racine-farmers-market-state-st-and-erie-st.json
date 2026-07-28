@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-racine-farmers-market-state-st-and-erie-st",
+  "name": "Downtown Racine Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "State St. and Erie St., WI",
+  "locationCity": "State St. and Erie St.",
+  "locationState": "WI",
+  "locationZipcode": "53402",
+  "lat": 42.73161998145824,
+  "lon": -87.78706000549116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

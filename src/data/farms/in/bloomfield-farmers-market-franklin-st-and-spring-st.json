@@ -1,0 +1,19 @@
+{
+  "slug": "bloomfield-farmers-market-franklin-st-and-spring-st",
+  "name": "Bloomfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Franklin St. and Spring St., IN",
+  "locationCity": "Franklin St. and Spring St.",
+  "locationState": "IN",
+  "locationZipcode": "47424",
+  "lat": 39.02313647761633,
+  "lon": -86.93850187280296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

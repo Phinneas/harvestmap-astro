@@ -1,0 +1,19 @@
+{
+  "slug": "ojai-community-farmers-market-414-east-ojai-avenue",
+  "name": "Ojai Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "414 East Ojai Avenue, CA",
+  "locationCity": "414 East Ojai Avenue",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 34.4483321,
+  "lon": -119.2418397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.737Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.737Z"
+}

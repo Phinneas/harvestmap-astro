@@ -1,0 +1,19 @@
+{
+  "slug": "ottsville-farmers-market-8230-easton-rd",
+  "name": "Ottsville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8230 Easton Rd., PA",
+  "locationCity": "8230 Easton Rd.",
+  "locationState": "PA",
+  "locationZipcode": "18942",
+  "lat": 40.489086390668135,
+  "lon": -75.17262772808209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "waldo-farmers-market-303-w-79th-st",
+  "name": "Waldo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "303 W. 79th St., MO",
+  "locationCity": "303 W. 79th St.",
+  "locationState": "MO",
+  "locationZipcode": "64114",
+  "lat": 38.98500892953959,
+  "lon": -94.59320620926725,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

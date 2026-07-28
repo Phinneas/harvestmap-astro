@@ -1,0 +1,19 @@
+{
+  "slug": "gualala-farmers-market-47950-center-st",
+  "name": "Gualala Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "47950 Center St., CA",
+  "locationCity": "47950 Center St.",
+  "locationState": "CA",
+  "locationZipcode": "47950",
+  "lat": 38.76627630457313,
+  "lon": -123.52752528423841,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

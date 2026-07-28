@@ -1,0 +1,19 @@
+{
+  "slug": "phil-sims-farm-comer",
+  "name": "Phil Sims Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Comer, GA",
+  "locationCity": "Comer",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "lat": 34.0042310180162,
+  "lon": -83.0984139736269,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:08.742Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:08.742Z"
+}

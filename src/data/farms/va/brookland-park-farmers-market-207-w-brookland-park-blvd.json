@@ -1,0 +1,19 @@
+{
+  "slug": "brookland-park-farmers-market-207-w-brookland-park-blvd",
+  "name": "Brookland Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "207 W. Brookland Park Blvd., VA",
+  "locationCity": "207 W. Brookland Park Blvd.",
+  "locationState": "VA",
+  "locationZipcode": "23222",
+  "lat": 37.571598549989105,
+  "lon": -77.43524210605169,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-green-chefs-farmers-market-333-s-valley-view-blvd",
+  "name": "The Green Chefs Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "333 S. Valley View Blvd., NV",
+  "locationCity": "333 S. Valley View Blvd.",
+  "locationState": "NV",
+  "locationZipcode": "89107",
+  "lat": 36.16873748757989,
+  "lon": -115.19257105522088,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:17.062Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:17.062Z"
+}

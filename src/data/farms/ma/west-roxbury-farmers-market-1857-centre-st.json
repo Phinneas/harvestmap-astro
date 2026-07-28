@@ -1,0 +1,19 @@
+{
+  "slug": "west-roxbury-farmers-market-1857-centre-st",
+  "name": "West Roxbury Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1857 Centre St., MA",
+  "locationCity": "1857 Centre St.",
+  "locationState": "MA",
+  "locationZipcode": "02132",
+  "lat": 42.286205863555224,
+  "lon": -71.15477287971724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "beck-brother-s-blueberries-12500-overstreet-rd",
+  "name": "Beck Brother's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12500 Overstreet Rd, FL",
+  "locationCity": "12500 Overstreet Rd",
+  "locationState": "FL",
+  "locationZipcode": "12500",
+  "lat": 28.4605299860521,
+  "lon": -81.5650376708115,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:56.487Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:56.487Z"
+}

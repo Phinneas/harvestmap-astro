@@ -1,0 +1,19 @@
+{
+  "slug": "aventura-mall-19501-biscayne-blvd",
+  "name": "Aventura Mall",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "19501 Biscayne Blvd., FL",
+  "locationCity": "19501 Biscayne Blvd.",
+  "locationState": "FL",
+  "locationZipcode": "19501",
+  "lat": 25.9589609997156,
+  "lon": -80.1445659995752,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:56.499Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:56.499Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmington-farmers-market-814-e-karsch-blvd",
+  "name": "Farmington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "814 E. Karsch Blvd., MO",
+  "locationCity": "814 E. Karsch Blvd.",
+  "locationState": "MO",
+  "locationZipcode": "63640",
+  "lat": 37.782591957997504,
+  "lon": -90.40765683648873,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

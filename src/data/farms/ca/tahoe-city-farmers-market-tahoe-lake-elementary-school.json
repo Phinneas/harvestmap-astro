@@ -1,0 +1,19 @@
+{
+  "slug": "tahoe-city-farmers-market-tahoe-lake-elementary-school",
+  "name": "Tahoe City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Tahoe Lake Elementary School, CA",
+  "locationCity": "Tahoe Lake Elementary School",
+  "locationState": "CA",
+  "locationZipcode": "96145",
+  "lat": 39.173672990488654,
+  "lon": -120.1423099917091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

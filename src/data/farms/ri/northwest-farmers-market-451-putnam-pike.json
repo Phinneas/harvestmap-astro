@@ -1,0 +1,19 @@
+{
+  "slug": "northwest-farmers-market-451-putnam-pike",
+  "name": "Northwest Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "451 Putnam Pike, RI",
+  "locationCity": "451 Putnam Pike",
+  "locationState": "RI",
+  "locationZipcode": "02814",
+  "lat": 41.896174963663896,
+  "lon": -71.61585565006266,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:38.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:38.801Z"
+}

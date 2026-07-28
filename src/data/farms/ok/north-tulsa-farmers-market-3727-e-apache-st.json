@@ -1,0 +1,19 @@
+{
+  "slug": "north-tulsa-farmers-market-3727-e-apache-st",
+  "name": "North Tulsa Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3727 E. Apache St., OK",
+  "locationCity": "3727 E. Apache St.",
+  "locationState": "OK",
+  "locationZipcode": "74115",
+  "lat": 36.191579992611715,
+  "lon": -95.93604505170681,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

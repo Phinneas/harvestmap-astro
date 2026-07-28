@@ -1,0 +1,19 @@
+{
+  "slug": "transylvania-farmers-market-190-e-main-st",
+  "name": "Transylvania Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "190 E. Main St., NC",
+  "locationCity": "190 E. Main St.",
+  "locationState": "NC",
+  "locationZipcode": "28712",
+  "lat": 35.23257887967785,
+  "lon": -82.73172536626171,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

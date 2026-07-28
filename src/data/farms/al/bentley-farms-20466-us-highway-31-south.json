@@ -1,0 +1,19 @@
+{
+  "slug": "bentley-farms-20466-us-highway-31-south",
+  "name": "Bentley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "20466 US Highway 31 South, AL",
+  "locationCity": "20466 US Highway 31 South",
+  "locationState": "AL",
+  "locationZipcode": "20466",
+  "lat": 32.9080699863416,
+  "lon": -86.7087079615838,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:01.710Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:01.710Z"
+}

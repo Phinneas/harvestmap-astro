@@ -1,0 +1,19 @@
+{
+  "slug": "cadott-farmer-s-market-riverview-park",
+  "name": "Cadott Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Riverview Park, WI",
+  "locationCity": "Riverview Park",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "lat": 44.9536963,
+  "lon": -91.14667530000001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.617Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.617Z"
+}

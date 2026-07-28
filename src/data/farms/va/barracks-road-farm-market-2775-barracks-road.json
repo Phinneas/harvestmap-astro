@@ -1,0 +1,19 @@
+{
+  "slug": "barracks-road-farm-market-2775-barracks-road",
+  "name": "Barracks Road Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2775 Barracks Road, VA",
+  "locationCity": "2775 Barracks Road",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "lat": 38.0676649,
+  "lon": -78.51681099999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:01.649Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:01.649Z"
+}

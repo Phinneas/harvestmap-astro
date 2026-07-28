@@ -1,0 +1,19 @@
+{
+  "slug": "town-and-country-farmers-market-2021-e-camelback-rd",
+  "name": "Town and Country Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2021 E. Camelback Rd., AZ",
+  "locationCity": "2021 E. Camelback Rd.",
+  "locationState": "AZ",
+  "locationZipcode": "85016",
+  "lat": 33.50925186432258,
+  "lon": -112.03838733086226,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

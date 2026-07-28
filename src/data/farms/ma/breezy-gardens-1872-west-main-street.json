@@ -1,0 +1,19 @@
+{
+  "slug": "breezy-gardens-1872-west-main-street",
+  "name": "Breezy Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1872 West Main Street, MA",
+  "locationCity": "1872 West Main Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.2561691385955,
+  "lon": -71.9504021163799,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.320Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.320Z"
+}

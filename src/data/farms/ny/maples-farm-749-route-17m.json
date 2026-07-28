@@ -1,0 +1,19 @@
+{
+  "slug": "maples-farm-749-route-17m",
+  "name": "Maples Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "749 Route 17M, NY",
+  "locationCity": "749 Route 17M",
+  "locationState": "NY",
+  "locationZipcode": "10940",
+  "lat": 41.4830030274964,
+  "lon": -74.4155083570702,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.639Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.639Z"
+}

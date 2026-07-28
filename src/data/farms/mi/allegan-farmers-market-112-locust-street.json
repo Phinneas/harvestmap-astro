@@ -1,0 +1,19 @@
+{
+  "slug": "allegan-farmers-market-112-locust-street",
+  "name": "Allegan Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 Locust Street, MI",
+  "locationCity": "112 Locust Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.5278016810121,
+  "lon": -85.84929329284415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

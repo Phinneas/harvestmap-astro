@@ -1,0 +1,19 @@
+{
+  "slug": "st-paul-s-downtown-farm-market-201-saint-pauls-blvd",
+  "name": "St. Paul's Downtown Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 Saint Pauls Blvd., VA",
+  "locationCity": "201 Saint Pauls Blvd.",
+  "locationState": "VA",
+  "locationZipcode": "23510",
+  "lat": 36.847119159813936,
+  "lon": -76.28534646582122,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.478Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.478Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mason-area-farmers-market-304-south-jefferson-street",
+  "name": "Mason Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "304 South Jefferson Street, MI",
+  "locationCity": "304 South Jefferson Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.58011774312108,
+  "lon": -84.44311904306065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

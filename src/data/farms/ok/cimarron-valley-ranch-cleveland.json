@@ -1,0 +1,19 @@
+{
+  "slug": "cimarron-valley-ranch-cleveland",
+  "name": "Cimarron Valley Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cleveland, OK",
+  "locationCity": "Cleveland",
+  "locationState": "OK",
+  "locationZipcode": "74020",
+  "lat": 36.3106300000001,
+  "lon": -96.4665899999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:52.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:52.747Z"
+}

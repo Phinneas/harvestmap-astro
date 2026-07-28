@@ -1,0 +1,19 @@
+{
+  "slug": "fox-run-vineyards-670-route-14",
+  "name": "Fox Run Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "670 Route 14, NY",
+  "locationCity": "670 Route 14",
+  "locationState": "NY",
+  "locationZipcode": "14527",
+  "lat": 42.7315183089727,
+  "lon": -76.9722882271615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.645Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.645Z"
+}

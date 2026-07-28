@@ -1,0 +1,19 @@
+{
+  "slug": "encinitas-station-certified-farmers-market-600-s-vulcan-ave",
+  "name": "Encinitas Station Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 S. Vulcan Ave., CA",
+  "locationCity": "600 S. Vulcan Ave.",
+  "locationState": "CA",
+  "locationZipcode": "92024",
+  "lat": 33.044744206937985,
+  "lon": -117.29244873714707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

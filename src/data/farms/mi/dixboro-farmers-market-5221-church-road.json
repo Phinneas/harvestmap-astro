@@ -1,0 +1,19 @@
+{
+  "slug": "dixboro-farmers-market-5221-church-road",
+  "name": "Dixboro Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5221 Church Road, MI",
+  "locationCity": "5221 Church Road",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.31311716190353,
+  "lon": -83.65712755975096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

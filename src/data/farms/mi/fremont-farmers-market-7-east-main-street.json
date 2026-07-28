@@ -1,0 +1,19 @@
+{
+  "slug": "fremont-farmers-market-7-east-main-street",
+  "name": "Fremont Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7 East Main Street, MI",
+  "locationCity": "7 East Main Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.46712290101631,
+  "lon": -85.94465990622402,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "marty-s-local-10-greenfield-road",
+  "name": "Marty\\'s Local",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "10 Greenfield Road, MA",
+  "locationCity": "10 Greenfield Road",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.4723929,
+  "lon": -72.6128069,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:46.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:46.728Z"
+}

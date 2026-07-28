@@ -1,0 +1,19 @@
+{
+  "slug": "collins-garden-park-farmers-market-200-n-park-blvd",
+  "name": "Collins Garden Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 N. Park Blvd., TX",
+  "locationCity": "200 N. Park Blvd.",
+  "locationState": "TX",
+  "locationZipcode": "78204",
+  "lat": 29.398538767116452,
+  "lon": -98.51462679587169,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

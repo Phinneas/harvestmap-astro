@@ -1,0 +1,19 @@
+{
+  "slug": "market-street-fair-market-1560-market-st",
+  "name": "Market Street Fair Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1560 Market St., CA",
+  "locationCity": "1560 Market St.",
+  "locationState": "CA",
+  "locationZipcode": "96001",
+  "lat": 40.583759688599585,
+  "lon": -122.3905781013715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

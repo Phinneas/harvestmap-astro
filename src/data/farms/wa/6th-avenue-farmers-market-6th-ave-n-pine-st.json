@@ -1,0 +1,19 @@
+{
+  "slug": "6th-avenue-farmers-market-6th-ave-n-pine-st",
+  "name": "6th Avenue Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6th Ave. & N. Pine St., WA",
+  "locationCity": "6th Ave. & N. Pine St.",
+  "locationState": "WA",
+  "locationZipcode": "98406",
+  "lat": 47.255409987296645,
+  "lon": -122.47362001914234,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

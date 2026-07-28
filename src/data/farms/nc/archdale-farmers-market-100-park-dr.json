@@ -1,0 +1,19 @@
+{
+  "slug": "archdale-farmers-market-100-park-dr",
+  "name": "Archdale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Park Dr., NC",
+  "locationCity": "100 Park Dr.",
+  "locationState": "NC",
+  "locationZipcode": "27263",
+  "lat": 35.89213616858472,
+  "lon": -79.935445135753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.461Z"
+}

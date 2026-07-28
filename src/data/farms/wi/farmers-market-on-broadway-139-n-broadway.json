@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-on-broadway-139-n-broadway",
+  "name": "Farmers' Market on Broadway",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "139 N. Broadway, WI",
+  "locationCity": "139 N. Broadway",
+  "locationState": "WI",
+  "locationZipcode": "54303",
+  "lat": 44.517083540077266,
+  "lon": -88.02138250433569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

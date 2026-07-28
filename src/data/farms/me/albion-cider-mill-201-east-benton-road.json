@@ -1,0 +1,19 @@
+{
+  "slug": "albion-cider-mill-201-east-benton-road",
+  "name": "Albion Cider Mill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "201 East Benton Road, ME",
+  "locationCity": "201 East Benton Road",
+  "locationState": "ME",
+  "locationZipcode": "04910",
+  "lat": 44.5528717615372,
+  "lon": -69.4452995406718,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.492Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-farmers-market-369-old-hwy-14",
+  "name": "Harvest Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "369 Old Hwy.14, WY",
+  "locationCity": "369 Old Hwy.14",
+  "locationState": "WY",
+  "locationZipcode": "82729",
+  "lat": 44.50095528020868,
+  "lon": -104.22475643880651,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:46.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:46.336Z"
+}

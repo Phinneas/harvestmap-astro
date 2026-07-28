@@ -1,0 +1,19 @@
+{
+  "slug": "lower-burrell-farmers-market-115-schreiber-st",
+  "name": "Lower Burrell Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 Schreiber St., PA",
+  "locationCity": "115 Schreiber St.",
+  "locationState": "PA",
+  "locationZipcode": "15068",
+  "lat": 40.58999174511703,
+  "lon": -79.72683521990986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

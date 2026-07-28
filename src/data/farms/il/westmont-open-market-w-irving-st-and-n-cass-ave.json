@@ -1,0 +1,19 @@
+{
+  "slug": "westmont-open-market-w-irving-st-and-n-cass-ave",
+  "name": "Westmont Open Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "W. Irving St. and N Cass Ave., IL",
+  "locationCity": "W. Irving St. and N Cass Ave.",
+  "locationState": "IL",
+  "locationZipcode": "60559",
+  "lat": 41.79769001519199,
+  "lon": -87.97541000320362,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

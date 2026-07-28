@@ -1,0 +1,19 @@
+{
+  "slug": "angle-orchard-mount-graham",
+  "name": "Angle Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mount Graham, AZ",
+  "locationCity": "Mount Graham",
+  "locationState": "AZ",
+  "locationZipcode": "",
+  "lat": 32.80689525,
+  "lon": -109.77122780565179,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:29.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:29.455Z"
+}

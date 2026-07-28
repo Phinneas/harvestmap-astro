@@ -1,0 +1,19 @@
+{
+  "slug": "tuttle-orchards-5717-north-300-west",
+  "name": "Tuttle Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5717 North 300 West, IN",
+  "locationCity": "5717 North 300 West",
+  "locationState": "IN",
+  "locationZipcode": "46140",
+  "lat": 39.8668340034163,
+  "lon": -85.8597220042067,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:01.401Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:01.401Z"
+}

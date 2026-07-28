@@ -1,0 +1,19 @@
+{
+  "slug": "casa-grande-farmers-market-110-w-florence-blvd",
+  "name": "Casa Grande Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 W. Florence Blvd., AZ",
+  "locationCity": "110 W. Florence Blvd.",
+  "locationState": "AZ",
+  "locationZipcode": "85222",
+  "lat": 32.88008595485245,
+  "lon": -111.75440704997368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

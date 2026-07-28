@@ -1,0 +1,19 @@
+{
+  "slug": "buckeye-foodhub-3086-wilce-ave-columbus",
+  "name": "Buckeye Foodhub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3086 Wilce Ave Columbus, OH",
+  "locationCity": "3086 Wilce Ave Columbus",
+  "locationState": "OH",
+  "locationZipcode": "43202",
+  "lat": 40.02291099169426,
+  "lon": -83.0325939892943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:46.639Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:46.639Z"
+}

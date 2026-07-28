@@ -1,0 +1,19 @@
+{
+  "slug": "sutherlin-farmers-market-215-w-central-ave",
+  "name": "Sutherlin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 W. Central Ave., OR",
+  "locationCity": "215 W. Central Ave.",
+  "locationState": "OR",
+  "locationZipcode": "97479",
+  "lat": 43.38957696835027,
+  "lon": -123.31635628842713,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.968Z"
+}

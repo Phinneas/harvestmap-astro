@@ -1,0 +1,19 @@
+{
+  "slug": "renton-farmers-market-233-burnett-avenue-south",
+  "name": "Renton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "233 Burnett Avenue South, WA",
+  "locationCity": "233 Burnett Avenue South",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 47.4802261,
+  "lon": -122.2084445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.194Z"
+}

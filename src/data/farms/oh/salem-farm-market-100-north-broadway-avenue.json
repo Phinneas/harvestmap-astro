@@ -1,0 +1,19 @@
+{
+  "slug": "salem-farm-market-100-north-broadway-avenue",
+  "name": "Salem farm market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 North Broadway Avenue, OH",
+  "locationCity": "100 North Broadway Avenue",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 40.9009843,
+  "lon": -80.8553216,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:45.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:45.868Z"
+}

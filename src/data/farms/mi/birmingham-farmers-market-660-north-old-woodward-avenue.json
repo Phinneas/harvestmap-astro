@@ -1,0 +1,19 @@
+{
+  "slug": "birmingham-farmers-market-660-north-old-woodward-avenue",
+  "name": "Birmingham Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "660 North Old Woodward Avenue, MI",
+  "locationCity": "660 North Old Woodward Avenue",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.552847831384796,
+  "lon": -83.21914460082517,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "green-acres-farmers-market-5000-e-spring-st",
+  "name": "Green Acres Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5000 E. Spring St., CA",
+  "locationCity": "5000 E. Spring St.",
+  "locationState": "CA",
+  "locationZipcode": "90808",
+  "lat": 33.81059064470549,
+  "lon": -118.13486508159649,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

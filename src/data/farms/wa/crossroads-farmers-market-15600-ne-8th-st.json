@@ -1,0 +1,19 @@
+{
+  "slug": "crossroads-farmers-market-15600-ne-8th-st",
+  "name": "Crossroads Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15600 NE 8th St., WA",
+  "locationCity": "15600 NE 8th St.",
+  "locationState": "WA",
+  "locationZipcode": "15600",
+  "lat": 47.617002531818606,
+  "lon": -122.13207727441367,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

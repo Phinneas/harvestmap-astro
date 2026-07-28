@@ -1,0 +1,19 @@
+{
+  "slug": "brooklet-farmers-market-209-railroad-street",
+  "name": "Brooklet Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "209 Railroad Street, GA",
+  "locationCity": "209 Railroad Street",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "lat": 32.37770899999999,
+  "lon": -81.6615379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.424Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.424Z"
+}

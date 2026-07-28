@@ -1,0 +1,19 @@
+{
+  "slug": "grove-street-farmers-market-1001-northwest-4th-street",
+  "name": "Grove Street farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1001 Northwest 4th Street, FL",
+  "locationCity": "1001 Northwest 4th Street",
+  "locationState": "FL",
+  "locationZipcode": "32601",
+  "lat": 29.6613472,
+  "lon": -82.3284448,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.370Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.370Z"
+}

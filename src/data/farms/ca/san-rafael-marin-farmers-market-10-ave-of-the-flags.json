@@ -1,0 +1,19 @@
+{
+  "slug": "san-rafael-marin-farmers-market-10-ave-of-the-flags",
+  "name": "San Rafael - Marin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Ave. of the Flags, CA",
+  "locationCity": "10 Ave. of the Flags",
+  "locationState": "CA",
+  "locationZipcode": "94903",
+  "lat": 38.00139763524283,
+  "lon": -122.5350816324271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

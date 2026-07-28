@@ -1,48 +1,53 @@
 ---
 import SeasonBadge from './SeasonBadge.astro';
+import type { Farm, Season } from '../lib/types';
 
-interface Farm {
-  name: string;
-  slug: string;
-  region: string;
-  location: string;
-  tagline: string;
-  image: string;
-  imageAlt: string;
-  seasons: ('spring' | 'summer' | 'autumn' | 'winter' | 'year')[];
-  peak: 'spring' | 'summer' | 'autumn' | 'winter' | 'year';
-  produce: string[];
-  inSeasonNow?: boolean;
+interface AugmentedFarm extends Farm {
+  derivedSeasons: Season[];
+  derivedPeak?: Season;
+  derivedInSeasonNow: boolean;
+  isEnriched: boolean;
 }
-interface Props { farm: Farm; }
+
+interface Props { farm: AugmentedFarm; }
 const { farm } = Astro.props;
 
 const peakLabels = { spring: 'Spring', summer: 'Summer', autumn: 'Autumn', winter: 'Winter', year: 'Year-round' };
-const produceKey = farm.produce.join(' ').toLowerCase();
+const seasons = farm.seasons && farm.seasons.length > 0 ? farm.seasons : farm.derivedSeasons;
+const peak = farm.peak || farm.derivedPeak;
+const inSeasonNow = farm.inSeasonNow !== undefined ? farm.inSeasonNow : farm.derivedInSeasonNow;
+const produce = farm.produce || farm.crops || [];
+const produceKey = produce.join(' ').toLowerCase();
+const region = farm.region || farm.directory;
+const image = farm.image || '/images/farm-placeholder.svg';
+const imageAlt = farm.imageAlt || farm.name;
+const tagline = farm.tagline || (produce.length > 0 ? `U-pick: ${produce.slice(0, 3).join(', ')}` : 'Farm listing');
 ---
 <article
   class="card"
-  data-seasons={farm.seasons.join(' ')}
+  data-seasons={seasons.join(' ')}
   data-name={farm.name.toLowerCase()}
   data-produce={produceKey}
 >
-  <span class="pin-badge">
-    <SeasonBadge season={farm.peak} label={`${peakLabels[farm.peak]} peak`} />
-  </span>
+  {peak && (
+    <span class="pin-badge">
+      <SeasonBadge season={peak} label={`${peakLabels[peak]} peak`} />
+    </span>
+  )}
 
   <div class="card__media">
     <img
       class="card__img"
-      src={farm.image}
-      alt={farm.imageAlt}
+      src={image}
+      alt={imageAlt}
       width="600"
       height="450"
       loading="lazy"
       decoding="async"
     />
-    {farm.inSeasonNow && (
+    {inSeasonNow && peak && (
       <div class="card__badges">
-        <SeasonBadge season={farm.peak} label="In season now" />
+        <SeasonBadge season={peak} label="In season now" />
       </div>
     )}
   </div>
@@ -52,13 +57,15 @@ const produceKey = farm.produce.join(' ').toLowerCase();
       <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
         <path d="M12 21c5-3 8-7 8-11a8 8 0 1 0-16 0c0 4 3 8 8 11Z"/><path d="M12 11v0"/>
       </svg>
-      {farm.region}
+      {region}
     </span>
     <h3 class="card__title"><a href={`/farms/${farm.slug}`}>{farm.name}</a></h3>
-    <p class="card__desc">{farm.tagline}</p>
-    <div class="card__tags">
-      {farm.produce.slice(0, 4).map((p) => <span class="tag">{p}</span>)}
-    </div>
+    <p class="card__desc">{tagline}</p>
+    {produce.length > 0 && (
+      <div class="card__tags">
+        {produce.slice(0, 4).map((p) => <span class="tag">{p}</span>)}
+      </div>
+    )}
   </div>
 
   <div class="card__foot">

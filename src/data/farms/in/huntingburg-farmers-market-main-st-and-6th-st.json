@@ -1,0 +1,19 @@
+{
+  "slug": "huntingburg-farmers-market-main-st-and-6th-st",
+  "name": "Huntingburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. and 6th St., IN",
+  "locationCity": "Main St. and 6th St.",
+  "locationState": "IN",
+  "locationZipcode": "47542",
+  "lat": 38.296640000000025,
+  "lon": -86.95161499999995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

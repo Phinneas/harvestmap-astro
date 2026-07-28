@@ -1,0 +1,19 @@
+{
+  "slug": "pete-s-pumpkin-patch-18385-south-us-highway-63",
+  "name": "Pete's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "18385 South US Highway 63, MO",
+  "locationCity": "18385 South US Highway 63",
+  "locationState": "MO",
+  "locationZipcode": "18385",
+  "lat": 37.8296509933796,
+  "lon": -91.8016099984765,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:31.207Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:31.207Z"
+}

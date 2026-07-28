@@ -1,0 +1,19 @@
+{
+  "slug": "hartland-farmer-s-market-10400-highland-road",
+  "name": "Hartland Farmer s Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10400 Highland Road, MI",
+  "locationCity": "10400 Highland Road",
+  "locationState": "MI",
+  "locationZipcode": "10400",
+  "lat": 42.63359012811568,
+  "lon": -83.74690147226502,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

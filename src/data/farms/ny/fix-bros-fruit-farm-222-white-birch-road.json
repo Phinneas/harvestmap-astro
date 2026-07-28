@@ -1,0 +1,19 @@
+{
+  "slug": "fix-bros-fruit-farm-222-white-birch-road",
+  "name": "Fix Bros Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "222 White Birch Road, NY",
+  "locationCity": "222 White Birch Road",
+  "locationState": "NY",
+  "locationZipcode": "12534",
+  "lat": 42.1888613664493,
+  "lon": -73.8317121536619,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.629Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.629Z"
+}

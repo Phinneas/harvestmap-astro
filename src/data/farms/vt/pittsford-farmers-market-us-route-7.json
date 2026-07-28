@@ -1,0 +1,19 @@
+{
+  "slug": "pittsford-farmers-market-us-route-7",
+  "name": "Pittsford Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "US Route 7, VT",
+  "locationCity": "US Route 7",
+  "locationState": "VT",
+  "locationZipcode": "05763",
+  "lat": 43.69841107330598,
+  "lon": -73.00629509654009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:47.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:47.852Z"
+}

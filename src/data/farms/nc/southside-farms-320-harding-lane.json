@@ -1,0 +1,19 @@
+{
+  "slug": "southside-farms-320-harding-lane",
+  "name": "Southside Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "320 Harding Lane, NC",
+  "locationCity": "320 Harding Lane",
+  "locationState": "NC",
+  "locationZipcode": "27817",
+  "lat": 35.4635289523115,
+  "lon": -77.1018831790899,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.457Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.457Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lusscroft-farm-lusscroft-farm",
+  "name": "Lusscroft Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lusscroft Farm, NJ",
+  "locationCity": "Lusscroft Farm",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "lat": 41.2396799825317,
+  "lon": -74.6833300286361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:36.009Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:36.009Z"
+}

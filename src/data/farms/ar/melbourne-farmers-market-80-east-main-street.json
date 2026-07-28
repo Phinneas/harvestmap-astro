@@ -1,0 +1,19 @@
+{
+  "slug": "melbourne-farmers-market-80-east-main-street",
+  "name": "Melbourne Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "80 East Main Street, AR",
+  "locationCity": "80 East Main Street",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "lat": 36.05868600000001,
+  "lon": -91.90562779999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:47.410Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:47.410Z"
+}

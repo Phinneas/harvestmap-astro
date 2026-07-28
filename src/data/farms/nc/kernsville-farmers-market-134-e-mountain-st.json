@@ -1,0 +1,19 @@
+{
+  "slug": "kernsville-farmers-market-134-e-mountain-st",
+  "name": "Kernsville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "134 E. Mountain St., NC",
+  "locationCity": "134 E. Mountain St.",
+  "locationState": "NC",
+  "locationZipcode": "27284",
+  "lat": 36.11960438922494,
+  "lon": -80.07275990918664,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "meadows-farms-10618-leesburg-pike",
+  "name": "Meadows Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10618 Leesburg Pike, VA",
+  "locationCity": "10618 Leesburg Pike",
+  "locationState": "VA",
+  "locationZipcode": "10618",
+  "lat": 38.9781729360009,
+  "lon": -77.3140401287535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:54.991Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:54.991Z"
+}

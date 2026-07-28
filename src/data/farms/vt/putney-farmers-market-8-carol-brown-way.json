@@ -1,0 +1,19 @@
+{
+  "slug": "putney-farmers-market-8-carol-brown-way",
+  "name": "Putney Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8 Carol Brown Way, VT",
+  "locationCity": "8 Carol Brown Way",
+  "locationState": "VT",
+  "locationZipcode": "05346",
+  "lat": 42.967809188206665,
+  "lon": -72.52287421604987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:47.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:47.852Z"
+}

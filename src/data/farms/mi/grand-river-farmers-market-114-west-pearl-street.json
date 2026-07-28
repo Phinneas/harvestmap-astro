@@ -1,0 +1,19 @@
+{
+  "slug": "grand-river-farmers-market-114-west-pearl-street",
+  "name": "Grand River Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "114 West Pearl Street, MI",
+  "locationCity": "114 West Pearl Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.2489965,
+  "lon": -84.4064121,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.750Z"
+}

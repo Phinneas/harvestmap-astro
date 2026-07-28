@@ -1,0 +1,19 @@
+{
+  "slug": "tyler-farmers-market-4850-old-bullard-rd",
+  "name": "Tyler Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4850 Old Bullard Rd., TX",
+  "locationCity": "4850 Old Bullard Rd.",
+  "locationState": "TX",
+  "locationZipcode": "75703",
+  "lat": 32.296878935889,
+  "lon": -95.30457000035702,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "freeman-farmers-market-748-s-main-st",
+  "name": "Freeman Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "748 S. Main St., SD",
+  "locationCity": "748 S. Main St.",
+  "locationState": "SD",
+  "locationZipcode": "57029",
+  "lat": 43.34765160081549,
+  "lon": -97.43729884191256,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:59.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:59.965Z"
+}

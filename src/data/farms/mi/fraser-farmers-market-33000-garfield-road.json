@@ -1,0 +1,19 @@
+{
+  "slug": "fraser-farmers-market-33000-garfield-road",
+  "name": "Fraser Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "33000 Garfield Road, MI",
+  "locationCity": "33000 Garfield Road",
+  "locationState": "MI",
+  "locationZipcode": "33000",
+  "lat": 42.538735246826484,
+  "lon": -82.94969415582146,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

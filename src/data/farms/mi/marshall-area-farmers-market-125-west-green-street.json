@@ -1,0 +1,19 @@
+{
+  "slug": "marshall-area-farmers-market-125-west-green-street",
+  "name": "Marshall Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "125 West Green Street, MI",
+  "locationCity": "125 West Green Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.27105613055727,
+  "lon": -84.95943353179767,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

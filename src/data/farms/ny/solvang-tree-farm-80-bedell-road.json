@@ -1,0 +1,19 @@
+{
+  "slug": "solvang-tree-farm-80-bedell-road",
+  "name": "Solvang Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "80 Bedell Road, NY",
+  "locationCity": "80 Bedell Road",
+  "locationState": "NY",
+  "locationZipcode": "12603",
+  "lat": 41.7240490446445,
+  "lon": -73.8838429813664,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.645Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.645Z"
+}

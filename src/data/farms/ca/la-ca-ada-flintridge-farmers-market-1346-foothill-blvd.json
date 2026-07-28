@@ -1,0 +1,19 @@
+{
+  "slug": "la-ca-ada-flintridge-farmers-market-1346-foothill-blvd",
+  "name": "La Cañada Flintridge Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1346 Foothill Blvd., CA",
+  "locationCity": "1346 Foothill Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "91011",
+  "lat": 34.207590992659135,
+  "lon": -118.2077710135876,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "champaign-urbana-winter-farmers-market-lincoln-square",
+  "name": "Champaign-Urbana Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Lincoln Square, IL",
+  "locationCity": "Lincoln Square",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 40.1113908,
+  "lon": -88.2074782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.459Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.459Z"
+}

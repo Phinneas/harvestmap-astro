@@ -1,0 +1,19 @@
+{
+  "slug": "aggieland-farmers-market-1500-harvey-road",
+  "name": "Aggieland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1500 Harvey Road, TX",
+  "locationCity": "1500 Harvey Road",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "lat": 30.6251971,
+  "lon": -96.30366860000001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.064Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.064Z"
+}

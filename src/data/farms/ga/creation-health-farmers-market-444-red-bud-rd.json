@@ -1,0 +1,19 @@
+{
+  "slug": "creation-health-farmers-market-444-red-bud-rd",
+  "name": "Creation Health Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "444 Red Bud Rd., GA",
+  "locationCity": "444 Red Bud Rd.",
+  "locationState": "GA",
+  "locationZipcode": "30703",
+  "lat": 34.5146320082781,
+  "lon": -84.94124596237263,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.374Z"
+}

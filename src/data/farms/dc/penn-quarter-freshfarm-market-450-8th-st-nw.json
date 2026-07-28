@@ -1,0 +1,19 @@
+{
+  "slug": "penn-quarter-freshfarm-market-450-8th-st-nw",
+  "name": "Penn Quarter FreshFarm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "450 8th St. NW, DC",
+  "locationCity": "450 8th St. NW",
+  "locationState": "DC",
+  "locationZipcode": "20004",
+  "lat": 38.89546758759438,
+  "lon": -77.02296665880097,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

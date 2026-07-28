@@ -1,0 +1,19 @@
+{
+  "slug": "cass-county-farmers-market-2601-cantrell-rd",
+  "name": "Cass County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2601 Cantrell Rd., MO",
+  "locationCity": "2601 Cantrell Rd.",
+  "locationState": "MO",
+  "locationZipcode": "64701",
+  "lat": 38.662091095927714,
+  "lon": -94.38297997050253,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

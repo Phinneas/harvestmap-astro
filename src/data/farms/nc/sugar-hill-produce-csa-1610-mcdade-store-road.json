@@ -1,0 +1,19 @@
+{
+  "slug": "sugar-hill-produce-csa-1610-mcdade-store-road",
+  "name": "Sugar Hill Produce CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1610 McDade Store Road, NC",
+  "locationCity": "1610 McDade Store Road",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "lat": 36.1925412,
+  "lon": -79.1808432,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:17.056Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:17.056Z"
+}

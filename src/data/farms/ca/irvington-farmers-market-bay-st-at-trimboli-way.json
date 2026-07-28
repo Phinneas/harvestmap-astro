@@ -1,0 +1,19 @@
+{
+  "slug": "irvington-farmers-market-bay-st-at-trimboli-way",
+  "name": "Irvington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Bay St. at Trimboli Way, CA",
+  "locationCity": "Bay St. at Trimboli Way",
+  "locationState": "CA",
+  "locationZipcode": "94538",
+  "lat": 37.53292998649782,
+  "lon": -121.96086002605077,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

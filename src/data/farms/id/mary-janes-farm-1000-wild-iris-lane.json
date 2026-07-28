@@ -1,0 +1,19 @@
+{
+  "slug": "mary-janes-farm-1000-wild-iris-lane",
+  "name": "Mary Janes Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1000 Wild Iris Lane, ID",
+  "locationCity": "1000 Wild Iris Lane",
+  "locationState": "ID",
+  "locationZipcode": "83843",
+  "lat": 46.6764879863134,
+  "lon": -116.962758990453,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:36.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:36.736Z"
+}

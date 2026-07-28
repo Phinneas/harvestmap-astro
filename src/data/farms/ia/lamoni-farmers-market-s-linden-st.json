@@ -1,0 +1,19 @@
+{
+  "slug": "lamoni-farmers-market-s-linden-st",
+  "name": "Lamoni Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S. Linden St., IA",
+  "locationCity": "S. Linden St.",
+  "locationState": "IA",
+  "locationZipcode": "50140",
+  "lat": 40.619959009205424,
+  "lon": -93.9333070234334,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

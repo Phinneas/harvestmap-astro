@@ -1,0 +1,19 @@
+{
+  "slug": "farm-to-vittles-delco",
+  "name": "Farm to Vittles",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Delco, NC",
+  "locationCity": "Delco",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "lat": 34.274121,
+  "lon": -78.255756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:22.236Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:22.236Z"
+}

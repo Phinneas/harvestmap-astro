@@ -1,0 +1,19 @@
+{
+  "slug": "hudson-farmers-market-north-6th-street-columbia-st",
+  "name": "Hudson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "North 6th Street & Columbia St, NY",
+  "locationCity": "North 6th Street & Columbia St",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "lat": 42.248656,
+  "lon": -73.78369200000002,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.531Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.531Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "leesport-farmers-market-312-gernants-church-rd",
+  "name": "Leesport Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "312 Gernants Church Rd., PA",
+  "locationCity": "312 Gernants Church Rd.",
+  "locationState": "PA",
+  "locationZipcode": "19533",
+  "lat": 40.45627836681238,
+  "lon": -75.96853876666715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

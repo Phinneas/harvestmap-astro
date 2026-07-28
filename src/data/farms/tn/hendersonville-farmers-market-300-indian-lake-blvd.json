@@ -1,0 +1,19 @@
+{
+  "slug": "hendersonville-farmers-market-300-indian-lake-blvd",
+  "name": "Hendersonville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Indian Lake Blvd., TN",
+  "locationCity": "300 Indian Lake Blvd.",
+  "locationState": "TN",
+  "locationZipcode": "37075",
+  "lat": 36.288075132863646,
+  "lon": -86.59643854952765,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

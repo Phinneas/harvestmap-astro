@@ -1,0 +1,19 @@
+{
+  "slug": "carolina-growers-albemarle",
+  "name": "Carolina Growers",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Albemarle, NC",
+  "locationCity": "Albemarle",
+  "locationState": "NC",
+  "locationZipcode": "28001",
+  "lat": 35.3546700000001,
+  "lon": -80.2109,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.481Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.481Z"
+}

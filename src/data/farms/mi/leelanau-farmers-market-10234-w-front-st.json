@@ -1,0 +1,19 @@
+{
+  "slug": "leelanau-farmers-market-10234-w-front-st",
+  "name": "Leelanau Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10234 W. Front St., MI",
+  "locationCity": "10234 W. Front St.",
+  "locationState": "MI",
+  "locationZipcode": "10234",
+  "lat": 44.81104079344044,
+  "lon": -86.0630348582611,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

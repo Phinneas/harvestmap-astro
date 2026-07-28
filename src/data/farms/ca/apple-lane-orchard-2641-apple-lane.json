@@ -1,0 +1,19 @@
+{
+  "slug": "apple-lane-orchard-2641-apple-lane",
+  "name": "Apple Lane Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2641 Apple Lane, CA",
+  "locationCity": "2641 Apple Lane",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 33.0741630136381,
+  "lon": -116.593066014626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.965Z"
+}

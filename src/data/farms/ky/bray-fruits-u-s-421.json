@@ -1,0 +1,19 @@
+{
+  "slug": "bray-fruits-u-s-421",
+  "name": "Bray Fruits",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "U.S. 421, KY",
+  "locationCity": "U.S. 421",
+  "locationState": "KY",
+  "locationZipcode": "",
+  "lat": 38.653822478767175,
+  "lon": -85.30414997686634,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:50.273Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:50.273Z"
+}

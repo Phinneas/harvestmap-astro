@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-the-garden-750-cherry-rd",
+  "name": "Farmers' Market at the Garden",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "750 Cherry Rd., TN",
+  "locationCity": "750 Cherry Rd.",
+  "locationState": "TN",
+  "locationZipcode": "38117",
+  "lat": 35.11168883887442,
+  "lon": -89.91843465437094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bellville-farmers-market-142-park-pl",
+  "name": "Bellville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "142 Park Pl, OH",
+  "locationCity": "142 Park Pl",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 40.6198856,
+  "lon": -82.51207869999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:45.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:45.868Z"
+}

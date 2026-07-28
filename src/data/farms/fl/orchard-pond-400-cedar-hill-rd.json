@@ -1,0 +1,19 @@
+{
+  "slug": "orchard-pond-400-cedar-hill-rd",
+  "name": "Orchard Pond",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "400 Cedar Hill Rd, FL",
+  "locationCity": "400 Cedar Hill Rd",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "lat": 30.5805200707685,
+  "lon": -84.28764517706867,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:56.514Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:56.514Z"
+}

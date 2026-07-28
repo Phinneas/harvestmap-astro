@@ -1,0 +1,19 @@
+{
+  "slug": "mount-horeb-farmers-market-315-e-main-st",
+  "name": "Mount Horeb Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "315 E. Main St., WI",
+  "locationCity": "315 E. Main St.",
+  "locationState": "WI",
+  "locationZipcode": "53572",
+  "lat": 43.008658803941124,
+  "lon": -89.73633699911139,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

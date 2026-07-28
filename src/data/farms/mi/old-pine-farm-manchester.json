@@ -1,0 +1,19 @@
+{
+  "slug": "old-pine-farm-manchester",
+  "name": "Old Pine Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Manchester, MI",
+  "locationCity": "Manchester",
+  "locationState": "MI",
+  "locationZipcode": "48158",
+  "lat": 42.1512450000001,
+  "lon": -84.03558,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:53.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:53.643Z"
+}

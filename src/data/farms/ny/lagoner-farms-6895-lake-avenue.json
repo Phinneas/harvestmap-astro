@@ -1,0 +1,19 @@
+{
+  "slug": "lagoner-farms-6895-lake-avenue",
+  "name": "Lagoner Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6895 Lake Avenue, NY",
+  "locationCity": "6895 Lake Avenue",
+  "locationState": "NY",
+  "locationZipcode": "14589",
+  "lat": 43.2485223110991,
+  "lon": -77.1864643773001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.642Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.642Z"
+}

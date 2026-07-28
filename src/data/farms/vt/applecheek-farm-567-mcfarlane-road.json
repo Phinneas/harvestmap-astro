@@ -1,0 +1,19 @@
+{
+  "slug": "applecheek-farm-567-mcfarlane-road",
+  "name": "Applecheek Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "567 McFarlane Road, VT",
+  "locationCity": "567 McFarlane Road",
+  "locationState": "VT",
+  "locationZipcode": "05655",
+  "lat": 44.5817630014297,
+  "lon": -72.5311609695345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:43.315Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:43.315Z"
+}

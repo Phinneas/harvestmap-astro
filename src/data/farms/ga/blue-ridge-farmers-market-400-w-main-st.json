@@ -1,0 +1,19 @@
+{
+  "slug": "blue-ridge-farmers-market-400-w-main-st",
+  "name": "Blue Ridge Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 W. Main St., GA",
+  "locationCity": "400 W. Main St.",
+  "locationState": "GA",
+  "locationZipcode": "30513",
+  "lat": 34.86338716758654,
+  "lon": -84.32721119595689,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.374Z"
+}

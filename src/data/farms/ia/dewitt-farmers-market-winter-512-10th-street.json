@@ -1,0 +1,19 @@
+{
+  "slug": "dewitt-farmers-market-winter-512-10th-street",
+  "name": "DeWitt Farmers Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "512 10th Street, IA",
+  "locationCity": "512 10th Street",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 41.8254354,
+  "lon": -90.53827799999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.615Z"
+}

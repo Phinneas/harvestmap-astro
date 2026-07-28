@@ -1,0 +1,19 @@
+{
+  "slug": "calistoga-farmers-market-1311-washington-st",
+  "name": "Calistoga Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1311 Washington St., CA",
+  "locationCity": "1311 Washington St.",
+  "locationState": "CA",
+  "locationZipcode": "94515",
+  "lat": 38.57895432702172,
+  "lon": -122.5801618006825,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "17th-street-farmers-market-100-n-17th-st",
+  "name": "17th Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 N. 17th St., VA",
+  "locationCity": "100 N. 17th St.",
+  "locationState": "VA",
+  "locationZipcode": "23219",
+  "lat": 37.53439183837952,
+  "lon": -77.42763339620122,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

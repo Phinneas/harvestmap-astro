@@ -1,0 +1,19 @@
+{
+  "slug": "spruce-pine-farmers-market-585-oak-ave",
+  "name": "Spruce Pine Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "585 Oak Ave., NC",
+  "locationCity": "585 Oak Ave.",
+  "locationState": "NC",
+  "locationZipcode": "28777",
+  "lat": 35.91550895288608,
+  "lon": -82.06349439022453,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

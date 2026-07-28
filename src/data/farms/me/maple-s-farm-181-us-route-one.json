@@ -1,0 +1,19 @@
+{
+  "slug": "maple-s-farm-181-us-route-one",
+  "name": "Maple's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "181 US Route One, ME",
+  "locationCity": "181 US Route One",
+  "locationState": "ME",
+  "locationZipcode": "04096",
+  "lat": 43.7867319021179,
+  "lon": -70.1907101964194,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.500Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.500Z"
+}

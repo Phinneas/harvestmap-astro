@@ -1,0 +1,19 @@
+{
+  "slug": "fairfield-farmers-market-jefferson-st-at-texas-st",
+  "name": "Fairfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Jefferson St. at Texas St., CA",
+  "locationCity": "Jefferson St. at Texas St.",
+  "locationState": "CA",
+  "locationZipcode": "94533",
+  "lat": 38.249229997512515,
+  "lon": -122.04188997952355,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

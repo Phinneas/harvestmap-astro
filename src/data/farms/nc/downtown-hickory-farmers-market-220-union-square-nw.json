@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-hickory-farmers-market-220-union-square-nw",
+  "name": "Downtown Hickory Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 Union Square NW, NC",
+  "locationCity": "220 Union Square NW",
+  "locationState": "NC",
+  "locationZipcode": "28601",
+  "lat": 35.732013101791395,
+  "lon": -81.3403159947929,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.461Z"
+}

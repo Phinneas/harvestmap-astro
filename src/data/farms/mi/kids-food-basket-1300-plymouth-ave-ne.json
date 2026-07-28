@@ -1,0 +1,19 @@
+{
+  "slug": "kids-food-basket-1300-plymouth-ave-ne",
+  "name": "Kids' Food Basket",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1300 Plymouth Ave NE, MI",
+  "locationCity": "1300 Plymouth Ave NE",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.986306285158406,
+  "lon": -85.6249938000631,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:59.544Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:59.544Z"
+}

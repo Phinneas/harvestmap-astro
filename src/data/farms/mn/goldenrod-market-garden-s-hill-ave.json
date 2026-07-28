@@ -1,0 +1,19 @@
+{
+  "slug": "goldenrod-market-garden-s-hill-ave",
+  "name": "Goldenrod Market Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "S Hill Ave, MN",
+  "locationCity": "S Hill Ave",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "lat": 45.8263533,
+  "lon": -93.4257041,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:08.898Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:08.898Z"
+}

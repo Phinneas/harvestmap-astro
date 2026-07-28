@@ -1,0 +1,19 @@
+{
+  "slug": "caldwell-farmers-market-7-smull-ave",
+  "name": "Caldwell Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7 Smull Ave., NJ",
+  "locationCity": "7 Smull Ave.",
+  "locationState": "NJ",
+  "locationZipcode": "07006",
+  "lat": 40.840514886803085,
+  "lon": -74.27595948995965,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

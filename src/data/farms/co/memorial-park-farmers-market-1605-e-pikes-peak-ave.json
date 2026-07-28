@@ -1,0 +1,19 @@
+{
+  "slug": "memorial-park-farmers-market-1605-e-pikes-peak-ave",
+  "name": "Memorial Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1605 E. Pikes Peak Ave., CO",
+  "locationCity": "1605 E. Pikes Peak Ave.",
+  "locationState": "CO",
+  "locationZipcode": "80916",
+  "lat": 38.83271418244178,
+  "lon": -104.74283489950723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.497Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.497Z"
+}

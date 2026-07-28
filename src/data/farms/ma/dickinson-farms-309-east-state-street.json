@@ -1,0 +1,19 @@
+{
+  "slug": "dickinson-farms-309-east-state-street",
+  "name": "Dickinson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "309 East State Street, MA",
+  "locationCity": "309 East State Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.2629117510575,
+  "lon": -72.5063460099075,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.321Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.321Z"
+}

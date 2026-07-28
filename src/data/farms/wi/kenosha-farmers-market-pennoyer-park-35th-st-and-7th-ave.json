@@ -1,0 +1,19 @@
+{
+  "slug": "kenosha-farmers-market-pennoyer-park-35th-st-and-7th-ave",
+  "name": "Kenosha Farmers' Market - Pennoyer Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "35th St. and 7th Ave., WI",
+  "locationCity": "35th St. and 7th Ave.",
+  "locationState": "WI",
+  "locationZipcode": "53140",
+  "lat": 42.606300009696895,
+  "lon": -87.82045996180757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

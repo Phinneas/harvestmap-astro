@@ -1,0 +1,19 @@
+{
+  "slug": "worthington-farmers-market-777-high-street",
+  "name": "Worthington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "777 High Street, OH",
+  "locationCity": "777 High Street",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 40.0898108,
+  "lon": -83.0180225,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:45.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:45.868Z"
+}

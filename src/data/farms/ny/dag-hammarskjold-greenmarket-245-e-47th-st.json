@@ -1,0 +1,19 @@
+{
+  "slug": "dag-hammarskjold-greenmarket-245-e-47th-st",
+  "name": "Dag Hammarskjold Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "245 E 47th St, NY",
+  "locationCity": "245 E 47th St",
+  "locationState": "NY",
+  "locationZipcode": "10017",
+  "lat": 40.75346053354123,
+  "lon": -73.97096532044611,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.519Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.519Z"
+}

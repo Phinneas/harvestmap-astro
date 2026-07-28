@@ -1,0 +1,20 @@
+{
+  "slug": "somers-family-farm-2934-w-barnet-rd",
+  "name": "Somers Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2934 W Barnet Rd, VT",
+  "locationCity": "2934 W Barnet Rd",
+  "locationState": "VT",
+  "locationZipcode": "",
+  "lat": 44.31372201736724,
+  "lon": -72.11032597912025,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:43.329Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:43.329Z",
+  "crops": []
+}

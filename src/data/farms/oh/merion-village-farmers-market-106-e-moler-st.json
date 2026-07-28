@@ -1,0 +1,19 @@
+{
+  "slug": "merion-village-farmers-market-106-e-moler-st",
+  "name": "Merion Village Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 E. Moler St., OH",
+  "locationCity": "106 E. Moler St.",
+  "locationState": "OH",
+  "locationZipcode": "43207",
+  "lat": 39.93531992932412,
+  "lon": -82.99908111638777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:45.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:45.858Z"
+}

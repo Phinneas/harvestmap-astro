@@ -1,0 +1,19 @@
+{
+  "slug": "saracen-landing-farmers-market-200-lake-saracen",
+  "name": "Saracen Landing Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Lake Saracen, AR",
+  "locationCity": "200 Lake Saracen",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "lat": 34.230711482073055,
+  "lon": -92.00492334067161,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:47.395Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:47.395Z"
+}

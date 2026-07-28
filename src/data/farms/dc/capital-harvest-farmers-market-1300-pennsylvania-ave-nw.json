@@ -1,0 +1,19 @@
+{
+  "slug": "capital-harvest-farmers-market-1300-pennsylvania-ave-nw",
+  "name": "Capital Harvest Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1300 Pennsylvania Ave. NW, DC",
+  "locationCity": "1300 Pennsylvania Ave. NW",
+  "locationState": "DC",
+  "locationZipcode": "20229",
+  "lat": 38.895463804815094,
+  "lon": -77.02972092891612,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

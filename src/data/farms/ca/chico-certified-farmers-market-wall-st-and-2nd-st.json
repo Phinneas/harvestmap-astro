@@ -1,0 +1,19 @@
+{
+  "slug": "chico-certified-farmers-market-wall-st-and-2nd-st",
+  "name": "Chico Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Wall St. and 2nd St., CA",
+  "locationCity": "Wall St. and 2nd St.",
+  "locationState": "CA",
+  "locationZipcode": "95928",
+  "lat": 39.73099000739447,
+  "lon": -121.83941002089503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

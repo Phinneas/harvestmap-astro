@@ -1,0 +1,19 @@
+{
+  "slug": "riverfront-farmers-market-400-n-front-st",
+  "name": "Riverfront Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 N. Front St., IA",
+  "locationCity": "400 N. Front St.",
+  "locationState": "IA",
+  "locationZipcode": "52601",
+  "lat": 40.81036416846838,
+  "lon": -91.10004593849669,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

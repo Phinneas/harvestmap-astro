@@ -1,0 +1,19 @@
+{
+  "slug": "corpus-christi-downtown-farmers-market-100-n-shoreline",
+  "name": "Corpus Christi Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 N. Shoreline, TX",
+  "locationCity": "100 N. Shoreline",
+  "locationState": "TX",
+  "locationZipcode": "78401",
+  "lat": 27.80772930807894,
+  "lon": -97.39271031715994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

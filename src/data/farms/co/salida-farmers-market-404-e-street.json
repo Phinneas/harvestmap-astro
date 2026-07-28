@@ -1,0 +1,19 @@
+{
+  "slug": "salida-farmers-market-404-e-street",
+  "name": "Salida Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "404 E Street, CO",
+  "locationCity": "404 E Street",
+  "locationState": "CO",
+  "locationZipcode": "",
+  "lat": 38.5330889,
+  "lon": -105.9932331,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.514Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.514Z"
+}

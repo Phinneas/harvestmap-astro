@@ -1,0 +1,19 @@
+{
+  "slug": "pittsburg-farmers-market-railroad-ave-at-e-6th-st",
+  "name": "Pittsburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Railroad Ave. at E. 6th St., CA",
+  "locationCity": "Railroad Ave. at E. 6th St.",
+  "locationState": "CA",
+  "locationZipcode": "94565",
+  "lat": 38.031179983183364,
+  "lon": -121.88388004055427,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

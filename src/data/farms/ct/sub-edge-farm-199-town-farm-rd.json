@@ -1,0 +1,19 @@
+{
+  "slug": "sub-edge-farm-199-town-farm-rd",
+  "name": "Sub Edge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "199 Town Farm Rd, CT",
+  "locationCity": "199 Town Farm Rd",
+  "locationState": "CT",
+  "locationZipcode": "06032",
+  "lat": 41.7580439903578,
+  "lon": -72.8289050296084,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:20.554Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:20.554Z"
+}

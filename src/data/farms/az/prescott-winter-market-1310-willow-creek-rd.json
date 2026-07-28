@@ -1,0 +1,19 @@
+{
+  "slug": "prescott-winter-market-1310-willow-creek-rd",
+  "name": "Prescott Winter Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1310 Willow Creek Rd., AZ",
+  "locationCity": "1310 Willow Creek Rd.",
+  "locationState": "AZ",
+  "locationZipcode": "86301",
+  "lat": 34.56721439814862,
+  "lon": -112.48230002915841,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

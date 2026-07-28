@@ -1,0 +1,19 @@
+{
+  "slug": "down-on-the-farm-inc-17220-keystone-ave",
+  "name": "Down on the Farm Inc",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "17220 Keystone Ave, MN",
+  "locationCity": "17220 Keystone Ave",
+  "locationState": "MN",
+  "locationZipcode": "17220",
+  "lat": 45.1981770038596,
+  "lon": -92.9003009818961,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:06.481Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:06.481Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "edgewood-farmers-market-8-marietta-ct",
+  "name": "Edgewood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8 Marietta Ct., NM",
+  "locationCity": "8 Marietta Ct.",
+  "locationState": "NM",
+  "locationZipcode": "87015",
+  "lat": 35.065068511837836,
+  "lon": -106.20059804693923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

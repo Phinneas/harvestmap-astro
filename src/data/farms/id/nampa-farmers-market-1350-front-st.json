@@ -1,0 +1,19 @@
+{
+  "slug": "nampa-farmers-market-1350-front-st",
+  "name": "Nampa Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1350 Front St., ID",
+  "locationCity": "1350 Front St.",
+  "locationState": "ID",
+  "locationZipcode": "83687",
+  "lat": 43.578445741057024,
+  "lon": -116.55725940825866,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

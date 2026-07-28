@@ -1,0 +1,19 @@
+{
+  "slug": "malibu-farmers-market-23519-civic-center-way",
+  "name": "Malibu Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "23519 Civic Center Way, CA",
+  "locationCity": "23519 Civic Center Way",
+  "locationState": "CA",
+  "locationZipcode": "23519",
+  "lat": 34.035208657486116,
+  "lon": -118.6934233012077,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

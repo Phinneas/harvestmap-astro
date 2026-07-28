@@ -1,0 +1,19 @@
+{
+  "slug": "cecil-county-farmers-market-308-s-main-st",
+  "name": "Cecil County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "308 S. Main St., MD",
+  "locationCity": "308 S. Main St.",
+  "locationState": "MD",
+  "locationZipcode": "21901",
+  "lat": 39.59725907451634,
+  "lon": -75.94203764789752,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.944Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "newtown-square-farmers-market-4033-w-chester-pike",
+  "name": "Newtown Square Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4033 W. Chester Pike, PA",
+  "locationCity": "4033 W. Chester Pike",
+  "locationState": "PA",
+  "locationZipcode": "19073",
+  "lat": 39.98449410110247,
+  "lon": -75.41877613438399,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

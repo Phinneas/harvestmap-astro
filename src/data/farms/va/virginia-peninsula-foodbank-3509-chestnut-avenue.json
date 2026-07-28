@@ -1,0 +1,19 @@
+{
+  "slug": "virginia-peninsula-foodbank-3509-chestnut-avenue",
+  "name": "Virginia Peninsula Foodbank",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3509 Chestnut Avenue, VA",
+  "locationCity": "3509 Chestnut Avenue",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "lat": 36.99400001531187,
+  "lon": -76.41090380792082,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:00.136Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:00.136Z"
+}

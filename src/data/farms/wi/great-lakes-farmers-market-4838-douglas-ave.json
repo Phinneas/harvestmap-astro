@@ -1,0 +1,19 @@
+{
+  "slug": "great-lakes-farmers-market-4838-douglas-ave",
+  "name": "Great Lakes Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4838 Douglas Ave., WI",
+  "locationCity": "4838 Douglas Ave.",
+  "locationState": "WI",
+  "locationZipcode": "53402",
+  "lat": 42.781424753058054,
+  "lon": -87.80756400563828,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

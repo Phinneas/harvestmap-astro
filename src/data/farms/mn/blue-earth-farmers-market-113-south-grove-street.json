@@ -1,0 +1,19 @@
+{
+  "slug": "blue-earth-farmers-market-113-south-grove-street",
+  "name": "Blue Earth Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "113 South Grove Street, MN",
+  "locationCity": "113 South Grove Street",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "lat": 43.6382739,
+  "lon": -94.09094390000001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.255Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.255Z"
+}

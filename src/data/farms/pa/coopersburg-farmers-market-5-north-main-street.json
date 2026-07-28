@@ -1,0 +1,19 @@
+{
+  "slug": "coopersburg-farmers-market-5-north-main-street",
+  "name": "Coopersburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5 North Main Street, PA",
+  "locationCity": "5 North Main Street",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "lat": 40.5114318,
+  "lon": -75.39053609999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.696Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.696Z"
+}

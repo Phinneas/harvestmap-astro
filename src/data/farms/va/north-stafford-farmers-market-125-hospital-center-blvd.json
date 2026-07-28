@@ -1,0 +1,19 @@
+{
+  "slug": "north-stafford-farmers-market-125-hospital-center-blvd",
+  "name": "North Stafford Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "125 Hospital Center Blvd., VA",
+  "locationCity": "125 Hospital Center Blvd.",
+  "locationState": "VA",
+  "locationZipcode": "22554",
+  "lat": 38.416075696262794,
+  "lon": -77.40876686336321,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

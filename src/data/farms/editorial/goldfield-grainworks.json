@@ -1,0 +1,31 @@
+{
+  "slug": "goldfield-grainworks",
+  "name": "Goldfield Grainworks",
+  "source": "editorial",
+  "directory": "editorial",
+  "location": "Petaluma, CA",
+  "locationCity": "Petaluma",
+  "locationState": "CA",
+  "locationZipcode": "94952",
+  "tagline": "Heritage grains, winter squash and beans dried on the stalk.",
+  "region": "Grain, squash & roots",
+  "image": "https://images.unsplash.com/photo-1693116463167-ed60d9325894?q=75&w=1400&auto=format&fit=crop",
+  "imageAlt": "A pile of pumpkins and winter squash",
+  "seasons": ["autumn"],
+  "peak": "autumn",
+  "produce": ["Winter squash", "Sweet corn", "Heirloom beans", "Pumpkins"],
+  "inSeasonNow": false,
+  "established": 1994,
+  "stand": "Barn store open daily in autumn, 10am–5pm",
+  "practices": ["Cover-cropped", "Stone-milled on site", "Seed-saving"],
+  "description": [
+    "Goldfield is a dry-land farm that leans into the seasons rather than against them. Summers grow the corn and beans; autumn is for curing squash in the long barn and milling grain to order.",
+    "The pumpkin patch opens the first weekend of October and the heirloom flour — milled the morning you buy it — is what keeps regulars driving out from the city."
+  ],
+  "calendar": [
+    { "name": "Sweet corn", "months": "Aug – Sep", "season": "summer" },
+    { "name": "Heirloom beans", "months": "Sep – Oct", "season": "autumn" },
+    { "name": "Winter squash", "months": "Oct – Dec", "season": "autumn" },
+    { "name": "Stone-milled flour", "months": "Year-round", "season": "year" }
+  ]
+}

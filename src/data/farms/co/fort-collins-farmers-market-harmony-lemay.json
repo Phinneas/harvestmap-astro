@@ -1,0 +1,19 @@
+{
+  "slug": "fort-collins-farmers-market-harmony-lemay",
+  "name": "Fort Collins Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Harmony & Lemay, CO",
+  "locationCity": "Harmony & Lemay",
+  "locationState": "CO",
+  "locationZipcode": "80521",
+  "lat": 40.5237699814717,
+  "lon": -105.05806001138784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

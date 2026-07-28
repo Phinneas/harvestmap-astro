@@ -1,0 +1,19 @@
+{
+  "slug": "west-point-farmers-market-west-point",
+  "name": "West Point Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "West Point, NE",
+  "locationCity": "West Point",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "lat": 41.837741,
+  "lon": -96.705918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:03.888Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:03.888Z"
+}

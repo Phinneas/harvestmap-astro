@@ -1,0 +1,19 @@
+{
+  "slug": "aberdeen-farmers-market-315-2nd-ave-se",
+  "name": "Aberdeen Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "315 2nd Ave. SE, SD",
+  "locationCity": "315 2nd Ave. SE",
+  "locationState": "SD",
+  "locationZipcode": "57401",
+  "lat": 45.46309463092055,
+  "lon": -98.48330727510057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:59.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:59.965Z"
+}

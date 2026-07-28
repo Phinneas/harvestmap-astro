@@ -1,0 +1,19 @@
+{
+  "slug": "edmond-farmer-s-market-26-west-1st-street",
+  "name": "Edmond Farmer’s Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "26 West 1st Street, OK",
+  "locationCity": "26 West 1st Street",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "lat": 35.6544494,
+  "lon": -97.4825364,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.539Z"
+}

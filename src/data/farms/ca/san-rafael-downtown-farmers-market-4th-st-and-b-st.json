@@ -1,0 +1,19 @@
+{
+  "slug": "san-rafael-downtown-farmers-market-4th-st-and-b-st",
+  "name": "San Rafael Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4th St. and B St., CA",
+  "locationCity": "4th St. and B St.",
+  "locationState": "CA",
+  "locationZipcode": "94901",
+  "lat": 37.97328999171653,
+  "lon": -122.52953996999634,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

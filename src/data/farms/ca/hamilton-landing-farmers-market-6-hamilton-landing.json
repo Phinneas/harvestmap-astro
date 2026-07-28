@@ -1,0 +1,19 @@
+{
+  "slug": "hamilton-landing-farmers-market-6-hamilton-landing",
+  "name": "Hamilton Landing Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6 Hamilton Landing, CA",
+  "locationCity": "6 Hamilton Landing",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 38.05772390000001,
+  "lon": -122.51425,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.738Z"
+}

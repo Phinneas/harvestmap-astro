@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-west-bend-farmers-market-main-st-and-6th-ave",
+  "name": "Downtown West Bend Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. and 6th Ave., WI",
+  "locationCity": "Main St. and 6th Ave.",
+  "locationState": "WI",
+  "locationZipcode": "53095",
+  "lat": 43.425289985456175,
+  "lon": -88.18355000958944,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

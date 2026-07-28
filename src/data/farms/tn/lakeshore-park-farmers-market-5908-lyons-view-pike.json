@@ -1,0 +1,19 @@
+{
+  "slug": "lakeshore-park-farmers-market-5908-lyons-view-pike",
+  "name": "Lakeshore Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5908 Lyons View Pike, TN",
+  "locationCity": "5908 Lyons View Pike",
+  "locationState": "TN",
+  "locationZipcode": "37939",
+  "lat": 35.92520808330997,
+  "lon": -83.99319886375677,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

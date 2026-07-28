@@ -1,0 +1,20 @@
+{
+  "slug": "a-p-food-store-2846-n-kolmar-ave",
+  "name": "A&P Food Store",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2846 N Kolmar Ave, IL",
+  "locationCity": "2846 N Kolmar Ave",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 41.9329764,
+  "lon": -87.741057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:48.625Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:48.625Z",
+  "crops": []
+}

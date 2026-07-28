@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-400-e-collins-st",
+  "name": "Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 E. Collins St., WY",
+  "locationCity": "400 E. Collins St.",
+  "locationState": "WY",
+  "locationZipcode": "82601",
+  "lat": 42.847563513213125,
+  "lon": -106.3201838410198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:46.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:46.336Z"
+}

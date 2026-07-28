@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-marquette-farmers-market-112-south-3rd-street",
+  "name": "Downtown Marquette Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 South 3rd Street, MI",
+  "locationCity": "112 South 3rd Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 46.543447224842495,
+  "lon": -87.39540611263514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

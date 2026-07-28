@@ -1,0 +1,19 @@
+{
+  "slug": "emerson-garfield-farmers-market-806-w-knox-ave",
+  "name": "Emerson-Garfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "806 W. Knox Ave., WA",
+  "locationCity": "806 W. Knox Ave.",
+  "locationState": "WA",
+  "locationZipcode": "99205",
+  "lat": 47.676742077726956,
+  "lon": -117.42382738185441,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

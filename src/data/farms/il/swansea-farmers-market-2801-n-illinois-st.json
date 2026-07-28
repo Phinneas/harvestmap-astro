@@ -1,0 +1,19 @@
+{
+  "slug": "swansea-farmers-market-2801-n-illinois-st",
+  "name": "Swansea Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2801 N. Illinois St., IL",
+  "locationCity": "2801 N. Illinois St.",
+  "locationState": "IL",
+  "locationZipcode": "62226",
+  "lat": 38.54499601225601,
+  "lon": -89.98590302187293,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

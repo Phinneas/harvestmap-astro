@@ -1,0 +1,19 @@
+{
+  "slug": "tallahassee-farmers-market-2904-kerry-forest-parkway",
+  "name": "Tallahassee Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2904 Kerry Forest Parkway, FL",
+  "locationCity": "2904 Kerry Forest Parkway",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "lat": 30.5430799,
+  "lon": -84.2264399,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.403Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.403Z"
+}

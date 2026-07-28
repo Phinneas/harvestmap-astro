@@ -1,0 +1,19 @@
+{
+  "slug": "chicago-street-farmers-market-14-west-jefferson-street",
+  "name": "Chicago Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14 West Jefferson Street, IL",
+  "locationCity": "14 West Jefferson Street",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 41.5244776,
+  "lon": -88.0822494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.460Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.460Z"
+}

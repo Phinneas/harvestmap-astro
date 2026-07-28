@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-saginaw-farmers-market-507-s-washington-ave",
+  "name": "Downtown Saginaw Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "507 S. Washington Ave., MI",
+  "locationCity": "507 S. Washington Ave.",
+  "locationState": "MI",
+  "locationZipcode": "48607",
+  "lat": 43.42855164690501,
+  "lon": -83.94055952590121,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

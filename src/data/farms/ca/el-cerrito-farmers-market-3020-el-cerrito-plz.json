@@ -1,0 +1,19 @@
+{
+  "slug": "el-cerrito-farmers-market-3020-el-cerrito-plz",
+  "name": "El Cerrito Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3020 El Cerrito Plz., CA",
+  "locationCity": "3020 El Cerrito Plz.",
+  "locationState": "CA",
+  "locationZipcode": "94530",
+  "lat": 37.90149396669015,
+  "lon": -122.29920206409152,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

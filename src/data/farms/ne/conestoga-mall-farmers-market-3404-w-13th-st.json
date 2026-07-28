@@ -1,0 +1,19 @@
+{
+  "slug": "conestoga-mall-farmers-market-3404-w-13th-st",
+  "name": "Conestoga Mall Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3404 W. 13th St., NE",
+  "locationCity": "3404 W. 13th St.",
+  "locationState": "NE",
+  "locationZipcode": "68803",
+  "lat": 40.93152617942501,
+  "lon": -98.3821623815102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:03.911Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:03.911Z"
+}

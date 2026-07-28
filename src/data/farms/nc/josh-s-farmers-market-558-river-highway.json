@@ -1,0 +1,19 @@
+{
+  "slug": "josh-s-farmers-market-558-river-highway",
+  "name": "Josh’s Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "558 River Highway, NC",
+  "locationCity": "558 River Highway",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "lat": 35.5958563,
+  "lon": -80.8690793,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.469Z"
+}

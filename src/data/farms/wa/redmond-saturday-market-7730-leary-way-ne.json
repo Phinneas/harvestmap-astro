@@ -1,0 +1,19 @@
+{
+  "slug": "redmond-saturday-market-7730-leary-way-ne",
+  "name": "Redmond Saturday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7730 Leary Way NE, WA",
+  "locationCity": "7730 Leary Way NE",
+  "locationState": "WA",
+  "locationZipcode": "98052",
+  "lat": 47.67248598750331,
+  "lon": -122.1233579712563,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hub-city-farmers-market-427-heymann-blvd",
+  "name": "Hub City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "427 Heymann Blvd., LA",
+  "locationCity": "427 Heymann Blvd.",
+  "locationState": "LA",
+  "locationZipcode": "70503",
+  "lat": 30.203401293237523,
+  "lon": -92.01591775636871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:06.421Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:06.421Z"
+}

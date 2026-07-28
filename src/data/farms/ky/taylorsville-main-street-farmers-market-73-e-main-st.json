@@ -1,0 +1,19 @@
+{
+  "slug": "taylorsville-main-street-farmers-market-73-e-main-st",
+  "name": "Taylorsville Main Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "73 E. Main St., KY",
+  "locationCity": "73 E. Main St.",
+  "locationState": "KY",
+  "locationZipcode": "40071",
+  "lat": 38.0309569406612,
+  "lon": -85.3456986718271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.784Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.784Z"
+}

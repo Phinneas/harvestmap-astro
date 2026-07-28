@@ -1,0 +1,19 @@
+{
+  "slug": "fayette-co-farmers-market-wv-virginia-st",
+  "name": "Fayette Co Farmers Market, WV",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Virginia St, WV",
+  "locationCity": "Virginia St",
+  "locationState": "WV",
+  "locationZipcode": "",
+  "lat": 37.9767905,
+  "lon": -81.1536404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.831Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.831Z"
+}

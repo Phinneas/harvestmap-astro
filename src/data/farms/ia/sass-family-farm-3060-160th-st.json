@@ -1,0 +1,19 @@
+{
+  "slug": "sass-family-farm-3060-160th-st",
+  "name": "Sass Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3060 160th St, IA",
+  "locationCity": "3060 160th St",
+  "locationState": "IA",
+  "locationZipcode": "52327",
+  "lat": 41.4261860034551,
+  "lon": -91.5484399774803,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:13.724Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:13.724Z"
+}

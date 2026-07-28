@@ -1,0 +1,20 @@
+{
+  "slug": "homeless-garden-project-shaffer-road",
+  "name": "Homeless Garden Project",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Shaffer Road, CA",
+  "locationCity": "Shaffer Road",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 36.9579722,
+  "lon": -122.0625333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:57.225Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:57.225Z",
+  "crops": []
+}

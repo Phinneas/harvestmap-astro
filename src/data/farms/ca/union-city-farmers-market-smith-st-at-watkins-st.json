@@ -1,0 +1,19 @@
+{
+  "slug": "union-city-farmers-market-smith-st-at-watkins-st",
+  "name": "Union City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Smith St. at Watkins St., CA",
+  "locationCity": "Smith St. at Watkins St.",
+  "locationState": "CA",
+  "locationZipcode": "94587",
+  "lat": 37.596479983812415,
+  "lon": -122.07890002153763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

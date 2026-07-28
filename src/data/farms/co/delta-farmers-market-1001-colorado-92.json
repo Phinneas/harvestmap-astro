@@ -1,0 +1,19 @@
+{
+  "slug": "delta-farmers-market-1001-colorado-92",
+  "name": "Delta Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1001 Colorado 92, CO",
+  "locationCity": "1001 Colorado 92",
+  "locationState": "CO",
+  "locationZipcode": "",
+  "lat": 38.751838,
+  "lon": -108.0578709,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.512Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.512Z"
+}

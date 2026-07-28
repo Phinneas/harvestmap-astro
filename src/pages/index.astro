@@ -12,11 +12,17 @@ import Basket from '../components/illustrations/Basket.astro';
 import PruningShears from '../components/illustrations/PruningShears.astro';
 import Foragers from '../components/illustrations/Foragers.astro';
 import Mushrooms from '../components/illustrations/Mushrooms.astro';
-import farms from '../data/farms.json';
+import { loadAllAugmentedFarms, loadEnrichedAugmentedFarms, getStatesWithFarms } from '../lib/farm-loader';
 
-const total = farms.length;
-const inSeason = farms.filter((f) => f.inSeasonNow).length;
-const countFor = (k: string) => farms.filter((f) => f.seasons.includes(k as any)).length;
+const allFarms = loadAllAugmentedFarms();
+const enrichedFarms = loadEnrichedAugmentedFarms();
+const states = getStatesWithFarms();
+
+const total = allFarms.length;
+const inSeason = enrichedFarms.filter((f) => f.derivedInSeasonNow).length;
+const withCrops = enrichedFarms.length;
+const enriched = enrichedFarms.filter((f) => f.isEnriched).length;
+const countFor = (k: string) => enrichedFarms.filter((f) => (f.seasons || f.derivedSeasons).includes(k as any)).length;
 ---
 <BaseLayout active="home">
   <!-- Hero -->
@@ -26,11 +32,11 @@ const countFor = (k: string) => farms.filter((f) => f.seasons.includes(k as any)
       text={`The stone fruit is blushing and the first berries are in. ${inSeason} of ${total} growers in your region are harvesting this week.`}
     />
     <div class="cluster" style="justify-content:center; gap:var(--space-6); margin-top:var(--space-5); color:var(--text-muted); font-size:var(--fs-small);">
-      <span><b style="color:var(--clay-deep)">120+</b> farms listed</span>
+      <span><b style="color:var(--clay-deep)">{total}</b> farms listed</span>
       <span aria-hidden="true">·</span>
-      <span><b style="color:var(--clay-deep)">6</b> regions</span>
+      <span><b style="color:var(--clay-deep)">{withCrops}</b> with crop data</span>
       <span aria-hidden="true">·</span>
-      <span>Harvest updated <b style="color:var(--clay-deep)">weekly</b></span>
+      <span><b style="color:var(--clay-deep)">{enriched}</b> fully enriched</span>
     </div>
   </div>
 
@@ -43,7 +49,7 @@ const countFor = (k: string) => farms.filter((f) => f.seasons.includes(k as any)
             <Leaf class="is-drawn" style="width:18px;height:18px;" /> Browse the directory
           </span>
           <h2>Farms harvesting near you</h2>
-          <p class="lead">{inSeason} of {total} growers are in season right now. Filter by season, or search for whatever you’re craving.</p>
+          <p class="lead">{inSeason} of {withCrops} enriched growers are in season right now. {total} farms in our national database — browse by state below.</p>
         </div>
         <div style="flex:1; min-width:min(100%, 340px); max-width:480px;">
           <SearchBar />
@@ -51,10 +57,31 @@ const countFor = (k: string) => farms.filter((f) => f.seasons.includes(k as any)
       </div>
 
       <div class="seed-grid stagger" id="farm-grid" style="margin-top: var(--space-7);">
-        {farms.map((f) => <FarmCard farm={f} />)}
+        {enrichedFarms.map((f) => <FarmCard farm={f} />)}
       </div>
 
       <EmptyState id="farm-empty" class="is-hidden" />
+    </div>
+  </section>
+
+  <!-- State directory -->
+  <section class="section" id="states">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Browse by state</span>
+        <h2>{total} farms across {states.length} states</h2>
+        <p class="lead">Pick a state to see all farms, farmers markets, CSAs, and agritourism listings in our database.</p>
+      </div>
+      <div class="state-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: var(--space-3); margin-top: var(--space-5);">
+        {states.map((s) => (
+          <a href={`/${s.code.toLowerCase()}`} class="panel" style="padding: var(--space-3) var(--space-4); text-decoration: none; transition: transform 0.15s, box-shadow 0.15s;">
+            <div style="font-weight: 700; font-size: var(--fs-body); color: var(--ink);">{s.name}</div>
+            <div style="font-size: var(--fs-small); color: var(--text-muted); margin-top: 2px;">
+              {s.count} farms{s.enriched > 0 ? ` · ${s.enriched} enriched` : ''}
+            </div>
+          </a>
+        ))}
+      </div>
     </div>
   </section>
 

@@ -1,0 +1,19 @@
+{
+  "slug": "old-macdonald-s-farmers-market-2700-bever-avenue-southeast",
+  "name": "Old MacDonald’s Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2700 Bever Avenue Southeast, IA",
+  "locationCity": "2700 Bever Avenue Southeast",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 41.9856479,
+  "lon": -91.6253218,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.616Z"
+}

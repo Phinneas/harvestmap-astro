@@ -1,0 +1,19 @@
+{
+  "slug": "highwoods-evening-market-130-highwood-ave",
+  "name": "Highwoods Evening Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "130 Highwood Ave., IL",
+  "locationCity": "130 Highwood Ave.",
+  "locationState": "IL",
+  "locationZipcode": "60040",
+  "lat": 42.20195699857821,
+  "lon": -87.81190849652285,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

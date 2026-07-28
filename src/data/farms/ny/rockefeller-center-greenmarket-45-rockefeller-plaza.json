@@ -1,0 +1,19 @@
+{
+  "slug": "rockefeller-center-greenmarket-45-rockefeller-plaza",
+  "name": "Rockefeller Center Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "45 Rockefeller Plaza, NY",
+  "locationCity": "45 Rockefeller Plaza",
+  "locationState": "NY",
+  "locationZipcode": "10111",
+  "lat": 40.75926519088919,
+  "lon": -73.9782920512956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.520Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.520Z"
+}

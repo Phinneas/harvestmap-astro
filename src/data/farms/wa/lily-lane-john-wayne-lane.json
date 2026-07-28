@@ -1,0 +1,19 @@
+{
+  "slug": "lily-lane-john-wayne-lane",
+  "name": "Lily Lane",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "John Wayne Lane, WA",
+  "locationCity": "John Wayne Lane",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 46.9137839818903,
+  "lon": -123.977164972563,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.248Z"
+}

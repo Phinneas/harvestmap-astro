@@ -1,0 +1,19 @@
+{
+  "slug": "gladwin-farmers-market-101-north-state-street",
+  "name": "Gladwin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 North State Street, MI",
+  "locationCity": "101 North State Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.98068107945319,
+  "lon": -84.48182608337827,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

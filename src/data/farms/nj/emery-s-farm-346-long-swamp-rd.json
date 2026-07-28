@@ -1,0 +1,19 @@
+{
+  "slug": "emery-s-farm-346-long-swamp-rd",
+  "name": "Emery's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "346 Long Swamp Rd, NJ",
+  "locationCity": "346 Long Swamp Rd",
+  "locationState": "NJ",
+  "locationZipcode": "08533",
+  "lat": 40.0584889855508,
+  "lon": -74.4670719813868,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:36.007Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:36.007Z"
+}

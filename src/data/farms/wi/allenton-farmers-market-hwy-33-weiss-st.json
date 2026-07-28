@@ -1,0 +1,19 @@
+{
+  "slug": "allenton-farmers-market-hwy-33-weiss-st",
+  "name": "Allenton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hwy. 33 & Weiss St., WI",
+  "locationCity": "Hwy. 33 & Weiss St.",
+  "locationState": "WI",
+  "locationZipcode": "53002",
+  "lat": 43.42116998667882,
+  "lon": -88.3415099924158,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

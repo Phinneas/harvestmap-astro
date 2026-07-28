@@ -1,0 +1,19 @@
+{
+  "slug": "moab-farmers-market-100-w-and-park-dr",
+  "name": "Moab Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 W. and Park Dr., UT",
+  "locationCity": "100 W. and Park Dr.",
+  "locationState": "UT",
+  "locationZipcode": "84532",
+  "lat": 38.577448144627596,
+  "lon": -109.55283735050975,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:36.288Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:36.288Z"
+}

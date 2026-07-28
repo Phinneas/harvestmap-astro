@@ -1,0 +1,19 @@
+{
+  "slug": "usc-farmers-market-43158-s-figueroa-st",
+  "name": "USC Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "43158 S. Figueroa St., CA",
+  "locationCity": "43158 S. Figueroa St.",
+  "locationState": "CA",
+  "locationZipcode": "43158",
+  "lat": 34.017926696966484,
+  "lon": -118.2825693739317,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

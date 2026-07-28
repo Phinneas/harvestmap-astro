@@ -1,0 +1,19 @@
+{
+  "slug": "buchanan-farmers-market-122-days-avenue",
+  "name": "Buchanan Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "122 Days Avenue, MI",
+  "locationCity": "122 Days Avenue",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 41.82698371837812,
+  "lon": -86.35957472000395,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

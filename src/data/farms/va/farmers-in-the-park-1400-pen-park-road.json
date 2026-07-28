@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-in-the-park-1400-pen-park-road",
+  "name": "Farmers in the Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1400 Pen Park Road, VA",
+  "locationCity": "1400 Pen Park Road",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "lat": 38.0498615,
+  "lon": -78.4516155,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.481Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.481Z"
+}

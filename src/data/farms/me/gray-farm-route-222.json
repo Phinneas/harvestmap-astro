@@ -1,0 +1,19 @@
+{
+  "slug": "gray-farm-route-222",
+  "name": "Gray Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 222, ME",
+  "locationCity": "Route 222",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 44.8893519133144,
+  "lon": -69.2189867015757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.507Z"
+}

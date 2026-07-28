@@ -1,0 +1,19 @@
+{
+  "slug": "stanly-commons-farmers-market-1000-n-1st-st",
+  "name": "Stanly Commons Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 N. 1st St., NC",
+  "locationCity": "1000 N. 1st St.",
+  "locationState": "NC",
+  "locationZipcode": "28001",
+  "lat": 35.36790472199977,
+  "lon": -80.19902188332486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

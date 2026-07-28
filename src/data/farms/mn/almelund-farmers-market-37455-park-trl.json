@@ -1,0 +1,19 @@
+{
+  "slug": "almelund-farmers-market-37455-park-trl",
+  "name": "Almelund Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "37455 Park Trl., MN",
+  "locationCity": "37455 Park Trl.",
+  "locationState": "MN",
+  "locationZipcode": "37455",
+  "lat": 45.490683144273945,
+  "lon": -92.78572525255996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.240Z"
+}

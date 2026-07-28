@@ -1,0 +1,19 @@
+{
+  "slug": "potlatch-idaho-farmers-market-185-sixth-street",
+  "name": "Potlatch Idaho Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "185 Sixth Street, ID",
+  "locationCity": "185 Sixth Street",
+  "locationState": "ID",
+  "locationZipcode": "",
+  "lat": 46.9224954,
+  "lon": -116.9018081,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.479Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.479Z"
+}

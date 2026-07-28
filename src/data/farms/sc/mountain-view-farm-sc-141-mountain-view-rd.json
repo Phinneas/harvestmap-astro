@@ -1,0 +1,19 @@
+{
+  "slug": "mountain-view-farm-sc-141-mountain-view-rd",
+  "name": "Mountain View Farm - SC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "141 mountain view rd., SC",
+  "locationCity": "141 mountain view rd.",
+  "locationState": "SC",
+  "locationZipcode": "29070",
+  "lat": 33.7907154875764,
+  "lon": -81.5390529211327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:45.402Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:45.402Z"
+}

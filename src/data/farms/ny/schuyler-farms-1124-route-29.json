@@ -1,0 +1,19 @@
+{
+  "slug": "schuyler-farms-1124-route-29",
+  "name": "Schuyler Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1124 Route 29, NY",
+  "locationCity": "1124 Route 29",
+  "locationState": "NY",
+  "locationZipcode": "12871",
+  "lat": 43.1087743179448,
+  "lon": -73.6011441860353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.648Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.648Z"
+}

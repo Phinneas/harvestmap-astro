@@ -1,0 +1,19 @@
+{
+  "slug": "castro-valley-farmers-market-redwood-rd-at-norbridge-ave",
+  "name": "Castro Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Redwood Rd. at Norbridge Ave., CA",
+  "locationCity": "Redwood Rd. at Norbridge Ave.",
+  "locationState": "CA",
+  "locationZipcode": "94546",
+  "lat": 37.6926100196748,
+  "lon": -122.07394003033356,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

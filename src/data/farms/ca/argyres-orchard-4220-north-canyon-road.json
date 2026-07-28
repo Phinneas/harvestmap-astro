@@ -1,0 +1,19 @@
+{
+  "slug": "argyres-orchard-4220-north-canyon-road",
+  "name": "Argyres Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4220 North Canyon Road, CA",
+  "locationCity": "4220 North Canyon Road",
+  "locationState": "CA",
+  "locationZipcode": "95709",
+  "lat": 38.7562570202892,
+  "lon": -120.690303985351,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.965Z"
+}

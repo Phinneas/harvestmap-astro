@@ -1,0 +1,19 @@
+{
+  "slug": "ridge-runner-farmers-market-432-new-england-ridge-road",
+  "name": "Ridge Runner Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "432 New England Ridge Road, WV",
+  "locationCity": "432 New England Ridge Road",
+  "locationState": "WV",
+  "locationZipcode": "",
+  "lat": 39.2154389,
+  "lon": -81.6570149,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.830Z"
+}

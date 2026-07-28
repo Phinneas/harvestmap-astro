@@ -1,0 +1,19 @@
+{
+  "slug": "monterey-farmers-market-at-mpc-930-fremont-st",
+  "name": "Monterey Farmers' Market at MPC",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "930 Fremont St., CA",
+  "locationCity": "930 Fremont St.",
+  "locationState": "CA",
+  "locationZipcode": "93940",
+  "lat": 36.594344692074145,
+  "lon": -121.88589753522095,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

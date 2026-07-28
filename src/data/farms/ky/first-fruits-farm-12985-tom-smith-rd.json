@@ -1,0 +1,19 @@
+{
+  "slug": "first-fruits-farm-12985-tom-smith-rd",
+  "name": "First Fruits Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12985 Tom Smith Rd, KY",
+  "locationCity": "12985 Tom Smith Rd",
+  "locationState": "KY",
+  "locationZipcode": "12985",
+  "lat": 37.7759999818057,
+  "lon": -87.4347640049806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:40.561Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:40.561Z"
+}

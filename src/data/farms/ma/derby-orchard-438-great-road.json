@@ -1,0 +1,19 @@
+{
+  "slug": "derby-orchard-438-great-road",
+  "name": "Derby Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "438 Great Road, MA",
+  "locationCity": "438 Great Road",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.4364057893103,
+  "lon": -71.5115963255575,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.330Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.330Z"
+}

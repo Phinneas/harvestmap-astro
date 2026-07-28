@@ -1,0 +1,19 @@
+{
+  "slug": "kirkwood-farmers-market-150-e-argonne-dr",
+  "name": "Kirkwood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 E. Argonne Dr., MO",
+  "locationCity": "150 E. Argonne Dr.",
+  "locationState": "MO",
+  "locationZipcode": "63122",
+  "lat": 38.58117235735657,
+  "lon": -90.40516476084979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

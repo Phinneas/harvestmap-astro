@@ -1,0 +1,19 @@
+{
+  "slug": "everitt-farms-9400-w-alameda-ave",
+  "name": "Everitt Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9400 W Alameda Ave, CO",
+  "locationCity": "9400 W Alameda Ave",
+  "locationState": "CO",
+  "locationZipcode": "80226",
+  "lat": 39.7103729982443,
+  "lon": -105.101605004213,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:08.840Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:08.840Z"
+}

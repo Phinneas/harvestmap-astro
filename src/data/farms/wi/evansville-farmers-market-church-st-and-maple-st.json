@@ -1,0 +1,19 @@
+{
+  "slug": "evansville-farmers-market-church-st-and-maple-st",
+  "name": "Evansville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Church St. and Maple St., WI",
+  "locationCity": "Church St. and Maple St.",
+  "locationState": "WI",
+  "locationZipcode": "53536",
+  "lat": 42.77907999361821,
+  "lon": -89.29809997291215,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kiteley-farms-3805-brock-rd",
+  "name": "Kiteley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3805 Brock rd, MI",
+  "locationCity": "3805 Brock rd",
+  "locationState": "MI",
+  "locationZipcode": "49720",
+  "lat": 45.2625780158036,
+  "lon": -85.2195119882093,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:53.642Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:53.642Z"
+}

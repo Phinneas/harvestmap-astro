@@ -1,0 +1,19 @@
+{
+  "slug": "sonora-farmers-market-stewart-st-and-theall-st",
+  "name": "Sonora Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Stewart St. and Theall St., CA",
+  "locationCity": "Stewart St. and Theall St.",
+  "locationState": "CA",
+  "locationZipcode": "95370",
+  "lat": 37.983670014880445,
+  "lon": -120.38167996349823,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

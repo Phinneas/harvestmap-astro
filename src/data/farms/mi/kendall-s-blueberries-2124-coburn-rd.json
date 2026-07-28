@@ -1,0 +1,19 @@
+{
+  "slug": "kendall-s-blueberries-2124-coburn-rd",
+  "name": "Kendall's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2124 Coburn Rd, MI",
+  "locationCity": "2124 Coburn Rd",
+  "locationState": "MI",
+  "locationZipcode": "49058",
+  "lat": 42.6024779875774,
+  "lon": -85.2483630018534,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:53.638Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:53.638Z"
+}

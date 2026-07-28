@@ -1,0 +1,19 @@
+{
+  "slug": "garden-gate-lavender-farms-16511-west-deno-road",
+  "name": "Garden Gate Lavender Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16511 West Deno Road, WA",
+  "locationCity": "16511 West Deno Road",
+  "locationState": "WA",
+  "locationZipcode": "16511",
+  "lat": 47.6719122751544,
+  "lon": -117.637513507614,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.242Z"
+}

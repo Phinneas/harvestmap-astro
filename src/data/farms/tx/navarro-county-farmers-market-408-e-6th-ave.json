@@ -1,0 +1,19 @@
+{
+  "slug": "navarro-county-farmers-market-408-e-6th-ave",
+  "name": "Navarro County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "408 E. 6th Ave., TX",
+  "locationCity": "408 E. 6th Ave.",
+  "locationState": "TX",
+  "locationZipcode": "75110",
+  "lat": 32.094074498246485,
+  "lon": -96.46048411093697,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

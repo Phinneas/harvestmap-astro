@@ -16,7 +16,8 @@ import Mushrooms from '../components/illustrations/Mushrooms.astro';
 import Foragers from '../components/illustrations/Foragers.astro';
 import Birds from '../components/illustrations/Birds.astro';
 import SwayingTrees from '../components/illustrations/SwayingTrees.astro';
-import farms from '../data/farms.json';
+import { loadEnrichedAugmentedFarms } from '../lib/farm-loader';
+const farms = loadEnrichedAugmentedFarms();
 
 const palette = [
   { n: 'Cream', h: '#FBF3E7', note: 'Background', dark: true },

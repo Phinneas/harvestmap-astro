@@ -1,0 +1,19 @@
+{
+  "slug": "albert-lea-winter-farmers-market-2510-bridge-ave",
+  "name": "Albert Lea Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2510 Bridge Ave., MN",
+  "locationCity": "2510 Bridge Ave.",
+  "locationState": "MN",
+  "locationZipcode": "56007",
+  "lat": 43.68091704761088,
+  "lon": -93.35889274871066,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.240Z"
+}

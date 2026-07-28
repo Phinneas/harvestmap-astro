@@ -1,0 +1,19 @@
+{
+  "slug": "deerfield-farm-routes-5-10",
+  "name": "Deerfield Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Routes 5 & 10, MA",
+  "locationCity": "Routes 5 & 10",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.4823299853514,
+  "lon": -72.6125899854175,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.332Z"
+}

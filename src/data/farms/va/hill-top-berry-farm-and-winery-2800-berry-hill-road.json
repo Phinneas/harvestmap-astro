@@ -1,0 +1,19 @@
+{
+  "slug": "hill-top-berry-farm-and-winery-2800-berry-hill-road",
+  "name": "Hill Top Berry Farm and Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2800 Berry Hill Road, VA",
+  "locationCity": "2800 Berry Hill Road",
+  "locationState": "VA",
+  "locationZipcode": "22958",
+  "lat": 37.9008180032954,
+  "lon": -78.8462360197893,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:54.997Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:54.997Z"
+}

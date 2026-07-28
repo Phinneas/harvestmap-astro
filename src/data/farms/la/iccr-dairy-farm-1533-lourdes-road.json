@@ -1,0 +1,19 @@
+{
+  "slug": "iccr-dairy-farm-1533-lourdes-road",
+  "name": "ICCR Dairy Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1533 Lourdes road, LA",
+  "locationCity": "1533 Lourdes road",
+  "locationState": "LA",
+  "locationZipcode": "70525",
+  "lat": 30.3878080148193,
+  "lon": -92.180409995923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:58.410Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:58.410Z"
+}

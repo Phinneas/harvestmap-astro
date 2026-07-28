@@ -1,0 +1,19 @@
+{
+  "slug": "hanover-area-farmers-market-1-e-wheelock-st",
+  "name": "Hanover Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 E. Wheelock St., NH",
+  "locationCity": "1 E. Wheelock St.",
+  "locationState": "NH",
+  "locationZipcode": "03755",
+  "lat": 43.703086384906115,
+  "lon": -72.28549442659396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:29.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:29.123Z"
+}

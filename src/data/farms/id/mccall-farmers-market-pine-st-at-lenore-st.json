@@ -1,0 +1,19 @@
+{
+  "slug": "mccall-farmers-market-pine-st-at-lenore-st",
+  "name": "McCall Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Pine St. at Lenore St., ID",
+  "locationCity": "Pine St. at Lenore St.",
+  "locationState": "ID",
+  "locationZipcode": "83638",
+  "lat": 44.912330974589366,
+  "lon": -116.0961658401285,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-waterloo-farmers-market-327-w-3rd-st",
+  "name": "Downtown Waterloo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "327 W. 3rd St., IA",
+  "locationCity": "327 W. 3rd St.",
+  "locationState": "IA",
+  "locationZipcode": "50703",
+  "lat": 42.50069570338061,
+  "lon": -92.33682727323665,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

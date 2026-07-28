@@ -1,0 +1,19 @@
+{
+  "slug": "graveyard-fields-trail-blue-ridge-parkway",
+  "name": "Graveyard Fields Trail",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Blue Ridge Parkway, NC",
+  "locationCity": "Blue Ridge Parkway",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "lat": 35.3686689247187,
+  "lon": -82.7920903092228,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.465Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.465Z"
+}

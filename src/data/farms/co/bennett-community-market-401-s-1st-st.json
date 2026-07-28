@@ -1,0 +1,19 @@
+{
+  "slug": "bennett-community-market-401-s-1st-st",
+  "name": "Bennett Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "401 S. 1st St., CO",
+  "locationCity": "401 S. 1st St.",
+  "locationState": "CO",
+  "locationZipcode": "80102",
+  "lat": 39.758281209421185,
+  "lon": -104.43323208396914,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

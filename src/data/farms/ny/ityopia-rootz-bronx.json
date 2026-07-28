@@ -1,0 +1,19 @@
+{
+  "slug": "ityopia-rootz-bronx",
+  "name": "Ityopia Rootz",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bronx, NY",
+  "locationCity": "Bronx",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "lat": 40.8261532,
+  "lon": -73.9203351,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.653Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.653Z"
+}

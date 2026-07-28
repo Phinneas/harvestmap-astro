@@ -1,0 +1,19 @@
+{
+  "slug": "rose-city-farmers-market-221-south-broadway-avenue",
+  "name": "Rose City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "221 South Broadway Avenue, TX",
+  "locationCity": "221 South Broadway Avenue",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "lat": 32.3488403,
+  "lon": -95.30098009999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.064Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.064Z"
+}

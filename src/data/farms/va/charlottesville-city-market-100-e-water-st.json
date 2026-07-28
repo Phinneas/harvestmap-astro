@@ -1,0 +1,19 @@
+{
+  "slug": "charlottesville-city-market-100-e-water-st",
+  "name": "Charlottesville City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 E Water St, VA",
+  "locationCity": "100 E Water St",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "lat": 38.029589,
+  "lon": -78.481657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.481Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.481Z"
+}

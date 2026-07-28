@@ -1,0 +1,19 @@
+{
+  "slug": "bellingham-farmers-market-1100-railroad-ave",
+  "name": "Bellingham Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1100 Railroad Ave., WA",
+  "locationCity": "1100 Railroad Ave.",
+  "locationState": "WA",
+  "locationZipcode": "98225",
+  "lat": 48.74709538513903,
+  "lon": -122.48100113164635,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

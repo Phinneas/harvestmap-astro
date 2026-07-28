@@ -1,0 +1,19 @@
+{
+  "slug": "molly-s-orchard-point-street",
+  "name": "Molly's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Point Street, ME",
+  "locationCity": "Point Street",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 44.6433032506954,
+  "lon": -67.7325567586588,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.507Z"
+}

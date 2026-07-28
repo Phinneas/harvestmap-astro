@@ -1,0 +1,19 @@
+{
+  "slug": "mwv-farmers-market-78-norcross-circle",
+  "name": "MWV Farmers’ Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "78 Norcross Circle, NH",
+  "locationCity": "78 Norcross Circle",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "lat": 44.0512661,
+  "lon": -71.1269847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:29.135Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:29.135Z"
+}

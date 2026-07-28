@@ -1,0 +1,19 @@
+{
+  "slug": "holden-farmers-market-1187-main-st",
+  "name": "Holden Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1187 Main St., MA",
+  "locationCity": "1187 Main St.",
+  "locationState": "MA",
+  "locationZipcode": "01520",
+  "lat": 42.35042153619369,
+  "lon": -71.86166189798745,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

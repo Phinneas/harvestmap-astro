@@ -1,0 +1,19 @@
+{
+  "slug": "new-baltimore-farmers-market-50976-washington-street",
+  "name": "New Baltimore Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50976 Washington Street, MI",
+  "locationCity": "50976 Washington Street",
+  "locationState": "MI",
+  "locationZipcode": "50976",
+  "lat": 42.67945911293176,
+  "lon": -82.73474525495048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

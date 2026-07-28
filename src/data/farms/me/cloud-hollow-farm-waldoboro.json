@@ -1,0 +1,19 @@
+{
+  "slug": "cloud-hollow-farm-waldoboro",
+  "name": "Cloud Hollow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Waldoboro, ME",
+  "locationCity": "Waldoboro",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 44.09684,
+  "lon": -69.3731299999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.498Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.498Z"
+}

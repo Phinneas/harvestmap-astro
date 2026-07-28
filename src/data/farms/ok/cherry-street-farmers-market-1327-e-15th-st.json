@@ -1,0 +1,19 @@
+{
+  "slug": "cherry-street-farmers-market-1327-e-15th-st",
+  "name": "Cherry Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1327 E. 15th St., OK",
+  "locationCity": "1327 E. 15th St.",
+  "locationState": "OK",
+  "locationZipcode": "74120",
+  "lat": 36.14065728691063,
+  "lon": -95.9742628746402,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

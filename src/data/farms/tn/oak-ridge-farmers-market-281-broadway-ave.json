@@ -1,0 +1,19 @@
+{
+  "slug": "oak-ridge-farmers-market-281-broadway-ave",
+  "name": "Oak Ridge Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "281 Broadway Ave., TN",
+  "locationCity": "281 Broadway Ave.",
+  "locationState": "TN",
+  "locationZipcode": "37830",
+  "lat": 36.02913226680469,
+  "lon": -84.24060845233079,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

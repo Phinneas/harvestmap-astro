@@ -1,0 +1,19 @@
+{
+  "slug": "okc-food-hub-oklahoma-city",
+  "name": "OKC Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Oklahoma City, OK",
+  "locationCity": "Oklahoma City",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "lat": 35.468494,
+  "lon": -97.521264,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:58.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:58.327Z"
+}

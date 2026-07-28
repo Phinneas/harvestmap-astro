@@ -1,0 +1,19 @@
+{
+  "slug": "ferry-street-growers-market-330-ferry-st",
+  "name": "Ferry Street Growers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "330 Ferry St., PA",
+  "locationCity": "330 Ferry St.",
+  "locationState": "PA",
+  "locationZipcode": "17821",
+  "lat": 40.961713039075704,
+  "lon": -76.6163971552872,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

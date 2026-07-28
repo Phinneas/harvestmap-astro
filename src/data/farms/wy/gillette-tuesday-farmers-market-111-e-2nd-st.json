@@ -1,0 +1,19 @@
+{
+  "slug": "gillette-tuesday-farmers-market-111-e-2nd-st",
+  "name": "Gillette Tuesday Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 E. 2nd St., WY",
+  "locationCity": "111 E. 2nd St.",
+  "locationState": "WY",
+  "locationZipcode": "82716",
+  "lat": 44.29319485545726,
+  "lon": -105.50373500836147,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:46.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:46.336Z"
+}

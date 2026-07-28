@@ -1,0 +1,19 @@
+{
+  "slug": "oroville-farmers-market-myers-st-and-bird-st",
+  "name": "Oroville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Myers St.and Bird St., CA",
+  "locationCity": "Myers St.and Bird St.",
+  "locationState": "CA",
+  "locationZipcode": "95965",
+  "lat": 39.513160018023655,
+  "lon": -121.55504004170888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

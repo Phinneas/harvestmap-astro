@@ -1,0 +1,19 @@
+{
+  "slug": "louisiana-community-betterment-farmer-s-market-sunset-park",
+  "name": "Louisiana Community Betterment Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Sunset Park, LA",
+  "locationCity": "Sunset Park",
+  "locationState": "LA",
+  "locationZipcode": "63353",
+  "lat": 39.441188,
+  "lon": -91.062659,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:06.411Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:06.411Z"
+}

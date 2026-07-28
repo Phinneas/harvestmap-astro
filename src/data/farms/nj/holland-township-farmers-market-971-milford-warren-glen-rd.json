@@ -1,0 +1,19 @@
+{
+  "slug": "holland-township-farmers-market-971-milford-warren-glen-rd",
+  "name": "Holland Township Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "971 Milford Warren Glen Rd., NJ",
+  "locationCity": "971 Milford Warren Glen Rd.",
+  "locationState": "NJ",
+  "locationZipcode": "08848",
+  "lat": 40.612816374753855,
+  "lon": -75.11983808018374,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

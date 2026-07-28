@@ -1,0 +1,19 @@
+{
+  "slug": "walled-lake-farmers-market-1499-e-west-maple-rd",
+  "name": "Walled Lake Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1499 E. West Maple Rd., MI",
+  "locationCity": "1499 E. West Maple Rd.",
+  "locationState": "MI",
+  "locationZipcode": "48390",
+  "lat": 42.53968949259326,
+  "lon": -83.46675316399542,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

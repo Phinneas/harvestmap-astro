@@ -1,0 +1,19 @@
+{
+  "slug": "ada-farmers-market-7239-thornapple-river-drive-southeast",
+  "name": "Ada Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7239 Thornapple River Drive Southeast, MI",
+  "locationCity": "7239 Thornapple River Drive Southeast",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.95538284444001,
+  "lon": -85.48902851936563,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.733Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.733Z"
+}

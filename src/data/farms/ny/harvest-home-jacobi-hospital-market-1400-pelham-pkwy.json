@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-home-jacobi-hospital-market-1400-pelham-pkwy",
+  "name": "Harvest Home Jacobi Hospital Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1400 Pelham Pkwy., NY",
+  "locationCity": "1400 Pelham Pkwy.",
+  "locationState": "NY",
+  "locationZipcode": "10461",
+  "lat": 40.857504184530946,
+  "lon": -73.84764005597361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.520Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.520Z"
+}

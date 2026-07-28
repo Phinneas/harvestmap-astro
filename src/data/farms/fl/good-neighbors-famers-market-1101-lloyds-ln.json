@@ -1,0 +1,19 @@
+{
+  "slug": "good-neighbors-famers-market-1101-lloyds-ln",
+  "name": "Good Neighbors Famers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1101 Lloyds Ln., FL",
+  "locationCity": "1101 Lloyds Ln.",
+  "locationState": "FL",
+  "locationZipcode": "32765",
+  "lat": 28.65624137348935,
+  "lon": -81.25411343108168,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.374Z"
+}

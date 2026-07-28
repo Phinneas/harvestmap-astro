@@ -1,0 +1,19 @@
+{
+  "slug": "grand-lake-oakland-farmers-market-grand-ave-at-lake-park-ave",
+  "name": "Grand Lake - Oakland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Grand Ave. at Lake Park Ave., CA",
+  "locationCity": "Grand Ave. at Lake Park Ave.",
+  "locationState": "CA",
+  "locationZipcode": "94610",
+  "lat": 37.81142999316167,
+  "lon": -122.24792000942301,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

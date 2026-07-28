@@ -1,0 +1,19 @@
+{
+  "slug": "beech-bend-farmers-market-315-beech-bend-rd",
+  "name": "Beech Bend Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "315 Beech Bend Rd., KY",
+  "locationCity": "315 Beech Bend Rd.",
+  "locationState": "KY",
+  "locationZipcode": "42101",
+  "lat": 37.01080315413005,
+  "lon": -86.43063341428473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.783Z"
+}

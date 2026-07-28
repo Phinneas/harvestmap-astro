@@ -1,0 +1,19 @@
+{
+  "slug": "chino-hills-farmers-market-13920-city-center-dr",
+  "name": "Chino Hills Farmers' market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13920 City Center Dr., CA",
+  "locationCity": "13920 City Center Dr.",
+  "locationState": "CA",
+  "locationZipcode": "13920",
+  "lat": 34.000412013381904,
+  "lon": -117.73087601071731,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dykeman-farm-31-dykeman-lane",
+  "name": "Dykeman Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "31 Dykeman Lane, NY",
+  "locationCity": "31 Dykeman Lane",
+  "locationState": "NY",
+  "locationZipcode": "12564",
+  "lat": 41.6277055217082,
+  "lon": -73.6088471550536,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.639Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.639Z"
+}

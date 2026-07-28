@@ -1,0 +1,19 @@
+{
+  "slug": "amqui-station-farmers-market-301-b-madison-st",
+  "name": "Amqui Station Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 B Madison St., TN",
+  "locationCity": "301 B Madison St.",
+  "locationState": "TN",
+  "locationZipcode": "37115",
+  "lat": 36.258553503558005,
+  "lon": -86.71440208938274,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

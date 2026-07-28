@@ -1,0 +1,19 @@
+{
+  "slug": "panama-city-farmers-market-218-harrison-avenue",
+  "name": "Panama City Farmers’ Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "218 Harrison Avenue, FL",
+  "locationCity": "218 Harrison Avenue",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "lat": 30.1543985,
+  "lon": -85.66091639999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.403Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.403Z"
+}

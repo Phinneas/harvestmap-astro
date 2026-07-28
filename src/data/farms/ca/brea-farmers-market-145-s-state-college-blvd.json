@@ -1,0 +1,19 @@
+{
+  "slug": "brea-farmers-market-145-s-state-college-blvd",
+  "name": "Brea Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "145 S. State College Blvd., CA",
+  "locationCity": "145 S. State College Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "92821",
+  "lat": 33.91565898316808,
+  "lon": -117.882779054576,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

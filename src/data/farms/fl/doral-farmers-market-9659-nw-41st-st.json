@@ -1,0 +1,19 @@
+{
+  "slug": "doral-farmers-market-9659-nw-41st-st",
+  "name": "Doral Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9659 NW 41st St., FL",
+  "locationCity": "9659 NW 41st St.",
+  "locationState": "FL",
+  "locationZipcode": "33178",
+  "lat": 25.811664817217107,
+  "lon": -80.35249082474041,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.374Z"
+}

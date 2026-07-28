@@ -1,0 +1,19 @@
+{
+  "slug": "ely-farmers-market-400-ely-st",
+  "name": "Ely Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Ely St., NV",
+  "locationCity": "400 Ely St.",
+  "locationState": "NV",
+  "locationZipcode": "89301",
+  "lat": 39.249143232354626,
+  "lon": -114.89473597756215,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:17.062Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:17.062Z"
+}

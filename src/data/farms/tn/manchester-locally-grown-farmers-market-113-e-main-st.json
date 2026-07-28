@@ -1,0 +1,19 @@
+{
+  "slug": "manchester-locally-grown-farmers-market-113-e-main-st",
+  "name": "Manchester Locally Grown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "113 E. Main St., TN",
+  "locationCity": "113 E. Main St.",
+  "locationState": "TN",
+  "locationZipcode": "37355",
+  "lat": 35.48283853924088,
+  "lon": -86.08804612339814,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

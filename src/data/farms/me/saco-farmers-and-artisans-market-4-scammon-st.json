@@ -1,0 +1,19 @@
+{
+  "slug": "saco-farmers-and-artisans-market-4-scammon-st",
+  "name": "Saco Farmers' and Artisans' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4 Scammon St., ME",
+  "locationCity": "4 Scammon St.",
+  "locationState": "ME",
+  "locationZipcode": "04072",
+  "lat": 43.501853398002616,
+  "lon": -70.44671765476863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.161Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.161Z"
+}

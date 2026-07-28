@@ -1,0 +1,19 @@
+{
+  "slug": "march-farm-160-munger-lane",
+  "name": "March Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "160 Munger Lane, CT",
+  "locationCity": "160 Munger Lane",
+  "locationState": "CT",
+  "locationZipcode": "06751",
+  "lat": 41.6521940062066,
+  "lon": -73.2156010313032,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:20.558Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:20.558Z"
+}

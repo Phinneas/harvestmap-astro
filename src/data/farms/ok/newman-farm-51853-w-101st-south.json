@@ -1,0 +1,19 @@
+{
+  "slug": "newman-farm-51853-w-101st-south",
+  "name": "Newman Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "51853 W 101st south, OK",
+  "locationCity": "51853 W 101st south",
+  "locationState": "OK",
+  "locationZipcode": "51853",
+  "lat": 36.0210890024999,
+  "lon": -96.5729490372226,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:52.737Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:52.737Z"
+}

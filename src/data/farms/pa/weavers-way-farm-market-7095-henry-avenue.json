@@ -1,0 +1,20 @@
+{
+  "slug": "weavers-way-farm-market-7095-henry-avenue",
+  "name": "Weavers Way Farm Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7095 Henry Avenue, PA",
+  "locationCity": "7095 Henry Avenue",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "lat": 40.0493102,
+  "lon": -75.2195437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:20.320Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:20.320Z",
+  "crops": []
+}

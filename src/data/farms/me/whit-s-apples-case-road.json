@@ -1,0 +1,19 @@
+{
+  "slug": "whit-s-apples-case-road",
+  "name": "Whit's Apples",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Case Road, ME",
+  "locationCity": "Case Road",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 44.332801215214,
+  "lon": -69.8957260519654,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.507Z"
+}

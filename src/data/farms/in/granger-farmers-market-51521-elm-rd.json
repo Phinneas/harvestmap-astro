@@ -1,0 +1,19 @@
+{
+  "slug": "granger-farmers-market-51521-elm-rd",
+  "name": "Granger Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "51521 Elm Rd., IN",
+  "locationCity": "51521 Elm Rd.",
+  "locationState": "IN",
+  "locationZipcode": "51521",
+  "lat": 41.745768986523984,
+  "lon": -86.14020303177657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

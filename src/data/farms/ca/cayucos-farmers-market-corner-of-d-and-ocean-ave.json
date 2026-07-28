@@ -1,0 +1,19 @@
+{
+  "slug": "cayucos-farmers-market-corner-of-d-and-ocean-ave",
+  "name": "Cayucos Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of D and Ocean Ave., CA",
+  "locationCity": "Corner of D and Ocean Ave.",
+  "locationState": "CA",
+  "locationZipcode": "93430",
+  "lat": 35.44879000422023,
+  "lon": -120.9043300156036,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

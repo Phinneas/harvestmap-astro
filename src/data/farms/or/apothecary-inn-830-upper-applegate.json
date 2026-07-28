@@ -1,0 +1,19 @@
+{
+  "slug": "apothecary-inn-830-upper-applegate",
+  "name": "Apothecary Inn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "830 Upper Applegate, OR",
+  "locationCity": "830 Upper Applegate",
+  "locationState": "OR",
+  "locationZipcode": "97530",
+  "lat": 42.2263340056996,
+  "lon": -123.04764099561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:04.711Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:04.711Z"
+}

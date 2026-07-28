@@ -1,0 +1,19 @@
+{
+  "slug": "barrington-farmers-market-s-cook-st-and-e-station-st",
+  "name": "Barrington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S. Cook St. and E. Station St., IL",
+  "locationCity": "S. Cook St. and E. Station St.",
+  "locationState": "IL",
+  "locationZipcode": "60010",
+  "lat": 42.1532800198315,
+  "lon": -88.13483002974411,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.446Z"
+}

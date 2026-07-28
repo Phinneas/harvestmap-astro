@@ -1,0 +1,19 @@
+{
+  "slug": "south-jordan-farmers-market-10610-redwood-rd",
+  "name": "South Jordan Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10610 Redwood Rd., UT",
+  "locationCity": "10610 Redwood Rd.",
+  "locationState": "UT",
+  "locationZipcode": "10610",
+  "lat": 40.55863413147894,
+  "lon": -111.93866125289654,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:36.288Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:36.288Z"
+}

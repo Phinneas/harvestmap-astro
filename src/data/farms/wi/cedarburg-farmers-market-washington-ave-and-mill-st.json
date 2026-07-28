@@ -1,0 +1,19 @@
+{
+  "slug": "cedarburg-farmers-market-washington-ave-and-mill-st",
+  "name": "Cedarburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Washington Ave. and Mill St., WI",
+  "locationCity": "Washington Ave. and Mill St.",
+  "locationState": "WI",
+  "locationZipcode": "53012",
+  "lat": 43.29498998974216,
+  "lon": -87.98689999989556,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

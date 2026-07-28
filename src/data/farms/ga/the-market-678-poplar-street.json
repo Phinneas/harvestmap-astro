@@ -1,0 +1,19 @@
+{
+  "slug": "the-market-678-poplar-street",
+  "name": "The Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "678 Poplar Street, GA",
+  "locationCity": "678 Poplar Street",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "lat": 32.83558458753282,
+  "lon": -83.63095933881502,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.375Z"
+}

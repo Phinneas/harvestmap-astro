@@ -1,0 +1,19 @@
+{
+  "slug": "reid-s-orchard-winery-2135-buchanan-valley-road",
+  "name": "Reid's Orchard & Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2135 Buchanan Valley Road, PA",
+  "locationCity": "2135 Buchanan Valley Road",
+  "locationState": "PA",
+  "locationZipcode": "17353",
+  "lat": 39.9412329913775,
+  "lon": -77.376980007336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:17.950Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:17.950Z"
+}

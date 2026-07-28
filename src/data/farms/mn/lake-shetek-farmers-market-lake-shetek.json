@@ -1,0 +1,19 @@
+{
+  "slug": "lake-shetek-farmers-market-lake-shetek",
+  "name": "Lake Shetek Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Lake Shetek, MN",
+  "locationCity": "Lake Shetek",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "lat": 44.10923,
+  "lon": -95.726336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.220Z"
+}

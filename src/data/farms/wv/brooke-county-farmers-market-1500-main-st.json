@@ -1,0 +1,19 @@
+{
+  "slug": "brooke-county-farmers-market-1500-main-st",
+  "name": "Brooke County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1500 Main St., WV",
+  "locationCity": "1500 Main St.",
+  "locationState": "WV",
+  "locationZipcode": "26037",
+  "lat": 40.33542447840023,
+  "lon": -80.59610730477215,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "grandville-farmers-market-4144-chicago-drive-southwest",
+  "name": "Grandville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4144 Chicago Drive Southwest, MI",
+  "locationCity": "4144 Chicago Drive Southwest",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.90844387176221,
+  "lon": -85.7664636628495,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

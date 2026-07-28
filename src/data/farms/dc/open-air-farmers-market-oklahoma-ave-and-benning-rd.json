@@ -1,0 +1,19 @@
+{
+  "slug": "open-air-farmers-market-oklahoma-ave-and-benning-rd",
+  "name": "Open Air Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Oklahoma Ave. and Benning Rd., DC",
+  "locationCity": "Oklahoma Ave. and Benning Rd.",
+  "locationState": "DC",
+  "locationZipcode": "20020",
+  "lat": 38.897650003851226,
+  "lon": -76.96953996874836,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

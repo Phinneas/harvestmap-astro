@@ -1,0 +1,19 @@
+{
+  "slug": "laurel-downtown-farmers-market-100-1st-ave",
+  "name": "Laurel Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 1st Ave., MT",
+  "locationCity": "100 1st Ave.",
+  "locationState": "MT",
+  "locationZipcode": "59044",
+  "lat": 45.67029354264017,
+  "lon": -108.77168518356005,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:48.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:48.809Z"
+}

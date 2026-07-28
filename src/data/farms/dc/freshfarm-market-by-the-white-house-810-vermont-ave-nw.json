@@ -1,0 +1,19 @@
+{
+  "slug": "freshfarm-market-by-the-white-house-810-vermont-ave-nw",
+  "name": "FreshFarm Market by the White House",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "810 Vermont Ave. NW, DC",
+  "locationCity": "810 Vermont Ave. NW",
+  "locationState": "DC",
+  "locationZipcode": "20420",
+  "lat": 38.90039225886266,
+  "lon": -77.03502823101691,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

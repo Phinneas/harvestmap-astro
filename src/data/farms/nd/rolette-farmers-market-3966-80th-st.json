@@ -1,0 +1,19 @@
+{
+  "slug": "rolette-farmers-market-3966-80th-st",
+  "name": "Rolette Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3966 80th St., ND",
+  "locationCity": "3966 80th St.",
+  "locationState": "ND",
+  "locationZipcode": "58366",
+  "lat": 48.5738614327322,
+  "lon": -99.79951006897038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:33.301Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:33.301Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "huron-farmers-market-1110-3rd-st-sw",
+  "name": "Huron Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1110 3rd St. SW, SD",
+  "locationCity": "1110 3rd St. SW",
+  "locationState": "SD",
+  "locationZipcode": "57350",
+  "lat": 44.36330813850614,
+  "lon": -98.23273606232355,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:59.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:59.965Z"
+}

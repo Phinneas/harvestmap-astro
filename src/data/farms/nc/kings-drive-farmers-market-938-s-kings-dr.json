@@ -1,0 +1,19 @@
+{
+  "slug": "kings-drive-farmers-market-938-s-kings-dr",
+  "name": "Kings Drive Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "938 S. Kings Dr., NC",
+  "locationCity": "938 S. Kings Dr.",
+  "locationState": "NC",
+  "locationZipcode": "28207",
+  "lat": 35.205767953670616,
+  "lon": -80.83610145879105,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

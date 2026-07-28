@@ -1,0 +1,19 @@
+{
+  "slug": "ccc-martinez-farmers-market-2500-alhambra-ave",
+  "name": "CCC Martinez Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2500 Alhambra Ave., CA",
+  "locationCity": "2500 Alhambra Ave.",
+  "locationState": "CA",
+  "locationZipcode": "94553",
+  "lat": 38.00644193917084,
+  "lon": -122.13083683353227,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

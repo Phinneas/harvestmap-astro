@@ -1,0 +1,20 @@
+{
+  "slug": "yule-forest-hwy-155-3565-north-hwy-155",
+  "name": "Yule Forest Hwy 155",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3565 North Hwy 155, GA",
+  "locationCity": "3565 North Hwy 155",
+  "locationState": "GA",
+  "locationZipcode": "30281",
+  "lat": 33.5481650026274,
+  "lon": -84.1390180327646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:08.727Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:08.727Z",
+  "crops": []
+}

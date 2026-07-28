@@ -1,0 +1,19 @@
+{
+  "slug": "south-perry-farmers-market-924-s-perry-st",
+  "name": "South Perry Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "924 S. Perry St., WA",
+  "locationCity": "924 S. Perry St.",
+  "locationState": "WA",
+  "locationZipcode": "99202",
+  "lat": 47.64699184194343,
+  "lon": -117.38992804808463,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

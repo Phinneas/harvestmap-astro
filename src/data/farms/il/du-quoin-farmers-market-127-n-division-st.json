@@ -1,0 +1,19 @@
+{
+  "slug": "du-quoin-farmers-market-127-n-division-st",
+  "name": "Du Quoin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "127 N. Division St., IL",
+  "locationCity": "127 N. Division St.",
+  "locationState": "IL",
+  "locationZipcode": "62832",
+  "lat": 38.01375134312161,
+  "lon": -89.23850726188499,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

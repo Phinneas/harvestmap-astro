@@ -1,0 +1,19 @@
+{
+  "slug": "rulfs-orchard-531-bear-swamp-road",
+  "name": "Rulfs Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "531 Bear Swamp Road, NY",
+  "locationCity": "531 Bear Swamp Road",
+  "locationState": "NY",
+  "locationZipcode": "12972",
+  "lat": 44.5786791316134,
+  "lon": -73.4961438334995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.642Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.642Z"
+}

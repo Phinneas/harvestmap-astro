@@ -1,0 +1,19 @@
+{
+  "slug": "madison-farmers-market-189-main-st",
+  "name": "Madison Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "189 Main St., ME",
+  "locationCity": "189 Main St.",
+  "locationState": "ME",
+  "locationZipcode": "04950",
+  "lat": 44.79816545178369,
+  "lon": -69.87626062258902,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.160Z"
+}

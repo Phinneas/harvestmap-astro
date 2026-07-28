@@ -1,0 +1,19 @@
+{
+  "slug": "oberlin-farmers-market-104-s-penn-st",
+  "name": "Oberlin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "104 S. Penn St., KS",
+  "locationCity": "104 S. Penn St.",
+  "locationState": "KS",
+  "locationZipcode": "67749",
+  "lat": 39.82067588965584,
+  "lon": -100.52900362200694,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

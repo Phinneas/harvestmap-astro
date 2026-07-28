@@ -1,0 +1,19 @@
+{
+  "slug": "san-felipe-farmers-market-25-hagen-rd",
+  "name": "San Felipe Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25 Hagen Rd., NM",
+  "locationCity": "25 Hagen Rd.",
+  "locationState": "NM",
+  "locationZipcode": "87001",
+  "lat": 35.43944472230642,
+  "lon": -106.43994043497895,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

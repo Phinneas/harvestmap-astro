@@ -1,0 +1,19 @@
+{
+  "slug": "dublin-farmers-market-4201-central-pkwy",
+  "name": "Dublin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4201 Central Pkwy., CA",
+  "locationCity": "4201 Central Pkwy.",
+  "locationState": "CA",
+  "locationZipcode": "94568",
+  "lat": 37.71016499386643,
+  "lon": -121.87533997086591,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dayton-farmers-market-3105-john-wayland-hwy",
+  "name": "Dayton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3105 John Wayland Hwy., VA",
+  "locationCity": "3105 John Wayland Hwy.",
+  "locationState": "VA",
+  "locationZipcode": "22821",
+  "lat": 38.42319352821528,
+  "lon": -78.92811804108031,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

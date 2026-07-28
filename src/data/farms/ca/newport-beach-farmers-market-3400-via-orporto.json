@@ -1,0 +1,19 @@
+{
+  "slug": "newport-beach-farmers-market-3400-via-orporto",
+  "name": "Newport Beach Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3400 Via Orporto, CA",
+  "locationCity": "3400 Via Orporto",
+  "locationState": "CA",
+  "locationZipcode": "92663",
+  "lat": 33.61815288819228,
+  "lon": -117.92822870044404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

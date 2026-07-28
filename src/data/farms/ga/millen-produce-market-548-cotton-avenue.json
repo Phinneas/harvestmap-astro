@@ -1,0 +1,19 @@
+{
+  "slug": "millen-produce-market-548-cotton-avenue",
+  "name": "Millen Produce Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "548 Cotton Avenue, GA",
+  "locationCity": "548 Cotton Avenue",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "lat": 32.8022985,
+  "lon": -81.9393051,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.425Z"
+}

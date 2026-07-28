@@ -1,0 +1,19 @@
+{
+  "slug": "ketchum-farmers-market-4th-st-at-east-ave",
+  "name": "Ketchum Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4th St. at East Ave., ID",
+  "locationCity": "4th St. at East Ave.",
+  "locationState": "ID",
+  "locationZipcode": "83327",
+  "lat": 43.6823500058066,
+  "lon": -114.36333995981298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sage-hill-farms-32-old-petersburg-pike",
+  "name": "Sage Hill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "32 Old Petersburg Pike, TN",
+  "locationCity": "32 Old Petersburg Pike",
+  "locationState": "TN",
+  "locationZipcode": "37144",
+  "lat": 35.2362349979748,
+  "lon": -86.6090499826749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:07.226Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:07.226Z"
+}

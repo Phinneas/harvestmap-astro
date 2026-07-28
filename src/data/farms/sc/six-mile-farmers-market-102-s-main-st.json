@@ -1,0 +1,19 @@
+{
+  "slug": "six-mile-farmers-market-102-s-main-st",
+  "name": "Six Mile Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 S. Main St., SC",
+  "locationCity": "102 S. Main St.",
+  "locationState": "SC",
+  "locationZipcode": "29682",
+  "lat": 34.80459098222937,
+  "lon": -82.81870700800128,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:49.593Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:49.593Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rdm-shrimp-101-n-850-e",
+  "name": "RDM Shrimp",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 N. 850 E., IN",
+  "locationCity": "101 N. 850 E.",
+  "locationState": "IN",
+  "locationZipcode": "47944",
+  "lat": 40.6074899810401,
+  "lon": -87.1665679976188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:01.408Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:01.408Z"
+}

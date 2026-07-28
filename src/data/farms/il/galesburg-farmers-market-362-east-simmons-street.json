@@ -1,0 +1,19 @@
+{
+  "slug": "galesburg-farmers-market-362-east-simmons-street",
+  "name": "Galesburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "362 East Simmons Street, IL",
+  "locationCity": "362 East Simmons Street",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 40.9463203,
+  "lon": -90.36534309999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.438Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.438Z"
+}

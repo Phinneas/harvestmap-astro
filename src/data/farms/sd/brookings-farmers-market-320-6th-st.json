@@ -1,0 +1,19 @@
+{
+  "slug": "brookings-farmers-market-320-6th-st",
+  "name": "Brookings Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 6th St., SD",
+  "locationCity": "320 6th St.",
+  "locationState": "SD",
+  "locationZipcode": "57006",
+  "lat": 44.31150449410911,
+  "lon": -96.79988361868924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:59.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:59.965Z"
+}

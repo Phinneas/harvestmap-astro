@@ -1,0 +1,19 @@
+{
+  "slug": "sunny-acres-farm-6516-echo-trail",
+  "name": "Sunny Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6516 Echo Trail, KY",
+  "locationCity": "6516 Echo Trail",
+  "locationState": "KY",
+  "locationZipcode": "40299",
+  "lat": 38.150595993805,
+  "lon": -85.5083839714101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:40.543Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:40.543Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "freshfarm-dupont-circle-sunday-1600-20th-st-nw",
+  "name": "FRESHFARM Dupont Circle (Sunday)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1600 20th St NW, WA",
+  "locationCity": "1600 20th St NW",
+  "locationState": "WA",
+  "locationZipcode": "20009",
+  "lat": 38.91129249999999,
+  "lon": -77.04520099999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.159Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.159Z",
+  "crops": []
+}

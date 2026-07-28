@@ -1,0 +1,19 @@
+{
+  "slug": "pine-city-farmers-market-106-1st-ave-nw",
+  "name": "Pine City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 1st Ave NW, MN",
+  "locationCity": "106 1st Ave NW",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "lat": 45.8317416,
+  "lon": -92.97574069999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.255Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.255Z"
+}

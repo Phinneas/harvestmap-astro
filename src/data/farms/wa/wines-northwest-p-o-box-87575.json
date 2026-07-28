@@ -1,0 +1,19 @@
+{
+  "slug": "wines-northwest-p-o-box-87575",
+  "name": "Wines Northwest",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "P.O. Box 87575, WA",
+  "locationCity": "P.O. Box 87575",
+  "locationState": "WA",
+  "locationZipcode": "87575",
+  "lat": 45.6193159000001,
+  "lon": -122.5225879,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.245Z"
+}

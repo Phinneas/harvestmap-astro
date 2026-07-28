@@ -1,0 +1,19 @@
+{
+  "slug": "kaiser-south-san-francisco-farmers-market-1200-el-camino-real",
+  "name": "Kaiser South San Francisco Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1200 El Camino Real, CA",
+  "locationCity": "1200 El Camino Real",
+  "locationState": "CA",
+  "locationZipcode": "94080",
+  "lat": 37.65774047325854,
+  "lon": -122.437881967204,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "archer-lodge-farmers-market-14000-buffalo-rd",
+  "name": "Archer Lodge Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14000 Buffalo Rd., NC",
+  "locationCity": "14000 Buffalo Rd.",
+  "locationState": "NC",
+  "locationZipcode": "14000",
+  "lat": 35.69802124750547,
+  "lon": -78.37820100102573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.461Z"
+}

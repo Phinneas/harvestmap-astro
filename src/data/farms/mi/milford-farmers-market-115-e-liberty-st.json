@@ -1,0 +1,19 @@
+{
+  "slug": "milford-farmers-market-115-e-liberty-st",
+  "name": "Milford Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 E. Liberty St., MI",
+  "locationCity": "115 E. Liberty St.",
+  "locationState": "MI",
+  "locationZipcode": "48381",
+  "lat": 42.589502327174,
+  "lon": -83.60002518872486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

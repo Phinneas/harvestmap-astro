@@ -1,0 +1,19 @@
+{
+  "slug": "new-castle-farmers-market-110-n-dupont-hwy",
+  "name": "New Castle Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 N. Dupont Hwy., DE",
+  "locationCity": "110 N. Dupont Hwy.",
+  "locationState": "DE",
+  "locationZipcode": "19720",
+  "lat": 39.67335522935644,
+  "lon": -75.59668925304892,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:37.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:37.081Z"
+}

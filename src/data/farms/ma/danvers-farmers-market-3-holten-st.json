@@ -1,0 +1,19 @@
+{
+  "slug": "danvers-farmers-market-3-holten-st",
+  "name": "Danvers Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3 Holten St., MA",
+  "locationCity": "3 Holten St.",
+  "locationState": "MA",
+  "locationZipcode": "01923",
+  "lat": 42.56297294591957,
+  "lon": -70.9389073143897,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

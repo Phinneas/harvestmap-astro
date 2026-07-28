@@ -1,0 +1,19 @@
+{
+  "slug": "enumclaw-plateau-farmers-market-1600-1st-street",
+  "name": "Enumclaw Plateau Farmers’ Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1600 1st Street, WA",
+  "locationCity": "1600 1st Street",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 47.2032716,
+  "lon": -121.98701,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.195Z"
+}

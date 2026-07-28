@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-park-farmers-market-3500-w-forest-home-ave",
+  "name": "Jackson Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3500 W. Forest Home Ave., WI",
+  "locationCity": "3500 W. Forest Home Ave.",
+  "locationState": "WI",
+  "locationZipcode": "53215",
+  "lat": 42.99457408586316,
+  "lon": -87.9586514674382,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

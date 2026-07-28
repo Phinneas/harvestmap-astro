@@ -1,0 +1,19 @@
+{
+  "slug": "old-town-orcutt-farmers-market-marcum-street",
+  "name": "Old Town Orcutt Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Marcum Street, CA",
+  "locationCity": "Marcum Street",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 34.8632435,
+  "lon": -120.4492944,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.738Z"
+}

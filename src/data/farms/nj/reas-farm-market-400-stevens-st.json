@@ -1,0 +1,19 @@
+{
+  "slug": "reas-farm-market-400-stevens-st",
+  "name": "Reas Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "400 Stevens St., NJ",
+  "locationCity": "400 Stevens St.",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "lat": 38.944489000804964,
+  "lon": -74.94257801908188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:43.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:43.212Z"
+}

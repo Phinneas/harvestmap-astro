@@ -1,0 +1,19 @@
+{
+  "slug": "louisburg-kansas-farmers-market-s-2nd-st-and-mulberry-st",
+  "name": "Louisburg Kansas Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S. 2nd St. and Mulberry St., KS",
+  "locationCity": "S. 2nd St. and Mulberry St.",
+  "locationState": "KS",
+  "locationZipcode": "66053",
+  "lat": 38.61939001298481,
+  "lon": -94.68229996724162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

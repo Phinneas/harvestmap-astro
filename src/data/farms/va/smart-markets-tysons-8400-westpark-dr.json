@@ -1,0 +1,19 @@
+{
+  "slug": "smart-markets-tysons-8400-westpark-dr",
+  "name": "Smart Markets Tysons",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8400 Westpark Dr., VA",
+  "locationCity": "8400 Westpark Dr.",
+  "locationState": "VA",
+  "locationZipcode": "22012",
+  "lat": 38.92540114074718,
+  "lon": -77.23334419377535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.478Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.478Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "schartner-farms-route-2",
+  "name": "Schartner Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 2, RI",
+  "locationCity": "Route 2",
+  "locationState": "RI",
+  "locationZipcode": "",
+  "lat": 41.52125297164093,
+  "lon": -71.55394021838688,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:34.467Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:34.467Z"
+}

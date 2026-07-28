@@ -1,0 +1,19 @@
+{
+  "slug": "farmland-adventures-5355-parsons-rd",
+  "name": "Farmland Adventures",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5355 Parsons Rd., AR",
+  "locationCity": "5355 Parsons Rd.",
+  "locationState": "AR",
+  "locationZipcode": "72764",
+  "lat": 36.1834019171928,
+  "lon": -94.0691149672815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:42.418Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:42.418Z"
+}

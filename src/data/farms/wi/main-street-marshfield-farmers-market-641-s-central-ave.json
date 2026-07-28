@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-marshfield-farmers-market-641-s-central-ave",
+  "name": "Main Street Marshfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "641 S. Central Ave., WI",
+  "locationCity": "641 S. Central Ave.",
+  "locationState": "WI",
+  "locationZipcode": "54449",
+  "lat": 44.661947213017406,
+  "lon": -90.17694338881226,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

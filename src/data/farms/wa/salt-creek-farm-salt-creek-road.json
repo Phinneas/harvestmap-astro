@@ -1,0 +1,19 @@
+{
+  "slug": "salt-creek-farm-salt-creek-road",
+  "name": "Salt Creek Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Salt Creek Road, WA",
+  "locationCity": "Salt Creek Road",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 48.1228940087011,
+  "lon": -123.671825986203,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.230Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.230Z"
+}

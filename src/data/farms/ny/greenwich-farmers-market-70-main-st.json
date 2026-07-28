@@ -1,0 +1,19 @@
+{
+  "slug": "greenwich-farmers-market-70-main-st",
+  "name": "Greenwich Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "70 Main St., NY",
+  "locationCity": "70 Main St.",
+  "locationState": "NY",
+  "locationZipcode": "12834",
+  "lat": 43.089373580751214,
+  "lon": -73.49822860288086,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.519Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.519Z"
+}

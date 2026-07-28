@@ -1,0 +1,19 @@
+{
+  "slug": "chouteau-farmers-market-119-west-main-street",
+  "name": "Chouteau Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "119 West Main Street, OK",
+  "locationCity": "119 West Main Street",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "lat": 36.1863997,
+  "lon": -95.345242,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.539Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "caro-farmers-market-238-south-state-street",
+  "name": "Caro Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "238 South State Street, MI",
+  "locationCity": "238 South State Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.48817984667087,
+  "lon": -83.397439306736,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

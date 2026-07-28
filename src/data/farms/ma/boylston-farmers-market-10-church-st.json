@@ -1,0 +1,19 @@
+{
+  "slug": "boylston-farmers-market-10-church-st",
+  "name": "Boylston Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Church St., MA",
+  "locationCity": "10 Church St.",
+  "locationState": "MA",
+  "locationZipcode": "01505",
+  "lat": 42.35257016288744,
+  "lon": -71.73486906994322,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

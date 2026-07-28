@@ -1,0 +1,19 @@
+{
+  "slug": "mineola-farmers-market-200-west-front-street-mineola",
+  "name": "Mineola Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 West Front Street Mineola, TX",
+  "locationCity": "200 West Front Street Mineola",
+  "locationState": "TX",
+  "locationZipcode": "75753",
+  "lat": 32.66225158853321,
+  "lon": -95.49231713006795,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

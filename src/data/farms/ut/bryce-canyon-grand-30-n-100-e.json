@@ -1,0 +1,19 @@
+{
+  "slug": "bryce-canyon-grand-30-n-100-e",
+  "name": "Bryce Canyon Grand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "30 N 100 E, UT",
+  "locationCity": "30 N 100 E",
+  "locationState": "UT",
+  "locationZipcode": "84764",
+  "lat": 37.6746429911231,
+  "lon": -112.152750963416,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:32.108Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:32.108Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "apple-store-1502-west-mason-street",
+  "name": "Apple Store",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1502 West Mason Street, WI",
+  "locationCity": "1502 West Mason Street",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "lat": 44.5230199836767,
+  "lon": -88.0609380211965,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:29.810Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:29.810Z"
+}

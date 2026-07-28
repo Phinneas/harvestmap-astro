@@ -1,0 +1,19 @@
+{
+  "slug": "windyridge-farm-173-stage-road",
+  "name": "Windyridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "173 Stage Road, NY",
+  "locationCity": "173 Stage Road",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "lat": 42.6575554733433,
+  "lon": -75.7584751563885,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.645Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.645Z"
+}

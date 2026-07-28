@@ -1,0 +1,19 @@
+{
+  "slug": "lake-seminole-8070-sunny-dr",
+  "name": "Lake Seminole",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8070 Sunny Dr, GA",
+  "locationCity": "8070 Sunny Dr",
+  "locationState": "GA",
+  "locationZipcode": "39845",
+  "lat": 30.7911079799715,
+  "lon": -84.8609019838557,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:08.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:08.738Z"
+}

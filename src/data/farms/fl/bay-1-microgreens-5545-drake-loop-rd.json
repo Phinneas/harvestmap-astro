@@ -1,0 +1,19 @@
+{
+  "slug": "bay-1-microgreens-5545-drake-loop-rd",
+  "name": "Bay 1 Microgreens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5545 Drake Loop Rd, FL",
+  "locationCity": "5545 Drake Loop Rd",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "lat": 30.0907725,
+  "lon": -81.96590379999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:58.932Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:58.932Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cloverdale-certified-farmers-market-cloverdale-blvd",
+  "name": "Cloverdale Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Cloverdale Blvd., CA",
+  "locationCity": "Cloverdale Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "95425",
+  "lat": 38.79600522869445,
+  "lon": -123.01863828607858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "berry-patch-farm-62785-280-st",
+  "name": "Berry Patch Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "62785 280 st, NV",
+  "locationCity": "62785 280 st",
+  "locationState": "NV",
+  "locationZipcode": "62785",
+  "lat": 41.9514572,
+  "lon": -93.4489767,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:14.510Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:14.510Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "potomac-farmers-market-9908-s-glen-rd",
+  "name": "Potomac Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9908 S. Glen Rd., MD",
+  "locationCity": "9908 S. Glen Rd.",
+  "locationState": "MD",
+  "locationZipcode": "20854",
+  "lat": 39.026795422237306,
+  "lon": -77.20425284689235,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.944Z"
+}

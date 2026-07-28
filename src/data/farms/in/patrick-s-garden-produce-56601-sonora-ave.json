@@ -1,0 +1,19 @@
+{
+  "slug": "patrick-s-garden-produce-56601-sonora-ave",
+  "name": "Patrick's Garden Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "56601 Sonora Ave, IN",
+  "locationCity": "56601 Sonora Ave",
+  "locationState": "IN",
+  "locationZipcode": "56601",
+  "lat": 41.67046299282018,
+  "lon": -86.37465399986816,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:09.122Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:09.122Z"
+}

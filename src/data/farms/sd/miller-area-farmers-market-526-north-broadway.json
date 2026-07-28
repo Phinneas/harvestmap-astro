@@ -1,0 +1,19 @@
+{
+  "slug": "miller-area-farmers-market-526-north-broadway",
+  "name": "Miller Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "526 North Broadway, SD",
+  "locationCity": "526 North Broadway",
+  "locationState": "SD",
+  "locationZipcode": "",
+  "lat": 44.5214126,
+  "lon": -98.98738449999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:59.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:59.968Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "simmons-farm-route-19",
+  "name": "Simmons Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 19, PA",
+  "locationCity": "Route 19",
+  "locationState": "PA",
+  "locationZipcode": "15367",
+  "lat": 40.3059399921009,
+  "lon": -80.094925016209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:17.936Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:17.936Z"
+}

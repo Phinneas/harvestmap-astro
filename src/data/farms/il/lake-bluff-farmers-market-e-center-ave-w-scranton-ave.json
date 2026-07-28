@@ -1,0 +1,19 @@
+{
+  "slug": "lake-bluff-farmers-market-e-center-ave-w-scranton-ave",
+  "name": "Lake Bluff Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "E. Center Ave. & W. Scranton Ave., IL",
+  "locationCity": "E. Center Ave. & W. Scranton Ave.",
+  "locationState": "IL",
+  "locationZipcode": "60044",
+  "lat": 42.2790000179219,
+  "lon": -87.84602996327264,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lawson-farmers-market-350-n-pennsylvania-ave",
+  "name": "Lawson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "350 N. Pennsylvania Ave., MO",
+  "locationCity": "350 N. Pennsylvania Ave.",
+  "locationState": "MO",
+  "locationZipcode": "64062",
+  "lat": 39.43778054241695,
+  "lon": -94.20429261057569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

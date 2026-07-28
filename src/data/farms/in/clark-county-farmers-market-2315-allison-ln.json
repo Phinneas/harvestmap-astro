@@ -1,0 +1,19 @@
+{
+  "slug": "clark-county-farmers-market-2315-allison-ln",
+  "name": "Clark County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2315 Allison Ln., IN",
+  "locationCity": "2315 Allison Ln.",
+  "locationState": "IN",
+  "locationZipcode": "47130",
+  "lat": 38.31715451272529,
+  "lon": -85.7077984920489,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

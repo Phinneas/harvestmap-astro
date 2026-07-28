@@ -1,0 +1,19 @@
+{
+  "slug": "lexington-farmers-market-205-e-main-st",
+  "name": "Lexington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 E. Main St., SC",
+  "locationCity": "205 E. Main St.",
+  "locationState": "SC",
+  "locationZipcode": "29072",
+  "lat": 33.981008346931404,
+  "lon": -81.23563721526385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:49.593Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:49.593Z"
+}

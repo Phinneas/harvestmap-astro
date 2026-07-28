@@ -1,0 +1,19 @@
+{
+  "slug": "barnesville-farmers-market-659-veterans-pkwy",
+  "name": "Barnesville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "659 Veterans Pkwy., GA",
+  "locationCity": "659 Veterans Pkwy.",
+  "locationState": "GA",
+  "locationZipcode": "30204",
+  "lat": 33.04098999735014,
+  "lon": -84.16917100742886,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.374Z"
+}

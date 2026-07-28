@@ -1,0 +1,19 @@
+{
+  "slug": "south-valley-growers-market-3907-isleta-blvd-sw",
+  "name": "South Valley Growers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3907 Isleta Blvd. SW, NM",
+  "locationCity": "3907 Isleta Blvd. SW",
+  "locationState": "NM",
+  "locationZipcode": "87105",
+  "lat": 35.01906781419321,
+  "lon": -106.68347052217821,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

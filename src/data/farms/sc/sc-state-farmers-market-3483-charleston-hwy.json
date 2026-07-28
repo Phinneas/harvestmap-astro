@@ -1,0 +1,19 @@
+{
+  "slug": "sc-state-farmers-market-3483-charleston-hwy",
+  "name": "SC State Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3483 Charleston Hwy., SC",
+  "locationCity": "3483 Charleston Hwy.",
+  "locationState": "SC",
+  "locationZipcode": "29172",
+  "lat": 33.90475657291727,
+  "lon": -81.06541145597802,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:49.593Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:49.593Z"
+}

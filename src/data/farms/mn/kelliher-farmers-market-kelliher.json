@@ -1,0 +1,19 @@
+{
+  "slug": "kelliher-farmers-market-kelliher",
+  "name": "Kelliher Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Kelliher, MN",
+  "locationCity": "Kelliher",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "lat": 47.940128,
+  "lon": -94.448427,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.220Z"
+}

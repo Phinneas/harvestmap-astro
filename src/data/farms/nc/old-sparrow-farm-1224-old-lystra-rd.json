@@ -1,0 +1,19 @@
+{
+  "slug": "old-sparrow-farm-1224-old-lystra-rd",
+  "name": "Old Sparrow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1224 Old Lystra Rd, NC",
+  "locationCity": "1224 Old Lystra Rd",
+  "locationState": "NC",
+  "locationZipcode": "27517",
+  "lat": 35.8732652970931,
+  "lon": -79.0512523423188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.474Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.474Z"
+}

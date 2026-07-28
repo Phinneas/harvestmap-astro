@@ -1,0 +1,19 @@
+{
+  "slug": "boone-county-farmers-market-2300-bernadette-dr",
+  "name": "Boone County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2300 Bernadette Dr., MO",
+  "locationCity": "2300 Bernadette Dr.",
+  "locationState": "MO",
+  "locationZipcode": "65201",
+  "lat": 38.96595003535062,
+  "lon": -92.3750262361476,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

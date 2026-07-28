@@ -1,0 +1,19 @@
+{
+  "slug": "princeton-farmers-market-439-s-main-st",
+  "name": "Princeton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "439 S. Main St., IL",
+  "locationCity": "439 S. Main St.",
+  "locationState": "IL",
+  "locationZipcode": "61356",
+  "lat": 41.371152574811056,
+  "lon": -89.46502284015867,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

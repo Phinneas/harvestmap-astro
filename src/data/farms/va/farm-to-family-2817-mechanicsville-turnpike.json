@@ -1,0 +1,19 @@
+{
+  "slug": "farm-to-family-2817-mechanicsville-turnpike",
+  "name": "Farm to Family",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2817 mechanicsville turnpike, VA",
+  "locationCity": "2817 mechanicsville turnpike",
+  "locationState": "VA",
+  "locationZipcode": "23223",
+  "lat": 37.5639156,
+  "lon": -77.4043319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:57.283Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:57.283Z"
+}

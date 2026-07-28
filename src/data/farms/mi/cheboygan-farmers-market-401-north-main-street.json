@@ -1,0 +1,19 @@
+{
+  "slug": "cheboygan-farmers-market-401-north-main-street",
+  "name": "Cheboygan Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "401 North Main Street, MI",
+  "locationCity": "401 North Main Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 45.64815763235036,
+  "lon": -84.47369190316368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

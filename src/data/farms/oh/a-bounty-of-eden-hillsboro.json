@@ -1,0 +1,19 @@
+{
+  "slug": "a-bounty-of-eden-hillsboro",
+  "name": "A Bounty Of Eden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "hillsboro, OH",
+  "locationCity": "hillsboro",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 39.2022866,
+  "lon": -83.611587,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:43.395Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:43.395Z"
+}

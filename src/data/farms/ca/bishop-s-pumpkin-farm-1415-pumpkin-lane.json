@@ -1,0 +1,19 @@
+{
+  "slug": "bishop-s-pumpkin-farm-1415-pumpkin-lane",
+  "name": "Bishop's Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1415 Pumpkin Lane, CA",
+  "locationCity": "1415 Pumpkin Lane",
+  "locationState": "CA",
+  "locationZipcode": "95692",
+  "lat": 39.0013069887652,
+  "lon": -121.43263198502,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.964Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.964Z"
+}

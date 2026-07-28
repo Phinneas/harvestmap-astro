@@ -1,0 +1,19 @@
+{
+  "slug": "oklahoma-city-farmers-public-market-311-s-klein-ave",
+  "name": "Oklahoma City Farmers' Public Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "311 S. Klein Ave., OK",
+  "locationCity": "311 S. Klein Ave.",
+  "locationState": "OK",
+  "locationZipcode": "73108",
+  "lat": 35.46315634488667,
+  "lon": -97.53273022904555,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "eau-claire-downtown-farmers-market-300-riverfront-ter",
+  "name": "Eau Claire Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Riverfront Ter., WI",
+  "locationCity": "300 Riverfront Ter.",
+  "locationState": "WI",
+  "locationZipcode": "54701",
+  "lat": 44.81561503801178,
+  "lon": -91.50437133048119,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "milan-farmers-market-3098-n-highland-ave",
+  "name": "Milan Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3098 N. Highland Ave., TN",
+  "locationCity": "3098 N. Highland Ave.",
+  "locationState": "TN",
+  "locationZipcode": "38358",
+  "lat": 35.91452485441512,
+  "lon": -88.7546591148758,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

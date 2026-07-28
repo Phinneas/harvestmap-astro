@@ -1,0 +1,20 @@
+{
+  "slug": "14-u-farmers-market-14th-st-and-u-st-nw",
+  "name": "14 & U Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14th St. and U St. NW, DC",
+  "locationCity": "14th St. and U St. NW",
+  "locationState": "DC",
+  "locationZipcode": "20009",
+  "lat": 38.91700000451738,
+  "lon": -77.0319500272311,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.115Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.115Z",
+  "crops": []
+}

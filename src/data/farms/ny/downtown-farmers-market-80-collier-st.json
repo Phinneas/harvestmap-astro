@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-80-collier-st",
+  "name": "Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "80 Collier St., NY",
+  "locationCity": "80 Collier St.",
+  "locationState": "NY",
+  "locationZipcode": "13901",
+  "lat": 42.09831666525048,
+  "lon": -75.91160839944303,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.519Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.519Z"
+}

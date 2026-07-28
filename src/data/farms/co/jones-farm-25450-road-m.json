@@ -1,0 +1,19 @@
+{
+  "slug": "jones-farm-25450-road-m",
+  "name": "Jones Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "25450 Road M, CO",
+  "locationCity": "25450 Road M",
+  "locationState": "CO",
+  "locationZipcode": "25450",
+  "lat": 37.3815549944442,
+  "lon": -108.583379019323,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:08.826Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:08.826Z"
+}

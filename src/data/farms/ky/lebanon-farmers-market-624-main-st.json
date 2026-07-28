@@ -1,0 +1,19 @@
+{
+  "slug": "lebanon-farmers-market-624-main-st",
+  "name": "Lebanon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "624 Main St., KY",
+  "locationCity": "624 Main St.",
+  "locationState": "KY",
+  "locationZipcode": "40033",
+  "lat": 37.563686678632095,
+  "lon": -85.2662014740873,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.784Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.784Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "allston-village-farmers-market-500-cambridge-st",
+  "name": "Allston Village Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Cambridge St., MA",
+  "locationCity": "500 Cambridge St.",
+  "locationState": "MA",
+  "locationZipcode": "02134",
+  "lat": 42.353437902630674,
+  "lon": -71.13780746494606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

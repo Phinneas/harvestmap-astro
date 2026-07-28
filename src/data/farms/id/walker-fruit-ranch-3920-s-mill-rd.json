@@ -1,0 +1,19 @@
+{
+  "slug": "walker-fruit-ranch-3920-s-mill-rd",
+  "name": "Walker Fruit Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3920 S. Mill Rd., ID",
+  "locationCity": "3920 S. Mill Rd.",
+  "locationState": "ID",
+  "locationZipcode": "83617",
+  "lat": 43.8321824885257,
+  "lon": -116.512620893256,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:36.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:36.738Z"
+}

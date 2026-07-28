@@ -1,0 +1,19 @@
+{
+  "slug": "local-harvest-certified-farmers-market-wilmington-avalon-blvd-l-st",
+  "name": "Local Harvest Certified Farmers' Market Wilmington",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Avalon Blvd. & L St., CA",
+  "locationCity": "Avalon Blvd. & L St.",
+  "locationState": "CA",
+  "locationZipcode": "90744",
+  "lat": 33.78672000197075,
+  "lon": -118.26295997866566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

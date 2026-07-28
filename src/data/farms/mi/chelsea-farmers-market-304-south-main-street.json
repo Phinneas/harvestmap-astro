@@ -1,0 +1,19 @@
+{
+  "slug": "chelsea-farmers-market-304-south-main-street",
+  "name": "Chelsea Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "304 South Main Street, MI",
+  "locationCity": "304 South Main Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.315976922816496,
+  "lon": -84.02043824987808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

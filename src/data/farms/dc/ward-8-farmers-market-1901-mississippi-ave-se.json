@@ -1,0 +1,19 @@
+{
+  "slug": "ward-8-farmers-market-1901-mississippi-ave-se",
+  "name": "Ward 8 Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1901 Mississippi Ave. SE, DC",
+  "locationCity": "1901 Mississippi Ave. SE",
+  "locationState": "DC",
+  "locationZipcode": "20020",
+  "lat": 38.839079558902924,
+  "lon": -76.99183582653298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

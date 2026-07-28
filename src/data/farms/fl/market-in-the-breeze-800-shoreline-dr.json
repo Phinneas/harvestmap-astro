@@ -1,0 +1,19 @@
+{
+  "slug": "market-in-the-breeze-800-shoreline-dr",
+  "name": "Market in the Breeze",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "800 Shoreline Dr., FL",
+  "locationCity": "800 Shoreline Dr.",
+  "locationState": "FL",
+  "locationZipcode": "32561",
+  "lat": 30.35458176599766,
+  "lon": -87.17628786867976,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.374Z"
+}

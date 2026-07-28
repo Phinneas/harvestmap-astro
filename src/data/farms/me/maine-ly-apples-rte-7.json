@@ -1,0 +1,19 @@
+{
+  "slug": "maine-ly-apples-rte-7",
+  "name": "Maine-ly Apples",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rte 7, ME",
+  "locationCity": "Rte 7",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 44.6475020484218,
+  "lon": -69.1658171718737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.495Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.495Z"
+}

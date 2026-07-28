@@ -1,0 +1,19 @@
+{
+  "slug": "hillside-farm-259-us-highway-1",
+  "name": "Hillside Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "259 US Highway 1, ME",
+  "locationCity": "259 US Highway 1",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 46.2973712367459,
+  "lon": -67.8409818037604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.504Z"
+}

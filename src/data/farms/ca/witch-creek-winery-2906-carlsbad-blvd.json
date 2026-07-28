@@ -1,0 +1,19 @@
+{
+  "slug": "witch-creek-winery-2906-carlsbad-blvd",
+  "name": "Witch Creek Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2906 Carlsbad Blvd., CA",
+  "locationCity": "2906 Carlsbad Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "92008",
+  "lat": 33.159307014737,
+  "lon": -117.351532027755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.969Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.969Z"
+}

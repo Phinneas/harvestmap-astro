@@ -1,0 +1,19 @@
+{
+  "slug": "boonville-farmers-market-14040-hwy-128",
+  "name": "Boonville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14040 Hwy. 128, CA",
+  "locationCity": "14040 Hwy. 128",
+  "locationState": "CA",
+  "locationZipcode": "14040",
+  "lat": 39.00897999247954,
+  "lon": -123.36890098795709,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

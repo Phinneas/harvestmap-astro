@@ -1,0 +1,19 @@
+{
+  "slug": "happy-day-farm-97-daum-road",
+  "name": "Happy Day Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "97 Daum Road, NJ",
+  "locationCity": "97 Daum Road",
+  "locationState": "NJ",
+  "locationZipcode": "07726",
+  "lat": 40.2667470091333,
+  "lon": -74.3769410412651,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:36.000Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:36.000Z"
+}

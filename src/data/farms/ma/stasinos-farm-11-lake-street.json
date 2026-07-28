@@ -1,0 +1,19 @@
+{
+  "slug": "stasinos-farm-11-lake-street",
+  "name": "Stasinos Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "11 Lake Street, MA",
+  "locationCity": "11 Lake Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.5484412827289,
+  "lon": -71.0072703710791,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:48.442Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:48.442Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "nice2eetu-650-orpheus-ave",
+  "name": "Nice2eetu",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "650 Orpheus Ave, CA",
+  "locationCity": "650 Orpheus Ave",
+  "locationState": "CA",
+  "locationZipcode": "92024",
+  "lat": 33.0608760207244,
+  "lon": -117.294239037342,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.972Z"
+}

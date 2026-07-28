@@ -1,0 +1,19 @@
+{
+  "slug": "field-of-greens-po-box-17",
+  "name": "Field of Greens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "PO Box 17, ME",
+  "locationCity": "PO Box 17",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 44.5337200000001,
+  "lon": -69.4353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.507Z"
+}

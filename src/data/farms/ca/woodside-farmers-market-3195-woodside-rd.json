@@ -1,0 +1,19 @@
+{
+  "slug": "woodside-farmers-market-3195-woodside-rd",
+  "name": "Woodside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3195 Woodside Rd., CA",
+  "locationCity": "3195 Woodside Rd.",
+  "locationState": "CA",
+  "locationZipcode": "94062",
+  "lat": 37.42820119069218,
+  "lon": -122.25902573187662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

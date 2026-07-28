@@ -1,0 +1,19 @@
+{
+  "slug": "higganum-village-farmers-market-rte-154-and-candlewood-rd",
+  "name": "Higganum Village Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Rte. 154 and Candlewood Rd., CT",
+  "locationCity": "Rte. 154 and Candlewood Rd.",
+  "locationState": "CT",
+  "locationZipcode": "06441",
+  "lat": 41.49679000093451,
+  "lon": -72.55911000657785,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

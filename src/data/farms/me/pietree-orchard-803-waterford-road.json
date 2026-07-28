@@ -1,0 +1,19 @@
+{
+  "slug": "pietree-orchard-803-waterford-road",
+  "name": "Pietree Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "803 Waterford Road, ME",
+  "locationCity": "803 Waterford Road",
+  "locationState": "ME",
+  "locationZipcode": "04040",
+  "lat": 44.1480975384582,
+  "lon": -70.7662992881454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.494Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.494Z"
+}

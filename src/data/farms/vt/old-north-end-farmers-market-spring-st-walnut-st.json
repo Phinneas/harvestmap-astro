@@ -1,0 +1,19 @@
+{
+  "slug": "old-north-end-farmers-market-spring-st-walnut-st",
+  "name": "Old North End Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Spring St. & Walnut St., VT",
+  "locationCity": "Spring St. & Walnut St.",
+  "locationState": "VT",
+  "locationZipcode": "05402",
+  "lat": 44.487330007593755,
+  "lon": -73.21371996459258,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:47.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:47.852Z"
+}

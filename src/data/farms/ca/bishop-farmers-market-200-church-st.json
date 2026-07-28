@@ -1,0 +1,19 @@
+{
+  "slug": "bishop-farmers-market-200-church-st",
+  "name": "Bishop Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Church St., CA",
+  "locationCity": "200 Church St.",
+  "locationState": "CA",
+  "locationZipcode": "93514",
+  "lat": 37.362132713420266,
+  "lon": -118.39637946852848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

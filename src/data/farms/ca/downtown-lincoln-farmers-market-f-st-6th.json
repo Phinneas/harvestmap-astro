@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-lincoln-farmers-market-f-st-6th",
+  "name": "Downtown Lincoln Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "F St. & 6th, CA",
+  "locationCity": "F St. & 6th",
+  "locationState": "CA",
+  "locationZipcode": "95648",
+  "lat": 38.893130020654354,
+  "lon": -121.29154997006597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

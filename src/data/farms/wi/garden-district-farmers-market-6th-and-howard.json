@@ -1,0 +1,19 @@
+{
+  "slug": "garden-district-farmers-market-6th-and-howard",
+  "name": "Garden District Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6th and Howard, WI",
+  "locationCity": "6th and Howard",
+  "locationState": "WI",
+  "locationZipcode": "53207",
+  "lat": 42.97376997907355,
+  "lon": -87.91937999796093,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "someday-farm-65-picakard-road",
+  "name": "Someday Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "65 Picakard Road, NH",
+  "locationCity": "65 Picakard Road",
+  "locationState": "NH",
+  "locationZipcode": "03224",
+  "lat": 43.3184239889115,
+  "lon": -71.5636730061675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:24.576Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:24.576Z"
+}

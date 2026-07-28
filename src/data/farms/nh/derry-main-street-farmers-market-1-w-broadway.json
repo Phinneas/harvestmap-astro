@@ -1,0 +1,19 @@
+{
+  "slug": "derry-main-street-farmers-market-1-w-broadway",
+  "name": "Derry Main Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 W. Broadway, NH",
+  "locationCity": "1 W. Broadway",
+  "locationState": "NH",
+  "locationZipcode": "03038",
+  "lat": 42.88048836915351,
+  "lon": -71.326927872,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:29.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:29.123Z"
+}

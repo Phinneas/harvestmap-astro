@@ -1,0 +1,19 @@
+{
+  "slug": "bakersfield-farmers-market-3201-f-st",
+  "name": "Bakersfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3201 F St., CA",
+  "locationCity": "3201 F St.",
+  "locationState": "CA",
+  "locationZipcode": "93301",
+  "lat": 35.388455375675974,
+  "lon": -119.0234586150485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

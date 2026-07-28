@@ -1,0 +1,19 @@
+{
+  "slug": "aspen-farmers-market-e-hopkins-ave-and-s-galena-st",
+  "name": "Aspen Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "E. Hopkins Ave. and S. Galena St., CO",
+  "locationCity": "E. Hopkins Ave. and S. Galena St.",
+  "locationState": "CO",
+  "locationZipcode": "81611",
+  "lat": 39.18961000591034,
+  "lon": -106.81832002793361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

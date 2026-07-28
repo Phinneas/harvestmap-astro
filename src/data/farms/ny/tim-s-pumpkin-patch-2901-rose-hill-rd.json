@@ -1,0 +1,19 @@
+{
+  "slug": "tim-s-pumpkin-patch-2901-rose-hill-rd",
+  "name": "Tim's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2901 Rose Hill Rd., NY",
+  "locationCity": "2901 Rose Hill Rd.",
+  "locationState": "NY",
+  "locationZipcode": "13110",
+  "lat": 42.9115634751094,
+  "lon": -76.344103811469,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.648Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.648Z"
+}

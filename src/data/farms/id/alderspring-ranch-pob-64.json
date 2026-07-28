@@ -1,0 +1,19 @@
+{
+  "slug": "alderspring-ranch-pob-64",
+  "name": "Alderspring Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "POB 64, ID",
+  "locationCity": "POB 64",
+  "locationState": "ID",
+  "locationZipcode": "83468",
+  "lat": 44.9605920980001,
+  "lon": -113.644663307,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:36.733Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:36.733Z"
+}

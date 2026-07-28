@@ -1,0 +1,19 @@
+{
+  "slug": "west-hartford-farmers-market-102-lasalle-rd",
+  "name": "West Hartford Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 LaSalle Rd., CT",
+  "locationCity": "102 LaSalle Rd.",
+  "locationState": "CT",
+  "locationZipcode": "06107",
+  "lat": 41.75903900608375,
+  "lon": -72.74396097880972,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

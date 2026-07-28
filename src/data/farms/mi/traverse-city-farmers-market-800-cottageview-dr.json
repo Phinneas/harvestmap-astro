@@ -1,0 +1,19 @@
+{
+  "slug": "traverse-city-farmers-market-800-cottageview-dr",
+  "name": "Traverse City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "800 Cottageview Dr., MI",
+  "locationCity": "800 Cottageview Dr.",
+  "locationState": "MI",
+  "locationZipcode": "49684",
+  "lat": 44.758427233374604,
+  "lon": -85.64462308682775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

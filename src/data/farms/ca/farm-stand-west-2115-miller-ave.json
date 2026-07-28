@@ -1,0 +1,19 @@
+{
+  "slug": "farm-stand-west-2115-miller-ave",
+  "name": "Farm Stand West",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2115 Miller Ave, CA",
+  "locationCity": "2115 Miller Ave",
+  "locationState": "CA",
+  "locationZipcode": "92025",
+  "lat": 33.0930220024162,
+  "lon": -117.080867969003,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.969Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.969Z"
+}

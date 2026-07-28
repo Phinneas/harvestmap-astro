@@ -1,0 +1,19 @@
+{
+  "slug": "elkhart-farmers-market-301-nibco-parkway",
+  "name": "Elkhart Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 Nibco Parkway, IN",
+  "locationCity": "301 Nibco Parkway",
+  "locationState": "IN",
+  "locationZipcode": "",
+  "lat": 41.6864703,
+  "lon": -85.97026129999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.349Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.349Z"
+}

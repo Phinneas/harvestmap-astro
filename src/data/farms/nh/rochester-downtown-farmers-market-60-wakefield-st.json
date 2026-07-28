@@ -1,0 +1,19 @@
+{
+  "slug": "rochester-downtown-farmers-market-60-wakefield-st",
+  "name": "Rochester Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "60 Wakefield St., NH",
+  "locationCity": "60 Wakefield St.",
+  "locationState": "NH",
+  "locationZipcode": "03867",
+  "lat": 43.305812616795144,
+  "lon": -70.97631099012594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:29.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:29.123Z"
+}

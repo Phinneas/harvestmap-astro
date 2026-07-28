@@ -1,0 +1,19 @@
+{
+  "slug": "orono-summer-farmers-market-300-college-ave",
+  "name": "Orono Summer Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 College Ave., ME",
+  "locationCity": "300 College Ave.",
+  "locationState": "ME",
+  "locationZipcode": "04473",
+  "lat": 44.90502424548115,
+  "lon": -68.67485807572471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.160Z"
+}

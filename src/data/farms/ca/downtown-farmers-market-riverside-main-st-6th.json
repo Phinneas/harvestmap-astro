@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-riverside-main-st-6th",
+  "name": "Downtown Farmers' Market Riverside",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. & 6th, CA",
+  "locationCity": "Main St. & 6th",
+  "locationState": "CA",
+  "locationZipcode": "92501",
+  "lat": 33.98394999745486,
+  "lon": -117.37312003847822,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

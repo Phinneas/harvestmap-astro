@@ -1,0 +1,19 @@
+{
+  "slug": "walvoord-farm-berries-21632-plank-road",
+  "name": "Walvoord Farm Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "21632 Plank Road, WI",
+  "locationCity": "21632 Plank Road",
+  "locationState": "WI",
+  "locationZipcode": "21632",
+  "lat": 42.7315460111627,
+  "lon": -88.0837239735218,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:29.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:29.830Z"
+}

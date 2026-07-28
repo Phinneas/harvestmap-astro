@@ -1,0 +1,19 @@
+{
+  "slug": "harbor-bay-farmers-market-1451-harbor-bay-pkwy",
+  "name": "Harbor Bay Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1451 Harbor Bay Pkwy., CA",
+  "locationCity": "1451 Harbor Bay Pkwy.",
+  "locationState": "CA",
+  "locationZipcode": "94502",
+  "lat": 37.72553705840718,
+  "lon": -122.23743112611093,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

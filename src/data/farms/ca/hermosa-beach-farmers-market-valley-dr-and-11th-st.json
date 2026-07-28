@@ -1,0 +1,19 @@
+{
+  "slug": "hermosa-beach-farmers-market-valley-dr-and-11th-st",
+  "name": "Hermosa Beach Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Valley Dr. and 11th St., CA",
+  "locationCity": "Valley Dr. and 11th St.",
+  "locationState": "CA",
+  "locationZipcode": "90254",
+  "lat": 33.862599988404014,
+  "lon": -118.39494997560743,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

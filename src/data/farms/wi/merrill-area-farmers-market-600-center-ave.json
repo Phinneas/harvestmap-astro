@@ -1,0 +1,19 @@
+{
+  "slug": "merrill-area-farmers-market-600-center-ave",
+  "name": "Merrill Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 Center Ave., WI",
+  "locationCity": "600 Center Ave.",
+  "locationState": "WI",
+  "locationZipcode": "54452",
+  "lat": 45.17570940711454,
+  "lon": -89.68313334881682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

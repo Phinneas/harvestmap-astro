@@ -1,0 +1,19 @@
+{
+  "slug": "wooster-square-farmers-market-corner-of-chapel-st-and-depalma-ct",
+  "name": "Wooster Square Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Chapel St. and DePalma Ct., CT",
+  "locationCity": "Corner of Chapel St. and DePalma Ct.",
+  "locationState": "CT",
+  "locationZipcode": "06511",
+  "lat": 41.30379001670693,
+  "lon": -72.9179500103546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.333Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.333Z"
+}

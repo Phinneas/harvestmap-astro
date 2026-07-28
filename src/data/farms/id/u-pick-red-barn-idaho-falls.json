@@ -1,0 +1,19 @@
+{
+  "slug": "u-pick-red-barn-idaho-falls",
+  "name": "U-Pick Red Barn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Idaho Falls, ID",
+  "locationCity": "Idaho Falls",
+  "locationState": "ID",
+  "locationZipcode": "",
+  "lat": 43.4764964,
+  "lon": -112.04415821766246,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:36.730Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:36.730Z"
+}

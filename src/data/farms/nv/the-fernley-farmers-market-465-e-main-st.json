@@ -1,0 +1,19 @@
+{
+  "slug": "the-fernley-farmers-market-465-e-main-st",
+  "name": "The Fernley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "465 E. Main St., NV",
+  "locationCity": "465 E. Main St.",
+  "locationState": "NV",
+  "locationZipcode": "89408",
+  "lat": 39.6072484119479,
+  "lon": -119.242348174917,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:17.062Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:17.062Z"
+}

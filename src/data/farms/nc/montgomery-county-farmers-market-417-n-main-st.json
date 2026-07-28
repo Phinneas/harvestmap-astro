@@ -1,0 +1,19 @@
+{
+  "slug": "montgomery-county-farmers-market-417-n-main-st",
+  "name": "Montgomery County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "417 N. Main St., NC",
+  "locationCity": "417 N. Main St.",
+  "locationState": "NC",
+  "locationZipcode": "27371",
+  "lat": 35.36253910569212,
+  "lon": -79.89485250838678,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

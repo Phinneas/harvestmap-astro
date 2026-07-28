@@ -1,0 +1,19 @@
+{
+  "slug": "spencer-riverfront-farmers-market-grand-st-and-1st-st",
+  "name": "Spencer Riverfront Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Grand St. and 1st St., IA",
+  "locationCity": "Grand St. and 1st St.",
+  "locationState": "IA",
+  "locationZipcode": "51301",
+  "lat": 43.13859997929009,
+  "lon": -95.14448003617323,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

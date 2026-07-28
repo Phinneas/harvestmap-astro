@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-sioux-city-farmers-market-corner-of-pearl-st-and-tri-view-ave",
+  "name": "Downtown Sioux City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Pearl St. and Tri View Ave., IA",
+  "locationCity": "Corner of Pearl St. and Tri View Ave.",
+  "locationState": "IA",
+  "locationZipcode": "51101",
+  "lat": 42.49130997922799,
+  "lon": -96.40828998592137,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

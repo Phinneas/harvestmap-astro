@@ -1,0 +1,19 @@
+{
+  "slug": "west-jordan-farmers-market-7875-s-redwood-rd",
+  "name": "West Jordan Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7875 S. Redwood Rd., UT",
+  "locationCity": "7875 S. Redwood Rd.",
+  "locationState": "UT",
+  "locationZipcode": "84084",
+  "lat": 40.60815163639095,
+  "lon": -111.93873123314059,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:36.288Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:36.288Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ellington-summer-farmers-market-arbor-park",
+  "name": "Ellington Summer Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Arbor Park, CT",
+  "locationCity": "Arbor Park",
+  "locationState": "CT",
+  "locationZipcode": "",
+  "lat": 41.90366604391317,
+  "lon": -72.46807704485155,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

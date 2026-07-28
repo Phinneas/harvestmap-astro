@@ -1,0 +1,19 @@
+{
+  "slug": "triple-r-ranch-3531-bunch-walnuts-road",
+  "name": "Triple R Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3531 Bunch Walnuts Road, VA",
+  "locationCity": "3531 Bunch Walnuts Road",
+  "locationState": "VA",
+  "locationZipcode": "23322",
+  "lat": 36.6014619947418,
+  "lon": -76.2744170037445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:54.992Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:54.992Z"
+}

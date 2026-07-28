@@ -1,0 +1,19 @@
+{
+  "slug": "greater-gorham-farmers-market-77-south-st",
+  "name": "Greater Gorham Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "77 South St., ME",
+  "locationCity": "77 South St.",
+  "locationState": "ME",
+  "locationZipcode": "04038",
+  "lat": 43.6769161000175,
+  "lon": -70.4413575688067,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.160Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kimball-ridge-farmers-market-2101-kimball-ave",
+  "name": "Kimball Ridge Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2101 Kimball Ave., IA",
+  "locationCity": "2101 Kimball Ave.",
+  "locationState": "IA",
+  "locationZipcode": "50701",
+  "lat": 42.469409994068286,
+  "lon": -92.35694997588031,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mt-morris-farmers-market-2-w-main-st",
+  "name": "Mt. Morris Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 W. Main St., IL",
+  "locationCity": "2 W. Main St.",
+  "locationState": "IL",
+  "locationZipcode": "61054",
+  "lat": 42.048644577102564,
+  "lon": -89.43363546276274,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

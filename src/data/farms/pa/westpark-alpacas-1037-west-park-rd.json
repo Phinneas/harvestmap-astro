@@ -1,0 +1,19 @@
+{
+  "slug": "westpark-alpacas-1037-west-park-rd",
+  "name": "WestPark Alpacas",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1037 West Park Rd, PA",
+  "locationCity": "1037 West Park Rd",
+  "locationState": "PA",
+  "locationZipcode": "16057",
+  "lat": 41.0214309818211,
+  "lon": -80.1112119760882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:17.951Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:17.951Z"
+}

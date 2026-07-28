@@ -1,0 +1,19 @@
+{
+  "slug": "skinquarter-farm-market-20800-hull-street-rd",
+  "name": "Skinquarter Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20800 Hull Street Rd., VA",
+  "locationCity": "20800 Hull Street Rd.",
+  "locationState": "VA",
+  "locationZipcode": "20800",
+  "lat": 37.39307858599835,
+  "lon": -77.79125387985567,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "yakima-u-pick-fruit-11901-zier-rd",
+  "name": "Yakima U-Pick Fruit",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11901 Zier Rd, WA",
+  "locationCity": "11901 Zier Rd",
+  "locationState": "WA",
+  "locationZipcode": "11901",
+  "lat": 46.5721179948059,
+  "lon": -120.666287988735,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.246Z"
+}

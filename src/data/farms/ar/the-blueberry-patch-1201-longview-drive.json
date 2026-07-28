@@ -1,0 +1,19 @@
+{
+  "slug": "the-blueberry-patch-1201-longview-drive",
+  "name": "The Blueberry Patch",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1201 Longview Drive, AR",
+  "locationCity": "1201 Longview Drive",
+  "locationState": "AR",
+  "locationZipcode": "72756",
+  "lat": 36.316103747261735,
+  "lon": -94.09561100140941,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:49.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:49.715Z"
+}

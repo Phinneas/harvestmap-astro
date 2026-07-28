@@ -1,0 +1,19 @@
+{
+  "slug": "local-harvest-garden-grove-main-street-and-garden-grove-blvd",
+  "name": "Local Harvest Garden Grove",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Main Street and Garden Grove Blvd., CA",
+  "locationCity": "Main Street and Garden Grove Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 33.77404300206064,
+  "lon": -117.94094997362278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:02.771Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:02.771Z"
+}

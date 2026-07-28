@@ -1,0 +1,19 @@
+{
+  "slug": "dropstone-farms-orting",
+  "name": "Dropstone Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Orting, WA",
+  "locationCity": "Orting",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 47.0978795,
+  "lon": -122.2042824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:08.066Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:08.066Z"
+}

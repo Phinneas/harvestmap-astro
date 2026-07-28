@@ -1,0 +1,19 @@
+{
+  "slug": "expedition-farmstead-washington-county",
+  "name": "Expedition Farmstead",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Washington County, WI",
+  "locationCity": "Washington County",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "lat": 43.36847547696897,
+  "lon": -88.23079502099458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:29.839Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:29.839Z"
+}

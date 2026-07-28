@@ -1,0 +1,19 @@
+{
+  "slug": "fox-chapel-farmers-market-423-fox-chapel-rd",
+  "name": "Fox Chapel Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "423 Fox Chapel Rd., PA",
+  "locationCity": "423 Fox Chapel Rd.",
+  "locationState": "PA",
+  "locationZipcode": "15238",
+  "lat": 40.5217830815115,
+  "lon": -79.87938323651301,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

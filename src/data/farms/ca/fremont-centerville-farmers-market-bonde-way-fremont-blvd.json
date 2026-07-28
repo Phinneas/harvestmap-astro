@@ -1,0 +1,19 @@
+{
+  "slug": "fremont-centerville-farmers-market-bonde-way-fremont-blvd",
+  "name": "Fremont Centerville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Bonde Way & Fremont Blvd., CA",
+  "locationCity": "Bonde Way & Fremont Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "94536",
+  "lat": 37.55893999597008,
+  "lon": -122.00842003431563,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

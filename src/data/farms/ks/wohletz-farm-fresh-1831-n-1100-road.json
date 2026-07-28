@@ -1,0 +1,19 @@
+{
+  "slug": "wohletz-farm-fresh-1831-n-1100-road",
+  "name": "Wohletz Farm Fresh",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1831 N 1100 Road, KS",
+  "locationCity": "1831 N 1100 Road",
+  "locationState": "KS",
+  "locationZipcode": "66046",
+  "lat": 38.8974465331517,
+  "lon": -95.1618820406319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:26.144Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:26.144Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "roswell-farmers-market-400-north-main-street",
+  "name": "Roswell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 North Main Street, NM",
+  "locationCity": "400 North Main Street",
+  "locationState": "NM",
+  "locationZipcode": "",
+  "lat": 33.3896994,
+  "lon": -104.5230544,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.246Z"
+}

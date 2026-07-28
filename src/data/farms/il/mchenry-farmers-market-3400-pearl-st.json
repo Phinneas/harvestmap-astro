@@ -1,0 +1,19 @@
+{
+  "slug": "mchenry-farmers-market-3400-pearl-st",
+  "name": "McHenry Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3400 Pearl St., IL",
+  "locationCity": "3400 Pearl St.",
+  "locationState": "IL",
+  "locationZipcode": "60050",
+  "lat": 42.346275164731175,
+  "lon": -88.26322096045688,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

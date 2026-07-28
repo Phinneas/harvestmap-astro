@@ -1,0 +1,19 @@
+{
+  "slug": "black-river-farmers-market-100-chruch-st",
+  "name": "Black River Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Chruch St., NC",
+  "locationCity": "100 Chruch St.",
+  "locationState": "NC",
+  "locationZipcode": "28421",
+  "lat": 34.52799389755589,
+  "lon": -78.17062286863252,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.461Z"
+}

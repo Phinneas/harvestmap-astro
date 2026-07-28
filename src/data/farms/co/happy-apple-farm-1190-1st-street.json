@@ -1,0 +1,19 @@
+{
+  "slug": "happy-apple-farm-1190-1st-street",
+  "name": "Happy Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1190 1st. Street, CO",
+  "locationCity": "1190 1st. Street",
+  "locationState": "CO",
+  "locationZipcode": "81240",
+  "lat": 38.4530949818218,
+  "lon": -104.998857036698,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:08.836Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:08.836Z"
+}

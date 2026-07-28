@@ -1,0 +1,19 @@
+{
+  "slug": "salem-monday-market-890-oak-st-se",
+  "name": "Salem Monday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "890 Oak St. SE, OR",
+  "locationCity": "890 Oak St. SE",
+  "locationState": "OR",
+  "locationZipcode": "97301",
+  "lat": 44.933025950106,
+  "lon": -123.03362815227949,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.968Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "tidewater-greens",
+  "name": "Tidewater Greens",
+  "source": "editorial",
+  "directory": "editorial",
+  "location": "Half Moon Bay, CA",
+  "locationCity": "Half Moon Bay",
+  "locationState": "CA",
+  "locationZipcode": "94019",
+  "tagline": "Cool-coast lettuces, chard and cutting herbs, crisp the year round.",
+  "region": "Leafy greens & herbs",
+  "image": "https://images.unsplash.com/photo-1522193582792-c66cf1cddd16?q=75&w=1400&auto=format&fit=crop",
+  "imageAlt": "Rows of leafy kale in a garden",
+  "seasons": ["spring", "summer", "year"],
+  "peak": "spring",
+  "produce": ["Kale", "Lettuces", "Chard", "Cooking herbs"],
+  "inSeasonNow": true,
+  "established": 2012,
+  "stand": "CSA pickup Tue & Fri; market Sat",
+  "practices": ["Certified organic", "Low-till beds", "Coastal fog-irrigated"],
+  "description": [
+    "The marine layer that frustrates beachgoers is exactly why Tidewater’s greens stay tender all summer. Cool nights and damp mornings keep the lettuces from bolting when inland farms have long given up.",
+    "It’s a tight, intensively planted few acres run on a weekly CSA. Expect a dozen kinds of leaf, a rotating cast of cooking herbs, and the sweetest spring chard you’ll find."
+  ],
+  "calendar": [
+    { "name": "Cutting lettuces", "months": "Mar – Jun", "season": "spring" },
+    { "name": "Cooking herbs", "months": "Year-round", "season": "year" },
+    { "name": "Chard & Kale", "months": "Apr – Oct", "season": "summer" },
+    { "name": "Winter hardy greens", "months": "Nov – Feb", "season": "winter" }
+  ]
+}

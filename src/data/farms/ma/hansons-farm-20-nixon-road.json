@@ -1,0 +1,20 @@
+{
+  "slug": "hansons-farm-20-nixon-road",
+  "name": "Hansons Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "20 Nixon Road, MA",
+  "locationCity": "20 Nixon Road",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.33740138930148,
+  "lon": -71.47481703733784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.348Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.348Z",
+  "crops": []
+}

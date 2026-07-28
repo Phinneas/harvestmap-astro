@@ -1,0 +1,19 @@
+{
+  "slug": "framingham-farmers-market-2-oak-street",
+  "name": "Framingham Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 Oak Street, MA",
+  "locationCity": "2 Oak Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.3016766,
+  "lon": -71.4349292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.809Z"
+}

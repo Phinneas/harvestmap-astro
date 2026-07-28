@@ -1,0 +1,19 @@
+{
+  "slug": "le-roy-farmers-market-111-e-main-st",
+  "name": "Le Roy Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 E. Main St., MN",
+  "locationCity": "111 E. Main St.",
+  "locationState": "MN",
+  "locationZipcode": "55951",
+  "lat": 43.509527046859965,
+  "lon": -92.5035756606848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.240Z"
+}

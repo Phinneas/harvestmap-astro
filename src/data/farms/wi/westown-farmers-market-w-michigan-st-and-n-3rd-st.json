@@ -1,0 +1,19 @@
+{
+  "slug": "westown-farmers-market-w-michigan-st-and-n-3rd-st",
+  "name": "Westown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "W. Michigan St. and N. 3rd St., WI",
+  "locationCity": "W. Michigan St. and N. 3rd St.",
+  "locationState": "WI",
+  "locationZipcode": "53203",
+  "lat": 43.03740999802827,
+  "lon": -87.91456995900468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

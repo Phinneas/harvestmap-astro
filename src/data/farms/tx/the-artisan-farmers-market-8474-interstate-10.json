@@ -1,0 +1,19 @@
+{
+  "slug": "the-artisan-farmers-market-8474-interstate-10",
+  "name": "The Artisan Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8474 Interstate 10, TX",
+  "locationCity": "8474 Interstate 10",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "lat": 30.1211245,
+  "lon": -93.83281649999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.064Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.064Z"
+}

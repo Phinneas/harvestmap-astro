@@ -1,0 +1,19 @@
+{
+  "slug": "woosley-farm-2780-woosley-rd",
+  "name": "Woosley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2780 Woosley Rd., NC",
+  "locationCity": "2780 Woosley Rd.",
+  "locationState": "NC",
+  "locationZipcode": "27040",
+  "lat": 36.1520555690639,
+  "lon": -80.437460877205,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.475Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.475Z"
+}

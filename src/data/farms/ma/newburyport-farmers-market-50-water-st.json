@@ -1,0 +1,19 @@
+{
+  "slug": "newburyport-farmers-market-50-water-st",
+  "name": "Newburyport Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50 Water St., MA",
+  "locationCity": "50 Water St.",
+  "locationState": "MA",
+  "locationZipcode": "01950",
+  "lat": 42.81098136416103,
+  "lon": -70.86593449844285,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "polk-county-bounty-market-120-main-st-e",
+  "name": "Polk County Bounty Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 Main St. E., OR",
+  "locationCity": "120 Main St. E.",
+  "locationState": "OR",
+  "locationZipcode": "97361",
+  "lat": 44.84855837240916,
+  "lon": -123.23541066542057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.968Z"
+}

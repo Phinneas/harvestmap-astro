@@ -1,0 +1,19 @@
+{
+  "slug": "rio-vista-certified-farmers-market-main-st-and-2nd-st",
+  "name": "Rio Vista Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. and 2nd St., CA",
+  "locationCity": "Main St. and 2nd St.",
+  "locationState": "CA",
+  "locationZipcode": "94571",
+  "lat": 38.15648998047993,
+  "lon": -121.69160001989994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

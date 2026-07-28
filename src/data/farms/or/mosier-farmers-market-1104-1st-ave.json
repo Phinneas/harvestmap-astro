@@ -1,0 +1,19 @@
+{
+  "slug": "mosier-farmers-market-1104-1st-ave",
+  "name": "Mosier Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1104 1st Ave., OR",
+  "locationCity": "1104 1st Ave.",
+  "locationState": "OR",
+  "locationZipcode": "97040",
+  "lat": 45.6835202108171,
+  "lon": -121.39835136578425,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.968Z"
+}

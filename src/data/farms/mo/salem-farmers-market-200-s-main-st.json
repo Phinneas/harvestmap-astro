@@ -1,0 +1,19 @@
+{
+  "slug": "salem-farmers-market-200-s-main-st",
+  "name": "Salem Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 S. Main St., MO",
+  "locationCity": "200 S. Main St.",
+  "locationState": "MO",
+  "locationZipcode": "65560",
+  "lat": 37.6428140473097,
+  "lon": -91.53536960909805,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

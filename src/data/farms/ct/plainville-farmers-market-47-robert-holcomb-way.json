@@ -1,0 +1,19 @@
+{
+  "slug": "plainville-farmers-market-47-robert-holcomb-way",
+  "name": "Plainville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "47 Robert Holcomb Way, CT",
+  "locationCity": "47 Robert Holcomb Way",
+  "locationState": "CT",
+  "locationZipcode": "06062",
+  "lat": 41.66735395981079,
+  "lon": -72.86129291992526,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

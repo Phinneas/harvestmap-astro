@@ -1,0 +1,19 @@
+{
+  "slug": "kokomo-farmers-market-corner-of-mulberry-st-washington-st",
+  "name": "Kokomo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Mulberry St. & Washington St., IN",
+  "locationCity": "Corner of Mulberry St. & Washington St.",
+  "locationState": "IN",
+  "locationZipcode": "46901",
+  "lat": 40.48834001202525,
+  "lon": -86.13367998326834,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

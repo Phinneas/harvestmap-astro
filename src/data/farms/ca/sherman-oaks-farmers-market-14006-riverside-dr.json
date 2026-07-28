@@ -1,0 +1,19 @@
+{
+  "slug": "sherman-oaks-farmers-market-14006-riverside-dr",
+  "name": "Sherman Oaks Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14006 Riverside Dr., CA",
+  "locationCity": "14006 Riverside Dr.",
+  "locationState": "CA",
+  "locationZipcode": "14006",
+  "lat": 34.1576047419923,
+  "lon": -118.43708936010046,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

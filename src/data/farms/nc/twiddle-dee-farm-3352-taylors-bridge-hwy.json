@@ -1,0 +1,19 @@
+{
+  "slug": "twiddle-dee-farm-3352-taylors-bridge-hwy",
+  "name": "TWIDDLE DEE FARM",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3352 Taylors Bridge Hwy, NC",
+  "locationCity": "3352 Taylors Bridge Hwy",
+  "locationState": "NC",
+  "locationZipcode": "28328",
+  "lat": 34.922526681294,
+  "lon": -78.2582227970745,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.474Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.474Z"
+}

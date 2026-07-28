@@ -1,0 +1,19 @@
+{
+  "slug": "peterborough-farmers-market-25-elm-st",
+  "name": "Peterborough Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25 Elm St, NH",
+  "locationCity": "25 Elm St",
+  "locationState": "NH",
+  "locationZipcode": "03458",
+  "lat": 42.87693481530481,
+  "lon": -71.95692322138443,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:29.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:29.123Z"
+}

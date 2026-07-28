@@ -1,0 +1,19 @@
+{
+  "slug": "nolensville-farmers-market-7248-nolensville-rd",
+  "name": "Nolensville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7248 Nolensville Rd., TN",
+  "locationCity": "7248 Nolensville Rd.",
+  "locationState": "TN",
+  "locationZipcode": "37135",
+  "lat": 35.957813289448865,
+  "lon": -86.6721996213238,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

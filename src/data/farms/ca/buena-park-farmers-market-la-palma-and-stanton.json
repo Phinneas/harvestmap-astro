@@ -1,0 +1,19 @@
+{
+  "slug": "buena-park-farmers-market-la-palma-and-stanton",
+  "name": "Buena Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "La Palma and Stanton, CA",
+  "locationCity": "La Palma and Stanton",
+  "locationState": "CA",
+  "locationZipcode": "90620",
+  "lat": 33.846620015728575,
+  "lon": -117.99369997251486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

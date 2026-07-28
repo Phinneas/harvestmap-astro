@@ -1,0 +1,19 @@
+{
+  "slug": "4-c-s-pumpkin-patch-12371-san-mateo-rd",
+  "name": "4-C's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12371 San Mateo Rd., CA",
+  "locationCity": "12371 San Mateo Rd.",
+  "locationState": "CA",
+  "locationZipcode": "12371",
+  "lat": 37.4787509988429,
+  "lon": -122.404820016774,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.968Z"
+}

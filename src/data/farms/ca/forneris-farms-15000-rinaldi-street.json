@@ -1,0 +1,19 @@
+{
+  "slug": "forneris-farms-15000-rinaldi-street",
+  "name": "Forneris Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15000 Rinaldi Street, CA",
+  "locationCity": "15000 Rinaldi Street",
+  "locationState": "CA",
+  "locationZipcode": "15000",
+  "lat": 34.2789627251696,
+  "lon": -118.458989329774,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.957Z"
+}

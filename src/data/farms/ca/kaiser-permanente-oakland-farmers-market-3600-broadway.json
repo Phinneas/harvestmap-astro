@@ -1,0 +1,19 @@
+{
+  "slug": "kaiser-permanente-oakland-farmers-market-3600-broadway",
+  "name": "Kaiser Permanente Oakland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3600 Broadway, CA",
+  "locationCity": "3600 Broadway",
+  "locationState": "CA",
+  "locationZipcode": "94611",
+  "lat": 37.82338164623378,
+  "lon": -122.25925304678397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

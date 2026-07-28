@@ -1,0 +1,19 @@
+{
+  "slug": "moses-lake-farmers-market-401-west-4th-avenue",
+  "name": "Moses Lake Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "401 West 4th Avenue, WA",
+  "locationCity": "401 West 4th Avenue",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 47.1274614,
+  "lon": -119.2808731,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.195Z"
+}

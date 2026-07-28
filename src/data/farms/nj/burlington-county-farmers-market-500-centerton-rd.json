@@ -1,0 +1,20 @@
+{
+  "slug": "burlington-county-farmers-market-500-centerton-rd",
+  "name": "Burlington County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Centerton Rd., NJ",
+  "locationCity": "500 Centerton Rd.",
+  "locationState": "NJ",
+  "locationZipcode": "08057",
+  "lat": 39.984923383998115,
+  "lon": -74.89669322597037,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "madison-farmers-market-208-center-st-e",
+  "name": "Madison Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "208 Center St. E., SD",
+  "locationCity": "208 Center St. E.",
+  "locationState": "SD",
+  "locationZipcode": "57042",
+  "lat": 44.00506062927794,
+  "lon": -97.11558530069479,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:59.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:59.965Z"
+}

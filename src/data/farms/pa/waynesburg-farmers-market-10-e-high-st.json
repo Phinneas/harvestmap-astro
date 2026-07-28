@@ -1,0 +1,19 @@
+{
+  "slug": "waynesburg-farmers-market-10-e-high-st",
+  "name": "Waynesburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 E. High St., PA",
+  "locationCity": "10 E. High St.",
+  "locationState": "PA",
+  "locationZipcode": "15370",
+  "lat": 39.89643468297976,
+  "lon": -80.18623975683437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

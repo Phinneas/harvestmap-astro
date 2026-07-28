@@ -1,0 +1,19 @@
+{
+  "slug": "virginia-food-hub-mn",
+  "name": "Virginia Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "MN",
+  "locationCity": "",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "lat": 47.523153,
+  "lon": -92.538658,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.962Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.962Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cash-carry-market-801-enterprise-blvd",
+  "name": "Cash & Carry Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "801 Enterprise Blvd., LA",
+  "locationCity": "801 Enterprise Blvd.",
+  "locationState": "LA",
+  "locationZipcode": "70601",
+  "lat": 30.22744424324064,
+  "lon": -93.20425632902658,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:06.421Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:06.421Z"
+}

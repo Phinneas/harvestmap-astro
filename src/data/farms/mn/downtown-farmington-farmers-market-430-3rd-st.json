@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmington-farmers-market-430-3rd-st",
+  "name": "Downtown Farmington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "430 3rd St., MN",
+  "locationCity": "430 3rd St.",
+  "locationState": "MN",
+  "locationZipcode": "55024",
+  "lat": 44.63876915821672,
+  "lon": -93.14521005944701,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.240Z"
+}

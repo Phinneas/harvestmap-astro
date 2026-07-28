@@ -1,0 +1,19 @@
+{
+  "slug": "peabody-farmers-market-24-lowell-st",
+  "name": "Peabody Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24 Lowell St., MA",
+  "locationCity": "24 Lowell St.",
+  "locationState": "MA",
+  "locationZipcode": "01960",
+  "lat": 42.5264393502016,
+  "lon": -70.92877432821463,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

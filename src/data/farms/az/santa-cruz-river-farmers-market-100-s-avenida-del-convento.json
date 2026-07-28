@@ -1,0 +1,19 @@
+{
+  "slug": "santa-cruz-river-farmers-market-100-s-avenida-del-convento",
+  "name": "Santa Cruz River Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 S. Avenida del Convento, AZ",
+  "locationCity": "100 S. Avenida del Convento",
+  "locationState": "AZ",
+  "locationZipcode": "85745",
+  "lat": 32.220271538833856,
+  "lon": -110.98536456247106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mount-rainier-farmers-market-1-municipal-pl",
+  "name": "Mount Rainier Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Municipal Pl., MD",
+  "locationCity": "1 Municipal Pl.",
+  "locationState": "MD",
+  "locationZipcode": "20712",
+  "lat": 38.93670570890708,
+  "lon": -76.9601462062716,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.944Z"
+}

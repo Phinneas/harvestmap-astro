@@ -1,0 +1,19 @@
+{
+  "slug": "le-mars-area-farmers-market-1st-ave-and-1st-st-ne",
+  "name": "Le Mars Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st Ave. and 1st St. NE, IA",
+  "locationCity": "1st Ave. and 1st St. NE",
+  "locationState": "IA",
+  "locationZipcode": "51031",
+  "lat": 42.794283379713356,
+  "lon": -96.16633447762887,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

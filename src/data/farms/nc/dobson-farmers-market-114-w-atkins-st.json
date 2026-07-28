@@ -1,0 +1,19 @@
+{
+  "slug": "dobson-farmers-market-114-w-atkins-st",
+  "name": "Dobson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "114 W. Atkins St., NC",
+  "locationCity": "114 W. Atkins St.",
+  "locationState": "NC",
+  "locationZipcode": "27017",
+  "lat": 36.39557844397218,
+  "lon": -80.72277068177864,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.461Z"
+}

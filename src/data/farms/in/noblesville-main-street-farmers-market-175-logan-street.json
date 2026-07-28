@@ -1,0 +1,19 @@
+{
+  "slug": "noblesville-main-street-farmers-market-175-logan-street",
+  "name": "Noblesville Main Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "175 Logan Street, IN",
+  "locationCity": "175 Logan Street",
+  "locationState": "IN",
+  "locationZipcode": "",
+  "lat": 40.0473297,
+  "lon": -86.019848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.349Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.349Z"
+}

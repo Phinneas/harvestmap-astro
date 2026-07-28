@@ -1,0 +1,19 @@
+{
+  "slug": "allen-farmers-market-1611-east-kalamazoo-street",
+  "name": "Allen Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1611 East Kalamazoo Street, MI",
+  "locationCity": "1611 East Kalamazoo Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.73001339864466,
+  "lon": -84.52708453523114,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

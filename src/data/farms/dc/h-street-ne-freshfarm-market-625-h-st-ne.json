@@ -1,0 +1,19 @@
+{
+  "slug": "h-street-ne-freshfarm-market-625-h-st-ne",
+  "name": "H Street NE FreshFarm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "625 H St. NE, DC",
+  "locationCity": "625 H St. NE",
+  "locationState": "DC",
+  "locationZipcode": "20002",
+  "lat": 38.90019949943735,
+  "lon": -76.99779031670533,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

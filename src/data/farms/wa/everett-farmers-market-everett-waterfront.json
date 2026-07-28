@@ -1,0 +1,19 @@
+{
+  "slug": "everett-farmers-market-everett-waterfront",
+  "name": "Everett Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Everett Waterfront, WA",
+  "locationCity": "Everett Waterfront",
+  "locationState": "WA",
+  "locationZipcode": "98201",
+  "lat": 47.97993500000007,
+  "lon": -122.20721999999995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

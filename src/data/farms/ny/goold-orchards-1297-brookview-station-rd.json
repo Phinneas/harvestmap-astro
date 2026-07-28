@@ -1,0 +1,19 @@
+{
+  "slug": "goold-orchards-1297-brookview-station-rd",
+  "name": "Goold Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1297 Brookview Station Rd, NY",
+  "locationCity": "1297 Brookview Station Rd",
+  "locationState": "NY",
+  "locationZipcode": "12033",
+  "lat": 42.539567194199,
+  "lon": -73.7076351762319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.641Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.641Z"
+}

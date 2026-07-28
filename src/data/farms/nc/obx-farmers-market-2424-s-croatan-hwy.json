@@ -1,0 +1,19 @@
+{
+  "slug": "obx-farmers-market-2424-s-croatan-hwy",
+  "name": "OBX Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2424 S. Croatan Hwy., NC",
+  "locationCity": "2424 S. Croatan Hwy.",
+  "locationState": "NC",
+  "locationZipcode": "27959",
+  "lat": 35.986849819628276,
+  "lon": -75.64528505524675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

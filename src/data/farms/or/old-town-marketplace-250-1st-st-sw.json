@@ -1,0 +1,19 @@
+{
+  "slug": "old-town-marketplace-250-1st-st-sw",
+  "name": "Old Town Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "250 1st St. SW, OR",
+  "locationCity": "250 1st St. SW",
+  "locationState": "OR",
+  "locationZipcode": "97411",
+  "lat": 43.12018445421133,
+  "lon": -124.41639844402235,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.968Z"
+}

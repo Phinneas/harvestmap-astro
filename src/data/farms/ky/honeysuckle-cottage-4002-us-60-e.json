@@ -1,0 +1,19 @@
+{
+  "slug": "honeysuckle-cottage-4002-us-60-e",
+  "name": "Honeysuckle Cottage",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4002 US 60 E, KY",
+  "locationCity": "4002 US 60 E",
+  "locationState": "KY",
+  "locationZipcode": "42064",
+  "lat": 37.3731399827512,
+  "lon": -88.0276480354497,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:40.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:40.557Z"
+}

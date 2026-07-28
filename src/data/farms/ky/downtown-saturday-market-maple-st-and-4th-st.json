@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-saturday-market-maple-st-and-4th-st",
+  "name": "Downtown Saturday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Maple St. and 4th St., KY",
+  "locationCity": "Maple St. and 4th St.",
+  "locationState": "KY",
+  "locationZipcode": "42071",
+  "lat": 36.609870007545624,
+  "lon": -88.30209996006549,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.783Z"
+}

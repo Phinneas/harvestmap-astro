@@ -1,0 +1,19 @@
+{
+  "slug": "detroit-eastern-market-2943-russell-st",
+  "name": "Detroit Eastern Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2943 Russell St., MI",
+  "locationCity": "2943 Russell St.",
+  "locationState": "MI",
+  "locationZipcode": "48207",
+  "lat": 42.34849952325743,
+  "lon": -83.04190563009091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

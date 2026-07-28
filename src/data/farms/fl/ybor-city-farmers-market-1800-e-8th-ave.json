@@ -1,0 +1,19 @@
+{
+  "slug": "ybor-city-farmers-market-1800-e-8th-ave",
+  "name": "Ybor City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1800 E. 8th Ave., FL",
+  "locationCity": "1800 E. 8th Ave.",
+  "locationState": "FL",
+  "locationZipcode": "33605",
+  "lat": 27.960987495735065,
+  "lon": -82.43912621446144,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.375Z"
+}

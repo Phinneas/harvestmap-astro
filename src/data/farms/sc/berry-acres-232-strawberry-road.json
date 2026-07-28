@@ -1,0 +1,19 @@
+{
+  "slug": "berry-acres-232-strawberry-road",
+  "name": "Berry Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "232 Strawberry Road, SC",
+  "locationCity": "232 Strawberry Road",
+  "locationState": "SC",
+  "locationZipcode": "29626",
+  "lat": 34.477119010164,
+  "lon": -82.7389390406846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:45.387Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:45.387Z"
+}

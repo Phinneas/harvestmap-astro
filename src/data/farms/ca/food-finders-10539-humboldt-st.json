@@ -1,0 +1,19 @@
+{
+  "slug": "food-finders-10539-humboldt-st",
+  "name": "Food Finders",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "10539 Humboldt St, CA",
+  "locationCity": "10539 Humboldt St",
+  "locationState": "CA",
+  "locationZipcode": "10539",
+  "lat": 33.80873938413968,
+  "lon": -118.06603890240942,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:00.814Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:00.814Z"
+}

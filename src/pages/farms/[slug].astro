@@ -5,35 +5,63 @@ import Button from '../../components/Button.astro';
 import FarmCard from '../../components/FarmCard.astro';
 import PathLine from '../../components/illustrations/PathLine.astro';
 import Leaf from '../../components/illustrations/Leaf.astro';
-import farms from '../../data/farms.json';
+import { loadEnrichedFarms, augmentFarm } from '../../lib/farm-loader';
+import type { Farm, Season } from '../../lib/types';
 
 export function getStaticPaths() {
-  return farms.map((farm) => ({ params: { slug: farm.slug }, props: { farm } }));
+  // Only prerender farms with crop data or editorial enrichment.
+  // USDA-only farms without crops are listed on state directory pages
+  // but don't get individual detail pages (keeps build time fast).
+  const enrichedFarms = loadEnrichedFarms();
+  return enrichedFarms.map((farm) => ({ params: { slug: farm.slug } }));
 }
 
-const { farm } = Astro.props;
+const allFarms = loadEnrichedFarms();
+const augmented = allFarms.map(augmentFarm);
+
+const { slug } = Astro.params;
+const farm = augmented.find((f) => f.slug === slug);
+if (!farm) throw new Error(`Farm not found: ${slug}`);
+
 const peakLabels: Record<string, string> = { spring: 'Spring', summer: 'Summer', autumn: 'Autumn', winter: 'Winter', year: 'Year-round' };
 
-const idx = farms.findIndex((f) => f.slug === farm.slug);
-const pool = farms.map((f) => f.image);
+const seasons = farm.seasons && farm.seasons.length > 0 ? farm.seasons : farm.derivedSeasons;
+const peak = farm.peak || farm.derivedPeak;
+const inSeasonNow = farm.inSeasonNow !== undefined ? farm.inSeasonNow : farm.derivedInSeasonNow;
+const calendar = farm.calendar && farm.calendar.length > 0 ? farm.calendar : farm.derivedCalendar;
+const produce = farm.produce || farm.crops || [];
+const image = farm.image || '/images/farm-placeholder.svg';
+const imageAlt = farm.imageAlt || farm.name;
+const tagline = farm.tagline || (produce.length > 0 ? `U-pick: ${produce.slice(0, 3).join(', ')}` : 'Farm listing');
+const region = farm.region || farm.directory;
+
+const idx = augmented.findIndex((f) => f.slug === farm.slug);
+const enrichedFarms = augmented.filter((f) => f.image && f.image !== '/images/farm-placeholder.svg');
+const pool = enrichedFarms.length > 0 ? enrichedFarms.map((f) => f.image!) : augmented.map((f) => '/images/farm-placeholder.svg');
 const gallery = [pool[(idx + 1) % pool.length], pool[(idx + 2) % pool.length], pool[(idx + 3) % pool.length]];
 
-const related = farms
-  .filter((f) => f.slug !== farm.slug && f.seasons.some((s) => farm.seasons.includes(s as any)))
+const related = augmented
+  .filter((f) => f.slug !== farm.slug && seasons.some((s) => (f.seasons || f.derivedSeasons).includes(s)))
   .slice(0, 3);
+
+const isEnriched = farm.isEnriched;
+const hasCalendar = calendar.length > 0;
+const hasDescription = farm.description && farm.description.length > 0;
+const hasPractices = farm.practices && farm.practices.length > 0;
+const hasEstablished = farm.established !== undefined;
 ---
-<BaseLayout active="farms" title={`${farm.name} · HarvestMap`} description={farm.tagline}>
+<BaseLayout active="farms" title={`${farm.name} · HarvestMap`} description={tagline}>
   <div class="container" style="padding-top: var(--space-6);">
     <a href="/#directory" class="btn btn--ghost" style="margin-bottom: var(--space-4);">← All farms</a>
 
     <!-- Hero -->
     <header class="detail-hero">
-      <img src={farm.image} alt={farm.imageAlt} width="1400" height="800" />
+      <img src={image} alt={imageAlt} width="1400" height="800" />
       <div class="detail-hero__content">
-        <span class="eyebrow" style="color: var(--honey);">{farm.region}</span>
+        <span class="eyebrow" style="color: var(--honey);">{region}</span>
         <h1>{farm.name}</h1>
         <div class="cluster">
-          {farm.seasons.map((s) => <SeasonBadge season={s} label={s === farm.peak ? `${peakLabels[s]} peak` : peakLabels[s]} />)}
+          {seasons.map((s) => <SeasonBadge season={s} label={s === peak ? `${peakLabels[s]} peak` : peakLabels[s]} />)}
           <span class="card__loc" style="color: rgba(255,247,236,0.92);">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="color:var(--honey)">
               <path d="M12 21c5-3 8-7 8-11a8 8 0 1 0-16 0c0 4 3 8 8 11Z"/><circle cx="12" cy="10" r="2.6"/>
@@ -47,45 +75,76 @@ const related = farms
     <!-- Body -->
     <div class="detail-layout section--tight">
       <div class="stack stack-6" style="gap: var(--space-7);">
-        <div class="stats-row">
-          <div class="stat"><span class="stat__num">{farm.established}</span><span class="stat__lbl">Established</span></div>
-          <div class="stat"><span class="stat__num">{farm.produce.length}</span><span class="stat__lbl">Crops in rotation</span></div>
-          <div class="stat"><span class="stat__num">{peakLabels[farm.peak]}</span><span class="stat__lbl">Peak season</span></div>
-        </div>
-
-        <div class="prose">
-          {farm.description.map((para) => <p>{para}</p>)}
-        </div>
-
-        <!-- What's in season -->
-        <section class="panel panel--feature">
-          <div class="split" style="margin-bottom: var(--space-4);">
-            <h3 style="display:flex;align-items:center;gap:var(--space-2);"><Leaf style="width:22px;height:22px;color:var(--moss);" /> What’s in season</h3>
-            {farm.inSeasonNow && <SeasonBadge season={farm.peak} label="Harvesting now" />}
+        {/* Stats row — only show fields that exist */}
+        {(hasEstablished || produce.length > 0 || peak) && (
+          <div class="stats-row">
+            {hasEstablished && (
+              <div class="stat"><span class="stat__num">{farm.established}</span><span class="stat__lbl">Established</span></div>
+            )}
+            {produce.length > 0 && (
+              <div class="stat"><span class="stat__num">{produce.length}</span><span class="stat__lbl">Crops in rotation</span></div>
+            )}
+            {peak && (
+              <div class="stat"><span class="stat__num">{peakLabels[peak]}</span><span class="stat__lbl">Peak season</span></div>
+            )}
           </div>
-          <ul class="cal">
-            {farm.calendar.map((c) => (
-              <li>
-                <span class="cal__name">{c.name}</span>
-                <span class="cluster" style="gap: var(--space-3);">
-                  <span class="cal__months">{c.months}</span>
-                  <SeasonBadge season={c.season as any} />
-                </span>
-              </li>
-            ))}
-          </ul>
-        </section>
+        )}
 
-        <!-- Gallery -->
-        <div class="stack stack-3">
-          <span class="eyebrow">From the farm</span>
-          <div class="gallery">
-            {gallery.map((src, i) => <img src={src} alt={`${farm.name} harvest ${i + 1}`} width="500" height="500" loading="lazy" decoding="async" />)}
+        {/* Description — only for enriched farms */}
+        {hasDescription && (
+          <div class="prose">
+            {farm.description!.map((para) => <p>{para}</p>)}
           </div>
-        </div>
+        )}
+
+        {/* Not-enriched notice for USDA-only farms */}
+        {!isEnriched && (
+          <div class="panel" style="padding: var(--space-4); border-style: dashed;">
+            <p style="color: var(--text-muted); margin: 0;">
+              This farm is listed from USDA local food directory data. Detailed seasonality, photos, and growing practices haven’t been enriched yet.
+              {farm.website && <> Visit <a href={farm.website} rel="noopener">{farm.website}</a> for more info.</>}
+            </p>
+          </div>
+        )}
+
+        {/* What's in season — show if we have any calendar data */}
+        {hasCalendar && (
+          <section class="panel panel--feature">
+            <div class="split" style="margin-bottom: var(--space-4);">
+              <h3 style="display:flex;align-items:center;gap:var(--space-2);"><Leaf style="width:22px;height:22px;color:var(--moss);" /> What’s in season</h3>
+              {inSeasonNow && peak && <SeasonBadge season={peak} label="Harvesting now" />}
+            </div>
+            <ul class="cal">
+              {calendar.map((c) => (
+                <li>
+                  <span class="cal__name">{c.name}</span>
+                  <span class="cluster" style="gap: var(--space-3);">
+                    <span class="cal__months">{c.months}</span>
+                    <SeasonBadge season={c.season as any} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+            {!farm.calendar && (
+              <p style="font-size: var(--fs-small); color: var(--text-muted); margin-top: var(--space-3); margin-bottom: 0;">
+                Seasonal availability estimated from crop calendars for this climate zone.
+              </p>
+            )}
+          </section>
+        )}
+
+        {/* Gallery — only for enriched farms with real images */}
+        {isEnriched && farm.image && farm.image !== '/images/farm-placeholder.svg' && (
+          <div class="stack stack-3">
+            <span class="eyebrow">From the farm</span>
+            <div class="gallery">
+              {gallery.map((src, i) => <img src={src} alt={`${farm.name} harvest ${i + 1}`} width="500" height="500" loading="lazy" decoding="async" />)}
+            </div>
+          </div>
+        )}
       </div>
 
-      <!-- Sidebar -->
+      {/* Sidebar */}
       <aside class="sidebar">
         <div class="panel panel--feature">
           <h3 style="margin-bottom: var(--space-3);">Plan a visit</h3>
@@ -96,26 +155,41 @@ const related = farms
             <span class="code-pill" style="position:absolute; bottom:8px; right:8px;">{farm.location}</span>
           </div>
           <ul class="cal" style="margin-bottom: var(--space-4);">
-            <li><span class="cal__name">Hours</span><span class="cal__months" style="text-align:right;max-width:60%;">{farm.stand}</span></li>
-            <li><span class="cal__name">Region</span><span class="cal__months">{farm.region}</span></li>
+            {farm.stand && (
+              <li><span class="cal__name">Hours</span><span class="cal__months" style="text-align:right;max-width:60%;">{farm.stand}</span></li>
+            )}
+            <li><span class="cal__name">Region</span><span class="cal__months">{region}</span></li>
+            {farm.website && (
+              <li><span class="cal__name">Website</span><span class="cal__months"><a href={farm.website} rel="noopener" style="color: var(--clay-deep);">Visit →</a></span></li>
+            )}
+            {farm.phone && (
+              <li><span class="cal__name">Phone</span><span class="cal__months">{farm.phone}</span></li>
+            )}
           </ul>
           <div class="stack stack-2">
-            <Button variant="primary" block href="#">Get directions</Button>
+            {farm.lat && farm.lon ? (
+              <Button variant="primary" block href={`https://www.openstreetmap.org/?mlat=${farm.lat}&mlon=${farm.lon}#map=14/${farm.lat}/${farm.lon}`} target="_blank" rel="noopener">Get directions</Button>
+            ) : (
+              <Button variant="primary" block href="#">Get directions</Button>
+            )}
             <Button variant="secondary" block href="#">Save to my map</Button>
           </div>
         </div>
 
-        <div class="panel">
-          <span class="eyebrow" style="margin-bottom: var(--space-3); display:block;">How they grow</span>
-          <ul class="list-checks">
-            {farm.practices.map((p) => (
-              <li>
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 13 4 4L19 7"/></svg>
-                {p}
-              </li>
-            ))}
-          </ul>
-        </div>
+        {/* Practices — only for enriched farms */}
+        {hasPractices && (
+          <div class="panel">
+            <span class="eyebrow" style="margin-bottom: var(--space-3); display:block;">How they grow</span>
+            <ul class="list-checks">
+              {farm.practices!.map((p) => (
+                <li>
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 13 4 4L19 7"/></svg>
+                  {p}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
       </aside>
     </div>
   </div>

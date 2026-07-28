@@ -1,0 +1,19 @@
+{
+  "slug": "m-m-farmers-market-1207-8th-avenue",
+  "name": "M&M Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1207 8th Avenue, MI",
+  "locationCity": "1207 8th Avenue",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 45.106036521883794,
+  "lon": -87.61601398362333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

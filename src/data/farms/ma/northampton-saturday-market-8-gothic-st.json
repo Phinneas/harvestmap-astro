@@ -1,0 +1,19 @@
+{
+  "slug": "northampton-saturday-market-8-gothic-st",
+  "name": "Northampton Saturday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8 Gothic St., MA",
+  "locationCity": "8 Gothic St.",
+  "locationState": "MA",
+  "locationZipcode": "01060",
+  "lat": 42.32105689094574,
+  "lon": -72.63273618118443,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

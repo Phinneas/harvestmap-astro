@@ -1,0 +1,19 @@
+{
+  "slug": "niles-certified-farmers-market-37573-niles-blvd",
+  "name": "Niles Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "37573 Niles Blvd., CA",
+  "locationCity": "37573 Niles Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "37573",
+  "lat": 37.576843503747256,
+  "lon": -121.97842293640912,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "local-source-wholesale-food-hub-111-se-3rd-st",
+  "name": "Local Source Wholesale Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "111 SE 3rd St, IN",
+  "locationCity": "111 SE 3rd St",
+  "locationState": "IN",
+  "locationZipcode": "",
+  "lat": 37.9696176,
+  "lon": -87.57133089999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:07.164Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:07.164Z"
+}

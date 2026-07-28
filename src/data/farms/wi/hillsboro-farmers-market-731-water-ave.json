@@ -1,0 +1,19 @@
+{
+  "slug": "hillsboro-farmers-market-731-water-ave",
+  "name": "Hillsboro Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "731 Water Ave., WI",
+  "locationCity": "731 Water Ave.",
+  "locationState": "WI",
+  "locationZipcode": "54634",
+  "lat": 43.65015244465003,
+  "lon": -90.3405548935923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

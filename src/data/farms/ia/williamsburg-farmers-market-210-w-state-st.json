@@ -1,0 +1,19 @@
+{
+  "slug": "williamsburg-farmers-market-210-w-state-st",
+  "name": "Williamsburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 W. State St., IA",
+  "locationCity": "210 W. State St.",
+  "locationState": "IA",
+  "locationZipcode": "52361",
+  "lat": 41.661762771564625,
+  "lon": -92.00904600970507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

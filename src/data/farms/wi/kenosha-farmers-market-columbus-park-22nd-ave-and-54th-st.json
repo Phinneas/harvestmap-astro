@@ -1,0 +1,19 @@
+{
+  "slug": "kenosha-farmers-market-columbus-park-22nd-ave-and-54th-st",
+  "name": "Kenosha Farmers' Market - Columbus Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "22nd Ave. and 54th St., WI",
+  "locationCity": "22nd Ave. and 54th St.",
+  "locationState": "WI",
+  "locationZipcode": "53140",
+  "lat": 42.586119991068784,
+  "lon": -87.83571997090975,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "springside-farm-1940-jerome-rd",
+  "name": "Springside Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1940 Jerome Rd., NY",
+  "locationCity": "1940 Jerome Rd.",
+  "locationState": "NY",
+  "locationZipcode": "13063",
+  "lat": 42.8652722355282,
+  "lon": -76.0103126224178,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.648Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.648Z"
+}

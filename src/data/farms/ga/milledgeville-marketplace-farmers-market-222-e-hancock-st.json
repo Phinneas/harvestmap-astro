@@ -1,0 +1,19 @@
+{
+  "slug": "milledgeville-marketplace-farmers-market-222-e-hancock-st",
+  "name": "Milledgeville Marketplace Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "222 E. Hancock St., GA",
+  "locationCity": "222 E. Hancock St.",
+  "locationState": "GA",
+  "locationZipcode": "31061",
+  "lat": 33.082363986332204,
+  "lon": -83.22141399082068,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.374Z"
+}

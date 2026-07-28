@@ -1,0 +1,19 @@
+{
+  "slug": "five-corners-farmers-market-lincoln-place",
+  "name": "Five Corners Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Lincoln Place, VT",
+  "locationCity": "Lincoln Place",
+  "locationState": "VT",
+  "locationZipcode": "05452",
+  "lat": 44.4919300170112,
+  "lon": -73.11061002458939,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:47.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:47.852Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "muskego-green-market-s73w16663-janesville-rd",
+  "name": "Muskego Green Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S73W16663 Janesville Rd., WI",
+  "locationCity": "S73W16663 Janesville Rd.",
+  "locationState": "WI",
+  "locationZipcode": "53150",
+  "lat": 42.91162894181805,
+  "lon": -88.12188924540962,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

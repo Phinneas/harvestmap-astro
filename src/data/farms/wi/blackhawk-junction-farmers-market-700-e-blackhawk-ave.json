@@ -1,0 +1,19 @@
+{
+  "slug": "blackhawk-junction-farmers-market-700-e-blackhawk-ave",
+  "name": "Blackhawk Junction Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 E. Blackhawk Ave., WI",
+  "locationCity": "700 E. Blackhawk Ave.",
+  "locationState": "WI",
+  "locationZipcode": "53821",
+  "lat": 43.051213986729834,
+  "lon": -91.1368730250452,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hardin-farmers-market-835-n-center-ave",
+  "name": "Hardin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "835 N. Center Ave., MT",
+  "locationCity": "835 N. Center Ave.",
+  "locationState": "MT",
+  "locationZipcode": "59034",
+  "lat": 45.73690822834287,
+  "lon": -107.60599333791578,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:48.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:48.809Z"
+}

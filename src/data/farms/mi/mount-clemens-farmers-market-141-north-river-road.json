@@ -1,0 +1,20 @@
+{
+  "slug": "mount-clemens-farmers-market-141-north-river-road",
+  "name": "Mount Clemens Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "141 North River Road, MI",
+  "locationCity": "141 North River Road",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.59828105716067,
+  "lon": -82.86940306397528,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z",
+  "crops": []
+}

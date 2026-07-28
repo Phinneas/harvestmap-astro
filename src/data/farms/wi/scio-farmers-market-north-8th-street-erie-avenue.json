@@ -1,0 +1,19 @@
+{
+  "slug": "scio-farmers-market-north-8th-street-erie-avenue",
+  "name": "SCIO farmers market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "North 8th Street & Erie Avenue, WI",
+  "locationCity": "North 8th Street & Erie Avenue",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "lat": 43.7563466,
+  "lon": -87.7129535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.645Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.645Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sam-houston-high-school-farmers-market-4635-e-houston-st",
+  "name": "Sam Houston High School Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4635 E. Houston St., TX",
+  "locationCity": "4635 E. Houston St.",
+  "locationState": "TX",
+  "locationZipcode": "78220",
+  "lat": 29.4240118288716,
+  "lon": -98.39918890175964,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

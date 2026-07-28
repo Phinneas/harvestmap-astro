@@ -1,0 +1,19 @@
+{
+  "slug": "j-e-farmer-s-market-368-k-v-rd",
+  "name": "J&E Farmer’s Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "368 K-V Rd, VA",
+  "locationCity": "368 K-V Rd",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "lat": 36.980986,
+  "lon": -78.2143488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.481Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.481Z"
+}

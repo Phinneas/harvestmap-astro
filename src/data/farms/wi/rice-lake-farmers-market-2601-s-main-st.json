@@ -1,0 +1,19 @@
+{
+  "slug": "rice-lake-farmers-market-2601-s-main-st",
+  "name": "Rice Lake Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2601 S. Main St., WI",
+  "locationCity": "2601 S. Main St.",
+  "locationState": "WI",
+  "locationZipcode": "54868",
+  "lat": 45.47367100858767,
+  "lon": -91.73342195885881,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

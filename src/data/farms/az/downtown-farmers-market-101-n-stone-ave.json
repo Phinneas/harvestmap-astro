@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-101-n-stone-ave",
+  "name": "Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 N. Stone Ave., AZ",
+  "locationCity": "101 N. Stone Ave.",
+  "locationState": "AZ",
+  "locationZipcode": "85777",
+  "lat": 32.22032502396979,
+  "lon": -110.97055971202,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

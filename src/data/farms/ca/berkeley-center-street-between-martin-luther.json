@@ -1,0 +1,19 @@
+{
+  "slug": "berkeley-center-street-between-martin-luther",
+  "name": "Berkeley",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Center Street between Martin Luther, CA",
+  "locationCity": "Center Street between Martin Luther",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 37.869827526839224,
+  "lon": -122.2716805594818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:02.771Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:02.771Z"
+}

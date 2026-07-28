@@ -1,0 +1,19 @@
+{
+  "slug": "bank-of-america-famers-market-333-s-hope-st",
+  "name": "Bank of America Famers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "333 S. Hope St., CA",
+  "locationCity": "333 S. Hope St.",
+  "locationState": "CA",
+  "locationZipcode": "90012",
+  "lat": 34.053427432975276,
+  "lon": -118.25253515216762,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

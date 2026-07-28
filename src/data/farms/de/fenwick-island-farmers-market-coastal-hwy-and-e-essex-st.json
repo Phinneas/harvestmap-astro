@@ -1,0 +1,19 @@
+{
+  "slug": "fenwick-island-farmers-market-coastal-hwy-and-e-essex-st",
+  "name": "Fenwick Island Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Coastal Hwy. and E. Essex St., DE",
+  "locationCity": "Coastal Hwy. and E. Essex St.",
+  "locationState": "DE",
+  "locationZipcode": "19944",
+  "lat": 38.46045999250396,
+  "lon": -75.05189999707598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:37.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:37.081Z"
+}

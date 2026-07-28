@@ -1,0 +1,19 @@
+{
+  "slug": "bloomington-community-farmers-market-401-n-morton-st",
+  "name": "Bloomington Community Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "401 N. Morton St., IN",
+  "locationCity": "401 N. Morton St.",
+  "locationState": "IN",
+  "locationZipcode": "47404",
+  "lat": 39.169589298634044,
+  "lon": -86.53612705212923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

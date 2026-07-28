@@ -1,0 +1,19 @@
+{
+  "slug": "billsboro-winery-4760-west-lake-rd",
+  "name": "Billsboro Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4760 West Lake Rd., NY",
+  "locationCity": "4760 West Lake Rd.",
+  "locationState": "NY",
+  "locationZipcode": "14456",
+  "lat": 42.7981004513627,
+  "lon": -76.9777806728336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.645Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.645Z"
+}

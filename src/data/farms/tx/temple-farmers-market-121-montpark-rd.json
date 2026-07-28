@@ -1,0 +1,19 @@
+{
+  "slug": "temple-farmers-market-121-montpark-rd",
+  "name": "Temple Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 Montpark Rd., TX",
+  "locationCity": "121 Montpark Rd.",
+  "locationState": "TX",
+  "locationZipcode": "76502",
+  "lat": 31.123435583479488,
+  "lon": -97.43206101147138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

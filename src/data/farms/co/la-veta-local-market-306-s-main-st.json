@@ -1,0 +1,19 @@
+{
+  "slug": "la-veta-local-market-306-s-main-st",
+  "name": "La Veta Local Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "306 S. Main St., CO",
+  "locationCity": "306 S. Main St.",
+  "locationState": "CO",
+  "locationZipcode": "81055",
+  "lat": 37.50781929912777,
+  "lon": -105.0090464776165,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

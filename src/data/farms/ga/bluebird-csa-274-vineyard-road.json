@@ -1,0 +1,19 @@
+{
+  "slug": "bluebird-csa-274-vineyard-road",
+  "name": "Bluebird CSA",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "274 Vineyard Road, GA",
+  "locationCity": "274 Vineyard Road",
+  "locationState": "GA",
+  "locationZipcode": "30286",
+  "lat": 32.9461260060529,
+  "lon": -84.421330003264,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:08.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:08.736Z"
+}

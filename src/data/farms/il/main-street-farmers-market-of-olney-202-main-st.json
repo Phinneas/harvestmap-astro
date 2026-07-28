@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-farmers-market-of-olney-202-main-st",
+  "name": "Main Street Farmers' Market of Olney",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "202 Main St., IL",
+  "locationCity": "202 Main St.",
+  "locationState": "IL",
+  "locationZipcode": "62450",
+  "lat": 38.73108672203321,
+  "lon": -88.08618659545887,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

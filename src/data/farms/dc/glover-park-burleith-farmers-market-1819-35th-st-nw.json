@@ -1,0 +1,19 @@
+{
+  "slug": "glover-park-burleith-farmers-market-1819-35th-st-nw",
+  "name": "Glover Park-Burleith Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1819 35th St. NW, DC",
+  "locationCity": "1819 35th St. NW",
+  "locationState": "DC",
+  "locationZipcode": "20007",
+  "lat": 38.91478320459771,
+  "lon": -77.06932657221118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

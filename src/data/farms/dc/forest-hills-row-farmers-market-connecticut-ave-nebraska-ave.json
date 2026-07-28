@@ -1,0 +1,19 @@
+{
+  "slug": "forest-hills-row-farmers-market-connecticut-ave-nebraska-ave",
+  "name": "Forest Hills Row Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Connecticut Ave. & Nebraska Ave., DC",
+  "locationCity": "Connecticut Ave. & Nebraska Ave.",
+  "locationState": "DC",
+  "locationZipcode": "20008",
+  "lat": 38.95603000137771,
+  "lon": -77.07040997085646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

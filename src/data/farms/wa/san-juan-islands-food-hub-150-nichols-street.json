@@ -1,0 +1,19 @@
+{
+  "slug": "san-juan-islands-food-hub-150-nichols-street",
+  "name": "San Juan Islands Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "150 Nichols Street, WA",
+  "locationCity": "150 Nichols Street",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 48.5335982,
+  "lon": -123.0162298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.859Z"
+}

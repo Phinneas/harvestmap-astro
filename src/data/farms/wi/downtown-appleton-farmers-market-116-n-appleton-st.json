@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-appleton-farmers-market-116-n-appleton-st",
+  "name": "Downtown Appleton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "116 N. Appleton St., WI",
+  "locationCity": "116 N. Appleton St.",
+  "locationState": "WI",
+  "locationZipcode": "54911",
+  "lat": 44.26233188585941,
+  "lon": -88.4072512277854,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

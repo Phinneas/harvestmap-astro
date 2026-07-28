@@ -1,0 +1,19 @@
+{
+  "slug": "cheraw-farmers-market-101-front-st",
+  "name": "Cheraw Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Front St., SC",
+  "locationCity": "101 Front St.",
+  "locationState": "SC",
+  "locationZipcode": "29520",
+  "lat": 34.69705282391181,
+  "lon": -79.8802902806307,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:49.593Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:49.593Z"
+}

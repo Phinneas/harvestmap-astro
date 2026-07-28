@@ -1,0 +1,19 @@
+{
+  "slug": "country-farmers-market-1615-n-harrison-ave",
+  "name": "Country Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1615 N. Harrison Ave., SD",
+  "locationCity": "1615 N. Harrison Ave.",
+  "locationState": "SD",
+  "locationZipcode": "57501",
+  "lat": 44.37774003896799,
+  "lon": -100.31758758747443,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:59.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:59.965Z"
+}

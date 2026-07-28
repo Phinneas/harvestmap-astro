@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-cumberland-farmers-market-100-baltimore-st",
+  "name": "Downtown Cumberland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Baltimore St., MD",
+  "locationCity": "100 Baltimore St.",
+  "locationState": "MD",
+  "locationZipcode": "21502",
+  "lat": 39.651658783880556,
+  "lon": -78.76105757947687,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.944Z"
+}

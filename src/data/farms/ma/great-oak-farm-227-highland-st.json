@@ -1,0 +1,19 @@
+{
+  "slug": "great-oak-farm-227-highland-st",
+  "name": "Great Oak Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "227 Highland St, MA",
+  "locationCity": "227 Highland St",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.4027957405908,
+  "lon": -71.6223200930386,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.343Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.343Z"
+}

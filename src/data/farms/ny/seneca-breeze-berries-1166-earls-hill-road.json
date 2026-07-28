@@ -1,0 +1,19 @@
+{
+  "slug": "seneca-breeze-berries-1166-earls-hill-road",
+  "name": "Seneca Breeze Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1166 Earls Hill Road, NY",
+  "locationCity": "1166 Earls Hill Road",
+  "locationState": "NY",
+  "locationZipcode": "14527",
+  "lat": 42.7584464721188,
+  "lon": -76.9873927519598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.643Z"
+}

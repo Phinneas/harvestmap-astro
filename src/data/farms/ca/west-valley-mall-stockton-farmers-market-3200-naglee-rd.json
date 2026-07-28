@@ -1,0 +1,19 @@
+{
+  "slug": "west-valley-mall-stockton-farmers-market-3200-naglee-rd",
+  "name": "West Valley Mall Stockton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3200 Naglee Rd., CA",
+  "locationCity": "3200 Naglee Rd.",
+  "locationState": "CA",
+  "locationZipcode": "95304",
+  "lat": 37.75992298860099,
+  "lon": -121.46156698533406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

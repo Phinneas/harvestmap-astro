@@ -1,0 +1,19 @@
+{
+  "slug": "tierrasanta-farmers-market-11010-clairemont-mesa-blvd",
+  "name": "Tierrasanta Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11010 Clairemont Mesa Blvd., CA",
+  "locationCity": "11010 Clairemont Mesa Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "11010",
+  "lat": 32.82934140899316,
+  "lon": -117.08737236459864,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

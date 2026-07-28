@@ -1,0 +1,19 @@
+{
+  "slug": "jim-s-farmers-market-255-grant-st",
+  "name": "Jim's Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "255 Grant St., PA",
+  "locationCity": "255 Grant St.",
+  "locationState": "PA",
+  "locationZipcode": "17201",
+  "lat": 39.941195119359094,
+  "lon": -77.6571499563365,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

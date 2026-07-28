@@ -1,0 +1,19 @@
+{
+  "slug": "partybarn-farm-18611-becker-road",
+  "name": "Partybarn Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "18611 Becker Road, TX",
+  "locationCity": "18611 Becker Road",
+  "locationState": "TX",
+  "locationZipcode": "18611",
+  "lat": 30.0455739861566,
+  "lon": -95.7992749827911,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:20.888Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:20.888Z"
+}

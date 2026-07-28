@@ -1,0 +1,19 @@
+{
+  "slug": "the-dallas-farmers-market-25-courthouse-sq",
+  "name": "The Dallas Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25 Courthouse Sq., GA",
+  "locationCity": "25 Courthouse Sq.",
+  "locationState": "GA",
+  "locationZipcode": "30132",
+  "lat": 33.92431600529875,
+  "lon": -84.84160362276539,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.375Z"
+}

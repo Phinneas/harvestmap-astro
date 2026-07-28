@@ -1,0 +1,19 @@
+{
+  "slug": "benner-s-farm-56-gnarled-hollow-road",
+  "name": "Benner's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "56 Gnarled Hollow Road, NY",
+  "locationCity": "56 Gnarled Hollow Road",
+  "locationState": "NY",
+  "locationZipcode": "11733",
+  "lat": 40.9359141955785,
+  "lon": -73.1000062046107,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.618Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.618Z"
+}

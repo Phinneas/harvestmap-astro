@@ -1,0 +1,19 @@
+{
+  "slug": "paterson-farmers-market-449-e-railway-ave",
+  "name": "Paterson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "449 E. Railway Ave., NJ",
+  "locationCity": "449 E. Railway Ave.",
+  "locationState": "NJ",
+  "locationZipcode": "07503",
+  "lat": 40.890851864591234,
+  "lon": -74.14949734158336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

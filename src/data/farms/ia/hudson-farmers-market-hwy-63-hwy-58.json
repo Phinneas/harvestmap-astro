@@ -1,0 +1,19 @@
+{
+  "slug": "hudson-farmers-market-hwy-63-hwy-58",
+  "name": "Hudson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hwy. 63 & Hwy. 58, IA",
+  "locationCity": "Hwy. 63 & Hwy. 58",
+  "locationState": "IA",
+  "locationZipcode": "50643",
+  "lat": 42.39172001946332,
+  "lon": -92.45607997870822,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

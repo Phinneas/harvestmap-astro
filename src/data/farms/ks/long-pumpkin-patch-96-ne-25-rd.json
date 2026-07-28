@@ -1,0 +1,19 @@
+{
+  "slug": "long-pumpkin-patch-96-ne-25-rd",
+  "name": "Long Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "96 NE 25 Rd, KS",
+  "locationCity": "96 NE 25 Rd",
+  "locationState": "KS",
+  "locationZipcode": "67530",
+  "lat": 38.3976590020571,
+  "lon": -98.7569979944997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:26.132Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:26.132Z"
+}

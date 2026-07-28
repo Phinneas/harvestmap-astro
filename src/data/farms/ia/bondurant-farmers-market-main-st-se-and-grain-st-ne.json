@@ -1,0 +1,19 @@
+{
+  "slug": "bondurant-farmers-market-main-st-se-and-grain-st-ne",
+  "name": "Bondurant Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. SE and Grain St. NE, IA",
+  "locationCity": "Main St. SE and Grain St. NE",
+  "locationState": "IA",
+  "locationZipcode": "50035",
+  "lat": 41.699030258482615,
+  "lon": -93.46201737556459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

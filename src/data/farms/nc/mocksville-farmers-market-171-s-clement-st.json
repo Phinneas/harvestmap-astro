@@ -1,0 +1,19 @@
+{
+  "slug": "mocksville-farmers-market-171-s-clement-st",
+  "name": "Mocksville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "171 S. Clement St., NC",
+  "locationCity": "171 S. Clement St.",
+  "locationState": "NC",
+  "locationZipcode": "27028",
+  "lat": 35.893377189684145,
+  "lon": -80.56284307694294,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

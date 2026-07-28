@@ -1,0 +1,19 @@
+{
+  "slug": "lettuce-eat-well-4040-roswell-avenue",
+  "name": "Lettuce Eat Well",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4040 Roswell Avenue, OH",
+  "locationCity": "4040 Roswell Avenue",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 39.1632754,
+  "lon": -84.61693319999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:45.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:45.868Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmbox-la-beverly-hills",
+  "name": "FarmBox LA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Beverly Hills, CA",
+  "locationCity": "Beverly Hills",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 34.0736204,
+  "lon": -118.4003563,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:57.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:57.221Z"
+}

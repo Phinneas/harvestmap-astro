@@ -1,0 +1,19 @@
+{
+  "slug": "barre-farmers-market-7-jones-brother-rd",
+  "name": "Barre Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7 Jones Brother Rd., VT",
+  "locationCity": "7 Jones Brother Rd.",
+  "locationState": "VT",
+  "locationZipcode": "05641",
+  "lat": 44.2116669817882,
+  "lon": -72.52113897936472,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:47.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:47.852Z"
+}

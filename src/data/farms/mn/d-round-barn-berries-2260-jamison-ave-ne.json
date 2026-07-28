@@ -1,0 +1,20 @@
+{
+  "slug": "d-round-barn-berries-2260-jamison-ave-ne",
+  "name": "D Round Barn Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2260 Jamison Ave NE, MN",
+  "locationCity": "2260 Jamison Ave NE",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "lat": 45.1841837,
+  "lon": -93.6916494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:06.491Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:06.491Z",
+  "crops": []
+}

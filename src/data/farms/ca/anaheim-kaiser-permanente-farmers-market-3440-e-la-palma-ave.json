@@ -1,0 +1,19 @@
+{
+  "slug": "anaheim-kaiser-permanente-farmers-market-3440-e-la-palma-ave",
+  "name": "Anaheim Kaiser Permanente Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3440 E. La Palma Ave., CA",
+  "locationCity": "3440 E. La Palma Ave.",
+  "locationState": "CA",
+  "locationZipcode": "92806",
+  "lat": 33.85399423047023,
+  "lon": -117.84593264003831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

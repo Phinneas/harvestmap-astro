@@ -1,0 +1,19 @@
+{
+  "slug": "anderson-city-farmers-market-1-w-12th-st",
+  "name": "Anderson City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 W. 12th St., IN",
+  "locationCity": "1 W. 12th St.",
+  "locationState": "IN",
+  "locationZipcode": "46016",
+  "lat": 40.10410720071817,
+  "lon": -85.6799233173857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "circle-a-farm-2349-jericho-road",
+  "name": "Circle A Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2349 Jericho Road, TN",
+  "locationCity": "2349 Jericho Road",
+  "locationState": "TN",
+  "locationZipcode": "37803",
+  "lat": 35.6457270102788,
+  "lon": -83.9789400268248,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:07.210Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:07.210Z"
+}

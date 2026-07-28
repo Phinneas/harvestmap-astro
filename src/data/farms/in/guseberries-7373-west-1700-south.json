@@ -1,0 +1,19 @@
+{
+  "slug": "guseberries-7373-west-1700-south",
+  "name": "GuseBerries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7373 West 1700 South, IN",
+  "locationCity": "7373 West 1700 South",
+  "locationState": "IN",
+  "locationZipcode": "46390",
+  "lat": 41.3611470029508,
+  "lon": -86.8419890230717,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:01.411Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:01.411Z"
+}

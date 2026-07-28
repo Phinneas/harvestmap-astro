@@ -1,0 +1,19 @@
+{
+  "slug": "capital-farmers-market-2625-state-st",
+  "name": "Capital Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2625 State St., ND",
+  "locationCity": "2625 State St.",
+  "locationState": "ND",
+  "locationZipcode": "58503",
+  "lat": 46.835494985631776,
+  "lon": -100.77276243749928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:33.301Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:33.301Z"
+}

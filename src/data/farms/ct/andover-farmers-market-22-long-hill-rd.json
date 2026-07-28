@@ -1,0 +1,19 @@
+{
+  "slug": "andover-farmers-market-22-long-hill-rd",
+  "name": "Andover Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "22 Long Hill Rd., CT",
+  "locationCity": "22 Long Hill Rd.",
+  "locationState": "CT",
+  "locationZipcode": "06232",
+  "lat": 41.74202728189687,
+  "lon": -72.37325289660713,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

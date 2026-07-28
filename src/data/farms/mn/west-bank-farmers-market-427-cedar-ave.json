@@ -1,0 +1,19 @@
+{
+  "slug": "west-bank-farmers-market-427-cedar-ave",
+  "name": "West Bank Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "427 Cedar Ave., MN",
+  "locationCity": "427 Cedar Ave.",
+  "locationState": "MN",
+  "locationZipcode": "55454",
+  "lat": 44.96954920228752,
+  "lon": -93.24722734077952,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.240Z"
+}

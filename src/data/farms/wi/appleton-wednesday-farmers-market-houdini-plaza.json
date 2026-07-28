@@ -1,0 +1,19 @@
+{
+  "slug": "appleton-wednesday-farmers-market-houdini-plaza",
+  "name": "Appleton Wednesday Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Houdini Plaza, WI",
+  "locationCity": "Houdini Plaza",
+  "locationState": "WI",
+  "locationZipcode": "54911",
+  "lat": 44.26182593038608,
+  "lon": -88.40956063356336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

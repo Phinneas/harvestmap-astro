@@ -1,0 +1,19 @@
+{
+  "slug": "kent-farmers-market-9-south-main-street-route-7-just-south-of-the-traffic-light",
+  "name": "Kent Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9 South Main Street (Route 7) just south of the traffic light, CT",
+  "locationCity": "9 South Main Street (Route 7) just south of the traffic light",
+  "locationState": "CT",
+  "locationZipcode": "",
+  "lat": 41.72385051100448,
+  "lon": -73.47761223532162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

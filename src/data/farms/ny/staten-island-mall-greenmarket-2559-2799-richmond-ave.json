@@ -1,0 +1,19 @@
+{
+  "slug": "staten-island-mall-greenmarket-2559-2799-richmond-ave",
+  "name": "Staten Island Mall Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2559-2799 Richmond Ave., NY",
+  "locationCity": "2559-2799 Richmond Ave.",
+  "locationState": "NY",
+  "locationZipcode": "10314",
+  "lat": 40.583318397738424,
+  "lon": -74.16891445036816,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.520Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.520Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kemmerer-farmers-market-826-s-main-st",
+  "name": "Kemmerer Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "826 S. Main St., WY",
+  "locationCity": "826 S. Main St.",
+  "locationState": "WY",
+  "locationZipcode": "83101",
+  "lat": 41.79465652208584,
+  "lon": -110.53737982357592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:46.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:46.336Z"
+}

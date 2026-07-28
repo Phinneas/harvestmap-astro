@@ -1,0 +1,19 @@
+{
+  "slug": "kirbys-farm-market-9739-west-ridge-road",
+  "name": "Kirbys Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "9739 West Ridge Road, NY",
+  "locationCity": "9739 West Ridge Road",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "lat": 43.251562595018925,
+  "lon": -77.98515070135944,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:09.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:09.131Z"
+}

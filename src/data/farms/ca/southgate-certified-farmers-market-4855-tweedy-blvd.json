@@ -1,0 +1,19 @@
+{
+  "slug": "southgate-certified-farmers-market-4855-tweedy-blvd",
+  "name": "Southgate Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4855 Tweedy Blvd., CA",
+  "locationCity": "4855 Tweedy Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "90820",
+  "lat": 33.94170998313544,
+  "lon": -118.18295999345507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "oroville-farmers-market-1276-main-st",
+  "name": "Oroville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1276 Main St., WA",
+  "locationCity": "1276 Main St.",
+  "locationState": "WA",
+  "locationZipcode": "98844",
+  "lat": 48.93782198654767,
+  "lon": -119.43628634822964,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

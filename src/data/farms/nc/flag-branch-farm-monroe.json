@@ -1,0 +1,19 @@
+{
+  "slug": "flag-branch-farm-monroe",
+  "name": "Flag Branch Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Monroe, NC",
+  "locationCity": "Monroe",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "lat": 34.988821,
+  "lon": -80.55029,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:22.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:22.235Z"
+}

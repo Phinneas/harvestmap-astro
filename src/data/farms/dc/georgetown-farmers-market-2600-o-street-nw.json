@@ -1,0 +1,19 @@
+{
+  "slug": "georgetown-farmers-market-2600-o-street-nw",
+  "name": "Georgetown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2600 O Street NW, DC",
+  "locationCity": "2600 O Street NW",
+  "locationState": "DC",
+  "locationZipcode": "20007",
+  "lat": 38.90855282535065,
+  "lon": -77.05481942945511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

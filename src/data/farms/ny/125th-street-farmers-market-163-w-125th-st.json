@@ -1,0 +1,19 @@
+{
+  "slug": "125th-street-farmers-market-163-w-125th-st",
+  "name": "125th Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "163 W. 125th St., NY",
+  "locationCity": "163 W. 125th St.",
+  "locationState": "NY",
+  "locationZipcode": "10027",
+  "lat": 40.80852468606263,
+  "lon": -73.94724883098498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.519Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.519Z"
+}

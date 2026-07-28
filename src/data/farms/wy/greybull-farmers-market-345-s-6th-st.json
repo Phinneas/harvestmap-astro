@@ -1,0 +1,19 @@
+{
+  "slug": "greybull-farmers-market-345-s-6th-st",
+  "name": "Greybull Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "345 S. 6th St., WY",
+  "locationCity": "345 S. 6th St.",
+  "locationState": "WY",
+  "locationZipcode": "82426",
+  "lat": 44.485114786196995,
+  "lon": -108.05526844839827,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:46.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:46.336Z"
+}

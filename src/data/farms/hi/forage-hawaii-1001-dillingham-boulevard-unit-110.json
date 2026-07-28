@@ -1,0 +1,19 @@
+{
+  "slug": "forage-hawaii-1001-dillingham-boulevard-unit-110",
+  "name": "Forage Hawaii",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1001 Dillingham Boulevard unit 110, HI",
+  "locationCity": "1001 Dillingham Boulevard unit 110",
+  "locationState": "HI",
+  "locationZipcode": "",
+  "lat": 21.3207772,
+  "lon": -157.8715561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:28.256Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:28.256Z"
+}

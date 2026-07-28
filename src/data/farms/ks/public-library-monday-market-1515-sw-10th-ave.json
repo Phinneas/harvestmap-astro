@@ -1,0 +1,19 @@
+{
+  "slug": "public-library-monday-market-1515-sw-10th-ave",
+  "name": "Public Library Monday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1515 SW 10th Ave., KS",
+  "locationCity": "1515 SW 10th Ave.",
+  "locationState": "KS",
+  "locationZipcode": "66604",
+  "lat": 39.0511909765561,
+  "lon": -95.69591995808038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

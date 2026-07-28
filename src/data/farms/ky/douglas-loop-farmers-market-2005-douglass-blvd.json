@@ -1,0 +1,19 @@
+{
+  "slug": "douglas-loop-farmers-market-2005-douglass-blvd",
+  "name": "Douglas Loop Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2005 Douglass Blvd., KY",
+  "locationCity": "2005 Douglass Blvd.",
+  "locationState": "KY",
+  "locationZipcode": "40205",
+  "lat": 38.22477456030929,
+  "lon": -85.69357114944306,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.783Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "samascott-orchards-5-sunset-ave",
+  "name": "Samascott Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5 Sunset Ave, NY",
+  "locationCity": "5 Sunset Ave",
+  "locationState": "NY",
+  "locationZipcode": "12106",
+  "lat": 42.3996019840239,
+  "lon": -73.7034740642195,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.633Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.633Z"
+}

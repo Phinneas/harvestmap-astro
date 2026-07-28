@@ -1,0 +1,19 @@
+{
+  "slug": "wilton-manors-farmers-market-2020-wilton-dr",
+  "name": "Wilton Manors Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2020 Wilton Dr., FL",
+  "locationCity": "2020 Wilton Dr.",
+  "locationState": "FL",
+  "locationZipcode": "33069",
+  "lat": 26.153800979328253,
+  "lon": -80.13991001999933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.375Z"
+}

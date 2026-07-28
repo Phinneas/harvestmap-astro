@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-st-clair-shores-farmers-market-24800-jeffereson",
+  "name": "City of St. Clair Shores Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24800 Jeffereson, MI",
+  "locationCity": "24800 Jeffereson",
+  "locationState": "MI",
+  "locationZipcode": "24800",
+  "lat": 42.6958071,
+  "lon": -82.932268,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.715Z"
+}

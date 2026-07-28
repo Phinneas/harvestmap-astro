@@ -1,0 +1,19 @@
+{
+  "slug": "lowell-area-farmers-market-11840-fulton-street-east",
+  "name": "Lowell Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11840 Fulton Street East, MI",
+  "locationCity": "11840 Fulton Street East",
+  "locationState": "MI",
+  "locationZipcode": "11840",
+  "lat": 42.93052437700871,
+  "lon": -85.37699906211083,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

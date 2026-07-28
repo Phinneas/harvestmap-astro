@@ -1,0 +1,19 @@
+{
+  "slug": "meadow-sweet-apiaries-pioneer-ave",
+  "name": "Meadow Sweet Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Pioneer Ave, PA",
+  "locationCity": "Pioneer Ave",
+  "locationState": "PA",
+  "locationZipcode": "15226",
+  "lat": 40.4024615585935,
+  "lon": -80.0159642552971,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:17.940Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:17.940Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cambridge-farmers-market-tower-park",
+  "name": "Cambridge Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Tower Park, ID",
+  "locationCity": "Tower Park",
+  "locationState": "ID",
+  "locationZipcode": "83610",
+  "lat": 52.34942018770729,
+  "lon": -0.18421857374422634,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "b-r-farms-5280-fairview-road",
+  "name": "B & R Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5280 Fairview Road, CA",
+  "locationCity": "5280 Fairview Road",
+  "locationState": "CA",
+  "locationZipcode": "95023",
+  "lat": 36.8920759888795,
+  "lon": -121.364056030924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.970Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.970Z"
+}

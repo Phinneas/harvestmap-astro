@@ -1,0 +1,19 @@
+{
+  "slug": "pippin-apple-orchard-751-pippin-orchard-road",
+  "name": "Pippin Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "751 Pippin Orchard Road, RI",
+  "locationCity": "751 Pippin Orchard Road",
+  "locationState": "RI",
+  "locationZipcode": "",
+  "lat": 41.7739049819177,
+  "lon": -71.5383090318825,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:34.434Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:34.434Z"
+}

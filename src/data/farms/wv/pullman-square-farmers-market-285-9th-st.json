@@ -1,0 +1,19 @@
+{
+  "slug": "pullman-square-farmers-market-285-9th-st",
+  "name": "Pullman Square Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "285 9th St., WV",
+  "locationCity": "285 9th St.",
+  "locationState": "WV",
+  "locationZipcode": "25701",
+  "lat": 38.42228237705599,
+  "lon": -82.44431404919109,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

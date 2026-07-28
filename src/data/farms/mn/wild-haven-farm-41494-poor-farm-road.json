@@ -1,0 +1,20 @@
+{
+  "slug": "wild-haven-farm-41494-poor-farm-road",
+  "name": "Wild Haven Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "41494 Poor Farm Road, MN",
+  "locationCity": "41494 Poor Farm Road",
+  "locationState": "MN",
+  "locationZipcode": "41494",
+  "lat": 45.5491472,
+  "lon": -92.8377931,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:06.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:06.462Z",
+  "crops": []
+}

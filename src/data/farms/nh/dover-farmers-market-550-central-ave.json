@@ -1,0 +1,19 @@
+{
+  "slug": "dover-farmers-market-550-central-ave",
+  "name": "Dover Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "550 Central Ave., NH",
+  "locationCity": "550 Central Ave.",
+  "locationState": "NH",
+  "locationZipcode": "03820",
+  "lat": 43.201162611609455,
+  "lon": -70.87589203328311,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:29.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:29.123Z"
+}

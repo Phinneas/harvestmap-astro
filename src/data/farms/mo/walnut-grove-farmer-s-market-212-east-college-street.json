@@ -1,0 +1,19 @@
+{
+  "slug": "walnut-grove-farmer-s-market-212-east-college-street",
+  "name": "Walnut Grove Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "212 East College Street, MO",
+  "locationCity": "212 East College Street",
+  "locationState": "MO",
+  "locationZipcode": "",
+  "lat": 37.41216900000001,
+  "lon": -93.54827999999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.137Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.137Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mainstay-farm-1004-w-bethesda-rd",
+  "name": "Mainstay Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1004 W Bethesda Rd, TX",
+  "locationCity": "1004 W Bethesda Rd",
+  "locationState": "TX",
+  "locationZipcode": "76031",
+  "lat": 32.4796749802677,
+  "lon": -97.3050030028936,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:20.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:20.886Z"
+}

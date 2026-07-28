@@ -1,0 +1,19 @@
+{
+  "slug": "paragould-farmers-market-100-w-emerson",
+  "name": "Paragould Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 W. Emerson, AR",
+  "locationCity": "100 W. Emerson",
+  "locationState": "AR",
+  "locationZipcode": "72450",
+  "lat": 36.05557,
+  "lon": -90.486623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:47.393Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:47.393Z"
+}

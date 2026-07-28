@@ -1,0 +1,19 @@
+{
+  "slug": "wilkesboro-open-air-market-102-w-main-st",
+  "name": "Wilkesboro Open Air Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 W. Main St., NC",
+  "locationCity": "102 W. Main St.",
+  "locationState": "NC",
+  "locationZipcode": "28697",
+  "lat": 36.14829523234207,
+  "lon": -81.15201863085373,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

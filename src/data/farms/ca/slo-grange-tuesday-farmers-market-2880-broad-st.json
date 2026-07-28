@@ -1,0 +1,19 @@
+{
+  "slug": "slo-grange-tuesday-farmers-market-2880-broad-st",
+  "name": "SLO Grange/Tuesday Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2880 Broad St., CA",
+  "locationCity": "2880 Broad St.",
+  "locationState": "CA",
+  "locationZipcode": "93401",
+  "lat": 35.26347409343741,
+  "lon": -120.65159398428871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

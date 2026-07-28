@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-mesquite-farmers-market-100-west-front-street",
+  "name": "Downtown Mesquite Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 West Front Street, TX",
+  "locationCity": "100 West Front Street",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "lat": 32.7669373,
+  "lon": -96.59887839999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.063Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.063Z"
+}

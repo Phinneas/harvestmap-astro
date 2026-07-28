@@ -1,0 +1,19 @@
+{
+  "slug": "kanawha-farmers-market-n-main-st",
+  "name": "Kanawha Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N Main St, IA",
+  "locationCity": "N Main St",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 42.9386978,
+  "lon": -93.79321039999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.585Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.585Z"
+}

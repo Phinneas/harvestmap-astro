@@ -1,0 +1,19 @@
+{
+  "slug": "trenton-farmers-market-veterans-park",
+  "name": "Trenton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Veterans Park, GA",
+  "locationCity": "Veterans Park",
+  "locationState": "GA",
+  "locationZipcode": "30752",
+  "lat": 34.959069867510415,
+  "lon": -85.46083506009771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.375Z"
+}

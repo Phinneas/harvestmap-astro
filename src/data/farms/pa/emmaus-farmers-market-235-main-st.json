@@ -1,0 +1,19 @@
+{
+  "slug": "emmaus-farmers-market-235-main-st",
+  "name": "Emmaus Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "235 Main St., PA",
+  "locationCity": "235 Main St.",
+  "locationState": "PA",
+  "locationZipcode": "18049",
+  "lat": 40.5369566609228,
+  "lon": -75.4892107980439,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

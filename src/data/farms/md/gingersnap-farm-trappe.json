@@ -1,0 +1,19 @@
+{
+  "slug": "gingersnap-farm-trappe",
+  "name": "Gingersnap Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Trappe, MD",
+  "locationCity": "Trappe",
+  "locationState": "MD",
+  "locationZipcode": "21673",
+  "lat": 38.658395,
+  "lon": -76.05967,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:29.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:29.069Z"
+}

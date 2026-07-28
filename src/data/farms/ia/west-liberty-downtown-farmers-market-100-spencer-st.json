@@ -1,0 +1,19 @@
+{
+  "slug": "west-liberty-downtown-farmers-market-100-spencer-st",
+  "name": "West Liberty Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Spencer St., IA",
+  "locationCity": "100 Spencer St.",
+  "locationState": "IA",
+  "locationZipcode": "52776",
+  "lat": 41.56745160014249,
+  "lon": -91.26198018585858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

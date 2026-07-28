@@ -1,0 +1,19 @@
+{
+  "slug": "clinton-farmers-market-1-new-st",
+  "name": "Clinton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 New St., NJ",
+  "locationCity": "1 New St.",
+  "locationState": "NJ",
+  "locationZipcode": "08829",
+  "lat": 40.66932767977809,
+  "lon": -74.89170123267074,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

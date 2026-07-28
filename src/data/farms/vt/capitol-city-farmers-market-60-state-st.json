@@ -1,0 +1,19 @@
+{
+  "slug": "capitol-city-farmers-market-60-state-st",
+  "name": "Capitol City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "60 State St., VT",
+  "locationCity": "60 State St.",
+  "locationState": "VT",
+  "locationZipcode": "05602",
+  "lat": 44.260537828724374,
+  "lon": -72.57736970379953,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:47.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:47.852Z"
+}

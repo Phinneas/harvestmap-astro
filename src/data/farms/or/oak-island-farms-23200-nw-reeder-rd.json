@@ -1,0 +1,19 @@
+{
+  "slug": "oak-island-farms-23200-nw-reeder-rd",
+  "name": "Oak Island Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "23200 NW Reeder Rd., OR",
+  "locationCity": "23200 NW Reeder Rd.",
+  "locationState": "OR",
+  "locationZipcode": "23200",
+  "lat": 45.6898399981157,
+  "lon": -122.804578041101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:04.697Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:04.697Z"
+}

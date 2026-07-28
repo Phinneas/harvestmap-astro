@@ -1,0 +1,19 @@
+{
+  "slug": "franklin-farmers-market-15-aiken-ave",
+  "name": "Franklin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 Aiken Ave., NH",
+  "locationCity": "15 Aiken Ave.",
+  "locationState": "NH",
+  "locationZipcode": "03235",
+  "lat": 43.44748892484548,
+  "lon": -71.64234166931959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:29.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:29.123Z"
+}

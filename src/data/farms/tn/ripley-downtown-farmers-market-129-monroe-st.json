@@ -1,0 +1,19 @@
+{
+  "slug": "ripley-downtown-farmers-market-129-monroe-st",
+  "name": "Ripley Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "129 Monroe St., TN",
+  "locationCity": "129 Monroe St.",
+  "locationState": "TN",
+  "locationZipcode": "38063",
+  "lat": 35.74573720588352,
+  "lon": -89.531767053993,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "little-ark-farm-353-north-maple-street",
+  "name": "Little Ark Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "353 North Maple Street, CT",
+  "locationCity": "353 North Maple Street",
+  "locationState": "CT",
+  "locationZipcode": "",
+  "lat": 42.0283926,
+  "lon": -72.5487426,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:23.011Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:23.011Z",
+  "crops": []
+}

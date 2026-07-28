@@ -1,0 +1,19 @@
+{
+  "slug": "arlington-farmers-market-104-north-olympic-avenue",
+  "name": "Arlington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "104 North Olympic Avenue, WA",
+  "locationCity": "104 North Olympic Avenue",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 48.1923209,
+  "lon": -122.1267845,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.196Z"
+}

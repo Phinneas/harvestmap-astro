@@ -1,0 +1,19 @@
+{
+  "slug": "mancelona-farmers-market-121-east-state-street",
+  "name": "Mancelona Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 East State Street, MI",
+  "locationCity": "121 East State Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 44.9024198178949,
+  "lon": -85.05903313297324,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

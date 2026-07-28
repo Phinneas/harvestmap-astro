@@ -1,0 +1,19 @@
+{
+  "slug": "east-granby-farmers-market-24-center-st",
+  "name": "East Granby Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24 Center St., CT",
+  "locationCity": "24 Center St.",
+  "locationState": "CT",
+  "locationZipcode": "06026",
+  "lat": 41.94050100722373,
+  "lon": -72.7299419942917,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

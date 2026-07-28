@@ -1,0 +1,19 @@
+{
+  "slug": "appleland-orchard-135-smith-ave",
+  "name": "Appleland Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "135 Smith Ave, RI",
+  "locationCity": "135 Smith Ave",
+  "locationState": "RI",
+  "locationZipcode": "",
+  "lat": 41.8640539850407,
+  "lon": -71.5748340131598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:34.441Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:34.441Z"
+}

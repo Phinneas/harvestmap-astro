@@ -1,0 +1,19 @@
+{
+  "slug": "colusa-farms-naples",
+  "name": "Colusa Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Naples, FL",
+  "locationCity": "Naples",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "lat": 26.1420358,
+  "lon": -81.79481,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:04.007Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:04.007Z"
+}

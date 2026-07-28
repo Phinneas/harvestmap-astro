@@ -1,0 +1,19 @@
+{
+  "slug": "seven-gables-farm-4487-elder-rd",
+  "name": "Seven Gables Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4487 elder rd, MO",
+  "locationCity": "4487 elder rd",
+  "locationState": "MO",
+  "locationZipcode": "63089",
+  "lat": 38.4946299942651,
+  "lon": -90.8629560334901,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:31.228Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:31.228Z"
+}

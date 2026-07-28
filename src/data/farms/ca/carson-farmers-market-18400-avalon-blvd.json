@@ -1,0 +1,19 @@
+{
+  "slug": "carson-farmers-market-18400-avalon-blvd",
+  "name": "Carson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "18400 Avalon Blvd., CA",
+  "locationCity": "18400 Avalon Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "18400",
+  "lat": 33.866151165449814,
+  "lon": -118.26596655849204,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

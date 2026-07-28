@@ -1,0 +1,19 @@
+{
+  "slug": "valley-meat-supply-1269-w-main",
+  "name": "Valley Meat Supply",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1269 W. Main, ND",
+  "locationCity": "1269 W. Main",
+  "locationState": "ND",
+  "locationZipcode": "",
+  "lat": 46.9189866877444,
+  "lon": -98.0207625282689,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:27.918Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:27.918Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "niles-artisan-alley-market-100-east-main-street",
+  "name": "Niles Artisan Alley Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 East Main Street, MI",
+  "locationCity": "100 East Main Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 41.82990350144567,
+  "lon": -86.25803037323203,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

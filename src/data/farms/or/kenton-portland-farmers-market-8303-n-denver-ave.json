@@ -1,0 +1,19 @@
+{
+  "slug": "kenton-portland-farmers-market-8303-n-denver-ave",
+  "name": "Kenton Portland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8303 N. Denver Ave, OR",
+  "locationCity": "8303 N. Denver Ave",
+  "locationState": "OR",
+  "locationZipcode": "97217",
+  "lat": 45.58317265085411,
+  "lon": -122.686891950651,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.968Z"
+}

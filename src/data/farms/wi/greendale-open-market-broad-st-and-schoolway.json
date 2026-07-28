@@ -1,0 +1,19 @@
+{
+  "slug": "greendale-open-market-broad-st-and-schoolway",
+  "name": "Greendale Open Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Broad St. and Schoolway, WI",
+  "locationCity": "Broad St. and Schoolway",
+  "locationState": "WI",
+  "locationZipcode": "53129",
+  "lat": 42.940599980270775,
+  "lon": -87.996050020678,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

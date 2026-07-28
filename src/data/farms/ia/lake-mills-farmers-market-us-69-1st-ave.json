@@ -1,0 +1,19 @@
+{
+  "slug": "lake-mills-farmers-market-us-69-1st-ave",
+  "name": "Lake Mills Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "US 69 & 1st Ave., IA",
+  "locationCity": "US 69 & 1st Ave.",
+  "locationState": "IA",
+  "locationZipcode": "50450",
+  "lat": 43.42019999093387,
+  "lon": -93.53246998672023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

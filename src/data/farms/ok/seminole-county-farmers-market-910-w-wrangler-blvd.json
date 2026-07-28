@@ -1,0 +1,19 @@
+{
+  "slug": "seminole-county-farmers-market-910-w-wrangler-blvd",
+  "name": "Seminole County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "910 W. Wrangler Blvd., OK",
+  "locationCity": "910 W. Wrangler Blvd.",
+  "locationState": "OK",
+  "locationZipcode": "74868",
+  "lat": 35.24662080900612,
+  "lon": -96.68044867753271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

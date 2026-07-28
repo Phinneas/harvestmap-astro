@@ -1,0 +1,19 @@
+{
+  "slug": "97th-street-greenmarket-125-w-97th-st",
+  "name": "97th Street Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "125 W 97th St, NY",
+  "locationCity": "125 W 97th St",
+  "locationState": "NY",
+  "locationZipcode": "10025",
+  "lat": 40.79430307684874,
+  "lon": -73.96880192033252,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.519Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.519Z"
+}

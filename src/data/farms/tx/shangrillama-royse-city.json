@@ -1,0 +1,19 @@
+{
+  "slug": "shangrillama-royse-city",
+  "name": "ShangriLlama",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Royse City, TX",
+  "locationCity": "Royse City",
+  "locationState": "TX",
+  "locationZipcode": "75189",
+  "lat": 32.9748200000001,
+  "lon": -96.331065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:20.903Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:20.903Z"
+}

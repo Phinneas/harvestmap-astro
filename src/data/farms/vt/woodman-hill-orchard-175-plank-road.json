@@ -1,0 +1,19 @@
+{
+  "slug": "woodman-hill-orchard-175-plank-road",
+  "name": "Woodman Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "175 Plank Road, VT",
+  "locationCity": "175 Plank Road",
+  "locationState": "VT",
+  "locationZipcode": "05491",
+  "lat": 44.163280014956,
+  "lon": -73.2317529587223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:43.298Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:43.298Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "el-dorado-farmers-market-1000-s-main-st",
+  "name": "El Dorado Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 S. Main St., KS",
+  "locationCity": "1000 S. Main St.",
+  "locationState": "KS",
+  "locationZipcode": "67042",
+  "lat": 37.810061977157886,
+  "lon": -96.84977883568226,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

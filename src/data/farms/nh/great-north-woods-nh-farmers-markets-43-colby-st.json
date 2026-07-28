@@ -1,0 +1,19 @@
+{
+  "slug": "great-north-woods-nh-farmers-markets-43-colby-st",
+  "name": "Great North Woods NH Farmers' Markets",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "43 Colby St., NH",
+  "locationCity": "43 Colby St.",
+  "locationState": "NH",
+  "locationZipcode": "03576",
+  "lat": 44.89287008050835,
+  "lon": -71.50166378458098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:29.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:29.123Z"
+}

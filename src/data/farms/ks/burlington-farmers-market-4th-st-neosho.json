@@ -1,0 +1,19 @@
+{
+  "slug": "burlington-farmers-market-4th-st-neosho",
+  "name": "Burlington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4th St. & Neosho, KS",
+  "locationCity": "4th St. & Neosho",
+  "locationState": "KS",
+  "locationZipcode": "66839",
+  "lat": 38.26194999658594,
+  "lon": -95.7439899611026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

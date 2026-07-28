@@ -1,0 +1,19 @@
+{
+  "slug": "mayhill-farmers-market-3510-us-hwy-82",
+  "name": "Mayhill Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3510 US Hwy. 82, NM",
+  "locationCity": "3510 US Hwy. 82",
+  "locationState": "NM",
+  "locationZipcode": "88339",
+  "lat": 32.89308458194902,
+  "lon": -105.47727539435263,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

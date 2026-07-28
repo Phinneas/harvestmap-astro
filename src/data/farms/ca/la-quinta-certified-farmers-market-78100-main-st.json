@@ -1,0 +1,19 @@
+{
+  "slug": "la-quinta-certified-farmers-market-78100-main-st",
+  "name": "La Quinta Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "78100 Main St., CA",
+  "locationCity": "78100 Main St.",
+  "locationState": "CA",
+  "locationZipcode": "78100",
+  "lat": 33.67753414699453,
+  "lon": -116.3023668291564,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fulton-street-farmers-market-1145-fulton-street-east",
+  "name": "Fulton Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1145 Fulton Street East, MI",
+  "locationCity": "1145 Fulton Street East",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.96274732959754,
+  "lon": -85.64036343314065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

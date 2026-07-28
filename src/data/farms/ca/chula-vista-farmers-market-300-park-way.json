@@ -1,0 +1,19 @@
+{
+  "slug": "chula-vista-farmers-market-300-park-way",
+  "name": "Chula Vista Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Park Way, CA",
+  "locationCity": "300 Park Way",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 32.6384227,
+  "lon": -117.0790837,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.737Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.737Z"
+}

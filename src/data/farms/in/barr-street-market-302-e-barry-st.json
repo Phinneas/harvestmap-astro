@@ -1,0 +1,19 @@
+{
+  "slug": "barr-street-market-302-e-barry-st",
+  "name": "Barr Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "302 E. Barry St., IN",
+  "locationCity": "302 E. Barry St.",
+  "locationState": "IN",
+  "locationZipcode": "46802",
+  "lat": 41.07951501434647,
+  "lon": -85.13625496306283,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pegasus-farm-campground-480-arnold-hill-rd",
+  "name": "Pegasus Farm Campground",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "480 Arnold Hill Rd, WV",
+  "locationCity": "480 Arnold Hill Rd",
+  "locationState": "WV",
+  "locationZipcode": "26241",
+  "lat": 38.8835496232715,
+  "lon": -79.8632273912781,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:17.543Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:17.543Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "carlisle-country-market-1446-holly-pike",
+  "name": "Carlisle Country Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1446 Holly Pike, PA",
+  "locationCity": "1446 Holly Pike",
+  "locationState": "PA",
+  "locationZipcode": "17015",
+  "lat": 40.16848189883573,
+  "lon": -77.19366957424718,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

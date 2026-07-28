@@ -1,0 +1,19 @@
+{
+  "slug": "dewberry-farm-2585-dewberry-farm-ln",
+  "name": "Dewberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2585 Dewberry Farm Ln, NC",
+  "locationCity": "2585 Dewberry Farm Ln",
+  "locationState": "NC",
+  "locationZipcode": "27284",
+  "lat": 36.1604467761519,
+  "lon": -80.1044352073709,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.462Z"
+}

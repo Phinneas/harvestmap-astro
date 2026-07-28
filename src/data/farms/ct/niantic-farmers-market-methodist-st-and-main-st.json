@@ -1,0 +1,19 @@
+{
+  "slug": "niantic-farmers-market-methodist-st-and-main-st",
+  "name": "Niantic Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Methodist St. and Main St., CT",
+  "locationCity": "Methodist St. and Main St.",
+  "locationState": "CT",
+  "locationZipcode": "06357",
+  "lat": 41.32304999573299,
+  "lon": -72.19482998000217,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

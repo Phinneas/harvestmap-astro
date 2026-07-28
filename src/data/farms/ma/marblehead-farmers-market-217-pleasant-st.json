@@ -1,0 +1,19 @@
+{
+  "slug": "marblehead-farmers-market-217-pleasant-st",
+  "name": "Marblehead Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "217 Pleasant St., MA",
+  "locationCity": "217 Pleasant St.",
+  "locationState": "MA",
+  "locationZipcode": "01945",
+  "lat": 42.4980099370368,
+  "lon": -70.86031267645707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

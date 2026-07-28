@@ -1,0 +1,19 @@
+{
+  "slug": "candia-vineyards-702-high-street",
+  "name": "Candia Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "702 High Street, NH",
+  "locationCity": "702 High Street",
+  "locationState": "NH",
+  "locationZipcode": "03034",
+  "lat": 43.0708270115176,
+  "lon": -71.3492650125871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:24.572Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:24.572Z"
+}

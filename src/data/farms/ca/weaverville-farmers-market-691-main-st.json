@@ -1,0 +1,19 @@
+{
+  "slug": "weaverville-farmers-market-691-main-st",
+  "name": "Weaverville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "691 Main St., CA",
+  "locationCity": "691 Main St.",
+  "locationState": "CA",
+  "locationZipcode": "96093",
+  "lat": 40.730418279702896,
+  "lon": -122.93963362422937,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

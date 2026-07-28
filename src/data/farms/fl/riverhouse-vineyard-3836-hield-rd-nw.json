@@ -1,0 +1,19 @@
+{
+  "slug": "riverhouse-vineyard-3836-hield-rd-nw",
+  "name": "RiverHouse Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3836 Hield Rd NW, FL",
+  "locationCity": "3836 Hield Rd NW",
+  "locationState": "FL",
+  "locationZipcode": "32907",
+  "lat": 28.0376620069321,
+  "lon": -80.6892430226734,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:56.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:56.493Z"
+}

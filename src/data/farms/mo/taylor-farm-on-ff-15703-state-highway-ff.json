@@ -1,0 +1,19 @@
+{
+  "slug": "taylor-farm-on-ff-15703-state-highway-ff",
+  "name": "Taylor Farm on FF",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15703 State Highway FF, MO",
+  "locationCity": "15703 State Highway FF",
+  "locationState": "MO",
+  "locationZipcode": "15703",
+  "lat": 39.152491,
+  "lon": -92.01907100000001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:33.704Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:33.704Z"
+}

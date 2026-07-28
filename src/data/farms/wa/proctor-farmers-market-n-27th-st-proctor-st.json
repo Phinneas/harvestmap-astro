@@ -1,0 +1,19 @@
+{
+  "slug": "proctor-farmers-market-n-27th-st-proctor-st",
+  "name": "Proctor Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N 27th St. & Proctor St., WA",
+  "locationCity": "N 27th St. & Proctor St.",
+  "locationState": "WA",
+  "locationZipcode": "98407",
+  "lat": 47.271999994885164,
+  "lon": -122.4888900027093,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

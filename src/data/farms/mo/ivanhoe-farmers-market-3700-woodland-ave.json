@@ -1,0 +1,20 @@
+{
+  "slug": "ivanhoe-farmers-market-3700-woodland-ave",
+  "name": "Ivanhoe Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3700 Woodland Ave., MO",
+  "locationCity": "3700 Woodland Ave.",
+  "locationState": "MO",
+  "locationZipcode": "64109",
+  "lat": 39.059223143200086,
+  "lon": -94.56265749821503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z",
+  "crops": []
+}

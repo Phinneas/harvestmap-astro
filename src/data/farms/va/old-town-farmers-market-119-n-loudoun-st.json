@@ -1,0 +1,19 @@
+{
+  "slug": "old-town-farmers-market-119-n-loudoun-st",
+  "name": "Old Town Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "119 N. Loudoun St., VA",
+  "locationCity": "119 N. Loudoun St.",
+  "locationState": "VA",
+  "locationZipcode": "22601",
+  "lat": 39.18555433403093,
+  "lon": -78.16507905454478,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

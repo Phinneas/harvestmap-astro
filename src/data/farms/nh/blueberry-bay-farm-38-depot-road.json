@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-bay-farm-38-depot-road",
+  "name": "Blueberry Bay Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "38 Depot Road, NH",
+  "locationCity": "38 Depot Road",
+  "locationState": "NH",
+  "locationZipcode": "03885",
+  "lat": 43.0477859978787,
+  "lon": -70.8945900159397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:24.565Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:24.565Z"
+}

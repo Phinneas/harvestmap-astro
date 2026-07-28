@@ -1,0 +1,19 @@
+{
+  "slug": "allendale-farmers-market-500-w-crescent-ave",
+  "name": "Allendale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 W. Crescent Ave., NJ",
+  "locationCity": "500 W. Crescent Ave.",
+  "locationState": "NJ",
+  "locationZipcode": "07401",
+  "lat": 41.02886754169639,
+  "lon": -74.13831543974226,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

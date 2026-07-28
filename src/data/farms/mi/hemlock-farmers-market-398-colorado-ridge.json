@@ -1,0 +1,19 @@
+{
+  "slug": "hemlock-farmers-market-398-colorado-ridge",
+  "name": "Hemlock Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "398 Colorado Ridge, MI",
+  "locationCity": "398 Colorado Ridge",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.41697130649197,
+  "lon": -84.22330532139938,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

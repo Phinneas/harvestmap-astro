@@ -1,0 +1,20 @@
+{
+  "slug": "chewelah-farmers-market-700-n-park-st",
+  "name": "Chewelah Farmers Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "700 N Park St, WA",
+  "locationCity": "700 N Park St",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 48.2818481,
+  "lon": -117.7149887,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:08.071Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:08.071Z",
+  "crops": []
+}

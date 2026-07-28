@@ -1,0 +1,19 @@
+{
+  "slug": "norman-farmers-market-615-e-robinson-st",
+  "name": "Norman Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "615 E Robinson St, OK",
+  "locationCity": "615 E Robinson St",
+  "locationState": "OK",
+  "locationZipcode": "73071",
+  "lat": 35.23285517492661,
+  "lon": -97.43793770980335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

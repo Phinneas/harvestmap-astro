@@ -1,0 +1,19 @@
+{
+  "slug": "happy-farmers-market-keyser",
+  "name": "Happy Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Keyser, WV",
+  "locationCity": "Keyser",
+  "locationState": "WV",
+  "locationZipcode": "",
+  "lat": 39.4402422,
+  "lon": -78.9947996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.795Z"
+}

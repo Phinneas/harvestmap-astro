@@ -1,0 +1,19 @@
+{
+  "slug": "stone-ridge-orchard-3012-rt-213",
+  "name": "Stone Ridge Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3012 Rt 213, NY",
+  "locationCity": "3012 Rt 213",
+  "locationState": "NY",
+  "locationZipcode": "12484",
+  "lat": 41.8386669186124,
+  "lon": -74.1485309107921,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.634Z"
+}

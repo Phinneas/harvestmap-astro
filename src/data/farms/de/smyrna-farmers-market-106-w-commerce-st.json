@@ -1,0 +1,19 @@
+{
+  "slug": "smyrna-farmers-market-106-w-commerce-st",
+  "name": "Smyrna Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 W. Commerce St., DE",
+  "locationCity": "106 W. Commerce St.",
+  "locationState": "DE",
+  "locationZipcode": "19977",
+  "lat": 39.29909983833365,
+  "lon": -75.60858466721314,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:37.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:37.081Z"
+}

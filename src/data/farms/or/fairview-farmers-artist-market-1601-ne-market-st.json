@@ -1,0 +1,19 @@
+{
+  "slug": "fairview-farmers-artist-market-1601-ne-market-st",
+  "name": "Fairview Farmers' & Artist Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1601 NE Market St., OR",
+  "locationCity": "1601 NE Market St.",
+  "locationState": "OR",
+  "locationZipcode": "97024",
+  "lat": 45.53266750128299,
+  "lon": -122.43971256891959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.967Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.967Z"
+}

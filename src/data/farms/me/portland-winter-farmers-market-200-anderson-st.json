@@ -1,0 +1,19 @@
+{
+  "slug": "portland-winter-farmers-market-200-anderson-st",
+  "name": "Portland Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Anderson St., ME",
+  "locationCity": "200 Anderson St.",
+  "locationState": "ME",
+  "locationZipcode": "04101",
+  "lat": 43.669127320577246,
+  "lon": -70.25579432710163,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.160Z"
+}

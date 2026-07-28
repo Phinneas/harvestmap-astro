@@ -1,0 +1,19 @@
+{
+  "slug": "wellington-square-farmers-market-4394-w-washington-blvd",
+  "name": "Wellington Square Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4394 W. Washington Blvd., CA",
+  "locationCity": "4394 W. Washington Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "90016",
+  "lat": 34.03985018184875,
+  "lon": -118.33529127045597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "alpaca-tour-scio",
+  "name": "Alpaca Tour",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Scio, OR",
+  "locationCity": "Scio",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "lat": 44.70343,
+  "lon": -122.8488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:04.710Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:04.710Z"
+}

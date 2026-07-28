@@ -1,0 +1,19 @@
+{
+  "slug": "cherry-creek-fresh-market-1st-ave-university-blvd",
+  "name": "Cherry Creek Fresh Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st Ave. & University Blvd., CO",
+  "locationCity": "1st Ave. & University Blvd.",
+  "locationState": "CO",
+  "locationZipcode": "80308",
+  "lat": 39.71817998668095,
+  "lon": -104.95906998634295,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

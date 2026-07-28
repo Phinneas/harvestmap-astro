@@ -1,0 +1,19 @@
+{
+  "slug": "cider-mill-farms-haynes-canyon",
+  "name": "Cider Mill Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Haynes Canyon, NM",
+  "locationCity": "Haynes Canyon",
+  "locationState": "NM",
+  "locationZipcode": "",
+  "lat": 32.942373733978485,
+  "lon": -105.80697228105393,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:56.884Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:56.884Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sweet-earth-farm-decorah",
+  "name": "Sweet Earth Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Decorah, IA",
+  "locationCity": "Decorah",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 43.3033056,
+  "lon": -91.7857092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:16.396Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:16.396Z"
+}

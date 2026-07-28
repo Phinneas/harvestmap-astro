@@ -1,0 +1,19 @@
+{
+  "slug": "hidalgo-farmers-market-and-mercado-701-n-main-st",
+  "name": "Hidalgo Farmers' Market and Mercado",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "701 N. Main St., NM",
+  "locationCity": "701 N. Main St.",
+  "locationState": "NM",
+  "locationZipcode": "88045",
+  "lat": 32.35831346353758,
+  "lon": -108.70261709294368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

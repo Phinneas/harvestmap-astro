@@ -1,0 +1,19 @@
+{
+  "slug": "hingham-farmers-market-95-station-street",
+  "name": "Hingham Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "95 Station Street, MA",
+  "locationCity": "95 Station Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.2435162,
+  "lon": -70.8850649,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.809Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-indiana-farmers-market-2445-clarksburg-rd",
+  "name": "Downtown Indiana Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2445 Clarksburg Rd., PA",
+  "locationCity": "2445 Clarksburg Rd.",
+  "locationState": "PA",
+  "locationZipcode": "15725",
+  "lat": 40.5076856851453,
+  "lon": -79.35442556241503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

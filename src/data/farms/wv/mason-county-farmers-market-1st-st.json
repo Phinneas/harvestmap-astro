@@ -1,0 +1,19 @@
+{
+  "slug": "mason-county-farmers-market-1st-st",
+  "name": "Mason County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st St., WV",
+  "locationCity": "1st St.",
+  "locationState": "WV",
+  "locationZipcode": "25550",
+  "lat": 38.83154941939624,
+  "lon": -82.12761109502337,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

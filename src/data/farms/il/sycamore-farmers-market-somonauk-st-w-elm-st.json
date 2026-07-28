@@ -1,0 +1,19 @@
+{
+  "slug": "sycamore-farmers-market-somonauk-st-w-elm-st",
+  "name": "Sycamore Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Somonauk St. & W. Elm St., IL",
+  "locationCity": "Somonauk St. & W. Elm St.",
+  "locationState": "IL",
+  "locationZipcode": "60178",
+  "lat": 41.98768999054454,
+  "lon": -88.68709996747184,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

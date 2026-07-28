@@ -1,0 +1,19 @@
+{
+  "slug": "cleveland-farmers-market-101-e-pawnee",
+  "name": "Cleveland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 E. Pawnee, OK",
+  "locationCity": "101 E. Pawnee",
+  "locationState": "OK",
+  "locationZipcode": "74020",
+  "lat": 36.31008968971088,
+  "lon": -96.46325574973578,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

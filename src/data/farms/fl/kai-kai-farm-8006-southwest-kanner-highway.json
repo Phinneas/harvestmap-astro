@@ -1,0 +1,20 @@
+{
+  "slug": "kai-kai-farm-8006-southwest-kanner-highway",
+  "name": "Kai-Kai Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8006 Southwest Kanner Highway, FL",
+  "locationCity": "8006 Southwest Kanner Highway",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "lat": 27.0425139,
+  "lon": -80.3621313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:56.485Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:56.485Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "walker-square-farmers-market-1021-s-9th-st",
+  "name": "Walker Square Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1021 S. 9th St., WI",
+  "locationCity": "1021 S. 9th St.",
+  "locationState": "WI",
+  "locationZipcode": "53204",
+  "lat": 43.020868969673906,
+  "lon": -87.92254365470073,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kent-farmers-market-426-w-smith-st",
+  "name": "Kent Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "426 W. Smith St., WA",
+  "locationCity": "426 W. Smith St.",
+  "locationState": "WA",
+  "locationZipcode": "98032",
+  "lat": 47.38305518775932,
+  "lon": -122.23639756885073,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lewis-clark-farmers-market-2576-8th-st-sw",
+  "name": "Lewis & Clark Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2576 8th St. SW, ND",
+  "locationCity": "2576 8th St. SW",
+  "locationState": "ND",
+  "locationZipcode": "58577",
+  "lat": 47.302010353711324,
+  "lon": -101.0436077028854,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:33.301Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:33.301Z"
+}

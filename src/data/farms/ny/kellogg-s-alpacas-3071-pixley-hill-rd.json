@@ -1,0 +1,19 @@
+{
+  "slug": "kellogg-s-alpacas-3071-pixley-hill-rd",
+  "name": "Kellogg's Alpacas",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3071 Pixley Hill Rd, NY",
+  "locationCity": "3071 Pixley Hill Rd",
+  "locationState": "NY",
+  "locationZipcode": "14880",
+  "lat": 42.1846567523594,
+  "lon": -77.9029802223216,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.647Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.647Z"
+}

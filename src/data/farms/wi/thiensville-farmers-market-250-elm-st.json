@@ -1,0 +1,19 @@
+{
+  "slug": "thiensville-farmers-market-250-elm-st",
+  "name": "Thiensville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "250 Elm St., WI",
+  "locationCity": "250 Elm St.",
+  "locationState": "WI",
+  "locationZipcode": "53092",
+  "lat": 43.23215735539192,
+  "lon": -87.9794041454229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

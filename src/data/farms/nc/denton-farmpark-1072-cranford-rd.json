@@ -1,0 +1,19 @@
+{
+  "slug": "denton-farmpark-1072-cranford-rd",
+  "name": "Denton FarmPark",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1072 Cranford Rd, NC",
+  "locationCity": "1072 Cranford Rd",
+  "locationState": "NC",
+  "locationZipcode": "27239",
+  "lat": 35.5886628877319,
+  "lon": -80.0691649969989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.470Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.470Z"
+}

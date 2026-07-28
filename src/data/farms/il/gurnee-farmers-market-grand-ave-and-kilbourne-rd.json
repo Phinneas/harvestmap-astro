@@ -1,0 +1,19 @@
+{
+  "slug": "gurnee-farmers-market-grand-ave-and-kilbourne-rd",
+  "name": "Gurnee Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Grand Ave. and Kilbourne Rd., IL",
+  "locationCity": "Grand Ave. and Kilbourne Rd.",
+  "locationState": "IL",
+  "locationZipcode": "60031",
+  "lat": 42.3733992648617,
+  "lon": -87.92459413371674,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

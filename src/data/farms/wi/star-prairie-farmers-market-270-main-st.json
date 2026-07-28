@@ -1,0 +1,19 @@
+{
+  "slug": "star-prairie-farmers-market-270-main-st",
+  "name": "Star Prairie Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "270 Main St., WI",
+  "locationCity": "270 Main St.",
+  "locationState": "WI",
+  "locationZipcode": "54026",
+  "lat": 45.19660299198593,
+  "lon": -92.53099435670147,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

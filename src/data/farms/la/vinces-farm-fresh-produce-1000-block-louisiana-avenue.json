@@ -1,0 +1,19 @@
+{
+  "slug": "vinces-farm-fresh-produce-1000-block-louisiana-avenue",
+  "name": "Vinces Farm Fresh Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1000 Block Louisiana Avenue, LA",
+  "locationCity": "1000 Block Louisiana Avenue",
+  "locationState": "LA",
+  "locationZipcode": "",
+  "lat": 30.790823959182404,
+  "lon": -89.84824497245636,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:10.182Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:10.182Z"
+}

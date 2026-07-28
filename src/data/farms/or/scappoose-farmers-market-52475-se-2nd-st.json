@@ -1,0 +1,19 @@
+{
+  "slug": "scappoose-farmers-market-52475-se-2nd-st",
+  "name": "Scappoose Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "52475 SE 2nd St, OR",
+  "locationCity": "52475 SE 2nd St",
+  "locationState": "OR",
+  "locationZipcode": "52475",
+  "lat": 45.757173387077714,
+  "lon": -122.8764036087981,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.968Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "old-capistrano-certified-farmers-market-yorba-st-and-camino-capistrano",
+  "name": "Old Capistrano Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Yorba St. and Camino Capistrano, CA",
+  "locationCity": "Yorba St. and Camino Capistrano",
+  "locationState": "CA",
+  "locationZipcode": "92675",
+  "lat": 33.500545000890526,
+  "lon": -117.66219498946434,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

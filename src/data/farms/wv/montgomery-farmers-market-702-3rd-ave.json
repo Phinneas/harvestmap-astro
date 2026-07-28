@@ -1,0 +1,19 @@
+{
+  "slug": "montgomery-farmers-market-702-3rd-ave",
+  "name": "Montgomery Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "702 3rd Ave., WV",
+  "locationCity": "702 3rd Ave.",
+  "locationState": "WV",
+  "locationZipcode": "25136",
+  "lat": 38.18069591128126,
+  "lon": -81.32842061651752,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

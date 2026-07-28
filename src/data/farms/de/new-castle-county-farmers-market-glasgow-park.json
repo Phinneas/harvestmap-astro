@@ -1,0 +1,19 @@
+{
+  "slug": "new-castle-county-farmers-market-glasgow-park",
+  "name": "New Castle County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Glasgow Park, DE",
+  "locationCity": "Glasgow Park",
+  "locationState": "DE",
+  "locationZipcode": "19702",
+  "lat": 39.59933395760782,
+  "lon": -75.74305414077514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:37.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:37.081Z"
+}

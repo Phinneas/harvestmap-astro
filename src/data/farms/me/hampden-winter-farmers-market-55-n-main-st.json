@@ -1,0 +1,19 @@
+{
+  "slug": "hampden-winter-farmers-market-55-n-main-st",
+  "name": "Hampden Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "55 N. Main St., ME",
+  "locationCity": "55 N. Main St.",
+  "locationState": "ME",
+  "locationZipcode": "04444",
+  "lat": 44.759595482916076,
+  "lon": -68.83440781154447,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.160Z"
+}

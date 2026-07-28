@@ -1,0 +1,19 @@
+{
+  "slug": "sauchuk-farm-234-center-street",
+  "name": "Sauchuk Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "234 Center Street, MA",
+  "locationCity": "234 Center Street",
+  "locationState": "MA",
+  "locationZipcode": "02367",
+  "lat": 41.9662740981383,
+  "lon": -70.8413834112909,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.339Z"
+}

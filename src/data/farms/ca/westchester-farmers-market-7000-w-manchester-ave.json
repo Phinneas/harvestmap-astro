@@ -1,0 +1,19 @@
+{
+  "slug": "westchester-farmers-market-7000-w-manchester-ave",
+  "name": "Westchester Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7000 W. Manchester Ave., CA",
+  "locationCity": "7000 W. Manchester Ave.",
+  "locationState": "CA",
+  "locationZipcode": "90045",
+  "lat": 33.95974524347084,
+  "lon": -118.41385591783138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

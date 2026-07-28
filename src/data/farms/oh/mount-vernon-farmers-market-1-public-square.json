@@ -1,0 +1,19 @@
+{
+  "slug": "mount-vernon-farmers-market-1-public-square",
+  "name": "Mount Vernon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Public Square, OH",
+  "locationCity": "1 Public Square",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 40.3934223,
+  "lon": -82.48451899999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:45.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:45.868Z"
+}

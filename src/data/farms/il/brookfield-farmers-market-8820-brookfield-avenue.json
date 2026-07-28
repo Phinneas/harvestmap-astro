@@ -1,0 +1,19 @@
+{
+  "slug": "brookfield-farmers-market-8820-brookfield-avenue",
+  "name": "Brookfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8820 Brookfield Avenue, IL",
+  "locationCity": "8820 Brookfield Avenue",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 41.8234758,
+  "lon": -87.84113909999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.459Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.459Z"
+}

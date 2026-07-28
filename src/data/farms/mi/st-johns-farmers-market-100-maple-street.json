@@ -1,0 +1,19 @@
+{
+  "slug": "st-johns-farmers-market-100-maple-street",
+  "name": "St. Johns Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Maple Street, MI",
+  "locationCity": "100 Maple Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.00132916035333,
+  "lon": -84.55910154128078,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

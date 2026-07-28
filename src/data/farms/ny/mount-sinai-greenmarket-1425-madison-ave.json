@@ -1,0 +1,19 @@
+{
+  "slug": "mount-sinai-greenmarket-1425-madison-ave",
+  "name": "Mount Sinai Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1425 Madison Ave, NY",
+  "locationCity": "1425 Madison Ave",
+  "locationState": "NY",
+  "locationZipcode": "10029",
+  "lat": 40.78858315254098,
+  "lon": -73.95316325619548,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.520Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.520Z"
+}

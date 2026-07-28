@@ -1,0 +1,19 @@
+{
+  "slug": "de-pere-farmers-market-144-n-wisconsin-st",
+  "name": "De Pere Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "144 N. Wisconsin St., WI",
+  "locationCity": "144 N. Wisconsin St.",
+  "locationState": "WI",
+  "locationZipcode": "54115",
+  "lat": 44.44976499977045,
+  "lon": -88.05840098674335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

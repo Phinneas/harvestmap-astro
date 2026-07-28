@@ -1,0 +1,19 @@
+{
+  "slug": "lookout-farmers-market-3917-st-elmo-ave",
+  "name": "Lookout Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3917 St. Elmo Ave., TN",
+  "locationCity": "3917 St. Elmo Ave.",
+  "locationState": "TN",
+  "locationZipcode": "37409",
+  "lat": 35.009997942195874,
+  "lon": -85.32837423573774,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

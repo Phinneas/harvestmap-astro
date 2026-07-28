@@ -1,0 +1,19 @@
+{
+  "slug": "alpena-farmers-market-1302-south-state-avenue",
+  "name": "Alpena Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1302 South State Avenue, MI",
+  "locationCity": "1302 South State Avenue",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 45.047749529656734,
+  "lon": -83.44740724725712,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

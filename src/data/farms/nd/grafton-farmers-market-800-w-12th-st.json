@@ -1,0 +1,19 @@
+{
+  "slug": "grafton-farmers-market-800-w-12th-st",
+  "name": "Grafton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "800 W. 12th St., ND",
+  "locationCity": "800 W. 12th St.",
+  "locationState": "ND",
+  "locationZipcode": "58237",
+  "lat": 48.412519555829356,
+  "lon": -97.42337006199453,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:33.301Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:33.301Z"
+}

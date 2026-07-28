@@ -1,0 +1,19 @@
+{
+  "slug": "riversong-farm-16384-donnelly-road",
+  "name": "Riversong Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16384 Donnelly Road, WA",
+  "locationCity": "16384 Donnelly Road",
+  "locationState": "WA",
+  "locationZipcode": "16384",
+  "lat": 48.4352120191023,
+  "lon": -122.392288987708,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.229Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.229Z"
+}

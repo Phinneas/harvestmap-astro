@@ -1,0 +1,19 @@
+{
+  "slug": "rock-county-farmers-market-5013-hwy-11-w",
+  "name": "Rock County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5013 Hwy. 11 W., WI",
+  "locationCity": "5013 Hwy. 11 W.",
+  "locationState": "WI",
+  "locationZipcode": "53548",
+  "lat": 42.67802717243938,
+  "lon": -89.09891540073225,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

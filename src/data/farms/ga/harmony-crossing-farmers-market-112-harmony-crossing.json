@@ -1,0 +1,19 @@
+{
+  "slug": "harmony-crossing-farmers-market-112-harmony-crossing",
+  "name": "Harmony Crossing Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 Harmony Crossing, GA",
+  "locationCity": "112 Harmony Crossing",
+  "locationState": "GA",
+  "locationZipcode": "31024",
+  "lat": 33.44070677689639,
+  "lon": -83.34219671070495,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.374Z"
+}

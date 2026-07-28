@@ -1,0 +1,19 @@
+{
+  "slug": "sakonnet-green-market-162-west-main-road",
+  "name": "Sakonnet Green Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "162 West Main Road, RI",
+  "locationCity": "162 West Main Road",
+  "locationState": "RI",
+  "locationZipcode": "",
+  "lat": 41.5314632,
+  "lon": -71.1894566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:38.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:38.805Z"
+}

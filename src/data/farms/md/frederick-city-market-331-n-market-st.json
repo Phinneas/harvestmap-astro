@@ -1,0 +1,19 @@
+{
+  "slug": "frederick-city-market-331-n-market-st",
+  "name": "Frederick City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "331 N. Market St., MD",
+  "locationCity": "331 N. Market St.",
+  "locationState": "MD",
+  "locationZipcode": "21701",
+  "lat": 39.41826514042011,
+  "lon": -77.41044793895344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.944Z"
+}

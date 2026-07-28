@@ -1,0 +1,19 @@
+{
+  "slug": "v2farm-20613-se-436th-st",
+  "name": "V2Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "20613 SE 436th St, WA",
+  "locationCity": "20613 SE 436th St",
+  "locationState": "WA",
+  "locationZipcode": "20613",
+  "lat": 47.209797011320376,
+  "lon": -122.06655196941763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:12.648Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:12.648Z"
+}

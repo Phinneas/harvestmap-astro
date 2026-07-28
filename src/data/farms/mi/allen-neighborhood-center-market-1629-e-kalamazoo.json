@@ -1,0 +1,19 @@
+{
+  "slug": "allen-neighborhood-center-market-1629-e-kalamazoo",
+  "name": "Allen Neighborhood Center Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1629 E. Kalamazoo, MI",
+  "locationCity": "1629 E. Kalamazoo",
+  "locationState": "MI",
+  "locationZipcode": "48912",
+  "lat": 42.73000959985111,
+  "lon": -84.5268939624216,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

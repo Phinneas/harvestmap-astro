@@ -1,0 +1,19 @@
+{
+  "slug": "danbury-city-center-farmers-market-kennedy-park",
+  "name": "Danbury City Center Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Kennedy Park, CT",
+  "locationCity": "Kennedy Park",
+  "locationState": "CT",
+  "locationZipcode": "06810",
+  "lat": 41.39661730392874,
+  "lon": -73.45916787003071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

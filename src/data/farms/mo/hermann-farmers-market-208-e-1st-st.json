@@ -1,0 +1,19 @@
+{
+  "slug": "hermann-farmers-market-208-e-1st-st",
+  "name": "Hermann Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "208 E. 1st St., MO",
+  "locationCity": "208 E. 1st St.",
+  "locationState": "MO",
+  "locationZipcode": "65041",
+  "lat": 38.70682610620702,
+  "lon": -91.43453977931823,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

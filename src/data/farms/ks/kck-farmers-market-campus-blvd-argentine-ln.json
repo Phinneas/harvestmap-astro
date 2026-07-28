@@ -1,0 +1,19 @@
+{
+  "slug": "kck-farmers-market-campus-blvd-argentine-ln",
+  "name": "KCK Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Campus Blvd. & Argentine Ln., KS",
+  "locationCity": "Campus Blvd. & Argentine Ln.",
+  "locationState": "KS",
+  "locationZipcode": "66112",
+  "lat": 39.121610014290354,
+  "lon": -94.75023001187958,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

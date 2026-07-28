@@ -1,0 +1,19 @@
+{
+  "slug": "spring-valley-farmers-market-w2555-state-rd-29",
+  "name": "Spring Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "W2555 State Rd. 29, WI",
+  "locationCity": "W2555 State Rd. 29",
+  "locationState": "WI",
+  "locationZipcode": "54767",
+  "lat": 44.830705694615055,
+  "lon": -92.26369896367915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "greenfield-farmers-market-103-w-main-st",
+  "name": "Greenfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "103 W. Main St., IN",
+  "locationCity": "103 W. Main St.",
+  "locationState": "IN",
+  "locationZipcode": "46140",
+  "lat": 39.785161951323005,
+  "lon": -85.77044380516872,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

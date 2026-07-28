@@ -1,0 +1,19 @@
+{
+  "slug": "beet-generation-farm-sebastopol",
+  "name": "Beet Generation Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Sebastopol, CA",
+  "locationCity": "Sebastopol",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 38.4021359,
+  "lon": -122.8238806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:57.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:57.223Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "mossgrove-mushrooms",
+  "name": "Mossgrove Mushrooms",
+  "source": "editorial",
+  "directory": "editorial",
+  "location": "Olympia, WA",
+  "locationCity": "Olympia",
+  "locationState": "WA",
+  "locationZipcode": "98501",
+  "tagline": "Forest-foraged chanterelles and shaded laying yards of shiitake logs.",
+  "region": "Foraged & cultivated fungi",
+  "image": "https://images.unsplash.com/photo-1627264593175-96cedf3466c5?q=75&w=1400&auto=format&fit=crop",
+  "imageAlt": "Golden chanterelle mushrooms",
+  "seasons": ["autumn", "winter", "year"],
+  "peak": "autumn",
+  "produce": ["Chanterelles", "Shiitake", "Lion’s mane", "Oyster"],
+  "inSeasonNow": false,
+  "established": 2015,
+  "stand": "Market stall Sat; pre-order anytime",
+  "practices": ["Wild-foraged & cultivated", "Permit-foraged", "Compost-grown substrate"],
+  "description": [
+    "Half of Mossgrove’s harvest is cultivated under cedar shade on inoculated logs; the other half is foraged, by permit, from the wet coastal forest after the first autumn rains.",
+    "Chanterelle season is the headline act — late September through the first hard frost — but the indoor laying yards mean fresh oyster and lion’s mane are available the whole year through."
+  ],
+  "calendar": [
+    { "name": "Oyster & Lion’s mane", "months": "Year-round", "season": "year" },
+    { "name": "Shiitake", "months": "Spring & Autumn", "season": "autumn" },
+    { "name": "Chanterelles", "months": "Sep – Dec", "season": "autumn" },
+    { "name": "Winter hedgehogs", "months": "Dec – Feb", "season": "winter" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sunnyside-farmers-market-121-sunnyside-ave",
+  "name": "Sunnyside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 Sunnyside Ave., WA",
+  "locationCity": "121 Sunnyside Ave.",
+  "locationState": "WA",
+  "locationZipcode": "98932",
+  "lat": 46.344104998905266,
+  "lon": -120.1945809648347,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.192Z"
+}

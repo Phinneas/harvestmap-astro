@@ -1,0 +1,19 @@
+{
+  "slug": "new-eastern-market-201-memory-ln",
+  "name": "New Eastern Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 Memory Ln., PA",
+  "locationCity": "201 Memory Ln.",
+  "locationState": "PA",
+  "locationZipcode": "17402",
+  "lat": 39.976534872194634,
+  "lon": -76.68067527253285,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

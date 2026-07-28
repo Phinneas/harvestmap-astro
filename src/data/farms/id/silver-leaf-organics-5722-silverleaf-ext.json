@@ -1,0 +1,19 @@
+{
+  "slug": "silver-leaf-organics-5722-silverleaf-ext",
+  "name": "Silver Leaf Organics",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5722 Silverleaf Ext., ID",
+  "locationCity": "5722 Silverleaf Ext.",
+  "locationState": "ID",
+  "locationZipcode": "83617",
+  "lat": 43.9479329967629,
+  "lon": -116.666083036301,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:36.740Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:36.740Z"
+}

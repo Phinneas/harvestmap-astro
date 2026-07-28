@@ -1,0 +1,19 @@
+{
+  "slug": "west-anaheim-farmers-market-3100-w-orange-ave",
+  "name": "West Anaheim Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3100 W. Orange Ave., CA",
+  "locationCity": "3100 W. Orange Ave.",
+  "locationState": "CA",
+  "locationZipcode": "92804",
+  "lat": 33.82470662469826,
+  "lon": -117.99690812648977,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

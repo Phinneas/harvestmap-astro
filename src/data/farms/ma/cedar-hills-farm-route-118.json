@@ -1,0 +1,19 @@
+{
+  "slug": "cedar-hills-farm-route-118",
+  "name": "Cedar Hills Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 118, MA",
+  "locationCity": "Route 118",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 41.857401939508,
+  "lon": -71.238506176969,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.346Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.346Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "schartner-farms-wwest-side-road",
+  "name": "Schartner Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "WWest Side Road, NH",
+  "locationCity": "WWest Side Road",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "lat": 44.0385755165205,
+  "lon": -71.1422122833517,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:24.560Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:24.560Z"
+}

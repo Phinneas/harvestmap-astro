@@ -1,0 +1,19 @@
+{
+  "slug": "gallup-farmers-market-221-coal-ave",
+  "name": "Gallup Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "221 Coal Ave., NM",
+  "locationCity": "221 Coal Ave.",
+  "locationState": "NM",
+  "locationZipcode": "87301",
+  "lat": 35.527146212628125,
+  "lon": -108.74282694679738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

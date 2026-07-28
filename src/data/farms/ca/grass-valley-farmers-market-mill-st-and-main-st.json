@@ -1,0 +1,19 @@
+{
+  "slug": "grass-valley-farmers-market-mill-st-and-main-st",
+  "name": "Grass Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Mill St. and Main St., CA",
+  "locationCity": "Mill St. and Main St.",
+  "locationState": "CA",
+  "locationZipcode": "95945",
+  "lat": 39.21910001394298,
+  "lon": -121.0629700222346,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

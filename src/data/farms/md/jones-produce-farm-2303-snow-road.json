@@ -1,0 +1,19 @@
+{
+  "slug": "jones-produce-farm-2303-snow-road",
+  "name": "Jones Produce Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2303 Snow Road, MD",
+  "locationCity": "2303 Snow Road",
+  "locationState": "MD",
+  "locationZipcode": "",
+  "lat": 39.4495800134957,
+  "lon": -76.3059039582992,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:29.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:29.083Z"
+}

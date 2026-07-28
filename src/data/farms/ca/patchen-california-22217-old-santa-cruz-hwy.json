@@ -1,0 +1,19 @@
+{
+  "slug": "patchen-california-22217-old-santa-cruz-hwy",
+  "name": "Patchen California",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "22217 Old Santa Cruz Hwy, CA",
+  "locationCity": "22217 Old Santa Cruz Hwy",
+  "locationState": "CA",
+  "locationZipcode": "22217",
+  "lat": 37.1480899896231,
+  "lon": -121.975091994729,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.972Z"
+}

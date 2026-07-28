@@ -1,0 +1,19 @@
+{
+  "slug": "dewitt-farmers-market-1033-kinne-street",
+  "name": "DeWitt Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1033 Kinne Street, NY",
+  "locationCity": "1033 Kinne Street",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "lat": 43.08038259999999,
+  "lon": -76.07985459999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.529Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.529Z"
+}

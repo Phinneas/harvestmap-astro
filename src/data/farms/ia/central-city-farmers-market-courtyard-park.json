@@ -1,0 +1,19 @@
+{
+  "slug": "central-city-farmers-market-courtyard-park",
+  "name": "Central City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Courtyard Park, IA",
+  "locationCity": "Courtyard Park",
+  "locationState": "IA",
+  "locationZipcode": "52214",
+  "lat": 42.20225606883426,
+  "lon": -91.5233819603425,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

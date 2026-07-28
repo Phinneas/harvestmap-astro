@@ -1,0 +1,19 @@
+{
+  "slug": "manchester-farmers-market-100-s-tama-st",
+  "name": "Manchester Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 S. Tama St., IA",
+  "locationCity": "100 S. Tama St.",
+  "locationState": "IA",
+  "locationZipcode": "52057",
+  "lat": 42.483909535756254,
+  "lon": -91.45544149907339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

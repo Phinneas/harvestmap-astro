@@ -1,0 +1,19 @@
+{
+  "slug": "half-a-penny-farm-ctr-barnstead",
+  "name": "Half a Penny Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ctr. Barnstead, NH",
+  "locationCity": "Ctr. Barnstead",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "lat": 43.3482500000001,
+  "lon": -71.26445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:24.567Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:24.567Z"
+}

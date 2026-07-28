@@ -1,0 +1,19 @@
+{
+  "slug": "nashville-farmers-market-900-rosa-l-parks-blvd",
+  "name": "Nashville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "900 Rosa L. Parks Blvd., TN",
+  "locationCity": "900 Rosa L. Parks Blvd.",
+  "locationState": "TN",
+  "locationZipcode": "37208",
+  "lat": 36.17140284991015,
+  "lon": -86.79022703923353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "molalla-farmers-market-523-e-main-st",
+  "name": "Molalla Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "523 E. Main St., OR",
+  "locationCity": "523 E. Main St.",
+  "locationState": "OR",
+  "locationZipcode": "97038",
+  "lat": 45.14660507612933,
+  "lon": -122.57305643400824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.968Z"
+}

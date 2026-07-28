@@ -1,0 +1,19 @@
+{
+  "slug": "raytown-farmers-market-6210-raytown-rd",
+  "name": "Raytown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6210 Raytown Rd., MO",
+  "locationCity": "6210 Raytown Rd.",
+  "locationState": "MO",
+  "locationZipcode": "64133",
+  "lat": 39.01040343844559,
+  "lon": -94.46335931078471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

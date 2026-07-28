@@ -1,0 +1,20 @@
+{
+  "slug": "mt-washington-farmers-market-300-snapp-street",
+  "name": "Mt Washington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Snapp Street, KY",
+  "locationCity": "300 Snapp Street",
+  "locationState": "KY",
+  "locationZipcode": "",
+  "lat": 38.04944,
+  "lon": -85.5435771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.800Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.800Z",
+  "crops": []
+}

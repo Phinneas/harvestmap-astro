@@ -1,0 +1,19 @@
+{
+  "slug": "los-altos-farmers-market-state-st-2nd-st",
+  "name": "Los Altos Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "State St. & 2nd St., CA",
+  "locationCity": "State St. & 2nd St.",
+  "locationState": "CA",
+  "locationZipcode": "94022",
+  "lat": 37.37917000771462,
+  "lon": -122.1173700234468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

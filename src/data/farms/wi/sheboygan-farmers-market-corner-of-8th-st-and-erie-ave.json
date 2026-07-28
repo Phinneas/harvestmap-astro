@@ -1,0 +1,19 @@
+{
+  "slug": "sheboygan-farmers-market-corner-of-8th-st-and-erie-ave",
+  "name": "Sheboygan Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of 8th St. and Erie Ave., WI",
+  "locationCity": "Corner of 8th St. and Erie Ave.",
+  "locationState": "WI",
+  "locationZipcode": "53081",
+  "lat": 43.75633999880233,
+  "lon": -87.71293003471239,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

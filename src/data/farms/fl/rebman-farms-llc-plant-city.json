@@ -1,0 +1,19 @@
+{
+  "slug": "rebman-farms-llc-plant-city",
+  "name": "Rebman Farms Llc",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Plant City, FL",
+  "locationCity": "Plant City",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "lat": 28.01737,
+  "lon": -82.12541,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:56.512Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:56.512Z"
+}

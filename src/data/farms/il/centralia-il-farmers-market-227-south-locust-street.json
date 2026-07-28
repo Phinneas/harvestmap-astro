@@ -1,0 +1,19 @@
+{
+  "slug": "centralia-il-farmers-market-227-south-locust-street",
+  "name": "Centralia Il Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "227 South Locust Street, IL",
+  "locationCity": "227 South Locust Street",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 38.5254953,
+  "lon": -89.1345467,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.459Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.459Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gardenworks-1055-county-route-30",
+  "name": "Gardenworks",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1055 County Route 30, NY",
+  "locationCity": "1055 County Route 30",
+  "locationState": "NY",
+  "locationZipcode": "12865",
+  "lat": 43.2131389450343,
+  "lon": -73.3744665111296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.645Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.645Z"
+}

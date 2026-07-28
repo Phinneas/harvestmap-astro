@@ -1,0 +1,19 @@
+{
+  "slug": "clement-street-farmers-market-clement-st-at-3rd-ave",
+  "name": "Clement Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Clement St. at 3rd Ave., CA",
+  "locationCity": "Clement St. at 3rd Ave.",
+  "locationState": "CA",
+  "locationZipcode": "94118",
+  "lat": 37.78308998224469,
+  "lon": -122.46121002475788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

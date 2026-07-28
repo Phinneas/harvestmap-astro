@@ -1,0 +1,19 @@
+{
+  "slug": "annville-farmers-market-366-hwy-3443",
+  "name": "Annville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "366 Hwy. 3443, KY",
+  "locationCity": "366 Hwy. 3443",
+  "locationState": "KY",
+  "locationZipcode": "40486",
+  "lat": 37.3235678723735,
+  "lon": -83.93822128722194,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.783Z"
+}

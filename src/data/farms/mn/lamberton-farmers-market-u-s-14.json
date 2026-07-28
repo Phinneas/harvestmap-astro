@@ -1,0 +1,19 @@
+{
+  "slug": "lamberton-farmers-market-u-s-14",
+  "name": "Lamberton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "U.S. 14, MN",
+  "locationCity": "U.S. 14",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "lat": 44.2317956,
+  "lon": -95.27387519999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.219Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lafourche-central-market-4484-hwy-1",
+  "name": "Lafourche Central Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4484 Hwy. 1, LA",
+  "locationCity": "4484 Hwy. 1",
+  "locationState": "LA",
+  "locationZipcode": "70394",
+  "lat": 29.7096868560525,
+  "lon": -90.57634771515599,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:06.421Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:06.421Z"
+}

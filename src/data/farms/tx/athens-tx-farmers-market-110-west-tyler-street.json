@@ -1,0 +1,20 @@
+{
+  "slug": "athens-tx-farmers-market-110-west-tyler-street",
+  "name": "Athens, Tx Farmers Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "110 West Tyler Street, TX",
+  "locationCity": "110 West Tyler Street",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "lat": 32.2057358,
+  "lon": -95.855652,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:22.717Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:22.717Z",
+  "crops": []
+}

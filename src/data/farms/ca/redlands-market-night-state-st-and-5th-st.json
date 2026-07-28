@@ -1,0 +1,19 @@
+{
+  "slug": "redlands-market-night-state-st-and-5th-st",
+  "name": "Redlands Market Night",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "State St. and 5th St., CA",
+  "locationCity": "State St. and 5th St.",
+  "locationState": "CA",
+  "locationZipcode": "92373",
+  "lat": 34.05642999059354,
+  "lon": -117.18144996891797,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "click-41-club-rd",
+  "name": "CliCK",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "41 Club Rd, CT",
+  "locationCity": "41 Club Rd",
+  "locationState": "CT",
+  "locationZipcode": "06280",
+  "lat": 41.71670599454862,
+  "lon": -72.18661998966085,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:26.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:26.017Z"
+}

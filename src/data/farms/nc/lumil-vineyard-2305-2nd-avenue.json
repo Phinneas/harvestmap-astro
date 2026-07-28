@@ -1,0 +1,19 @@
+{
+  "slug": "lumil-vineyard-2305-2nd-avenue",
+  "name": "LuMil Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2305 2nd Avenue, NC",
+  "locationCity": "2305 2nd Avenue",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "lat": 34.6352338486515,
+  "lon": -78.6351806198411,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.464Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.464Z"
+}

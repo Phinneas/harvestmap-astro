@@ -1,0 +1,19 @@
+{
+  "slug": "forest-view-farms-16717-s-lockwood",
+  "name": "Forest View Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16717 s Lockwood, AL",
+  "locationCity": "16717 s Lockwood",
+  "locationState": "AL",
+  "locationZipcode": "16717",
+  "lat": 41.5872260004222,
+  "lon": -87.7467070090336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:01.706Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:01.706Z"
+}

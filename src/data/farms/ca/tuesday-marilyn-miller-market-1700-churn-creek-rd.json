@@ -1,0 +1,19 @@
+{
+  "slug": "tuesday-marilyn-miller-market-1700-churn-creek-rd",
+  "name": "Tuesday Marilyn Miller Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1700 Churn Creek Rd., CA",
+  "locationCity": "1700 Churn Creek Rd.",
+  "locationState": "CA",
+  "locationZipcode": "96001",
+  "lat": 40.58142870916294,
+  "lon": -122.35420545862881,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

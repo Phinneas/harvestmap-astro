@@ -1,0 +1,19 @@
+{
+  "slug": "fox-urban-farms-1001-south-loudoun-street",
+  "name": "Fox Urban Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1001 South Loudoun Street, VA",
+  "locationCity": "1001 South Loudoun Street",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "lat": 39.1756854,
+  "lon": -78.16914129999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:01.636Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:01.636Z"
+}

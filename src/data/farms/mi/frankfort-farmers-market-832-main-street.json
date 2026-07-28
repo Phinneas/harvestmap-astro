@@ -1,0 +1,19 @@
+{
+  "slug": "frankfort-farmers-market-832-main-street",
+  "name": "Frankfort Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "832 Main Street, MI",
+  "locationCity": "832 Main Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 44.632465647365976,
+  "lon": -86.23187450792857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

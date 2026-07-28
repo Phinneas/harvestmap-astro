@@ -1,0 +1,19 @@
+{
+  "slug": "hillside-haven-farm-176-millard-cable-road",
+  "name": "Hillside Haven Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "176 Millard Cable Road, TN",
+  "locationCity": "176 Millard Cable Road",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "lat": 36.2622872,
+  "lon": -81.97562429999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:09.391Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:09.391Z"
+}

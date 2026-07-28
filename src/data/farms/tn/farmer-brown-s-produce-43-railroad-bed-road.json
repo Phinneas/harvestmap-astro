@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-brown-s-produce-43-railroad-bed-road",
+  "name": "Farmer Brown's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "43 Railroad Bed Road, TN",
+  "locationCity": "43 Railroad Bed Road",
+  "locationState": "TN",
+  "locationZipcode": "38463",
+  "lat": 35.0598660088423,
+  "lon": -87.5738770270599,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:07.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:07.194Z"
+}

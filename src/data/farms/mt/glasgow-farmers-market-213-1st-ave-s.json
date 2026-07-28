@@ -1,0 +1,19 @@
+{
+  "slug": "glasgow-farmers-market-213-1st-ave-s",
+  "name": "Glasgow Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "213 1st Ave. S., MT",
+  "locationCity": "213 1st Ave. S.",
+  "locationState": "MT",
+  "locationZipcode": "59230",
+  "lat": 48.193501923924316,
+  "lon": -106.63232065491509,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:48.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:48.809Z"
+}

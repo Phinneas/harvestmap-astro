@@ -1,0 +1,19 @@
+{
+  "slug": "river-road-farm-3738-river-road",
+  "name": "River Road Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3738 River Road, NC",
+  "locationCity": "3738 River Road",
+  "locationState": "NC",
+  "locationZipcode": "28734",
+  "lat": 35.1359637152105,
+  "lon": -83.2858749028695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.467Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.467Z"
+}

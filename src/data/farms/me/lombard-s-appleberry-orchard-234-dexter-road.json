@@ -1,0 +1,19 @@
+{
+  "slug": "lombard-s-appleberry-orchard-234-dexter-road",
+  "name": "Lombard's Appleberry Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "234 Dexter Road, ME",
+  "locationCity": "234 Dexter Road",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 44.9339809664218,
+  "lon": -69.376830444381,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.504Z"
+}

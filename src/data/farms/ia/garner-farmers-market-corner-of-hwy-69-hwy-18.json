@@ -1,0 +1,19 @@
+{
+  "slug": "garner-farmers-market-corner-of-hwy-69-hwy-18",
+  "name": "Garner Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "corner of Hwy. 69 & Hwy. 18, IA",
+  "locationCity": "corner of Hwy. 69 & Hwy. 18",
+  "locationState": "IA",
+  "locationZipcode": "50438",
+  "lat": 43.10491000912381,
+  "lon": -93.63261000888077,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

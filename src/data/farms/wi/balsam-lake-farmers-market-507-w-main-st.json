@@ -1,0 +1,19 @@
+{
+  "slug": "balsam-lake-farmers-market-507-w-main-st",
+  "name": "Balsam Lake Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "507 W. Main St., WI",
+  "locationCity": "507 W. Main St.",
+  "locationState": "WI",
+  "locationZipcode": "54810",
+  "lat": 45.45332693079271,
+  "lon": -92.45865396885779,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

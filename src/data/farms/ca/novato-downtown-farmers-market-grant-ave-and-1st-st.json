@@ -1,0 +1,19 @@
+{
+  "slug": "novato-downtown-farmers-market-grant-ave-and-1st-st",
+  "name": "Novato Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Grant Ave. and 1st St., CA",
+  "locationCity": "Grant Ave. and 1st St.",
+  "locationState": "CA",
+  "locationZipcode": "94945",
+  "lat": 38.10772000258217,
+  "lon": -122.57118998215124,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

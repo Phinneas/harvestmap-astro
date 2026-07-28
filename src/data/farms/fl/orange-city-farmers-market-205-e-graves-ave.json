@@ -1,0 +1,19 @@
+{
+  "slug": "orange-city-farmers-market-205-e-graves-ave",
+  "name": "Orange City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 E. Graves Ave., FL",
+  "locationCity": "205 E. Graves Ave.",
+  "locationState": "FL",
+  "locationZipcode": "32763",
+  "lat": 28.948770006077968,
+  "lon": -81.2976400024722,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.374Z"
+}

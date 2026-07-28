@@ -1,0 +1,19 @@
+{
+  "slug": "grayhaven-winery-4675-east-grey-fox-circle",
+  "name": "Grayhaven Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4675 East Grey Fox Circle, VA",
+  "locationCity": "4675 East Grey Fox Circle",
+  "locationState": "VA",
+  "locationZipcode": "23065",
+  "lat": 37.8053869606089,
+  "lon": -77.9081766223014,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:54.997Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:54.997Z"
+}

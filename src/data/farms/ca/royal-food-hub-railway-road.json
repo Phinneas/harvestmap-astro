@@ -1,0 +1,19 @@
+{
+  "slug": "royal-food-hub-railway-road",
+  "name": "ROYAL FOOD HUB",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Railway Road, CA",
+  "locationCity": "Railway Road",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 37.81518130048456,
+  "lon": -122.29486904980158,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:00.814Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:00.814Z"
+}

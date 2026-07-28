@@ -1,0 +1,19 @@
+{
+  "slug": "blacksburg-farmers-market-100-draper-rd-nw",
+  "name": "Blacksburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Draper Rd. NW, VA",
+  "locationCity": "100 Draper Rd. NW",
+  "locationState": "VA",
+  "locationZipcode": "24060",
+  "lat": 37.22883813809762,
+  "lon": -80.41481834599834,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pure-farm-foods-trails-end-rd",
+  "name": "Pure Farm Foods",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Trails End Rd, IL",
+  "locationCity": "Trails End Rd",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 41.89261048771985,
+  "lon": -88.08426116343826,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:56.011Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:56.011Z"
+}

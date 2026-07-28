@@ -1,0 +1,19 @@
+{
+  "slug": "claremont-farmers-market-indian-hill-ave-and-2nd-st",
+  "name": "Claremont Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Indian Hill Ave. and 2nd St., CA",
+  "locationCity": "Indian Hill Ave. and 2nd St.",
+  "locationState": "CA",
+  "locationZipcode": "91711",
+  "lat": 34.09560998161119,
+  "lon": -117.71930999016357,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

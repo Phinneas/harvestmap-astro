@@ -1,0 +1,19 @@
+{
+  "slug": "downtown3rd-farmers-market-201-n-3rd-st",
+  "name": "Downtown3rd Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 N. 3rd. St., NV",
+  "locationCity": "201 N. 3rd. St.",
+  "locationState": "NV",
+  "locationZipcode": "89101",
+  "lat": 36.17199111918546,
+  "lon": -115.14179005101707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:17.062Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:17.062Z"
+}

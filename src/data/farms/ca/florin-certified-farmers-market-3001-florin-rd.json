@@ -1,0 +1,19 @@
+{
+  "slug": "florin-certified-farmers-market-3001-florin-rd",
+  "name": "Florin Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3001 Florin Rd, CA",
+  "locationCity": "3001 Florin Rd",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 38.497645,
+  "lon": -121.4716055,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.737Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.737Z"
+}

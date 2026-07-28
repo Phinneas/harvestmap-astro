@@ -1,0 +1,19 @@
+{
+  "slug": "chico-farmers-market-pillsbury-rd-plaza-way",
+  "name": "Chico Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Pillsbury Rd & Plaza Way, CA",
+  "locationCity": "Pillsbury Rd & Plaza Way",
+  "locationState": "CA",
+  "locationZipcode": "95926",
+  "lat": 39.759580008573636,
+  "lon": -121.8493900177299,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

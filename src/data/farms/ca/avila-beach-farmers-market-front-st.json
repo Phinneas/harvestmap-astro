@@ -1,0 +1,19 @@
+{
+  "slug": "avila-beach-farmers-market-front-st",
+  "name": "Avila Beach Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Front St., CA",
+  "locationCity": "Front St.",
+  "locationState": "CA",
+  "locationZipcode": "93424",
+  "lat": 35.17779564367167,
+  "lon": -120.7279842605531,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

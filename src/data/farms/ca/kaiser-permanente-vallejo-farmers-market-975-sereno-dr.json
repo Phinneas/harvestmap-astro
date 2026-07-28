@@ -1,0 +1,19 @@
+{
+  "slug": "kaiser-permanente-vallejo-farmers-market-975-sereno-dr",
+  "name": "Kaiser Permanente Vallejo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "975 Sereno Dr., CA",
+  "locationCity": "975 Sereno Dr.",
+  "locationState": "CA",
+  "locationZipcode": "94589",
+  "lat": 38.12836317916592,
+  "lon": -122.24791005036352,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

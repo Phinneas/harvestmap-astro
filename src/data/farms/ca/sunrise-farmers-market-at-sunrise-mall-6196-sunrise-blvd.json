@@ -1,0 +1,19 @@
+{
+  "slug": "sunrise-farmers-market-at-sunrise-mall-6196-sunrise-blvd",
+  "name": "Sunrise Farmers' Market At Sunrise Mall",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6196 Sunrise Blvd., CA",
+  "locationCity": "6196 Sunrise Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "95610",
+  "lat": 38.677863553193355,
+  "lon": -121.27154822658348,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

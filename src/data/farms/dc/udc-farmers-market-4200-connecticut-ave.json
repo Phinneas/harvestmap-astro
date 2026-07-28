@@ -1,0 +1,19 @@
+{
+  "slug": "udc-farmers-market-4200-connecticut-ave",
+  "name": "UDC Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4200 Connecticut Ave., DC",
+  "locationCity": "4200 Connecticut Ave.",
+  "locationState": "DC",
+  "locationZipcode": "20008",
+  "lat": 38.94435130383541,
+  "lon": -77.06362188707081,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

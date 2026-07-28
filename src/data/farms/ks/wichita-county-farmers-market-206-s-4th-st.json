@@ -1,0 +1,19 @@
+{
+  "slug": "wichita-county-farmers-market-206-s-4th-st",
+  "name": "Wichita County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "206 S. 4th St., KS",
+  "locationCity": "206 S. 4th St.",
+  "locationState": "KS",
+  "locationZipcode": "67861",
+  "lat": 38.480194457520795,
+  "lon": -101.35834495809019,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

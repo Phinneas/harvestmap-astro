@@ -1,0 +1,19 @@
+{
+  "slug": "carefree-farmers-market-101-easy-st",
+  "name": "Carefree Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Easy St., AZ",
+  "locationCity": "101 Easy St.",
+  "locationState": "AZ",
+  "locationZipcode": "85377",
+  "lat": 33.824581805632526,
+  "lon": -111.92196651066698,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

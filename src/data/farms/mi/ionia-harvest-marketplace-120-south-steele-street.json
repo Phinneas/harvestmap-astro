@@ -1,0 +1,19 @@
+{
+  "slug": "ionia-harvest-marketplace-120-south-steele-street",
+  "name": "Ionia Harvest Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 South Steele Street, MI",
+  "locationCity": "120 South Steele Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.98213645826698,
+  "lon": -85.06785314464841,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

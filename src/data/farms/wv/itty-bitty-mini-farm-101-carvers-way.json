@@ -1,0 +1,20 @@
+{
+  "slug": "itty-bitty-mini-farm-101-carvers-way",
+  "name": "Itty Bitty Mini Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Carvers Way, WV",
+  "locationCity": "101 Carvers Way",
+  "locationState": "WV",
+  "locationZipcode": "",
+  "lat": 39.5805791,
+  "lon": -77.8783426,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:17.561Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:17.561Z",
+  "crops": []
+}

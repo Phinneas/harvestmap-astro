@@ -1,0 +1,19 @@
+{
+  "slug": "the-market-at-st-andrews-2715-west-10th-street",
+  "name": "The Market at St. Andrews",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2715 West 10th Street, FL",
+  "locationCity": "2715 West 10th Street",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "lat": 30.1672094,
+  "lon": -85.7009545,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.403Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.403Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "drimo-farm-la-center",
+  "name": "DRIMO FARM",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "La Center, WA",
+  "locationCity": "La Center",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 45.86208080000001,
+  "lon": -122.6725746,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:12.637Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:12.637Z"
+}

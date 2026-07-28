@@ -1,0 +1,19 @@
+{
+  "slug": "cypress-center-farmers-market-at-clarendon-50-e-hospital-st",
+  "name": "Cypress Center Farmers' Market at Clarendon...",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50 E. Hospital St., SC",
+  "locationCity": "50 E. Hospital St.",
+  "locationState": "SC",
+  "locationZipcode": "29102",
+  "lat": 33.687869820796166,
+  "lon": -80.21043291589858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:49.593Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:49.593Z"
+}

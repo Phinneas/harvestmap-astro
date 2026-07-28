@@ -1,0 +1,19 @@
+{
+  "slug": "hillsdale-farmers-market-11-n-broad-st",
+  "name": "Hillsdale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11 N. Broad St., MI",
+  "locationCity": "11 N. Broad St.",
+  "locationState": "MI",
+  "locationZipcode": "49242",
+  "lat": 41.92036621432846,
+  "lon": -84.63081183271605,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

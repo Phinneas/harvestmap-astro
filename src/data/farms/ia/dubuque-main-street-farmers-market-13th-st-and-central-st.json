@@ -1,0 +1,19 @@
+{
+  "slug": "dubuque-main-street-farmers-market-13th-st-and-central-st",
+  "name": "Dubuque Main Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13th St. and Central St., IA",
+  "locationCity": "13th St. and Central St.",
+  "locationState": "IA",
+  "locationZipcode": "52001",
+  "lat": 42.505510012854586,
+  "lon": -90.66727002648044,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

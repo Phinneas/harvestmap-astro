@@ -1,0 +1,19 @@
+{
+  "slug": "logan-county-farmers-market-us-route-119-on-old-logan-rd",
+  "name": "Logan County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "US Route 119 on Old Logan Rd., WV",
+  "locationCity": "US Route 119 on Old Logan Rd.",
+  "locationState": "WV",
+  "locationZipcode": "25508",
+  "lat": 37.93560982587639,
+  "lon": -82.00486084217005,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

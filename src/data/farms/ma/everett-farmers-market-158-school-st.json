@@ -1,0 +1,19 @@
+{
+  "slug": "everett-farmers-market-158-school-st",
+  "name": "Everett Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "158 School St., MA",
+  "locationCity": "158 School St.",
+  "locationState": "MA",
+  "locationZipcode": "02149",
+  "lat": 42.40615518499791,
+  "lon": -71.05690966245965,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

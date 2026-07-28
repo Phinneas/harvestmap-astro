@@ -1,0 +1,19 @@
+{
+  "slug": "sunday-market-7837-e-51st-st",
+  "name": "Sunday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7837 E. 51st St., OK",
+  "locationCity": "7837 E. 51st St.",
+  "locationState": "OK",
+  "locationZipcode": "74145",
+  "lat": 36.08989113805926,
+  "lon": -95.89175600456609,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.529Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.529Z"
+}

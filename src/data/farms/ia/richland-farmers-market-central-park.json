@@ -1,0 +1,19 @@
+{
+  "slug": "richland-farmers-market-central-park",
+  "name": "Richland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Central Park, IA",
+  "locationCity": "Central Park",
+  "locationState": "IA",
+  "locationZipcode": "52585",
+  "lat": 41.22058001403724,
+  "lon": -91.93418496844089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

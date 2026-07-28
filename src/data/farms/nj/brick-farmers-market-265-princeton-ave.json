@@ -1,0 +1,19 @@
+{
+  "slug": "brick-farmers-market-265-princeton-ave",
+  "name": "Brick Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "265 Princeton Ave., NJ",
+  "locationCity": "265 Princeton Ave.",
+  "locationState": "NJ",
+  "locationZipcode": "08724",
+  "lat": 40.05908452135915,
+  "lon": -74.10855056205335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

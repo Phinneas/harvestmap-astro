@@ -1,0 +1,19 @@
+{
+  "slug": "hobbs-farmers-market-4314-n-grimes-st",
+  "name": "Hobbs Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4314 N. Grimes St., NM",
+  "locationCity": "4314 N. Grimes St.",
+  "locationState": "NM",
+  "locationZipcode": "88240",
+  "lat": 32.74674888823087,
+  "lon": -103.14489068759484,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

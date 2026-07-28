@@ -1,0 +1,19 @@
+{
+  "slug": "ski-run-farmers-market-1132-ski-run-blvd",
+  "name": "Ski Run Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1132 Ski Run Blvd., CA",
+  "locationCity": "1132 Ski Run Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "96150",
+  "lat": 38.94454800940329,
+  "lon": -119.95501301249257,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

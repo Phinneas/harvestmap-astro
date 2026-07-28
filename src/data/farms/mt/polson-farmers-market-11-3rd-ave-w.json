@@ -1,0 +1,19 @@
+{
+  "slug": "polson-farmers-market-11-3rd-ave-w",
+  "name": "Polson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11 3rd Ave. W., MT",
+  "locationCity": "11 3rd Ave. W.",
+  "locationState": "MT",
+  "locationZipcode": "59860",
+  "lat": 47.69338574299122,
+  "lon": -114.16351477443122,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:48.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:48.809Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "aptos-farmers-market-6500-soquel-dr",
+  "name": "Aptos Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6500 Soquel Dr., CA",
+  "locationCity": "6500 Soquel Dr.",
+  "locationState": "CA",
+  "locationZipcode": "95001",
+  "lat": 36.98820382104394,
+  "lon": -121.9245302130703,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

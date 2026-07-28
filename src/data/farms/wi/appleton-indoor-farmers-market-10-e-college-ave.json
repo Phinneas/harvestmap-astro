@@ -1,0 +1,19 @@
+{
+  "slug": "appleton-indoor-farmers-market-10-e-college-ave",
+  "name": "Appleton Indoor Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 E. College Ave., WI",
+  "locationCity": "10 E. College Ave.",
+  "locationState": "WI",
+  "locationZipcode": "54912",
+  "lat": 44.26181963469051,
+  "lon": -88.40576282167679,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

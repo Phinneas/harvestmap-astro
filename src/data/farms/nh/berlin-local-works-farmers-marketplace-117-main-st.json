@@ -1,0 +1,19 @@
+{
+  "slug": "berlin-local-works-farmers-marketplace-117-main-st",
+  "name": "Berlin Local Works Farmers Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "117 Main St., NH",
+  "locationCity": "117 Main St.",
+  "locationState": "NH",
+  "locationZipcode": "03570",
+  "lat": 44.46969142345131,
+  "lon": -71.18090906541806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:29.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:29.123Z"
+}

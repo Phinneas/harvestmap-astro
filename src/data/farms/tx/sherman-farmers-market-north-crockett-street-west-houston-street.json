@@ -1,0 +1,19 @@
+{
+  "slug": "sherman-farmers-market-north-crockett-street-west-houston-street",
+  "name": "Sherman Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "North Crockett Street & West Houston Street, TX",
+  "locationCity": "North Crockett Street & West Houston Street",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "lat": 33.636288,
+  "lon": -96.61043599999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.063Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.063Z"
+}

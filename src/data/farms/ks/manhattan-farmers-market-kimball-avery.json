@@ -1,0 +1,19 @@
+{
+  "slug": "manhattan-farmers-market-kimball-avery",
+  "name": "Manhattan Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Kimball & Avery, KS",
+  "locationCity": "Kimball & Avery",
+  "locationState": "KS",
+  "locationZipcode": "66502",
+  "lat": 39.20359998904337,
+  "lon": -96.62224996677705,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

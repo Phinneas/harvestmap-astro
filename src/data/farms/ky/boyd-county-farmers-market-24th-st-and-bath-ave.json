@@ -1,0 +1,19 @@
+{
+  "slug": "boyd-county-farmers-market-24th-st-and-bath-ave",
+  "name": "Boyd County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24th St. and Bath Ave., KY",
+  "locationCity": "24th St. and Bath Ave.",
+  "locationState": "KY",
+  "locationZipcode": "41102",
+  "lat": 38.470760010402074,
+  "lon": -82.63168001670003,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.783Z"
+}

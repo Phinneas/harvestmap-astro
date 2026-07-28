@@ -1,0 +1,19 @@
+{
+  "slug": "root-s-country-market-auction-705-graystone-rd",
+  "name": "Root's Country Market & Auction",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "705 Graystone Rd., PA",
+  "locationCity": "705 Graystone Rd.",
+  "locationState": "PA",
+  "locationZipcode": "17545",
+  "lat": 40.119551199219664,
+  "lon": -76.37932924873328,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

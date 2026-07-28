@@ -1,0 +1,19 @@
+{
+  "slug": "lakeview-farmers-market-215-south-lincoln-avenue",
+  "name": "Lakeview Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 South Lincoln Avenue, MI",
+  "locationCity": "215 South Lincoln Avenue",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.44349084681233,
+  "lon": -85.2803074235811,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

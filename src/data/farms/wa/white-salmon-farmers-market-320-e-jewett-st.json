@@ -1,0 +1,19 @@
+{
+  "slug": "white-salmon-farmers-market-320-e-jewett-st",
+  "name": "White Salmon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 E. Jewett St., WA",
+  "locationCity": "320 E. Jewett St.",
+  "locationState": "WA",
+  "locationZipcode": "98672",
+  "lat": 45.726876493470186,
+  "lon": -121.48282511813588,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.192Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.192Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ellsworth-farmers-market-245-main-st",
+  "name": "Ellsworth Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "245 Main St., ME",
+  "locationCity": "245 Main St.",
+  "locationState": "ME",
+  "locationZipcode": "04605",
+  "lat": 44.543603988961095,
+  "lon": -68.41845057444614,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.160Z"
+}

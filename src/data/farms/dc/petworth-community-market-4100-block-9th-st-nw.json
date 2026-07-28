@@ -1,0 +1,19 @@
+{
+  "slug": "petworth-community-market-4100-block-9th-st-nw",
+  "name": "Petworth Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4100 Block 9th St NW, DC",
+  "locationCity": "4100 Block 9th St NW",
+  "locationState": "DC",
+  "locationZipcode": "20011",
+  "lat": 38.94090026107261,
+  "lon": -77.02502705915698,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

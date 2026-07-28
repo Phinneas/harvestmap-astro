@@ -1,0 +1,19 @@
+{
+  "slug": "providence-broad-street-farmers-market-807-broad-st",
+  "name": "Providence / Broad Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "807 Broad St., RI",
+  "locationCity": "807 Broad St.",
+  "locationState": "RI",
+  "locationZipcode": "02907",
+  "lat": 41.80215975224672,
+  "lon": -71.41865909823903,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:38.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:38.801Z"
+}

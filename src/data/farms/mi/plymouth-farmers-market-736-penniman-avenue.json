@@ -1,0 +1,19 @@
+{
+  "slug": "plymouth-farmers-market-736-penniman-avenue",
+  "name": "Plymouth Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "736 Penniman Avenue, MI",
+  "locationCity": "736 Penniman Avenue",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.37045596962927,
+  "lon": -83.468707231435,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

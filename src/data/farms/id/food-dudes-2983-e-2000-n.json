@@ -1,0 +1,19 @@
+{
+  "slug": "food-dudes-2983-e-2000-n",
+  "name": "Food Dudes",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2983 E 2000 N, ID",
+  "locationCity": "2983 E 2000 N",
+  "locationState": "ID",
+  "locationZipcode": "83448",
+  "lat": 43.8543720142238,
+  "lon": -111.71836997928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:36.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:36.736Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "thomas-township-farmers-market-455-south-miller-road",
+  "name": "Thomas Township Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "455 South Miller Road, MI",
+  "locationCity": "455 South Miller Road",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.41300866691333,
+  "lon": -84.07147995130697,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

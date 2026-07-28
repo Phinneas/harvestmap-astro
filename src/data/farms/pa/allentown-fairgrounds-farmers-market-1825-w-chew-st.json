@@ -1,0 +1,19 @@
+{
+  "slug": "allentown-fairgrounds-farmers-market-1825-w-chew-st",
+  "name": "Allentown Fairgrounds Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1825 W. Chew St., PA",
+  "locationCity": "1825 W. Chew St.",
+  "locationState": "PA",
+  "locationZipcode": "18104",
+  "lat": 40.599844346319294,
+  "lon": -75.49767868105067,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

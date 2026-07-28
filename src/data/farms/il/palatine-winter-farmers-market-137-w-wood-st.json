@@ -1,0 +1,19 @@
+{
+  "slug": "palatine-winter-farmers-market-137-w-wood-st",
+  "name": "Palatine Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "137 W Wood St., IL",
+  "locationCity": "137 W Wood St.",
+  "locationState": "IL",
+  "locationZipcode": "60067",
+  "lat": 42.11307034460075,
+  "lon": -88.04717948204569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

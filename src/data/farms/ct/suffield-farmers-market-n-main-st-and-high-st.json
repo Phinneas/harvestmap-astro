@@ -1,0 +1,19 @@
+{
+  "slug": "suffield-farmers-market-n-main-st-and-high-st",
+  "name": "Suffield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N. Main St. and High St., CT",
+  "locationCity": "N. Main St. and High St.",
+  "locationState": "CT",
+  "locationZipcode": "06078",
+  "lat": 41.98648002091164,
+  "lon": -72.64958996914774,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

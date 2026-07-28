@@ -1,0 +1,19 @@
+{
+  "slug": "monsen-farm-box-724-5000-north-12000-west",
+  "name": "Monsen Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Box 724 / 5000 North 12000 West, UT",
+  "locationCity": "Box 724 / 5000 North 12000 West",
+  "locationState": "UT",
+  "locationZipcode": "12000",
+  "lat": 40.3739379966321,
+  "lon": -110.218325700151,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:32.108Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:32.108Z"
+}

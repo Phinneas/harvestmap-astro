@@ -1,0 +1,19 @@
+{
+  "slug": "corktown-farmers-market-1236-michigan-ave",
+  "name": "Corktown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1236 Michigan Ave., MI",
+  "locationCity": "1236 Michigan Ave.",
+  "locationState": "MI",
+  "locationZipcode": "48226",
+  "lat": 42.331469136368796,
+  "lon": -83.06322483601515,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

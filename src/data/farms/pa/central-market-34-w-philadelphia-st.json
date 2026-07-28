@@ -1,0 +1,19 @@
+{
+  "slug": "central-market-34-w-philadelphia-st",
+  "name": "Central Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "34 W. Philadelphia St., PA",
+  "locationCity": "34 W. Philadelphia St.",
+  "locationState": "PA",
+  "locationZipcode": "17401",
+  "lat": 39.96345585512702,
+  "lon": -76.72981958000842,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

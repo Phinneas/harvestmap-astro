@@ -1,0 +1,19 @@
+{
+  "slug": "ash-grove-farmers-market-310-east-parkway-street",
+  "name": "Ash Grove Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "310 East Parkway Street, MO",
+  "locationCity": "310 East Parkway Street",
+  "locationState": "MO",
+  "locationZipcode": "",
+  "lat": 37.3158768,
+  "lon": -93.579984,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.137Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.137Z"
+}

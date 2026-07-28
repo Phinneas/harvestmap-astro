@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-clearwater-farmers-market-500-cleveland-st",
+  "name": "Downtown Clearwater Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Cleveland St., FL",
+  "locationCity": "500 Cleveland St.",
+  "locationState": "FL",
+  "locationZipcode": "33755",
+  "lat": 27.965628020039613,
+  "lon": -82.79991310826598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.374Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jemez-springs-community-farmers-market-30-jemez-springs-plz",
+  "name": "Jemez Springs Community Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30 Jemez Springs Plz., NM",
+  "locationCity": "30 Jemez Springs Plz.",
+  "locationState": "NM",
+  "locationZipcode": "87025",
+  "lat": 35.771958038222834,
+  "lon": -106.69067691090777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

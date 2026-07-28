@@ -1,0 +1,19 @@
+{
+  "slug": "corning-farmers-market-1414-colusa-st",
+  "name": "Corning Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1414 Colusa St., CA",
+  "locationCity": "1414 Colusa St.",
+  "locationState": "CA",
+  "locationZipcode": "96021",
+  "lat": 39.93088948109691,
+  "lon": -122.18387321009143,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

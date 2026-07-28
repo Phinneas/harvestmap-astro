@@ -1,0 +1,19 @@
+{
+  "slug": "st-ansgar-farmers-market-n-washington-st",
+  "name": "St. Ansgar Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N Washington St, IA",
+  "locationCity": "N Washington St",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 43.3795309,
+  "lon": -92.9228267,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.585Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.585Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "princeton-farmers-market-55-witherspoon-street",
+  "name": "Princeton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "55 Witherspoon Street, NJ",
+  "locationCity": "55 Witherspoon Street",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "lat": 40.351308,
+  "lon": -74.659984,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.879Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.879Z"
+}

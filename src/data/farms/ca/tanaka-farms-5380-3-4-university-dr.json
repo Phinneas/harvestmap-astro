@@ -1,0 +1,19 @@
+{
+  "slug": "tanaka-farms-5380-3-4-university-dr",
+  "name": "Tanaka Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5380 3/4 University Dr., CA",
+  "locationCity": "5380 3/4 University Dr.",
+  "locationState": "CA",
+  "locationZipcode": "92612",
+  "lat": 33.6522200022136,
+  "lon": -117.79239096576,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.964Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.964Z"
+}

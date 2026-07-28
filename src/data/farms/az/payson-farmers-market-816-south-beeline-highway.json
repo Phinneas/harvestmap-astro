@@ -1,0 +1,19 @@
+{
+  "slug": "payson-farmers-market-816-south-beeline-highway",
+  "name": "Payson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "816 South Beeline Highway, AZ",
+  "locationCity": "816 South Beeline Highway",
+  "locationState": "AZ",
+  "locationZipcode": "",
+  "lat": 34.2300448,
+  "lon": -111.3265693,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.067Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "market-in-carver-park-13th-ave-and-3rd-st",
+  "name": "Market in Carver Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13th Ave. and 3rd St., AZ",
+  "locationCity": "13th Ave. and 3rd St.",
+  "locationState": "AZ",
+  "locationZipcode": "85364",
+  "lat": 32.721539993175085,
+  "lon": -114.63590997952777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

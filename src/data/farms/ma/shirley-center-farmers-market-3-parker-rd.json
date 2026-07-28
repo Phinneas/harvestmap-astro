@@ -1,0 +1,19 @@
+{
+  "slug": "shirley-center-farmers-market-3-parker-rd",
+  "name": "Shirley Center Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3 Parker Rd., MA",
+  "locationCity": "3 Parker Rd.",
+  "locationState": "MA",
+  "locationZipcode": "01464",
+  "lat": 42.5735120499716,
+  "lon": -71.64976315006957,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

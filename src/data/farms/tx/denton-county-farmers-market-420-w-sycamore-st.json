@@ -1,0 +1,19 @@
+{
+  "slug": "denton-county-farmers-market-420-w-sycamore-st",
+  "name": "Denton County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "420 W. Sycamore St., TX",
+  "locationCity": "420 W. Sycamore St.",
+  "locationState": "TX",
+  "locationZipcode": "76201",
+  "lat": 33.2125538917967,
+  "lon": -97.13647261493523,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

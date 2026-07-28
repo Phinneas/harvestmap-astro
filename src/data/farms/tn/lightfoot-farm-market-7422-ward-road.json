@@ -1,0 +1,19 @@
+{
+  "slug": "lightfoot-farm-market-7422-ward-road",
+  "name": "Lightfoot Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7422 Ward Road, TN",
+  "locationCity": "7422 Ward Road",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "lat": 35.3286922,
+  "lon": -89.97653609999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.562Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.562Z"
+}

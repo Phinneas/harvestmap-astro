@@ -1,0 +1,19 @@
+{
+  "slug": "glenn-county-certified-farmers-market-4th-mill",
+  "name": "Glenn County Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4th & Mill, CA",
+  "locationCity": "4th & Mill",
+  "locationState": "CA",
+  "locationZipcode": "95963",
+  "lat": 39.74522000632493,
+  "lon": -122.19416996566306,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

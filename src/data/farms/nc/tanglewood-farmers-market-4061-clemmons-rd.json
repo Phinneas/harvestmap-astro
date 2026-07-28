@@ -1,0 +1,19 @@
+{
+  "slug": "tanglewood-farmers-market-4061-clemmons-rd",
+  "name": "Tanglewood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4061 Clemmons Rd., NC",
+  "locationCity": "4061 Clemmons Rd.",
+  "locationState": "NC",
+  "locationZipcode": "27012",
+  "lat": 36.019437900177266,
+  "lon": -80.40308577710046,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

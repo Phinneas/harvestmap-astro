@@ -1,0 +1,19 @@
+{
+  "slug": "millheim-indoor-farmers-market-105-e-main-st",
+  "name": "Millheim Indoor Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 E. Main St., PA",
+  "locationCity": "105 E. Main St.",
+  "locationState": "PA",
+  "locationZipcode": "16854",
+  "lat": 40.89098755068845,
+  "lon": -77.47650982132056,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

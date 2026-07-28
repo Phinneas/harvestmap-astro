@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-moore-farmers-market-301-s-howard",
+  "name": "City of Moore Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 S. Howard, OK",
+  "locationCity": "301 S. Howard",
+  "locationState": "OK",
+  "locationZipcode": "73160",
+  "lat": 35.33646345569217,
+  "lon": -97.48836398182277,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

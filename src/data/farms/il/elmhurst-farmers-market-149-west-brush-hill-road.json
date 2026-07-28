@@ -1,0 +1,19 @@
+{
+  "slug": "elmhurst-farmers-market-149-west-brush-hill-road",
+  "name": "Elmhurst Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "149 West Brush Hill Road, IL",
+  "locationCity": "149 West Brush Hill Road",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 41.8627633,
+  "lon": -87.9409824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.460Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.460Z"
+}

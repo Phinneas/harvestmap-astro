@@ -1,0 +1,19 @@
+{
+  "slug": "crossroads-farmers-market-111-w-b-st",
+  "name": "Crossroads Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 W. B St., ID",
+  "locationCity": "111 W. B St.",
+  "locationState": "ID",
+  "locationZipcode": "83352",
+  "lat": 42.93379696917901,
+  "lon": -114.4080953399897,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

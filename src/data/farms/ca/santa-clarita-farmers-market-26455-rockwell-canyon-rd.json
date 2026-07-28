@@ -1,0 +1,19 @@
+{
+  "slug": "santa-clarita-farmers-market-26455-rockwell-canyon-rd",
+  "name": "Santa Clarita Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "26455 Rockwell Canyon Rd., CA",
+  "locationCity": "26455 Rockwell Canyon Rd.",
+  "locationState": "CA",
+  "locationZipcode": "26455",
+  "lat": 34.4040200134758,
+  "lon": -118.56990502149327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

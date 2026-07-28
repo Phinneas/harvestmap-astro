@@ -1,0 +1,19 @@
+{
+  "slug": "tewksbury-farmers-market-1777-main-st",
+  "name": "Tewksbury Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1777 Main St., MA",
+  "locationCity": "1777 Main St.",
+  "locationState": "MA",
+  "locationZipcode": "01876",
+  "lat": 42.59464747610779,
+  "lon": -71.21160934578901,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

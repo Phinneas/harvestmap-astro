@@ -1,0 +1,19 @@
+{
+  "slug": "lone-tree-farmers-market-8585-s-yosemite-st",
+  "name": "Lone Tree Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8585 S. Yosemite St., CO",
+  "locationCity": "8585 S. Yosemite St.",
+  "locationState": "CO",
+  "locationZipcode": "80124",
+  "lat": 39.56153198124912,
+  "lon": -104.88120202202406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

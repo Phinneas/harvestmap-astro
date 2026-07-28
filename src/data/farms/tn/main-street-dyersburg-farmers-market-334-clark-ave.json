@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-dyersburg-farmers-market-334-clark-ave",
+  "name": "Main Street Dyersburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "334 Clark Ave, TN",
+  "locationCity": "334 Clark Ave",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "lat": 36.0308721,
+  "lon": -89.38925449999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.562Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.562Z"
+}

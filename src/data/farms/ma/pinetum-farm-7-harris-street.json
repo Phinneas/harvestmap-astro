@@ -1,0 +1,19 @@
+{
+  "slug": "pinetum-farm-7-harris-street",
+  "name": "Pinetum Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7 harris street, MA",
+  "locationCity": "7 harris street",
+  "locationState": "MA",
+  "locationZipcode": "01033",
+  "lat": 42.2843986341192,
+  "lon": -72.4848987313383,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.339Z"
+}

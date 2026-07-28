@@ -1,0 +1,19 @@
+{
+  "slug": "winter-viroqua-farmers-market-215-s-main-st",
+  "name": "Winter Viroqua Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 S. Main St., WI",
+  "locationCity": "215 S. Main St.",
+  "locationState": "WI",
+  "locationZipcode": "54665",
+  "lat": 43.555055108129736,
+  "lon": -90.88932072296515,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

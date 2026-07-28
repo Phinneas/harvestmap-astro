@@ -1,0 +1,19 @@
+{
+  "slug": "thornton-farmers-market-330-glen-mills-rd",
+  "name": "Thornton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "330 Glen Mills Rd., PA",
+  "locationCity": "330 Glen Mills Rd.",
+  "locationState": "PA",
+  "locationZipcode": "19373",
+  "lat": 39.909906607486754,
+  "lon": -75.52602201933111,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "south-end-farmers-market-2000-south-boulevard",
+  "name": "South End Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2000 South Boulevard, NC",
+  "locationCity": "2000 South Boulevard",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "lat": 35.20955,
+  "lon": -80.86048129999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.469Z"
+}

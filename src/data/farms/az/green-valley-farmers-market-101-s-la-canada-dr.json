@@ -1,0 +1,19 @@
+{
+  "slug": "green-valley-farmers-market-101-s-la-canada-dr",
+  "name": "Green Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 S. La Canada Dr., AZ",
+  "locationCity": "101 S. La Canada Dr.",
+  "locationState": "AZ",
+  "locationZipcode": "85614",
+  "lat": 31.869362754040555,
+  "lon": -110.99547457357949,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

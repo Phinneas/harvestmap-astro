@@ -1,0 +1,19 @@
+{
+  "slug": "spokane-farmers-market-20-w-5th-ave",
+  "name": "Spokane Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 W. 5th Ave, WA",
+  "locationCity": "20 W. 5th Ave",
+  "locationState": "WA",
+  "locationZipcode": "99201",
+  "lat": 47.65147689984317,
+  "lon": -117.41174325049175,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

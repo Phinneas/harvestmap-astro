@@ -1,0 +1,19 @@
+{
+  "slug": "chester-farmers-and-artisan-market-111-columbia-st",
+  "name": "Chester Farmers' and Artisan Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 Columbia St., SC",
+  "locationCity": "111 Columbia St.",
+  "locationState": "SC",
+  "locationZipcode": "29706",
+  "lat": 34.70448847235098,
+  "lon": -81.21375940889828,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:49.593Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:49.593Z"
+}

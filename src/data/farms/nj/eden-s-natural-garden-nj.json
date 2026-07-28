@@ -1,0 +1,19 @@
+{
+  "slug": "eden-s-natural-garden-nj",
+  "name": "Eden's Natural Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "NJ",
+  "locationCity": "",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "lat": 39.61334835300005,
+  "lon": -74.72856499999995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:38.542Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:38.542Z"
+}

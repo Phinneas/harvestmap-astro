@@ -1,0 +1,19 @@
+{
+  "slug": "terrapin-hill-farm-3696-mackville-rd",
+  "name": "Terrapin Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3696 Mackville Rd, KY",
+  "locationCity": "3696 Mackville Rd",
+  "locationState": "KY",
+  "locationZipcode": "40330",
+  "lat": 37.7420609429121,
+  "lon": -84.9788074470234,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:40.559Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:40.559Z"
+}

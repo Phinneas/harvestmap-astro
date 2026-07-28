@@ -1,0 +1,19 @@
+{
+  "slug": "ferguson-farmers-market-20-s-florissant-rd",
+  "name": "Ferguson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 S. Florissant Rd., MO",
+  "locationCity": "20 S. Florissant Rd.",
+  "locationState": "MO",
+  "locationZipcode": "63135",
+  "lat": 38.74314709779983,
+  "lon": -90.304466045097,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

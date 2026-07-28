@@ -1,0 +1,19 @@
+{
+  "slug": "big-bear-farmers-market-42900-w-big-bear-blvd",
+  "name": "Big Bear Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "42900 W. Big Bear Blvd., CA",
+  "locationCity": "42900 W. Big Bear Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "42900",
+  "lat": 34.26042141639548,
+  "lon": -116.86689046929251,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

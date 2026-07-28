@@ -1,0 +1,19 @@
+{
+  "slug": "great-pumpkin-patch-dri",
+  "name": "Great Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "DRI, TX",
+  "locationCity": "DRI",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "lat": 32.4967490008551,
+  "lon": -99.7615880331777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:20.893Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:20.893Z"
+}

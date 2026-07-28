@@ -1,0 +1,19 @@
+{
+  "slug": "midwest-city-farmers-market-9104-se-15th-st",
+  "name": "Midwest City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9104 SE 15th St., OK",
+  "locationCity": "9104 SE 15th St.",
+  "locationState": "OK",
+  "locationZipcode": "73130",
+  "lat": 35.44964075504315,
+  "lon": -97.36913855173432,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

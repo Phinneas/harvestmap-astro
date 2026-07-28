@@ -1,0 +1,19 @@
+{
+  "slug": "martinsburg-farmers-market-100-east-liberty-street",
+  "name": "Martinsburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 East Liberty Street, WV",
+  "locationCity": "100 East Liberty Street",
+  "locationState": "WV",
+  "locationZipcode": "",
+  "lat": 39.4590257,
+  "lon": -77.9600342,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.830Z"
+}

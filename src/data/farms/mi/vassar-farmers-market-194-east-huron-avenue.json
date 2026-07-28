@@ -1,0 +1,19 @@
+{
+  "slug": "vassar-farmers-market-194-east-huron-avenue",
+  "name": "Vassar Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "194 East Huron Avenue, MI",
+  "locationCity": "194 East Huron Avenue",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.37134718838151,
+  "lon": -83.58170486849993,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

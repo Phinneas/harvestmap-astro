@@ -1,0 +1,19 @@
+{
+  "slug": "lamplit-farm-2489-carey-hill-road",
+  "name": "Lamplit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2489 Carey Hill Road, NY",
+  "locationCity": "2489 Carey Hill Road",
+  "locationState": "NY",
+  "locationZipcode": "13037",
+  "lat": 42.9846339314173,
+  "lon": -75.8298217485798,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.650Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.650Z"
+}

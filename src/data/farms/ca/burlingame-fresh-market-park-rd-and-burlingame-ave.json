@@ -1,0 +1,19 @@
+{
+  "slug": "burlingame-fresh-market-park-rd-and-burlingame-ave",
+  "name": "Burlingame Fresh Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Park Rd. and Burlingame Ave., CA",
+  "locationCity": "Park Rd. and Burlingame Ave.",
+  "locationState": "CA",
+  "locationZipcode": "94010",
+  "lat": 37.57858998495088,
+  "lon": -122.34705998671569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

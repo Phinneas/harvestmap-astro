@@ -1,0 +1,19 @@
+{
+  "slug": "davenport-farmers-market-6th-st-and-morgan-st",
+  "name": "Davenport Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6th St. and Morgan St., WA",
+  "locationCity": "6th St. and Morgan St.",
+  "locationState": "WA",
+  "locationZipcode": "99122",
+  "lat": 47.65404999146892,
+  "lon": -118.14977000381322,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

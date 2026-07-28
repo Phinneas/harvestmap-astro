@@ -1,0 +1,19 @@
+{
+  "slug": "goose-lane-egg-farm-111-goose-lane",
+  "name": "Goose Lane Egg Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "111 goose lane, PA",
+  "locationCity": "111 goose lane",
+  "locationState": "PA",
+  "locationZipcode": "19608",
+  "lat": 40.2836409864405,
+  "lon": -76.0214440412919,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:17.927Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:17.927Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rochester-public-market-280-n-union-st",
+  "name": "Rochester Public Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "280 N. Union St., NY",
+  "locationCity": "280 N. Union St.",
+  "locationState": "NY",
+  "locationZipcode": "14609",
+  "lat": 43.163625430019884,
+  "lon": -77.59212628760007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.520Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.520Z"
+}

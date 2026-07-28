@@ -1,0 +1,19 @@
+{
+  "slug": "latimer-county-farmers-market-229-w-main",
+  "name": "Latimer County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "229 W. Main, OK",
+  "locationCity": "229 W. Main",
+  "locationState": "OK",
+  "locationZipcode": "74578",
+  "lat": 34.91871432787904,
+  "lon": -95.31219120460995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "monte-vista-farmers-market-1st-ave-and-jefferson-st",
+  "name": "Monte Vista Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st Ave. and Jefferson St., CO",
+  "locationCity": "1st Ave. and Jefferson St.",
+  "locationState": "CO",
+  "locationZipcode": "81144",
+  "lat": 37.580901082572076,
+  "lon": -106.14513179151366,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.497Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.497Z"
+}

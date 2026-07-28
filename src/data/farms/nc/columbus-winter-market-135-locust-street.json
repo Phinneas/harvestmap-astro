@@ -1,0 +1,19 @@
+{
+  "slug": "columbus-winter-market-135-locust-street",
+  "name": "Columbus Winter Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "135 Locust Street, NC",
+  "locationCity": "135 Locust Street",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "lat": 35.25348380000001,
+  "lon": -82.19313609999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.469Z"
+}

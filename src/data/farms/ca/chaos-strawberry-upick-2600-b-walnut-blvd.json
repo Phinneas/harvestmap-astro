@@ -1,0 +1,19 @@
+{
+  "slug": "chaos-strawberry-upick-2600-b-walnut-blvd",
+  "name": "Chaos Strawberry Upick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2600 B Walnut Blvd, CA",
+  "locationCity": "2600 B Walnut Blvd",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 37.91261201161547,
+  "lon": -121.6958840106129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.979Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.979Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sherman-farm-2679-east-conway-rd",
+  "name": "Sherman Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2679 East Conway Rd, NH",
+  "locationCity": "2679 East Conway Rd",
+  "locationState": "NH",
+  "locationZipcode": "03813",
+  "lat": 44.0187470028264,
+  "lon": -71.0040450147372,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:24.576Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:24.576Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rancho-alegre-farm-2225-givens-road",
+  "name": "Rancho Alegre Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2225 Givens Road, GA",
+  "locationCity": "2225 Givens Road",
+  "locationState": "GA",
+  "locationZipcode": "30016",
+  "lat": 33.9496489865471,
+  "lon": -83.885979020915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:08.719Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:08.719Z"
+}

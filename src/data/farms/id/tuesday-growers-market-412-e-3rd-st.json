@@ -1,0 +1,19 @@
+{
+  "slug": "tuesday-growers-market-412-e-3rd-st",
+  "name": "Tuesday Growers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "412 E. 3rd St., ID",
+  "locationCity": "412 E. 3rd St.",
+  "locationState": "ID",
+  "locationZipcode": "83843",
+  "lat": 46.73241823123363,
+  "lon": -116.99679096497394,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

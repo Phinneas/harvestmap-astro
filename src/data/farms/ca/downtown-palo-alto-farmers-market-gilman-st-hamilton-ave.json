@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-palo-alto-farmers-market-gilman-st-hamilton-ave",
+  "name": "Downtown Palo Alto Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Gilman St. & Hamilton Ave., CA",
+  "locationCity": "Gilman St. & Hamilton Ave.",
+  "locationState": "CA",
+  "locationZipcode": "94301",
+  "lat": 37.44570999752996,
+  "lon": -122.15974004108446,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

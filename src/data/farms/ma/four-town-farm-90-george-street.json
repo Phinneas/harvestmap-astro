@@ -1,0 +1,19 @@
+{
+  "slug": "four-town-farm-90-george-street",
+  "name": "Four Town Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "90 George Street, MA",
+  "locationCity": "90 George Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 41.77590628702933,
+  "lon": -71.31382674505646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.348Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.348Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "westover-market-burdickville-road",
+  "name": "Westover Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Burdickville Road, MI",
+  "locationCity": "Burdickville Road",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 44.848461060031624,
+  "lon": -85.93816017227097,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:01.344Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:01.344Z"
+}

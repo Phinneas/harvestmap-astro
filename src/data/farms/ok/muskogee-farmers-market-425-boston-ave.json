@@ -1,0 +1,19 @@
+{
+  "slug": "muskogee-farmers-market-425-boston-ave",
+  "name": "Muskogee Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "425 Boston Ave., OK",
+  "locationCity": "425 Boston Ave.",
+  "locationState": "OK",
+  "locationZipcode": "74401",
+  "lat": 35.74845401128258,
+  "lon": -95.37330813117984,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

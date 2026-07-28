@@ -1,0 +1,19 @@
+{
+  "slug": "pinole-farmers-market-fernandez-ave-and-pear-st",
+  "name": "Pinole Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Fernandez Ave. and Pear St., CA",
+  "locationCity": "Fernandez Ave. and Pear St.",
+  "locationState": "CA",
+  "locationZipcode": "94564",
+  "lat": 38.00524000451213,
+  "lon": -122.28964001046943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

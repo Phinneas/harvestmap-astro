@@ -1,0 +1,19 @@
+{
+  "slug": "jake-s-country-meats-55721-decatur-rd",
+  "name": "Jake's Country Meats",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "55721 Decatur Rd, MI",
+  "locationCity": "55721 Decatur Rd",
+  "locationState": "MI",
+  "locationZipcode": "55721",
+  "lat": 41.9879540204946,
+  "lon": -85.9670179923843,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:53.642Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:53.642Z"
+}

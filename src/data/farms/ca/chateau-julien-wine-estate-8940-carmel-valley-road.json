@@ -1,0 +1,19 @@
+{
+  "slug": "chateau-julien-wine-estate-8940-carmel-valley-road",
+  "name": "Chateau Julien Wine Estate",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8940 Carmel Valley road, CA",
+  "locationCity": "8940 Carmel Valley road",
+  "locationState": "CA",
+  "locationZipcode": "93922",
+  "lat": 36.5284329869451,
+  "lon": -121.819680026648,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.964Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.964Z"
+}

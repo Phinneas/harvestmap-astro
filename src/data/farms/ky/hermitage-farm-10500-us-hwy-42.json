@@ -1,0 +1,19 @@
+{
+  "slug": "hermitage-farm-10500-us-hwy-42",
+  "name": "Hermitage Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10500 US Hwy 42, KY",
+  "locationCity": "10500 US Hwy 42",
+  "locationState": "KY",
+  "locationZipcode": "10500",
+  "lat": 38.3581643033313,
+  "lon": -85.6103685304697,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:40.556Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:40.556Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stonehaven-family-farm-1506-drift-road",
+  "name": "Stonehaven Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1506 Drift Road, MA",
+  "locationCity": "1506 Drift Road",
+  "locationState": "MA",
+  "locationZipcode": "02790",
+  "lat": 41.5460361547517,
+  "lon": -71.0674949321279,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.339Z"
+}

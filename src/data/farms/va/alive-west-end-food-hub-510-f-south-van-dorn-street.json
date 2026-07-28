@@ -1,0 +1,19 @@
+{
+  "slug": "alive-west-end-food-hub-510-f-south-van-dorn-street",
+  "name": "ALIVE! West End Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "510-F South Van Dorn Street, VA",
+  "locationCity": "510-F South Van Dorn Street",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "lat": 38.806116980875885,
+  "lon": -77.13178897142959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:00.136Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:00.136Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sanford-farmers-market-6-school-st",
+  "name": "Sanford Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6 School St., ME",
+  "locationCity": "6 School St.",
+  "locationState": "ME",
+  "locationZipcode": "04073",
+  "lat": 43.438557758700235,
+  "lon": -70.77387673437877,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.161Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.161Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pleasantville-farmers-market-801-pleasant-st",
+  "name": "Pleasantville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "801 Pleasant St., IA",
+  "locationCity": "801 Pleasant St.",
+  "locationState": "IA",
+  "locationZipcode": "50225",
+  "lat": 41.39272454242518,
+  "lon": -93.27721594731351,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

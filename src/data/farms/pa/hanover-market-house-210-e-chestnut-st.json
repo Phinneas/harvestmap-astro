@@ -1,0 +1,19 @@
+{
+  "slug": "hanover-market-house-210-e-chestnut-st",
+  "name": "Hanover Market House",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 E. Chestnut St., PA",
+  "locationCity": "210 E. Chestnut St.",
+  "locationState": "PA",
+  "locationZipcode": "17331",
+  "lat": 39.80352480710675,
+  "lon": -76.98213726683507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

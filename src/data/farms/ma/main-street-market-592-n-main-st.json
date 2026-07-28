@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-market-592-n-main-st",
+  "name": "Main Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "592 N. Main St., MA",
+  "locationCity": "592 N. Main St.",
+  "locationState": "MA",
+  "locationZipcode": "02368",
+  "lat": 42.17902044858882,
+  "lon": -71.03009727208845,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

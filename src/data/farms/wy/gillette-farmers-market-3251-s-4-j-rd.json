@@ -1,0 +1,19 @@
+{
+  "slug": "gillette-farmers-market-3251-s-4-j-rd",
+  "name": "Gillette Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3251 S 4-J Rd., WY",
+  "locationCity": "3251 S 4-J Rd.",
+  "locationState": "WY",
+  "locationZipcode": "82718",
+  "lat": 44.263024078716015,
+  "lon": -105.50961572999977,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:46.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:46.336Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "leavenworth-community-farmers-market-700-us-hwy-2",
+  "name": "Leavenworth Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 US Hwy 2, WA",
+  "locationCity": "700 US Hwy 2",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 47.59508,
+  "lon": -120.6641377,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.194Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "divisadero-farmers-market-grove-st-at-divisadero-st",
+  "name": "Divisadero Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Grove St. at Divisadero St., CA",
+  "locationCity": "Grove St. at Divisadero St.",
+  "locationState": "CA",
+  "locationZipcode": "94115",
+  "lat": 37.77592999291417,
+  "lon": -122.4379799992023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

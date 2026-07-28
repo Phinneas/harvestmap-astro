@@ -1,0 +1,19 @@
+{
+  "slug": "millbrae-farmers-market-200-block-broadway",
+  "name": "Millbrae Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Block Broadway, CA",
+  "locationCity": "200 Block Broadway",
+  "locationState": "CA",
+  "locationZipcode": "94030",
+  "lat": 37.599992527785574,
+  "lon": -122.39065190726255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

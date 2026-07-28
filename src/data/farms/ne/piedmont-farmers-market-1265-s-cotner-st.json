@@ -1,0 +1,19 @@
+{
+  "slug": "piedmont-farmers-market-1265-s-cotner-st",
+  "name": "Piedmont Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1265 S. Cotner St., NE",
+  "locationCity": "1265 S. Cotner St.",
+  "locationState": "NE",
+  "locationZipcode": "68510",
+  "lat": 40.79951135478005,
+  "lon": -96.65077370444997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:03.911Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:03.911Z"
+}

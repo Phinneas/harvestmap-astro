@@ -1,0 +1,19 @@
+{
+  "slug": "saha-farmers-market-818-s-flores-st",
+  "name": "SAHA Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "818 S. Flores St., TX",
+  "locationCity": "818 S. Flores St.",
+  "locationState": "TX",
+  "locationZipcode": "78204",
+  "lat": 29.415470597403168,
+  "lon": -98.49881383345327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

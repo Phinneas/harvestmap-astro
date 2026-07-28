@@ -1,0 +1,19 @@
+{
+  "slug": "west-ashley-farmers-market-charleston-sc-55-sycamore-avenue",
+  "name": "West Ashley Farmers Market - Charleston, SC",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "55 Sycamore Avenue, SC",
+  "locationCity": "55 Sycamore Avenue",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "lat": 32.7900549,
+  "lon": -79.9885537,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:49.597Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:49.597Z"
+}

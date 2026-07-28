@@ -1,0 +1,19 @@
+{
+  "slug": "shingle-mill-blueberry-farm-488-shingle-mill-rd",
+  "name": "Shingle Mill Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "488 Shingle Mill Rd, ID",
+  "locationCity": "488 Shingle Mill Rd",
+  "locationState": "ID",
+  "locationZipcode": "83864",
+  "lat": 48.3231269886359,
+  "lon": -116.491191022327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:36.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:36.723Z"
+}

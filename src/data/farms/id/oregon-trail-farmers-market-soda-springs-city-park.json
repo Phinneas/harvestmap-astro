@@ -1,0 +1,19 @@
+{
+  "slug": "oregon-trail-farmers-market-soda-springs-city-park",
+  "name": "Oregon Trail Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Soda Springs City Park, ID",
+  "locationCity": "Soda Springs City Park",
+  "locationState": "ID",
+  "locationZipcode": "83276",
+  "lat": 42.656840000000045,
+  "lon": -111.59918499999998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mount-carroll-farmers-market-e-market-st",
+  "name": "Mount Carroll Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "E Market St, IL",
+  "locationCity": "E Market St",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 42.1013376,
+  "lon": -89.97779,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.459Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.459Z"
+}

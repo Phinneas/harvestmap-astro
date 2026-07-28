@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-citizen-s-square-435-franklin-st",
+  "name": "Farmers' Market at Citizen's Square",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "435 Franklin St., VA",
+  "locationCity": "435 Franklin St.",
+  "locationState": "VA",
+  "locationZipcode": "24151",
+  "lat": 36.996808630718526,
+  "lon": -79.89192287369134,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

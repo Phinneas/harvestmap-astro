@@ -1,0 +1,19 @@
+{
+  "slug": "stade-dairy-farm-3709-miller-road",
+  "name": "Stade Dairy Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3709 Miller Road, IL",
+  "locationCity": "3709 Miller Road",
+  "locationState": "IL",
+  "locationZipcode": "60050",
+  "lat": 42.4148109892452,
+  "lon": -88.2631849629167,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:48.619Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:48.619Z"
+}

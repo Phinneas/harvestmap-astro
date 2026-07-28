@@ -1,0 +1,19 @@
+{
+  "slug": "waterloo-urban-farmers-market-460-jefferson-street",
+  "name": "Waterloo Urban Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "460 Jefferson Street, IA",
+  "locationCity": "460 Jefferson Street",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 42.4953498,
+  "lon": -92.34265889999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.615Z"
+}

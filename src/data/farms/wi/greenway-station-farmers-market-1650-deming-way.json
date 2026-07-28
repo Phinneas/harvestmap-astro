@@ -1,0 +1,19 @@
+{
+  "slug": "greenway-station-farmers-market-1650-deming-way",
+  "name": "Greenway Station Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1650 Deming Way, WI",
+  "locationCity": "1650 Deming Way",
+  "locationState": "WI",
+  "locationZipcode": "53562",
+  "lat": 43.09549400373477,
+  "lon": -89.52358298863406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

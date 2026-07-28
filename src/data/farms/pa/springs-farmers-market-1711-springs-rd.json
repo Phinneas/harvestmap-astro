@@ -1,0 +1,19 @@
+{
+  "slug": "springs-farmers-market-1711-springs-rd",
+  "name": "Springs Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1711 Springs Rd., PA",
+  "locationCity": "1711 Springs Rd.",
+  "locationState": "PA",
+  "locationZipcode": "15562",
+  "lat": 39.73423815582988,
+  "lon": -79.14766825620296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "central-city-south-farmers-market-7th-ave-and-buckeye",
+  "name": "Central City South Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7th Ave. and Buckeye, AZ",
+  "locationCity": "7th Ave. and Buckeye",
+  "locationState": "AZ",
+  "locationZipcode": "85007",
+  "lat": 33.436829984857155,
+  "lon": -112.08252997700242,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

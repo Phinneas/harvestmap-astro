@@ -1,0 +1,19 @@
+{
+  "slug": "delta-organic-farm-east-hadley-road",
+  "name": "Delta Organic Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "East Hadley Road, MA",
+  "locationCity": "East Hadley Road",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.3515499999521,
+  "lon": -72.5277372639992,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.332Z"
+}

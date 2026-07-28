@@ -1,0 +1,19 @@
+{
+  "slug": "garrettsville-farmers-market-main-street-high-street",
+  "name": "Garrettsville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street & High Street, OH",
+  "locationCity": "Main Street & High Street",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 41.2846303,
+  "lon": -81.0976469,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:45.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:45.868Z"
+}

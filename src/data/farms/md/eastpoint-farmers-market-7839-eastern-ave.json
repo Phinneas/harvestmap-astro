@@ -1,0 +1,19 @@
+{
+  "slug": "eastpoint-farmers-market-7839-eastern-ave",
+  "name": "Eastpoint Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7839 Eastern Ave., MD",
+  "locationCity": "7839 Eastern Ave.",
+  "locationState": "MD",
+  "locationZipcode": "21224",
+  "lat": 39.29519308139954,
+  "lon": -76.51074680822967,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.944Z"
+}

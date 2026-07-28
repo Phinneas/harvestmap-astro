@@ -1,0 +1,19 @@
+{
+  "slug": "solon-township-farmers-market-15185-algoma-ave",
+  "name": "Solon Township Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15185 Algoma Ave., MI",
+  "locationCity": "15185 Algoma Ave.",
+  "locationState": "MI",
+  "locationZipcode": "15185",
+  "lat": 43.24069236481662,
+  "lon": -85.61111406591363,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

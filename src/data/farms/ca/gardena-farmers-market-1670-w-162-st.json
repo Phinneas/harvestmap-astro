@@ -1,0 +1,19 @@
+{
+  "slug": "gardena-farmers-market-1670-w-162-st",
+  "name": "Gardena Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1670 W. 162 St., CA",
+  "locationCity": "1670 W. 162 St.",
+  "locationState": "CA",
+  "locationZipcode": "90247",
+  "lat": 33.883771311218524,
+  "lon": -118.30541558601756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "oceanside-farmers-market-n-coast-hwy-101-and-pier-view-way",
+  "name": "Oceanside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N. Coast Hwy. 101 and Pier View Way, CA",
+  "locationCity": "N. Coast Hwy. 101 and Pier View Way",
+  "locationState": "CA",
+  "locationZipcode": "92054",
+  "lat": 33.196710000371894,
+  "lon": -117.38021003891723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

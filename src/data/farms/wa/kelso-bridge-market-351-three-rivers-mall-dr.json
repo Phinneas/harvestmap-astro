@@ -1,0 +1,19 @@
+{
+  "slug": "kelso-bridge-market-351-three-rivers-mall-dr",
+  "name": "Kelso Bridge Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "351 Three Rivers Mall Dr., WA",
+  "locationCity": "351 Three Rivers Mall Dr.",
+  "locationState": "WA",
+  "locationZipcode": "98626",
+  "lat": 46.13743689014872,
+  "lon": -122.90138513111809,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

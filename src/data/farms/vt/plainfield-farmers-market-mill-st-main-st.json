@@ -1,0 +1,19 @@
+{
+  "slug": "plainfield-farmers-market-mill-st-main-st",
+  "name": "Plainfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Mill St. & Main St., VT",
+  "locationCity": "Mill St. & Main St.",
+  "locationState": "VT",
+  "locationZipcode": "05667",
+  "lat": 44.277729999403334,
+  "lon": -72.42489997876105,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:47.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:47.852Z"
+}

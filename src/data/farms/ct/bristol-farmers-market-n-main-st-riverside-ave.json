@@ -1,0 +1,19 @@
+{
+  "slug": "bristol-farmers-market-n-main-st-riverside-ave",
+  "name": "Bristol Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N. Main St. & Riverside Ave., CT",
+  "locationCity": "N. Main St. & Riverside Ave.",
+  "locationState": "CT",
+  "locationZipcode": "06010",
+  "lat": 41.67148998550675,
+  "lon": -72.94559998109266,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wellston-farmers-market-316-2nd-street",
+  "name": "Wellston Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "316 2nd Street, OK",
+  "locationCity": "316 2nd Street",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "lat": 35.694802,
+  "lon": -97.064627,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.540Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.540Z"
+}

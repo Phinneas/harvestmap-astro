@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-4th-st-main-st",
+  "name": "Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4th St. & Main St., WA",
+  "locationCity": "4th St. & Main St.",
+  "locationState": "WA",
+  "locationZipcode": "99362",
+  "lat": 46.06568001027483,
+  "lon": -118.34198003557603,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

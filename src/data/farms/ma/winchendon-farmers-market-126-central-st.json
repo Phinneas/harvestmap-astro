@@ -1,0 +1,19 @@
+{
+  "slug": "winchendon-farmers-market-126-central-st",
+  "name": "Winchendon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "126 Central St., MA",
+  "locationCity": "126 Central St.",
+  "locationState": "MA",
+  "locationZipcode": "01475",
+  "lat": 42.683737060904,
+  "lon": -72.04650589272805,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

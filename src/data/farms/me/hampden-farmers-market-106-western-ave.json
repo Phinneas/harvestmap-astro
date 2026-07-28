@@ -1,0 +1,19 @@
+{
+  "slug": "hampden-farmers-market-106-western-ave",
+  "name": "Hampden Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 Western Ave., ME",
+  "locationCity": "106 Western Ave.",
+  "locationState": "ME",
+  "locationZipcode": "04444",
+  "lat": 44.74567379237134,
+  "lon": -68.85217757087301,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.160Z"
+}

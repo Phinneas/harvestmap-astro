@@ -1,0 +1,19 @@
+{
+  "slug": "hood-river-farmers-market-501-columbia-street",
+  "name": "Hood River Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "501 Columbia Street, OR",
+  "locationCity": "501 Columbia Street",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "lat": 45.70977999999999,
+  "lon": -121.515977,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.944Z"
+}

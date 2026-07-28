@@ -1,0 +1,19 @@
+{
+  "slug": "tustin-farmers-market-el-camino-real-at-3rd-st",
+  "name": "Tustin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "El Camino Real at 3rd St., CA",
+  "locationCity": "El Camino Real at 3rd St.",
+  "locationState": "CA",
+  "locationZipcode": "92780",
+  "lat": 33.74454000000003,
+  "lon": -117.82025499999997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

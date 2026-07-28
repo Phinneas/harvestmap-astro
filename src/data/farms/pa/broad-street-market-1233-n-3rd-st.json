@@ -1,0 +1,19 @@
+{
+  "slug": "broad-street-market-1233-n-3rd-st",
+  "name": "Broad Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1233 N. 3rd St., PA",
+  "locationCity": "1233 N. 3rd St.",
+  "locationState": "PA",
+  "locationZipcode": "17102",
+  "lat": 40.269482323558016,
+  "lon": -76.88878749074689,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

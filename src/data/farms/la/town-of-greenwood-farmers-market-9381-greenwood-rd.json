@@ -1,0 +1,19 @@
+{
+  "slug": "town-of-greenwood-farmers-market-9381-greenwood-rd",
+  "name": "Town of Greenwood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9381 Greenwood Rd., LA",
+  "locationCity": "9381 Greenwood Rd.",
+  "locationState": "LA",
+  "locationZipcode": "71033",
+  "lat": 32.4435635731713,
+  "lon": -93.97553226566158,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:06.421Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:06.421Z"
+}

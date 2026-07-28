@@ -1,0 +1,19 @@
+{
+  "slug": "lewis-county-farmers-market-n-pearl-st-and-w-maple-st",
+  "name": "Lewis County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N. Pearl St. and W. Maple St., WA",
+  "locationCity": "N. Pearl St. and W. Maple St.",
+  "locationState": "WA",
+  "locationZipcode": "98531",
+  "lat": 46.7193299889189,
+  "lon": -122.95432996142392,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

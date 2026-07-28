@@ -1,0 +1,19 @@
+{
+  "slug": "blue-hill-farmers-market-233-ellsworth-rd",
+  "name": "Blue Hill Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "233 Ellsworth Rd., ME",
+  "locationCity": "233 Ellsworth Rd.",
+  "locationState": "ME",
+  "locationZipcode": "04614",
+  "lat": 44.43032745599025,
+  "lon": -68.5753449240497,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.160Z"
+}

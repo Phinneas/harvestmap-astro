@@ -1,0 +1,19 @@
+{
+  "slug": "lewisburg-farmers-market-499-fairground-road",
+  "name": "Lewisburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "499 Fairground Road, PA",
+  "locationCity": "499 Fairground Road",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "lat": 40.95955560000001,
+  "lon": -76.9083121,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.696Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.696Z"
+}

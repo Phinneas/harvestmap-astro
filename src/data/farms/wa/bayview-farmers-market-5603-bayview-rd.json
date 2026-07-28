@@ -1,0 +1,19 @@
+{
+  "slug": "bayview-farmers-market-5603-bayview-rd",
+  "name": "Bayview Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5603 Bayview Rd., WA",
+  "locationCity": "5603 Bayview Rd.",
+  "locationState": "WA",
+  "locationZipcode": "98260",
+  "lat": 48.00749450439311,
+  "lon": -122.4610221256329,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

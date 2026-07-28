@@ -1,0 +1,19 @@
+{
+  "slug": "stonebridge-farm-186-leonard-street",
+  "name": "Stonebridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "186 Leonard Street, MA",
+  "locationCity": "186 Leonard Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 41.7199303450621,
+  "lon": -70.8998681841883,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.332Z"
+}

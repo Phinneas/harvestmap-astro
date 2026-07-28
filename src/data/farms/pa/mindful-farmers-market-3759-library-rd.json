@@ -1,0 +1,19 @@
+{
+  "slug": "mindful-farmers-market-3759-library-rd",
+  "name": "Mindful Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3759 Library Rd., PA",
+  "locationCity": "3759 Library Rd.",
+  "locationState": "PA",
+  "locationZipcode": "15234",
+  "lat": 40.36453313291108,
+  "lon": -80.02133146080874,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

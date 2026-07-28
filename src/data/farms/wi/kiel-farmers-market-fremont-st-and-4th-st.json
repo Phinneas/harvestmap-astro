@@ -1,0 +1,19 @@
+{
+  "slug": "kiel-farmers-market-fremont-st-and-4th-st",
+  "name": "Kiel Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Fremont St. and 4th St., WI",
+  "locationCity": "Fremont St. and 4th St.",
+  "locationState": "WI",
+  "locationZipcode": "53042",
+  "lat": 43.912439995404526,
+  "lon": -88.03429002316403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

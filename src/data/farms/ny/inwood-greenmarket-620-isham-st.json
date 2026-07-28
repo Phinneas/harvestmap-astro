@@ -1,0 +1,19 @@
+{
+  "slug": "inwood-greenmarket-620-isham-st",
+  "name": "Inwood Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "620 Isham St, NY",
+  "locationCity": "620 Isham St",
+  "locationState": "NY",
+  "locationZipcode": "10034",
+  "lat": 40.869068746809816,
+  "lon": -73.9203689660966,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.520Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.520Z"
+}

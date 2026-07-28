@@ -1,0 +1,19 @@
+{
+  "slug": "crockett-port-costa-farmers-market-1250-pomona-st",
+  "name": "Crockett-Port Costa Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1250 Pomona St., CA",
+  "locationCity": "1250 Pomona St.",
+  "locationState": "CA",
+  "locationZipcode": "94525",
+  "lat": 38.05238054760103,
+  "lon": -122.22327763652753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

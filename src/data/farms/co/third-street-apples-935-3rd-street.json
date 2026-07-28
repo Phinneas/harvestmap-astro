@@ -1,0 +1,19 @@
+{
+  "slug": "third-street-apples-935-3rd-street",
+  "name": "Third Street Apples",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "935 3rd Street, CO",
+  "locationCity": "935 3rd Street",
+  "locationState": "CO",
+  "locationZipcode": "81240",
+  "lat": 38.4478669792637,
+  "lon": -105.008383991666,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:08.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:08.830Z"
+}

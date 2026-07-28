@@ -1,0 +1,19 @@
+{
+  "slug": "clark-park-farmers-market-1730-s-roosevelt-st",
+  "name": "Clark Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1730 S. Roosevelt St., AZ",
+  "locationCity": "1730 S. Roosevelt St.",
+  "locationState": "AZ",
+  "locationZipcode": "85281",
+  "lat": 33.41020444824795,
+  "lon": -111.94785672830992,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

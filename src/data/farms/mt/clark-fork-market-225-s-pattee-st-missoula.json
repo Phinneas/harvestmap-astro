@@ -1,0 +1,19 @@
+{
+  "slug": "clark-fork-market-225-s-pattee-st-missoula",
+  "name": "Clark Fork Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "225 S Pattee St Missoula, MT",
+  "locationCity": "225 S Pattee St Missoula",
+  "locationState": "MT",
+  "locationZipcode": "59802",
+  "lat": 46.868713655434824,
+  "lon": -113.99441188897083,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:48.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:48.809Z"
+}

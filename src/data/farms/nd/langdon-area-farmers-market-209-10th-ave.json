@@ -1,0 +1,19 @@
+{
+  "slug": "langdon-area-farmers-market-209-10th-ave",
+  "name": "Langdon Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "209 10th Ave., ND",
+  "locationCity": "209 10th Ave.",
+  "locationState": "ND",
+  "locationZipcode": "58249",
+  "lat": 48.76216973200538,
+  "lon": -98.36691342337157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:33.301Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:33.301Z"
+}

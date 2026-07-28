@@ -1,0 +1,19 @@
+{
+  "slug": "oracle-farmers-market-1395-w-american-ave",
+  "name": "Oracle Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1395 W. American Ave., AZ",
+  "locationCity": "1395 W. American Ave.",
+  "locationState": "AZ",
+  "locationZipcode": "85623",
+  "lat": 32.61810375713799,
+  "lon": -110.78931042029448,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

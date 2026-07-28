@@ -1,0 +1,19 @@
+{
+  "slug": "morro-bay-farmers-market-880-main-st",
+  "name": "Morro Bay Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "880 Main St., CA",
+  "locationCity": "880 Main St.",
+  "locationState": "CA",
+  "locationZipcode": "93442",
+  "lat": 35.366637401206596,
+  "lon": -120.84993761138068,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

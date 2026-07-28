@@ -1,0 +1,19 @@
+{
+  "slug": "stevenson-farmers-market-199-2nd-st",
+  "name": "Stevenson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "199 2nd St., WA",
+  "locationCity": "199 2nd St.",
+  "locationState": "WA",
+  "locationZipcode": "98648",
+  "lat": 45.69433475870815,
+  "lon": -121.88228665973094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

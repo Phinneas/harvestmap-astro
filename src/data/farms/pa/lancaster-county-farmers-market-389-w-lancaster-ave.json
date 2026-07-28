@@ -1,0 +1,19 @@
+{
+  "slug": "lancaster-county-farmers-market-389-w-lancaster-ave",
+  "name": "Lancaster County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "389 W. Lancaster Ave., PA",
+  "locationCity": "389 W. Lancaster Ave.",
+  "locationState": "PA",
+  "locationZipcode": "19087",
+  "lat": 40.04385219908166,
+  "lon": -75.38307607945379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

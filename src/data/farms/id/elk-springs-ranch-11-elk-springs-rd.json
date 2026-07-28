@@ -1,0 +1,19 @@
+{
+  "slug": "elk-springs-ranch-11-elk-springs-rd",
+  "name": "Elk Springs Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11 Elk Springs Rd., ID",
+  "locationCity": "11 Elk Springs Rd.",
+  "locationState": "ID",
+  "locationZipcode": "83622",
+  "lat": 44.1716089864129,
+  "lon": -115.952572019749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:36.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:36.735Z"
+}

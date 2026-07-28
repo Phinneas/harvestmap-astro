@@ -1,0 +1,19 @@
+{
+  "slug": "freshfarm-market-at-citycenterdc-i-st-nw-10th-st",
+  "name": "FreshFarm Market at CityCenterDC",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "I St. NW & 10th St., DC",
+  "locationCity": "I St. NW & 10th St.",
+  "locationState": "DC",
+  "locationZipcode": "20268",
+  "lat": 38.900850004936046,
+  "lon": -77.02598001669439,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

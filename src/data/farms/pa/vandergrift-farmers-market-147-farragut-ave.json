@@ -1,0 +1,19 @@
+{
+  "slug": "vandergrift-farmers-market-147-farragut-ave",
+  "name": "Vandergrift Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "147 Farragut Ave., PA",
+  "locationCity": "147 Farragut Ave.",
+  "locationState": "PA",
+  "locationZipcode": "15690",
+  "lat": 40.60358170158633,
+  "lon": -79.56296024170025,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

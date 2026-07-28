@@ -1,0 +1,19 @@
+{
+  "slug": "riverview-farmers-market-498-palisade-avenue",
+  "name": "Riverview Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "498 Palisade Avenue, NJ",
+  "locationCity": "498 Palisade Avenue",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "lat": 40.7449895,
+  "lon": -74.04311679999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.856Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.856Z"
+}

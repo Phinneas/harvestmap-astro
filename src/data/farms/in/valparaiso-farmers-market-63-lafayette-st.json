@@ -1,0 +1,19 @@
+{
+  "slug": "valparaiso-farmers-market-63-lafayette-st",
+  "name": "Valparaiso Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "63 Lafayette St., IN",
+  "locationCity": "63 Lafayette St.",
+  "locationState": "IN",
+  "locationZipcode": "46384",
+  "lat": 41.466979007919775,
+  "lon": -87.06189101890749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" fill="none">
+  <rect width="600" height="450" fill="#F2E6D0"/>
+  <path d="M300 180c-20 0-35 15-35 35s15 35 35 35 35-15 35-35-15-35-35-35z" stroke="#C2602C" stroke-width="3" fill="none"/>
+  <path d="M250 280h100M270 310h60M280 340h40" stroke="#8A9A5B" stroke-width="3" stroke-linecap="round"/>
+  <path d="M200 120c10-20 30-30 50-25M380 140c15-15 35-20 55-10" stroke="#E6B450" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <text x="300" y="400" text-anchor="middle" font-family="serif" font-size="20" fill="#6B5847">HarvestMap</text>
+</svg>

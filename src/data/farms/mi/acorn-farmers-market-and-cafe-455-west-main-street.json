@@ -1,0 +1,19 @@
+{
+  "slug": "acorn-farmers-market-and-cafe-455-west-main-street",
+  "name": "Acorn Farmers Market and Cafe",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "455 West Main Street, MI",
+  "locationCity": "455 West Main Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.147544523440004,
+  "lon": -84.04438075916327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.733Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.733Z"
+}

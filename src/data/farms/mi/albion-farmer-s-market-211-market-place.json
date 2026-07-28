@@ -1,0 +1,19 @@
+{
+  "slug": "albion-farmer-s-market-211-market-place",
+  "name": "Albion Farmer s Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "211 Market Place, MI",
+  "locationCity": "211 Market Place",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.24470781361821,
+  "lon": -84.75243645383176,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.733Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.733Z"
+}

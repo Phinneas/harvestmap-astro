@@ -1,0 +1,19 @@
+{
+  "slug": "highland-street-market-3001-ridge-rd",
+  "name": "Highland Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3001 Ridge Rd., IN",
+  "locationCity": "3001 Ridge Rd.",
+  "locationState": "IN",
+  "locationZipcode": "46322",
+  "lat": 41.55430883566148,
+  "lon": -87.45677353829888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

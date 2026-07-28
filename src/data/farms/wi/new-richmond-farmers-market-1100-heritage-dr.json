@@ -1,0 +1,19 @@
+{
+  "slug": "new-richmond-farmers-market-1100-heritage-dr",
+  "name": "New Richmond Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1100 Heritage Dr., WI",
+  "locationCity": "1100 Heritage Dr.",
+  "locationState": "WI",
+  "locationZipcode": "54017",
+  "lat": 45.10903734056424,
+  "lon": -92.53621651462822,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

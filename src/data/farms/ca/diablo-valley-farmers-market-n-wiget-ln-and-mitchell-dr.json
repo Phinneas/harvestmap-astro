@@ -1,0 +1,19 @@
+{
+  "slug": "diablo-valley-farmers-market-n-wiget-ln-and-mitchell-dr",
+  "name": "Diablo Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N. Wiget Ln. and Mitchell Dr., CA",
+  "locationCity": "N. Wiget Ln. and Mitchell Dr.",
+  "locationState": "CA",
+  "locationZipcode": "94598",
+  "lat": 37.92841998763774,
+  "lon": -122.02654003260031,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

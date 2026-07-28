@@ -1,0 +1,19 @@
+{
+  "slug": "cudahy-farmers-market-3500-library-ave",
+  "name": "Cudahy Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3500 Library Ave., WI",
+  "locationCity": "3500 Library Ave.",
+  "locationState": "WI",
+  "locationZipcode": "53110",
+  "lat": 42.95713244949998,
+  "lon": -87.8622715228598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

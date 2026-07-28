@@ -1,0 +1,19 @@
+{
+  "slug": "old-oak-grove-2479-bethel-road",
+  "name": "Old Oak Grove",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2479 Bethel Road, GA",
+  "locationCity": "2479 Bethel Road",
+  "locationState": "GA",
+  "locationZipcode": "39817",
+  "lat": 30.950337988767,
+  "lon": -84.6389330106969,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:08.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:08.738Z"
+}

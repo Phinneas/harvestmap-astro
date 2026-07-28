@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-farms-4160-keller-hicks-road",
+  "name": "Homestead Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4160 Keller Hicks Road, TX",
+  "locationCity": "4160 Keller Hicks Road",
+  "locationState": "TX",
+  "locationZipcode": "76244",
+  "lat": 32.9361320114397,
+  "lon": -97.2727800334211,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:20.902Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:20.902Z"
+}

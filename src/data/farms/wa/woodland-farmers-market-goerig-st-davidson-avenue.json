@@ -1,0 +1,19 @@
+{
+  "slug": "woodland-farmers-market-goerig-st-davidson-avenue",
+  "name": "Woodland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Goerig St & Davidson Avenue, WA",
+  "locationCity": "Goerig St & Davidson Avenue",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "lat": 45.9009396,
+  "lon": -122.7470308,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.159Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.159Z"
+}

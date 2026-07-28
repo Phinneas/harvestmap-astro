@@ -1,0 +1,19 @@
+{
+  "slug": "gilmer-county-farmers-market-720-n-lewis-st",
+  "name": "Gilmer County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "720 N. Lewis St., WV",
+  "locationCity": "720 N. Lewis St.",
+  "locationState": "WV",
+  "locationZipcode": "26351",
+  "lat": 38.941178237589305,
+  "lon": -80.82365935068782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

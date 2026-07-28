@@ -1,0 +1,19 @@
+{
+  "slug": "phoenixville-farmers-market-200-mill-st",
+  "name": "Phoenixville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Mill St., PA",
+  "locationCity": "200 Mill St.",
+  "locationState": "PA",
+  "locationZipcode": "19460",
+  "lat": 40.134655304302605,
+  "lon": -75.51808115412848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

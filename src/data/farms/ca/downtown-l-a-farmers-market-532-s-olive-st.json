@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-l-a-farmers-market-532-s-olive-st",
+  "name": "Downtown L.A. Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "532 S. Olive St., CA",
+  "locationCity": "532 S. Olive St.",
+  "locationState": "CA",
+  "locationZipcode": "90017",
+  "lat": 34.04900884952003,
+  "lon": -118.25326924383792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

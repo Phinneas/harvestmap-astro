@@ -1,0 +1,19 @@
+{
+  "slug": "corner-farmers-market-17-south-hudson-street",
+  "name": "Corner Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17 South Hudson Street, MI",
+  "locationCity": "17 South Hudson Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 41.938926966492915,
+  "lon": -84.99947699157028,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

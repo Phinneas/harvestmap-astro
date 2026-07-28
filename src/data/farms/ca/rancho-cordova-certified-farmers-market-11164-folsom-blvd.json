@@ -1,0 +1,19 @@
+{
+  "slug": "rancho-cordova-certified-farmers-market-11164-folsom-blvd",
+  "name": "Rancho Cordova Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11164 Folsom Blvd, CA",
+  "locationCity": "11164 Folsom Blvd",
+  "locationState": "CA",
+  "locationZipcode": "11164",
+  "lat": 38.60552759999999,
+  "lon": -121.2676011,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.737Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.737Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "central-certified-farmers-market-8th-st-and-w-st",
+  "name": "Central Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8th St. and W St., CA",
+  "locationCity": "8th St. and W St.",
+  "locationState": "CA",
+  "locationZipcode": "95818",
+  "lat": 38.56671000298425,
+  "lon": -121.50233999895971,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

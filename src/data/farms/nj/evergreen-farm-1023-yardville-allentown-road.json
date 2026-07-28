@@ -1,0 +1,19 @@
+{
+  "slug": "evergreen-farm-1023-yardville-allentown-road",
+  "name": "Evergreen Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1023 Yardville-Allentown Road, NJ",
+  "locationCity": "1023 Yardville-Allentown Road",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "lat": 40.1690560114426,
+  "lon": -74.6355990295464,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:35.999Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:35.999Z"
+}

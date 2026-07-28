@@ -1,0 +1,19 @@
+{
+  "slug": "the-big-apple-207-arnold-st",
+  "name": "The Big Apple",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "207 Arnold St, MA",
+  "locationCity": "207 Arnold St",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.0377719039273,
+  "lon": -71.3998282567597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.326Z"
+}

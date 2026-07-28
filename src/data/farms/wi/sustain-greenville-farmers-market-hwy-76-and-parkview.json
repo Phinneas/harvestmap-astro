@@ -1,0 +1,19 @@
+{
+  "slug": "sustain-greenville-farmers-market-hwy-76-and-parkview",
+  "name": "Sustain Greenville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hwy. 76 and Parkview, WI",
+  "locationCity": "Hwy. 76 and Parkview",
+  "locationState": "WI",
+  "locationZipcode": "54942",
+  "lat": 44.30266000065146,
+  "lon": -88.53649996618577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

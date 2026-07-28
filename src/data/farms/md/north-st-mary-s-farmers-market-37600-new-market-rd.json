@@ -1,0 +1,19 @@
+{
+  "slug": "north-st-mary-s-farmers-market-37600-new-market-rd",
+  "name": "North St. Mary's Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "37600 New Market Rd., MD",
+  "locationCity": "37600 New Market Rd.",
+  "locationState": "MD",
+  "locationZipcode": "37600",
+  "lat": 38.47377451649316,
+  "lon": -76.78502872525738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.944Z"
+}

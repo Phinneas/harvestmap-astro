@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-farm-13902-dunn-road",
+  "name": "Jackson Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13902 Dunn Road, NC",
+  "locationCity": "13902 Dunn Road",
+  "locationState": "NC",
+  "locationZipcode": "13902",
+  "lat": 35.2411347766715,
+  "lon": -78.6434677847271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.472Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.472Z"
+}

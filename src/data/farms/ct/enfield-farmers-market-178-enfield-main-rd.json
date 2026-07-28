@@ -1,0 +1,19 @@
+{
+  "slug": "enfield-farmers-market-178-enfield-main-rd",
+  "name": "Enfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "178 Enfield Main Rd., CT",
+  "locationCity": "178 Enfield Main Rd.",
+  "locationState": "CT",
+  "locationZipcode": "06082",
+  "lat": 42.019181056952334,
+  "lon": -72.59083426628555,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "janesville-farmers-market-janesville",
+  "name": "Janesville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Janesville, MN",
+  "locationCity": "Janesville",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "lat": 44.116149,
+  "lon": -93.709795,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.220Z"
+}

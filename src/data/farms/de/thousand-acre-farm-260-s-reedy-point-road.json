@@ -1,0 +1,19 @@
+{
+  "slug": "thousand-acre-farm-260-s-reedy-point-road",
+  "name": "Thousand Acre Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "260 S. Reedy Point Road, DE",
+  "locationCity": "260 S. Reedy Point Road",
+  "locationState": "DE",
+  "locationZipcode": "19709",
+  "lat": 39.5532429914704,
+  "lon": -75.5867629850222,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:32.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:32.640Z"
+}

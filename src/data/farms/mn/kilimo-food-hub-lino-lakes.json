@@ -1,0 +1,19 @@
+{
+  "slug": "kilimo-food-hub-lino-lakes",
+  "name": "Kilimo Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Lino Lakes, MN",
+  "locationCity": "Lino Lakes",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "lat": 45.1775574,
+  "lon": -93.1148141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.962Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.962Z"
+}

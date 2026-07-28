@@ -1,0 +1,19 @@
+{
+  "slug": "bogert-farmers-market-332-s-church-ave",
+  "name": "Bogert Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "332 S. Church Ave., MT",
+  "locationCity": "332 S. Church Ave.",
+  "locationState": "MT",
+  "locationZipcode": "59715",
+  "lat": 45.675976897509905,
+  "lon": -111.03030084399124,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:48.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:48.809Z"
+}

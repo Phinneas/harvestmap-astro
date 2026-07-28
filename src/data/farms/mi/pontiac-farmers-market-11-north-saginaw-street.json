@@ -1,0 +1,19 @@
+{
+  "slug": "pontiac-farmers-market-11-north-saginaw-street",
+  "name": "Pontiac Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11 North Saginaw Street, MI",
+  "locationCity": "11 North Saginaw Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.63705597310482,
+  "lon": -83.2920717798926,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

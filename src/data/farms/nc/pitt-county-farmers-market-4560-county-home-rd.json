@@ -1,0 +1,19 @@
+{
+  "slug": "pitt-county-farmers-market-4560-county-home-rd",
+  "name": "Pitt County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4560 County Home Rd., NC",
+  "locationCity": "4560 County Home Rd.",
+  "locationState": "NC",
+  "locationZipcode": "27858",
+  "lat": 35.548832251351364,
+  "lon": -77.35095309797997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

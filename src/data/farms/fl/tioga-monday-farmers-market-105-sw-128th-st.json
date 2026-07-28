@@ -1,0 +1,19 @@
+{
+  "slug": "tioga-monday-farmers-market-105-sw-128th-st",
+  "name": "Tioga Monday Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 SW 128th St., FL",
+  "locationCity": "105 SW 128th St.",
+  "locationState": "FL",
+  "locationZipcode": "32669",
+  "lat": 29.65754231431734,
+  "lon": -82.47887424290587,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.374Z"
+}

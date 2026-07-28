@@ -1,0 +1,19 @@
+{
+  "slug": "chesapeake-farmers-market-120-reservation-rd",
+  "name": "Chesapeake Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 Reservation Rd., VA",
+  "locationCity": "120 Reservation Rd.",
+  "locationState": "VA",
+  "locationZipcode": "23322",
+  "lat": 36.72075058467604,
+  "lon": -76.24060848001112,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

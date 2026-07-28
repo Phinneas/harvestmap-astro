@@ -1,0 +1,19 @@
+{
+  "slug": "south-lansing-farmers-market-800-west-barnes-avenue",
+  "name": "South Lansing Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "800 West Barnes Avenue, MI",
+  "locationCity": "800 West Barnes Avenue",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.71493176765025,
+  "lon": -84.56314920238546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

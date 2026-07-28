@@ -1,0 +1,19 @@
+{
+  "slug": "cypress-bend-vineyards-21904-riverton-road",
+  "name": "Cypress Bend Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "21904 Riverton Road, NC",
+  "locationCity": "21904 Riverton Road",
+  "locationState": "NC",
+  "locationZipcode": "21904",
+  "lat": 34.8563616559172,
+  "lon": -79.3453044255009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.470Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.470Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bateson-s-farm-68-barney-ave",
+  "name": "Bateson's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "68 Barney Ave, MA",
+  "locationCity": "68 Barney Ave",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 41.7947431475831,
+  "lon": -71.2848038185783,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.345Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.345Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stony-knoll-farm-800-pleasant-street",
+  "name": "Stony Knoll Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "800 Pleasant Street, MA",
+  "locationCity": "800 Pleasant Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.19827260924421,
+  "lon": -71.9132642503424,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:48.442Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:48.442Z"
+}

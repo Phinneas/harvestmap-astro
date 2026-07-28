@@ -1,0 +1,19 @@
+{
+  "slug": "terrapin-station-winery-80-ricketts-mill-rd",
+  "name": "Terrapin Station Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "80 Ricketts Mill Rd, MD",
+  "locationCity": "80 Ricketts Mill Rd",
+  "locationState": "MD",
+  "locationZipcode": "21921",
+  "lat": 39.6373620115395,
+  "lon": -75.840695004836,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:29.076Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:29.076Z"
+}

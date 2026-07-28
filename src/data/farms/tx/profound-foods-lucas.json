@@ -1,0 +1,19 @@
+{
+  "slug": "profound-foods-lucas",
+  "name": "Profound Foods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Lucas, TX",
+  "locationCity": "Lucas",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "lat": 33.0842854,
+  "lon": -96.576657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.950Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.950Z"
+}

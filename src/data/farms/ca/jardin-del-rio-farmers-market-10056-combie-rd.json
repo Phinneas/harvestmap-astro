@@ -1,0 +1,19 @@
+{
+  "slug": "jardin-del-rio-farmers-market-10056-combie-rd",
+  "name": "Jardin del Rio Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10056 Combie Rd., CA",
+  "locationCity": "10056 Combie Rd.",
+  "locationState": "CA",
+  "locationZipcode": "10056",
+  "lat": 39.04254261539511,
+  "lon": -121.09390096992009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

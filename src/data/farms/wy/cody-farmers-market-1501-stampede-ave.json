@@ -1,0 +1,19 @@
+{
+  "slug": "cody-farmers-market-1501-stampede-ave",
+  "name": "Cody Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1501 Stampede Ave., WY",
+  "locationCity": "1501 Stampede Ave.",
+  "locationState": "WY",
+  "locationZipcode": "82414",
+  "lat": 44.518824297272474,
+  "lon": -109.0570016028773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:46.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:46.336Z"
+}

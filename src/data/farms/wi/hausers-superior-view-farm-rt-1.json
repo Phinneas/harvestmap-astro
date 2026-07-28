@@ -1,0 +1,19 @@
+{
+  "slug": "hausers-superior-view-farm-rt-1",
+  "name": "Hausers Superior View Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rt 1, WI",
+  "locationCity": "Rt 1",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "lat": 46.812254,
+  "lon": -90.822175,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:29.840Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:29.840Z"
+}

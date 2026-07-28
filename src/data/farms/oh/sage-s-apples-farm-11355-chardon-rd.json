@@ -1,0 +1,19 @@
+{
+  "slug": "sage-s-apples-farm-11355-chardon-rd",
+  "name": "Sage's Apples Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11355 Chardon Rd, OH",
+  "locationCity": "11355 Chardon Rd",
+  "locationState": "OH",
+  "locationZipcode": "11355",
+  "lat": 41.5798710061144,
+  "lon": -81.2315260065866,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:40.876Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:40.876Z"
+}

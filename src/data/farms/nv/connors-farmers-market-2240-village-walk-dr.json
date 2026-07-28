@@ -1,0 +1,19 @@
+{
+  "slug": "connors-farmers-market-2240-village-walk-dr",
+  "name": "Connors Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2240 Village Walk Dr., NV",
+  "locationCity": "2240 Village Walk Dr.",
+  "locationState": "NV",
+  "locationZipcode": "89052",
+  "lat": 36.02137065266692,
+  "lon": -115.08710467675145,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:17.062Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:17.062Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "effingham-farmers-market-e-washington-ave-and-4th-st",
+  "name": "Effingham Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "E. Washington Ave. and 4th St., IL",
+  "locationCity": "E. Washington Ave. and 4th St.",
+  "locationState": "IL",
+  "locationZipcode": "62401",
+  "lat": 39.12220001645488,
+  "lon": -88.54202003616003,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

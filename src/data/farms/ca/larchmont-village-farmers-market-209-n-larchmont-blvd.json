@@ -1,0 +1,19 @@
+{
+  "slug": "larchmont-village-farmers-market-209-n-larchmont-blvd",
+  "name": "Larchmont Village Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "209 N. Larchmont Blvd., CA",
+  "locationCity": "209 N. Larchmont Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "90004",
+  "lat": 34.077056120251896,
+  "lon": -118.32364441583927,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

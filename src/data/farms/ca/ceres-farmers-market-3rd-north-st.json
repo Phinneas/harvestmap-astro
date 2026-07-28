@@ -1,0 +1,19 @@
+{
+  "slug": "ceres-farmers-market-3rd-north-st",
+  "name": "Ceres Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3rd & North St., CA",
+  "locationCity": "3rd & North St.",
+  "locationState": "CA",
+  "locationZipcode": "95307",
+  "lat": 37.59166998676568,
+  "lon": -120.95453996255739,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "durand-farmer-s-market-101-hagle-street",
+  "name": "Durand Farmer s Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Hagle Street, MI",
+  "locationCity": "101 Hagle Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.91077336525323,
+  "lon": -83.98329300840338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

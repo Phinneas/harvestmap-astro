@@ -1,0 +1,19 @@
+{
+  "slug": "fayetteville-farmers-market-101-w-mountain-st",
+  "name": "Fayetteville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 W. Mountain St., AR",
+  "locationCity": "101 W. Mountain St.",
+  "locationState": "AR",
+  "locationZipcode": "72701",
+  "lat": 36.06191506534053,
+  "lon": -94.16068257924657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:47.395Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:47.395Z"
+}

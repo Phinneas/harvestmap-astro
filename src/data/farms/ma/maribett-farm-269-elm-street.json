@@ -1,0 +1,19 @@
+{
+  "slug": "maribett-farm-269-elm-street",
+  "name": "Maribett Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "269 Elm Street, MA",
+  "locationCity": "269 Elm Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 41.9816705267791,
+  "lon": -70.7495032114673,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.323Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.323Z"
+}

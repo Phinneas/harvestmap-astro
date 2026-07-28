@@ -1,0 +1,19 @@
+{
+  "slug": "marketplace-on-main-29-s-main-st",
+  "name": "Marketplace on Main",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "29 S. Main St., MD",
+  "locationCity": "29 S. Main St.",
+  "locationState": "MD",
+  "locationZipcode": "21014",
+  "lat": 39.53605496933248,
+  "lon": -76.34893909471566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.944Z"
+}

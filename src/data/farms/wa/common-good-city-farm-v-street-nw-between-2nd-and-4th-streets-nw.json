@@ -1,0 +1,19 @@
+{
+  "slug": "common-good-city-farm-v-street-nw-between-2nd-and-4th-streets-nw",
+  "name": "Common Good City Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "V Street NW between 2nd and 4th Streets NW, WA",
+  "locationCity": "V Street NW between 2nd and 4th Streets NW",
+  "locationState": "WA",
+  "locationZipcode": "20001",
+  "lat": 38.918451,
+  "lon": -77.017454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:12.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:12.635Z"
+}

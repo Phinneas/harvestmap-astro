@@ -1,0 +1,19 @@
+{
+  "slug": "idle-hour-ranch-4845-fenner-rd",
+  "name": "Idle-Hour Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4845 Fenner Rd, OH",
+  "locationCity": "4845 Fenner Rd",
+  "locationState": "OH",
+  "locationZipcode": "45373",
+  "lat": 40.0239050015919,
+  "lon": -84.2931080070758,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:40.851Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:40.851Z"
+}

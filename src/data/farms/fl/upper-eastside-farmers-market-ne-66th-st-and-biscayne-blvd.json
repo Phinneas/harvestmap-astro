@@ -1,0 +1,19 @@
+{
+  "slug": "upper-eastside-farmers-market-ne-66th-st-and-biscayne-blvd",
+  "name": "Upper Eastside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "NE 66th St. and Biscayne Blvd., FL",
+  "locationCity": "NE 66th St. and Biscayne Blvd.",
+  "locationState": "FL",
+  "locationZipcode": "33138",
+  "lat": 25.83657000019987,
+  "lon": -80.1841900219136,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.375Z"
+}

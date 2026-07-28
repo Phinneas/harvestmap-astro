@@ -1,0 +1,19 @@
+{
+  "slug": "mars-farmers-market-225-crowe-ave",
+  "name": "Mars Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "225 Crowe Ave., PA",
+  "locationCity": "225 Crowe Ave.",
+  "locationState": "PA",
+  "locationZipcode": "16046",
+  "lat": 40.69536004015286,
+  "lon": -80.01174021682746,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

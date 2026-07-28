@@ -1,0 +1,19 @@
+{
+  "slug": "baker-mountain-farm-351-pioneer-lane",
+  "name": "Baker Mountain Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "351 Pioneer Lane, TN",
+  "locationCity": "351 Pioneer Lane",
+  "locationState": "TN",
+  "locationZipcode": "38585",
+  "lat": 35.62536699028,
+  "lon": -85.5089779968881,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:07.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:07.191Z"
+}

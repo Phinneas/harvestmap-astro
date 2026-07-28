@@ -1,0 +1,19 @@
+{
+  "slug": "west-end-farmers-market-gayton-rd-and-ridgefield-pkwy",
+  "name": "West End Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Gayton Rd. and Ridgefield Pkwy., VA",
+  "locationCity": "Gayton Rd. and Ridgefield Pkwy.",
+  "locationState": "VA",
+  "locationZipcode": "23238",
+  "lat": 37.62394002062452,
+  "lon": -77.63797000871877,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.478Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.478Z"
+}

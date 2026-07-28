@@ -1,0 +1,19 @@
+{
+  "slug": "lemont-farmers-market-133-mt-nittany-rd",
+  "name": "Lemont Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "133 Mt. Nittany Rd., PA",
+  "locationCity": "133 Mt. Nittany Rd.",
+  "locationState": "PA",
+  "locationZipcode": "16851",
+  "lat": 40.81029021126174,
+  "lon": -77.81694148737682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

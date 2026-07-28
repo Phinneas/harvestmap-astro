@@ -1,0 +1,19 @@
+{
+  "slug": "peach-street-farmers-market-2031-peach-st",
+  "name": "Peach Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2031 Peach St., WI",
+  "locationCity": "2031 Peach St.",
+  "locationState": "WI",
+  "locationZipcode": "54494",
+  "lat": 44.388246985333154,
+  "lon": -89.80123703824414,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "butcher-family-farm-71-peach-tree-lane",
+  "name": "Butcher Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "71 Peach Tree Lane, WA",
+  "locationCity": "71 Peach Tree Lane",
+  "locationState": "WA",
+  "locationZipcode": "26181",
+  "lat": 39.2318599946945,
+  "lon": -81.6768390041203,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.224Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.224Z"
+}

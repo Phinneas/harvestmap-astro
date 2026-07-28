@@ -1,0 +1,19 @@
+{
+  "slug": "lovington-downtown-farmers-market-100-n-main-ave",
+  "name": "Lovington Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 N. Main Ave., NM",
+  "locationCity": "100 N. Main Ave.",
+  "locationState": "NM",
+  "locationZipcode": "88260",
+  "lat": 32.94818736368436,
+  "lon": -103.34858576153486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

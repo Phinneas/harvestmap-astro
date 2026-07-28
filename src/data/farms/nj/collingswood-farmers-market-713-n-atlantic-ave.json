@@ -1,0 +1,19 @@
+{
+  "slug": "collingswood-farmers-market-713-n-atlantic-ave",
+  "name": "Collingswood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "713 N. Atlantic Ave., NJ",
+  "locationCity": "713 N. Atlantic Ave.",
+  "locationState": "NJ",
+  "locationZipcode": "08108",
+  "lat": 39.91554380922665,
+  "lon": -75.06995772663815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

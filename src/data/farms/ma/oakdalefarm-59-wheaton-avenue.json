@@ -1,0 +1,20 @@
+{
+  "slug": "oakdalefarm-59-wheaton-avenue",
+  "name": "OakdaleFarm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "59 Wheaton Avenue, MA",
+  "locationCity": "59 Wheaton Avenue",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 41.7986964722158,
+  "lon": -71.2911948521115,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.324Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.324Z",
+  "crops": []
+}

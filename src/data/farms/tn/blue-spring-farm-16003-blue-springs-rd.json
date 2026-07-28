@@ -1,0 +1,19 @@
+{
+  "slug": "blue-spring-farm-16003-blue-springs-rd",
+  "name": "Blue Spring Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16003 Blue Springs Rd, TN",
+  "locationCity": "16003 Blue Springs Rd",
+  "locationState": "TN",
+  "locationZipcode": "16003",
+  "lat": 35.6489739919309,
+  "lon": -84.5858869629846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:07.224Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:07.224Z"
+}

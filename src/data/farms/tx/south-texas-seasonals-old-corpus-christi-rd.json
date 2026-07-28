@@ -1,0 +1,19 @@
+{
+  "slug": "south-texas-seasonals-old-corpus-christi-rd",
+  "name": "South Texas Seasonals",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Old Corpus Christi Rd, TX",
+  "locationCity": "Old Corpus Christi Rd",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "lat": 29.2464770918708,
+  "lon": -98.3222784562191,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:20.896Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:20.896Z"
+}

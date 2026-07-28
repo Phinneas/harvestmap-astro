@@ -1,0 +1,19 @@
+{
+  "slug": "baugher-s-orchard-1236-baugher-road",
+  "name": "Baugher's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1236 Baugher Road, MD",
+  "locationCity": "1236 Baugher Road",
+  "locationState": "MD",
+  "locationZipcode": "21158",
+  "lat": 39.6104970060338,
+  "lon": -77.0480960034989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:29.043Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:29.043Z"
+}

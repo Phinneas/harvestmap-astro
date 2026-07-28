@@ -1,0 +1,19 @@
+{
+  "slug": "silverton-farm-1520-silverton-road",
+  "name": "Silverton Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1520 Silverton Road, NJ",
+  "locationCity": "1520 Silverton Road",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "lat": 40.02323700581829,
+  "lon": -74.19380802390809,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:43.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:43.212Z"
+}

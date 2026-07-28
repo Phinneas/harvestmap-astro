@@ -1,0 +1,19 @@
+{
+  "slug": "eplegaarden-orchard-2273-fitchburg-road",
+  "name": "Eplegaarden Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2273 Fitchburg Road, WI",
+  "locationCity": "2273 Fitchburg Road",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "lat": 42.9779380061561,
+  "lon": -89.4737529798754,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:29.811Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:29.811Z"
+}

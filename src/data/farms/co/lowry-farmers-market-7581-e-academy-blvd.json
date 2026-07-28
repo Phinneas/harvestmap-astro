@@ -1,0 +1,19 @@
+{
+  "slug": "lowry-farmers-market-7581-e-academy-blvd",
+  "name": "Lowry Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7581 E. Academy Blvd., CO",
+  "locationCity": "7581 E. Academy Blvd.",
+  "locationState": "CO",
+  "locationZipcode": "80230",
+  "lat": 39.72019499620433,
+  "lon": -104.89701498527872,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.497Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.497Z"
+}

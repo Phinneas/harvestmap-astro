@@ -1,0 +1,19 @@
+{
+  "slug": "torrington-farmers-market-4516-us-26",
+  "name": "Torrington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4516 US-26, WY",
+  "locationCity": "4516 US-26",
+  "locationState": "WY",
+  "locationZipcode": "82240",
+  "lat": 42.079843650279884,
+  "lon": -104.22478951150734,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:46.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:46.336Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "valdese-farmers-market-121-faet-st",
+  "name": "Valdese Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 Faet St., NC",
+  "locationCity": "121 Faet St.",
+  "locationState": "NC",
+  "locationZipcode": "28690",
+  "lat": 35.74362058943472,
+  "lon": -81.56410833617272,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

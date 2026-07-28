@@ -1,0 +1,19 @@
+{
+  "slug": "sands-farmers-market-345-n-arlington-ave",
+  "name": "Sands Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "345 N. Arlington Ave., NV",
+  "locationCity": "345 N. Arlington Ave.",
+  "locationState": "NV",
+  "locationZipcode": "89501",
+  "lat": 39.52866890602396,
+  "lon": -119.81800525428606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:17.062Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:17.062Z"
+}

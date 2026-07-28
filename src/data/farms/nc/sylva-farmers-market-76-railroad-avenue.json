@@ -1,0 +1,19 @@
+{
+  "slug": "sylva-farmers-market-76-railroad-avenue",
+  "name": "Sylva Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "76 Railroad Avenue, NC",
+  "locationCity": "76 Railroad Avenue",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "lat": 35.3746591,
+  "lon": -83.2245294,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.469Z"
+}

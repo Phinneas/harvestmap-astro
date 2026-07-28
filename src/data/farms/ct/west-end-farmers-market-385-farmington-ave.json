@@ -1,0 +1,19 @@
+{
+  "slug": "west-end-farmers-market-385-farmington-ave",
+  "name": "West End Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "385 Farmington Ave., CT",
+  "locationCity": "385 Farmington Ave.",
+  "locationState": "CT",
+  "locationZipcode": "06105",
+  "lat": 41.76730419107546,
+  "lon": -72.70275528817238,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

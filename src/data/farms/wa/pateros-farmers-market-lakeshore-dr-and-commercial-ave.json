@@ -1,0 +1,19 @@
+{
+  "slug": "pateros-farmers-market-lakeshore-dr-and-commercial-ave",
+  "name": "Pateros Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Lakeshore Dr. and Commercial Ave., WA",
+  "locationCity": "Lakeshore Dr. and Commercial Ave.",
+  "locationState": "WA",
+  "locationZipcode": "98846",
+  "lat": 48.05194999931936,
+  "lon": -119.90232998500687,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

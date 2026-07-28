@@ -1,0 +1,19 @@
+{
+  "slug": "muskegon-farmers-market-242-west-western-avenue",
+  "name": "Muskegon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "242 West Western Avenue, MI",
+  "locationCity": "242 West Western Avenue",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.24760603559186,
+  "lon": -86.23845826349476,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

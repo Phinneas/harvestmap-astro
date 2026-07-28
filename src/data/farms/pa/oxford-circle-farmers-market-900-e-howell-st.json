@@ -1,0 +1,19 @@
+{
+  "slug": "oxford-circle-farmers-market-900-e-howell-st",
+  "name": "Oxford Circle Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "900 E. Howell St., PA",
+  "locationCity": "900 E. Howell St.",
+  "locationState": "PA",
+  "locationZipcode": "19149",
+  "lat": 40.03831434963324,
+  "lon": -75.09119063824615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

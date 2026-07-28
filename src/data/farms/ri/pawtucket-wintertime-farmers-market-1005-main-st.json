@@ -1,0 +1,19 @@
+{
+  "slug": "pawtucket-wintertime-farmers-market-1005-main-st",
+  "name": "Pawtucket Wintertime Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1005 Main St., RI",
+  "locationCity": "1005 Main St.",
+  "locationState": "RI",
+  "locationZipcode": "02860",
+  "lat": 41.86284351333935,
+  "lon": -71.39923820093267,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:38.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:38.801Z"
+}

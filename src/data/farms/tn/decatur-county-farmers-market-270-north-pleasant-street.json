@@ -1,0 +1,19 @@
+{
+  "slug": "decatur-county-farmers-market-270-north-pleasant-street",
+  "name": "Decatur County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "270 North Pleasant Street, TN",
+  "locationCity": "270 North Pleasant Street",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "lat": 35.5878537,
+  "lon": -88.1185945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.560Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.560Z"
+}

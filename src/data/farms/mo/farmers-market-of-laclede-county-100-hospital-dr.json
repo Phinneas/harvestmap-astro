@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-of-laclede-county-100-hospital-dr",
+  "name": "Farmers' Market of Laclede County",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Hospital Dr., MO",
+  "locationCity": "100 Hospital Dr.",
+  "locationState": "MO",
+  "locationZipcode": "65556",
+  "lat": 37.68120996240528,
+  "lon": -92.6358942417767,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

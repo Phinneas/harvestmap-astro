@@ -1,0 +1,19 @@
+{
+  "slug": "nebraska-food-cooperative-omaha",
+  "name": "Nebraska Food Cooperative",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Omaha, NE",
+  "locationCity": "Omaha",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "lat": 41.2565369,
+  "lon": -95.934503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:04.823Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:04.823Z"
+}

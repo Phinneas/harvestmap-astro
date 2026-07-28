@@ -1,0 +1,19 @@
+{
+  "slug": "riceville-farmers-market-203-iowa-9",
+  "name": "Riceville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "203 Iowa 9, IA",
+  "locationCity": "203 Iowa 9",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 43.3636485,
+  "lon": -92.5563761,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.585Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.585Z"
+}

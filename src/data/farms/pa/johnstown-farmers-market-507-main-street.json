@@ -1,0 +1,19 @@
+{
+  "slug": "johnstown-farmers-market-507-main-street",
+  "name": "Johnstown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "507 Main Street, PA",
+  "locationCity": "507 Main Street",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "lat": 40.3251584,
+  "lon": -78.9174646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.660Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.660Z"
+}

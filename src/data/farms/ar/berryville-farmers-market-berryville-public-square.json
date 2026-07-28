@@ -1,0 +1,19 @@
+{
+  "slug": "berryville-farmers-market-berryville-public-square",
+  "name": "Berryville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Berryville Public Square, AR",
+  "locationCity": "Berryville Public Square",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "lat": 36.3642982016789,
+  "lon": -93.56716850483076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:47.395Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:47.395Z"
+}

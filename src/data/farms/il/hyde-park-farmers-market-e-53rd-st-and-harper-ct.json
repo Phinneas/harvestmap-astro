@@ -1,0 +1,19 @@
+{
+  "slug": "hyde-park-farmers-market-e-53rd-st-and-harper-ct",
+  "name": "Hyde Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "E 53rd St. and Harper Ct., IL",
+  "locationCity": "E 53rd St. and Harper Ct.",
+  "locationState": "IL",
+  "locationZipcode": "60615",
+  "lat": 41.79956001779044,
+  "lon": -87.58813003431453,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

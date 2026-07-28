@@ -1,0 +1,19 @@
+{
+  "slug": "northeast-farmers-market-3001-independence-ave",
+  "name": "Northeast Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3001 Independence Ave., MO",
+  "locationCity": "3001 Independence Ave.",
+  "locationState": "MO",
+  "locationZipcode": "64124",
+  "lat": 39.106146534677045,
+  "lon": -94.54583172106626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

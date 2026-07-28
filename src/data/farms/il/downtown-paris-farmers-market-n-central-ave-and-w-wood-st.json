@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-paris-farmers-market-n-central-ave-and-w-wood-st",
+  "name": "Downtown Paris Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N. Central Ave. and W. Wood St., IL",
+  "locationCity": "N. Central Ave. and W. Wood St.",
+  "locationState": "IL",
+  "locationZipcode": "61944",
+  "lat": 39.61218000837238,
+  "lon": -87.69634995967911,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

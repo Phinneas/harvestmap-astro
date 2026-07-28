@@ -1,0 +1,19 @@
+{
+  "slug": "brookhaven-farmers-market-1375-fernwood-circle-northeast",
+  "name": "Brookhaven Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1375 Fernwood Circle Northeast, GA",
+  "locationCity": "1375 Fernwood Circle Northeast",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "lat": 33.8595819,
+  "lon": -84.33468979999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.354Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.354Z"
+}

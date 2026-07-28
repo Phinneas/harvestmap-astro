@@ -1,0 +1,19 @@
+{
+  "slug": "roseville-farmers-market-galleria-blvd-e-roseville-pkwy",
+  "name": "Roseville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Galleria Blvd. & E. Roseville Pkwy., CA",
+  "locationCity": "Galleria Blvd. & E. Roseville Pkwy.",
+  "locationState": "CA",
+  "locationZipcode": "95678",
+  "lat": 38.76869999746265,
+  "lon": -121.2659000052446,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

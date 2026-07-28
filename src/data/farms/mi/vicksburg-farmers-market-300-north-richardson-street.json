@@ -1,0 +1,19 @@
+{
+  "slug": "vicksburg-farmers-market-300-north-richardson-street",
+  "name": "Vicksburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 North Richardson Street, MI",
+  "locationCity": "300 North Richardson Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.12290911475512,
+  "lon": -85.52996842864589,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

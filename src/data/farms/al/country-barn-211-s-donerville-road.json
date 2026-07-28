@@ -1,0 +1,19 @@
+{
+  "slug": "country-barn-211-s-donerville-road",
+  "name": "Country Barn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "211 S. Donerville Road, AL",
+  "locationCity": "211 S. Donerville Road",
+  "locationState": "AL",
+  "locationZipcode": "17603",
+  "lat": 40.0309866581526,
+  "lon": -76.4015024949845,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:01.705Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:01.705Z"
+}

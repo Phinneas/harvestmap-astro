@@ -1,0 +1,20 @@
+{
+  "slug": "streator-farmers-market-201-north-park-street",
+  "name": "Streator Farmers Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "201 North Park Street, IL",
+  "locationCity": "201 North Park Street",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 41.1219938,
+  "lon": -88.8341998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:50.975Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:50.975Z",
+  "crops": []
+}

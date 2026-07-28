@@ -1,0 +1,19 @@
+{
+  "slug": "broad-branch-chevy-chase-farmers-market-5701-broad-branch-rd-nw",
+  "name": "Broad Branch (Chevy Chase) Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5701 Broad Branch Rd. NW, DC",
+  "locationCity": "5701 Broad Branch Rd. NW",
+  "locationState": "DC",
+  "locationZipcode": "20015",
+  "lat": 38.965888465091,
+  "lon": -77.06843332497282,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

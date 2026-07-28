@@ -1,0 +1,19 @@
+{
+  "slug": "leucadia-farmers-market-185-union-street-encinitas",
+  "name": "Leucadia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "185 Union Street Encinitas, CA",
+  "locationCity": "185 Union Street Encinitas",
+  "locationState": "CA",
+  "locationZipcode": "92024",
+  "lat": 33.05810928148101,
+  "lon": -117.29803306939098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

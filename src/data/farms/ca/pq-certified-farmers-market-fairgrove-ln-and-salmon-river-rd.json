@@ -1,0 +1,19 @@
+{
+  "slug": "pq-certified-farmers-market-fairgrove-ln-and-salmon-river-rd",
+  "name": "PQ Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Fairgrove Ln. and Salmon River Rd., CA",
+  "locationCity": "Fairgrove Ln. and Salmon River Rd.",
+  "locationState": "CA",
+  "locationZipcode": "92129",
+  "lat": 32.95782001826811,
+  "lon": -117.12144995905527,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

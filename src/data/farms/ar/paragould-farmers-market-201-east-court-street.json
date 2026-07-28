@@ -1,0 +1,19 @@
+{
+  "slug": "paragould-farmers-market-201-east-court-street",
+  "name": "Paragould Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 East Court Street, AR",
+  "locationCity": "201 East Court Street",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "lat": 36.0566085,
+  "lon": -90.48478589999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:47.410Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:47.410Z"
+}

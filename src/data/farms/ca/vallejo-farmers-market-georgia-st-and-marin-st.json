@@ -1,0 +1,19 @@
+{
+  "slug": "vallejo-farmers-market-georgia-st-and-marin-st",
+  "name": "Vallejo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Georgia St. and Marin St., CA",
+  "locationCity": "Georgia St. and Marin St.",
+  "locationState": "CA",
+  "locationZipcode": "94591",
+  "lat": 38.10110999182851,
+  "lon": -122.2565899986106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

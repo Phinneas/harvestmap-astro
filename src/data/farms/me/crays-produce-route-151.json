@@ -1,0 +1,19 @@
+{
+  "slug": "crays-produce-route-151",
+  "name": "Crays Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 151, ME",
+  "locationCity": "Route 151",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 44.86922690353818,
+  "lon": -69.39775485636544,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.509Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.509Z"
+}

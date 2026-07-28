@@ -1,0 +1,19 @@
+{
+  "slug": "sky-farmers-market-601-center-st",
+  "name": "SKY Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "601 Center St., KY",
+  "locationCity": "601 Center St.",
+  "locationState": "KY",
+  "locationZipcode": "42101",
+  "lat": 36.996621926203225,
+  "lon": -86.44003525111158,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.784Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.784Z"
+}

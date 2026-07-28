@@ -1,0 +1,19 @@
+{
+  "slug": "skip-s-european-farmers-market-16710-lakeshore-road",
+  "name": "Skip’s European Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16710 Lakeshore Road, MI",
+  "locationCity": "16710 Lakeshore Road",
+  "locationState": "MI",
+  "locationZipcode": "16710",
+  "lat": 41.8171129,
+  "lon": -86.7061863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.751Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.751Z"
+}

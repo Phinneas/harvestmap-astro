@@ -1,0 +1,19 @@
+{
+  "slug": "lazy-5-ranch-15100-hwy-150-east",
+  "name": "Lazy 5 Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15100 Hwy 150 East, NC",
+  "locationCity": "15100 Hwy 150 East",
+  "locationState": "NC",
+  "locationZipcode": "15100",
+  "lat": 35.6209297011402,
+  "lon": -80.720689359189,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.473Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.473Z"
+}

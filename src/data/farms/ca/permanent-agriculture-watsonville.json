@@ -1,0 +1,19 @@
+{
+  "slug": "permanent-agriculture-watsonville",
+  "name": "Permanent Agriculture",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Watsonville, CA",
+  "locationCity": "Watsonville",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 36.910233,
+  "lon": -121.756873,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:00.814Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:00.814Z"
+}

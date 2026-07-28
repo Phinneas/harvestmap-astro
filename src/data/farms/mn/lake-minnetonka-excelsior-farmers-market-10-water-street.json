@@ -1,0 +1,19 @@
+{
+  "slug": "lake-minnetonka-excelsior-farmers-market-10-water-street",
+  "name": "Lake Minnetonka Excelsior Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Water Street, MN",
+  "locationCity": "10 Water Street",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "lat": 44.90438199999999,
+  "lon": -93.565835,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.250Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.250Z"
+}

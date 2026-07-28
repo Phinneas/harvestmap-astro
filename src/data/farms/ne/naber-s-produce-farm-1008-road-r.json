@@ -1,0 +1,19 @@
+{
+  "slug": "naber-s-produce-farm-1008-road-r",
+  "name": "Naber's Produce Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1008 Road R, NE",
+  "locationCity": "1008 Road R",
+  "locationState": "NE",
+  "locationZipcode": "68467",
+  "lat": 40.83414900621128,
+  "lon": -97.48396200010737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:06.704Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:06.704Z"
+}

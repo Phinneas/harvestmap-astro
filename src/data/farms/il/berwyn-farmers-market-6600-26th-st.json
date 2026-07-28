@@ -1,0 +1,19 @@
+{
+  "slug": "berwyn-farmers-market-6600-26th-st",
+  "name": "Berwyn Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6600 26th St., IL",
+  "locationCity": "6600 26th St.",
+  "locationState": "IL",
+  "locationZipcode": "60402",
+  "lat": 41.84306301728034,
+  "lon": -87.78847897787973,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

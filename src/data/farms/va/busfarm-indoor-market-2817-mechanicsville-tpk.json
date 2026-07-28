@@ -1,0 +1,19 @@
+{
+  "slug": "busfarm-indoor-market-2817-mechanicsville-tpk",
+  "name": "BusFarm Indoor Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2817 Mechanicsville Tpk., VA",
+  "locationCity": "2817 Mechanicsville Tpk.",
+  "locationState": "VA",
+  "locationZipcode": "23223",
+  "lat": 37.56381285365337,
+  "lon": -77.40494975675247,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

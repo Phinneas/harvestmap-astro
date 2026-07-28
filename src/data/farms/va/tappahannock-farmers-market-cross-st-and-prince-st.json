@@ -1,0 +1,19 @@
+{
+  "slug": "tappahannock-farmers-market-cross-st-and-prince-st",
+  "name": "Tappahannock Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Cross St. and Prince St., VA",
+  "locationCity": "Cross St. and Prince St.",
+  "locationState": "VA",
+  "locationZipcode": "22560",
+  "lat": 37.92849001843878,
+  "lon": -76.85959999303314,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.478Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.478Z"
+}

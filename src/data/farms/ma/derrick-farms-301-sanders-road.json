@@ -1,0 +1,19 @@
+{
+  "slug": "derrick-farms-301-sanders-road",
+  "name": "Derrick Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "301 Sanders Road, MA",
+  "locationCity": "301 Sanders Road",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.32520035576317,
+  "lon": -72.03456472234548,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.348Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.348Z"
+}

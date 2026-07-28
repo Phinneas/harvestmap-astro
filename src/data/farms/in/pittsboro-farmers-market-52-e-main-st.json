@@ -1,0 +1,19 @@
+{
+  "slug": "pittsboro-farmers-market-52-e-main-st",
+  "name": "Pittsboro Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "52 E. Main St., IN",
+  "locationCity": "52 E. Main St.",
+  "locationState": "IN",
+  "locationZipcode": "46167",
+  "lat": 39.86377269552891,
+  "lon": -86.4668177697987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "troy-farmers-market-700-e-missoula-ave",
+  "name": "Troy Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 E. Missoula Ave., MT",
+  "locationCity": "700 E. Missoula Ave.",
+  "locationState": "MT",
+  "locationZipcode": "59935",
+  "lat": 48.45469561108539,
+  "lon": -115.88920738737173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:48.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:48.809Z"
+}

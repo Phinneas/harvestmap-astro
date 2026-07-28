@@ -1,0 +1,19 @@
+{
+  "slug": "south-pasadena-farmers-market-913-meridian-ave",
+  "name": "South Pasadena Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "913 Meridian Ave., CA",
+  "locationCity": "913 Meridian Ave.",
+  "locationState": "CA",
+  "locationZipcode": "91030",
+  "lat": 34.115105276840296,
+  "lon": -118.157393829039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "camden-farmers-market-cash-st-california-st",
+  "name": "Camden Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Cash St. & California St., AR",
+  "locationCity": "Cash St. & California St.",
+  "locationState": "AR",
+  "locationZipcode": "71701",
+  "lat": 33.56001998929308,
+  "lon": -92.85242003055868,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:47.395Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:47.395Z"
+}

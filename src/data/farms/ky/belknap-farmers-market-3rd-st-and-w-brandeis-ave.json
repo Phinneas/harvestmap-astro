@@ -1,0 +1,19 @@
+{
+  "slug": "belknap-farmers-market-3rd-st-and-w-brandeis-ave",
+  "name": "Belknap Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3rd St. and W. Brandeis Ave., KY",
+  "locationCity": "3rd St. and W. Brandeis Ave.",
+  "locationState": "KY",
+  "locationZipcode": "40292",
+  "lat": 38.21929000700791,
+  "lon": -85.76143999852307,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.783Z"
+}

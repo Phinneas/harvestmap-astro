@@ -1,0 +1,19 @@
+{
+  "slug": "atlantic-city-farmers-market-1200-atlantic-ave",
+  "name": "Atlantic City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1200 Atlantic Ave., NJ",
+  "locationCity": "1200 Atlantic Ave.",
+  "locationState": "NJ",
+  "locationZipcode": "08401",
+  "lat": 39.363122060550474,
+  "lon": -74.42555362390587,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

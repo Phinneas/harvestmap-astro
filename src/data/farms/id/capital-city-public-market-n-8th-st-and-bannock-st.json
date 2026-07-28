@@ -1,0 +1,19 @@
+{
+  "slug": "capital-city-public-market-n-8th-st-and-bannock-st",
+  "name": "Capital City Public Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N. 8th St. and Bannock St., ID",
+  "locationCity": "N. 8th St. and Bannock St.",
+  "locationState": "ID",
+  "locationZipcode": "83701",
+  "lat": 43.61714998894237,
+  "lon": -116.20203003110458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

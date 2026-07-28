@@ -1,0 +1,19 @@
+{
+  "slug": "lopez-island-farmers-market-204-village-rd",
+  "name": "Lopez Island Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "204 Village Rd., WA",
+  "locationCity": "204 Village Rd.",
+  "locationState": "WA",
+  "locationZipcode": "98261",
+  "lat": 48.525638002215715,
+  "lon": -122.91099803657784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

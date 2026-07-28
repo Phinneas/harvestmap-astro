@@ -1,0 +1,19 @@
+{
+  "slug": "pepperell-farmers-market-2-hollis-st",
+  "name": "Pepperell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 Hollis St., MA",
+  "locationCity": "2 Hollis St.",
+  "locationState": "MA",
+  "locationZipcode": "01463",
+  "lat": 42.66663267284189,
+  "lon": -71.58822136963673,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

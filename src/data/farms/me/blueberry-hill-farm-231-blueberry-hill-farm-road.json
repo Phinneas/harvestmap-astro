@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-farm-231-blueberry-hill-farm-road",
+  "name": "Blueberry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "231 Blueberry Hill Farm Road, ME",
+  "locationCity": "231 Blueberry Hill Farm Road",
+  "locationState": "ME",
+  "locationZipcode": "04001",
+  "lat": 43.4655153674379,
+  "lon": -70.9145792624515,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.483Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.483Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmville-farmers-market-213-north-st",
+  "name": "Farmville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "213 North St., VA",
+  "locationCity": "213 North St.",
+  "locationState": "VA",
+  "locationZipcode": "23901",
+  "lat": 37.30327188942855,
+  "lon": -78.39313480249959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

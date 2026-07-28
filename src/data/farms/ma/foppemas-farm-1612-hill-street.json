@@ -1,0 +1,19 @@
+{
+  "slug": "foppemas-farm-1612-hill-street",
+  "name": "Foppemas Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1612 Hill Street, MA",
+  "locationCity": "1612 Hill Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.151886318881026,
+  "lon": -71.6793018633869,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:48.442Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:48.442Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tuckaway-blueberry-farm-3560-claude-brewer-rd",
+  "name": "Tuckaway Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3560 Claude Brewer Rd, GA",
+  "locationCity": "3560 Claude Brewer Rd",
+  "locationState": "GA",
+  "locationZipcode": "30052",
+  "lat": 33.8136099855479,
+  "lon": -83.8978909626128,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:08.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:08.734Z"
+}

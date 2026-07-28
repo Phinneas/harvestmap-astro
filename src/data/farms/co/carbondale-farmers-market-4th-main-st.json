@@ -1,0 +1,19 @@
+{
+  "slug": "carbondale-farmers-market-4th-main-st",
+  "name": "Carbondale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4th & Main St., CO",
+  "locationCity": "4th & Main St.",
+  "locationState": "CO",
+  "locationZipcode": "81623",
+  "lat": 39.4005499870519,
+  "lon": -107.21127001904476,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "holland-farmers-market-150-west-8th-street",
+  "name": "Holland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 West 8th Street, MI",
+  "locationCity": "150 West 8th Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.79025044619937,
+  "lon": -86.11457425687378,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

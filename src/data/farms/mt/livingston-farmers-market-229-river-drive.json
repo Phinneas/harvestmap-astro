@@ -1,0 +1,19 @@
+{
+  "slug": "livingston-farmers-market-229-river-drive",
+  "name": "Livingston Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "229 River Drive, MT",
+  "locationCity": "229 River Drive",
+  "locationState": "MT",
+  "locationZipcode": "",
+  "lat": 45.6545073,
+  "lon": -110.556074,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:48.815Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:48.815Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wells-farmers-market-208-sanford-rd",
+  "name": "Wells Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "208 Sanford Rd., ME",
+  "locationCity": "208 Sanford Rd.",
+  "locationState": "ME",
+  "locationZipcode": "04090",
+  "lat": 43.32175917503564,
+  "lon": -70.59125482815622,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.161Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.161Z"
+}

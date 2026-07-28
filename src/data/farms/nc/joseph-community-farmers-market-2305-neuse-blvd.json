@@ -1,0 +1,19 @@
+{
+  "slug": "joseph-community-farmers-market-2305-neuse-blvd",
+  "name": "Joseph Community Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2305 Neuse Blvd., NC",
+  "locationCity": "2305 Neuse Blvd.",
+  "locationState": "NC",
+  "locationZipcode": "28560",
+  "lat": 35.11532236918837,
+  "lon": -77.07246827093446,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

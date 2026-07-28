@@ -1,0 +1,19 @@
+{
+  "slug": "harrison-farmers-market-1425-n-main-st",
+  "name": "Harrison Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1425 N. Main St., AR",
+  "locationCity": "1425 N. Main St.",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "lat": 36.24615970066718,
+  "lon": -93.11735897027785,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:47.395Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:47.395Z"
+}

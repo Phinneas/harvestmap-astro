@@ -1,0 +1,19 @@
+{
+  "slug": "hamden-farmers-market-2901-dixwell-ave",
+  "name": "Hamden Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2901 Dixwell Ave., CT",
+  "locationCity": "2901 Dixwell Ave.",
+  "locationState": "CT",
+  "locationZipcode": "06518",
+  "lat": 41.38349561638856,
+  "lon": -72.90213299011877,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

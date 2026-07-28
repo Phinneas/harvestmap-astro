@@ -1,0 +1,19 @@
+{
+  "slug": "fireside-orchard-2225-lonsdale-blvd-e-highway-19",
+  "name": "Fireside Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2225 Lonsdale Blvd. E. (Highway 19), MN",
+  "locationCity": "2225 Lonsdale Blvd. E. (Highway 19)",
+  "locationState": "MN",
+  "locationZipcode": "55057",
+  "lat": 44.4792200133573,
+  "lon": -93.3214709298849,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:06.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:06.477Z"
+}

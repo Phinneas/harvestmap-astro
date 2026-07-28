@@ -1,0 +1,19 @@
+{
+  "slug": "stillwater-medical-center-farmers-market-600-s-adams-st",
+  "name": "Stillwater Medical Center Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 S. Adams St., OK",
+  "locationCity": "600 S. Adams St.",
+  "locationState": "OK",
+  "locationZipcode": "74074",
+  "lat": 36.115764319375415,
+  "lon": -97.07252531198331,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-farmers-market-105-east-e-st",
+  "name": "Main Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 East E St., CA",
+  "locationCity": "105 East E St.",
+  "locationState": "CA",
+  "locationZipcode": "93581",
+  "lat": 35.130203000796115,
+  "lon": -118.44762403445674,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

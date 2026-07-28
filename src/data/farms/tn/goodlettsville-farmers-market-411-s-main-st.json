@@ -1,0 +1,19 @@
+{
+  "slug": "goodlettsville-farmers-market-411-s-main-st",
+  "name": "Goodlettsville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "411 S. Main St., TN",
+  "locationCity": "411 S. Main St.",
+  "locationState": "TN",
+  "locationZipcode": "37072",
+  "lat": 36.31414174358814,
+  "lon": -86.71405527613814,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

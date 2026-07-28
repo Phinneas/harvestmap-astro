@@ -1,0 +1,19 @@
+{
+  "slug": "bowling-green-farmers-market-211-main-st",
+  "name": "Bowling Green Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "211 Main St., VA",
+  "locationCity": "211 Main St.",
+  "locationState": "VA",
+  "locationZipcode": "22427",
+  "lat": 38.05348564885354,
+  "lon": -77.34864159572086,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

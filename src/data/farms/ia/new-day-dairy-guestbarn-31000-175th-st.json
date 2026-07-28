@@ -1,0 +1,19 @@
+{
+  "slug": "new-day-dairy-guestbarn-31000-175th-st",
+  "name": "New Day Dairy GuestBarn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "31000 175th St, IA",
+  "locationCity": "31000 175th St",
+  "locationState": "IA",
+  "locationZipcode": "31000",
+  "lat": 42.7953704,
+  "lon": -92.61398779999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:13.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:13.713Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "butler-farmers-market-127-st-and-hampton-ave",
+  "name": "Butler Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "127 St. and Hampton Ave., WI",
+  "locationCity": "127 St. and Hampton Ave.",
+  "locationState": "WI",
+  "locationZipcode": "53007",
+  "lat": 43.104780005805566,
+  "lon": -88.06945001150922,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

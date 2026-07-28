@@ -1,0 +1,19 @@
+{
+  "slug": "los-gatos-farmers-market-main-st-at-n-santa-cruz-ave",
+  "name": "Los Gatos Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. at N. Santa Cruz Ave., CA",
+  "locationCity": "Main St. at N. Santa Cruz Ave.",
+  "locationState": "CA",
+  "locationZipcode": "95030",
+  "lat": 37.22253000700033,
+  "lon": -121.98391000832613,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

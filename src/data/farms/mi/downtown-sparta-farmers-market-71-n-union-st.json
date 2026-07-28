@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-sparta-farmers-market-71-n-union-st",
+  "name": "Downtown Sparta Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "71 N. Union St., MI",
+  "locationCity": "71 N. Union St.",
+  "locationState": "MI",
+  "locationZipcode": "49345",
+  "lat": 43.16335924605867,
+  "lon": -85.70719730603729,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "branson-country-tours-branson",
+  "name": "Branson Country Tours",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Branson, MO",
+  "locationCity": "Branson",
+  "locationState": "MO",
+  "locationZipcode": "65616",
+  "lat": 36.6415700000001,
+  "lon": -93.2199199999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:31.231Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:31.231Z"
+}

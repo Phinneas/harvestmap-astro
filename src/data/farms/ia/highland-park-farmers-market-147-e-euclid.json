@@ -1,0 +1,19 @@
+{
+  "slug": "highland-park-farmers-market-147-e-euclid",
+  "name": "Highland Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "147 E. Euclid, IA",
+  "locationCity": "147 E. Euclid",
+  "locationState": "IA",
+  "locationZipcode": "50313",
+  "lat": 41.62770001108131,
+  "lon": -93.61958168079137,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

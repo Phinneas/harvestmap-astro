@@ -1,0 +1,19 @@
+{
+  "slug": "lucas-farmers-market-jct-hwy-65-34",
+  "name": "Lucas Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Jct. Hwy. 65 & 34, IA",
+  "locationCity": "Jct. Hwy. 65 & 34",
+  "locationState": "IA",
+  "locationZipcode": "50151",
+  "lat": 41.09888790461283,
+  "lon": -93.47058002532953,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

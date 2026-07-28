@@ -1,0 +1,19 @@
+{
+  "slug": "mack-road-valley-hi-farmers-market-6100-mack-rd",
+  "name": "Mack Road Valley Hi Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6100 Mack Rd., CA",
+  "locationCity": "6100 Mack Rd.",
+  "locationState": "CA",
+  "locationZipcode": "95823",
+  "lat": 38.47423052851019,
+  "lon": -121.4318241892505,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

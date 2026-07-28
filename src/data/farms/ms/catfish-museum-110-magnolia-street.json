@@ -1,0 +1,19 @@
+{
+  "slug": "catfish-museum-110-magnolia-street",
+  "name": "Catfish Museum",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "110 Magnolia street, MS",
+  "locationCity": "110 Magnolia street",
+  "locationState": "MS",
+  "locationZipcode": "39038",
+  "lat": 33.1759541327681,
+  "lon": -90.4893653478527,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:18.278Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:18.278Z"
+}

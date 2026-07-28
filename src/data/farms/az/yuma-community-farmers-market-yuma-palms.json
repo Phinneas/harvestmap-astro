@@ -1,0 +1,19 @@
+{
+  "slug": "yuma-community-farmers-market-yuma-palms",
+  "name": "Yuma Community Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Yuma Palms, AZ",
+  "locationCity": "Yuma Palms",
+  "locationState": "AZ",
+  "locationZipcode": "85364",
+  "lat": 32.701345403207206,
+  "lon": -114.60319025636252,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.025Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.025Z"
+}

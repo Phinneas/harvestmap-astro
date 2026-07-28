@@ -1,0 +1,19 @@
+{
+  "slug": "zachary-farmers-market-4510-main-st",
+  "name": "Zachary Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4510 Main St., LA",
+  "locationCity": "4510 Main St.",
+  "locationState": "LA",
+  "locationZipcode": "70791",
+  "lat": 30.64849243198355,
+  "lon": -91.15644822562466,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:06.421Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:06.421Z"
+}

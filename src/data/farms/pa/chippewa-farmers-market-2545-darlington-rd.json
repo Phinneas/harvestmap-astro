@@ -1,0 +1,19 @@
+{
+  "slug": "chippewa-farmers-market-2545-darlington-rd",
+  "name": "Chippewa Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2545 Darlington Rd., PA",
+  "locationCity": "2545 Darlington Rd.",
+  "locationState": "PA",
+  "locationZipcode": "15010",
+  "lat": 40.772214738045804,
+  "lon": -80.37412089810628,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

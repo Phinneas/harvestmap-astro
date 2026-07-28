@@ -1,0 +1,19 @@
+{
+  "slug": "bryce-view-lodge-105-east-center-street",
+  "name": "Bryce View Lodge",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "105 East Center Street, UT",
+  "locationCity": "105 East Center Street",
+  "locationState": "UT",
+  "locationZipcode": "84764",
+  "lat": 37.6742720080886,
+  "lon": -112.153008958396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:32.108Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:32.108Z"
+}

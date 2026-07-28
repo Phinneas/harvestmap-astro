@@ -1,0 +1,19 @@
+{
+  "slug": "swissvale-farmers-market-7301-schoyer-ave",
+  "name": "Swissvale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7301 Schoyer Ave., PA",
+  "locationCity": "7301 Schoyer Ave.",
+  "locationState": "PA",
+  "locationZipcode": "15218",
+  "lat": 40.42325530210068,
+  "lon": -79.8925530568834,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

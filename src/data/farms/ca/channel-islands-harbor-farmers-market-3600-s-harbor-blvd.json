@@ -1,0 +1,19 @@
+{
+  "slug": "channel-islands-harbor-farmers-market-3600-s-harbor-blvd",
+  "name": "Channel Islands Harbor Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3600 S. Harbor Blvd., CA",
+  "locationCity": "3600 S. Harbor Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "93035",
+  "lat": 34.16897085745472,
+  "lon": -119.23007558321463,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

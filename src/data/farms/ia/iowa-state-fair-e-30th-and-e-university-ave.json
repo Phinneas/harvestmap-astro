@@ -1,0 +1,19 @@
+{
+  "slug": "iowa-state-fair-e-30th-and-e-university-ave",
+  "name": "Iowa State Fair",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "E. 30th and E. University Ave., IA",
+  "locationCity": "E. 30th and E. University Ave.",
+  "locationState": "IA",
+  "locationZipcode": "50317",
+  "lat": 41.6004699941727,
+  "lon": -93.5584500308886,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:13.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:13.736Z"
+}

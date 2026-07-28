@@ -1,0 +1,19 @@
+{
+  "slug": "marysville-farmers-market-1035-state-ave",
+  "name": "Marysville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1035 State Ave., WA",
+  "locationCity": "1035 State Ave.",
+  "locationState": "WA",
+  "locationZipcode": "98270",
+  "lat": 48.05752311696027,
+  "lon": -122.17695455933467,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

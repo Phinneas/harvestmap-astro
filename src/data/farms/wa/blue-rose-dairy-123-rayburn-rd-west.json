@@ -1,0 +1,19 @@
+{
+  "slug": "blue-rose-dairy-123-rayburn-rd-west",
+  "name": "Blue Rose Dairy",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "123 Rayburn Rd. West, WA",
+  "locationCity": "123 Rayburn Rd. West",
+  "locationState": "WA",
+  "locationZipcode": "98596",
+  "lat": 46.5419270082106,
+  "lon": -122.961348967143,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.241Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.241Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-the-mall-4155-yellowstone-hwy",
+  "name": "Farmers' Market at the Mall",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4155 Yellowstone Hwy., ID",
+  "locationCity": "4155 Yellowstone Hwy.",
+  "locationState": "ID",
+  "locationZipcode": "83202",
+  "lat": 42.90828546870246,
+  "lon": -112.46632882562187,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

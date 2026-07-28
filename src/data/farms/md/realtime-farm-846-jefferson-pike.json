@@ -1,0 +1,19 @@
+{
+  "slug": "realtime-farm-846-jefferson-pike",
+  "name": "Realtime Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "846 Jefferson Pike, MD",
+  "locationCity": "846 Jefferson Pike",
+  "locationState": "MD",
+  "locationZipcode": "",
+  "lat": 39.33696429999999,
+  "lon": -77.6417326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:36.481Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:36.481Z"
+}

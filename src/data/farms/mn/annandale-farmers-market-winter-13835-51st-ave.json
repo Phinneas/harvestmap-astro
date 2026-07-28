@@ -1,0 +1,19 @@
+{
+  "slug": "annandale-farmers-market-winter-13835-51st-ave",
+  "name": "Annandale Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13835 51st Ave, MN",
+  "locationCity": "13835 51st Ave",
+  "locationState": "MN",
+  "locationZipcode": "13835",
+  "lat": 45.3235168,
+  "lon": -94.2169869,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.220Z"
+}

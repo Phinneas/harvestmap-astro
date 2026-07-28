@@ -1,0 +1,19 @@
+{
+  "slug": "janesville-farmers-market-100-main-st",
+  "name": "Janesville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Main St., IA",
+  "locationCity": "100 Main St.",
+  "locationState": "IA",
+  "locationZipcode": "50647",
+  "lat": 42.64940116948913,
+  "lon": -92.46298856394702,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

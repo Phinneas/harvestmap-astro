@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-friday-farmers-market-10th-st-and-tatnall-st",
+  "name": "Fresh Friday Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10th St. and Tatnall St., DE",
+  "locationCity": "10th St. and Tatnall St.",
+  "locationState": "DE",
+  "locationZipcode": "19802",
+  "lat": 39.74658001202465,
+  "lon": -75.54992996880316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:37.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:37.081Z"
+}

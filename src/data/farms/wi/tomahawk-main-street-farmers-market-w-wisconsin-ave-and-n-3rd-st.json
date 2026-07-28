@@ -1,0 +1,19 @@
+{
+  "slug": "tomahawk-main-street-farmers-market-w-wisconsin-ave-and-n-3rd-st",
+  "name": "Tomahawk Main Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "W. Wisconsin Ave. and N. 3rd St., WI",
+  "locationCity": "W. Wisconsin Ave. and N. 3rd St.",
+  "locationState": "WI",
+  "locationZipcode": "54487",
+  "lat": 45.470969313066284,
+  "lon": -89.73216051667089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

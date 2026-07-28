@@ -1,0 +1,19 @@
+{
+  "slug": "green-bay-farmers-market-s-washington-st-and-stuart-st",
+  "name": "Green Bay Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S. Washington St. and Stuart St., WI",
+  "locationCity": "S. Washington St. and Stuart St.",
+  "locationState": "WI",
+  "locationZipcode": "54301",
+  "lat": 44.51203000941874,
+  "lon": -88.01765999198783,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "echo-valley-farms-1458-groseclose-rd",
+  "name": "Echo Valley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1458 Groseclose Rd, TN",
+  "locationCity": "1458 Groseclose Rd",
+  "locationState": "TN",
+  "locationZipcode": "37820",
+  "lat": 36.1233739955925,
+  "lon": -83.5389669721662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:07.208Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:07.208Z"
+}

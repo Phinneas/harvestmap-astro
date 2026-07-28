@@ -1,0 +1,19 @@
+{
+  "slug": "native-farmers-market-7070-east-broadway-road",
+  "name": "Native Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7070 East Broadway Road, MI",
+  "locationCity": "7070 East Broadway Road",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.604532369228586,
+  "lon": -84.7065625740989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

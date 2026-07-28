@@ -1,0 +1,19 @@
+{
+  "slug": "dixie-lee-s-farmers-market-850-joachim-ave",
+  "name": "Dixie Lee's Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "850 Joachim Ave., MO",
+  "locationCity": "850 Joachim Ave.",
+  "locationState": "MO",
+  "locationZipcode": "63048",
+  "lat": 38.261515781956355,
+  "lon": -90.38952031049772,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

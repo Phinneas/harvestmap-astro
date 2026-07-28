@@ -1,0 +1,19 @@
+{
+  "slug": "kewaskum-farm-market-1538-fond-du-lac-ave",
+  "name": "Kewaskum Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1538 Fond du Lac Ave., WI",
+  "locationCity": "1538 Fond du Lac Ave.",
+  "locationState": "WI",
+  "locationZipcode": "53040",
+  "lat": 43.52354357202507,
+  "lon": -88.2307739390181,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

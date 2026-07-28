@@ -1,0 +1,19 @@
+{
+  "slug": "ardovino-s-desert-crossing-farmers-market-1-ardovinos-dr",
+  "name": "Ardovino's Desert Crossing Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Ardovinos Dr., NM",
+  "locationCity": "1 Ardovinos Dr.",
+  "locationState": "NM",
+  "locationZipcode": "88063",
+  "lat": 31.792199385926477,
+  "lon": -106.5572067747616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

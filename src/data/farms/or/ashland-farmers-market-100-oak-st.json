@@ -1,0 +1,19 @@
+{
+  "slug": "ashland-farmers-market-100-oak-st",
+  "name": "Ashland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Oak St., OR",
+  "locationCity": "100 Oak St.",
+  "locationState": "OR",
+  "locationZipcode": "97520",
+  "lat": 42.19778296568814,
+  "lon": -122.714113349695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.967Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.967Z"
+}

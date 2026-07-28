@@ -1,0 +1,19 @@
+{
+  "slug": "claremore-farmers-market-200-s-lynn-riggs-blvd",
+  "name": "Claremore Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 S. Lynn Riggs Blvd., OK",
+  "locationCity": "200 S. Lynn Riggs Blvd.",
+  "locationState": "OK",
+  "locationZipcode": "74017",
+  "lat": 36.3106978193351,
+  "lon": -95.61715503423794,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

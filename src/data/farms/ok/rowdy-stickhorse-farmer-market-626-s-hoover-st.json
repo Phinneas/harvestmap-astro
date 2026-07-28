@@ -1,0 +1,19 @@
+{
+  "slug": "rowdy-stickhorse-farmer-market-626-s-hoover-st",
+  "name": "Rowdy Stickhorse Farmer Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "626 S Hoover St, OK",
+  "locationCity": "626 S Hoover St",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "lat": 36.3895379,
+  "lon": -97.9172198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.541Z"
+}

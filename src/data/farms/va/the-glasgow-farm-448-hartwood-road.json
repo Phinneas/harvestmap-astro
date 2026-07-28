@@ -1,0 +1,19 @@
+{
+  "slug": "the-glasgow-farm-448-hartwood-road",
+  "name": "The Glasgow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "448 Hartwood Road, VA",
+  "locationCity": "448 Hartwood Road",
+  "locationState": "VA",
+  "locationZipcode": "22406",
+  "lat": 38.4273790095129,
+  "lon": -77.5749250210705,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:54.999Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:54.999Z"
+}

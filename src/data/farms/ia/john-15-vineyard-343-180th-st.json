@@ -1,0 +1,19 @@
+{
+  "slug": "john-15-vineyard-343-180th-st",
+  "name": "John 15 Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "343 180th St, IA",
+  "locationCity": "343 180th St",
+  "locationState": "IA",
+  "locationZipcode": "51462",
+  "lat": 42.0923569947911,
+  "lon": -94.5832680326809,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:13.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:13.736Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shepherdstown-farmers-market-100-s-king-st",
+  "name": "Shepherdstown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 S. King St., WV",
+  "locationCity": "100 S. King St.",
+  "locationState": "WV",
+  "locationZipcode": "25443",
+  "lat": 39.43068095236531,
+  "lon": -77.80590220046766,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "high-desert-growers-farmers-market-100-e-main-st",
+  "name": "High Desert Growers' Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 E. Main St., UT",
+  "locationCity": "100 E. Main St.",
+  "locationState": "UT",
+  "locationZipcode": "84501",
+  "lat": 39.59956181708024,
+  "lon": -110.80903958484733,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:36.288Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:36.288Z"
+}

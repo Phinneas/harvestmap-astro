@@ -1,0 +1,19 @@
+{
+  "slug": "south-madison-farmers-market-202-s-park-st",
+  "name": "South Madison Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "202 S. Park St., WI",
+  "locationCity": "202 S. Park St.",
+  "locationState": "WI",
+  "locationZipcode": "53715",
+  "lat": 43.06550938620332,
+  "lon": -89.40077377885831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

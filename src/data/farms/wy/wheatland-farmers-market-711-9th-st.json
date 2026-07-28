@@ -1,0 +1,19 @@
+{
+  "slug": "wheatland-farmers-market-711-9th-st",
+  "name": "Wheatland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "711 9th St., WY",
+  "locationCity": "711 9th St.",
+  "locationState": "WY",
+  "locationZipcode": "82201",
+  "lat": 42.0545272371574,
+  "lon": -104.95325023885026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:46.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:46.336Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "loveland-green-market-4229-w-eisenhower-blvd",
+  "name": "Loveland Green Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4229 W. Eisenhower Blvd., CO",
+  "locationCity": "4229 W. Eisenhower Blvd.",
+  "locationState": "CO",
+  "locationZipcode": "80537",
+  "lat": 40.407319559284375,
+  "lon": -105.13746546778371,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sunflower-hill-farm-augusta",
+  "name": "Sunflower Hill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Augusta, MO",
+  "locationCity": "Augusta",
+  "locationState": "MO",
+  "locationZipcode": "",
+  "lat": 38.5725523,
+  "lon": -90.882081,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:33.703Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:33.703Z"
+}

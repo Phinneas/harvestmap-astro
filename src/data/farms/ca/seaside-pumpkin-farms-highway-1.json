@@ -1,0 +1,19 @@
+{
+  "slug": "seaside-pumpkin-farms-highway-1",
+  "name": "Seaside Pumpkin Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Highway 1, CA",
+  "locationCity": "Highway 1",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 37.0112359116449,
+  "lon": -122.195168167649,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.967Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.967Z"
+}

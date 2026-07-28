@@ -1,0 +1,19 @@
+{
+  "slug": "leesburg-farmers-market-32-catoctin-cir-se",
+  "name": "Leesburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "32 Catoctin Cir. SE, VA",
+  "locationCity": "32 Catoctin Cir. SE",
+  "locationState": "VA",
+  "locationZipcode": "20175",
+  "lat": 39.10716527213026,
+  "lon": -77.56641475105175,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

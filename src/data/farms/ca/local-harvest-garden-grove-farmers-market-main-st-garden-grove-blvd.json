@@ -1,0 +1,19 @@
+{
+  "slug": "local-harvest-garden-grove-farmers-market-main-st-garden-grove-blvd",
+  "name": "Local Harvest Garden Grove Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. & Garden Grove Blvd., CA",
+  "locationCity": "Main St. & Garden Grove Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "92840",
+  "lat": 33.774050000949785,
+  "lon": -117.94099003911995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

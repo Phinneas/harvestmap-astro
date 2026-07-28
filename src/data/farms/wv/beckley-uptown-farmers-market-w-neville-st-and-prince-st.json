@@ -1,0 +1,19 @@
+{
+  "slug": "beckley-uptown-farmers-market-w-neville-st-and-prince-st",
+  "name": "Beckley Uptown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "W. Neville St. and Prince St., WV",
+  "locationCity": "W. Neville St. and Prince St.",
+  "locationState": "WV",
+  "locationZipcode": "25801",
+  "lat": 37.77607001260671,
+  "lon": -81.19569001775034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

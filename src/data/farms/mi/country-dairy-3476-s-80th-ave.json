@@ -1,0 +1,19 @@
+{
+  "slug": "country-dairy-3476-s-80th-ave",
+  "name": "Country Dairy",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3476 S. 80th Ave., MI",
+  "locationCity": "3476 S. 80th Ave.",
+  "locationState": "MI",
+  "locationZipcode": "49446",
+  "lat": 43.5777290182085,
+  "lon": -86.3527260191518,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:53.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:53.640Z"
+}

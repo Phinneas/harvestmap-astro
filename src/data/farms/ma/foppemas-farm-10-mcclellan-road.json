@@ -1,0 +1,19 @@
+{
+  "slug": "foppemas-farm-10-mcclellan-road",
+  "name": "Foppemas Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10 McClellan Road, MA",
+  "locationCity": "10 McClellan Road",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.1598085584863,
+  "lon": -71.7130235171472,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.321Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.321Z"
+}

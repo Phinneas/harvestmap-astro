@@ -1,0 +1,19 @@
+{
+  "slug": "cedar-valley-farmers-market-925-andrews-rd",
+  "name": "Cedar Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "925 Andrews Rd., NC",
+  "locationCity": "925 Andrews Rd.",
+  "locationState": "NC",
+  "locationZipcode": "28906",
+  "lat": 35.10138090442224,
+  "lon": -84.01979763004489,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.461Z"
+}

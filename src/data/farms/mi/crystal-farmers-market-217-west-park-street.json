@@ -1,0 +1,19 @@
+{
+  "slug": "crystal-farmers-market-217-west-park-street",
+  "name": "Crystal Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "217 West Park Street, MI",
+  "locationCity": "217 West Park Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.262239173175644,
+  "lon": -84.91621975046925,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

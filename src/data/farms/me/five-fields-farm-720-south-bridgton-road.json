@@ -1,0 +1,19 @@
+{
+  "slug": "five-fields-farm-720-south-bridgton-road",
+  "name": "Five Fields Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "720 South Bridgton Road, ME",
+  "locationCity": "720 South Bridgton Road",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 43.9771017123339,
+  "lon": -70.710521799612,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.495Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.495Z"
+}

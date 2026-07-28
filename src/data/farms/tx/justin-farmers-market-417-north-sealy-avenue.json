@@ -1,0 +1,19 @@
+{
+  "slug": "justin-farmers-market-417-north-sealy-avenue",
+  "name": "Justin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "417 North Sealy Avenue, TX",
+  "locationCity": "417 North Sealy Avenue",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "lat": 33.0883432,
+  "lon": -97.2970503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.064Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.064Z"
+}

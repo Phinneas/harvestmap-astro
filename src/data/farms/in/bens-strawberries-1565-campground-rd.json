@@ -1,0 +1,19 @@
+{
+  "slug": "bens-strawberries-1565-campground-rd",
+  "name": "Bens Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1565 Campground Rd, IN",
+  "locationCity": "1565 Campground Rd",
+  "locationState": "IN",
+  "locationZipcode": "15701",
+  "lat": 40.54572998105814,
+  "lon": -79.02121897741277,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:01.420Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:01.420Z"
+}

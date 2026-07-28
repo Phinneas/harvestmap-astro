@@ -1,0 +1,19 @@
+{
+  "slug": "sunrise-acres-2220-silver-street",
+  "name": "Sunrise Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2220 Silver Street, NV",
+  "locationCity": "2220 Silver Street",
+  "locationState": "NV",
+  "locationZipcode": "",
+  "lat": 36.0748320054611,
+  "lon": -115.971915021526,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:12.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:12.031Z"
+}

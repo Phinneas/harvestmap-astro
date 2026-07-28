@@ -1,0 +1,19 @@
+{
+  "slug": "san-marcos-farmers-market-312-e-hopkins-st",
+  "name": "San Marcos Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "312 E. Hopkins St., TX",
+  "locationCity": "312 E. Hopkins St.",
+  "locationState": "TX",
+  "locationZipcode": "78666",
+  "lat": 29.88272672826575,
+  "lon": -97.94412396527898,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

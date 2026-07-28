@@ -1,0 +1,19 @@
+{
+  "slug": "second-sunday-marketplace-19251-n-westbrook-pkwy",
+  "name": "Second Sunday Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "19251 N. Westbrook Pkwy., AZ",
+  "locationCity": "19251 N. Westbrook Pkwy.",
+  "locationState": "AZ",
+  "locationZipcode": "19251",
+  "lat": 33.65863764145221,
+  "lon": -112.2667356346206,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

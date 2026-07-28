@@ -1,0 +1,19 @@
+{
+  "slug": "the-markets-at-shrewsbury-12025-susquehanna-trl-s",
+  "name": "The Markets at Shrewsbury",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12025 Susquehanna Trl. S., PA",
+  "locationCity": "12025 Susquehanna Trl. S.",
+  "locationState": "PA",
+  "locationZipcode": "12025",
+  "lat": 39.805760786441965,
+  "lon": -76.68106582708984,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

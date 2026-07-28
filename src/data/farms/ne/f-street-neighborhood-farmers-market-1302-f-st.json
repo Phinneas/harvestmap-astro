@@ -1,0 +1,19 @@
+{
+  "slug": "f-street-neighborhood-farmers-market-1302-f-st",
+  "name": "F Street Neighborhood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1302 F St., NE",
+  "locationCity": "1302 F St.",
+  "locationState": "NE",
+  "locationZipcode": "68508",
+  "lat": 40.80475191150827,
+  "lon": -96.70245919086494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:03.911Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:03.911Z"
+}

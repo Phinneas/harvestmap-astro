@@ -1,0 +1,19 @@
+{
+  "slug": "oak-alley-plantation-3645-highway-18",
+  "name": "Oak Alley Plantation",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3645 Highway 18, LA",
+  "locationCity": "3645 Highway 18",
+  "locationState": "LA",
+  "locationZipcode": "70090",
+  "lat": 30.004240013661,
+  "lon": -90.7759620206319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:58.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:58.406Z"
+}

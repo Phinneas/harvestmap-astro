@@ -1,0 +1,19 @@
+{
+  "slug": "butler-city-farmers-market-205-s-chestnut-st",
+  "name": "Butler City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 S. Chestnut St., PA",
+  "locationCity": "205 S. Chestnut St.",
+  "locationState": "PA",
+  "locationZipcode": "16001",
+  "lat": 40.858996432617296,
+  "lon": -79.9005144384347,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kaiser-permanente-san-leandro-farmers-market-2500-merced-st",
+  "name": "Kaiser Permanente San Leandro Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2500 Merced St., CA",
+  "locationCity": "2500 Merced St.",
+  "locationState": "CA",
+  "locationZipcode": "94577",
+  "lat": 37.705546050473814,
+  "lon": -122.16874421656264,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

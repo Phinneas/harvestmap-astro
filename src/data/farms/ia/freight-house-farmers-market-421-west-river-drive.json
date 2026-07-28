@@ -1,0 +1,19 @@
+{
+  "slug": "freight-house-farmers-market-421-west-river-drive",
+  "name": "Freight House Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "421 West River Drive, IA",
+  "locationCity": "421 West River Drive",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 41.5200269,
+  "lon": -90.57954629999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.616Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "burlington-farmers-market-61-center-st",
+  "name": "Burlington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "61 Center St., MA",
+  "locationCity": "61 Center St.",
+  "locationState": "MA",
+  "locationZipcode": "01803",
+  "lat": 42.50285391659478,
+  "lon": -71.19120776746531,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

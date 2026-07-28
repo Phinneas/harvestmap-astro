@@ -1,0 +1,19 @@
+{
+  "slug": "red-bluff-farmers-market-washington-st-and-pine-st",
+  "name": "Red Bluff Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Washington St. and Pine St., CA",
+  "locationCity": "Washington St. and Pine St.",
+  "locationState": "CA",
+  "locationZipcode": "96080",
+  "lat": 40.17700000208663,
+  "lon": -122.23597001388481,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

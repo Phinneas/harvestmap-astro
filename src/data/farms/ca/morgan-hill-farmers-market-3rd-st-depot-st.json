@@ -1,0 +1,19 @@
+{
+  "slug": "morgan-hill-farmers-market-3rd-st-depot-st",
+  "name": "Morgan Hill Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3rd St. & Depot St., CA",
+  "locationCity": "3rd St. & Depot St.",
+  "locationState": "CA",
+  "locationZipcode": "95037",
+  "lat": 37.129040019181105,
+  "lon": -121.65064998047922,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

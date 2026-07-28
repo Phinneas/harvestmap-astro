@@ -1,0 +1,19 @@
+{
+  "slug": "river-valley-farmers-market-109-depot-st",
+  "name": "River Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "109 Depot St., TX",
+  "locationCity": "109 Depot St.",
+  "locationState": "TX",
+  "locationZipcode": "78621",
+  "lat": 30.347532191295112,
+  "lon": -97.37052497261048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

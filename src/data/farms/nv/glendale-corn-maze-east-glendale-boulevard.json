@@ -1,0 +1,19 @@
+{
+  "slug": "glendale-corn-maze-east-glendale-boulevard",
+  "name": "Glendale Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "East Glendale Boulevard, NV",
+  "locationCity": "East Glendale Boulevard",
+  "locationState": "NV",
+  "locationZipcode": "",
+  "lat": 36.6649307758632,
+  "lon": -114.569731814471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:12.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:12.031Z"
+}

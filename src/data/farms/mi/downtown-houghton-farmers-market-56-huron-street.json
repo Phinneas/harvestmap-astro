@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-houghton-farmers-market-56-huron-street",
+  "name": "Downtown Houghton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "56 Huron Street, MI",
+  "locationCity": "56 Huron Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 47.122093822184446,
+  "lon": -88.56811881229407,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

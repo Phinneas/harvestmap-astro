@@ -1,0 +1,19 @@
+{
+  "slug": "south-hadley-farmers-market-17-college-st",
+  "name": "South Hadley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17 College St., MA",
+  "locationCity": "17 College St.",
+  "locationState": "MA",
+  "locationZipcode": "01075",
+  "lat": 42.25757577882955,
+  "lon": -72.57597419242936,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

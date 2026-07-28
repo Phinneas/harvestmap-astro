@@ -1,0 +1,19 @@
+{
+  "slug": "carnegie-hill-csa-1085-fifth-avenue",
+  "name": "Carnegie Hill CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1085 Fifth Avenue, NY",
+  "locationCity": "1085 Fifth Avenue",
+  "locationState": "NY",
+  "locationZipcode": "10128",
+  "lat": 40.7837072,
+  "lon": -73.958162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:04.256Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:04.256Z"
+}

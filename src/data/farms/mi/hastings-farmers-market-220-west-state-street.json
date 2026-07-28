@@ -1,0 +1,19 @@
+{
+  "slug": "hastings-farmers-market-220-west-state-street",
+  "name": "Hastings Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 West State Street, MI",
+  "locationCity": "220 West State Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.64870425443885,
+  "lon": -85.28923583254559,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

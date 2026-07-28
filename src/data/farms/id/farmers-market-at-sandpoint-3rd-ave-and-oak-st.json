@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-sandpoint-3rd-ave-and-oak-st",
+  "name": "Farmers' Market at Sandpoint",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3rd Ave. and Oak St., ID",
+  "locationCity": "3rd Ave. and Oak St.",
+  "locationState": "ID",
+  "locationZipcode": "83864",
+  "lat": 48.27507999179656,
+  "lon": -116.55031001034672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

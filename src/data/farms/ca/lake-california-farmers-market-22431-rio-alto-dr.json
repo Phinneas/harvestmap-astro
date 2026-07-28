@@ -1,0 +1,19 @@
+{
+  "slug": "lake-california-farmers-market-22431-rio-alto-dr",
+  "name": "Lake California Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "22431 Rio Alto Dr., CA",
+  "locationCity": "22431 Rio Alto Dr.",
+  "locationState": "CA",
+  "locationZipcode": "22431",
+  "lat": 40.35249685264075,
+  "lon": -122.20015223175369,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

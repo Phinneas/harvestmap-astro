@@ -1,0 +1,19 @@
+{
+  "slug": "winterbrook-farms-13001-creagerstown-rd",
+  "name": "Winterbrook Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13001 Creagerstown Rd, MD",
+  "locationCity": "13001 Creagerstown Rd",
+  "locationState": "MD",
+  "locationZipcode": "13001",
+  "lat": 39.5907759804236,
+  "lon": -77.3794410179273,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:29.078Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:29.078Z"
+}

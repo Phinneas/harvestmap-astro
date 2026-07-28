@@ -1,0 +1,19 @@
+{
+  "slug": "circle-s-pecans-country-store-2400-us-hwy-400",
+  "name": "Circle's Pecans & Country Store",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2400 US HWY 400, KS",
+  "locationCity": "2400 US HWY 400",
+  "locationState": "KS",
+  "locationZipcode": "66753",
+  "lat": 37.3402466909366,
+  "lon": -95.0992571633543,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:26.146Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:26.146Z"
+}

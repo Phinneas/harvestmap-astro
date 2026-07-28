@@ -1,0 +1,19 @@
+{
+  "slug": "northmont-food-hub-322-union-blvd",
+  "name": "Northmont Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "322 Union Blvd, OH",
+  "locationCity": "322 Union Blvd",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 39.87337700085405,
+  "lon": -84.31130302339388,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:46.639Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:46.639Z"
+}

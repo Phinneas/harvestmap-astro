@@ -1,0 +1,19 @@
+{
+  "slug": "westover-farmers-market-801-fairmont-rd",
+  "name": "Westover Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "801 Fairmont Rd., WV",
+  "locationCity": "801 Fairmont Rd.",
+  "locationState": "WV",
+  "locationZipcode": "26501",
+  "lat": 39.63336560715875,
+  "lon": -79.98068316822786,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

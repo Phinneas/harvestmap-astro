@@ -1,0 +1,19 @@
+{
+  "slug": "poynette-area-farmers-market-106-s-main-st",
+  "name": "Poynette Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 S. Main St., WI",
+  "locationCity": "106 S. Main St.",
+  "locationState": "WI",
+  "locationZipcode": "53955",
+  "lat": 43.39120749473151,
+  "lon": -89.40274933112413,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

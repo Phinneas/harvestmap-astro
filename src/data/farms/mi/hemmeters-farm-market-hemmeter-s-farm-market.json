@@ -1,0 +1,19 @@
+{
+  "slug": "hemmeters-farm-market-hemmeter-s-farm-market",
+  "name": "Hemmeters Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Hemmeter's Farm Market, MI",
+  "locationCity": "Hemmeter's Farm Market",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.48181758101653,
+  "lon": -84.15838978460455,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:01.344Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:01.344Z"
+}

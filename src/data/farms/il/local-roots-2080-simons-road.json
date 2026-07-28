@@ -1,0 +1,19 @@
+{
+  "slug": "local-roots-2080-simons-road",
+  "name": "Local Roots",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2080 Simons Road, IL",
+  "locationCity": "2080 Simons Road",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 41.6499719,
+  "lon": -88.3002371,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:56.010Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:56.010Z"
+}

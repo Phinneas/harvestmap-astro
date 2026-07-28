@@ -1,0 +1,20 @@
+{
+  "slug": "freshfarm-mount-vernon-triangle-499-i-st-nw",
+  "name": "FRESHFARM Mount Vernon Triangle",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "499 I St NW, WA",
+  "locationCity": "499 I St NW",
+  "locationState": "WA",
+  "locationZipcode": "20001",
+  "lat": 38.90138630000001,
+  "lon": -77.0190138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.159Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.159Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kc-meats-and-eats-12830-south-waverly-street",
+  "name": "KC Meats and Eats",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "12830 South Waverly Street, KS",
+  "locationCity": "12830 South Waverly Street",
+  "locationState": "KS",
+  "locationZipcode": "12830",
+  "lat": 38.89563,
+  "lon": -94.94708299999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:34.377Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:34.377Z"
+}

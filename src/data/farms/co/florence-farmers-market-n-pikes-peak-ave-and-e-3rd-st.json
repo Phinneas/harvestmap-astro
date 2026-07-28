@@ -1,0 +1,19 @@
+{
+  "slug": "florence-farmers-market-n-pikes-peak-ave-and-e-3rd-st",
+  "name": "Florence Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N. Pikes Peak Ave. and E. 3rd St., CO",
+  "locationCity": "N. Pikes Peak Ave. and E. 3rd St.",
+  "locationState": "CO",
+  "locationZipcode": "81226",
+  "lat": 38.391969994824365,
+  "lon": -105.11718997970092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

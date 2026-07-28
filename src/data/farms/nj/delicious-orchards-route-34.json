@@ -1,0 +1,19 @@
+{
+  "slug": "delicious-orchards-route-34",
+  "name": "Delicious Orchards",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Route 34, NJ",
+  "locationCity": "Route 34",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "lat": 40.25934543659222,
+  "lon": -74.160056537218,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:43.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:43.212Z"
+}

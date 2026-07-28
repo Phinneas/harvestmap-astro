@@ -1,0 +1,19 @@
+{
+  "slug": "lake-arthur-farmers-market-700-5th-st",
+  "name": "Lake Arthur Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 5th St., NM",
+  "locationCity": "700 5th St.",
+  "locationState": "NM",
+  "locationZipcode": "88253",
+  "lat": 32.998151367812355,
+  "lon": -104.36198798751737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

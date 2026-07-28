@@ -1,0 +1,19 @@
+{
+  "slug": "mood-s-farm-market-901-bridgeton-pike-route-77",
+  "name": "Mood's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "901 Bridgeton Pike Route 77, NJ",
+  "locationCity": "901 Bridgeton Pike Route 77",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "lat": 39.667544993417124,
+  "lon": -75.21233800575712,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:43.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:43.212Z"
+}

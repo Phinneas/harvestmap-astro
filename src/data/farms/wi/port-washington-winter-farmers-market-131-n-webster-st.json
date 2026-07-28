@@ -1,0 +1,19 @@
+{
+  "slug": "port-washington-winter-farmers-market-131-n-webster-st",
+  "name": "Port Washington Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "131 N. Webster St., WI",
+  "locationCity": "131 N. Webster St.",
+  "locationState": "WI",
+  "locationZipcode": "53074",
+  "lat": 43.389881890562734,
+  "lon": -87.87579416703478,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

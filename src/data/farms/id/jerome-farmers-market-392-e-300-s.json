@@ -1,0 +1,19 @@
+{
+  "slug": "jerome-farmers-market-392-e-300-s",
+  "name": "Jerome Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "392 E. 300 S., ID",
+  "locationCity": "392 E. 300 S.",
+  "locationState": "ID",
+  "locationZipcode": "83338",
+  "lat": 42.68125698095247,
+  "lon": -114.44428701626336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

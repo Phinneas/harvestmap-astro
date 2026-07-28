@@ -1,0 +1,19 @@
+{
+  "slug": "sugarbush-farm-591-sugarbush-farm-rd",
+  "name": "Sugarbush Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "591 Sugarbush Farm Rd, VT",
+  "locationCity": "591 Sugarbush Farm Rd",
+  "locationState": "VT",
+  "locationZipcode": "05091",
+  "lat": 43.6648299841512,
+  "lon": -72.4672300147206,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:43.320Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:43.320Z"
+}

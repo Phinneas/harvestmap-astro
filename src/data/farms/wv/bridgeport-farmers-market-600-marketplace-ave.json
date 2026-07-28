@@ -1,0 +1,19 @@
+{
+  "slug": "bridgeport-farmers-market-600-marketplace-ave",
+  "name": "Bridgeport Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 Marketplace Ave., WV",
+  "locationCity": "600 Marketplace Ave.",
+  "locationState": "WV",
+  "locationZipcode": "26330",
+  "lat": 39.32275599302852,
+  "lon": -80.2285329719207,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

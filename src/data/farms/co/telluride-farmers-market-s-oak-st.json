@@ -1,0 +1,19 @@
+{
+  "slug": "telluride-farmers-market-s-oak-st",
+  "name": "Telluride Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S. Oak St., CO",
+  "locationCity": "S. Oak St.",
+  "locationState": "CO",
+  "locationZipcode": "81435",
+  "lat": 37.93664575528502,
+  "lon": -107.81319304546403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.497Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.497Z"
+}

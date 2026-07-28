@@ -1,0 +1,19 @@
+{
+  "slug": "clawson-farmers-market-1080-n-custer-ave",
+  "name": "Clawson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1080 N. Custer Ave., MI",
+  "locationCity": "1080 N. Custer Ave.",
+  "locationState": "MI",
+  "locationZipcode": "48017",
+  "lat": 42.541583890149305,
+  "lon": -83.15299916226463,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

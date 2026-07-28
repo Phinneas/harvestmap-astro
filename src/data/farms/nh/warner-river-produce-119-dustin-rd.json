@@ -1,0 +1,19 @@
+{
+  "slug": "warner-river-produce-119-dustin-rd",
+  "name": "Warner River Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "119 Dustin Rd, NH",
+  "locationCity": "119 Dustin Rd",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "lat": 43.2494076,
+  "lon": -71.725992,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:26.942Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:26.942Z"
+}

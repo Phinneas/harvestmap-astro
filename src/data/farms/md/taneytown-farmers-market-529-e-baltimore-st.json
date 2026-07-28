@@ -1,0 +1,19 @@
+{
+  "slug": "taneytown-farmers-market-529-e-baltimore-st",
+  "name": "Taneytown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "529 E. Baltimore St., MD",
+  "locationCity": "529 E. Baltimore St.",
+  "locationState": "MD",
+  "locationZipcode": "21787",
+  "lat": 39.649593271179945,
+  "lon": -77.15787473344884,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.948Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.948Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bethany-farmers-market-3606-miller-st",
+  "name": "Bethany Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3606 Miller St., MO",
+  "locationCity": "3606 Miller St.",
+  "locationState": "MO",
+  "locationZipcode": "64642",
+  "lat": 40.26519692164251,
+  "lon": -94.01718493228775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

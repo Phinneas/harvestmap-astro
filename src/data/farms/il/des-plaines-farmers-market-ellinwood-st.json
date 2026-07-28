@@ -1,0 +1,19 @@
+{
+  "slug": "des-plaines-farmers-market-ellinwood-st",
+  "name": "Des Plaines Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Ellinwood St., IL",
+  "locationCity": "Ellinwood St.",
+  "locationState": "IL",
+  "locationZipcode": "60016",
+  "lat": 42.040450721417685,
+  "lon": -87.88635824524566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

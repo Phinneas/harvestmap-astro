@@ -1,0 +1,19 @@
+{
+  "slug": "henry-s-csa-432-grimm-road",
+  "name": "Henry's CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "432 Grimm Road, IL",
+  "locationCity": "432 Grimm Road",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 40.6501728,
+  "lon": -89.2472706,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:50.977Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:50.977Z"
+}

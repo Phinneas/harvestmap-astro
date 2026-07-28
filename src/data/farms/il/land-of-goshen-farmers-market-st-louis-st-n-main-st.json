@@ -1,0 +1,19 @@
+{
+  "slug": "land-of-goshen-farmers-market-st-louis-st-n-main-st",
+  "name": "Land of Goshen Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "St. Louis St. & N. Main St., IL",
+  "locationCity": "St. Louis St. & N. Main St.",
+  "locationState": "IL",
+  "locationZipcode": "62025",
+  "lat": 38.812489993317286,
+  "lon": -89.95698998214537,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jane-and-paul-s-farm-33-fruit-street",
+  "name": "Jane and Paul's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "33 Fruit Street, MA",
+  "locationCity": "33 Fruit Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.1400472159218,
+  "lon": -71.3170956034759,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.319Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.319Z"
+}

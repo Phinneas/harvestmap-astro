@@ -1,0 +1,19 @@
+{
+  "slug": "harambee-certified-farmers-market-5730-crenshaw-blvd",
+  "name": "Harambee Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5730 Crenshaw Blvd., CA",
+  "locationCity": "5730 Crenshaw Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "90043",
+  "lat": 33.99024582420212,
+  "lon": -118.33058859303605,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

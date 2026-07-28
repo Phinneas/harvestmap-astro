@@ -1,0 +1,19 @@
+{
+  "slug": "shenandoah-gateway-farm-bnb-544-pico-rd",
+  "name": "Shenandoah Gateway Farm BnB",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "544 Pico Rd., VA",
+  "locationCity": "544 Pico Rd.",
+  "locationState": "VA",
+  "locationZipcode": "24066",
+  "lat": 37.5054870068587,
+  "lon": -79.7064109797154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:54.999Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:54.999Z"
+}

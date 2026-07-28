@@ -1,0 +1,19 @@
+{
+  "slug": "merryvale-farm-873-general-puller-hwy",
+  "name": "Merryvale Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "873 General Puller Hwy, VA",
+  "locationCity": "873 General Puller Hwy",
+  "locationState": "VA",
+  "locationZipcode": "23043",
+  "lat": 37.5552594193343,
+  "lon": -76.3344720802139,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:54.982Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:54.982Z"
+}

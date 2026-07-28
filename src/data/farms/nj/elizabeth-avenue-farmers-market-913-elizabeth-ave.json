@@ -1,0 +1,19 @@
+{
+  "slug": "elizabeth-avenue-farmers-market-913-elizabeth-ave",
+  "name": "Elizabeth Avenue Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "913 Elizabeth Ave., NJ",
+  "locationCity": "913 Elizabeth Ave.",
+  "locationState": "NJ",
+  "locationZipcode": "07201",
+  "lat": 40.6597618982906,
+  "lon": -74.20556163926958,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

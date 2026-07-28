@@ -1,0 +1,19 @@
+{
+  "slug": "vinedo-del-alamo-winery-2304-poplar-rd",
+  "name": "Vinedo Del Alamo Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2304 Poplar Rd, KS",
+  "locationCity": "2304 Poplar Rd",
+  "locationState": "KS",
+  "locationZipcode": "66701",
+  "lat": 37.8903870181601,
+  "lon": -94.6852249999927,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:26.150Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:26.150Z"
+}

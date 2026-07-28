@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-libby-w-9th-st",
+  "name": "Farmers Market at Libby",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "W 9th St, MT",
+  "locationCity": "W 9th St",
+  "locationState": "MT",
+  "locationZipcode": "",
+  "lat": 48.3885037,
+  "lon": -115.556531,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:48.815Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:48.815Z"
+}

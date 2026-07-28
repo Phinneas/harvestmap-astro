@@ -1,0 +1,19 @@
+{
+  "slug": "wayne-county-farmers-market-221-central-ave",
+  "name": "Wayne County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "221 Central Ave., WV",
+  "locationCity": "221 Central Ave.",
+  "locationState": "WV",
+  "locationZipcode": "25570",
+  "lat": 38.22325129670026,
+  "lon": -82.44444053228642,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

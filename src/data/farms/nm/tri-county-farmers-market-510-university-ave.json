@@ -1,0 +1,19 @@
+{
+  "slug": "tri-county-farmers-market-510-university-ave",
+  "name": "Tri-County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "510 University Ave., NM",
+  "locationCity": "510 University Ave.",
+  "locationState": "NM",
+  "locationZipcode": "87701",
+  "lat": 35.596343789245765,
+  "lon": -105.21475954352819,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

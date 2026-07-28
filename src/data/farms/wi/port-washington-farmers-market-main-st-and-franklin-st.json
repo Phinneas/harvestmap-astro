@@ -1,0 +1,19 @@
+{
+  "slug": "port-washington-farmers-market-main-st-and-franklin-st",
+  "name": "Port Washington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. and Franklin St., WI",
+  "locationCity": "Main St. and Franklin St.",
+  "locationState": "WI",
+  "locationZipcode": "53074",
+  "lat": 43.38850998477474,
+  "lon": -87.86928999604159,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hydro-harvest-farms-1101-shell-point-rd-e",
+  "name": "Hydro Harvest Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1101 Shell Point Rd E, FL",
+  "locationCity": "1101 Shell Point Rd E",
+  "locationState": "FL",
+  "locationZipcode": "33570",
+  "lat": 27.7203430178204,
+  "lon": -82.4202920228337,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:56.490Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:56.490Z"
+}

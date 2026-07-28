@@ -1,0 +1,19 @@
+{
+  "slug": "wheaton-french-market-main-st-liberty-dr",
+  "name": "Wheaton French Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. & Liberty Dr., IL",
+  "locationCity": "Main St. & Liberty Dr.",
+  "locationState": "IL",
+  "locationZipcode": "60187",
+  "lat": 41.864189981419685,
+  "lon": -88.10663003851968,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

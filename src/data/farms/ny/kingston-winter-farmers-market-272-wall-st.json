@@ -1,0 +1,19 @@
+{
+  "slug": "kingston-winter-farmers-market-272-wall-st",
+  "name": "Kingston Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "272 Wall St., NY",
+  "locationCity": "272 Wall St.",
+  "locationState": "NY",
+  "locationZipcode": "12401",
+  "lat": 41.93298466059979,
+  "lon": -74.01946407562791,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.520Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.520Z"
+}

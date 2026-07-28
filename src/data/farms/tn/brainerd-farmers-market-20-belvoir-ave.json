@@ -1,0 +1,19 @@
+{
+  "slug": "brainerd-farmers-market-20-belvoir-ave",
+  "name": "Brainerd Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 Belvoir Ave., TN",
+  "locationCity": "20 Belvoir Ave.",
+  "locationState": "TN",
+  "locationZipcode": "37411",
+  "lat": 35.018428229973395,
+  "lon": -85.2400096942073,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

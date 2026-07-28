@@ -1,0 +1,19 @@
+{
+  "slug": "farm-and-ranch-market-28th-and-north-ave",
+  "name": "Farm and Ranch Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "28th and North Ave., CO",
+  "locationCity": "28th and North Ave.",
+  "locationState": "CO",
+  "locationZipcode": "81501",
+  "lat": 39.07730997962753,
+  "lon": -108.53369998211679,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

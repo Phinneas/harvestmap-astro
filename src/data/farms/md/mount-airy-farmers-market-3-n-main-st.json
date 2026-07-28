@@ -1,0 +1,19 @@
+{
+  "slug": "mount-airy-farmers-market-3-n-main-st",
+  "name": "Mount Airy Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3 N. Main St., MD",
+  "locationCity": "3 N. Main St.",
+  "locationState": "MD",
+  "locationZipcode": "21771",
+  "lat": 39.37703688109359,
+  "lon": -77.15426447912577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.944Z"
+}

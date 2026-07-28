@@ -1,0 +1,19 @@
+{
+  "slug": "melrose-farmers-market-163-west-emerson-street",
+  "name": "Melrose Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "163 West Emerson Street, MA",
+  "locationCity": "163 West Emerson Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.4593744,
+  "lon": -71.07034420000001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.808Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.808Z"
+}

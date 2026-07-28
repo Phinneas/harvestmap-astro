@@ -1,0 +1,19 @@
+{
+  "slug": "lava-cap-winery-2221-fruitridge-road",
+  "name": "Lava Cap Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2221 Fruitridge Road, CA",
+  "locationCity": "2221 Fruitridge Road",
+  "locationState": "CA",
+  "locationZipcode": "95667",
+  "lat": 38.7509760016741,
+  "lon": -120.739245082001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.971Z"
+}

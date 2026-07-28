@@ -1,0 +1,19 @@
+{
+  "slug": "ponca-city-farmers-market-701-monument-rd",
+  "name": "Ponca City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "701 Monument Rd., OK",
+  "locationCity": "701 Monument Rd.",
+  "locationState": "OK",
+  "locationZipcode": "74604",
+  "lat": 36.71060159818491,
+  "lon": -97.06548953741371,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

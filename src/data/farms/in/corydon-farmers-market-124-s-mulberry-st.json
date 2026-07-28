@@ -1,0 +1,19 @@
+{
+  "slug": "corydon-farmers-market-124-s-mulberry-st",
+  "name": "Corydon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "124 S. Mulberry St., IN",
+  "locationCity": "124 S. Mulberry St.",
+  "locationState": "IN",
+  "locationZipcode": "47112",
+  "lat": 38.210211014496046,
+  "lon": -86.12423210008006,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

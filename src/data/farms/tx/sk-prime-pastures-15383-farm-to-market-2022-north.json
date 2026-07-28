@@ -1,0 +1,19 @@
+{
+  "slug": "sk-prime-pastures-15383-farm-to-market-2022-north",
+  "name": "SK Prime Pastures",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15383 Farm to Market 2022 North, TX",
+  "locationCity": "15383 Farm to Market 2022 North",
+  "locationState": "TX",
+  "locationZipcode": "15383",
+  "lat": 31.5403229,
+  "lon": -95.39043749999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:22.717Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:22.717Z"
+}

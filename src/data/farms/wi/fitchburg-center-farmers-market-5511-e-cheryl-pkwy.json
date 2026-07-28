@@ -1,0 +1,19 @@
+{
+  "slug": "fitchburg-center-farmers-market-5511-e-cheryl-pkwy",
+  "name": "Fitchburg Center Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5511 E. Cheryl Pkwy., WI",
+  "locationCity": "5511 E. Cheryl Pkwy.",
+  "locationState": "WI",
+  "locationZipcode": "53711",
+  "lat": 43.004984580683534,
+  "lon": -89.42348043267188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "new-milford-farmers-market-main-st",
+  "name": "New Milford Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St., CT",
+  "locationCity": "Main St.",
+  "locationState": "CT",
+  "locationZipcode": "06260",
+  "lat": 41.578668594748436,
+  "lon": -73.41153147175154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

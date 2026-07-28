@@ -1,0 +1,19 @@
+{
+  "slug": "cass-city-farmers-market-6506-main-street",
+  "name": "Cass City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6506 Main Street, MI",
+  "locationCity": "6506 Main Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.600886900785596,
+  "lon": -83.17410917319913,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "santa-teresa-farmers-market-santa-teresa-blvd-and-camino-verde",
+  "name": "Santa Teresa Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Santa Teresa Blvd. and Camino Verde, CA",
+  "locationCity": "Santa Teresa Blvd. and Camino Verde",
+  "locationState": "CA",
+  "locationZipcode": "95119",
+  "lat": 37.23431359553165,
+  "lon": -121.78919932419991,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

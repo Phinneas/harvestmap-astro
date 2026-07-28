@@ -1,0 +1,19 @@
+{
+  "slug": "corpus-christi-southside-farmers-market-5800-everhart-rd",
+  "name": "Corpus Christi Southside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5800 Everhart Rd., TX",
+  "locationCity": "5800 Everhart Rd.",
+  "locationState": "TX",
+  "locationZipcode": "78413",
+  "lat": 27.704143331215068,
+  "lon": -97.39089404772577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

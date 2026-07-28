@@ -1,0 +1,19 @@
+{
+  "slug": "bloomsbury-farm-3260-69th-street",
+  "name": "Bloomsbury Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3260 69th Street, IA",
+  "locationCity": "3260 69th Street",
+  "locationState": "IA",
+  "locationZipcode": "52206",
+  "lat": 42.0180559912781,
+  "lon": -91.8591640013546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:13.716Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:13.716Z"
+}

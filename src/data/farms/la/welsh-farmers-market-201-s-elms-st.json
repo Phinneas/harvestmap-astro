@@ -1,0 +1,19 @@
+{
+  "slug": "welsh-farmers-market-201-s-elms-st",
+  "name": "Welsh Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 S. Elms St., LA",
+  "locationCity": "201 S. Elms St.",
+  "locationState": "LA",
+  "locationZipcode": "70591",
+  "lat": 30.23891129550829,
+  "lon": -92.8226411556922,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:06.421Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:06.421Z"
+}

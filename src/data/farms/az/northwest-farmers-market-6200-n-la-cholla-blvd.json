@@ -1,0 +1,19 @@
+{
+  "slug": "northwest-farmers-market-6200-n-la-cholla-blvd",
+  "name": "Northwest Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6200 N. La Cholla Blvd., AZ",
+  "locationCity": "6200 N. La Cholla Blvd.",
+  "locationState": "AZ",
+  "locationZipcode": "85741",
+  "lat": 32.31456832521344,
+  "lon": -111.01213244843099,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

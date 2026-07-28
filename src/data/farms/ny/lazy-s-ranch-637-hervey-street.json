@@ -1,0 +1,19 @@
+{
+  "slug": "lazy-s-ranch-637-hervey-street",
+  "name": "Lazy S Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "637 Hervey Street, NY",
+  "locationCity": "637 Hervey Street",
+  "locationState": "NY",
+  "locationZipcode": "12418",
+  "lat": 42.3580225474937,
+  "lon": -74.1298545217746,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.647Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.647Z"
+}

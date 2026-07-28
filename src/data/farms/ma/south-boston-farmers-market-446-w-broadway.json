@@ -1,0 +1,19 @@
+{
+  "slug": "south-boston-farmers-market-446-w-broadway",
+  "name": "South Boston Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "446 W Broadway, MA",
+  "locationCity": "446 W Broadway",
+  "locationState": "MA",
+  "locationZipcode": "02127",
+  "lat": 42.33628204662741,
+  "lon": -71.04693263684428,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

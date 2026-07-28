@@ -1,0 +1,19 @@
+{
+  "slug": "graystone-farm-920-mt-carmel-church-road",
+  "name": "Graystone Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "920 Mt. Carmel Church Road, NC",
+  "locationCity": "920 Mt. Carmel Church Road",
+  "locationState": "NC",
+  "locationZipcode": "27320",
+  "lat": 36.4348022250621,
+  "lon": -79.6580938341367,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.471Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.471Z"
+}

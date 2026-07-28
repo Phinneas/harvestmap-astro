@@ -1,0 +1,19 @@
+{
+  "slug": "ara-farm-market-854-north-barlow-road",
+  "name": "ARA Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "854 North Barlow Road, MI",
+  "locationCity": "854 North Barlow Road",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 44.68245317225045,
+  "lon": -83.40336743543283,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

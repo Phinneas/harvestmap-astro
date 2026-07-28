@@ -1,0 +1,19 @@
+{
+  "slug": "monroe-street-farmers-market-2219-monroe-street",
+  "name": "Monroe Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2219 Monroe Street, WI",
+  "locationCity": "2219 Monroe Street",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "lat": 43.0601218,
+  "lon": -89.42117189999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.644Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.644Z"
+}

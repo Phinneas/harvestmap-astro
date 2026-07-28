@@ -1,0 +1,19 @@
+{
+  "slug": "lavender-wind-farm-2530-darst-rd",
+  "name": "Lavender Wind Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2530 Darst Rd., WA",
+  "locationCity": "2530 Darst Rd.",
+  "locationState": "WA",
+  "locationZipcode": "98239",
+  "lat": 48.2434600164385,
+  "lon": -122.754517040567,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.227Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.227Z"
+}

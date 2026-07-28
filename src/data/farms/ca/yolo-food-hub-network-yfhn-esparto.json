@@ -1,0 +1,19 @@
+{
+  "slug": "yolo-food-hub-network-yfhn-esparto",
+  "name": "Yolo Food Hub Network (YFHN)",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Esparto, CA",
+  "locationCity": "Esparto",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 38.694442,
+  "lon": -122.016321,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:00.814Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:00.814Z"
+}

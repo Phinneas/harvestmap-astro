@@ -1,0 +1,19 @@
+{
+  "slug": "amador-farmers-market-main-street-park",
+  "name": "Amador Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street Park, CA",
+  "locationCity": "Main Street Park",
+  "locationState": "CA",
+  "locationZipcode": "95669",
+  "lat": 38.4807833278526,
+  "lon": -120.84994873480436,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

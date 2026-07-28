@@ -1,0 +1,19 @@
+{
+  "slug": "lavoies-farm-172-nartoff-rd",
+  "name": "Lavoies Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "172 Nartoff Rd, NH",
+  "locationCity": "172 Nartoff Rd",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "lat": 42.76500200050185,
+  "lon": -71.54417200551562,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:24.583Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:24.583Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "anderson-county-market-1505-bypass-n",
+  "name": "Anderson County Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1505 Bypass N., KY",
+  "locationCity": "1505 Bypass N.",
+  "locationState": "KY",
+  "locationZipcode": "40342",
+  "lat": 38.074313410753206,
+  "lon": -84.91732036052377,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.783Z"
+}

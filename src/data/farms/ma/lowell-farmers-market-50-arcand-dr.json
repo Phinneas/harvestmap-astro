@@ -1,0 +1,19 @@
+{
+  "slug": "lowell-farmers-market-50-arcand-dr",
+  "name": "Lowell Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50 Arcand Dr., MA",
+  "locationCity": "50 Arcand Dr.",
+  "locationState": "MA",
+  "locationZipcode": "01854",
+  "lat": 42.646963612887625,
+  "lon": -71.31322698769905,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

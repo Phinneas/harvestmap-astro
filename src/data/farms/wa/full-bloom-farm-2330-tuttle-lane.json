@@ -1,0 +1,19 @@
+{
+  "slug": "full-bloom-farm-2330-tuttle-lane",
+  "name": "Full Bloom Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2330 Tuttle Lane, WA",
+  "locationCity": "2330 Tuttle Lane",
+  "locationState": "WA",
+  "locationZipcode": "98262",
+  "lat": 48.7262659793376,
+  "lon": -122.698861035844,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.222Z"
+}

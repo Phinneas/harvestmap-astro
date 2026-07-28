@@ -1,0 +1,19 @@
+{
+  "slug": "rivertown-farmers-market-410-williams-blvd",
+  "name": "Rivertown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "410 Williams Blvd., LA",
+  "locationCity": "410 Williams Blvd.",
+  "locationState": "LA",
+  "locationZipcode": "70062",
+  "lat": 29.974483121929566,
+  "lon": -90.24623682882131,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:06.421Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:06.421Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lake-placid-farmers-market-231-s-main-ave",
+  "name": "Lake Placid Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "231 S Main Ave, FL",
+  "locationCity": "231 S Main Ave",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "lat": 27.2945633,
+  "lon": -81.36689729999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.402Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.402Z"
+}

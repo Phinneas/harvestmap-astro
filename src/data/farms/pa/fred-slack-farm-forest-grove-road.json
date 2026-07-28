@@ -1,0 +1,19 @@
+{
+  "slug": "fred-slack-farm-forest-grove-road",
+  "name": "Fred Slack Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Forest Grove Road, PA",
+  "locationCity": "Forest Grove Road",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "lat": 40.48035308238746,
+  "lon": -80.12092296079774,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:17.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:17.957Z"
+}

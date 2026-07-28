@@ -1,0 +1,19 @@
+{
+  "slug": "otsego-farmers-market-112-kalamazoo-street",
+  "name": "Otsego Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 Kalamazoo Street, MI",
+  "locationCity": "112 Kalamazoo Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.46062410566212,
+  "lon": -85.69840180292317,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

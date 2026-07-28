@@ -1,0 +1,19 @@
+{
+  "slug": "newton-blueberry-farm-hollywood",
+  "name": "Newton Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hollywood, SC",
+  "locationCity": "Hollywood",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "lat": 32.7196736367045,
+  "lon": -80.3299144377606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:45.387Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:45.387Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "175th-street-greenmarket-651-w-175th-st",
+  "name": "175th Street Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "651 W 175th St, NY",
+  "locationCity": "651 W 175th St",
+  "locationState": "NY",
+  "locationZipcode": "10033",
+  "lat": 40.845707592429065,
+  "lon": -73.93720581628509,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.519Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.519Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bay-street-farmers-market-5616-bay-st",
+  "name": "Bay Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5616 Bay St., CA",
+  "locationCity": "5616 Bay St.",
+  "locationState": "CA",
+  "locationZipcode": "94608",
+  "lat": 37.83485259668174,
+  "lon": -122.2922994829706,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

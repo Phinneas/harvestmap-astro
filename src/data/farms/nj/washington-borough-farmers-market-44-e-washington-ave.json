@@ -1,0 +1,19 @@
+{
+  "slug": "washington-borough-farmers-market-44-e-washington-ave",
+  "name": "Washington Borough Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "44 E. Washington Ave., NJ",
+  "locationCity": "44 E. Washington Ave.",
+  "locationState": "NJ",
+  "locationZipcode": "07882",
+  "lat": 40.75862354748465,
+  "lon": -74.97863179214485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

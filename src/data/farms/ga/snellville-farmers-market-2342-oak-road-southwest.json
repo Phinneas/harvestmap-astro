@@ -1,0 +1,19 @@
+{
+  "slug": "snellville-farmers-market-2342-oak-road-southwest",
+  "name": "Snellville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2342 Oak Road Southwest, GA",
+  "locationCity": "2342 Oak Road Southwest",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "lat": 33.8574031,
+  "lon": -84.01447619999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.425Z"
+}

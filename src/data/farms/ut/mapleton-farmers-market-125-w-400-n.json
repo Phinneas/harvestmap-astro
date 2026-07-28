@@ -1,0 +1,19 @@
+{
+  "slug": "mapleton-farmers-market-125-w-400-n",
+  "name": "Mapleton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "125 W. 400 N., UT",
+  "locationCity": "125 W. 400 N.",
+  "locationState": "UT",
+  "locationZipcode": "84664",
+  "lat": 40.134089933214184,
+  "lon": -111.57983815894208,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:36.288Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:36.288Z"
+}

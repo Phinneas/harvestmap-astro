@@ -1,0 +1,19 @@
+{
+  "slug": "ottawa-farmers-market-2008-s-princeton-st",
+  "name": "Ottawa Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2008 S. Princeton St., KS",
+  "locationCity": "2008 S. Princeton St.",
+  "locationState": "KS",
+  "locationZipcode": "66067",
+  "lat": 38.58457301211757,
+  "lon": -95.26867100748638,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

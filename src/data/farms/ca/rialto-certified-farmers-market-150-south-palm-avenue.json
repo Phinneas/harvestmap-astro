@@ -1,0 +1,19 @@
+{
+  "slug": "rialto-certified-farmers-market-150-south-palm-avenue",
+  "name": "Rialto Certified Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 South Palm Avenue, CA",
+  "locationCity": "150 South Palm Avenue",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 34.099722,
+  "lon": -117.3731709,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.711Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.711Z"
+}

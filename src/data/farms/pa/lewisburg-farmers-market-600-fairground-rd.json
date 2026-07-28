@@ -1,0 +1,19 @@
+{
+  "slug": "lewisburg-farmers-market-600-fairground-rd",
+  "name": "Lewisburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 Fairground Rd., PA",
+  "locationCity": "600 Fairground Rd.",
+  "locationState": "PA",
+  "locationZipcode": "17837",
+  "lat": 40.96081944251717,
+  "lon": -76.9064133100613,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sun-valley-llamas-1300-e-sycamore-st",
+  "name": "Sun Valley Llamas",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1300 E. Sycamore St., IL",
+  "locationCity": "1300 E. Sycamore St.",
+  "locationState": "IL",
+  "locationZipcode": "61520",
+  "lat": 40.5663850021392,
+  "lon": -90.0141630275241,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:48.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:48.620Z"
+}

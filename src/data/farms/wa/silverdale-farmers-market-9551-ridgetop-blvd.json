@@ -1,0 +1,19 @@
+{
+  "slug": "silverdale-farmers-market-9551-ridgetop-blvd",
+  "name": "Silverdale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9551 Ridgetop Blvd., WA",
+  "locationCity": "9551 Ridgetop Blvd.",
+  "locationState": "WA",
+  "locationZipcode": "98383",
+  "lat": 47.65411011194646,
+  "lon": -122.68072354090657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

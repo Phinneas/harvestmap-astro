@@ -1,0 +1,19 @@
+{
+  "slug": "watson-street-farmers-market-watson-st-and-seward-st",
+  "name": "Watson Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Watson St. and Seward St., WI",
+  "locationCity": "Watson St. and Seward St.",
+  "locationState": "WI",
+  "locationZipcode": "54971",
+  "lat": 43.84296998560566,
+  "lon": -88.83880998419542,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "may-farms-64001-us-highway-36",
+  "name": "May Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "64001 US Highway 36, CO",
+  "locationCity": "64001 US Highway 36",
+  "locationState": "CO",
+  "locationZipcode": "64001",
+  "lat": 39.7153119927809,
+  "lon": -104.239663977288,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:08.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:08.827Z"
+}

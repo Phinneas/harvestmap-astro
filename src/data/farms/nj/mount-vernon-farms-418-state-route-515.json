@@ -1,0 +1,19 @@
+{
+  "slug": "mount-vernon-farms-418-state-route-515",
+  "name": "Mount Vernon Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "418 State Route 515, NJ",
+  "locationCity": "418 State Route 515",
+  "locationState": "NJ",
+  "locationZipcode": "07462",
+  "lat": 41.1763309832552,
+  "lon": -74.4880509630256,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:36.012Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:36.012Z"
+}

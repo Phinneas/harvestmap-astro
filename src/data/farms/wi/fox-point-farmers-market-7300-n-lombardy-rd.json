@@ -1,0 +1,19 @@
+{
+  "slug": "fox-point-farmers-market-7300-n-lombardy-rd",
+  "name": "Fox Point Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7300 N. Lombardy Rd., WI",
+  "locationCity": "7300 N. Lombardy Rd.",
+  "locationState": "WI",
+  "locationZipcode": "53217",
+  "lat": 43.15059491864566,
+  "lon": -87.90596585473186,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

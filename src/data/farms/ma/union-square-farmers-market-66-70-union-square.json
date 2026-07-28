@@ -1,0 +1,19 @@
+{
+  "slug": "union-square-farmers-market-66-70-union-square",
+  "name": "Union Square Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "66-70 Union Square, MA",
+  "locationCity": "66-70 Union Square",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.3801291,
+  "lon": -71.0968209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.809Z"
+}

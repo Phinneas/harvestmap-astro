@@ -1,0 +1,19 @@
+{
+  "slug": "verona-farmers-market-hometown-junction-park",
+  "name": "Verona Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hometown Junction Park, WI",
+  "locationCity": "Hometown Junction Park",
+  "locationState": "WI",
+  "locationZipcode": "53593",
+  "lat": 42.99453271552116,
+  "lon": -89.52095550862231,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

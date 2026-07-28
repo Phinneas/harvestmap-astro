@@ -1,0 +1,19 @@
+{
+  "slug": "riverfront-farmers-market-10-dock-street",
+  "name": "Riverfront Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Dock Street, NC",
+  "locationCity": "10 Dock Street",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "lat": 34.2339783,
+  "lon": -77.94910209999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.469Z"
+}

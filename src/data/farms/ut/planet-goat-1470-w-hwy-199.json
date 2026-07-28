@@ -1,0 +1,19 @@
+{
+  "slug": "planet-goat-1470-w-hwy-199",
+  "name": "Planet Goat",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1470 W. Hwy 199, UT",
+  "locationCity": "1470 W. Hwy 199",
+  "locationState": "UT",
+  "locationZipcode": "84069",
+  "lat": 40.3385489901242,
+  "lon": -112.481046976746,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:32.111Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:32.111Z"
+}

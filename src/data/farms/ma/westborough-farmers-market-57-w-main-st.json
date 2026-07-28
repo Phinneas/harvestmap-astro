@@ -1,0 +1,19 @@
+{
+  "slug": "westborough-farmers-market-57-w-main-st",
+  "name": "Westborough Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "57 W. Main St., MA",
+  "locationCity": "57 W. Main St.",
+  "locationState": "MA",
+  "locationZipcode": "01581",
+  "lat": 42.27063496860693,
+  "lon": -71.62292355848066,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

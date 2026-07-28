@@ -1,0 +1,19 @@
+{
+  "slug": "fulchino-vineyard-187-pine-hill-rd",
+  "name": "Fulchino Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "187 pine hill rd, NH",
+  "locationCity": "187 pine hill rd",
+  "locationState": "NH",
+  "locationZipcode": "03049",
+  "lat": 42.7544879926157,
+  "lon": -71.5479270143192,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:24.573Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:24.573Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-woodbury-farmers-market-2-railroad-ave",
+  "name": "The Woodbury Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 Railroad Ave, NJ",
+  "locationCity": "2 Railroad Ave",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "lat": 39.8358631,
+  "lon": -75.15059370000002,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.879Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.879Z"
+}

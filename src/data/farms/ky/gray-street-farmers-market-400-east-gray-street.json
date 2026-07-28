@@ -1,0 +1,19 @@
+{
+  "slug": "gray-street-farmers-market-400-east-gray-street",
+  "name": "Gray Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 East Gray Street, KY",
+  "locationCity": "400 East Gray Street",
+  "locationState": "KY",
+  "locationZipcode": "",
+  "lat": 38.2460179,
+  "lon": -85.746515,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.776Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.776Z"
+}

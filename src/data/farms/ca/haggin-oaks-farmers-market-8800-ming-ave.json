@@ -1,0 +1,20 @@
+{
+  "slug": "haggin-oaks-farmers-market-8800-ming-ave",
+  "name": "Haggin Oaks Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8800 Ming Ave., CA",
+  "locationCity": "8800 Ming Ave.",
+  "locationState": "CA",
+  "locationZipcode": "93311",
+  "lat": 35.33976865958952,
+  "lon": -119.10021593646987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z",
+  "crops": []
+}

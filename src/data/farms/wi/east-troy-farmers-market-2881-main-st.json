@@ -1,0 +1,19 @@
+{
+  "slug": "east-troy-farmers-market-2881-main-st",
+  "name": "East Troy Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2881 Main St., WI",
+  "locationCity": "2881 Main St.",
+  "locationState": "WI",
+  "locationZipcode": "53120",
+  "lat": 42.784840390276564,
+  "lon": -88.40510058575917,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "summer-street-stroll-farmers-market-1400-main-st",
+  "name": "Summer Street Stroll Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1400 Main St., KS",
+  "locationCity": "1400 Main St.",
+  "locationState": "KS",
+  "locationZipcode": "67530",
+  "lat": 38.36555618678406,
+  "lon": -98.76513209719991,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

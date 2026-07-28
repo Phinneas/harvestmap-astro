@@ -1,0 +1,19 @@
+{
+  "slug": "jenks-farmers-market-301-e-main-st",
+  "name": "Jenks Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 E. Main St., OK",
+  "locationCity": "301 E. Main St.",
+  "locationState": "OK",
+  "locationZipcode": "74037",
+  "lat": 36.02257560935167,
+  "lon": -95.96579016517032,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

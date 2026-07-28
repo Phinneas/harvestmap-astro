@@ -1,0 +1,19 @@
+{
+  "slug": "narrow-lane-farm-213-narrow-lane",
+  "name": "Narrow Lane Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "213 Narrow Lane, RI",
+  "locationCity": "213 Narrow Lane",
+  "locationState": "RI",
+  "locationZipcode": "",
+  "lat": 41.6004650069403,
+  "lon": -71.5189770103986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:34.431Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:34.431Z"
+}

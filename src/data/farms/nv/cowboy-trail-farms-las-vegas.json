@@ -1,0 +1,19 @@
+{
+  "slug": "cowboy-trail-farms-las-vegas",
+  "name": "Cowboy Trail Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Las Vegas, NV",
+  "locationCity": "Las Vegas",
+  "locationState": "NV",
+  "locationZipcode": "89131",
+  "lat": 36.301725,
+  "lon": -115.2677,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:12.025Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:12.025Z"
+}

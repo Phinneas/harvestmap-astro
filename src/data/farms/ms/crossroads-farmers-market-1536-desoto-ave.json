@@ -1,0 +1,19 @@
+{
+  "slug": "crossroads-farmers-market-1536-desoto-ave",
+  "name": "Crossroads Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1536 Desoto Ave., MS",
+  "locationCity": "1536 Desoto Ave.",
+  "locationState": "MS",
+  "locationZipcode": "38614",
+  "lat": 34.21098842589083,
+  "lon": -90.56888126217352,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:23.457Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:23.457Z"
+}

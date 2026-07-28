@@ -1,0 +1,19 @@
+{
+  "slug": "meadows-farmers-market-5041-ringwood-meadow",
+  "name": "Meadows Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5041 Ringwood Meadow, FL",
+  "locationCity": "5041 Ringwood Meadow",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "lat": 27.3640491,
+  "lon": -82.4676942,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.402Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.402Z"
+}

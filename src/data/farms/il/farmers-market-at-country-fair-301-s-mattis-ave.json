@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-country-fair-301-s-mattis-ave",
+  "name": "Farmers' Market at Country Fair",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 S. Mattis Ave., IL",
+  "locationCity": "301 S. Mattis Ave.",
+  "locationState": "IL",
+  "locationZipcode": "61821",
+  "lat": 40.114560969769165,
+  "lon": -88.27684019533751,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

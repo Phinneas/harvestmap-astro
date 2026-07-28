@@ -1,0 +1,19 @@
+{
+  "slug": "the-reviving-garden-30-elmwood-ave",
+  "name": "The Reviving Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "30 Elmwood Ave, OH",
+  "locationCity": "30 Elmwood Ave",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 41.0349115,
+  "lon": -81.5806021,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:43.397Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:43.397Z"
+}

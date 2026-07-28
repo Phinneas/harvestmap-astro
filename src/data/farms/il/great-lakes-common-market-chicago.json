@@ -1,0 +1,19 @@
+{
+  "slug": "great-lakes-common-market-chicago",
+  "name": "Great Lakes Common Market",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Chicago, IL",
+  "locationCity": "Chicago",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 41.883229,
+  "lon": -87.632398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:54.282Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:54.282Z"
+}

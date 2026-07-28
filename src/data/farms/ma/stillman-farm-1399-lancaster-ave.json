@@ -1,0 +1,20 @@
+{
+  "slug": "stillman-farm-1399-lancaster-ave",
+  "name": "Stillman Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1399 Lancaster Ave., MA",
+  "locationCity": "1399 Lancaster Ave.",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.5428202946404,
+  "lon": -71.7097406609495,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.342Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.342Z",
+  "crops": []
+}

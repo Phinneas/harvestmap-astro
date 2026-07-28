@@ -1,0 +1,19 @@
+{
+  "slug": "bow-hill-blueberries-15628-bow-hill-road",
+  "name": "Bow Hill Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15628 Bow Hill Road, WA",
+  "locationCity": "15628 Bow Hill Road",
+  "locationState": "WA",
+  "locationZipcode": "15628",
+  "lat": 48.5581659891448,
+  "lon": -122.408841989194,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.223Z"
+}

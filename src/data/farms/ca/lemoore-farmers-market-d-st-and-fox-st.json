@@ -1,0 +1,19 @@
+{
+  "slug": "lemoore-farmers-market-d-st-and-fox-st",
+  "name": "Lemoore Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "D St. and Fox St., CA",
+  "locationCity": "D St. and Fox St.",
+  "locationState": "CA",
+  "locationZipcode": "93245",
+  "lat": 36.30154999732112,
+  "lon": -119.78649996211124,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

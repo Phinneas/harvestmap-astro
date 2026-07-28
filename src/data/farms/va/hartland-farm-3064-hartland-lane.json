@@ -1,0 +1,19 @@
+{
+  "slug": "hartland-farm-3064-hartland-lane",
+  "name": "Hartland Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3064 Hartland Lane, VA",
+  "locationCity": "3064 Hartland Lane",
+  "locationState": "VA",
+  "locationZipcode": "22643",
+  "lat": 38.9155159885602,
+  "lon": -78.0102249970707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:54.980Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:54.980Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rogers-city-farmers-market-146-east-erie-street",
+  "name": "Rogers City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "146 East Erie Street, MI",
+  "locationCity": "146 East Erie Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 45.419753599885325,
+  "lon": -83.81502678380326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

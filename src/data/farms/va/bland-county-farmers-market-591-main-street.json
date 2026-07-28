@@ -1,0 +1,19 @@
+{
+  "slug": "bland-county-farmers-market-591-main-street",
+  "name": "Bland County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "591 Main Street, VA",
+  "locationCity": "591 Main Street",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "lat": 37.1008111,
+  "lon": -81.1149101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.481Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.481Z"
+}

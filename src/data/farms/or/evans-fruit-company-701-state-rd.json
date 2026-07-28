@@ -1,0 +1,19 @@
+{
+  "slug": "evans-fruit-company-701-state-rd",
+  "name": "Evans Fruit Company",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "701 State Rd, OR",
+  "locationCity": "701 State Rd",
+  "locationState": "OR",
+  "locationZipcode": "97040",
+  "lat": 45.6814249864227,
+  "lon": -121.378222034023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:04.691Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:04.691Z"
+}

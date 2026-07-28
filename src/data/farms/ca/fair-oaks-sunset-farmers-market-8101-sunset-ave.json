@@ -1,0 +1,19 @@
+{
+  "slug": "fair-oaks-sunset-farmers-market-8101-sunset-ave",
+  "name": "Fair Oaks Sunset Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8101 Sunset Ave., CA",
+  "locationCity": "8101 Sunset Ave.",
+  "locationState": "CA",
+  "locationZipcode": "95628",
+  "lat": 38.65286615206804,
+  "lon": -121.26443994557093,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

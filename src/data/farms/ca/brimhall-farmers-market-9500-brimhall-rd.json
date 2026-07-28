@@ -1,0 +1,19 @@
+{
+  "slug": "brimhall-farmers-market-9500-brimhall-rd",
+  "name": "Brimhall Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9500 Brimhall Rd., CA",
+  "locationCity": "9500 Brimhall Rd.",
+  "locationState": "CA",
+  "locationZipcode": "93312",
+  "lat": 35.368729855117486,
+  "lon": -119.10800435171282,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

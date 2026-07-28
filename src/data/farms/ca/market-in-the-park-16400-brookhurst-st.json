@@ -1,0 +1,19 @@
+{
+  "slug": "market-in-the-park-16400-brookhurst-st",
+  "name": "Market in the Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16400 Brookhurst St., CA",
+  "locationCity": "16400 Brookhurst St.",
+  "locationState": "CA",
+  "locationZipcode": "16400",
+  "lat": 33.72481605432765,
+  "lon": -117.95451338168057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

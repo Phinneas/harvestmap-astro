@@ -1,0 +1,19 @@
+{
+  "slug": "lattimore-farms-box-423",
+  "name": "Lattimore Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Box 423, NC",
+  "locationCity": "Box 423",
+  "locationState": "NC",
+  "locationZipcode": "28089",
+  "lat": 35.3176050000001,
+  "lon": -81.654545,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.473Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.473Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "seed-to-feed-dinner-series-214-s-water-street",
+  "name": "Seed To Feed Dinner Series",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "214 S Water Street, KY",
+  "locationCity": "214 S Water Street",
+  "locationState": "KY",
+  "locationZipcode": "40324",
+  "lat": 38.2081709933505,
+  "lon": -84.5615849758319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:40.553Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:40.553Z"
+}

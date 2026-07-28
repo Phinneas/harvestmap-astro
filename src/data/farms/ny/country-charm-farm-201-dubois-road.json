@@ -1,0 +1,19 @@
+{
+  "slug": "country-charm-farm-201-dubois-road",
+  "name": "Country Charm Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "201 DuBois Road, NY",
+  "locationCity": "201 DuBois Road",
+  "locationState": "NY",
+  "locationZipcode": "12561",
+  "lat": 41.7019796612216,
+  "lon": -74.1033229483773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.645Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.645Z"
+}

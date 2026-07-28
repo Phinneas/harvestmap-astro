@@ -1,0 +1,20 @@
+{
+  "slug": "ramona-grange-growers-exchange-cfm-215-7th-street",
+  "name": "Ramona Grange Growers Exchange CFM",
+  "source": "usda",
+  "directory": "csa",
+  "location": "215 7th Street, CA",
+  "locationCity": "215 7th Street",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 33.0450555,
+  "lon": -116.8644324,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:57.225Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:57.225Z",
+  "crops": []
+}

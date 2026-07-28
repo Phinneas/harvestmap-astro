@@ -1,0 +1,19 @@
+{
+  "slug": "morningstar-marketplace-5309-lincoln-hwy-w",
+  "name": "Morningstar Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5309 Lincoln Hwy W, PA",
+  "locationCity": "5309 Lincoln Hwy W",
+  "locationState": "PA",
+  "locationZipcode": "17364",
+  "lat": 39.9285185771895,
+  "lon": -76.85369020974927,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "greeneville-farmers-market-123-fair-grounds-rd",
+  "name": "Greeneville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "123 Fair Grounds Rd., TN",
+  "locationCity": "123 Fair Grounds Rd.",
+  "locationState": "TN",
+  "locationZipcode": "37745",
+  "lat": 36.18145232453096,
+  "lon": -82.78470857770299,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

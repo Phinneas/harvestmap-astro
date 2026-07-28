@@ -1,0 +1,19 @@
+{
+  "slug": "ambers-farm-9300-leona-ave",
+  "name": "Ambers Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9300 Leona Ave, CA",
+  "locationCity": "9300 Leona Ave",
+  "locationState": "CA",
+  "locationZipcode": "93551",
+  "lat": 34.6141319883122,
+  "lon": -118.296114009943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.969Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.969Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tontitown-farmers-market-235-e-henri-de-tonti-blvd",
+  "name": "Tontitown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "235 E. Henri De Tonti Blvd, AR",
+  "locationCity": "235 E. Henri De Tonti Blvd",
+  "locationState": "AR",
+  "locationZipcode": "72770",
+  "lat": 36.175764,
+  "lon": -94.232501,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:47.393Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:47.393Z"
+}

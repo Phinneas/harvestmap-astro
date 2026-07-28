@@ -1,0 +1,19 @@
+{
+  "slug": "sun-prairie-farmers-market-301-blankenheim-ln",
+  "name": "Sun Prairie Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 Blankenheim Ln., WI",
+  "locationCity": "301 Blankenheim Ln.",
+  "locationState": "WI",
+  "locationZipcode": "53590",
+  "lat": 43.18308683677053,
+  "lon": -89.20619050523548,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

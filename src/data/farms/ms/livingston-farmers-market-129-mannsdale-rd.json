@@ -1,0 +1,19 @@
+{
+  "slug": "livingston-farmers-market-129-mannsdale-rd",
+  "name": "Livingston Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "129 Mannsdale Rd., MS",
+  "locationCity": "129 Mannsdale Rd.",
+  "locationState": "MS",
+  "locationZipcode": "39110",
+  "lat": 32.480175194967245,
+  "lon": -90.15986822232871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:23.457Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:23.457Z"
+}

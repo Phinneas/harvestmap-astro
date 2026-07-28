@@ -1,0 +1,19 @@
+{
+  "slug": "peekskill-farmers-market-1-bank-st",
+  "name": "Peekskill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Bank St, NY",
+  "locationCity": "1 Bank St",
+  "locationState": "NY",
+  "locationZipcode": "10014",
+  "lat": 40.7371662226983,
+  "lon": -74.00151672546134,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.520Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.520Z"
+}

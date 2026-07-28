@@ -1,0 +1,19 @@
+{
+  "slug": "lake-geneva-farmers-market-330-broad-st",
+  "name": "Lake Geneva Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "330 Broad St., WI",
+  "locationCity": "330 Broad St.",
+  "locationState": "WI",
+  "locationZipcode": "53147",
+  "lat": 42.59319487697956,
+  "lon": -88.43532536205707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

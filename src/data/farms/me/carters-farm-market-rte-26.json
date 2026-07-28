@@ -1,0 +1,19 @@
+{
+  "slug": "carters-farm-market-rte-26",
+  "name": "Carters Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Rte 26, ME",
+  "locationCity": "Rte 26",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 44.19548381082504,
+  "lon": -70.52559684520847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:23.963Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:23.963Z"
+}

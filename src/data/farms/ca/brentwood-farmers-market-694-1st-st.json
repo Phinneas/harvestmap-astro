@@ -1,0 +1,19 @@
+{
+  "slug": "brentwood-farmers-market-694-1st-st",
+  "name": "Brentwood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "694 1st St., CA",
+  "locationCity": "694 1st St.",
+  "locationState": "CA",
+  "locationZipcode": "94513",
+  "lat": 37.93250325342324,
+  "lon": -121.69471600637193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

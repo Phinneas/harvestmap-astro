@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-corner-of-temple-st-and-chapel-st",
+  "name": "Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Temple St. and Chapel St., CT",
+  "locationCity": "Corner of Temple St. and Chapel St.",
+  "locationState": "CT",
+  "locationZipcode": "06510",
+  "lat": 41.30658001699791,
+  "lon": -72.92701000949694,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

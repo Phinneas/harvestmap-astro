@@ -1,0 +1,19 @@
+{
+  "slug": "monson-farmers-market-5-high-st",
+  "name": "Monson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5 High St., MA",
+  "locationCity": "5 High St.",
+  "locationState": "MA",
+  "locationZipcode": "01057",
+  "lat": 42.10415080415812,
+  "lon": -72.32013219727308,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

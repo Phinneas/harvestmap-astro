@@ -1,0 +1,19 @@
+{
+  "slug": "brookfield-farmers-market-2000-n-calhoun-rd",
+  "name": "Brookfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2000 N. Calhoun Rd., WI",
+  "locationCity": "2000 N. Calhoun Rd.",
+  "locationState": "WI",
+  "locationZipcode": "53005",
+  "lat": 43.05650268761708,
+  "lon": -88.12614059381961,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

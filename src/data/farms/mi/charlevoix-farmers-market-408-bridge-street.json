@@ -1,0 +1,19 @@
+{
+  "slug": "charlevoix-farmers-market-408-bridge-street",
+  "name": "Charlevoix Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "408 Bridge Street, MI",
+  "locationCity": "408 Bridge Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 45.31497677095563,
+  "lon": -85.25866224617059,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

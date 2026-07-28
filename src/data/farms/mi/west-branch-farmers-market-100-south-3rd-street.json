@@ -1,0 +1,19 @@
+{
+  "slug": "west-branch-farmers-market-100-south-3rd-street",
+  "name": "West Branch Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 South 3rd Street, MI",
+  "locationCity": "100 South 3rd Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 44.27616125621777,
+  "lon": -84.23852819013096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

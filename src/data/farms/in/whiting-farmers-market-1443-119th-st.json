@@ -1,0 +1,19 @@
+{
+  "slug": "whiting-farmers-market-1443-119th-st",
+  "name": "Whiting Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1443 119th St., IN",
+  "locationCity": "1443 119th St.",
+  "locationState": "IN",
+  "locationZipcode": "46394",
+  "lat": 41.67939591914268,
+  "lon": -87.49408243017461,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dekalb-county-farmers-market-205-e-bryant-st",
+  "name": "DeKalb County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 E.Bryant St., TN",
+  "locationCity": "205 E.Bryant St.",
+  "locationState": "TN",
+  "locationZipcode": "37166",
+  "lat": 35.95366968113156,
+  "lon": -85.8108390859738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

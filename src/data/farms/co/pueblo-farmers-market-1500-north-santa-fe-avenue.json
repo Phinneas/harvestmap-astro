@@ -1,0 +1,19 @@
+{
+  "slug": "pueblo-farmers-market-1500-north-santa-fe-avenue",
+  "name": "Pueblo Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1500 North Santa Fe Avenue, CO",
+  "locationCity": "1500 North Santa Fe Avenue",
+  "locationState": "CO",
+  "locationZipcode": "",
+  "lat": 38.2822051,
+  "lon": -104.6066607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.512Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.512Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "michigan-city-farmers-market-8th-st-and-washington-st",
+  "name": "Michigan City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8th St. and Washington St., IN",
+  "locationCity": "8th St. and Washington St.",
+  "locationState": "IN",
+  "locationZipcode": "46360",
+  "lat": 41.713519991242094,
+  "lon": -86.90158997052423,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

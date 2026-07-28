@@ -1,0 +1,19 @@
+{
+  "slug": "happy-valley-farmers-market-100-e-main-st",
+  "name": "Happy Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 E. Main St., UT",
+  "locationCity": "100 E. Main St.",
+  "locationState": "UT",
+  "locationZipcode": "84003",
+  "lat": 40.37675236174055,
+  "lon": -111.79314746083595,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:36.288Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:36.288Z"
+}

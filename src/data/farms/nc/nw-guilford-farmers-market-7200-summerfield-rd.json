@@ -1,0 +1,19 @@
+{
+  "slug": "nw-guilford-farmers-market-7200-summerfield-rd",
+  "name": "NW Guilford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7200 Summerfield Rd, NC",
+  "locationCity": "7200 Summerfield Rd",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "lat": 36.1962139,
+  "lon": -79.896836,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.469Z"
+}

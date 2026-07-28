@@ -1,0 +1,19 @@
+{
+  "slug": "angelic-gardens-6200-11th-ave-se",
+  "name": "Angelic Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6200 11th ave SE, ND",
+  "locationCity": "6200 11th ave SE",
+  "locationState": "ND",
+  "locationZipcode": "58701",
+  "lat": 48.2238039924874,
+  "lon": -101.200659974106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:27.890Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:27.890Z"
+}

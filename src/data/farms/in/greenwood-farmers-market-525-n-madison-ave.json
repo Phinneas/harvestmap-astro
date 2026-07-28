@@ -1,0 +1,19 @@
+{
+  "slug": "greenwood-farmers-market-525-n-madison-ave",
+  "name": "Greenwood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "525 N. Madison Ave., IN",
+  "locationCity": "525 N. Madison Ave.",
+  "locationState": "IN",
+  "locationZipcode": "46143",
+  "lat": 39.62132756017871,
+  "lon": -86.11223555561806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

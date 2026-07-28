@@ -1,0 +1,19 @@
+{
+  "slug": "strawberry-festival-bi-water-farm",
+  "name": "Strawberry Festival",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bi-Water Farm, KY",
+  "locationCity": "Bi-Water Farm",
+  "locationState": "KY",
+  "locationZipcode": "",
+  "lat": 38.2107939250272,
+  "lon": -84.561466930911,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:40.566Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:40.566Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "seymour-area-farmers-market-111-south-walnut-street",
+  "name": "Seymour Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 South Walnut Street, IN",
+  "locationCity": "111 South Walnut Street",
+  "locationState": "IN",
+  "locationZipcode": "",
+  "lat": 38.957627,
+  "lon": -85.89088799999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.350Z"
+}

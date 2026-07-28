@@ -1,0 +1,19 @@
+{
+  "slug": "gateway-farm-41390-hwy-226",
+  "name": "Gateway Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "41390 Hwy 226, OR",
+  "locationCity": "41390 Hwy 226",
+  "locationState": "OR",
+  "locationZipcode": "41390",
+  "lat": 44.7132880122928,
+  "lon": -122.757815990019,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:04.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:04.714Z"
+}

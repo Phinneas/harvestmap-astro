@@ -1,0 +1,19 @@
+{
+  "slug": "huntington-beach-200-main-street",
+  "name": "Huntington Beach",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 Main Street, CA",
+  "locationCity": "200 Main Street",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 33.6581980174678,
+  "lon": -118.000235007145,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.966Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.966Z"
+}

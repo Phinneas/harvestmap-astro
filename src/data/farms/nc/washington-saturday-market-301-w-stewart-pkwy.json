@@ -1,0 +1,19 @@
+{
+  "slug": "washington-saturday-market-301-w-stewart-pkwy",
+  "name": "Washington Saturday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 W. Stewart Pkwy., NC",
+  "locationCity": "301 W. Stewart Pkwy.",
+  "locationState": "NC",
+  "locationZipcode": "27889",
+  "lat": 35.5414912503616,
+  "lon": -77.05673509112412,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

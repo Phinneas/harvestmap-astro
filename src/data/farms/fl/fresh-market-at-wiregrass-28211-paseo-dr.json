@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-market-at-wiregrass-28211-paseo-dr",
+  "name": "Fresh Market at Wiregrass",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "28211 Paseo Dr., FL",
+  "locationCity": "28211 Paseo Dr.",
+  "locationState": "FL",
+  "locationZipcode": "28211",
+  "lat": 28.18866501012289,
+  "lon": -82.35002803725658,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.374Z"
+}

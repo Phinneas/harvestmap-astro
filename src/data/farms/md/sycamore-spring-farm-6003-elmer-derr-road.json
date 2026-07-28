@@ -1,0 +1,19 @@
+{
+  "slug": "sycamore-spring-farm-6003-elmer-derr-road",
+  "name": "Sycamore Spring Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6003 Elmer Derr Road, MD",
+  "locationCity": "6003 Elmer Derr Road",
+  "locationState": "MD",
+  "locationZipcode": "21703",
+  "lat": 39.3755080035774,
+  "lon": -77.460124966437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:29.060Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:29.060Z"
+}

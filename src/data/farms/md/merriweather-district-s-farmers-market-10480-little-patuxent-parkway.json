@@ -1,0 +1,19 @@
+{
+  "slug": "merriweather-district-s-farmers-market-10480-little-patuxent-parkway",
+  "name": "Merriweather District's Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10480 Little Patuxent Parkway, MD",
+  "locationCity": "10480 Little Patuxent Parkway",
+  "locationState": "MD",
+  "locationZipcode": "10480",
+  "lat": 39.2123048,
+  "lon": -76.8630809,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.959Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.959Z"
+}

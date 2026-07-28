@@ -1,0 +1,19 @@
+{
+  "slug": "marble-city-farmers-and-art-market-103-main-street",
+  "name": "Marble City Farmers and Art Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "103 Main Street, OK",
+  "locationCity": "103 Main Street",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "lat": 35.5804604,
+  "lon": -94.8210919,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.540Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.540Z"
+}

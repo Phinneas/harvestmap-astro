@@ -1,0 +1,19 @@
+{
+  "slug": "kenosha-harbor-market-2nd-ave-and-55th-st",
+  "name": "Kenosha Harbor Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2nd Ave. and 55th St., WI",
+  "locationCity": "2nd Ave. and 55th St.",
+  "locationState": "WI",
+  "locationZipcode": "53140",
+  "lat": 42.58647642054775,
+  "lon": -87.8138573489958,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cicero-farmers-market-8686-knowledge-ln",
+  "name": "Cicero Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8686 Knowledge Ln., NY",
+  "locationCity": "8686 Knowledge Ln.",
+  "locationState": "NY",
+  "locationZipcode": "13039",
+  "lat": 43.19094150836552,
+  "lon": -76.12687838862635,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.519Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.519Z"
+}

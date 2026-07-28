@@ -1,0 +1,19 @@
+{
+  "slug": "orcas-island-farmers-market-55-2nd-st-n",
+  "name": "Orcas Island Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "55 2nd St. N, WA",
+  "locationCity": "55 2nd St. N",
+  "locationState": "WA",
+  "locationZipcode": "98250",
+  "lat": 48.535304012957624,
+  "lon": -123.01944100438591,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

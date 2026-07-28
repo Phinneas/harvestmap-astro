@@ -1,0 +1,19 @@
+{
+  "slug": "country-junction-route-11",
+  "name": "Country Junction -",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 11, ME",
+  "locationCity": "Route 11",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 45.08765046788,
+  "lon": -68.9485650173908,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.507Z"
+}

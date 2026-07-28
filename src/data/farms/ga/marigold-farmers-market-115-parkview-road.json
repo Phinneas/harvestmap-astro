@@ -1,0 +1,19 @@
+{
+  "slug": "marigold-farmers-market-115-parkview-road",
+  "name": "Marigold Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 Parkview Road, GA",
+  "locationCity": "115 Parkview Road",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "lat": 33.9677982,
+  "lon": -83.27829659999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.424Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.424Z"
+}

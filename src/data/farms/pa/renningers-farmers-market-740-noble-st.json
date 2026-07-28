@@ -1,0 +1,19 @@
+{
+  "slug": "renningers-farmers-market-740-noble-st",
+  "name": "Renningers Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "740 Noble St., PA",
+  "locationCity": "740 Noble St.",
+  "locationState": "PA",
+  "locationZipcode": "19530",
+  "lat": 40.50311526184653,
+  "lon": -75.76790651104953,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

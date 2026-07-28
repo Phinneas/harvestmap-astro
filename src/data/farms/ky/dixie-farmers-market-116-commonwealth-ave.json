@@ -1,0 +1,19 @@
+{
+  "slug": "dixie-farmers-market-116-commonwealth-ave",
+  "name": "Dixie Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "116 Commonwealth Ave., KY",
+  "locationCity": "116 Commonwealth Ave.",
+  "locationState": "KY",
+  "locationZipcode": "41018",
+  "lat": 39.018059270399156,
+  "lon": -84.60197558298361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.783Z"
+}

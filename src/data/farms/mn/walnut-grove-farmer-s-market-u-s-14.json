@@ -1,0 +1,19 @@
+{
+  "slug": "walnut-grove-farmer-s-market-u-s-14",
+  "name": "Walnut Grove Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "U.S. 14, MN",
+  "locationCity": "U.S. 14",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "lat": 44.2250891,
+  "lon": -95.4718667,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:11.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:11.219Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kaiser-permanente-san-francisco-farmers-market-geary-blvd-and-st-joseph-s-st",
+  "name": "Kaiser Permanente San Francisco Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Geary Blvd. and St. Joseph's St., CA",
+  "locationCity": "Geary Blvd. and St. Joseph's St.",
+  "locationState": "CA",
+  "locationZipcode": "94115",
+  "lat": 37.782809984769116,
+  "lon": -122.44277000540995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

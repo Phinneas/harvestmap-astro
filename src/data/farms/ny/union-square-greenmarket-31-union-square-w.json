@@ -1,0 +1,19 @@
+{
+  "slug": "union-square-greenmarket-31-union-square-w",
+  "name": "Union Square Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "31 Union Square W, NY",
+  "locationCity": "31 Union Square W",
+  "locationState": "NY",
+  "locationZipcode": "10003",
+  "lat": 40.73658422207169,
+  "lon": -73.9907215680188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.520Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.520Z"
+}

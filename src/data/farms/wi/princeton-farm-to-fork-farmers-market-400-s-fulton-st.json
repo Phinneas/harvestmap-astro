@@ -1,0 +1,19 @@
+{
+  "slug": "princeton-farm-to-fork-farmers-market-400-s-fulton-st",
+  "name": "Princeton Farm to Fork Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 S. Fulton St., WI",
+  "locationCity": "400 S. Fulton St.",
+  "locationState": "WI",
+  "locationZipcode": "54968",
+  "lat": 43.84718387654501,
+  "lon": -89.12287554725567,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

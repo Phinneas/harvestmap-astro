@@ -1,0 +1,19 @@
+{
+  "slug": "jonesborough-farmers-market-100-east-main-street",
+  "name": "Jonesborough Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 East Main Street, TN",
+  "locationCity": "100 East Main Street",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "lat": 36.2939915,
+  "lon": -82.4729488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.535Z"
+}

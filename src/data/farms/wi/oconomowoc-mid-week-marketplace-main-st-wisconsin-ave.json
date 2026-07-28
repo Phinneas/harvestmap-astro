@@ -1,0 +1,19 @@
+{
+  "slug": "oconomowoc-mid-week-marketplace-main-st-wisconsin-ave",
+  "name": "Oconomowoc Mid-Week Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. & Wisconsin Ave., WI",
+  "locationCity": "Main St. & Wisconsin Ave.",
+  "locationState": "WI",
+  "locationZipcode": "53066",
+  "lat": 43.111399991024,
+  "lon": -88.49945002631259,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

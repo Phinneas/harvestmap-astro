@@ -1,0 +1,19 @@
+{
+  "slug": "abc-farm-18598-wcr-8",
+  "name": "ABC Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "18598 WCR 8, CO",
+  "locationCity": "18598 WCR 8",
+  "locationState": "CO",
+  "locationZipcode": "18598",
+  "lat": 39.9948150000001,
+  "lon": -104.63763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:08.833Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:08.833Z"
+}

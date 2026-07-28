@@ -1,0 +1,19 @@
+{
+  "slug": "upland-farmers-market-204-n-2nd-ave",
+  "name": "Upland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "204 N. 2nd Ave., CA",
+  "locationCity": "204 N. 2nd Ave.",
+  "locationState": "CA",
+  "locationZipcode": "91786",
+  "lat": 34.096256637404714,
+  "lon": -117.64841331100477,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

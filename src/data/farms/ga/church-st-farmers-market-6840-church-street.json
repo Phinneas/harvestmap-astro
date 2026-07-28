@@ -1,0 +1,19 @@
+{
+  "slug": "church-st-farmers-market-6840-church-street",
+  "name": "Church St Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6840 Church Street, GA",
+  "locationCity": "6840 Church Street",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "lat": 33.7481651,
+  "lon": -84.7531269,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.424Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.424Z"
+}

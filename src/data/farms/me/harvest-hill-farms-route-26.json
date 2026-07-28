@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-hill-farms-route-26",
+  "name": "Harvest Hill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 26, ME",
+  "locationCity": "Route 26",
+  "locationState": "ME",
+  "locationZipcode": "04256",
+  "lat": 44.0841605067645,
+  "lon": -70.4189227104275,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:16.485Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:16.485Z"
+}

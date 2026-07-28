@@ -1,0 +1,19 @@
+{
+  "slug": "wahl-farms-440-beechwoods-road",
+  "name": "Wahl Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "440 beechwoods road, NY",
+  "locationCity": "440 beechwoods road",
+  "locationState": "NY",
+  "locationZipcode": "12723",
+  "lat": 41.768734856401,
+  "lon": -74.9985743290738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.651Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.651Z"
+}

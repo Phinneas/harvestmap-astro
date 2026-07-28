@@ -1,0 +1,19 @@
+{
+  "slug": "sunshine-farm-41-kendall-avenue",
+  "name": "Sunshine Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "41 Kendall Avenue, MA",
+  "locationCity": "41 Kendall Avenue",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.2691930235686,
+  "lon": -71.3898235333105,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.326Z"
+}

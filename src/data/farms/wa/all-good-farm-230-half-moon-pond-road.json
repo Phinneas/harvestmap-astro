@@ -1,0 +1,20 @@
+{
+  "slug": "all-good-farm-230-half-moon-pond-road",
+  "name": "All Good Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "230 Half Moon Pond Road, WA",
+  "locationCity": "230 Half Moon Pond Road",
+  "locationState": "WA",
+  "locationZipcode": "03280",
+  "lat": 43.1726950049273,
+  "lon": -72.0885959789569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.222Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "grace-hill-winery-6310-s-grace-hill-road",
+  "name": "Grace Hill Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6310 S Grace Hill Road, KS",
+  "locationCity": "6310 S Grace Hill Road",
+  "locationState": "KS",
+  "locationZipcode": "67154",
+  "lat": 37.9657370168556,
+  "lon": -97.1887829700433,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:26.146Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:26.146Z"
+}

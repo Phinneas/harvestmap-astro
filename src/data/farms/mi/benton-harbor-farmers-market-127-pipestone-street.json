@@ -1,0 +1,19 @@
+{
+  "slug": "benton-harbor-farmers-market-127-pipestone-street",
+  "name": "Benton Harbor Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "127 Pipestone Street, MI",
+  "locationCity": "127 Pipestone Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.114816621316166,
+  "lon": -86.45416605856019,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

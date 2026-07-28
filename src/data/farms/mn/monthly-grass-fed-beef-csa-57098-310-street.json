@@ -1,0 +1,19 @@
+{
+  "slug": "monthly-grass-fed-beef-csa-57098-310-street",
+  "name": "Monthly Grass-Fed Beef CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "57098 310 Street, MN",
+  "locationCity": "57098 310 Street",
+  "locationState": "MN",
+  "locationZipcode": "57098",
+  "lat": 44.4984674,
+  "lon": -94.4149589,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:08.899Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:08.899Z"
+}

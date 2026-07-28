@@ -1,0 +1,19 @@
+{
+  "slug": "osage-farmers-market-114-s-7th-st",
+  "name": "Osage Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "114 S 7th St, IA",
+  "locationCity": "114 S 7th St",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 43.28327069999999,
+  "lon": -92.81096749999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.585Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.585Z"
+}

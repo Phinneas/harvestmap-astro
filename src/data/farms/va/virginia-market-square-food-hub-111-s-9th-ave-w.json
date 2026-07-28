@@ -1,0 +1,19 @@
+{
+  "slug": "virginia-market-square-food-hub-111-s-9th-ave-w",
+  "name": "Virginia Market Square Food Hub",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 S 9th Ave W, VA",
+  "locationCity": "111 S 9th Ave W",
+  "locationState": "VA",
+  "locationZipcode": "55792",
+  "lat": 47.5230668,
+  "lon": -92.5473406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.455Z"
+}

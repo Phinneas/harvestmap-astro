@@ -1,0 +1,19 @@
+{
+  "slug": "hampton-community-farmers-market-225-central-avenue-west",
+  "name": "Hampton Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "225 Central Avenue West, IA",
+  "locationCity": "225 Central Avenue West",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 42.7419894,
+  "lon": -93.210793,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.585Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.585Z"
+}

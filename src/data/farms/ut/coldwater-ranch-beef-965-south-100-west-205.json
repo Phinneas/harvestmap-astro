@@ -1,0 +1,19 @@
+{
+  "slug": "coldwater-ranch-beef-965-south-100-west-205",
+  "name": "Coldwater Ranch Beef",
+  "source": "usda",
+  "directory": "csa",
+  "location": "965 South 100 West #205, UT",
+  "locationCity": "965 South 100 West #205",
+  "locationState": "UT",
+  "locationZipcode": "",
+  "lat": 41.714821,
+  "lon": -111.8400288,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:33.921Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:33.921Z"
+}

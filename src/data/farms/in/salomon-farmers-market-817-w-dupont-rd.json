@@ -1,0 +1,19 @@
+{
+  "slug": "salomon-farmers-market-817-w-dupont-rd",
+  "name": "Salomon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "817 W. Dupont Rd., IN",
+  "locationCity": "817 W. Dupont Rd.",
+  "locationState": "IN",
+  "locationZipcode": "46825",
+  "lat": 41.177858264116914,
+  "lon": -85.15238782002122,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "little-sugar-river-farm-albany",
+  "name": "Little Sugar River Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Albany, WI",
+  "locationCity": "Albany",
+  "locationState": "WI",
+  "locationZipcode": "53502",
+  "lat": 42.7089126000001,
+  "lon": -89.435982,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:29.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:29.825Z"
+}

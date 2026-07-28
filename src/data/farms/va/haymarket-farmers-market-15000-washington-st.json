@@ -1,0 +1,19 @@
+{
+  "slug": "haymarket-farmers-market-15000-washington-st",
+  "name": "Haymarket Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15000 Washington St., VA",
+  "locationCity": "15000 Washington St.",
+  "locationState": "VA",
+  "locationZipcode": "15000",
+  "lat": 38.81215682179523,
+  "lon": -77.63641428624236,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

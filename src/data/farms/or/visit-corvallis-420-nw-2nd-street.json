@@ -1,0 +1,19 @@
+{
+  "slug": "visit-corvallis-420-nw-2nd-street",
+  "name": "Visit Corvallis",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "420 NW 2nd Street, OR",
+  "locationCity": "420 NW 2nd Street",
+  "locationState": "OR",
+  "locationZipcode": "97330",
+  "lat": 44.5676340044325,
+  "lon": -123.258487015617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:04.718Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:04.718Z"
+}

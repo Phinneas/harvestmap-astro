@@ -1,0 +1,19 @@
+{
+  "slug": "bardstown-farmers-market-200-east-flaget-street",
+  "name": "Bardstown Farmers’ Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 East Flaget Street, KY",
+  "locationCity": "200 East Flaget Street",
+  "locationState": "KY",
+  "locationZipcode": "",
+  "lat": 37.8101776,
+  "lon": -85.46471749999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.801Z"
+}

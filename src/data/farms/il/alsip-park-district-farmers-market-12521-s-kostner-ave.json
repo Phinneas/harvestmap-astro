@@ -1,0 +1,19 @@
+{
+  "slug": "alsip-park-district-farmers-market-12521-s-kostner-ave",
+  "name": "Alsip Park District Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12521 S. Kostner Ave., IL",
+  "locationCity": "12521 S. Kostner Ave.",
+  "locationState": "IL",
+  "locationZipcode": "12521",
+  "lat": 41.665551044872245,
+  "lon": -87.72899570204055,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.446Z"
+}

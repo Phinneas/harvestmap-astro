@@ -1,0 +1,19 @@
+{
+  "slug": "keota-farmers-market-corner-of-broadway-and-fulton",
+  "name": "Keota Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Broadway and Fulton, IA",
+  "locationCity": "Corner of Broadway and Fulton",
+  "locationState": "IA",
+  "locationZipcode": "52248",
+  "lat": 41.363869989925945,
+  "lon": -91.95218996701398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

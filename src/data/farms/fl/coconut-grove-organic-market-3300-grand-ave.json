@@ -1,0 +1,19 @@
+{
+  "slug": "coconut-grove-organic-market-3300-grand-ave",
+  "name": "Coconut Grove Organic Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3300 Grand Ave., FL",
+  "locationCity": "3300 Grand Ave.",
+  "locationState": "FL",
+  "locationZipcode": "33231",
+  "lat": 25.727912551147227,
+  "lon": -80.2469014569701,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.374Z"
+}

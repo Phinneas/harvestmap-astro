@@ -1,0 +1,20 @@
+{
+  "slug": "freshfarm-columbia-heights-saturday-park-rd-nw-14th-st-nw",
+  "name": "FRESHFARM Columbia Heights (Saturday)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Park Rd NW & 14th St NW, WA",
+  "locationCity": "Park Rd NW & 14th St NW",
+  "locationState": "WA",
+  "locationZipcode": "20010",
+  "lat": 38.9302925,
+  "lon": -77.03274619999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.159Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.159Z",
+  "crops": []
+}

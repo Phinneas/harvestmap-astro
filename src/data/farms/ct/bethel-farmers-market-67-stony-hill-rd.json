@@ -1,0 +1,19 @@
+{
+  "slug": "bethel-farmers-market-67-stony-hill-rd",
+  "name": "Bethel Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "67 Stony Hill Rd., CT",
+  "locationCity": "67 Stony Hill Rd.",
+  "locationState": "CT",
+  "locationZipcode": "06801",
+  "lat": 41.41489457396189,
+  "lon": -73.38306362384127,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

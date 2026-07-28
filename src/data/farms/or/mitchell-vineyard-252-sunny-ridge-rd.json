@@ -1,0 +1,20 @@
+{
+  "slug": "mitchell-vineyard-252-sunny-ridge-rd",
+  "name": "Mitchell Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "252 Sunny Ridge Rd, OR",
+  "locationCity": "252 Sunny Ridge Rd",
+  "locationState": "OR",
+  "locationZipcode": "53575",
+  "lat": 42.9094718596329,
+  "lon": -89.333016856212,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:04.697Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:04.697Z",
+  "crops": []
+}

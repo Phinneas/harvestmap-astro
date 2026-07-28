@@ -1,0 +1,19 @@
+{
+  "slug": "elk-point-farmers-market-106-w-pleasant-st",
+  "name": "Elk Point Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 W. Pleasant St., SD",
+  "locationCity": "106 W. Pleasant St.",
+  "locationState": "SD",
+  "locationZipcode": "57025",
+  "lat": 42.687187460026635,
+  "lon": -96.68423065242563,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:59.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:59.965Z"
+}

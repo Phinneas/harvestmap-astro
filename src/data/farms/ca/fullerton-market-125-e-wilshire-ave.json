@@ -1,0 +1,19 @@
+{
+  "slug": "fullerton-market-125-e-wilshire-ave",
+  "name": "Fullerton Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "125 E. Wilshire Ave., CA",
+  "locationCity": "125 E. Wilshire Ave.",
+  "locationState": "CA",
+  "locationZipcode": "92832",
+  "lat": 33.87240128557694,
+  "lon": -117.92362021934538,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

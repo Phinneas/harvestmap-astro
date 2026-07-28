@@ -1,0 +1,19 @@
+{
+  "slug": "ohio-street-farmers-market-1192-ohio-st",
+  "name": "Ohio Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1192 Ohio St., ME",
+  "locationCity": "1192 Ohio St.",
+  "locationState": "ME",
+  "locationZipcode": "04401",
+  "lat": 44.82899093418011,
+  "lon": -68.81476799073722,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.160Z"
+}

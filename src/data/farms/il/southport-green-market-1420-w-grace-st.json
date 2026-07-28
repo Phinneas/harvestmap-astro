@@ -1,0 +1,19 @@
+{
+  "slug": "southport-green-market-1420-w-grace-st",
+  "name": "Southport Green Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1420 W Grace St, IL",
+  "locationCity": "1420 W Grace St",
+  "locationState": "IL",
+  "locationZipcode": "60613",
+  "lat": 41.95069393976646,
+  "lon": -87.66571603365769,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.447Z"
+}

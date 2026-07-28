@@ -1,0 +1,19 @@
+{
+  "slug": "labadie-station-128-front-st",
+  "name": "Labadie Station",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "128 Front St, MO",
+  "locationCity": "128 Front St",
+  "locationState": "MO",
+  "locationZipcode": "63055",
+  "lat": 38.5291789837783,
+  "lon": -90.84707601501,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:31.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:31.233Z"
+}

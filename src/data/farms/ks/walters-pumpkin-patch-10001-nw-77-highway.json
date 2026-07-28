@@ -1,0 +1,19 @@
+{
+  "slug": "walters-pumpkin-patch-10001-nw-77-highway",
+  "name": "Walters Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10001 NW 77 Highway, KS",
+  "locationCity": "10001 NW 77 Highway",
+  "locationState": "KS",
+  "locationZipcode": "10001",
+  "lat": 37.9703689822789,
+  "lon": -96.8603609767092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:26.137Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:26.137Z"
+}

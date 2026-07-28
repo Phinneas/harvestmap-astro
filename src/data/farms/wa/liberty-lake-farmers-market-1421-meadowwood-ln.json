@@ -1,0 +1,19 @@
+{
+  "slug": "liberty-lake-farmers-market-1421-meadowwood-ln",
+  "name": "Liberty Lake Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1421 Meadowwood Ln., WA",
+  "locationCity": "1421 Meadowwood Ln.",
+  "locationState": "WA",
+  "locationZipcode": "99019",
+  "lat": 47.67154141844939,
+  "lon": -117.10302477913623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

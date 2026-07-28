@@ -1,0 +1,20 @@
+{
+  "slug": "von-thun-farms-428-route-57-west",
+  "name": "Von Thun Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "428 Route 57 West, WA",
+  "locationCity": "428 Route 57 West",
+  "locationState": "WA",
+  "locationZipcode": "07882",
+  "lat": 40.7495049856368,
+  "lon": -75.0109910289808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.231Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.231Z",
+  "crops": []
+}

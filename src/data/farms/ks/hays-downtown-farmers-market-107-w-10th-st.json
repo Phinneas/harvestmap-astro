@@ -1,0 +1,19 @@
+{
+  "slug": "hays-downtown-farmers-market-107-w-10th-st",
+  "name": "Hays Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "107 W. 10th St., KS",
+  "locationCity": "107 W. 10th St.",
+  "locationState": "KS",
+  "locationZipcode": "67601",
+  "lat": 38.871733018731334,
+  "lon": -99.33097861891316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

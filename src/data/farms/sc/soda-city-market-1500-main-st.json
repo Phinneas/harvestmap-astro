@@ -1,0 +1,19 @@
+{
+  "slug": "soda-city-market-1500-main-st",
+  "name": "Soda City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1500 Main St., SC",
+  "locationCity": "1500 Main St.",
+  "locationState": "SC",
+  "locationZipcode": "29201",
+  "lat": 34.00539812280771,
+  "lon": -81.03534875272416,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:49.593Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:49.593Z"
+}

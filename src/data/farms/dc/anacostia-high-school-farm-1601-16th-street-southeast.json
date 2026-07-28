@@ -1,0 +1,20 @@
+{
+  "slug": "anacostia-high-school-farm-1601-16th-street-southeast",
+  "name": "Anacostia High School Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1601 16th Street Southeast, DC",
+  "locationCity": "1601 16th Street Southeast",
+  "locationState": "DC",
+  "locationZipcode": "",
+  "lat": 38.8698288,
+  "lon": -76.98302989999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:44.272Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:44.272Z",
+  "crops": []
+}

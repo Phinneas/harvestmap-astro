@@ -1,0 +1,19 @@
+{
+  "slug": "columbia-heights-community-marketplace-14th-st-and-park-rd-nw",
+  "name": "Columbia Heights Community Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14th St. and Park Rd. NW, DC",
+  "locationCity": "14th St. and Park Rd. NW",
+  "locationState": "DC",
+  "locationZipcode": "20010",
+  "lat": 38.9302300004895,
+  "lon": -77.03274999607017,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

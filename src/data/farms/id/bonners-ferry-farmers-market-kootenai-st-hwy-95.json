@@ -1,0 +1,19 @@
+{
+  "slug": "bonners-ferry-farmers-market-kootenai-st-hwy-95",
+  "name": "Bonners Ferry Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Kootenai St. & Hwy. 95, ID",
+  "locationCity": "Kootenai St. & Hwy. 95",
+  "locationState": "ID",
+  "locationZipcode": "83845",
+  "lat": 48.69656001156966,
+  "lon": -116.30943003870055,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

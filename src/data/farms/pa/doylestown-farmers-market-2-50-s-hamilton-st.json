@@ -1,0 +1,19 @@
+{
+  "slug": "doylestown-farmers-market-2-50-s-hamilton-st",
+  "name": "Doylestown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2-50 S Hamilton St, PA",
+  "locationCity": "2-50 S Hamilton St",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "lat": 40.3094479,
+  "lon": -75.1316027,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.697Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.697Z"
+}

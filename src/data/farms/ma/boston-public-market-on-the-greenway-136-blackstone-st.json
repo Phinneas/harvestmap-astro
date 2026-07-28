@@ -1,0 +1,19 @@
+{
+  "slug": "boston-public-market-on-the-greenway-136-blackstone-st",
+  "name": "Boston Public Market on the Greenway",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "136 Blackstone St., MA",
+  "locationCity": "136 Blackstone St.",
+  "locationState": "MA",
+  "locationZipcode": "02202",
+  "lat": 42.361846580912385,
+  "lon": -71.05651731372492,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

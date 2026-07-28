@@ -1,0 +1,19 @@
+{
+  "slug": "appleberry-orchard-2469-hwy",
+  "name": "Appleberry Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2469 HWY, IA",
+  "locationCity": "2469 HWY",
+  "locationState": "IA",
+  "locationZipcode": "52625",
+  "lat": 40.6411800000001,
+  "lon": -91.56709,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:13.722Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:13.722Z"
+}

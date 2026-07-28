@@ -1,0 +1,19 @@
+{
+  "slug": "winton-farmers-market-205-s-main-st",
+  "name": "Winton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 S. Main St., NC",
+  "locationCity": "205 S. Main St.",
+  "locationState": "NC",
+  "locationZipcode": "27986",
+  "lat": 36.38972878304466,
+  "lon": -76.9367601422036,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "preston-farmers-market-345-sanders-st",
+  "name": "Preston Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "345 Sanders St., WV",
+  "locationCity": "345 Sanders St.",
+  "locationState": "WV",
+  "locationZipcode": "26764",
+  "lat": 39.45251308191082,
+  "lon": -79.54060788062469,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

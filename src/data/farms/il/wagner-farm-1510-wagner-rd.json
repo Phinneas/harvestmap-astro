@@ -1,0 +1,19 @@
+{
+  "slug": "wagner-farm-1510-wagner-rd",
+  "name": "Wagner Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1510 Wagner Rd, IL",
+  "locationCity": "1510 Wagner Rd",
+  "locationState": "IL",
+  "locationZipcode": "60025",
+  "lat": 42.0821829988072,
+  "lon": -87.781386965784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:48.618Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:48.618Z"
+}

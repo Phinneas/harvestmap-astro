@@ -1,0 +1,19 @@
+{
+  "slug": "winthrop-farmers-market-46-woodside-ave",
+  "name": "Winthrop Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "46 Woodside Ave., MA",
+  "locationCity": "46 Woodside Ave.",
+  "locationState": "MA",
+  "locationZipcode": "02152",
+  "lat": 42.37481200068138,
+  "lon": -70.98684878047177,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.795Z"
+}

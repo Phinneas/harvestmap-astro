@@ -1,0 +1,19 @@
+{
+  "slug": "leclaire-river-front-farmers-market-126-s-cody-rd",
+  "name": "LeClaire River Front Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "126 S. Cody Rd., IA",
+  "locationCity": "126 S. Cody Rd.",
+  "locationState": "IA",
+  "locationZipcode": "52753",
+  "lat": 41.59727197459761,
+  "lon": -90.34361841351063,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

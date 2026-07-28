@@ -1,0 +1,19 @@
+{
+  "slug": "hwy-20-certified-farmers-market-hwy-20-walton-ave",
+  "name": "Hwy 20 Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hwy. 20 & Walton Ave., CA",
+  "locationCity": "Hwy. 20 & Walton Ave.",
+  "locationState": "CA",
+  "locationZipcode": "95993",
+  "lat": 39.14172000211744,
+  "lon": -121.64391000831682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

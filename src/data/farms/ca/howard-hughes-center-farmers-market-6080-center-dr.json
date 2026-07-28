@@ -1,0 +1,19 @@
+{
+  "slug": "howard-hughes-center-farmers-market-6080-center-dr",
+  "name": "Howard Hughes Center Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6080 Center Dr., CA",
+  "locationCity": "6080 Center Dr.",
+  "locationState": "CA",
+  "locationZipcode": "90045",
+  "lat": 33.97722692193404,
+  "lon": -118.3914808216039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

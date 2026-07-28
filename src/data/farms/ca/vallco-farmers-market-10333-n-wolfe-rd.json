@@ -1,0 +1,19 @@
+{
+  "slug": "vallco-farmers-market-10333-n-wolfe-rd",
+  "name": "Vallco Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10333 N. Wolfe Rd., CA",
+  "locationCity": "10333 N. Wolfe Rd.",
+  "locationState": "CA",
+  "locationZipcode": "10333",
+  "lat": 37.32591801664137,
+  "lon": -122.01542697009418,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

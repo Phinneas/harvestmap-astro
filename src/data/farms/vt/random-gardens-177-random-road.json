@@ -1,0 +1,19 @@
+{
+  "slug": "random-gardens-177-random-road",
+  "name": "Random Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "177 Random Road, VT",
+  "locationCity": "177 Random Road",
+  "locationState": "VT",
+  "locationZipcode": "05648",
+  "lat": 44.3917680133096,
+  "lon": -72.4907180352559,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:43.314Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:43.314Z"
+}

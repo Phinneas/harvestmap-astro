@@ -1,0 +1,19 @@
+{
+  "slug": "the-berry-patch-62785-280-street",
+  "name": "The Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "62785 280 Street, NV",
+  "locationCity": "62785 280 Street",
+  "locationState": "NV",
+  "locationZipcode": "62785",
+  "lat": 41.95213299335546,
+  "lon": -93.44711103171441,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:12.037Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:12.037Z"
+}

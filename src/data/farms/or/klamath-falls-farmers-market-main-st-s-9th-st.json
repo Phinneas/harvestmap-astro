@@ -1,0 +1,19 @@
+{
+  "slug": "klamath-falls-farmers-market-main-st-s-9th-st",
+  "name": "Klamath Falls Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St & S 9th St, OR",
+  "locationCity": "Main St & S 9th St",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "lat": 42.22680889999999,
+  "lon": -121.7803672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.971Z"
+}

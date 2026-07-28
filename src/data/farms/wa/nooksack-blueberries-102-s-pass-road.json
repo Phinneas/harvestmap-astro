@@ -1,0 +1,20 @@
+{
+  "slug": "nooksack-blueberries-102-s-pass-road",
+  "name": "Nooksack Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "102 S Pass Road, WA",
+  "locationCity": "102 S Pass Road",
+  "locationState": "WA",
+  "locationZipcode": "98012",
+  "lat": 48.9197239926643,
+  "lon": -122.320325990357,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.228Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.228Z",
+  "crops": []
+}

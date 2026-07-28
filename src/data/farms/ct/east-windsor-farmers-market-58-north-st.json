@@ -1,0 +1,19 @@
+{
+  "slug": "east-windsor-farmers-market-58-north-st",
+  "name": "East Windsor Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "58 North St., CT",
+  "locationCity": "58 North St.",
+  "locationState": "CT",
+  "locationZipcode": "06096",
+  "lat": 41.93691285731567,
+  "lon": -72.63447082422364,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

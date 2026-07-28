@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-in-liberal-7-plaza-dr",
+  "name": "Farmers' Market in Liberal",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7 Plaza Dr., KS",
+  "locationCity": "7 Plaza Dr.",
+  "locationState": "KS",
+  "locationZipcode": "67901",
+  "lat": 37.05207499538179,
+  "lon": -100.92158400496541,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

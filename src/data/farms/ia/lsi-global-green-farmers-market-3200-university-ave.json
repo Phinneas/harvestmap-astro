@@ -1,0 +1,19 @@
+{
+  "slug": "lsi-global-green-farmers-market-3200-university-ave",
+  "name": "LSI Global Green Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3200 University Ave., IA",
+  "locationCity": "3200 University Ave.",
+  "locationState": "IA",
+  "locationZipcode": "50311",
+  "lat": 41.6003457727703,
+  "lon": -93.66101479813157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

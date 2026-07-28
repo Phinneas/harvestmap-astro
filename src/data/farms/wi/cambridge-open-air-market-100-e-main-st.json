@@ -1,0 +1,19 @@
+{
+  "slug": "cambridge-open-air-market-100-e-main-st",
+  "name": "Cambridge Open Air Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 E. Main St., WI",
+  "locationCity": "100 E. Main St.",
+  "locationState": "WI",
+  "locationZipcode": "53523",
+  "lat": 43.00355271349351,
+  "lon": -89.01659170181122,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gateway-winter-farmers-market-180-york-st",
+  "name": "Gateway Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "180 York St., ME",
+  "locationCity": "180 York St.",
+  "locationState": "ME",
+  "locationZipcode": "03909",
+  "lat": 43.144488566472084,
+  "lon": -70.65243238073582,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.160Z"
+}

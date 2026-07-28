@@ -1,0 +1,19 @@
+{
+  "slug": "romeo-farmers-market-219-n-main-st",
+  "name": "Romeo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "219 N. Main St., MI",
+  "locationCity": "219 N. Main St.",
+  "locationState": "MI",
+  "locationZipcode": "48065",
+  "lat": 42.80314047343203,
+  "lon": -83.01338445618504,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

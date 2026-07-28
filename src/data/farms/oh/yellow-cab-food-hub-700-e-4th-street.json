@@ -1,0 +1,19 @@
+{
+  "slug": "yellow-cab-food-hub-700-e-4th-street",
+  "name": "Yellow Cab Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "700 E. 4th Street, OH",
+  "locationCity": "700 E. 4th Street",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 39.759192010275655,
+  "lon": -84.18161897183471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:46.639Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:46.639Z"
+}

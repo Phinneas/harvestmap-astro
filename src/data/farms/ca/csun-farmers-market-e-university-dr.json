@@ -1,0 +1,19 @@
+{
+  "slug": "csun-farmers-market-e-university-dr",
+  "name": "CSUN Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "E. University Dr., CA",
+  "locationCity": "E. University Dr.",
+  "locationState": "CA",
+  "locationZipcode": "91330",
+  "lat": 34.23911507268449,
+  "lon": -118.52734004078775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

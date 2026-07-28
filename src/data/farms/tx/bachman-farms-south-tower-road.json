@@ -1,0 +1,19 @@
+{
+  "slug": "bachman-farms-south-tower-road",
+  "name": "Bachman Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "South Tower Road, TX",
+  "locationCity": "South Tower Road",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "lat": 26.160643761948084,
+  "lon": -98.11493723682112,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:27.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:27.492Z"
+}

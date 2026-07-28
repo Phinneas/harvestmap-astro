@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-grand-junction-farmers-market-main-st-and-3rd-st",
+  "name": "Downtown Grand Junction Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. and 3rd St., CO",
+  "locationCity": "Main St. and 3rd St.",
+  "locationState": "CO",
+  "locationZipcode": "81501",
+  "lat": 39.06727001027542,
+  "lon": -108.56783000219978,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "salem-city-market-203-e-broadway",
+  "name": "Salem City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "203 E. Broadway, NJ",
+  "locationCity": "203 E. Broadway",
+  "locationState": "NJ",
+  "locationZipcode": "08079",
+  "lat": 39.571616544672004,
+  "lon": -75.46640436159116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

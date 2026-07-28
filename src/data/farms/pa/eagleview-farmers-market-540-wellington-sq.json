@@ -1,0 +1,19 @@
+{
+  "slug": "eagleview-farmers-market-540-wellington-sq",
+  "name": "Eagleview Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "540 Wellington Sq., PA",
+  "locationCity": "540 Wellington Sq.",
+  "locationState": "PA",
+  "locationZipcode": "19341",
+  "lat": 40.0615667700056,
+  "lon": -75.68358706982814,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

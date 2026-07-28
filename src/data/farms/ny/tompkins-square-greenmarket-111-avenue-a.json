@@ -1,0 +1,19 @@
+{
+  "slug": "tompkins-square-greenmarket-111-avenue-a",
+  "name": "Tompkins Square Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 Avenue A, NY",
+  "locationCity": "111 Avenue A",
+  "locationState": "NY",
+  "locationZipcode": "10009",
+  "lat": 40.72610574033582,
+  "lon": -73.98350356241781,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.520Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.520Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "karefree-produce-4680-hwy-15-501-s",
+  "name": "Karefree Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4680 HWY 15-501 S, NC",
+  "locationCity": "4680 HWY 15-501 S",
+  "locationState": "NC",
+  "locationZipcode": "28327",
+  "lat": 35.3219872737871,
+  "lon": -79.4117778630051,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.455Z"
+}

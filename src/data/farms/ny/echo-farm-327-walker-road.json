@@ -1,0 +1,19 @@
+{
+  "slug": "echo-farm-327-walker-road",
+  "name": "Echo Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "327 Walker Road, NY",
+  "locationCity": "327 Walker Road",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "lat": 44.2669603,
+  "lon": -73.4488675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:09.126Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:09.126Z"
+}

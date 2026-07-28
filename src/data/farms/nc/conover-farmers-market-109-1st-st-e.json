@@ -1,0 +1,19 @@
+{
+  "slug": "conover-farmers-market-109-1st-st-e",
+  "name": "Conover Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "109 1st St. E., NC",
+  "locationCity": "109 1st St. E.",
+  "locationState": "NC",
+  "locationZipcode": "28613",
+  "lat": 35.70634441117953,
+  "lon": -81.21835288737292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.461Z"
+}

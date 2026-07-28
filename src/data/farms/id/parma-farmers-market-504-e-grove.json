@@ -1,0 +1,19 @@
+{
+  "slug": "parma-farmers-market-504-e-grove",
+  "name": "Parma Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "504 E. Grove, ID",
+  "locationCity": "504 E. Grove",
+  "locationState": "ID",
+  "locationZipcode": "83660",
+  "lat": 43.784221455287884,
+  "lon": -116.94162774309488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

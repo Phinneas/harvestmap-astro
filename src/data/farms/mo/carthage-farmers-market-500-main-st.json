@@ -1,0 +1,19 @@
+{
+  "slug": "carthage-farmers-market-500-main-st",
+  "name": "Carthage Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Main St., MO",
+  "locationCity": "500 Main St.",
+  "locationState": "MO",
+  "locationZipcode": "64836",
+  "lat": 37.175329052096025,
+  "lon": -94.31098881169656,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

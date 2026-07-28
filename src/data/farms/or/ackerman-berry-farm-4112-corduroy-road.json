@@ -1,0 +1,19 @@
+{
+  "slug": "ackerman-berry-farm-4112-corduroy-road",
+  "name": "Ackerman Berry Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4112 Corduroy Road, OR",
+  "locationCity": "4112 Corduroy Road",
+  "locationState": "OR",
+  "locationZipcode": "43616",
+  "lat": 41.65759299958944,
+  "lon": -83.4510500279493,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:12.558Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:12.558Z"
+}

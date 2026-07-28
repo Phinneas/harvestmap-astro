@@ -1,0 +1,19 @@
+{
+  "slug": "sandhill-farm-2551-county-road-z",
+  "name": "Sandhill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2551 County Road Z, WI",
+  "locationCity": "2551 County Road Z",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "lat": 42.5222945,
+  "lon": -90.5469365,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:32.190Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:32.190Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pottstown-farmers-market-300-e-high-st",
+  "name": "Pottstown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 E. High St., PA",
+  "locationCity": "300 E. High St.",
+  "locationState": "PA",
+  "locationZipcode": "19464",
+  "lat": 40.24529404529556,
+  "lon": -75.64747614134833,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

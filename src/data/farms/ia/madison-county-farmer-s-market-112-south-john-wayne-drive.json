@@ -1,0 +1,19 @@
+{
+  "slug": "madison-county-farmer-s-market-112-south-john-wayne-drive",
+  "name": "Madison County Farmer’s Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 South John Wayne Drive, IA",
+  "locationCity": "112 South John Wayne Drive",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 41.3349621,
+  "lon": -94.0139592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.615Z"
+}

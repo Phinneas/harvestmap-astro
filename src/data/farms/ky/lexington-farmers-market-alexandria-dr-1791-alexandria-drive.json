@@ -1,0 +1,19 @@
+{
+  "slug": "lexington-farmers-market-alexandria-dr-1791-alexandria-drive",
+  "name": "Lexington Farmers' Market - Alexandria Dr.",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1791 Alexandria Drive, KY",
+  "locationCity": "1791 Alexandria Drive",
+  "locationState": "KY",
+  "locationZipcode": "",
+  "lat": 38.0382387,
+  "lon": -84.55244119999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.800Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.800Z"
+}

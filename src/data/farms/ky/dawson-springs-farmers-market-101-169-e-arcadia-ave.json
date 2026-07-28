@@ -1,0 +1,19 @@
+{
+  "slug": "dawson-springs-farmers-market-101-169-e-arcadia-ave",
+  "name": "Dawson Springs Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101-169 E. Arcadia Ave., KY",
+  "locationCity": "101-169 E. Arcadia Ave.",
+  "locationState": "KY",
+  "locationZipcode": "42408",
+  "lat": 37.167887866304426,
+  "lon": -87.69182116675468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.783Z"
+}

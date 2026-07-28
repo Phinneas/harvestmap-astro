@@ -1,0 +1,19 @@
+{
+  "slug": "maple-valley-farmers-market-25719-maple-valley-black-diamond-rd-se",
+  "name": "Maple Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25719 Maple Valley Black Diamond Rd SE, WA",
+  "locationCity": "25719 Maple Valley Black Diamond Rd SE",
+  "locationState": "WA",
+  "locationZipcode": "25719",
+  "lat": 47.3712908,
+  "lon": -122.0250244,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.195Z"
+}

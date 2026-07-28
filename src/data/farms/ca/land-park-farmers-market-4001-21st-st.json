@@ -1,0 +1,19 @@
+{
+  "slug": "land-park-farmers-market-4001-21st-st",
+  "name": "Land Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4001 21st St., CA",
+  "locationCity": "4001 21st St.",
+  "locationState": "CA",
+  "locationZipcode": "95822",
+  "lat": 38.53791719774172,
+  "lon": -121.49055928176516,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

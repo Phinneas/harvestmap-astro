@@ -1,0 +1,19 @@
+{
+  "slug": "greenfields-farm-market-135-copperhead-ln",
+  "name": "Greenfields Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "135 Copperhead Ln., WV",
+  "locationCity": "135 Copperhead Ln.",
+  "locationState": "WV",
+  "locationZipcode": "25403",
+  "lat": 39.48224254538281,
+  "lon": -78.03197661550344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "paradise-park-1021-ne-colbern-rd",
+  "name": "Paradise Park",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1021 NE Colbern Rd., MO",
+  "locationCity": "1021 NE Colbern Rd.",
+  "locationState": "MO",
+  "locationZipcode": "",
+  "lat": 38.9452049829742,
+  "lon": -94.3554579626561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:31.227Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:31.227Z"
+}

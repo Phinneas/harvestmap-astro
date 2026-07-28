@@ -1,0 +1,19 @@
+{
+  "slug": "scottsbluff-winter-farmers-market-3109-ave-b",
+  "name": "Scottsbluff Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3109 Ave. B, NE",
+  "locationCity": "3109 Ave. B",
+  "locationState": "NE",
+  "locationZipcode": "69361",
+  "lat": 41.877721373713804,
+  "lon": -103.66577726840129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:03.911Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:03.911Z"
+}

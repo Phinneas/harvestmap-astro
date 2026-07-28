@@ -1,0 +1,19 @@
+{
+  "slug": "common-hands-farm-csa-ghent",
+  "name": "Common Hands Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Ghent, NY",
+  "locationCity": "Ghent",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "lat": 42.3292525,
+  "lon": -73.6156735,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:04.255Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:04.255Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gilroy-farmers-market-7351-rosanna-st",
+  "name": "Gilroy Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7351 Rosanna St., CA",
+  "locationCity": "7351 Rosanna St.",
+  "locationState": "CA",
+  "locationZipcode": "95020",
+  "lat": 37.004951508111,
+  "lon": -121.57197234758614,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

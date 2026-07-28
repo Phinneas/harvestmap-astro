@@ -1,0 +1,19 @@
+{
+  "slug": "stepp-s-hillcrest-orchard-170-stepp-orchard-drive",
+  "name": "Stepp's Hillcrest Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "170 Stepp Orchard Drive, NC",
+  "locationCity": "170 Stepp Orchard Drive",
+  "locationState": "NC",
+  "locationZipcode": "28792",
+  "lat": 35.3656271497559,
+  "lon": -82.3763871110866,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.461Z"
+}

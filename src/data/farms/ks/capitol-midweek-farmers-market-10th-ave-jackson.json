@@ -1,0 +1,19 @@
+{
+  "slug": "capitol-midweek-farmers-market-10th-ave-jackson",
+  "name": "Capitol Midweek Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10th Ave. & Jackson, KS",
+  "locationCity": "10th Ave. & Jackson",
+  "locationState": "KS",
+  "locationZipcode": "66618",
+  "lat": 39.05124058437814,
+  "lon": -95.78512590531223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

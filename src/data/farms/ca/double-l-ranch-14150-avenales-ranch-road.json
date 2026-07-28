@@ -1,0 +1,19 @@
+{
+  "slug": "double-l-ranch-14150-avenales-ranch-road",
+  "name": "Double L Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "14150 Avenales Ranch Road, CA",
+  "locationCity": "14150 Avenales Ranch Road",
+  "locationState": "CA",
+  "locationZipcode": "14150",
+  "lat": 35.2833500110001,
+  "lon": -120.318915015235,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.970Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.970Z"
+}

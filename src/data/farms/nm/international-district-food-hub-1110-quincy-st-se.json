@@ -1,0 +1,19 @@
+{
+  "slug": "international-district-food-hub-1110-quincy-st-se",
+  "name": "International District Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1110 Quincy St SE, NM",
+  "locationCity": "1110 Quincy St SE",
+  "locationState": "NM",
+  "locationZipcode": "",
+  "lat": 35.064671018656654,
+  "lon": -106.58845303886963,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:55.152Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:55.152Z"
+}

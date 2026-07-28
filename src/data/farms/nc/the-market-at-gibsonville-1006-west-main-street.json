@@ -1,0 +1,19 @@
+{
+  "slug": "the-market-at-gibsonville-1006-west-main-street",
+  "name": "The Market at Gibsonville",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1006 West Main Street, NC",
+  "locationCity": "1006 West Main Street",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "lat": 36.109615,
+  "lon": -79.5500249,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.469Z"
+}

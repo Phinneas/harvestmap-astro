@@ -1,0 +1,20 @@
+{
+  "slug": "verrill-farm-11-wheeler-road",
+  "name": "Verrill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11 Wheeler Road, MA",
+  "locationCity": "11 Wheeler Road",
+  "locationState": "MA",
+  "locationZipcode": "01742",
+  "lat": 42.4245881440232,
+  "lon": -71.3742073771424,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.327Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "running-fox-farm-576-northwest-road",
+  "name": "Running Fox Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "576 Northwest Road, NH",
+  "locationCity": "576 Northwest Road",
+  "locationState": "NH",
+  "locationZipcode": "03224",
+  "lat": 43.36554998223,
+  "lon": -71.6075469886919,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:24.559Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:24.559Z"
+}

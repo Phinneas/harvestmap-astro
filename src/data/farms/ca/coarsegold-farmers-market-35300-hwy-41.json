@@ -1,0 +1,19 @@
+{
+  "slug": "coarsegold-farmers-market-35300-hwy-41",
+  "name": "Coarsegold Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "35300 Hwy. 41, CA",
+  "locationCity": "35300 Hwy. 41",
+  "locationState": "CA",
+  "locationZipcode": "35300",
+  "lat": 37.261935706706176,
+  "lon": -119.70005887737271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

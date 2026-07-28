@@ -1,0 +1,19 @@
+{
+  "slug": "danville-farmers-market-railroad-ave-and-w-prospect-ave",
+  "name": "Danville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Railroad Ave. and W. Prospect Ave., CA",
+  "locationCity": "Railroad Ave. and W. Prospect Ave.",
+  "locationState": "CA",
+  "locationZipcode": "94526",
+  "lat": 37.821070020003745,
+  "lon": -122.00061002839385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

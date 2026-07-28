@@ -1,0 +1,19 @@
+{
+  "slug": "bountiful-harvest-farm-solon",
+  "name": "Bountiful Harvest Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Solon, IA",
+  "locationCity": "Solon",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 41.8072344,
+  "lon": -91.4940604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:16.398Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:16.398Z"
+}

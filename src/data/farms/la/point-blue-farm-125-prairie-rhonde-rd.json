@@ -1,0 +1,19 @@
+{
+  "slug": "point-blue-farm-125-prairie-rhonde-rd",
+  "name": "Point Blue Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "125 Prairie Rhonde Rd., LA",
+  "locationCity": "125 Prairie Rhonde Rd.",
+  "locationState": "LA",
+  "locationZipcode": "70586",
+  "lat": 30.6194759815091,
+  "lon": -92.2914609929041,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:58.410Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:58.410Z"
+}

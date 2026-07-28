@@ -1,0 +1,19 @@
+{
+  "slug": "ross-farmers-market-920-perry-hwy",
+  "name": "Ross Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "920 Perry Hwy., PA",
+  "locationCity": "920 Perry Hwy.",
+  "locationState": "PA",
+  "locationZipcode": "15229",
+  "lat": 40.533627793798026,
+  "lon": -80.035900837223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

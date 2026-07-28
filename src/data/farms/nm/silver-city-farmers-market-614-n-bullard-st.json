@@ -1,0 +1,19 @@
+{
+  "slug": "silver-city-farmers-market-614-n-bullard-st",
+  "name": "Silver City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "614 N Bullard St., NM",
+  "locationCity": "614 N Bullard St.",
+  "locationState": "NM",
+  "locationZipcode": "88602",
+  "lat": 32.77260895916898,
+  "lon": -108.2761022434278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "washington-county-farmers-market-520-purcell-dr",
+  "name": "Washington County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "520 Purcell Dr., MO",
+  "locationCity": "520 Purcell Dr.",
+  "locationState": "MO",
+  "locationZipcode": "63664",
+  "lat": 37.9334986782808,
+  "lon": -90.77823590120597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fayette-county-farmers-market-312-n-court-st",
+  "name": "Fayette County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "312 N. Court St., WV",
+  "locationCity": "312 N. Court St.",
+  "locationState": "WV",
+  "locationZipcode": "25840",
+  "lat": 38.05703404086667,
+  "lon": -81.10493792530555,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "creswell-farmers-market-64-w-oregon-ave",
+  "name": "Creswell Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "64 W. Oregon Ave., OR",
+  "locationCity": "64 W. Oregon Ave.",
+  "locationState": "OR",
+  "locationZipcode": "97426",
+  "lat": 43.91790105682202,
+  "lon": -123.01956576613856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.967Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.967Z"
+}

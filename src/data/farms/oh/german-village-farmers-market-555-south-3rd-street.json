@@ -1,0 +1,19 @@
+{
+  "slug": "german-village-farmers-market-555-south-3rd-street",
+  "name": "German village farmers market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "555 South 3rd Street, OH",
+  "locationCity": "555 South 3rd Street",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 39.9510034,
+  "lon": -82.9960139,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:45.869Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:45.869Z"
+}

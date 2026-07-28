@@ -1,0 +1,19 @@
+{
+  "slug": "red-ridge-farm-2-red-ridge-road",
+  "name": "Red Ridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2 Red Ridge Road, MA",
+  "locationCity": "2 Red Ridge Road",
+  "locationState": "MA",
+  "locationZipcode": "01952",
+  "lat": 42.8526156874618,
+  "lon": -70.8844007229825,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.339Z"
+}

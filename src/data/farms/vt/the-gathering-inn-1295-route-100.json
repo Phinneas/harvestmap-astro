@@ -1,0 +1,19 @@
+{
+  "slug": "the-gathering-inn-1295-route-100",
+  "name": "The Gathering Inn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1295 Route 100, VT",
+  "locationCity": "1295 Route 100",
+  "locationState": "VT",
+  "locationZipcode": "05748",
+  "lat": 43.9272323728774,
+  "lon": -72.8406704472136,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:43.318Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:43.318Z"
+}

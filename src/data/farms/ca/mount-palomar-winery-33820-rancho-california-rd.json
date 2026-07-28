@@ -1,0 +1,19 @@
+{
+  "slug": "mount-palomar-winery-33820-rancho-california-rd",
+  "name": "Mount Palomar Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "33820 Rancho California Rd., CA",
+  "locationCity": "33820 Rancho California Rd.",
+  "locationState": "CA",
+  "locationZipcode": "33820",
+  "lat": 33.5299709921377,
+  "lon": -117.075474968681,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:54.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:54.972Z"
+}

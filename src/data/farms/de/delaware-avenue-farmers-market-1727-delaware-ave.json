@@ -1,0 +1,19 @@
+{
+  "slug": "delaware-avenue-farmers-market-1727-delaware-ave",
+  "name": "Delaware Avenue Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1727 Delaware Ave., DE",
+  "locationCity": "1727 Delaware Ave.",
+  "locationState": "DE",
+  "locationZipcode": "19806",
+  "lat": 39.758451717849816,
+  "lon": -75.56298105603395,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:37.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:37.081Z"
+}

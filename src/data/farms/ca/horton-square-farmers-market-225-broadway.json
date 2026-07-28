@@ -1,0 +1,19 @@
+{
+  "slug": "horton-square-farmers-market-225-broadway",
+  "name": "Horton Square Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "225 Broadway, CA",
+  "locationCity": "225 Broadway",
+  "locationState": "CA",
+  "locationZipcode": "92101",
+  "lat": 32.71570272650688,
+  "lon": -117.16263901720103,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

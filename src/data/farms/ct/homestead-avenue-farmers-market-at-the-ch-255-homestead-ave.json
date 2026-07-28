@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-avenue-farmers-market-at-the-ch-255-homestead-ave",
+  "name": "Homestead Avenue Farmers Market at the Ch...",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "255 Homestead Ave., CT",
+  "locationCity": "255 Homestead Ave.",
+  "locationState": "CT",
+  "locationZipcode": "06112",
+  "lat": 41.77779803266125,
+  "lon": -72.69558995721378,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

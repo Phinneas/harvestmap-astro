@@ -1,0 +1,19 @@
+{
+  "slug": "hopatcong-farmers-market-111-river-styx-rd",
+  "name": "Hopatcong Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 River Styx Rd., NJ",
+  "locationCity": "111 River Styx Rd.",
+  "locationState": "NJ",
+  "locationZipcode": "07843",
+  "lat": 40.934405235983704,
+  "lon": -74.65971861396251,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

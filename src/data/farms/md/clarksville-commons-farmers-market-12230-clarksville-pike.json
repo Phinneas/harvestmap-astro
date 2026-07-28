@@ -1,0 +1,19 @@
+{
+  "slug": "clarksville-commons-farmers-market-12230-clarksville-pike",
+  "name": "Clarksville Commons Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12230 Clarksville Pike, MD",
+  "locationCity": "12230 Clarksville Pike",
+  "locationState": "MD",
+  "locationZipcode": "12230",
+  "lat": 39.2115545,
+  "lon": -76.93847219999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.959Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.959Z"
+}

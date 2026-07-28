@@ -1,0 +1,19 @@
+{
+  "slug": "tilton-farmers-market-120-laconia-rd",
+  "name": "Tilton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 Laconia Rd., NH",
+  "locationCity": "120 Laconia Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03276",
+  "lat": 43.45712758461962,
+  "lon": -71.56348273367915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:29.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:29.123Z"
+}

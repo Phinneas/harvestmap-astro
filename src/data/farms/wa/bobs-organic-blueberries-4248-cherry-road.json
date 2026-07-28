@@ -1,0 +1,19 @@
+{
+  "slug": "bobs-organic-blueberries-4248-cherry-road",
+  "name": "Bobs Organic Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4248 Cherry Road, WA",
+  "locationCity": "4248 Cherry Road",
+  "locationState": "WA",
+  "locationZipcode": "27889",
+  "lat": 35.59076670351939,
+  "lon": -77.01412658068078,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:06.251Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:06.251Z"
+}

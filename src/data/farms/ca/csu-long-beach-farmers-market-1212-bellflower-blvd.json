@@ -1,0 +1,19 @@
+{
+  "slug": "csu-long-beach-farmers-market-1212-bellflower-blvd",
+  "name": "CSU Long Beach Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1212 Bellflower Blvd., CA",
+  "locationCity": "1212 Bellflower Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "90815",
+  "lat": 33.78314309853433,
+  "lon": -118.12233194894634,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

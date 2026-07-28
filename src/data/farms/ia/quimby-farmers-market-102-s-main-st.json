@@ -1,0 +1,19 @@
+{
+  "slug": "quimby-farmers-market-102-s-main-st",
+  "name": "Quimby Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 S. Main St., IA",
+  "locationCity": "102 S. Main St.",
+  "locationState": "IA",
+  "locationZipcode": "51049",
+  "lat": 42.62950041225668,
+  "lon": -95.6420152288668,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

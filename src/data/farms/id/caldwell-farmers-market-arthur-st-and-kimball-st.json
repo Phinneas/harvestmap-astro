@@ -1,0 +1,19 @@
+{
+  "slug": "caldwell-farmers-market-arthur-st-and-kimball-st",
+  "name": "Caldwell Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Arthur St. and Kimball St., ID",
+  "locationCity": "Arthur St. and Kimball St.",
+  "locationState": "ID",
+  "locationZipcode": "83605",
+  "lat": 43.66562002043503,
+  "lon": -116.68804999286684,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:41.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:41.455Z"
+}

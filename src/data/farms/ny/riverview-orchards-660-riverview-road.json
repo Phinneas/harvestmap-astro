@@ -1,0 +1,19 @@
+{
+  "slug": "riverview-orchards-660-riverview-road",
+  "name": "Riverview Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "660 Riverview Road, NY",
+  "locationCity": "660 Riverview Road",
+  "locationState": "NY",
+  "locationZipcode": "12148",
+  "lat": 42.8265405506019,
+  "lon": -73.8599552278686,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:01.633Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:01.633Z"
+}

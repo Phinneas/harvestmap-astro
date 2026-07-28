@@ -1,0 +1,19 @@
+{
+  "slug": "mainstreet-farmstead-548-draft-ave",
+  "name": "MainStreet Farmstead",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "548 draft ave, VA",
+  "locationCity": "548 draft ave",
+  "locationState": "VA",
+  "locationZipcode": "24477",
+  "lat": 38.0152630005103,
+  "lon": -79.0302619612917,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:55.004Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:55.004Z"
+}

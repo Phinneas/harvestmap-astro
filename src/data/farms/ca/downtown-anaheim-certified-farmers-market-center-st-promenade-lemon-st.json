@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-anaheim-certified-farmers-market-center-st-promenade-lemon-st",
+  "name": "Downtown Anaheim Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Center St. Promenade & Lemon St., CA",
+  "locationCity": "Center St. Promenade & Lemon St.",
+  "locationState": "CA",
+  "locationZipcode": "92805",
+  "lat": 33.833900016655164,
+  "lon": -117.91543998658445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

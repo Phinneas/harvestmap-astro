@@ -1,0 +1,19 @@
+{
+  "slug": "noe-valley-farmers-market-3861-24th-st",
+  "name": "Noe Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3861 24th St., CA",
+  "locationCity": "3861 24th St.",
+  "locationState": "CA",
+  "locationZipcode": "94114",
+  "lat": 37.75161687944379,
+  "lon": -122.4288284694815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

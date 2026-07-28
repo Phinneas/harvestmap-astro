@@ -1,0 +1,19 @@
+{
+  "slug": "orono-winter-farmers-market-20-pine-st",
+  "name": "Orono Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 Pine St., ME",
+  "locationCity": "20 Pine St.",
+  "locationState": "ME",
+  "locationZipcode": "04473",
+  "lat": 44.88202659718537,
+  "lon": -68.670581319753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.160Z"
+}

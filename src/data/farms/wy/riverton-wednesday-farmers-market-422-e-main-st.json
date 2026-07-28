@@ -1,0 +1,19 @@
+{
+  "slug": "riverton-wednesday-farmers-market-422-e-main-st",
+  "name": "Riverton Wednesday Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "422 E. Main St., WY",
+  "locationCity": "422 E. Main St.",
+  "locationState": "WY",
+  "locationZipcode": "82501",
+  "lat": 43.02465332792889,
+  "lon": -108.38593542330246,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:46.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:46.336Z"
+}

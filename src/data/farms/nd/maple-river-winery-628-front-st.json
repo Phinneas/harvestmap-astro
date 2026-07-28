@@ -1,0 +1,19 @@
+{
+  "slug": "maple-river-winery-628-front-st",
+  "name": "Maple River Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "628 Front St, ND",
+  "locationCity": "628 Front St",
+  "locationState": "ND",
+  "locationZipcode": "58012",
+  "lat": 46.9006724219064,
+  "lon": -97.2124449742994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:27.913Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:27.913Z"
+}

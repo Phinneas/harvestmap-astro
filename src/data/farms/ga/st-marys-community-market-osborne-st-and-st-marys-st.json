@@ -1,0 +1,19 @@
+{
+  "slug": "st-marys-community-market-osborne-st-and-st-marys-st",
+  "name": "St. Marys Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Osborne St. and St. Marys St., GA",
+  "locationCity": "Osborne St. and St. Marys St.",
+  "locationState": "GA",
+  "locationZipcode": "31558",
+  "lat": 30.720339990556397,
+  "lon": -81.54865003263049,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.375Z"
+}

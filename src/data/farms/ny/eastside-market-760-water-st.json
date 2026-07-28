@@ -1,0 +1,19 @@
+{
+  "slug": "eastside-market-760-water-st",
+  "name": "Eastside Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "760 Water St., NY",
+  "locationCity": "760 Water St.",
+  "locationState": "NY",
+  "locationZipcode": "14901",
+  "lat": 42.08959467091878,
+  "lon": -76.7905454308062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.519Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.519Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "forest-city-farmers-market-106-south-4th-street",
+  "name": "Forest City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 South 4th Street, IA",
+  "locationCity": "106 South 4th Street",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "lat": 43.2630045,
+  "lon": -93.6375741,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.585Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.585Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mcminnville-farmers-market-250-ne-3rd-st",
+  "name": "McMinnville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "250 NE 3rd St., OR",
+  "locationCity": "250 NE 3rd St.",
+  "locationState": "OR",
+  "locationZipcode": "97128",
+  "lat": 45.2100116584775,
+  "lon": -123.19735043225532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.968Z"
+}

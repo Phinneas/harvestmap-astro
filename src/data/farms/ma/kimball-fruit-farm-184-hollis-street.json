@@ -1,0 +1,19 @@
+{
+  "slug": "kimball-fruit-farm-184-hollis-street",
+  "name": "Kimball Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "184 Hollis Street, MA",
+  "locationCity": "184 Hollis Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.7028272639508,
+  "lon": -71.5866500658852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.331Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.331Z"
+}

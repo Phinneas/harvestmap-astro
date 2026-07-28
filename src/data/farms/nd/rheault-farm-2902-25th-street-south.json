@@ -1,0 +1,19 @@
+{
+  "slug": "rheault-farm-2902-25th-street-south",
+  "name": "Rheault Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2902 25th Street South, ND",
+  "locationCity": "2902 25th Street South",
+  "locationState": "ND",
+  "locationZipcode": "",
+  "lat": 46.8375343116175,
+  "lon": -96.8188245393423,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:27.904Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:27.904Z"
+}

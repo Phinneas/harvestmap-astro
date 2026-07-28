@@ -1,0 +1,19 @@
+{
+  "slug": "tifton-downtown-farmers-market-121-s-tift-ave",
+  "name": "Tifton Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 S. Tift Ave., GA",
+  "locationCity": "121 S. Tift Ave.",
+  "locationState": "GA",
+  "locationZipcode": "31794",
+  "lat": 31.463203528005632,
+  "lon": -83.50371954354944,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.375Z"
+}

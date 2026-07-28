@@ -1,0 +1,19 @@
+{
+  "slug": "piney-acres-farm-1115-e-1000-north",
+  "name": "Piney Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1115 E 1000 North, IN",
+  "locationCity": "1115 E 1000 North",
+  "locationState": "IN",
+  "locationZipcode": "46040",
+  "lat": 39.9279620078988,
+  "lon": -85.7855399818092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:01.399Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:01.399Z"
+}

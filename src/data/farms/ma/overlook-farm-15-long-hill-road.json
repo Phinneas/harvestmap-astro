@@ -1,0 +1,19 @@
+{
+  "slug": "overlook-farm-15-long-hill-road",
+  "name": "Overlook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15 Long Hill Road, MA",
+  "locationCity": "15 Long Hill Road",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.2037365623767,
+  "lon": -72.1102005020297,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.324Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.324Z"
+}

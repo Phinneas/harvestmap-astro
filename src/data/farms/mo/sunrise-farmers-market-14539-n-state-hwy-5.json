@@ -1,0 +1,19 @@
+{
+  "slug": "sunrise-farmers-market-14539-n-state-hwy-5",
+  "name": "Sunrise Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14539 N. State Hwy. 5, MO",
+  "locationCity": "14539 N. State Hwy. 5",
+  "locationState": "MO",
+  "locationZipcode": "14539",
+  "lat": 38.158487264113305,
+  "lon": -92.77709810745723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

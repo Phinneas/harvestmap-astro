@@ -1,0 +1,19 @@
+{
+  "slug": "bakersville-farmers-market-175-crimson-laurel-way",
+  "name": "Bakersville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "175 Crimson Laurel Way, NC",
+  "locationCity": "175 Crimson Laurel Way",
+  "locationState": "NC",
+  "locationZipcode": "28705",
+  "lat": 36.01351565920146,
+  "lon": -82.15614478350788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.461Z"
+}

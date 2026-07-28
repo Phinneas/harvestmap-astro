@@ -1,0 +1,19 @@
+{
+  "slug": "oakdale-farmers-market-n-3rd-ave",
+  "name": "Oakdale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N. 3rd Ave., CA",
+  "locationCity": "N. 3rd Ave.",
+  "locationState": "CA",
+  "locationZipcode": "95361",
+  "lat": 37.769773574606745,
+  "lon": -120.85024257883268,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "burlington-farmers-market-n-pine-st-and-e-washington-st",
+  "name": "Burlington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N. Pine St. and E. Washington St., WI",
+  "locationCity": "N. Pine St. and E. Washington St.",
+  "locationState": "WI",
+  "locationZipcode": "53105",
+  "lat": 42.679220010842755,
+  "lon": -88.2758800258282,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

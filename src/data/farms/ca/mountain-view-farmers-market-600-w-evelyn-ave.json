@@ -1,0 +1,19 @@
+{
+  "slug": "mountain-view-farmers-market-600-w-evelyn-ave",
+  "name": "Mountain View Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 W. Evelyn Ave., CA",
+  "locationCity": "600 W. Evelyn Ave.",
+  "locationState": "CA",
+  "locationZipcode": "94041",
+  "lat": 37.39394641424132,
+  "lon": -122.07616382390191,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

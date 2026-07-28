@@ -1,0 +1,19 @@
+{
+  "slug": "salem-public-market-1240-rural-ave-se",
+  "name": "Salem Public Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1240 Rural Ave. SE, OR",
+  "locationCity": "1240 Rural Ave. SE",
+  "locationState": "OR",
+  "locationZipcode": "97302",
+  "lat": 44.92116265294325,
+  "lon": -123.03034067387988,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.968Z"
+}

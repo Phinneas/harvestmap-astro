@@ -1,0 +1,19 @@
+{
+  "slug": "coon-rapids-farmers-market-corner-of-hwy-141-5th-ave",
+  "name": "Coon Rapids Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Hwy. 141 & 5th Ave., IA",
+  "locationCity": "Corner of Hwy. 141 & 5th Ave.",
+  "locationState": "IA",
+  "locationZipcode": "50058",
+  "lat": 41.86570999765104,
+  "lon": -94.67750996103395,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:18.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:18.604Z"
+}

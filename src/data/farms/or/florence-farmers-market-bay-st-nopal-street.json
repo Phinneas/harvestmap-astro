@@ -1,0 +1,19 @@
+{
+  "slug": "florence-farmers-market-bay-st-nopal-street",
+  "name": "Florence Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Bay St & Nopal Street, OR",
+  "locationCity": "Bay St & Nopal Street",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "lat": 43.9673452,
+  "lon": -124.1042641,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.972Z"
+}

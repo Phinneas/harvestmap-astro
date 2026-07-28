@@ -1,0 +1,19 @@
+{
+  "slug": "southside-farmers-market-1404-s-missouri-st",
+  "name": "Southside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1404 S. Missouri St., MO",
+  "locationCity": "1404 S. Missouri St.",
+  "locationState": "MO",
+  "locationZipcode": "63552",
+  "lat": 39.72343180846965,
+  "lon": -92.4657952118305,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "north-scottsdale-organics-scottsdale",
+  "name": "North Scottsdale Organics",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Scottsdale, AZ",
+  "locationCity": "Scottsdale",
+  "locationState": "AZ",
+  "locationZipcode": "",
+  "lat": 33.4941704,
+  "lon": -111.9260519,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:32.610Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:32.610Z"
+}

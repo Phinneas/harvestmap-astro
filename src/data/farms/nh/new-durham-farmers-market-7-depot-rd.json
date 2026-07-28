@@ -1,0 +1,19 @@
+{
+  "slug": "new-durham-farmers-market-7-depot-rd",
+  "name": "New Durham Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7 Depot Rd., NH",
+  "locationCity": "7 Depot Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03855",
+  "lat": 43.43327459503756,
+  "lon": -71.16366737101448,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:29.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:29.123Z"
+}

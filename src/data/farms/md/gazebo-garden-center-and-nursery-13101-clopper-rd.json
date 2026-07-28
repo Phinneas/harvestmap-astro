@@ -1,0 +1,19 @@
+{
+  "slug": "gazebo-garden-center-and-nursery-13101-clopper-rd",
+  "name": "Gazebo Garden Center and Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13101 Clopper Rd., MD",
+  "locationCity": "13101 Clopper Rd.",
+  "locationState": "MD",
+  "locationZipcode": "13101",
+  "lat": 39.1578271019521,
+  "lon": -77.2713667181313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:29.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:29.081Z"
+}

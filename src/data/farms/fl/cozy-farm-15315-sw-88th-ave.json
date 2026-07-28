@@ -1,0 +1,19 @@
+{
+  "slug": "cozy-farm-15315-sw-88th-ave",
+  "name": "Cozy Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15315 SW 88th Ave, FL",
+  "locationCity": "15315 SW 88th Ave",
+  "locationState": "FL",
+  "locationZipcode": "15315",
+  "lat": 25.6279494,
+  "lon": -80.3352616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:58.934Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:58.934Z"
+}

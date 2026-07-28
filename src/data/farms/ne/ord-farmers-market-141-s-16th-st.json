@@ -1,0 +1,19 @@
+{
+  "slug": "ord-farmers-market-141-s-16th-st",
+  "name": "Ord Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "141 S. 16th St., NE",
+  "locationCity": "141 S. 16th St.",
+  "locationState": "NE",
+  "locationZipcode": "68862",
+  "lat": 41.60264837464181,
+  "lon": -98.92929560673151,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:03.911Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:03.911Z"
+}

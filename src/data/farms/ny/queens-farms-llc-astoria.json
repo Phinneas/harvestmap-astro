@@ -1,0 +1,19 @@
+{
+  "slug": "queens-farms-llc-astoria",
+  "name": "Queens Farms LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Astoria, NY",
+  "locationCity": "Astoria",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "lat": 40.7643574,
+  "lon": -73.9234619,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:04.256Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:04.256Z"
+}

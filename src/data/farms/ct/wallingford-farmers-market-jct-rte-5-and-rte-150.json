@@ -1,0 +1,19 @@
+{
+  "slug": "wallingford-farmers-market-jct-rte-5-and-rte-150",
+  "name": "Wallingford Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Jct. Rte. 5 and Rte. 150, CT",
+  "locationCity": "Jct. Rte. 5 and Rte. 150",
+  "locationState": "CT",
+  "locationZipcode": "06492",
+  "lat": 41.45392000000004,
+  "lon": -72.82349499999998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

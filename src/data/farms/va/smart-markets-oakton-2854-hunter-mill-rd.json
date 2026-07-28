@@ -1,0 +1,19 @@
+{
+  "slug": "smart-markets-oakton-2854-hunter-mill-rd",
+  "name": "Smart Markets Oakton",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2854 Hunter Mill Rd., VA",
+  "locationCity": "2854 Hunter Mill Rd.",
+  "locationState": "VA",
+  "locationZipcode": "22124",
+  "lat": 38.88480554903723,
+  "lon": -77.30119952858092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "medford-farmers-market-2501-mystic-valley-parkway",
+  "name": "Medford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2501 Mystic Valley Parkway, MA",
+  "locationCity": "2501 Mystic Valley Parkway",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.4183896,
+  "lon": -71.1159294,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.809Z"
+}

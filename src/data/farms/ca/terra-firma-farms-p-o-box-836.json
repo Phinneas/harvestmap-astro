@@ -1,0 +1,19 @@
+{
+  "slug": "terra-firma-farms-p-o-box-836",
+  "name": "Terra Firma Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "P.O. Box 836, CA",
+  "locationCity": "P.O. Box 836",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 38.5249065,
+  "lon": -121.9708017,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:57.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:57.221Z"
+}

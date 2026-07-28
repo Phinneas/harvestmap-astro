@@ -1,0 +1,19 @@
+{
+  "slug": "usda-farmers-market-corner-12th-st-independence-ave-sw",
+  "name": "USDA Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner 12th St. & Independence Ave. SW, WA",
+  "locationCity": "Corner 12th St. & Independence Ave. SW",
+  "locationState": "WA",
+  "locationZipcode": "20250",
+  "lat": 38.887743,
+  "lon": -77.028494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.157Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.157Z"
+}

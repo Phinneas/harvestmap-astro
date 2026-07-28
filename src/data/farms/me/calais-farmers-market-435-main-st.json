@@ -1,0 +1,19 @@
+{
+  "slug": "calais-farmers-market-435-main-st",
+  "name": "Calais Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "435 Main St., ME",
+  "locationCity": "435 Main St.",
+  "locationState": "ME",
+  "locationZipcode": "04619",
+  "lat": 45.1886728385473,
+  "lon": -67.27556100612192,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:21.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:21.160Z"
+}

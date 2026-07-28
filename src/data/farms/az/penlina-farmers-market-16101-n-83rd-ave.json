@@ -1,0 +1,19 @@
+{
+  "slug": "penlina-farmers-market-16101-n-83rd-ave",
+  "name": "PenLina Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16101 N. 83rd Ave., AZ",
+  "locationCity": "16101 N. 83rd Ave.",
+  "locationState": "AZ",
+  "locationZipcode": "16101",
+  "lat": 33.62930333851577,
+  "lon": -112.23740271973469,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

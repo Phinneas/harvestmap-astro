@@ -1,0 +1,19 @@
+{
+  "slug": "rutherford-county-farmers-market-172-depot-st",
+  "name": "Rutherford County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "172 Depot St., NC",
+  "locationCity": "172 Depot St.",
+  "locationState": "NC",
+  "locationZipcode": "28043",
+  "lat": 35.33113345811601,
+  "lon": -81.86515843612709,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

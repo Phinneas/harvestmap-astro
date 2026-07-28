@@ -1,0 +1,19 @@
+{
+  "slug": "litchfield-hills-farm-fresh-market-125-west-st",
+  "name": "Litchfield Hills Farm-Fresh Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "125 West St., CT",
+  "locationCity": "125 West St.",
+  "locationState": "CT",
+  "locationZipcode": "06759",
+  "lat": 41.7465007213235,
+  "lon": -73.19578987189,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cb-valley-farm-2537-boliver-ln-sw",
+  "name": "CB Valley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2537 Boliver LN SW, NM",
+  "locationCity": "2537 Boliver LN SW",
+  "locationState": "NM",
+  "locationZipcode": "87105",
+  "lat": 34.9982650135636,
+  "lon": -106.707531971255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:49.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:49.291Z"
+}

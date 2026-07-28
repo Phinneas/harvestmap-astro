@@ -1,0 +1,19 @@
+{
+  "slug": "windy-hill-orchards-176-windy-hill-lane",
+  "name": "Windy Hill Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "176 Windy Hill Lane, VA",
+  "locationCity": "176 Windy Hill Lane",
+  "locationState": "VA",
+  "locationZipcode": "24053",
+  "lat": 36.6056440196026,
+  "lon": -80.5720350148957,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:54.992Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:54.992Z"
+}

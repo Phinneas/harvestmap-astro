@@ -1,0 +1,19 @@
+{
+  "slug": "syosset-farmers-market-lirr",
+  "name": "Syosset Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "LIRR, NY",
+  "locationCity": "LIRR",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "lat": 40.8168047,
+  "lon": -73.5087956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.531Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.531Z"
+}

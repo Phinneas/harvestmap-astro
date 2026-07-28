@@ -1,0 +1,19 @@
+{
+  "slug": "sebastopol-farmers-market-6908-weeks-way",
+  "name": "Sebastopol Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6908 Weeks Way, CA",
+  "locationCity": "6908 Weeks Way",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "lat": 38.4033175,
+  "lon": -122.8237535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.737Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.737Z"
+}

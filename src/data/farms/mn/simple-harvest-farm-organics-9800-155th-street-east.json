@@ -1,0 +1,19 @@
+{
+  "slug": "simple-harvest-farm-organics-9800-155th-street-east",
+  "name": "Simple Harvest Farm Organics",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9800 155th Street East, MN",
+  "locationCity": "9800 155th Street East",
+  "locationState": "MN",
+  "locationZipcode": "55053",
+  "lat": 44.3639939904045,
+  "lon": -93.1053179749778,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:06.483Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:06.483Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farm-artisan-market-at-the-villa-140-n-main-st",
+  "name": "Farm & Artisan Market at the Villa",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "140 N. Main St., NY",
+  "locationCity": "140 N. Main St.",
+  "locationState": "NY",
+  "locationZipcode": "14569",
+  "lat": 42.743252681136916,
+  "lon": -78.13256782739305,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.519Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.519Z"
+}

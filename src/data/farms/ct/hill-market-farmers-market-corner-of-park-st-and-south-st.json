@@ -1,0 +1,19 @@
+{
+  "slug": "hill-market-farmers-market-corner-of-park-st-and-south-st",
+  "name": "Hill Market Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Park St. and South St., CT",
+  "locationCity": "Corner of Park St. and South St.",
+  "locationState": "CT",
+  "locationZipcode": "06510",
+  "lat": 41.30468000718611,
+  "lon": -72.93663997805521,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

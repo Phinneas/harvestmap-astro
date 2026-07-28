@@ -1,0 +1,19 @@
+{
+  "slug": "silver-coast-winery-6680-barbeque-road",
+  "name": "Silver Coast Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6680 Barbeque Road, NC",
+  "locationCity": "6680 Barbeque Road",
+  "locationState": "NC",
+  "locationZipcode": "28461",
+  "lat": 33.9860209980914,
+  "lon": -78.5049280237895,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.474Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.474Z"
+}

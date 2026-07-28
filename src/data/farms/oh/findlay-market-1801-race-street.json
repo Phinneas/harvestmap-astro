@@ -1,0 +1,19 @@
+{
+  "slug": "findlay-market-1801-race-street",
+  "name": "Findlay Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1801 Race Street, OH",
+  "locationCity": "1801 Race Street",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "lat": 39.1153142,
+  "lon": -84.5190688,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:45.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:45.868Z"
+}

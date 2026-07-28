@@ -1,0 +1,19 @@
+{
+  "slug": "deer-run-sheep-farm-franklin",
+  "name": "Deer Run Sheep Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Franklin, WV",
+  "locationCity": "Franklin",
+  "locationState": "WV",
+  "locationZipcode": "26807",
+  "lat": 38.6472668000001,
+  "lon": -79.3318581999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:17.545Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:17.545Z"
+}

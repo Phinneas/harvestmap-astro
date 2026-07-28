@@ -1,0 +1,19 @@
+{
+  "slug": "costa-mesa-farmers-market-88-fair-dr",
+  "name": "Costa Mesa Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "88 Fair Dr., CA",
+  "locationCity": "88 Fair Dr.",
+  "locationState": "CA",
+  "locationZipcode": "92626",
+  "lat": 33.6639015076986,
+  "lon": -117.90192078702896,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "red-barn-market-13858-us-158",
+  "name": "Red Barn Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13858 US-158, NC",
+  "locationCity": "13858 US-158",
+  "locationState": "NC",
+  "locationZipcode": "13858",
+  "lat": 36.437902881296274,
+  "lon": -77.14576781146015,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.462Z"
+}

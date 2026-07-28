@@ -1,0 +1,19 @@
+{
+  "slug": "edwards-corner-farmers-market-56-edwards-village-blvd",
+  "name": "Edwards Corner Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "56 Edwards Village Blvd., CO",
+  "locationCity": "56 Edwards Village Blvd.",
+  "locationState": "CO",
+  "locationZipcode": "81632",
+  "lat": 39.643752437640615,
+  "lon": -106.59469551190853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "annual-farmers-market-327-s-woodard-ave",
+  "name": "Annual Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "327 S. Woodard Ave., MT",
+  "locationCity": "327 S. Woodard Ave.",
+  "locationState": "MT",
+  "locationZipcode": "59001",
+  "lat": 45.51610137388303,
+  "lon": -109.44656663298231,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:48.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:48.809Z"
+}

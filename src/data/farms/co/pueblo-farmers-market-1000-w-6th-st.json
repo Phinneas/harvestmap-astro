@@ -1,0 +1,19 @@
+{
+  "slug": "pueblo-farmers-market-1000-w-6th-st",
+  "name": "Pueblo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 W. 6th St., CO",
+  "locationCity": "1000 W. 6th St.",
+  "locationState": "CO",
+  "locationZipcode": "81003",
+  "lat": 38.27278398362583,
+  "lon": -104.61942998907502,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.497Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.497Z"
+}

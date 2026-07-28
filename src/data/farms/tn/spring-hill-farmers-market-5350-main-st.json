@@ -1,0 +1,19 @@
+{
+  "slug": "spring-hill-farmers-market-5350-main-st",
+  "name": "Spring Hill Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5350 Main St., TN",
+  "locationCity": "5350 Main St.",
+  "locationState": "TN",
+  "locationZipcode": "37174",
+  "lat": 35.74966723850173,
+  "lon": -86.93165014985654,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

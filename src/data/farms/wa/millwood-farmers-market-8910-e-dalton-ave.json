@@ -1,0 +1,19 @@
+{
+  "slug": "millwood-farmers-market-8910-e-dalton-ave",
+  "name": "Millwood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8910 E. Dalton Ave., WA",
+  "locationCity": "8910 E. Dalton Ave.",
+  "locationState": "WA",
+  "locationZipcode": "99212",
+  "lat": 47.6869054480535,
+  "lon": -117.28517344117535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

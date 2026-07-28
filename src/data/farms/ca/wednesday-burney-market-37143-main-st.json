@@ -1,0 +1,19 @@
+{
+  "slug": "wednesday-burney-market-37143-main-st",
+  "name": "Wednesday Burney Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "37143 Main St., CA",
+  "locationCity": "37143 Main St.",
+  "locationState": "CA",
+  "locationZipcode": "37143",
+  "lat": 40.88199252986577,
+  "lon": -121.66488310843879,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

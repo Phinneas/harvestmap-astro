@@ -1,0 +1,19 @@
+{
+  "slug": "chadron-farmers-market-400-main-st",
+  "name": "Chadron Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Main St., NE",
+  "locationCity": "400 Main St.",
+  "locationState": "NE",
+  "locationZipcode": "69337",
+  "lat": 42.8276820258903,
+  "lon": -103.00087135799244,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:03.911Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:03.911Z"
+}

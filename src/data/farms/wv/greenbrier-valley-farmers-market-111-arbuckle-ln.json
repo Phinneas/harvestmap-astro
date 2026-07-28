@@ -1,0 +1,19 @@
+{
+  "slug": "greenbrier-valley-farmers-market-111-arbuckle-ln",
+  "name": "Greenbrier Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 Arbuckle Ln., WV",
+  "locationCity": "111 Arbuckle Ln.",
+  "locationState": "WV",
+  "locationZipcode": "24901",
+  "lat": 37.80422207436882,
+  "lon": -80.4431596014093,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

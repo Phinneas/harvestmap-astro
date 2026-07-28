@@ -1,0 +1,19 @@
+{
+  "slug": "tehachapi-farmers-market-s-robinson-st-and-e-tehachapi-blvd",
+  "name": "Tehachapi Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S. Robinson St. and E. Tehachapi Blvd., CA",
+  "locationCity": "S. Robinson St. and E. Tehachapi Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "93561",
+  "lat": 35.13186999369965,
+  "lon": -118.44591999354117,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

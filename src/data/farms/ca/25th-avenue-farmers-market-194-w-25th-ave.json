@@ -1,0 +1,19 @@
+{
+  "slug": "25th-avenue-farmers-market-194-w-25th-ave",
+  "name": "25th Avenue Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "194 W. 25th Ave., CA",
+  "locationCity": "194 W. 25th Ave.",
+  "locationState": "CA",
+  "locationZipcode": "94403",
+  "lat": 37.54329345762069,
+  "lon": -122.30903155639047,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

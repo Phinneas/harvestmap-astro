@@ -1,0 +1,19 @@
+{
+  "slug": "park-heights-community-farmers-market-5201-park-heights-ave",
+  "name": "Park Heights Community Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5201 Park Heights Ave., MD",
+  "locationCity": "5201 Park Heights Ave.",
+  "locationState": "MD",
+  "locationZipcode": "21225",
+  "lat": 39.3490630712664,
+  "lon": -76.67602124398469,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.944Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hyde-county-farmers-market-34175-205th-st",
+  "name": "Hyde County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "34175 205th St., SD",
+  "locationCity": "34175 205th St.",
+  "locationState": "SD",
+  "locationZipcode": "34175",
+  "lat": 44.4119813780739,
+  "lon": -99.34273272547625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:59.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:59.965Z"
+}

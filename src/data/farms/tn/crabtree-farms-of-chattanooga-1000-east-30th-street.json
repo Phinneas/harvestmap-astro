@@ -1,0 +1,20 @@
+{
+  "slug": "crabtree-farms-of-chattanooga-1000-east-30th-street",
+  "name": "Crabtree Farms of Chattanooga",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1000 East 30th Street, TN",
+  "locationCity": "1000 East 30th Street",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "lat": 35.0111974,
+  "lon": -85.3002714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:07.189Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:07.189Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lakes-region-farmers-market-main-st",
+  "name": "Lakes Region Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St., VT",
+  "locationCity": "Main St.",
+  "locationState": "VT",
+  "locationZipcode": "05764",
+  "lat": 43.51706823369797,
+  "lon": -73.23617400785628,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:47.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:47.852Z"
+}

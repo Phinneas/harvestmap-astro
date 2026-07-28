@@ -1,0 +1,116 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import FarmCard from '../components/FarmCard.astro';
+import SeasonBadge from '../components/SeasonBadge.astro';
+import Button from '../components/Button.astro';
+import Leaf from '../components/illustrations/Leaf.astro';
+import {
+  getStatesWithFarms,
+  loadFarmsByState,
+  augmentFarm,
+} from '../lib/farm-loader';
+
+export function getStaticPaths() {
+  const states = getStatesWithFarms();
+  return states.map((s) => ({
+    params: { state: s.code.toLowerCase() },
+    props: { stateCode: s.code, stateName: s.name, totalCount: s.count, enrichedCount: s.enriched },
+  }));
+}
+
+const { stateCode, stateName, totalCount, enrichedCount } = Astro.props;
+const stateFarms = loadFarmsByState(stateCode).map(augmentFarm);
+const enrichedFarms = stateFarms.filter((f) => f.isEnriched || (f.produce || f.crops || []).length > 0);
+const usdaOnlyFarms = stateFarms.filter((f) => !f.isEnriched && (f.produce || f.crops || []).length === 0);
+
+const directoryLabels: Record<string, string> = {
+  agritourism: 'Agritourism',
+  csa: 'CSA',
+  farmersmarket: "Farmers Market",
+  foodhub: 'Food Hub',
+  onfarmmarket: 'On-Farm Market',
+  editorial: 'Editorial',
+};
+---
+<BaseLayout active="farms" title={`U-Pick Farms in ${stateName} · HarvestMap`} description={`${totalCount} farms and growers in ${stateName}. Find u-pick farms, farmers markets, CSAs, and agritourism near you.`}>
+  <div class="container" style="padding-top: var(--space-6);">
+    <a href="/" class="btn btn--ghost" style="margin-bottom: var(--space-4);">← All states</a>
+
+    <div class="section-head" style="margin-bottom: var(--space-6);">
+      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> {stateName}</span>
+      <h1>Farms in {stateName}</h1>
+      <p class="lead">{totalCount} farms listed · {enrichedCount} with crop and seasonality data</p>
+    </div>
+
+    {enrichedFarms.length > 0 && (
+      <section style="margin-bottom: var(--space-7);">
+        <div class="section-head" style="margin-bottom: var(--space-4);">
+          <h2 style="font-size: var(--fs-h3);">With crop data</h2>
+          <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">These farms have detailed seasonality, crops, and visit info.</p>
+        </div>
+        <div class="seed-grid stagger">
+          {enrichedFarms.map((f) => <FarmCard farm={f} />)}
+        </div>
+      </section>
+    )}
+
+    {usdaOnlyFarms.length > 0 && (
+      <section>
+        <div class="section-head" style="margin-bottom: var(--space-4);">
+          <h2 style="font-size: var(--fs-h3);">All {stateName} farms</h2>
+          <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">From USDA Local Food Directories. Crop data not yet enriched.</p>
+        </div>
+        <div class="farm-table">
+          <table style="width: 100%; border-collapse: collapse; font-size: var(--fs-small);">
+            <thead>
+              <tr style="text-align: left; border-bottom: 2px solid var(--line);">
+                <th style="padding: var(--space-2) var(--space-3);">Farm</th>
+                <th style="padding: var(--space-2) var(--space-3);">Location</th>
+                <th style="padding: var(--space-2) var(--space-3);">Type</th>
+                <th style="padding: var(--space-2) var(--space-3);">Website</th>
+              </tr>
+            </thead>
+            <tbody>
+              {usdaOnlyFarms.map((f) => (
+                <tr style="border-bottom: 1px solid var(--line);">
+                  <td style="padding: var(--space-2) var(--space-3); font-weight: 600;">{f.name}</td>
+                  <td style="padding: var(--space-2) var(--space-3); color: var(--text-muted);">{f.location}</td>
+                  <td style="padding: var(--space-2) var(--space-3);">
+                    <span class="tag" style="font-size: var(--fs-xs);">{directoryLabels[f.directory] || f.directory}</span>
+                  </td>
+                  <td style="padding: var(--space-2) var(--space-3);">
+                    {f.website ? (
+                      <a href={f.website} rel="noopener" style="color: var(--clay-deep);">Visit →</a>
+                    ) : (
+                      <span style="color: var(--text-muted);">—</span>
+                    )}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    )}
+
+    {stateFarms.length === 0 && (
+      <div class="panel" style="padding: var(--space-6); text-align: center;">
+        <p style="color: var(--text-muted);">No farms found for {stateName} yet.</p>
+      </div>
+    )}
+  </div>
+</BaseLayout>
+
+<style>
+  .farm-table {
+    overflow-x: auto;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--line);
+  }
+  .farm-table table {
+    min-width: 500px;
+  }
+  .farm-table tr:hover {
+    background: color-mix(in srgb, var(--honey) 6%, var(--surface));
+  }
+</style>

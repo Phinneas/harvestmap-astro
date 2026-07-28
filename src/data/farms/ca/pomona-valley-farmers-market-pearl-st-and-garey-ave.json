@@ -1,0 +1,19 @@
+{
+  "slug": "pomona-valley-farmers-market-pearl-st-and-garey-ave",
+  "name": "Pomona Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Pearl St. and Garey Ave., CA",
+  "locationCity": "Pearl St. and Garey Ave.",
+  "locationState": "CA",
+  "locationZipcode": "91768",
+  "lat": 34.064510019526125,
+  "lon": -117.75042998499723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

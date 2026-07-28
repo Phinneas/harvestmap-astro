@@ -1,0 +1,19 @@
+{
+  "slug": "la-nay-ferme-provo",
+  "name": "La Nay Ferme",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Provo, UT",
+  "locationCity": "Provo",
+  "locationState": "UT",
+  "locationZipcode": "",
+  "lat": 40.2338438,
+  "lon": -111.6585337,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:33.917Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:33.917Z"
+}

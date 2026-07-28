@@ -1,0 +1,19 @@
+{
+  "slug": "mission-bay-farmers-market-550-gene-friend-way",
+  "name": "Mission Bay Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "550 Gene Friend Way, CA",
+  "locationCity": "550 Gene Friend Way",
+  "locationState": "CA",
+  "locationZipcode": "94158",
+  "lat": 37.76870142314754,
+  "lon": -122.39047717727672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

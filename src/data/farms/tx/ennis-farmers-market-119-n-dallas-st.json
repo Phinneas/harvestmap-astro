@@ -1,0 +1,19 @@
+{
+  "slug": "ennis-farmers-market-119-n-dallas-st",
+  "name": "Ennis Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "119 N. Dallas St., TX",
+  "locationCity": "119 N. Dallas St.",
+  "locationState": "TX",
+  "locationZipcode": "75119",
+  "lat": 32.32753970724189,
+  "lon": -96.62820837566233,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:25.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:25.061Z"
+}

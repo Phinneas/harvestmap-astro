@@ -1,0 +1,19 @@
+{
+  "slug": "bend-farmers-market-friday-2755-ne-27th-st",
+  "name": "Bend Farmers' Market (Friday)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2755 NE 27th St., OR",
+  "locationCity": "2755 NE 27th St.",
+  "locationState": "OR",
+  "locationZipcode": "97701",
+  "lat": 44.07844211412516,
+  "lon": -121.26376318933724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.967Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.967Z"
+}

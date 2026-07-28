@@ -1,0 +1,19 @@
+{
+  "slug": "apple-holler-5006-s-sylvania-ave",
+  "name": "Apple Holler",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5006 S. Sylvania Ave, WI",
+  "locationCity": "5006 S. Sylvania Ave",
+  "locationState": "WI",
+  "locationZipcode": "53177",
+  "lat": 42.6750809851452,
+  "lon": -87.9585109967545,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:29.798Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:29.798Z"
+}

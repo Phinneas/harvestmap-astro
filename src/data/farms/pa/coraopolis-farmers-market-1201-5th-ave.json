@@ -1,0 +1,19 @@
+{
+  "slug": "coraopolis-farmers-market-1201-5th-ave",
+  "name": "Coraopolis Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1201 5th Ave., PA",
+  "locationCity": "1201 5th Ave.",
+  "locationState": "PA",
+  "locationZipcode": "15108",
+  "lat": 40.51627418325151,
+  "lon": -80.16110108105363,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.680Z"
+}

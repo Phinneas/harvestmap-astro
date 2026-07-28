@@ -1,0 +1,20 @@
+{
+  "slug": "inti-farms-8412-alkire-street",
+  "name": "Inti Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8412 Alkire Street, CO",
+  "locationCity": "8412 Alkire Street",
+  "locationState": "CO",
+  "locationZipcode": "",
+  "lat": 39.8485161,
+  "lon": -105.1472437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:11.227Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:11.227Z",
+  "crops": []
+}

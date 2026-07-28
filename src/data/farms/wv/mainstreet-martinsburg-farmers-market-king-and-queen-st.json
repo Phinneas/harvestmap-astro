@@ -1,0 +1,19 @@
+{
+  "slug": "mainstreet-martinsburg-farmers-market-king-and-queen-st",
+  "name": "Mainstreet Martinsburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "King and Queen St., WV",
+  "locationCity": "King and Queen St.",
+  "locationState": "WV",
+  "locationZipcode": "25401",
+  "lat": 39.45624999676656,
+  "lon": -77.96395999284645,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:21.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:21.825Z"
+}

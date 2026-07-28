@@ -1,0 +1,19 @@
+{
+  "slug": "destination-gettysburg-571-w-middle-st",
+  "name": "Destination Gettysburg",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "571 W Middle St, PA",
+  "locationCity": "571 W Middle St",
+  "locationState": "PA",
+  "locationZipcode": "17325",
+  "lat": 39.8299620113475,
+  "lon": -77.2417659951568,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:17.948Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:17.948Z"
+}

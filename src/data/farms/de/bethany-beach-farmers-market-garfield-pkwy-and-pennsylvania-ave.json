@@ -1,0 +1,19 @@
+{
+  "slug": "bethany-beach-farmers-market-garfield-pkwy-and-pennsylvania-ave",
+  "name": "Bethany Beach Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Garfield Pkwy. and Pennsylvania Ave., DE",
+  "locationCity": "Garfield Pkwy. and Pennsylvania Ave.",
+  "locationState": "DE",
+  "locationZipcode": "19930",
+  "lat": 38.53821999790995,
+  "lon": -75.05718998380806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:37.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:37.081Z"
+}

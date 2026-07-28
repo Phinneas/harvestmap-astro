@@ -1,0 +1,19 @@
+{
+  "slug": "orchard-view-lavender-farm-101-karrsville-rd",
+  "name": "Orchard View Lavender Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Karrsville Rd, NJ",
+  "locationCity": "101 Karrsville Rd",
+  "locationState": "NJ",
+  "locationZipcode": "07865",
+  "lat": 40.8007379857827,
+  "lon": -74.9255090276364,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:36.012Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:36.012Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "villa-rica-farmers-market-106-temple-st",
+  "name": "Villa Rica Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 Temple St., GA",
+  "locationCity": "106 Temple St.",
+  "locationState": "GA",
+  "locationZipcode": "30180",
+  "lat": 33.732292678558885,
+  "lon": -84.91922269236713,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.375Z"
+}

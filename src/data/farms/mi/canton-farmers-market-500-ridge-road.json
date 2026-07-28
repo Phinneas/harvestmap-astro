@@ -1,0 +1,19 @@
+{
+  "slug": "canton-farmers-market-500-ridge-road",
+  "name": "Canton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Ridge Road, MI",
+  "locationCity": "500 Ridge Road",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.30033043557015,
+  "lon": -83.5411870539828,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dixon-farmers-market-215-hwy-75",
+  "name": "Dixon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 Hwy. 75, NM",
+  "locationCity": "215 Hwy. 75",
+  "locationState": "NM",
+  "locationZipcode": "87527",
+  "lat": 36.1977093682037,
+  "lon": -105.88738628113848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:54.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:54.235Z"
+}

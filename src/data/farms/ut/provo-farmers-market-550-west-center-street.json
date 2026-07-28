@@ -1,0 +1,19 @@
+{
+  "slug": "provo-farmers-market-550-west-center-street",
+  "name": "Provo Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "550 West Center Street, UT",
+  "locationCity": "550 West Center Street",
+  "locationState": "UT",
+  "locationZipcode": "",
+  "lat": 40.2343691,
+  "lon": -111.6683184,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:36.259Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:36.259Z"
+}

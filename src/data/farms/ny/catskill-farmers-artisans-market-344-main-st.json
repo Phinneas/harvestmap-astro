@@ -1,0 +1,19 @@
+{
+  "slug": "catskill-farmers-artisans-market-344-main-st",
+  "name": "Catskill Farmers' & Artisans' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "344 Main St., NY",
+  "locationCity": "344 Main St.",
+  "locationState": "NY",
+  "locationZipcode": "12414",
+  "lat": 42.21816956530949,
+  "lon": -73.86509911512302,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.519Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.519Z"
+}

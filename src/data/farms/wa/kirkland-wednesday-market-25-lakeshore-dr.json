@@ -1,0 +1,19 @@
+{
+  "slug": "kirkland-wednesday-market-25-lakeshore-dr",
+  "name": "Kirkland Wednesday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25 Lakeshore Dr., WA",
+  "locationCity": "25 Lakeshore Dr.",
+  "locationState": "WA",
+  "locationZipcode": "98033",
+  "lat": 47.67544299721504,
+  "lon": -122.20923903501091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.191Z"
+}

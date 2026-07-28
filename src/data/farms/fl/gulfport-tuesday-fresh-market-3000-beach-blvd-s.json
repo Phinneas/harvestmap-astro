@@ -1,0 +1,19 @@
+{
+  "slug": "gulfport-tuesday-fresh-market-3000-beach-blvd-s",
+  "name": "Gulfport Tuesday Fresh Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3000 Beach Blvd. S., FL",
+  "locationCity": "3000 Beach Blvd. S.",
+  "locationState": "FL",
+  "locationZipcode": "33707",
+  "lat": 27.740092601654975,
+  "lon": -82.7078155618409,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.374Z"
+}

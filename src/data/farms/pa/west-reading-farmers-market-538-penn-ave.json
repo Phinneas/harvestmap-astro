@@ -1,0 +1,19 @@
+{
+  "slug": "west-reading-farmers-market-538-penn-ave",
+  "name": "West Reading Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "538 Penn Ave., PA",
+  "locationCity": "538 Penn Ave.",
+  "locationState": "PA",
+  "locationZipcode": "19611",
+  "lat": 40.335714307128015,
+  "lon": -75.94847767517824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

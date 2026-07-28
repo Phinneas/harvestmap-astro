@@ -1,0 +1,19 @@
+{
+  "slug": "lawndale-certified-farmers-market-147th-st-and-hawthorne-blvd",
+  "name": "Lawndale Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "147th St. and Hawthorne Blvd., CA",
+  "locationCity": "147th St. and Hawthorne Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "90260",
+  "lat": 33.89827001555743,
+  "lon": -118.35275002678519,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

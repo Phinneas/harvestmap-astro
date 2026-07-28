@@ -1,0 +1,19 @@
+{
+  "slug": "btn-lake-nona-farmers-market-12350-narcoossee-rd",
+  "name": "BTN Lake Nona Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12350 Narcoossee Rd., FL",
+  "locationCity": "12350 Narcoossee Rd.",
+  "locationState": "FL",
+  "locationZipcode": "12350",
+  "lat": 28.38212585157524,
+  "lon": -81.24462581918476,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.374Z"
+}

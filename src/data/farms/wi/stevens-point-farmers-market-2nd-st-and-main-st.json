@@ -1,0 +1,19 @@
+{
+  "slug": "stevens-point-farmers-market-2nd-st-and-main-st",
+  "name": "Stevens Point Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2nd St. and Main St., WI",
+  "locationCity": "2nd St. and Main St.",
+  "locationState": "WI",
+  "locationZipcode": "54481",
+  "lat": 44.52324998309987,
+  "lon": -89.585700002306,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

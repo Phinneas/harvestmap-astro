@@ -1,0 +1,19 @@
+{
+  "slug": "granite-bay-farmers-market-5550-douglas-blvd",
+  "name": "Granite Bay Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5550 Douglas Blvd., CA",
+  "locationCity": "5550 Douglas Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "95746",
+  "lat": 38.744128582187386,
+  "lon": -121.1976437299716,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

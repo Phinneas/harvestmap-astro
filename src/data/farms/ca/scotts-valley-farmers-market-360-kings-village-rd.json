@@ -1,0 +1,19 @@
+{
+  "slug": "scotts-valley-farmers-market-360-kings-village-rd",
+  "name": "Scotts Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "360 Kings Village Rd., CA",
+  "locationCity": "360 Kings Village Rd.",
+  "locationState": "CA",
+  "locationZipcode": "95006",
+  "lat": 37.05051399164391,
+  "lon": -122.02808196750846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-the-square-brokenkbow-broken-bow",
+  "name": "Market on the Square (BrokenkBow)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Broken Bow, NE",
+  "locationCity": "Broken Bow",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "lat": 41.40541,
+  "lon": -99.63987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:03.888Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:03.888Z"
+}

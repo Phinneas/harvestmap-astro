@@ -1,0 +1,19 @@
+{
+  "slug": "columbus-city-farmers-market-2252-25th-st",
+  "name": "Columbus City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2252 25th St., IN",
+  "locationCity": "2252 25th St.",
+  "locationState": "IN",
+  "locationZipcode": "47201",
+  "lat": 39.22303153752276,
+  "lon": -85.90155491438182,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

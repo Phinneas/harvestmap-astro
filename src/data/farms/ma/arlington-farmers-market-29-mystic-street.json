@@ -1,0 +1,19 @@
+{
+  "slug": "arlington-farmers-market-29-mystic-street",
+  "name": "Arlington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "29 Mystic Street, MA",
+  "locationCity": "29 Mystic Street",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.4160259,
+  "lon": -71.1518885,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:45.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:45.809Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wenatchee-valley-farmers-market-7-north-worthen-st",
+  "name": "Wenatchee Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7 North Worthen St., WA",
+  "locationCity": "7 North Worthen St.",
+  "locationState": "WA",
+  "locationZipcode": "98801",
+  "lat": 47.42496321740768,
+  "lon": -120.30782602408198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:10.192Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:10.192Z"
+}

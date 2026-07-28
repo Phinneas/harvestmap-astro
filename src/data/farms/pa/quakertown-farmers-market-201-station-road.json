@@ -1,0 +1,19 @@
+{
+  "slug": "quakertown-farmers-market-201-station-road",
+  "name": "Quakertown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 Station Road, PA",
+  "locationCity": "201 Station Road",
+  "locationState": "PA",
+  "locationZipcode": "18951",
+  "lat": 40.433459342133965,
+  "lon": -75.33125820206112,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "old-town-farmers-market-115-caldwell-st",
+  "name": "Old Town Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 Caldwell St., SC",
+  "locationCity": "115 Caldwell St.",
+  "locationState": "SC",
+  "locationZipcode": "29730",
+  "lat": 34.92526578192421,
+  "lon": -81.02578335200815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:49.593Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:49.593Z"
+}

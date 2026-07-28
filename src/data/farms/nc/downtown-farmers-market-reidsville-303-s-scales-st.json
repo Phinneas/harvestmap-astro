@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-reidsville-303-s-scales-st",
+  "name": "Downtown Farmers' Market Reidsville",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "303 S. Scales St., NC",
+  "locationCity": "303 S. Scales St.",
+  "locationState": "NC",
+  "locationZipcode": "27320",
+  "lat": 36.35871346554782,
+  "lon": -79.6642820411274,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:19.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:19.461Z"
+}

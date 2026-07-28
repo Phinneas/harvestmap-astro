@@ -1,0 +1,19 @@
+{
+  "slug": "la-plaza-market-6925-hull-street-rd",
+  "name": "La Plaza Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6925 Hull Street Rd., VA",
+  "locationCity": "6925 Hull Street Rd.",
+  "locationState": "VA",
+  "locationZipcode": "23224",
+  "lat": 37.4750135365241,
+  "lon": -77.52166002610784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

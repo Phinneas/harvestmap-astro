@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-pumpkin-patch-6459-s-homestead-rd",
+  "name": "Homestead Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6459 S HOMESTEAD RD, NE",
+  "locationCity": "6459 S HOMESTEAD RD",
+  "locationState": "NE",
+  "locationZipcode": "69101",
+  "lat": 41.0763749857789,
+  "lon": -100.8279370241,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:58.109Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:58.109Z"
+}

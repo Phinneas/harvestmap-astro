@@ -1,0 +1,19 @@
+{
+  "slug": "seed-and-spoon-husky-meadows-farm-26-doolittle-drive",
+  "name": "Seed and Spoon @ Husky Meadows Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "26 Doolittle Drive, CT",
+  "locationCity": "26 Doolittle Drive",
+  "locationState": "CT",
+  "locationZipcode": "06058",
+  "lat": 42.0177242317329,
+  "lon": -73.1835293007186,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:20.571Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:20.571Z"
+}

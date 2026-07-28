@@ -1,0 +1,19 @@
+{
+  "slug": "groton-growers-farmers-market-1274-us-302",
+  "name": "Groton Growers Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1274 US-302, VT",
+  "locationCity": "1274 US-302",
+  "locationState": "VT",
+  "locationZipcode": "05046",
+  "lat": 44.20992727427478,
+  "lon": -72.19301729432509,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:47.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:47.852Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "chattanooga-market-1829-carter-st",
+  "name": "Chattanooga Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1829 Carter St., TN",
+  "locationCity": "1829 Carter St.",
+  "locationState": "TN",
+  "locationZipcode": "37408",
+  "lat": 35.03637053972251,
+  "lon": -85.31684489206721,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

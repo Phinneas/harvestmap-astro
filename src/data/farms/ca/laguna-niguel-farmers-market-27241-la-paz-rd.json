@@ -1,0 +1,19 @@
+{
+  "slug": "laguna-niguel-farmers-market-27241-la-paz-rd",
+  "name": "Laguna Niguel Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "27241 La Paz Rd., CA",
+  "locationCity": "27241 La Paz Rd.",
+  "locationState": "CA",
+  "locationZipcode": "27241",
+  "lat": 33.567383994146894,
+  "lon": -117.70938497861353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "new-freedom-farmers-market-150-e-main-st",
+  "name": "New Freedom Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 E. Main St., PA",
+  "locationCity": "150 E. Main St.",
+  "locationState": "PA",
+  "locationZipcode": "17349",
+  "lat": 39.737444819780364,
+  "lon": -76.69683432228283,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

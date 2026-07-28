@@ -1,0 +1,19 @@
+{
+  "slug": "mystic-view-llama-farm-120-bluebonnet-lane",
+  "name": "Mystic View Llama Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "120 Bluebonnet Lane, TN",
+  "locationCity": "120 Bluebonnet Lane",
+  "locationState": "TN",
+  "locationZipcode": "37743",
+  "lat": 36.0891620004965,
+  "lon": -82.8689739587107,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:07.224Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:07.224Z"
+}

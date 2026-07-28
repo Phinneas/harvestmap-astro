@@ -1,0 +1,19 @@
+{
+  "slug": "altavista-farmers-market-1112-park-st",
+  "name": "Altavista Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1112 Park St., VA",
+  "locationCity": "1112 Park St.",
+  "locationState": "VA",
+  "locationZipcode": "24517",
+  "lat": 37.118530776129376,
+  "lon": -79.28372732730699,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

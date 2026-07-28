@@ -1,0 +1,19 @@
+{
+  "slug": "smart-markets-reston-1860-wiehle-ave",
+  "name": "Smart Markets Reston",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1860 Wiehle Ave., VA",
+  "locationCity": "1860 Wiehle Ave.",
+  "locationState": "VA",
+  "locationZipcode": "20190",
+  "lat": 38.9485835199439,
+  "lon": -77.33675698343387,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.478Z"
+}

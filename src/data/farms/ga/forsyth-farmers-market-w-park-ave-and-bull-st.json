@@ -1,0 +1,19 @@
+{
+  "slug": "forsyth-farmers-market-w-park-ave-and-bull-st",
+  "name": "Forsyth Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "W. Park Ave. and Bull St., GA",
+  "locationCity": "W. Park Ave. and Bull St.",
+  "locationState": "GA",
+  "locationZipcode": "31401",
+  "lat": 32.06485999844263,
+  "lon": -81.09724003872705,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:13.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:13.374Z"
+}

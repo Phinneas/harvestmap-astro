@@ -1,0 +1,19 @@
+{
+  "slug": "patt-s-blueberries-577-gorwin-drive",
+  "name": "Patt's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "577 Gorwin Drive, MA",
+  "locationCity": "577 Gorwin Drive",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.1875792705396,
+  "lon": -71.4726093278605,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:41.345Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:41.345Z"
+}

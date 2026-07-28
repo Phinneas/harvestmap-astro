@@ -1,0 +1,19 @@
+{
+  "slug": "meridian-township-farmers-market-5151-marsh-rd",
+  "name": "Meridian Township Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5151 Marsh Rd., MI",
+  "locationCity": "5151 Marsh Rd.",
+  "locationState": "MI",
+  "locationZipcode": "48864",
+  "lat": 42.73099622766447,
+  "lon": -84.41183651290741,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

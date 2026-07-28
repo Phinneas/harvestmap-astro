@@ -1,0 +1,19 @@
+{
+  "slug": "olde-towne-fenton-farmers-market-200-gravois-rd",
+  "name": "Olde Towne Fenton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Gravois Rd., MO",
+  "locationCity": "200 Gravois Rd.",
+  "locationState": "MO",
+  "locationZipcode": "63026",
+  "lat": 38.51125539092403,
+  "lon": -90.43493803084108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.131Z"
+}

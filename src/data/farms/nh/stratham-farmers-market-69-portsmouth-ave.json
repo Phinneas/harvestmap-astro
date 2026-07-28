@@ -1,0 +1,19 @@
+{
+  "slug": "stratham-farmers-market-69-portsmouth-ave",
+  "name": "Stratham Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "69 Portsmouth Ave., NH",
+  "locationCity": "69 Portsmouth Ave.",
+  "locationState": "NH",
+  "locationZipcode": "03885",
+  "lat": 43.00882239598946,
+  "lon": -70.91872520327964,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:29.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:29.123Z"
+}

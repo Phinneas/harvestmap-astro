@@ -1,0 +1,19 @@
+{
+  "slug": "craftsbury-common-market-1330-n-craftsbury-rd",
+  "name": "Craftsbury Common Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1330 N. Craftsbury Rd., VT",
+  "locationCity": "1330 N. Craftsbury Rd.",
+  "locationState": "VT",
+  "locationZipcode": "05827",
+  "lat": 44.652874777462074,
+  "lon": -72.38195161224758,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:47.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:47.852Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "elfrida-farmers-market-10566-hwy-191",
+  "name": "Elfrida Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10566 Hwy. 191, AZ",
+  "locationCity": "10566 Hwy. 191",
+  "locationState": "AZ",
+  "locationZipcode": "10566",
+  "lat": 31.696246232615138,
+  "lon": -109.6872535350203,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

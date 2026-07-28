@@ -1,0 +1,19 @@
+{
+  "slug": "eastside-farmers-market-3725-apalachee-pkwy",
+  "name": "Eastside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3725 Apalachee Pkwy., FL",
+  "locationCity": "3725 Apalachee Pkwy.",
+  "locationState": "FL",
+  "locationZipcode": "32311",
+  "lat": 30.427863998537816,
+  "lon": -84.20865203449905,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.374Z"
+}

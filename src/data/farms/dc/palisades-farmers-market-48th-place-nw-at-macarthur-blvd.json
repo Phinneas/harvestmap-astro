@@ -1,0 +1,19 @@
+{
+  "slug": "palisades-farmers-market-48th-place-nw-at-macarthur-blvd",
+  "name": "Palisades Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "48th Place NW at MacArthur Blvd, DC",
+  "locationCity": "48th Place NW at MacArthur Blvd",
+  "locationState": "DC",
+  "locationZipcode": "20007",
+  "lat": 38.91749001057701,
+  "lon": -77.09658003276986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

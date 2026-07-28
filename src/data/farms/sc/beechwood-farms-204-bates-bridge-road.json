@@ -1,0 +1,19 @@
+{
+  "slug": "beechwood-farms-204-bates-bridge-road",
+  "name": "Beechwood Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "204 Bates Bridge Road, SC",
+  "locationCity": "204 Bates Bridge Road",
+  "locationState": "SC",
+  "locationZipcode": "29690",
+  "lat": 35.0253903006647,
+  "lon": -82.4951410365853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:45.387Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:45.387Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lockesburg-farmers-market-118-west-pine",
+  "name": "Lockesburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "118 West Pine, AR",
+  "locationCity": "118 West Pine",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "lat": 33.9732479,
+  "lon": -94.1700848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:47.411Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:47.411Z"
+}

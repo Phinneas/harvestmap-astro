@@ -1,0 +1,19 @@
+{
+  "slug": "moon-township-farmers-market-1000-beaver-grade-rd",
+  "name": "Moon Township Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 Beaver Grade Rd., PA",
+  "locationCity": "1000 Beaver Grade Rd.",
+  "locationState": "PA",
+  "locationZipcode": "15108",
+  "lat": 40.50537053706036,
+  "lon": -80.20742649930816,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

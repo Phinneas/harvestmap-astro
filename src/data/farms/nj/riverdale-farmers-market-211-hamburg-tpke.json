@@ -1,0 +1,19 @@
+{
+  "slug": "riverdale-farmers-market-211-hamburg-tpke",
+  "name": "Riverdale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "211 Hamburg Tpke., NJ",
+  "locationCity": "211 Hamburg Tpke.",
+  "locationState": "NJ",
+  "locationZipcode": "07457",
+  "lat": 41.001669603989086,
+  "lon": -74.3169853606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:40.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:40.874Z"
+}

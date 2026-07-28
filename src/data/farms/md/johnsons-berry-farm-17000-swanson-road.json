@@ -1,0 +1,19 @@
+{
+  "slug": "johnsons-berry-farm-17000-swanson-road",
+  "name": "Johnsons Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "17000 Swanson Road, MD",
+  "locationCity": "17000 Swanson Road",
+  "locationState": "MD",
+  "locationZipcode": "17000",
+  "lat": 38.85627780987707,
+  "lon": -76.70862314138031,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:29.093Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:29.093Z"
+}

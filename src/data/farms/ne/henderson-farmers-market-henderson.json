@@ -1,0 +1,19 @@
+{
+  "slug": "henderson-farmers-market-henderson",
+  "name": "Henderson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Henderson, NE",
+  "locationCity": "Henderson",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "lat": 40.778922,
+  "lon": -97.811491,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:03.888Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:03.888Z"
+}

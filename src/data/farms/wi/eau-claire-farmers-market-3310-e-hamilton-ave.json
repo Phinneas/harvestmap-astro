@@ -1,0 +1,19 @@
+{
+  "slug": "eau-claire-farmers-market-3310-e-hamilton-ave",
+  "name": "Eau Claire Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3310 E. Hamilton Ave., WI",
+  "locationCity": "3310 E. Hamilton Ave.",
+  "locationState": "WI",
+  "locationZipcode": "54701",
+  "lat": 44.78620894618757,
+  "lon": -91.46035042089096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

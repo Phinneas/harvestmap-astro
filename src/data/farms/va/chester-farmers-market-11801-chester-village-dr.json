@@ -1,0 +1,19 @@
+{
+  "slug": "chester-farmers-market-11801-chester-village-dr",
+  "name": "Chester Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11801 Chester Village Dr., VA",
+  "locationCity": "11801 Chester Village Dr.",
+  "locationState": "VA",
+  "locationZipcode": "11801",
+  "lat": 37.361184582352664,
+  "lon": -77.44262024965637,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.477Z"
+}

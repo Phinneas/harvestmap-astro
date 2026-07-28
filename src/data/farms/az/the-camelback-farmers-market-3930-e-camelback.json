@@ -1,0 +1,19 @@
+{
+  "slug": "the-camelback-farmers-market-3930-e-camelback",
+  "name": "The Camelback Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3930 E. Camelback, AZ",
+  "locationCity": "3930 E. Camelback",
+  "locationState": "AZ",
+  "locationZipcode": "85018",
+  "lat": 33.50987666059853,
+  "lon": -111.99787823709885,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

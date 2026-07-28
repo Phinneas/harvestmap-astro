@@ -1,0 +1,19 @@
+{
+  "slug": "westfield-farmers-market-225-south-union-street",
+  "name": "Westfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "225 South Union Street, IN",
+  "locationCity": "225 South Union Street",
+  "locationState": "IN",
+  "locationZipcode": "",
+  "lat": 40.0409306,
+  "lon": -86.1285572,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.350Z"
+}

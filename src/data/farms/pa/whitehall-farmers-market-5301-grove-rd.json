@@ -1,0 +1,19 @@
+{
+  "slug": "whitehall-farmers-market-5301-grove-rd",
+  "name": "Whitehall Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5301 Grove Rd., PA",
+  "locationCity": "5301 Grove Rd.",
+  "locationState": "PA",
+  "locationZipcode": "15236",
+  "lat": 40.35807908101515,
+  "lon": -80.00213837794048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

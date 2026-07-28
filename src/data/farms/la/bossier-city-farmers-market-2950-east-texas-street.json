@@ -1,0 +1,19 @@
+{
+  "slug": "bossier-city-farmers-market-2950-east-texas-street",
+  "name": "Bossier City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2950 East Texas Street, LA",
+  "locationCity": "2950 East Texas Street",
+  "locationState": "LA",
+  "locationZipcode": "",
+  "lat": 32.5280684,
+  "lon": -93.70919789999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:06.440Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:06.440Z"
+}

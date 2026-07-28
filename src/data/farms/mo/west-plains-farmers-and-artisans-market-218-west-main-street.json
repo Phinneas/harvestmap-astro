@@ -1,0 +1,19 @@
+{
+  "slug": "west-plains-farmers-and-artisans-market-218-west-main-street",
+  "name": "West Plains Farmers and Artisans Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "218 West Main Street, MO",
+  "locationCity": "218 West Main Street",
+  "locationState": "MO",
+  "locationZipcode": "",
+  "lat": 36.7278092,
+  "lon": -91.85437309999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:22:36.138Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:22:36.138Z"
+}

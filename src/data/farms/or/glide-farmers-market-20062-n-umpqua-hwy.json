@@ -1,0 +1,19 @@
+{
+  "slug": "glide-farmers-market-20062-n-umpqua-hwy",
+  "name": "Glide Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20062 N. Umpqua Hwy., OR",
+  "locationCity": "20062 N. Umpqua Hwy.",
+  "locationState": "OR",
+  "locationZipcode": "20062",
+  "lat": 43.306757745454256,
+  "lon": -123.07916886800446,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:09.967Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:09.967Z"
+}

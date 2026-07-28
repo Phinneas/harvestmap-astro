@@ -1,0 +1,20 @@
+{
+  "slug": "pete-s-produce-farm-47-kahn-road",
+  "name": "Pete's Produce Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "47 Kahn Road, CT",
+  "locationCity": "47 Kahn Road",
+  "locationState": "CT",
+  "locationZipcode": "",
+  "lat": 41.5895695,
+  "lon": -72.16753849999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:23.013Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:23.013Z",
+  "crops": []
+}

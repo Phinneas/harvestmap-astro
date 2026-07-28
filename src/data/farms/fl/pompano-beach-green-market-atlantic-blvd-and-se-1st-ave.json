@@ -1,0 +1,19 @@
+{
+  "slug": "pompano-beach-green-market-atlantic-blvd-and-se-1st-ave",
+  "name": "Pompano Beach Green Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Atlantic Blvd. and SE 1st Ave., FL",
+  "locationCity": "Atlantic Blvd. and SE 1st Ave.",
+  "locationState": "FL",
+  "locationZipcode": "33060",
+  "lat": 26.230782512336518,
+  "lon": -80.11655008532553,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.374Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "foggy-bottom-farmers-market-23rd-and-i-st-nw-walkway",
+  "name": "Foggy Bottom Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "23rd and I St. NW Walkway, DC",
+  "locationCity": "23rd and I St. NW Walkway",
+  "locationState": "DC",
+  "locationZipcode": "20037",
+  "lat": 38.900700010778706,
+  "lon": -77.0501199816587,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:49.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:49.116Z"
+}

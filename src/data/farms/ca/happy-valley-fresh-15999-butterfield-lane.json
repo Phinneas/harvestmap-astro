@@ -1,0 +1,19 @@
+{
+  "slug": "happy-valley-fresh-15999-butterfield-lane",
+  "name": "Happy Valley Fresh",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "15999 Butterfield Lane, CA",
+  "locationCity": "15999 Butterfield Lane",
+  "locationState": "CA",
+  "locationZipcode": "15999",
+  "lat": 40.4778199,
+  "lon": -122.4636346,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:00.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:00.813Z"
+}

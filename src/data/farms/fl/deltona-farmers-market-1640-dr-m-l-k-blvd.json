@@ -1,0 +1,19 @@
+{
+  "slug": "deltona-farmers-market-1640-dr-m-l-k-blvd",
+  "name": "Deltona Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1640 Dr. M.L.K. Blvd, FL",
+  "locationCity": "1640 Dr. M.L.K. Blvd",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "lat": 28.9437513,
+  "lon": -81.2335626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:01.402Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:01.402Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "oneida-county-public-market-321-main-street",
+  "name": "Oneida County Public Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "321 Main Street, NY",
+  "locationCity": "321 Main Street",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "lat": 43.1041435,
+  "lon": -75.22348459999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.530Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.530Z"
+}

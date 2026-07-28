@@ -1,0 +1,19 @@
+{
+  "slug": "west-covina-farmers-market-195-glendora-ave",
+  "name": "West Covina Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "195 Glendora Ave., CA",
+  "locationCity": "195 Glendora Ave.",
+  "locationState": "CA",
+  "locationZipcode": "91790",
+  "lat": 34.07016858919737,
+  "lon": -117.9221236731223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

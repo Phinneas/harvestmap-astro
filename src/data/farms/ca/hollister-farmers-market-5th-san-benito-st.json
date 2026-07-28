@@ -1,0 +1,19 @@
+{
+  "slug": "hollister-farmers-market-5th-san-benito-st",
+  "name": "Hollister Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5th & San Benito St., CA",
+  "locationCity": "5th & San Benito St.",
+  "locationState": "CA",
+  "locationZipcode": "95023",
+  "lat": 36.85146998467458,
+  "lon": -121.40209000622951,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

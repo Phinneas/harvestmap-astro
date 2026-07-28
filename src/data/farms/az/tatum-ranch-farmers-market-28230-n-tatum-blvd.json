@@ -1,0 +1,19 @@
+{
+  "slug": "tatum-ranch-farmers-market-28230-n-tatum-blvd",
+  "name": "Tatum Ranch Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "28230 N. Tatum Blvd., AZ",
+  "locationCity": "28230 N. Tatum Blvd.",
+  "locationState": "AZ",
+  "locationZipcode": "28230",
+  "lat": 33.742014995655985,
+  "lon": -111.97833890046508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:35.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:35.024Z"
+}

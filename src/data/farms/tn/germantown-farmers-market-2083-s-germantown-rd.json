@@ -1,0 +1,19 @@
+{
+  "slug": "germantown-farmers-market-2083-s-germantown-rd",
+  "name": "Germantown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2083 S. Germantown Rd., TN",
+  "locationCity": "2083 S. Germantown Rd.",
+  "locationState": "TN",
+  "locationZipcode": "38138",
+  "lat": 35.091914379661375,
+  "lon": -89.80912033513354,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:11.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:11.557Z"
+}

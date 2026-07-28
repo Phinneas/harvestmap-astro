@@ -1,0 +1,19 @@
+{
+  "slug": "wallace-farms-1140-douglas-road",
+  "name": "Wallace Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1140 Douglas Road, TN",
+  "locationCity": "1140 Douglas Road",
+  "locationState": "TN",
+  "locationZipcode": "38351",
+  "lat": 35.7444100062104,
+  "lon": -88.4450209645764,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:07.209Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:07.209Z"
+}

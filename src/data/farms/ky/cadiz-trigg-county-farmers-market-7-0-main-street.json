@@ -1,0 +1,19 @@
+{
+  "slug": "cadiz-trigg-county-farmers-market-7-0-main-street",
+  "name": "Cadiz/Trigg County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7 0 Main Street, KY",
+  "locationCity": "7 0 Main Street",
+  "locationState": "KY",
+  "locationZipcode": "42211",
+  "lat": 36.862889,
+  "lon": -87.835998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:46.775Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:46.775Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "doyle-valley-farmers-market-100-s-walnut-st",
+  "name": "Doyle Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 S. Walnut St., KS",
+  "locationCity": "100 S. Walnut St.",
+  "locationState": "KS",
+  "locationZipcode": "66866",
+  "lat": 38.16486348995374,
+  "lon": -97.10680729422208,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:31.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:31.504Z"
+}

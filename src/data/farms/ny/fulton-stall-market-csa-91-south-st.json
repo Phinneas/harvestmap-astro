@@ -1,0 +1,20 @@
+{
+  "slug": "fulton-stall-market-csa-91-south-st",
+  "name": "Fulton Stall Market CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "91 South St., NY",
+  "locationCity": "91 South St.",
+  "locationState": "NY",
+  "locationZipcode": "10038",
+  "lat": 40.7062376,
+  "lon": -74.0035116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:04.256Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:04.256Z",
+  "crops": []
+}

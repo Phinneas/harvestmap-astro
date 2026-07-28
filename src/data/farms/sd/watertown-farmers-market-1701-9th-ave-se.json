@@ -1,0 +1,19 @@
+{
+  "slug": "watertown-farmers-market-1701-9th-ave-se",
+  "name": "Watertown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1701 9th Ave. SE, SD",
+  "locationCity": "1701 9th Ave. SE",
+  "locationState": "SD",
+  "locationZipcode": "57201",
+  "lat": 44.890063709297905,
+  "lon": -97.09305708063359,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:59.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:59.965Z"
+}

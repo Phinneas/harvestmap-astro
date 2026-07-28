@@ -1,0 +1,19 @@
+{
+  "slug": "hanford-farmers-market-irwin-st-and-7th-st",
+  "name": "Hanford Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Irwin St. and 7th St., CA",
+  "locationCity": "Irwin St. and 7th St.",
+  "locationState": "CA",
+  "locationZipcode": "93232",
+  "lat": 36.32636998609004,
+  "lon": -119.6473099941608,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

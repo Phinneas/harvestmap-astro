@@ -1,0 +1,19 @@
+{
+  "slug": "lake-arrowhead-farmers-market-28200-hwy-189",
+  "name": "Lake Arrowhead Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "28200 Hwy. 189, CA",
+  "locationCity": "28200 Hwy. 189",
+  "locationState": "CA",
+  "locationZipcode": "28200",
+  "lat": 34.25089898717165,
+  "lon": -117.18929299953827,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

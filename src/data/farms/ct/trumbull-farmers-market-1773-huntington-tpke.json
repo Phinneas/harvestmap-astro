@@ -1,0 +1,19 @@
+{
+  "slug": "trumbull-farmers-market-1773-huntington-tpke",
+  "name": "Trumbull Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1773 Huntington Tpke., CT",
+  "locationCity": "1773 Huntington Tpke.",
+  "locationState": "CT",
+  "locationZipcode": "06883",
+  "lat": 41.24103400244118,
+  "lon": -73.16189998511213,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

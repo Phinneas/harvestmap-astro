@@ -1,0 +1,19 @@
+{
+  "slug": "berthoud-farmers-market-1201-lake-ave",
+  "name": "Berthoud Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1201 Lake Ave., CO",
+  "locationCity": "1201 Lake Ave.",
+  "locationState": "CO",
+  "locationZipcode": "80513",
+  "lat": 40.30793687777082,
+  "lon": -105.09544745861861,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.496Z"
+}

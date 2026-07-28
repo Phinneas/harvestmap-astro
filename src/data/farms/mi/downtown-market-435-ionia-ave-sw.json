@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-market-435-ionia-ave-sw",
+  "name": "Downtown Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "435 Ionia Ave. SW, MI",
+  "locationCity": "435 Ionia Ave. SW",
+  "locationState": "MI",
+  "locationZipcode": "49503",
+  "lat": 42.954737903122364,
+  "lon": -85.67012475517905,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

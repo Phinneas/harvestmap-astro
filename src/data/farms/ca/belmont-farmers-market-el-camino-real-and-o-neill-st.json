@@ -1,0 +1,19 @@
+{
+  "slug": "belmont-farmers-market-el-camino-real-and-o-neill-st",
+  "name": "Belmont Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "El Camino Real and O'Neill St., CA",
+  "locationCity": "El Camino Real and O'Neill St.",
+  "locationState": "CA",
+  "locationZipcode": "94002",
+  "lat": 37.52122000000003,
+  "lon": -122.27558999999997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

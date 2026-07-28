@@ -1,0 +1,20 @@
+{
+  "slug": "old-town-emmet-farm-market-1322-anderson-road",
+  "name": "Old Town Emmet Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1322 Anderson Road, MI",
+  "locationCity": "1322 Anderson Road",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 45.35974781623232,
+  "lon": -84.97083416857639,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z",
+  "crops": []
+}

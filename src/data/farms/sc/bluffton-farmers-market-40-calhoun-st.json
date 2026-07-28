@@ -1,0 +1,19 @@
+{
+  "slug": "bluffton-farmers-market-40-calhoun-st",
+  "name": "Bluffton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "40 Calhoun St., SC",
+  "locationCity": "40 Calhoun St.",
+  "locationState": "SC",
+  "locationZipcode": "29910",
+  "lat": 32.2349421982294,
+  "lon": -80.86251290582021,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:49.593Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:49.593Z"
+}

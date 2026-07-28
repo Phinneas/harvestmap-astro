@@ -1,0 +1,19 @@
+{
+  "slug": "jared-s-pumpkin-patch-10500-w-bowles-ave",
+  "name": "Jared's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10500 W. Bowles Ave, CO",
+  "locationCity": "10500 W. Bowles Ave",
+  "locationState": "CO",
+  "locationZipcode": "10500",
+  "lat": 39.6091110164342,
+  "lon": -105.116831988616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:08.833Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:08.833Z"
+}

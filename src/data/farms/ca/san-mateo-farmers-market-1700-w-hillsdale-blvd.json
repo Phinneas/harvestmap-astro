@@ -1,0 +1,19 @@
+{
+  "slug": "san-mateo-farmers-market-1700-w-hillsdale-blvd",
+  "name": "San Mateo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1700 W. Hillsdale Blvd., CA",
+  "locationCity": "1700 W. Hillsdale Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "94402",
+  "lat": 37.53161637355823,
+  "lon": -122.33401406781144,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

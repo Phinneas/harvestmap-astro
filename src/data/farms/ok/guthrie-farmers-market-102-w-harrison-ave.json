@@ -1,0 +1,19 @@
+{
+  "slug": "guthrie-farmers-market-102-w-harrison-ave",
+  "name": "Guthrie Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 W. Harrison Ave., OK",
+  "locationCity": "102 W. Harrison Ave.",
+  "locationState": "OK",
+  "locationZipcode": "73044",
+  "lat": 35.87699388411591,
+  "lon": -97.42546713472706,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:57.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:57.528Z"
+}

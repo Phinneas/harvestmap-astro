@@ -1,0 +1,19 @@
+{
+  "slug": "jabali-farmer-s-market-maplewood-mall",
+  "name": "Jabali Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Maplewood Mall, PA",
+  "locationCity": "Maplewood Mall",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "lat": 40.034017,
+  "lon": -75.1752217,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.696Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.696Z"
+}

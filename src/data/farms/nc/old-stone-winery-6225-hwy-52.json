@@ -1,0 +1,19 @@
+{
+  "slug": "old-stone-winery-6225-hwy-52",
+  "name": "Old Stone Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6225 Hwy 52, NC",
+  "locationCity": "6225 Hwy 52",
+  "locationState": "NC",
+  "locationZipcode": "28146",
+  "lat": 35.597895260713,
+  "lon": -80.4257336726532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:14.474Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:14.474Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "61st-street-farmers-market-6100-s-blackstone-ave",
+  "name": "61st Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6100 S. Blackstone Ave., IL",
+  "locationCity": "6100 S. Blackstone Ave.",
+  "locationState": "IL",
+  "locationZipcode": "60637",
+  "lat": 41.78388006900722,
+  "lon": -87.59030125643721,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.446Z"
+}

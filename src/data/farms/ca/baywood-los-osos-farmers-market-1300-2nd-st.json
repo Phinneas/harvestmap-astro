@@ -1,0 +1,19 @@
+{
+  "slug": "baywood-los-osos-farmers-market-1300-2nd-st",
+  "name": "Baywood/Los Osos Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1300 2nd St., CA",
+  "locationCity": "1300 2nd St.",
+  "locationState": "CA",
+  "locationZipcode": "93402",
+  "lat": 35.329057751661814,
+  "lon": -120.84091364890966,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

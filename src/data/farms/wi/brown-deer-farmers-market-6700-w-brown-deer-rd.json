@@ -1,0 +1,19 @@
+{
+  "slug": "brown-deer-farmers-market-6700-w-brown-deer-rd",
+  "name": "Brown Deer Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6700 W. Brown Deer Rd., WI",
+  "locationCity": "6700 W. Brown Deer Rd.",
+  "locationState": "WI",
+  "locationZipcode": "53223",
+  "lat": 43.179416997907424,
+  "lon": -87.99338700622012,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

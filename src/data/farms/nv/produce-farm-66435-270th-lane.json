@@ -1,0 +1,19 @@
+{
+  "slug": "produce-farm-66435-270th-lane",
+  "name": "Produce farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "66435 270th Lane, NV",
+  "locationCity": "66435 270th Lane",
+  "locationState": "NV",
+  "locationZipcode": "66435",
+  "lat": 41.965503,
+  "lon": -93.37845,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:23:19.848Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:23:19.848Z"
+}

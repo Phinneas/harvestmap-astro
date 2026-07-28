@@ -1,0 +1,19 @@
+{
+  "slug": "adrian-city-farmers-market-115-toledo-street",
+  "name": "Adrian City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 Toledo Street, MI",
+  "locationCity": "115 Toledo Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 41.900145747565794,
+  "lon": -84.03515278436502,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.733Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.733Z"
+}

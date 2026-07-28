@@ -1,0 +1,19 @@
+{
+  "slug": "middleton-berry-farm-middleton",
+  "name": "Middleton Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "MIDDLETON, MI",
+  "locationCity": "MIDDLETON",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.1762400000001,
+  "lon": -84.7099899999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:53.625Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:53.625Z"
+}

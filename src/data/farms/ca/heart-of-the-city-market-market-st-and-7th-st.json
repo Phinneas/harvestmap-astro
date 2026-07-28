@@ -1,0 +1,19 @@
+{
+  "slug": "heart-of-the-city-market-market-st-and-7th-st",
+  "name": "Heart of the City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Market St. and 7th St., CA",
+  "locationCity": "Market St. and 7th St.",
+  "locationState": "CA",
+  "locationZipcode": "94102",
+  "lat": 37.78047998332441,
+  "lon": -122.41250999384211,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.714Z"
+}

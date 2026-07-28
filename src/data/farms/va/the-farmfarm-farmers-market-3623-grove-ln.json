@@ -1,0 +1,19 @@
+{
+  "slug": "the-farmfarm-farmers-market-3623-grove-ln",
+  "name": "The FarmFarm Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3623 Grove Ln., VA",
+  "locationCity": "3623 Grove Ln.",
+  "locationState": "VA",
+  "locationZipcode": "20144",
+  "lat": 38.88715226832607,
+  "lon": -77.90617719997483,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:59.478Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:59.478Z"
+}

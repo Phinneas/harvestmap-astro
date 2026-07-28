@@ -1,0 +1,19 @@
+{
+  "slug": "hickory-hill-farm-dry-ridge",
+  "name": "Hickory Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dry Ridge, KY",
+  "locationCity": "Dry Ridge",
+  "locationState": "KY",
+  "locationZipcode": "41035",
+  "lat": 38.6795075000001,
+  "lon": -84.5897310999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:40.556Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:40.556Z"
+}

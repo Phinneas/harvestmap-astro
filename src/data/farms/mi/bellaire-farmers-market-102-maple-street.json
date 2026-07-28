@@ -1,0 +1,19 @@
+{
+  "slug": "bellaire-farmers-market-102-maple-street",
+  "name": "Bellaire Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 Maple Street, MI",
+  "locationCity": "102 Maple Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 44.976024758421886,
+  "lon": -85.20501256823167,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "long-valley-farmers-market-176-s-100-e",
+  "name": "Long Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "176 S. 100 E., UT",
+  "locationCity": "176 S. 100 E.",
+  "locationState": "UT",
+  "locationZipcode": "84758",
+  "lat": 37.27543686811908,
+  "lon": -112.63666100764091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:36.288Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:36.288Z"
+}

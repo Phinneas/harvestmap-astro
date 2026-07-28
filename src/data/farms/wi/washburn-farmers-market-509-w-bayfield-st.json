@@ -1,0 +1,19 @@
+{
+  "slug": "washburn-farmers-market-509-w-bayfield-st",
+  "name": "Washburn Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "509 W. Bayfield St., WI",
+  "locationCity": "509 W. Bayfield St.",
+  "locationState": "WI",
+  "locationZipcode": "54891",
+  "lat": 46.670535128873674,
+  "lon": -90.90079051251793,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:27:34.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:27:34.643Z"
+}

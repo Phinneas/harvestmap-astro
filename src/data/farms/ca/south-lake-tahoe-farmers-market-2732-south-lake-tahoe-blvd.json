@@ -1,0 +1,19 @@
+{
+  "slug": "south-lake-tahoe-farmers-market-2732-south-lake-tahoe-blvd",
+  "name": "South Lake Tahoe Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2732 South Lake Tahoe Blvd., CA",
+  "locationCity": "2732 South Lake Tahoe Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "96150",
+  "lat": 38.929511360640596,
+  "lon": -119.98055607525914,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

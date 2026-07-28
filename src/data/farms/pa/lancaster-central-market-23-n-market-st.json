@@ -1,0 +1,19 @@
+{
+  "slug": "lancaster-central-market-23-n-market-st",
+  "name": "Lancaster Central Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "23 N. Market St., PA",
+  "locationCity": "23 N. Market St.",
+  "locationState": "PA",
+  "locationZipcode": "17603",
+  "lat": 40.03919553406692,
+  "lon": -76.30701136491703,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:25:22.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:25:22.681Z"
+}

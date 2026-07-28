@@ -1,0 +1,19 @@
+{
+  "slug": "american-canyon-farmers-market-100-benton-way",
+  "name": "American Canyon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Benton Way, CA",
+  "locationCity": "100 Benton Way",
+  "locationState": "CA",
+  "locationZipcode": "94503",
+  "lat": 38.17049999636154,
+  "lon": -122.26572903909988,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.713Z"
+}

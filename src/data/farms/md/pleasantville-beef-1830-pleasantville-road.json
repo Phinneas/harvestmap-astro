@@ -1,0 +1,19 @@
+{
+  "slug": "pleasantville-beef-1830-pleasantville-road",
+  "name": "Pleasantville Beef",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1830 Pleasantville Road, MD",
+  "locationCity": "1830 Pleasantville Road",
+  "locationState": "MD",
+  "locationZipcode": "",
+  "lat": 39.55442240000001,
+  "lon": -76.43649169999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:36.475Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:36.475Z"
+}

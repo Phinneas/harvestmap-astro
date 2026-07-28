@@ -1,0 +1,19 @@
+{
+  "slug": "bryce-canyon-inn-21-s-main-st",
+  "name": "Bryce Canyon Inn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "21 S Main St, UT",
+  "locationCity": "21 S Main St",
+  "locationState": "UT",
+  "locationZipcode": "84776",
+  "lat": 37.6235879806912,
+  "lon": -112.081485005134,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:32.108Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:32.108Z"
+}

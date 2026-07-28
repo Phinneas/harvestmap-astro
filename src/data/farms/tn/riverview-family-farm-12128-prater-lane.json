@@ -1,0 +1,19 @@
+{
+  "slug": "riverview-family-farm-12128-prater-lane",
+  "name": "RiverView Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12128 Prater Lane, TN",
+  "locationCity": "12128 Prater Lane",
+  "locationState": "TN",
+  "locationZipcode": "12128",
+  "lat": 35.8269493855146,
+  "lon": -84.1525618999728,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:07.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:07.220Z"
+}

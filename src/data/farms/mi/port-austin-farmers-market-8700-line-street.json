@@ -1,0 +1,19 @@
+{
+  "slug": "port-austin-farmers-market-8700-line-street",
+  "name": "Port Austin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8700 Line Street, MI",
+  "locationCity": "8700 Line Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 44.04499321198723,
+  "lon": -82.99481961428849,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.735Z"
+}

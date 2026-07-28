@@ -1,0 +1,19 @@
+{
+  "slug": "davison-farmers-market-8110-east-court-street",
+  "name": "Davison Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8110 East Court Street, MI",
+  "locationCity": "8110 East Court Street",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 43.019642868285274,
+  "lon": -83.55046071282541,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:58.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:58.734Z"
+}

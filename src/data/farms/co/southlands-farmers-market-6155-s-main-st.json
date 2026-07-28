@@ -1,0 +1,19 @@
+{
+  "slug": "southlands-farmers-market-6155-s-main-st",
+  "name": "Southlands Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6155 S. Main St., CO",
+  "locationCity": "6155 S. Main St.",
+  "locationState": "CO",
+  "locationZipcode": "80016",
+  "lat": 39.60511174029859,
+  "lon": -104.70887980439706,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:13.497Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:13.497Z"
+}

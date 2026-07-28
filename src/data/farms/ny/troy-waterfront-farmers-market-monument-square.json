@@ -1,0 +1,20 @@
+{
+  "slug": "troy-waterfront-farmers-market-monument-square",
+  "name": "Troy Waterfront Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Monument Square, NY",
+  "locationCity": "Monument Square",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "lat": 42.73164269999999,
+  "lon": -73.6916048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:24:06.498Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:24:06.498Z",
+  "crops": []
+}

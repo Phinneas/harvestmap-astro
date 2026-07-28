@@ -1,0 +1,19 @@
+{
+  "slug": "frederick-farmers-market-1215-west-patrick-street",
+  "name": "Frederick Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1215 West Patrick Street, MD",
+  "locationCity": "1215 West Patrick Street",
+  "locationState": "MD",
+  "locationZipcode": "",
+  "lat": 39.41939832405852,
+  "lon": -77.45981253855689,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:21:33.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:21:33.944Z"
+}

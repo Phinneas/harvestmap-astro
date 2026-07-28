@@ -1,0 +1,19 @@
+{
+  "slug": "hegewisch-farmers-market-13323-south-green-bay-avenue",
+  "name": "Hegewisch Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13323 South Green Bay Avenue, IL",
+  "locationCity": "13323 South Green Bay Avenue",
+  "locationState": "IL",
+  "locationZipcode": "13323",
+  "lat": 41.6529811,
+  "lon": -87.54079569999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:19:53.459Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:19:53.459Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wethersfield-farmers-market-220-hartford-ave",
+  "name": "Wethersfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 Hartford Ave., CT",
+  "locationCity": "220 Hartford Ave.",
+  "locationState": "CT",
+  "locationZipcode": "06109",
+  "lat": 41.71941619124536,
+  "lon": -72.66061114549197,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.333Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.333Z"
+}

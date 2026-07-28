@@ -1,0 +1,19 @@
+{
+  "slug": "silver-lake-farmers-market-3700-sunset-blvd",
+  "name": "Silver Lake Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3700 Sunset Blvd., CA",
+  "locationCity": "3700 Sunset Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "90189",
+  "lat": 34.09053206220904,
+  "lon": -118.27781957948561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

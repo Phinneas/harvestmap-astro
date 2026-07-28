@@ -1,0 +1,19 @@
+{
+  "slug": "uc-davis-health-system-farmers-market-45th-and-y-st",
+  "name": "UC Davis Health System Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "45th and Y St., CA",
+  "locationCity": "45th and Y St.",
+  "locationState": "CA",
+  "locationZipcode": "95817",
+  "lat": 38.55253000210624,
+  "lon": -121.45335003801313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:17:59.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:17:59.715Z"
+}

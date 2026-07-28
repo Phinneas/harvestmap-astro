@@ -1,0 +1,19 @@
+{
+  "slug": "upper-state-street-farmers-market-1010-state-st",
+  "name": "Upper State Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1010 State St., CT",
+  "locationCity": "1010 State St.",
+  "locationState": "CT",
+  "locationZipcode": "06511",
+  "lat": 41.31592587727105,
+  "lon": -72.90931246602227,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:18:25.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:18:25.332Z"
+}

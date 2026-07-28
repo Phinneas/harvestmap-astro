@@ -1,0 +1,19 @@
+{
+  "slug": "plainfield-farmers-market-105-s-east-st",
+  "name": "Plainfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 S. East St., IN",
+  "locationCity": "105 S. East St.",
+  "locationState": "IN",
+  "locationZipcode": "46168",
+  "lat": 39.70281458803045,
+  "lon": -86.40061139528987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:20:06.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:20:06.334Z"
+}

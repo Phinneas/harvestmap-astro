@@ -1,0 +1,19 @@
+{
+  "slug": "daybreak-farmers-market-11274-south-kestrel-rise-road",
+  "name": "Daybreak Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11274 South Kestrel Rise Road, UT",
+  "locationCity": "11274 South Kestrel Rise Road",
+  "locationState": "UT",
+  "locationZipcode": "11274",
+  "lat": 40.5463366,
+  "lon": -112.0024586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-07-28T01:26:36.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-07-28T01:26:36.293Z"
+}
