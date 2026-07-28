@@ -9,11 +9,23 @@
   "locationZipcode": "",
   "lat": 42.1052776985361,
   "lon": -72.2130386588224,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Cooks+Farm+Orchards&amp;ES=MA&amp;EC=Hampden+County&amp;EP=+413-245-3241&amp;ECT=Brimfield&amp;EZ=&amp;EA=106+Haynes+Hill+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.cooksfarmorchard.net&amp;RD=NR&amp;EF=&amp;EM=cooksorchard%40gmail.com&amp;EX=US&amp;PG=MAwest.htm&amp;OP=daily+from+10am+to+6pm+during+the+season%3B%3B+&amp;IG=&amp;TW=&amp;DS=No+minimum%2C+free+weekend+trailer+ride.+one+half+mile+south+on+Route+19%2C+follow+signs.+Cook%27s+Farm+Orchard+is+open+in+the+summer+%28check+with+us%29+for+Blueberry+picking%2C+and+from+September+through+Thanksgiving%2C+and+weekends+through+Christmas+for+apples%2C+cider%2C+and+baked+goods.Fall+is+the+time+of+year+when+the+fun+really+starts+at+Cook%27s+Farm+Orchard.+Pick-your-own+apples+and+enjoy+the+crisp+air%2C+sun-warmed+fruit%2C+and+the+sights+and+scents+of+autumn+in+the+orchard.&amp;DR=Route+20+West+to+Brimfield+Center+stop+light.+one+half+mile+south+on+Route+19%2C+follow+signs.+Cook%5C%5C%5C%27s+Farm+Orchard+is+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:41.332Z"
+      "lastSeen": "2026-07-28T19:29:19.708Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:29:34.257Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:41.332Z"
+  "usdaLastUpdated": "2026-07-28T19:29:19.708Z",
+  "crops": [
+    "Blueberries",
+    "Apples",
+    "Peaches",
+    "Plums"
+  ],
+  "phone": "413-245-3241"
 }

@@ -1,0 +1,21 @@
+{
+  "slug": "cook-peach-farm",
+  "name": "Cook Peach Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Jacksonville, TX",
+  "locationCity": "Jacksonville",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "903-586-6255",
+  "crops": [
+    "Peaches",
+    "Plums"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

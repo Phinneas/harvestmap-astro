@@ -1,0 +1,23 @@
+{
+  "slug": "peaches-n-such-2",
+  "name": "Peaches 'N' Such #2",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Leesville, SC",
+  "locationCity": "Leesville",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "803-657-6632",
+  "crops": [
+    "Strawberries",
+    "Peaches",
+    "Squash",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

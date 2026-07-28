@@ -1,0 +1,23 @@
+{
+  "slug": "beard-s-produce",
+  "name": "Beard's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dorr, MI",
+  "locationCity": "Dorr",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "616-896-8296",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Corn",
+    "Asparagus"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

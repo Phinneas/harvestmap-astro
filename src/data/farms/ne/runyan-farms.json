@@ -1,0 +1,21 @@
+{
+  "slug": "runyan-farms",
+  "name": "Runyan Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Falls City, NE",
+  "locationCity": "Falls City",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "phone": "(402) 245-5492",
+  "crops": [
+    "Pumpkins",
+    "Squash"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:34.673Z"
+    }
+  ]
+}

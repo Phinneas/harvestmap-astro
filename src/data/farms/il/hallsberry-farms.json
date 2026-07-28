@@ -1,0 +1,22 @@
+{
+  "slug": "hallsberry-farms",
+  "name": "Hallsberry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Buncombe, IL",
+  "locationCity": "Buncombe",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "6073116627",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

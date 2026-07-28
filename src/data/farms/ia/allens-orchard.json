@@ -1,0 +1,24 @@
+{
+  "slug": "allens-orchard",
+  "name": "Allens Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Marion, IA",
+  "locationCity": "Marion",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Allens+Orchard&amp;ES=IA&amp;EC=Linn+County&amp;EP=+319-377-1408&amp;ECT=Marion&amp;EZ=52302&amp;EA=5801+N+10th+Street&amp;EA2=&amp;EW=http%3A%2F%2Fwww.allensorchard.com&amp;RD=RD&amp;EF=allensorchard&amp;EM=allensorchard%40gmail.com&amp;EX=US&amp;PG=IAeastcentral.htm&amp;OP=August+thru+October%3B%3B+&amp;IG=&amp;TW=&amp;DS=Over+50+varieties+of+apples%2C+we+do+not+get+apples+on+every+tree+every+year.+See+the+and+this+website+for+what+varieties+are+ready+for+picking+at+any+given+time.+NO+pets+are+allowed+in+the+orchard+or+the+orchard+shop.+NO+smoking+or+vaping+is+allowed+anywhere+in+the+orchard+or+the+orchard+shop.+Checks+require+a+valid+phone+number+on+them.&amp;DR=+",
+  "phone": "319-377-1408",
+  "crops": [
+    "Apples",
+    "Pears",
+    "Pumpkins",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:27:35.674Z"
+    }
+  ]
+}

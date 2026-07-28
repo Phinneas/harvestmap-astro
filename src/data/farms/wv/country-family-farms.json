@@ -1,0 +1,21 @@
+{
+  "slug": "country-family-farms",
+  "name": "Country Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Romney, WV",
+  "locationCity": "Romney",
+  "locationState": "WV",
+  "locationZipcode": "",
+  "website": "https://www.facebook.com/countryfamilyfarms",
+  "phone": "831-325-8930",
+  "crops": [
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:18.878Z"
+    }
+  ]
+}

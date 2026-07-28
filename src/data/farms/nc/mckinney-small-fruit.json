@@ -1,0 +1,21 @@
+{
+  "slug": "mckinney-small-fruit",
+  "name": "McKinney Small Fruit",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fletcher, NC",
+  "locationCity": "Fletcher",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "828-891-8947",
+  "crops": [
+    "Blueberries",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

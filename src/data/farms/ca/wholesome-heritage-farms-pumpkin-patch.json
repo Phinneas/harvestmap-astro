@@ -1,0 +1,21 @@
+{
+  "slug": "wholesome-heritage-farms-pumpkin-patch",
+  "name": "Wholesome Heritage Farms Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Escondido, CA",
+  "locationCity": "Escondido",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "760-746-8822",
+  "crops": [
+    "Strawberries",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

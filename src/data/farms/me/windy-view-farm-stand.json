@@ -1,0 +1,20 @@
+{
+  "slug": "windy-view-farm-stand",
+  "name": "Windy View Farm Stand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dexter, ME",
+  "locationCity": "Dexter",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "phone": "207-924-3381",
+  "crops": [
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.225Z"
+    }
+  ]
+}

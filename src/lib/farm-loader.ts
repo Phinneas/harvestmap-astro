@@ -5,26 +5,47 @@ import {
   getFarmSeasons,
   getFarmPeak,
 } from './seasonality';
+import { readdirSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
 
-// Eagerly import all farm JSON files at build time.
-// For 5,800+ files this is still fast (Vite handles it in ~2s);
-// the bottleneck is HTML page generation, not data loading.
-const farmFiles = import.meta.glob('/src/data/farms/**/*.json', { eager: true }) as Record<
-  string,
-  Farm
->;
+// Read all farm JSON files from the filesystem at build time.
+// Using fs.readFileSync instead of import.meta.glob because
+// Vite's module system overflows the V8 call stack with 8,000+ files.
+function loadFarmData(): Farm[] {
+  const farmsDir = join(process.cwd(), 'src', 'data', 'farms');
+  const farms: Farm[] = [];
 
-// Pre-sort once
-const allFarms = Object.values(farmFiles).sort((a, b) => a.name.localeCompare(b.name));
+  function scanDir(dir: string) {
+    const entries = readdirSync(dir, { withFileTypes: true });
+    for (const entry of entries) {
+      const fullPath = join(dir, entry.name);
+      if (entry.isDirectory()) {
+        scanDir(fullPath);
+      } else if (entry.name.endsWith('.json')) {
+        try {
+          const data = JSON.parse(readFileSync(fullPath, 'utf-8'));
+          farms.push(data);
+        } catch {
+          // Skip malformed JSON
+        }
+      }
+    }
+  }
+
+  scanDir(farmsDir);
+  return farms.sort((a, b) => a.name.localeCompare(b.name));
+}
+
+const allFarms = loadFarmData();
 
 export function loadAllFarms(): Farm[] {
   return allFarms;
 }
 
 // Only farms with crop data (produce, crops, or calendar).
-// These are the ones that get individual detail pages and appear
-// in the homepage directory grid. USDA-only farms without crops
-// are listed on state directory pages but don't get detail pages.
+// These appear in the homepage directory grid with rich cards.
+// All farms get individual detail pages; this filter is only for
+// the homepage grid which highlights enriched farms.
 export function loadEnrichedFarms(): Farm[] {
   return allFarms.filter(
     (f) =>

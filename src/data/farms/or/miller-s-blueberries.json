@@ -1,0 +1,20 @@
+{
+  "slug": "miller-s-blueberries",
+  "name": "Miller's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Springfield, OR",
+  "locationCity": "Springfield",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "(541) 746-1760",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

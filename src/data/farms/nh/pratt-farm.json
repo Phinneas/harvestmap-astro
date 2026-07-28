@@ -1,0 +1,22 @@
+{
+  "slug": "pratt-farm",
+  "name": "Pratt Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lancaster, NH",
+  "locationCity": "Lancaster",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "website": "https://maps.google.com/maps?q=63 Water Street+03584",
+  "phone": "603-788-4320",
+  "crops": [
+    "Blueberries",
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:23.079Z"
+    }
+  ]
+}

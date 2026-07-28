@@ -1,0 +1,19 @@
+{
+  "slug": "henson-creek-blueberry-farm",
+  "name": "Henson Creek Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Vernon, MO",
+  "locationCity": "Vernon",
+  "locationState": "MO",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:58.887Z"
+    }
+  ]
+}

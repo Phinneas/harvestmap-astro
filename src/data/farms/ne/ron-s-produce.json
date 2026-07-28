@@ -1,0 +1,22 @@
+{
+  "slug": "ron-s-produce",
+  "name": "Ron's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mills, NE",
+  "locationCity": "Mills",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "phone": "(402) 244-5253",
+  "crops": [
+    "Pumpkins",
+    "Squash",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:34.673Z"
+    }
+  ]
+}

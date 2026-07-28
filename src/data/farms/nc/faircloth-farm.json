@@ -1,0 +1,22 @@
+{
+  "slug": "faircloth-farm",
+  "name": "Faircloth Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Chapel Hill, NC",
+  "locationCity": "Chapel Hill",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "757-653-7663",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

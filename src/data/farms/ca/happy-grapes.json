@@ -1,0 +1,20 @@
+{
+  "slug": "happy-grapes",
+  "name": "Happy Grapes",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Atascadero, CA",
+  "locationCity": "Atascadero",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "805-462-0347",
+  "crops": [
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "o-k-agri-llc",
+  "name": "O. K. Agri. LLC.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Norman, OK",
+  "locationCity": "Norman",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "crops": [
+    "Pears"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:45.184Z"
+    }
+  ]
+}

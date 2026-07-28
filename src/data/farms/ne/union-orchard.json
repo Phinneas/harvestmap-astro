@@ -1,0 +1,23 @@
+{
+  "slug": "union-orchard",
+  "name": "Union Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Union, NE",
+  "locationCity": "Union",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "phone": "(402) 263-4845",
+  "crops": [
+    "Strawberries",
+    "Apples",
+    "Pumpkins",
+    "Squash"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:34.672Z"
+    }
+  ]
+}

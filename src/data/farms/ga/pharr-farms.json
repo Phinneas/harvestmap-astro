@@ -1,0 +1,24 @@
+{
+  "slug": "pharr-farms",
+  "name": "Pharr Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Winder, GA",
+  "locationCity": "Winder",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "(678) 925-0246",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

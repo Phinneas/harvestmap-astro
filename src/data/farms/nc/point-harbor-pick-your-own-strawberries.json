@@ -1,0 +1,20 @@
+{
+  "slug": "point-harbor-pick-your-own-strawberries",
+  "name": "Point Harbor Pick Your Own Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Point Harbor, NC",
+  "locationCity": "Point Harbor",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "252-491-8266",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

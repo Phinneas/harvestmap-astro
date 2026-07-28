@@ -1,0 +1,25 @@
+{
+  "slug": "hyline-orchard",
+  "name": "Hyline Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fish Creek, WI",
+  "locationCity": "Fish Creek",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Hyline+Orchard&amp;ES=WI&amp;EC=Door+County&amp;EP=+920-868-3067&amp;ECT=Fish+Creek&amp;EZ=&amp;EA=8240+Hwy+42&amp;EA2=&amp;EW=https%3A%2F%2Fwww.hylineorchards.com&amp;RD=RD&amp;EF=profile.php%3Fid%3D100063631237249&amp;EM=No+match.+&amp;EX=US&amp;PG=WIgrnb.htm&amp;OP=all+year+7+days+a+week%3B%3B+&amp;IG=&amp;TW=&amp;DS=8+am+to+8+pm+during+summer+and+fall%2C+9+am+to+5+pm+in+winter.+Apples%2C+cider%2C+jams+and+jellies%2C+maple+syrup%2C+popcorn%2C+pumpkins%2C+some+crafts.+Pick-your-own+apples.+Tart+cherries%3A+frozen+pitted%2C+wholesale+and+retail%2C+cider%2C+jam+and+jelly%2C+canned%2C+dried.+Pick+your+own+in+season.+Shipping+world-wide.+Accepting+Visa%2C+MC%2C+Discover.+Pie+cherries%2C+aka%2C+tart+cherries.&amp;DR=+",
+  "phone": "920-868-3067",
+  "crops": [
+    "Raspberries",
+    "Apples",
+    "Cherries",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

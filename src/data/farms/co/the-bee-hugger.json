@@ -1,0 +1,24 @@
+{
+  "slug": "the-bee-hugger",
+  "name": "The Bee Hugger",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Longmont, CO",
+  "locationCity": "Longmont",
+  "locationState": "CO",
+  "locationZipcode": "",
+  "website": "https://www.facebook.com/HoneyHarvestsHappiness",
+  "phone": "303-330-8277",
+  "crops": [
+    "Pumpkins",
+    "Flowers",
+    "Sunflowers",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:24:08.568Z"
+    }
+  ]
+}

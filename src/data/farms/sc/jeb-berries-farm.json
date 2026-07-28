@@ -1,0 +1,19 @@
+{
+  "slug": "jeb-berries-farm",
+  "name": "JEB Berries Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Belton, SC",
+  "locationCity": "Belton",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

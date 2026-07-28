@@ -1,0 +1,27 @@
+{
+  "slug": "uses-integrated-pest-management-practices",
+  "name": "Uses integrated pest management practices",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Molalla, OR",
+  "locationCity": "Molalla",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "971-222-6271",
+  "crops": [
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Peas",
+    "Herbs",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

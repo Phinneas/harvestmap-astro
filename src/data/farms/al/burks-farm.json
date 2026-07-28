@@ -1,0 +1,21 @@
+{
+  "slug": "burks-farm",
+  "name": "Burks Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cullman, AL",
+  "locationCity": "Cullman",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "1000576434",
+  "crops": [
+    "Strawberries",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

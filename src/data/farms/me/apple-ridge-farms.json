@@ -1,0 +1,20 @@
+{
+  "slug": "apple-ridge-farms",
+  "name": "Apple Ridge Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Auburn, ME",
+  "locationCity": "Auburn",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "phone": "207-777-1696",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.225Z"
+    }
+  ]
+}

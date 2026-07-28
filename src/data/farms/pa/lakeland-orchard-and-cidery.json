@@ -1,0 +1,28 @@
+{
+  "slug": "lakeland-orchard-and-cidery",
+  "name": "Lakeland Orchard and Cidery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Scott Township, PA",
+  "locationCity": "Scott Township",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "(570) 254-6038",
+  "crops": [
+    "Strawberries",
+    "Apples",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Flowers",
+    "Sunflowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

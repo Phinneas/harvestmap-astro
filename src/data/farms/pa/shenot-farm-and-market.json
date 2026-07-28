@@ -1,0 +1,27 @@
+{
+  "slug": "shenot-farm-and-market",
+  "name": "Shenot Farm and Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Wexford, PA",
+  "locationCity": "Wexford",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "724-935-2542",
+  "crops": [
+    "Blueberries",
+    "Apples",
+    "Pears",
+    "Peaches",
+    "Nectarines",
+    "Plums",
+    "Pumpkins",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "bountiful-acres",
+  "name": "Bountiful Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Woodland, WA",
+  "locationCity": "Woodland",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Bountiful+Acres&amp;ES=WA&amp;EC=Cowlitz+County&amp;EP=+360-225-9479&amp;ECT=Woodland&amp;EZ=&amp;EA=4005+NE+Cedar+Creek+Road&amp;EA2=&amp;EW=No+match.+&amp;RD=NW&amp;EF=&amp;EM=No+match.+&amp;EX=US&amp;PG=WAsouthwest.htm&amp;OP=Farm+Sales+and+U-Pick%2C+7+am+to+7+pm+daily%3B%3B+&amp;IG=&amp;TW=&amp;DS=&amp;DR=+",
+  "phone": "360-225-9479",
+  "crops": [
+    "Blueberries",
+    "Lavender"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.976Z"
+    }
+  ]
+}

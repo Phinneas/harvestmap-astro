@@ -1,0 +1,22 @@
+{
+  "slug": "2024-price",
+  "name": "2024 Price:",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Corbett, OR",
+  "locationCity": "Corbett",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "740-817-4874",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

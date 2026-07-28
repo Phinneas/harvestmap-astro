@@ -1,0 +1,21 @@
+{
+  "slug": "kilohana-plantation",
+  "name": "Kilohana Plantation",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lihue, HI",
+  "locationCity": "Lihue",
+  "locationState": "HI",
+  "locationZipcode": "",
+  "phone": "808-245-5608",
+  "crops": [
+    "Mango",
+    "Herbs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:15.979Z"
+    }
+  ]
+}

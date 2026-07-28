@@ -1,0 +1,20 @@
+{
+  "slug": "pot-luck-blueberry-farm",
+  "name": "Pot Luck Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Milledgeville, GA",
+  "locationCity": "Milledgeville",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "478-932-5390",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "sheils-farm",
+  "name": "Sheils Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "King Ferry, NY",
+  "locationCity": "King Ferry",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "315-364-7600",
+  "crops": [
+    "Pumpkins",
+    "Squash"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

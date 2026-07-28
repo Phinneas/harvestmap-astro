@@ -1,0 +1,25 @@
+{
+  "slug": "atkins-farms",
+  "name": "Atkins Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Eudora, AR",
+  "locationCity": "Eudora",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "phone": "(870) 355-2211",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:18.748Z"
+    }
+  ]
+}

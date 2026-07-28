@@ -1,0 +1,20 @@
+{
+  "slug": "mckay-creek-farm",
+  "name": "McKay Creek Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "North Plains, OR",
+  "locationCity": "North Plains",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "(503) 830-0098",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

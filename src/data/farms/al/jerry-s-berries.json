@@ -1,0 +1,20 @@
+{
+  "slug": "jerry-s-berries",
+  "name": "Jerry's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Jacksonville, AL",
+  "locationCity": "Jacksonville",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "(256) 435-4247",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

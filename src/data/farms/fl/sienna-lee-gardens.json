@@ -1,0 +1,20 @@
+{
+  "slug": "sienna-lee-gardens",
+  "name": "Sienna Lee Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Tallahassee, FL",
+  "locationCity": "Tallahassee",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "(323) 493-7131",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

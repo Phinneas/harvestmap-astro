@@ -1,0 +1,28 @@
+{
+  "slug": "king-s-market",
+  "name": "King's Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Edisto Is, SC",
+  "locationCity": "Edisto Is",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "843-869-3600",
+  "crops": [
+    "Strawberries",
+    "Peaches",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Peas",
+    "Flowers",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

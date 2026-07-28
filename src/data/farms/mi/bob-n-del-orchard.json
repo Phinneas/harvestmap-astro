@@ -1,0 +1,20 @@
+{
+  "slug": "bob-n-del-orchard",
+  "name": "Bob N Del Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Osseo, MI",
+  "locationCity": "Osseo",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "517-523-3724",
+  "crops": [
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

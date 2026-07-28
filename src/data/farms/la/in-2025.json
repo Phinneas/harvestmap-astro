@@ -1,0 +1,30 @@
+{
+  "slug": "in-2025",
+  "name": "In 2025,",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "New Iberia, LA",
+  "locationCity": "New Iberia",
+  "locationState": "LA",
+  "locationZipcode": "",
+  "phone": "337-365-1690",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Pears",
+    "Peaches",
+    "Persimmons",
+    "Figs",
+    "Citrus",
+    "Oranges",
+    "Lemons",
+    "Pecans"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:27.942Z"
+    }
+  ]
+}

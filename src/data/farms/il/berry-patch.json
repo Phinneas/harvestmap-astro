@@ -1,0 +1,20 @@
+{
+  "slug": "berry-patch",
+  "name": "Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Stauton, IL",
+  "locationCity": "Stauton",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "618-637-2686",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

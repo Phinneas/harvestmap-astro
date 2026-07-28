@@ -1,0 +1,21 @@
+{
+  "slug": "first-fruits-farm",
+  "name": "First Fruits Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Summit, MS",
+  "locationCity": "Summit",
+  "locationState": "MS",
+  "locationZipcode": "",
+  "phone": "1000647427",
+  "crops": [
+    "Blueberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:33.920Z"
+    }
+  ]
+}

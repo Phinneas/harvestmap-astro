@@ -1,0 +1,20 @@
+{
+  "slug": "blueberry-hill-canton",
+  "name": "Blueberry Hill Canton",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Canton, MS",
+  "locationCity": "Canton",
+  "locationState": "MS",
+  "locationZipcode": "",
+  "phone": "601-201-0763",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:33.920Z"
+    }
+  ]
+}

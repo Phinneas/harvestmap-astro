@@ -1,0 +1,22 @@
+{
+  "slug": "don-baker-farm",
+  "name": "Don Baker Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hudson, NY",
+  "locationCity": "Hudson",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "518-828-9542",
+  "crops": [
+    "Apples",
+    "Pears",
+    "Cherries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "2024-prices",
+  "name": "2024 prices",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Weedsport, NY",
+  "locationCity": "Weedsport",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "1000576119",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

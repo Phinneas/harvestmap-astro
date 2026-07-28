@@ -1,0 +1,23 @@
+{
+  "slug": "legare-farm-market-barre",
+  "name": "Legare Farm Market (Barre)",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Barre, VT",
+  "locationCity": "Barre",
+  "locationState": "VT",
+  "locationZipcode": "",
+  "phone": "802-476-5037",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:07.101Z"
+    }
+  ]
+}

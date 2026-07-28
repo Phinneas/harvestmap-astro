@@ -1,0 +1,20 @@
+{
+  "slug": "d-s-blueberry-patch",
+  "name": "D's Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mt Vernon, OH",
+  "locationCity": "Mt Vernon",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "phone": "740-501-1539",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

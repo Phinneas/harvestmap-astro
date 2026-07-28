@@ -9,11 +9,22 @@
   "locationZipcode": "",
   "lat": 44.1402232852486,
   "lon": -70.2917445126417,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Wallingford%27s+Fruit+House&amp;ES=ME&amp;EC=Androscoggin+County&amp;EP=+207-784-7958&amp;ECT=Auburn&amp;EZ=&amp;EA=1240+Perkins+Ridge&amp;EA2=&amp;EW=https%3A%2F%2Fwallingfordsorchard.com%2Fu-pick.html&amp;RD=NR&amp;EF=Wallingfords-Fruit-House-117370934945289&amp;EM=maineapples%40adelphia.net&amp;EX=US&amp;PG=MEaugusta.htm&amp;OP=Daily+June+1st+to+December+31st+from+8+am+to+6+pm%3B%3B+&amp;IG=&amp;TW=&amp;DS=&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:16.490Z"
+      "lastSeen": "2026-07-28T19:28:41.877Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.182Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:16.490Z"
+  "usdaLastUpdated": "2026-07-28T19:28:41.877Z",
+  "crops": [
+    "Raspberries",
+    "Apples",
+    "Pumpkins"
+  ],
+  "phone": "207-784-7958"
 }

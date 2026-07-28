@@ -1,0 +1,24 @@
+{
+  "slug": "schaer-s-country-market",
+  "name": "Schaer's Country Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "East Peoria, IL",
+  "locationCity": "East Peoria",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "1353127702",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Corn",
+    "Tomatoes",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

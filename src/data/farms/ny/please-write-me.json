@@ -1,0 +1,20 @@
+{
+  "slug": "please-write-me",
+  "name": "please write me",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Owego, NY",
+  "locationCity": "Owego",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "607-699-7246",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

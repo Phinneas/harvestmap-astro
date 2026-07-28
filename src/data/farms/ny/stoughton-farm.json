@@ -1,0 +1,25 @@
+{
+  "slug": "stoughton-farm",
+  "name": "Stoughton Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Newark Valley, NY",
+  "locationCity": "Newark Valley",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "607-642-3675",
+  "crops": [
+    "Raspberries",
+    "Apples",
+    "Pumpkins",
+    "Corn",
+    "Green beans",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

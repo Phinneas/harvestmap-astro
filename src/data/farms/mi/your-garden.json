@@ -1,0 +1,23 @@
+{
+  "slug": "your-garden",
+  "name": "Your Garden",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Perry, MI",
+  "locationCity": "Perry",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "517-625-7774",
+  "crops": [
+    "Pumpkins",
+    "Corn",
+    "Flowers",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

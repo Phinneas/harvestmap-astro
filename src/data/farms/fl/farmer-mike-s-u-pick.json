@@ -1,0 +1,22 @@
+{
+  "slug": "farmer-mike-s-u-pick",
+  "name": "Farmer Mike's U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bonita Springs, FL",
+  "locationCity": "Bonita Springs",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "(239) 498-4576",
+  "crops": [
+    "Strawberries",
+    "Corn",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

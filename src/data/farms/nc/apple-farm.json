@@ -1,0 +1,20 @@
+{
+  "slug": "apple-farm",
+  "name": "Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Gibsonville, NC",
+  "locationCity": "Gibsonville",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "1000664882",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

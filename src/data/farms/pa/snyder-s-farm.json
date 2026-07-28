@@ -1,0 +1,22 @@
+{
+  "slug": "snyder-s-farm",
+  "name": "Snyder's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Chicora, PA",
+  "locationCity": "Chicora",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "2169552663",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

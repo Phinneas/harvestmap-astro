@@ -1,0 +1,22 @@
+{
+  "slug": "woodlife-farm",
+  "name": "Woodlife Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "New Lebanon, NY",
+  "locationCity": "New Lebanon",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "(877) 899-2232",
+  "crops": [
+    "Flowers",
+    "Sunflowers",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

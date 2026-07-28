@@ -1,0 +1,20 @@
+{
+  "slug": "westbury-farms",
+  "name": "Westbury Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Harleyville, SC",
+  "locationCity": "Harleyville",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "843-560-0686",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

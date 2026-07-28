@@ -1,0 +1,20 @@
+{
+  "slug": "certified-organic",
+  "name": "Certified Organic",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fennville, MI",
+  "locationCity": "Fennville",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "269-561-2850",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

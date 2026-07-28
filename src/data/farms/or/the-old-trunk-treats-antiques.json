@@ -1,0 +1,22 @@
+{
+  "slug": "the-old-trunk-treats-antiques",
+  "name": "The Old Trunk, Treats Antiques",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hood River, OR",
+  "locationCity": "Hood River",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "541-354-1181",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

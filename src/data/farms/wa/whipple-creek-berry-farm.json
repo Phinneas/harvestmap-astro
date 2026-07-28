@@ -1,0 +1,20 @@
+{
+  "slug": "whipple-creek-berry-farm",
+  "name": "Whipple Creek Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Toledo, WA",
+  "locationCity": "Toledo",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "phone": "360-864-8301",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.975Z"
+    }
+  ]
+}

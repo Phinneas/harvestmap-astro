@@ -1,0 +1,21 @@
+{
+  "slug": "the-ranch-house-farm",
+  "name": "The Ranch House Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Canterbury, NH",
+  "locationCity": "Canterbury",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "phone": "603-267-7551",
+  "crops": [
+    "Blueberries",
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:23.079Z"
+    }
+  ]
+}

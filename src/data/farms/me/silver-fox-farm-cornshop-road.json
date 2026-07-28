@@ -12,8 +12,17 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:16.507Z"
+      "lastSeen": "2026-07-28T19:28:41.893Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.211Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:16.507Z"
+  "usdaLastUpdated": "2026-07-28T19:28:41.893Z",
+  "crops": [
+    "Corn",
+    "Flowers"
+  ],
+  "phone": "207-935-6304"
 }

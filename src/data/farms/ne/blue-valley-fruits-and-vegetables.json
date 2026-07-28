@@ -1,0 +1,27 @@
+{
+  "slug": "blue-valley-fruits-and-vegetables",
+  "name": "Blue Valley Fruits and Vegetables",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ulysses, NE",
+  "locationCity": "Ulysses",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "phone": "(402) 549-2172",
+  "crops": [
+    "Apples",
+    "Cherries",
+    "Corn",
+    "Eggplant",
+    "Grapes",
+    "Asparagus",
+    "Peas",
+    "Herbs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:34.672Z"
+    }
+  ]
+}

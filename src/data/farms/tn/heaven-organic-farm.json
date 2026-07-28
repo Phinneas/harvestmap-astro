@@ -1,0 +1,28 @@
+{
+  "slug": "heaven-organic-farm",
+  "name": "Heaven Organic Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Murfreesboro, TN",
+  "locationCity": "Murfreesboro",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "phone": "615-669-2463",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Pumpkins",
+    "Tomatoes",
+    "Herbs",
+    "Flowers",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:13.166Z"
+    }
+  ]
+}

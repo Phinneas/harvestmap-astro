@@ -1,0 +1,22 @@
+{
+  "slug": "fir-point-farms",
+  "name": "Fir Point Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Aurora, OR",
+  "locationCity": "Aurora",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "503-678-2455",
+  "crops": [
+    "Apples",
+    "Corn",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

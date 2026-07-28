@@ -1,0 +1,27 @@
+{
+  "slug": "bacchini-s-fruit-tree",
+  "name": "Bacchini's Fruit Tree",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brentwood, CA",
+  "locationCity": "Brentwood",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "925-634-3645",
+  "crops": [
+    "Peaches",
+    "Nectarines",
+    "Apricots",
+    "Plums",
+    "Cherries",
+    "Corn",
+    "Walnuts",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "fulton-farms",
+  "name": "Fulton Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Troy, OH",
+  "locationCity": "Troy",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "phone": "937-339-8246",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Apples",
+    "Peaches",
+    "Lemons",
+    "Limes",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Asparagus",
+    "Green beans",
+    "Peas",
+    "Honey",
+    "Eggs",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

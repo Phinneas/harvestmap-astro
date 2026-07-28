@@ -1,0 +1,21 @@
+{
+  "slug": "big-cypress-farm",
+  "name": "Big Cypress Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Wilmington, NC",
+  "locationCity": "Wilmington",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(910) 791-4436",
+  "crops": [
+    "Blueberries",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

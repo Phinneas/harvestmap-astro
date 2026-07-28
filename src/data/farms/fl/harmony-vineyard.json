@@ -1,0 +1,20 @@
+{
+  "slug": "harmony-vineyard",
+  "name": "Harmony Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Altha, FL",
+  "locationCity": "Altha",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "850-762-8805",
+  "crops": [
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.322Z"
+    }
+  ]
+}

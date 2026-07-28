@@ -1,0 +1,22 @@
+{
+  "slug": "sandy-run-farm",
+  "name": "Sandy Run Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Purvis, MS",
+  "locationCity": "Purvis",
+  "locationState": "MS",
+  "locationZipcode": "",
+  "phone": "601-296-0630",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:33.920Z"
+    }
+  ]
+}

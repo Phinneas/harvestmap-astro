@@ -1,0 +1,20 @@
+{
+  "slug": "stumpf-peach-orchard",
+  "name": "Stumpf Peach Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Alhambra, IL",
+  "locationCity": "Alhambra",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "618-488-7423",
+  "crops": [
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

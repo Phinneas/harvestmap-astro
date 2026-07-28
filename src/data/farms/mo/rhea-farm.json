@@ -1,0 +1,20 @@
+{
+  "slug": "rhea-farm",
+  "name": "Rhea Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fair Grove, MO",
+  "locationCity": "Fair Grove",
+  "locationState": "MO",
+  "locationZipcode": "",
+  "phone": "573-280-8050",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:58.887Z"
+    }
+  ]
+}

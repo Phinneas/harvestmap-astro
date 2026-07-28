@@ -1,0 +1,24 @@
+{
+  "slug": "hatch-patch",
+  "name": "Hatch Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Pasco, WA",
+  "locationCity": "Pasco",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "phone": "509-380-7053",
+  "crops": [
+    "Apples",
+    "Pears",
+    "Cherries",
+    "Corn",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.975Z"
+    }
+  ]
+}

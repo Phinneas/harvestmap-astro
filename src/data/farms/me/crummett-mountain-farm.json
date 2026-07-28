@@ -1,0 +1,20 @@
+{
+  "slug": "crummett-mountain-farm",
+  "name": "Crummett Mountain Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Somerville, ME",
+  "locationCity": "Somerville",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "phone": "207-549-7314",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.225Z"
+    }
+  ]
+}

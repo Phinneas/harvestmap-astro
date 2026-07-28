@@ -1,0 +1,31 @@
+{
+  "slug": "indigo-farms",
+  "name": "Indigo Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Calabash, NC",
+  "locationCity": "Calabash",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(910) 287-6794",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Peaches",
+    "Persimmons",
+    "Figs",
+    "Pumpkins",
+    "Corn",
+    "Tomatoes",
+    "Grapes",
+    "Asparagus",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "steele-orchard",
+  "name": "Steele Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "AL",
+  "locationCity": "",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "256-734-5249",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

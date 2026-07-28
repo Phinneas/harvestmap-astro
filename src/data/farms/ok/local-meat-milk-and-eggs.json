@@ -1,0 +1,19 @@
+{
+  "slug": "local-meat-milk-and-eggs",
+  "name": "Local Meat, Milk and Eggs",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "OK",
+  "locationCity": "",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "crops": [
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:45.184Z"
+    }
+  ]
+}

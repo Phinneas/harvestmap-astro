@@ -1,0 +1,20 @@
+{
+  "slug": "texarkana-blueberry-patch",
+  "name": "Texarkana Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Texarkana, AR",
+  "locationCity": "Texarkana",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "phone": "(903) 293-7545",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:18.748Z"
+    }
+  ]
+}

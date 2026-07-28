@@ -1,0 +1,20 @@
+{
+  "slug": "cascade-farms",
+  "name": "Cascade Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cheraw, SC",
+  "locationCity": "Cheraw",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "843-229-0515",
+  "crops": [
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

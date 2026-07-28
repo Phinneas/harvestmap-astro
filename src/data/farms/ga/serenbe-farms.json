@@ -1,0 +1,22 @@
+{
+  "slug": "serenbe-farms",
+  "name": "Serenbe Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hill Country, GA",
+  "locationCity": "Hill Country",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "770.463.9319",
+  "crops": [
+    "Herbs",
+    "Flowers",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

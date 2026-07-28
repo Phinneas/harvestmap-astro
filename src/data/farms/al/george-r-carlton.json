@@ -1,0 +1,20 @@
+{
+  "slug": "george-r-carlton",
+  "name": "George R. Carlton",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Alexander City, AL",
+  "locationCity": "Alexander City",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "(256) 234-2486",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "dr-davies-farm",
+  "name": "Dr. Davies Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Congers, NY",
+  "locationCity": "Congers",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "914-268-7020",
+  "crops": [
+    "Apples",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

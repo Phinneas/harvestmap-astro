@@ -1,0 +1,23 @@
+{
+  "slug": "oakhurst-farm",
+  "name": "Oakhurst Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "West Point, GA",
+  "locationCity": "West Point",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "(706) 315-8260",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

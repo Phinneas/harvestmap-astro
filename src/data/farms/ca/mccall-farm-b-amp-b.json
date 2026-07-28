@@ -1,0 +1,26 @@
+{
+  "slug": "mccall-farm-b-amp-b",
+  "name": "McCall Farm B&amp;B",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cambria, CA",
+  "locationCity": "Cambria",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "805-927-3140",
+  "crops": [
+    "Apples",
+    "Plums",
+    "Oranges",
+    "Avocados",
+    "Pumpkins",
+    "Tomatoes",
+    "Peppers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

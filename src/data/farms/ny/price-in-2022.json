@@ -1,0 +1,22 @@
+{
+  "slug": "price-in-2022",
+  "name": "price (in 2022)",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Leonardsville, NY",
+  "locationCity": "Leonardsville",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "(315) 272-8849",
+  "crops": [
+    "Apples",
+    "Pumpkins",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

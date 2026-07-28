@@ -1,0 +1,29 @@
+{
+  "slug": "callaham-orchards",
+  "name": "Callaham Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Belton, SC",
+  "locationCity": "Belton",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "1528228580",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Peaches",
+    "Nectarines",
+    "Plums",
+    "Figs",
+    "Pumpkins",
+    "Squash",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

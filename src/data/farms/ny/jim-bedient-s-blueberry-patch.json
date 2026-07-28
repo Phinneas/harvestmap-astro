@@ -1,0 +1,21 @@
+{
+  "slug": "jim-bedient-s-blueberry-patch",
+  "name": "Jim Bedient's Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Branchport, NY",
+  "locationCity": "Branchport",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "315-595 6674",
+  "crops": [
+    "Strawberries",
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

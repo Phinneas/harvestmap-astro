@@ -1,0 +1,20 @@
+{
+  "slug": "larrys-berries",
+  "name": "Larrys Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sutherlin, OR",
+  "locationCity": "Sutherlin",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "(541) 459-4764",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

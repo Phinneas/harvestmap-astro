@@ -9,11 +9,22 @@
   "locationZipcode": "18444",
   "lat": 44.87352699268308,
   "lon": -91.29926301133784,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Bushel+and+a+Peck+Market&amp;ES=WI&amp;EC=Chippewa+County&amp;EP=+715-723-0133&amp;ECT=Chippewa+Falls&amp;EZ=&amp;EA=18444+Cty+Hwy+OO&amp;EA2=&amp;EW=https%3A%2F%2Fwww.bushelandapeckmarket.com&amp;RD=RD&amp;EF=p%2FBushel-and-a-Peck-Apple-Orchard-100064854787897%2F&amp;EM=No+match.+&amp;EX=US&amp;PG=WIwest.htm&amp;OP=9+to+6+pm+every+day+of+the+apple+season%3B%3B+&amp;IG=&amp;TW=&amp;DS=Apples%2C+cider%2C+jams+and+jellies+and+maple+syrup.+Crafts%2C+vegetables%2C+caramel+apples%2C+pick+your+own+raspberries+and+apples+%28late+Aug-Oct%29.+Fresh+baked+goods+from+our+own+bakery.+Our+raspberries+are+everbearing+and+we+sell+them+as+%22you+pick%22+during+the+apple+season.+Therefore%2C+we+begin+our+berry+sales+in+late+August+and+the+raspberries+will+bear+until+frost+in+Oct.+The+everbearing+strawberries+are+grown+organically+%28in+the+confines+of+an+IPM+orchard%29+.&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:27:37.077Z"
+      "lastSeen": "2026-07-28T19:41:37.457Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:42.999Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:27:37.077Z"
+  "usdaLastUpdated": "2026-07-28T19:41:37.457Z",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Apples"
+  ],
+  "phone": "715-723-0133"
 }

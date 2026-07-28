@@ -9,11 +9,23 @@
   "locationZipcode": "",
   "lat": 45.71229398516579,
   "lon": -92.18096001640939,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Timberland+Orchard&amp;ES=WI&amp;EC=Polk+County&amp;EP=+715-575-5755&amp;ECT=Frederic&amp;EZ=&amp;EA=139+350th+Avenue&amp;EA2=&amp;EW=https%3A%2F%2Fwww.timberlandhillsorchard.com&amp;RD=NR&amp;EF=&amp;EM=staff%40timberlandhillsorchard.com&amp;EX=US&amp;PG=WIwest.htm&amp;OP=10+to+5+daily+from+the+last+Friday+of+August+until+Halloween%3B%3B+&amp;IG=&amp;TW=&amp;DS=Pick+your+own%2C+every+day+in+season.+Apples%2C+apple+cider%2C+gift+baskets%2C+honey%2C+jams+and+jellies%2C+maple+syrup%2C+popcorn%2C+pumpkins.Formerly+called+Indian+Creek+Orchard&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:27:29.841Z"
+      "lastSeen": "2026-07-28T19:41:30.030Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:42.925Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:27:29.841Z"
+  "usdaLastUpdated": "2026-07-28T19:41:30.030Z",
+  "crops": [
+    "Apples",
+    "Pumpkins",
+    "Corn",
+    "Honey"
+  ],
+  "phone": "715-575-5755"
 }

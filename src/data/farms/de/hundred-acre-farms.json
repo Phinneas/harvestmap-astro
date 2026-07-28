@@ -1,0 +1,22 @@
+{
+  "slug": "hundred-acre-farms",
+  "name": "Hundred Acre Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Smyrna, DE",
+  "locationCity": "Smyrna",
+  "locationState": "DE",
+  "locationZipcode": "",
+  "phone": "(302) 406-0110",
+  "crops": [
+    "Strawberries",
+    "Blackberries",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:24:38.411Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "t-and-t-strawberry-patch",
+  "name": "T and T Strawberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ashland City, TN",
+  "locationCity": "Ashland City",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "phone": "(615) 792-5988",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:13.166Z"
+    }
+  ]
+}

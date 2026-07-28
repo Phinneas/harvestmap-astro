@@ -1,0 +1,21 @@
+{
+  "slug": "shaken-creek-farms",
+  "name": "Shaken Creek Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Burgaw, NC",
+  "locationCity": "Burgaw",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(910) 540-4611",
+  "crops": [
+    "Blueberries",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

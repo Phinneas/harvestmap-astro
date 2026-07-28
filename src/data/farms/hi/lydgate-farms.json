@@ -1,0 +1,20 @@
+{
+  "slug": "lydgate-farms",
+  "name": "Lydgate Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Kapaa, HI",
+  "locationCity": "Kapaa",
+  "locationState": "HI",
+  "locationZipcode": "",
+  "phone": "808-821-1857",
+  "crops": [
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:15.979Z"
+    }
+  ]
+}

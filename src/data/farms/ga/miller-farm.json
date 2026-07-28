@@ -1,0 +1,25 @@
+{
+  "slug": "miller-farm",
+  "name": "Miller Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Greenville, GA",
+  "locationCity": "Greenville",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "1000642626",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Corn",
+    "Honey",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

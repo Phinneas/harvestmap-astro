@@ -1,0 +1,27 @@
+{
+  "slug": "certified-organic",
+  "name": "Certified Organic",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Santa Ynez, CA",
+  "locationCity": "Santa Ynez",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "(805) 245-0989",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Blackberries",
+    "Apples",
+    "Pumpkins",
+    "Corn",
+    "Honey",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

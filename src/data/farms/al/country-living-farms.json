@@ -1,0 +1,21 @@
+{
+  "slug": "country-living-farms",
+  "name": "Country Living Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Seale, AL",
+  "locationCity": "Seale",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "334-855-4311",
+  "crops": [
+    "Blueberries",
+    "Figs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

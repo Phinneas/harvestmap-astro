@@ -1,0 +1,20 @@
+{
+  "slug": "schantz-s-blueberries",
+  "name": "Schantz's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Saginaw, MI",
+  "locationCity": "Saginaw",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "989-642-8892",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

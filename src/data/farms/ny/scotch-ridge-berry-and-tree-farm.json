@@ -1,0 +1,23 @@
+{
+  "slug": "scotch-ridge-berry-and-tree-farm",
+  "name": "Scotch Ridge Berry and Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Duanesburg, NY",
+  "locationCity": "Duanesburg",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "2156973417",
+  "crops": [
+    "Blueberries",
+    "Herbs",
+    "Flowers",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

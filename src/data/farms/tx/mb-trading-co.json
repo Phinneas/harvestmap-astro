@@ -1,0 +1,20 @@
+{
+  "slug": "mb-trading-co",
+  "name": "MB Trading Co.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cleveland, TX",
+  "locationCity": "Cleveland",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "281-592-0651",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "eagle-creek-orchard",
+  "name": "Eagle Creek Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Richland, OR",
+  "locationCity": "Richland",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "6157221048",
+  "crops": [
+    "Apricots",
+    "Cherries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

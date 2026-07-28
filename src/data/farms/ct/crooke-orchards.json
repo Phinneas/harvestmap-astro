@@ -1,0 +1,25 @@
+{
+  "slug": "crooke-orchards",
+  "name": "Crooke Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ashford, CT",
+  "locationCity": "Ashford",
+  "locationState": "CT",
+  "locationZipcode": "",
+  "website": "https://www.facebook.com/profile.php?id=61558971607972",
+  "phone": "860-477-0251",
+  "crops": [
+    "Blueberries",
+    "Apples",
+    "Peaches",
+    "Pumpkins",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:24:25.507Z"
+    }
+  ]
+}

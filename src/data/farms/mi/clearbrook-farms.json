@@ -1,0 +1,20 @@
+{
+  "slug": "clearbrook-farms",
+  "name": "Clearbrook Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Traverse City, MI",
+  "locationCity": "Traverse City",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "231-947-7366",
+  "crops": [
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

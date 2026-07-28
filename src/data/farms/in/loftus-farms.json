@@ -1,0 +1,22 @@
+{
+  "slug": "loftus-farms",
+  "name": "Loftus Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Georgetown, IN",
+  "locationCity": "Georgetown",
+  "locationState": "IN",
+  "locationZipcode": "",
+  "phone": "502-552-0938",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Green beans"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:27:18.483Z"
+    }
+  ]
+}

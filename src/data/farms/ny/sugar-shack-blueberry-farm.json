@@ -1,0 +1,22 @@
+{
+  "slug": "sugar-shack-blueberry-farm",
+  "name": "Sugar Shack Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Penn Yan, NY",
+  "locationCity": "Penn Yan",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "585-526-5442",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

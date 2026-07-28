@@ -1,0 +1,21 @@
+{
+  "slug": "bloom-ridge-farm-u-pick-flowers",
+  "name": "Bloom Ridge Farm U-Pick Flowers",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Carbondale, IL",
+  "locationCity": "Carbondale",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "(618) 924-1977",
+  "crops": [
+    "Flowers",
+    "Lavender"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

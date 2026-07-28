@@ -1,0 +1,20 @@
+{
+  "slug": "please-write-me",
+  "name": "please write me",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Blackfoot, ID",
+  "locationCity": "Blackfoot",
+  "locationState": "ID",
+  "locationZipcode": "",
+  "phone": "208-684-4573",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:33.027Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "dalton-farms",
+  "name": "Dalton Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Swedesboro, NJ",
+  "locationCity": "Swedesboro",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "856-628-7313",
+  "crops": [
+    "Corn",
+    "Flowers",
+    "Sunflowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

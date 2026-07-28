@@ -1,0 +1,20 @@
+{
+  "slug": "lewis-farm-route",
+  "name": "Lewis Farm Route",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Indian Mills, NJ",
+  "locationCity": "Indian Mills",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "(856) 596-6852",
+  "crops": [
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

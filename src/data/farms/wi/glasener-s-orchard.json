@@ -1,0 +1,24 @@
+{
+  "slug": "glasener-s-orchard",
+  "name": "Glasener's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Herbster, WI",
+  "locationCity": "Herbster",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "phone": "715-774-3824",
+  "crops": [
+    "Raspberries",
+    "Apples",
+    "Pears",
+    "Cherries",
+    "Herbs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

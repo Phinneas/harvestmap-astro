@@ -1,0 +1,21 @@
+{
+  "slug": "bayfield-apple-co",
+  "name": "Bayfield Apple Co.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bayfield, WI",
+  "locationCity": "Bayfield",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "phone": "715-779-5700",
+  "crops": [
+    "Raspberries",
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

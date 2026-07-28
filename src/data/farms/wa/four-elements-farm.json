@@ -1,0 +1,21 @@
+{
+  "slug": "four-elements-farm",
+  "name": "Four Elements Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Puyallup, WA",
+  "locationCity": "Puyallup",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "phone": "253-251-1361",
+  "crops": [
+    "Blueberries",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.975Z"
+    }
+  ]
+}

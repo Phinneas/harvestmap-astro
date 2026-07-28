@@ -1,0 +1,26 @@
+{
+  "slug": "moretz-s-mountain-apples",
+  "name": "Moretz's Mountain Apples",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Boone, NC",
+  "locationCity": "Boone",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "828-264-3424",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Apples",
+    "Pears",
+    "Plums",
+    "Cherries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

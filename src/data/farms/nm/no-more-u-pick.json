@@ -1,0 +1,28 @@
+{
+  "slug": "no-more-u-pick",
+  "name": "NO MORE U-PICK",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Gallina, NM",
+  "locationCity": "Gallina",
+  "locationState": "NM",
+  "locationZipcode": "",
+  "phone": "575-638-0040",
+  "crops": [
+    "Strawberries",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Eggplant",
+    "Herbs",
+    "Flowers",
+    "Honey",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:12.509Z"
+    }
+  ]
+}

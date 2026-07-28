@@ -1,0 +1,28 @@
+{
+  "slug": "schwartz-farms-mt-vernon",
+  "name": "Schwartz Farms Mt. Vernon",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dix, IL",
+  "locationCity": "Dix",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "1000856088",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Pears",
+    "Peaches",
+    "Pumpkins",
+    "Tomatoes",
+    "Flowers",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

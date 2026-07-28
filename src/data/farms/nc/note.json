@@ -1,0 +1,20 @@
+{
+  "slug": "note",
+  "name": "NOTE",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fayetteville, NC",
+  "locationCity": "Fayetteville",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "910-483-1670",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

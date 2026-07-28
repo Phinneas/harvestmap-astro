@@ -1,0 +1,20 @@
+{
+  "slug": "five-oak-farms",
+  "name": "Five Oak Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Holly Pond, AL",
+  "locationCity": "Holly Pond",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "256-338-6376",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

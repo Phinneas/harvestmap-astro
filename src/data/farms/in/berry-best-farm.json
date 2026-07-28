@@ -1,0 +1,24 @@
+{
+  "slug": "berry-best-farm",
+  "name": "Berry Best Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Nabb, IN",
+  "locationCity": "Nabb",
+  "locationState": "IN",
+  "locationZipcode": "",
+  "phone": "812-293-3541",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Corn",
+    "Tomatoes",
+    "Asparagus"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:27:18.483Z"
+    }
+  ]
+}

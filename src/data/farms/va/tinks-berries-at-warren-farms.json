@@ -1,0 +1,20 @@
+{
+  "slug": "tinks-berries-at-warren-farms",
+  "name": "Tinks Berries at Warren Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Chesapeake, VA",
+  "locationCity": "Chesapeake",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "phone": "757-620-4781",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:26.954Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "gurosik-s-berry-plantation",
+  "name": "Gurosik's Berry Plantation",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "North Augusta, SC",
+  "locationCity": "North Augusta",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "803-278-0594",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Corn",
+    "Tomatoes",
+    "Asparagus",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

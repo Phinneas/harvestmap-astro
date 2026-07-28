@@ -1,0 +1,21 @@
+{
+  "slug": "riverhill-farm",
+  "name": "Riverhill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Nevada City, CA",
+  "locationCity": "Nevada City",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "(530) 263-1886",
+  "crops": [
+    "Raspberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

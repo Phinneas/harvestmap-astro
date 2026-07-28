@@ -1,0 +1,20 @@
+{
+  "slug": "brickel-berry-farm",
+  "name": "Brickel Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hemlock, MI",
+  "locationCity": "Hemlock",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "(989) 274-3199",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

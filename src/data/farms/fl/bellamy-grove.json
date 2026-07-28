@@ -1,0 +1,22 @@
+{
+  "slug": "bellamy-grove",
+  "name": "Bellamy Grove",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Inverness, FL",
+  "locationCity": "Inverness",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "352-726-6378",
+  "crops": [
+    "Strawberries",
+    "Citrus",
+    "Oranges"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

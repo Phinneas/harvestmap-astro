@@ -1,0 +1,22 @@
+{
+  "slug": "big-hart-farm",
+  "name": "Big Hart Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hartwell, GA",
+  "locationCity": "Hartwell",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "(404) 434-3943",
+  "crops": [
+    "Pumpkins",
+    "Flowers",
+    "Sunflowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

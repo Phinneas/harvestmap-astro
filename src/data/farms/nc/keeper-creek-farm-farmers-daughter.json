@@ -1,0 +1,23 @@
+{
+  "slug": "keeper-creek-farm-farmers-daughter",
+  "name": "Keeper Creek Farm Farmers Daughter",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mt Ulla, NC",
+  "locationCity": "Mt Ulla",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "704-201-8475",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Lavender"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

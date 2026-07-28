@@ -1,0 +1,22 @@
+{
+  "slug": "please-write-me",
+  "name": "please write me",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Grantville, GA",
+  "locationCity": "Grantville",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "678-416-3955",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

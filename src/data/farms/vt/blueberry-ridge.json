@@ -1,0 +1,20 @@
+{
+  "slug": "blueberry-ridge",
+  "name": "Blueberry Ridge",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Troy, VT",
+  "locationCity": "Troy",
+  "locationState": "VT",
+  "locationZipcode": "",
+  "phone": "802-988-4702",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:07.101Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "hillside-apples",
+  "name": "Hillside Apples",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Casco, WI",
+  "locationCity": "Casco",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "phone": "920-837-7440",
+  "crops": [
+    "Apples",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

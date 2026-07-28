@@ -1,0 +1,20 @@
+{
+  "slug": "maria-s-vineyard",
+  "name": "Maria's Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dothan, AL",
+  "locationCity": "Dothan",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "334-702 0679",
+  "crops": [
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "appleberry-farm",
+  "name": "Appleberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "West Suffield, CT",
+  "locationCity": "West Suffield",
+  "locationState": "CT",
+  "locationZipcode": "",
+  "website": "https://thesuffieldobserver.com/2022/09/vincent-farms-half-tobacco-half-produce/",
+  "crops": [
+    "Raspberries",
+    "Apples",
+    "Pears",
+    "Peaches",
+    "Pumpkins",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:24:25.507Z"
+    }
+  ]
+}

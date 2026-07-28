@@ -1,0 +1,21 @@
+{
+  "slug": "nances-creek-farm",
+  "name": "Nances Creek Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Jacksonville, AL",
+  "locationCity": "Jacksonville",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "256-689-6241",
+  "crops": [
+    "Strawberries",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

@@ -12,8 +12,18 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:17:54.979Z"
+      "lastSeen": "2026-07-28T19:23:23.900Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.007Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:17:54.979Z"
+  "usdaLastUpdated": "2026-07-28T19:23:23.900Z",
+  "crops": [
+    "Strawberries",
+    "Blackberries",
+    "Cherries"
+  ],
+  "phone": "925-291-0106"
 }

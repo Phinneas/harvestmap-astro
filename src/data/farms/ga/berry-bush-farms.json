@@ -1,0 +1,23 @@
+{
+  "slug": "berry-bush-farms",
+  "name": "Berry Bush Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Colbert, GA",
+  "locationCity": "Colbert",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "706-338-0065",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Pecans",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

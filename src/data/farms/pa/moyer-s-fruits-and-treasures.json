@@ -1,0 +1,24 @@
+{
+  "slug": "moyer-s-fruits-and-treasures",
+  "name": "Moyer's Fruits and Treasures",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bernville, PA",
+  "locationCity": "Bernville",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "610-488-0850",
+  "crops": [
+    "Apples",
+    "Peaches",
+    "Nectarines",
+    "Flowers",
+    "Sunflowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

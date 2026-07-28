@@ -1,0 +1,21 @@
+{
+  "slug": "arbor-hill-blackberry-farm",
+  "name": "Arbor Hill Blackberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Canton, GA",
+  "locationCity": "Canton",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "(404) 644-9470",
+  "crops": [
+    "Blackberries",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

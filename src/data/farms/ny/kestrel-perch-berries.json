@@ -1,0 +1,23 @@
+{
+  "slug": "kestrel-perch-berries",
+  "name": "Kestrel Perch Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ithaca, NY",
+  "locationCity": "Ithaca",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "607-275-0272",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

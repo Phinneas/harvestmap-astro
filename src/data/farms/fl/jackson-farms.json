@@ -1,0 +1,25 @@
+{
+  "slug": "jackson-farms",
+  "name": "Jackson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Grand Ridge, FL",
+  "locationCity": "Grand Ridge",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "850-592-5579",
+  "crops": [
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.322Z"
+    }
+  ]
+}

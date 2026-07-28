@@ -1,0 +1,20 @@
+{
+  "slug": "hubert-brand",
+  "name": "Hubert Brand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Moody, AL",
+  "locationCity": "Moody",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "(205) 640-5971",
+  "crops": [
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

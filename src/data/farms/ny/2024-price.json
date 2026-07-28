@@ -1,0 +1,19 @@
+{
+  "slug": "2024-price",
+  "name": "2024 price",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Utica, NY",
+  "locationCity": "Utica",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "knaebe-s-mmmunchy-krunchy-apple-farm",
+  "name": "Knaebe's Mmmunchy Krunchy Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rogers City, MI",
+  "locationCity": "Rogers City",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "crops": [
+    "Apples",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

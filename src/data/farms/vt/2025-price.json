@@ -1,0 +1,20 @@
+{
+  "slug": "2025-price",
+  "name": "2025 price:",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Stowe, VT",
+  "locationCity": "Stowe",
+  "locationState": "VT",
+  "locationZipcode": "",
+  "phone": "802-253-9671",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:07.101Z"
+    }
+  ]
+}

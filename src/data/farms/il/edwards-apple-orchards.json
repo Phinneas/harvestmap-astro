@@ -1,0 +1,23 @@
+{
+  "slug": "edwards-apple-orchards",
+  "name": "Edwards Apple Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Winnebago, IL",
+  "locationCity": "Winnebago",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "2962415171",
+  "crops": [
+    "Raspberries",
+    "Apples",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

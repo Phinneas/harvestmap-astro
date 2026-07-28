@@ -1,0 +1,20 @@
+{
+  "slug": "jordan-farms",
+  "name": "Jordan Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fort Lawn, SC",
+  "locationCity": "Fort Lawn",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "(803) 448-4475",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

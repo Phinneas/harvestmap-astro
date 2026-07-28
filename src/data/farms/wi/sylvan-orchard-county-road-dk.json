@@ -9,11 +9,20 @@
   "locationZipcode": "",
   "lat": 44.6398,
   "lon": -87.76814,
+  "website": "https://www.pickyourown.org/feedback.htm?QFROMWEB=PYO&amp;QSUBJECT=&amp;QFROMPAGE=/WIgrnb.htm",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:27:29.808Z"
+      "lastSeen": "2026-07-28T19:41:29.999Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:42.895Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:27:29.808Z"
+  "usdaLastUpdated": "2026-07-28T19:41:29.999Z",
+  "crops": [
+    "Apples"
+  ],
+  "phone": "920-866-9502"
 }

@@ -1,0 +1,20 @@
+{
+  "slug": "charles-gamble",
+  "name": "Charles Gamble",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "AL",
+  "locationCity": "",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "205-529-5999",
+  "crops": [
+    "Plums"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

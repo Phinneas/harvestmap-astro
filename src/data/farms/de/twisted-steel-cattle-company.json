@@ -1,0 +1,20 @@
+{
+  "slug": "twisted-steel-cattle-company",
+  "name": "Twisted Steel Cattle Company",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Harrington, DE",
+  "locationCity": "Harrington",
+  "locationState": "DE",
+  "locationZipcode": "",
+  "phone": "(302) 566-6943",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:24:38.411Z"
+    }
+  ]
+}

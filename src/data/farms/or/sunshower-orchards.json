@@ -1,0 +1,22 @@
+{
+  "slug": "sunshower-orchards",
+  "name": "Sunshower Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cornelius, OR",
+  "locationCity": "Cornelius",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "503-357-6423",
+  "crops": [
+    "Apples",
+    "Corn",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

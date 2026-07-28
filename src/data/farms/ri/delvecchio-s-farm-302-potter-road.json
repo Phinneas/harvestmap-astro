@@ -9,11 +9,20 @@
   "locationZipcode": "",
   "lat": 41.6227480031656,
   "lon": -71.4423459635313,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Delvecchio%27s+Farm&amp;ES=RI&amp;EC=Washington+County&amp;EP=+401-884-9598&amp;ECT=North+Kingstown&amp;EZ=&amp;EA=302+Potter+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.facebook.com%2FDel-Vecchio-Farm-207990815910615&amp;RD=NW&amp;EF=Del-Vecchio-Farm-207990815910615&amp;EM=No+match.+&amp;EX=US&amp;PG=RIsouth.htm&amp;OP=daily+from+8+am+to+6+pm%3B+from+late+June+to+early+september+depending+on+the+season+there+is+blueberry+picking%3B%3B+&amp;IG=&amp;TW=&amp;DS=&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:25:34.427Z"
+      "lastSeen": "2026-07-28T19:37:59.862Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:08.762Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:25:34.427Z"
+  "usdaLastUpdated": "2026-07-28T19:37:59.862Z",
+  "crops": [
+    "Blueberries"
+  ],
+  "phone": "2079908159"
 }

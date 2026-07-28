@@ -1,0 +1,20 @@
+{
+  "slug": "thimble-farm",
+  "name": "Thimble Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Vineyard Haven, MA",
+  "locationCity": "Vineyard Haven",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries",
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:29:34.313Z"
+    }
+  ]
+}

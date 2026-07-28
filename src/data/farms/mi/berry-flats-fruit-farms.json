@@ -1,0 +1,21 @@
+{
+  "slug": "berry-flats-fruit-farms",
+  "name": "Berry Flats Fruit Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Kingsley, MI",
+  "locationCity": "Kingsley",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "1000833082",
+  "crops": [
+    "Strawberries",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

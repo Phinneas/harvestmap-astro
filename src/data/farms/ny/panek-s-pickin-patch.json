@@ -1,0 +1,22 @@
+{
+  "slug": "panek-s-pickin-patch",
+  "name": "Panek's Pickin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Albion, NY",
+  "locationCity": "Albion",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "585-589-6155",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

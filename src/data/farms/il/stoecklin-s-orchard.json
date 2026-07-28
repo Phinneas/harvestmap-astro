@@ -1,0 +1,23 @@
+{
+  "slug": "stoecklin-s-orchard",
+  "name": "Stoecklin's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Donnellson, IL",
+  "locationCity": "Donnellson",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "2047399028",
+  "crops": [
+    "Blueberries",
+    "Corn",
+    "Pecans",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

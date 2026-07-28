@@ -1,0 +1,19 @@
+{
+  "slug": "u-pick-blueberry-patch",
+  "name": "U-Pick Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lanoka Harbor, NJ",
+  "locationCity": "Lanoka Harbor",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

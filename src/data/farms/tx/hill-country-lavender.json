@@ -1,0 +1,20 @@
+{
+  "slug": "hill-country-lavender",
+  "name": "Hill Country Lavender",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Blanco, TX",
+  "locationCity": "Blanco",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "830-833-2294",
+  "crops": [
+    "Lavender"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

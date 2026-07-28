@@ -1,0 +1,21 @@
+{
+  "slug": "wessex-hill-farm",
+  "name": "Wessex Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Stockton, NJ",
+  "locationCity": "Stockton",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "(609) 397-2529",
+  "crops": [
+    "Raspberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

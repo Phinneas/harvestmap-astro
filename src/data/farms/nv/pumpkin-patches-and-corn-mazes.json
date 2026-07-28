@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkin-patches-and-corn-mazes",
+  "name": "Pumpkin patches and corn mazes",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "NV",
+  "locationCity": "",
+  "locationState": "NV",
+  "locationZipcode": "",
+  "crops": [
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:57.242Z"
+    }
+  ]
+}

@@ -12,8 +12,27 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:26:20.909Z"
+      "lastSeen": "2026-07-28T19:39:20.090Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.604Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:26:20.909Z"
+  "usdaLastUpdated": "2026-07-28T19:39:20.090Z",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Pears",
+    "Persimmons",
+    "Figs",
+    "Olives",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Grapes",
+    "Peas"
+  ],
+  "phone": "936-254-3417"
 }

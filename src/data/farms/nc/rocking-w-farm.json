@@ -1,0 +1,22 @@
+{
+  "slug": "rocking-w-farm",
+  "name": "Rocking W. Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "East Bend, NC",
+  "locationCity": "East Bend",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(336) 961-6373",
+  "crops": [
+    "Strawberries",
+    "Corn",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

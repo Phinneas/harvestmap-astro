@@ -1,0 +1,22 @@
+{
+  "slug": "mac-s-best-produce",
+  "name": "Mac's Best Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Benedicta, ME",
+  "locationCity": "Benedicta",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "phone": "207-365-4486",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.225Z"
+    }
+  ]
+}

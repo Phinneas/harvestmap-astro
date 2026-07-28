@@ -9,11 +9,20 @@
   "locationZipcode": "",
   "lat": 43.7208562175375,
   "lon": -70.3981357581905,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Windy+Hill+Farm&amp;ES=ME&amp;EC=Cumberland+County&amp;EP=+207-892-9246&amp;ECT=Windham&amp;EZ=&amp;EA=115+River+Road&amp;EA2=&amp;EW=http%3A%2F%2Fwindyhill-restoration.com%2Fwindyhillfarm&amp;RD=RD&amp;EF=Windy-Hill-farm-568979439812625%2F&amp;EM=mailtodtrafford%40securespeed.us&amp;EX=US&amp;PG=MEsouth.htm&amp;OP=9+am+to+6+pm%3B%3B+&amp;IG=&amp;TW=&amp;DS=.&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:16.490Z"
+      "lastSeen": "2026-07-28T19:28:41.877Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.182Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:16.490Z"
+  "usdaLastUpdated": "2026-07-28T19:28:41.877Z",
+  "crops": [
+    "Pumpkins"
+  ],
+  "phone": "207-892-9246"
 }

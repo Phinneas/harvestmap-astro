@@ -1,0 +1,19 @@
+{
+  "slug": "local-honey",
+  "name": "Local Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "OR",
+  "locationCity": "",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "crops": [
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

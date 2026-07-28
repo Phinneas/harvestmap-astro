@@ -1,0 +1,21 @@
+{
+  "slug": "joseph-bouler",
+  "name": "Joseph Bouler",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rutledge, GA",
+  "locationCity": "Rutledge",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "650-954-5758",
+  "crops": [
+    "Blueberries",
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

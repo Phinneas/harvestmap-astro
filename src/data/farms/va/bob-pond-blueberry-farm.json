@@ -1,0 +1,24 @@
+{
+  "slug": "bob-pond-blueberry-farm",
+  "name": "Bob Pond Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rich Creek, VA",
+  "locationCity": "Rich Creek",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "phone": "540-726-3084",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Grapes",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:26.954Z"
+    }
+  ]
+}

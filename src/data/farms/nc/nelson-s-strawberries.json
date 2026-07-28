@@ -1,0 +1,20 @@
+{
+  "slug": "nelson-s-strawberries",
+  "name": "Nelson's Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Kernersville, NC",
+  "locationCity": "Kernersville",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(336) 996-3375",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

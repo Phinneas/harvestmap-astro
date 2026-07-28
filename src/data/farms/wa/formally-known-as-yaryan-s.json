@@ -1,0 +1,26 @@
+{
+  "slug": "formally-known-as-yaryan-s",
+  "name": "formally known as Yaryan's.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mead, WA",
+  "locationCity": "Mead",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "phone": "509-999-7657",
+  "crops": [
+    "Apples",
+    "Peaches",
+    "Nectarines",
+    "Apricots",
+    "Plums",
+    "Cherries",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.975Z"
+    }
+  ]
+}

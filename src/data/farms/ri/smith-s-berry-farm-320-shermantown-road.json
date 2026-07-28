@@ -9,11 +9,20 @@
   "locationZipcode": "",
   "lat": 41.5202130198107,
   "lon": -71.4742169768895,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Smith%27s+Berry+Farm&amp;ES=RI&amp;EC=Washington+County&amp;EP=+401-295-7669&amp;ECT=North+Kingstown&amp;EZ=&amp;EA=320+Shermantown+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.facebook.com%2FsmithsberryRI&amp;RD=NW&amp;EF=smithsberryRI&amp;EM=No+match.+&amp;EX=US&amp;PG=RIsouth.htm&amp;OP=Monday+to+Friday+8+am+to+1+pm+and+weekends+from+8+am+to+5+pm%3B%3B+&amp;IG=&amp;TW=&amp;DS=&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:25:34.435Z"
+      "lastSeen": "2026-07-28T19:37:59.867Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:08.764Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:25:34.435Z"
+  "usdaLastUpdated": "2026-07-28T19:37:59.867Z",
+  "crops": [
+    "Blueberries"
+  ],
+  "phone": "401-295-7669"
 }

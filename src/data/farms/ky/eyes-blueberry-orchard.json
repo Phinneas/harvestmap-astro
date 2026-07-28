@@ -1,0 +1,19 @@
+{
+  "slug": "eyes-blueberry-orchard",
+  "name": "Eyes Blueberry Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Taylorsville, KY",
+  "locationCity": "Taylorsville",
+  "locationState": "KY",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:11.100Z"
+    }
+  ]
+}

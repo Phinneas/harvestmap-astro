@@ -1,0 +1,22 @@
+{
+  "slug": "park-winters",
+  "name": "Park Winters",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Winters, CA",
+  "locationCity": "Winters",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "530-669-3692",
+  "crops": [
+    "Figs",
+    "Tomatoes",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

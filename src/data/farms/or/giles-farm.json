@@ -1,0 +1,20 @@
+{
+  "slug": "giles-farm",
+  "name": "Giles Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Forest Grove, OR",
+  "locationCity": "Forest Grove",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "503-357-3944",
+  "crops": [
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

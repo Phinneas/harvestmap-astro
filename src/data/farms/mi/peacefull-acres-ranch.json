@@ -1,0 +1,22 @@
+{
+  "slug": "peacefull-acres-ranch",
+  "name": "Peacefull Acres Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "West Olive, MI",
+  "locationCity": "West Olive",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "616-895-5428",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

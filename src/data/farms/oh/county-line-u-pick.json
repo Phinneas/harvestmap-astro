@@ -1,0 +1,22 @@
+{
+  "slug": "county-line-u-pick",
+  "name": "County Line U-pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Saint Clairsville, OH",
+  "locationCity": "Saint Clairsville",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "phone": "(740) 298-1839",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

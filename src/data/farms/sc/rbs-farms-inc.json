@@ -1,0 +1,21 @@
+{
+  "slug": "rbs-farms-inc",
+  "name": "RBS Farms, Inc.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Nichols, SC",
+  "locationCity": "Nichols",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "843-392-0081",
+  "crops": [
+    "Strawberries",
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

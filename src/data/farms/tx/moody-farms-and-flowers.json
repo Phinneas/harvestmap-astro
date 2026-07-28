@@ -1,0 +1,26 @@
+{
+  "slug": "moody-farms-and-flowers",
+  "name": "Moody Farms and Flowers",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mount Pleasant, TX",
+  "locationCity": "Mount Pleasant",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "6155381792",
+  "crops": [
+    "Blackberries",
+    "Pears",
+    "Peaches",
+    "Persimmons",
+    "Limes",
+    "Flowers",
+    "Lavender"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

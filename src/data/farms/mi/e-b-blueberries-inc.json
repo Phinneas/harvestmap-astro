@@ -1,0 +1,20 @@
+{
+  "slug": "e-b-blueberries-inc",
+  "name": "E.B. Blueberries Inc.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Imlay City, MI",
+  "locationCity": "Imlay City",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "810-724-8719",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

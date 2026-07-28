@@ -1,0 +1,24 @@
+{
+  "slug": "high-country-orchard",
+  "name": "High Country Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Colbert, WA",
+  "locationCity": "Colbert",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "phone": "(509) 238-9545",
+  "crops": [
+    "Peaches",
+    "Nectarines",
+    "Apricots",
+    "Plums",
+    "Cherries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.975Z"
+    }
+  ]
+}

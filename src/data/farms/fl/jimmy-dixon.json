@@ -1,0 +1,19 @@
+{
+  "slug": "jimmy-dixon",
+  "name": "Jimmy Dixon",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Madison, FL",
+  "locationCity": "Madison",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

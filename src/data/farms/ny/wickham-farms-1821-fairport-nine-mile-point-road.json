@@ -12,8 +12,24 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:24:01.635Z"
+      "lastSeen": "2026-07-28T19:34:24.589Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.324Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:24:01.635Z"
+  "usdaLastUpdated": "2026-07-28T19:34:24.589Z",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Apples",
+    "Pumpkins",
+    "Corn",
+    "Asparagus",
+    "Flowers",
+    "Sunflowers",
+    "Lavender"
+  ],
+  "phone": "607-546-7842"
 }

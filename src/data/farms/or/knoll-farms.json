@@ -1,0 +1,21 @@
+{
+  "slug": "knoll-farms",
+  "name": "Knoll Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hood River, OR",
+  "locationCity": "Hood River",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "541-386-6576",
+  "crops": [
+    "Blueberries",
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

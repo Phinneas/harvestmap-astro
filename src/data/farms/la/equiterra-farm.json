@@ -1,0 +1,29 @@
+{
+  "slug": "equiterra-farm",
+  "name": "EquiTerra Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Clinton, LA",
+  "locationCity": "Clinton",
+  "locationState": "LA",
+  "locationZipcode": "",
+  "phone": "225-683-8406",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Figs",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Peas",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:27.942Z"
+    }
+  ]
+}

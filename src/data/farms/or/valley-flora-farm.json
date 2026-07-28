@@ -1,0 +1,21 @@
+{
+  "slug": "valley-flora-farm",
+  "name": "Valley Flora Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Langlois, OR",
+  "locationCity": "Langlois",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "541-348-2180",
+  "crops": [
+    "Strawberries",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sunset-orchard",
+  "name": "Sunset Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Richland Center, WI",
+  "locationCity": "Richland Center",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "phone": "608-647-4038",
+  "crops": [
+    "Raspberries",
+    "Apples",
+    "Cherries",
+    "Pumpkins",
+    "Grapes",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "lucey-s-berry-farm",
+  "name": "Lucey's Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lafayette, NJ",
+  "locationCity": "Lafayette",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "(973) 383-4309",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

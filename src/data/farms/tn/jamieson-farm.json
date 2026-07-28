@@ -1,0 +1,30 @@
+{
+  "slug": "jamieson-farm",
+  "name": "Jamieson Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Springfield, TN",
+  "locationCity": "Springfield",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Jamieson+Farm&amp;ES=TN&amp;EC=Robertson+County&amp;EP=+615-573-9724&amp;ECT=Springfield&amp;EZ=37172&amp;EA=4110+Woodrow+Wilson+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.jamiesonfarm.org&amp;RD=NR&amp;EF=&amp;EM=jamiesonfarm%40yahoo.com&amp;EX=US&amp;PG=TNmiddle.htm&amp;OP=Saturday+from10%3A00+AM+to+2%3A00+PM%2C+Apparently%2C+they+are+only+open+on+Saturdays%2C+but+you+can+call+and+ask%3B%3B+&amp;IG=&amp;TW=&amp;DS=Ryan+and+Raychel+bought+their+farm+in+the+summer+2018+where+they+raise+pastured+chickens+and+ducks+for+their+family+and+local+communities.+They+have+a+growing+blackberry+and+raspberry+patch+and+are+planning+to+host+U-pick+appointments.+They+also+have+a+garden+space+for+growing+veggies+For+their+CSA+delivery+program+and+teaching+sustainable+growing+methods.+Also+Cut+Flowers%2C+and+already+picked+Blackberries%2C+Raspberries%2C+Kale%2C+Lettuce%2C+Peas%2C+Spinach%2C+Squash+Summer%2C+Squash+Winter%2C+Tomatoes%2C+eggplants%2C+Herbs%2C+Onions%2C+Peppers%2C+Custom+Poultry%2C+Eggs%2C+Other%2C+Candles&amp;DR=+",
+  "phone": "615-573-9724",
+  "crops": [
+    "Raspberries",
+    "Blackberries",
+    "Squash",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Peas",
+    "Herbs",
+    "Flowers",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:13.166Z"
+    }
+  ]
+}

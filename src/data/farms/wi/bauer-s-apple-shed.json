@@ -1,0 +1,24 @@
+{
+  "slug": "bauer-s-apple-shed",
+  "name": "Bauer's Apple Shed",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hortonville, WI",
+  "locationCity": "Hortonville",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Bauer%27s+Apple+Shed&amp;ES=WI&amp;EC=Outagamie+County&amp;EP=+920-757-6187&amp;ECT=Hortonville&amp;EZ=&amp;EA=W7757+Wisconsin+Avenue&amp;EA2=&amp;EW=https%3A%2F%2Fwww.bauersappleshed.com&amp;RD=NR&amp;EF=&amp;EM=No+match.+&amp;EX=US&amp;PG=WIgrnb.htm&amp;OP=Daily+9+am+to+6+pm+-+Sundays+10+am+to+5+pm+from+August+while+apple+crop+lasts%3B%3B+&amp;IG=&amp;TW=&amp;DS=Apples%2C+honey%2C+jams+and+jellies%2C+maple+syrup.+Pick+your+own+and+prepicked.+We+offer+Pick-Your-Own+or+Prepicked+Apples.+Apple+Syrup+-+Pumpkins+-+Honey+-+Jams+and+Gift+Baskets%2C+Squash+and+Gourds.+We+are+a+family+run+orchard+located+just+5+miles+west+of+Appleton%2C+WI.+Our+first+trees+were+planted+in+1972.+There+are+presently+over+300+trees+of+all+sizes+and+15+varieties.&amp;DR=Located+just+5+miles+west+of+Appleton%2C+WI",
+  "phone": "920-757-6187",
+  "crops": [
+    "Apples",
+    "Pumpkins",
+    "Squash",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

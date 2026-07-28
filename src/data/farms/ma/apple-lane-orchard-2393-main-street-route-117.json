@@ -9,11 +9,20 @@
   "locationZipcode": "",
   "lat": 42.4870835877711,
   "lon": -71.7090147538863,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Apple+Lane+Orchard&amp;ES=MA&amp;EC=Worcester+County&amp;EP=%28978%29+840-6963&amp;ECT=Lancaster&amp;EZ=&amp;EA=2393+Main+Street+-+Route+117&amp;EA2=&amp;EW=https%3A%2F%2Fwww.applelanefarm.com&amp;RD=NR&amp;EF=&amp;EM=No+match.+&amp;EX=US&amp;PG=MAworcester.htm&amp;OP=No+match+%3B+&amp;IG=&amp;TW=&amp;DS=&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:41.332Z"
+      "lastSeen": "2026-07-28T19:29:19.708Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:29:34.257Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:41.332Z"
+  "usdaLastUpdated": "2026-07-28T19:29:19.708Z",
+  "crops": [
+    "Apples"
+  ],
+  "phone": "(978) 840-6963"
 }

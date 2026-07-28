@@ -1,0 +1,23 @@
+{
+  "slug": "the-abby-farm",
+  "name": "The Abby Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Louisville, TN",
+  "locationCity": "Louisville",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=The+Abby+Farm&amp;ES=TN&amp;EC=Blount+County&amp;EP=+865-771-5960&amp;ECT=Louisville&amp;EZ=37777&amp;EA=4081+Gravelly+Hills+Rd&amp;EA2=&amp;EW=https%3A%2F%2Fwww.theabbyfarm.com&amp;RD=NR&amp;EF=the.abby.farm&amp;EM=theabbyfarm%40gmail.com&amp;EX=US&amp;PG=TNknoxville.htm&amp;OP=May-August%2C+Tuesday+to+Saturday+from+9%3A00+AM-5%3A00+PM%3B%3B+&amp;IG=&amp;TW=&amp;DS=.+We+are+an+organic+U-Pick+blueberry+farm+located+in+Louisville+Tn.+We+are+situated+on+a+beautiful+22-acre+property+that+overlooks+Fort+Loudoun+Lake+with+views+of+the+Cumberland+Plateau.+We+have+a+gorgeous+barn+with+public+restroom+facilities+and+a+12x70+front+porch+where+you+can+sit+with+your+family+and+take+in+the+spectacular+views.+also+Figs%2C+Grapes&amp;DR=Located+in+Louisville+Tn",
+  "phone": "865-771-5960",
+  "crops": [
+    "Blueberries",
+    "Figs",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:13.166Z"
+    }
+  ]
+}

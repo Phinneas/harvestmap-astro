@@ -12,8 +12,22 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:16.507Z"
+      "lastSeen": "2026-07-28T19:28:41.893Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.212Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:16.507Z"
+  "usdaLastUpdated": "2026-07-28T19:28:41.893Z",
+  "crops": [
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Eggs"
+  ],
+  "phone": "(207) 877-4817"
 }

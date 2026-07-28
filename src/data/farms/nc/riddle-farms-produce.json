@@ -1,0 +1,19 @@
+{
+  "slug": "riddle-farms-produce",
+  "name": "Riddle Farms Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hope Mills, NC",
+  "locationCity": "Hope Mills",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

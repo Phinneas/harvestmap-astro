@@ -1,0 +1,20 @@
+{
+  "slug": "tyler-s-produce",
+  "name": "Tyler's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Conway, SC",
+  "locationCity": "Conway",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "4953551772",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

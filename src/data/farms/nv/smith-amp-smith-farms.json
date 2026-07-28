@@ -1,0 +1,21 @@
+{
+  "slug": "smith-amp-smith-farms",
+  "name": "Smith &amp; Smith Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dayton, NV",
+  "locationCity": "Dayton",
+  "locationState": "NV",
+  "locationZipcode": "",
+  "phone": "2424066059",
+  "crops": [
+    "Blackberries",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:57.242Z"
+    }
+  ]
+}

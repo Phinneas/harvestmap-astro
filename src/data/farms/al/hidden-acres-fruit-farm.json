@@ -1,0 +1,24 @@
+{
+  "slug": "hidden-acres-fruit-farm",
+  "name": "Hidden Acres Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Eufaula, AL",
+  "locationCity": "Eufaula",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "(334) 687-3922",
+  "crops": [
+    "Blueberries",
+    "Pears",
+    "Persimmons",
+    "Figs",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

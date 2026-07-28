@@ -1,0 +1,23 @@
+{
+  "slug": "our-only-pyo-is-flowers",
+  "name": "Our only PYO is flowers",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Pennington, NJ",
+  "locationCity": "Pennington",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "609-737-8333",
+  "crops": [
+    "Herbs",
+    "Flowers",
+    "Honey",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

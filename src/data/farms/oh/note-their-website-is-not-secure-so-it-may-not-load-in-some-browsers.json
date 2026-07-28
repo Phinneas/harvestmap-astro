@@ -1,0 +1,30 @@
+{
+  "slug": "note-their-website-is-not-secure-so-it-may-not-load-in-some-browsers",
+  "name": "NOTE: their website is NOT secure, so it may not load in some browsers;",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Madison, OH",
+  "locationCity": "Madison",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "phone": "440-259-4924",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Blackberries",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Peas",
+    "Herbs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

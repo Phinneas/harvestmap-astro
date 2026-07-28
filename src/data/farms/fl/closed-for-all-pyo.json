@@ -1,0 +1,20 @@
+{
+  "slug": "closed-for-all-pyo",
+  "name": "Closed for all PYO",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Delray Beach, FL",
+  "locationCity": "Delray Beach",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "561-496-0188",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

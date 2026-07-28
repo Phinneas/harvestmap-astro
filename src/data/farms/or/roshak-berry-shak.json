@@ -1,0 +1,20 @@
+{
+  "slug": "roshak-berry-shak",
+  "name": "Roshak Berry Shak",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hillsboro, OR",
+  "locationCity": "Hillsboro",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "503-590-3201",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

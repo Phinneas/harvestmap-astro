@@ -1,0 +1,20 @@
+{
+  "slug": "sodt-s-berry-farm",
+  "name": "Sodt's Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Jackson, MI",
+  "locationCity": "Jackson",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "(517) 782-8933",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

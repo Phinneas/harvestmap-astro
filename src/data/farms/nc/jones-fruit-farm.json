@@ -1,0 +1,23 @@
+{
+  "slug": "jones-fruit-farm",
+  "name": "Jones Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Walstonburg, NC",
+  "locationCity": "Walstonburg",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "252-531-9100",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Peaches",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

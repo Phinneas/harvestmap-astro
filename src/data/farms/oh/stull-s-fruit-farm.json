@@ -1,0 +1,20 @@
+{
+  "slug": "stull-s-fruit-farm",
+  "name": "Stull's Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cardington, OH",
+  "locationCity": "Cardington",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "phone": "(740) 263-1626",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

@@ -12,8 +12,19 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:24:01.641Z"
+      "lastSeen": "2026-07-28T19:34:24.596Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.340Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:24:01.641Z"
+  "usdaLastUpdated": "2026-07-28T19:34:24.596Z",
+  "crops": [
+    "Raspberries",
+    "Pumpkins",
+    "Grapes",
+    "Peas"
+  ],
+  "phone": "(800) 874-2548"
 }

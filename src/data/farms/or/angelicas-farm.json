@@ -1,0 +1,19 @@
+{
+  "slug": "angelicas-farm",
+  "name": "Angelicas Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Scio, OR",
+  "locationCity": "Scio",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "heinlein-s-berries",
+  "name": "Heinlein's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Saginaw, MI",
+  "locationCity": "Saginaw",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

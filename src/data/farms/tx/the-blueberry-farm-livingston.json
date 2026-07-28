@@ -1,0 +1,20 @@
+{
+  "slug": "the-blueberry-farm-livingston",
+  "name": "The Blueberry Farm Livingston",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Livingston, TX",
+  "locationCity": "Livingston",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "972-979-8270",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "understory-farm-and-orchard",
+  "name": "Understory Farm and Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bangor, MI",
+  "locationCity": "Bangor",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "(810) 701-6522",
+  "crops": [
+    "Blueberries",
+    "Apples",
+    "Cherries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

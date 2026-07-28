@@ -9,11 +9,20 @@
   "locationZipcode": "",
   "lat": 41.9816705267791,
   "lon": -70.7495032114673,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Maribett+Farm&amp;ES=MA&amp;EC=Plymouth+County&amp;EP=%28781%29+585-9670&amp;ECT=Kingston&amp;EZ=&amp;EA=269+Elm+Street&amp;EA2=&amp;EW=https%3A%2F%2Fwww.facebook.com%2FMaribettFarm&amp;RD=NW&amp;EF=MaribettFarm&amp;EM=No+match.+&amp;EX=US&amp;PG=MAsoutheast.htm&amp;OP=July+and+August+for+Blueberries%3B+Call+for+an+appointment+for+u-pick%3B%3B+&amp;IG=&amp;TW=&amp;DS=Right+off+ramp%2C+left+onto+Brook+St.+Left+onto+Elm%2C+1+mile%2C+barn+on+left.+From+Route+495%3A+Take+495S+to+exit+6%2C+take+Route+44E.+Right+off+ramp+to+58N+right+onto+Mayflower+%28Route+80E%29%2C+bear+left+at+Colchester+St.+Farm+is+on+right%2C+one+mile+from+water+tank.&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:41.323Z"
+      "lastSeen": "2026-07-28T19:29:19.698Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:29:34.248Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:41.323Z"
+  "usdaLastUpdated": "2026-07-28T19:29:19.698Z",
+  "crops": [
+    "Blueberries"
+  ],
+  "phone": "(781) 585-9670"
 }

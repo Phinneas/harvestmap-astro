@@ -1,0 +1,24 @@
+{
+  "slug": "smith-hollow-farm",
+  "name": "Smith Hollow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Kernersville, NC",
+  "locationCity": "Kernersville",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(336) 813-2409",
+  "crops": [
+    "Pumpkins",
+    "Corn",
+    "Flowers",
+    "Honey",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

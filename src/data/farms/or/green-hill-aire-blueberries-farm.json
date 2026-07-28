@@ -1,0 +1,19 @@
+{
+  "slug": "green-hill-aire-blueberries-farm",
+  "name": "Green-Hill-Aire Blueberries Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Eugene, OR",
+  "locationCity": "Eugene",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

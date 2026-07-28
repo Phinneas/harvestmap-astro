@@ -1,0 +1,24 @@
+{
+  "slug": "keel-s-farm",
+  "name": "Keel's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Covington, GA",
+  "locationCity": "Covington",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "1628433341",
+  "crops": [
+    "Blueberries",
+    "Pomegranates",
+    "Grapes",
+    "Pecans",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

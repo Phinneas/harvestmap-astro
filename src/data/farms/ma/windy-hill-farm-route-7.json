@@ -9,11 +9,21 @@
   "locationZipcode": "",
   "lat": 42.25743610517,
   "lon": -73.3254688388321,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Windy+Hill+Farm&amp;ES=MA&amp;EC=Berkshire+County&amp;EP=%28413%29+298-3217&amp;ECT=Great+Barrington&amp;EZ=&amp;EA=Route+7&amp;EA2=+686+Stockbridge+Road&amp;EW=https%3A%2F%2Fwindyhillfarminc.com&amp;RD=RD&amp;EF=&amp;EM=office%40windyhillfarminc.com&amp;EX=US&amp;PG=MAwest.htm&amp;OP=Labor+Day+to+Columbus+Day%2C+24+varieties+through+the+season%3B+9-4pm+daily%3B%3B+&amp;IG=&amp;TW=&amp;DS=Beautiful+views+of+Monument+Mtn.+and+Belchertown+State+Forest.+Barrington+townline.+2+miles+from+the+center+of+Stockbridge.+Click+here+for+more+information%3A+apples%2C+blueberries.+%28UPDATED%3A+October+06%2C+2016%2C+JBS%29&amp;DR=On+Route+7+at+the+StockbridgeGt.+Barrington+townline.+2+miles+from+the+center+of+Stockbridge.+Click+here+for+more+information%3A+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:41.332Z"
+      "lastSeen": "2026-07-28T19:29:19.708Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:29:34.256Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:41.332Z"
+  "usdaLastUpdated": "2026-07-28T19:29:19.708Z",
+  "crops": [
+    "Blueberries",
+    "Apples"
+  ],
+  "phone": "(413) 298-3217"
 }

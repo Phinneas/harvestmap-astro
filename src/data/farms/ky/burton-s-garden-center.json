@@ -1,0 +1,20 @@
+{
+  "slug": "burton-s-garden-center",
+  "name": "Burton's Garden Center",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Campbellsville, KY",
+  "locationCity": "Campbellsville",
+  "locationState": "KY",
+  "locationZipcode": "",
+  "phone": "270-789-1239",
+  "crops": [
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:11.100Z"
+    }
+  ]
+}

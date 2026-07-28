@@ -1,0 +1,22 @@
+{
+  "slug": "greer-family-farm",
+  "name": "Greer Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Vancouver, WA",
+  "locationCity": "Vancouver",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "phone": "360-573-7600",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Pears"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.975Z"
+    }
+  ]
+}

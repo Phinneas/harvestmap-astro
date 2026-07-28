@@ -1,0 +1,20 @@
+{
+  "slug": "blueberry-havens",
+  "name": "Blueberry Havens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Camp Hill, AL",
+  "locationCity": "Camp Hill",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "(800) 407-5628",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "george-cline-berry-farm",
+  "name": "George Cline Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Harrison, AR",
+  "locationCity": "Harrison",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "phone": "870-741-7121",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:18.748Z"
+    }
+  ]
+}

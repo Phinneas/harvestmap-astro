@@ -1,0 +1,23 @@
+{
+  "slug": "sarver-hill-farm",
+  "name": "Sarver Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Greensburg, PA",
+  "locationCity": "Greensburg",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "724-834-2334",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Peppers",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

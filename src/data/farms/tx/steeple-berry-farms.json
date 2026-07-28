@@ -1,0 +1,20 @@
+{
+  "slug": "steeple-berry-farms",
+  "name": "Steeple Berry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Huntington, TX",
+  "locationCity": "Huntington",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "1000629803",
+  "crops": [
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

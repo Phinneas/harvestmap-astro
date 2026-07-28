@@ -1,0 +1,20 @@
+{
+  "slug": "sue-s-blueberries",
+  "name": "Sue's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Portland, OR",
+  "locationCity": "Portland",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "1680795833",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

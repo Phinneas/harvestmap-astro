@@ -1,0 +1,20 @@
+{
+  "slug": "gary-s-berries",
+  "name": "Gary's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Endicott, NY",
+  "locationCity": "Endicott",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "4308994636",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

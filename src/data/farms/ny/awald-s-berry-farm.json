@@ -1,0 +1,24 @@
+{
+  "slug": "awald-s-berry-farm",
+  "name": "Awald's Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "North Collins, NY",
+  "locationCity": "North Collins",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "716-337-2997",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

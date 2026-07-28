@@ -1,0 +1,26 @@
+{
+  "slug": "hallock-s-u-pick",
+  "name": "Hallock's U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "New Egypt, NJ",
+  "locationCity": "New Egypt",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "609-758-8847",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Squash",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

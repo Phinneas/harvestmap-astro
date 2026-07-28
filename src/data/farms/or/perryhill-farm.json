@@ -1,0 +1,23 @@
+{
+  "slug": "perryhill-farm",
+  "name": "Perryhill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dallas, OR",
+  "locationCity": "Dallas",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "(503) 623-4539",
+  "crops": [
+    "Blueberries",
+    "Apples",
+    "Peaches",
+    "Cherries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

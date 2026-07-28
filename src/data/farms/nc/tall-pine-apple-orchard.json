@@ -1,0 +1,20 @@
+{
+  "slug": "tall-pine-apple-orchard",
+  "name": "Tall Pine Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hendersonville, NC",
+  "locationCity": "Hendersonville",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "828-685-7422",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "the-farm-store",
+  "name": "The Farm Store",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cooksville, IL",
+  "locationCity": "Cooksville",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "1000647534",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

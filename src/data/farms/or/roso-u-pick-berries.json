@@ -1,0 +1,24 @@
+{
+  "slug": "roso-u-pick-berries",
+  "name": "Roso U-pick Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Aloha, OR",
+  "locationCity": "Aloha",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "503-528-4748",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Boysenberries",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

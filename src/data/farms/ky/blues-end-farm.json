@@ -1,0 +1,22 @@
+{
+  "slug": "blues-end-farm",
+  "name": "Blues End Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Shelbyville, KY",
+  "locationCity": "Shelbyville",
+  "locationState": "KY",
+  "locationZipcode": "",
+  "phone": "502-410-9369",
+  "crops": [
+    "Blueberries",
+    "Herbs",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:11.100Z"
+    }
+  ]
+}

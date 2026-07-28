@@ -1,0 +1,20 @@
+{
+  "slug": "harris-blueberries",
+  "name": "Harris Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Millington, TN",
+  "locationCity": "Millington",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "phone": "239-872-0696",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:13.166Z"
+    }
+  ]
+}

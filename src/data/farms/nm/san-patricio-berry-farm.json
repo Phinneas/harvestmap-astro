@@ -1,0 +1,20 @@
+{
+  "slug": "san-patricio-berry-farm",
+  "name": "San Patricio Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "San Patricio, NM",
+  "locationCity": "San Patricio",
+  "locationState": "NM",
+  "locationZipcode": "",
+  "phone": "(575) 653-4502",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:12.509Z"
+    }
+  ]
+}

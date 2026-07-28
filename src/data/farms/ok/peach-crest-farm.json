@@ -1,0 +1,20 @@
+{
+  "slug": "peach-crest-farm",
+  "name": "Peach Crest Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Stratford, OK",
+  "locationCity": "Stratford",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "phone": "580-759-3635",
+  "crops": [
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:45.184Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "glacier-view-lavender",
+  "name": "Glacier View Lavender",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Parkdale, OR",
+  "locationCity": "Parkdale",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "541-806-5364",
+  "crops": [
+    "Lavender"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

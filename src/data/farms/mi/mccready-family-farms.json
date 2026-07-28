@@ -1,0 +1,22 @@
+{
+  "slug": "mccready-family-farms",
+  "name": "McCready Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Marlette, MI",
+  "locationCity": "Marlette",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "586-337-4713",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "ernest-fruit-farm",
+  "name": "Ernest Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ellendale, DE",
+  "locationCity": "Ellendale",
+  "locationState": "DE",
+  "locationZipcode": "",
+  "phone": "(302) 349-5986",
+  "crops": [
+    "Strawberries",
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:24:38.411Z"
+    }
+  ]
+}

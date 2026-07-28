@@ -1,0 +1,21 @@
+{
+  "slug": "jones-berry-farm",
+  "name": "Jones Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Salem, AR",
+  "locationCity": "Salem",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "phone": "870-637-2995",
+  "crops": [
+    "Strawberries",
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:18.748Z"
+    }
+  ]
+}

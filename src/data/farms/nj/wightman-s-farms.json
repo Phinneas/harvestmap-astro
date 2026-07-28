@@ -1,0 +1,29 @@
+{
+  "slug": "wightman-s-farms",
+  "name": "Wightman's Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Morristown, NJ",
+  "locationCity": "Morristown",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "(973) 425-9819",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Apples",
+    "Peaches",
+    "Pumpkins",
+    "Corn",
+    "Tomatoes",
+    "Flowers",
+    "Honey",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

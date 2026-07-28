@@ -1,0 +1,21 @@
+{
+  "slug": "mabe-s-berry-farm",
+  "name": "Mabe's Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Walnut Cove, NC",
+  "locationCity": "Walnut Cove",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(336) 591-4785",
+  "crops": [
+    "Strawberries",
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

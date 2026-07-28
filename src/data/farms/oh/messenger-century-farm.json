@@ -1,0 +1,21 @@
+{
+  "slug": "messenger-century-farm",
+  "name": "Messenger Century Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Chagrin Falls, OH",
+  "locationCity": "Chagrin Falls",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "phone": "1410188589",
+  "crops": [
+    "Blueberries",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

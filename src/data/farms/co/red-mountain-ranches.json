@@ -1,0 +1,37 @@
+{
+  "slug": "red-mountain-ranches",
+  "name": "Red Mountain Ranches",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Paonia, CO",
+  "locationCity": "Paonia",
+  "locationState": "CO",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Orchard+Valley+Farms+and+Black+Ridge+Winery&amp;ES=CO&amp;EC=Delta+County&amp;EP=+970-527-6838&amp;ECT=Paonia&amp;EZ=81428&amp;EA=15836+Black+Bridge+Road&amp;EA2=&amp;EW=https%3A%2F%2Forchardvalleyfarms.com&amp;RD=RD&amp;EF=OrchardValleyFarms&amp;EM=kendal.butterfield%40gmail.com&amp;EX=US&amp;PG=COsw.htm&amp;OP=9+am+to+6+pm%2C+seven+days+a+week%2C+from+Memorial+Day+to+Halloween%3B%3B+&amp;IG=&amp;TW=&amp;DS=&amp;DR=",
+  "phone": "970-527-6838",
+  "crops": [
+    "Raspberries",
+    "Blackberries",
+    "Apples",
+    "Pears",
+    "Peaches",
+    "Nectarines",
+    "Apricots",
+    "Plums",
+    "Cherries",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Grapes",
+    "Honey",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:24:08.568Z"
+    }
+  ]
+}

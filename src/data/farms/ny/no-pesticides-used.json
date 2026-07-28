@@ -1,0 +1,20 @@
+{
+  "slug": "no-pesticides-used",
+  "name": "No pesticides used,",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Chenango Forks, NY",
+  "locationCity": "Chenango Forks",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "505-516-8127",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

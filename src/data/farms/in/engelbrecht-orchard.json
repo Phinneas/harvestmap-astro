@@ -1,0 +1,35 @@
+{
+  "slug": "engelbrecht-orchard",
+  "name": "Engelbrecht Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Newburgh, IN",
+  "locationCity": "Newburgh",
+  "locationState": "IN",
+  "locationZipcode": "",
+  "phone": "812-853-8778",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Apples",
+    "Pears",
+    "Peaches",
+    "Nectarines",
+    "Plums",
+    "Cherries",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Green beans"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:27:18.483Z"
+    }
+  ]
+}

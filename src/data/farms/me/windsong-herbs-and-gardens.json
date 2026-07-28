@@ -1,0 +1,21 @@
+{
+  "slug": "windsong-herbs-and-gardens",
+  "name": "Windsong Herbs and Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Walpole, ME",
+  "locationCity": "Walpole",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "phone": "207-677-3770",
+  "crops": [
+    "Herbs",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.225Z"
+    }
+  ]
+}

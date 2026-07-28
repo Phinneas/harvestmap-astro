@@ -1,0 +1,25 @@
+{
+  "slug": "cascadian-farm-rodale-institute-u-pick",
+  "name": "Cascadian Farm Rodale Institute U-pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rockport, WA",
+  "locationCity": "Rockport",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "phone": "360-853-8173",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Pumpkins",
+    "Corn",
+    "Kiwi"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.975Z"
+    }
+  ]
+}

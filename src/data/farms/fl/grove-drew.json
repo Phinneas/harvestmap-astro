@@ -1,0 +1,20 @@
+{
+  "slug": "grove-drew",
+  "name": "Grove (Drew)",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Island Grove, FL",
+  "locationCity": "Island Grove",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "904-396-6759",
+  "crops": [
+    "Persimmons"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

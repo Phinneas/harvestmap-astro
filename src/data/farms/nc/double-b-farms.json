@@ -1,0 +1,21 @@
+{
+  "slug": "double-b-farms",
+  "name": "Double B. Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cherryville, NC",
+  "locationCity": "Cherryville",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "1754172424",
+  "crops": [
+    "Blackberries",
+    "Squash"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

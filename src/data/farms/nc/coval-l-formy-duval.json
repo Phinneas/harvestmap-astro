@@ -1,0 +1,23 @@
+{
+  "slug": "coval-l-formy-duval",
+  "name": "Coval L. Formy-Duval",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Whiteville, NC",
+  "locationCity": "Whiteville",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Corn",
+    "Tomatoes",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

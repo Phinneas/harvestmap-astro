@@ -1,0 +1,27 @@
+{
+  "slug": "organic",
+  "name": "ORGANIC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fort Bidwell, CA",
+  "locationCity": "Fort Bidwell",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "503-922-0468",
+  "crops": [
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Herbs",
+    "Flowers",
+    "Lavender"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

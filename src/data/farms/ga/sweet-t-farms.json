@@ -1,0 +1,22 @@
+{
+  "slug": "sweet-t-farms",
+  "name": "Sweet T Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Commerce, GA",
+  "locationCity": "Commerce",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "website": "https://www.facebook.com/profile.php?id=100094541685907",
+  "phone": "1000945416",
+  "crops": [
+    "Blueberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

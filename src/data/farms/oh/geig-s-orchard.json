@@ -1,0 +1,21 @@
+{
+  "slug": "geig-s-orchard",
+  "name": "Geig's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Seville, OH",
+  "locationCity": "Seville",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "phone": "330-769-3276",
+  "crops": [
+    "Apples",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

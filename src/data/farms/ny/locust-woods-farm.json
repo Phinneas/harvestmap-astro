@@ -1,0 +1,20 @@
+{
+  "slug": "locust-woods-farm",
+  "name": "Locust Woods Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Spencer, NY",
+  "locationCity": "Spencer",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "607-589-4502",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

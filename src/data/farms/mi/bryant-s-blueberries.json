@@ -1,0 +1,20 @@
+{
+  "slug": "bryant-s-blueberries",
+  "name": "Bryant's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "MI",
+  "locationCity": "",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "812-366-3592",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

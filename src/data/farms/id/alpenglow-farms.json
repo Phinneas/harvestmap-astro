@@ -1,0 +1,20 @@
+{
+  "slug": "alpenglow-farms",
+  "name": "Alpenglow Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Victor, ID",
+  "locationCity": "Victor",
+  "locationState": "ID",
+  "locationZipcode": "",
+  "phone": "(208) 787-2423",
+  "crops": [
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:33.027Z"
+    }
+  ]
+}

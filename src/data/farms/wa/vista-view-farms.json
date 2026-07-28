@@ -1,0 +1,20 @@
+{
+  "slug": "vista-view-farms",
+  "name": "Vista View Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "La Center, WA",
+  "locationCity": "La Center",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "phone": "(360) 263-6886",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.976Z"
+    }
+  ]
+}

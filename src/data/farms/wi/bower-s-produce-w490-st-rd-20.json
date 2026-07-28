@@ -9,11 +9,27 @@
   "locationZipcode": "",
   "lat": 42.7824729880236,
   "lon": -88.3247799651347,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Bower%27s+Produce&amp;ES=WI&amp;EC=Walworth+County&amp;EP=+262-642-5244&amp;ECT=East+Troy&amp;EZ=&amp;EA=W490+St+Rd+20&amp;EA2=&amp;EW=https%3A%2F%2Fwww.facebook.com%2Fbowersproduce&amp;RD=NW&amp;EF=bowersproduce&amp;EM=No+match.+&amp;EX=US&amp;PG=WImilwaukee.htm&amp;OP=9+to+6+pm+seven+days+a+week+July+to+Nov+1%3B%3B+&amp;IG=&amp;TW=&amp;DS=&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:27:29.799Z"
+      "lastSeen": "2026-07-28T19:41:29.989Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:42.880Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:27:29.799Z"
+  "usdaLastUpdated": "2026-07-28T19:41:29.989Z",
+  "crops": [
+    "Strawberries",
+    "Apples",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Peppers",
+    "Asparagus",
+    "Honey"
+  ],
+  "phone": "262-642-5244"
 }

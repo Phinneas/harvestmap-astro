@@ -1,0 +1,21 @@
+{
+  "slug": "riverbend-farms",
+  "name": "Riverbend Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "South Haven, MI",
+  "locationCity": "South Haven",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "1000759616",
+  "crops": [
+    "Raspberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

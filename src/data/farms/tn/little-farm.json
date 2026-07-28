@@ -1,0 +1,24 @@
+{
+  "slug": "little-farm",
+  "name": "Little Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fayetteville, TN",
+  "locationCity": "Fayetteville",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Little+Farm&amp;ES=TN&amp;EC=Lincoln+County&amp;EP=+931-993-5248&amp;ECT=Fayetteville&amp;EZ=37334&amp;EA=228+McDougal+Rd&amp;EA2=&amp;EW=https%3A%2F%2Fwww.facebook.com%2Fthelittlefarm.tn&amp;RD=NW&amp;EF=thelittlefarm.tn&amp;EM=No+match.+&amp;EX=US&amp;PG=TNcolumbia.htm&amp;OP=see+their+page+or+call+for+availability%3B%3B+&amp;IG=&amp;TW=&amp;DS=A+little+cut+flower+farm+ran+and+operated+by+two+little+bosses+%7Bwith+some+help+from+their+parents%7D.+Plus%2C+home-grown+sweet+corn%2C+tomatoes%2C+blackberries+and+other+vegetables.&amp;DR=+",
+  "phone": "931-993-5248",
+  "crops": [
+    "Blackberries",
+    "Corn",
+    "Tomatoes",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:13.166Z"
+    }
+  ]
+}

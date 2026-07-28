@@ -1,0 +1,24 @@
+{
+  "slug": "apple-hut",
+  "name": "Apple Hut",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Beloit, WI",
+  "locationCity": "Beloit",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Apple+Hut&amp;ES=WI&amp;EC=Rock+County&amp;EP=+608-362-1961&amp;ECT=Beloit&amp;EZ=&amp;EA=1718+W+Walters+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.facebook.com%2FThe-Apple-Hut-114355051955174&amp;RD=NW&amp;EF=The-Apple-Hut-114355051955174&amp;EM=No+match.+&amp;EX=US&amp;PG=WImilwaukee.htm&amp;OP=7+days+a+week+late+August+to+Thanksgiving+8+to+5+pm%3B%3B+&amp;IG=&amp;TW=&amp;DS=Apples%2C+taffy+apples%2C+apple+butter%2C+apple+pies+and+doughnuts%2C+cider+and+apple+dumplings.+Craft+shop.+Also+pick-your-own+apples+and+raspberries.+Honey%2C+jams+and+jellies%2C+pumpkins%2C+gourds.&amp;DR=+",
+  "phone": "1143550519",
+  "crops": [
+    "Raspberries",
+    "Apples",
+    "Pumpkins",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

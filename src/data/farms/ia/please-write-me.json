@@ -1,0 +1,21 @@
+{
+  "slug": "please-write-me",
+  "name": "please write me",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Center Point, IA",
+  "locationCity": "Center Point",
+  "locationState": "IA",
+  "locationZipcode": "",
+  "phone": "319-329-9144",
+  "crops": [
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:27:35.674Z"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "t-amp-t-vineyard",
+  "name": "T&amp;T Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Graceville, FL",
+  "locationCity": "Graceville",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "crops": [
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.322Z"
+    }
+  ]
+}

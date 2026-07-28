@@ -1,0 +1,25 @@
+{
+  "slug": "black-s-peaches",
+  "name": "Black's Peaches",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "York, SC",
+  "locationCity": "York",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "803-684-2333",
+  "crops": [
+    "Strawberries",
+    "Blackberries",
+    "Apples",
+    "Peaches",
+    "Corn",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "wa-hu-blueberry-farm",
+  "name": "Wa-Hu Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Holland, MI",
+  "locationCity": "Holland",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "828-514-2579",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

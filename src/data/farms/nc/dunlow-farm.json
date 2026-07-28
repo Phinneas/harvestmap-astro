@@ -1,0 +1,20 @@
+{
+  "slug": "dunlow-farm",
+  "name": "Dunlow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Edenton, NC",
+  "locationCity": "Edenton",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(252) 482-7367",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

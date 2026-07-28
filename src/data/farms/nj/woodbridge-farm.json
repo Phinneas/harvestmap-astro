@@ -1,0 +1,20 @@
+{
+  "slug": "woodbridge-farm",
+  "name": "Woodbridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Newport, NJ",
+  "locationCity": "Newport",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "(856) 447-4724",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

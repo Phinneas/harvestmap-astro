@@ -1,0 +1,20 @@
+{
+  "slug": "dogwood-hill-orchard",
+  "name": "Dogwood Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Conway, AR",
+  "locationCity": "Conway",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "phone": "501-328-9212",
+  "crops": [
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:18.748Z"
+    }
+  ]
+}

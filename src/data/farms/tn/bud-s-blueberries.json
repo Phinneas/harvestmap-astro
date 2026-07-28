@@ -1,0 +1,20 @@
+{
+  "slug": "bud-s-blueberries",
+  "name": "Bud's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dyersburg, TN",
+  "locationCity": "Dyersburg",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "phone": "(731) 285-6627",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:13.166Z"
+    }
+  ]
+}

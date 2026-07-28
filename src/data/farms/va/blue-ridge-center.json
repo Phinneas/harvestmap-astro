@@ -1,0 +1,20 @@
+{
+  "slug": "blue-ridge-center",
+  "name": "Blue Ridge Center",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Purcellville, VA",
+  "locationCity": "Purcellville",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "phone": "540-668-7640",
+  "crops": [
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:26.954Z"
+    }
+  ]
+}

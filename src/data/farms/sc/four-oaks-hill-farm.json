@@ -1,0 +1,21 @@
+{
+  "slug": "four-oaks-hill-farm",
+  "name": "Four Oaks Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Darlington, SC",
+  "locationCity": "Darlington",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "1000940146",
+  "crops": [
+    "Blueberries",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

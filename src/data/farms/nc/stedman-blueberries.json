@@ -1,0 +1,19 @@
+{
+  "slug": "stedman-blueberries",
+  "name": "Stedman Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Stedman, NC",
+  "locationCity": "Stedman",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

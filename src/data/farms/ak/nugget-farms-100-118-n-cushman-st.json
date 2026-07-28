@@ -12,8 +12,15 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:17:15.677Z"
+      "lastSeen": "2026-07-28T19:22:24.925Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:32.197Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:17:15.677Z"
+  "usdaLastUpdated": "2026-07-28T19:22:24.925Z",
+  "crops": [
+    "Apples"
+  ]
 }

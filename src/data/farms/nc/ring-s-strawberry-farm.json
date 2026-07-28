@@ -1,0 +1,20 @@
+{
+  "slug": "ring-s-strawberry-farm",
+  "name": "Ring's Strawberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lakeview, NC",
+  "locationCity": "Lakeview",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(910) 949-2657",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "hill-side-farm-formerly-allison-s-acres",
+  "name": "Hill Side farm, formerly Allison's Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Trumansburg, NY",
+  "locationCity": "Trumansburg",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "607-229-4943",
+  "crops": [
+    "Strawberries",
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

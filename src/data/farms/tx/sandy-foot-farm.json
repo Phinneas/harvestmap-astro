@@ -1,0 +1,20 @@
+{
+  "slug": "sandy-foot-farm",
+  "name": "Sandy Foot Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Livingston, TX",
+  "locationCity": "Livingston",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "936-327-2744",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

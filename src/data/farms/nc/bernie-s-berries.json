@@ -1,0 +1,23 @@
+{
+  "slug": "bernie-s-berries",
+  "name": "Bernie's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Greensboro, NC",
+  "locationCity": "Greensboro",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(336) 852-1594",
+  "crops": [
+    "Strawberries",
+    "Squash",
+    "Corn",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

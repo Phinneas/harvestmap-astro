@@ -1,0 +1,20 @@
+{
+  "slug": "autry-farms",
+  "name": "Autry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brownsville, TN",
+  "locationCity": "Brownsville",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "phone": "731-772-2873",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:13.166Z"
+    }
+  ]
+}

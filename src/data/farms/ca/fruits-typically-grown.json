@@ -1,0 +1,26 @@
+{
+  "slug": "fruits-typically-grown",
+  "name": "Fruits typically grown:",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Riverside, CA",
+  "locationCity": "Riverside",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "(951) 394-3443",
+  "crops": [
+    "Apples",
+    "Peaches",
+    "Pomegranates",
+    "Oranges",
+    "Lemons",
+    "Limes",
+    "Avocados"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

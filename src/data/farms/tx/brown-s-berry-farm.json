@@ -1,0 +1,22 @@
+{
+  "slug": "brown-s-berry-farm",
+  "name": "Brown's Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bon Wier, TX",
+  "locationCity": "Bon Wier",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "409-420-0461",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

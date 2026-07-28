@@ -1,0 +1,22 @@
+{
+  "slug": "blossom-hill-farms",
+  "name": "Blossom Hill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cranbury Township, NJ",
+  "locationCity": "Cranbury Township",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "(609) 799-0226",
+  "crops": [
+    "Apples",
+    "Peaches",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

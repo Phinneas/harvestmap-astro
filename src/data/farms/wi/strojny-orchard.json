@@ -1,0 +1,22 @@
+{
+  "slug": "strojny-orchard",
+  "name": "Strojny Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Oostburg, WI",
+  "locationCity": "Oostburg",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "phone": "920-668-8943",
+  "crops": [
+    "Apples",
+    "Pears",
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

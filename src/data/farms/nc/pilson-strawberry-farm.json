@@ -1,0 +1,20 @@
+{
+  "slug": "pilson-strawberry-farm",
+  "name": "Pilson Strawberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cameron, NC",
+  "locationCity": "Cameron",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(910) 245-7364",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

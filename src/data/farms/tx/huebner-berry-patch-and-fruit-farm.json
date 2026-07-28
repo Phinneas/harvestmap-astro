@@ -1,0 +1,24 @@
+{
+  "slug": "huebner-berry-patch-and-fruit-farm",
+  "name": "Huebner Berry Patch and Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Normangee, TX",
+  "locationCity": "Normangee",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "903-344-1132",
+  "crops": [
+    "Blackberries",
+    "Peaches",
+    "Nectarines",
+    "Plums",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

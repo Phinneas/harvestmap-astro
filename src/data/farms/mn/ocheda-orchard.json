@@ -1,0 +1,21 @@
+{
+  "slug": "ocheda-orchard",
+  "name": "Ocheda Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Worthington, MN",
+  "locationCity": "Worthington",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "website": "https://ochedaorchard.com/",
+  "phone": "(507) 376-3255",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:07.205Z"
+    }
+  ]
+}

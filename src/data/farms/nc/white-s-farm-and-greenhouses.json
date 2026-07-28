@@ -1,0 +1,22 @@
+{
+  "slug": "white-s-farm-and-greenhouses",
+  "name": "White's Farm and Greenhouses",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Vanceboro, NC",
+  "locationCity": "Vanceboro",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(252) 244-2106",
+  "crops": [
+    "Strawberries",
+    "Squash",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "certified-organic",
+  "name": "Certified organic",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Comb, MS",
+  "locationCity": "Comb",
+  "locationState": "MS",
+  "locationZipcode": "",
+  "phone": "(601) 341-2002",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:33.920Z"
+    }
+  ]
+}

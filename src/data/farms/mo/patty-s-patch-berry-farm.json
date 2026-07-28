@@ -1,0 +1,21 @@
+{
+  "slug": "patty-s-patch-berry-farm",
+  "name": "Patty's Patch Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Higginsville, MO",
+  "locationCity": "Higginsville",
+  "locationState": "MO",
+  "locationZipcode": "",
+  "phone": "6157452448",
+  "crops": [
+    "Blueberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:58.887Z"
+    }
+  ]
+}

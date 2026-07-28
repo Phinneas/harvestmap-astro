@@ -1,0 +1,20 @@
+{
+  "slug": "ivanhoe-blueberry-farm",
+  "name": "Ivanhoe Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ivanhoe, NC",
+  "locationCity": "Ivanhoe",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(910) 532-2880",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

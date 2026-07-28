@@ -1,0 +1,23 @@
+{
+  "slug": "fisher-farms",
+  "name": "Fisher Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brockport, NY",
+  "locationCity": "Brockport",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "(585) 690-8269",
+  "crops": [
+    "Apples",
+    "Peaches",
+    "Cherries",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

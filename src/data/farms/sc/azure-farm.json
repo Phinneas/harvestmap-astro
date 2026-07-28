@@ -1,0 +1,22 @@
+{
+  "slug": "azure-farm",
+  "name": "Azure Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Simpsonville, SC",
+  "locationCity": "Simpsonville",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "864-631-2285",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

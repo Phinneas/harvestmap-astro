@@ -9,11 +9,24 @@
   "locationZipcode": "03885",
   "lat": 43.0477859978787,
   "lon": -70.8945900159397,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Blueberry+Bay+Farm&amp;ES=NH&amp;EC=Rockingham+County&amp;EP=+603-580-1612&amp;ECT=Stratham&amp;EZ=03885&amp;EA=38+Depot+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.blueberrybayfarm.com&amp;RD=NR&amp;EF=&amp;EM=info%40blueberrybayfarm.org&amp;EX=US&amp;PG=NHsoutheast.htm&amp;OP=Early+July-September%2C+8+am+to+5+pm%2C+daily%3B%3B+&amp;IG=&amp;TW=&amp;DS=The+blueberries+from+our+1300+bushes+are+the+primary+crop%2C+we+often+have+other+specials%2C+like+cut+flowers+and+herbs.+At+Blueberry+Bay+Farm%2C+we+specialize+in+growing+unique+pumpkin+and+winter+squash+varieties.&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:23:24.565Z"
+      "lastSeen": "2026-07-28T19:33:12.466Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:23.059Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:23:24.565Z"
+  "usdaLastUpdated": "2026-07-28T19:33:12.466Z",
+  "crops": [
+    "Blueberries",
+    "Pumpkins",
+    "Squash",
+    "Herbs",
+    "Flowers"
+  ],
+  "phone": "603-580-1612"
 }

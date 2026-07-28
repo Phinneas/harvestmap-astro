@@ -1,0 +1,21 @@
+{
+  "slug": "green-gate-farm",
+  "name": "Green Gate Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Griffin, GA",
+  "locationCity": "Griffin",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "(770) 584-6052",
+  "crops": [
+    "Pumpkins",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

@@ -9,11 +9,25 @@
   "locationZipcode": "",
   "lat": 46.812254,
   "lon": -90.822175,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Hauser%27s+Superior+View+Farm&amp;ES=WI&amp;EC=Bayfield+County&amp;EP=+715-779-5404&amp;ECT=Bayfield&amp;EZ=54814&amp;EA=86565+County+Hwy+J&amp;EA2=&amp;EW=https%3A%2F%2Fsuperiorviewfarm.com&amp;RD=RD&amp;EF=HausersSuperiorViewFarm&amp;EM=info%40superiorviewfarm.com&amp;EX=US&amp;PG=WInortheast.htm&amp;OP=seven+days+a+week+9+am+to+5+pm%3B%3B+&amp;IG=&amp;TW=&amp;DS=Closed+Christmas+to+May+1.+Mail+order.+Also+plants+on+premises.+Perennial+flowers%2C+straw+flowers%2C+ready-picked+apples%2C+cider%2C+gift+baskets%2C+honey%2C+jams+and+jellies%2C+6+varieties+of+apple+wine.+Over+the+years%2C+we+have+developed+several+of+our+own+varietals%2C+as+well+as+adding+crowd+favorites+like+Honeycrisp+and+Hauser%C3%A2%C2%80%C2%99s+Merlot.+We+currently+have+about+2%2C000+various+fruit+trees%2C+spread+out+over+30+acres.+And+depending+on+the+season%2C+we+also+have+fresh+pears%2C+cherries%2C+blueberries%2C+and+more%C3%A2%C2%80%C2%94all+grown+right+here+on+our+family+farm.+pick-your-own+and+pre-picked+cherries+each+year+typically+right+after+mid-July.+Call+our+store+for+the+most+current+picking+estimates.+.&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:27:29.840Z"
+      "lastSeen": "2026-07-28T19:41:30.028Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:42.924Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:27:29.840Z"
+  "usdaLastUpdated": "2026-07-28T19:41:30.028Z",
+  "crops": [
+    "Blueberries",
+    "Apples",
+    "Pears",
+    "Cherries",
+    "Flowers",
+    "Honey"
+  ],
+  "phone": "715-779-5404"
 }

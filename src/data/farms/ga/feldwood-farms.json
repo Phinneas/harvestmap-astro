@@ -1,0 +1,20 @@
+{
+  "slug": "feldwood-farms",
+  "name": "Feldwood Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Park, GA",
+  "locationCity": "Park",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "1000934250",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

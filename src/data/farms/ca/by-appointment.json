@@ -1,0 +1,34 @@
+{
+  "slug": "by-appointment",
+  "name": "By appointment,",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Auburn, CA",
+  "locationCity": "Auburn",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "530 885-3420",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Boysenberries",
+    "Persimmons",
+    "Pomegranates",
+    "Figs",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Eggplant",
+    "Grapes",
+    "Kiwi",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

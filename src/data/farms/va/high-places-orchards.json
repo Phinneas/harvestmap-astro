@@ -1,0 +1,25 @@
+{
+  "slug": "high-places-orchards",
+  "name": "High Places Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Huntly, VA",
+  "locationCity": "Huntly",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "phone": "540-635-5537",
+  "crops": [
+    "Raspberries",
+    "Apples",
+    "Peaches",
+    "Nectarines",
+    "Plums",
+    "Cherries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:26.954Z"
+    }
+  ]
+}

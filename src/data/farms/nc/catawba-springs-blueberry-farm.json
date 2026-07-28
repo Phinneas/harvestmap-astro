@@ -1,0 +1,20 @@
+{
+  "slug": "catawba-springs-blueberry-farm",
+  "name": "Catawba Springs Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hickory, NC",
+  "locationCity": "Hickory",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "1000895708",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

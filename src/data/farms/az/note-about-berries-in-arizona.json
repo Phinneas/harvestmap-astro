@@ -1,0 +1,22 @@
+{
+  "slug": "note-about-berries-in-arizona",
+  "name": "Note about berries in Arizona:",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "AZ",
+  "locationCity": "",
+  "locationState": "AZ",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:49.079Z"
+    }
+  ]
+}

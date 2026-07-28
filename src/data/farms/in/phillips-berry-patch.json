@@ -1,0 +1,22 @@
+{
+  "slug": "phillips-berry-patch",
+  "name": "Phillips Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Guilford, IN",
+  "locationCity": "Guilford",
+  "locationState": "IN",
+  "locationZipcode": "",
+  "phone": "812-623-1433",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:27:18.483Z"
+    }
+  ]
+}

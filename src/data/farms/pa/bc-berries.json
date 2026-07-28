@@ -1,0 +1,21 @@
+{
+  "slug": "bc-berries",
+  "name": "BC Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Alum Bank, PA",
+  "locationCity": "Alum Bank",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "2116119021",
+  "crops": [
+    "Blueberries",
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

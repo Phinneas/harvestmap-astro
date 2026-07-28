@@ -1,0 +1,21 @@
+{
+  "slug": "huge-varieties-of-apples",
+  "name": "Huge varieties of apples:",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "North Rose, NY",
+  "locationCity": "North Rose",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "315-573-0674",
+  "crops": [
+    "Apples",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

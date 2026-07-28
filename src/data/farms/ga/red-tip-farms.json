@@ -1,0 +1,23 @@
+{
+  "slug": "red-tip-farms",
+  "name": "Red Tip Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Meansville, GA",
+  "locationCity": "Meansville",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "706-741-8917",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Honey",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

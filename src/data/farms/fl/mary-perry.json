@@ -1,0 +1,21 @@
+{
+  "slug": "mary-perry",
+  "name": "Mary Perry",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lake City, FL",
+  "locationCity": "Lake City",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "904-752-1556",
+  "crops": [
+    "Apples",
+    "Pears"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

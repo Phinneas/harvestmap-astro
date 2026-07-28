@@ -1,0 +1,26 @@
+{
+  "slug": "heritage-orchard",
+  "name": "Heritage Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Chilton, WI",
+  "locationCity": "Chilton",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Heritage+Orchard&amp;ES=WI&amp;EC=Calumet+County&amp;EP=+920-849-2158&amp;ECT=Chilton&amp;EZ=&amp;EA=N+2963+Lakeshore+Dr&amp;EA2=&amp;EW=https%3A%2F%2Fwww.heritageorchardwi.com&amp;RD=RD&amp;EF=&amp;EM=appleannie4%40hotmail.com&amp;EX=US&amp;PG=WIgrnb.htm&amp;OP=7+days+a+week+from+September+1+through+October+31%3B%3B+&amp;IG=&amp;TW=&amp;DS=Hours+9+to+5+daily.+Also+visit+the+Farm+Market+for+fresh-picked+apples%2C+squash%2C+jams%2C+jellies%2C+syrups%2C+mustards%2C+caramel+apples%2C+spices%2C+frozen+cherries%2C+popcorn%2C+sweet+cider%2C+hickory+nuts%2C+honey+and+much+more.+Lookout+Loft+features+a+panoramic+view+of+Lake+Winnebago+and+includes+crafts+and+collectables.+Picnic+at+Hawthorne+Hollow.+Fire+pit+and+tables+available.+Raised+for+quality+-+harvested+for+peak+flavor+and+crispness+-+sold+fresh+at+affordable+prices.+Pick+your+own+or+choose+your+favorite+from+20+different+varieties+in+our+farm+market.+Free+samples+are+always+available+.&amp;DR=+",
+  "phone": "920-849-2158",
+  "crops": [
+    "Apples",
+    "Cherries",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

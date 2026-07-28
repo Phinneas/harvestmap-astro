@@ -1,0 +1,20 @@
+{
+  "slug": "green-acres-farm",
+  "name": "Green Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Clarkrange, TN",
+  "locationCity": "Clarkrange",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "phone": "931-863-3434",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:13.166Z"
+    }
+  ]
+}

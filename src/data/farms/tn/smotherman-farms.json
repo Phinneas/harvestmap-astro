@@ -1,0 +1,21 @@
+{
+  "slug": "smotherman-farms",
+  "name": "Smotherman Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bell Buckle, TN",
+  "locationCity": "Bell Buckle",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "phone": "1000918058",
+  "crops": [
+    "Strawberries",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:13.166Z"
+    }
+  ]
+}

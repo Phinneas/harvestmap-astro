@@ -1,0 +1,22 @@
+{
+  "slug": "saltbox-farm",
+  "name": "Saltbox Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Stratham, NH",
+  "locationCity": "Stratham",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "phone": "603-436-7978",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:23.079Z"
+    }
+  ]
+}

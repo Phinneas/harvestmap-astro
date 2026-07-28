@@ -1,0 +1,20 @@
+{
+  "slug": "certified-organic",
+  "name": "CERTIFIED ORGANIC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Glenmont, OH",
+  "locationCity": "Glenmont",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "phone": "740-599-5050",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

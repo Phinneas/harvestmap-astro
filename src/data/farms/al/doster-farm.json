@@ -1,0 +1,20 @@
+{
+  "slug": "doster-farm",
+  "name": "Doster Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Clanton, AL",
+  "locationCity": "Clanton",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "205-755-9763",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

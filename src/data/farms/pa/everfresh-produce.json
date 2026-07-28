@@ -1,0 +1,21 @@
+{
+  "slug": "everfresh-produce",
+  "name": "Everfresh Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "New Holland, PA",
+  "locationCity": "New Holland",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "(717) 354-3922",
+  "crops": [
+    "Strawberries",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

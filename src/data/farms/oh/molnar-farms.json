@@ -1,0 +1,26 @@
+{
+  "slug": "molnar-farms",
+  "name": "Molnar Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "OH",
+  "locationCity": "",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "phone": "(330) 757-3142",
+  "crops": [
+    "Strawberries",
+    "Peaches",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

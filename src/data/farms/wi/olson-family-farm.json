@@ -1,0 +1,29 @@
+{
+  "slug": "olson-family-farm",
+  "name": "Olson Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Franksville, WI",
+  "locationCity": "Franksville",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "phone": "6157277201",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Apples",
+    "Pears",
+    "Cherries",
+    "Asparagus",
+    "Eggs",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

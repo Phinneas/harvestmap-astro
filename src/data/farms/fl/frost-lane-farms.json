@@ -1,0 +1,23 @@
+{
+  "slug": "frost-lane-farms",
+  "name": "Frost Lane Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Laurel Hill, FL",
+  "locationCity": "Laurel Hill",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "850-333-1284",
+  "crops": [
+    "Blueberries",
+    "Pears",
+    "Persimmons",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.322Z"
+    }
+  ]
+}

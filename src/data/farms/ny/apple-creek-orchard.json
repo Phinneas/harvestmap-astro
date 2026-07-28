@@ -1,0 +1,22 @@
+{
+  "slug": "apple-creek-orchard",
+  "name": "Apple Creek Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hornby, NY",
+  "locationCity": "Hornby",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "(607) 936-8856",
+  "crops": [
+    "Raspberries",
+    "Apples",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "cassim-farms",
+  "name": "Cassim Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Waterloo, NY",
+  "locationCity": "Waterloo",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "315-539-2951",
+  "crops": [
+    "Strawberries",
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

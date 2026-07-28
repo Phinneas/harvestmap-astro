@@ -1,0 +1,22 @@
+{
+  "slug": "frank-farms-inc",
+  "name": "Frank Farms, Inc",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Athens, IL",
+  "locationCity": "Athens",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "217-636-8590",
+  "crops": [
+    "Corn",
+    "Asparagus",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "larry-trover-produce",
+  "name": "Larry Trover Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Vienna, IL",
+  "locationCity": "Vienna",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "618-658-5100",
+  "crops": [
+    "Strawberries",
+    "Pears",
+    "Tomatoes",
+    "Peppers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

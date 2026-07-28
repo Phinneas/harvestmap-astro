@@ -1,0 +1,23 @@
+{
+  "slug": "please-write-me",
+  "name": "please write me",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Avondale, CO",
+  "locationCity": "Avondale",
+  "locationState": "CO",
+  "locationZipcode": "",
+  "phone": "3496968050",
+  "crops": [
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Peppers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:24:08.568Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "pear-bloom-farm",
+  "name": "Pear Bloom Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hood River, OR",
+  "locationCity": "Hood River",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "541-705-0207",
+  "crops": [
+    "Strawberries",
+    "Apples",
+    "Pears"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

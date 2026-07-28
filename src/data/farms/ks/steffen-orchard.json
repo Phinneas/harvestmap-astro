@@ -1,0 +1,21 @@
+{
+  "slug": "steffen-orchard",
+  "name": "Steffen Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Conway Springs, KS",
+  "locationCity": "Conway Springs",
+  "locationState": "KS",
+  "locationZipcode": "",
+  "phone": "1021745999",
+  "crops": [
+    "Apples",
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:27:55.625Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "the-homestead-market",
+  "name": "The Homestead Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Seaford, DE",
+  "locationCity": "Seaford",
+  "locationState": "DE",
+  "locationZipcode": "",
+  "phone": "6155065679",
+  "crops": [
+    "Strawberries",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:24:38.411Z"
+    }
+  ]
+}

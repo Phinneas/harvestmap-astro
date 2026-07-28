@@ -1,0 +1,20 @@
+{
+  "slug": "2021-prices",
+  "name": "2021 prices",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bostwick, FL",
+  "locationCity": "Bostwick",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "1489358884",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

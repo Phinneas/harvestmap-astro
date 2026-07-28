@@ -1,0 +1,25 @@
+{
+  "slug": "key-farms",
+  "name": "Key Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Carrollton, GA",
+  "locationCity": "Carrollton",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "website": "https://www.key-farms.com/",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Pumpkins",
+    "Flowers",
+    "Sunflowers",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

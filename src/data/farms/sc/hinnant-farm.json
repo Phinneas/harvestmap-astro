@@ -1,0 +1,25 @@
+{
+  "slug": "hinnant-farm",
+  "name": "Hinnant Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Eutawville, SC",
+  "locationCity": "Eutawville",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "803-492-3788",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Peaches",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "double-hart-farm",
+  "name": "Double Hart Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Corbin, KY",
+  "locationCity": "Corbin",
+  "locationState": "KY",
+  "locationZipcode": "",
+  "phone": "606-523-0465",
+  "crops": [
+    "Strawberries",
+    "Tomatoes",
+    "Green beans"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:11.100Z"
+    }
+  ]
+}

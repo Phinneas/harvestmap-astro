@@ -1,0 +1,27 @@
+{
+  "slug": "morrison-s-sunny-fields",
+  "name": "Morrison's Sunny Fields",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Paw Paw, MI",
+  "locationCity": "Paw Paw",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "269-657-6115",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Apples",
+    "Peaches",
+    "Corn",
+    "Tomatoes",
+    "Grapes",
+    "Asparagus"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

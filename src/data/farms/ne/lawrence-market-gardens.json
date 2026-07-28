@@ -1,0 +1,24 @@
+{
+  "slug": "lawrence-market-gardens",
+  "name": "Lawrence Market Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Broken Bow, NE",
+  "locationCity": "Broken Bow",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "phone": "(308) 872-5609",
+  "crops": [
+    "Pumpkins",
+    "Corn",
+    "Tomatoes",
+    "Green beans",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:34.673Z"
+    }
+  ]
+}

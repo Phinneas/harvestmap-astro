@@ -1,0 +1,25 @@
+{
+  "slug": "dunn-s-farmstand",
+  "name": "Dunn's Farmstand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Wilmington, IL",
+  "locationCity": "Wilmington",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "815-476-7667",
+  "crops": [
+    "Strawberries",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Asparagus",
+    "Green beans"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

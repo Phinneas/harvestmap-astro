@@ -1,0 +1,26 @@
+{
+  "slug": "gogle-farms",
+  "name": "Gogle Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Coplay, PA",
+  "locationCity": "Coplay",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "610-262-4275",
+  "crops": [
+    "Apples",
+    "Pears",
+    "Peaches",
+    "Apricots",
+    "Plums",
+    "Cherries",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

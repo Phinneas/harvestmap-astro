@@ -1,0 +1,21 @@
+{
+  "slug": "david-sant-s-farm",
+  "name": "David Sant's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Clifton, ID",
+  "locationCity": "Clifton",
+  "locationState": "ID",
+  "locationZipcode": "",
+  "phone": "(208) 747-3012",
+  "crops": [
+    "Corn",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:33.027Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "currier-orchards",
+  "name": "Currier Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Merrimack, NH",
+  "locationCity": "Merrimack",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Currier+Orchards&amp;ES=NH&amp;EC=Hillsborough+County&amp;EP=+603-881-8864&amp;ECT=Merrimack&amp;EZ=03054&amp;EA=9+Peaslee+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.currierorchards.com&amp;RD=RD&amp;EF=CurrierOrchards&amp;EM=currierorchards%40yahoo.com&amp;EX=US&amp;PG=NHhillsborough.htm&amp;OP=10+am+to+5+pm%2C+weekdays%3B+9+am+to+6pm%2C+weekends+with+pick+your+own+open+until+5%3B+Labor+Day-Thanksgiving%3B%3B+&amp;IG=&amp;TW=&amp;DS=Pick+your+own+varieties+include+Cortland%2C+Macoun%2C+and+Honeycrisp.+We+have+carving+and+sugar+pumpkins%2C+pumpkin+bread%2C+cider+donuts%2C+and+lots+of+other+goodies+in+the+store.+Apple+varieties+include+McIntosh%2C+Honeycrisp%2C+Macoun%2C+Golden+Delicious%2C+Red+Delicious%2C+Empire%2C+Cortland%2C+Gala%2C+Jonastar%2C+Liberty.+.&amp;DR=+",
+  "phone": "603-881-8864",
+  "crops": [
+    "Apples",
+    "Pumpkins",
+    "Peas",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:23.079Z"
+    }
+  ]
+}

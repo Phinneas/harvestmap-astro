@@ -1,0 +1,27 @@
+{
+  "slug": "freedom-farm",
+  "name": "Freedom Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Elizabethton, TN",
+  "locationCity": "Elizabethton",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "phone": "304-618-3360",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Apples",
+    "Peaches",
+    "Cherries",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:13.166Z"
+    }
+  ]
+}

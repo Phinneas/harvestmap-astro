@@ -1,0 +1,20 @@
+{
+  "slug": "log-cabin-farm-winery",
+  "name": "Log Cabin Farm Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Satsuma, FL",
+  "locationCity": "Satsuma",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "386-467-2437",
+  "crops": [
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "donald-king",
+  "name": "Donald King",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Alachua, FL",
+  "locationCity": "Alachua",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "(386) 462-3092",
+  "crops": [
+    "Citrus"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

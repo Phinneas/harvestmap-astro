@@ -1,0 +1,19 @@
+{
+  "slug": "local-honey",
+  "name": "Local Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "OH",
+  "locationCity": "",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "crops": [
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

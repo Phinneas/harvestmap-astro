@@ -1,0 +1,20 @@
+{
+  "slug": "blueberry-lane-farm",
+  "name": "Blueberry Lane Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cantonment, FL",
+  "locationCity": "Cantonment",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "1000645067",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.322Z"
+    }
+  ]
+}

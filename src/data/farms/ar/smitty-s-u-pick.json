@@ -1,0 +1,27 @@
+{
+  "slug": "smitty-s-u-pick",
+  "name": "Smitty's U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mountain Home, AR",
+  "locationCity": "Mountain Home",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "phone": "870-425-7028",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Pumpkins",
+    "Squash",
+    "Asparagus",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:18.748Z"
+    }
+  ]
+}

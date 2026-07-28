@@ -12,8 +12,17 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:25:04.692Z"
+      "lastSeen": "2026-07-28T19:36:55.391Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.091Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:25:04.692Z"
+  "usdaLastUpdated": "2026-07-28T19:36:55.391Z",
+  "crops": [
+    "Raspberries",
+    "Blackberries",
+    "Corn"
+  ]
 }

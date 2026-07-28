@@ -1,0 +1,21 @@
+{
+  "slug": "country-fresh-farm",
+  "name": "Country Fresh Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Parma, ID",
+  "locationCity": "Parma",
+  "locationState": "ID",
+  "locationZipcode": "",
+  "phone": "(208) 484-4701",
+  "crops": [
+    "Corn",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:33.027Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "rosenkranz",
+  "name": "Rosenkranz",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brownsville, WI",
+  "locationCity": "Brownsville",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Apples",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "u-pick-peas-and-okra",
+  "name": "U-Pick Peas and Okra",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sanford, FL",
+  "locationCity": "Sanford",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "407-829-0739",
+  "crops": [
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

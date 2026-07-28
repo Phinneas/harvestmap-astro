@@ -1,0 +1,20 @@
+{
+  "slug": "flying-basset-farm",
+  "name": "Flying Basset Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Forest Home, AL",
+  "locationCity": "Forest Home",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "571-215-6629",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

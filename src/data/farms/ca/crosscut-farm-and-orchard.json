@@ -1,0 +1,20 @@
+{
+  "slug": "crosscut-farm-and-orchard",
+  "name": "Crosscut Farm and Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Julian, CA",
+  "locationCity": "Julian",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "605-430-9791",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

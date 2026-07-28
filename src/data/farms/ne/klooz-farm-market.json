@@ -1,0 +1,22 @@
+{
+  "slug": "klooz-farm-market",
+  "name": "Klooz Farm Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cook, NE",
+  "locationCity": "Cook",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "phone": "(308) 345-1753",
+  "crops": [
+    "Apples",
+    "Corn",
+    "Asparagus"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:34.673Z"
+    }
+  ]
+}

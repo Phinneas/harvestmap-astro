@@ -1,0 +1,24 @@
+{
+  "slug": "the-peach-orchard-at-lake-fork",
+  "name": "The Peach Orchard at Lake Fork",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Yantis, TX",
+  "locationCity": "Yantis",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "1000635486",
+  "crops": [
+    "Strawberries",
+    "Blackberries",
+    "Peaches",
+    "Plums",
+    "Figs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

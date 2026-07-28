@@ -1,0 +1,20 @@
+{
+  "slug": "henry-ohtonen",
+  "name": "Henry Ohtonen",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Chassell, MI",
+  "locationCity": "Chassell",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "(906) 523-4044",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

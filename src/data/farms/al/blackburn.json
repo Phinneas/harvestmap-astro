@@ -1,0 +1,20 @@
+{
+  "slug": "blackburn",
+  "name": "Blackburn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Warrior, AL",
+  "locationCity": "Warrior",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "(205) 647-2420",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

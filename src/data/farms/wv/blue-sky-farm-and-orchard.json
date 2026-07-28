@@ -1,0 +1,24 @@
+{
+  "slug": "blue-sky-farm-and-orchard",
+  "name": "Blue Sky Farm and Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bluefield, WV",
+  "locationCity": "Bluefield",
+  "locationState": "WV",
+  "locationZipcode": "",
+  "website": "https://www.facebook.com/BlueSkyFarmandOrchard",
+  "phone": "608-412-4720",
+  "crops": [
+    "Blackberries",
+    "Apples",
+    "Peaches",
+    "Cherries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:18.878Z"
+    }
+  ]
+}

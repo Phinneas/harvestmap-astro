@@ -1,0 +1,21 @@
+{
+  "slug": "carter-s-farm-market",
+  "name": "Carter's Farm Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Oxford, ME",
+  "locationCity": "Oxford",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "phone": "207-539-4848",
+  "crops": [
+    "Tomatoes",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.225Z"
+    }
+  ]
+}

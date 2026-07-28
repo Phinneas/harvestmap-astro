@@ -1,0 +1,25 @@
+{
+  "slug": "garay-gardens-and-orchards",
+  "name": "Garay Gardens and Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Quincy, WA",
+  "locationCity": "Quincy",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "phone": "(509) 771-2002",
+  "crops": [
+    "Raspberries",
+    "Squash",
+    "Tomatoes",
+    "Peppers",
+    "Herbs",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.975Z"
+    }
+  ]
+}

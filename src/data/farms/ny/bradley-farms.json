@@ -1,0 +1,24 @@
+{
+  "slug": "bradley-farms",
+  "name": "Bradley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Elmira, NY",
+  "locationCity": "Elmira",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "607-732-0561",
+  "crops": [
+    "Apples",
+    "Pumpkins",
+    "Tomatoes",
+    "Peppers",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

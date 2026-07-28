@@ -1,0 +1,20 @@
+{
+  "slug": "n40-berries",
+  "name": "N40 Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Stillwater, OK",
+  "locationCity": "Stillwater",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "phone": "(405) 385-9386",
+  "crops": [
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:45.184Z"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "triple-j-farms",
+  "name": "Triple J Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Baker, FL",
+  "locationCity": "Baker",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

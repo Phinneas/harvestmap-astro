@@ -1,0 +1,20 @@
+{
+  "slug": "the-berry-farm",
+  "name": "The Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Wilcox, AZ",
+  "locationCity": "Wilcox",
+  "locationState": "AZ",
+  "locationZipcode": "",
+  "phone": "520-300-0337",
+  "crops": [
+    "Boysenberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:49.079Z"
+    }
+  ]
+}

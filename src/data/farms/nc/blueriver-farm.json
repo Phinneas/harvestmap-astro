@@ -1,0 +1,22 @@
+{
+  "slug": "blueriver-farm",
+  "name": "BlueRiver Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Oak Ridge, NC",
+  "locationCity": "Oak Ridge",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "6155569932",
+  "crops": [
+    "Blueberries",
+    "Apples",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

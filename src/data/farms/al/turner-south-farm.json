@@ -1,0 +1,20 @@
+{
+  "slug": "turner-south-farm",
+  "name": "Turner South Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ozark, AL",
+  "locationCity": "Ozark",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "(334) 774-5242",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

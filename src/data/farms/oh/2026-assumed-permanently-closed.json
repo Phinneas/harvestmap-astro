@@ -1,0 +1,20 @@
+{
+  "slug": "2026-assumed-permanently-closed",
+  "name": "2026 Assumed permanently closed",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Indian Springs, OH",
+  "locationCity": "Indian Springs",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "crops": [
+    "Blackberries",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "tree-o-groves",
+  "name": "Tree-O Groves",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lake Alfred, FL",
+  "locationCity": "Lake Alfred",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "1572441919",
+  "crops": [
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

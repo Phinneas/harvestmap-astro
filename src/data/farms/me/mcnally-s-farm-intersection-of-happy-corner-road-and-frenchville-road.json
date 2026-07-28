@@ -9,11 +9,22 @@
   "locationZipcode": "",
   "lat": 45.9674899959785,
   "lon": -68.5255900065068,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=McNally%27s+Farm&amp;ES=ME&amp;EC=Aroostook+County&amp;EP=+207-528-2110&amp;ECT=Patten&amp;EZ=&amp;EA=Intersection+of+Happy+Corner+Road+and+Frenchville+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.facebook.com%2Fpeople%2FMcNally-Farm%2F100057397301558&amp;RD=NW&amp;EF=people%2FMcNally-Farm%2F100057397301558%2F&amp;EM=mcnallyfarm%40ainop.com&amp;EX=US&amp;PG=MEnorth.htm&amp;OP=7+days+a+week%3B+Please+call+ahead+of+time%3B%3B+&amp;IG=&amp;TW=&amp;DS=We+also+have+potatoes.+We+take+orders+for+the+potatoes+and+people+pick+them+up.+The+berries+start+in+July+and+run+through+August.+The+potatoes+run+through+October.&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:16.488Z"
+      "lastSeen": "2026-07-28T19:28:41.874Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.171Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:16.488Z"
+  "usdaLastUpdated": "2026-07-28T19:28:41.874Z",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Corn"
+  ],
+  "phone": "1000573973"
 }

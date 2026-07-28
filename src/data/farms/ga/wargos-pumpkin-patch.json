@@ -1,0 +1,23 @@
+{
+  "slug": "wargos-pumpkin-patch",
+  "name": "Wargos Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Luthersville, GA",
+  "locationCity": "Luthersville",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "website": "https://www.facebook.com/wargospumpkinpatch/",
+  "phone": "770-377-8635",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

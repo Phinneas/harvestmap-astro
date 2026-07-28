@@ -1,0 +1,22 @@
+{
+  "slug": "mick-farms",
+  "name": "Mick Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Saint Cloud, FL",
+  "locationCity": "Saint Cloud",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "407-791-6873",
+  "crops": [
+    "Strawberries",
+    "Flowers",
+    "Sunflowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

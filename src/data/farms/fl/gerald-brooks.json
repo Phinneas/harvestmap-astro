@@ -1,0 +1,23 @@
+{
+  "slug": "gerald-brooks",
+  "name": "Gerald Brooks",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Baker, FL",
+  "locationCity": "Baker",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "850-537-4521",
+  "crops": [
+    "Blueberries",
+    "Corn",
+    "Tomatoes",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.322Z"
+    }
+  ]
+}

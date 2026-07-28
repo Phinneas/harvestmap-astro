@@ -1,0 +1,22 @@
+{
+  "slug": "farmer-mike-s-upick-fort-myers",
+  "name": "Farmer Mike's UPick Fort Myers",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fort Myers, FL",
+  "locationCity": "Fort Myers",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "6155053049",
+  "crops": [
+    "Strawberries",
+    "Flowers",
+    "Sunflowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

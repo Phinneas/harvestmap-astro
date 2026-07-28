@@ -1,0 +1,25 @@
+{
+  "slug": "berry-blossom-farms",
+  "name": "Berry Blossom Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rathdrum, ID",
+  "locationCity": "Rathdrum",
+  "locationState": "ID",
+  "locationZipcode": "",
+  "phone": "208-967-2520",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Pumpkins",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:33.027Z"
+    }
+  ]
+}

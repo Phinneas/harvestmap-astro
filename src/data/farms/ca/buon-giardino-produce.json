@@ -1,0 +1,24 @@
+{
+  "slug": "buon-giardino-produce",
+  "name": "Buon Giardino Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lockeford, CA",
+  "locationCity": "Lockeford",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "209-727-3114",
+  "crops": [
+    "Cherries",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Green beans"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

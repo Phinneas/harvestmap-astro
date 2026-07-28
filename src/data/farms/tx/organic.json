@@ -1,0 +1,25 @@
+{
+  "slug": "organic",
+  "name": "ORGANIC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brenham, TX",
+  "locationCity": "Brenham",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "979-251-9922",
+  "crops": [
+    "Pumpkins",
+    "Squash",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

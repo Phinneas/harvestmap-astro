@@ -1,0 +1,29 @@
+{
+  "slug": "marburger-orchard",
+  "name": "Marburger Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fredericksburg, TX",
+  "locationCity": "Fredericksburg",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "1543832545",
+  "crops": [
+    "Peaches",
+    "Figs",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Herbs",
+    "Flowers",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

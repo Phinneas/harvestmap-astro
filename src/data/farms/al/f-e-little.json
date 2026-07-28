@@ -1,0 +1,22 @@
+{
+  "slug": "f-e-little",
+  "name": "F. E. Little",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Foley, AL",
+  "locationCity": "Foley",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "251-943-2548",
+  "crops": [
+    "Blackberries",
+    "Figs",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

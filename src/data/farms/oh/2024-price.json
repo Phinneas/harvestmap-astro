@@ -1,0 +1,20 @@
+{
+  "slug": "2024-price",
+  "name": "2024 price:",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Marietta, OH",
+  "locationCity": "Marietta",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "phone": "740.374.3161",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

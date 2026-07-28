@@ -9,11 +9,22 @@
   "locationZipcode": "",
   "lat": 44.3229579945667,
   "lon": -88.7214009783796,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Cuffs+Strawberry+Farm&amp;ES=WI&amp;EC=Outagamie+County&amp;EP=+920-779-6372&amp;ECT=Hortonville&amp;EZ=&amp;EA=N2299+Ledge+Hill+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.cuffarms.com&amp;RD=NR&amp;EF=Cuff-Farms-167698123240869&amp;EM=No+match.+&amp;EX=US&amp;PG=WIgrnb.htm&amp;OP=for+large+groups+by+appointment+only%3B%3B+&amp;IG=&amp;TW=&amp;DS=&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:27:29.800Z"
+      "lastSeen": "2026-07-28T19:41:29.990Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:42.884Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:27:29.800Z"
+  "usdaLastUpdated": "2026-07-28T19:41:29.990Z",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Corn"
+  ],
+  "phone": "920-779-6372"
 }

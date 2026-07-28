@@ -1,0 +1,20 @@
+{
+  "slug": "yellow-house-farms",
+  "name": "Yellow House Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Punta Gorda, FL",
+  "locationCity": "Punta Gorda",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "941-505-2300",
+  "crops": [
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "carruth-s-peach-haven",
+  "name": "Carruth's Peach Haven",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Poplar Grove, AR",
+  "locationCity": "Poplar Grove",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "phone": "870-572-3260",
+  "crops": [
+    "Blackberries",
+    "Peaches",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:18.748Z"
+    }
+  ]
+}

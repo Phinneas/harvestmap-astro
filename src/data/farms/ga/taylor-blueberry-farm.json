@@ -1,0 +1,20 @@
+{
+  "slug": "taylor-blueberry-farm",
+  "name": "Taylor Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Carrollton, GA",
+  "locationCity": "Carrollton",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "770-832-6857",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

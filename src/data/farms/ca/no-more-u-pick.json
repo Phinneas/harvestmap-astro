@@ -1,0 +1,20 @@
+{
+  "slug": "no-more-u-pick",
+  "name": "NO MORE U-PICK",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brentwood, CA",
+  "locationCity": "Brentwood",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "1136076819",
+  "crops": [
+    "Cherries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

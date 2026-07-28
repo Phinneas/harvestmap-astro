@@ -1,0 +1,21 @@
+{
+  "slug": "charles-turner",
+  "name": "Charles Turner",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Black, AL",
+  "locationCity": "Black",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "(334)684-3008",
+  "crops": [
+    "Corn",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

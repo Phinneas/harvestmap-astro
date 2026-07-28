@@ -1,0 +1,23 @@
+{
+  "slug": "please-write-me",
+  "name": "please write me",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Scroggins, TX",
+  "locationCity": "Scroggins",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "1976690702",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

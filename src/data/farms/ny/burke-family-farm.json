@@ -1,0 +1,23 @@
+{
+  "slug": "burke-family-farm",
+  "name": "Burke Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Malone Junction, NY",
+  "locationCity": "Malone Junction",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "website": "https://www.facebook.com/burkalert",
+  "phone": "518-651-4599",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

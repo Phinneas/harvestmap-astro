@@ -1,0 +1,25 @@
+{
+  "slug": "frank-s-strawberries-sweet-corn-and-vegetable-barn",
+  "name": "Frank's Strawberries, Sweet Corn and Vegetable Barn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Carthage, NC",
+  "locationCity": "Carthage",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(910) 947-5775",
+  "crops": [
+    "Strawberries",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Green beans",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "firebird-farm",
+  "name": "Firebird Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lee, NH",
+  "locationCity": "Lee",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "phone": "603-659-6180",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:23.079Z"
+    }
+  ]
+}

@@ -9,11 +9,26 @@
   "locationZipcode": "",
   "lat": 42.1907371106514,
   "lon": -71.37073793978,
+  "website": "https://www.pickyourown.org/PYORD.php?PAGGE=PAGEXYZ&amp;NAME=The Big Apple Farm&amp;URL=https://thebigapple.farm/",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:41.330Z"
+      "lastSeen": "2026-07-28T19:29:19.706Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:29:34.254Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:41.330Z"
+  "usdaLastUpdated": "2026-07-28T19:29:19.706Z",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Apples",
+    "Flowers",
+    "Sunflowers",
+    "Honey",
+    "Christmas trees"
+  ],
+  "phone": "(508) 445-0011"
 }

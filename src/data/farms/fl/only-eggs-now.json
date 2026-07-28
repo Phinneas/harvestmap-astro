@@ -1,0 +1,29 @@
+{
+  "slug": "only-eggs-now",
+  "name": "ONLY EGGS NOW,",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hallandale Beach, FL",
+  "locationCity": "Hallandale Beach",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Oranges",
+    "Tangerines",
+    "Avocados",
+    "Pumpkins",
+    "Tomatoes",
+    "Eggplant",
+    "Honey",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

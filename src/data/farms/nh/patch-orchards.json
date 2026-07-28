@@ -1,0 +1,23 @@
+{
+  "slug": "patch-orchards",
+  "name": "Patch Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lebanon, NH",
+  "locationCity": "Lebanon",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Patch+Orchards&amp;ES=NH&amp;EC=Grafton+County&amp;EP=+603-448-4130&amp;ECT=Lebanon&amp;EZ=03766&amp;EA=40+Patch+Rd&amp;EA2=&amp;EW=https%3A%2F%2Fwww.patchorchards.com&amp;RD=NR&amp;EF=PatchOrchards&amp;EM=patchorchards%40gmail.com&amp;EX=US&amp;PG=NHnorth.htm&amp;OP=No+match+%3B+&amp;IG=&amp;TW=&amp;DS=&amp;DR=+",
+  "phone": "603-448-4130",
+  "crops": [
+    "Apples",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:23.079Z"
+    }
+  ]
+}

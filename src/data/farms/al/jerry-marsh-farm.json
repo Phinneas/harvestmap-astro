@@ -1,0 +1,21 @@
+{
+  "slug": "jerry-marsh-farm",
+  "name": "Jerry Marsh Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cleveland, AL",
+  "locationCity": "Cleveland",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "205 541-9470",
+  "crops": [
+    "Strawberries",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "solebury-orchards",
+  "name": "Solebury Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "New Hope, PA",
+  "locationCity": "New Hope",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "215-297-8079",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Apples",
+    "Peaches",
+    "Cherries",
+    "Pumpkins",
+    "Tomatoes",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

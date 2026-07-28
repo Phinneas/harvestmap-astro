@@ -1,0 +1,23 @@
+{
+  "slug": "2024-prices",
+  "name": "2024 Prices",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Waterford, PA",
+  "locationCity": "Waterford",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "814-796-2641",
+  "crops": [
+    "Strawberries",
+    "Blackberries",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

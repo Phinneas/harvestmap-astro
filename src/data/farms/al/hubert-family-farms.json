@@ -1,0 +1,21 @@
+{
+  "slug": "hubert-family-farms",
+  "name": "Hubert Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "New Market, AL",
+  "locationCity": "New Market",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "256-759-1099",
+  "crops": [
+    "Flowers",
+    "Sunflowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "shuler-strawberries-and-peaches",
+  "name": "Shuler Strawberries and Peaches",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Holly Hill, SC",
+  "locationCity": "Holly Hill",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "803-759-0089",
+  "crops": [
+    "Strawberries",
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

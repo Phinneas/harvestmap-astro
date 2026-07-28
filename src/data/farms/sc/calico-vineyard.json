@@ -1,0 +1,23 @@
+{
+  "slug": "calico-vineyard",
+  "name": "Calico Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Travelers Rest, SC",
+  "locationCity": "Travelers Rest",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "864-420-6052",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Figs",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

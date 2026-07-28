@@ -1,0 +1,25 @@
+{
+  "slug": "note-from-blake",
+  "name": "Note from Blake:",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Donough, GA",
+  "locationCity": "Donough",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "770-639-1598",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Peaches",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

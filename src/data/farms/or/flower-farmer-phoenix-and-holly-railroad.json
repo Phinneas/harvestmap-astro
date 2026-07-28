@@ -1,0 +1,21 @@
+{
+  "slug": "flower-farmer-phoenix-and-holly-railroad",
+  "name": "Flower Farmer Phoenix and Holly Railroad",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Canby, OR",
+  "locationCity": "Canby",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "503-266-3581",
+  "crops": [
+    "Pumpkins",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

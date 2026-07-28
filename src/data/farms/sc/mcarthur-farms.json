@@ -1,0 +1,20 @@
+{
+  "slug": "mcarthur-farms",
+  "name": "McArthur Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bennettsville, SC",
+  "locationCity": "Bennettsville",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "843-479-3839",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

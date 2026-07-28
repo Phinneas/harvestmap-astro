@@ -1,0 +1,23 @@
+{
+  "slug": "nelson-s-berry-farm",
+  "name": "Nelson's Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Westboro, WI",
+  "locationCity": "Westboro",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Nelson%27s+Berry+Farm&amp;ES=WI&amp;EC=Taylor+County&amp;EP=+715-427-3440&amp;ECT=Westboro&amp;EZ=54490&amp;EA=W4929+Gunnar+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.facebook.com%2Fnelsonsberryfarm&amp;RD=NW&amp;EF=nelsonsberryfarm&amp;EM=nelsonberryfarm%40yahoo.com&amp;EX=US&amp;PG=WInortheast.htm&amp;OP=see+their+page+or+call+for+availability%3B%3B+&amp;IG=&amp;TW=&amp;DS=You+pick+or+prepicked.+Fresh+garden+vegetables.+pure+maple+syrup%2C+high+quality+hay%2C+shiitake+mushrooms+and+home+grown+black+angus+beef.Our+season+starts+in+March+with+maple+syrup&amp;DR=+",
+  "phone": "715-427-3440",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

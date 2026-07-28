@@ -1,0 +1,21 @@
+{
+  "slug": "comstock-strawberries",
+  "name": "Comstock Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Merrillan, WI",
+  "locationCity": "Merrillan",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "phone": "715-896-1174",
+  "crops": [
+    "Strawberries",
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

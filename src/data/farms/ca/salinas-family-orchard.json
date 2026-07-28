@@ -1,0 +1,20 @@
+{
+  "slug": "salinas-family-orchard",
+  "name": "Salinas Family Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Littlerock, CA",
+  "locationCity": "Littlerock",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "(818) 795-9292",
+  "crops": [
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

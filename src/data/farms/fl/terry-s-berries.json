@@ -1,0 +1,20 @@
+{
+  "slug": "terry-s-berries",
+  "name": "Terry's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bristol, FL",
+  "locationCity": "Bristol",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "1000648826",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.322Z"
+    }
+  ]
+}

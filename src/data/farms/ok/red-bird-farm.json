@@ -1,0 +1,22 @@
+{
+  "slug": "red-bird-farm",
+  "name": "Red Bird Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Enid, OK",
+  "locationCity": "Enid",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "phone": "(580) 448-0210",
+  "crops": [
+    "Blackberries",
+    "Pumpkins",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:45.184Z"
+    }
+  ]
+}

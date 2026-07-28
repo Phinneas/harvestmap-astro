@@ -1,0 +1,21 @@
+{
+  "slug": "apple-festival",
+  "name": "Apple Festival",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Harrisburg, SD",
+  "locationCity": "Harrisburg",
+  "locationState": "SD",
+  "locationZipcode": "",
+  "phone": "605-743-2424",
+  "crops": [
+    "Apples",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:52.204Z"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "2025-assumed-permanently-closed",
+  "name": "2025 assumed permanently closed,",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Alpha, IL",
+  "locationCity": "Alpha",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "309-629-2359",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

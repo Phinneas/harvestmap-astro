@@ -1,0 +1,22 @@
+{
+  "slug": "makin-lane-blueberry-farm",
+  "name": "Makin Lane Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Canby, OR",
+  "locationCity": "Canby",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "1000649257",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

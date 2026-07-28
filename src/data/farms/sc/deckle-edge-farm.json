@@ -1,0 +1,21 @@
+{
+  "slug": "deckle-edge-farm",
+  "name": "Deckle Edge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Blythewood, SC",
+  "locationCity": "Blythewood",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "803-608-3934",
+  "crops": [
+    "Blackberries",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

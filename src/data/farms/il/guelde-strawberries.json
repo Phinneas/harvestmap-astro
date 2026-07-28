@@ -1,0 +1,22 @@
+{
+  "slug": "guelde-strawberries",
+  "name": "Guelde Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Earlville, IL",
+  "locationCity": "Earlville",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "(815) 246-9609",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Asparagus"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

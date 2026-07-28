@@ -1,0 +1,27 @@
+{
+  "slug": "cobblestone-farm",
+  "name": "Cobblestone Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hilton, NY",
+  "locationCity": "Hilton",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Cobblestone+Farm&amp;ES=NY&amp;EC=Monroe+County&amp;EP=+585-392-8422&amp;ECT=Hilton&amp;EZ=14468&amp;EA=1191+Manitou+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100054537635564&amp;RD=NW&amp;EF=profile.php%3Fid%3D100054537635564&amp;EM=hwyant8422%40aol.com&amp;EX=US&amp;PG=nyfingerlakespumpkins.php&amp;OP=No+match+%3B+&amp;IG=&amp;TW=&amp;DS=&amp;DR=+",
+  "phone": "1000545376",
+  "crops": [
+    "Apples",
+    "Pears",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

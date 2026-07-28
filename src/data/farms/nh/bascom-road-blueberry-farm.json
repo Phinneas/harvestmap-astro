@@ -1,0 +1,24 @@
+{
+  "slug": "bascom-road-blueberry-farm",
+  "name": "Bascom Road Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Newport, NH",
+  "locationCity": "Newport",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "phone": "(603) 359-7703",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Pumpkins",
+    "Honey",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:23.079Z"
+    }
+  ]
+}

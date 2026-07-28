@@ -1,0 +1,20 @@
+{
+  "slug": "blueberry-acres",
+  "name": "Blueberry Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dallas City, IL",
+  "locationCity": "Dallas City",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "1000802636",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "berried-treasures-farm-market",
+  "name": "Berried Treasures Farm Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Linden, PA",
+  "locationCity": "Linden",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "272-289-3272",
+  "crops": [
+    "Strawberries",
+    "Blackberries",
+    "Corn",
+    "Peppers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

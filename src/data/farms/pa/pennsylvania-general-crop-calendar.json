@@ -1,0 +1,31 @@
+{
+  "slug": "pennsylvania-general-crop-calendar",
+  "name": "Pennsylvania General Crop Calendar",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "PA",
+  "locationCity": "",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "2652511740",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Apples",
+    "Pears",
+    "Peaches",
+    "Nectarines",
+    "Apricots",
+    "Plums",
+    "Cherries",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "harley-farm",
+  "name": "Harley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Glocester, RI",
+  "locationCity": "Glocester",
+  "locationState": "RI",
+  "locationZipcode": "",
+  "phone": "(401) 710-9154",
+  "crops": [
+    "Apples",
+    "Pumpkins",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:08.781Z"
+    }
+  ]
+}

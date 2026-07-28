@@ -1,0 +1,23 @@
+{
+  "slug": "richard-sobotka-family",
+  "name": "Richard Sobotka Family",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Inman, NE",
+  "locationCity": "Inman",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "phone": "(402) 394-5537",
+  "crops": [
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:34.672Z"
+    }
+  ]
+}

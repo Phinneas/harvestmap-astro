@@ -1,0 +1,23 @@
+{
+  "slug": "sturges-orchards-and-farm-market",
+  "name": "Sturges Orchards and Farm Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fombell, PA",
+  "locationCity": "Fombell",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "3040397196",
+  "crops": [
+    "Apples",
+    "Peaches",
+    "Plums",
+    "Cherries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

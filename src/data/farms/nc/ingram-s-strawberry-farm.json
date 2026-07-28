@@ -1,0 +1,20 @@
+{
+  "slug": "ingram-s-strawberry-farm",
+  "name": "Ingram's Strawberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "High Point, NC",
+  "locationCity": "High Point",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "336-431-2369",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

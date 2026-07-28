@@ -1,0 +1,24 @@
+{
+  "slug": "duffield-s-farm-market",
+  "name": "Duffield's Farm Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sewell, NJ",
+  "locationCity": "Sewell",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "(856) 589-7090",
+  "crops": [
+    "Strawberries",
+    "Apples",
+    "Pumpkins",
+    "Corn",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

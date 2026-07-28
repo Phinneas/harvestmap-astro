@@ -1,0 +1,19 @@
+{
+  "slug": "divine-blueberry-patch",
+  "name": "Divine Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Neosho, MO",
+  "locationCity": "Neosho",
+  "locationState": "MO",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:58.887Z"
+    }
+  ]
+}

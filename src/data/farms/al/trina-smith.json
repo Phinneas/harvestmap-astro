@@ -1,0 +1,19 @@
+{
+  "slug": "trina-smith",
+  "name": "Trina Smith",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cullman, AL",
+  "locationCity": "Cullman",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

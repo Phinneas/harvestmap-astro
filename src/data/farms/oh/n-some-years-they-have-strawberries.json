@@ -1,0 +1,25 @@
+{
+  "slug": "n-some-years-they-have-strawberries",
+  "name": "n SOME years they have strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Midland, OH",
+  "locationCity": "Midland",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "phone": "1511034015",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Apples",
+    "Plums",
+    "Pumpkins",
+    "Squash"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

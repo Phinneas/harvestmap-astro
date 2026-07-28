@@ -1,0 +1,20 @@
+{
+  "slug": "blueberries-are-not-sprayed",
+  "name": "Blueberries are not sprayed",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hillsoro, OR",
+  "locationCity": "Hillsoro",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "503-819-2411",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

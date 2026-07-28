@@ -1,0 +1,22 @@
+{
+  "slug": "no-pesticides-are-used",
+  "name": "No pesticides are used",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ripon, CA",
+  "locationCity": "Ripon",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "209-824-0341",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Almonds"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

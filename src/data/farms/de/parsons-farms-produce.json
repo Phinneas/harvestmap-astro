@@ -1,0 +1,25 @@
+{
+  "slug": "parsons-farms-produce",
+  "name": "Parsons Farms Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dagsboro, DE",
+  "locationCity": "Dagsboro",
+  "locationState": "DE",
+  "locationZipcode": "",
+  "phone": "(302) 732-3336",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Apples",
+    "Peaches",
+    "Pumpkins",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:24:38.411Z"
+    }
+  ]
+}

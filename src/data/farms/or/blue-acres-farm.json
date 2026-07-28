@@ -1,0 +1,20 @@
+{
+  "slug": "blue-acres-farm",
+  "name": "Blue Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Silverton, OR",
+  "locationCity": "Silverton",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "1000833878",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

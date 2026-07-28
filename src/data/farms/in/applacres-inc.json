@@ -1,0 +1,28 @@
+{
+  "slug": "applacres-inc",
+  "name": "Applacres, Inc.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bedford, IN",
+  "locationCity": "Bedford",
+  "locationState": "IN",
+  "locationZipcode": "",
+  "phone": "1533278480",
+  "crops": [
+    "Strawberries",
+    "Blackberries",
+    "Apples",
+    "Pears",
+    "Peaches",
+    "Nectarines",
+    "Pumpkins",
+    "Squash",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:27:18.483Z"
+    }
+  ]
+}

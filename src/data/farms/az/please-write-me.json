@@ -1,0 +1,20 @@
+{
+  "slug": "please-write-me",
+  "name": "please write me",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Buckeye, AZ",
+  "locationCity": "Buckeye",
+  "locationState": "AZ",
+  "locationZipcode": "",
+  "phone": "2568172877",
+  "crops": [
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:49.079Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "tim-davis",
+  "name": "Tim Davis",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Jacksonville, NC",
+  "locationCity": "Jacksonville",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "910-259-5474",
+  "crops": [
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

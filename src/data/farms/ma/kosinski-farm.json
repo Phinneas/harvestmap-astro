@@ -1,0 +1,22 @@
+{
+  "slug": "kosinski-farm",
+  "name": "Kosinski Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Feeding Hills, MA",
+  "locationCity": "Feeding Hills",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Kosinski+Farm&amp;ES=MA&amp;EC=Hampden+County&amp;EP=+413-572-4344&amp;ECT=Feeding+Hills&amp;EZ=&amp;EA=227+North+West+Street&amp;EA2=&amp;EW=https%3A%2F%2Fkosinskifarms.net&amp;RD=RD&amp;EF=&amp;EM=No+match.+&amp;EX=US&amp;PG=MAwest.htm&amp;OP=July+and+August%2C+7+days+a+week+from+7am+to+noon%2C+except+closed+on+Friday%3B%3B+&amp;IG=&amp;TW=&amp;DS=Turn+right+onto+North+West+Street%2C+one+half+mile+on+left.+Family+owned+%26+operated+since+1915.+Sam+%26+Sheila+operated+the+farm+successfully+for+over+50+years.+As+the+4th+generation&amp;DR=+",
+  "phone": "413-572-4344",
+  "crops": [
+    "Blueberries",
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:29:34.313Z"
+    }
+  ]
+}

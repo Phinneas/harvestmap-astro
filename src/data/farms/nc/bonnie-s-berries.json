@@ -1,0 +1,21 @@
+{
+  "slug": "bonnie-s-berries",
+  "name": "Bonnie's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Stella, NC",
+  "locationCity": "Stella",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(252) 393-6350",
+  "crops": [
+    "Strawberries",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

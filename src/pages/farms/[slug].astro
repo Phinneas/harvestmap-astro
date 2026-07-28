@@ -5,18 +5,18 @@ import Button from '../../components/Button.astro';
 import FarmCard from '../../components/FarmCard.astro';
 import PathLine from '../../components/illustrations/PathLine.astro';
 import Leaf from '../../components/illustrations/Leaf.astro';
-import { loadEnrichedFarms, augmentFarm } from '../../lib/farm-loader';
+import { loadAllFarms, augmentFarm } from '../../lib/farm-loader';
 import type { Farm, Season } from '../../lib/types';
 
 export function getStaticPaths() {
-  // Only prerender farms with crop data or editorial enrichment.
-  // USDA-only farms without crops are listed on state directory pages
-  // but don't get individual detail pages (keeps build time fast).
-  const enrichedFarms = loadEnrichedFarms();
-  return enrichedFarms.map((farm) => ({ params: { slug: farm.slug } }));
+  // Every farm gets a dedicated page — farms are destination experiences,
+  // not commodity locations. Build takes ~3 min for 5,800+ pages but
+  // only runs monthly via GitHub Action; CDN serves pages instantly.
+  const farms = loadAllFarms();
+  return farms.map((farm) => ({ params: { slug: farm.slug } }));
 }
 
-const allFarms = loadEnrichedFarms();
+const allFarms = loadAllFarms();
 const augmented = allFarms.map(augmentFarm);
 
 const { slug } = Astro.params;

@@ -1,0 +1,24 @@
+{
+  "slug": "2023-permanently-closed",
+  "name": "2023 permanently closed",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Omaha, NE",
+  "locationCity": "Omaha",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "phone": "(402) 572-7125",
+  "crops": [
+    "Pumpkins",
+    "Corn",
+    "Tomatoes",
+    "Asparagus",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:34.672Z"
+    }
+  ]
+}

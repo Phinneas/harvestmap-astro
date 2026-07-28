@@ -1,0 +1,20 @@
+{
+  "slug": "archlynn-farm",
+  "name": "Archlynn Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Court House, VA",
+  "locationCity": "Court House",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "phone": "434-664-7123",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:26.954Z"
+    }
+  ]
+}

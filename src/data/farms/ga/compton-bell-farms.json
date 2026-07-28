@@ -1,0 +1,21 @@
+{
+  "slug": "compton-bell-farms",
+  "name": "Compton Bell Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Buford, GA",
+  "locationCity": "Buford",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "6156025364",
+  "crops": [
+    "Strawberries",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

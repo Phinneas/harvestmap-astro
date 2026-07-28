@@ -1,0 +1,23 @@
+{
+  "slug": "g-and-c-meyer-farm",
+  "name": "G and C Meyer Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Steeleville, IL",
+  "locationCity": "Steeleville",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "4412256860",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Blackberries",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

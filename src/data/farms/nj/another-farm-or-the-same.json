@@ -1,0 +1,22 @@
+{
+  "slug": "another-farm-or-the-same",
+  "name": "Another farm or the same?",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Pomona, NJ",
+  "locationCity": "Pomona",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "609-839-1515",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "lavoie-s-farm",
+  "name": "Lavoie's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hollis, NH",
+  "locationCity": "Hollis",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Lavoie%27s+Farm&amp;ES=NH&amp;EC=Hillsborough+County&amp;EP=+603-882-0072&amp;ECT=Hollis&amp;EZ=&amp;EA=172+Nartoff+Rd&amp;EA2=&amp;EW=https%3A%2F%2Fwww.facebook.com%2Fprofile%2F100057477608216&amp;RD=NW&amp;EF=profile%2F100057477608216%2F&amp;EM=lavoiesfarm%40gmail.com&amp;EX=US&amp;PG=NHhillsborough.htm&amp;OP=Normally+open+June+1st+until+October+31st%3B%3B+&amp;IG=&amp;TW=&amp;DS=HOURS+vary+by+season.&amp;DR=Located+off+of+Pine+Hill+Rd+in+Hollis+NH",
+  "phone": "1000574776",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Apples",
+    "Cherries",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:23.079Z"
+    }
+  ]
+}

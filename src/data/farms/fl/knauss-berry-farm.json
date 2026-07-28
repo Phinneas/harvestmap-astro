@@ -1,0 +1,22 @@
+{
+  "slug": "knauss-berry-farm",
+  "name": "Knauss Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Homestead, FL",
+  "locationCity": "Homestead",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "305-247-0668",
+  "crops": [
+    "Strawberries",
+    "Tomatoes",
+    "Mango"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

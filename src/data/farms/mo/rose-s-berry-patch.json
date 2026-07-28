@@ -1,0 +1,19 @@
+{
+  "slug": "rose-s-berry-patch",
+  "name": "Rose's Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Joplin, MO",
+  "locationCity": "Joplin",
+  "locationState": "MO",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:58.887Z"
+    }
+  ]
+}

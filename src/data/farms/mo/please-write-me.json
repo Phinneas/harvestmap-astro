@@ -1,0 +1,21 @@
+{
+  "slug": "please-write-me",
+  "name": "please write me",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Benton, MO",
+  "locationCity": "Benton",
+  "locationState": "MO",
+  "locationZipcode": "",
+  "phone": "573-576-8101",
+  "crops": [
+    "Strawberries",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:58.887Z"
+    }
+  ]
+}

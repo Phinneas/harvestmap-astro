@@ -1,0 +1,19 @@
+{
+  "slug": "lock-mountain-strawberries",
+  "name": "Lock Mountain Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Martinsburg, PA",
+  "locationCity": "Martinsburg",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

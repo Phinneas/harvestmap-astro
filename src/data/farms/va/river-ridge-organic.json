@@ -1,0 +1,20 @@
+{
+  "slug": "river-ridge-organic",
+  "name": "River Ridge Organic",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Independence, VA",
+  "locationCity": "Independence",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries",
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:26.954Z"
+    }
+  ]
+}

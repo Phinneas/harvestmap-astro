@@ -1,0 +1,20 @@
+{
+  "slug": "old-orchard-creek",
+  "name": "Old Orchard Creek",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lansing, NC",
+  "locationCity": "Lansing",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "336-384-2774",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

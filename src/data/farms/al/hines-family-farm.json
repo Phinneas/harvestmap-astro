@@ -1,0 +1,21 @@
+{
+  "slug": "hines-family-farm",
+  "name": "Hines Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Killen, AL",
+  "locationCity": "Killen",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "256-702-8075",
+  "crops": [
+    "Strawberries",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

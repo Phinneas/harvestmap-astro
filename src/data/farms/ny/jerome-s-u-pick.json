@@ -1,0 +1,23 @@
+{
+  "slug": "jerome-s-u-pick",
+  "name": "Jerome's U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Naples, NY",
+  "locationCity": "Naples",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "(800) 874-2548",
+  "crops": [
+    "Raspberries",
+    "Pumpkins",
+    "Grapes",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

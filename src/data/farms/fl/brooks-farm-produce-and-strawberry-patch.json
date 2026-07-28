@@ -1,0 +1,20 @@
+{
+  "slug": "brooks-farm-produce-and-strawberry-patch",
+  "name": "Brooks Farm Produce and Strawberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Baker, FL",
+  "locationCity": "Baker",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "1000645393",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.322Z"
+    }
+  ]
+}

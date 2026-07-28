@@ -1,0 +1,22 @@
+{
+  "slug": "blackwater-blueberries",
+  "name": "Blackwater Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Virginia Beach, VA",
+  "locationCity": "Virginia Beach",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "phone": "6155425020",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:26.954Z"
+    }
+  ]
+}

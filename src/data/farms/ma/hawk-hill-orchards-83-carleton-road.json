@@ -12,8 +12,18 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:41.345Z"
+      "lastSeen": "2026-07-28T19:29:19.719Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:29:34.277Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:41.345Z"
+  "usdaLastUpdated": "2026-07-28T19:29:19.719Z",
+  "crops": [
+    "Apples",
+    "Peaches",
+    "Plums"
+  ],
+  "phone": "(508) 865-4037"
 }

@@ -9,11 +9,22 @@
   "locationZipcode": "",
   "lat": 44.2693324856265,
   "lon": -69.1522663600855,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Hardy+Farms+Apple+Orchard&amp;ES=ME&amp;EC=Knox+County&amp;EP=+207-763-3262&amp;ECT=Hope&amp;EZ=&amp;EA=Church+Street&amp;EA2=&amp;EW=https%3A%2F%2Fwww.facebook.com%2FHardyFarmsOrchard&amp;RD=NW&amp;EF=HardyFarmsOrchard%2F&amp;EM=tvhardy%40tidewater.net&amp;EX=US&amp;PG=MEaugusta.htm&amp;OP=Thursday%2C+Friday+and+Saturday+in+September+and+October%2C+8%3A30+AM+until+4%3A30+PM%3B+be+sure+to+call+before+you+go%3B%3B+&amp;IG=&amp;TW=&amp;DS=Look+for+ads+in+local+newspapers.+.+%28UPDATED%3A+October+1%2C+2018%2C+JBS%29&amp;DR=one+half+mile+from+Route+105.Look+for+ads+in+local+newspapers.+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:16.485Z"
+      "lastSeen": "2026-07-28T19:28:41.872Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.166Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:16.485Z"
+  "usdaLastUpdated": "2026-07-28T19:28:41.872Z",
+  "crops": [
+    "Apples",
+    "Pumpkins",
+    "Squash"
+  ],
+  "phone": "207-763-3262"
 }

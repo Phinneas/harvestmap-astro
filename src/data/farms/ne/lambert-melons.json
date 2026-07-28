@@ -1,0 +1,26 @@
+{
+  "slug": "lambert-melons",
+  "name": "Lambert Melons",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ewing, NE",
+  "locationCity": "Ewing",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "phone": "(402) 482-5797",
+  "crops": [
+    "Apples",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:34.673Z"
+    }
+  ]
+}

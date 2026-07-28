@@ -1,0 +1,26 @@
+{
+  "slug": "reeves-peach-farm",
+  "name": "Reeves Peach Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hartselle, AL",
+  "locationCity": "Hartselle",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "(256) 773-9479",
+  "crops": [
+    "Strawberries",
+    "Peaches",
+    "Plums",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

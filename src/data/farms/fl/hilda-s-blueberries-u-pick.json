@@ -1,0 +1,20 @@
+{
+  "slug": "hilda-s-blueberries-u-pick",
+  "name": "Hilda's Blueberries U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Madison, FL",
+  "locationCity": "Madison",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "(850) 973-8592",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

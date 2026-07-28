@@ -1,0 +1,21 @@
+{
+  "slug": "organic",
+  "name": "ORGANIC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Willow Springs, NC",
+  "locationCity": "Willow Springs",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries",
+    "Herbs",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

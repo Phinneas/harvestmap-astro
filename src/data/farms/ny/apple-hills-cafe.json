@@ -1,0 +1,24 @@
+{
+  "slug": "apple-hills-cafe",
+  "name": "Apple Hills Cafe",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Binghamton, NY",
+  "locationCity": "Binghamton",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "607-729-2683",
+  "crops": [
+    "Blueberries",
+    "Raspberries",
+    "Apples",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

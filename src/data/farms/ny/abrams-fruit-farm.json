@@ -1,0 +1,20 @@
+{
+  "slug": "abrams-fruit-farm",
+  "name": "Abrams Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Alton, NY",
+  "locationCity": "Alton",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "315-483-9271",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "tom-s-farm-market",
+  "name": "Tom's Farm Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Huntley, IL",
+  "locationCity": "Huntley",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "(847) 669-3421",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Apples",
+    "Peaches",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

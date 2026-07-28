@@ -1,0 +1,20 @@
+{
+  "slug": "kibbe-s-vermountain-farm",
+  "name": "Kibbe's Vermountain Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Saxtons River, VT",
+  "locationCity": "Saxtons River",
+  "locationState": "VT",
+  "locationZipcode": "",
+  "phone": "802-869-2892",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:07.101Z"
+    }
+  ]
+}

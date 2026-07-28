@@ -9,11 +9,22 @@
   "locationZipcode": "",
   "lat": 47.90051625124742,
   "lon": -120.1564170638038,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Chelan+Valley+Farms&amp;ES=WA&amp;EC=Chelan+County&amp;EP=%28509%29+435-1813&amp;ECT=Manson&amp;EZ=&amp;EA=2389+Green+Ave&amp;EA2=&amp;EW=https%3A%2F%2Fchelanvalleyfarms.com&amp;RD=RD&amp;EF=ChelanValleyFarms%2F&amp;EM=info%40chelanvalleyfarms.com&amp;EX=US&amp;PG=WAcentral.htm&amp;OP=Tasting+Room+Wed-Sun+from+12+pm+to+5+pm+through+October%2C+Annual+Pumpkin+Patch+Opens+Saturday%2C+in+mid-September+through+October%3A+Wed-Sunfrom+12+pm+to+5+pm%2C+Sat+%26amp%3B+Sun+10+am+to+5+pm%3B%3B+&amp;IG=&amp;TW=&amp;DS=Pumpkin+activities+on+the+weekend%2C+Upick+Apples%2C+Upick+Flowers+%26+Wine+Tasting+during+all+open+hours.+Discover+wines+for+sale%2C+tranquil+guest+accommodations%2C+plus+u-pick+pumpkins%2C+apples+and+flowers+in+the+heart+of+The+Chelan+Valley.+Our+Guest+house+is+now+available.+.+U-Pick+Flowers%2C+Workshops%2C+and+Tours%3B+join+us+for+meditation+and+yoga+events%2C+flower-arranging+lessons%2C+u-pick+flowers+or+simply+to+tour+the+working+farm.+U-Pick+Flowers%3A+Come+enjoy+the+garden+on+the+farm.+You+choose+your+colors%2C+and+textures+and+bring+home+a+farm+fresh+bouquet.+No+Reservations+Required-+just+swing+by+during+open+hours.&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:27:06.251Z"
+      "lastSeen": "2026-07-28T19:40:43.163Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.923Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:27:06.251Z"
+  "usdaLastUpdated": "2026-07-28T19:40:43.163Z",
+  "crops": [
+    "Apples",
+    "Pumpkins",
+    "Flowers"
+  ],
+  "phone": "(509) 435-1813"
 }

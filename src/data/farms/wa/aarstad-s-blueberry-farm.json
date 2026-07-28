@@ -1,0 +1,20 @@
+{
+  "slug": "aarstad-s-blueberry-farm",
+  "name": "Aarstad's Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Snohomish, WA",
+  "locationCity": "Snohomish",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "phone": "(360) 568-6067",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.975Z"
+    }
+  ]
+}

@@ -9,11 +9,24 @@
   "locationZipcode": "",
   "lat": 44.250458010589,
   "lon": -88.34132701546947,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Sharky%27s+Orchard&amp;ES=WI&amp;EC=Outagamie+County&amp;EP=+920-209-2172&amp;ECT=Appleton&amp;EZ=&amp;EA=W3045+Emons+Rd&amp;EA2=&amp;EW=https%3A%2F%2Fsharkysorchard.godaddysites.com&amp;RD=RD&amp;EF=sharkysorchard%2F&amp;EM=No+match.+&amp;EX=US&amp;PG=WIgrnb.htm&amp;OP=see+their+page%3B%3B+&amp;IG=&amp;TW=&amp;DS=They+have+caramel+Apples%21+.&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:27:29.841Z"
+      "lastSeen": "2026-07-28T19:41:30.029Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:42.925Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:27:29.841Z"
+  "usdaLastUpdated": "2026-07-28T19:41:30.029Z",
+  "crops": [
+    "Apples",
+    "Pears",
+    "Plums",
+    "Pumpkins",
+    "Honey"
+  ],
+  "phone": "920-209-2172"
 }

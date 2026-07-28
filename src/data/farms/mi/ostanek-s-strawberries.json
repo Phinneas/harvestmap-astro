@@ -1,0 +1,19 @@
+{
+  "slug": "ostanek-s-strawberries",
+  "name": "Ostanek's Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Trenary, MI",
+  "locationCity": "Trenary",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

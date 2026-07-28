@@ -9,11 +9,22 @@
   "locationZipcode": "38340",
   "lat": 35.4232150155228,
   "lon": -88.6044050327523,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Still+Waters+Farm+&amp;ES=TN&amp;EC=Knox+County&amp;EP=+865-281-0894&amp;ECT=Corryton&amp;EZ=37721&amp;EA=7004+Fairview+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.facebook.com%2FStill-Waters-Farm-211877805518297&amp;RD=NW&amp;EF=Still-Waters-Farm-211877805518297&amp;EM=stillwatersfarm.tn%40gmail.com&amp;EX=US&amp;PG=TNknoxville.htm&amp;OP=No+match+%3B+&amp;IG=&amp;TW=&amp;DS=&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:26:07.227Z"
+      "lastSeen": "2026-07-28T19:38:57.726Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:13.122Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:26:07.227Z"
+  "usdaLastUpdated": "2026-07-28T19:38:57.726Z",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Eggs"
+  ],
+  "phone": "2118778055"
 }

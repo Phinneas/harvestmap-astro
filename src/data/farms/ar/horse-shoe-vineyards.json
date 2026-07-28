@@ -1,0 +1,22 @@
+{
+  "slug": "horse-shoe-vineyards",
+  "name": "Horse Shoe Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hot Springs, AR",
+  "locationCity": "Hot Springs",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "phone": "501-767-6562",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:18.748Z"
+    }
+  ]
+}

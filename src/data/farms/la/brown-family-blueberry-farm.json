@@ -1,0 +1,20 @@
+{
+  "slug": "brown-family-blueberry-farm",
+  "name": "Brown Family Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "West Monroe, LA",
+  "locationCity": "West Monroe",
+  "locationState": "LA",
+  "locationZipcode": "",
+  "phone": "318-547-2017",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:27.942Z"
+    }
+  ]
+}

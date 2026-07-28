@@ -1,0 +1,22 @@
+{
+  "slug": "lee-s-tree-farm",
+  "name": "Lee's Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ridge, FL",
+  "locationCity": "Ridge",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "850-674-9170",
+  "crops": [
+    "Persimmons",
+    "Grapes",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.322Z"
+    }
+  ]
+}

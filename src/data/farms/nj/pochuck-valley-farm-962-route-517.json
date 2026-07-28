@@ -12,8 +12,23 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:23:43.212Z"
+      "lastSeen": "2026-07-28T19:33:36.554Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.216Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:23:43.212Z"
+  "usdaLastUpdated": "2026-07-28T19:33:36.554Z",
+  "crops": [
+    "Apples",
+    "Pears",
+    "Peaches",
+    "Plums",
+    "Pumpkins",
+    "Corn",
+    "Tomatoes",
+    "Honey"
+  ],
+  "phone": "(973) 764-4732"
 }

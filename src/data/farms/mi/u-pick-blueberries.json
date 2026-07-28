@@ -1,0 +1,20 @@
+{
+  "slug": "u-pick-blueberries",
+  "name": "U-Pick Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Petersburg, MI",
+  "locationCity": "Petersburg",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "(734) 279-2308",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

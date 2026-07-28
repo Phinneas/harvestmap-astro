@@ -1,0 +1,21 @@
+{
+  "slug": "honey-strong",
+  "name": "Honey Strong",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Smyrna, SC",
+  "locationCity": "Smyrna",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "704-993-6833",
+  "crops": [
+    "Grapes",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

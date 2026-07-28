@@ -1,0 +1,35 @@
+{
+  "slug": "nelson-s-farm-market",
+  "name": "Nelson's Farm Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Grant, MI",
+  "locationCity": "Grant",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "231-834-8441",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Apples",
+    "Pears",
+    "Peaches",
+    "Nectarines",
+    "Apricots",
+    "Plums",
+    "Cherries",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Grapes",
+    "Asparagus",
+    "Green beans"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

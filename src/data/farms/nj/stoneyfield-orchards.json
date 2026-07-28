@@ -1,0 +1,29 @@
+{
+  "slug": "stoneyfield-orchards",
+  "name": "Stoneyfield Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Belvidere, NJ",
+  "locationCity": "Belvidere",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "(908) 475-5209",
+  "crops": [
+    "Strawberries",
+    "Apples",
+    "Pears",
+    "Peaches",
+    "Nectarines",
+    "Plums",
+    "Cherries",
+    "Pumpkins",
+    "Tomatoes",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

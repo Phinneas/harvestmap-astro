@@ -1,0 +1,21 @@
+{
+  "slug": "apples-and-art-orchards",
+  "name": "Apples and Art Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Julian, CA",
+  "locationCity": "Julian",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "(760) 305-2169",
+  "crops": [
+    "Apples",
+    "Pears"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

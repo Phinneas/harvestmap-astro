@@ -1,0 +1,21 @@
+{
+  "slug": "certified-organic",
+  "name": "CERTIFIED ORGANIC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lincoln, VT",
+  "locationCity": "Lincoln",
+  "locationState": "VT",
+  "locationZipcode": "",
+  "phone": "(802) 453-7395",
+  "crops": [
+    "Herbs",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:07.101Z"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "sonshine-acres",
+  "name": "Sonshine Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Emmett, ID",
+  "locationCity": "Emmett",
+  "locationState": "ID",
+  "locationZipcode": "",
+  "crops": [
+    "Pumpkins",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:33.027Z"
+    }
+  ]
+}

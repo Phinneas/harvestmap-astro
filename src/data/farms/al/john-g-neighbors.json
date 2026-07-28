@@ -1,0 +1,23 @@
+{
+  "slug": "john-g-neighbors",
+  "name": "John G. Neighbors",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Alex City, AL",
+  "locationCity": "Alex City",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "(256) 234-3634",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Apples",
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

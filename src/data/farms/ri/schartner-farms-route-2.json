@@ -9,11 +9,29 @@
   "locationZipcode": "",
   "lat": 41.52125297164093,
   "lon": -71.55394021838688,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Schartner+Farms&amp;ES=RI&amp;EC=Washington+County&amp;EP=%28401%29+294.2044&amp;ECT=Exeter&amp;EZ=&amp;EA=1+Arnold+Place+and+Route+2&amp;EA2=&amp;EW=http%3A%2F%2Fwww.schartnerfarms.com&amp;RD=RD&amp;EF=SchartnerFarms&amp;EM=No+match.+&amp;EX=US&amp;PG=RIsouth.htm&amp;OP=Daily%2C+8+am+to+6+pm%2C+year+round%3B%3B+&amp;IG=&amp;TW=&amp;DS=Also%2C+prepicked+sweet+corn%2C+nursery+stock%2C+mixed+fruits+and+vegetable+plants%2C+herbs%2C+trees%2C+shrubs.+.+Schartner+Farms+offers+a+full+produce+department+with+fresh+and+farm+grown+produce%2C+fresh+fruits+and+vegetables+as+well+as+a+deli+and+cheese+departments%2C+fresh+baked+goods%2C+like+pumpkin+pies%2C+their+own+line+of+jams+and+gourmet+items%2C+a+gift+shop%2C+nursery+and+greenhouse.+Note+that+their+Facebook+page+says+%22closed+permanently%22+when+they+are+actually+closed+temporarily+until+the+next+year%27s+season.+The+quality+of+produce+at+our+Farm+Stand+is+second+to+none.+We+feature+local+in+season+produce+and+much+of+what+we+offer+is+grown+right+here+on+the+farm.+Seasonal+vegetables%2C+such+as+asparagus%2C+corn%2C+green+beans%2C+squash+are+piled+high+for+your+pleasure+and+convenience.+When+in+season%2C+you+can+pick+your+own+strawberries+and+blueberries%2C+a+great+way+to+spend+some+time+with+your+family.+%28UPDATED%3A+June+29%2C+2025%2C+JBS%29+Comments+from+a+visitor+on+June+16%2C+2009%3A+%22I+...&amp;DR=+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:25:34.467Z"
+      "lastSeen": "2026-07-28T19:37:59.886Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:08.767Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:25:34.467Z"
+  "usdaLastUpdated": "2026-07-28T19:37:59.886Z",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Asparagus",
+    "Green beans",
+    "Herbs",
+    "Christmas trees"
+  ],
+  "phone": "(401) 294.2044"
 }

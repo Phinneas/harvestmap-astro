@@ -1,0 +1,20 @@
+{
+  "slug": "berry-patch",
+  "name": "Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Campbell Hall, NY",
+  "locationCity": "Campbell Hall",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "845-427-2615",
+  "crops": [
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

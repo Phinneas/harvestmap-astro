@@ -1,0 +1,20 @@
+{
+  "slug": "cook-s-roadside-market",
+  "name": "Cook's Roadside Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Trenton, SC",
+  "locationCity": "Trenton",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "2107566522",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

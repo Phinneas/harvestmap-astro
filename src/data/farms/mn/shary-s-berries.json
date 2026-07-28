@@ -1,0 +1,21 @@
+{
+  "slug": "shary-s-berries",
+  "name": "Shary's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Two Harbors, MN",
+  "locationCity": "Two Harbors",
+  "locationState": "MN",
+  "locationZipcode": "",
+  "phone": "218-834-5221",
+  "crops": [
+    "Blueberries",
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:07.205Z"
+    }
+  ]
+}

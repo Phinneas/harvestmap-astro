@@ -1,0 +1,23 @@
+{
+  "slug": "by-reservation-only",
+  "name": "By Reservation Only",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Covington, LA",
+  "locationCity": "Covington",
+  "locationState": "LA",
+  "locationZipcode": "",
+  "phone": "(985) 875-1965",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Tomatoes",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:27.942Z"
+    }
+  ]
+}

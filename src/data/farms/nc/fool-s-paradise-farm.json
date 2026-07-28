@@ -1,0 +1,19 @@
+{
+  "slug": "fool-s-paradise-farm",
+  "name": "Fool's Paradise Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hayesville, NC",
+  "locationCity": "Hayesville",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "crops": [
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

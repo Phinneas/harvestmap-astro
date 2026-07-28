@@ -1,0 +1,19 @@
+{
+  "slug": "shortcake-farm",
+  "name": "Shortcake Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hudson, NY",
+  "locationCity": "Hudson",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

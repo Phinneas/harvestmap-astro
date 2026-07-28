@@ -1,0 +1,19 @@
+{
+  "slug": "lithia-berry-farms",
+  "name": "Lithia Berry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lithia, FL",
+  "locationCity": "Lithia",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

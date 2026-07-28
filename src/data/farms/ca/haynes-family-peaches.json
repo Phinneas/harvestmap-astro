@@ -1,0 +1,21 @@
+{
+  "slug": "haynes-family-peaches",
+  "name": "Haynes Family Peaches",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Corning, CA",
+  "locationCity": "Corning",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "(530) 385-1315",
+  "crops": [
+    "Peaches",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

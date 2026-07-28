@@ -1,0 +1,20 @@
+{
+  "slug": "2024-price",
+  "name": "2024 Price",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sparta, MI",
+  "locationCity": "Sparta",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "4467190520",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

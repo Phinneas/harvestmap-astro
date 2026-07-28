@@ -1,0 +1,22 @@
+{
+  "slug": "apple-hill-orchard",
+  "name": "Apple Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bruceville, IN",
+  "locationCity": "Bruceville",
+  "locationState": "IN",
+  "locationZipcode": "",
+  "phone": "1000796593",
+  "crops": [
+    "Apples",
+    "Peaches",
+    "Nectarines"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:27:18.483Z"
+    }
+  ]
+}

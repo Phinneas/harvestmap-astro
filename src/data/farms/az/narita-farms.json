@@ -1,0 +1,28 @@
+{
+  "slug": "narita-farms",
+  "name": "Narita Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Willcox, AZ",
+  "locationCity": "Willcox",
+  "locationState": "AZ",
+  "locationZipcode": "",
+  "phone": "520-384-4805",
+  "crops": [
+    "Strawberries",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Peas",
+    "Flowers",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:49.079Z"
+    }
+  ]
+}

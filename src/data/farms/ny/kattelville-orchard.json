@@ -1,0 +1,21 @@
+{
+  "slug": "kattelville-orchard",
+  "name": "Kattelville Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Binghamton, NY",
+  "locationCity": "Binghamton",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "607-237-5128",
+  "crops": [
+    "Blueberries",
+    "Pears"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

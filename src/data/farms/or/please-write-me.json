@@ -1,0 +1,21 @@
+{
+  "slug": "please-write-me",
+  "name": "please write me",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Central Point, OR",
+  "locationCity": "Central Point",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "541 218 3821",
+  "crops": [
+    "Blackberries",
+    "Pears"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

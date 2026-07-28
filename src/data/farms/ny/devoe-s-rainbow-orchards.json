@@ -1,0 +1,20 @@
+{
+  "slug": "devoe-s-rainbow-orchards",
+  "name": "Devoe's Rainbow Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Clifton Park, NY",
+  "locationCity": "Clifton Park",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "518-371-8397",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

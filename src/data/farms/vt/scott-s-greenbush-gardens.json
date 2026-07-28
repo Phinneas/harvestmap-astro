@@ -1,0 +1,20 @@
+{
+  "slug": "scott-s-greenbush-gardens",
+  "name": "Scott's Greenbush Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ferrisburg, VT",
+  "locationCity": "Ferrisburg",
+  "locationState": "VT",
+  "locationZipcode": "",
+  "phone": "802-425-2370",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:07.101Z"
+    }
+  ]
+}

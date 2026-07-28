@@ -1,0 +1,29 @@
+{
+  "slug": "jb-tree-farm",
+  "name": "JB Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Alexandria, PA",
+  "locationCity": "Alexandria",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "814-832-3430",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Flowers",
+    "Sunflowers",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

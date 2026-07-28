@@ -1,0 +1,23 @@
+{
+  "slug": "rocky-creek-farms",
+  "name": "Rocky Creek Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bozeman, MT",
+  "locationCity": "Bozeman",
+  "locationState": "MT",
+  "locationZipcode": "",
+  "phone": "406-599-2361",
+  "crops": [
+    "Raspberries",
+    "Apples",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:18.113Z"
+    }
+  ]
+}

@@ -12,8 +12,17 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:23.963Z"
+      "lastSeen": "2026-07-28T19:28:48.324Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:54.225Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:23.963Z"
+  "usdaLastUpdated": "2026-07-28T19:28:48.324Z",
+  "crops": [
+    "Tomatoes",
+    "Flowers"
+  ],
+  "phone": "207-539-4848"
 }

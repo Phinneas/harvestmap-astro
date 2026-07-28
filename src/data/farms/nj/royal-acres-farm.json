@@ -1,0 +1,22 @@
+{
+  "slug": "royal-acres-farm",
+  "name": "Royal Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Williamstown, NJ",
+  "locationCity": "Williamstown",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "(856) 728-9358",
+  "crops": [
+    "Strawberries",
+    "Tomatoes",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

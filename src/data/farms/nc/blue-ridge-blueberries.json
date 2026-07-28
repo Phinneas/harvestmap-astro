@@ -1,0 +1,19 @@
+{
+  "slug": "blue-ridge-blueberries",
+  "name": "Blue Ridge Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Spruce Pine, NC",
+  "locationCity": "Spruce Pine",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

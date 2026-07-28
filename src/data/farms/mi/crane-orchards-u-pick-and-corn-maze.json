@@ -1,0 +1,23 @@
+{
+  "slug": "crane-orchards-u-pick-and-corn-maze",
+  "name": "Crane Orchards U-Pick and Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fennville, MI",
+  "locationCity": "Fennville",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "269-561-8651",
+  "crops": [
+    "Apples",
+    "Peaches",
+    "Cherries",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

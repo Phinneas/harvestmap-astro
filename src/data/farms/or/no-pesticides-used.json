@@ -1,0 +1,21 @@
+{
+  "slug": "no-pesticides-used",
+  "name": "No pesticides used",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Albany, OR",
+  "locationCity": "Albany",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "541-757-6520",
+  "crops": [
+    "Blueberries",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

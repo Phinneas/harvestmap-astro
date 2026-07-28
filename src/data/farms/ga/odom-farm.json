@@ -1,0 +1,20 @@
+{
+  "slug": "odom-farm",
+  "name": "Odom Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Woodstock, GA",
+  "locationCity": "Woodstock",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "770-926-5420",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

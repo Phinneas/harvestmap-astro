@@ -1,0 +1,20 @@
+{
+  "slug": "nelson-s-blueberry-farm",
+  "name": "Nelson's Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mount Hood, OR",
+  "locationCity": "Mount Hood",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "541-352-7141",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

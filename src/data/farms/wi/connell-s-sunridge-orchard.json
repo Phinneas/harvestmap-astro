@@ -1,0 +1,22 @@
+{
+  "slug": "connell-s-sunridge-orchard",
+  "name": "Connell's Sunridge Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Menomonie, WI",
+  "locationCity": "Menomonie",
+  "locationState": "WI",
+  "locationZipcode": "",
+  "phone": "715-772-4553",
+  "crops": [
+    "Apples",
+    "Pumpkins",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:41:43.001Z"
+    }
+  ]
+}

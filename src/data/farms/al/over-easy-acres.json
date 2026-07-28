@@ -1,0 +1,23 @@
+{
+  "slug": "over-easy-acres",
+  "name": "Over Easy Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Albertville, AL",
+  "locationCity": "Albertville",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "1000702713",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

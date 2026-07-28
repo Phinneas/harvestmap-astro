@@ -1,0 +1,21 @@
+{
+  "slug": "berry-good-farm",
+  "name": "Berry Good Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bealeton, VA",
+  "locationCity": "Bealeton",
+  "locationState": "VA",
+  "locationZipcode": "",
+  "phone": "540-935-1145",
+  "crops": [
+    "Honey",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:26.954Z"
+    }
+  ]
+}

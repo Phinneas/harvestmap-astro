@@ -1,0 +1,27 @@
+{
+  "slug": "shiver-s",
+  "name": "Shiver's",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Gordon, AL",
+  "locationCity": "Gordon",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "(334)522-3756",
+  "crops": [
+    "Strawberries",
+    "Peaches",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "cobblestone-valley-farm",
+  "name": "Cobblestone Valley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Preble, NY",
+  "locationCity": "Preble",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "607-749-4032",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

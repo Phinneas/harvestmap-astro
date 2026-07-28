@@ -1,0 +1,23 @@
+{
+  "slug": "the-farm-1780",
+  "name": "The Farm 1780",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lexington, SC",
+  "locationCity": "Lexington",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "803-356-4978",
+  "crops": [
+    "Blueberries",
+    "Blackberries",
+    "Flowers",
+    "Sunflowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

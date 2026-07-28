@@ -1,0 +1,20 @@
+{
+  "slug": "certified-naturally-grown",
+  "name": "Certified Naturally Grown,",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Amherst, MA",
+  "locationCity": "Amherst",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "crops": [
+    "Apples",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:29:34.313Z"
+    }
+  ]
+}

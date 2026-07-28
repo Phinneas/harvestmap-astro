@@ -1,0 +1,20 @@
+{
+  "slug": "ewell-sexton",
+  "name": "Ewell Sexton",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Clarksville, AR",
+  "locationCity": "Clarksville",
+  "locationState": "AR",
+  "locationZipcode": "",
+  "phone": "479-754-3346",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:18.748Z"
+    }
+  ]
+}

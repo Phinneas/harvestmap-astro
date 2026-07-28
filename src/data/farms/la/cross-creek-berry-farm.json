@@ -1,0 +1,20 @@
+{
+  "slug": "cross-creek-berry-farm",
+  "name": "Cross Creek Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Aimwell, LA",
+  "locationCity": "Aimwell",
+  "locationState": "LA",
+  "locationZipcode": "",
+  "phone": "1000698981",
+  "crops": [
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:28:27.942Z"
+    }
+  ]
+}

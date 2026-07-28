@@ -1,0 +1,21 @@
+{
+  "slug": "bascombe-farms-and-orchard",
+  "name": "Bascombe Farms and Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cumberland, RI",
+  "locationCity": "Cumberland",
+  "locationState": "RI",
+  "locationZipcode": "",
+  "phone": "(401) 658-1962",
+  "crops": [
+    "Apples",
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:08.781Z"
+    }
+  ]
+}

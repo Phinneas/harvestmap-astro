@@ -1,0 +1,20 @@
+{
+  "slug": "thiebouts-blueberry-farm",
+  "name": "Thiebouts Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fremont, MI",
+  "locationCity": "Fremont",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "231-924-0229",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

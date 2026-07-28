@@ -1,0 +1,24 @@
+{
+  "slug": "lushacres-farm",
+  "name": "LushAcres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Clinton, SC",
+  "locationCity": "Clinton",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "phone": "864-938-2800",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Corn",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}

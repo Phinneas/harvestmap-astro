@@ -1,0 +1,20 @@
+{
+  "slug": "perin-orchard",
+  "name": "Perin Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Emmett, ID",
+  "locationCity": "Emmett",
+  "locationState": "ID",
+  "locationZipcode": "",
+  "phone": "(208) 365-0648",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:33.027Z"
+    }
+  ]
+}

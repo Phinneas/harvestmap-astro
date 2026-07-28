@@ -12,8 +12,20 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:41.333Z"
+      "lastSeen": "2026-07-28T19:29:19.710Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:29:34.262Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:41.333Z"
+  "usdaLastUpdated": "2026-07-28T19:29:19.710Z",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Corn",
+    "Asparagus",
+    "Flowers"
+  ],
+  "phone": "(413) 665-8331"
 }

@@ -1,0 +1,28 @@
+{
+  "slug": "froberg-vegetable-amp-fruit-farm",
+  "name": "Froberg Vegetable &amp; Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Satsumas, TX",
+  "locationCity": "Satsumas",
+  "locationState": "TX",
+  "locationZipcode": "",
+  "phone": "(281) 585-3531",
+  "crops": [
+    "Strawberries",
+    "Citrus",
+    "Oranges",
+    "Lemons",
+    "Pumpkins",
+    "Corn",
+    "Tomatoes",
+    "Honey",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:39:36.658Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "ariel-herbs",
+  "name": "Ariel Herbs",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Toms River, NJ",
+  "locationCity": "Toms River",
+  "locationState": "NJ",
+  "locationZipcode": "",
+  "phone": "(732) 240-3652",
+  "crops": [
+    "Herbs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:41.218Z"
+    }
+  ]
+}

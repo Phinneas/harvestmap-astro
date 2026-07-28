@@ -1,0 +1,20 @@
+{
+  "slug": "old-mission-vineyards",
+  "name": "Old Mission Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bradenton, FL",
+  "locationCity": "Bradenton",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "941-746-6334",
+  "crops": [
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

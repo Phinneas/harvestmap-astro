@@ -1,0 +1,20 @@
+{
+  "slug": "2025-price",
+  "name": "2025 price:",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Whitakers, NC",
+  "locationCity": "Whitakers",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "252-903-3096",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

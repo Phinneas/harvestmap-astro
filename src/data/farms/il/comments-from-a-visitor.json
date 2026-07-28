@@ -1,0 +1,22 @@
+{
+  "slug": "comments-from-a-visitor",
+  "name": "Comments from a visitor",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hettick, IL",
+  "locationCity": "Hettick",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "cataldo-family-orchard",
+  "name": "Cataldo Family Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Glocester, RI",
+  "locationCity": "Glocester",
+  "locationState": "RI",
+  "locationZipcode": "",
+  "phone": "(401) 934-0179",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:08.781Z"
+    }
+  ]
+}

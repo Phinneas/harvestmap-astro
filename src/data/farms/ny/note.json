@@ -1,0 +1,19 @@
+{
+  "slug": "note",
+  "name": "NOTE:",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Kill Buck, NY",
+  "locationCity": "Kill Buck",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

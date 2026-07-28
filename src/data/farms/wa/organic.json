@@ -1,0 +1,24 @@
+{
+  "slug": "organic",
+  "name": "ORGANIC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Port Angeles, WA",
+  "locationCity": "Port Angeles",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=Salt+Creek+Farm&amp;ES=WA&amp;EC=Clallam+County&amp;EP=+360-928-3583&amp;ECT=Port+Angeles&amp;EZ=&amp;EA=310+Salt+Creek+Road&amp;EA2=&amp;EW=https%3A%2F%2Fsaltcreekfarm.homestead.com%2Fcsa.html&amp;RD=NR&amp;EF=SaltCreekFarm%2F&amp;EM=saltcreekfarmcsa%40gmail.com&amp;EX=US&amp;PG=WAcoastal.htm&amp;OP=Call+or+see+their+website%3B%3B+&amp;IG=&amp;TW=&amp;DS=Salt+Creek+farm+is+a+small+certified+organic+family+farm+located+on+the+west+side+of+Port+Angeles.+Join+our+CSA+program+and+receive+a+seasonal+abundance+of+fresh+vegetables%2C+herbs+and+flowers+direct+from+the+farm+each+week.+Share+prices+range+from+%24170+to+%24400+for+the+season.+Raspberries+Strawberries+.&amp;DR=Located+on+the+west+side+of+Port+Angeles",
+  "phone": "360-928-3583",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Herbs",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.975Z"
+    }
+  ]
+}

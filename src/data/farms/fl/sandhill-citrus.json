@@ -1,0 +1,20 @@
+{
+  "slug": "sandhill-citrus",
+  "name": "Sandhill Citrus",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Arcadia, FL",
+  "locationCity": "Arcadia",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "863-780-4302",
+  "crops": [
+    "Citrus"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

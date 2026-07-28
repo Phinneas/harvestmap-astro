@@ -1,0 +1,20 @@
+{
+  "slug": "sunshine-farms-u-pick-strawberry-field",
+  "name": "Sunshine Farms U-Pick Strawberry Field",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Clanton, AL",
+  "locationCity": "Clanton",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "205-755-4203",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

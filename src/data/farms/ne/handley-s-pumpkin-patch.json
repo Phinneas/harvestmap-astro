@@ -1,0 +1,22 @@
+{
+  "slug": "handley-s-pumpkin-patch",
+  "name": "Handley's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Falls City, NE",
+  "locationCity": "Falls City",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "phone": "(402) 883-2713",
+  "crops": [
+    "Pumpkins",
+    "Squash",
+    "Asparagus"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:34.673Z"
+    }
+  ]
+}

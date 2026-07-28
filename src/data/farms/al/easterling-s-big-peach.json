@@ -1,0 +1,21 @@
+{
+  "slug": "easterling-s-big-peach",
+  "name": "Easterling's Big Peach",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Clanton, AL",
+  "locationCity": "Clanton",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "1000572900",
+  "crops": [
+    "Strawberries",
+    "Peaches"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

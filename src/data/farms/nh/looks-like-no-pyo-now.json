@@ -1,0 +1,31 @@
+{
+  "slug": "looks-like-no-pyo-now",
+  "name": "LOOKS LIKE NO PYO NOW,",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Antrim, NH",
+  "locationCity": "Antrim",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "phone": "603-588-2020",
+  "crops": [
+    "Strawberries",
+    "Raspberries",
+    "Apples",
+    "Peaches",
+    "Plums",
+    "Pumpkins",
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peppers",
+    "Eggplant",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:23.079Z"
+    }
+  ]
+}

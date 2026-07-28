@@ -1,0 +1,20 @@
+{
+  "slug": "there-is-no-fee-to-pick-the-blueberries",
+  "name": "There is no fee to pick the blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Tacoma, WA",
+  "locationCity": "Tacoma",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "phone": "(253) 305-1000",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.975Z"
+    }
+  ]
+}

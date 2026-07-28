@@ -1,0 +1,20 @@
+{
+  "slug": "no-pesticides-are-used",
+  "name": "No pesticides are used",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Flushing, MI",
+  "locationCity": "Flushing",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "phone": "810-659-6677",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:30:22.272Z"
+    }
+  ]
+}

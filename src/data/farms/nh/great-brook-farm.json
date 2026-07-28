@@ -1,0 +1,21 @@
+{
+  "slug": "great-brook-farm",
+  "name": "Great Brook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Canterbury, NH",
+  "locationCity": "Canterbury",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "phone": "603-783-4126",
+  "crops": [
+    "Apples",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:23.079Z"
+    }
+  ]
+}

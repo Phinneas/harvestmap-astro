@@ -1,0 +1,24 @@
+{
+  "slug": "raab-s-fruit-farm",
+  "name": "Raab's Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dallastown, PA",
+  "locationCity": "Dallastown",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "(717) 244-7157",
+  "crops": [
+    "Blackberries",
+    "Apples",
+    "Peaches",
+    "Cherries",
+    "Pumpkins"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

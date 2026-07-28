@@ -1,0 +1,23 @@
+{
+  "slug": "willow-farms",
+  "name": "Willow Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Red Level, AL",
+  "locationCity": "Red Level",
+  "locationState": "AL",
+  "locationZipcode": "",
+  "phone": "334-343-0322",
+  "crops": [
+    "Blueberries",
+    "Pears",
+    "Figs",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:22:19.124Z"
+    }
+  ]
+}

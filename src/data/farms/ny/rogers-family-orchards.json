@@ -1,0 +1,20 @@
+{
+  "slug": "rogers-family-orchards",
+  "name": "Rogers Family Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Johnstown, NY",
+  "locationCity": "Johnstown",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "518-762-8736",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

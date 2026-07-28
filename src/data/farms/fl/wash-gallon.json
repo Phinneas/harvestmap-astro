@@ -1,0 +1,23 @@
+{
+  "slug": "wash-gallon",
+  "name": "Wash Gallon",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Monticello, FL",
+  "locationCity": "Monticello",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "850-997-2153",
+  "crops": [
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

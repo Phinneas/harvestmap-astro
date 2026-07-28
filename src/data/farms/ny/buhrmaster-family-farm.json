@@ -1,0 +1,24 @@
+{
+  "slug": "buhrmaster-family-farm",
+  "name": "Buhrmaster Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Scotia, NY",
+  "locationCity": "Scotia",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "518-399-5931",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Flowers",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

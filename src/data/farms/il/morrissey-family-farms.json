@@ -1,0 +1,21 @@
+{
+  "slug": "morrissey-family-farms",
+  "name": "Morrissey Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Putnam, IL",
+  "locationCity": "Putnam",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "(309) 236-8837",
+  "crops": [
+    "Strawberries",
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

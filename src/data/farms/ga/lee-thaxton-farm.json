@@ -1,0 +1,21 @@
+{
+  "slug": "lee-thaxton-farm",
+  "name": "Lee Thaxton Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rayle, GA",
+  "locationCity": "Rayle",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "706-318-9515",
+  "crops": [
+    "Blueberries",
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

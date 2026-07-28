@@ -1,0 +1,20 @@
+{
+  "slug": "locklear-farms",
+  "name": "Locklear Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Pembroke, NC",
+  "locationCity": "Pembroke",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "3260769374",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

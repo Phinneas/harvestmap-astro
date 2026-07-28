@@ -1,0 +1,23 @@
+{
+  "slug": "henscratch-farms-vineyard",
+  "name": "Henscratch Farms Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lake Placid, FL",
+  "locationCity": "Lake Placid",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "863-699-2060",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Grapes",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

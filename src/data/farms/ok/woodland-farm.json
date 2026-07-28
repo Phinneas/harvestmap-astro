@@ -1,0 +1,22 @@
+{
+  "slug": "woodland-farm",
+  "name": "Woodland Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Skiatook, OK",
+  "locationCity": "Skiatook",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "crops": [
+    "Blackberries",
+    "Pumpkins",
+    "Herbs",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:45.184Z"
+    }
+  ]
+}

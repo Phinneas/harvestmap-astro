@@ -1,0 +1,20 @@
+{
+  "slug": "gibson-farms",
+  "name": "Gibson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Siletz, OR",
+  "locationCity": "Siletz",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "541-444-2292",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

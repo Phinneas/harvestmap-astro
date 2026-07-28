@@ -1,0 +1,20 @@
+{
+  "slug": "creekside-farms",
+  "name": "Creekside Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Marshville, NC",
+  "locationCity": "Marshville",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(704) 624-5476",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

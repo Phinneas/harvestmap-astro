@@ -9,11 +9,20 @@
   "locationZipcode": "",
   "lat": 41.7477637118417,
   "lon": -70.4591890380062,
+  "website": "https://www.pickyourown.org/AME2email.php?ADDT=UPDN&amp;EN=The+Blueberry+Bog&amp;ES=MA&amp;EC=Barnstable+County&amp;EP=%28413%29+727-2697&amp;ECT=E+Sandwich&amp;EZ=&amp;EA=92+Spring+Hill+Road&amp;EA2=&amp;EW=https%3A%2F%2Fwww.theblueberrybog.com&amp;RD=NR&amp;EF=search%2Ftop%3Fq%3DThe%2520Blueberry%2520Bog%2520E.%2520Sandwich%2520MA&amp;EM=toulwin%40yahoo.com&amp;EX=US&amp;PG=MAsoutheast.htm&amp;OP=7%3A30+am+to+3%3A30+pm%2C+starting+late+July+through+August%3B%3B+&amp;IG=&amp;TW=&amp;DS=Cross+straight+over+6A%2C+farm+one+quarter+mile+on+left.+.&amp;DR=Go+North+towards+6A+past+Sandwich+High+School.+Cross+straight+over+6A%2C+farm+one+quarter+mile+on+left.+",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T01:21:41.346Z"
+      "lastSeen": "2026-07-28T19:29:19.719Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:29:34.277Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T01:21:41.346Z"
+  "usdaLastUpdated": "2026-07-28T19:29:19.719Z",
+  "crops": [
+    "Blueberries"
+  ],
+  "phone": "(413) 727-2697"
 }

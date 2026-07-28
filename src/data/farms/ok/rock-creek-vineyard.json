@@ -1,0 +1,19 @@
+{
+  "slug": "rock-creek-vineyard",
+  "name": "Rock Creek Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Norman, OK",
+  "locationCity": "Norman",
+  "locationState": "OK",
+  "locationZipcode": "",
+  "crops": [
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:45.184Z"
+    }
+  ]
+}

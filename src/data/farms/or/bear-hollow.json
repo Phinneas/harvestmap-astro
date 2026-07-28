@@ -1,0 +1,27 @@
+{
+  "slug": "bear-hollow",
+  "name": "Bear Hollow",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Banks, OR",
+  "locationCity": "Banks",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "1000636227",
+  "crops": [
+    "Blueberries",
+    "Apples",
+    "Pears",
+    "Peaches",
+    "Nectarines",
+    "Plums",
+    "Kiwi",
+    "Christmas trees"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

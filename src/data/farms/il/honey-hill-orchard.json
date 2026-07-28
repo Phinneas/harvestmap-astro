@@ -1,0 +1,23 @@
+{
+  "slug": "honey-hill-orchard",
+  "name": "Honey Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Waterman, IL",
+  "locationCity": "Waterman",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "815-264-3337",
+  "crops": [
+    "Raspberries",
+    "Apples",
+    "Pumpkins",
+    "Honey"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

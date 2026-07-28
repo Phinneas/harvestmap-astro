@@ -1,0 +1,22 @@
+{
+  "slug": "winborne-bros-farm",
+  "name": "Winborne Bros Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Edenton, NC",
+  "locationCity": "Edenton",
+  "locationState": "NC",
+  "locationZipcode": "",
+  "phone": "(252) 221-4204",
+  "crops": [
+    "Pumpkins",
+    "Corn",
+    "Tomatoes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:35:31.984Z"
+    }
+  ]
+}

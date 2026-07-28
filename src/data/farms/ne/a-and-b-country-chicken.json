@@ -1,0 +1,23 @@
+{
+  "slug": "a-and-b-country-chicken",
+  "name": "A and B Country Chicken",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Humboldt, NE",
+  "locationCity": "Humboldt",
+  "locationState": "NE",
+  "locationZipcode": "",
+  "phone": "(402) 862-2177",
+  "crops": [
+    "Pumpkins",
+    "Squash",
+    "Tomatoes",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:32:34.673Z"
+    }
+  ]
+}

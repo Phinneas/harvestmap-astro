@@ -1,0 +1,23 @@
+{
+  "slug": "bailey-s-farm",
+  "name": "Bailey's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lake City, FL",
+  "locationCity": "Lake City",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "386-752-3970",
+  "crops": [
+    "Squash",
+    "Corn",
+    "Tomatoes",
+    "Peas"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
+    }
+  ]
+}

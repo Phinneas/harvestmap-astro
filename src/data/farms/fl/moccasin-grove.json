@@ -1,0 +1,20 @@
+{
+  "slug": "moccasin-grove",
+  "name": "Moccasin Grove",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Tallahassee, FL",
+  "locationCity": "Tallahassee",
+  "locationState": "FL",
+  "locationZipcode": "",
+  "phone": "850-274-9125",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.322Z"
+    }
+  ]
+}

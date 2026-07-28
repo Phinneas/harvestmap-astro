@@ -1,0 +1,21 @@
+{
+  "slug": "van-gogh-lavender",
+  "name": "Van Gogh Lavender",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hood Parkdale, OR",
+  "locationCity": "Hood Parkdale",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "206-595-4831",
+  "crops": [
+    "Flowers",
+    "Lavender"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

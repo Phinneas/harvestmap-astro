@@ -1,0 +1,29 @@
+{
+  "slug": "delta-farms-the-pumpkin-patch",
+  "name": "Delta Farms The Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Portland, OR",
+  "locationCity": "Portland",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "503-621-3671",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Raspberries",
+    "Blackberries",
+    "Peaches",
+    "Nectarines",
+    "Pumpkins",
+    "Corn",
+    "Tomatoes",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

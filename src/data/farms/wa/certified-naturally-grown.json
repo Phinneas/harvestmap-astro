@@ -1,0 +1,23 @@
+{
+  "slug": "certified-naturally-grown",
+  "name": "Certified Naturally Grown",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Monroe, WA",
+  "locationCity": "Monroe",
+  "locationState": "WA",
+  "locationZipcode": "",
+  "phone": "1080704455",
+  "crops": [
+    "Blueberries",
+    "Pears",
+    "Squash",
+    "Corn"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:40:59.975Z"
+    }
+  ]
+}

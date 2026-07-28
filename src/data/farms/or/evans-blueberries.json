@@ -1,0 +1,20 @@
+{
+  "slug": "evans-blueberries",
+  "name": "Evans Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hillsboro, OR",
+  "locationCity": "Hillsboro",
+  "locationState": "OR",
+  "locationZipcode": "",
+  "phone": "(503) 648-1731",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
+    }
+  ]
+}

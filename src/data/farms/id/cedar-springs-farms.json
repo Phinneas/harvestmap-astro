@@ -1,0 +1,20 @@
+{
+  "slug": "cedar-springs-farms",
+  "name": "Cedar Springs Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Saint Maries, ID",
+  "locationCity": "Saint Maries",
+  "locationState": "ID",
+  "locationZipcode": "",
+  "phone": "208-245-8148",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:33.027Z"
+    }
+  ]
+}

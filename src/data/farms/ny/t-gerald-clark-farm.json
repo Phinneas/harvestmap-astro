@@ -1,0 +1,20 @@
+{
+  "slug": "t-gerald-clark-farm",
+  "name": "T. Gerald Clark Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mexico, NY",
+  "locationCity": "Mexico",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "315-963-7559",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

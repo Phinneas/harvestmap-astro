@@ -1,0 +1,25 @@
+{
+  "slug": "nelson-farms",
+  "name": "Nelson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Strafford, NH",
+  "locationCity": "Strafford",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "phone": "603-664-5151",
+  "crops": [
+    "Strawberries",
+    "Pumpkins",
+    "Squash",
+    "Tomatoes",
+    "Peppers",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:33:23.079Z"
+    }
+  ]
+}

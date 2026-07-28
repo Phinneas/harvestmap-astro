@@ -1,0 +1,20 @@
+{
+  "slug": "triple-berries",
+  "name": "Triple Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Canisteo, NY",
+  "locationCity": "Canisteo",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "3365307701",
+  "crops": [
+    "Raspberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

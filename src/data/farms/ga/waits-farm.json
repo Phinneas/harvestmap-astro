@@ -1,0 +1,25 @@
+{
+  "slug": "waits-farm",
+  "name": "Waits Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Monroe, GA",
+  "locationCity": "Monroe",
+  "locationState": "GA",
+  "locationZipcode": "",
+  "phone": "770-207-6910",
+  "crops": [
+    "Blueberries",
+    "Squash",
+    "Tomatoes",
+    "Peppers",
+    "Peas",
+    "Eggs"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:54.842Z"
+    }
+  ]
+}

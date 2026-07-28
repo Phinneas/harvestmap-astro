@@ -1,0 +1,20 @@
+{
+  "slug": "stan-rathbun-u-pick-strawberries",
+  "name": "Stan Rathbun U-Pick Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "North Cohocton, NY",
+  "locationCity": "North Cohocton",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "585-534-5163",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.546Z"
+    }
+  ]
+}

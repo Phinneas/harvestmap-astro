@@ -1,0 +1,22 @@
+{
+  "slug": "adobe-pumpkin-farm",
+  "name": "Adobe Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Petaluma, CA",
+  "locationCity": "Petaluma",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "707-763-6416",
+  "crops": [
+    "Pumpkins",
+    "Tomatoes",
+    "Flowers"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

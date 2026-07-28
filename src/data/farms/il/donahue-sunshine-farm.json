@@ -1,0 +1,22 @@
+{
+  "slug": "donahue-sunshine-farm",
+  "name": "Donahue Sunshine Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Collinsville, IL",
+  "locationCity": "Collinsville",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "phone": "618-345-0766",
+  "crops": [
+    "Strawberries",
+    "Blackberries",
+    "Asparagus"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:49.548Z"
+    }
+  ]
+}

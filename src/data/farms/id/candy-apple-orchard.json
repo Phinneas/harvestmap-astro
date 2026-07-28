@@ -1,0 +1,19 @@
+{
+  "slug": "candy-apple-orchard",
+  "name": "Candy Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Emmett, ID",
+  "locationCity": "Emmett",
+  "locationState": "ID",
+  "locationZipcode": "",
+  "crops": [
+    "Apples"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:26:33.027Z"
+    }
+  ]
+}

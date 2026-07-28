@@ -1,0 +1,20 @@
+{
+  "slug": "elbel-s-produce-farm",
+  "name": "Elbel's Produce Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Punxsutawney, PA",
+  "locationCity": "Punxsutawney",
+  "locationState": "PA",
+  "locationZipcode": "",
+  "phone": "814-938-5878",
+  "crops": [
+    "Strawberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
+    }
+  ]
+}

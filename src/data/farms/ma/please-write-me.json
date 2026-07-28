@@ -1,0 +1,19 @@
+{
+  "slug": "please-write-me",
+  "name": "please write me",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Wareham, MA",
+  "locationCity": "Wareham",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:29:34.313Z"
+    }
+  ]
+}

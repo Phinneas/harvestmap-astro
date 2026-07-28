@@ -1,0 +1,20 @@
+{
+  "slug": "you-pick-grapes",
+  "name": "You Pick Grapes",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Geneva, OH",
+  "locationCity": "Geneva",
+  "locationState": "OH",
+  "locationZipcode": "",
+  "phone": "440-466-3207",
+  "crops": [
+    "Grapes"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:36:19.157Z"
+    }
+  ]
+}

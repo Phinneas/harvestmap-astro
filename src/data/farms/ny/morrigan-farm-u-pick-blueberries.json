@@ -1,0 +1,20 @@
+{
+  "slug": "morrigan-farm-u-pick-blueberries",
+  "name": "Morrigan Farm U-Pick Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sandy Creek, NY",
+  "locationCity": "Sandy Creek",
+  "locationState": "NY",
+  "locationZipcode": "",
+  "phone": "6155962361",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:34:45.545Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "u-pick-blueberries",
+  "name": "U-Pick Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Santa Maria, CA",
+  "locationCity": "Santa Maria",
+  "locationState": "CA",
+  "locationZipcode": "",
+  "phone": "(805) 260-0497",
+  "crops": [
+    "Strawberries",
+    "Blueberries",
+    "Blackberries",
+    "Apricots",
+    "Plums",
+    "Tomatoes",
+    "Lavender"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:23:50.210Z"
+    }
+  ]
+}

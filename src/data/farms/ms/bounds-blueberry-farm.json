@@ -1,0 +1,21 @@
+{
+  "slug": "bounds-blueberry-farm",
+  "name": "Bounds Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Wiggins, MS",
+  "locationCity": "Wiggins",
+  "locationState": "MS",
+  "locationZipcode": "",
+  "phone": "601-433-7826",
+  "crops": [
+    "Blueberries",
+    "Blackberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:31:33.920Z"
+    }
+  ]
+}

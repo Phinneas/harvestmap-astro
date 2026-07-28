@@ -1,0 +1,19 @@
+{
+  "slug": "one",
+  "name": "ONE",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Greenwood, SC",
+  "locationCity": "Greenwood",
+  "locationState": "SC",
+  "locationZipcode": "",
+  "crops": [
+    "Blueberries"
+  ],
+  "provenance": [
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:38:25.632Z"
+    }
+  ]
+}
