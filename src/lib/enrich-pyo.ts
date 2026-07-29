@@ -72,24 +72,54 @@ function extractCrops(text: string): string[] {
 
 const STATE_NAMES = Object.fromEntries(US_STATES.map((s) => [s.code, s.name]));
 
+// Decode common HTML entities in extracted text
+function decodeEntities(s: string): string {
+  return s
+    .replace(/&amp;/g, '&')
+    .replace(/&#39;/g, "'")
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&quot;/g, '"')
+    .replace(/&#\d+;/g, ' ')
+    .replace(/&[a-z]+;/g, ' ')
+    .trim();
+}
+
 // Filter out non-farm content that PYO pages mix in with farm listings.
 // These include visitor comments, status updates, price notes, product
 // affiliate links, section headers, and operational notes.
-function isJunkFarmName(name: string): boolean {
-  const lower = name.toLowerCase().trim();
+function isJunkFarmName(rawName: string): boolean {
+  // Decode HTML entities first, then trim
+  const name = decodeEntities(rawName);
+  const lower = name.toLowerCase();
 
-  // Visitor comments
-  if (lower.startsWith('comments from a visitor')) return true;
+  if (!lower) return true;
+  if (name.length < 3) return true;
+
+  // Starts with punctuation (not letters, numbers, or quotes)
+  if (!/^[A-Za-z0-9"' ]/.test(name)) return true;
+
+  // Visitor comments (anywhere in name)
+  if (/comments from a visitor/i.test(name)) return true;
 
   // Entries starting with a year (status notes, price notes, updates)
   if (/^(20\d{2}|19\d{2})\b/.test(lower)) return true;
 
   // Status / closure notes
-  if (/(permanently|presumed|assumed).*(closed|close)/i.test(lower)) return true;
+  if (/(permanently|presumed|assumed).*(closed|close)/i.test(name)) return true;
   if (lower.startsWith('update ') || lower.startsWith('update for')) return true;
+  if (/UPDATED:/i.test(name)) return true;
 
   // Price-only entries
   if (/^price[s]?\b/.test(lower)) return true;
+  if (/chicken prices/i.test(name)) return true;
+
+  // Growing practice fragments (not farm names)
+  if (/^uses (natural|organic|conventional)/i.test(name)) return true;
+  if (/^we limit.*chemical/i.test(name)) return true;
+  if (/^no pyo/i.test(lower)) return true;
+
+  // Visitor observation notes
+  if (/^i (only )?see/i.test(name)) return true;
 
   // Notes
   if (lower.startsWith('notes for') || lower.startsWith('note:')) return true;
@@ -121,7 +151,7 @@ function parseFarmBlock(html: string, stateCode: string): PyoEnrichmentRecord | 
   const nameMatch = html.match(/<a[^>]*><b>(.*?)<\/b><\/a>/i) || html.match(/<b>(.*?)<\/b>/i);
   if (!nameMatch) return null;
 
-  const name = nameMatch[1].replace(/<[^>]*>/g, '').trim();
+  const name = decodeEntities(nameMatch[1].replace(/<[^>]*>/g, ''));
   if (name.length < 3) return null;
   if (isJunkFarmName(name)) return null;
 
