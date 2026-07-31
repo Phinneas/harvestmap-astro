@@ -1,20 +1,41 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Leaf from '../../components/illustrations/Leaf.astro';
+import NewsletterSignup from '../../components/NewsletterSignup.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+
+const formatDate = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<BaseLayout active="blog" title="Blog · HarvestMap" description="Guides, seasonal updates, and stories from farms across America.">
+<BaseLayout active="" title="Blog · HarvestMap" description="Stories, guides, and tips about u-pick farming, seasonality, and getting the most out of your harvest.">
   <div class="container" style="padding-top: var(--space-7);">
     <div class="section-head" style="max-width: 60ch; margin-bottom: var(--space-7);">
-      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> From the field</span>
-      <h1>Blog</h1>
-      <p class="lead">Seasonal guides, farm stories, and what's picking across the country. Coming soon.</p>
+      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> Blog</span>
+      <h1 class="squiggle squiggle-ember">Field notes</h1>
+      <p class="lead">Stories, tips, and guides about u-pick farming, seasonality, and getting the most out of your harvest.</p>
     </div>
 
-    <div class="panel" style="padding: var(--space-6); text-align: center; max-width: 50ch; margin: 0 auto;">
-      <p style="color: var(--text-muted); margin: 0;">
-        We're gathering stories from growers and writing seasonal guides. Check back soon, or
-        <a href="/#directory" style="color: var(--clay-deep);">browse farms</a> in the meantime.
-      </p>
+    <div class="seed-grid">
+      {posts.map((post) => (
+        <a href={`/blog/${post.slug}`} class="card" style="text-decoration: none;">
+          <div class="card__body">
+            <div class="cluster" style="margin-bottom: var(--space-3);">
+              {post.data.tags.map((tag) => <span class="tag">{tag}</span>)}
+            </div>
+            <h3 class="card__title" style="font-size: var(--fs-h3); font-family: var(--font-display);">{post.data.title}</h3>
+            <p class="card__desc">{post.data.description}</p>
+          </div>
+          <div class="card__foot">
+            <span class="card__loc">{formatDate(post.data.publishDate)}</span>
+            <span aria-hidden="true" style="font-weight:600;font-size:var(--fs-small);color:var(--clay-deep);">Read &rarr;</span>
+          </div>
+        </a>
+      ))}
     </div>
+
+    <NewsletterSignup />
   </div>
 </BaseLayout>

@@ -8,16 +8,22 @@ interface Props {
   description?: string;
   active?: 'home' | 'farms' | 'seasons' | 'style' | '';
   pagefindIgnore?: boolean;
+  ogImage?: string;
+  noindex?: boolean;
 }
 
 const {
-  title = 'HarvestMap — Find what’s ripe near you',
+  title = 'HarvestMap — Find what\u2019s ripe near you',
   description = 'A seasonal directory of small farms, orchards and growers. Discover who is harvesting what, right now, in your region.',
   active = '',
   pagefindIgnore = false,
+  ogImage = '/og-default.svg',
+  noindex = false,
 } = Astro.props;
----
 
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const ogImageUrl = new URL(ogImage, Astro.site).href;
+---
 <!doctype html>
 <html lang="en">
   <head>
@@ -26,10 +32,26 @@ const {
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="canonical" href={canonical} />
     <meta name="theme-color" content="#FAF4E8" />
+    {noindex && <meta name="robots" content="noindex,nofollow" />}
+
+    <!-- Open Graph -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:site_name" content="HarvestMap" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="HarvestMap Guides" href="/rss.xml" />
 
     <!-- No-flash theme: set before paint -->
     <script is:inline>

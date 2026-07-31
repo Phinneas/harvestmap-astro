@@ -13,4 +13,15 @@ const guides = defineCollection({
   }),
 });
 
-export const collections = { guides };
+const blog = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    publishDate: z.coerce.date(),
+    author: z.string().default('HarvestMap'),
+    tags: z.array(z.string()).default([]),
+  }),
+});
+
+export const collections = { guides, blog };

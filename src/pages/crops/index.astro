@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Leaf from '../../components/illustrations/Leaf.astro';
+import { loadAllAugmentedFarms } from '../../lib/farm-loader';
+
+const farms = loadAllAugmentedFarms();
+const cropCounts: Record<string, number> = {};
+for (const f of farms) {
+  const crops = f.produce || f.crops || [];
+  for (const c of crops) {
+    if (c && c.length > 1) cropCounts[c] = (cropCounts[c] || 0) + 1;
+  }
+}
+const sortedCrops = Object.entries(cropCounts)
+  .sort((a, b) => b[1] - a[1])
+  .map(([name, count]) => ({ name, count, slug: name.toLowerCase().replace(/[^a-z0-9]+/g, '-') }));
+---
+<BaseLayout active="farms" title="Browse by crop · HarvestMap" description="Browse all crops grown at u-pick farms across America. Find farms by what they grow.">
+  <div class="container" style="padding-top: var(--space-7);">
+    <div class="section-head" style="max-width: 60ch; margin-bottom: var(--space-7);">
+      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> Crops</span>
+      <h1 class="squiggle squiggle-harvest">Browse by crop</h1>
+      <p class="lead">{sortedCrops.length} different crops grown across {farms.length} farms. Pick a crop to find farms near you.</p>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: var(--space-3);">
+      {sortedCrops.map((crop) => (
+        <a href={`/crops/${crop.slug}`} class="card" style="text-decoration: none; padding: var(--space-3) var(--space-4);">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <span style="font-weight: 600; font-family: var(--font-display);">{crop.name}</span>
+            <span class="code-pill">{crop.count}</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

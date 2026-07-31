@@ -1,0 +1,57 @@
+---
+---
+<div class="newsletter-signup" style="background: var(--pine-deep); border-radius: var(--radius-lg); padding: var(--space-6); text-align: center; margin: var(--space-6) 0;">
+  <div style="max-width: 460px; margin: 0 auto;">
+    <h3 style="color: var(--text-invert); font-family: var(--font-display); margin-bottom: var(--space-2);">
+      What's ripe this week?
+    </h3>
+    <p style="color: rgba(255,255,255,0.6); margin-bottom: var(--space-4);">
+      Get a weekly email with what's in season at farms near you. No spam, just harvest alerts.
+    </p>
+    <form id="newsletter-form" style="display: flex; gap: var(--space-2); flex-wrap: wrap; justify-content: center;">
+      <input
+        type="email"
+        id="newsletter-email"
+        placeholder="you@example.com"
+        required
+        style="flex: 1; min-width: 200px; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid rgba(255,255,255,0.2); background: rgba(255,255,255,0.1); color: white;"
+      />
+      <button type="submit" class="btn btn--primary" style="white-space: nowrap;">Subscribe</button>
+    </form>
+    <p id="newsletter-status" style="color: rgba(255,255,255,0.5); font-size: var(--fs-small); margin-top: var(--space-3); min-height: 1.2em;"></p>
+  </div>
+</div>
+
+<script is:inline>
+  (function () {
+    var form = document.getElementById('newsletter-form');
+    var status = document.getElementById('newsletter-status');
+    if (!form) return;
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var email = document.getElementById('newsletter-email').value.trim();
+      if (!email || email.indexOf('@') === -1) {
+        status.textContent = 'Please enter a valid email address.';
+        status.style.color = '#e3a63b';
+        return;
+      }
+
+      status.textContent = 'Subscribing...';
+      status.style.color = 'rgba(255,255,255,0.5)';
+
+      // Store locally for now — wire to email service when configured
+      try {
+        var list = JSON.parse(localStorage.getItem('hm_newsletter') || '[]');
+        if (list.indexOf(email) === -1) list.push(email);
+        localStorage.setItem('hm_newsletter', JSON.stringify(list));
+      } catch (e) {}
+
+      setTimeout(function () {
+        status.textContent = 'You\u2019re subscribed! We\u2019ll let you know when harvest alerts begin.';
+        status.style.color = '#5f8f4e';
+        form.reset();
+      }, 600);
+    });
+  })();
+</script>

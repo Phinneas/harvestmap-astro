@@ -148,12 +148,7 @@ const hasEstablished = farm.established !== undefined;
       <aside class="sidebar">
         <div class="panel panel--feature">
           <h3 style="margin-bottom: var(--space-3);">Plan a visit</h3>
-          <div class="map-mini" style="position:relative; height:150px; border-radius:var(--radius-md); overflow:clip; border:1px solid var(--line); background:linear-gradient(135deg, color-mix(in srgb, var(--moss) 30%, var(--surface)), color-mix(in srgb, var(--honey) 22%, var(--surface))); display:flex; align-items:center; justify-content:center; margin-bottom:var(--space-4);">
-            <svg viewBox="0 0 24 24" width="36" height="36" fill="none" stroke="var(--clay)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="filter:drop-shadow(var(--shadow-sm));">
-              <path d="M12 21c5-3 8-7 8-11a8 8 0 1 0-16 0c0 4 3 8 8 11Z"/><circle cx="12" cy="10" r="2.6"/>
-            </svg>
-            <span class="code-pill" style="position:absolute; bottom:8px; right:8px;">{farm.location}</span>
-          </div>
+          <div id="farm-map" style="height:200px; border-radius:var(--radius-md); overflow:hidden; border:1px solid var(--line); margin-bottom:var(--space-4);"></div>
           <ul class="cal" style="margin-bottom: var(--space-4);">
             {farm.stand && (
               <li><span class="cal__name">Hours</span><span class="cal__months" style="text-align:right;max-width:60%;">{farm.stand}</span></li>
@@ -213,3 +208,67 @@ const hasEstablished = farm.established !== undefined;
     </section>
   )}
 </BaseLayout>
+
+<!-- JSON-LD structured data for Google rich results -->
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': farm.directory === 'farmersmarket' ? 'Store' : 'LocalBusiness',
+  name: farm.name,
+  description: tagline,
+  address: {
+    '@type': 'PostalAddress',
+    addressLocality: farm.locationCity,
+    addressRegion: farm.locationState,
+    postalCode: farm.locationZipcode,
+    addressCountry: 'US',
+  },
+  ...(farm.lat && farm.lon ? {
+    geo: {
+      '@type': 'GeoCoordinates',
+      latitude: farm.lat,
+      longitude: farm.lon,
+    },
+  } : {}),
+  ...(farm.website ? { url: farm.website } : {}),
+  ...(farm.phone ? { telephone: farm.phone } : {}),
+  ...(produce.length > 0 ? { makesOffer: produce.map((crop) => ({
+    '@type': 'Offer',
+    itemOffered: { '@type': 'Product', name: crop },
+  })) } : {}),
+})} />
+
+<!-- Leaflet map for farm location -->
+{farm.lat && farm.lon && (
+  <script is:inline>
+    (function () {
+      var mapEl = document.getElementById('farm-map');
+      if (!mapEl) return;
+      var lat = {farm.lat}, lon = {farm.lon};
+
+      function initMap() {
+        if (typeof L === 'undefined') {
+          setTimeout(initMap, 100);
+          return;
+        }
+        var map = L.map('farm-map', { scrollWheelZoom: false }).setView([lat, lon], 13);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+          attribution: '&copy; OpenStreetMap &copy; CARTO', maxZoom: 18,
+        }).addTo(map);
+        L.marker([lat, lon]).addTo(map);
+      }
+
+      if (typeof L === 'undefined') {
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
+        document.head.appendChild(link);
+        var s = document.createElement('script');
+        s.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+        s.onload = initMap;
+        document.head.appendChild(s);
+      } else {
+        initMap();
+      }
+    })();
+  </script>
+)}

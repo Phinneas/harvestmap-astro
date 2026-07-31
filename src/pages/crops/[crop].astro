@@ -1,0 +1,113 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import FarmCard from '../../components/FarmCard.astro';
+import SeasonBadge from '../../components/SeasonBadge.astro';
+import Leaf from '../../components/illustrations/Leaf.astro';
+import Button from '../../components/Button.astro';
+import { loadAllAugmentedFarms, augmentFarm } from '../../lib/farm-loader';
+import { getCollection } from 'astro:content';
+
+export function getStaticPaths() {
+  const farms = loadAllAugmentedFarms();
+  const cropSet = new Set<string>();
+  for (const f of farms) {
+    const crops = f.produce || f.crops || [];
+    for (const c of crops) {
+      if (c && c.length > 1) cropSet.add(c);
+    }
+  }
+  return [...cropSet]
+    .sort((a, b) => a.localeCompare(b))
+    .map((crop) => ({
+      params: { crop: crop.toLowerCase().replace(/[^a-z0-9]+/g, '-') },
+      props: { cropName: crop },
+    }));
+}
+
+const { cropName } = Astro.props;
+const allFarms = loadAllAugmentedFarms();
+const farmsWithCrop = allFarms.filter((f) => {
+  const crops = f.produce || f.crops || [];
+  return crops.some((c) => c === cropName);
+});
+
+const inSeasonFarms = farmsWithCrop.filter((f) => f.derivedInSeasonNow);
+const usdaOnlyFarms = farmsWithCrop.filter((f) => !f.isEnriched && !(f.produce || []).length);
+
+const guides = await getCollection('guides');
+const relatedGuide = guides.find((g) =>
+  g.data.crop.toLowerCase() === cropName.toLowerCase()
+);
+
+const statesWithCrop = [...new Set(farmsWithCrop.map((f) => f.locationState))].sort();
+
+const seasonForCrop = farmsWithCrop.find((f) => f.derivedPeak)?.derivedPeak || 'summer';
+const seasonLabels: Record<string, string> = { spring: 'Spring', summer: 'Summer', autumn: 'Autumn', winter: 'Winter', year: 'Year-round' };
+
+const slug = cropName.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+---
+<BaseLayout active="farms" title={`${cropName} farms · HarvestMap`} description={`${farmsWithCrop.length} farms growing ${cropName} across ${statesWithCrop.length} states. Find u-pick ${cropName.toLowerCase()} farms near you.`}>
+  <div class="container" style="padding-top: var(--space-6);">
+    <a href="/#finder" class="btn btn--ghost" style="margin-bottom: var(--space-4);">&larr; All farms</a>
+
+    <div class="section-head" style="margin-bottom: var(--space-6);">
+      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> {farmsWithCrop.length} farms · {statesWithCrop.length} states</span>
+      <h1 class="squiggle squiggle-harvest">{cropName}</h1>
+      <p class="lead">
+        {farmsWithCrop.length} farms growing {cropName.toLowerCase()} across {statesWithCrop.length} states.
+        {inSeasonFarms.length > 0 && <strong style="color: var(--moss);"> {inSeasonFarms.length} are harvesting right now.</strong>}
+      </p>
+    </div>
+
+    {relatedGuide && (
+      <div class="panel panel--feature" style="margin-bottom: var(--space-6); padding: var(--space-5);">
+        <div class="cluster" style="justify-content: space-between; flex-wrap: wrap; gap: var(--space-4);">
+          <div class="stack stack-2">
+            <span class="eyebrow">Harvest guide</span>
+            <h2 style="margin: 0; font-family: var(--font-display); font-size: var(--fs-h3);">{relatedGuide.data.title}</h2>
+            <p style="color: var(--text-muted); margin: 0; max-width: 50ch;">{relatedGuide.data.description}</p>
+          </div>
+          <Button variant="primary" href={`/guides/${relatedGuide.slug}`}>Read guide &rarr;</Button>
+        </div>
+      </div>
+    )}
+
+    {inSeasonFarms.length > 0 && (
+      <section style="margin-bottom: var(--space-7);">
+        <div class="section-head" style="margin-bottom: var(--space-4);">
+          <h2 style="font-size: var(--fs-h3); display: flex; align-items: center; gap: var(--space-2);">
+            <span class="live-dot"></span> Harvesting now
+          </h2>
+          <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">{inSeasonFarms.length} farms with {cropName.toLowerCase()} currently in season.</p>
+        </div>
+        <div class="seed-grid stagger">
+          {inSeasonFarms.slice(0, 12).map((f) => <FarmCard farm={f} />)}
+        </div>
+      </section>
+    )}
+
+    {farmsWithCrop.length > 0 && (
+      <section>
+        <div class="section-head" style="margin-bottom: var(--space-4);">
+          <h2 style="font-size: var(--fs-h3);">All {cropName.toLowerCase()} farms</h2>
+          <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">Across {statesWithCrop.join(', ')}</p>
+        </div>
+        <div class="seed-grid stagger">
+          {farmsWithCrop.slice(0, 24).map((f) => <FarmCard farm={f} />)}
+        </div>
+        {farmsWithCrop.length > 24 && (
+          <p style="text-align: center; margin-top: var(--space-4); color: var(--text-muted);">
+            Showing 24 of {farmsWithCrop.length} farms. <a href="/#finder" style="color: var(--clay-deep);">Use the Finder to search by location &rarr;</a>
+          </p>
+        )}
+      </section>
+    )}
+
+    {farmsWithCrop.length === 0 && (
+      <div class="panel" style="padding: var(--space-6); text-align: center;">
+        <p style="color: var(--text-muted);">No farms listed for {cropName} yet.</p>
+        <a href="/add-farm" class="btn btn--primary" style="margin-top: var(--space-3);">List your farm</a>
+      </div>
+    )}
+  </div>
+</BaseLayout>

@@ -922,11 +922,11 @@ ul[role="list"] { list-style: none; padding: 0; }
 
 /* Announcement marquee bar */
 .announce-bar {
-  background: var(--clay);
+  background: color-mix(in srgb, var(--clay) 82%, black);
   color: var(--on-brand);
   overflow: hidden;
   font-size: var(--fs-small);
-  font-weight: 500;
+  font-weight: 600;
   padding: 6px 0;
 }
 .announce-bar .marquee-track {
@@ -974,12 +974,13 @@ ul[role="list"] { list-style: none; padding: 0; }
   display: flex; flex-wrap: wrap; gap: var(--space-3); align-items: center;
 }
 .finder-bar input, .finder-bar select {
-  background: rgba(255,255,255,0.1);
-  border: 1px solid rgba(255,255,255,0.2);
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.25);
   color: var(--text-invert);
   border-radius: var(--radius-sm);
-  padding: 0.6em 0.9em;
+  padding: var(--space-2) var(--space-3);
   font-size: var(--fs-small);
+  font-family: var(--font-body);
 }
 .finder-bar input::placeholder { color: rgba(255,255,255,0.6); }
 .finder-bar .chip {
@@ -1071,6 +1072,26 @@ ul[role="list"] { list-style: none; padding: 0; }
 .growers-cta img { border-radius: var(--radius-lg); width: 100%; aspect-ratio: 4/3; object-fit: cover; }
 @media (max-width: 760px) { .growers-cta { grid-template-columns: 1fr; } }
 
+/* Redesign mobile responsive */
+@media (max-width: 768px) {
+  .finder-map { height: 280px; }
+  .finder-bar { padding: var(--space-3); }
+  .finder-bar input, .finder-bar select { min-width: 0; width: 100%; }
+  .finder-bar > * { width: 100%; }
+  .nav__actions .btn--primary { display: none; }
+  .ripe-card__overlay h3 { font-size: 1rem; }
+  .announce-bar { font-size: var(--fs-xs); }
+  .announce-bar .marquee-track { gap: var(--space-4); padding-left: var(--space-4); }
+  .season-grid { grid-template-columns: 1fr 1fr !important; }
+  .finder-results { grid-template-columns: 1fr; }
+  .state-grid-redesign { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); }
+  .finder-layout { grid-template-columns: 1fr !important; }
+}
+@media (max-width: 480px) {
+  .season-grid { grid-template-columns: 1fr !important; }
+  .state-grid-redesign { grid-template-columns: 1fr 1fr; }
+}
+
 /* Redesign footer */
 .footer-redesign {
   background: var(--pine-deep);
@@ -1099,4 +1120,23 @@ ul[role="list"] { list-style: none; padding: 0; }
   background: linear-gradient(135deg, var(--moss), var(--pine));
   display: flex; align-items: center; justify-content: center;
   color: var(--text-invert); font-size: 2rem;
+}
+
+/* ===== PRINT STYLES ===== */
+@media print {
+  .nav, .footer-redesign, .theme-toggle, .nav__toggle, .nav__actions,
+  .announce-bar, .leaf-field, .divider, .btn--ghost,
+  #farm-map, .gallery, .squiggle {
+    display: none !important;
+  }
+  body { background: white !important; color: black !important; }
+  .container { max-width: 100% !important; padding: 0 !important; }
+  .detail-hero img { max-height: 3in; object-fit: cover; }
+  .detail-layout { grid-template-columns: 1fr !important; }
+  .sidebar { page-break-before: always; }
+  .panel { border: 1px solid #ccc !important; break-inside: avoid; }
+  .cal li { break-inside: avoid; }
+  a { color: black !important; text-decoration: underline; }
+  a[href]:after { content: " (" attr(href) ")"; font-size: 0.8em; color: #666; }
+  a[href^="#"]:after, a[href^="javascript"]:after { content: ""; }
 }

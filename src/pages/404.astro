@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import LeafField from '../components/LeafField.astro';
+---
+<BaseLayout title="Page not found · HarvestMap" description="The page you're looking for doesn't exist." noindex={true}>
+  <section class="section" style="position: relative; overflow: hidden; min-height: 60vh; display: flex; align-items: center; justify-content: center;">
+    <LeafField />
+    <div class="container" style="position: relative; z-index: 1; text-align: center; max-width: 600px;">
+      <h1 class="squiggle squiggle-berry" style="font-size: var(--fs-display); margin-bottom: var(--space-4);">Lost in the orchard</h1>
+      <p style="font-size: var(--fs-h3); color: var(--text-muted); margin-bottom: var(--space-6);">
+        We couldn't find that page. It may have moved, or the season may have passed.
+      </p>
+      <div class="cluster" style="justify-content: center;">
+        <a href="/" class="btn btn--primary">Back to the harvest map</a>
+        <a href="/search" class="btn btn--ghost">Search for a farm</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

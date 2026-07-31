@@ -31,6 +31,21 @@ const directoryLabels: Record<string, string> = {
   onfarmmarket: 'On-Farm Market',
   editorial: 'Editorial',
 };
+
+// What's in season right now in this state
+const inSeasonFarms = stateFarms.filter((f) => f.derivedInSeasonNow);
+const inSeasonCrops = [...new Set(
+  inSeasonFarms.flatMap((f) => f.produce || f.crops || [])
+)].sort();
+
+// Popular crops in this state (by farm count)
+const cropCounts: Record<string, number> = {};
+for (const f of stateFarms) {
+  for (const c of (f.produce || f.crops || [])) {
+    cropCounts[c] = (cropCounts[c] || 0) + 1;
+  }
+}
+const topCrops = Object.entries(cropCounts).sort((a, b) => b[1] - a[1]).slice(0, 12);
 ---
 <BaseLayout active="farms" title={`U-Pick Farms in ${stateName} · HarvestMap`} description={`${totalCount} farms and growers in ${stateName}. Find u-pick farms, farmers markets, CSAs, and agritourism near you.`}>
   <div class="container" style="padding-top: var(--space-6);">
@@ -41,6 +56,39 @@ const directoryLabels: Record<string, string> = {
       <h1 class="squiggle squiggle-harvest">Farms in {stateName}</h1>
       <p class="lead">{totalCount} farms listed · {enrichedCount} with crop and seasonality data</p>
     </div>
+
+    {inSeasonCrops.length > 0 && (
+      <section style="margin-bottom: var(--space-6);">
+        <div class="panel panel--feature" style="padding: var(--space-4);">
+          <h2 style="font-size: var(--fs-h3); display: flex; align-items: center; gap: var(--space-2); margin-bottom: var(--space-3);">
+            <span class="live-dot"></span> What's ripe in {stateName} now
+          </h2>
+          <div class="cluster" style="gap: var(--space-2);">
+            {inSeasonCrops.map((crop) => (
+              <a href={`/crops/${crop.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`} class="code-pill" style="text-decoration: none; background: color-mix(in srgb, var(--moss) 15%, var(--surface));">{crop}</a>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    {topCrops.length > 0 && (
+      <section style="margin-bottom: var(--space-6);">
+        <div class="section-head" style="margin-bottom: var(--space-3);">
+          <h2 style="font-size: var(--fs-h3);">Popular crops in {stateName}</h2>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: var(--space-3);">
+          {topCrops.map(([crop, count]) => (
+            <a href={`/crops/${crop.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`} class="card" style="text-decoration: none; padding: var(--space-3) var(--space-4);">
+              <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight: 600; font-family: var(--font-display);">{crop}</span>
+                <span class="code-pill">{count}</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
 
     {enrichedFarms.length > 0 && (
       <section style="margin-bottom: var(--space-7);">

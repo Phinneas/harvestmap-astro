@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FAF4E8"/>
+  <rect x="0" y="0" width="1200" height="80" fill="#22392D"/>
+  <text x="60" y="52" font-family="Georgia, serif" font-size="28" fill="#E3A63B" font-weight="600">HarvestMap</text>
+  <text x="60" y="200" font-family="Georgia, serif" font-size="64" fill="#2C2A22" font-weight="600">Find what's ripe</text>
+  <text x="60" y="280" font-family="Georgia, serif" font-size="64" fill="#2C2A22" font-weight="600">near you</text>
+  <text x="60" y="360" font-family="Inter, sans-serif" font-size="28" fill="#6B5847">A seasonal directory of 7,000+ farms</text>
+  <text x="60" y="400" font-family="Inter, sans-serif" font-size="28" fill="#6B5847">across all 50 states</text>
+  <circle cx="950" cy="350" r="180" fill="#7D8B6F" opacity="0.15"/>
+  <circle cx="950" cy="350" r="120" fill="#C4632C" opacity="0.15"/>
+  <circle cx="950" cy="350" r="60" fill="#E3A63B" opacity="0.3"/>
+  <path d="M900 250 Q 920 230 940 250 T 980 250 T 1020 250" stroke="#7D8B6F" stroke-width="3" fill="none"/>
+  <rect x="0" y="600" width="1200" height="30" fill="#22392D"/>
+</svg>
