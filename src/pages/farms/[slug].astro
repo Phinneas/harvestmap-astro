@@ -52,14 +52,14 @@ const hasEstablished = farm.established !== undefined;
 ---
 <BaseLayout active="farms" title={`${farm.name} · HarvestMap`} description={tagline}>
   <div class="container" style="padding-top: var(--space-6);">
-    <a href="/#directory" class="btn btn--ghost" style="margin-bottom: var(--space-4);">← All farms</a>
+    <a href="/#finder" class="btn btn--ghost" style="margin-bottom: var(--space-4);">&larr; All farms</a>
 
     <!-- Hero -->
     <header class="detail-hero">
       <img src={image} alt={imageAlt} width="1400" height="800" />
       <div class="detail-hero__content">
         <span class="eyebrow" style="color: var(--honey);">{region}</span>
-        <h1>{farm.name}</h1>
+        <h1 class="squiggle squiggle-ember">{farm.name}</h1>
         <div class="cluster">
           {seasons.map((s) => <SeasonBadge season={s} label={s === peak ? `${peakLabels[s]} peak` : peakLabels[s]} />)}
           <span class="card__loc" style="color: rgba(255,247,236,0.92);">

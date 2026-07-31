@@ -10,35 +10,36 @@ const sorted = guides.sort(
 );
 
 const seasonColors: Record<string, string> = {
-  spring: 'var(--season-spring)',
-  summer: 'var(--season-summer)',
-  autumn: 'var(--season-autumn)',
-  winter: 'var(--season-winter)',
-  year: 'var(--season-year)',
+  spring: 'var(--moss)',
+  summer: 'var(--honey)',
+  autumn: 'var(--clay)',
+  winter: 'var(--berry)',
+  year: 'var(--moss)',
 };
 ---
 <BaseLayout active="guides" title="Harvest Guides · HarvestMap" description="Guides to u-pick crops across America — when to go, what to bring, and how to pick the best fruit.">
   <div class="container" style="padding-top: var(--space-7);">
     <div class="section-head" style="max-width: 60ch; margin-bottom: var(--space-7);">
       <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> Harvest guides</span>
-      <h1>What to pick, and how</h1>
+      <h1 class="squiggle squiggle-berry">What to pick, and how</h1>
       <p class="lead">Guides to u-pick crops across America. When to go, what to bring, which varieties to look for, and how to pick the best fruit.</p>
     </div>
 
-    <div class="seed-grid" style="margin-top: var(--space-5);">
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: var(--space-5);">
       {sorted.map((guide) => (
-        <a href={`/guides/${guide.slug}`} class="card" style="text-decoration: none;">
-          <div class="card__body">
+        <a href={`/guides/${guide.slug}`} class="guide-card-redesign" style="text-decoration: none;">
+          <div class="guide-card-redesign__body">
             <div class="cluster" style="margin-bottom: var(--space-3);">
-              <SeasonBadge season={guide.data.season} />
+              <span class="live-dot" style="--dot-color: {seasonColors[guide.data.season]};"></span>
+              <span style="font-size: var(--fs-small); font-weight: 600; color: {seasonColors[guide.data.season]}; text-transform: capitalize;">{guide.data.season}</span>
               <span class="tag">{guide.data.crop}</span>
             </div>
-            <h3 class="card__title" style="font-size: var(--fs-h3);">{guide.data.title}</h3>
-            <p class="card__desc">{guide.data.description}</p>
+            <h3 style="font-size: var(--fs-h3); font-family: var(--font-display); margin: 0 0 var(--space-2) 0;">{guide.data.title}</h3>
+            <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">{guide.data.description}</p>
           </div>
-          <div class="card__foot">
-            <span class="card__loc">{guide.data.region}</span>
-            <span aria-hidden="true" style="font-weight:600;font-size:var(--fs-small);color:var(--clay-deep);">Read →</span>
+          <div class="guide-card-redesign__foot">
+            <span style="font-size: var(--fs-small); color: var(--text-muted);">{guide.data.region}</span>
+            <span style="font-weight: 600; font-size: var(--fs-small); color: var(--clay-deep);">Read &rarr;</span>
           </div>
         </a>
       ))}

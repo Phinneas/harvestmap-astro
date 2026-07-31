@@ -34,11 +34,11 @@ const directoryLabels: Record<string, string> = {
 ---
 <BaseLayout active="farms" title={`U-Pick Farms in ${stateName} · HarvestMap`} description={`${totalCount} farms and growers in ${stateName}. Find u-pick farms, farmers markets, CSAs, and agritourism near you.`}>
   <div class="container" style="padding-top: var(--space-6);">
-    <a href="/" class="btn btn--ghost" style="margin-bottom: var(--space-4);">← All states</a>
+    <a href="/#states" class="btn btn--ghost" style="margin-bottom: var(--space-4);">&larr; All states</a>
 
     <div class="section-head" style="margin-bottom: var(--space-6);">
       <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> {stateName}</span>
-      <h1>Farms in {stateName}</h1>
+      <h1 class="squiggle squiggle-harvest">Farms in {stateName}</h1>
       <p class="lead">{totalCount} farms listed · {enrichedCount} with crop and seasonality data</p>
     </div>
 
