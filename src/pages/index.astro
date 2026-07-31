@@ -400,6 +400,10 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
       if (searchBtn) searchBtn.addEventListener('click', runSearch);
       var locInput = document.getElementById('finder-location');
       if (locInput) locInput.addEventListener('keydown', function (e) { if (e.key === 'Enter') runSearch(); });
+      var cropSelect = document.getElementById('finder-crop');
+      if (cropSelect) cropSelect.addEventListener('change', runSearch);
+      var radiusSelect = document.getElementById('finder-radius');
+      if (radiusSelect) radiusSelect.addEventListener('change', runSearch);
       if (pickingToggle) pickingToggle.addEventListener('click', function () {
         var on = this.getAttribute('aria-pressed') === 'true';
         this.setAttribute('aria-pressed', String(!on));
@@ -412,25 +416,55 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
         return R * 2 * Math.atan2(Math.sqrt(h), Math.sqrt(1-h));
       }
 
+      var searchTimer;
       function runSearch() {
+        clearTimeout(searchTimer);
+        searchTimer = setTimeout(doSearch, 200);
+      }
+
+      async function doSearch() {
         var crop = document.getElementById('finder-crop').value;
         var picking = pickingToggle && pickingToggle.getAttribute('aria-pressed') === 'true';
         var locVal = (locInput || {}).value || '';
         var radius = parseInt(document.getElementById('finder-radius').value, 10) || 50;
-        var farms = window.__FARMS__ || [];
 
-        var filtered = farms.filter(function (f) {
-          if (crop && f.crops.indexOf(crop) === -1) return false;
-          if (picking && !f.inSeason) return false;
-          return true;
-        });
-
-        // Sort by distance if location provided
+        // Parse lat,lon from location input
         var lat, lon;
         if (locVal && locVal.indexOf(',') !== -1) {
           var parts = locVal.split(',');
           lat = parseFloat(parts[0]); lon = parseFloat(parts[1]);
         }
+
+        // Build API query
+        var params = new URLSearchParams();
+        if (lat && lon) { params.set('lat', lat); params.set('lon', lon); params.set('radius', radius); }
+        if (crop) params.set('crop', crop);
+        if (picking) params.set('inSeason', 'true');
+        params.set('limit', '50');
+
+        // Show loading state
+        if (resultsEl) resultsEl.innerHTML = '<p style="color: var(--text-muted);">Searching...</p>';
+
+        try {
+          var res = await fetch('/api/finder?' + params.toString());
+          if (res.ok) {
+            var data = await res.json();
+            var farms = data.farms || [];
+            renderResults(farms.slice(0, 12));
+            renderMap(farms.slice(0, 50), lat, lon, radius);
+            return;
+          }
+        } catch (e) {
+          // API not available (local dev) — fall back to client-side
+        }
+
+        // Fallback: filter the inline JSON island
+        var localFarms = window.__FARMS__ || [];
+        var filtered = localFarms.filter(function (f) {
+          if (crop && f.crops.indexOf(crop) === -1) return false;
+          if (picking && !f.inSeason) return false;
+          return true;
+        });
 
         if (lat && lon) {
           filtered = filtered.map(function (f) {
@@ -450,11 +484,13 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
           return;
         }
         resultsEl.innerHTML = farms.map(function (f) {
-          var badges = f.crops.slice(0, 3).map(function (c) {
+          var cropList = f.crops || [];
+          var badges = cropList.slice(0, 3).map(function (c) {
             return '<span class="badge" style="font-size:0.65rem;padding:2px 6px;">' + c + '</span>';
           }).join('');
           var dist = f.distance ? '<span class="finder-result-card__meta">' + Math.round(f.distance) + ' mi away</span>' : '';
-          return '<a href="/farms/' + f.slug + '" class="finder-result-card">' +
+          var href = f.url || ('/farms/' + f.slug);
+          return '<a href="' + href + '" class="finder-result-card">' +
             '<img src="https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=200&q=60" alt="" loading="lazy" />' +
             '<div class="finder-result-card__body">' +
               '<span class="finder-result-card__name">' + f.name + '</span>' +
