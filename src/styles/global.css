@@ -9,21 +9,30 @@
    1. DESIGN TOKENS
    -------------------------------------------------------------------------- */
 :root {
-  /* --- Palette: 7 harvest hues --- */
-  --cream:    #FBF3E7;
-  --clay:     #C2602C;
-  --clay-deep:#A94E20;
+  /* --- Palette: redesigned harvest hues --- */
+  --cream:    #FAF4E8;
+  --clay:     #C4632C;  /* ember */
+  --clay-deep:#A9541F;  /* ember-deep */
   --peach:    #F2A65A;
-  --honey:    #E6B450;
-  --orchard:  #34503A;
-  --moss:     #8A9A5B;
+  --honey:    #E3A63B;  /* harvest */
+  --orchard:  #2E4F3E;  /* pine */
+  --moss:     #7D8B6F;  /* sage */
   --berry:    #8C3A52;
 
+  /* --- Redesign aliases --- */
+  --pine:       #2E4F3E;
+  --pine-deep:  #22392D;
+  --ember:      #C4632C;
+  --ember-deep: #A9541F;
+  --harvest:    #E3A63B;
+  --sage:       #7D8B6F;
+  --cream-deep: #F3E9D7;
+
   /* --- Neutrals --- */
-  --ink:      #2E2419;
+  --ink:      #2C2A22;
   --bark:     #6B5847;
-  --line:        rgba(46, 36, 25, 0.14);
-  --line-strong: rgba(46, 36, 25, 0.26);
+  --line:        rgba(44, 42, 34, 0.14);
+  --line-strong: rgba(44, 42, 34, 0.26);
 
   /* --- Opacity variants (tints used for fills, borders, washes) --- */
   --clay-08:    rgba(194, 96, 44, 0.08);
@@ -39,7 +48,7 @@
   /* --- Semantic surfaces --- */
   --bg:           var(--cream);
   --surface:      #FFFCF5;
-  --surface-sunk: #F3E7D4;
+  --surface-sunk: #F3E9D7;
   --surface-raised:#FFFFFF;
   --text:         var(--ink);
   --text-muted:   var(--bark);
@@ -55,9 +64,9 @@
   --season-year:   var(--orchard);
 
   /* --- Typography --- */
-  --font-display: "Sentient", Georgia, "Times New Roman", serif;
-  --font-body:    "Figtree", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --font-whimsy:  "Gambarino", "Sentient", Georgia, serif;
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-body:    "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-whimsy:  "Gambarino", "Fraunces", Georgia, serif;
 
   --fs-display: clamp(2.6rem, 1.6rem + 4.4vw, 4.25rem);
   --fs-h1:      clamp(2rem, 1.5rem + 2.2vw, 3rem);
@@ -130,6 +139,14 @@
   --orchard:#7FA886;
   --moss:  #AEBE82;
   --berry: #D86F8B;
+
+  --pine: #7FA886;
+  --pine-deep: #4A6B52;
+  --ember: #E0824B;
+  --ember-deep: #C76B36;
+  --harvest: #EFC868;
+  --sage: #AEBE82;
+  --cream-deep: #2E2418;
 
   --line:        rgba(244, 233, 216, 0.14);
   --line-strong: rgba(244, 233, 216, 0.28);
@@ -762,3 +779,318 @@ ul[role="list"] { list-style: none; padding: 0; }
 .list-checks svg { color: var(--moss); flex: none; margin-top: 3px; width: 16px; height: 16px; }
 .prose p { margin-bottom: var(--space-4); max-width: 62ch; }
 .prose p:last-child { margin-bottom: 0; }
+
+/* --------------------------------------------------------------------------
+   20. REDESIGN WHIMSY LAYER — squiggles, stickers, tape, doodles, marquee
+   -------------------------------------------------------------------------- */
+
+/* Squiggly underline for nav links (each link sets its own --squiggle-url) */
+.squiggle {
+  background-image: var(--squiggle-url);
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  background-size: 100% 7px;
+  padding-bottom: 5px;
+  transition: background-size 0.25s ease;
+}
+.squiggle:hover { background-size: 100% 10px; }
+
+/* Hand-drawn "sticker": irregular radius + slight tilt */
+.sticker {
+  border-radius: 255px 18px 225px 18px / 18px 225px 18px 255px;
+}
+.sticker-tilt-l { transform: rotate(-1.6deg); }
+.sticker-tilt-r { transform: rotate(1.4deg); }
+.sticker-tilt-l:hover, .sticker-tilt-r:hover { transform: rotate(0deg) scale(1.03); }
+
+/* Tape strip on top of a card */
+.tape::before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  width: 84px;
+  height: 22px;
+  transform: translateX(-50%) rotate(-3deg);
+  background: rgba(227, 166, 59, 0.5);
+  border-radius: 2px;
+}
+
+/* Wobbly dashed ring behind hero art */
+.doodle-ring {
+  position: absolute;
+  inset: -14px;
+  border: 2.5px dashed rgba(196, 99, 44, 0.55);
+  border-radius: 9999px 9999px 28px 28px;
+  transform: rotate(-1.5deg);
+  pointer-events: none;
+}
+
+/* Pulsing "live" dot for harvesting-now badges */
+.live-dot {
+  position: relative;
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 9999px;
+  background-color: #5f8f4e;
+}
+.live-dot::after {
+  content: "";
+  position: absolute;
+  inset: -4px;
+  border-radius: 9999px;
+  border: 2px solid #5f8f4e;
+  opacity: 0.55;
+  animation: live-ping 1.8s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+@keyframes live-ping {
+  0% { transform: scale(0.6); opacity: 0.55; }
+  75%, 100% { transform: scale(1.35); opacity: 0; }
+}
+
+/* Gentle float for hero overlay chips */
+@keyframes drift {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+.animate-drift { animation: drift 5s ease-in-out infinite; }
+.animate-drift-slow { animation: drift 7s ease-in-out infinite; }
+
+/* Hide scrollbar */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Announcement marquee strip */
+@keyframes strip-marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.marquee-track {
+  display: inline-flex;
+  white-space: nowrap;
+  animation: strip-marquee 28s linear infinite;
+}
+
+/* --------------------------------------------------------------------------
+   21. FALLING LEAVES — CSS-only decorative animation (replaces three.js)
+   -------------------------------------------------------------------------- */
+.leaf-field {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 0;
+}
+.leaf-field svg {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  opacity: 0;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .leaf-field svg {
+    animation: leaf-fall var(--leaf-dur, 12s) linear infinite;
+    animation-delay: var(--leaf-delay, 0s);
+  }
+}
+@keyframes leaf-fall {
+  0% {
+    transform: translate(var(--leaf-x-start, 0), -10vh) rotate(0deg);
+    opacity: 0;
+  }
+  10% { opacity: var(--leaf-opacity, 0.6); }
+  50% {
+    transform: translate(calc(var(--leaf-x-start, 0) + var(--leaf-x-mid, 30px)), 50vh) rotate(180deg);
+  }
+  90% { opacity: var(--leaf-opacity, 0.6); }
+  100% {
+    transform: translate(var(--leaf-x-end, 0), 110vh) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   22. REDESIGN HOMEPAGE SECTIONS
+   -------------------------------------------------------------------------- */
+
+/* Announcement marquee bar */
+.announce-bar {
+  background: var(--clay);
+  color: var(--on-brand);
+  overflow: hidden;
+  font-size: var(--fs-small);
+  font-weight: 500;
+  padding: 6px 0;
+}
+.announce-bar .marquee-track {
+  gap: var(--space-7);
+  padding-left: var(--space-7);
+}
+.announce-bar span {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+/* Ripe This Week crop cards */
+.ripe-card {
+  position: relative;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform var(--dur-base) var(--ease-organic), box-shadow var(--dur-base) var(--ease-standard);
+}
+.ripe-card:hover { transform: translateY(-6px); box-shadow: var(--shadow-lg); }
+.ripe-card img { width: 100%; aspect-ratio: 4/3; object-fit: cover; }
+.ripe-card__overlay {
+  position: absolute; inset: 0;
+  background: linear-gradient(to top, rgba(34,57,45,0.88), rgba(34,57,45,0.12) 60%, transparent);
+  display: flex; flex-direction: column; justify-content: flex-end;
+  padding: var(--space-4); color: var(--text-invert);
+}
+.ripe-card__overlay h3 { color: var(--text-invert); font-size: 1.2rem; }
+.ripe-card__overlay .count { font-size: var(--fs-small); opacity: 0.9; }
+.ripe-card__sticker {
+  position: absolute; top: var(--space-3); left: var(--space-3);
+  background: var(--honey); color: var(--ink);
+  font-size: var(--fs-label); font-weight: 700; text-transform: uppercase;
+  padding: 4px 12px; border-radius: 255px 18px 225px 18px / 18px 225px 18px 255px;
+  transform: rotate(-3deg);
+}
+
+/* Finder section */
+.finder-bar {
+  background: var(--pine-deep);
+  color: var(--text-invert);
+  border-radius: var(--radius-lg);
+  padding: var(--space-4) var(--space-5);
+  display: flex; flex-wrap: wrap; gap: var(--space-3); align-items: center;
+}
+.finder-bar input, .finder-bar select {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text-invert);
+  border-radius: var(--radius-sm);
+  padding: 0.6em 0.9em;
+  font-size: var(--fs-small);
+}
+.finder-bar input::placeholder { color: rgba(255,255,255,0.6); }
+.finder-bar .chip {
+  background: rgba(255,255,255,0.12);
+  border-color: rgba(255,255,255,0.2);
+  color: var(--text-invert);
+}
+.finder-bar .chip:hover { background: rgba(255,255,255,0.2); }
+.finder-bar .chip[aria-pressed="true"] {
+  background: var(--honey); color: var(--ink); border-color: var(--honey);
+}
+.finder-map {
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  border: 1px solid var(--line);
+  height: 400px;
+}
+.finder-results {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: var(--space-4);
+}
+.finder-result-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  display: flex; flex-direction: column;
+  transition: transform var(--dur-fast) var(--ease-organic), box-shadow var(--dur-fast) var(--ease-standard);
+}
+.finder-result-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
+.finder-result-card img { width: 100%; height: 120px; object-fit: cover; }
+.finder-result-card__body { padding: var(--space-3); display: flex; flex-direction: column; gap: var(--space-2); }
+.finder-result-card__name { font-weight: 600; font-size: var(--fs-small); }
+.finder-result-card__meta { font-size: var(--fs-label); color: var(--text-muted); }
+.finder-result-card__badges { display: flex; flex-wrap: wrap; gap: 4px; }
+.finder-result-card__badges .badge { font-size: 0.65rem; padding: 2px 6px; }
+
+/* State grid */
+.state-grid-redesign {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: var(--space-3);
+}
+.state-tile {
+  display: flex; flex-direction: column; gap: 2px;
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--line);
+  text-decoration: none;
+  transition: transform var(--dur-fast) var(--ease-organic), box-shadow var(--dur-fast) var(--ease-standard);
+}
+.state-tile:hover { transform: translateY(-2px); box-shadow: var(--shadow-sm); }
+.state-tile__name { font-weight: 700; font-size: var(--fs-body); color: var(--ink); }
+.state-tile__count { font-size: var(--fs-small); color: var(--text-muted); }
+.state-tile--top { background: var(--pine); border-color: var(--pine); }
+.state-tile--top .state-tile__name { color: var(--text-invert); }
+.state-tile--top .state-tile__count { color: rgba(255,255,255,0.7); }
+
+/* Guide cards (redesign style) */
+.guide-card-redesign {
+  position: relative;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5);
+  display: flex; flex-direction: column; gap: var(--space-3);
+  text-decoration: none;
+  transition: transform var(--dur-base) var(--ease-organic), box-shadow var(--dur-base) var(--ease-standard);
+}
+.guide-card-redesign:hover { transform: translateY(-4px) rotate(0deg); box-shadow: var(--shadow-md); }
+.guide-card-redesign h3 { font-size: 1.3rem; }
+.guide-card-redesign p { color: var(--text-muted); font-size: var(--fs-small); }
+.guide-card-redesign__foot { display: flex; justify-content: space-between; align-items: center; margin-top: auto; }
+
+/* Growers CTA (redesign style) */
+.growers-cta {
+  background: var(--pine);
+  border-radius: var(--radius-xl);
+  padding: clamp(var(--space-6), 5vw, var(--space-8));
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  gap: var(--space-6);
+  align-items: center;
+  color: var(--text-invert);
+}
+.growers-cta h2 { color: var(--text-invert); }
+.growers-cta p { color: rgba(255,255,255,0.8); }
+.growers-cta img { border-radius: var(--radius-lg); width: 100%; aspect-ratio: 4/3; object-fit: cover; }
+@media (max-width: 760px) { .growers-cta { grid-template-columns: 1fr; } }
+
+/* Redesign footer */
+.footer-redesign {
+  background: var(--pine-deep);
+  color: rgba(255,255,255,0.7);
+  padding: var(--space-8) 0 var(--space-5);
+}
+.footer-redesign a { color: rgba(255,255,255,0.6); text-decoration: none; font-size: var(--fs-small); }
+.footer-redesign a:hover { color: var(--honey); }
+.footer-redesign h4 { color: rgba(255,255,255,0.5); font-size: var(--fs-label); text-transform: uppercase; letter-spacing: 0.08em; }
+.footer-redesign .brand { color: var(--text-invert); }
+.footer-redesign .brand b { color: var(--honey); }
+
+/* Honesty disclaimer */
+.honesty-note {
+  font-size: var(--fs-label);
+  color: var(--text-muted);
+  font-style: italic;
+  text-align: center;
+  max-width: 50ch;
+  margin: var(--space-4) auto 0;
+}
+
+/* Crop image fallback */
+.crop-img-fallback {
+  width: 100%; aspect-ratio: 4/3;
+  background: linear-gradient(135deg, var(--moss), var(--pine));
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text-invert); font-size: 2rem;
+}

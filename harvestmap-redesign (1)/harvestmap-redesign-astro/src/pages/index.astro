@@ -1,0 +1,26 @@
+---
+import Base from "@/layouts/Base.astro";
+import Header from "@/sections/Header";
+import Hero from "@/sections/Hero";
+import FinderFlow from "@/components/FinderFlow";
+import SeasonGuide from "@/sections/SeasonGuide";
+import States from "@/sections/States";
+import Guides from "@/sections/Guides";
+import Growers from "@/sections/Growers";
+import Footer from "@/sections/Footer";
+---
+
+<Base>
+  <div class="min-h-screen bg-cream">
+    <Header client:load />
+    <main>
+      <Hero client:load />
+      <FinderFlow client:load />
+      <SeasonGuide client:load />
+      <States client:load />
+      <Guides client:load />
+      <Growers client:load />
+    </main>
+    <Footer client:load />
+  </div>
+</Base>

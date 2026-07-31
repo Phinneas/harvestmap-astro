@@ -1,18 +1,9 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import SeasonalBanner from '../components/SeasonalBanner.astro';
-import SearchBar from '../components/SearchBar.astro';
-import FarmCard from '../components/FarmCard.astro';
-import EmptyState from '../components/EmptyState.astro';
 import Button from '../components/Button.astro';
-import PathLine from '../components/illustrations/PathLine.astro';
-import Leaf from '../components/illustrations/Leaf.astro';
-import PeachCrossSection from '../components/illustrations/PeachCrossSection.astro';
-import Basket from '../components/illustrations/Basket.astro';
-import PruningShears from '../components/illustrations/PruningShears.astro';
-import Foragers from '../components/illustrations/Foragers.astro';
-import Mushrooms from '../components/illustrations/Mushrooms.astro';
+import LeafField from '../components/LeafField.astro';
 import { loadAllAugmentedFarms, loadEnrichedAugmentedFarms, getStatesWithFarms } from '../lib/farm-loader';
+import { getCollection } from 'astro:content';
 
 const allFarms = loadAllAugmentedFarms();
 const enrichedFarms = loadEnrichedAugmentedFarms();
@@ -22,260 +13,500 @@ const total = allFarms.length;
 const inSeason = enrichedFarms.filter((f) => f.derivedInSeasonNow).length;
 const withCrops = enrichedFarms.length;
 const enriched = enrichedFarms.filter((f) => f.isEnriched).length;
+
+// Current season
+const now = new Date();
+const month = now.getMonth();
+const currentSeason = month >= 2 && month <= 4 ? 'spring' : month >= 5 && month <= 7 ? 'summer' : month >= 8 && month <= 10 ? 'autumn' : 'winter';
+const seasonLabels: Record<string, string> = { spring: 'Spring', summer: 'Summer', autumn: 'Autumn', winter: 'Winter' };
+const seasonTaglines: Record<string, string> = {
+  spring: 'First shoots & blossoms',
+  summer: 'The glut of the year',
+  autumn: 'Orchards & curing barns',
+  winter: 'Citrus, cider & stores',
+};
+
+// Peak crops for current season (from enriched farms)
+const cropCounts: Record<string, { picking: number; peak: number }> = {};
+for (const f of enrichedFarms) {
+  const crops = f.produce || f.crops || [];
+  for (const crop of crops) {
+    if (!cropCounts[crop]) cropCounts[crop] = { picking: 0, peak: 0 };
+    if (f.derivedInSeasonNow) cropCounts[crop].picking++;
+    if ((f.peak || f.derivedPeak) === currentSeason) cropCounts[crop].peak++;
+  }
+}
+const topCrops = Object.entries(cropCounts)
+  .sort((a, b) => b[1].picking - a[1].picking || b[1].peak - a[1].peak)
+  .slice(0, 5)
+  .map(([name, counts]) => ({ name, ...counts }));
+
+// Season counts
 const countFor = (k: string) => enrichedFarms.filter((f) => (f.seasons || f.derivedSeasons).includes(k as any)).length;
 
-// "What's ripe this week" — farms with a recent lastConfirmedAt (within 30 days)
+// Recently confirmed
 const thirtyDaysAgo = new Date();
 thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
-const recentlyConfirmed = enrichedFarms
-  .filter((f) => f.lastConfirmedAt && new Date(f.lastConfirmedAt) >= thirtyDaysAgo)
-  .sort((a, b) => new Date(b.lastConfirmedAt!).getTime() - new Date(a.lastConfirmedAt!).getTime());
+const confirmedCount = enrichedFarms.filter((f) => f.lastConfirmedAt && new Date(f.lastConfirmedAt) >= thirtyDaysAgo).length;
 
-const confirmedCount = recentlyConfirmed.length;
-const topConfirmed = recentlyConfirmed.slice(0, 5);
-const confirmedNames = topConfirmed.map((f) => f.name);
-const bannerText = confirmedCount > 0
-  ? `${confirmedCount} ${confirmedCount === 1 ? 'farm was' : 'farms were'} confirmed harvesting this week${confirmedNames.length > 0 ? ' — ' + confirmedNames.slice(0, 3).join(', ') + (confirmedNames.length > 3 ? ' and more' : '') : ''}.`
-  : `${inSeason} of ${total} growers are in season right now. Help us confirm what's ripe — report from any farm page.`;
-const bannerEyebrow = confirmedCount > 0
-  ? 'Updated this week · community-confirmed'
-  : 'This season · find what\'s ripe near you';
+// States sorted by farm count, top 18 for initial display
+const statesSorted = [...states].sort((a, b) => b.count - a.count);
+const topStates = statesSorted.slice(0, 18);
+const remainingStates = statesSorted.slice(18);
+
+// Recent guides
+const guides = (await getCollection('guides')).sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()).slice(0, 3);
+
+// Farms with coordinates for the Finder map (enriched only for performance)
+const farmsWithCoords = enrichedFarms
+  .filter((f) => f.lat && f.lon)
+  .slice(0, 200)
+  .map((f) => ({
+    slug: f.slug,
+    name: f.name,
+    city: f.locationCity,
+    state: f.locationState,
+    lat: f.lat!,
+    lon: f.lon!,
+    crops: (f.produce || f.crops || []).slice(0, 5),
+    inSeason: f.derivedInSeasonNow,
+    peak: f.peak || f.derivedPeak,
+  }));
+
+// Crop image URLs (Unsplash, from redesign data)
+const CROP_IMAGES: Record<string, string> = {
+  Strawberries: 'https://images.unsplash.com/photo-1464983086-557d8c4b3b89?w=400&q=70',
+  Blueberries: 'https://images.unsplash.com/photo-1582526431847-6aad045483c6?w=400&q=70',
+  Raspberries: 'https://images.unsplash.com/photo-1571772996211-2f02c9727629?w=400&q=70',
+  Blackberries: 'https://images.unsplash.com/photo-1599931314730-66c1f1c9b6b9?w=400&q=70',
+  Apples: 'https://images.unsplash.com/photo-1560806887-1e4cd0b38cbd?w=400&q=70',
+  Peaches: 'https://images.unsplash.com/photo-1540243237295-491bf8db5e2a?w=400&q=70',
+  Cherries: 'https://images.unsplash.com/photo-1546547790-8b2963560dab?w=400&q=70',
+  Pumpkins: 'https://images.unsplash.com/photo-1572294728082-e9e1c7613e1b?w=400&q=70',
+  Tomatoes: 'https://images.unsplash.com/photo-1592841200221-a6895f5b4f9f?w=400&q=70',
+  Grapes: 'https://images.unsplash.com/photo-1597290282696-cf1de5a1b6b2?w=400&q=70',
+  default: 'https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=400&q=70',
+};
+
+const seasonColors: Record<string, string> = {
+  spring: 'var(--moss)',
+  summer: 'var(--honey)',
+  autumn: 'var(--clay)',
+  winter: 'var(--berry)',
+};
+
+// Squiggle SVGs for nav
+
+// Season crop data
+const seasonCrops: Record<string, { name: string; months: string }[]> = {
+  spring: [{ name: 'Asparagus', months: 'Mar – May' }, { name: 'Strawberries', months: 'May – Jun' }, { name: 'Peas & herbs', months: 'Apr – Jun' }, { name: 'Cutting lettuces', months: 'Apr – Jun' }],
+  summer: [{ name: 'Apricots', months: 'June' }, { name: 'Peaches & nectarines', months: 'Jul – Aug' }, { name: 'Berries', months: 'Jun – Aug' }, { name: 'Sweet corn', months: 'August' }],
+  autumn: [{ name: 'Heirloom apples', months: 'Sep – Nov' }, { name: 'Winter squash', months: 'Oct – Dec' }, { name: 'Chanterelles', months: 'Sep – Dec' }, { name: 'Pears & quince', months: 'Sep – Oct' }],
+  winter: [{ name: 'Citrus', months: 'Dec – Feb' }, { name: 'Hardy greens', months: 'Nov – Feb' }, { name: 'Barrel cider', months: 'Dec – Mar' }, { name: 'Storage roots', months: 'Nov – Feb' }],
+};
+const squigglePine = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 7'%3E%3Cpath d='M0 4 Q 12 1 25 4 T 50 4 T 75 4 T 100 4' stroke='%232e4f3e' fill='none' stroke-width='1.5'/%3E%3C/svg%3E")`;
+const squiggleEmber = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 7'%3E%3Cpath d='M0 4 Q 12 1 25 4 T 50 4 T 75 4 T 100 4' stroke='%23c4632c' fill='none' stroke-width='1.5'/%3E%3C/svg%3E")`;
+const squiggleHarvest = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 7'%3E%3Cpath d='M0 4 Q 12 1 25 4 T 50 4 T 75 4 T 100 4' stroke='%23e3a63b' fill='none' stroke-width='1.5'/%3E%3C/svg%3E")`;
+const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 7'%3E%3Cpath d='M0 4 Q 12 1 25 4 T 50 4 T 75 4 T 100 4' stroke='%238c3a52' fill='none' stroke-width='1.5'/%3E%3C/svg%3E")`;
 ---
-<BaseLayout active="home">
-  <!-- Hero -->
-  <div class="container" style="padding-top: var(--space-7);">
-    <SeasonalBanner
-      eyebrow={bannerEyebrow}
-      text={bannerText}
-    />
-    <div class="cluster" style="justify-content:center; gap:var(--space-6); margin-top:var(--space-5); color:var(--text-muted); font-size:var(--fs-small);">
-      <span><b style="color:var(--clay-deep)">{total}</b> farms listed</span>
-      <span aria-hidden="true">·</span>
-      <span><b style="color:var(--clay-deep)">{withCrops}</b> with crop data</span>
-      <span aria-hidden="true">·</span>
-      <span><b style="color:var(--clay-deep)">{enriched}</b> fully enriched</span>
-      {confirmedCount > 0 && (
-        <>
-          <span aria-hidden="true">·</span>
-          <span><b style="color:var(--moss)">{confirmedCount}</b> confirmed this week</span>
-        </>
-      )}
-    </div>
 
-    <!-- Recently confirmed farms strip -->
-    {confirmedCount > 0 && (
-      <div class="container" style="margin-top: var(--space-5);">
-        <div class="cluster" style="gap: var(--space-3); flex-wrap: wrap;">
-          {topConfirmed.map((f) => (
-            <a href={`/farms/${f.slug}`} class="panel" style="padding: var(--space-2) var(--space-4); text-decoration: none; display: inline-flex; align-items: center; gap: var(--space-2); border-color: var(--moss);">
-              <span class="badge__dot" style="background: var(--moss);"></span>
-              <span style="font-weight: 600; color: var(--ink);">{f.name}</span>
-              {f.derivedInSeasonNow && <span style="font-size: var(--fs-small); color: var(--moss);">harvesting now</span>}
-            </a>
-          ))}
-        </div>
-      </div>
-    )}
+<BaseLayout active="home">
+  <!-- Announcement marquee -->
+  <div class="announce-bar">
+    <div class="marquee-track">
+      <span>&#127807; {inSeason} farms harvesting right now</span>
+      <span>&#129373; {withCrops} farms with crop data</span>
+      <span>&#128721; {confirmedCount} confirmed this week</span>
+      <span>&#127807; {inSeason} farms harvesting right now</span>
+      <span>&#129373; {withCrops} farms with crop data</span>
+      <span>&#128721; {confirmedCount} confirmed this week</span>
+    </div>
   </div>
 
-  <!-- Directory -->
-  <section class="section" id="directory">
-    <div class="container">
-      <div class="section-head split">
-        <div class="stack stack-3" style="max-width:46ch;">
-          <span class="eyebrow">
-            <Leaf class="is-drawn" style="width:18px;height:18px;" /> Browse the directory
+  <!-- Hero -->
+  <section class="section" id="top" style="position: relative; overflow: hidden;">
+    <LeafField />
+    <div class="container" style="position: relative; z-index: 1;">
+      <div style="display: grid; grid-template-columns: 1.2fr 1fr; gap: var(--space-7); align-items: center;">
+        <div class="stack stack-5">
+          <span class="eyebrow" style="color: var(--moss);">
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4.5"/><path d="M12 2.5v2M12 19.5v2M4 12H2M22 12h-2M5 5l1.5 1.5M17.5 17.5 19 19M19 5l-1.5 1.5M6.5 17.5 5 19"/></svg>
+            {seasonLabels[currentSeason]} · Week {Math.ceil((now.getTime() - new Date(now.getFullYear(), 0, 1).getTime()) / (7 * 24 * 60 * 60 * 1000))}
           </span>
-          <h2>Farms harvesting near you</h2>
-          <p class="lead">{inSeason} of {withCrops} enriched growers are in season right now. {total} farms in our national database — browse by state below.</p>
+          <h1 style="font-size: var(--fs-display); line-height: var(--lh-tight);">
+            What's <span class="whimsy" style="color: var(--clay); position: relative;">ripe near you
+              <svg viewBox="0 0 200 12" style="position: absolute; bottom: -8px; left: 0; width: 100%; height: 12px;" fill="none" stroke="var(--clay)" stroke-width="2" stroke-linecap="round">
+                <path d="M2 8 Q 40 2 80 6 T 160 5 T 198 7" />
+              </svg>
+            </span> this week
+          </h1>
+          <p class="lead" style="max-width: 46ch;">
+            {total} farms across {states.length} states. See what's in season, who's picking, and find the closest u-pick farm to you.
+          </p>
+          <div class="cluster" style="gap: var(--space-4);">
+            <Button variant="primary" size="lg" id="hero-locate">Use my location</Button>
+            <Button variant="secondary" size="lg" href="#finder">Enter a town or ZIP</Button>
+          </div>
+          <p class="honesty-note" style="margin: 0; text-align: left;">
+            Season is estimated from growing zone, not confirmed by the farms. Always call ahead.
+          </p>
         </div>
-        <div style="flex:1; min-width:min(100%, 340px); max-width:480px;">
-          <SearchBar />
+        <div style="position: relative;">
+          <div class="doodle-ring"></div>
+          <img
+            src="https://images.unsplash.com/photo-1542891494-834a4b5b4b3b?w=600&q=70"
+            alt="A basket of freshly picked summer fruit"
+            style="width: 100%; border-radius: var(--radius-xl); aspect-ratio: 4/3; object-fit: cover; box-shadow: var(--shadow-lg);"
+            loading="eager"
+          />
         </div>
       </div>
-
-      <div class="seed-grid stagger" id="farm-grid" style="margin-top: var(--space-7);">
-        {enrichedFarms.map((f) => <FarmCard farm={f} />)}
-      </div>
-
-      <EmptyState id="farm-empty" class="is-hidden" />
     </div>
   </section>
 
-  <!-- State directory -->
+  <!-- Ripe This Week -->
+  {topCrops.length > 0 && (
+    <section class="section" id="ripe" style="background: var(--cream-deep);">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow" style="color: var(--clay);">&#129373; Ripe this week</span>
+          <h2>{seasonTaglines[currentSeason]}</h2>
+          <p class="lead">The top crops being picked right now, according to our growing-zone estimates.</p>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: var(--space-5);">
+          {topCrops.map((crop, i) => (
+            <div class="ripe-card" data-crop={crop.name}>
+              <img src={CROP_IMAGES[crop.name] || CROP_IMAGES.default} alt={crop.name} loading="lazy" />
+              <div class="ripe-card__overlay">
+                <h3>{crop.name}</h3>
+                <span class="count">{crop.picking} farms picking now</span>
+              </div>
+              {i === 0 && <span class="ripe-card__sticker">At peak</span>}
+            </div>
+          ))}
+        </div>
+        <p class="honesty-note">Crop availability is estimated from hardiness zones and crop calendars. Confirm with the farm before visiting.</p>
+      </div>
+    </section>
+  )}
+
+  <!-- Finder -->
+  <section class="section" id="finder">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow" style="color: var(--moss);">&#128269; Find a farm</span>
+        <h2>Search {total} farms by location or crop</h2>
+        <p class="lead">Enter a town, ZIP code, or crop to find u-pick farms near you. Results include farms with known crop data.</p>
+      </div>
+
+      <!-- Location + filter bar -->
+      <div class="finder-bar" style="margin-bottom: var(--space-5);">
+        <input type="text" id="finder-location" placeholder="Town or ZIP code" />
+        <select id="finder-crop">
+          <option value="">All crops</option>
+          {Object.keys(cropCounts).sort().map((c) => <option value={c}>{c}</option>)}
+        </select>
+        <select id="finder-radius">
+          <option value="25">25 miles</option>
+          <option value="50" selected>50 miles</option>
+          <option value="100">100 miles</option>
+          <option value="500">500 miles</option>
+        </select>
+        <button class="chip" id="finder-picking" aria-pressed="false">Picking now</button>
+        <button class="btn btn--primary" id="finder-search" style="background: var(--honey); color: var(--ink);">Search</button>
+      </div>
+
+      <!-- Map + results -->
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-5);">
+        <div class="finder-map" id="finder-map"></div>
+        <div class="stack stack-3">
+          <div class="finder-results" id="finder-results"></div>
+          <p class="honesty-note" style="margin: 0;">Showing farms with crop data. <a href="#states">Browse all {total} farms by state</a>.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Season Guide -->
+  <section class="section" id="seasons" style="background: var(--cream-deep);">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">&#127807; The season guide</span>
+        <h2>What's ripe, by season</h2>
+        <p class="lead">Eat with the calendar. Here's the rhythm of the year across our growers.</p>
+      </div>
+      <div class="season-grid">
+        {(['spring', 'summer', 'autumn', 'winter'] as const).map((s) => {
+          const crops = seasonCrops[s];
+          return (
+            <article class="panel season-panel" style={`--accent: ${seasonColors[s]};`}>
+              <div class="season-panel__head">
+                <h3>
+                  <span class="badge__dot" style={`background:${seasonColors[s]}`}></span>
+                  {seasonLabels[s]}
+                  {s === currentSeason && <span class="live-dot" style="margin-left: var(--space-2);"></span>}
+                </h3>
+              </div>
+              <ul>
+                {crops.map((c) => (
+                  <li><span>{c.name}</span><span class="mo">{c.months}</span></li>
+                ))}
+              </ul>
+              <Button variant="ghost" href="#finder">{countFor(s)} farms in {seasonLabels[s].toLowerCase()} →</Button>
+            </article>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- States -->
   <section class="section" id="states">
     <div class="container">
       <div class="section-head">
         <span class="eyebrow">Browse by state</span>
         <h2>{total} farms across {states.length} states</h2>
-        <p class="lead">Pick a state to see all farms, farmers markets, CSAs, and agritourism listings in our database.</p>
+        <p class="lead">Pick a state to see all farms, farmers markets, CSAs, and agritourism listings.</p>
       </div>
-      <div class="state-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: var(--space-3); margin-top: var(--space-5);">
-        {states.map((s) => (
-          <a href={`/${s.code.toLowerCase()}`} class="panel" style="padding: var(--space-3) var(--space-4); text-decoration: none; transition: transform 0.15s, box-shadow 0.15s;">
-            <div style="font-weight: 700; font-size: var(--fs-body); color: var(--ink);">{s.name}</div>
-            <div style="font-size: var(--fs-small); color: var(--text-muted); margin-top: 2px;">
-              {s.count} farms{s.enriched > 0 ? ` · ${s.enriched} enriched` : ''}
+      <div class="state-grid-redesign" id="state-grid">
+        {topStates.map((s) => (
+          <a href={`/${s.code.toLowerCase()}`} class={`state-tile ${s.count > 200 ? 'state-tile--top' : ''}`}>
+            <span class="state-tile__name">{s.name}</span>
+            <span class="state-tile__count">{s.count} farms{s.enriched > 0 ? ` · ${s.enriched} enriched` : ''}</span>
+          </a>
+        ))}
+      </div>
+      <div class="state-grid-redesign" id="state-grid-rest" style="display: none; margin-top: var(--space-3);">
+        {remainingStates.map((s) => (
+          <a href={`/${s.code.toLowerCase()}`} class="state-tile">
+            <span class="state-tile__name">{s.name}</span>
+            <span class="state-tile__count">{s.count} farms{s.enriched > 0 ? ` · ${s.enriched} enriched` : ''}</span>
+          </a>
+        ))}
+      </div>
+      {remainingStates.length > 0 && (
+        <div style="text-align: center; margin-top: var(--space-5);">
+          <Button variant="secondary" id="show-all-states">Show all {states.length} states</Button>
+        </div>
+      )}
+    </div>
+  </section>
+
+  <!-- Guides -->
+  <section class="section" id="guides" style="background: var(--cream-deep);">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Harvest guides</span>
+        <h2>What to pick, and how</h2>
+        <p class="lead">Guides to u-pick crops across America. When to go, what to bring, and how to pick the best fruit.</p>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: var(--space-5);">
+        {guides.map((guide) => (
+          <a href={`/guides/${guide.slug}`} class="guide-card-redesign">
+            <div class="cluster">
+              <span class="badge badge--{guide.data.season}">{seasonLabels[guide.data.season]}</span>
+              <span class="tag">{guide.data.crop}</span>
+            </div>
+            <h3>{guide.data.title.replace(/:.*$/, '')}</h3>
+            <p>{guide.data.description}</p>
+            <div class="guide-card-redesign__foot">
+              <span class="card__loc">{guide.data.region}</span>
+              <span style="font-weight: 600; font-size: var(--fs-small); color: var(--clay-deep);">Read →</span>
             </div>
           </a>
         ))}
       </div>
-    </div>
-  </section>
-
-  <!-- Hand-drawn divider -->
-  <div class="container" aria-hidden="true">
-    <div class="divider">
-      <span class="divider__seed"><Leaf /></span>
-      <PathLine class="is-drawn" />
-      <span class="divider__seed"><Leaf /></span>
-    </div>
-  </div>
-
-  <!-- Season guide -->
-  <section class="section" id="seasons">
-    <div class="container relative">
-      <div class="section-head">
-        <span class="eyebrow">The season guide</span>
-        <h2>What’s ripe, by season</h2>
-        <p class="lead">Eat with the calendar. Here’s the rhythm of the year across our growers — tap a season to find who’s harvesting.</p>
-      </div>
-
-      <div class="season-grid">
-        <!-- Spring -->
-        <article class="panel season-panel" style="--accent: var(--season-spring);">
-          <div class="season-panel__head">
-            <h3><span class="badge__dot" style="background:var(--accent)"></span> Spring</h3>
-            <Leaf class="deco-ill" />
-          </div>
-          <ul>
-            <li><span>Asparagus</span><span class="mo">Mar – May</span></li>
-            <li><span>Cutting lettuces</span><span class="mo">Apr – Jun</span></li>
-            <li><span>Strawberries</span><span class="mo">May – Jun</span></li>
-            <li><span>Peas &amp; herbs</span><span class="mo">Apr – Jun</span></li>
-          </ul>
-          <Button variant="ghost" href="#directory">{countFor('spring')} farms in spring →</Button>
-        </article>
-
-        <!-- Summer -->
-        <article class="panel season-panel" style="--accent: var(--season-summer);">
-          <div class="season-panel__head">
-            <h3><span class="badge__dot" style="background:var(--accent)"></span> Summer</h3>
-            <PeachCrossSection class="deco-ill" />
-          </div>
-          <ul>
-            <li><span>Apricots</span><span class="mo">June</span></li>
-            <li><span>Peaches &amp; nectarines</span><span class="mo">Jul – Aug</span></li>
-            <li><span>Berries</span><span class="mo">Jun – Aug</span></li>
-            <li><span>Sweet corn</span><span class="mo">August</span></li>
-          </ul>
-          <Button variant="ghost" href="#directory">{countFor('summer')} farms in summer →</Button>
-        </article>
-
-        <!-- Autumn -->
-        <article class="panel season-panel" style="--accent: var(--season-autumn);">
-          <div class="season-panel__head">
-            <h3><span class="badge__dot" style="background:var(--accent)"></span> Autumn</h3>
-            <Basket class="deco-ill" />
-          </div>
-          <ul>
-            <li><span>Heirloom apples</span><span class="mo">Sep – Nov</span></li>
-            <li><span>Winter squash</span><span class="mo">Oct – Dec</span></li>
-            <li><span>Chanterelles</span><span class="mo">Sep – Dec</span></li>
-            <li><span>Pears &amp; quince</span><span class="mo">Sep – Oct</span></li>
-          </ul>
-          <Button variant="ghost" href="#directory">{countFor('autumn')} farms in autumn →</Button>
-        </article>
-
-        <!-- Winter -->
-        <article class="panel season-panel" style="--accent: var(--season-winter);">
-          <div class="season-panel__head">
-            <h3><span class="badge__dot" style="background:var(--accent)"></span> Winter</h3>
-            <PruningShears class="deco-ill" />
-          </div>
-          <ul>
-            <li><span>Citrus</span><span class="mo">Dec – Feb</span></li>
-            <li><span>Hardy greens</span><span class="mo">Nov – Feb</span></li>
-            <li><span>Barrel cider</span><span class="mo">Dec – Mar</span></li>
-            <li><span>Storage roots</span><span class="mo">Nov – Feb</span></li>
-          </ul>
-          <Button variant="ghost" href="#directory">{countFor('winter')} farms in winter →</Button>
-        </article>
+      <div style="text-align: center; margin-top: var(--space-5);">
+        <Button variant="ghost" href="/guides">All guides →</Button>
       </div>
     </div>
   </section>
 
-  <!-- Grower CTA -->
-  <section class="section">
+  <!-- Growers CTA -->
+  <section class="section" id="growers">
     <div class="container">
-      <div class="cta-band">
+      <div class="growers-cta">
         <div class="stack stack-4">
-          <span class="eyebrow">For growers</span>
+          <span class="eyebrow" style="color: var(--honey);">For growers</span>
           <h2>Grow it? Put your farm on the map.</h2>
-          <p class="lead">List your stand, keep your harvest current, and let neighbours find you when your fruit is at its peak. Free for small farms, forever.</p>
+          <p>List your stand, keep your harvest current, and let neighbours find you when your fruit is at its peak. Free for small farms, forever.</p>
           <div class="cluster">
             <Button variant="primary" size="lg" href="/add-farm">List your farm</Button>
-            <Button variant="secondary" size="lg" href="#directory">How it works</Button>
+            <Button variant="secondary" size="lg" href="/growers" style="background: transparent; border-color: rgba(255,255,255,0.3); color: var(--text-invert);">How it works</Button>
           </div>
         </div>
-        <div class="cta-band__art">
-          <Foragers class="is-drawn" label="Two growers gathering fruit" />
-        </div>
+        <img
+          src="https://images.unsplash.com/photo-1591857170480-79c4e67c7b12?w=600&q=70"
+          alt="Two growers gathering fruit in an orchard"
+          loading="lazy"
+        />
       </div>
     </div>
   </section>
 
-  <!-- Season filtering (client-side) + text search redirect to /search -->
+  <!-- Leaflet CSS + JS via CDN -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+  <!-- Homepage interactivity -->
   <script is:inline>
+    // Farm data for the Finder (injected from server)
+    window.__FARMS__ = JSON.parse(document.getElementById('farm-data').textContent);
+
     (function () {
-      var grid = document.getElementById('farm-grid');
-      if (!grid) return;
-      var cards = Array.prototype.slice.call(grid.children);
-      var empty = document.getElementById('farm-empty');
-      var input = document.getElementById('farm-search');
-      var chips = Array.prototype.slice.call(document.querySelectorAll('.chip[data-filter]'));
-      var season = 'all';
-
-      // Season filter: pure client-side, filters farm cards by data-seasons
-      function applySeason() {
-        var n = 0;
-        cards.forEach(function (c) {
-          var s = c.getAttribute('data-seasons') || '';
-          var show = season === 'all' || s.indexOf(season) > -1;
-          c.classList.toggle('is-hidden', !show);
-          if (show) n++;
+      // --- Show all states ---
+      var showAll = document.getElementById('show-all-states');
+      var restGrid = document.getElementById('state-grid-rest');
+      if (showAll && restGrid) {
+        showAll.addEventListener('click', function () {
+          restGrid.style.display = 'grid';
+          showAll.style.display = 'none';
         });
-        if (empty) empty.classList.toggle('is-hidden', n !== 0);
       }
 
-      chips.forEach(function (ch) {
-        ch.addEventListener('click', function () {
-          chips.forEach(function (x) { x.setAttribute('aria-pressed', 'false'); });
-          ch.setAttribute('aria-pressed', 'true');
-          season = ch.getAttribute('data-filter');
-          applySeason();
+      // --- Hero "Use my location" ---
+      var heroLocate = document.getElementById('hero-locate');
+      if (heroLocate) {
+        heroLocate.addEventListener('click', function () {
+          if (!navigator.geolocation) return;
+          heroLocate.textContent = 'Locating...';
+          navigator.geolocation.getCurrentPosition(function (pos) {
+            document.getElementById('finder-location').value = pos.coords.lat.toFixed(2) + ',' + pos.coords.lon.toFixed(2);
+            runSearch();
+            document.getElementById('finder').scrollIntoView({ behavior: 'smooth' });
+            heroLocate.textContent = 'Use my location';
+          }, function () {
+            heroLocate.textContent = 'Location denied';
+            setTimeout(function () { heroLocate.textContent = 'Use my location'; }, 2000);
+          });
+        });
+      }
+
+      // --- Ripe This Week crop cards → filter Finder ---
+      document.querySelectorAll('.ripe-card').forEach(function (card) {
+        card.addEventListener('click', function () {
+          var crop = card.getAttribute('data-crop');
+          var cropSelect = document.getElementById('finder-crop');
+          if (cropSelect) cropSelect.value = crop;
+          runSearch();
+          document.getElementById('finder').scrollIntoView({ behavior: 'smooth' });
         });
       });
 
-      // Text search: redirect to /search for full-text Pagefind search
-      function redirectToSearch() {
-        var q = input ? input.value.trim() : '';
-        if (q) window.location.href = '/search?q=' + encodeURIComponent(q);
+      // --- Finder search ---
+      var searchBtn = document.getElementById('finder-search');
+      var pickingToggle = document.getElementById('finder-picking');
+      var resultsEl = document.getElementById('finder-results');
+
+      if (searchBtn) searchBtn.addEventListener('click', runSearch);
+      var locInput = document.getElementById('finder-location');
+      if (locInput) locInput.addEventListener('keydown', function (e) { if (e.key === 'Enter') runSearch(); });
+      if (pickingToggle) pickingToggle.addEventListener('click', function () {
+        var on = this.getAttribute('aria-pressed') === 'true';
+        this.setAttribute('aria-pressed', String(!on));
+        runSearch();
+      });
+
+      function haversineMi(aLat, aLon, bLat, bLon) {
+        var R = 3958.8, dLat = (bLat - aLat) * Math.PI / 180, dLon = (bLon - aLon) * Math.PI / 180;
+        var h = Math.sin(dLat/2)**2 + Math.cos(aLat*Math.PI/180) * Math.cos(bLat*Math.PI/180) * Math.sin(dLon/2)**2;
+        return R * 2 * Math.atan2(Math.sqrt(h), Math.sqrt(1-h));
       }
 
-      if (input) {
-        input.addEventListener('keydown', function (e) {
-          if (e.key === 'Enter') { e.preventDefault(); redirectToSearch(); }
+      function runSearch() {
+        var crop = document.getElementById('finder-crop').value;
+        var picking = pickingToggle && pickingToggle.getAttribute('aria-pressed') === 'true';
+        var locVal = (locInput || {}).value || '';
+        var radius = parseInt(document.getElementById('finder-radius').value, 10) || 50;
+        var farms = window.__FARMS__ || [];
+
+        var filtered = farms.filter(function (f) {
+          if (crop && f.crops.indexOf(crop) === -1) return false;
+          if (picking && !f.inSeason) return false;
+          return true;
         });
-      }
-      document.addEventListener('click', function (e) {
-        if (e.target.closest('[data-search-go]')) { redirectToSearch(); }
-        if (e.target.closest('[data-clear-filters]')) {
-          season = 'all'; if (input) input.value = '';
-          chips.forEach(function (x) { x.setAttribute('aria-pressed', x.getAttribute('data-filter') === 'all' ? 'true' : 'false'); });
-          applySeason();
+
+        // Sort by distance if location provided
+        var lat, lon;
+        if (locVal && locVal.indexOf(',') !== -1) {
+          var parts = locVal.split(',');
+          lat = parseFloat(parts[0]); lon = parseFloat(parts[1]);
         }
-      });
+
+        if (lat && lon) {
+          filtered = filtered.map(function (f) {
+            return Object.assign({}, f, { distance: haversineMi(lat, lon, f.lat, f.lon) });
+          }).filter(function (f) { return f.distance <= radius; })
+            .sort(function (a, b) { return a.distance - b.distance; });
+        }
+
+        renderResults(filtered.slice(0, 12));
+        renderMap(filtered.slice(0, 50), lat, lon, radius);
+      }
+
+      function renderResults(farms) {
+        if (!resultsEl) return;
+        if (farms.length === 0) {
+          resultsEl.innerHTML = '<p style="color: var(--text-muted);">No farms found. Try widening your radius or changing crops.</p>';
+          return;
+        }
+        resultsEl.innerHTML = farms.map(function (f) {
+          var badges = f.crops.slice(0, 3).map(function (c) {
+            return '<span class="badge" style="font-size:0.65rem;padding:2px 6px;">' + c + '</span>';
+          }).join('');
+          var dist = f.distance ? '<span class="finder-result-card__meta">' + Math.round(f.distance) + ' mi away</span>' : '';
+          return '<a href="/farms/' + f.slug + '" class="finder-result-card">' +
+            '<img src="https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=200&q=60" alt="" loading="lazy" />' +
+            '<div class="finder-result-card__body">' +
+              '<span class="finder-result-card__name">' + f.name + '</span>' +
+              '<span class="finder-result-card__meta">' + (f.city || '') + ', ' + f.state + '</span>' +
+              dist +
+              '<div class="finder-result-card__badges">' + badges + '</div>' +
+            '</div>' +
+          '</a>';
+        }).join('');
+      }
+
+      // --- Leaflet map ---
+      var map, markerLayer;
+      function renderMap(farms, userLat, userLon, radius) {
+        if (typeof L === 'undefined') return;
+        if (!map) {
+          map = L.map('finder-map', { scrollWheelZoom: false }).setView([39.5, -98.5], 4);
+          L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; OpenStreetMap &copy; CARTO', maxZoom: 18,
+          }).addTo(map);
+          markerLayer = L.layerGroup().addTo(map);
+        }
+        markerLayer.clearLayers();
+
+        farms.forEach(function (f) {
+          var color = f.inSeason ? '#5f8f4e' : '#c4632c';
+          L.circleMarker([f.lat, f.lon], { radius: 6, color: color, fillColor: color, fillOpacity: 0.6, weight: 1 })
+            .bindPopup('<a href="/farms/' + f.slug + '">' + f.name + '</a><br>' + (f.city || '') + ', ' + f.state)
+            .addTo(markerLayer);
+        });
+
+        if (userLat && userLon) {
+          L.circleMarker([userLat, userLon], { radius: 8, color: '#2e4f3e', fillColor: '#2e4f3e', fillOpacity: 1 }).addTo(markerLayer);
+          L.circle([userLat, userLon], { radius: radius * 1609.34, color: '#2e4f3e', fillOpacity: 0.05, weight: 1 }).addTo(markerLayer);
+          map.setView([userLat, userLon], Math.min(12, Math.max(7, 12 - Math.log2(radius / 10))));
+        } else if (farms.length > 0) {
+          var bounds = L.latLngBounds(farms.map(function (f) { return [f.lat, f.lon]; }));
+          map.fitBounds(bounds, { padding: [30, 30] });
+        }
+      }
+
+      // Load Leaflet JS if map container exists
+      var mapEl = document.getElementById('finder-map');
+      if (mapEl) {
+        var s = document.createElement('script');
+        s.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+        s.onload = function () { runSearch(); };
+        document.head.appendChild(s);
+      }
     })();
   </script>
+
+  <!-- Farm data for Finder (JSON island) -->
+  <script type="application/json" id="farm-data" set:html={JSON.stringify(farmsWithCoords)} />
 </BaseLayout>

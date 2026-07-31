@@ -1,0 +1,142 @@
+@import "tailwindcss";
+
+/* ---- HarvestMap redesign theme (Tailwind 4 @theme generates
+        bg-*, text-*, border-*, ring-* utilities for these) ---- */
+@theme {
+  --color-cream: #faf4e8;
+  --color-cream-deep: #f3e9d7;
+  --color-pine: #2e4f3e;
+  --color-pine-deep: #22392d;
+  --color-ember: #c4632c;
+  --color-ember-deep: #a9541f;
+  --color-harvest: #e3a63b;
+  --color-ink: #2c2a22;
+  --color-sage: #7d8b6f;
+}
+
+@layer base {
+  /* neutral default border color (Tailwind 3 parity) */
+  *,
+  ::before,
+  ::after {
+    border-color: #e6e2d4;
+  }
+}
+
+:root {
+  --cream: #faf4e8;
+  --cream-deep: #f3e9d7;
+  --pine: #2e4f3e;
+  --pine-deep: #22392d;
+  --ember: #c4632c;
+  --ember-deep: #a9541f;
+  --amber: #e3a63b;
+  --ink: #2c2a22;
+  --sage: #7d8b6f;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--cream);
+  color: var(--ink);
+  font-family: "Inter", ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-display {
+  font-family: "Fraunces", Georgia, serif;
+  font-optical-sizing: auto;
+}
+
+/* pulsing "live" dot for harvesting-now badges */
+.live-dot {
+  position: relative;
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 9999px;
+  background-color: #5f8f4e;
+}
+.live-dot::after {
+  content: "";
+  position: absolute;
+  inset: -4px;
+  border-radius: 9999px;
+  border: 2px solid #5f8f4e;
+  opacity: 0.55;
+  animation: live-ping 1.8s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+@keyframes live-ping {
+  0% { transform: scale(0.6); opacity: 0.55; }
+  75%, 100% { transform: scale(1.35); opacity: 0; }
+}
+
+/* gentle float for hero overlay chips */
+@keyframes drift {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+.animate-drift { animation: drift 5s ease-in-out infinite; }
+.animate-drift-slow { animation: drift 7s ease-in-out infinite; }
+
+/* hide horizontal scrollbar on the harvesting-now strip */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* ---- 20% HowManyPlants: hand-drawn layer ---- */
+
+/* squiggly underline for nav links (each link gets its own color) */
+.squiggle {
+  background-image: var(--squiggle-url);
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  background-size: 100% 7px;
+  padding-bottom: 5px;
+  transition: background-size 0.25s ease;
+}
+.squiggle:hover { background-size: 100% 10px; }
+
+/* hand-drawn "sticker": irregular radius + slight tilt */
+.sticker {
+  border-radius: 255px 18px 225px 18px / 18px 225px 18px 255px;
+}
+.sticker-tilt-l { transform: rotate(-1.6deg); }
+.sticker-tilt-r { transform: rotate(1.4deg); }
+.sticker-tilt-l:hover, .sticker-tilt-r:hover { transform: rotate(0deg) scale(1.03); }
+
+/* tape strip on top of a card */
+.tape::before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  width: 84px;
+  height: 22px;
+  transform: translateX(-50%) rotate(-3deg);
+  background: rgba(227, 166, 59, 0.5);
+  border-radius: 2px;
+}
+
+/* wobbly dashed ring behind the hero art */
+.doodle-ring {
+  position: absolute;
+  inset: -14px;
+  border: 2.5px dashed rgba(196, 99, 44, 0.55);
+  border-radius: 9999px 9999px 28px 28px;
+  transform: rotate(-1.5deg);
+  pointer-events: none;
+}
+
+/* announcement marquee strip */
+@keyframes strip-marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.marquee-track {
+  display: inline-flex;
+  white-space: nowrap;
+  animation: strip-marquee 28s linear infinite;
+}
