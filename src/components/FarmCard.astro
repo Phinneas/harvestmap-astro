@@ -22,6 +22,17 @@ const region = farm.region || farm.directory;
 const image = farm.image || '/images/farm-placeholder.svg';
 const imageAlt = farm.imageAlt || farm.name;
 const tagline = farm.tagline || (produce.length > 0 ? `U-pick: ${produce.slice(0, 3).join(', ')}` : 'Farm listing');
+
+const typeLabels: Record<string, string> = {
+  agritourism: 'Agritourism',
+  farmersmarket: "Farmers' Market",
+  csa: 'CSA',
+  foodhub: 'Food Hub',
+  onfarmmarket: 'On-Farm Market',
+  editorial: 'Featured',
+};
+const typeLabel = typeLabels[farm.directory] || '';
+const showTypeBadge = farm.directory !== 'agritourism' && farm.directory !== 'editorial';
 ---
 <article
   class="card"
@@ -58,6 +69,7 @@ const tagline = farm.tagline || (produce.length > 0 ? `U-pick: ${produce.slice(0
         <path d="M12 21c5-3 8-7 8-11a8 8 0 1 0-16 0c0 4 3 8 8 11Z"/><path d="M12 11v0"/>
       </svg>
       {region}
+      {showTypeBadge && <span class={`type-badge type-badge--${farm.directory}`}>{typeLabel}</span>}
     </span>
     <h3 class="card__title"><a href={`/farms/${farm.slug}`}>{farm.name}</a></h3>
     <p class="card__desc">{tagline}</p>

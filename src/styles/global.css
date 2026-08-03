@@ -1116,6 +1116,21 @@ ul[role="list"] { list-style: none; padding: 0; }
 
 /* Crop image fallback */
 .crop-img-fallback {
+
+/* Type badges for non-farm listings */
+.type-badge {
+  display: inline-block;
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  padding: 1px 7px;
+  border-radius: 999px;
+  margin-left: 0.5em;
+  vertical-align: middle;
+}
+.type-badge--farmersmarket { background: color-mix(in srgb, var(--moss) 20%, var(--surface)); color: var(--moss); }
+.type-badge--csa { background: color-mix(in srgb, var(--clay) 15%, var(--surface)); color: var(--clay); }
+.type-badge--foodhub { background: color-mix(in srgb, var(--berry) 15%, var(--surface)); color: var(--berry); }
+.type-badge--onfarmmarket { background: color-mix(in srgb, var(--honey) 20%, var(--surface)); color: color-mix(in srgb, var(--honey) 70%, var(--ink)); }
   width: 100%; aspect-ratio: 4/3;
   background: linear-gradient(135deg, var(--moss), var(--pine));
   display: flex; align-items: center; justify-content: center;

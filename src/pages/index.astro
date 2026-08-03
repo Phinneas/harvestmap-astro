@@ -10,9 +10,10 @@ const allFarms = loadAllAugmentedFarms();
 const enrichedFarms = loadEnrichedAugmentedFarms();
 const states = getStatesWithFarms();
 
-const total = allFarms.length;
+const totalListings = allFarms.length;
 const inSeason = enrichedFarms.filter((f) => f.derivedInSeasonNow).length;
 const withCrops = enrichedFarms.length;
+const total = withCrops;
 const enriched = enrichedFarms.filter((f) => f.isEnriched).length;
 
 // Current season
@@ -147,7 +148,7 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
             <Button variant="secondary" size="lg" href="#finder">Enter a town or ZIP</Button>
           </div>
           <p class="honesty-note" style="margin: 0; text-align: left;">
-            Season is estimated from growing zone, not confirmed by the farms. Always call ahead.
+            {total} farms with crop data · {totalListings} total directory listings. Season is estimated from growing zone, not confirmed by the farms. Always call ahead.
           </p>
         </div>
         <div style="position: relative;">
@@ -264,7 +265,7 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
     <div class="container">
       <div class="section-head">
         <span class="eyebrow">Browse by state</span>
-        <h2>{total} farms across {states.length} states</h2>
+        <h2>{total} farms with crop data across {states.length} states</h2>
         <p class="lead">Pick a state to see all farms, farmers markets, CSAs, and agritourism listings.</p>
       </div>
       <div class="state-grid-redesign" id="state-grid">

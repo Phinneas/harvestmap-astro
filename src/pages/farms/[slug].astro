@@ -48,6 +48,13 @@ const isEnriched = farm.isEnriched;
 const hasCalendar = calendar.length > 0;
 const hasDescription = farm.description && farm.description.length > 0;
 const hasPractices = farm.practices && farm.practices.length > 0;
+
+const typeLabels: Record<string, string> = {
+  agritourism: 'Agritourism', farmersmarket: "Farmers' Market", csa: 'CSA',
+  foodhub: 'Food Hub', onfarmmarket: 'On-Farm Market', editorial: 'Featured',
+};
+const typeLabel = typeLabels[farm.directory] || '';
+const showTypeBadge = farm.directory !== 'agritourism' && farm.directory !== 'editorial';
 const hasEstablished = farm.established !== undefined;
 ---
 <BaseLayout active="farms" title={`${farm.name} · HarvestMap`} description={tagline}>
@@ -58,7 +65,7 @@ const hasEstablished = farm.established !== undefined;
     <header class="detail-hero">
       <img src={image} alt={imageAlt} width="1400" height="800" />
       <div class="detail-hero__content">
-        <span class="eyebrow" style="color: var(--honey);">{region}</span>
+        <span class="eyebrow" style="color: var(--honey);">{region}{showTypeBadge && <span class={`type-badge type-badge--${farm.directory}`}>{typeLabel}</span>}</span>
         <h1 class="squiggle squiggle-ember">{farm.name}</h1>
         <div class="cluster">
           {seasons.map((s) => <SeasonBadge season={s} label={s === peak ? `${peakLabels[s]} peak` : peakLabels[s]} />)}
