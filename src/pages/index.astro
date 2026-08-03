@@ -348,6 +348,9 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
   <!-- Leaflet CSS + JS via CDN -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
+  <!-- Farm data for Finder (JSON island) — must be before the script that reads it -->
+  <script type="application/json" id="farm-data" set:html={JSON.stringify(farmsWithCoords)} />
+
   <!-- Homepage interactivity -->
   <script is:inline>
     // Farm data for the Finder (injected from server)
@@ -543,9 +546,6 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
       }
     })();
   </script>
-
-  <!-- Farm data for Finder (JSON island) -->
-  <script type="application/json" id="farm-data" set:html={JSON.stringify(farmsWithCoords)} />
 
   <!-- Newsletter signup -->
   <div class="container" style="padding-top: var(--space-7);">

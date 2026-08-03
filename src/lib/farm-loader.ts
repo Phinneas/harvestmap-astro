@@ -105,6 +105,7 @@ export function getStatesWithFarms(): { code: string; name: string; count: numbe
   }
 
   return Object.entries(counts)
+    .filter(([code]) => code !== 'DC') // DC is not a state — farms still get individual pages
     .map(([code, { count, enriched }]) => ({
       code,
       name: stateNames[code] || code,
