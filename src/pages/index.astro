@@ -52,8 +52,6 @@ const confirmedCount = enrichedFarms.filter((f) => f.lastConfirmedAt && new Date
 
 // States sorted by farm count, top 18 for initial display
 const statesSorted = [...states].sort((a, b) => b.count - a.count);
-const topStates = statesSorted.slice(0, 18);
-const remainingStates = statesSorted.slice(18);
 
 // Recent guides
 const guides = (await getCollection('guides')).sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()).slice(0, 3);
@@ -270,26 +268,13 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
         <p class="lead">Pick a state to see all farms, farmers markets, CSAs, and agritourism listings.</p>
       </div>
       <div class="state-grid-redesign" id="state-grid">
-        {topStates.map((s) => (
+        {statesSorted.map((s) => (
           <a href={`/${s.code.toLowerCase()}`} class={`state-tile ${s.count > 200 ? 'state-tile--top' : ''}`}>
             <span class="state-tile__name">{s.name}</span>
             <span class="state-tile__count">{s.count} farms{s.enriched > 0 ? ` · ${s.enriched} enriched` : ''}</span>
           </a>
         ))}
       </div>
-      <div class="state-grid-redesign" id="state-grid-rest" style="display: none; margin-top: var(--space-3);">
-        {remainingStates.map((s) => (
-          <a href={`/${s.code.toLowerCase()}`} class="state-tile">
-            <span class="state-tile__name">{s.name}</span>
-            <span class="state-tile__count">{s.count} farms{s.enriched > 0 ? ` · ${s.enriched} enriched` : ''}</span>
-          </a>
-        ))}
-      </div>
-      {remainingStates.length > 0 && (
-        <div style="text-align: center; margin-top: var(--space-5);">
-          <Button variant="secondary" id="show-all-states">Show all {states.length} states</Button>
-        </div>
-      )}
     </div>
   </section>
 
@@ -357,16 +342,6 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
     window.__FARMS__ = JSON.parse(document.getElementById('farm-data').textContent);
 
     (function () {
-      // --- Show all states ---
-      var showAll = document.getElementById('show-all-states');
-      var restGrid = document.getElementById('state-grid-rest');
-      if (showAll && restGrid) {
-        showAll.addEventListener('click', function () {
-          restGrid.style.display = 'grid';
-          showAll.style.display = 'none';
-        });
-      }
-
       // --- Hero "Use my location" ---
       var heroLocate = document.getElementById('hero-locate');
       if (heroLocate) {
