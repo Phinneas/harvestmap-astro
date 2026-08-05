@@ -254,6 +254,17 @@ const hasEstablished = farm.established !== undefined;
   })) } : {}),
 })} />
 
+<!-- Breadcrumb structured data -->
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: '/' },
+    { '@type': 'ListItem', position: 2, name: farm.locationState, item: `/${farm.locationState.toLowerCase()}` },
+    { '@type': 'ListItem', position: 3, name: farm.name, item: `/farms/${farm.slug}` },
+  ],
+})} />
+
 <!-- Leaflet map for farm location -->
 {farm.lat && farm.lon && (
   <script is:inline>
