@@ -132,6 +132,7 @@ function isJunkFarmName(rawName: string): boolean {
   if (lower.startsWith('previously ') && name.length < 40) return true;
   if (lower.startsWith('the week of')) return true;
   if (lower.startsWith('call before you go')) return true;
+  if (lower.startsWith('closed since') || lower.startsWith('closed for all') || lower.startsWith('closed indefinitely')) return true;
   if (lower === 'organically grown') return true;
 
   // Product affiliate links

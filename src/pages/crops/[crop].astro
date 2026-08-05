@@ -110,4 +110,14 @@ const slug = cropName.toLowerCase().replace(/[^a-z0-9]+/g, '-');
       </div>
     )}
   </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: '/' },
+      { '@type': 'ListItem', position: 2, name: 'Crops', item: '/crops' },
+      { '@type': 'ListItem', position: 3, name: cropName, item: `/crops/${crop}` },
+    ],
+  })} />
 </BaseLayout>

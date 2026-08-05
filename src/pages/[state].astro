@@ -147,6 +147,15 @@ const topCrops = Object.entries(cropCounts).sort((a, b) => b[1] - a[1]).slice(0,
       </div>
     )}
   </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: '/' },
+      { '@type': 'ListItem', position: 2, name: `${stateName} Farms`, item: `/${stateCode.toLowerCase()}` },
+    ],
+  })} />
 </BaseLayout>
 
 <style>
