@@ -59,4 +59,14 @@ const stateLink = guide.data.relatedState
       <span class="divider__seed"><Leaf /></span>
     </div>
   </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: '/' },
+      { '@type': 'ListItem', position: 2, name: 'Harvest Guides', item: '/guides' },
+      { '@type': 'ListItem', position: 3, name: guide.data.title, item: `/guides/${guide.slug}` },
+    ],
+  })} />
 </BaseLayout>
