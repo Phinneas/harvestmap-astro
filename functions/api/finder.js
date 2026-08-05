@@ -7,6 +7,7 @@
 //   radius      — search radius in miles (default 50)
 //   crop        — filter by crop name (case-insensitive substring)
 //   state       — filter by state code (e.g. "CA")
+//   category    — filter by directory type (agritourism, farmersmarket, csa, foodhub, onfarmmarket)
 //   inSeason    — "true" to filter to farms currently in season
 //   limit       — max results (default 50, max 200)
 //   offset      — pagination offset
@@ -32,6 +33,7 @@ export async function onRequestGet({ request, env }) {
   const radius = Math.min(parseFloat(params.get('radius') || '50'), 500);
   const crop = (params.get('crop') || '').toLowerCase().trim();
   const state = (params.get('state') || '').toUpperCase().trim();
+  const category = (params.get('category') || '').toLowerCase().trim();
   const inSeasonOnly = params.get('inSeason') === 'true';
   const limit = Math.min(parseInt(params.get('limit') || '50', 10), 200);
   const offset = parseInt(params.get('offset') || '0', 10);
@@ -61,6 +63,10 @@ export async function onRequestGet({ request, env }) {
 
   if (state) {
     results = results.filter((f) => f.st === state);
+  }
+
+  if (category) {
+    results = results.filter((f) => f.d === category);
   }
 
   if (crop) {

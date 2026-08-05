@@ -13,6 +13,7 @@ export const GET: APIRoute = async () => {
     n: f.name,
     c: f.locationCity || '',
     st: f.locationState || '',
+    d: f.directory || '',
     lat: f.lat || null,
     lon: f.lon || null,
     cr: (f.produce || f.crops || []).slice(0, 8),

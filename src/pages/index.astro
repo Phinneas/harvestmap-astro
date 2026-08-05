@@ -141,14 +141,14 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
             </span> this week
           </h1>
           <p class="lead" style="max-width: 46ch;">
-            {total} farms across {states.length} states. See what's in season, who's picking, and find the closest u-pick farm to you.
+            {totalListings.toLocaleString()} farms across {states.length} states. See what's in season, who's picking, and find the closest u-pick farm to you.
           </p>
           <div class="cluster" style="gap: var(--space-4);">
             <Button variant="primary" size="lg" id="hero-locate">Use my location</Button>
             <Button variant="secondary" size="lg" href="#finder">Enter a town or ZIP</Button>
           </div>
           <p class="honesty-note" style="margin: 0; text-align: left;">
-            {total} farms with crop data · {totalListings} total directory listings. Season is estimated from growing zone, not confirmed by the farms. Always call ahead.
+            {totalListings.toLocaleString()} directory listings · {total.toLocaleString()} with crop data. Season is estimated from growing zone, not confirmed by the farms. Always call ahead.
           </p>
         </div>
         <div style="position: relative;">
@@ -195,8 +195,8 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
     <div class="container">
       <div class="section-head">
         <span class="eyebrow" style="color: var(--moss);">&#128269; Find a farm</span>
-        <h2>Search {total} farms by location or crop</h2>
-        <p class="lead">Enter a town, ZIP code, or crop to find u-pick farms near you. Results include farms with known crop data.</p>
+        <h2>Search {totalListings.toLocaleString()} farms by location or crop</h2>
+        <p class="lead">Enter a town, ZIP code, or crop to find farms near you. Filter by type to narrow your search.</p>
       </div>
 
       <!-- Location + filter bar -->
@@ -205,6 +205,14 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
         <select id="finder-crop" aria-label="Filter by crop">
           <option value="">All crops</option>
           {Object.keys(cropCounts).sort().map((c) => <option value={c}>{c}</option>)}
+        </select>
+        <select id="finder-category" aria-label="Filter by farm type">
+          <option value="">All types</option>
+          <option value="agritourism">Farms & agritourism</option>
+          <option value="farmersmarket">Farmers markets</option>
+          <option value="onfarmmarket">On-farm markets</option>
+          <option value="csa">CSA programs</option>
+          <option value="foodhub">Food hubs</option>
         </select>
         <select id="finder-radius" aria-label="Search radius in miles">
           <option value="25">25 miles</option>
@@ -221,7 +229,7 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
         <div class="finder-map" id="finder-map" role="img" aria-label="Map showing farm locations"></div>
         <div class="stack stack-3">
           <div class="finder-results" id="finder-results"></div>
-          <p class="honesty-note" style="margin: 0;">Showing farms with crop data. <a href="#states">Browse all {total} farms by state</a>.</p>
+          <p class="honesty-note" style="margin: 0;">Showing farms with crop data. <a href="#states">Browse all {totalListings.toLocaleString()} farms by state</a>.</p>
         </div>
       </div>
     </div>
@@ -265,7 +273,7 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
     <div class="container">
       <div class="section-head">
         <span class="eyebrow">Browse by state</span>
-        <h2>{total} farms with crop data across {states.length} states</h2>
+        <h2>{totalListings.toLocaleString()} farms across {states.length} states</h2>
         <p class="lead">Pick a state to see all farms, farmers markets, CSAs, and agritourism listings.</p>
       </div>
       <div class="state-grid-redesign" id="state-grid">
@@ -382,6 +390,8 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
       if (locInput) locInput.addEventListener('keydown', function (e) { if (e.key === 'Enter') runSearch(); });
       var cropSelect = document.getElementById('finder-crop');
       if (cropSelect) cropSelect.addEventListener('change', runSearch);
+      var categorySelect = document.getElementById('finder-category');
+      if (categorySelect) categorySelect.addEventListener('change', runSearch);
       var radiusSelect = document.getElementById('finder-radius');
       if (radiusSelect) radiusSelect.addEventListener('change', runSearch);
       if (pickingToggle) pickingToggle.addEventListener('click', function () {
@@ -404,6 +414,7 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
 
       async function doSearch() {
         var crop = document.getElementById('finder-crop').value;
+        var category = document.getElementById('finder-category').value;
         var picking = pickingToggle && pickingToggle.getAttribute('aria-pressed') === 'true';
         var locVal = (locInput || {}).value || '';
         var radius = parseInt(document.getElementById('finder-radius').value, 10) || 50;
@@ -419,6 +430,7 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
         var params = new URLSearchParams();
         if (lat && lon) { params.set('lat', lat); params.set('lon', lon); params.set('radius', radius); }
         if (crop) params.set('crop', crop);
+        if (category) params.set('category', category);
         if (picking) params.set('inSeason', 'true');
         params.set('limit', '50');
 
