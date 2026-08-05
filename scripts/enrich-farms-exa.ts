@@ -24,6 +24,7 @@ const EXA_CONTENTS_URL = 'https://api.exa.ai/contents';
 
 const farmsDir = join(process.cwd(), 'src', 'data', 'farms');
 const imageDir = join(process.cwd(), 'public', 'farm-images');
+const leadsFile = join(process.cwd(), 'scripts', 'farm-leads.json');
 if (!existsSync(imageDir)) mkdirSync(imageDir, { recursive: true });
 
 // Parse CLI args
@@ -93,6 +94,23 @@ async function exaSearch(query: string, numResults = 3): Promise<any[]> {
     console.error(`  Exa search error: ${e.message}`);
     return [];
   }
+}
+
+// Extract email addresses from text
+function extractEmails(text: string): string[] {
+  const emails = text.match(/[\w.+-]+@[\w-]+\.[\w.-]+/g) || [];
+  // Filter out common non-personal emails
+  return [...new Set(emails)].filter((e) =>
+    !e.includes('sentry') && !e.includes('wixpress') && !e.includes('example.com') &&
+    !e.includes('domain.com') && !e.includes('yourdomain') && !e.includes('gmail.com') === false ||
+    (e.includes('gmail.com') && !e.startsWith('info@') && !e.startsWith('contact@'))
+  ).slice(0, 3);
+}
+
+// Extract phone numbers from text
+function extractPhones(text: string): string[] {
+  const phones = text.match(/\(\d{3}\)\s*\d{3}[-.]?\d{4}|\d{3}[-.]?\d{3}[-.]?\d{4}/g) || [];
+  return [...new Set(phones)].slice(0, 2);
 }
 
 async function exaGetContents(url: string): Promise<any | null> {
@@ -217,6 +235,7 @@ async function main() {
   let imagesFound = 0;
   let cropsFound = 0;
   let skipped = 0;
+  const leads: any[] = [];
 
   for (let i = 0; i < farmsToProcess.length; i++) {
     const { farm, path: farmPath } = farmsToProcess[i];
@@ -230,10 +249,39 @@ async function main() {
       if (results.length === 0) {
         console.log('SKIP (no results)');
         skipped++;
+        // Farm with no web presence = potential Salish Sea Consulting lead
+        if (!dryRun) {
+          leads.push({
+            name: farm.name,
+            city: farm.locationCity,
+            state: farm.locationState,
+            phone: farm.phone || '',
+            directory: farm.directory,
+            reason: 'No web presence found',
+          });
+        }
         continue;
       }
 
       const extracted = extractFarmData(results, farm);
+
+      // Extract emails and phones from all result text
+      let allText = results.map((r: any) => r.text || '').join(' ');
+      const emails = extractEmails(allText);
+      const phones = extractPhones(allText);
+
+      // If no website found, this is a potential lead
+      if (!extracted.website && !farm.website && !dryRun) {
+        leads.push({
+          name: farm.name,
+          city: farm.locationCity,
+          state: farm.locationState,
+          phone: farm.phone || phones[0] || '',
+          email: emails[0] || '',
+          directory: farm.directory,
+          reason: 'No website found',
+        });
+      }
 
       // Try to get more data from the top result
       let crops: string[] = [];
@@ -262,6 +310,18 @@ async function main() {
       if (extracted.website && !farm.website) {
         farm.website = extracted.website;
         websitesFound++;
+        changed = true;
+      }
+
+      // Add phone if found and farm has none
+      if (phones.length > 0 && !farm.phone) {
+        farm.phone = phones[0];
+        changed = true;
+      }
+
+      // Add email if found and farm has none
+      if (emails.length > 0 && !farm.email) {
+        farm.email = emails[0];
         changed = true;
       }
 
@@ -312,6 +372,11 @@ async function main() {
       skipped++;
     }
 
+    // Write leads file every 100 farms (in case script is killed)
+    if (!dryRun && leads.length > 0 && i % 100 === 0) {
+      writeFileSync(leadsFile, JSON.stringify(leads, null, 2) + '\n');
+    }
+
     // Rate limit: 500ms between searches
     await new Promise((r) => setTimeout(r, 500));
   }
@@ -324,6 +389,14 @@ async function main() {
   console.log(`  Crops found: ${cropsFound}`);
   console.log(`Skipped: ${skipped}`);
   console.log(`Total processed: ${farmsToProcess.length}`);
+  console.log(`Leads (farms without web presence): ${leads.length}`);
+
+  // Write leads file (potential Salish Sea Consulting clients)
+  if (leads.length > 0 && !dryRun) {
+    writeFileSync(leadsFile, JSON.stringify(leads, null, 2) + '\n');
+    console.log(`  Leads written to: scripts/farm-leads.json`);
+    console.log(`  Add scripts/farm-leads.json to .gitignore to keep private`);
+  }
 }
 
 main().catch(console.error);
