@@ -305,6 +305,7 @@ ul[role="list"] { list-style: none; padding: 0; }
 
 .btn--secondary { background: var(--surface); color: var(--text); border-color: var(--line-strong); }
 .btn--secondary:hover { border-color: var(--clay); color: var(--clay-deep); transform: translateY(-2px); box-shadow: var(--shadow-sm); }
+.btn--secondary.is-saved { background: var(--moss-15); border-color: var(--moss); color: var(--moss); }
 [data-theme="dark"] .btn--secondary:hover { color: var(--peach); }
 
 .btn--ghost { background: transparent; color: var(--text); padding-inline: 0.8em; }

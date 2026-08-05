@@ -72,6 +72,7 @@ const showTypeBadge = farm.directory !== 'agritourism' && farm.directory !== 'ed
       {showTypeBadge && <span class={`type-badge type-badge--${farm.directory}`}>{typeLabel}</span>}
     </span>
     <h3 class="card__title"><a href={`/farms/${farm.slug}`}>{farm.name}</a></h3>
+    {farm.permanentlyClosed && <span class="tag" style="background:var(--ember-15);color:var(--ember);border-color:var(--ember);">Closed</span>}
     <p class="card__desc">{tagline}</p>
     {produce.length > 0 && (
       <div class="card__tags">

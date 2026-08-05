@@ -123,6 +123,16 @@ function isJunkFarmName(rawName: string): boolean {
 
   // Notes
   if (lower.startsWith('notes for') || lower.startsWith('note:')) return true;
+  if (lower.startsWith('note,') || lower.startsWith('note ')) return true;
+  if (lower === 'please write me' || lower.startsWith('please write me')) return true;
+  if (lower.startsWith("it's now a") || lower.includes('nada about pyo')) return true;
+  if (lower.startsWith('opening in 20')) return true;
+  if (lower.startsWith('a festival') || lower.includes('not a farm or pyo')) return true;
+  if (lower.startsWith('follow organic methods')) return true;
+  if (lower.startsWith('previously ') && name.length < 40) return true;
+  if (lower.startsWith('the week of')) return true;
+  if (lower.startsWith('call before you go')) return true;
+  if (lower === 'organically grown') return true;
 
   // Product affiliate links
   if (lower.includes('pressure canner') || lower.includes('pressure cooker')) return true;

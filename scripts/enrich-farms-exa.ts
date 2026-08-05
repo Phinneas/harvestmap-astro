@@ -270,6 +270,14 @@ async function main() {
       const emails = extractEmails(allText);
       const phones = extractPhones(allText);
 
+      // Check if farm is permanently closed
+      const closedPatterns = /permanently\s+closed|closed\s+down|out\s+of\s+business|no\s+longer\s+operating|closed\s+indefinitely/i;
+      if (closedPatterns.test(allText)) {
+        farm.permanentlyClosed = true;
+        changed = true;
+        console.log(`CLOSED! Marking as permanently closed`);
+      }
+
       // If no website found, this is a potential lead
       if (!extracted.website && !farm.website && !dryRun) {
         leads.push({

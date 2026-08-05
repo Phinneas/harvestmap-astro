@@ -56,6 +56,9 @@ export async function onRequestGet({ request, env }) {
   // Filter
   let results = farms;
 
+  // Exclude permanently closed farms from search results
+  results = results.filter((f) => !f.pc);
+
   if (state) {
     results = results.filter((f) => f.st === state);
   }

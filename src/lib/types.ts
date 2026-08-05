@@ -32,6 +32,7 @@ export interface Farm {
   lon?: number;
   website?: string;
   phone?: string;
+  email?: string;
   crops?: string[];
   provenance?: ProvenanceEntry[];
   usdaLastUpdated?: string;
@@ -50,4 +51,5 @@ export interface Farm {
   description?: string[];
   calendar?: CalendarEntry[];
   lastConfirmedAt?: string; // ISO date when a submission was last approved for this farm
+  permanentlyClosed?: boolean; // Set when Exa search reveals farm is closed
 }

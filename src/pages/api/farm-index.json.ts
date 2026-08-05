@@ -18,6 +18,7 @@ export const GET: APIRoute = async () => {
     cr: (f.produce || f.crops || []).slice(0, 8),
     sn: f.derivedInSeasonNow,
     pk: f.peak || f.derivedPeak || '',
+    pc: f.permanentlyClosed || false,
   }));
 
   return new Response(JSON.stringify(index), {
