@@ -1,0 +1,19 @@
+{
+  "slug": "hive-honeybee-210-crozet-ave-1223",
+  "name": "Hive & Honeybee",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "210 Crozet Ave 1223, VA",
+  "locationCity": "210 Crozet Ave 1223",
+  "locationState": "VA",
+  "locationZipcode": "22932",
+  "lat": 38.0670792508753,
+  "lon": -78.7024970333207,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.088Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.088Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "archway-farm-101-west-street",
+  "name": "Archway Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 West Street, NH",
+  "locationCity": "101 West Street",
+  "locationState": "NH",
+  "locationZipcode": "03431",
+  "lat": 42.9333500000001,
+  "lon": -72.28068,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.709Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "eberts-greenhouse-village-fox-road",
+  "name": "Eberts Greenhouse Village",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fox Road, WI",
+  "locationCity": "Fox Road",
+  "locationState": "WI",
+  "locationZipcode": "53036",
+  "lat": 43.1862409986491,
+  "lon": -88.6187560244551,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.244Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.244Z"
+}

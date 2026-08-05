@@ -1,0 +1,20 @@
+{
+  "slug": "howling-flats-farm-19-raymond-avenue",
+  "name": "Howling Flats Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "19 Raymond Avenue, CT",
+  "locationCity": "19 Raymond Avenue",
+  "locationState": "CT",
+  "locationZipcode": "06018",
+  "lat": 42.0103946,
+  "lon": -73.355246,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.431Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.431Z",
+  "crops": []
+}

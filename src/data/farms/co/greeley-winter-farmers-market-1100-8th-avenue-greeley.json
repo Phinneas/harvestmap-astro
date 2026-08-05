@@ -1,0 +1,19 @@
+{
+  "slug": "greeley-winter-farmers-market-1100-8th-avenue-greeley",
+  "name": "Greeley Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1100 8th Avenue Greeley, CO",
+  "locationCity": "1100 8th Avenue Greeley",
+  "locationState": "CO",
+  "locationZipcode": "80631",
+  "lat": 40.42105551884572,
+  "lon": -104.6908552268176,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

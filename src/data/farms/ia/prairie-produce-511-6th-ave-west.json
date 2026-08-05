@@ -1,0 +1,20 @@
+{
+  "slug": "prairie-produce-511-6th-ave-west",
+  "name": "PRAIRIE PRODUCE",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "511 6th Ave West, IA",
+  "locationCity": "511 6th Ave West",
+  "locationState": "IA",
+  "locationZipcode": "50112",
+  "lat": 41.74548851959469,
+  "lon": -92.74479550555986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.753Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.753Z",
+  "crops": []
+}

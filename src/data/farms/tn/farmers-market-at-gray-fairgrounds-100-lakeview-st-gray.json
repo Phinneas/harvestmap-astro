@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-gray-fairgrounds-100-lakeview-st-gray",
+  "name": "Farmers Market at Gray Fairgrounds",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Lakeview St. Gray, TN",
+  "locationCity": "100 Lakeview St. Gray",
+  "locationState": "TN",
+  "locationZipcode": "37615",
+  "lat": 36.417850334117894,
+  "lon": -82.47856166983011,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dew-acres-42-geissler-road",
+  "name": "Dew Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "42 Geissler Road, WA",
+  "locationCity": "42 Geissler Road",
+  "locationState": "WA",
+  "locationZipcode": "98563",
+  "lat": 47.0084869987371,
+  "lon": -123.658288039108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.084Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.084Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-the-livery-stables-2411-hwy-49-east-pleasant-view",
+  "name": "Farmers Market at the Livery Stables",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2411 Hwy 49 East Pleasant View, TN",
+  "locationCity": "2411 Hwy 49 East Pleasant View",
+  "locationState": "TN",
+  "locationZipcode": "37146",
+  "lat": 36.388998471087895,
+  "lon": -87.0386021446863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

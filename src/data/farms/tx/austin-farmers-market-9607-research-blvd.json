@@ -1,0 +1,19 @@
+{
+  "slug": "austin-farmers-market-9607-research-blvd",
+  "name": "AUSTIN FARMERS MARKET",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9607 RESEARCH BLVD, TX",
+  "locationCity": "9607 RESEARCH BLVD",
+  "locationState": "TX",
+  "locationZipcode": "78759",
+  "lat": 30.387094,
+  "lon": -97.741448,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.050Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.050Z"
+}

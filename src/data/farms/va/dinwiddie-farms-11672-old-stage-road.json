@@ -1,0 +1,20 @@
+{
+  "slug": "dinwiddie-farms-11672-old-stage-road",
+  "name": "Dinwiddie Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11672 Old Stage Road, VA",
+  "locationCity": "11672 Old Stage Road",
+  "locationState": "VA",
+  "locationZipcode": "11672",
+  "lat": 37.12471998628449,
+  "lon": -77.44075103543734,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.379Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.379Z",
+  "crops": []
+}

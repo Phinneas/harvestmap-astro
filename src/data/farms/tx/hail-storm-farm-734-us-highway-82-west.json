@@ -1,0 +1,19 @@
+{
+  "slug": "hail-storm-farm-734-us-highway-82-west",
+  "name": "Hail Storm Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "734 US Highway 82 West, TX",
+  "locationCity": "734 US Highway 82 West",
+  "locationState": "TX",
+  "locationZipcode": "76380",
+  "lat": 33.595788554657,
+  "lon": -99.2991209268187,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.476Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.476Z"
+}

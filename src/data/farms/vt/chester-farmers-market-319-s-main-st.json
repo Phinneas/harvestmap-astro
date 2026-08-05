@@ -1,0 +1,19 @@
+{
+  "slug": "chester-farmers-market-319-s-main-st",
+  "name": "Chester Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "319 S. Main St., VT",
+  "locationCity": "319 S. Main St.",
+  "locationState": "VT",
+  "locationZipcode": "05143",
+  "lat": 43.265168363997994,
+  "lon": -72.6008696549815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

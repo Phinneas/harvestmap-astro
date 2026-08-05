@@ -1,0 +1,19 @@
+{
+  "slug": "busa-farm-lincoln-lexington-po-box-2932",
+  "name": "Busa Farm Lincoln /Lexington",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 2932, MA",
+  "locationCity": "PO Box 2932",
+  "locationState": "MA",
+  "locationZipcode": "01476",
+  "lat": 42.4473497,
+  "lon": -71.2271531,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.252Z"
+}

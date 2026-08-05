@@ -1,0 +1,19 @@
+{
+  "slug": "sam-s-pumpkin-patch-425-186th-st",
+  "name": "Sam's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "425 186th St, MN",
+  "locationCity": "425 186th St",
+  "locationState": "MN",
+  "locationZipcode": "56265",
+  "lat": 44.9279309076728,
+  "lon": -95.7675238598616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.731Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.731Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "weed-farm-613-quaker-street",
+  "name": "Weed Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "613 Quaker Street, VT",
+  "locationCity": "613 Quaker Street",
+  "locationState": "VT",
+  "locationZipcode": "05443",
+  "lat": 44.1146570137305,
+  "lon": -72.9991659582589,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.060Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.060Z"
+}

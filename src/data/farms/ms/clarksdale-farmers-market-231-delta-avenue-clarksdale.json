@@ -1,0 +1,19 @@
+{
+  "slug": "clarksdale-farmers-market-231-delta-avenue-clarksdale",
+  "name": "Clarksdale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "231 Delta Avenue Clarksdale, MS",
+  "locationCity": "231 Delta Avenue Clarksdale",
+  "locationState": "MS",
+  "locationZipcode": "38614",
+  "lat": 34.20201992392008,
+  "lon": -90.57480174469322,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

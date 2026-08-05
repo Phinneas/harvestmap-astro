@@ -1,0 +1,19 @@
+{
+  "slug": "healthworks-farmers-market-huntsville-hospital-101-governors-dr",
+  "name": "Healthworks Farmers' Market (Huntsville Hospital)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Governors Dr., AL",
+  "locationCity": "101 Governors Dr.",
+  "locationState": "AL",
+  "locationZipcode": "35801",
+  "lat": 34.71996078269658,
+  "lon": -86.57936518369796,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wineguys-vineyard-400-grade-creek-road",
+  "name": "Wineguys Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "400 Grade Creek Road, WA",
+  "locationCity": "400 Grade Creek Road",
+  "locationState": "WA",
+  "locationZipcode": "98831",
+  "lat": 47.944351005342,
+  "lon": -120.147043000975,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.371Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-john-s-plot-26-chesham-road",
+  "name": "Farmer John's Plot",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "26 Chesham Road, NH",
+  "locationCity": "26 Chesham Road",
+  "locationState": "NH",
+  "locationZipcode": "03444",
+  "lat": 42.918938,
+  "lon": -72.150907,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.741Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.741Z"
+}

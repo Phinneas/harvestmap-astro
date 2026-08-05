@@ -1,0 +1,20 @@
+{
+  "slug": "birch-bog-farm-41-dundee-road",
+  "name": "Birch Bog Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "41 Dundee Road, ME",
+  "locationCity": "41 Dundee Road",
+  "locationState": "ME",
+  "locationZipcode": "04217",
+  "lat": 44.2517449866845,
+  "lon": -70.7616134309273,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.807Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.807Z",
+  "crops": []
+}

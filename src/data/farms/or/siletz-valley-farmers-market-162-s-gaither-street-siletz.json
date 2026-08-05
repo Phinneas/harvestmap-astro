@@ -1,0 +1,19 @@
+{
+  "slug": "siletz-valley-farmers-market-162-s-gaither-street-siletz",
+  "name": "Siletz Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "162 S. Gaither Street Siletz, OR",
+  "locationCity": "162 S. Gaither Street Siletz",
+  "locationState": "OR",
+  "locationZipcode": "97380",
+  "lat": 44.72205286320266,
+  "lon": -123.91803122072541,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.427Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.427Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "weber-farms-914-weber-road",
+  "name": "Weber Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "914 Weber Road, OH",
+  "locationCity": "914 Weber Road",
+  "locationState": "OH",
+  "locationZipcode": "45640",
+  "lat": 38.9946339880091,
+  "lon": -82.7558149969,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.839Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.839Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sammamish-farms-15410-ne-124th-st",
+  "name": "Sammamish Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15410 NE 124th St, WA",
+  "locationCity": "15410 NE 124th St",
+  "locationState": "WA",
+  "locationZipcode": "15410",
+  "lat": 47.71164489803448,
+  "lon": -122.13461679505865,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.612Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.612Z"
+}

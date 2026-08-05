@@ -9,29 +9,11 @@
   "locationZipcode": "",
   "lat": 41.52125297164093,
   "lon": -71.55394021838688,
-  "website": "http://www.schartnerfarms.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:37:59.886Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:38:08.767Z"
+      "lastSeen": "2026-08-05T18:50:31.299Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:37:59.886Z",
-  "crops": [
-    "Strawberries",
-    "Blueberries",
-    "Raspberries",
-    "Pumpkins",
-    "Squash",
-    "Corn",
-    "Asparagus",
-    "Green beans",
-    "Herbs",
-    "Christmas trees"
-  ],
-  "phone": "(401) 294.2044"
+  "usdaLastUpdated": "2026-08-05T18:50:31.299Z"
 }

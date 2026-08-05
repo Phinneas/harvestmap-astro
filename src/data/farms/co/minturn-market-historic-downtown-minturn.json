@@ -1,0 +1,19 @@
+{
+  "slug": "minturn-market-historic-downtown-minturn",
+  "name": "Minturn Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Historic Downtown Minturn, CO",
+  "locationCity": "Historic Downtown Minturn",
+  "locationState": "CO",
+  "locationZipcode": "81645",
+  "lat": 39.58839,
+  "lon": -106.4315,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.327Z"
+}

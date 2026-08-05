@@ -1,0 +1,19 @@
+{
+  "slug": "calhoun-county-farmers-market-1702-noble-st",
+  "name": "Calhoun County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1702 Noble St., AL",
+  "locationCity": "1702 Noble St.",
+  "locationState": "AL",
+  "locationZipcode": "36201",
+  "lat": 33.66648472705713,
+  "lon": -85.82981858575388,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "green-gate-farms-8310-canoga-ave",
+  "name": "Green Gate Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8310 Canoga Ave., TX",
+  "locationCity": "8310 Canoga Ave.",
+  "locationState": "TX",
+  "locationZipcode": "78724",
+  "lat": 30.2857477,
+  "lon": -97.6348801,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.843Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.843Z",
+  "crops": []
+}

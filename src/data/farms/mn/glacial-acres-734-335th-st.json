@@ -1,0 +1,19 @@
+{
+  "slug": "glacial-acres-734-335th-st",
+  "name": "Glacial Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "734 335th St, MN",
+  "locationCity": "734 335th St",
+  "locationState": "MN",
+  "locationZipcode": "56289",
+  "lat": 45.4199333018592,
+  "lon": -95.2832169051396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.789Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "missoula-winter-market-2036-mullan-rd-missoula",
+  "name": "Missoula Winter Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2036 Mullan Rd Missoula, MT",
+  "locationCity": "2036 Mullan Rd Missoula",
+  "locationState": "MT",
+  "locationZipcode": "59808",
+  "lat": 46.88088983766059,
+  "lon": -114.02448995908362,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:22.007Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:22.007Z"
+}

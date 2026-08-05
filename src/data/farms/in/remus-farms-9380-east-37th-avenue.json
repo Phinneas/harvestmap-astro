@@ -1,0 +1,19 @@
+{
+  "slug": "remus-farms-9380-east-37th-avenue",
+  "name": "Remus Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "9380 East 37th Avenue, IN",
+  "locationCity": "9380 East 37th Avenue",
+  "locationState": "IN",
+  "locationZipcode": "46342",
+  "lat": 41.55086463389492,
+  "lon": -87.22341087983149,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.600Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.600Z"
+}

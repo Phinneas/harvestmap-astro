@@ -1,0 +1,20 @@
+{
+  "slug": "andreotti-family-farms-800-cabrillo-hwy-n",
+  "name": "Andreotti Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "800 Cabrillo Hwy N, CA",
+  "locationCity": "800 Cabrillo Hwy N",
+  "locationState": "CA",
+  "locationZipcode": "94019",
+  "lat": 37.4735275638736,
+  "lon": -122.436635822963,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.719Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.719Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gilbert-strawberry-farm-40-east",
+  "name": "Gilbert Strawberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "40 East, AL",
+  "locationCity": "40 East",
+  "locationState": "AL",
+  "locationZipcode": "35978",
+  "lat": 34.6067581317874,
+  "lon": -85.6759915655504,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.643Z"
+}

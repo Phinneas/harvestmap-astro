@@ -1,0 +1,19 @@
+{
+  "slug": "hibbing-farmers-market-1309-e-40th-st",
+  "name": "Hibbing Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1309 E 40th St, MN",
+  "locationCity": "1309 E 40th St",
+  "locationState": "MN",
+  "locationZipcode": "55746",
+  "lat": 47.4016349,
+  "lon": -92.925134,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

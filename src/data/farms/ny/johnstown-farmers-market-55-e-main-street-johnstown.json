@@ -1,0 +1,19 @@
+{
+  "slug": "johnstown-farmers-market-55-e-main-street-johnstown",
+  "name": "Johnstown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "55 E. Main Street Johnstown, NY",
+  "locationCity": "55 E. Main Street Johnstown",
+  "locationState": "NY",
+  "locationZipcode": "12095",
+  "lat": 43.00653248866886,
+  "lon": -74.36900733829044,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

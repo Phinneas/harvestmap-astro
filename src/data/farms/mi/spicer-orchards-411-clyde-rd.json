@@ -1,0 +1,19 @@
+{
+  "slug": "spicer-orchards-411-clyde-rd",
+  "name": "Spicer Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "411 Clyde Rd, MI",
+  "locationCity": "411 Clyde Rd",
+  "locationState": "MI",
+  "locationZipcode": "48430",
+  "lat": 42.6769132810312,
+  "lon": -83.7555852632184,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.608Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.608Z"
+}

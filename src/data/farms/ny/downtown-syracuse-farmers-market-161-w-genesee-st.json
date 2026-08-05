@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-syracuse-farmers-market-161-w-genesee-st",
+  "name": "Downtown Syracuse Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "161 W Genesee St, NY",
+  "locationCity": "161 W Genesee St",
+  "locationState": "NY",
+  "locationZipcode": "13066",
+  "lat": 43.029321482018524,
+  "lon": -76.01395610285886,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

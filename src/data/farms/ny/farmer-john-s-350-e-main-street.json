@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-john-s-350-e-main-street",
+  "name": "Farmer John's",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "350 E. Main Street, NY",
+  "locationCity": "350 E. Main Street",
+  "locationState": "NY",
+  "locationZipcode": "14063",
+  "lat": 42.4481132174561,
+  "lon": -79.3140452184406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.971Z"
+}

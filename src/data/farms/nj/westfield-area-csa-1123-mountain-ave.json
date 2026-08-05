@@ -1,0 +1,19 @@
+{
+  "slug": "westfield-area-csa-1123-mountain-ave",
+  "name": "Westfield Area CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1123 Mountain Ave, NJ",
+  "locationCity": "1123 Mountain Ave",
+  "locationState": "NJ",
+  "locationZipcode": "07092",
+  "lat": 40.673032566287105,
+  "lon": -74.35063695271995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.178Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.178Z"
+}

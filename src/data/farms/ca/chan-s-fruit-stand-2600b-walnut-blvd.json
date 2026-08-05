@@ -1,0 +1,19 @@
+{
+  "slug": "chan-s-fruit-stand-2600b-walnut-blvd",
+  "name": "Chan's Fruit Stand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2600b Walnut Blvd., CA",
+  "locationCity": "2600b Walnut Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "94513",
+  "lat": 37.9126120116155,
+  "lon": -121.695884010613,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.729Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.729Z"
+}

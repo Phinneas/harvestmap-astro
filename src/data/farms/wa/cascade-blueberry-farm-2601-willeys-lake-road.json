@@ -1,0 +1,19 @@
+{
+  "slug": "cascade-blueberry-farm-2601-willeys-lake-road",
+  "name": "Cascade Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2601 Willeys Lake Road, WA",
+  "locationCity": "2601 Willeys Lake Road",
+  "locationState": "WA",
+  "locationZipcode": "98240",
+  "lat": 48.9204839798251,
+  "lon": -122.625311008946,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.132Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.132Z"
+}

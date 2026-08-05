@@ -1,0 +1,19 @@
+{
+  "slug": "heavens-harvest-farm-965-oakham-road",
+  "name": "Heavens Harvest Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "965 Oakham Road, MA",
+  "locationCity": "965 Oakham Road",
+  "locationState": "MA",
+  "locationZipcode": "01531",
+  "lat": 42.326604073087964,
+  "lon": -72.09826131914662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.278Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.278Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "golden-acres-205-s-e-golden-rd",
+  "name": "Golden Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "205 S.e. Golden Rd, OR",
+  "locationCity": "205 S.e. Golden Rd",
+  "locationState": "OR",
+  "locationZipcode": "97123",
+  "lat": 45.507670019524,
+  "lon": -122.927025043316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.005Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.005Z"
+}

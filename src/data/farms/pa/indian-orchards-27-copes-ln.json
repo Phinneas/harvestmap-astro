@@ -1,0 +1,20 @@
+{
+  "slug": "indian-orchards-27-copes-ln",
+  "name": "Indian Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "27 Copes Ln, PA",
+  "locationCity": "27 Copes Ln",
+  "locationState": "PA",
+  "locationZipcode": "19063",
+  "lat": 39.8947603003844,
+  "lon": -75.4084019282339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.093Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.093Z",
+  "crops": []
+}

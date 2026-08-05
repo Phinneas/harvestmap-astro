@@ -1,0 +1,19 @@
+{
+  "slug": "future-days-farm-4225-126th-ave",
+  "name": "Future Days Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4225 126th Ave, MI",
+  "locationCity": "4225 126th Ave",
+  "locationState": "MI",
+  "locationZipcode": "49010",
+  "lat": 42.6091646,
+  "lon": -85.9632444,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.096Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.096Z"
+}

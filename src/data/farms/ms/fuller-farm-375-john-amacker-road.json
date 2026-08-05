@@ -1,0 +1,19 @@
+{
+  "slug": "fuller-farm-375-john-amacker-road",
+  "name": "Fuller Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "375 John Amacker Road, MS",
+  "locationCity": "375 John Amacker Road",
+  "locationState": "MS",
+  "locationZipcode": "39470",
+  "lat": 30.7355983317391,
+  "lon": -89.6627054196643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:24.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:24.023Z"
+}

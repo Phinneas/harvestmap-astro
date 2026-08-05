@@ -1,0 +1,19 @@
+{
+  "slug": "kitsap-fresh-5686-ne-minder-rd",
+  "name": "Kitsap Fresh",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5686 NE Minder Rd, WA",
+  "locationCity": "5686 NE Minder Rd",
+  "locationState": "WA",
+  "locationZipcode": "98370",
+  "lat": 47.80113998698124,
+  "lon": -122.57622599721711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:21.644Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:21.644Z"
+}

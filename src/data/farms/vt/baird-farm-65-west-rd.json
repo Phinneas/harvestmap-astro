@@ -1,0 +1,19 @@
+{
+  "slug": "baird-farm-65-west-rd",
+  "name": "Baird Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "65 West Rd, VT",
+  "locationCity": "65 West Rd",
+  "locationState": "VT",
+  "locationZipcode": "05763",
+  "lat": 43.74986200302368,
+  "lon": -72.99649498099298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.240Z"
+}

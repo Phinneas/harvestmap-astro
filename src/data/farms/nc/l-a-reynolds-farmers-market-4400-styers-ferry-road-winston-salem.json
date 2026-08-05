@@ -1,0 +1,19 @@
+{
+  "slug": "l-a-reynolds-farmers-market-4400-styers-ferry-road-winston-salem",
+  "name": "L.A. Reynolds Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4400 Styers Ferry Road Winston-Salem, NC",
+  "locationCity": "4400 Styers Ferry Road Winston-Salem",
+  "locationState": "NC",
+  "locationZipcode": "27104",
+  "lat": 36.09269279458298,
+  "lon": -80.37759777693599,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

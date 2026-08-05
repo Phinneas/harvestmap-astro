@@ -1,0 +1,20 @@
+{
+  "slug": "watt-farms-country-market-3121-oak-orchard-rd",
+  "name": "Watt Farms Country Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3121 Oak Orchard Rd, NY",
+  "locationCity": "3121 Oak Orchard Rd",
+  "locationState": "NY",
+  "locationZipcode": "14411",
+  "lat": 43.26644689960811,
+  "lon": -78.19283734954523,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z",
+  "crops": []
+}

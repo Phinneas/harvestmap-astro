@@ -1,0 +1,19 @@
+{
+  "slug": "oxford-farmers-market-915-emory-street-oxford",
+  "name": "Oxford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "915 Emory Street Oxford, GA",
+  "locationCity": "915 Emory Street Oxford",
+  "locationState": "GA",
+  "locationZipcode": "30054",
+  "lat": 33.622375904203935,
+  "lon": -83.86748094012532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

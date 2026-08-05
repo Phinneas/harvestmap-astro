@@ -1,0 +1,19 @@
+{
+  "slug": "evanston-farmers-market-1800-maple-ave-evanston",
+  "name": "Evanston Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1800 Maple Ave Evanston, IL",
+  "locationCity": "1800 Maple Ave Evanston",
+  "locationState": "IL",
+  "locationZipcode": "60201",
+  "lat": 42.05008443028553,
+  "lon": -87.68477802192118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

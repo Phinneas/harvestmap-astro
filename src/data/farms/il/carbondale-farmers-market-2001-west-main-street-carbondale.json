@@ -1,0 +1,19 @@
+{
+  "slug": "carbondale-farmers-market-2001-west-main-street-carbondale",
+  "name": "Carbondale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2001 West Main Street Carbondale, IL",
+  "locationCity": "2001 West Main Street Carbondale",
+  "locationState": "IL",
+  "locationZipcode": "62901",
+  "lat": 37.73027607245254,
+  "lon": -89.24355496534398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

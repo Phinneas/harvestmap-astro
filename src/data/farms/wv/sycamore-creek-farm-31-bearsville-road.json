@@ -1,0 +1,19 @@
+{
+  "slug": "sycamore-creek-farm-31-bearsville-road",
+  "name": "Sycamore Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "31 Bearsville Road, WV",
+  "locationCity": "31 Bearsville Road",
+  "locationState": "WV",
+  "locationZipcode": "26149",
+  "lat": 39.423489118657756,
+  "lon": -80.92999667903874,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:34.348Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:34.348Z"
+}

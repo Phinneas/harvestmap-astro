@@ -1,0 +1,19 @@
+{
+  "slug": "john-mikelsons-orchard-7831-e-123rd-st-south",
+  "name": "John Mikelsons Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7831 E. 123rd St. South, OK",
+  "locationCity": "7831 E. 123rd St. South",
+  "locationState": "OK",
+  "locationZipcode": "74403",
+  "lat": 35.5790029905107,
+  "lon": -95.2447689365841,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.389Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.389Z"
+}

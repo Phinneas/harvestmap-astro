@@ -1,0 +1,19 @@
+{
+  "slug": "depot-farm-market-610-s-valley-way",
+  "name": "Depot Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "610 S. Valley Way, AK",
+  "locationCity": "610 S. Valley Way",
+  "locationState": "AK",
+  "locationZipcode": "99645",
+  "lat": 61.60002901293339,
+  "lon": -149.1135659763187,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

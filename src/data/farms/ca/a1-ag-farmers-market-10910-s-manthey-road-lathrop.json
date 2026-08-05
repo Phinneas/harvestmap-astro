@@ -1,0 +1,19 @@
+{
+  "slug": "a1-ag-farmers-market-10910-s-manthey-road-lathrop",
+  "name": "A1 AG Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10910 S. Manthey Road Lathrop, CA",
+  "locationCity": "10910 S. Manthey Road Lathrop",
+  "locationState": "CA",
+  "locationZipcode": "10910",
+  "lat": 37.85589338637954,
+  "lon": -121.28363274386432,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.372Z"
+}

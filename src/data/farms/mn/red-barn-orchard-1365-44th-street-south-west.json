@@ -1,0 +1,19 @@
+{
+  "slug": "red-barn-orchard-1365-44th-street-south-west",
+  "name": "Red Barn Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1365 44th Street South West, MN",
+  "locationCity": "1365 44th Street South West",
+  "locationState": "MN",
+  "locationZipcode": "56474",
+  "lat": 46.645768,
+  "lon": -94.354116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:15.234Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:15.234Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stone-mountain-farmers-market-922-main-street-stone-mountain",
+  "name": "Stone Mountain Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "922 Main Street Stone Mountain, GA",
+  "locationCity": "922 Main Street Stone Mountain",
+  "locationState": "GA",
+  "locationZipcode": "30083",
+  "lat": 33.8068142798419,
+  "lon": -84.17042634835154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

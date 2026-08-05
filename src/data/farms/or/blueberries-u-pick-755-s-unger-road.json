@@ -1,0 +1,19 @@
+{
+  "slug": "blueberries-u-pick-755-s-unger-road",
+  "name": "Blueberries (U-Pick)",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "755 S. Unger Road, OR",
+  "locationCity": "755 S. Unger Road",
+  "locationState": "OR",
+  "locationZipcode": "97004",
+  "lat": 45.2160899417041,
+  "lon": -122.447401691243,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.038Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.038Z"
+}

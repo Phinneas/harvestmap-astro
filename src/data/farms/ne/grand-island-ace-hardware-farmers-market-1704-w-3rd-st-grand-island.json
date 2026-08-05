@@ -1,0 +1,19 @@
+{
+  "slug": "grand-island-ace-hardware-farmers-market-1704-w-3rd-st-grand-island",
+  "name": "Grand Island Ace Hardware Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1704 W 3rd St Grand Island, NE",
+  "locationCity": "1704 W 3rd St Grand Island",
+  "locationState": "NE",
+  "locationZipcode": "68803",
+  "lat": 40.91862687833039,
+  "lon": -98.35764302610148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

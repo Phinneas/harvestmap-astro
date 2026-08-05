@@ -1,0 +1,19 @@
+{
+  "slug": "norwich-farmers-market-281-route-5-south",
+  "name": "Norwich Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "281 Route 5 South, VT",
+  "locationCity": "281 Route 5 South",
+  "locationState": "VT",
+  "locationZipcode": "05055",
+  "lat": 43.726534670483026,
+  "lon": -72.27873657948331,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

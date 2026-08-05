@@ -1,0 +1,19 @@
+{
+  "slug": "hilltop-farm-10126-shaul-rd",
+  "name": "Hilltop Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "10126 Shaul Rd, NY",
+  "locationCity": "10126 Shaul Rd",
+  "locationState": "NY",
+  "locationZipcode": "10126",
+  "lat": 42.91540871510068,
+  "lon": -75.21703413464923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.827Z"
+}

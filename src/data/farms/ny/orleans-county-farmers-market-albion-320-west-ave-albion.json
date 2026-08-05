@@ -1,0 +1,19 @@
+{
+  "slug": "orleans-county-farmers-market-albion-320-west-ave-albion",
+  "name": "Orleans County Farmers Market - Albion",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 West Ave Albion, NY",
+  "locationCity": "320 West Ave Albion",
+  "locationState": "NY",
+  "locationZipcode": "14411",
+  "lat": 43.2408435670376,
+  "lon": -78.20219196488267,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

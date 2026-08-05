@@ -1,0 +1,19 @@
+{
+  "slug": "rocky-mount-farmers-market-435-franklin-st",
+  "name": "Rocky Mount Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "435 Franklin St, VA",
+  "locationCity": "435 Franklin St",
+  "locationState": "VA",
+  "locationZipcode": "24151",
+  "lat": 36.994866,
+  "lon": -79.888073,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.139Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.139Z"
+}

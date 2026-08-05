@@ -1,0 +1,19 @@
+{
+  "slug": "dietz-s-farm-1028-main-rd",
+  "name": "Dietz's Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1028 Main Rd, NH",
+  "locationCity": "1028 Main Rd",
+  "locationState": "NH",
+  "locationZipcode": "03813",
+  "lat": 44.1648428,
+  "lon": -71.006856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.735Z"
+}

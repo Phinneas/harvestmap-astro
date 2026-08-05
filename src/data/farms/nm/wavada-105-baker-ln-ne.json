@@ -1,0 +1,19 @@
+{
+  "slug": "wavada-105-baker-ln-ne",
+  "name": "WAVADA",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "105 Baker Ln NE, NM",
+  "locationCity": "105 Baker Ln NE",
+  "locationState": "NM",
+  "locationZipcode": "87113",
+  "lat": 35.1995580108834,
+  "lon": -106.602703028639,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:54.590Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:54.590Z"
+}

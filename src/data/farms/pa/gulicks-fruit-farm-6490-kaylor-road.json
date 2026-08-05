@@ -1,0 +1,19 @@
+{
+  "slug": "gulicks-fruit-farm-6490-kaylor-road",
+  "name": "Gulicks Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6490 Kaylor Road, PA",
+  "locationCity": "6490 Kaylor Road",
+  "locationState": "PA",
+  "locationZipcode": "18013",
+  "lat": 40.8194740665078,
+  "lon": -75.10969779920647,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

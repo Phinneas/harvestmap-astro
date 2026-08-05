@@ -1,0 +1,19 @@
+{
+  "slug": "redwood-valley-farmers-market-8920-east-rd",
+  "name": "Redwood Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8920 East Rd., CA",
+  "locationCity": "8920 East Rd.",
+  "locationState": "CA",
+  "locationZipcode": "95470",
+  "lat": 39.27052658767554,
+  "lon": -123.20550165228245,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

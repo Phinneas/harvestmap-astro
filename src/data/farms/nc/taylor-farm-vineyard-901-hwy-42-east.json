@@ -1,0 +1,19 @@
+{
+  "slug": "taylor-farm-vineyard-901-hwy-42-east",
+  "name": "Taylor Farm Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "901 Hwy 42 East, NC",
+  "locationCity": "901 Hwy 42 East",
+  "locationState": "NC",
+  "locationZipcode": "27886",
+  "lat": 35.8030498286848,
+  "lon": -77.5044915708636,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.890Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.890Z"
+}

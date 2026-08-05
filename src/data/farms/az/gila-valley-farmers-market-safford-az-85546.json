@@ -1,0 +1,19 @@
+{
+  "slug": "gila-valley-farmers-market-safford-az-85546",
+  "name": "Gila Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Safford AZ 85546, AZ",
+  "locationCity": "Safford AZ 85546",
+  "locationState": "AZ",
+  "locationZipcode": "85546",
+  "lat": 32.83000500000003,
+  "lon": -109.71375499999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

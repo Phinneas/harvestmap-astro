@@ -1,0 +1,19 @@
+{
+  "slug": "la-mar-farms-857-510th-avenue",
+  "name": "La Mar Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "857 510th Avenue, IA",
+  "locationCity": "857 510th Avenue",
+  "locationState": "IA",
+  "locationZipcode": "50014",
+  "lat": 41.9872809115868,
+  "lon": -93.6783059987048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.746Z"
+}

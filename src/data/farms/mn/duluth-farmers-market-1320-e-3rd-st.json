@@ -1,0 +1,19 @@
+{
+  "slug": "duluth-farmers-market-1320-e-3rd-st",
+  "name": "Duluth Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1320 E 3rd St, MN",
+  "locationCity": "1320 E 3rd St",
+  "locationState": "MN",
+  "locationZipcode": "55805",
+  "lat": 46.8018333,
+  "lon": -92.084612,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

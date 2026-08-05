@@ -1,0 +1,19 @@
+{
+  "slug": "selma-farmers-market-dallas-ave-marina-dr",
+  "name": "Selma Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Dallas Ave. & Marina Dr., AL",
+  "locationCity": "Dallas Ave. & Marina Dr.",
+  "locationState": "AL",
+  "locationZipcode": "36701",
+  "lat": 32.41815500000007,
+  "lon": -87.02903999999995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "white-springs-farmers-market-highway-136-us-41-white-springs",
+  "name": "White Springs Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Highway 136 & US 41 White Springs, FL",
+  "locationCity": "Highway 136 & US 41 White Springs",
+  "locationState": "FL",
+  "locationZipcode": "32096",
+  "lat": 30.32980998062054,
+  "lon": -82.75902995968192,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.576Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.576Z"
+}

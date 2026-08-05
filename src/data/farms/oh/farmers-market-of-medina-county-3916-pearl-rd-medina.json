@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-of-medina-county-3916-pearl-rd-medina",
+  "name": "Farmers Market of Medina County",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3916 Pearl Rd Medina, OH",
+  "locationCity": "3916 Pearl Rd Medina",
+  "locationState": "OH",
+  "locationZipcode": "44256",
+  "lat": 41.169097647030384,
+  "lon": -81.86145689287677,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.935Z"
+}

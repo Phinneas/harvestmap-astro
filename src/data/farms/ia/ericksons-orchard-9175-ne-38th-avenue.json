@@ -1,0 +1,19 @@
+{
+  "slug": "ericksons-orchard-9175-ne-38th-avenue",
+  "name": "Ericksons Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9175 NE 38th Avenue, IA",
+  "locationCity": "9175 NE 38th Avenue",
+  "locationState": "IA",
+  "locationZipcode": "50009",
+  "lat": 41.62935901974762,
+  "lon": -93.41738000205596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.757Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.757Z"
+}

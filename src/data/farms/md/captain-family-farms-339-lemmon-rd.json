@@ -1,0 +1,19 @@
+{
+  "slug": "captain-family-farms-339-lemmon-rd",
+  "name": "Captain Family Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "339 Lemmon Rd., MD",
+  "locationCity": "339 Lemmon Rd.",
+  "locationState": "MD",
+  "locationZipcode": "21157",
+  "lat": 39.6083360256666,
+  "lon": -76.98235279739944,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.728Z"
+}

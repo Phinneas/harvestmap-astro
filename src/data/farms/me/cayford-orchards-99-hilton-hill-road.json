@@ -1,0 +1,20 @@
+{
+  "slug": "cayford-orchards-99-hilton-hill-road",
+  "name": "Cayford Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "99 Hilton Hill Road, ME",
+  "locationCity": "99 Hilton Hill Road",
+  "locationState": "ME",
+  "locationZipcode": "04976",
+  "lat": 44.8101803403395,
+  "lon": -69.7014913939412,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.799Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.799Z",
+  "crops": []
+}

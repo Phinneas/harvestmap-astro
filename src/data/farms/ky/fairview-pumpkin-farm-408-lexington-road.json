@@ -1,0 +1,19 @@
+{
+  "slug": "fairview-pumpkin-farm-408-lexington-road",
+  "name": "Fairview Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "408 Lexington Road, KY",
+  "locationCity": "408 Lexington Road",
+  "locationState": "KY",
+  "locationZipcode": "40330",
+  "lat": 37.7626463424399,
+  "lon": -84.8362074927218,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.603Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.603Z"
+}

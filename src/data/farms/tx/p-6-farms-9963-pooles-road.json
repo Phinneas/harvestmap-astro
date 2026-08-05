@@ -2,19 +2,18 @@
   "slug": "p-6-farms-9963-pooles-road",
   "name": "P-6 Farms",
   "source": "usda",
-  "directory": "agritourism",
+  "directory": "onfarmmarket",
   "location": "9963 Pooles Road, TX",
   "locationCity": "9963 Pooles Road",
   "locationState": "TX",
   "locationZipcode": "77356",
-  "lat": 30.3923856627926,
-  "lon": -95.7345618487009,
+  "lat": 30.3945978,
+  "lon": -95.735342,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:39:20.066Z"
+      "lastSeen": "2026-08-05T18:51:59.241Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:39:20.066Z",
-  "website": "https://pickyourown.farm/farm/p-6-farms-7123/"
+  "usdaLastUpdated": "2026-08-05T18:51:59.241Z"
 }

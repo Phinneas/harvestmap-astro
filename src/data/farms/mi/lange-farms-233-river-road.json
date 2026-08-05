@@ -1,0 +1,19 @@
+{
+  "slug": "lange-farms-233-river-road",
+  "name": "Lange Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "233 River Road, MI",
+  "locationCity": "233 River Road",
+  "locationState": "MI",
+  "locationZipcode": "49126",
+  "lat": 42.0271090839269,
+  "lon": -86.3950679460404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.664Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.664Z"
+}

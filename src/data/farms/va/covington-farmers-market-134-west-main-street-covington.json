@@ -1,0 +1,19 @@
+{
+  "slug": "covington-farmers-market-134-west-main-street-covington",
+  "name": "Covington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "134 West Main Street Covington, VA",
+  "locationCity": "134 West Main Street Covington",
+  "locationState": "VA",
+  "locationZipcode": "24426",
+  "lat": 37.79380113644157,
+  "lon": -79.99368892864155,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

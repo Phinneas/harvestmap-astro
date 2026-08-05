@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hills-213-south-morenci-avenue",
+  "name": "Blueberry Hills",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "213 South Morenci Avenue, MI",
+  "locationCity": "213 South Morenci Avenue",
+  "locationState": "MI",
+  "locationZipcode": "48647",
+  "lat": 44.6507751,
+  "lon": -84.12998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.642Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.642Z"
+}

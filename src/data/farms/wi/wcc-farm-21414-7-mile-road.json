@@ -1,0 +1,19 @@
+{
+  "slug": "wcc-farm-21414-7-mile-road",
+  "name": "WCC Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "21414 7 Mile Road, WI",
+  "locationCity": "21414 7 Mile Road",
+  "locationState": "WI",
+  "locationZipcode": "21414",
+  "lat": 42.8339200200671,
+  "lon": -88.07862400453473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.476Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.476Z"
+}

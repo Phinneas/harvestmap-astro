@@ -1,0 +1,20 @@
+{
+  "slug": "hidden-horseshoe-produce-821-little-conestoga-rd",
+  "name": "Hidden Horseshoe Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "821 Little Conestoga Rd, PA",
+  "locationCity": "821 Little Conestoga Rd",
+  "locationState": "PA",
+  "locationZipcode": "19343",
+  "lat": 40.0846206583477,
+  "lon": -75.7380042019011,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.092Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.092Z",
+  "crops": []
+}

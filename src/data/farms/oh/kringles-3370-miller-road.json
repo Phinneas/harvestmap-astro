@@ -1,0 +1,19 @@
+{
+  "slug": "kringles-3370-miller-road",
+  "name": "Kringles",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3370 Miller Road, OH",
+  "locationCity": "3370 Miller Road",
+  "locationState": "OH",
+  "locationZipcode": "45363",
+  "lat": 40.24597501859347,
+  "lon": -84.4118639847319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.933Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.933Z"
+}

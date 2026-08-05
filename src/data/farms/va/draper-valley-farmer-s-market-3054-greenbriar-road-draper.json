@@ -1,0 +1,19 @@
+{
+  "slug": "draper-valley-farmer-s-market-3054-greenbriar-road-draper",
+  "name": "Draper Valley Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3054 Greenbriar Road Draper, VA",
+  "locationCity": "3054 Greenbriar Road Draper",
+  "locationState": "VA",
+  "locationZipcode": "24324",
+  "lat": 37.00187587332974,
+  "lon": -80.74310955789362,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

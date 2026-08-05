@@ -1,0 +1,19 @@
+{
+  "slug": "cumberland-farmers-market-11501-e-washington-street",
+  "name": "Cumberland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11501 E Washington Street, IN",
+  "locationCity": "11501 E Washington Street",
+  "locationState": "IN",
+  "locationZipcode": "11501",
+  "lat": 39.77586,
+  "lon": -85.961539,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.610Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.610Z"
+}

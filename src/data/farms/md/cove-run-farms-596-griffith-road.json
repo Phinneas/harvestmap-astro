@@ -1,0 +1,19 @@
+{
+  "slug": "cove-run-farms-596-griffith-road",
+  "name": "Cove Run Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "596 Griffith Road, MD",
+  "locationCity": "596 Griffith Road",
+  "locationState": "MD",
+  "locationZipcode": "21520",
+  "lat": 39.6881630083957,
+  "lon": -79.2966589607748,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.201Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.201Z"
+}

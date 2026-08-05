@@ -1,0 +1,19 @@
+{
+  "slug": "loess-hills-csa-p-o-box-83",
+  "name": "Loess Hills CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "P.O. Box 83, IA",
+  "locationCity": "P.O. Box 83",
+  "locationState": "IA",
+  "locationZipcode": "51536",
+  "lat": 41.3901703,
+  "lon": -95.3633591,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.412Z"
+}

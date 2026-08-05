@@ -1,0 +1,19 @@
+{
+  "slug": "lamborn-farm-761-151st-street",
+  "name": "Lamborn Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "761 151st Street, KS",
+  "locationCity": "761 151st Street",
+  "locationState": "KS",
+  "locationZipcode": "66048",
+  "lat": 39.1979977578608,
+  "lon": -94.9284247636475,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.057Z"
+}

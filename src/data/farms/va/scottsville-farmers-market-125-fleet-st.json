@@ -1,0 +1,19 @@
+{
+  "slug": "scottsville-farmers-market-125-fleet-st",
+  "name": "Scottsville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "125 Fleet St, VA",
+  "locationCity": "125 Fleet St",
+  "locationState": "VA",
+  "locationZipcode": "24590",
+  "lat": 37.79844678637959,
+  "lon": -78.49535327058685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

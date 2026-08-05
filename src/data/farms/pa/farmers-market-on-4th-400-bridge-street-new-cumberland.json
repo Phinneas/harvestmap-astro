@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-on-4th-400-bridge-street-new-cumberland",
+  "name": "Farmers Market on 4th",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Bridge Street New Cumberland, PA",
+  "locationCity": "400 Bridge Street New Cumberland",
+  "locationState": "PA",
+  "locationZipcode": "17070",
+  "lat": 40.227420529713164,
+  "lon": -76.86581479393995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

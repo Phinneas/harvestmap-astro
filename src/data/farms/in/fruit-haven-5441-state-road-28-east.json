@@ -1,0 +1,19 @@
+{
+  "slug": "fruit-haven-5441-state-road-28-east",
+  "name": "Fruit Haven",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5441 State Road 28 East, IN",
+  "locationCity": "5441 State Road 28 East",
+  "locationState": "IN",
+  "locationZipcode": "47909",
+  "lat": 40.257329018906375,
+  "lon": -86.80015703979888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.599Z"
+}

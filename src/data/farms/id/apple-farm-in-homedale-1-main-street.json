@@ -1,0 +1,19 @@
+{
+  "slug": "apple-farm-in-homedale-1-main-street",
+  "name": "Apple Farm in Homedale",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1 Main Street, ID",
+  "locationCity": "1 Main Street",
+  "locationState": "ID",
+  "locationZipcode": "83628",
+  "lat": 43.6165500000001,
+  "lon": -116.93427,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.843Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.843Z"
+}

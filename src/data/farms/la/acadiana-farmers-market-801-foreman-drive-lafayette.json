@@ -1,0 +1,19 @@
+{
+  "slug": "acadiana-farmers-market-801-foreman-drive-lafayette",
+  "name": "Acadiana Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "801 Foreman Drive Lafayette, LA",
+  "locationCity": "801 Foreman Drive Lafayette",
+  "locationState": "LA",
+  "locationZipcode": "70506",
+  "lat": 30.21456143529758,
+  "lon": -92.06325356647886,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.707Z"
+}

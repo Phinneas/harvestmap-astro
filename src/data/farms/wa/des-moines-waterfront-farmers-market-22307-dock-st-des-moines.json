@@ -1,0 +1,19 @@
+{
+  "slug": "des-moines-waterfront-farmers-market-22307-dock-st-des-moines",
+  "name": "Des Moines Waterfront Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "22307 Dock St Des Moines, WA",
+  "locationCity": "22307 Dock St Des Moines",
+  "locationState": "WA",
+  "locationZipcode": "22307",
+  "lat": 47.40079393910391,
+  "lon": -122.32810929807313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.816Z"
+}

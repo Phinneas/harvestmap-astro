@@ -1,0 +1,19 @@
+{
+  "slug": "g-m-farms-487-east-airway-blvd",
+  "name": "G & M Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "487 East Airway Blvd, CA",
+  "locationCity": "487 East Airway Blvd",
+  "locationState": "CA",
+  "locationZipcode": "94551",
+  "lat": 37.698605008283,
+  "lon": -121.796995998266,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.789Z"
+}

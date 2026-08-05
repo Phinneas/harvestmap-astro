@@ -1,0 +1,19 @@
+{
+  "slug": "salem-farmers-market-3-east-main-street",
+  "name": "Salem Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3 East Main Street, VA",
+  "locationCity": "3 East Main Street",
+  "locationState": "VA",
+  "locationZipcode": "24153",
+  "lat": 37.292997,
+  "lon": -80.058606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.091Z"
+}

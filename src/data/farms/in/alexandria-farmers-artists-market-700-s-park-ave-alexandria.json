@@ -1,0 +1,19 @@
+{
+  "slug": "alexandria-farmers-artists-market-700-s-park-ave-alexandria",
+  "name": "Alexandria Farmers' & Artists Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 S Park Ave Alexandria, IN",
+  "locationCity": "700 S Park Ave Alexandria",
+  "locationState": "IN",
+  "locationZipcode": "46001",
+  "lat": 40.25672426603489,
+  "lon": -85.67142728086762,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mccormack-raspberry-farm-715-cripps-road",
+  "name": "McCormack Raspberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "715 Cripps Road, MI",
+  "locationCity": "715 Cripps Road",
+  "locationState": "MI",
+  "locationZipcode": "49744",
+  "lat": 44.952693346145,
+  "lon": -83.684633592847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.715Z"
+}

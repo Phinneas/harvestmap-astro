@@ -1,0 +1,19 @@
+{
+  "slug": "outer-aisle-foods-po-box-2052",
+  "name": "Outer Aisle Foods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "PO Box 2052, CA",
+  "locationCity": "PO Box 2052",
+  "locationState": "CA",
+  "locationZipcode": "95247",
+  "lat": 38.1422351,
+  "lon": -120.452137,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

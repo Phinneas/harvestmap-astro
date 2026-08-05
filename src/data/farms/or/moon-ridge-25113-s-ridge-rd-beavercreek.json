@@ -1,0 +1,19 @@
+{
+  "slug": "moon-ridge-25113-s-ridge-rd-beavercreek",
+  "name": "Moon Ridge",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "25113 S. Ridge Rd.; Beavercreek, OR",
+  "locationCity": "25113 S. Ridge Rd.; Beavercreek",
+  "locationState": "OR",
+  "locationZipcode": "25113",
+  "lat": 45.2424920002196,
+  "lon": -122.460896960674,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.921Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.921Z"
+}

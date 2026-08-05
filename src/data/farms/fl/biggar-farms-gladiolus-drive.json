@@ -1,0 +1,19 @@
+{
+  "slug": "biggar-farms-gladiolus-drive",
+  "name": "Biggar Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Gladiolus Drive, FL",
+  "locationCity": "Gladiolus Drive",
+  "locationState": "FL",
+  "locationZipcode": "33908",
+  "lat": 26.5205499793033,
+  "lon": -81.9061177588254,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.786Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.786Z"
+}

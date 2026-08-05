@@ -1,0 +1,19 @@
+{
+  "slug": "temecula-pumpkin-patch-119-day-street",
+  "name": "Temecula Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "119 Day Street, CA",
+  "locationCity": "119 Day Street",
+  "locationState": "CA",
+  "locationZipcode": "92596",
+  "lat": 33.0369602471764,
+  "lon": -116.88266151934,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.787Z"
+}

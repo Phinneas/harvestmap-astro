@@ -1,0 +1,19 @@
+{
+  "slug": "fremont-main-street-downtown-farmers-market-8th-and-main-st-fremont",
+  "name": "Fremont Main Street Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8th and Main St Fremont, NE",
+  "locationCity": "8th and Main St Fremont",
+  "locationState": "NE",
+  "locationZipcode": "68025",
+  "lat": 41.42985621147783,
+  "lon": -96.4964542209273,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mosher-farms-214-fargo-rd",
+  "name": "Mosher Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "214 Fargo Rd, NY",
+  "locationCity": "214 Fargo Rd",
+  "locationState": "NY",
+  "locationZipcode": "13310",
+  "lat": 42.8822697680759,
+  "lon": -75.5684165846543,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.954Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.954Z"
+}

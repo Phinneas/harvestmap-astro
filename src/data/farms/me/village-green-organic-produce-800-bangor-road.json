@@ -1,0 +1,19 @@
+{
+  "slug": "village-green-organic-produce-800-bangor-road",
+  "name": "Village Green Organic Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "800 Bangor Road, ME",
+  "locationCity": "800 Bangor Road",
+  "locationState": "ME",
+  "locationZipcode": "04987",
+  "lat": 44.6617200000001,
+  "lon": -69.26741,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.029Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "montevallo-farmers-market-middle-street-and-island-street",
+  "name": "MONTEVALLO FARMERS MARKET",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Middle Street and Island Street, AL",
+  "locationCity": "Middle Street and Island Street",
+  "locationState": "AL",
+  "locationZipcode": "35115",
+  "lat": 33.09948,
+  "lon": -86.862926,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:48.978Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:48.978Z"
+}

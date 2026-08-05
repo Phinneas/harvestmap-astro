@@ -1,0 +1,19 @@
+{
+  "slug": "hollidays-farm-market-455-holliday-road",
+  "name": "Hollidays' Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "455 Holliday Road, PA",
+  "locationCity": "455 Holliday Road",
+  "locationState": "PA",
+  "locationZipcode": "16430",
+  "lat": 42.002752983012584,
+  "lon": -80.43380100300247,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

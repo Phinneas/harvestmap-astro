@@ -1,0 +1,19 @@
+{
+  "slug": "adams-county-farmers-market-108-n-stratton-street-gettysburg",
+  "name": "Adams County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "108 N. Stratton Street Gettysburg, PA",
+  "locationCity": "108 N. Stratton Street Gettysburg",
+  "locationState": "PA",
+  "locationZipcode": "17325",
+  "lat": 39.83221554727864,
+  "lon": -77.228891593881,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

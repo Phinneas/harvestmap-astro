@@ -1,0 +1,19 @@
+{
+  "slug": "chestnut-charlie-s-840-e-1450-road",
+  "name": "Chestnut Charlie's",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "840 E. 1450 Road, KS",
+  "locationCity": "840 E. 1450 Road",
+  "locationState": "KS",
+  "locationZipcode": "66044",
+  "lat": 38.8611387859975,
+  "lon": -95.2330831392532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.150Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.150Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hartland-winery-425-county-road-23",
+  "name": "Hartland Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "425 County Road 23, IN",
+  "locationCity": "425 County Road 23",
+  "locationState": "IN",
+  "locationZipcode": "46705",
+  "lat": 41.515769982485,
+  "lon": -85.0794020225664,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.218Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.218Z"
+}

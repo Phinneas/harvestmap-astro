@@ -1,0 +1,19 @@
+{
+  "slug": "north-valley-food-hub-216-n-culver-st",
+  "name": "North Valley Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "216 N Culver St., CA",
+  "locationCity": "216 N Culver St.",
+  "locationState": "CA",
+  "locationZipcode": "95988",
+  "lat": 39.52200200386437,
+  "lon": -122.20428398912972,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "brown-s-farmer-s-market-1530-us-hwy-60-e-burna",
+  "name": "Brown's Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1530 US HWY 60 E Burna, KY",
+  "locationCity": "1530 US HWY 60 E Burna",
+  "locationState": "KY",
+  "locationZipcode": "42028",
+  "lat": 37.245550778960165,
+  "lon": -88.35968545707827,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

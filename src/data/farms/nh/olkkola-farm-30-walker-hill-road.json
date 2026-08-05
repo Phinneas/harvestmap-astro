@@ -1,0 +1,19 @@
+{
+  "slug": "olkkola-farm-30-walker-hill-road",
+  "name": "Olkkola Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "30 Walker Hill Road, NH",
+  "locationCity": "30 Walker Hill Road",
+  "locationState": "NH",
+  "locationZipcode": "03864",
+  "lat": 43.6938949877834,
+  "lon": -71.1355419881342,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.722Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.722Z"
+}

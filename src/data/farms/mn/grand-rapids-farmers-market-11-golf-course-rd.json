@@ -1,0 +1,19 @@
+{
+  "slug": "grand-rapids-farmers-market-11-golf-course-rd",
+  "name": "Grand Rapids Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11 Golf Course Rd, MN",
+  "locationCity": "11 Golf Course Rd",
+  "locationState": "MN",
+  "locationZipcode": "55744",
+  "lat": 47.2216268,
+  "lon": -93.5297531,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

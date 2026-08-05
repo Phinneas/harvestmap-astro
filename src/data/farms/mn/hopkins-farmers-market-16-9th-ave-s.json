@@ -1,0 +1,19 @@
+{
+  "slug": "hopkins-farmers-market-16-9th-ave-s",
+  "name": "Hopkins Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16 9th Ave S, MN",
+  "locationCity": "16 9th Ave S",
+  "locationState": "MN",
+  "locationZipcode": "55343",
+  "lat": 44.923672,
+  "lon": -93.4118275,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

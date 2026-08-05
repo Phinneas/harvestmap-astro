@@ -1,0 +1,19 @@
+{
+  "slug": "caroline-farmers-market-522-vallely-rd-brooktondale",
+  "name": "Caroline Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "522 Vallely Rd. Brooktondale, NY",
+  "locationCity": "522 Vallely Rd. Brooktondale",
+  "locationState": "NY",
+  "locationZipcode": "14817",
+  "lat": 42.38094743818129,
+  "lon": -76.39366428949329,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

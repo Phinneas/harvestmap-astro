@@ -1,0 +1,19 @@
+{
+  "slug": "romac-orchard-36-school-street",
+  "name": "Romac Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "36 School Street, ME",
+  "locationCity": "36 School Street",
+  "locationState": "ME",
+  "locationZipcode": "04073",
+  "lat": 43.43753,
+  "lon": -70.7723099999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.889Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.889Z"
+}

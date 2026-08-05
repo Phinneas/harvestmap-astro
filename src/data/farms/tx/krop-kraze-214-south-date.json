@@ -1,0 +1,19 @@
+{
+  "slug": "krop-kraze-214-south-date",
+  "name": "Krop Kraze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "214 South Date, TX",
+  "locationCity": "214 South Date",
+  "locationState": "TX",
+  "locationZipcode": "79072",
+  "lat": 34.1775230376912,
+  "lon": -101.697890879219,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.639Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.639Z"
+}

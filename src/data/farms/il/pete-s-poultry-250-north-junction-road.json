@@ -1,0 +1,19 @@
+{
+  "slug": "pete-s-poultry-250-north-junction-road",
+  "name": "Pete's Poultry",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "250 North Junction Road, IL",
+  "locationCity": "250 North Junction Road",
+  "locationState": "IL",
+  "locationZipcode": "61020",
+  "lat": 42.1288351956374,
+  "lon": -89.09620287302,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.908Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.908Z"
+}

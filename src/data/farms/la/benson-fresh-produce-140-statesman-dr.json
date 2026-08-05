@@ -1,0 +1,19 @@
+{
+  "slug": "benson-fresh-produce-140-statesman-dr",
+  "name": "Benson Fresh Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "140 Statesman Dr., LA",
+  "locationCity": "140 Statesman Dr.",
+  "locationState": "LA",
+  "locationZipcode": "70506",
+  "lat": 30.207360014415983,
+  "lon": -92.06656698699415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

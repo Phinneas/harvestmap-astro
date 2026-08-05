@@ -1,0 +1,19 @@
+{
+  "slug": "eagle-farmers-market-5th-st-and-hwy-34",
+  "name": "Eagle Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5th St. and Hwy 34, NE",
+  "locationCity": "5th St. and Hwy 34",
+  "locationState": "NE",
+  "locationZipcode": "68347",
+  "lat": 40.816121,
+  "lon": -96.432729,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.782Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.782Z"
+}

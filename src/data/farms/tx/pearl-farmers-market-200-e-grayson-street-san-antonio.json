@@ -1,0 +1,19 @@
+{
+  "slug": "pearl-farmers-market-200-e-grayson-street-san-antonio",
+  "name": "Pearl Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 E. Grayson Street San Antonio, TX",
+  "locationCity": "200 E. Grayson Street San Antonio",
+  "locationState": "TX",
+  "locationZipcode": "78215",
+  "lat": 29.444291944525702,
+  "lon": -98.48034979277517,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

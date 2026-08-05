@@ -1,0 +1,19 @@
+{
+  "slug": "pleasant-grove-guernseys-pleasant-grove",
+  "name": "Pleasant Grove Guernseys",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Pleasant Grove, UT",
+  "locationCity": "Pleasant Grove",
+  "locationState": "UT",
+  "locationZipcode": "84062",
+  "lat": 40.3755272,
+  "lon": -111.7457149,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.770Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.770Z"
+}

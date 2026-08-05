@@ -1,0 +1,19 @@
+{
+  "slug": "westfield-farmers-market-36-court-st",
+  "name": "Westfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "36 Court St, MA",
+  "locationCity": "36 Court St",
+  "locationState": "MA",
+  "locationZipcode": "01085",
+  "lat": 42.119742,
+  "lon": -72.751662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.772Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.772Z"
+}

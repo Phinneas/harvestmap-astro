@@ -1,0 +1,19 @@
+{
+  "slug": "oberlin-food-hub-23-eric-nord-way",
+  "name": "Oberlin Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "23 Eric Nord Way, OH",
+  "locationCity": "23 Eric Nord Way",
+  "locationState": "OH",
+  "locationZipcode": "44074",
+  "lat": 41.2910715,
+  "lon": -82.215583,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:16.641Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:16.641Z"
+}

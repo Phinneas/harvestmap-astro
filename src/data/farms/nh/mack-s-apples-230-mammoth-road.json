@@ -1,0 +1,19 @@
+{
+  "slug": "mack-s-apples-230-mammoth-road",
+  "name": "Mack's Apples -",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "230 Mammoth Road, NH",
+  "locationCity": "230 Mammoth Road",
+  "locationState": "NH",
+  "locationZipcode": "03053",
+  "lat": 42.8584979813818,
+  "lon": -71.3696249906764,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.694Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.694Z"
+}

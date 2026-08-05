@@ -1,0 +1,19 @@
+{
+  "slug": "piney-mountain-orchard-197-coon-road",
+  "name": "Piney Mountain Orchard",
+  "source": "usda",
+  "directory": "csa",
+  "location": "197 Coon Road, PA",
+  "locationCity": "197 Coon Road",
+  "locationState": "PA",
+  "locationZipcode": "17324",
+  "lat": 40.0238603,
+  "lon": -77.2366398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.546Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.546Z"
+}

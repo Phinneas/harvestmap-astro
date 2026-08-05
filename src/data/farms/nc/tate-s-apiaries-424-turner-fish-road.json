@@ -1,0 +1,19 @@
+{
+  "slug": "tate-s-apiaries-424-turner-fish-road",
+  "name": "Tate's Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "424 Turner Fish Road, NC",
+  "locationCity": "424 Turner Fish Road",
+  "locationState": "NC",
+  "locationZipcode": "27592",
+  "lat": 35.5547506026142,
+  "lon": -78.6753871289374,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.635Z"
+}

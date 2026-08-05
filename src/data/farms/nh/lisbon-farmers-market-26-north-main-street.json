@@ -1,0 +1,19 @@
+{
+  "slug": "lisbon-farmers-market-26-north-main-street",
+  "name": "Lisbon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "26 North Main Street, NH",
+  "locationCity": "26 North Main Street",
+  "locationState": "NH",
+  "locationZipcode": "03585",
+  "lat": 44.2140678080863,
+  "lon": -71.90936520493106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.154Z"
+}

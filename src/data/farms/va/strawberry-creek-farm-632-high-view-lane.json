@@ -1,0 +1,19 @@
+{
+  "slug": "strawberry-creek-farm-632-high-view-lane",
+  "name": "Strawberry Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "632 High View Lane, VA",
+  "locationCity": "632 High View Lane",
+  "locationState": "VA",
+  "locationZipcode": "24531",
+  "lat": 36.765267,
+  "lon": -79.5246667,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.208Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.208Z"
+}

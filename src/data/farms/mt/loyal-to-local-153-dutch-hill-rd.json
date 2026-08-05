@@ -1,0 +1,19 @@
+{
+  "slug": "loyal-to-local-153-dutch-hill-rd",
+  "name": "Loyal to Local",
+  "source": "usda",
+  "directory": "csa",
+  "location": "153 dutch hill rd, MT",
+  "locationCity": "153 dutch hill rd",
+  "locationState": "MT",
+  "locationZipcode": "59840",
+  "lat": 46.31176,
+  "lon": -114.161756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:15.488Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:15.488Z"
+}

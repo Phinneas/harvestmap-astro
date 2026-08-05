@@ -1,0 +1,19 @@
+{
+  "slug": "basehore-farms-6080-creekview-road",
+  "name": "Basehore Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6080 Creekview Road, PA",
+  "locationCity": "6080 Creekview Road",
+  "locationState": "PA",
+  "locationZipcode": "17050",
+  "lat": 40.25722499948796,
+  "lon": -76.99894896568682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

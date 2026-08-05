@@ -1,0 +1,19 @@
+{
+  "slug": "oakland-csa-2505-oakland-rd",
+  "name": "Oakland CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2505 Oakland Rd, VA",
+  "locationCity": "2505 Oakland Rd",
+  "locationState": "VA",
+  "locationZipcode": "22460",
+  "lat": 37.90537943500344,
+  "lon": -76.5794074705706,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.255Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.255Z"
+}

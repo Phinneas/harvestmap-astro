@@ -1,0 +1,19 @@
+{
+  "slug": "punta-gorda-farmers-market-307-taylor-street-punta-gorda",
+  "name": "punta gorda farmers market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "307 taylor street Punta Gorda, FL",
+  "locationCity": "307 taylor street Punta Gorda",
+  "locationState": "FL",
+  "locationZipcode": "33950",
+  "lat": 26.93410676383296,
+  "lon": -82.05004959132289,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "featherstone-farm-43090-city-park-road",
+  "name": "Featherstone Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "43090 City Park Road, MN",
+  "locationCity": "43090 City Park Road",
+  "locationState": "MN",
+  "locationZipcode": "43090",
+  "lat": 43.804169988168496,
+  "lon": -91.79114603055228,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.185Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.185Z"
+}

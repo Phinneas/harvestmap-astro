@@ -1,0 +1,19 @@
+{
+  "slug": "northside-farmers-market-435-state-st-binghamton",
+  "name": "Northside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "435 State St. Binghamton, NY",
+  "locationCity": "435 State St. Binghamton",
+  "locationState": "NY",
+  "locationZipcode": "13903",
+  "lat": 42.10733687310049,
+  "lon": -75.90513129076928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

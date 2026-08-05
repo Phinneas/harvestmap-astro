@@ -1,0 +1,19 @@
+{
+  "slug": "ajo-csa-901-morondo-ave",
+  "name": "Ajo CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "901 Morondo Ave, AZ",
+  "locationCity": "901 Morondo Ave",
+  "locationState": "AZ",
+  "locationZipcode": "85321",
+  "lat": 32.3725735,
+  "lon": -112.8712269,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:13.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:13.375Z"
+}

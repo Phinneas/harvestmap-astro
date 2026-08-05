@@ -1,0 +1,19 @@
+{
+  "slug": "loveland-east-farmers-market-at-jax-950-e-eisenhower-blvd",
+  "name": "Loveland East Farmers Market at Jax",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "950 E.Eisenhower Blvd, CO",
+  "locationCity": "950 E.Eisenhower Blvd",
+  "locationState": "CO",
+  "locationZipcode": "80537",
+  "lat": 40.40723256913324,
+  "lon": -105.06405141633412,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

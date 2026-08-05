@@ -1,0 +1,19 @@
+{
+  "slug": "abraham-s-goat-farm-creamery-1000-elm-st",
+  "name": "Abraham's Goat Farm & Creamery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1000 Elm St, ME",
+  "locationCity": "1000 Elm St",
+  "locationState": "ME",
+  "locationZipcode": "04953",
+  "lat": 44.82112102900683,
+  "lon": -69.18965944516923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.036Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.036Z"
+}

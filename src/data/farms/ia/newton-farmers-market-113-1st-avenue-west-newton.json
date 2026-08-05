@@ -1,0 +1,19 @@
+{
+  "slug": "newton-farmers-market-113-1st-avenue-west-newton",
+  "name": "Newton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "113 1st Avenue West Newton, IA",
+  "locationCity": "113 1st Avenue West Newton",
+  "locationState": "IA",
+  "locationZipcode": "50208",
+  "lat": 41.69953904311776,
+  "lon": -93.05388880091783,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

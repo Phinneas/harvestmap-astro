@@ -1,0 +1,20 @@
+{
+  "slug": "kula-country-farms-375-koheo-road",
+  "name": "Kula Country Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "375 Koheo Road, HI",
+  "locationCity": "375 Koheo Road",
+  "locationState": "HI",
+  "locationZipcode": "96790",
+  "lat": 20.7255420138713,
+  "lon": -156.337070016347,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:08.902Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:08.902Z",
+  "crops": []
+}

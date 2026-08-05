@@ -1,0 +1,19 @@
+{
+  "slug": "wagner-farms-505-brownrigg-rd",
+  "name": "Wagner Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "505 Brownrigg Rd, OH",
+  "locationCity": "505 Brownrigg Rd",
+  "locationState": "OH",
+  "locationZipcode": "45786",
+  "lat": 39.4109017302718,
+  "lon": -81.7249243479162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.880Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.880Z"
+}

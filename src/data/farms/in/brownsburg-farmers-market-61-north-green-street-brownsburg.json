@@ -1,0 +1,19 @@
+{
+  "slug": "brownsburg-farmers-market-61-north-green-street-brownsburg",
+  "name": "Brownsburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "61 North Green Street Brownsburg, IN",
+  "locationCity": "61 North Green Street Brownsburg",
+  "locationState": "IN",
+  "locationZipcode": "46112",
+  "lat": 39.84585623349262,
+  "lon": -86.39698026746149,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

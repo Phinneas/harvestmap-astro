@@ -1,0 +1,20 @@
+{
+  "slug": "chick-s-apple-and-berry-farm-571-main-street",
+  "name": "Chick's Apple and Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "571 Main Street, ME",
+  "locationCity": "571 Main Street",
+  "locationState": "ME",
+  "locationZipcode": "04259",
+  "lat": 44.2259352400059,
+  "lon": -70.0368983883226,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.812Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.812Z",
+  "crops": []
+}

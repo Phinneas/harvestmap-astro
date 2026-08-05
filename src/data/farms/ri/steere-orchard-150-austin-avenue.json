@@ -1,0 +1,19 @@
+{
+  "slug": "steere-orchard-150-austin-avenue",
+  "name": "Steere Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "150 Austin Avenue, RI",
+  "locationCity": "150 Austin Avenue",
+  "locationState": "RI",
+  "locationZipcode": "02828",
+  "lat": 41.884888001664,
+  "lon": -71.5707259585945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.005Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.005Z"
+}

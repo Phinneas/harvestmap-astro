@@ -1,0 +1,20 @@
+{
+  "slug": "pine-ridge-acres-40-winn-road",
+  "name": "Pine Ridge Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "40 Winn Road, ME",
+  "locationCity": "40 Winn Road",
+  "locationState": "ME",
+  "locationZipcode": "04021",
+  "lat": 43.77736235679,
+  "lon": -70.2618039354038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.847Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.847Z",
+  "crops": []
+}

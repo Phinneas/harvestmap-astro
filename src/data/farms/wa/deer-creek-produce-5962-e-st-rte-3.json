@@ -1,0 +1,19 @@
+{
+  "slug": "deer-creek-produce-5962-e-st-rte-3",
+  "name": "Deer Creek Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5962 E St rte 3, WA",
+  "locationCity": "5962 E St rte 3",
+  "locationState": "WA",
+  "locationZipcode": "98584",
+  "lat": 47.26510399359515,
+  "lon": -123.00709303608494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.541Z"
+}

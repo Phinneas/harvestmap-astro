@@ -1,0 +1,20 @@
+{
+  "slug": "cherry-place-farm-1922-oakdale-rd-rock-hill",
+  "name": "Cherry Place Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1922 Oakdale Rd. Rock Hill, SC",
+  "locationCity": "1922 Oakdale Rd. Rock Hill",
+  "locationState": "SC",
+  "locationZipcode": "29730",
+  "lat": 34.8697279835445,
+  "lon": -81.0208460320816,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.733Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.733Z",
+  "crops": []
+}

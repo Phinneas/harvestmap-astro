@@ -1,0 +1,19 @@
+{
+  "slug": "atkins-farm-150-west-st",
+  "name": "Atkins Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "150 West St., MA",
+  "locationCity": "150 West St.",
+  "locationState": "MA",
+  "locationZipcode": "01002",
+  "lat": 42.3509442622051,
+  "lon": -72.5200116086556,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.697Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.697Z"
+}

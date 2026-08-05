@@ -1,0 +1,19 @@
+{
+  "slug": "charmingfare-farm-csa-774-high-street",
+  "name": "Charmingfare Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "774 High Street, NH",
+  "locationCity": "774 High Street",
+  "locationState": "NH",
+  "locationZipcode": "03034",
+  "lat": 43.070586953810675,
+  "lon": -71.3561486505699,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.626Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.626Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "urban-roots-farm-831-w-state-st",
+  "name": "Urban Roots Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "831 W State St, MO",
+  "locationCity": "831 W State St",
+  "locationState": "MO",
+  "locationZipcode": "65806",
+  "lat": 37.2026717,
+  "lon": -93.3013238,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:52.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:52.643Z",
+  "crops": []
+}

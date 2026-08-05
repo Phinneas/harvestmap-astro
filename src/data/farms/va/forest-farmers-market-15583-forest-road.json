@@ -1,0 +1,19 @@
+{
+  "slug": "forest-farmers-market-15583-forest-road",
+  "name": "Forest farmers market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15583 Forest Road, VA",
+  "locationCity": "15583 Forest Road",
+  "locationState": "VA",
+  "locationZipcode": "15583",
+  "lat": 37.36437,
+  "lon": -79.285443,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.087Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.087Z"
+}

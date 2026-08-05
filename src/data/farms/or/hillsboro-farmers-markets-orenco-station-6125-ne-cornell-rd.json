@@ -1,0 +1,20 @@
+{
+  "slug": "hillsboro-farmers-markets-orenco-station-6125-ne-cornell-rd",
+  "name": "Hillsboro Farmers' Markets - Orenco Station",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6125 NE Cornell Rd, OR",
+  "locationCity": "6125 NE Cornell Rd",
+  "locationState": "OR",
+  "locationZipcode": "97124",
+  "lat": 45.534675,
+  "lon": -122.91755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.269Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.269Z",
+  "crops": []
+}

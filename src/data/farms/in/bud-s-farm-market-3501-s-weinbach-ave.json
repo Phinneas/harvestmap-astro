@@ -1,0 +1,20 @@
+{
+  "slug": "bud-s-farm-market-3501-s-weinbach-ave",
+  "name": "Bud's Farm Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3501 S Weinbach Ave, IN",
+  "locationCity": "3501 S Weinbach Ave",
+  "locationState": "IN",
+  "locationZipcode": "47714",
+  "lat": 37.93456999954515,
+  "lon": -87.53229197465456,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.445Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.445Z",
+  "crops": []
+}

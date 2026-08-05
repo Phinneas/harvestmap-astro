@@ -1,0 +1,19 @@
+{
+  "slug": "r-dayz-apiary-525-olaton-rd",
+  "name": "R-Dayz Apiary",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "525 Olaton Rd, KY",
+  "locationCity": "525 Olaton Rd",
+  "locationState": "KY",
+  "locationZipcode": "42361",
+  "lat": 37.5344958887105,
+  "lon": -86.5919619885073,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.660Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.660Z"
+}

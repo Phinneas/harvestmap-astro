@@ -1,0 +1,19 @@
+{
+  "slug": "owosso-farmers-market-7321-n-seymour-rd-owosso",
+  "name": "Owosso Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7321 N Seymour Rd. Owosso, MI",
+  "locationCity": "7321 N Seymour Rd. Owosso",
+  "locationState": "MI",
+  "locationZipcode": "48867",
+  "lat": 43.105517869849805,
+  "lon": -84.14861521166685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

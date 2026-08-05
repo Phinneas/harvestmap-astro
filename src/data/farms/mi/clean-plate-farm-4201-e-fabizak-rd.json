@@ -1,0 +1,19 @@
+{
+  "slug": "clean-plate-farm-4201-e-fabizak-rd",
+  "name": "Clean Plate Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4201 E Fabizak rd, MI",
+  "locationCity": "4201 E Fabizak rd",
+  "locationState": "MI",
+  "locationZipcode": "49621",
+  "lat": 44.9011506,
+  "lon": -85.7706259,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.979Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.979Z"
+}

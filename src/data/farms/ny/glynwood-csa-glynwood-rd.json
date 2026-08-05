@@ -1,0 +1,19 @@
+{
+  "slug": "glynwood-csa-glynwood-rd",
+  "name": "Glynwood CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Glynwood Rd, NY",
+  "locationCity": "Glynwood Rd",
+  "locationState": "NY",
+  "locationZipcode": "10516",
+  "lat": 41.4486476,
+  "lon": -73.8790756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

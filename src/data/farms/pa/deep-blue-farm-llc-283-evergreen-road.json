@@ -1,0 +1,20 @@
+{
+  "slug": "deep-blue-farm-llc-283-evergreen-road",
+  "name": "Deep Blue Farm LLC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "283 Evergreen Road, PA",
+  "locationCity": "283 Evergreen Road",
+  "locationState": "PA",
+  "locationZipcode": "17090",
+  "lat": 40.3633157563662,
+  "lon": -77.1451386566809,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.082Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.082Z",
+  "crops": []
+}

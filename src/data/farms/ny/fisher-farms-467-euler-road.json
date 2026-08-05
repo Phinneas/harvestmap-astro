@@ -1,0 +1,20 @@
+{
+  "slug": "fisher-farms-467-euler-road",
+  "name": "Fisher Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "467 Euler Road, NY",
+  "locationCity": "467 Euler Road",
+  "locationState": "NY",
+  "locationZipcode": "14420",
+  "lat": 43.1465321933602,
+  "lon": -77.8991524585984,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.887Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.887Z",
+  "crops": []
+}

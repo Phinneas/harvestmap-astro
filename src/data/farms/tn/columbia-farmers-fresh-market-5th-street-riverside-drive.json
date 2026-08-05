@@ -1,0 +1,19 @@
+{
+  "slug": "columbia-farmers-fresh-market-5th-street-riverside-drive",
+  "name": "Columbia Farmers Fresh Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5th Street & Riverside Drive, TN",
+  "locationCity": "5th Street & Riverside Drive",
+  "locationState": "TN",
+  "locationZipcode": "38401",
+  "lat": 35.6187845,
+  "lon": -87.03048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.292Z"
+}

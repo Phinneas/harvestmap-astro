@@ -1,0 +1,19 @@
+{
+  "slug": "steph-lo-farm-120-se-80th-ave",
+  "name": "Steph-Lo Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "120 Se 80th Ave, FL",
+  "locationCity": "120 Se 80th Ave",
+  "locationState": "FL",
+  "locationZipcode": "32669",
+  "lat": 29.5676485623397,
+  "lon": -82.6728270828186,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.875Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.875Z"
+}

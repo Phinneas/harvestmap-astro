@@ -1,0 +1,19 @@
+{
+  "slug": "bloomington-winter-farmers-market-1601-s-rogers-st",
+  "name": "Bloomington Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1601 S Rogers St, IN",
+  "locationCity": "1601 S Rogers St",
+  "locationState": "IN",
+  "locationZipcode": "47403",
+  "lat": 39.149906,
+  "lon": -86.539649,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.614Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.614Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "hurst-farm-746-east-street",
+  "name": "Hurst Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "746 East Street, CT",
+  "locationCity": "746 East Street",
+  "locationState": "CT",
+  "locationZipcode": "06232",
+  "lat": 41.7189619837883,
+  "lon": -72.4084779864217,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.000Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.000Z",
+  "crops": []
+}

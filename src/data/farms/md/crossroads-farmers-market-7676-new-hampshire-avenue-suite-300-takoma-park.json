@@ -1,0 +1,19 @@
+{
+  "slug": "crossroads-farmers-market-7676-new-hampshire-avenue-suite-300-takoma-park",
+  "name": "Crossroads Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7676 New Hampshire Avenue Suite 300 Takoma Park, MD",
+  "locationCity": "7676 New Hampshire Avenue Suite 300 Takoma Park",
+  "locationState": "MD",
+  "locationZipcode": "20912",
+  "lat": 38.987824326694316,
+  "lon": -76.9879368514604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.535Z"
+}

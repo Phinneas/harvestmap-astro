@@ -1,0 +1,19 @@
+{
+  "slug": "el-cajon-farmers-market-non-certified-1051-greenfield-drive-el-cajon",
+  "name": "El Cajon Farmers Market   Non-Certified",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1051 Greenfield Drive El cajon, CA",
+  "locationCity": "1051 Greenfield Drive El cajon",
+  "locationState": "CA",
+  "locationZipcode": "92021",
+  "lat": 32.801659,
+  "lon": -116.96048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.362Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.362Z"
+}

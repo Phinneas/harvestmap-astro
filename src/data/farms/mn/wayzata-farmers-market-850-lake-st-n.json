@@ -1,0 +1,19 @@
+{
+  "slug": "wayzata-farmers-market-850-lake-st-n",
+  "name": "Wayzata Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "850 Lake St N, MN",
+  "locationCity": "850 Lake St N",
+  "locationState": "MN",
+  "locationZipcode": "55391",
+  "lat": 44.968528,
+  "lon": -93.506109,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

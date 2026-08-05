@@ -1,0 +1,19 @@
+{
+  "slug": "chappaqua-farmers-market-191-south-greeley-ave-chappaqua",
+  "name": "Chappaqua Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "191 South Greeley Ave Chappaqua, NY",
+  "locationCity": "191 South Greeley Ave Chappaqua",
+  "locationState": "NY",
+  "locationZipcode": "10514",
+  "lat": 41.15511526200649,
+  "lon": -73.7738327946647,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bare-garden-farms-266-eastbrook-rd",
+  "name": "Bare Garden Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "266 Eastbrook Rd., VA",
+  "locationCity": "266 Eastbrook Rd.",
+  "locationState": "VA",
+  "locationZipcode": "24501",
+  "lat": 37.35188372775535,
+  "lon": -79.06122337051724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.244Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.244Z"
+}

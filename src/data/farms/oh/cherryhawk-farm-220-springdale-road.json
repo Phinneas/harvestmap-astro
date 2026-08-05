@@ -1,0 +1,19 @@
+{
+  "slug": "cherryhawk-farm-220-springdale-road",
+  "name": "CherryHawk Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "220 Springdale Road, OH",
+  "locationCity": "220 Springdale Road",
+  "locationState": "OH",
+  "locationZipcode": "43040",
+  "lat": 40.2809984579123,
+  "lon": -83.2712706737894,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.790Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.790Z"
+}

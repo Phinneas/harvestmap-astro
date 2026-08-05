@@ -1,0 +1,19 @@
+{
+  "slug": "olde-school-farmers-market-1259-washington-st-brushton",
+  "name": "Olde School Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1259 Washington St. Brushton, NY",
+  "locationCity": "1259 Washington St. Brushton",
+  "locationState": "NY",
+  "locationZipcode": "12916",
+  "lat": 44.830070985391544,
+  "lon": -74.51429801871912,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cosmic-carrot-farm-12125-blueberry-hill-ln-se",
+  "name": "Cosmic carrot farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12125 Blueberry Hill Ln SE, WA",
+  "locationCity": "12125 Blueberry Hill Ln SE",
+  "locationState": "WA",
+  "locationZipcode": "12125",
+  "lat": 46.90930201062434,
+  "lon": -122.5410749775083,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.403Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.403Z"
+}

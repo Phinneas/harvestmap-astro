@@ -1,0 +1,20 @@
+{
+  "slug": "the-silverbrook-farm-934-main-street",
+  "name": "The Silverbrook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "934 Main Street, MA",
+  "locationCity": "934 Main Street",
+  "locationState": "MA",
+  "locationZipcode": "02743",
+  "lat": 41.725677606522,
+  "lon": -70.8884394592086,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.581Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.581Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "highlands-ranch-farmers-market-highlands-ranch-pkwy-and-dorchester-rd",
+  "name": "Highlands Ranch Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Highlands Ranch Pkwy and Dorchester Rd, CO",
+  "locationCity": "Highlands Ranch Pkwy and Dorchester Rd",
+  "locationState": "CO",
+  "locationZipcode": "80129",
+  "lat": 39.547023,
+  "lon": -104.99968,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.343Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.343Z"
+}

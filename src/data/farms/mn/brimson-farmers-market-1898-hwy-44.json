@@ -1,0 +1,20 @@
+{
+  "slug": "brimson-farmers-market-1898-hwy-44",
+  "name": "Brimson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1898 Hwy 44, MN",
+  "locationCity": "1898 Hwy 44",
+  "locationState": "MN",
+  "locationZipcode": "55602",
+  "lat": 47.2563056,
+  "lon": -91.8445281,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z",
+  "crops": []
+}

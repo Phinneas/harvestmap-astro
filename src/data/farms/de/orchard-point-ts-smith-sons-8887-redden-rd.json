@@ -1,0 +1,19 @@
+{
+  "slug": "orchard-point-ts-smith-sons-8887-redden-rd",
+  "name": "Orchard Point TS Smith Sons",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8887 Redden Rd, DE",
+  "locationCity": "8887 Redden Rd",
+  "locationState": "DE",
+  "locationZipcode": "19933",
+  "lat": 38.75013600976678,
+  "lon": -75.59781997259604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:44.172Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:44.172Z"
+}

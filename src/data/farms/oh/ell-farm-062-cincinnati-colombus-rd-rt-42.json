@@ -1,0 +1,19 @@
+{
+  "slug": "ell-farm-062-cincinnati-colombus-rd-rt-42",
+  "name": "Ell Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "062 Cincinnati-Colombus Rd (Rt 42), OH",
+  "locationCity": "062 Cincinnati-Colombus Rd (Rt 42)",
+  "locationState": "OH",
+  "locationZipcode": "45241",
+  "lat": 39.3099119507591,
+  "lon": -84.3813225266059,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.876Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.876Z"
+}

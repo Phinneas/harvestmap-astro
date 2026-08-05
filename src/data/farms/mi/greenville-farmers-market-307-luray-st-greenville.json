@@ -1,0 +1,19 @@
+{
+  "slug": "greenville-farmers-market-307-luray-st-greenville",
+  "name": "Greenville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "307 Luray St. Greenville, MI",
+  "locationCity": "307 Luray St. Greenville",
+  "locationState": "MI",
+  "locationZipcode": "48838",
+  "lat": 43.17832557998443,
+  "lon": -85.26652248747538,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

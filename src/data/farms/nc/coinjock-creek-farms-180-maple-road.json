@@ -1,0 +1,20 @@
+{
+  "slug": "coinjock-creek-farms-180-maple-road",
+  "name": "Coinjock Creek Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "180 Maple Road, NC",
+  "locationCity": "180 Maple Road",
+  "locationState": "NC",
+  "locationZipcode": "27956",
+  "lat": 36.4122632455138,
+  "lon": -76.0100318286615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.830Z",
+  "crops": []
+}

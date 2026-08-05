@@ -1,0 +1,19 @@
+{
+  "slug": "stonyledge-farm-107-kuehn-road",
+  "name": "Stonyledge Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "107 Kuehn Road, RI",
+  "locationCity": "107 Kuehn Road",
+  "locationState": "RI",
+  "locationZipcode": "02804",
+  "lat": 41.476892033348264,
+  "lon": -71.79441112642847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:33.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:33.972Z"
+}

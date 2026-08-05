@@ -1,0 +1,20 @@
+{
+  "slug": "hilda-s-blueberries-u-pick-regan-road",
+  "name": "Hilda's Blueberries U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Regan Road, FL",
+  "locationCity": "Regan Road",
+  "locationState": "FL",
+  "locationZipcode": "32340",
+  "lat": 30.504661007088,
+  "lon": -83.3493399915049,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.880Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.880Z",
+  "crops": []
+}

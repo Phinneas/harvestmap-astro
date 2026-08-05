@@ -1,0 +1,19 @@
+{
+  "slug": "tuesday-market-in-library-park-200-park-street",
+  "name": "Tuesday Market in Library Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Park Street, CA",
+  "locationCity": "200 Park Street",
+  "locationState": "CA",
+  "locationZipcode": "95453",
+  "lat": 39.043583,
+  "lon": -122.91387,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.358Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.358Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "long-shadow-farm-walnut-boulevard",
+  "name": "Long Shadow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Walnut Boulevard, CA",
+  "locationCity": "Walnut Boulevard",
+  "locationState": "CA",
+  "locationZipcode": "94549",
+  "lat": 37.8747473142345,
+  "lon": -121.698377377202,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.810Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.810Z"
+}

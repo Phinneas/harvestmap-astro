@@ -1,0 +1,19 @@
+{
+  "slug": "williamson-farmers-market-54-3rd-ave-w",
+  "name": "Williamson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "54 3rd. Ave. W., WV",
+  "locationCity": "54 3rd. Ave. W.",
+  "locationState": "WV",
+  "locationZipcode": "25661",
+  "lat": 37.674029,
+  "lon": -82.277984,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:36.628Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:36.628Z"
+}

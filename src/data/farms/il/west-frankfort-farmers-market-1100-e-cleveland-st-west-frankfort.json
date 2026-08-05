@@ -1,0 +1,19 @@
+{
+  "slug": "west-frankfort-farmers-market-1100-e-cleveland-st-west-frankfort",
+  "name": "West Frankfort Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1100 E. Cleveland St. West Frankfort, IL",
+  "locationCity": "1100 E. Cleveland St. West Frankfort",
+  "locationState": "IL",
+  "locationZipcode": "62896",
+  "lat": 37.89196268483821,
+  "lon": -88.9143474289239,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

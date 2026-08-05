@@ -1,0 +1,19 @@
+{
+  "slug": "kith-kin-csa-wiregrass-area",
+  "name": "Kith & Kin CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Wiregrass Area, AL",
+  "locationCity": "Wiregrass Area",
+  "locationState": "AL",
+  "locationZipcode": "36305",
+  "lat": 31.1619249972735,
+  "lon": -85.38208852524757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:46.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:46.347Z"
+}

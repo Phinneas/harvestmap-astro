@@ -1,0 +1,19 @@
+{
+  "slug": "third-street-south-farmers-market-255-13th-ave-so-naples",
+  "name": "Third Street South Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "255 13th Ave So Naples, FL",
+  "locationCity": "255 13th Ave So Naples",
+  "locationState": "FL",
+  "locationZipcode": "34102",
+  "lat": 26.130918582984158,
+  "lon": -81.80241809715159,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

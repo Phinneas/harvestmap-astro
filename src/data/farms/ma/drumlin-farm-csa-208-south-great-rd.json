@@ -1,0 +1,19 @@
+{
+  "slug": "drumlin-farm-csa-208-south-great-rd",
+  "name": "Drumlin Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "208 South Great Rd, MA",
+  "locationCity": "208 South Great Rd",
+  "locationState": "MA",
+  "locationZipcode": "01773",
+  "lat": 42.4079998,
+  "lon": -71.3295735,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.272Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.272Z"
+}

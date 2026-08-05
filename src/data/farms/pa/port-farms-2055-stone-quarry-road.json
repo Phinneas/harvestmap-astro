@@ -1,0 +1,19 @@
+{
+  "slug": "port-farms-2055-stone-quarry-road",
+  "name": "Port Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2055 Stone Quarry Road, PA",
+  "locationCity": "2055 Stone Quarry Road",
+  "locationState": "PA",
+  "locationZipcode": "16441",
+  "lat": 41.8963300119603,
+  "lon": -79.9672190099802,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.062Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.062Z"
+}

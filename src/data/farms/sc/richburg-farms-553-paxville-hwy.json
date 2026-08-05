@@ -1,0 +1,19 @@
+{
+  "slug": "richburg-farms-553-paxville-hwy",
+  "name": "Richburg Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "553 Paxville Hwy., SC",
+  "locationCity": "553 Paxville Hwy.",
+  "locationState": "SC",
+  "locationZipcode": "29102",
+  "lat": 33.6970944429541,
+  "lon": -80.2240462040561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.806Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.806Z"
+}

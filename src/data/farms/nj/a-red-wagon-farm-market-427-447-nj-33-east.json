@@ -1,0 +1,20 @@
+{
+  "slug": "a-red-wagon-farm-market-427-447-nj-33-east",
+  "name": "A Red Wagon Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "427-447 Nj-33 East, NJ",
+  "locationCity": "427-447 Nj-33 East",
+  "locationState": "NJ",
+  "locationZipcode": "07726",
+  "lat": 40.25745785527579,
+  "lon": -74.39208069961039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:24.779Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:24.779Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "briar-patch-honeybees-215-beyl-rd",
+  "name": "Briar Patch Honeybees",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "215 Beyl Rd, IN",
+  "locationCity": "215 Beyl Rd",
+  "locationState": "IN",
+  "locationZipcode": "47106",
+  "lat": 38.484295117275,
+  "lon": -85.8086903649169,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.299Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.299Z"
+}

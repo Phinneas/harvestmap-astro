@@ -1,0 +1,20 @@
+{
+  "slug": "red-egg-farm-9123-spring-arbor-rd",
+  "name": "Red Egg Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9123 Spring Arbor Rd, MI",
+  "locationCity": "9123 Spring Arbor Rd",
+  "locationState": "MI",
+  "locationZipcode": "49283",
+  "lat": 42.2016710099772,
+  "lon": -84.561923017987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.603Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.603Z",
+  "crops": []
+}

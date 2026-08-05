@@ -1,0 +1,19 @@
+{
+  "slug": "akron-farmers-market-hwy-12-and-big-sioux-river-rd-akron",
+  "name": "Akron Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hwy. 12 and Big Sioux River Rd Akron, IA",
+  "locationCity": "Hwy. 12 and Big Sioux River Rd Akron",
+  "locationState": "IA",
+  "locationZipcode": "51001",
+  "lat": 42.82370998189958,
+  "lon": -96.56371997509325,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

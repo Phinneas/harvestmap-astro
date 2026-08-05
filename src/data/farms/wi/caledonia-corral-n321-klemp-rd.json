@@ -1,0 +1,19 @@
+{
+  "slug": "caledonia-corral-n321-klemp-rd",
+  "name": "Caledonia Corral",
+  "source": "usda",
+  "directory": "csa",
+  "location": "N321 Klemp Rd, WI",
+  "locationCity": "N321 Klemp Rd",
+  "locationState": "WI",
+  "locationZipcode": "54940",
+  "lat": 44.25016942166266,
+  "lon": -88.78279087542685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.021Z"
+}

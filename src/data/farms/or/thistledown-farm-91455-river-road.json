@@ -1,0 +1,20 @@
+{
+  "slug": "thistledown-farm-91455-river-road",
+  "name": "Thistledown Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "91455 River Road, OR",
+  "locationCity": "91455 River Road",
+  "locationState": "OR",
+  "locationZipcode": "91455",
+  "lat": 44.1440619873554,
+  "lon": -123.149469971261,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.947Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.947Z",
+  "crops": []
+}

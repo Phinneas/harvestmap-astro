@@ -1,0 +1,19 @@
+{
+  "slug": "dodgeville-farmers-market-327-north-iowa-street-dodgeville",
+  "name": "Dodgeville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "327 North Iowa Street Dodgeville, WI",
+  "locationCity": "327 North Iowa Street Dodgeville",
+  "locationState": "WI",
+  "locationZipcode": "53533",
+  "lat": 42.9620239892296,
+  "lon": -90.13025644521034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.857Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "canal-place-farmers-market-13-canal-place",
+  "name": "Canal Place Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13 Canal Place, MD",
+  "locationCity": "13 Canal Place",
+  "locationState": "MD",
+  "locationZipcode": "21502",
+  "lat": 39.64788658753913,
+  "lon": -78.76200160856368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.535Z"
+}

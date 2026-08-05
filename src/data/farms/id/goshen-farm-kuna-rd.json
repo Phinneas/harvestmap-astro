@@ -1,0 +1,19 @@
+{
+  "slug": "goshen-farm-kuna-rd",
+  "name": "Goshen Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Kuna Rd, ID",
+  "locationCity": "Kuna Rd",
+  "locationState": "ID",
+  "locationZipcode": "83634",
+  "lat": 43.4883093883868,
+  "lon": -116.314480042941,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.572Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.572Z"
+}

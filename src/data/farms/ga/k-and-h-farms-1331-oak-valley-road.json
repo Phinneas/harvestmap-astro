@@ -1,0 +1,19 @@
+{
+  "slug": "k-and-h-farms-1331-oak-valley-road",
+  "name": "K and H Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1331 Oak Valley Road, GA",
+  "locationCity": "1331 Oak Valley Road",
+  "locationState": "GA",
+  "locationZipcode": "30577",
+  "lat": 34.5756686,
+  "lon": -83.2752062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.443Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.443Z"
+}

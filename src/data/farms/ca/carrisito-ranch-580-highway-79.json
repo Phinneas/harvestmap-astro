@@ -1,0 +1,19 @@
+{
+  "slug": "carrisito-ranch-580-highway-79",
+  "name": "Carrisito Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "580 Highway 79, CA",
+  "locationCity": "580 Highway 79",
+  "locationState": "CA",
+  "locationZipcode": "92070",
+  "lat": 33.1824376638819,
+  "lon": -116.69580490511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.729Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.729Z"
+}

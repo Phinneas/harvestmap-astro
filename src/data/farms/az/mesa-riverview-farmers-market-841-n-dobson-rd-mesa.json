@@ -1,0 +1,19 @@
+{
+  "slug": "mesa-riverview-farmers-market-841-n-dobson-rd-mesa",
+  "name": "Mesa Riverview Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "841 N Dobson Rd Mesa, AZ",
+  "locationCity": "841 N Dobson Rd Mesa",
+  "locationState": "AZ",
+  "locationZipcode": "85201",
+  "lat": 33.43154885516933,
+  "lon": -111.87406281652804,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

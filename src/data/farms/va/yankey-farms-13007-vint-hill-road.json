@@ -1,0 +1,19 @@
+{
+  "slug": "yankey-farms-13007-vint-hill-road",
+  "name": "Yankey Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "13007 Vint Hill Road, VA",
+  "locationCity": "13007 Vint Hill Road",
+  "locationState": "VA",
+  "locationZipcode": "13007",
+  "lat": 38.73213314857898,
+  "lon": -77.58176591134712,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.407Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.407Z"
+}

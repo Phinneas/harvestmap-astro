@@ -1,0 +1,19 @@
+{
+  "slug": "petaluma-farmers-market-petaluma-blvd-s-and-d-st",
+  "name": "Petaluma Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Petaluma Blvd S and D St, CA",
+  "locationCity": "Petaluma Blvd S and D St",
+  "locationState": "CA",
+  "locationZipcode": "94952",
+  "lat": 38.231796,
+  "lon": -122.63679,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.363Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.363Z"
+}

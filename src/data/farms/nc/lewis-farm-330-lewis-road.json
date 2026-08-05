@@ -1,0 +1,19 @@
+{
+  "slug": "lewis-farm-330-lewis-road",
+  "name": "Lewis Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "330 Lewis Road, NC",
+  "locationCity": "330 Lewis Road",
+  "locationState": "NC",
+  "locationZipcode": "28054",
+  "lat": 35.29684273772726,
+  "lon": -81.13375806302473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.908Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.908Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "settlement-farm-153-wallace-hill-road",
+  "name": "Settlement Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "153 Wallace Hill Road, MA",
+  "locationCity": "153 Wallace Hill Road",
+  "locationState": "MA",
+  "locationZipcode": "01469",
+  "lat": 42.66973077443882,
+  "lon": -71.66939654930933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.908Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.908Z"
+}

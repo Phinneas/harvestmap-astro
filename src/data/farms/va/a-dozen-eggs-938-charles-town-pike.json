@@ -1,0 +1,19 @@
+{
+  "slug": "a-dozen-eggs-938-charles-town-pike",
+  "name": "A Dozen Eggs",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "938 Charles Town Pike, VA",
+  "locationCity": "938 Charles Town Pike",
+  "locationState": "VA",
+  "locationZipcode": "20132",
+  "lat": 39.2275234331076,
+  "lon": -77.7503375049757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.264Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.264Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "linbo-blueberry-farm-1201-south-fruitland",
+  "name": "Linbo Blueberry Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1201 South Fruitland, WA",
+  "locationCity": "1201 South Fruitland",
+  "locationState": "WA",
+  "locationZipcode": "98371",
+  "lat": 47.180655,
+  "lon": -122.32643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.459Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.459Z"
+}

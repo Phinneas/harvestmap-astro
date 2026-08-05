@@ -1,0 +1,19 @@
+{
+  "slug": "rome-green-market-601-broad-street-rome",
+  "name": "Rome Green Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "601 Broad Street Rome, GA",
+  "locationCity": "601 Broad Street Rome",
+  "locationState": "GA",
+  "locationZipcode": "30161",
+  "lat": 34.25634979289848,
+  "lon": -85.16893911461307,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

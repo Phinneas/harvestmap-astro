@@ -1,0 +1,19 @@
+{
+  "slug": "hudson-valley-regional-farmers-market-15-mt-ebo-road-south-brewster",
+  "name": "Hudson Valley Regional Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 Mt. Ebo Road South Brewster, NY",
+  "locationCity": "15 Mt. Ebo Road South Brewster",
+  "locationState": "NY",
+  "locationZipcode": "10509",
+  "lat": 41.435190844160836,
+  "lon": -73.57246914248311,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "culbertson-farms-200-gillis-road",
+  "name": "Culbertson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 Gillis Road, TN",
+  "locationCity": "200 Gillis Road",
+  "locationState": "TN",
+  "locationZipcode": "38372",
+  "lat": 35.1329220063672,
+  "lon": -88.0150730013918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.260Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.260Z"
+}

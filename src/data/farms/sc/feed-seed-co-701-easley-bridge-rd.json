@@ -1,0 +1,19 @@
+{
+  "slug": "feed-seed-co-701-easley-bridge-rd",
+  "name": "Feed & Seed Co.",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "701 Easley Bridge Rd., SC",
+  "locationCity": "701 Easley Bridge Rd.",
+  "locationState": "SC",
+  "locationZipcode": "29611",
+  "lat": 34.835591006481835,
+  "lon": -82.42910903060302,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:57.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:57.023Z"
+}

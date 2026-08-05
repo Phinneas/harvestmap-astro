@@ -1,0 +1,20 @@
+{
+  "slug": "fruit-of-the-coop-8700-e-sunset-cir",
+  "name": "Fruit of the Coop",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8700 E Sunset Cir, SD",
+  "locationCity": "8700 E Sunset Cir",
+  "locationState": "SD",
+  "locationZipcode": "57005",
+  "lat": 43.57705699912137,
+  "lon": -96.61842698073873,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:07.742Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:07.742Z",
+  "crops": []
+}

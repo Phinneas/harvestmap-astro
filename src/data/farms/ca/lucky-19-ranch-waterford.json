@@ -1,0 +1,19 @@
+{
+  "slug": "lucky-19-ranch-waterford",
+  "name": "Lucky #19 Ranch",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Waterford, CA",
+  "locationCity": "Waterford",
+  "locationState": "CA",
+  "locationZipcode": "95386",
+  "lat": 37.640545,
+  "lon": -120.7615808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.047Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.047Z"
+}

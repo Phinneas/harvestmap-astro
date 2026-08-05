@@ -1,0 +1,20 @@
+{
+  "slug": "endless-view-farms-2513-rockfish-rd",
+  "name": "Endless View Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2513 Rockfish Rd, VA",
+  "locationCity": "2513 Rockfish Rd",
+  "locationState": "VA",
+  "locationZipcode": "24431",
+  "lat": 38.168791391414,
+  "lon": -78.8662318904831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.228Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.228Z",
+  "crops": []
+}

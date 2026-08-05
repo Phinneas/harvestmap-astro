@@ -1,0 +1,19 @@
+{
+  "slug": "mentor-farmers-market-202-garfield-ave",
+  "name": "Mentor Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "202 Garfield Ave, MN",
+  "locationCity": "202 Garfield Ave",
+  "locationState": "MN",
+  "locationZipcode": "56736",
+  "lat": 47.6982632,
+  "lon": -96.141797,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

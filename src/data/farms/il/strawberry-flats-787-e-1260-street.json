@@ -1,0 +1,19 @@
+{
+  "slug": "strawberry-flats-787-e-1260-street",
+  "name": "Strawberry Flats",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "787 E. 1260 Street, IL",
+  "locationCity": "787 E. 1260 Street",
+  "locationState": "IL",
+  "locationZipcode": "61254",
+  "lat": 41.4972397874883,
+  "lon": -90.1906815455891,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.883Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.883Z"
+}

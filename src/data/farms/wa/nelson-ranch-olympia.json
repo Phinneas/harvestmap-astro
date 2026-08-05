@@ -1,0 +1,19 @@
+{
+  "slug": "nelson-ranch-olympia",
+  "name": "Nelson Ranch",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Olympia, WA",
+  "locationCity": "Olympia",
+  "locationState": "WA",
+  "locationZipcode": "98501",
+  "lat": 46.921401,
+  "lon": -122.84374,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.457Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.457Z"
+}

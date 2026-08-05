@@ -1,0 +1,19 @@
+{
+  "slug": "dexter-farmers-market-3233-alpine",
+  "name": "Dexter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3233 Alpine, MI",
+  "locationCity": "3233 Alpine",
+  "locationState": "MI",
+  "locationZipcode": "48130",
+  "lat": 42.339503,
+  "lon": -83.889459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.180Z"
+}

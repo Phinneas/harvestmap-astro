@@ -1,0 +1,19 @@
+{
+  "slug": "mundy-farms-2-scott-lane",
+  "name": "Mundy Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2 Scott Lane, ID",
+  "locationCity": "2 Scott Lane",
+  "locationState": "ID",
+  "locationZipcode": "83467",
+  "lat": 45.130416,
+  "lon": -113.79836,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:39.419Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:39.419Z"
+}

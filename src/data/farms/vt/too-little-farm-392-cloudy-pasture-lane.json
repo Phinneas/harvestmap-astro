@@ -1,0 +1,19 @@
+{
+  "slug": "too-little-farm-392-cloudy-pasture-lane",
+  "name": "Too Little Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "392 Cloudy Pasture Lane, VT",
+  "locationCity": "392 Cloudy Pasture Lane",
+  "locationState": "VT",
+  "locationZipcode": "05821",
+  "lat": 44.2969750167322,
+  "lon": -72.1532930397211,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.013Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.013Z"
+}

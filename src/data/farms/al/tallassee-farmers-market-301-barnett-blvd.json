@@ -1,0 +1,19 @@
+{
+  "slug": "tallassee-farmers-market-301-barnett-blvd",
+  "name": "Tallassee Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 Barnett Blvd., AL",
+  "locationCity": "301 Barnett Blvd.",
+  "locationState": "AL",
+  "locationZipcode": "36078",
+  "lat": 32.536284154840395,
+  "lon": -85.89568546078156,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

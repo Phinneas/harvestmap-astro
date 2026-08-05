@@ -1,0 +1,20 @@
+{
+  "slug": "melrose-farm-5586-72nd-avenue-se",
+  "name": "MelRose Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5586 72nd Avenue SE, OR",
+  "locationCity": "5586 72nd Avenue SE",
+  "locationState": "OR",
+  "locationZipcode": "97317",
+  "lat": 44.87329699325994,
+  "lon": -122.9127279775742,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.067Z",
+  "crops": []
+}

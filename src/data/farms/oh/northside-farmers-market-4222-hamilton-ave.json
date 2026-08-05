@@ -1,0 +1,19 @@
+{
+  "slug": "northside-farmers-market-4222-hamilton-ave",
+  "name": "Northside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4222 Hamilton Ave, OH",
+  "locationCity": "4222 Hamilton Ave",
+  "locationState": "OH",
+  "locationZipcode": "45223",
+  "lat": 39.163947,
+  "lon": -84.539984,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.870Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.870Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "simpaug-farms-38c-grove-street",
+  "name": "Simpaug Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "38C Grove Street, CT",
+  "locationCity": "38C Grove Street",
+  "locationState": "CT",
+  "locationZipcode": "06877",
+  "lat": 41.2872934,
+  "lon": -73.4937223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.412Z"
+}

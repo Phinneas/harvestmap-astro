@@ -1,0 +1,19 @@
+{
+  "slug": "milestone-farmers-market-2500-14th-st-ne",
+  "name": "Milestone Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2500 14th St NE, MN",
+  "locationCity": "2500 14th St NE",
+  "locationState": "MN",
+  "locationZipcode": "55021",
+  "lat": 44.317098,
+  "lon": -93.248482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

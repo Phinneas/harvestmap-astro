@@ -1,0 +1,19 @@
+{
+  "slug": "full-cellar-farm-28600-se-orient-dr",
+  "name": "Full Cellar Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "28600 SE Orient Dr, OR",
+  "locationCity": "28600 SE Orient Dr",
+  "locationState": "OR",
+  "locationZipcode": "28600",
+  "lat": 45.467979,
+  "lon": -122.366143,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.950Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.950Z"
+}

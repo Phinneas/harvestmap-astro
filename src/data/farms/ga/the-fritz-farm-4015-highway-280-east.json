@@ -1,0 +1,19 @@
+{
+  "slug": "the-fritz-farm-4015-highway-280-east",
+  "name": "The Fritz Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4015 Highway 280 East, GA",
+  "locationCity": "4015 Highway 280 East",
+  "locationState": "GA",
+  "locationZipcode": "31015",
+  "lat": 31.9582400107562,
+  "lon": -83.6568829993051,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.344Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.344Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "springs-farm-farmers-market-1002-springfield-parkway-fort-mill",
+  "name": "Springs Farm Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1002 Springfield Parkway Fort Mill, SC",
+  "locationCity": "1002 Springfield Parkway Fort Mill",
+  "locationState": "SC",
+  "locationZipcode": "29715",
+  "lat": 35.04187088844536,
+  "lon": -80.9164387965644,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

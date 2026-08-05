@@ -1,0 +1,19 @@
+{
+  "slug": "round-top-farmers-market-102-main-street-round-top",
+  "name": "Round Top Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 Main Street Round Top, TX",
+  "locationCity": "102 Main Street Round Top",
+  "locationState": "TX",
+  "locationZipcode": "78954",
+  "lat": 30.065604265782866,
+  "lon": -96.69563132134083,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

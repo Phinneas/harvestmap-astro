@@ -1,0 +1,19 @@
+{
+  "slug": "many-rivers-farm-502-john-jones-rd",
+  "name": "Many Rivers Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "502 John Jones Rd, NC",
+  "locationCity": "502 John Jones Rd",
+  "locationState": "NC",
+  "locationZipcode": "27503",
+  "lat": 36.1436291160731,
+  "lon": -78.8962078368739,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.836Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.836Z"
+}

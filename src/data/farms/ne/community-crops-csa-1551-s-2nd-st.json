@@ -1,0 +1,19 @@
+{
+  "slug": "community-crops-csa-1551-s-2nd-st",
+  "name": "Community Crops CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1551 S 2nd St, NE",
+  "locationCity": "1551 S 2nd St",
+  "locationState": "NE",
+  "locationZipcode": "68502",
+  "lat": 40.7976476,
+  "lon": -96.7198404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:48.500Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:48.500Z"
+}

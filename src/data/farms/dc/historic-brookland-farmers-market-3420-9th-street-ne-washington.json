@@ -1,0 +1,19 @@
+{
+  "slug": "historic-brookland-farmers-market-3420-9th-street-ne-washington",
+  "name": "Historic Brookland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3420 9th Street NE Washington, DC",
+  "locationCity": "3420 9th Street NE Washington",
+  "locationState": "DC",
+  "locationZipcode": "20017",
+  "lat": 38.931669631025215,
+  "lon": -76.99364000937737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:00.227Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:00.227Z"
+}

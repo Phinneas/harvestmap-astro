@@ -1,0 +1,19 @@
+{
+  "slug": "gilbert-farmers-market-222-n-ash-st",
+  "name": "Gilbert Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "222 N Ash St, AZ",
+  "locationCity": "222 N Ash St",
+  "locationState": "AZ",
+  "locationZipcode": "85234",
+  "lat": 33.354527,
+  "lon": -111.79094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.018Z"
+}

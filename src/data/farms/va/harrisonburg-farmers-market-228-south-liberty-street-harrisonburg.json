@@ -1,0 +1,19 @@
+{
+  "slug": "harrisonburg-farmers-market-228-south-liberty-street-harrisonburg",
+  "name": "Harrisonburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "228 South Liberty Street Harrisonburg, VA",
+  "locationCity": "228 South Liberty Street Harrisonburg",
+  "locationState": "VA",
+  "locationZipcode": "22801",
+  "lat": 38.44562946976078,
+  "lon": -78.87163997273358,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

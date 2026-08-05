@@ -1,0 +1,19 @@
+{
+  "slug": "reeves-farms-1220-w-genesee-road",
+  "name": "Reeves Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1220 W. Genesee Road, NY",
+  "locationCity": "1220 W. Genesee Road",
+  "locationState": "NY",
+  "locationZipcode": "13027",
+  "lat": 43.165342,
+  "lon": -76.415148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.747Z"
+}

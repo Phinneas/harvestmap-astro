@@ -1,0 +1,19 @@
+{
+  "slug": "mount-vernon-farmers-market-311-1st-street-w-mount-vernon",
+  "name": "Mount Vernon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "311 1st Street W Mount Vernon, IA",
+  "locationCity": "311 1st Street W Mount Vernon",
+  "locationState": "IA",
+  "locationZipcode": "52314",
+  "lat": 41.92347218367181,
+  "lon": -91.41921659169161,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

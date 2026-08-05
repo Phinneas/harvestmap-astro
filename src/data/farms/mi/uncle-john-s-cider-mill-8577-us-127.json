@@ -1,0 +1,19 @@
+{
+  "slug": "uncle-john-s-cider-mill-8577-us-127",
+  "name": "Uncle John's Cider Mill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8577 US-127, MI",
+  "locationCity": "8577 US-127",
+  "locationState": "MI",
+  "locationZipcode": "48879",
+  "lat": 43.1122646694766,
+  "lon": -84.5630544653788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.615Z"
+}

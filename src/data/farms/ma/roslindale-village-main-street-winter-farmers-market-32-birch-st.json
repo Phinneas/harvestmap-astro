@@ -1,0 +1,19 @@
+{
+  "slug": "roslindale-village-main-street-winter-farmers-market-32-birch-st",
+  "name": "Roslindale Village Main Street Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "32 Birch St, MA",
+  "locationCity": "32 Birch St",
+  "locationState": "MA",
+  "locationZipcode": "02131",
+  "lat": 42.286072,
+  "lon": -71.130709,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.749Z"
+}

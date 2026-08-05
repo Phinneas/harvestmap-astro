@@ -1,0 +1,19 @@
+{
+  "slug": "helen-s-flower-farm-314-east-main-street",
+  "name": "Helen's Flower Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "314 East Main Street, NY",
+  "locationCity": "314 East Main Street",
+  "locationState": "NY",
+  "locationZipcode": "11901",
+  "lat": 40.9183429998061,
+  "lon": -72.6575328003626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.907Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.907Z"
+}

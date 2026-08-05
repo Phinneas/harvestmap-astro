@@ -1,0 +1,19 @@
+{
+  "slug": "the-groves-marketplace-11939-madera-run-pkwy",
+  "name": "The Groves Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11939 Madera Run Pkwy, TX",
+  "locationCity": "11939 Madera Run Pkwy",
+  "locationState": "TX",
+  "locationZipcode": "11939",
+  "lat": 29.957574,
+  "lon": -95.188057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.044Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.044Z"
+}

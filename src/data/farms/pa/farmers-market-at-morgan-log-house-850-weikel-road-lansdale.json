@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-morgan-log-house-850-weikel-road-lansdale",
+  "name": "Farmers Market at Morgan Log House",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "850 Weikel Road Lansdale, PA",
+  "locationCity": "850 Weikel Road Lansdale",
+  "locationState": "PA",
+  "locationZipcode": "19446",
+  "lat": 40.24420796164659,
+  "lon": -75.31264770970664,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

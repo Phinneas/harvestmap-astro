@@ -1,0 +1,19 @@
+{
+  "slug": "euro-food-hub-llc-74-maple-st",
+  "name": "Euro Food Hub, LLC",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "74 Maple St, MA",
+  "locationCity": "74 Maple St",
+  "locationState": "MA",
+  "locationZipcode": "02180",
+  "lat": 42.47871394850253,
+  "lon": -71.10900605614717,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.887Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.887Z"
+}

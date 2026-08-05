@@ -1,0 +1,19 @@
+{
+  "slug": "makawao-marketplace-3654-baldwin-ave-makawao",
+  "name": "Makawao Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3654 Baldwin Ave Makawao, HI",
+  "locationCity": "3654 Baldwin Ave Makawao",
+  "locationState": "HI",
+  "locationZipcode": "96768",
+  "lat": 20.855321714539134,
+  "lon": -156.31144255356344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:16.500Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:16.500Z"
+}

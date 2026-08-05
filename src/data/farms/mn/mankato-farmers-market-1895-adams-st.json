@@ -1,0 +1,19 @@
+{
+  "slug": "mankato-farmers-market-1895-adams-st",
+  "name": "Mankato Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1895 Adams St, MN",
+  "locationCity": "1895 Adams St",
+  "locationState": "MN",
+  "locationZipcode": "56001",
+  "lat": 44.1693551,
+  "lon": -93.9499872,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

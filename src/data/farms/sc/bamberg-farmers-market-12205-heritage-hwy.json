@@ -1,0 +1,19 @@
+{
+  "slug": "bamberg-farmers-market-12205-heritage-hwy",
+  "name": "Bamberg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12205 Heritage Hwy, SC",
+  "locationCity": "12205 Heritage Hwy",
+  "locationState": "SC",
+  "locationZipcode": "12205",
+  "lat": 33.300136,
+  "lon": -81.031222,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.075Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.075Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "summit-park-district-farmers-market-5700-south-archer-road-summit",
+  "name": "Summit Park District Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5700 South Archer Road Summit, IL",
+  "locationCity": "5700 South Archer Road Summit",
+  "locationState": "IL",
+  "locationZipcode": "60501",
+  "lat": 41.78795127157373,
+  "lon": -87.81039197703797,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

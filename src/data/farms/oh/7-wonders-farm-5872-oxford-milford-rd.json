@@ -1,0 +1,19 @@
+{
+  "slug": "7-wonders-farm-5872-oxford-milford-rd",
+  "name": "7 Wonders Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5872 Oxford Milford Rd, OH",
+  "locationCity": "5872 Oxford Milford Rd",
+  "locationState": "OH",
+  "locationZipcode": "45064",
+  "lat": 39.53455155693672,
+  "lon": -84.70125044914953,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.477Z"
+}

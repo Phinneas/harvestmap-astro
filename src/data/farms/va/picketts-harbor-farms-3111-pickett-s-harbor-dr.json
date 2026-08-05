@@ -1,0 +1,20 @@
+{
+  "slug": "picketts-harbor-farms-3111-pickett-s-harbor-dr",
+  "name": "Picketts Harbor Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3111 Pickett's Harbor Dr., VA",
+  "locationCity": "3111 Pickett's Harbor Dr.",
+  "locationState": "VA",
+  "locationZipcode": "23310",
+  "lat": 37.19266101121561,
+  "lon": -75.98983496240798,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.383Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.383Z",
+  "crops": []
+}

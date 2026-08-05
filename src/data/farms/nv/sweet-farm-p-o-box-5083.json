@@ -2,20 +2,19 @@
   "slug": "sweet-farm-p-o-box-5083",
   "name": "Sweet Farm",
   "source": "usda",
-  "directory": "agritourism",
-  "location": "P.O. Box 5083, NV",
-  "locationCity": "P.O. Box 5083",
+  "directory": "onfarmmarket",
+  "location": "P.o. Box 5083, NV",
+  "locationCity": "P.o. Box 5083",
   "locationState": "NV",
-  "locationZipcode": "89406",
-  "lat": 39.4717000000001,
-  "lon": -118.77845,
+  "locationZipcode": "89407",
+  "lat": 39.4737008,
+  "lon": -118.7841189,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:32:47.464Z"
+      "lastSeen": "2026-08-05T18:45:30.605Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:32:47.464Z",
-  "website": "https://www.sweetberryfarmri.com/",
+  "usdaLastUpdated": "2026-08-05T18:45:30.605Z",
   "tagline": "Sweet Berry Farm"
 }

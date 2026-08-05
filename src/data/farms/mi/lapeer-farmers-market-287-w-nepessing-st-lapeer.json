@@ -1,0 +1,19 @@
+{
+  "slug": "lapeer-farmers-market-287-w-nepessing-st-lapeer",
+  "name": "Lapeer Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "287 W. Nepessing St. Lapeer, MI",
+  "locationCity": "287 W. Nepessing St. Lapeer",
+  "locationState": "MI",
+  "locationZipcode": "48446",
+  "lat": 43.05430210600864,
+  "lon": -83.31146594559029,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

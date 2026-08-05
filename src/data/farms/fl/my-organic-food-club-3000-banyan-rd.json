@@ -1,0 +1,19 @@
+{
+  "slug": "my-organic-food-club-3000-banyan-rd",
+  "name": "My Organic Food Club",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3000 BANYAN RD, FL",
+  "locationCity": "3000 BANYAN RD",
+  "locationState": "FL",
+  "locationZipcode": "33432",
+  "lat": 26.3217753,
+  "lon": -80.07665,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.809Z"
+}

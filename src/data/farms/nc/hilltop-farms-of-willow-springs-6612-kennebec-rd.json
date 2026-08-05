@@ -1,0 +1,19 @@
+{
+  "slug": "hilltop-farms-of-willow-springs-6612-kennebec-rd",
+  "name": "Hilltop Farms of Willow Springs",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6612 Kennebec Rd, NC",
+  "locationCity": "6612 Kennebec Rd",
+  "locationState": "NC",
+  "locationZipcode": "27592",
+  "lat": 35.6030233,
+  "lon": -78.7203185,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.876Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.876Z"
+}

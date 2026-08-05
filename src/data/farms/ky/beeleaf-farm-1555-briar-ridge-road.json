@@ -1,0 +1,19 @@
+{
+  "slug": "beeleaf-farm-1555-briar-ridge-road",
+  "name": "BeeLeaf Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1555 Briar Ridge Road, KY",
+  "locationCity": "1555 Briar Ridge Road",
+  "locationState": "KY",
+  "locationZipcode": "40046",
+  "lat": 37.9818969094794,
+  "lon": -85.1379466280846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.620Z"
+}

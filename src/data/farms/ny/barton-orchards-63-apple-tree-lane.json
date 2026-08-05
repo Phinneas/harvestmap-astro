@@ -1,0 +1,19 @@
+{
+  "slug": "barton-orchards-63-apple-tree-lane",
+  "name": "Barton Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "63 Apple Tree Lane, NY",
+  "locationCity": "63 Apple Tree Lane",
+  "locationState": "NY",
+  "locationZipcode": "12570",
+  "lat": 41.608138932664,
+  "lon": -73.7068412423631,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.245Z"
+}

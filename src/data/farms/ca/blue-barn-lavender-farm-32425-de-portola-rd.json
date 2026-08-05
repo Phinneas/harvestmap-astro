@@ -1,0 +1,19 @@
+{
+  "slug": "blue-barn-lavender-farm-32425-de-portola-rd",
+  "name": "Blue Barn Lavender Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "32425 De Portola Rd, CA",
+  "locationCity": "32425 De Portola Rd",
+  "locationState": "CA",
+  "locationZipcode": "32425",
+  "lat": 33.6456620011691,
+  "lon": -116.971375000184,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.806Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.806Z"
+}

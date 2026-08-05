@@ -1,0 +1,19 @@
+{
+  "slug": "northfield-farmers-market-northfield-farmers-market",
+  "name": "Northfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Northfield Farmers Market, CO",
+  "locationCity": "Northfield Farmers Market",
+  "locationState": "CO",
+  "locationZipcode": "80238",
+  "lat": 39.78527660512828,
+  "lon": -104.8910088657402,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

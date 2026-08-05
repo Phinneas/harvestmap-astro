@@ -1,0 +1,19 @@
+{
+  "slug": "north-star-orchard-3226-limestone-rd",
+  "name": "North Star Orchard",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3226 Limestone Rd., PA",
+  "locationCity": "3226 Limestone Rd.",
+  "locationState": "PA",
+  "locationZipcode": "19330",
+  "lat": 39.8955519,
+  "lon": -75.9156344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.562Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.562Z"
+}

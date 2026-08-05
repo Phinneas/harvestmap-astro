@@ -1,0 +1,20 @@
+{
+  "slug": "alstede-farms-1-alstede-farms-lane",
+  "name": "Alstede Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1 Alstede Farms Lane, NJ",
+  "locationCity": "1 Alstede Farms Lane",
+  "locationState": "NJ",
+  "locationZipcode": "07930",
+  "lat": 40.779581826701744,
+  "lon": -74.71359857818955,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.120Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.120Z",
+  "crops": []
+}

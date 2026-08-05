@@ -1,0 +1,19 @@
+{
+  "slug": "grand-prairie-farmers-market-505-s-main-st",
+  "name": "Grand Prairie Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "505 S. Main St., AR",
+  "locationCity": "505 S. Main St.",
+  "locationState": "AR",
+  "locationZipcode": "72160",
+  "lat": 34.49802,
+  "lon": -91.55237,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.337Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.337Z"
+}

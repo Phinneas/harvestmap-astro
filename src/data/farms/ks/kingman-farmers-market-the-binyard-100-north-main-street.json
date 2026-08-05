@@ -1,0 +1,19 @@
+{
+  "slug": "kingman-farmers-market-the-binyard-100-north-main-street",
+  "name": "Kingman Farmers Market @ The Binyard",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 North Main Street, KS",
+  "locationCity": "100 North Main Street",
+  "locationState": "KS",
+  "locationZipcode": "67068",
+  "lat": 37.642069467695535,
+  "lon": -98.11319294490418,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

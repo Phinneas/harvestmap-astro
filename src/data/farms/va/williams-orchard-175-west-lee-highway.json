@@ -1,0 +1,19 @@
+{
+  "slug": "williams-orchard-175-west-lee-highway",
+  "name": "Williams Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "175 West Lee Highway, VA",
+  "locationCity": "175 West Lee Highway",
+  "locationState": "VA",
+  "locationZipcode": "24382",
+  "lat": 36.9461085354967,
+  "lon": -81.0897999614396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.205Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.205Z"
+}

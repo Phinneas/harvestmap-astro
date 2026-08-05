@@ -1,0 +1,19 @@
+{
+  "slug": "411-pick-n-pay-864-highway-411-ne",
+  "name": "411 Pick-N-Pay",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "864 highway 411 NE, GA",
+  "locationCity": "864 highway 411 NE",
+  "locationState": "GA",
+  "locationZipcode": "30734",
+  "lat": 34.5216000101164,
+  "lon": -84.7081240288485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.262Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.262Z"
+}

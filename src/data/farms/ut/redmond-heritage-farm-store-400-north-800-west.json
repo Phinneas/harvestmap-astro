@@ -1,0 +1,19 @@
+{
+  "slug": "redmond-heritage-farm-store-400-north-800-west",
+  "name": "Redmond Heritage Farm Store",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "400 North 800 West, UT",
+  "locationCity": "400 North 800 West",
+  "locationState": "UT",
+  "locationZipcode": "84652",
+  "lat": 39.0177377393076,
+  "lon": -111.857580407895,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.699Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.699Z"
+}

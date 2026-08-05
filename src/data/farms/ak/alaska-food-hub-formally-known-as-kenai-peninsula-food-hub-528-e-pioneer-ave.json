@@ -1,0 +1,19 @@
+{
+  "slug": "alaska-food-hub-formally-known-as-kenai-peninsula-food-hub-528-e-pioneer-ave",
+  "name": "Alaska Food Hub (formally known as Kenai Peninsula Food Hub)",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "528 E Pioneer Ave, AK",
+  "locationCity": "528 E Pioneer Ave",
+  "locationState": "AK",
+  "locationZipcode": "99603",
+  "lat": 59.647893,
+  "lon": -151.53167,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:03.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:03.291Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "atkins-farms-253-atkins-lane",
+  "name": "Atkins Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "253 Atkins Lane, AR",
+  "locationCity": "253 Atkins Lane",
+  "locationState": "AR",
+  "locationZipcode": "71640",
+  "lat": 33.1092891810039,
+  "lon": -91.3679118879921,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.003Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.003Z"
+}

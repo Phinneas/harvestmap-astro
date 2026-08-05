@@ -1,0 +1,19 @@
+{
+  "slug": "cherokee-area-farmers-market-119-s-4th-st-cherokee",
+  "name": "Cherokee Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "119 S. 4th St. Cherokee, IA",
+  "locationCity": "119 S. 4th St. Cherokee",
+  "locationState": "IA",
+  "locationZipcode": "51012",
+  "lat": 42.74877659687284,
+  "lon": -95.55354779214375,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

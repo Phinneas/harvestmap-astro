@@ -1,0 +1,19 @@
+{
+  "slug": "hbp-skunkworks-farms-701-bumblebee-lane",
+  "name": "HBP Skunkworks & Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "701 Bumblebee Lane, SC",
+  "locationCity": "701 Bumblebee Lane",
+  "locationState": "SC",
+  "locationZipcode": "29385",
+  "lat": 35.00273638172203,
+  "lon": -82.14564882318753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:52.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:52.973Z"
+}

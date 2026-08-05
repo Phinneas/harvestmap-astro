@@ -1,0 +1,19 @@
+{
+  "slug": "west-oaks-farm-market-1107-cedar-creek-grade",
+  "name": "West Oaks Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1107 Cedar Creek Grade, VA",
+  "locationCity": "1107 Cedar Creek Grade",
+  "locationState": "VA",
+  "locationZipcode": "22602",
+  "lat": 39.16058498395634,
+  "lon": -78.19847198119317,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.406Z"
+}

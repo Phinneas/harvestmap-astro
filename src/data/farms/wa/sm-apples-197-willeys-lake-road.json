@@ -1,0 +1,19 @@
+{
+  "slug": "sm-apples-197-willeys-lake-road",
+  "name": "Sm'Apples",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "197 Willeys Lake Road, WA",
+  "locationCity": "197 Willeys Lake Road",
+  "locationState": "WA",
+  "locationZipcode": "98248",
+  "lat": 48.9206112972795,
+  "lon": -122.551570323453,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.229Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.229Z"
+}

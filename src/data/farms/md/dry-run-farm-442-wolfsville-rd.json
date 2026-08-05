@@ -1,0 +1,19 @@
+{
+  "slug": "dry-run-farm-442-wolfsville-rd",
+  "name": "Dry Run Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "442 Wolfsville Rd, MD",
+  "locationCity": "442 Wolfsville Rd",
+  "locationState": "MD",
+  "locationZipcode": "21773",
+  "lat": 39.5364663240901,
+  "lon": -77.5318140226162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.238Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.238Z"
+}

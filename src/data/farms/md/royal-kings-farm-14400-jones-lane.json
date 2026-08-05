@@ -1,0 +1,19 @@
+{
+  "slug": "royal-kings-farm-14400-jones-lane",
+  "name": "Royal Kings Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "14400 Jones Lane, MD",
+  "locationCity": "14400 Jones Lane",
+  "locationState": "MD",
+  "locationZipcode": "14400",
+  "lat": 39.0914525,
+  "lon": -77.2679259,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.697Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.697Z"
+}

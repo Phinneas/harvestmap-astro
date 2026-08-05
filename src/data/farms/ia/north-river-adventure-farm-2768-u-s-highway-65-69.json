@@ -1,0 +1,20 @@
+{
+  "slug": "north-river-adventure-farm-2768-u-s-highway-65-69",
+  "name": "North River Adventure Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2768 U.S. highway 65 / 69, IA",
+  "locationCity": "2768 U.S. highway 65 / 69",
+  "locationState": "IA",
+  "locationZipcode": "50047",
+  "lat": 41.4860669902927,
+  "lon": -93.5669180162097,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.663Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.663Z",
+  "crops": []
+}

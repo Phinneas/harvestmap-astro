@@ -1,0 +1,19 @@
+{
+  "slug": "anderson-blueberry-farm-409-and-highway-5",
+  "name": "Anderson Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "409 and Highway 5, MO",
+  "locationCity": "409 and Highway 5",
+  "locationState": "MO",
+  "locationZipcode": "65755",
+  "lat": 36.8311180844205,
+  "lon": -92.6040040072848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.784Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.784Z"
+}

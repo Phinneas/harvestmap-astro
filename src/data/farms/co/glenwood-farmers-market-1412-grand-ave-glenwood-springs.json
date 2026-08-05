@@ -1,0 +1,19 @@
+{
+  "slug": "glenwood-farmers-market-1412-grand-ave-glenwood-springs",
+  "name": "Glenwood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1412 Grand Ave glenwood Springs, CO",
+  "locationCity": "1412 Grand Ave glenwood Springs",
+  "locationState": "CO",
+  "locationZipcode": "81601",
+  "lat": 39.53874665641916,
+  "lon": -107.3250112096019,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

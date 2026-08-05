@@ -1,0 +1,19 @@
+{
+  "slug": "travis-vineyard-300-hopewell-rd",
+  "name": "Travis' Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "300 Hopewell Rd, TX",
+  "locationCity": "300 Hopewell Rd",
+  "locationState": "TX",
+  "locationZipcode": "76031",
+  "lat": 32.4023614613856,
+  "lon": -97.3588351217009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.427Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.427Z"
+}

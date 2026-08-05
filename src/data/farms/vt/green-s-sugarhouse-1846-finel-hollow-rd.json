@@ -1,0 +1,19 @@
+{
+  "slug": "green-s-sugarhouse-1846-finel-hollow-rd",
+  "name": "Green's Sugarhouse",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1846 Finel Hollow Rd, VT",
+  "locationCity": "1846 Finel Hollow Rd",
+  "locationState": "VT",
+  "locationZipcode": "05764",
+  "lat": 43.55168900152282,
+  "lon": -73.17879098149892,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.242Z"
+}

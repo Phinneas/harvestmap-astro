@@ -1,0 +1,19 @@
+{
+  "slug": "ted-s-blueberry-farm-old-highway-24",
+  "name": "Ted's Blueberry Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Old highway 24, MS",
+  "locationCity": "Old highway 24",
+  "locationState": "MS",
+  "locationZipcode": "39648",
+  "lat": 31.146634337371722,
+  "lon": -90.32000663604559,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:31.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:31.539Z"
+}

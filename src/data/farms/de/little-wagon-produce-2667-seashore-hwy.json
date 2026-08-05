@@ -1,0 +1,19 @@
+{
+  "slug": "little-wagon-produce-2667-seashore-hwy",
+  "name": "Little Wagon Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2667 Seashore Hwy, DE",
+  "locationCity": "2667 Seashore Hwy",
+  "locationState": "DE",
+  "locationZipcode": "19950",
+  "lat": 38.79824901409367,
+  "lon": -75.69640096076597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:44.172Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:44.172Z"
+}

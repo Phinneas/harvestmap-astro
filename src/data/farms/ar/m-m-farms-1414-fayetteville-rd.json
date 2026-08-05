@@ -1,0 +1,19 @@
+{
+  "slug": "m-m-farms-1414-fayetteville-rd",
+  "name": "M&M Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1414 Fayetteville Rd, AR",
+  "locationCity": "1414 Fayetteville Rd",
+  "locationState": "AR",
+  "locationZipcode": "72956",
+  "lat": 35.454841,
+  "lon": -94.356587,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:30.941Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:30.941Z"
+}

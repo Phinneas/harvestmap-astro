@@ -1,0 +1,19 @@
+{
+  "slug": "tierra-vegetables-651-airport-blvd",
+  "name": "Tierra Vegetables",
+  "source": "usda",
+  "directory": "csa",
+  "location": "651 Airport Blvd, CA",
+  "locationCity": "651 Airport Blvd",
+  "locationState": "CA",
+  "locationZipcode": "95403",
+  "lat": 38.5117025,
+  "lon": -122.7717259,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.067Z"
+}

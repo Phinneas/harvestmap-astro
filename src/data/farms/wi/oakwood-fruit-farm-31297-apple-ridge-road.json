@@ -1,0 +1,20 @@
+{
+  "slug": "oakwood-fruit-farm-31297-apple-ridge-road",
+  "name": "Oakwood Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "31297 Apple Ridge Road, WI",
+  "locationCity": "31297 Apple Ridge Road",
+  "locationState": "WI",
+  "locationZipcode": "31297",
+  "lat": 43.3070170149705,
+  "lon": -90.2454059898133,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.336Z",
+  "crops": []
+}

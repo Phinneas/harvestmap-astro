@@ -1,0 +1,20 @@
+{
+  "slug": "fair-weather-farm-at-fairhill-5727-telegraph-road",
+  "name": "Fair Weather Farm at Fairhill",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5727 Telegraph Road, MD",
+  "locationCity": "5727 Telegraph Road",
+  "locationState": "MD",
+  "locationZipcode": "21921",
+  "lat": 39.699694,
+  "lon": -75.810715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.689Z",
+  "crops": []
+}

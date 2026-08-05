@@ -1,0 +1,19 @@
+{
+  "slug": "moccasin-grove-9214-herold-hill-rd",
+  "name": "Moccasin Grove",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9214 Herold Hill Rd, FL",
+  "locationCity": "9214 Herold Hill Rd",
+  "locationState": "FL",
+  "locationZipcode": "32309",
+  "lat": 30.59674099115503,
+  "lon": -84.05183903130323,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.899Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.899Z"
+}

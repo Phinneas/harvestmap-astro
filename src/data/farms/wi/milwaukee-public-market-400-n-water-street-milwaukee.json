@@ -1,0 +1,19 @@
+{
+  "slug": "milwaukee-public-market-400-n-water-street-milwaukee",
+  "name": "Milwaukee Public Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 N. Water Street Milwaukee, WI",
+  "locationCity": "400 N. Water Street Milwaukee",
+  "locationState": "WI",
+  "locationZipcode": "53202",
+  "lat": 43.03499632792372,
+  "lon": -87.90875138221925,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

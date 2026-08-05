@@ -1,0 +1,19 @@
+{
+  "slug": "breadbasket-farmers-market-1901-sw-wanamaker-rd",
+  "name": "Breadbasket Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1901 SW Wanamaker Rd, KS",
+  "locationCity": "1901 SW Wanamaker Rd",
+  "locationState": "KS",
+  "locationZipcode": "66614",
+  "lat": 39.03255349742151,
+  "lon": -95.76210360100912,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

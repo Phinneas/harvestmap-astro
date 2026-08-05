@@ -1,0 +1,19 @@
+{
+  "slug": "circle-s-farms-1627-east-old-laguardo-road",
+  "name": "Circle S Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1627 East Old Laguardo Road, TN",
+  "locationCity": "1627 East Old Laguardo Road",
+  "locationState": "TN",
+  "locationZipcode": "37087",
+  "lat": 36.25501798757119,
+  "lon": -86.4279909834396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:36.622Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:36.622Z"
+}

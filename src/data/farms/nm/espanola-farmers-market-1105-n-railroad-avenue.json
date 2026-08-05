@@ -1,0 +1,19 @@
+{
+  "slug": "espanola-farmers-market-1105-n-railroad-avenue",
+  "name": "Espanola Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1105 N.Railroad  Avenue, NM",
+  "locationCity": "1105 N.Railroad  Avenue",
+  "locationState": "NM",
+  "locationZipcode": "87532",
+  "lat": 36.003598,
+  "lon": -106.0658,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:58.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:58.750Z"
+}

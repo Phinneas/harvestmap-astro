@@ -1,0 +1,19 @@
+{
+  "slug": "nook-cranny-farm-424-harford-rd",
+  "name": "nook & cranny farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "424 harford rd, NY",
+  "locationCity": "424 harford rd",
+  "locationState": "NY",
+  "locationZipcode": "14817",
+  "lat": 42.393104,
+  "lon": -76.3091929,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.152Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.152Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "deb-s-pumpkin-patch-144-state-route-46",
+  "name": "Deb's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "144 State Route 46, OH",
+  "locationCity": "144 State Route 46",
+  "locationState": "OH",
+  "locationZipcode": "44410",
+  "lat": 41.3289678354641,
+  "lon": -80.7311946122117,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.793Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.793Z"
+}

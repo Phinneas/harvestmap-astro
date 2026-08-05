@@ -1,0 +1,19 @@
+{
+  "slug": "eat-some-green-5457-state-route-40",
+  "name": "Eat Some Green",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5457 State Route 40, NY",
+  "locationCity": "5457 State Route 40",
+  "locationState": "NY",
+  "locationZipcode": "12809",
+  "lat": 43.26669255889331,
+  "lon": -73.46686458842217,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.827Z"
+}

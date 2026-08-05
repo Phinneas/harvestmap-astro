@@ -1,0 +1,19 @@
+{
+  "slug": "maquoketa-farmers-market-1215-e-platt-st-maquoketa",
+  "name": "Maquoketa Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1215 E Platt St Maquoketa, IA",
+  "locationCity": "1215 E Platt St Maquoketa",
+  "locationState": "IA",
+  "locationZipcode": "52060",
+  "lat": 42.06914016564558,
+  "lon": -90.65070256937489,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

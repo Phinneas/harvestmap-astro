@@ -1,0 +1,19 @@
+{
+  "slug": "the-big-apple-orchard-1117-highway-30-w",
+  "name": "The Big Apple Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1117 Highway 30 W, IA",
+  "locationCity": "1117 Highway 30 W",
+  "locationState": "IA",
+  "locationZipcode": "52314",
+  "lat": 41.919562007263096,
+  "lon": -91.47425200393155,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:40.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:40.605Z"
+}

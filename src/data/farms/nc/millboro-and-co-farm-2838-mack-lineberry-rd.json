@@ -1,0 +1,19 @@
+{
+  "slug": "millboro-and-co-farm-2838-mack-lineberry-rd",
+  "name": "Millboro and Co. Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2838 Mack Lineberry Rd., NC",
+  "locationCity": "2838 Mack Lineberry Rd.",
+  "locationState": "NC",
+  "locationZipcode": "27248",
+  "lat": 35.79705162709442,
+  "lon": -79.75061604741524,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.907Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.907Z"
+}

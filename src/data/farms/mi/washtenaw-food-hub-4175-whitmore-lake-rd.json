@@ -1,0 +1,19 @@
+{
+  "slug": "washtenaw-food-hub-4175-whitmore-lake-rd",
+  "name": "Washtenaw Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "4175 Whitmore Lake Rd., MI",
+  "locationCity": "4175 Whitmore Lake Rd.",
+  "locationState": "MI",
+  "locationZipcode": "48105",
+  "lat": 42.3328983,
+  "lon": -83.752158,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.224Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.224Z"
+}

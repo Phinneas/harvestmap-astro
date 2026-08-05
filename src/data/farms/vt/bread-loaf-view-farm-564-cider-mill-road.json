@@ -1,0 +1,19 @@
+{
+  "slug": "bread-loaf-view-farm-564-cider-mill-road",
+  "name": "Bread Loaf View Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "564 Cider Mill Road, VT",
+  "locationCity": "564 Cider Mill Road",
+  "locationState": "VT",
+  "locationZipcode": "05753",
+  "lat": 43.9902049880429,
+  "lon": -73.2052379814932,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.068Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "spring-ledge-farm-220-main-street",
+  "name": "Spring Ledge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "220 Main Street, NH",
+  "locationCity": "220 Main Street",
+  "locationState": "NH",
+  "locationZipcode": "03257",
+  "lat": 43.4158751160993,
+  "lon": -71.9874835497173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.792Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.792Z"
+}

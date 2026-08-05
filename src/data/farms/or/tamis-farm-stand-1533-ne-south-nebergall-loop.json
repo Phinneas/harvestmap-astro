@@ -1,0 +1,19 @@
+{
+  "slug": "tamis-farm-stand-1533-ne-south-nebergall-loop",
+  "name": "Tamis Farm Stand",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1533 Ne South Nebergall Loop, OR",
+  "locationCity": "1533 Ne South Nebergall Loop",
+  "locationState": "OR",
+  "locationZipcode": "97321",
+  "lat": 44.65924782895448,
+  "lon": -123.08651257450065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.976Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.976Z"
+}

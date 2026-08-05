@@ -1,0 +1,19 @@
+{
+  "slug": "peoria-heights-farmers-market-4541-north-prospect-road-peoria-heights",
+  "name": "PEORIA HEIGHTS FARMERS MARKET",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4541 North Prospect Road Peoria Heights, IL",
+  "locationCity": "4541 North Prospect Road Peoria Heights",
+  "locationState": "IL",
+  "locationZipcode": "61616",
+  "lat": 40.7429298654454,
+  "lon": -89.57407455577457,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

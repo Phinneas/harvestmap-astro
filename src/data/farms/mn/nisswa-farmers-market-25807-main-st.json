@@ -1,0 +1,19 @@
+{
+  "slug": "nisswa-farmers-market-25807-main-st",
+  "name": "Nisswa Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25807 Main St, MN",
+  "locationCity": "25807 Main St",
+  "locationState": "MN",
+  "locationZipcode": "25807",
+  "lat": 46.5255727,
+  "lon": -94.2933762,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

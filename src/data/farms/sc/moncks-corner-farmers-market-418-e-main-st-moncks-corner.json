@@ -1,0 +1,19 @@
+{
+  "slug": "moncks-corner-farmers-market-418-e-main-st-moncks-corner",
+  "name": "Moncks Corner Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "418 E. Main St. Moncks Corner, SC",
+  "locationCity": "418 E. Main St. Moncks Corner",
+  "locationState": "SC",
+  "locationZipcode": "29461",
+  "lat": 33.19246362968825,
+  "lon": -80.0033833972999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

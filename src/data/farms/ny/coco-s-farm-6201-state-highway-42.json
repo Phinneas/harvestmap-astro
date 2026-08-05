@@ -1,0 +1,19 @@
+{
+  "slug": "coco-s-farm-6201-state-highway-42",
+  "name": "Coco's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6201 State Highway 42, NY",
+  "locationCity": "6201 State Highway 42",
+  "locationState": "NY",
+  "locationZipcode": "12788",
+  "lat": 41.7625656000001,
+  "lon": -74.600314,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.413Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.413Z"
+}

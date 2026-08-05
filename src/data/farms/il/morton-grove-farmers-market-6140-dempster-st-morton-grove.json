@@ -1,0 +1,19 @@
+{
+  "slug": "morton-grove-farmers-market-6140-dempster-st-morton-grove",
+  "name": "Morton Grove Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6140 Dempster St Morton Grove, IL",
+  "locationCity": "6140 Dempster St Morton Grove",
+  "locationState": "IL",
+  "locationZipcode": "60053",
+  "lat": 42.04091629144986,
+  "lon": -87.78025116289619,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

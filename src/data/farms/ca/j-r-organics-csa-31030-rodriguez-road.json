@@ -1,0 +1,19 @@
+{
+  "slug": "j-r-organics-csa-31030-rodriguez-road",
+  "name": "J R Organics CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "31030 Rodriguez Road, CA",
+  "locationCity": "31030 Rodriguez Road",
+  "locationState": "CA",
+  "locationZipcode": "31030",
+  "lat": 33.2803569,
+  "lon": -117.1245344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.039Z"
+}

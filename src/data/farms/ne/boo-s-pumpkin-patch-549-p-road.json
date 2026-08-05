@@ -1,0 +1,19 @@
+{
+  "slug": "boo-s-pumpkin-patch-549-p-road",
+  "name": "Boo's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "549 P Road, NE",
+  "locationCity": "549 P Road",
+  "locationState": "NE",
+  "locationZipcode": "68410",
+  "lat": 40.5664940543991,
+  "lon": -96.4116580065025,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.422Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.422Z"
+}

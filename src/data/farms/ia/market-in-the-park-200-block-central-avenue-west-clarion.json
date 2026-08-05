@@ -1,0 +1,19 @@
+{
+  "slug": "market-in-the-park-200-block-central-avenue-west-clarion",
+  "name": "Market In the Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Block Central Avenue West Clarion, IA",
+  "locationCity": "200 Block Central Avenue West Clarion",
+  "locationState": "IA",
+  "locationZipcode": "50525",
+  "lat": 42.7316490176049,
+  "lon": -93.73419185614807,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

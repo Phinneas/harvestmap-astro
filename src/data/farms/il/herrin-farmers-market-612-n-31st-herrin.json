@@ -1,0 +1,19 @@
+{
+  "slug": "herrin-farmers-market-612-n-31st-herrin",
+  "name": "Herrin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "612 N. 31st. Herrin, IL",
+  "locationCity": "612 N. 31st. Herrin",
+  "locationState": "IL",
+  "locationZipcode": "62948",
+  "lat": 37.808245927164386,
+  "lon": -89.04491167884102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

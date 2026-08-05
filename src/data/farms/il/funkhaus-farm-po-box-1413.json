@@ -1,0 +1,19 @@
+{
+  "slug": "funkhaus-farm-po-box-1413",
+  "name": "Funkhaus Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 1413, IL",
+  "locationCity": "PO Box 1413",
+  "locationState": "IL",
+  "locationZipcode": "62401",
+  "lat": 39.1200418,
+  "lon": -88.5433829,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.480Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.480Z"
+}

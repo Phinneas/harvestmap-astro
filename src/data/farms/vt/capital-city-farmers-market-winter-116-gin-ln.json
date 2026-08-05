@@ -1,0 +1,19 @@
+{
+  "slug": "capital-city-farmers-market-winter-116-gin-ln",
+  "name": "Capital City Farmers Market (Winter)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "116 Gin Ln, VT",
+  "locationCity": "116 Gin Ln",
+  "locationState": "VT",
+  "locationZipcode": "05602",
+  "lat": 44.25045901641738,
+  "lon": -72.56654500615157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

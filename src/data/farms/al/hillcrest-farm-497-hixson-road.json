@@ -1,0 +1,19 @@
+{
+  "slug": "hillcrest-farm-497-hixson-road",
+  "name": "Hillcrest Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "497 Hixson Road, AL",
+  "locationCity": "497 Hixson Road",
+  "locationState": "AL",
+  "locationZipcode": "36530",
+  "lat": 30.42177200274,
+  "lon": -87.4956096221641,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.444Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.444Z"
+}

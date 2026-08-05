@@ -1,0 +1,19 @@
+{
+  "slug": "abc-farms-co-264-n-2150-east-rd",
+  "name": "ABC Farms Co",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "264 N 2150 East Rd, IL",
+  "locationCity": "264 N 2150 East Rd",
+  "locationState": "IL",
+  "locationZipcode": "61776",
+  "lat": 40.552057585683,
+  "lon": -88.8570009429383,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.829Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.829Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ashburn-chicago-farmers-market-6700-s-kedzie-ave-chicago",
+  "name": "Ashburn (Chicago) Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6700 S Kedzie Ave Chicago, IL",
+  "locationCity": "6700 S Kedzie Ave Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60652",
+  "lat": 41.7710306169126,
+  "lon": -87.70295962334978,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

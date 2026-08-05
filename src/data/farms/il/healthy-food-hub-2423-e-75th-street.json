@@ -1,0 +1,19 @@
+{
+  "slug": "healthy-food-hub-2423-e-75th-street",
+  "name": "Healthy Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2423 E. 75th Street, IL",
+  "locationCity": "2423 E. 75th Street",
+  "locationState": "IL",
+  "locationZipcode": "60649",
+  "lat": 41.7588303,
+  "lon": -87.565514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:51.753Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:51.753Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "aquahomme-farm-306-hess-road",
+  "name": "Aquahomme Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "306 Hess Road, NY",
+  "locationCity": "306 Hess Road",
+  "locationState": "NY",
+  "locationZipcode": "13339",
+  "lat": 42.8577258404613,
+  "lon": -74.7138586802007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.380Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.380Z"
+}

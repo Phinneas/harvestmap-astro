@@ -1,0 +1,19 @@
+{
+  "slug": "viroqua-farmers-market-116-s-rock-ave-viroqua",
+  "name": "Viroqua Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "116 S Rock Ave Viroqua, WI",
+  "locationCity": "116 S Rock Ave Viroqua",
+  "locationState": "WI",
+  "locationZipcode": "54665",
+  "lat": 43.55598985318978,
+  "lon": -90.890581836706,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.859Z"
+}

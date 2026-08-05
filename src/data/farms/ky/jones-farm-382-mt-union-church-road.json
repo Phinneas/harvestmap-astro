@@ -1,0 +1,20 @@
+{
+  "slug": "jones-farm-382-mt-union-church-road",
+  "name": "Jones' Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "382 Mt. Union Church Road, KY",
+  "locationCity": "382 Mt. Union Church Road",
+  "locationState": "KY",
+  "locationZipcode": "42171",
+  "lat": 36.972708011499,
+  "lon": -86.1605930170792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.548Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.548Z",
+  "crops": []
+}

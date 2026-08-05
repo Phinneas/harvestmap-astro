@@ -1,0 +1,19 @@
+{
+  "slug": "bagley-area-farmers-market-mn-state-hwy-92",
+  "name": "Bagley Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "MN State Hwy 92, MN",
+  "locationCity": "MN State Hwy 92",
+  "locationState": "MN",
+  "locationZipcode": "56601",
+  "lat": 47.5277241,
+  "lon": -95.3985615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

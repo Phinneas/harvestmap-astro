@@ -1,0 +1,19 @@
+{
+  "slug": "morton-farmers-market-210-s-main-street-morton",
+  "name": "Morton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 S Main Street Morton, IL",
+  "locationCity": "210 S Main Street Morton",
+  "locationState": "IL",
+  "locationZipcode": "61550",
+  "lat": 40.60938469316173,
+  "lon": -89.46253687736936,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "isham-family-farmers-market-3515-oak-hill-rd",
+  "name": "Isham Family Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3515 Oak Hill Rd, VT",
+  "locationCity": "3515 Oak Hill Rd",
+  "locationState": "VT",
+  "locationZipcode": "05495",
+  "lat": 44.39126097129516,
+  "lon": -73.09489208556126,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

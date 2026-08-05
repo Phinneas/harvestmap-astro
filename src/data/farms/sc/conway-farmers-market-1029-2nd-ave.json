@@ -1,0 +1,19 @@
+{
+  "slug": "conway-farmers-market-1029-2nd-ave",
+  "name": "Conway Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1029 2nd Ave, SC",
+  "locationCity": "1029 2nd Ave",
+  "locationState": "SC",
+  "locationZipcode": "29526",
+  "lat": 33.833331,
+  "lon": -79.044831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.053Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.053Z"
+}

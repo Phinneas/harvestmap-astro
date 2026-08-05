@@ -1,0 +1,19 @@
+{
+  "slug": "east-lake-farmers-market-hosea-l-williams-dr-se-2nd-ave-se-atlanta",
+  "name": "East Lake Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hosea L. Williams Dr SE & 2nd Ave SE Atlanta, GA",
+  "locationCity": "Hosea L. Williams Dr SE & 2nd Ave SE Atlanta",
+  "locationState": "GA",
+  "locationZipcode": "30317",
+  "lat": 33.7510799820307,
+  "lon": -84.30972001716016,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

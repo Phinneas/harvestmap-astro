@@ -1,0 +1,19 @@
+{
+  "slug": "whoopsa-daisy-farm-399-samuelson-road",
+  "name": "Whoopsa Daisy Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "399 Samuelson Road, MN",
+  "locationCity": "399 Samuelson Road",
+  "locationState": "MN",
+  "locationZipcode": "55811",
+  "lat": 46.8582397287212,
+  "lon": -92.238194128255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.751Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.751Z"
+}

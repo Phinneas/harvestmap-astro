@@ -1,0 +1,19 @@
+{
+  "slug": "weaver-s-farm-market-759-garden-rd",
+  "name": "Weaver's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "759 Garden Rd, NJ",
+  "locationCity": "759 Garden Rd",
+  "locationState": "NJ",
+  "locationZipcode": "08318",
+  "lat": 39.528862,
+  "lon": -75.099947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:24.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:24.736Z"
+}

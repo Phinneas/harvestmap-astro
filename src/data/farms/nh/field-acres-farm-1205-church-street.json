@@ -1,0 +1,19 @@
+{
+  "slug": "field-acres-farm-1205-church-street",
+  "name": "Field Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1205 Church Street, NH",
+  "locationCity": "1205 Church Street",
+  "locationState": "NH",
+  "locationZipcode": "03741",
+  "lat": 43.6462300000001,
+  "lon": -72.0091899999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.824Z"
+}

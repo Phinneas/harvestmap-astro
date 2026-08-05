@@ -1,0 +1,19 @@
+{
+  "slug": "newfield-food-hub-166-main-st",
+  "name": "Newfield Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "166 Main St, NY",
+  "locationCity": "166 Main St",
+  "locationState": "NY",
+  "locationZipcode": "14867",
+  "lat": 42.36265958396842,
+  "lon": -76.5897420219098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:16.010Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:16.010Z"
+}

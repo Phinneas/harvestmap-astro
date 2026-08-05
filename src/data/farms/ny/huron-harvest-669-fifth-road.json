@@ -1,0 +1,19 @@
+{
+  "slug": "huron-harvest-669-fifth-road",
+  "name": "Huron Harvest",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "669 Fifth Road, NY",
+  "locationCity": "669 Fifth Road",
+  "locationState": "NY",
+  "locationZipcode": "14516",
+  "lat": 43.2009058261335,
+  "lon": -76.8898934632382,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.418Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.418Z"
+}

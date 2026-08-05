@@ -1,0 +1,19 @@
+{
+  "slug": "bellefonte-de-farmers-market-912-brandywine-blvd-wilmington",
+  "name": "Bellefonte DE Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "912 Brandywine Blvd. Wilmington, DE",
+  "locationCity": "912 Brandywine Blvd. Wilmington",
+  "locationState": "DE",
+  "locationZipcode": "19809",
+  "lat": 39.76650693647244,
+  "lon": -75.49992175841987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:41.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:41.708Z"
+}

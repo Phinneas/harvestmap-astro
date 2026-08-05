@@ -1,0 +1,19 @@
+{
+  "slug": "woodland-farm-4716",
+  "name": "Woodland Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4716, KY",
+  "locationCity": "4716",
+  "locationState": "KY",
+  "locationZipcode": "40026",
+  "lat": 38.460039,
+  "lon": -85.469026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:19.343Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:19.343Z"
+}

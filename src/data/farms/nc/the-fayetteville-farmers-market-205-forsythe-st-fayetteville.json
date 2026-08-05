@@ -1,0 +1,19 @@
+{
+  "slug": "the-fayetteville-farmers-market-205-forsythe-st-fayetteville",
+  "name": "The Fayetteville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 Forsythe St Fayetteville, NC",
+  "locationCity": "205 Forsythe St Fayetteville",
+  "locationState": "NC",
+  "locationZipcode": "28303",
+  "lat": 35.044610574549615,
+  "lon": -78.92017156814667,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

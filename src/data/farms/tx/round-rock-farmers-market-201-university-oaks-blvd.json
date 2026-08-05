@@ -1,0 +1,19 @@
+{
+  "slug": "round-rock-farmers-market-201-university-oaks-blvd",
+  "name": "Round Rock Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 University Oaks Blvd, TX",
+  "locationCity": "201 University Oaks Blvd",
+  "locationState": "TX",
+  "locationZipcode": "78665",
+  "lat": 30.557966,
+  "lon": -97.688209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.050Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.050Z"
+}

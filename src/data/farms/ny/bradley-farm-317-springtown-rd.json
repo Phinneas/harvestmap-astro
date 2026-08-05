@@ -1,0 +1,20 @@
+{
+  "slug": "bradley-farm-317-springtown-rd",
+  "name": "Bradley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "317 Springtown Rd, NY",
+  "locationCity": "317 Springtown Rd",
+  "locationState": "NY",
+  "locationZipcode": "12561",
+  "lat": 41.7898947195103,
+  "lon": -74.0877672257311,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.321Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.321Z",
+  "crops": []
+}

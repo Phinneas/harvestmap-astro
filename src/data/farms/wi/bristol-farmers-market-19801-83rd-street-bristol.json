@@ -1,0 +1,19 @@
+{
+  "slug": "bristol-farmers-market-19801-83rd-street-bristol",
+  "name": "Bristol Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "19801 83rd Street Bristol, WI",
+  "locationCity": "19801 83rd Street Bristol",
+  "locationState": "WI",
+  "locationZipcode": "19801",
+  "lat": 42.55744802049044,
+  "lon": -88.0480758814065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.857Z"
+}

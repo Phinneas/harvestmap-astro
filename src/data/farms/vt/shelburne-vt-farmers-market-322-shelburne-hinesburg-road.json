@@ -1,0 +1,19 @@
+{
+  "slug": "shelburne-vt-farmers-market-322-shelburne-hinesburg-road",
+  "name": "Shelburne VT Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "322 Shelburne Hinesburg Road, VT",
+  "locationCity": "322 Shelburne Hinesburg Road",
+  "locationState": "VT",
+  "locationZipcode": "05482",
+  "lat": 44.36529997815618,
+  "lon": -73.17352010841326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

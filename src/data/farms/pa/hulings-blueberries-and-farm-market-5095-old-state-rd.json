@@ -1,0 +1,20 @@
+{
+  "slug": "hulings-blueberries-and-farm-market-5095-old-state-rd",
+  "name": "Hulings Blueberries and Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5095 old state rd, PA",
+  "locationCity": "5095 old state rd",
+  "locationState": "PA",
+  "locationZipcode": "16412",
+  "lat": 41.932811,
+  "lon": -80.130026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.373Z",
+  "crops": []
+}

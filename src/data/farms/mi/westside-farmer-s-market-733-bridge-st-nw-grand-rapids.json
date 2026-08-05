@@ -1,0 +1,19 @@
+{
+  "slug": "westside-farmer-s-market-733-bridge-st-nw-grand-rapids",
+  "name": "Westside Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "733 Bridge St. NW Grand Rapids, MI",
+  "locationCity": "733 Bridge St. NW Grand Rapids",
+  "locationState": "MI",
+  "locationZipcode": "49504",
+  "lat": 42.970744233024604,
+  "lon": -85.68692515263123,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.249Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.249Z"
+}

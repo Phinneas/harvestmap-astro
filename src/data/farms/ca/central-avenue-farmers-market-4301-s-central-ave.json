@@ -1,0 +1,19 @@
+{
+  "slug": "central-avenue-farmers-market-4301-s-central-ave",
+  "name": "Central Avenue Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4301 S Central Ave, CA",
+  "locationCity": "4301 S Central Ave",
+  "locationState": "CA",
+  "locationZipcode": "90011",
+  "lat": 34.005326,
+  "lon": -118.25679,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

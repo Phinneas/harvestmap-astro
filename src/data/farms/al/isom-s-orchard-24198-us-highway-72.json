@@ -1,0 +1,20 @@
+{
+  "slug": "isom-s-orchard-24198-us-highway-72",
+  "name": "Isom's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "24198 US Highway 72, AL",
+  "locationCity": "24198 US Highway 72",
+  "locationState": "AL",
+  "locationZipcode": "24198",
+  "lat": 34.7676589920966,
+  "lon": -86.8964589884954,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.448Z",
+  "crops": []
+}

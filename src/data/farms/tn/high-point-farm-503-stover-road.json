@@ -1,0 +1,19 @@
+{
+  "slug": "high-point-farm-503-stover-road",
+  "name": "High Point Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "503 Stover Road, TN",
+  "locationCity": "503 Stover Road",
+  "locationState": "TN",
+  "locationZipcode": "38261",
+  "lat": 36.3944470074002,
+  "lon": -89.1831470323648,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.194Z"
+}

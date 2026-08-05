@@ -1,0 +1,20 @@
+{
+  "slug": "foothills-farmers-market-126-w-marion-street-shelby",
+  "name": "Foothills Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "126 W Marion Street Shelby, NC",
+  "locationCity": "126 W Marion Street Shelby",
+  "locationState": "NC",
+  "locationZipcode": "28150",
+  "lat": 35.29201987694391,
+  "lon": -81.54186888655907,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z",
+  "crops": []
+}

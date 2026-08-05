@@ -1,0 +1,19 @@
+{
+  "slug": "the-cherry-shack-709-e-green-bluff-road",
+  "name": "The Cherry Shack",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "709 E. Green Bluff Road, WA",
+  "locationCity": "709 E. Green Bluff Road",
+  "locationState": "WA",
+  "locationZipcode": "99005",
+  "lat": 47.8091220010307,
+  "lon": -117.33107154094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.132Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.132Z"
+}

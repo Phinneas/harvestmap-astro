@@ -1,0 +1,19 @@
+{
+  "slug": "woodbury-farmers-market-8595-central-park-pl",
+  "name": "Woodbury Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8595 Central Park Pl, MN",
+  "locationCity": "8595 Central Park Pl",
+  "locationState": "MN",
+  "locationZipcode": "55125",
+  "lat": 44.9165492,
+  "lon": -92.9321102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

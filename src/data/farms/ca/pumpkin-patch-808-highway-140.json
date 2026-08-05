@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkin-patch-808-highway-140",
+  "name": "Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "808 Highway 140, CA",
+  "locationCity": "808 Highway 140",
+  "locationState": "CA",
+  "locationZipcode": "95338",
+  "lat": 37.3426516920025,
+  "lon": -120.219022581921,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.812Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.812Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sunwest-farms-4851-north-84th-street",
+  "name": "Sunwest Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4851 North 84th Street, NE",
+  "locationCity": "4851 North 84th Street",
+  "locationState": "NE",
+  "locationZipcode": "68507",
+  "lat": 40.86009698960004,
+  "lon": -96.60694301901708,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:57.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:57.252Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-county-farmers-market-2902-shortcut-road",
+  "name": "Jackson County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2902 Shortcut Road, MS",
+  "locationCity": "2902 Shortcut Road",
+  "locationState": "MS",
+  "locationZipcode": "39568",
+  "lat": 30.381031376400152,
+  "lon": -88.53269345299317,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

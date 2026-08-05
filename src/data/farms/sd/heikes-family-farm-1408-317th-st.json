@@ -1,0 +1,19 @@
+{
+  "slug": "heikes-family-farm-1408-317th-st",
+  "name": "Heikes Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1408 317th st, SD",
+  "locationCity": "1408 317th st",
+  "locationState": "SD",
+  "locationZipcode": "57069",
+  "lat": 42.7942881,
+  "lon": -96.9091326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:11.613Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:11.613Z"
+}

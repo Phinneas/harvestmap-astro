@@ -1,0 +1,19 @@
+{
+  "slug": "clarke-county-farmers-market-100-s-main-osceola",
+  "name": "Clarke County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 S. Main Osceola, IA",
+  "locationCity": "100 S. Main Osceola",
+  "locationState": "IA",
+  "locationZipcode": "50213",
+  "lat": 41.03484968563928,
+  "lon": -93.76567655781888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

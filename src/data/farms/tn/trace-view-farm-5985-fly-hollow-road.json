@@ -1,0 +1,19 @@
+{
+  "slug": "trace-view-farm-5985-fly-hollow-road",
+  "name": "Trace View Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5985 Fly Hollow Road, TN",
+  "locationCity": "5985 Fly Hollow Road",
+  "locationState": "TN",
+  "locationZipcode": "38482",
+  "lat": 35.813344,
+  "lon": -87.180602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:36.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:36.486Z"
+}

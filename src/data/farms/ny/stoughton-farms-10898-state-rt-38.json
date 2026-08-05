@@ -1,0 +1,19 @@
+{
+  "slug": "stoughton-farms-10898-state-rt-38",
+  "name": "Stoughton Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10898 State Rt 38, NY",
+  "locationCity": "10898 State Rt 38",
+  "locationState": "NY",
+  "locationZipcode": "10898",
+  "lat": 42.2597735665086,
+  "lon": -76.177360264667,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.371Z"
+}

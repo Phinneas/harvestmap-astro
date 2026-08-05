@@ -1,0 +1,19 @@
+{
+  "slug": "east-greenbush-community-library-farmers-market-10-community-way-east-greenbush",
+  "name": "East Greenbush Community Library Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Community Way East Greenbush, NY",
+  "locationCity": "10 Community Way East Greenbush",
+  "locationState": "NY",
+  "locationZipcode": "12061",
+  "lat": 42.61926468055825,
+  "lon": -73.69474002723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

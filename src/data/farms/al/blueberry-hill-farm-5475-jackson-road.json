@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-farm-5475-jackson-road",
+  "name": "Blueberry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5475 Jackson Road, AL",
+  "locationCity": "5475 Jackson Road",
+  "locationState": "AL",
+  "locationZipcode": "35062",
+  "lat": 33.671567991223,
+  "lon": -87.052403039789,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.649Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.649Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "apples-and-art-orchards-052-julian-orchards-drive",
+  "name": "Apples and Art Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "052 Julian Orchards Drive, CA",
+  "locationCity": "052 Julian Orchards Drive",
+  "locationState": "CA",
+  "locationZipcode": "92036",
+  "lat": 33.1060236733037,
+  "lon": -116.609947213849,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.753Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.753Z"
+}

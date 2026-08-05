@@ -1,0 +1,19 @@
+{
+  "slug": "westwind-farm-600-south-madison-road",
+  "name": "Westwind Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "600 South Madison Road, OH",
+  "locationCity": "600 South Madison Road",
+  "locationState": "OH",
+  "locationZipcode": "44057",
+  "lat": 41.7353434621521,
+  "lon": -81.0455561852858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.839Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.839Z"
+}

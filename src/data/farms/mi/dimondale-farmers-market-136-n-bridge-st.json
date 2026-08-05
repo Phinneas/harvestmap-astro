@@ -1,0 +1,19 @@
+{
+  "slug": "dimondale-farmers-market-136-n-bridge-st",
+  "name": "Dimondale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "136 N Bridge St, MI",
+  "locationCity": "136 N Bridge St",
+  "locationState": "MI",
+  "locationZipcode": "48821",
+  "lat": 42.646201,
+  "lon": -84.647388,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.200Z"
+}

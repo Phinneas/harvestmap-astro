@@ -1,0 +1,20 @@
+{
+  "slug": "silverman-s-farm-451-sport-hill-rd-easton",
+  "name": "Silverman's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "451 Sport Hill Rd Easton, CT",
+  "locationCity": "451 Sport Hill Rd Easton",
+  "locationState": "CT",
+  "locationZipcode": "06612",
+  "lat": 41.2499579979339,
+  "lon": -73.2806539876762,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.947Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.947Z",
+  "crops": []
+}

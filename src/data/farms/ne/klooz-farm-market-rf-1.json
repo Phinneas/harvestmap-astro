@@ -1,0 +1,19 @@
+{
+  "slug": "klooz-farm-market-rf-1",
+  "name": "Klooz Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "RF 1, NE",
+  "locationCity": "RF 1",
+  "locationState": "NE",
+  "locationZipcode": "69001",
+  "lat": 40.2052145,
+  "lon": -100.6342319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:57.251Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:57.251Z"
+}

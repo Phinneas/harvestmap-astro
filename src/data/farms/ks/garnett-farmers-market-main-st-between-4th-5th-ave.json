@@ -1,0 +1,19 @@
+{
+  "slug": "garnett-farmers-market-main-st-between-4th-5th-ave",
+  "name": "Garnett Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St between 4th & 5th Ave, KS",
+  "locationCity": "Main St between 4th & 5th Ave",
+  "locationState": "KS",
+  "locationZipcode": "66032",
+  "lat": 38.27988001903515,
+  "lon": -95.24023003654565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

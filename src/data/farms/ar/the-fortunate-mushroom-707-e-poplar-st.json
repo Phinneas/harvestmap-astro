@@ -1,0 +1,19 @@
+{
+  "slug": "the-fortunate-mushroom-707-e-poplar-st",
+  "name": "The Fortunate Mushroom",
+  "source": "usda",
+  "directory": "csa",
+  "location": "707 E Poplar St., AR",
+  "locationCity": "707 E Poplar St.",
+  "locationState": "AR",
+  "locationZipcode": "72830",
+  "lat": 35.464694707405144,
+  "lon": -93.4533087785604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:26.296Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:26.296Z"
+}

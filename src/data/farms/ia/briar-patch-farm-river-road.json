@@ -1,0 +1,19 @@
+{
+  "slug": "briar-patch-farm-river-road",
+  "name": "Briar Patch Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "River Road, IA",
+  "locationCity": "River Road",
+  "locationState": "IA",
+  "locationZipcode": "52101",
+  "lat": 43.29954500135727,
+  "lon": -91.735149593084,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.756Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.756Z"
+}

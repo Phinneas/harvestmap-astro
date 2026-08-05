@@ -1,0 +1,19 @@
+{
+  "slug": "thornbury-farm-csa-1256-thornbury-road",
+  "name": "Thornbury Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1256 Thornbury Road, PA",
+  "locationCity": "1256 Thornbury Road",
+  "locationState": "PA",
+  "locationZipcode": "19382",
+  "lat": 39.9073241,
+  "lon": -75.5900379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.546Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.546Z"
+}

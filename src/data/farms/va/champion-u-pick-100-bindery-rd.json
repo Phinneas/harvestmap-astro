@@ -1,0 +1,19 @@
+{
+  "slug": "champion-u-pick-100-bindery-rd",
+  "name": "Champion U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 Bindery Rd, VA",
+  "locationCity": "100 Bindery Rd",
+  "locationState": "VA",
+  "locationZipcode": "22844",
+  "lat": 38.6525040206744,
+  "lon": -78.68655699244074,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.378Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.378Z"
+}

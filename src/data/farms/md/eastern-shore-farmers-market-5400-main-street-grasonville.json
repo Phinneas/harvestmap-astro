@@ -1,0 +1,19 @@
+{
+  "slug": "eastern-shore-farmers-market-5400-main-street-grasonville",
+  "name": "Eastern Shore Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5400 Main Street Grasonville, MD",
+  "locationCity": "5400 Main Street Grasonville",
+  "locationState": "MD",
+  "locationZipcode": "21638",
+  "lat": 38.96061123445166,
+  "lon": -76.18912553193299,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

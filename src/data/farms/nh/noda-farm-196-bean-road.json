@@ -1,0 +1,19 @@
+{
+  "slug": "noda-farm-196-bean-road",
+  "name": "Noda Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "196 Bean Road, NH",
+  "locationCity": "196 Bean Road",
+  "locationState": "NH",
+  "locationZipcode": "03781",
+  "lat": 43.5331579966159,
+  "lon": -72.2441409678404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.746Z"
+}

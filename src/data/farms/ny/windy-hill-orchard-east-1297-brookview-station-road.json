@@ -1,0 +1,19 @@
+{
+  "slug": "windy-hill-orchard-east-1297-brookview-station-road",
+  "name": "Windy Hill Orchard- East",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1297 Brookview Station Road, NY",
+  "locationCity": "1297 Brookview Station Road",
+  "locationState": "NY",
+  "locationZipcode": "12033",
+  "lat": 42.539567194199,
+  "lon": -73.7076351762319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.124Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.124Z"
+}

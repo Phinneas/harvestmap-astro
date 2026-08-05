@@ -1,0 +1,19 @@
+{
+  "slug": "two-birds-farm-2931-s-78th-st",
+  "name": "Two Birds Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2931 S. 78th St, KS",
+  "locationCity": "2931 S. 78th St",
+  "locationState": "KS",
+  "locationZipcode": "66106",
+  "lat": 39.048368357610116,
+  "lon": -94.75922915840485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:53.468Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:53.468Z"
+}

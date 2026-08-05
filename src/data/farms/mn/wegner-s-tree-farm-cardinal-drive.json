@@ -1,0 +1,19 @@
+{
+  "slug": "wegner-s-tree-farm-cardinal-drive",
+  "name": "Wegner's Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cardinal Drive, MN",
+  "locationCity": "Cardinal Drive",
+  "locationState": "MN",
+  "locationZipcode": "55744",
+  "lat": 47.1578689837632,
+  "lon": -93.3982570252373,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.842Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.842Z"
+}

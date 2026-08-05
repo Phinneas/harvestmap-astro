@@ -1,0 +1,19 @@
+{
+  "slug": "st-croix-farm-14-ridge-rd",
+  "name": "St. Croix Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "14 Ridge Rd, NY",
+  "locationCity": "14 Ridge Rd",
+  "locationState": "NY",
+  "locationZipcode": "12185",
+  "lat": 42.92230773387584,
+  "lon": -73.53055917356654,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.186Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.186Z"
+}

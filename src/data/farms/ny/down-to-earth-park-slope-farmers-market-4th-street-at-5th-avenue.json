@@ -1,0 +1,19 @@
+{
+  "slug": "down-to-earth-park-slope-farmers-market-4th-street-at-5th-avenue",
+  "name": "Down to Earth Park Slope Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4th Street at 5th Avenue, NY",
+  "locationCity": "4th Street at 5th Avenue",
+  "locationState": "NY",
+  "locationZipcode": "11215",
+  "lat": 40.672303,
+  "lon": -73.983867,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.061Z"
+}

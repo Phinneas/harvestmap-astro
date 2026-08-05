@@ -1,0 +1,19 @@
+{
+  "slug": "d-h-farms-po-box-352",
+  "name": "D & H Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 352, CO",
+  "locationCity": "PO Box 352",
+  "locationState": "CO",
+  "locationZipcode": "41373",
+  "lat": 40.5819854,
+  "lon": -104.7313754,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.574Z"
+}

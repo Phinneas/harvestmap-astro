@@ -1,0 +1,19 @@
+{
+  "slug": "old-town-scottsdale-farmers-market-scottsdale-az-85251",
+  "name": "Old Town Scottsdale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Scottsdale AZ 85251, AZ",
+  "locationCity": "Scottsdale AZ 85251",
+  "locationState": "AZ",
+  "locationZipcode": "85251",
+  "lat": 33.49610000000007,
+  "lon": -111.92618999999996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

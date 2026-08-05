@@ -1,0 +1,19 @@
+{
+  "slug": "green-valley-csa-13024-green-valley-rd",
+  "name": "Green Valley CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "13024 Green Valley Rd, CA",
+  "locationCity": "13024 Green Valley Rd",
+  "locationState": "CA",
+  "locationZipcode": "13024",
+  "lat": 38.4543092,
+  "lon": -122.9300281,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.039Z"
+}

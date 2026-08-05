@@ -1,0 +1,19 @@
+{
+  "slug": "home-sweet-farm-market-307-so-park-st-brenham",
+  "name": "HOME sweet FARM Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "307 So. Park St. Brenham, TX",
+  "locationCity": "307 So. Park St. Brenham",
+  "locationState": "TX",
+  "locationZipcode": "77833",
+  "lat": 30.165354960667077,
+  "lon": -96.39754527001651,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

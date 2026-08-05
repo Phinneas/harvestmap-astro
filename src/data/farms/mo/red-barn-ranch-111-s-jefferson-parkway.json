@@ -1,0 +1,19 @@
+{
+  "slug": "red-barn-ranch-111-s-jefferson-parkway",
+  "name": "Red Barn Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "111 S. Jefferson Parkway, MO",
+  "locationCity": "111 S. Jefferson Parkway",
+  "locationState": "MO",
+  "locationZipcode": "64701",
+  "lat": 38.7000829394134,
+  "lon": -94.3501277604191,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.743Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.743Z"
+}

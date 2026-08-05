@@ -1,0 +1,19 @@
+{
+  "slug": "hummerhaven-farmstead-1080-dimmsville-rd",
+  "name": "Hummerhaven Farmstead",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1080 Dimmsville Rd, PA",
+  "locationCity": "1080 Dimmsville Rd",
+  "locationState": "PA",
+  "locationZipcode": "17062",
+  "lat": 40.5968989853733,
+  "lon": -77.1428820011871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.150Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.150Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "san-diego-honey-company-sea-hive-station",
+  "name": "San Diego Honey Company",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sea Hive Station, CA",
+  "locationCity": "Sea Hive Station",
+  "locationState": "CA",
+  "locationZipcode": "92106",
+  "lat": 32.7379550000001,
+  "lon": -117.211885,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.804Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.804Z"
+}

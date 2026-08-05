@@ -1,0 +1,20 @@
+{
+  "slug": "langwater-farm-209-washington-st",
+  "name": "Langwater Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "209 Washington St, MA",
+  "locationCity": "209 Washington St",
+  "locationState": "MA",
+  "locationZipcode": "02356",
+  "lat": 42.0737109,
+  "lon": -71.0884306,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.260Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.260Z",
+  "crops": []
+}

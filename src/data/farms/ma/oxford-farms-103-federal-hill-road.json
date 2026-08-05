@@ -1,0 +1,19 @@
+{
+  "slug": "oxford-farms-103-federal-hill-road",
+  "name": "Oxford Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "103 Federal Hill Road, MA",
+  "locationCity": "103 Federal Hill Road",
+  "locationState": "MA",
+  "locationZipcode": "01540",
+  "lat": 42.1476653181704,
+  "lon": -71.84214095205168,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.291Z"
+}

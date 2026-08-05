@@ -1,0 +1,19 @@
+{
+  "slug": "east-jerusalem-farmer-s-market-115-w-9th-ave-petal",
+  "name": "East Jerusalem Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 W. 9th Ave. Petal, MS",
+  "locationCity": "115 W. 9th Ave. Petal",
+  "locationState": "MS",
+  "locationZipcode": "39465",
+  "lat": 31.334011356090674,
+  "lon": -89.26444659488209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

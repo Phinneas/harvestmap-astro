@@ -1,0 +1,19 @@
+{
+  "slug": "horseshoe-hill-orchard-us-151",
+  "name": "Horseshoe Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US 151, WI",
+  "locationCity": "US 151",
+  "locationState": "WI",
+  "locationZipcode": "53014",
+  "lat": 43.9972659870969,
+  "lon": -88.3057969660991,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.444Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.444Z"
+}

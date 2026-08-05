@@ -1,0 +1,19 @@
+{
+  "slug": "winsted-farmers-market-winsted",
+  "name": "Winsted Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Winsted, MN",
+  "locationCity": "Winsted",
+  "locationState": "MN",
+  "locationZipcode": "55395",
+  "lat": 44.9623587,
+  "lon": -94.0546193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

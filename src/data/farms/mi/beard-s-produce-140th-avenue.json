@@ -1,0 +1,19 @@
+{
+  "slug": "beard-s-produce-140th-avenue",
+  "name": "Beard's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "140th Avenue, MI",
+  "locationCity": "140th Avenue",
+  "locationState": "MI",
+  "locationZipcode": "49323",
+  "lat": 42.7106236059363,
+  "lon": -85.7268803337533,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.554Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.554Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "franklin-street-bazaar-2000-w-franklin-street",
+  "name": "Franklin Street Bazaar",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2000 W. Franklin Street, IN",
+  "locationCity": "2000 W. Franklin Street",
+  "locationState": "IN",
+  "locationZipcode": "47710",
+  "lat": 37.980191,
+  "lon": -87.594742,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.608Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.608Z"
+}

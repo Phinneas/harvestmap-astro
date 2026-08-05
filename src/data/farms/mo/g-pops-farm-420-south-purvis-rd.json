@@ -1,0 +1,19 @@
+{
+  "slug": "g-pops-farm-420-south-purvis-rd",
+  "name": "G.Pops' Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "420 South Purvis Rd, MO",
+  "locationCity": "420 South Purvis Rd",
+  "locationState": "MO",
+  "locationZipcode": "64080",
+  "lat": 38.7618626231238,
+  "lon": -94.2538445896752,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.714Z"
+}

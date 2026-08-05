@@ -1,0 +1,19 @@
+{
+  "slug": "country-lane-farmers-market-1642-16th-st-barron",
+  "name": "Country Lane Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1642 16th St. Barron, WI",
+  "locationCity": "1642 16th St. Barron",
+  "locationState": "WI",
+  "locationZipcode": "54812",
+  "lat": 45.44289892126847,
+  "lon": -91.82704552681678,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.857Z"
+}

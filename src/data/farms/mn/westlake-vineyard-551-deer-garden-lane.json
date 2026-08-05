@@ -1,0 +1,19 @@
+{
+  "slug": "westlake-vineyard-551-deer-garden-lane",
+  "name": "Westlake Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "551 Deer Garden Lane, MN",
+  "locationCity": "551 Deer Garden Lane",
+  "locationState": "MN",
+  "locationZipcode": "55013",
+  "lat": 45.3682200030276,
+  "lon": -92.9069585379028,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.835Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.835Z"
+}

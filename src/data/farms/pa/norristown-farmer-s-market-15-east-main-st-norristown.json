@@ -1,0 +1,19 @@
+{
+  "slug": "norristown-farmer-s-market-15-east-main-st-norristown",
+  "name": "Norristown Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 East Main St. Norristown, PA",
+  "locationCity": "15 East Main St. Norristown",
+  "locationState": "PA",
+  "locationZipcode": "19401",
+  "lat": 40.11409882445489,
+  "lon": -75.34325132393248,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

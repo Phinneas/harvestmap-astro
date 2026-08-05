@@ -1,0 +1,19 @@
+{
+  "slug": "dc-farmers-market-1309-5th-street",
+  "name": "DC Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1309 5th Street, DC",
+  "locationCity": "1309 5th Street",
+  "locationState": "DC",
+  "locationZipcode": "20002",
+  "lat": 38.90887321715417,
+  "lon": -76.99791110428124,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:00.227Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:00.227Z"
+}

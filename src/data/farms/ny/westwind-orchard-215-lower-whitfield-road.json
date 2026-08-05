@@ -1,0 +1,19 @@
+{
+  "slug": "westwind-orchard-215-lower-whitfield-road",
+  "name": "Westwind Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "215 Lower Whitfield Road, NY",
+  "locationCity": "215 Lower Whitfield Road",
+  "locationState": "NY",
+  "locationZipcode": "12404",
+  "lat": 41.8076046750916,
+  "lon": -74.2487725216191,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.122Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.122Z"
+}

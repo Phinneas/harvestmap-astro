@@ -1,0 +1,19 @@
+{
+  "slug": "hall-s-orchards-461-main-street",
+  "name": "Hall's Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "461 Main Street, VT",
+  "locationCity": "461 Main Street",
+  "locationState": "VT",
+  "locationZipcode": "05463",
+  "lat": 44.9024920865603,
+  "lon": -73.3231668384383,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.216Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.216Z"
+}

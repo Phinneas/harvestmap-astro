@@ -1,0 +1,19 @@
+{
+  "slug": "fernwood-farm-385-w-beaverdam-road",
+  "name": "Fernwood Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "385 W. Beaverdam Road, TN",
+  "locationCity": "385 W. Beaverdam Road",
+  "locationState": "TN",
+  "locationZipcode": "37033",
+  "lat": 35.7235150112414,
+  "lon": -87.5258740352122,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.342Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.342Z"
+}

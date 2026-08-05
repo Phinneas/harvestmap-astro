@@ -1,0 +1,19 @@
+{
+  "slug": "your-garden-west-bath-road",
+  "name": "Your Garden",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "West Bath Road, MI",
+  "locationCity": "West Bath Road",
+  "locationState": "MI",
+  "locationZipcode": "48872",
+  "lat": 42.8238210002071,
+  "lon": -84.2460599654569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.703Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.703Z"
+}

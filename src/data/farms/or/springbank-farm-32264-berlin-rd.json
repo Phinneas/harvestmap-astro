@@ -1,0 +1,19 @@
+{
+  "slug": "springbank-farm-32264-berlin-rd",
+  "name": "Springbank Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "32264 Berlin Rd, OR",
+  "locationCity": "32264 Berlin Rd",
+  "locationState": "OR",
+  "locationZipcode": "32264",
+  "lat": 44.51479301998148,
+  "lon": -122.84519800117482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.522Z"
+}

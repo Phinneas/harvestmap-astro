@@ -1,0 +1,20 @@
+{
+  "slug": "moulton-farm-18-quarry-road-off-route-25",
+  "name": "Moulton Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "18 Quarry Road (off Route 25), NH",
+  "locationCity": "18 Quarry Road (off Route 25)",
+  "locationState": "NH",
+  "locationZipcode": "03253",
+  "lat": 43.6773230012866,
+  "lon": -71.4708020218978,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.584Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.584Z",
+  "crops": []
+}

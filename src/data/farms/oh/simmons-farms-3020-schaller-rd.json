@@ -1,0 +1,19 @@
+{
+  "slug": "simmons-farms-3020-schaller-rd",
+  "name": "Simmons Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3020 Schaller Rd, OH",
+  "locationCity": "3020 Schaller Rd",
+  "locationState": "OH",
+  "locationZipcode": "45106",
+  "lat": 38.9611380169918,
+  "lon": -84.1004010122737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.829Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.829Z"
+}

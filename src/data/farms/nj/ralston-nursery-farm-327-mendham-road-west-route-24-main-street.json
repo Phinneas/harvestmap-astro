@@ -1,0 +1,20 @@
+{
+  "slug": "ralston-nursery-farm-327-mendham-road-west-route-24-main-street",
+  "name": "Ralston Nursery Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "327 Mendham Road West (route 24/main Street), NJ",
+  "locationCity": "327 Mendham Road West (route 24/main Street)",
+  "locationState": "NJ",
+  "locationZipcode": "07945",
+  "lat": 40.7726319976024,
+  "lon": -74.6264050037723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.540Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.540Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "berube-farm-llc-56-doyle-ave",
+  "name": "Berube Farm, LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "56 Doyle Ave, MA",
+  "locationCity": "56 Doyle Ave",
+  "locationState": "MA",
+  "locationZipcode": "01826",
+  "lat": 42.6713638,
+  "lon": -71.324934,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.258Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.258Z"
+}

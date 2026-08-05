@@ -1,0 +1,19 @@
+{
+  "slug": "gouveia-vineyards-1339-whirlwind-hill-rd",
+  "name": "Gouveia Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1339 Whirlwind Hill Rd, CT",
+  "locationCity": "1339 Whirlwind Hill Rd",
+  "locationState": "CT",
+  "locationZipcode": "06492",
+  "lat": 41.4331330086259,
+  "lon": -72.7694479994334,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.977Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.977Z"
+}

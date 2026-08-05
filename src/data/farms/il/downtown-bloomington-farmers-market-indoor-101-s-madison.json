@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-bloomington-farmers-market-indoor-101-s-madison",
+  "name": "Downtown Bloomington Farmers Market- Indoor",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 S. Madison, IL",
+  "locationCity": "101 S. Madison",
+  "locationState": "IL",
+  "locationZipcode": "61701",
+  "lat": 40.478127,
+  "lon": -88.996165,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.949Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.949Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "roseberry-farms-223-highway-9",
+  "name": "Roseberry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "223 highway 9, AR",
+  "locationCity": "223 highway 9",
+  "locationState": "AR",
+  "locationZipcode": "72019",
+  "lat": 34.7381172336333,
+  "lon": -92.762023617761,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.964Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.964Z"
+}

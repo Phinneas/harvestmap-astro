@@ -1,0 +1,19 @@
+{
+  "slug": "covington-farmers-market-609-north-columbia-st-covington-city-hall-covington",
+  "name": "Covington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "609 North Columbia St. (Covington City Hall) Covington, LA",
+  "locationCity": "609 North Columbia St. (Covington City Hall) Covington",
+  "locationState": "LA",
+  "locationZipcode": "70433",
+  "lat": 30.47857798136075,
+  "lon": -90.095031952303,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

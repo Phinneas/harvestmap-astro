@@ -1,0 +1,19 @@
+{
+  "slug": "mance-farm-081-south-naches-road",
+  "name": "Mance Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "081 South Naches Road, WA",
+  "locationCity": "081 South Naches Road",
+  "locationState": "WA",
+  "locationZipcode": "98937",
+  "lat": 46.6314272993277,
+  "lon": -120.588155399546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.265Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.265Z"
+}

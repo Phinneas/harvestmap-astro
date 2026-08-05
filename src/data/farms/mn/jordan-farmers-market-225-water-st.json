@@ -1,0 +1,19 @@
+{
+  "slug": "jordan-farmers-market-225-water-st",
+  "name": "Jordan Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "225 Water St, MN",
+  "locationCity": "225 Water St",
+  "locationState": "MN",
+  "locationZipcode": "55352",
+  "lat": 44.6655405,
+  "lon": -93.6265156,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

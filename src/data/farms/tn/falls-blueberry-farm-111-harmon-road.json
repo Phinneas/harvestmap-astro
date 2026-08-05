@@ -1,0 +1,19 @@
+{
+  "slug": "falls-blueberry-farm-111-harmon-road",
+  "name": "Falls Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "111 Harmon Road, TN",
+  "locationCity": "111 Harmon Road",
+  "locationState": "TN",
+  "locationZipcode": "37804",
+  "lat": 35.7553649860226,
+  "lon": -83.9220210369313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.186Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.186Z"
+}

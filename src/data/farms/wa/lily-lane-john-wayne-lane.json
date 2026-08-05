@@ -9,23 +9,11 @@
   "locationZipcode": "",
   "lat": 46.9137839818903,
   "lon": -123.977164972563,
-  "website": "https://www.finnriver.com/farm",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:40:43.159Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:40:59.919Z"
+      "lastSeen": "2026-08-05T18:53:16.378Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:40:43.159Z",
-  "crops": [
-    "Blueberries",
-    "Apples",
-    "Corn",
-    "Flowers"
-  ],
-  "phone": "(360) 648-0044"
+  "usdaLastUpdated": "2026-08-05T18:53:16.378Z"
 }

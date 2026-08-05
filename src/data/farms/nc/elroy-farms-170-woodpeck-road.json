@@ -1,0 +1,19 @@
+{
+  "slug": "elroy-farms-170-woodpeck-road",
+  "name": "Elroy Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "170 Woodpeck Road, NC",
+  "locationCity": "170 Woodpeck Road",
+  "locationState": "NC",
+  "locationZipcode": "27534",
+  "lat": 35.3411201831611,
+  "lon": -77.9116202881148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.871Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.871Z"
+}

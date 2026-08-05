@@ -1,0 +1,19 @@
+{
+  "slug": "hirshfeld-farm-998-southland-road",
+  "name": "Hirshfeld Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "998 Southland Road, OH",
+  "locationCity": "998 Southland Road",
+  "locationState": "OH",
+  "locationZipcode": "45869",
+  "lat": 40.4803599791975,
+  "lon": -84.4344600031313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.921Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.921Z"
+}

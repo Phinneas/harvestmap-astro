@@ -1,0 +1,20 @@
+{
+  "slug": "grounding-stone-farm-289-maple-street",
+  "name": "Grounding Stone Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "289 Maple Street, NH",
+  "locationCity": "289 Maple Street",
+  "locationState": "NH",
+  "locationZipcode": "03229",
+  "lat": 43.215043983988,
+  "lon": -71.708723014085,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.498Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.498Z",
+  "crops": []
+}

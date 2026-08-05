@@ -1,0 +1,19 @@
+{
+  "slug": "yuba-sutter-food-bank-760-stafford-way",
+  "name": "Yuba-Sutter Food Bank",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "760 Stafford Way, CA",
+  "locationCity": "760 Stafford Way",
+  "locationState": "CA",
+  "locationZipcode": "95991",
+  "lat": 39.13682698231975,
+  "lon": -121.62799797096662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

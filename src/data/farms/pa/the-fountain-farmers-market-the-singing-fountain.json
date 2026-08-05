@@ -1,0 +1,19 @@
+{
+  "slug": "the-fountain-farmers-market-the-singing-fountain",
+  "name": "The Fountain Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "The Singing Fountain, PA",
+  "locationCity": "The Singing Fountain",
+  "locationState": "PA",
+  "locationZipcode": "19147",
+  "lat": 39.929934,
+  "lon": -75.163171,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.008Z"
+}

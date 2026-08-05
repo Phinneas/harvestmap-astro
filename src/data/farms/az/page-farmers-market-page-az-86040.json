@@ -1,0 +1,19 @@
+{
+  "slug": "page-farmers-market-page-az-86040",
+  "name": "Page Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Page AZ 86040, AZ",
+  "locationCity": "Page AZ 86040",
+  "locationState": "AZ",
+  "locationZipcode": "86040",
+  "lat": 36.92001630000004,
+  "lon": -111.45592569999997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

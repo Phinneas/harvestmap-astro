@@ -1,0 +1,19 @@
+{
+  "slug": "square-deal-farm-362-woodward-road",
+  "name": "Square Deal Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "362 Woodward Road, VT",
+  "locationCity": "362 Woodward Road",
+  "locationState": "VT",
+  "locationZipcode": "05843",
+  "lat": 44.4646851,
+  "lon": -72.102151,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:48.445Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:48.445Z"
+}

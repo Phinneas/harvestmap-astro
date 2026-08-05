@@ -1,0 +1,19 @@
+{
+  "slug": "eastfields-farms-85-preston-pt-rd",
+  "name": "Eastfields Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "85 Preston Pt Rd, VA",
+  "locationCity": "85 Preston Pt Rd",
+  "locationState": "VA",
+  "locationZipcode": "23109",
+  "lat": 37.421992019481,
+  "lon": -76.3572540117229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.123Z"
+}

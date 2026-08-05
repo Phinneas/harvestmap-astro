@@ -1,0 +1,19 @@
+{
+  "slug": "moorhead-farmer-s-market-202-1st-ave-n",
+  "name": "Moorhead Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "202 1st Ave N, MN",
+  "locationCity": "202 1st Ave N",
+  "locationState": "MN",
+  "locationZipcode": "56560",
+  "lat": 46.8772463,
+  "lon": -96.7794273,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cider-hill-farm-45-fern-ave",
+  "name": "Cider Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "45 Fern Ave, MA",
+  "locationCity": "45 Fern Ave",
+  "locationState": "MA",
+  "locationZipcode": "01913",
+  "lat": 42.8755629914233,
+  "lon": -70.9267377159217,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.474Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.474Z"
+}

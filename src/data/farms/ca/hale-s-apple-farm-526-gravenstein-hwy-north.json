@@ -1,0 +1,19 @@
+{
+  "slug": "hale-s-apple-farm-526-gravenstein-hwy-north",
+  "name": "Hale's Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "526 Gravenstein Hwy North, CA",
+  "locationCity": "526 Gravenstein Hwy North",
+  "locationState": "CA",
+  "locationZipcode": "95472",
+  "lat": 38.4056920777027,
+  "lon": -122.83701370003,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.738Z"
+}

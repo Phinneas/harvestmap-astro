@@ -1,0 +1,19 @@
+{
+  "slug": "back-acres-farm-226-unity-road",
+  "name": "Back Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "226 Unity Road, ME",
+  "locationCity": "226 Unity Road",
+  "locationState": "ME",
+  "locationZipcode": "04910",
+  "lat": 44.5360465508588,
+  "lon": -69.4152803297226,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.849Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.849Z"
+}

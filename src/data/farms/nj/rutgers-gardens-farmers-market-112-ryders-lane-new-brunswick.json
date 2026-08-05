@@ -1,0 +1,19 @@
+{
+  "slug": "rutgers-gardens-farmers-market-112-ryders-lane-new-brunswick",
+  "name": "Rutgers Gardens Farmers market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 Ryders Lane New Brunswick, NJ",
+  "locationCity": "112 Ryders Lane New Brunswick",
+  "locationState": "NJ",
+  "locationZipcode": "08901",
+  "lat": 40.4837391735629,
+  "lon": -74.43250928101315,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

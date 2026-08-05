@@ -1,0 +1,19 @@
+{
+  "slug": "barretts-strawberry-farm-11434-fairfield-road",
+  "name": "Barretts Strawberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11434 Fairfield Road, OH",
+  "locationCity": "11434 Fairfield Road",
+  "locationState": "OH",
+  "locationZipcode": "11434",
+  "lat": 39.32470600089277,
+  "lon": -83.55519299560935,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.928Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.928Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "olde-beaufort-farmers-market-300-courthouse-square",
+  "name": "Olde Beaufort Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Courthouse Square, NC",
+  "locationCity": "300 Courthouse Square",
+  "locationState": "NC",
+  "locationZipcode": "28516",
+  "lat": 34.719572,
+  "lon": -76.663201,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.229Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.229Z"
+}

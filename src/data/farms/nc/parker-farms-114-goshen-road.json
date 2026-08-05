@@ -1,0 +1,19 @@
+{
+  "slug": "parker-farms-114-goshen-road",
+  "name": "Parker Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "114 Goshen Road, NC",
+  "locationCity": "114 Goshen Road",
+  "locationState": "NC",
+  "locationZipcode": "28573",
+  "lat": 35.0095040560744,
+  "lon": -77.2252700744314,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.730Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.730Z"
+}

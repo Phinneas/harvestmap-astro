@@ -1,0 +1,19 @@
+{
+  "slug": "sauk-rapids-farmers-market-110-1st-st-s",
+  "name": "Sauk Rapids Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 1st St S, MN",
+  "locationCity": "110 1st St S",
+  "locationState": "MN",
+  "locationZipcode": "56379",
+  "lat": 45.5874988,
+  "lon": -94.1637564,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

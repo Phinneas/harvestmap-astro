@@ -1,0 +1,19 @@
+{
+  "slug": "drumheller-s-orchard-130-drumheller-orchard-lane",
+  "name": "Drumheller's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "130 Drumheller Orchard Lane, VA",
+  "locationCity": "130 Drumheller Orchard Lane",
+  "locationState": "VA",
+  "locationZipcode": "22949",
+  "lat": 37.7312934117923,
+  "lon": -78.8954613962829,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.269Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.269Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "corinth-farmers-market-919-shiloh-road-corinth",
+  "name": "Corinth Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "919 Shiloh Road Corinth, MS",
+  "locationCity": "919 Shiloh Road Corinth",
+  "locationState": "MS",
+  "locationZipcode": "38834",
+  "lat": 34.94538499075341,
+  "lon": -88.51413182496027,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

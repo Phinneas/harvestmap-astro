@@ -1,0 +1,19 @@
+{
+  "slug": "garden-of-baypoint-2001-62nd-avenue-south",
+  "name": "Garden of BayPoint",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2001 62nd Avenue South, FL",
+  "locationCity": "2001 62nd Avenue South",
+  "locationState": "FL",
+  "locationZipcode": "33712",
+  "lat": 27.712663727678674,
+  "lon": -82.65925597523305,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.824Z"
+}

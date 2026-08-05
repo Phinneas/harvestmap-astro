@@ -1,0 +1,19 @@
+{
+  "slug": "flyin-c-575-elysian-valley-road",
+  "name": "Flyin' C",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "575 Elysian Valley Road, CA",
+  "locationCity": "575 Elysian Valley Road",
+  "locationState": "CA",
+  "locationZipcode": "96114",
+  "lat": 40.31344789762,
+  "lon": -120.570861661774,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.832Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.832Z"
+}

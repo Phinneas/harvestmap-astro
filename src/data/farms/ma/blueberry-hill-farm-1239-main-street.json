@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-farm-1239-main-street",
+  "name": "Blueberry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1239 Main Street, MA",
+  "locationCity": "1239 Main Street",
+  "locationState": "MA",
+  "locationZipcode": "02668",
+  "lat": 41.7032676013493,
+  "lon": -70.3637553476078,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.464Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.464Z"
+}

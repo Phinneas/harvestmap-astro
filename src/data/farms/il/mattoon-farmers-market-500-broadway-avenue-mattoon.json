@@ -1,0 +1,19 @@
+{
+  "slug": "mattoon-farmers-market-500-broadway-avenue-mattoon",
+  "name": "Mattoon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Broadway Avenue Mattoon, IL",
+  "locationCity": "500 Broadway Avenue Mattoon",
+  "locationState": "IL",
+  "locationZipcode": "61938",
+  "lat": 39.48262782281106,
+  "lon": -88.35888146813386,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

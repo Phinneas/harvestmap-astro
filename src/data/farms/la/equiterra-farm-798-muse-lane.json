@@ -1,0 +1,19 @@
+{
+  "slug": "equiterra-farm-798-muse-lane",
+  "name": "EquiTerra Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "798 Muse Lane, LA",
+  "locationCity": "798 Muse Lane",
+  "locationState": "LA",
+  "locationZipcode": "70722",
+  "lat": 30.8719814114978,
+  "lon": -90.9257858386548,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.159Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.159Z"
+}

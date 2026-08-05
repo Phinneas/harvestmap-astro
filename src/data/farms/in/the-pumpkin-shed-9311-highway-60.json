@@ -1,0 +1,20 @@
+{
+  "slug": "the-pumpkin-shed-9311-highway-60",
+  "name": "The Pumpkin Shed",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9311 highway 60, IN",
+  "locationCity": "9311 highway 60",
+  "locationState": "IN",
+  "locationZipcode": "47172",
+  "lat": 38.3931469816683,
+  "lon": -85.7767079704333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.317Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.317Z",
+  "crops": []
+}

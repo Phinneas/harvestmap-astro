@@ -1,0 +1,19 @@
+{
+  "slug": "hilltop-greens-1440-field-of-dreams-way",
+  "name": "Hilltop Greens",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1440 Field Of Dreams Way, IA",
+  "locationCity": "1440 Field Of Dreams Way",
+  "locationState": "IA",
+  "locationZipcode": "52040",
+  "lat": 42.47284900512213,
+  "lon": -91.1409290279918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:40.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:40.605Z"
+}

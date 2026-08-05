@@ -1,0 +1,19 @@
+{
+  "slug": "tsac-farms-068-adams-station-road",
+  "name": "TSAC Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "068 Adams Station Road, MS",
+  "locationCity": "068 Adams Station Road",
+  "locationState": "MS",
+  "locationZipcode": "39066",
+  "lat": 32.1941837257406,
+  "lon": -90.5661100105225,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.549Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.549Z"
+}

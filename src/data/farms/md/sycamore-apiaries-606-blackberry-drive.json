@@ -1,0 +1,19 @@
+{
+  "slug": "sycamore-apiaries-606-blackberry-drive",
+  "name": "Sycamore Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "606 Blackberry Drive, MD",
+  "locationCity": "606 Blackberry Drive",
+  "locationState": "MD",
+  "locationZipcode": "20878",
+  "lat": 39.114323936044,
+  "lon": -77.2491151626379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.315Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.315Z"
+}

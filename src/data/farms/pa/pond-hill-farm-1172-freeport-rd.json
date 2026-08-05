@@ -1,0 +1,19 @@
+{
+  "slug": "pond-hill-farm-1172-freeport-rd",
+  "name": "Pond Hill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1172 Freeport Rd, PA",
+  "locationCity": "1172 Freeport Rd",
+  "locationState": "PA",
+  "locationZipcode": "16201",
+  "lat": 40.772866607072245,
+  "lon": -79.63338850980317,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.604Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.604Z"
+}

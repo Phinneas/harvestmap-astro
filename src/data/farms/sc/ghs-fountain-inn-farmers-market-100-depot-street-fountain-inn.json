@@ -1,0 +1,19 @@
+{
+  "slug": "ghs-fountain-inn-farmers-market-100-depot-street-fountain-inn",
+  "name": "GHS Fountain Inn Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Depot Street Fountain Inn, SC",
+  "locationCity": "100 Depot Street Fountain Inn",
+  "locationState": "SC",
+  "locationZipcode": "29644",
+  "lat": 34.69304379342341,
+  "lon": -82.2000479207253,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.194Z"
+}

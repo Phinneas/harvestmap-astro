@@ -1,0 +1,19 @@
+{
+  "slug": "olde-towne-curb-market-100-main-street-smithfield",
+  "name": "Olde Towne Curb Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Main Street Smithfield, VA",
+  "locationCity": "100 Main Street Smithfield",
+  "locationState": "VA",
+  "locationZipcode": "23431",
+  "lat": 36.982256759825006,
+  "lon": -76.63110997102575,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

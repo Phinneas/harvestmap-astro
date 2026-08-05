@@ -1,0 +1,19 @@
+{
+  "slug": "twelve2-farm-411-davis-crossing-rd",
+  "name": "Twelve2 Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "411 Davis Crossing Rd, MS",
+  "locationCity": "411 Davis Crossing Rd",
+  "locationState": "MS",
+  "locationZipcode": "39046",
+  "lat": 32.6925440145156,
+  "lon": -90.03935098184242,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:24.066Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:24.066Z"
+}

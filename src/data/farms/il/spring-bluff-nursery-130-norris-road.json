@@ -1,0 +1,19 @@
+{
+  "slug": "spring-bluff-nursery-130-norris-road",
+  "name": "Spring Bluff Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "130 Norris Road, IL",
+  "locationCity": "130 Norris Road",
+  "locationState": "IL",
+  "locationZipcode": "60554",
+  "lat": 41.8134120551534,
+  "lon": -88.4085574460942,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.882Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.882Z"
+}

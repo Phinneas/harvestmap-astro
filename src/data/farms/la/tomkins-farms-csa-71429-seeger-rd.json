@@ -1,0 +1,20 @@
+{
+  "slug": "tomkins-farms-csa-71429-seeger-rd",
+  "name": "Tomkins Farms CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "71429 Seeger Rd., LA",
+  "locationCity": "71429 Seeger Rd.",
+  "locationState": "LA",
+  "locationZipcode": "71429",
+  "lat": 30.4698921,
+  "lon": -90.1587704,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:29.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:29.817Z",
+  "crops": []
+}

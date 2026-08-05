@@ -1,0 +1,19 @@
+{
+  "slug": "landisdale-farm-838-ono-road",
+  "name": "Landisdale Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "838 Ono Road, PA",
+  "locationCity": "838 Ono Road",
+  "locationState": "PA",
+  "locationZipcode": "17038",
+  "lat": 40.39188798535238,
+  "lon": -76.52359799320045,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.598Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.598Z"
+}

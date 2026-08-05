@@ -1,0 +1,19 @@
+{
+  "slug": "willy-s-farm-and-cider-mill-18-arch-street",
+  "name": "Willy's Farm And Cider Mill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "18 Arch Street, NY",
+  "locationCity": "18 Arch Street",
+  "locationState": "NY",
+  "locationZipcode": "12155",
+  "lat": 42.54763,
+  "lon": -74.8231249999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.123Z"
+}

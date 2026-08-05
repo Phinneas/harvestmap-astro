@@ -1,0 +1,19 @@
+{
+  "slug": "brad-s-blueberries-3108-old-hwy-421",
+  "name": "Brad's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3108 Old Hwy 421, NC",
+  "locationCity": "3108 Old Hwy 421",
+  "locationState": "NC",
+  "locationZipcode": "27005",
+  "lat": 36.1345649517894,
+  "lon": -80.6601262688923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.840Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.840Z"
+}

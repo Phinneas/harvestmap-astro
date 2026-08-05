@@ -1,0 +1,19 @@
+{
+  "slug": "cincinnatus-farmers-market-2704-lower-cincinnatus-road-cincinnatus",
+  "name": "Cincinnatus Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2704 Lower Cincinnatus Road Cincinnatus, NY",
+  "locationCity": "2704 Lower Cincinnatus Road Cincinnatus",
+  "locationState": "NY",
+  "locationZipcode": "13040",
+  "lat": 42.537923848225915,
+  "lon": -75.89669336889172,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

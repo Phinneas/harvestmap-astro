@@ -1,0 +1,19 @@
+{
+  "slug": "fitzpen-place-farmers-market-11247-us-highway-31",
+  "name": "Fitzpen Place Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11247 US Highway 31, AL",
+  "locationCity": "11247 US Highway 31",
+  "locationState": "AL",
+  "locationZipcode": "11247",
+  "lat": 30.676896579126286,
+  "lon": -87.82831418553327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.018Z"
+}

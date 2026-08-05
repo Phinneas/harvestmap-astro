@@ -1,0 +1,19 @@
+{
+  "slug": "river-street-market-30-river-street-petersburg",
+  "name": "River Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30 River Street Petersburg, VA",
+  "locationCity": "30 River Street Petersburg",
+  "locationState": "VA",
+  "locationZipcode": "23803",
+  "lat": 37.23398468687644,
+  "lon": -77.4032743131846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

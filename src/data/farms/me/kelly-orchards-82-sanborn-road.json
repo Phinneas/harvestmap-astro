@@ -1,0 +1,20 @@
+{
+  "slug": "kelly-orchards-82-sanborn-road",
+  "name": "Kelly Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "82 Sanborn Road, ME",
+  "locationCity": "82 Sanborn Road",
+  "locationState": "ME",
+  "locationZipcode": "04001",
+  "lat": 43.5293153131051,
+  "lon": -70.9090851763771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.827Z",
+  "crops": []
+}

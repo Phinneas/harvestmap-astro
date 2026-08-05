@@ -1,0 +1,19 @@
+{
+  "slug": "sam-honey-112-libbie-ave",
+  "name": "Sam Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "112 Libbie Ave, VA",
+  "locationCity": "112 Libbie Ave",
+  "locationState": "VA",
+  "locationZipcode": "23230",
+  "lat": 37.5715873884174,
+  "lon": -77.5190018411968,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.318Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.318Z"
+}

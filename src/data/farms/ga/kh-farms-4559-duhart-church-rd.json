@@ -9,24 +9,11 @@
   "locationZipcode": "30823",
   "lat": 33.1222009999315,
   "lon": -82.4502450052883,
-  "website": "https://www.key-farms.com/",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:25:43.865Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:25:54.827Z"
+      "lastSeen": "2026-08-05T18:38:48.382Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:25:43.865Z",
-  "crops": [
-    "Strawberries",
-    "Blueberries",
-    "Pumpkins",
-    "Flowers",
-    "Sunflowers",
-    "Christmas trees"
-  ]
+  "usdaLastUpdated": "2026-08-05T18:38:48.382Z"
 }

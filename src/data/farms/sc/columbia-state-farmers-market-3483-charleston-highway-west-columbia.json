@@ -1,0 +1,19 @@
+{
+  "slug": "columbia-state-farmers-market-3483-charleston-highway-west-columbia",
+  "name": "Columbia State Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3483 Charleston Highway West Columbia, SC",
+  "locationCity": "3483 Charleston Highway West Columbia",
+  "locationState": "SC",
+  "locationZipcode": "29172",
+  "lat": 33.90475657291727,
+  "lon": -81.06541145597802,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.194Z"
+}

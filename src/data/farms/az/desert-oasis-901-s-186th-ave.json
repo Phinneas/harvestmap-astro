@@ -1,0 +1,19 @@
+{
+  "slug": "desert-oasis-901-s-186th-ave",
+  "name": "Desert Oasis",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "901 S 186th Ave, AZ",
+  "locationCity": "901 S 186th Ave",
+  "locationState": "AZ",
+  "locationZipcode": "85326",
+  "lat": 33.2123911302333,
+  "lon": -112.459073092659,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.762Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.762Z"
+}

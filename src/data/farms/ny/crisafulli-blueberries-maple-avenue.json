@@ -1,0 +1,19 @@
+{
+  "slug": "crisafulli-blueberries-maple-avenue",
+  "name": "Crisafulli Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Maple Avenue, NY",
+  "locationCity": "Maple Avenue",
+  "locationState": "NY",
+  "locationZipcode": "14706",
+  "lat": 42.0929739821218,
+  "lon": -78.4735793860802,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.827Z"
+}

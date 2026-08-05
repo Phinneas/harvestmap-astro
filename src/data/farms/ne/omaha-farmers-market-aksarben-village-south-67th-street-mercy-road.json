@@ -1,0 +1,19 @@
+{
+  "slug": "omaha-farmers-market-aksarben-village-south-67th-street-mercy-road",
+  "name": "Omaha Farmers Market - Aksarben Village",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "South 67th Street & Mercy Road, NE",
+  "locationCity": "South 67th Street & Mercy Road",
+  "locationState": "NE",
+  "locationZipcode": "68106",
+  "lat": 41.2388239,
+  "lon": -96.0146108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.966Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.966Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wicker-park-farmers-market-1425-n-damen-ave-chicago",
+  "name": "Wicker Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1425 N. Damen Ave. Chicago, IL",
+  "locationCity": "1425 N. Damen Ave. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60622",
+  "lat": 41.90746810953602,
+  "lon": -87.67737133983734,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

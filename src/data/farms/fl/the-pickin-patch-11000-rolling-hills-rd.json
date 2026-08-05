@@ -1,0 +1,19 @@
+{
+  "slug": "the-pickin-patch-11000-rolling-hills-rd",
+  "name": "The Pickin' Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11000 Rolling Hills Rd, FL",
+  "locationCity": "11000 Rolling Hills Rd",
+  "locationState": "FL",
+  "locationZipcode": "11000",
+  "lat": 29.0636418793451,
+  "lon": -82.4686245638232,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.844Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.844Z"
+}

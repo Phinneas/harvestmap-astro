@@ -1,0 +1,19 @@
+{
+  "slug": "noelridge-farmers-market-collins-rd-council-st-ne-cedar-rapids",
+  "name": "Noelridge Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Collins Rd. & Council St. NE Cedar Rapids, IA",
+  "locationCity": "Collins Rd. & Council St. NE Cedar Rapids",
+  "locationState": "IA",
+  "locationZipcode": "52403",
+  "lat": 42.028439995845986,
+  "lon": -91.65829998983922,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

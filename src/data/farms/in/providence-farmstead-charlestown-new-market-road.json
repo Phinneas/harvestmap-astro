@@ -1,0 +1,19 @@
+{
+  "slug": "providence-farmstead-charlestown-new-market-road",
+  "name": "Providence Farmstead",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Charlestown New Market road, IN",
+  "locationCity": "Charlestown New Market road",
+  "locationState": "IN",
+  "locationZipcode": "47141",
+  "lat": 38.533465897446106,
+  "lon": -85.62103563229957,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.567Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.567Z"
+}

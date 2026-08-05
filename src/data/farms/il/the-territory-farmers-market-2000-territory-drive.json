@@ -1,0 +1,19 @@
+{
+  "slug": "the-territory-farmers-market-2000-territory-drive",
+  "name": "The Territory Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2000 Territory Drive, IL",
+  "locationCity": "2000 Territory Drive",
+  "locationState": "IL",
+  "locationZipcode": "61036",
+  "lat": 42.404443,
+  "lon": -90.31353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.928Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.928Z"
+}

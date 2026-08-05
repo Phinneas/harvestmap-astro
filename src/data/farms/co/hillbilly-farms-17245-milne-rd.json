@@ -1,0 +1,19 @@
+{
+  "slug": "hillbilly-farms-17245-milne-rd",
+  "name": "Hillbilly Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "17245 Milne Rd, CO",
+  "locationCity": "17245 Milne Rd",
+  "locationState": "CO",
+  "locationZipcode": "17245",
+  "lat": 38.5813818539406,
+  "lon": -104.47608175895925,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.591Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.591Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "persephone-flowers-10-tallman-avenue",
+  "name": "Persephone Flowers",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10 Tallman Avenue, NY",
+  "locationCity": "10 Tallman Avenue",
+  "locationState": "NY",
+  "locationZipcode": "13617",
+  "lat": 44.583771221611556,
+  "lon": -75.17858257292704,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.188Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.188Z"
+}

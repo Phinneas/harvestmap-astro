@@ -1,0 +1,19 @@
+{
+  "slug": "renaissance-farms-126-company-farm-rd",
+  "name": "Renaissance Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "126 Company Farm Rd, MA",
+  "locationCity": "126 Company Farm Rd",
+  "locationState": "MA",
+  "locationZipcode": "01005",
+  "lat": 42.3755219,
+  "lon": -72.094418,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.256Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.256Z"
+}

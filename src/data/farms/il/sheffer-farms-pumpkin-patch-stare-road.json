@@ -1,0 +1,19 @@
+{
+  "slug": "sheffer-farms-pumpkin-patch-stare-road",
+  "name": "Sheffer Farms Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Stare Road, IL",
+  "locationCity": "Stare Road",
+  "locationState": "IL",
+  "locationZipcode": "62501",
+  "lat": 39.8866559890502,
+  "lon": -88.8386860158475,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.880Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.880Z"
+}

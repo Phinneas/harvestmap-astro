@@ -1,0 +1,19 @@
+{
+  "slug": "my-tiny-farm-2415-15th-avenue-se",
+  "name": "My Tiny Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2415 15th Avenue Se, WA",
+  "locationCity": "2415 15th Avenue Se",
+  "locationState": "WA",
+  "locationZipcode": "98501",
+  "lat": 47.03598500557058,
+  "lon": -122.86722396633924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.541Z"
+}

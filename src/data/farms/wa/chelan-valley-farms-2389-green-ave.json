@@ -9,24 +9,13 @@
   "locationZipcode": "",
   "lat": 47.90051625124742,
   "lon": -120.1564170638038,
-  "website": "https://chelanvalleyfarms.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:40:43.163Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:40:59.923Z"
+      "lastSeen": "2026-08-05T18:53:16.417Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:40:43.163Z",
-  "crops": [
-    "Apples",
-    "Pumpkins",
-    "Flowers"
-  ],
-  "phone": "(509) 435-1813",
+  "usdaLastUpdated": "2026-08-05T18:53:16.417Z",
   "image": "/farm-images/chelan-valley-farms-2389-green-ave.jpg",
   "imageAlt": "Chelan Valley Farms"
 }

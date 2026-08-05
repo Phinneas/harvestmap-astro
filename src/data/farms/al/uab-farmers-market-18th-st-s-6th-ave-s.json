@@ -1,0 +1,19 @@
+{
+  "slug": "uab-farmers-market-18th-st-s-6th-ave-s",
+  "name": "UAB Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "18th St. S. & 6th Ave. S., AL",
+  "locationCity": "18th St. S. & 6th Ave. S.",
+  "locationState": "AL",
+  "locationZipcode": "35233",
+  "lat": 33.50565999443906,
+  "lon": -86.80349001977756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.020Z"
+}

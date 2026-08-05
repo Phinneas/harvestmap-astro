@@ -1,0 +1,19 @@
+{
+  "slug": "frankenmuth-farmers-market-534-north-main-street",
+  "name": "Frankenmuth Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "534 North Main Street, MI",
+  "locationCity": "534 North Main Street",
+  "locationState": "MI",
+  "locationZipcode": "48734",
+  "lat": 43.344313,
+  "lon": -83.738212,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.180Z"
+}

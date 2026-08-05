@@ -1,0 +1,19 @@
+{
+  "slug": "fort-morgan-farmers-market-corner-of-beaver-ave-and-state-st-fort-morgan",
+  "name": "Fort Morgan Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Beaver Ave. and State. St. Fort Morgan, CO",
+  "locationCity": "Corner of Beaver Ave. and State. St. Fort Morgan",
+  "locationState": "CO",
+  "locationZipcode": "80701",
+  "lat": 40.25123998534457,
+  "lon": -103.80022996282216,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "harry-s-berries-876-coburg-road",
+  "name": "Harry's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "876 Coburg Road, OR",
+  "locationCity": "876 Coburg Road",
+  "locationState": "OR",
+  "locationZipcode": "97408",
+  "lat": 44.0713298712932,
+  "lon": -123.069615020687,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.830Z"
+}

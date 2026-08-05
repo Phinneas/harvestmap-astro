@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-chanute-farmers-market-corner-of-main-st-highland-st",
+  "name": "Main Street Chanute Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Main St & Highland St, KS",
+  "locationCity": "Corner of Main St & Highland St",
+  "locationState": "KS",
+  "locationZipcode": "66720",
+  "lat": 37.68180997934277,
+  "lon": -95.45048001941781,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

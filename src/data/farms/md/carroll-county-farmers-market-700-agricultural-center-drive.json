@@ -1,0 +1,19 @@
+{
+  "slug": "carroll-county-farmers-market-700-agricultural-center-drive",
+  "name": "Carroll County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 Agricultural Center Drive, MD",
+  "locationCity": "700 Agricultural Center Drive",
+  "locationState": "MD",
+  "locationZipcode": "21157",
+  "lat": 39.55565913391522,
+  "lon": -76.99996919548977,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.535Z"
+}

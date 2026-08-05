@@ -1,0 +1,19 @@
+{
+  "slug": "contoocook-farmers-market-summer-896-main-street-summer-contoocook",
+  "name": "Contoocook Farmers' Market (Summer)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "896 Main Street (summer) Contoocook, NH",
+  "locationCity": "896 Main Street (summer) Contoocook",
+  "locationState": "NH",
+  "locationZipcode": "03229",
+  "lat": 43.22242017733616,
+  "lon": -71.71305764031479,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.153Z"
+}

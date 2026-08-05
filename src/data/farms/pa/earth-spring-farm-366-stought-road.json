@@ -1,0 +1,19 @@
+{
+  "slug": "earth-spring-farm-366-stought-road",
+  "name": "Earth Spring Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "366 Stought Road, PA",
+  "locationCity": "366 Stought Road",
+  "locationState": "PA",
+  "locationZipcode": "17015",
+  "lat": 40.1599141,
+  "lon": -77.1013438,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.545Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.545Z"
+}

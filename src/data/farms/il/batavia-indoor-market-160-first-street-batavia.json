@@ -1,0 +1,19 @@
+{
+  "slug": "batavia-indoor-market-160-first-street-batavia",
+  "name": "Batavia Indoor Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "160 First Street Batavia, IL",
+  "locationCity": "160 First Street Batavia",
+  "locationState": "IL",
+  "locationZipcode": "60510",
+  "lat": 41.848754295900356,
+  "lon": -88.30971270516417,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

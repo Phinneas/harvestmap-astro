@@ -1,0 +1,19 @@
+{
+  "slug": "sandwich-creamery-130-hannah-rd",
+  "name": "Sandwich Creamery",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "130 Hannah Rd., NH",
+  "locationCity": "130 Hannah Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03259",
+  "lat": 43.86094791500269,
+  "lon": -71.40445208439174,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.803Z"
+}

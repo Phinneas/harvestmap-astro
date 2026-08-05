@@ -1,0 +1,20 @@
+{
+  "slug": "granny-b-farms-llc-7201-tucker-road",
+  "name": "Granny B Farms LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7201 Tucker Road, OH",
+  "locationCity": "7201 Tucker Road",
+  "locationState": "OH",
+  "locationZipcode": "43011",
+  "lat": 40.3462454,
+  "lon": -82.6078627,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.439Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.439Z",
+  "crops": []
+}

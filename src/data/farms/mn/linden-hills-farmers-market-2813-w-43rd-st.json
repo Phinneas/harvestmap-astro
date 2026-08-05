@@ -1,0 +1,19 @@
+{
+  "slug": "linden-hills-farmers-market-2813-w-43rd-st",
+  "name": "Linden Hills Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2813 W 43rd St, MN",
+  "locationCity": "2813 W 43rd St",
+  "locationState": "MN",
+  "locationZipcode": "55410",
+  "lat": 44.924534,
+  "lon": -93.3155215,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

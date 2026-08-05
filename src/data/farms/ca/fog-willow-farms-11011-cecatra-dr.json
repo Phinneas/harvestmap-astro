@@ -1,0 +1,19 @@
+{
+  "slug": "fog-willow-farms-11011-cecatra-dr",
+  "name": "Fog Willow Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11011 Cecatra Dr, CA",
+  "locationCity": "11011 Cecatra Dr",
+  "locationState": "CA",
+  "locationZipcode": "11011",
+  "lat": 38.41669824366303,
+  "lon": -121.2775301473576,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.841Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.841Z"
+}

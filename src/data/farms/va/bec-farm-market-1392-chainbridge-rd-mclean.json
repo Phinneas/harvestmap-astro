@@ -1,0 +1,19 @@
+{
+  "slug": "bec-farm-market-1392-chainbridge-rd-mclean",
+  "name": "BEC Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1392 chainbridge rd Mclean, VA",
+  "locationCity": "1392 chainbridge rd Mclean",
+  "locationState": "VA",
+  "locationZipcode": "22101",
+  "lat": 38.93550054846575,
+  "lon": -77.17599258837674,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.290Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sheridan-farmers-market-145-n-connor-st-sheridan",
+  "name": "Sheridan Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "145 N Connor St Sheridan, WY",
+  "locationCity": "145 N Connor St Sheridan",
+  "locationState": "WY",
+  "locationZipcode": "82801",
+  "lat": 44.79878618225209,
+  "lon": -106.9517509394847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

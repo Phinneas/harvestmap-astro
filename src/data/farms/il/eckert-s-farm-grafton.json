@@ -1,0 +1,19 @@
+{
+  "slug": "eckert-s-farm-grafton",
+  "name": "Eckert's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Grafton, IL",
+  "locationCity": "Grafton",
+  "locationState": "IL",
+  "locationZipcode": "62037",
+  "lat": 38.9641100093555,
+  "lon": -90.4947150128403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.900Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.900Z"
+}

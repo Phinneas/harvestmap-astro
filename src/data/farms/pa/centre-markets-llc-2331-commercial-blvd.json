@@ -1,0 +1,19 @@
+{
+  "slug": "centre-markets-llc-2331-commercial-blvd",
+  "name": "Centre Markets LLC",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2331 Commercial Blvd, PA",
+  "locationCity": "2331 Commercial Blvd",
+  "locationState": "PA",
+  "locationZipcode": "16801",
+  "lat": 40.8243985,
+  "lon": -77.81247,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.777Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.777Z"
+}

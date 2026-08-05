@@ -1,0 +1,19 @@
+{
+  "slug": "fisher-farms-116-west-main-street",
+  "name": "Fisher Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "116 West Main Street, NC",
+  "locationCity": "116 West Main Street",
+  "locationState": "NC",
+  "locationZipcode": "28138",
+  "lat": 35.5520300000001,
+  "lon": -80.40777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.869Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.869Z"
+}

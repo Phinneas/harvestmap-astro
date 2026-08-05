@@ -1,0 +1,19 @@
+{
+  "slug": "thomas-county-farmers-market-fike-park",
+  "name": "Thomas County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Fike Park, KS",
+  "locationCity": "Fike Park",
+  "locationState": "KS",
+  "locationZipcode": "67701",
+  "lat": 39.3990454944715,
+  "lon": -101.04475697191744,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

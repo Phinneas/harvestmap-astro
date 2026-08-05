@@ -1,0 +1,19 @@
+{
+  "slug": "donalsonville-farmers-market-u-s-highway-84-donalsonville",
+  "name": "Donalsonville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "U.S. Highway 84 Donalsonville, GA",
+  "locationCity": "U.S. Highway 84 Donalsonville",
+  "locationState": "GA",
+  "locationZipcode": "31745",
+  "lat": 31.040419116148396,
+  "lon": -84.88059330983144,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

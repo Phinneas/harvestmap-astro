@@ -1,0 +1,19 @@
+{
+  "slug": "farmview-market-2610-eatonton-rd-madison",
+  "name": "Farmview Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2610 Eatonton Rd. Madison, GA",
+  "locationCity": "2610 Eatonton Rd. Madison",
+  "locationState": "GA",
+  "locationZipcode": "30650",
+  "lat": 33.538885540861465,
+  "lon": -83.46130109659565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

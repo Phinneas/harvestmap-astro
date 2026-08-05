@@ -1,0 +1,19 @@
+{
+  "slug": "the-green-urban-lunch-box-3188-south-1100-west",
+  "name": "The Green Urban Lunch Box",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3188 south 1100 west, UT",
+  "locationCity": "3188 south 1100 west",
+  "locationState": "UT",
+  "locationZipcode": "84119",
+  "lat": 40.7018466,
+  "lon": -111.9234989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:20.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:20.019Z"
+}

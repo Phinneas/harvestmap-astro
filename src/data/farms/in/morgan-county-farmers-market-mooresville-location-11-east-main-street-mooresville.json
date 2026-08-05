@@ -1,0 +1,19 @@
+{
+  "slug": "morgan-county-farmers-market-mooresville-location-11-east-main-street-mooresville",
+  "name": "Morgan County Farmers' Market: Mooresville Location",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11 East Main Street Mooresville, IN",
+  "locationCity": "11 East Main Street Mooresville",
+  "locationState": "IN",
+  "locationZipcode": "46158",
+  "lat": 39.61278746568965,
+  "lon": -86.37449333986915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

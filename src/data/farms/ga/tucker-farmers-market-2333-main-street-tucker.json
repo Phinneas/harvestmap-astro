@@ -1,0 +1,19 @@
+{
+  "slug": "tucker-farmers-market-2333-main-street-tucker",
+  "name": "Tucker Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2333 Main Street Tucker, GA",
+  "locationCity": "2333 Main Street Tucker",
+  "locationState": "GA",
+  "locationZipcode": "30084",
+  "lat": 33.853346918048366,
+  "lon": -84.21442035796723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

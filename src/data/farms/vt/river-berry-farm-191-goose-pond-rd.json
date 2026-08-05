@@ -1,0 +1,20 @@
+{
+  "slug": "river-berry-farm-191-goose-pond-rd",
+  "name": "River Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "191 Goose Pond Rd, VT",
+  "locationCity": "191 Goose Pond Rd",
+  "locationState": "VT",
+  "locationZipcode": "05454",
+  "lat": 44.6526190008282,
+  "lon": -72.9744479772516,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.991Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.991Z",
+  "crops": []
+}

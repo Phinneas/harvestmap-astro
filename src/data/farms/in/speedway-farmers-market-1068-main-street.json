@@ -1,0 +1,19 @@
+{
+  "slug": "speedway-farmers-market-1068-main-street",
+  "name": "Speedway Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1068 Main Street, IN",
+  "locationCity": "1068 Main Street",
+  "locationState": "IN",
+  "locationZipcode": "46224",
+  "lat": 39.793698,
+  "lon": -86.247542,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.606Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.606Z"
+}

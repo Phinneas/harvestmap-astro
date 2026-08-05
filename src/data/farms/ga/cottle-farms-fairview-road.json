@@ -1,0 +1,19 @@
+{
+  "slug": "cottle-farms-fairview-road",
+  "name": "Cottle Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fairview Road, GA",
+  "locationCity": "Fairview Road",
+  "locationState": "GA",
+  "locationZipcode": "30281",
+  "lat": 33.60723289917672,
+  "lon": -84.20379486504567,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.403Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.403Z"
+}

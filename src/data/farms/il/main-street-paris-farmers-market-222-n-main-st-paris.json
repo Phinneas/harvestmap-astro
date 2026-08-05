@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-paris-farmers-market-222-n-main-st-paris",
+  "name": "Main Street Paris Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "222 N. Main St. Paris, IL",
+  "locationCity": "222 N. Main St. Paris",
+  "locationState": "IL",
+  "locationZipcode": "61944",
+  "lat": 39.61238063689093,
+  "lon": -87.69497089279841,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

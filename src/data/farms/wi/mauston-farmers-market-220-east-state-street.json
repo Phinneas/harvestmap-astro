@@ -1,0 +1,19 @@
+{
+  "slug": "mauston-farmers-market-220-east-state-street",
+  "name": "Mauston Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 East State Street, WI",
+  "locationCity": "220 East State Street",
+  "locationState": "WI",
+  "locationZipcode": "53948",
+  "lat": 43.801304,
+  "lon": -90.082332,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.718Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.718Z"
+}

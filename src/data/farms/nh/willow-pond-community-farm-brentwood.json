@@ -1,0 +1,19 @@
+{
+  "slug": "willow-pond-community-farm-brentwood",
+  "name": "Willow Pond Community Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brentwood, NH",
+  "locationCity": "Brentwood",
+  "locationState": "NH",
+  "locationZipcode": "03833",
+  "lat": 42.9819,
+  "lon": -71.0531,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.985Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.985Z"
+}

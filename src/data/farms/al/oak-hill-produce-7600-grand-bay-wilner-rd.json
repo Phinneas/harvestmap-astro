@@ -1,0 +1,19 @@
+{
+  "slug": "oak-hill-produce-7600-grand-bay-wilner-rd",
+  "name": "Oak Hill Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7600 Grand Bay Wilner Rd, AL",
+  "locationCity": "7600 Grand Bay Wilner Rd",
+  "locationState": "AL",
+  "locationZipcode": "36541",
+  "lat": 30.534146605958522,
+  "lon": -88.34203906663076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:51.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:51.809Z"
+}

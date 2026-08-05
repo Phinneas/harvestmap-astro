@@ -1,0 +1,19 @@
+{
+  "slug": "old-stage-orchards-108-old-stage-road",
+  "name": "Old Stage Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "108 Old Stage Road, NC",
+  "locationCity": "108 Old Stage Road",
+  "locationState": "NC",
+  "locationZipcode": "27521",
+  "lat": 35.4562747096109,
+  "lon": -78.6931834613777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.868Z"
+}

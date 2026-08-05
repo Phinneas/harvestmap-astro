@@ -1,0 +1,19 @@
+{
+  "slug": "trussville-fresh-farmers-market-parkway-dr",
+  "name": "Trussville Fresh Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Parkway Dr., AL",
+  "locationCity": "Parkway Dr.",
+  "locationState": "AL",
+  "locationZipcode": "35173",
+  "lat": 33.62642389014796,
+  "lon": -86.60458207213627,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.020Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "skaneateles-sugar-shack-234-benson-rd",
+  "name": "Skaneateles Sugar Shack",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "234 Benson Rd, NY",
+  "locationCity": "234 Benson Rd",
+  "locationState": "NY",
+  "locationZipcode": "13152",
+  "lat": 42.8905671470753,
+  "lon": -76.4500468914048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.044Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.044Z"
+}

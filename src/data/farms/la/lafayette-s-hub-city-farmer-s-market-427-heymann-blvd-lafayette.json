@@ -1,0 +1,19 @@
+{
+  "slug": "lafayette-s-hub-city-farmer-s-market-427-heymann-blvd-lafayette",
+  "name": "Lafayette's Hub City Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "427 Heymann Blvd Lafayette, LA",
+  "locationCity": "427 Heymann Blvd Lafayette",
+  "locationState": "LA",
+  "locationZipcode": "70503",
+  "lat": 30.203401293237523,
+  "lon": -92.01591775636871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

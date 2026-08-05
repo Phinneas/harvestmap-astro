@@ -1,0 +1,19 @@
+{
+  "slug": "huntsville-food-farm-hub-108-nw-cleveland-ave",
+  "name": "Huntsville Food & Farm Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "108 NW Cleveland Ave, AL",
+  "locationCity": "108 NW Cleveland Ave",
+  "locationState": "AL",
+  "locationZipcode": "35801",
+  "lat": 34.73744600300559,
+  "lon": -86.58687800475717,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.940Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.940Z"
+}

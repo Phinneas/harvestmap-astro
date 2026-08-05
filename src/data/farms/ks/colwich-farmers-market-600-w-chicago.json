@@ -1,0 +1,19 @@
+{
+  "slug": "colwich-farmers-market-600-w-chicago",
+  "name": "Colwich Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 W. Chicago, KS",
+  "locationCity": "600 W. Chicago",
+  "locationState": "KS",
+  "locationZipcode": "67030",
+  "lat": 37.77919888965112,
+  "lon": -97.54062041961487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

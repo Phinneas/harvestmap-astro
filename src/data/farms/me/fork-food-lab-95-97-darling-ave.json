@@ -1,0 +1,19 @@
+{
+  "slug": "fork-food-lab-95-97-darling-ave",
+  "name": "Fork Food Lab",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "95-97 Darling Ave, ME",
+  "locationCity": "95-97 Darling Ave",
+  "locationState": "ME",
+  "locationZipcode": "04106",
+  "lat": 43.64044790791368,
+  "lon": -70.33016296584633,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:58.259Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:58.259Z"
+}

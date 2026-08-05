@@ -1,0 +1,19 @@
+{
+  "slug": "hindinger-farm-835-dunbar-hill-road",
+  "name": "Hindinger Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "835 Dunbar HIll Road, CT",
+  "locationCity": "835 Dunbar HIll Road",
+  "locationState": "CT",
+  "locationZipcode": "06514",
+  "lat": 41.37913289078472,
+  "lon": -72.94628159745889,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.435Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.435Z"
+}

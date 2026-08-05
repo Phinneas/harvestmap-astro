@@ -1,0 +1,19 @@
+{
+  "slug": "old-orchard-creek-410-swansie-shepherd-rd",
+  "name": "Old Orchard Creek",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "410 Swansie Shepherd Rd, NC",
+  "locationCity": "410 Swansie Shepherd Rd",
+  "locationState": "NC",
+  "locationZipcode": "28643",
+  "lat": 36.5092671786012,
+  "lon": -81.5661193437717,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.719Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.719Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "st-clair-shores-farmers-market-24800-jefferson-avenue-saint-clair-shores",
+  "name": "St. Clair Shores Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24800 Jefferson Avenue Saint Clair Shores, MI",
+  "locationCity": "24800 Jefferson Avenue Saint Clair Shores",
+  "locationState": "MI",
+  "locationZipcode": "24800",
+  "lat": 42.475019569666664,
+  "lon": -82.88930049885923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

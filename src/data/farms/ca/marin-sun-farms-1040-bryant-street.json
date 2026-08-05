@@ -1,0 +1,19 @@
+{
+  "slug": "marin-sun-farms-1040-bryant-street",
+  "name": "Marin Sun Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1040 Bryant Street, CA",
+  "locationCity": "1040 Bryant Street",
+  "locationState": "CA",
+  "locationZipcode": "94103",
+  "lat": 37.7722729,
+  "lon": -122.408117,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.039Z"
+}

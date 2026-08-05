@@ -1,0 +1,19 @@
+{
+  "slug": "barrington-village-farmers-market-park-avenue-and-cook-street-barrington",
+  "name": "Barrington Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Park Avenue and Cook Street Barrington, IL",
+  "locationCity": "Park Avenue and Cook Street Barrington",
+  "locationState": "IL",
+  "locationZipcode": "60010",
+  "lat": 42.15389001283509,
+  "lon": -88.13480999699551,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

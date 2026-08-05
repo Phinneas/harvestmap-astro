@@ -1,0 +1,19 @@
+{
+  "slug": "blissfield-farmers-market-325-w-adrian-st",
+  "name": "Blissfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "325 W Adrian St, MI",
+  "locationCity": "325 W Adrian St",
+  "locationState": "MI",
+  "locationZipcode": "49228",
+  "lat": 41.834731706638195,
+  "lon": -83.86790463551702,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

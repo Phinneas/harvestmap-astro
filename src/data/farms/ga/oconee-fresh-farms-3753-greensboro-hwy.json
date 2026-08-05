@@ -1,0 +1,19 @@
+{
+  "slug": "oconee-fresh-farms-3753-greensboro-hwy",
+  "name": "Oconee Fresh Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3753 Greensboro HWY, GA",
+  "locationCity": "3753 Greensboro HWY",
+  "locationState": "GA",
+  "locationZipcode": "30677",
+  "lat": 33.8064063,
+  "lon": -83.346284,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:57.873Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:57.873Z"
+}

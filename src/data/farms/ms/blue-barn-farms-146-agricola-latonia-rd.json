@@ -1,0 +1,19 @@
+{
+  "slug": "blue-barn-farms-146-agricola-latonia-rd",
+  "name": "Blue Barn Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "146 Agricola Latonia Rd, MS",
+  "locationCity": "146 Agricola Latonia Rd",
+  "locationState": "MS",
+  "locationZipcode": "39452",
+  "lat": 30.8322015429432,
+  "lon": -88.4977448834119,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.588Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.588Z"
+}

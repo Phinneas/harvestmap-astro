@@ -1,0 +1,19 @@
+{
+  "slug": "fletcher-farm-22-gunn-road",
+  "name": "Fletcher Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "22 Gunn Road, MA",
+  "locationCity": "22 Gunn Road",
+  "locationState": "MA",
+  "locationZipcode": "01073",
+  "lat": 42.2394434699041,
+  "lon": -72.711169800121,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.594Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.594Z"
+}

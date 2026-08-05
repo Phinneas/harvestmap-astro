@@ -1,0 +1,19 @@
+{
+  "slug": "local-only-market-600-se-second-st-evansville",
+  "name": "Local-Only Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 SE Second St. Evansville, IN",
+  "locationCity": "600 SE Second St. Evansville",
+  "locationState": "IN",
+  "locationZipcode": "47713",
+  "lat": 37.96539228840236,
+  "lon": -87.56914802003584,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "appalachian-food-works-state-college",
+  "name": "Appalachian Food Works",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "STATE COLLEGE, PA",
+  "locationCity": "STATE COLLEGE",
+  "locationState": "PA",
+  "locationZipcode": "16801",
+  "lat": 40.7933949,
+  "lon": -77.860001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.777Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.777Z"
+}

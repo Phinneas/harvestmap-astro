@@ -1,0 +1,19 @@
+{
+  "slug": "portsmouth-farmers-market-1-junkins-ave-portsmouth",
+  "name": "Portsmouth Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Junkins Ave Portsmouth, NH",
+  "locationCity": "1 Junkins Ave Portsmouth",
+  "locationState": "NH",
+  "locationZipcode": "03801",
+  "lat": 43.06144696149243,
+  "lon": -70.76704487190652,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.154Z"
+}

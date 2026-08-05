@@ -1,0 +1,19 @@
+{
+  "slug": "the-flower-farm-pigeon-road",
+  "name": "The Flower Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Pigeon Road, MI",
+  "locationCity": "Pigeon Road",
+  "locationState": "MI",
+  "locationZipcode": "48858",
+  "lat": 43.8240159879551,
+  "lon": -83.0112160290644,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.621Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.621Z"
+}

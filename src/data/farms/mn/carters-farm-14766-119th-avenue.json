@@ -1,0 +1,20 @@
+{
+  "slug": "carters-farm-14766-119th-avenue",
+  "name": "Carters' Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "14766 119th Avenue, MN",
+  "locationCity": "14766 119th Avenue",
+  "locationState": "MN",
+  "locationZipcode": "14766",
+  "lat": 46.87385800149,
+  "lon": -95.1149830292514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.683Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.683Z",
+  "crops": []
+}

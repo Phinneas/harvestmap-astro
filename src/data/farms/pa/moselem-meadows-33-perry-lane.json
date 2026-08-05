@@ -1,0 +1,19 @@
+{
+  "slug": "moselem-meadows-33-perry-lane",
+  "name": "Moselem Meadows",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "33 Perry Lane, PA",
+  "locationCity": "33 Perry Lane",
+  "locationState": "PA",
+  "locationZipcode": "19526",
+  "lat": 40.51380100683951,
+  "lon": -75.8785549718321,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.222Z"
+}

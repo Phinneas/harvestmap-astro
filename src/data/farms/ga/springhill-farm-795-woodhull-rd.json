@@ -1,0 +1,19 @@
+{
+  "slug": "springhill-farm-795-woodhull-rd",
+  "name": "Springhill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "795 Woodhull Rd, GA",
+  "locationCity": "795 Woodhull Rd",
+  "locationState": "GA",
+  "locationZipcode": "39819",
+  "lat": 30.8439095685287,
+  "lon": -84.4943446869358,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.259Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.259Z"
+}

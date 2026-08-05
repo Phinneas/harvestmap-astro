@@ -1,0 +1,19 @@
+{
+  "slug": "chateau-meichtry-vineyards-100-orchard-lane",
+  "name": "Chateau Meichtry Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 Orchard Lane, GA",
+  "locationCity": "100 Orchard Lane",
+  "locationState": "GA",
+  "locationZipcode": "30175",
+  "lat": 34.5951081860963,
+  "lon": -84.4564403061535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.339Z"
+}

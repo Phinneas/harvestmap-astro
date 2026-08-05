@@ -1,0 +1,19 @@
+{
+  "slug": "glade-road-growing-2351-glade-road",
+  "name": "Glade Road Growing",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2351 Glade Road, VA",
+  "locationCity": "2351 Glade Road",
+  "locationState": "VA",
+  "locationZipcode": "24060",
+  "lat": 37.23763172386104,
+  "lon": -80.46203041470704,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.261Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.261Z"
+}

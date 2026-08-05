@@ -1,0 +1,19 @@
+{
+  "slug": "cozzolino-s-farm-market-12599-san-mateo-rd",
+  "name": "Cozzolino's farm market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "12599 San Mateo Rd, CA",
+  "locationCity": "12599 San Mateo Rd",
+  "locationState": "CA",
+  "locationZipcode": "12599",
+  "lat": 37.47681700041369,
+  "lon": -122.41426700838574,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

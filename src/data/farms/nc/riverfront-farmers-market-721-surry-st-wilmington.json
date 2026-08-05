@@ -1,0 +1,19 @@
+{
+  "slug": "riverfront-farmers-market-721-surry-st-wilmington",
+  "name": "Riverfront Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "721 Surry St Wilmington, NC",
+  "locationCity": "721 Surry St Wilmington",
+  "locationState": "NC",
+  "locationZipcode": "28401",
+  "lat": 34.22610392808748,
+  "lon": -77.94893273802855,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

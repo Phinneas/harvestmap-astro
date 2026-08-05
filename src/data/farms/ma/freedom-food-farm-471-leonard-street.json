@@ -1,0 +1,20 @@
+{
+  "slug": "freedom-food-farm-471-leonard-street",
+  "name": "Freedom Food Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "471 Leonard Street, MA",
+  "locationCity": "471 Leonard Street",
+  "locationState": "MA",
+  "locationZipcode": "02767",
+  "lat": 41.9163019079325,
+  "lon": -71.0029244381017,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.486Z",
+  "crops": []
+}

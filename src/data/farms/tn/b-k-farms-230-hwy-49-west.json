@@ -1,0 +1,19 @@
+{
+  "slug": "b-k-farms-230-hwy-49-west",
+  "name": "B & K Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "230 Hwy 49 West, TN",
+  "locationCity": "230 Hwy 49 West",
+  "locationState": "TN",
+  "locationZipcode": "37181",
+  "lat": 36.2464476075505,
+  "lon": -87.5332751395605,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.336Z"
+}

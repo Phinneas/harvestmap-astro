@@ -1,0 +1,19 @@
+{
+  "slug": "charlotte-regional-farmers-market-1801-yorkmont-road",
+  "name": "Charlotte Regional Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1801 Yorkmont Road, NC",
+  "locationCity": "1801 Yorkmont Road",
+  "locationState": "NC",
+  "locationZipcode": "28217",
+  "lat": 35.1867102,
+  "lon": -80.908718,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.229Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.229Z"
+}

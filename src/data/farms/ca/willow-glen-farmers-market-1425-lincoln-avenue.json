@@ -1,0 +1,19 @@
+{
+  "slug": "willow-glen-farmers-market-1425-lincoln-avenue",
+  "name": "Willow Glen Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1425 Lincoln Avenue, CA",
+  "locationCity": "1425 Lincoln Avenue",
+  "locationState": "CA",
+  "locationZipcode": "95125",
+  "lat": 37.296867,
+  "lon": -121.8193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

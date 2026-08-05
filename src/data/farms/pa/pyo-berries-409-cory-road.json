@@ -1,0 +1,19 @@
+{
+  "slug": "pyo-berries-409-cory-road",
+  "name": "PYO Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "409 Cory Road, PA",
+  "locationCity": "409 Cory Road",
+  "locationState": "PA",
+  "locationZipcode": "15870",
+  "lat": 41.5932129843129,
+  "lon": -78.5697489690826,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.151Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.151Z"
+}

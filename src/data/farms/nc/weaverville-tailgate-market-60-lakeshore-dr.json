@@ -1,0 +1,19 @@
+{
+  "slug": "weaverville-tailgate-market-60-lakeshore-dr",
+  "name": "Weaverville Tailgate Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "60 Lakeshore Dr., NC",
+  "locationCity": "60 Lakeshore Dr.",
+  "locationState": "NC",
+  "locationZipcode": "28787",
+  "lat": 35.691911381086655,
+  "lon": -82.56885274957162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.328Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.328Z"
+}

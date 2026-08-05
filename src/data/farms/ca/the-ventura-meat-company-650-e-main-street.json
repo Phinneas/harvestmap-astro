@@ -1,0 +1,19 @@
+{
+  "slug": "the-ventura-meat-company-650-e-main-street",
+  "name": "The Ventura Meat Company",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "650 E. Main Street, CA",
+  "locationCity": "650 E. Main Street",
+  "locationState": "CA",
+  "locationZipcode": "93001",
+  "lat": 34.2807758117748,
+  "lon": -119.290773953979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.805Z"
+}

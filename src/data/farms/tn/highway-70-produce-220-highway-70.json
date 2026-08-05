@@ -1,0 +1,19 @@
+{
+  "slug": "highway-70-produce-220-highway-70",
+  "name": "Highway 70 Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "220 Highway 70, TN",
+  "locationCity": "220 Highway 70",
+  "locationState": "TN",
+  "locationZipcode": "37771",
+  "lat": 35.838701010606584,
+  "lon": -84.29747397280181,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:36.622Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:36.622Z"
+}

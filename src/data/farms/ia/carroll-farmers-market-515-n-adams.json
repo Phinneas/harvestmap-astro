@@ -1,0 +1,19 @@
+{
+  "slug": "carroll-farmers-market-515-n-adams",
+  "name": "Carroll Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "515 N. Adams, IA",
+  "locationCity": "515 N. Adams",
+  "locationState": "IA",
+  "locationZipcode": "51401",
+  "lat": 42.0656700209089,
+  "lon": -94.86960801057033,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

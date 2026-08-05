@@ -1,0 +1,20 @@
+{
+  "slug": "village-gardens-206-village-garden-lane",
+  "name": "Village Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "206 Village Garden Lane, VA",
+  "locationCity": "206 Village Garden Lane",
+  "locationState": "VA",
+  "locationZipcode": "24522",
+  "lat": 37.4299399915291,
+  "lon": -78.8225459953875,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.266Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.266Z",
+  "crops": []
+}

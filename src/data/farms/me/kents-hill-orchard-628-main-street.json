@@ -1,0 +1,19 @@
+{
+  "slug": "kents-hill-orchard-628-main-street",
+  "name": "Kents Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "628 Main Street, ME",
+  "locationCity": "628 Main Street",
+  "locationState": "ME",
+  "locationZipcode": "04355",
+  "lat": 44.3713661662824,
+  "lon": -69.9306072411104,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.843Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.843Z"
+}

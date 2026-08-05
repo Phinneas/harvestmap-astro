@@ -1,0 +1,19 @@
+{
+  "slug": "rouse-point-farmers-market-144-lake-st",
+  "name": "Rouse Point Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "144 Lake St, NY",
+  "locationCity": "144 Lake St",
+  "locationState": "NY",
+  "locationZipcode": "12979",
+  "lat": 44.99015456548118,
+  "lon": -73.3638490833088,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

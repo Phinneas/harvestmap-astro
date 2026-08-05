@@ -1,0 +1,19 @@
+{
+  "slug": "larry-s-produce-4606-suisun-valley-road",
+  "name": "Larry's Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4606 Suisun Valley Road, CA",
+  "locationCity": "4606 Suisun Valley Road",
+  "locationState": "CA",
+  "locationZipcode": "94534",
+  "lat": 38.27013400302741,
+  "lon": -122.11019100719605,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "willis-farm-381-south-1st-street",
+  "name": "Willis Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "381 South 1st Street, AZ",
+  "locationCity": "381 South 1st Street",
+  "locationState": "AZ",
+  "locationZipcode": "85937",
+  "lat": 34.5040697171975,
+  "lon": -110.077320450857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.806Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.806Z"
+}

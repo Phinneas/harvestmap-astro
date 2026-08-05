@@ -1,0 +1,19 @@
+{
+  "slug": "local-harvest-marketplace-3954-e-speedway-blvd-tucson",
+  "name": "Local Harvest Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3954 E Speedway Blvd Tucson, AZ",
+  "locationCity": "3954 E Speedway Blvd Tucson",
+  "locationState": "AZ",
+  "locationZipcode": "85712",
+  "lat": 32.23616692677725,
+  "lon": -110.90850911616221,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

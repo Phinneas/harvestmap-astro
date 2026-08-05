@@ -1,0 +1,19 @@
+{
+  "slug": "securian-building-farmers-market-400-robert-st-n",
+  "name": "Securian Building Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Robert St N, MN",
+  "locationCity": "400 Robert St N",
+  "locationState": "MN",
+  "locationZipcode": "55101",
+  "lat": 44.9479983,
+  "lon": -93.092457,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

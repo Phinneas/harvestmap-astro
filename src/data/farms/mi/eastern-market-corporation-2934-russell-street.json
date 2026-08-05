@@ -1,0 +1,19 @@
+{
+  "slug": "eastern-market-corporation-2934-russell-street",
+  "name": "Eastern Market Corporation",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2934 Russell Street, MI",
+  "locationCity": "2934 Russell Street",
+  "locationState": "MI",
+  "locationZipcode": "48207",
+  "lat": 42.3491815,
+  "lon": -83.041969,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.237Z"
+}

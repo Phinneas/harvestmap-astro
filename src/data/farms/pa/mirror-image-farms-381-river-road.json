@@ -1,0 +1,19 @@
+{
+  "slug": "mirror-image-farms-381-river-road",
+  "name": "Mirror Image Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "381 River Road, PA",
+  "locationCity": "381 River Road",
+  "locationState": "PA",
+  "locationZipcode": "17502",
+  "lat": 40.1044723115192,
+  "lon": -76.6768048235588,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.057Z"
+}

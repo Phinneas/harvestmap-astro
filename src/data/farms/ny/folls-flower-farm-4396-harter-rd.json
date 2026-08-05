@@ -1,0 +1,19 @@
+{
+  "slug": "folls-flower-farm-4396-harter-rd",
+  "name": "Folls Flower Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4396 Harter Rd, NY",
+  "locationCity": "4396 Harter Rd",
+  "locationState": "NY",
+  "locationZipcode": "13021",
+  "lat": 42.82189995181835,
+  "lon": -76.45023370927676,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.172Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.172Z"
+}

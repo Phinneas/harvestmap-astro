@@ -1,0 +1,19 @@
+{
+  "slug": "stevensville-harvest-valley-farmers-market-west-3rd-street-main-street",
+  "name": "Stevensville Harvest Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "West 3rd Street & Main Street, MT",
+  "locationCity": "West 3rd Street & Main Street",
+  "locationState": "MT",
+  "locationZipcode": "59870",
+  "lat": 46.509961,
+  "lon": -114.093465,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:22.100Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:22.100Z"
+}

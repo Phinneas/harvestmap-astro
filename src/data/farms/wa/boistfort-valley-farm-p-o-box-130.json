@@ -1,0 +1,19 @@
+{
+  "slug": "boistfort-valley-farm-p-o-box-130",
+  "name": "Boistfort Valley Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "P.O. Box 130, WA",
+  "locationCity": "P.O. Box 130",
+  "locationState": "WA",
+  "locationZipcode": "98532",
+  "lat": 46.5702945,
+  "lon": -123.1215712,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.584Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.584Z"
+}

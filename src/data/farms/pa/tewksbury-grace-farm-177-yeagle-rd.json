@@ -1,0 +1,19 @@
+{
+  "slug": "tewksbury-grace-farm-177-yeagle-rd",
+  "name": "Tewksbury Grace Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "177 Yeagle Rd, PA",
+  "locationCity": "177 Yeagle Rd",
+  "locationState": "PA",
+  "locationZipcode": "17756",
+  "lat": 41.14411538985749,
+  "lon": -76.72781342488146,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.588Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.588Z"
+}

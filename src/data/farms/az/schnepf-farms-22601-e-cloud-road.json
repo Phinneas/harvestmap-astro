@@ -1,0 +1,19 @@
+{
+  "slug": "schnepf-farms-22601-e-cloud-road",
+  "name": "Schnepf Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "22601 E. Cloud Road, AZ",
+  "locationCity": "22601 E. Cloud Road",
+  "locationState": "AZ",
+  "locationZipcode": "22601",
+  "lat": 33.22642812189946,
+  "lon": -111.59541927817996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:18.721Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:18.721Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "corn-acres-centerview",
+  "name": "Corn Acres",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Centerview, MO",
+  "locationCity": "Centerview",
+  "locationState": "MO",
+  "locationZipcode": "64019",
+  "lat": 38.7443922,
+  "lon": -93.8450985,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:52.647Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:52.647Z"
+}

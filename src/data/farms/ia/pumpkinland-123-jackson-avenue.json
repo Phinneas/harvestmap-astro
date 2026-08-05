@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkinland-123-jackson-avenue",
+  "name": "Pumpkinland",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "123 Jackson Avenue, IA",
+  "locationCity": "123 Jackson Avenue",
+  "locationState": "IA",
+  "locationZipcode": "51041",
+  "lat": 43.0700863313887,
+  "lon": -96.0570892024421,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.669Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.669Z"
+}

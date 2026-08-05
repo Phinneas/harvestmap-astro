@@ -1,0 +1,19 @@
+{
+  "slug": "fishers-blueberry-farm-north-steel-road",
+  "name": "Fishers Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "North Steel Road, MI",
+  "locationCity": "North Steel Road",
+  "locationState": "MI",
+  "locationZipcode": "48626",
+  "lat": 43.4749399793683,
+  "lon": -84.2877119892685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.571Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.571Z"
+}

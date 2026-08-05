@@ -1,0 +1,19 @@
+{
+  "slug": "grams-family-farm-85-boiling-springs-rd",
+  "name": "Grams Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "85 Boiling Springs Rd, KY",
+  "locationCity": "85 Boiling Springs Rd",
+  "locationState": "KY",
+  "locationZipcode": "42765",
+  "lat": 37.31695830697052,
+  "lon": -85.85024148498208,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.121Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.121Z"
+}

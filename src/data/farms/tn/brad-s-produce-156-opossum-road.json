@@ -1,0 +1,19 @@
+{
+  "slug": "brad-s-produce-156-opossum-road",
+  "name": "Brad's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "156 Opossum Road, TN",
+  "locationCity": "156 Opossum Road",
+  "locationState": "TN",
+  "locationZipcode": "37148",
+  "lat": 36.5402699944285,
+  "lon": -86.4481099818126,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.333Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.333Z"
+}

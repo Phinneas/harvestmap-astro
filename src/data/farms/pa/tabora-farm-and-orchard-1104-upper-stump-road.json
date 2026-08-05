@@ -1,0 +1,20 @@
+{
+  "slug": "tabora-farm-and-orchard-1104-upper-stump-road",
+  "name": "Tabora Farm and Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1104 Upper Stump Road, PA",
+  "locationCity": "1104 Upper Stump Road",
+  "locationState": "PA",
+  "locationZipcode": "18914",
+  "lat": 40.3368710169275,
+  "lon": -75.2083890397141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.060Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.060Z",
+  "crops": []
+}

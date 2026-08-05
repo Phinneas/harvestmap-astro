@@ -1,0 +1,20 @@
+{
+  "slug": "high-desert-farmers-market-18422-bear-valley-rd",
+  "name": "High desert farmers market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "18422 Bear Valley Rd, CA",
+  "locationCity": "18422 Bear Valley Rd",
+  "locationState": "CA",
+  "locationZipcode": "18422",
+  "lat": 34.47098576668158,
+  "lon": -117.2598976274299,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.841Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.841Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "caswell-farmers-market-4807-nc-hwy-57-n-semora",
+  "name": "Caswell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4807 NC Hwy 57 N Semora, NC",
+  "locationCity": "4807 NC Hwy 57 N Semora",
+  "locationState": "NC",
+  "locationZipcode": "27343",
+  "lat": 36.49906374403531,
+  "lon": -79.15261088002923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

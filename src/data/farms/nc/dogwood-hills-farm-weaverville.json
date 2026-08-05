@@ -1,0 +1,19 @@
+{
+  "slug": "dogwood-hills-farm-weaverville",
+  "name": "Dogwood Hills Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Weaverville, NC",
+  "locationCity": "Weaverville",
+  "locationState": "NC",
+  "locationZipcode": "28787",
+  "lat": 35.7222387,
+  "lon": -82.549893,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.905Z"
+}

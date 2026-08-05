@@ -1,0 +1,19 @@
+{
+  "slug": "rocky-ridge-farm-135-rocky-ridge-lane",
+  "name": "Rocky Ridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "135 Rocky Ridge Lane, NC",
+  "locationCity": "135 Rocky Ridge Lane",
+  "locationState": "NC",
+  "locationZipcode": "27549",
+  "lat": 35.9421004243069,
+  "lon": -78.3066694060106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.745Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.745Z"
+}

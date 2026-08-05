@@ -1,0 +1,19 @@
+{
+  "slug": "swank-farms-2600-san-felipe-road",
+  "name": "Swank Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2600 San Felipe Road, CA",
+  "locationCity": "2600 San Felipe Road",
+  "locationState": "CA",
+  "locationZipcode": "95023",
+  "lat": 36.8943135505692,
+  "lon": -121.401617106965,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.790Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.790Z"
+}

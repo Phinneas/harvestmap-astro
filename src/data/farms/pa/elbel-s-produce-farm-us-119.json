@@ -1,0 +1,19 @@
+{
+  "slug": "elbel-s-produce-farm-us-119",
+  "name": "Elbel's Produce Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US 119, PA",
+  "locationCity": "US 119",
+  "locationState": "PA",
+  "locationZipcode": "15767",
+  "lat": 40.9044199906776,
+  "lon": -79.0086600366089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.209Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.209Z"
+}

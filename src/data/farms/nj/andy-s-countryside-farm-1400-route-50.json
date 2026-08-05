@@ -1,0 +1,19 @@
+{
+  "slug": "andy-s-countryside-farm-1400-route-50",
+  "name": "Andy's Countryside Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1400 Route 50, NJ",
+  "locationCity": "1400 Route 50",
+  "locationState": "NJ",
+  "locationZipcode": "08270",
+  "lat": 39.267705999905104,
+  "lon": -74.74262302496592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:24.779Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:24.779Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "guldseth-cherry-orchard-9000-whispering-pines-road",
+  "name": "Guldseth Cherry Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9000 Whispering Pines Road, CA",
+  "locationCity": "9000 Whispering Pines Road",
+  "locationState": "CA",
+  "locationZipcode": "92223",
+  "lat": 33.9896586131244,
+  "lon": -116.957023611864,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.803Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "town-creek-farmers-market-15992-main-st",
+  "name": "Town Creek Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15992 Main St., AL",
+  "locationCity": "15992 Main St.",
+  "locationState": "AL",
+  "locationZipcode": "15992",
+  "lat": 34.68266194162134,
+  "lon": -87.40596576358539,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.020Z"
+}

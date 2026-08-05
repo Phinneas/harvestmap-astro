@@ -1,0 +1,19 @@
+{
+  "slug": "peak-season-produce-po-box-7",
+  "name": "Peak Season Produce",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "PO Box 7, ME",
+  "locationCity": "PO Box 7",
+  "locationState": "ME",
+  "locationZipcode": "04941",
+  "lat": 44.4883843,
+  "lon": -69.2931573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:58.264Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:58.264Z"
+}

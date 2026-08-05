@@ -1,0 +1,19 @@
+{
+  "slug": "creve-coeur-farmers-market-181-coeur-de-ville-dr-creve-coeur",
+  "name": "Creve Coeur farmers market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "181 Coeur De Ville Dr Creve Coeur, MO",
+  "locationCity": "181 Coeur De Ville Dr Creve Coeur",
+  "locationState": "MO",
+  "locationZipcode": "63141",
+  "lat": 38.65769431991749,
+  "lon": -90.4490455253833,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.492Z"
+}

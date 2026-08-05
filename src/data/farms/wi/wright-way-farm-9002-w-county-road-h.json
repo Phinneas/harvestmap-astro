@@ -1,0 +1,19 @@
+{
+  "slug": "wright-way-farm-9002-w-county-road-h",
+  "name": "Wright Way Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9002 W. County Road H, WI",
+  "locationCity": "9002 W. County Road H",
+  "locationState": "WI",
+  "locationZipcode": "53511",
+  "lat": 42.50519749359469,
+  "lon": -89.17711725885846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.022Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.022Z"
+}

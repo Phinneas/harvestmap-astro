@@ -1,0 +1,19 @@
+{
+  "slug": "richardson-s-farm-water-street",
+  "name": "Richardson's Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Water Street, NH",
+  "locationCity": "Water Street",
+  "locationState": "NH",
+  "locationZipcode": "03303",
+  "lat": 43.32379991804892,
+  "lon": -71.67137533730535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.803Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "benjamin-vineyards-6516-whitney-road",
+  "name": "Benjamin Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6516 Whitney Road, NC",
+  "locationCity": "6516 Whitney Road",
+  "locationState": "NC",
+  "locationZipcode": "27253",
+  "lat": 35.9263092430149,
+  "lon": -79.3098247581672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.645Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.645Z",
+  "crops": []
+}

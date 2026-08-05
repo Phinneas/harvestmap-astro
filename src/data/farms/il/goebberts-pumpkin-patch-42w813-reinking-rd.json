@@ -1,0 +1,20 @@
+{
+  "slug": "goebberts-pumpkin-patch-42w813-reinking-rd",
+  "name": "Goebberts Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "42W813 Reinking Rd, IL",
+  "locationCity": "42W813 Reinking Rd",
+  "locationState": "IL",
+  "locationZipcode": "60140",
+  "lat": 42.1010320131206,
+  "lon": -88.4484400267007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.953Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.953Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hawarden-farmers-market-13th-st-avenue-e-hawarden",
+  "name": "Hawarden Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13th St. & Avenue E Hawarden, IA",
+  "locationCity": "13th St. & Avenue E Hawarden",
+  "locationState": "IA",
+  "locationZipcode": "51023",
+  "lat": 43.00076000066508,
+  "lon": -96.48795000113917,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

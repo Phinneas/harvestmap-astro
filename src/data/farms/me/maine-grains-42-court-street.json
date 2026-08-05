@@ -1,0 +1,19 @@
+{
+  "slug": "maine-grains-42-court-street",
+  "name": "Maine Grains",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "42 Court Street, ME",
+  "locationCity": "42 Court Street",
+  "locationState": "ME",
+  "locationZipcode": "04976",
+  "lat": 44.76720091643148,
+  "lon": -69.71857413170792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:58.259Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:58.259Z"
+}

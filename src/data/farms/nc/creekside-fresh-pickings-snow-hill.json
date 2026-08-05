@@ -1,0 +1,20 @@
+{
+  "slug": "creekside-fresh-pickings-snow-hill",
+  "name": "Creekside Fresh Pickings",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Snow Hill, NC",
+  "locationCity": "Snow Hill",
+  "locationState": "NC",
+  "locationZipcode": "28580",
+  "lat": 35.4426555,
+  "lon": -77.6885319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.905Z",
+  "crops": []
+}

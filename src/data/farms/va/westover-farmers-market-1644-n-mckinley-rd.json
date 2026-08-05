@@ -1,0 +1,19 @@
+{
+  "slug": "westover-farmers-market-1644-n-mckinley-rd",
+  "name": "Westover Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1644 N McKinley Rd, VA",
+  "locationCity": "1644 N McKinley Rd",
+  "locationState": "VA",
+  "locationZipcode": "22205",
+  "lat": 38.885085442548316,
+  "lon": -77.14244874752572,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

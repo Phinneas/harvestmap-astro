@@ -1,0 +1,19 @@
+{
+  "slug": "eno-river-farmers-market-144-east-margaret-lane-farmers-market-pavilion-hillsborough",
+  "name": "Eno River Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "144 East Margaret Lane (Farmers Market Pavilion) Hillsborough, NC",
+  "locationCity": "144 East Margaret Lane (Farmers Market Pavilion) Hillsborough",
+  "locationState": "NC",
+  "locationZipcode": "27278",
+  "lat": 36.07454334895629,
+  "lon": -79.09731035958605,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

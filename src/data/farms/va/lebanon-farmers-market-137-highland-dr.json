@@ -1,0 +1,19 @@
+{
+  "slug": "lebanon-farmers-market-137-highland-dr",
+  "name": "Lebanon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "137 Highland Dr, VA",
+  "locationCity": "137 Highland Dr",
+  "locationState": "VA",
+  "locationZipcode": "24266",
+  "lat": 36.90363665557739,
+  "lon": -82.06886142191857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

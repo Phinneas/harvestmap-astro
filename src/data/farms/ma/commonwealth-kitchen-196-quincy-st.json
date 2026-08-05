@@ -1,0 +1,19 @@
+{
+  "slug": "commonwealth-kitchen-196-quincy-st",
+  "name": "Commonwealth Kitchen",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "196 Quincy St, MA",
+  "locationCity": "196 Quincy St",
+  "locationState": "MA",
+  "locationZipcode": "02121",
+  "lat": 42.31308599110372,
+  "lon": -71.0739205829212,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.885Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.885Z"
+}

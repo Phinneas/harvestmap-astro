@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-whole-rabbit-friesian-lane",
+  "name": "Fresh Whole Rabbit",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Friesian Lane, MI",
+  "locationCity": "Friesian Lane",
+  "locationState": "MI",
+  "locationZipcode": "48850",
+  "lat": 43.349196,
+  "lon": -85.253005,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.087Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.087Z"
+}

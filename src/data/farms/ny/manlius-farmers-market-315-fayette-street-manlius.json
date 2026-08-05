@@ -1,0 +1,19 @@
+{
+  "slug": "manlius-farmers-market-315-fayette-street-manlius",
+  "name": "Manlius Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "315 Fayette Street Manlius, NY",
+  "locationCity": "315 Fayette Street Manlius",
+  "locationState": "NY",
+  "locationZipcode": "13104",
+  "lat": 43.00491456613296,
+  "lon": -75.98329614398062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.022Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.022Z"
+}

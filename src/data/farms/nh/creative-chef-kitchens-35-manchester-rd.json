@@ -1,0 +1,19 @@
+{
+  "slug": "creative-chef-kitchens-35-manchester-rd",
+  "name": "Creative Chef Kitchens",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "35 Manchester Rd, NH",
+  "locationCity": "35 Manchester Rd",
+  "locationState": "NH",
+  "locationZipcode": "03038",
+  "lat": 42.90063799959637,
+  "lon": -71.33583401857682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.986Z"
+}

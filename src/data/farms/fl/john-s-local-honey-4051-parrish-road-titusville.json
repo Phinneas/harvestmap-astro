@@ -1,0 +1,19 @@
+{
+  "slug": "john-s-local-honey-4051-parrish-road-titusville",
+  "name": "John’s Local Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4051 Parrish Road Titusville, FL",
+  "locationCity": "4051 Parrish Road Titusville",
+  "locationState": "FL",
+  "locationZipcode": "32796",
+  "lat": 28.6513249849208,
+  "lon": -80.8613860238629,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.834Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.834Z"
+}

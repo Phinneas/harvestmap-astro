@@ -1,0 +1,19 @@
+{
+  "slug": "springhill-fruit-farm-646-ganges-five-points-rd",
+  "name": "Springhill Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "646 Ganges-Five Points Rd, OH",
+  "locationCity": "646 Ganges-Five Points Rd",
+  "locationState": "OH",
+  "locationZipcode": "44878",
+  "lat": 40.9362652999423,
+  "lon": -82.5818578959845,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.830Z"
+}

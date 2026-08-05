@@ -1,0 +1,19 @@
+{
+  "slug": "chapmans-orchard-245-county-rd-4",
+  "name": "Chapmans Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "245 County Rd 4, NY",
+  "locationCity": "245 County Rd 4",
+  "locationState": "NY",
+  "locationZipcode": "13830",
+  "lat": 42.4651417146077,
+  "lon": -75.5876526008806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.377Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.377Z"
+}

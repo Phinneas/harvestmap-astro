@@ -1,0 +1,19 @@
+{
+  "slug": "edgerton-farmers-market-741-main-st",
+  "name": "Edgerton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "741 Main St, MN",
+  "locationCity": "741 Main St",
+  "locationState": "MN",
+  "locationZipcode": "56128",
+  "lat": 43.8741245,
+  "lon": -96.1289047,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bellevue-berry-farm-pumpkin-patch-001-s-48th-street",
+  "name": "Bellevue Berry Farm & Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "001 S. 48th Street, NE",
+  "locationCity": "001 S. 48th Street",
+  "locationState": "NE",
+  "locationZipcode": "68133",
+  "lat": 41.1437122324785,
+  "lon": -95.9858833763715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.182Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.182Z"
+}

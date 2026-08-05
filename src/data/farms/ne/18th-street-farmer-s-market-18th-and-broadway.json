@@ -1,0 +1,19 @@
+{
+  "slug": "18th-street-farmer-s-market-18th-and-broadway",
+  "name": "18th Street Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "18th and Broadway, NE",
+  "locationCity": "18th and Broadway",
+  "locationState": "NE",
+  "locationZipcode": "69361",
+  "lat": 41.864268,
+  "lon": -103.66253,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.771Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.771Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "erwin-farmers-market-101-13th-st-erwin",
+  "name": "Erwin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 13th St. Erwin, NC",
+  "locationCity": "101 13th St. Erwin",
+  "locationState": "NC",
+  "locationZipcode": "28339",
+  "lat": 35.327994722213916,
+  "lon": -78.67601206276818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

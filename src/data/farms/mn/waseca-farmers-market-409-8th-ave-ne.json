@@ -1,0 +1,19 @@
+{
+  "slug": "waseca-farmers-market-409-8th-ave-ne",
+  "name": "Waseca Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "409 8th Ave NE, MN",
+  "locationCity": "409 8th Ave NE",
+  "locationState": "MN",
+  "locationZipcode": "56093",
+  "lat": 44.0859272,
+  "lon": -93.5024774,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

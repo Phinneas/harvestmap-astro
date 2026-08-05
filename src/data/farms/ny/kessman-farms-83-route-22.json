@@ -1,0 +1,19 @@
+{
+  "slug": "kessman-farms-83-route-22",
+  "name": "Kessman Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "83 Route 22, NY",
+  "locationCity": "83 Route 22",
+  "locationState": "NY",
+  "locationZipcode": "12564",
+  "lat": 41.53079052061344,
+  "lon": -73.58593212141932,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.828Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.828Z"
+}

@@ -1,21 +1,20 @@
 {
   "slug": "woodland-enterprises-inc-10821-pierce-street",
-  "name": "Woodland Enterprises, Inc.",
+  "name": "Woodland Enterprises Inc.",
   "source": "usda",
-  "directory": "agritourism",
+  "directory": "onfarmmarket",
   "location": "10821 Pierce Street, MI",
   "locationCity": "10821 Pierce Street",
   "locationState": "MI",
   "locationZipcode": "10821",
-  "lat": 42.959102989621,
-  "lon": -86.0542979957789,
+  "lat": 42.957257,
+  "lon": -86.048985,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:29:50.365Z"
+      "lastSeen": "2026-08-05T18:42:46.124Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:29:50.365Z",
-  "website": "http://woodlandberries.com/",
+  "usdaLastUpdated": "2026-08-05T18:42:46.124Z",
   "tagline": "West Michigan blueberries, u"
 }

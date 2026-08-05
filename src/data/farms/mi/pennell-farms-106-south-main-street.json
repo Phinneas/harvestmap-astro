@@ -1,0 +1,19 @@
+{
+  "slug": "pennell-farms-106-south-main-street",
+  "name": "Pennell Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "106 South Main Street, MI",
+  "locationCity": "106 South Main Street",
+  "locationState": "MI",
+  "locationZipcode": "48768",
+  "lat": 43.3718650000001,
+  "lon": -83.583555,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.598Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.598Z"
+}

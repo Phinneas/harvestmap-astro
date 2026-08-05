@@ -1,0 +1,19 @@
+{
+  "slug": "deep-roots-farmers-market-100-garvies-point-rd",
+  "name": "Deep Roots Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Garvies Point Rd, NY",
+  "locationCity": "100 Garvies Point Rd",
+  "locationState": "NY",
+  "locationZipcode": "11542",
+  "lat": 40.85892334797113,
+  "lon": -73.64427872585777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "greene-farmers-market-40-celt-road-stanardsville",
+  "name": "Greene Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "40 Celt Road Stanardsville, VA",
+  "locationCity": "40 Celt Road Stanardsville",
+  "locationState": "VA",
+  "locationZipcode": "22973",
+  "lat": 38.29682488997772,
+  "lon": -78.4411237618735,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

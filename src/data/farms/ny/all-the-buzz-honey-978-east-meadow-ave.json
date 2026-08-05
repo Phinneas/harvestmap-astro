@@ -1,0 +1,20 @@
+{
+  "slug": "all-the-buzz-honey-978-east-meadow-ave",
+  "name": "All the Buzz Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "978 East Meadow Ave, NY",
+  "locationCity": "978 East Meadow Ave",
+  "locationState": "NY",
+  "locationZipcode": "11710",
+  "lat": 40.701712966292,
+  "lon": -73.5452420048161,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.225Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.225Z",
+  "crops": []
+}

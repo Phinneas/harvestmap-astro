@@ -1,0 +1,19 @@
+{
+  "slug": "hinton-farms-produce-426-gantwood-lane",
+  "name": "Hinton Farms Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "426 Gantwood Lane, NC",
+  "locationCity": "426 Gantwood Lane",
+  "locationState": "NC",
+  "locationZipcode": "27249",
+  "lat": 36.080340047404334,
+  "lon": -79.6044899707681,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.461Z"
+}

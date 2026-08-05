@@ -1,0 +1,19 @@
+{
+  "slug": "greentexasfarms-296-w-forest-grove-rd",
+  "name": "GreenTexasFarms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "296 W FOREST GROVE RD, TX",
+  "locationCity": "296 W FOREST GROVE RD",
+  "locationState": "TX",
+  "locationZipcode": "75002",
+  "lat": 33.1207822,
+  "lon": -96.579715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.872Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.872Z"
+}

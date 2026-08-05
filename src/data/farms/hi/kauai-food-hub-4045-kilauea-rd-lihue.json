@@ -1,0 +1,19 @@
+{
+  "slug": "kauai-food-hub-4045-kilauea-rd-lihue",
+  "name": "Kauai Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "4045 Kilauea Rd. Lihue, HI",
+  "locationCity": "4045 Kilauea Rd. Lihue",
+  "locationState": "HI",
+  "locationZipcode": "96766",
+  "lat": 40.36493928654349,
+  "lon": -90.43062999864603,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:17.661Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:17.661Z"
+}

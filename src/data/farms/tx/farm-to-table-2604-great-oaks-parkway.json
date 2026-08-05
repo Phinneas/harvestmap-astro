@@ -1,0 +1,19 @@
+{
+  "slug": "farm-to-table-2604-great-oaks-parkway",
+  "name": "Farm to Table",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2604 Great Oaks Parkway, TX",
+  "locationCity": "2604 Great Oaks Parkway",
+  "locationState": "TX",
+  "locationZipcode": "78756",
+  "lat": 30.3203986,
+  "lon": -97.748312,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:57.086Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:57.086Z"
+}

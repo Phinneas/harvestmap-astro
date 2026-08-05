@@ -1,0 +1,19 @@
+{
+  "slug": "lilac-hedge-farm-106-bond-rd",
+  "name": "Lilac Hedge Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "106 Bond Rd, MA",
+  "locationCity": "106 Bond Rd",
+  "locationState": "MA",
+  "locationZipcode": "01503",
+  "lat": 42.3659492,
+  "lon": -71.9217185,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.272Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.272Z"
+}

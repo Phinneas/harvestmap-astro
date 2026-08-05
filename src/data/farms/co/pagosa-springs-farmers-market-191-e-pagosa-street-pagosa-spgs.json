@@ -1,0 +1,19 @@
+{
+  "slug": "pagosa-springs-farmers-market-191-e-pagosa-street-pagosa-spgs",
+  "name": "Pagosa Springs Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "191 E Pagosa Street PAGOSA SPGS, CO",
+  "locationCity": "191 E Pagosa Street PAGOSA SPGS",
+  "locationState": "CO",
+  "locationZipcode": "81147",
+  "lat": 37.268886086535446,
+  "lon": -107.00470746521046,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

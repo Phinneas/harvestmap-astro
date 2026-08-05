@@ -1,0 +1,19 @@
+{
+  "slug": "cheesebrough-farm-po-box-85-templeton",
+  "name": "Cheesebrough Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "PO Box 85 Templeton, CA",
+  "locationCity": "PO Box 85 Templeton",
+  "locationState": "CA",
+  "locationZipcode": "93465",
+  "lat": 35.5534051000001,
+  "lon": -120.7063294,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.794Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.794Z"
+}

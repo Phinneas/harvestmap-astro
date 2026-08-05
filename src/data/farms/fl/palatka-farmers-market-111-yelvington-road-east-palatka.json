@@ -1,0 +1,19 @@
+{
+  "slug": "palatka-farmers-market-111-yelvington-road-east-palatka",
+  "name": "Palatka Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 Yelvington Road East Palatka, FL",
+  "locationCity": "111 Yelvington Road East Palatka",
+  "locationState": "FL",
+  "locationZipcode": "32131",
+  "lat": 29.642858994027065,
+  "lon": -81.58804598338345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "russell-orchards-143-argilla-rd",
+  "name": "Russell Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "143 Argilla Rd, MA",
+  "locationCity": "143 Argilla Rd",
+  "locationState": "MA",
+  "locationZipcode": "01938",
+  "lat": 42.6652180834977,
+  "lon": -70.8011913070461,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.562Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.562Z"
+}

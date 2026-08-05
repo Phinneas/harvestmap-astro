@@ -1,0 +1,19 @@
+{
+  "slug": "gresczyk-farms-llc-860-litchfield-turnpike",
+  "name": "Gresczyk Farms LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "860 Litchfield Turnpike, CT",
+  "locationCity": "860 Litchfield Turnpike",
+  "locationState": "CT",
+  "locationZipcode": "06057",
+  "lat": 41.829717351044394,
+  "lon": -73.00674906606169,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.437Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.437Z"
+}

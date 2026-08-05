@@ -1,0 +1,19 @@
+{
+  "slug": "strawberry-run-393-us-22",
+  "name": "Strawberry Run",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "393 Us 22, OH",
+  "locationCity": "393 Us 22",
+  "locationState": "OH",
+  "locationZipcode": "45113",
+  "lat": 39.4115296485437,
+  "lon": -84.0060673224314,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.830Z"
+}

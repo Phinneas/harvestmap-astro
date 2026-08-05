@@ -1,0 +1,19 @@
+{
+  "slug": "burlington-south-end-farmers-market-208-flynn-avenue-burlington",
+  "name": "Burlington South End Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "208 Flynn Avenue Burlington, VT",
+  "locationCity": "208 Flynn Avenue Burlington",
+  "locationState": "VT",
+  "locationZipcode": "05401",
+  "lat": 44.455574963623846,
+  "lon": -73.21728179510846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.355Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.355Z"
+}

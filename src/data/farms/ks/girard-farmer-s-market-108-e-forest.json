@@ -1,0 +1,19 @@
+{
+  "slug": "girard-farmer-s-market-108-e-forest",
+  "name": "Girard Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "108 E. Forest, KS",
+  "locationCity": "108 E. Forest",
+  "locationState": "KS",
+  "locationZipcode": "66743",
+  "lat": 37.51082417970289,
+  "lon": -94.84314367743441,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

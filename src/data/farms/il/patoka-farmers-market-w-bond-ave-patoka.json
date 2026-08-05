@@ -1,0 +1,19 @@
+{
+  "slug": "patoka-farmers-market-w-bond-ave-patoka",
+  "name": "Patoka Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "W. Bond Ave Patoka, IL",
+  "locationCity": "W. Bond Ave Patoka",
+  "locationState": "IL",
+  "locationZipcode": "62875",
+  "lat": 38.75520643865137,
+  "lon": -89.1052499828419,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

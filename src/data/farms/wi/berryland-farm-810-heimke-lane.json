@@ -1,0 +1,19 @@
+{
+  "slug": "berryland-farm-810-heimke-lane",
+  "name": "Berryland Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "810 Heimke Lane, WI",
+  "locationCity": "810 Heimke Lane",
+  "locationState": "WI",
+  "locationZipcode": "54101",
+  "lat": 44.7735356544241,
+  "lon": -88.0536231737623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.263Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.263Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fire-creek-farms-3450-plank-road",
+  "name": "Fire Creek Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3450 Plank Road, NY",
+  "locationCity": "3450 Plank Road",
+  "locationState": "NY",
+  "locationZipcode": "14487",
+  "lat": 42.832492,
+  "lon": -77.612316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.160Z"
+}

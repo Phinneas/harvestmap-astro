@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-farms-co-865-zion-street",
+  "name": "Homestead Farms Co.",
+  "source": "usda",
+  "directory": "csa",
+  "location": "865 Zion Street, CO",
+  "locationCity": "865 Zion Street",
+  "locationState": "CO",
+  "locationZipcode": "80011",
+  "lat": 39.729076418899496,
+  "lon": -104.82921896727254,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.591Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.591Z"
+}

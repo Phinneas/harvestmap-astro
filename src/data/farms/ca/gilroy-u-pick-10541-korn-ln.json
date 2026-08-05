@@ -1,0 +1,20 @@
+{
+  "slug": "gilroy-u-pick-10541-korn-ln",
+  "name": "Gilroy U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10541 Korn Ln, CA",
+  "locationCity": "10541 Korn Ln",
+  "locationState": "CA",
+  "locationZipcode": "10541",
+  "lat": 37.0551480106335,
+  "lon": -121.571911974611,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.794Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.794Z",
+  "crops": []
+}

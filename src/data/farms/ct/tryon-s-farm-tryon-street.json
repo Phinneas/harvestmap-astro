@@ -1,0 +1,19 @@
+{
+  "slug": "tryon-s-farm-tryon-street",
+  "name": "Tryon's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Tryon Street, CT",
+  "locationCity": "Tryon Street",
+  "locationState": "CT",
+  "locationZipcode": "06073",
+  "lat": 41.6474151712652,
+  "lon": -72.6209908137996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.142Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.142Z"
+}

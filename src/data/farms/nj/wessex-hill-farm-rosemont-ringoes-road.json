@@ -1,0 +1,19 @@
+{
+  "slug": "wessex-hill-farm-rosemont-ringoes-road",
+  "name": "Wessex Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rosemont-Ringoes Road, NJ",
+  "locationCity": "Rosemont-Ringoes Road",
+  "locationState": "NJ",
+  "locationZipcode": "08551",
+  "lat": 40.4330300122653,
+  "lon": -74.9000560375396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.378Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.378Z"
+}

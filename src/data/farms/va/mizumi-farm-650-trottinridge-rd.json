@@ -1,0 +1,19 @@
+{
+  "slug": "mizumi-farm-650-trottinridge-rd",
+  "name": "Mizumi Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "650 Trottinridge Rd, VA",
+  "locationCity": "650 Trottinridge Rd",
+  "locationState": "VA",
+  "locationZipcode": "23927",
+  "lat": 36.690461797029926,
+  "lon": -78.56447272867173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.260Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.260Z"
+}

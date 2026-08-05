@@ -1,0 +1,19 @@
+{
+  "slug": "loyola-farmers-market-6550-n-sheridan-road-chicago",
+  "name": "Loyola Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6550 N. Sheridan Road Chicago, IL",
+  "locationCity": "6550 N. Sheridan Road Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60626",
+  "lat": 42.00112777271367,
+  "lon": -87.660731622019,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

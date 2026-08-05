@@ -1,0 +1,19 @@
+{
+  "slug": "tifton-farmers-market-u-s-highway-41-tifton",
+  "name": "Tifton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "U.S. Highway 41 Tifton, GA",
+  "locationCity": "U.S. Highway 41 Tifton",
+  "locationState": "GA",
+  "locationZipcode": "31794",
+  "lat": 31.485757253573926,
+  "lon": -83.51888143831547,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

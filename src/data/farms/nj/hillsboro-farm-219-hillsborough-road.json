@@ -1,0 +1,19 @@
+{
+  "slug": "hillsboro-farm-219-hillsborough-road",
+  "name": "Hillsboro Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "219 Hillsborough Road, NJ",
+  "locationCity": "219 Hillsborough Road",
+  "locationState": "NJ",
+  "locationZipcode": "08844",
+  "lat": 40.480706989989,
+  "lon": -74.6343999982972,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.089Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.089Z"
+}

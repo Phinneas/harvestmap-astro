@@ -1,0 +1,19 @@
+{
+  "slug": "green-bay-open-air-market-140-green-bay-road",
+  "name": "Green Bay Open-Air Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "140 Green Bay Road, VA",
+  "locationCity": "140 Green Bay Road",
+  "locationState": "VA",
+  "locationZipcode": "23942",
+  "lat": 37.13546968160963,
+  "lon": -78.31416692270125,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

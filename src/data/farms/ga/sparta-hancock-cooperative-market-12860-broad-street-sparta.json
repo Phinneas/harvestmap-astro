@@ -1,0 +1,19 @@
+{
+  "slug": "sparta-hancock-cooperative-market-12860-broad-street-sparta",
+  "name": "Sparta/Hancock Cooperative Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12860 Broad Street Sparta, GA",
+  "locationCity": "12860 Broad Street Sparta",
+  "locationState": "GA",
+  "locationZipcode": "12860",
+  "lat": 33.27566899511761,
+  "lon": -82.97214202721237,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "columbia-farmers-market-1769-west-ash-street",
+  "name": "Columbia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1769 West Ash Street, MO",
+  "locationCity": "1769 West Ash Street",
+  "locationState": "MO",
+  "locationZipcode": "65203",
+  "lat": 38.958293,
+  "lon": -92.364624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.513Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.513Z"
+}

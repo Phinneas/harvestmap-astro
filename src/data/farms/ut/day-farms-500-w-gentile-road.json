@@ -1,0 +1,19 @@
+{
+  "slug": "day-farms-500-w-gentile-road",
+  "name": "Day Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 W. Gentile Road, UT",
+  "locationCity": "500 W. Gentile Road",
+  "locationState": "UT",
+  "locationZipcode": "84041",
+  "lat": 41.0602472874503,
+  "lon": -111.975476021305,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.544Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.544Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "holton-farm-018-olympia-road",
+  "name": "Holton Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "018 Olympia Road, NC",
+  "locationCity": "018 Olympia Road",
+  "locationState": "NC",
+  "locationZipcode": "28560",
+  "lat": 35.1393890366429,
+  "lon": -76.9708120634706,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.680Z"
+}

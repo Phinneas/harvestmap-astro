@@ -1,0 +1,19 @@
+{
+  "slug": "kaiser-farm-waverly",
+  "name": "Kaiser Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Waverly, IA",
+  "locationCity": "Waverly",
+  "locationState": "IA",
+  "locationZipcode": "50677",
+  "lat": 42.7272032,
+  "lon": -92.4668511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.412Z"
+}

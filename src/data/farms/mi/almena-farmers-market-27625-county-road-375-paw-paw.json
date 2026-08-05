@@ -1,0 +1,19 @@
+{
+  "slug": "almena-farmers-market-27625-county-road-375-paw-paw",
+  "name": "Almena Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "27625 County Road 375 Paw Paw, MI",
+  "locationCity": "27625 County Road 375 Paw Paw",
+  "locationState": "MI",
+  "locationZipcode": "27625",
+  "lat": 42.26684029947899,
+  "lon": -85.81662141546738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

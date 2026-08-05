@@ -1,0 +1,19 @@
+{
+  "slug": "chickadee-creek-farm-pennington",
+  "name": "Chickadee Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Pennington, NJ",
+  "locationCity": "Pennington",
+  "locationState": "NJ",
+  "locationZipcode": "08534",
+  "lat": 40.3284402,
+  "lon": -74.790718,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.066Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.066Z"
+}

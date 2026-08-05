@@ -1,0 +1,19 @@
+{
+  "slug": "park-place-farmers-market-7775-n-palm-ave",
+  "name": "Park Place Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7775 N PALM AVE, CA",
+  "locationCity": "7775 N PALM AVE",
+  "locationState": "CA",
+  "locationZipcode": "93711",
+  "lat": 36.84862001388527,
+  "lon": -119.80714063087353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

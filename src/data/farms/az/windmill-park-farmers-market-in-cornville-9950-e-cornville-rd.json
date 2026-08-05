@@ -1,0 +1,19 @@
+{
+  "slug": "windmill-park-farmers-market-in-cornville-9950-e-cornville-rd",
+  "name": "Windmill Park Farmers Market in Cornville",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9950 E CORNVILLE RD, AZ",
+  "locationCity": "9950 E CORNVILLE RD",
+  "locationState": "AZ",
+  "locationZipcode": "86325",
+  "lat": 34.739119,
+  "lon": -111.90859,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.017Z"
+}

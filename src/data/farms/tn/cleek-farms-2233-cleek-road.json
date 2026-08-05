@@ -1,0 +1,19 @@
+{
+  "slug": "cleek-farms-2233-cleek-road",
+  "name": "Cleek Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2233 Cleek Road, TN",
+  "locationCity": "2233 Cleek Road",
+  "locationState": "TN",
+  "locationZipcode": "37660",
+  "lat": 36.5560910043102,
+  "lon": -82.4744739860643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.260Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.260Z"
+}

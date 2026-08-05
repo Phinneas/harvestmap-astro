@@ -1,0 +1,19 @@
+{
+  "slug": "farm-market-trenton-tn-110-north-church-street-trenton",
+  "name": "Farm Market - Trenton TN",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 North Church Street Trenton, TN",
+  "locationCity": "110 North Church Street Trenton",
+  "locationState": "TN",
+  "locationZipcode": "38382",
+  "lat": 35.98082638774094,
+  "lon": -88.94052219838872,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

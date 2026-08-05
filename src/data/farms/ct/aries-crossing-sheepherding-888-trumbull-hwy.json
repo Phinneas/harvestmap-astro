@@ -1,0 +1,19 @@
+{
+  "slug": "aries-crossing-sheepherding-888-trumbull-hwy",
+  "name": "Aries Crossing Sheepherding",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "888 Trumbull Hwy, CT",
+  "locationCity": "888 Trumbull Hwy",
+  "locationState": "CT",
+  "locationZipcode": "06249",
+  "lat": 41.635545995848,
+  "lon": -72.2116589975598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.900Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.900Z"
+}

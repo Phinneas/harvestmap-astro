@@ -1,0 +1,19 @@
+{
+  "slug": "rowantree-farm-126-south-locust-point-road",
+  "name": "RowanTree Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "126 South Locust Point Road, PA",
+  "locationCity": "126 South Locust Point Road",
+  "locationState": "PA",
+  "locationZipcode": "17055",
+  "lat": 40.18781647094889,
+  "lon": -77.05772169728657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.593Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.593Z"
+}

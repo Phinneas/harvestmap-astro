@@ -1,0 +1,19 @@
+{
+  "slug": "manchester-community-farmer-s-market-161-hillstown-road-manchester",
+  "name": "Manchester Community Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "161 Hillstown Road Manchester, CT",
+  "locationCity": "161 Hillstown Road Manchester",
+  "locationState": "CT",
+  "locationZipcode": "06040",
+  "lat": 41.76238176833459,
+  "lon": -72.56888549933596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

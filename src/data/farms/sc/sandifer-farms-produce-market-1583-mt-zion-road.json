@@ -1,0 +1,19 @@
+{
+  "slug": "sandifer-farms-produce-market-1583-mt-zion-road",
+  "name": "Sandifer Farms Produce Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1583 Mt. Zion Road, SC",
+  "locationCity": "1583 Mt. Zion Road",
+  "locationState": "SC",
+  "locationZipcode": "29817",
+  "lat": 33.3494920206021,
+  "lon": -81.21104700547227,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.222Z"
+}

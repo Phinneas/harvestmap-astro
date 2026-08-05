@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-binghamton-farmers-market-52-court-st-binghamton",
+  "name": "Downtown Binghamton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "52 Court St Binghamton, NY",
+  "locationCity": "52 Court St Binghamton",
+  "locationState": "NY",
+  "locationZipcode": "12058",
+  "lat": 42.09870294573593,
+  "lon": -75.91330947642948,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

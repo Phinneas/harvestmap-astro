@@ -1,0 +1,19 @@
+{
+  "slug": "redbrook-farmers-market-1-greenside-way-north-plymouth",
+  "name": "Redbrook Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Greenside Way North Plymouth, MA",
+  "locationCity": "1 Greenside Way North Plymouth",
+  "locationState": "MA",
+  "locationZipcode": "02360",
+  "lat": 41.8294831311661,
+  "lon": -70.61993012895454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.867Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.867Z"
+}

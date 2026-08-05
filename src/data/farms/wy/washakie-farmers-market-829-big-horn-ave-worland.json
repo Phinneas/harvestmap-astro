@@ -1,0 +1,19 @@
+{
+  "slug": "washakie-farmers-market-829-big-horn-ave-worland",
+  "name": "Washakie Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "829 Big Horn Ave Worland, WY",
+  "locationCity": "829 Big Horn Ave Worland",
+  "locationState": "WY",
+  "locationZipcode": "82401",
+  "lat": 44.01682760014476,
+  "lon": -107.95802973060486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.426Z"
+}

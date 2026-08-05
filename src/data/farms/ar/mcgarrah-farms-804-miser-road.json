@@ -1,0 +1,20 @@
+{
+  "slug": "mcgarrah-farms-804-miser-road",
+  "name": "McGarrah Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "804 Miser Road, AR",
+  "locationCity": "804 Miser Road",
+  "locationState": "AR",
+  "locationZipcode": "72751",
+  "lat": 36.4484301323956,
+  "lon": -94.0785031260043,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.946Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.946Z",
+  "crops": []
+}

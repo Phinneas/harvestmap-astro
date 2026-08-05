@@ -1,0 +1,19 @@
+{
+  "slug": "culver-farms-401-d-road",
+  "name": "Culver Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "401 D Road, NE",
+  "locationCity": "401 D Road",
+  "locationState": "NE",
+  "locationZipcode": "68966",
+  "lat": 40.1618992131465,
+  "lon": -99.5553740717709,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.755Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.755Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "old-saybrook-farmers-market-210-main-street-old-saybrook",
+  "name": "Old Saybrook Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 MAIN STREET OLD SAYBROOK, CT",
+  "locationCity": "210 MAIN STREET OLD SAYBROOK",
+  "locationState": "CT",
+  "locationZipcode": "06475",
+  "lat": 41.29115899583254,
+  "lon": -72.37612343751029,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "spring-hill-farmers-market-406-w-nichols",
+  "name": "Spring Hill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "406 W Nichols, KS",
+  "locationCity": "406 W Nichols",
+  "locationState": "KS",
+  "locationZipcode": "66083",
+  "lat": 38.74373126357488,
+  "lon": -94.82988538544583,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

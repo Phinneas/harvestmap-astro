@@ -1,0 +1,19 @@
+{
+  "slug": "riverview-farm-304-flanders-river-rd",
+  "name": "Riverview Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "304 Flanders River Rd, CT",
+  "locationCity": "304 Flanders River Rd",
+  "locationState": "CT",
+  "locationZipcode": "06238",
+  "lat": 41.72984500496176,
+  "lon": -72.26124398981278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

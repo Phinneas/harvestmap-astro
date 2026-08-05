@@ -1,0 +1,19 @@
+{
+  "slug": "lyon-family-farms-130-bellview-road",
+  "name": "Lyon Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "130 Bellview Road, TN",
+  "locationCity": "130 Bellview Road",
+  "locationState": "TN",
+  "locationZipcode": "38488",
+  "lat": 35.0448909844481,
+  "lon": -86.6194670119414,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.252Z"
+}

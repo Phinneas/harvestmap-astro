@@ -1,0 +1,19 @@
+{
+  "slug": "south-anchorage-wednesday-market-800-e-dimond-blvd",
+  "name": "South Anchorage Wednesday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "800 E Dimond Blvd, AK",
+  "locationCity": "800 E Dimond Blvd",
+  "locationState": "AK",
+  "locationZipcode": "99515",
+  "lat": 61.144724517256996,
+  "lon": -149.86773864567655,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

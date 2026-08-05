@@ -1,0 +1,19 @@
+{
+  "slug": "stone-tree-acres-11-mesquite-lane",
+  "name": "Stone Tree Acres",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "11 Mesquite Lane, AZ",
+  "locationCity": "11 Mesquite Lane",
+  "locationState": "AZ",
+  "locationZipcode": "85924",
+  "lat": 34.461412,
+  "lon": -109.63173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:18.718Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:18.718Z"
+}

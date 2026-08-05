@@ -1,0 +1,19 @@
+{
+  "slug": "mabe-s-strawberries-104-mabe-lane",
+  "name": "Mabe's Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "104 Mabe Lane, NC",
+  "locationCity": "104 Mabe Lane",
+  "locationState": "NC",
+  "locationZipcode": "28338",
+  "lat": 35.1065348950711,
+  "lon": -79.7531480527265,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.697Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.697Z"
+}

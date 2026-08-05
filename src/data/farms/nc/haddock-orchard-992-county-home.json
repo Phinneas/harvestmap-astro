@@ -1,0 +1,19 @@
+{
+  "slug": "haddock-orchard-992-county-home",
+  "name": "Haddock Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "992 County Home, NC",
+  "locationCity": "992 County Home",
+  "locationState": "NC",
+  "locationZipcode": "28590",
+  "lat": 35.5026301570667,
+  "lon": -77.3502501595868,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.892Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.892Z"
+}

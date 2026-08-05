@@ -1,0 +1,19 @@
+{
+  "slug": "boyce-fruit-farm-lexington-road",
+  "name": "Boyce Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Lexington Road, PA",
+  "locationCity": "Lexington Road",
+  "locationState": "PA",
+  "locationZipcode": "16417",
+  "lat": 41.95639609705025,
+  "lon": -80.3639325239263,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stapleton-farmers-market-e-29th-ave-roslyn-st-denver",
+  "name": "Stapleton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "E. 29th Ave. & Roslyn St. Denver, CO",
+  "locationCity": "E. 29th Ave. & Roslyn St. Denver",
+  "locationState": "CO",
+  "locationZipcode": "80238",
+  "lat": 39.757699989600894,
+  "lon": -104.90050998744579,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

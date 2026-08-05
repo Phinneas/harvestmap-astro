@@ -1,0 +1,19 @@
+{
+  "slug": "pure-pasture-farms-6514-highway-161",
+  "name": "Pure Pasture Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6514 Highway 161, TN",
+  "locationCity": "6514 Highway 161",
+  "locationState": "TN",
+  "locationZipcode": "37172",
+  "lat": 36.62866432994076,
+  "lon": -86.95638548906724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.812Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.812Z"
+}

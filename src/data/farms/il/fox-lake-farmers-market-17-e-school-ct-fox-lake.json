@@ -1,0 +1,19 @@
+{
+  "slug": "fox-lake-farmers-market-17-e-school-ct-fox-lake",
+  "name": "Fox Lake Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17 E School Ct. Fox Lake, IL",
+  "locationCity": "17 E School Ct. Fox Lake",
+  "locationState": "IL",
+  "locationZipcode": "60020",
+  "lat": 42.397649985457605,
+  "lon": -88.17851001311956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

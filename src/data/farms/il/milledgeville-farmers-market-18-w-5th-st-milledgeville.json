@@ -1,0 +1,19 @@
+{
+  "slug": "milledgeville-farmers-market-18-w-5th-st-milledgeville",
+  "name": "Milledgeville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "18 W 5th St Milledgeville, IL",
+  "locationCity": "18 W 5th St Milledgeville",
+  "locationState": "IL",
+  "locationZipcode": "61051",
+  "lat": 41.963814196914775,
+  "lon": -89.77469688980918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

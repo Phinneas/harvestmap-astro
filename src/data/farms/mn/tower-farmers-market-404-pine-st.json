@@ -1,0 +1,19 @@
+{
+  "slug": "tower-farmers-market-404-pine-st",
+  "name": "Tower Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "404 Pine St, MN",
+  "locationCity": "404 Pine St",
+  "locationState": "MN",
+  "locationZipcode": "55790",
+  "lat": 47.8048347,
+  "lon": -92.2782482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

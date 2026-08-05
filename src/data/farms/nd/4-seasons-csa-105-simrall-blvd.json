@@ -1,0 +1,19 @@
+{
+  "slug": "4-seasons-csa-105-simrall-blvd",
+  "name": "4 Seasons CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "105 Simrall Blvd., ND",
+  "locationCity": "105 Simrall Blvd.",
+  "locationState": "ND",
+  "locationZipcode": "58318",
+  "lat": 48.8323101,
+  "lon": -100.4405962,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:58.025Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:58.025Z"
+}

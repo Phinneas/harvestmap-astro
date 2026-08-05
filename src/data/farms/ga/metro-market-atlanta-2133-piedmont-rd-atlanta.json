@@ -1,0 +1,19 @@
+{
+  "slug": "metro-market-atlanta-2133-piedmont-rd-atlanta",
+  "name": "Metro Market Atlanta",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2133 Piedmont Rd Atlanta, GA",
+  "locationCity": "2133 Piedmont Rd Atlanta",
+  "locationState": "GA",
+  "locationZipcode": "30324",
+  "lat": 33.814862869082575,
+  "lon": -84.36657160168446,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

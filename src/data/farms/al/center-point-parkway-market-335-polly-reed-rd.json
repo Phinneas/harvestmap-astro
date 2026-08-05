@@ -1,0 +1,19 @@
+{
+  "slug": "center-point-parkway-market-335-polly-reed-rd",
+  "name": "Center Point Parkway Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "335 Polly Reed Rd., AL",
+  "locationCity": "335 Polly Reed Rd.",
+  "locationState": "AL",
+  "locationZipcode": "35215",
+  "lat": 33.629968019030045,
+  "lon": -86.67458900561304,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

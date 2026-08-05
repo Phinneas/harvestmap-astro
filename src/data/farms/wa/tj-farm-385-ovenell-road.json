@@ -1,0 +1,19 @@
+{
+  "slug": "tj-farm-385-ovenell-road",
+  "name": "TJ Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "385 Ovenell Road, WA",
+  "locationCity": "385 Ovenell Road",
+  "locationState": "WA",
+  "locationZipcode": "98273",
+  "lat": 48.4586113224656,
+  "lon": -122.411992337183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.371Z"
+}

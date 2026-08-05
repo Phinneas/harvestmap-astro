@@ -1,0 +1,19 @@
+{
+  "slug": "pixca-farm-2100-hollister-st",
+  "name": "Pixca Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2100 Hollister St, CA",
+  "locationCity": "2100 Hollister St",
+  "locationState": "CA",
+  "locationZipcode": "92154",
+  "lat": 32.558160742348534,
+  "lon": -117.08417176826384,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.071Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.071Z"
+}

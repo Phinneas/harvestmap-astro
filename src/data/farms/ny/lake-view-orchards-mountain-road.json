@@ -1,0 +1,19 @@
+{
+  "slug": "lake-view-orchards-mountain-road",
+  "name": "Lake View Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mountain Road, NY",
+  "locationCity": "Mountain Road",
+  "locationState": "NY",
+  "locationZipcode": "12117",
+  "lat": 43.1799477253782,
+  "lon": -74.2267556440951,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.926Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.926Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "northside-farmers-market-2901-n-sherman-ave",
+  "name": "Northside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2901 N. Sherman Ave., WI",
+  "locationCity": "2901 N. Sherman Ave.",
+  "locationState": "WI",
+  "locationZipcode": "53704",
+  "lat": 43.128145,
+  "lon": -89.362808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.751Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.751Z"
+}

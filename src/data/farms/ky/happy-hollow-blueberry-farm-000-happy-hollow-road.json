@@ -1,0 +1,19 @@
+{
+  "slug": "happy-hollow-blueberry-farm-000-happy-hollow-road",
+  "name": "Happy Hollow Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 Happy Hollow Road, KY",
+  "locationCity": "000 Happy Hollow Road",
+  "locationState": "KY",
+  "locationZipcode": "42348",
+  "lat": 37.8482436064561,
+  "lon": -86.7264983305369,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.543Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.543Z"
+}

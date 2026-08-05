@@ -1,0 +1,19 @@
+{
+  "slug": "salt-soil-marketplace-1107-w-8th-st-ste-4",
+  "name": "Salt & Soil Marketplace",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1107 W 8TH ST STE 4, AK",
+  "locationCity": "1107 W 8TH ST STE 4",
+  "locationState": "AK",
+  "locationZipcode": "99801",
+  "lat": 58.2997815,
+  "lon": -134.42354,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:03.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:03.290Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bentonville-farmers-market-100-n-main-street",
+  "name": "Bentonville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 N. Main Street, AR",
+  "locationCity": "100 N. Main Street",
+  "locationState": "AR",
+  "locationZipcode": "72712",
+  "lat": 36.372637,
+  "lon": -94.208458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.337Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.337Z"
+}

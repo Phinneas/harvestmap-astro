@@ -1,0 +1,19 @@
+{
+  "slug": "pesterfield-s-sweet-corn-route-3",
+  "name": "Pesterfield's Sweet Corn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 3, OK",
+  "locationCity": "Route 3",
+  "locationState": "OK",
+  "locationZipcode": "73075",
+  "lat": 34.7418000000001,
+  "lon": -97.21627,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.378Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.378Z"
+}

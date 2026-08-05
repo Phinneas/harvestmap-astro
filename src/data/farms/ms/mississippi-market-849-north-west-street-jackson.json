@@ -1,0 +1,19 @@
+{
+  "slug": "mississippi-market-849-north-west-street-jackson",
+  "name": "Mississippi Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "849 North West Street Jackson, MS",
+  "locationCity": "849 North West Street Jackson",
+  "locationState": "MS",
+  "locationZipcode": "39201",
+  "lat": 32.30993179035348,
+  "lon": -90.18221048670262,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

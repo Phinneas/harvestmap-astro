@@ -1,0 +1,19 @@
+{
+  "slug": "granger-pumpkin-patch-731-beam-road",
+  "name": "Granger Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "731 Beam Road, WA",
+  "locationCity": "731 Beam Road",
+  "locationState": "WA",
+  "locationZipcode": "98932",
+  "lat": 46.3528184095001,
+  "lon": -120.16745716454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.385Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.385Z"
+}

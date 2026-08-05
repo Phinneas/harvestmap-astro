@@ -1,0 +1,19 @@
+{
+  "slug": "clifton-park-farmers-market-971-ny-146",
+  "name": "Clifton Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "971 NY-146, NY",
+  "locationCity": "971 NY-146",
+  "locationState": "NY",
+  "locationZipcode": "12065",
+  "lat": 42.8687397590076,
+  "lon": -73.80849122485041,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

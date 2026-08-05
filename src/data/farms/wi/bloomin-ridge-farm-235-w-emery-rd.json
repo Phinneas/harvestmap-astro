@@ -1,0 +1,19 @@
+{
+  "slug": "bloomin-ridge-farm-235-w-emery-rd",
+  "name": "Bloomin'Ridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "235 W Emery Rd, WI",
+  "locationCity": "235 W Emery Rd",
+  "locationState": "WI",
+  "locationZipcode": "53536",
+  "lat": 42.8019543524756,
+  "lon": -89.3489529897236,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.293Z"
+}

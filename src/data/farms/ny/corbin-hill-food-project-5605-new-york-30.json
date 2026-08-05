@@ -1,0 +1,19 @@
+{
+  "slug": "corbin-hill-food-project-5605-new-york-30",
+  "name": "Corbin Hill Food Project",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5605 New York 30, NY",
+  "locationCity": "5605 New York 30",
+  "locationState": "NY",
+  "locationZipcode": "12157",
+  "lat": 42.6849087,
+  "lon": -74.297773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.982Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.982Z"
+}

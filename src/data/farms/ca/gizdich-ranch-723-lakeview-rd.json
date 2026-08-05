@@ -1,0 +1,19 @@
+{
+  "slug": "gizdich-ranch-723-lakeview-rd",
+  "name": "Gizdich Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "723 Lakeview Rd, CA",
+  "locationCity": "723 Lakeview Rd",
+  "locationState": "CA",
+  "locationZipcode": "95076",
+  "lat": 36.9456879826941,
+  "lon": -121.720072003882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.817Z"
+}

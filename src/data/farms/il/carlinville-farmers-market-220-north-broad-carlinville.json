@@ -1,0 +1,19 @@
+{
+  "slug": "carlinville-farmers-market-220-north-broad-carlinville",
+  "name": "Carlinville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 North Broad Carlinville, IL",
+  "locationCity": "220 North Broad Carlinville",
+  "locationState": "IL",
+  "locationZipcode": "62626",
+  "lat": 39.281744767118866,
+  "lon": -89.88162171497866,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

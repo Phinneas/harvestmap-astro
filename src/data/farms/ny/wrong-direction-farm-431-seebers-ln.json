@@ -1,0 +1,20 @@
+{
+  "slug": "wrong-direction-farm-431-seebers-ln",
+  "name": "Wrong Direction Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "431 Seebers Ln, NY",
+  "locationCity": "431 Seebers Ln",
+  "locationState": "NY",
+  "locationZipcode": "13317",
+  "lat": 42.8999873543624,
+  "lon": -74.6119214103613,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.220Z",
+  "crops": []
+}

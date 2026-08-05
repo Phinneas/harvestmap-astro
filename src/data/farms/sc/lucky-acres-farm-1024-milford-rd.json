@@ -1,0 +1,19 @@
+{
+  "slug": "lucky-acres-farm-1024-milford-rd",
+  "name": "Lucky Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1024 Milford Rd, SC",
+  "locationCity": "1024 Milford Rd",
+  "locationState": "SC",
+  "locationZipcode": "29689",
+  "lat": 34.51128301886436,
+  "lon": -82.88965001836868,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:50.001Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:50.001Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "poole-produce-1621-bayou-rd",
+  "name": "Poole Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1621 Bayou Rd, LA",
+  "locationCity": "1621 Bayou Rd",
+  "locationState": "LA",
+  "locationZipcode": "71325",
+  "lat": 31.01500298875152,
+  "lon": -92.24826099921403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

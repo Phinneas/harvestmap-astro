@@ -1,0 +1,19 @@
+{
+  "slug": "coweta-county-farmers-market-6-first-avenue",
+  "name": "Coweta County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6 First Avenue, GA",
+  "locationCity": "6 First Avenue",
+  "locationState": "GA",
+  "locationZipcode": "30263",
+  "lat": 33.37006154613327,
+  "lon": -84.80363854276031,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

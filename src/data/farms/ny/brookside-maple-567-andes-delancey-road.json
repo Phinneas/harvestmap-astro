@@ -1,0 +1,19 @@
+{
+  "slug": "brookside-maple-567-andes-delancey-road",
+  "name": "Brookside Maple",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "567 Andes-Delancey Road, NY",
+  "locationCity": "567 Andes-Delancey Road",
+  "locationState": "NY",
+  "locationZipcode": "13752",
+  "lat": 42.2056662421482,
+  "lon": -74.9716328675701,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.129Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.129Z"
+}

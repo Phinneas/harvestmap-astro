@@ -1,0 +1,19 @@
+{
+  "slug": "cartwright-downtown-farmer-s-market-108-north-second-avenue-marshalltown",
+  "name": "Cartwright Downtown Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "108 North Second Avenue Marshalltown, IA",
+  "locationCity": "108 North Second Avenue Marshalltown",
+  "locationState": "IA",
+  "locationZipcode": "50158",
+  "lat": 42.05057670870549,
+  "lon": -92.90966137713454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

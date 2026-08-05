@@ -1,0 +1,20 @@
+{
+  "slug": "adams-vineyards-3390-john-adams-road",
+  "name": "Adams Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3390 John Adams Road, NC",
+  "locationCity": "3390 John Adams Road",
+  "locationState": "NC",
+  "locationZipcode": "27592",
+  "lat": 35.5830123115252,
+  "lon": -78.6757234664055,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.623Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.623Z",
+  "crops": []
+}

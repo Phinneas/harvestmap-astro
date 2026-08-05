@@ -1,0 +1,19 @@
+{
+  "slug": "stanly-county-farmers-market-100-railroad-st-albemarle",
+  "name": "Stanly County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Railroad St Albemarle, NC",
+  "locationCity": "100 Railroad St Albemarle",
+  "locationState": "NC",
+  "locationZipcode": "28001",
+  "lat": 35.35023018093099,
+  "lon": -80.20270388354697,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

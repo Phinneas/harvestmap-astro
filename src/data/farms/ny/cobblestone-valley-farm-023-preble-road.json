@@ -1,0 +1,19 @@
+{
+  "slug": "cobblestone-valley-farm-023-preble-road",
+  "name": "Cobblestone Valley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "023 Preble Road, NY",
+  "locationCity": "023 Preble Road",
+  "locationState": "NY",
+  "locationZipcode": "13141",
+  "lat": 42.7329593402289,
+  "lon": -76.12869392461,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.820Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.820Z"
+}

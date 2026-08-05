@@ -1,0 +1,19 @@
+{
+  "slug": "pyo-blueberries-348-center-street",
+  "name": "PYO Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "348 Center Street, MI",
+  "locationCity": "348 Center Street",
+  "locationState": "MI",
+  "locationZipcode": "49047",
+  "lat": 41.9859900000001,
+  "lon": -86.11136,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.701Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.701Z"
+}

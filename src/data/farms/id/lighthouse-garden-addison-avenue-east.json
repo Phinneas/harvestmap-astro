@@ -1,0 +1,19 @@
+{
+  "slug": "lighthouse-garden-addison-avenue-east",
+  "name": "Lighthouse Garden",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Addison Avenue East, ID",
+  "locationCity": "Addison Avenue East",
+  "locationState": "ID",
+  "locationZipcode": "83301",
+  "lat": 42.56310189452362,
+  "lon": -114.44076429078434,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:39.495Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:39.495Z"
+}

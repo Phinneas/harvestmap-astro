@@ -1,0 +1,19 @@
+{
+  "slug": "rockmart-farmers-market-108-water-st",
+  "name": "Rockmart Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "108 Water St., GA",
+  "locationCity": "108 Water St.",
+  "locationState": "GA",
+  "locationZipcode": "30153",
+  "lat": 33.997669,
+  "lon": -85.053094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.681Z"
+}

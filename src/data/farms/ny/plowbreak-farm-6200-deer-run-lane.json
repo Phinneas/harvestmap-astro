@@ -1,0 +1,19 @@
+{
+  "slug": "plowbreak-farm-6200-deer-run-lane",
+  "name": "Plowbreak Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6200 Deer Run Lane, NY",
+  "locationCity": "6200 Deer Run Lane",
+  "locationState": "NY",
+  "locationZipcode": "14886",
+  "lat": 42.4343865,
+  "lon": -76.6942587,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

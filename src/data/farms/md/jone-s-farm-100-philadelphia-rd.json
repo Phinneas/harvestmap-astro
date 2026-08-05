@@ -1,0 +1,19 @@
+{
+  "slug": "jone-s-farm-100-philadelphia-rd",
+  "name": "Jone's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 Philadelphia Rd, MD",
+  "locationCity": "100 Philadelphia Rd",
+  "locationState": "MD",
+  "locationZipcode": "21040",
+  "lat": 39.4251703043489,
+  "lon": -76.3762258425063,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.147Z"
+}

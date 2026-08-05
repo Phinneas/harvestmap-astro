@@ -1,0 +1,19 @@
+{
+  "slug": "nothing-s-simple-farm-1984-wallula-ave",
+  "name": "Nothing's Simple Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1984 Wallula Ave, WA",
+  "locationCity": "1984 Wallula Ave",
+  "locationState": "WA",
+  "locationZipcode": "99362",
+  "lat": 46.0562323,
+  "lon": -118.4175866,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.589Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.589Z"
+}

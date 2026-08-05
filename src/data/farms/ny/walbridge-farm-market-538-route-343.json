@@ -1,0 +1,19 @@
+{
+  "slug": "walbridge-farm-market-538-route-343",
+  "name": "Walbridge Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "538 Route 343, NY",
+  "locationCity": "538 Route 343",
+  "locationState": "NY",
+  "locationZipcode": "12545",
+  "lat": 41.775037,
+  "lon": -73.651539,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.746Z"
+}

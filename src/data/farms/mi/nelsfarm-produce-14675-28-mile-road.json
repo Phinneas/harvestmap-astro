@@ -1,0 +1,19 @@
+{
+  "slug": "nelsfarm-produce-14675-28-mile-road",
+  "name": "Nelsfarm Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "14675 28 mile road, MI",
+  "locationCity": "14675 28 mile road",
+  "locationState": "MI",
+  "locationZipcode": "14675",
+  "lat": 42.2864664,
+  "lon": -84.7593725,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.979Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.979Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "athens-farmers-market-jefferson-street-athens",
+  "name": "Athens Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Jefferson Street Athens, IL",
+  "locationCity": "Jefferson Street Athens",
+  "locationState": "IL",
+  "locationZipcode": "62613",
+  "lat": 39.96016611760869,
+  "lon": -89.72339768154978,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

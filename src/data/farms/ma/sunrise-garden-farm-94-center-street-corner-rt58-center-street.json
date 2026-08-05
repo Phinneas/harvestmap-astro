@@ -1,0 +1,20 @@
+{
+  "slug": "sunrise-garden-farm-94-center-street-corner-rt58-center-street",
+  "name": "Sunrise Garden Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "94 Center Street (Corner RT58 & Center Street, MA",
+  "locationCity": "94 Center Street (Corner RT58 & Center Street",
+  "locationState": "MA",
+  "locationZipcode": "02367",
+  "lat": 41.9623419418756,
+  "lon": -70.8271194672338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.747Z",
+  "crops": []
+}

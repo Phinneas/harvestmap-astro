@@ -1,0 +1,19 @@
+{
+  "slug": "hilton-farms-691-widgefield-rd",
+  "name": "Hilton Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "691 Widgefield Rd, SC",
+  "locationCity": "691 Widgefield Rd",
+  "locationState": "SC",
+  "locationZipcode": "29154",
+  "lat": 33.9094394370304,
+  "lon": -80.4359473911505,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.813Z"
+}

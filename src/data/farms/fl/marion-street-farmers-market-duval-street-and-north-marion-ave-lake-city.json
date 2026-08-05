@@ -1,0 +1,19 @@
+{
+  "slug": "marion-street-farmers-market-duval-street-and-north-marion-ave-lake-city",
+  "name": "Marion Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Duval Street and North Marion Ave Lake City, FL",
+  "locationCity": "Duval Street and North Marion Ave Lake City",
+  "locationState": "FL",
+  "locationZipcode": "32025",
+  "lat": 30.189349986700975,
+  "lon": -82.63714996289329,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

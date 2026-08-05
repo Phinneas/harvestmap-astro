@@ -1,0 +1,19 @@
+{
+  "slug": "water-valley-main-street-market-206-n-main-street-water-valley",
+  "name": "Water Valley Main Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "206 N. Main Street Water Valley, MS",
+  "locationCity": "206 N. Main Street Water Valley",
+  "locationState": "MS",
+  "locationZipcode": "38965",
+  "lat": 34.146797794969174,
+  "lon": -89.63411414101887,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

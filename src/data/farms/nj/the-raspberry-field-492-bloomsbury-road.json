@@ -1,0 +1,19 @@
+{
+  "slug": "the-raspberry-field-492-bloomsbury-road",
+  "name": "The Raspberry Field",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "492 Bloomsbury Road, NJ",
+  "locationCity": "492 Bloomsbury Road",
+  "locationState": "NJ",
+  "locationZipcode": "08848",
+  "lat": 40.6219799340278,
+  "lon": -75.0174244780413,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.368Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.368Z"
+}

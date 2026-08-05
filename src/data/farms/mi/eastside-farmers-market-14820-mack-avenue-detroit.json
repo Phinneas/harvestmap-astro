@@ -1,0 +1,19 @@
+{
+  "slug": "eastside-farmers-market-14820-mack-avenue-detroit",
+  "name": "Eastside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14820 Mack Avenue Detroit, MI",
+  "locationCity": "14820 Mack Avenue Detroit",
+  "locationState": "MI",
+  "locationZipcode": "14820",
+  "lat": 42.38717373796155,
+  "lon": -82.94845659979512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

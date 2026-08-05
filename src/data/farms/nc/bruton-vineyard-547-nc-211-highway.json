@@ -1,0 +1,19 @@
+{
+  "slug": "bruton-vineyard-547-nc-211-highway",
+  "name": "Bruton Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "547 Nc 211 Highway, NC",
+  "locationCity": "547 Nc 211 Highway",
+  "locationState": "NC",
+  "locationZipcode": "27242",
+  "lat": 35.30369108789772,
+  "lon": -79.69463884816255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.904Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.904Z"
+}

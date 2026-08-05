@@ -1,0 +1,19 @@
+{
+  "slug": "cloverleigh-farm-448-route-87",
+  "name": "Cloverleigh Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "448 Route 87, CT",
+  "locationCity": "448 Route 87",
+  "locationState": "CT",
+  "locationZipcode": "06237",
+  "lat": 41.687900201272186,
+  "lon": -72.28788511468464,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.436Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.436Z"
+}

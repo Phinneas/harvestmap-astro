@@ -1,0 +1,19 @@
+{
+  "slug": "violet-fields-farm-w7976-highway-18",
+  "name": "Violet Fields Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "W7976 Highway 18, WI",
+  "locationCity": "W7976 Highway 18",
+  "locationState": "WI",
+  "locationZipcode": "53538",
+  "lat": 43.0080102,
+  "lon": -88.9283054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.001Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.001Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hopedale-farm-15-klibar-road",
+  "name": "Hopedale Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15 Klibar Road, NY",
+  "locationCity": "15 Klibar Road",
+  "locationState": "NY",
+  "locationZipcode": "12534",
+  "lat": 42.1688622517335,
+  "lon": -73.81774819345448,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.469Z"
+}

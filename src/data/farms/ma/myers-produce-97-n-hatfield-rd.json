@@ -1,0 +1,19 @@
+{
+  "slug": "myers-produce-97-n-hatfield-rd",
+  "name": "Myers Produce",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "97 N Hatfield Rd, MA",
+  "locationCity": "97 N Hatfield Rd",
+  "locationState": "MA",
+  "locationZipcode": "01038",
+  "lat": 42.397906702197105,
+  "lon": -72.61485988861642,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.885Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.885Z"
+}

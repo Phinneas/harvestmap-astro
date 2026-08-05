@@ -1,0 +1,19 @@
+{
+  "slug": "davis-junction-farmer-s-market-rt-72-davis-junction",
+  "name": "Davis Junction Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "RT 72 Davis Junction, IL",
+  "locationCity": "RT 72 Davis Junction",
+  "locationState": "IL",
+  "locationZipcode": "61020",
+  "lat": 42.10150180013813,
+  "lon": -89.08858577665573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

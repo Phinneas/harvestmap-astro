@@ -1,0 +1,19 @@
+{
+  "slug": "marymount-farmers-market-2807-n-glebe-road-arlington",
+  "name": "Marymount Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2807 N. Glebe Road Arlington, VA",
+  "locationCity": "2807 N. Glebe Road Arlington",
+  "locationState": "VA",
+  "locationZipcode": "22207",
+  "lat": 38.90458535080694,
+  "lon": -77.12898149352661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mcmillan-farms-495-mcmillan-rd",
+  "name": "McMillan Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "495 Mcmillan Rd, TN",
+  "locationCity": "495 Mcmillan Rd",
+  "locationState": "TN",
+  "locationZipcode": "37818",
+  "lat": 36.1622449877496,
+  "lon": -82.9781650113772,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.110Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.110Z"
+}

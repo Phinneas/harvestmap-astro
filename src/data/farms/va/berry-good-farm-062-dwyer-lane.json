@@ -1,0 +1,19 @@
+{
+  "slug": "berry-good-farm-062-dwyer-lane",
+  "name": "Berry Good Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "062 Dwyer Lane, VA",
+  "locationCity": "062 Dwyer Lane",
+  "locationState": "VA",
+  "locationZipcode": "22712",
+  "lat": 38.5384301459698,
+  "lon": -77.7541004874933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.104Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.104Z"
+}

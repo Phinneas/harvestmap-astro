@@ -1,0 +1,19 @@
+{
+  "slug": "hwy-80-produce-903-e-us-hwy-80",
+  "name": "Hwy 80 Produce",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "903 E. US Hwy 80, TX",
+  "locationCity": "903 E. US Hwy 80",
+  "locationState": "TX",
+  "locationZipcode": "75693",
+  "lat": 32.528217,
+  "lon": -94.8938,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.051Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.051Z"
+}

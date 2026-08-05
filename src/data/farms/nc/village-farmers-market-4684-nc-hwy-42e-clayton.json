@@ -1,0 +1,19 @@
+{
+  "slug": "village-farmers-market-4684-nc-hwy-42e-clayton",
+  "name": "Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4684 NC Hwy 42E CLAYTON, NC",
+  "locationCity": "4684 NC Hwy 42E CLAYTON",
+  "locationState": "NC",
+  "locationZipcode": "27520",
+  "lat": 35.65330688772068,
+  "lon": -78.34809020787564,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

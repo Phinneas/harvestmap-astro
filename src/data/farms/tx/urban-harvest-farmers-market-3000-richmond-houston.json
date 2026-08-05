@@ -1,0 +1,19 @@
+{
+  "slug": "urban-harvest-farmers-market-3000-richmond-houston",
+  "name": "Urban Harvest Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3000 Richmond Houston, TX",
+  "locationCity": "3000 Richmond Houston",
+  "locationState": "TX",
+  "locationZipcode": "77098",
+  "lat": 29.734041270204738,
+  "lon": -95.42331833181808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.201Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.201Z"
+}

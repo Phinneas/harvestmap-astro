@@ -1,0 +1,19 @@
+{
+  "slug": "wiser-farm-produce-107-w-us-highway-14",
+  "name": "Wiser Farm Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "107 W US Highway 14, WI",
+  "locationCity": "107 W US Highway 14",
+  "locationState": "WI",
+  "locationZipcode": "53536",
+  "lat": 42.7821033548011,
+  "lon": -89.2947565294264,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.229Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.229Z"
+}

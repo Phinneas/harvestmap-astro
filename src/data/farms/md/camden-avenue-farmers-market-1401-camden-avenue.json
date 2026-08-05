@@ -1,0 +1,19 @@
+{
+  "slug": "camden-avenue-farmers-market-1401-camden-avenue",
+  "name": "Camden Avenue Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1401 Camden Avenue, MD",
+  "locationCity": "1401 Camden Avenue",
+  "locationState": "MD",
+  "locationZipcode": "21801",
+  "lat": 38.342190568393015,
+  "lon": -75.60977805119617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.535Z"
+}

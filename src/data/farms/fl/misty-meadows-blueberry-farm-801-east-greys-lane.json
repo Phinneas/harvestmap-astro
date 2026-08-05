@@ -1,0 +1,19 @@
+{
+  "slug": "misty-meadows-blueberry-farm-801-east-greys-lane",
+  "name": "Misty Meadows Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "801 East Greys Lane, FL",
+  "locationCity": "801 East Greys Lane",
+  "locationState": "FL",
+  "locationZipcode": "34453",
+  "lat": 28.8953790298333,
+  "lon": -82.286534778559,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.864Z"
+}

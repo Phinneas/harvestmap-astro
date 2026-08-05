@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-emerson-farmer-s-market-700-highway-293",
+  "name": "City of Emerson Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 Highway 293, GA",
+  "locationCity": "700 Highway 293",
+  "locationState": "GA",
+  "locationZipcode": "30137",
+  "lat": 34.12693048186203,
+  "lon": -84.75658679898592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

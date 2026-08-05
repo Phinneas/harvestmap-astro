@@ -1,0 +1,19 @@
+{
+  "slug": "hyde-farms-545-highway-411s",
+  "name": "Hyde Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "545 Highway 411s, TN",
+  "locationCity": "545 Highway 411s",
+  "locationState": "TN",
+  "locationZipcode": "37742",
+  "lat": 35.6053713711832,
+  "lon": -84.2115749475079,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.196Z"
+}

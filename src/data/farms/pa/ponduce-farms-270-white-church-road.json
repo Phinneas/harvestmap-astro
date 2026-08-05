@@ -1,0 +1,20 @@
+{
+  "slug": "ponduce-farms-270-white-church-road",
+  "name": "Ponduce Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "270 White Church Road, PA",
+  "locationCity": "270 White Church Road",
+  "locationState": "PA",
+  "locationZipcode": "17824",
+  "lat": 40.8568529835236,
+  "lon": -76.4291160071404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.060Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.060Z",
+  "crops": []
+}

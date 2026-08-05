@@ -1,0 +1,19 @@
+{
+  "slug": "brady-s-beef-525-east-virginia-road",
+  "name": "Brady's Beef",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "525 East Virginia Road, ID",
+  "locationCity": "525 East Virginia Road",
+  "locationState": "ID",
+  "locationZipcode": "83234",
+  "lat": 42.5106626986223,
+  "lon": -112.21958870614,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.566Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.566Z"
+}

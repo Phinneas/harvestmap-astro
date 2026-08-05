@@ -1,0 +1,19 @@
+{
+  "slug": "ashby-apples-erickson-road",
+  "name": "Ashby Apples",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Erickson Road, MA",
+  "locationCity": "Erickson Road",
+  "locationState": "MA",
+  "locationZipcode": "01431",
+  "lat": 42.67245709750505,
+  "lon": -71.84025203295937,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.929Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.929Z"
+}

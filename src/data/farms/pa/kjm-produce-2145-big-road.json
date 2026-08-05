@@ -1,0 +1,19 @@
+{
+  "slug": "kjm-produce-2145-big-road",
+  "name": "KJM Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2145 Big Road, PA",
+  "locationCity": "2145 Big Road",
+  "locationState": "PA",
+  "locationZipcode": "19525",
+  "lat": 40.31994803823528,
+  "lon": -75.56586681658675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.590Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.590Z"
+}

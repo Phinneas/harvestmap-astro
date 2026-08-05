@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-gardens-237-ashton-road-route-108",
+  "name": "Blueberry Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "237 Ashton Road (route 108), MD",
+  "locationCity": "237 Ashton Road (route 108)",
+  "locationState": "MD",
+  "locationZipcode": "20861",
+  "lat": 39.1531560193529,
+  "lon": -77.0039480165597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.236Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.236Z"
+}

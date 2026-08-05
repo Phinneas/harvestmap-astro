@@ -1,0 +1,20 @@
+{
+  "slug": "hawk-hill-berry-farm-009-hawk-hill-road",
+  "name": "Hawk Hill Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "009 Hawk Hill Road, NC",
+  "locationCity": "009 Hawk Hill Road",
+  "locationState": "NC",
+  "locationZipcode": "27243",
+  "lat": 36.0342816800017,
+  "lon": -79.2290865261615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.677Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.677Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "myer-s-blueberries-206-twin-lakes-dr",
+  "name": "Myer's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "206 Twin Lakes Dr, SC",
+  "locationCity": "206 Twin Lakes Dr",
+  "locationState": "SC",
+  "locationZipcode": "29483",
+  "lat": 33.0020750002014,
+  "lon": -80.2643719782421,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.788Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.788Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fickle-creek-farm-211-fickle-creek-crossing",
+  "name": "Fickle Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "211 Fickle Creek Crossing, NC",
+  "locationCity": "211 Fickle Creek Crossing",
+  "locationState": "NC",
+  "locationZipcode": "27243",
+  "lat": 36.01871327777333,
+  "lon": -79.20044493824264,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.898Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.899Z"
+}

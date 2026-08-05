@@ -1,0 +1,19 @@
+{
+  "slug": "red-bird-farmers-market-70-queendale-center",
+  "name": "Red Bird Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "70 Queendale Center, KY",
+  "locationCity": "70 Queendale Center",
+  "locationState": "KY",
+  "locationZipcode": "40913",
+  "lat": 37.009793,
+  "lon": -83.526289,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.724Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.724Z"
+}

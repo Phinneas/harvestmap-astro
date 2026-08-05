@@ -1,0 +1,19 @@
+{
+  "slug": "star-orchard-253-highway-ce",
+  "name": "Star Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "253 Highway CE, WI",
+  "locationCity": "253 Highway CE",
+  "locationState": "WI",
+  "locationZipcode": "54130",
+  "lat": 44.2494080095782,
+  "lon": -88.1881410294157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.208Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.208Z"
+}

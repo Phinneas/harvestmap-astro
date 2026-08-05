@@ -1,0 +1,19 @@
+{
+  "slug": "ghost-walk-54-c-street",
+  "name": "Ghost Walk",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "54 C Street, VA",
+  "locationCity": "54 C Street",
+  "locationState": "VA",
+  "locationZipcode": "89440",
+  "lat": 39.3114800000001,
+  "lon": -119.6493,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.344Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.344Z"
+}

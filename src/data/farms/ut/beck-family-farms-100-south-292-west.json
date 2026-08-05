@@ -1,0 +1,20 @@
+{
+  "slug": "beck-family-farms-100-south-292-west",
+  "name": "Beck Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 South 292 West, UT",
+  "locationCity": "100 South 292 West",
+  "locationState": "UT",
+  "locationZipcode": "84622",
+  "lat": 39.1246644673682,
+  "lon": -111.812331906284,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.711Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.711Z",
+  "crops": []
+}

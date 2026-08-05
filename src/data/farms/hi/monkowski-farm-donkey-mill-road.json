@@ -1,0 +1,19 @@
+{
+  "slug": "monkowski-farm-donkey-mill-road",
+  "name": "Monkowski farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Donkey Mill Road, HI",
+  "locationCity": "Donkey Mill Road",
+  "locationState": "HI",
+  "locationZipcode": "96725",
+  "lat": 19.5755355061914,
+  "lon": -155.938278797356,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:08.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:08.930Z"
+}

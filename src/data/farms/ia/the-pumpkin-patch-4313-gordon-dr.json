@@ -1,0 +1,19 @@
+{
+  "slug": "the-pumpkin-patch-4313-gordon-dr",
+  "name": "The Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4313 Gordon Dr, IA",
+  "locationCity": "4313 Gordon Dr",
+  "locationState": "IA",
+  "locationZipcode": "51106",
+  "lat": 42.4778809117289,
+  "lon": -96.3503155373823,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.721Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.721Z"
+}

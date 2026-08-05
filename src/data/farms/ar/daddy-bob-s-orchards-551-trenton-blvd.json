@@ -1,0 +1,20 @@
+{
+  "slug": "daddy-bob-s-orchards-551-trenton-blvd",
+  "name": "Daddy Bob's Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "551 Trenton Blvd, AR",
+  "locationCity": "551 Trenton Blvd",
+  "locationState": "AR",
+  "locationZipcode": "71852",
+  "lat": 33.9094450622375,
+  "lon": -93.8772886590461,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.990Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.990Z",
+  "crops": []
+}

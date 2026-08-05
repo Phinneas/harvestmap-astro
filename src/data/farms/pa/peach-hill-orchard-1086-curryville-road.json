@@ -1,0 +1,20 @@
+{
+  "slug": "peach-hill-orchard-1086-curryville-road",
+  "name": "Peach Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1086 Curryville Road, PA",
+  "locationCity": "1086 Curryville Road",
+  "locationState": "PA",
+  "locationZipcode": "16662",
+  "lat": 40.26098499552393,
+  "lon": -78.3438069738186,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.222Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "le-center-farmers-market-320-s-plut-ave",
+  "name": "Le Center Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 S Plut Ave, MN",
+  "locationCity": "320 S Plut Ave",
+  "locationState": "MN",
+  "locationZipcode": "56057",
+  "lat": 44.3836439,
+  "lon": -93.7298365,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "vacco-farms-505-cain-road",
+  "name": "Vacco Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "505 Cain Road, NY",
+  "locationCity": "505 Cain Road",
+  "locationState": "NY",
+  "locationZipcode": "14006",
+  "lat": 42.6104535151933,
+  "lon": -79.07029626984,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.086Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.086Z"
+}

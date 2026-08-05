@@ -1,0 +1,19 @@
+{
+  "slug": "ever-green-farm-5942-old-lake-road",
+  "name": "Ever Green Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5942 Old Lake Road, NY",
+  "locationCity": "5942 Old Lake Road",
+  "locationState": "NY",
+  "locationZipcode": "14878",
+  "lat": 42.477906,
+  "lon": -76.933836,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.158Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.158Z"
+}

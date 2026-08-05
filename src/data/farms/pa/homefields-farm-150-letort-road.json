@@ -1,0 +1,19 @@
+{
+  "slug": "homefields-farm-150-letort-road",
+  "name": "Homefields Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "150 Letort Road, PA",
+  "locationCity": "150 Letort Road",
+  "locationState": "PA",
+  "locationZipcode": "17551",
+  "lat": 39.9934989,
+  "lon": -76.3669844,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.571Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.571Z"
+}

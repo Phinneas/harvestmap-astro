@@ -1,0 +1,19 @@
+{
+  "slug": "solana-beach-farmers-market-444-south-cedros-avenue",
+  "name": "Solana Beach Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "444 South Cedros Avenue, CA",
+  "locationCity": "444 South Cedros Avenue",
+  "locationState": "CA",
+  "locationZipcode": "92075",
+  "lat": 32.987194,
+  "lon": -117.2692,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.339Z"
+}

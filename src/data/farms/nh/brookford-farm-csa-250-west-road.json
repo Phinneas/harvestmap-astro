@@ -1,0 +1,19 @@
+{
+  "slug": "brookford-farm-csa-250-west-road",
+  "name": "Brookford Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "250 West Road, NH",
+  "locationCity": "250 West Road",
+  "locationState": "NH",
+  "locationZipcode": "03224",
+  "lat": 43.3188627,
+  "lon": -71.6147924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.568Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.568Z"
+}

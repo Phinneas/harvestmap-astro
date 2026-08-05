@@ -1,0 +1,19 @@
+{
+  "slug": "go-ro-fresh-u-pick-vegetables-565-route-23",
+  "name": "Go-Ro Fresh U-Pick Vegetables",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "565 Route 23, IL",
+  "locationCity": "565 Route 23",
+  "locationState": "IL",
+  "locationZipcode": "60135",
+  "lat": 42.0958956664133,
+  "lon": -88.6838197916016,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.860Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.860Z"
+}

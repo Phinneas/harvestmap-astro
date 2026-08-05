@@ -1,0 +1,19 @@
+{
+  "slug": "forneris-farms-15200-rinaldi-street",
+  "name": "Forneris Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "15200 Rinaldi Street, CA",
+  "locationCity": "15200 Rinaldi Street",
+  "locationState": "CA",
+  "locationZipcode": "15200",
+  "lat": 34.27850101342355,
+  "lon": -118.46311001966852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

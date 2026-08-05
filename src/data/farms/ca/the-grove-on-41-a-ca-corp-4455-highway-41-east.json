@@ -1,0 +1,19 @@
+{
+  "slug": "the-grove-on-41-a-ca-corp-4455-highway-41-east",
+  "name": "The Grove on 41, a CA Corp",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4455 Highway 41 East, CA",
+  "locationCity": "4455 Highway 41 East",
+  "locationState": "CA",
+  "locationZipcode": "93465",
+  "lat": 35.50462295615285,
+  "lon": -120.6069101607479,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.844Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.844Z"
+}

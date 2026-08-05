@@ -1,0 +1,19 @@
+{
+  "slug": "manson-farmers-market-manson",
+  "name": "Manson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Manson, IA",
+  "locationCity": "Manson",
+  "locationState": "IA",
+  "locationZipcode": "50563",
+  "lat": 42.527104,
+  "lon": -94.539507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.555Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.555Z"
+}

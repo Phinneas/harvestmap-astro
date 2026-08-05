@@ -1,0 +1,19 @@
+{
+  "slug": "palazzi-orchard-393-north-road",
+  "name": "Palazzi Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "393 North Road, CT",
+  "locationCity": "393 North Road",
+  "locationState": "CT",
+  "locationZipcode": "06243",
+  "lat": 41.869740557469,
+  "lon": -71.8207524461943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.939Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.939Z"
+}

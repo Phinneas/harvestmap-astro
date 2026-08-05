@@ -1,0 +1,19 @@
+{
+  "slug": "canal-village-farmers-market-127-west-center-street",
+  "name": "Canal Village Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "127 West Center Street, NY",
+  "locationCity": "127 West Center Street",
+  "locationState": "NY",
+  "locationZipcode": "14103",
+  "lat": 43.220102,
+  "lon": -78.388368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.905Z"
+}

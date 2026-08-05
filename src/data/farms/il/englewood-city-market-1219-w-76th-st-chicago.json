@@ -1,0 +1,19 @@
+{
+  "slug": "englewood-city-market-1219-w-76th-st-chicago",
+  "name": "Englewood City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1219 W. 76th St. Chicago, IL",
+  "locationCity": "1219 W. 76th St. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60620",
+  "lat": 41.756054996365314,
+  "lon": -87.65463883520522,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

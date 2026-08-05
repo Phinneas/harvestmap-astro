@@ -1,0 +1,19 @@
+{
+  "slug": "piedmontese-nursery-vineyard-osage-rd",
+  "name": "Piedmontese Nursery & Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Osage Rd, OK",
+  "locationCity": "Osage Rd",
+  "locationState": "OK",
+  "locationZipcode": "73501",
+  "lat": 34.5651154057917,
+  "lon": -98.0983992833039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.378Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.378Z"
+}

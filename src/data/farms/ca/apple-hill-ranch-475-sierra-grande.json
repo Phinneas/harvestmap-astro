@@ -1,0 +1,19 @@
+{
+  "slug": "apple-hill-ranch-475-sierra-grande",
+  "name": "Apple Hill Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "475 Sierra Grande, CA",
+  "locationCity": "475 Sierra Grande",
+  "locationState": "CA",
+  "locationZipcode": "93514",
+  "lat": 37.2855959913161,
+  "lon": -118.394642024485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.719Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.719Z"
+}

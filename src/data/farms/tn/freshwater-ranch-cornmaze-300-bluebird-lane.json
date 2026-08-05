@@ -1,0 +1,19 @@
+{
+  "slug": "freshwater-ranch-cornmaze-300-bluebird-lane",
+  "name": "Freshwater Ranch & Cornmaze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "300 Bluebird Lane, TN",
+  "locationCity": "300 Bluebird Lane",
+  "locationState": "TN",
+  "locationZipcode": "38345",
+  "lat": 35.5700880035619,
+  "lon": -88.5312809741736,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.339Z"
+}

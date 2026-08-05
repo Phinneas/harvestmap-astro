@@ -1,0 +1,19 @@
+{
+  "slug": "carthage-farmers-market-500-main-carthage",
+  "name": "Carthage Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Main Carthage, IL",
+  "locationCity": "500 Main Carthage",
+  "locationState": "IL",
+  "locationZipcode": "62321",
+  "lat": 40.41369000817279,
+  "lon": -91.13622503800443,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "trinity-river-farm-2443-hwy-96",
+  "name": "Trinity River Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2443 Hwy 96, CA",
+  "locationCity": "2443 Hwy 96",
+  "locationState": "CA",
+  "locationZipcode": "95573",
+  "lat": 40.9753160136637,
+  "lon": -123.63945599814852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "buckland-farm-market-4484-lee-hwy",
+  "name": "Buckland Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4484 Lee Hwy, VA",
+  "locationCity": "4484 Lee Hwy",
+  "locationState": "VA",
+  "locationZipcode": "22824",
+  "lat": 38.770307,
+  "lon": -77.700951,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.218Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.218Z"
+}

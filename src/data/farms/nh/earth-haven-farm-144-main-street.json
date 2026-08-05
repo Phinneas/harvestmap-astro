@@ -1,0 +1,19 @@
+{
+  "slug": "earth-haven-farm-144-main-street",
+  "name": "Earth Haven Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "144 Main Street, NH",
+  "locationCity": "144 Main Street",
+  "locationState": "NH",
+  "locationZipcode": "03455",
+  "lat": 42.9058600000001,
+  "lon": -72.21025,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.713Z"
+}

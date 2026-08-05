@@ -1,0 +1,19 @@
+{
+  "slug": "fort-lee-farmers-market-1355-inwood-terrace-fort-lee",
+  "name": "Fort Lee Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1355 Inwood Terrace Fort Lee, NJ",
+  "locationCity": "1355 Inwood Terrace Fort Lee",
+  "locationState": "NJ",
+  "locationZipcode": "07024",
+  "lat": 40.844013026658104,
+  "lon": -73.9799486709672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

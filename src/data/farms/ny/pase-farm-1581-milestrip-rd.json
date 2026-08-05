@@ -1,0 +1,19 @@
+{
+  "slug": "pase-farm-1581-milestrip-rd",
+  "name": "Pase Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1581 Milestrip Rd, NY",
+  "locationCity": "1581 Milestrip Rd",
+  "locationState": "NY",
+  "locationZipcode": "14111",
+  "lat": 42.57397105105872,
+  "lon": -78.98662300733227,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.828Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.828Z"
+}

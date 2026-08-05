@@ -1,0 +1,19 @@
+{
+  "slug": "creekside-1192-clymer-hill-road",
+  "name": "Creekside",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1192 Clymer Hill Road, NY",
+  "locationCity": "1192 Clymer Hill Road",
+  "locationState": "NY",
+  "locationZipcode": "14724",
+  "lat": 42.0481731752158,
+  "lon": -79.6147951016272,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.371Z"
+}

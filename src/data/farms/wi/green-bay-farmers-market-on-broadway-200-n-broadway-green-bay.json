@@ -1,0 +1,19 @@
+{
+  "slug": "green-bay-farmers-market-on-broadway-200-n-broadway-green-bay",
+  "name": "Green Bay Farmers Market On Broadway",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 N Broadway Green Bay, WI",
+  "locationCity": "200 N Broadway Green Bay",
+  "locationState": "WI",
+  "locationZipcode": "54303",
+  "lat": 44.518154416563,
+  "lon": -88.0206458877755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

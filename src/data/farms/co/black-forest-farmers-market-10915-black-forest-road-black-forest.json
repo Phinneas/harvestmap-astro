@@ -1,0 +1,19 @@
+{
+  "slug": "black-forest-farmers-market-10915-black-forest-road-black-forest",
+  "name": "Black Forest Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10915 Black Forest Road Black Forest, CO",
+  "locationCity": "10915 Black Forest Road Black Forest",
+  "locationState": "CO",
+  "locationZipcode": "10915",
+  "lat": 38.98934999433783,
+  "lon": -104.69941899399247,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.365Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.365Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "applegate-farm-lawton-road",
+  "name": "Applegate Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Lawton Road, CT",
+  "locationCity": "Lawton Road",
+  "locationState": "CT",
+  "locationZipcode": "06019",
+  "lat": 41.829940624307724,
+  "lon": -72.88287566349459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.082Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.082Z"
+}

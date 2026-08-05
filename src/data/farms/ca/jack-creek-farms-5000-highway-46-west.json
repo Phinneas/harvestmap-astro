@@ -2,20 +2,19 @@
   "slug": "jack-creek-farms-5000-highway-46-west",
   "name": "Jack Creek Farms",
   "source": "usda",
-  "directory": "agritourism",
+  "directory": "onfarmmarket",
   "location": "5000 Highway 46 West, CA",
   "locationCity": "5000 Highway 46 West",
   "locationState": "CA",
   "locationZipcode": "93465",
-  "lat": 35.5505472480301,
-  "lon": -120.780710544247,
+  "lat": 35.54955295310073,
+  "lon": -120.7840335763179,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:23:23.850Z"
+      "lastSeen": "2026-08-05T18:36:43.957Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:23:23.850Z",
-  "website": "https://www.jackcreek.com/",
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z",
   "tagline": "Jack Creek Farms Family Fun Pumpkin Patch Farm Market Templeton, CA"
 }

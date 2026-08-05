@@ -1,0 +1,19 @@
+{
+  "slug": "berries-by-bill-442-elm-street",
+  "name": "Berries by Bill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "442 Elm Street, AR",
+  "locationCity": "442 Elm Street",
+  "locationState": "AR",
+  "locationZipcode": "72112",
+  "lat": 35.6022600000001,
+  "lon": -91.28297,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.034Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.034Z"
+}

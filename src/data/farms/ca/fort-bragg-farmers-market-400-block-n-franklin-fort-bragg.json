@@ -1,0 +1,19 @@
+{
+  "slug": "fort-bragg-farmers-market-400-block-n-franklin-fort-bragg",
+  "name": "Fort Bragg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Block N. Franklin Fort Bragg, CA",
+  "locationCity": "400 Block N. Franklin Fort Bragg",
+  "locationState": "CA",
+  "locationZipcode": "95437",
+  "lat": 39.44559526484747,
+  "lon": -123.80452903180316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

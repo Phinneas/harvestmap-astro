@@ -1,0 +1,19 @@
+{
+  "slug": "wratten-s-apple-orchard-145-huey-road",
+  "name": "Wratten's Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "145 Huey Road, NY",
+  "locationCity": "145 Huey Road",
+  "locationState": "NY",
+  "locationZipcode": "13364",
+  "lat": 42.8092941851393,
+  "lon": -75.2652929831398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.975Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.975Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "j-and-a-produce-111-patsy-lane",
+  "name": "J and A Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "111 Patsy Lane, AL",
+  "locationCity": "111 Patsy Lane",
+  "locationState": "AL",
+  "locationZipcode": "36305",
+  "lat": 31.2297030078385,
+  "lon": -85.5039009943157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.635Z"
+}

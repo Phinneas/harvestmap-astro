@@ -1,0 +1,19 @@
+{
+  "slug": "homegrown-alabama-farmers-market-812-5th-ave",
+  "name": "Homegrown Alabama Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "812 5th Ave., AL",
+  "locationCity": "812 5th Ave.",
+  "locationState": "AL",
+  "locationZipcode": "35401",
+  "lat": 33.20768324061504,
+  "lon": -87.542247531847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

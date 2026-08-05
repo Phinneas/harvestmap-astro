@@ -1,0 +1,20 @@
+{
+  "slug": "orchard-ridge-farms-6786-yale-bridge-rd",
+  "name": "Orchard Ridge Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6786 Yale Bridge Rd, IL",
+  "locationCity": "6786 Yale Bridge Rd",
+  "locationState": "IL",
+  "locationZipcode": "61072",
+  "lat": 42.474587998574,
+  "lon": -89.1698160344594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.872Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.872Z",
+  "crops": []
+}

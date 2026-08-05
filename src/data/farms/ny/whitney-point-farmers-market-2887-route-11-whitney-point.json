@@ -1,0 +1,19 @@
+{
+  "slug": "whitney-point-farmers-market-2887-route-11-whitney-point",
+  "name": "Whitney Point Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2887 Route 11 Whitney Point, NY",
+  "locationCity": "2887 Route 11 Whitney Point",
+  "locationState": "NY",
+  "locationZipcode": "13862",
+  "lat": 42.33581093316102,
+  "lon": -75.97347947330704,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

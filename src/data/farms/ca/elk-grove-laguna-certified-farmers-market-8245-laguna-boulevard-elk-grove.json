@@ -1,0 +1,19 @@
+{
+  "slug": "elk-grove-laguna-certified-farmers-market-8245-laguna-boulevard-elk-grove",
+  "name": "Elk Grove/Laguna Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8245 Laguna Boulevard Elk Grove, CA",
+  "locationCity": "8245 Laguna Boulevard Elk Grove",
+  "locationState": "CA",
+  "locationZipcode": "95758",
+  "lat": 38.422133079404325,
+  "lon": -121.40311605943813,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

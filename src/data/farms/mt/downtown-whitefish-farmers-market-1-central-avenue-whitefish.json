@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-whitefish-farmers-market-1-central-avenue-whitefish",
+  "name": "Downtown Whitefish Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Central avenue Whitefish, MT",
+  "locationCity": "1 Central avenue Whitefish",
+  "locationState": "MT",
+  "locationZipcode": "59937",
+  "lat": 48.41241424982638,
+  "lon": -114.336749775076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:22.007Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:22.007Z"
+}

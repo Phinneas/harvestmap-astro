@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-gardens-400-sw-194th-ave",
+  "name": "Fresh Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "400 SW 194th Ave., FL",
+  "locationCity": "400 SW 194th Ave.",
+  "locationState": "FL",
+  "locationZipcode": "33030",
+  "lat": 25.4760435901465,
+  "lon": -80.5057301111129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.799Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.799Z"
+}

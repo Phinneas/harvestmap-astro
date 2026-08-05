@@ -1,0 +1,19 @@
+{
+  "slug": "brouwer-berries-12951-105th-st-sw",
+  "name": "Brouwer Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12951 105th St SW, MN",
+  "locationCity": "12951 105th St SW",
+  "locationState": "MN",
+  "locationZipcode": "12951",
+  "lat": 44.9985450063825,
+  "lon": -95.1794820256436,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.681Z"
+}

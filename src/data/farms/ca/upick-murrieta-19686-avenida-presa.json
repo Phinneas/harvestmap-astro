@@ -1,0 +1,19 @@
+{
+  "slug": "upick-murrieta-19686-avenida-presa",
+  "name": "Upick Murrieta",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "19686 Avenida Presa, CA",
+  "locationCity": "19686 Avenida Presa",
+  "locationState": "CA",
+  "locationZipcode": "19686",
+  "lat": 33.51220607687722,
+  "lon": -117.318037446091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.850Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-berry-stop-hwy-101-and-stowell-rd",
+  "name": "The Berry Stop",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "HWY 101 And Stowell Rd, CA",
+  "locationCity": "HWY 101 And Stowell Rd",
+  "locationState": "CA",
+  "locationZipcode": "93454",
+  "lat": 34.938349493284875,
+  "lon": -120.41766967643875,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

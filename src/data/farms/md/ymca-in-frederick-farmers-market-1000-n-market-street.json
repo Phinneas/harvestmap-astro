@@ -1,0 +1,19 @@
+{
+  "slug": "ymca-in-frederick-farmers-market-1000-n-market-street",
+  "name": "YMCA in Frederick Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 N. Market Street, MD",
+  "locationCity": "1000 N. Market Street",
+  "locationState": "MD",
+  "locationZipcode": "21701",
+  "lat": 39.42716083690048,
+  "lon": -77.40740886486186,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "coburg-flower-depot-573-north-600-east",
+  "name": "Coburg Flower Depot",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "573 North 600 East, IN",
+  "locationCity": "573 North 600 East",
+  "locationState": "IN",
+  "locationZipcode": "46391",
+  "lat": 41.5160130157676,
+  "lon": -86.9480739938785,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.256Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.256Z"
+}

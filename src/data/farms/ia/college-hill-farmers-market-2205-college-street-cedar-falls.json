@@ -1,0 +1,19 @@
+{
+  "slug": "college-hill-farmers-market-2205-college-street-cedar-falls",
+  "name": "College Hill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2205 College Street Cedar Falls, IA",
+  "locationCity": "2205 College Street Cedar Falls",
+  "locationState": "IA",
+  "locationZipcode": "50613",
+  "lat": 42.5176543684812,
+  "lon": -92.45575794855756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

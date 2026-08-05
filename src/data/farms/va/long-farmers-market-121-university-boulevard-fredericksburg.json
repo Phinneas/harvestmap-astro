@@ -1,0 +1,19 @@
+{
+  "slug": "long-farmers-market-121-university-boulevard-fredericksburg",
+  "name": "Long Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 University Boulevard Fredericksburg, VA",
+  "locationCity": "121 University Boulevard Fredericksburg",
+  "locationState": "VA",
+  "locationZipcode": "22406",
+  "lat": 38.37070165612394,
+  "lon": -77.53253120964767,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

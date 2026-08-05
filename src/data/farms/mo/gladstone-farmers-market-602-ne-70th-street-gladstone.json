@@ -1,0 +1,19 @@
+{
+  "slug": "gladstone-farmers-market-602-ne-70th-street-gladstone",
+  "name": "Gladstone Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "602 NE 70th Street Gladstone, MO",
+  "locationCity": "602 NE 70th Street Gladstone",
+  "locationState": "MO",
+  "locationZipcode": "64118",
+  "lat": 39.221018216952295,
+  "lon": -94.57268354355003,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

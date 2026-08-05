@@ -1,0 +1,19 @@
+{
+  "slug": "lakes-area-farmers-market-1337-rossman-ave",
+  "name": "Lakes Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1337 Rossman Ave, MN",
+  "locationCity": "1337 Rossman Ave",
+  "locationState": "MN",
+  "locationZipcode": "56501",
+  "lat": 46.8078206,
+  "lon": -95.8531715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

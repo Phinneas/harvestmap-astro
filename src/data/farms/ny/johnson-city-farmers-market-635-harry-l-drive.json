@@ -1,0 +1,19 @@
+{
+  "slug": "johnson-city-farmers-market-635-harry-l-drive",
+  "name": "Johnson City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "635 Harry L Drive, NY",
+  "locationCity": "635 Harry L Drive",
+  "locationState": "NY",
+  "locationZipcode": "13790",
+  "lat": 42.12462802580417,
+  "lon": -75.97511310929258,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

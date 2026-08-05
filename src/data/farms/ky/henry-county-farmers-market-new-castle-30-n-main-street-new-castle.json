@@ -1,0 +1,19 @@
+{
+  "slug": "henry-county-farmers-market-new-castle-30-n-main-street-new-castle",
+  "name": "Henry County Farmers' Market - New Castle",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30 N. Main Street New Castle, KY",
+  "locationCity": "30 N. Main Street New Castle",
+  "locationState": "KY",
+  "locationZipcode": "40050",
+  "lat": 38.43409372126761,
+  "lon": -85.16977469400788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

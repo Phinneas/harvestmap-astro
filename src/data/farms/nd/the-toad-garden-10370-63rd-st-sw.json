@@ -1,0 +1,19 @@
+{
+  "slug": "the-toad-garden-10370-63rd-st-sw",
+  "name": "The Toad Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10370 63rd St SW, ND",
+  "locationCity": "10370 63rd St SW",
+  "locationState": "ND",
+  "locationZipcode": "10370",
+  "lat": 46.4995768556835,
+  "lon": -102.58583434977841,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:58.043Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:58.043Z"
+}

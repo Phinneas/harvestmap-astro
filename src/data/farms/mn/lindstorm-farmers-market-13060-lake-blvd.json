@@ -1,0 +1,19 @@
+{
+  "slug": "lindstorm-farmers-market-13060-lake-blvd",
+  "name": "Lindstorm Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13060 Lake Blvd, MN",
+  "locationCity": "13060 Lake Blvd",
+  "locationState": "MN",
+  "locationZipcode": "13060",
+  "lat": 45.3920949,
+  "lon": -92.842314,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

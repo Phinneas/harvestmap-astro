@@ -1,0 +1,19 @@
+{
+  "slug": "otterbee-s-market-18821-montbretia-ln",
+  "name": "OtterBee's Market",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "18821 Montbretia Ln, OR",
+  "locationCity": "18821 Montbretia Ln",
+  "locationState": "OR",
+  "locationZipcode": "18821",
+  "lat": 42.1164140208235,
+  "lon": -124.34661797450232,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:04.362Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:04.362Z"
+}

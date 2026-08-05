@@ -1,0 +1,19 @@
+{
+  "slug": "stan-rathbun-u-pick-strawberries-28-university-avenue",
+  "name": "Stan Rathbun U-Pick Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "28 University Avenue, NY",
+  "locationCity": "28 University Avenue",
+  "locationState": "NY",
+  "locationZipcode": "14808",
+  "lat": 42.5588383211563,
+  "lon": -77.4687579076126,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.378Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.378Z"
+}

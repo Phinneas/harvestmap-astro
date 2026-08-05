@@ -1,0 +1,20 @@
+{
+  "slug": "lane-family-farms-5101-hollister-avenue",
+  "name": "Lane Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5101 Hollister Avenue, CA",
+  "locationCity": "5101 Hollister Avenue",
+  "locationState": "CA",
+  "locationZipcode": "93111",
+  "lat": 34.4347999964072,
+  "lon": -119.802240002808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.810Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.810Z",
+  "crops": []
+}

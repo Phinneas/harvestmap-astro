@@ -1,0 +1,19 @@
+{
+  "slug": "pine-bluffs-farmers-market-6th-st-and-main-st-pine-bluffs",
+  "name": "Pine Bluffs Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6th St and Main St Pine Bluffs, WY",
+  "locationCity": "6th St and Main St Pine Bluffs",
+  "locationState": "WY",
+  "locationZipcode": "82082",
+  "lat": 41.178760016885946,
+  "lon": -104.06826000850101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

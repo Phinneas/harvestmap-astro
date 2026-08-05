@@ -1,0 +1,19 @@
+{
+  "slug": "bolkeys-farm-market-2966-w-12th-street",
+  "name": "Bolkeys Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2966 W. 12th Street, PA",
+  "locationCity": "2966 W. 12th Street",
+  "locationState": "PA",
+  "locationZipcode": "16509",
+  "lat": 42.09898628388683,
+  "lon": -80.14794177350038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

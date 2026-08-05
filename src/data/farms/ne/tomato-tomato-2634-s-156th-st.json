@@ -1,0 +1,19 @@
+{
+  "slug": "tomato-tomato-2634-s-156th-st",
+  "name": "Tomato Tomato",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2634 S. 156th St, NE",
+  "locationCity": "2634 S. 156th St",
+  "locationState": "NE",
+  "locationZipcode": "68130",
+  "lat": 41.233895,
+  "lon": -96.1588162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:48.525Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:48.525Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hope-farmers-market-3rd-and-elm-hope",
+  "name": "HOPE Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3rd and Elm Hope, AR",
+  "locationCity": "3rd and Elm Hope",
+  "locationState": "AR",
+  "locationZipcode": "71801",
+  "lat": 33.666740014993934,
+  "lon": -93.59273997768422,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lake-elmo-farmers-market-11030-stillwater-blvd",
+  "name": "Lake Elmo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11030 Stillwater Blvd, MN",
+  "locationCity": "11030 Stillwater Blvd",
+  "locationState": "MN",
+  "locationZipcode": "11030",
+  "lat": 45.0021479,
+  "lon": -92.8822201,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "georgetown-farmers-market-122-screven-st",
+  "name": "Georgetown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "122 Screven St, SC",
+  "locationCity": "122 Screven St",
+  "locationState": "SC",
+  "locationZipcode": "29440",
+  "lat": 33.3662089,
+  "lon": -79.281782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.053Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.053Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ramstead-ranch-990-dennis-rd",
+  "name": "Ramstead Ranch",
+  "source": "usda",
+  "directory": "csa",
+  "location": "990 Dennis Rd, WA",
+  "locationCity": "990 Dennis Rd",
+  "locationState": "WA",
+  "locationZipcode": "99139",
+  "lat": 48.697172309596624,
+  "lon": -117.43138449146943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.622Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.622Z"
+}

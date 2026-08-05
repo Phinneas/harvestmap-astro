@@ -1,0 +1,19 @@
+{
+  "slug": "red-barn-farm-1305-knoxville-road",
+  "name": "Red Barn Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1305 Knoxville Road, KY",
+  "locationCity": "1305 Knoxville Road",
+  "locationState": "KY",
+  "locationZipcode": "41035",
+  "lat": 38.6779319919281,
+  "lon": -84.5796737725284,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.655Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.655Z"
+}

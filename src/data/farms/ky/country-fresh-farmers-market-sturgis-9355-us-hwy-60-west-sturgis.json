@@ -1,0 +1,19 @@
+{
+  "slug": "country-fresh-farmers-market-sturgis-9355-us-hwy-60-west-sturgis",
+  "name": "Country Fresh Farmers Market - Sturgis",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9355 US Hwy 60 West Sturgis, KY",
+  "locationCity": "9355 US Hwy 60 West Sturgis",
+  "locationState": "KY",
+  "locationZipcode": "42437",
+  "lat": 37.43989169312244,
+  "lon": -87.99439490425355,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

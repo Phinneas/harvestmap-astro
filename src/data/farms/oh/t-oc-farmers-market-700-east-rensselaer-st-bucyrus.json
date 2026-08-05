@@ -1,0 +1,19 @@
+{
+  "slug": "t-oc-farmers-market-700-east-rensselaer-st-bucyrus",
+  "name": "T & OC Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 East Rensselaer St. Bucyrus, OH",
+  "locationCity": "700 East Rensselaer St. Bucyrus",
+  "locationState": "OH",
+  "locationZipcode": "44820",
+  "lat": 40.807612774169236,
+  "lon": -82.96701806064138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.935Z"
+}

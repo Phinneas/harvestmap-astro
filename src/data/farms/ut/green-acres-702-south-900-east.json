@@ -1,0 +1,19 @@
+{
+  "slug": "green-acres-702-south-900-east",
+  "name": "Green Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "702 South 900 East, UT",
+  "locationCity": "702 South 900 East",
+  "locationState": "UT",
+  "locationZipcode": "84020",
+  "lat": 40.5249022972996,
+  "lon": -111.866287517344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.734Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "windmill-pumpkin-farm-957-north-300-east-road",
+  "name": "Windmill Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "957 North 300 East Road, IL",
+  "locationCity": "957 North 300 East Road",
+  "locationState": "IL",
+  "locationZipcode": "61855",
+  "lat": 39.9322659894508,
+  "lon": -88.6871739796769,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.888Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.888Z"
+}

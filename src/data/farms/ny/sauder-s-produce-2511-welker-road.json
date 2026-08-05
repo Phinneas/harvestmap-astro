@@ -1,0 +1,19 @@
+{
+  "slug": "sauder-s-produce-2511-welker-road",
+  "name": "Sauder's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2511 Welker Road, NY",
+  "locationCity": "2511 Welker Road",
+  "locationState": "NY",
+  "locationZipcode": "14527",
+  "lat": 42.5575356476743,
+  "lon": -77.0731693772009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.377Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.377Z"
+}

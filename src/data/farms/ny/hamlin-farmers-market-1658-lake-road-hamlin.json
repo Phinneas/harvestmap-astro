@@ -1,0 +1,19 @@
+{
+  "slug": "hamlin-farmers-market-1658-lake-road-hamlin",
+  "name": "Hamlin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1658 Lake Road Hamlin, NY",
+  "locationCity": "1658 Lake Road Hamlin",
+  "locationState": "NY",
+  "locationZipcode": "14464",
+  "lat": 43.297729708037174,
+  "lon": -77.92085229386396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

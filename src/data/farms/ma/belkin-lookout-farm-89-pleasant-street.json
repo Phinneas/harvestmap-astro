@@ -1,0 +1,19 @@
+{
+  "slug": "belkin-lookout-farm-89-pleasant-street",
+  "name": "Belkin Lookout Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "89 Pleasant Street, MA",
+  "locationCity": "89 Pleasant Street",
+  "locationState": "MA",
+  "locationZipcode": "01760",
+  "lat": 42.262178041163,
+  "lon": -71.3092633016916,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.524Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.524Z"
+}

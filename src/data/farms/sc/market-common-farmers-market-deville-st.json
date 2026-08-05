@@ -1,0 +1,19 @@
+{
+  "slug": "market-common-farmers-market-deville-st",
+  "name": "Market Common Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Deville St, SC",
+  "locationCity": "Deville St",
+  "locationState": "SC",
+  "locationZipcode": "29577",
+  "lat": 33.6699343,
+  "lon": -78.939009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.053Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.053Z"
+}

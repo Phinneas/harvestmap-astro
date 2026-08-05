@@ -1,0 +1,19 @@
+{
+  "slug": "blue-licks-farmers-market-10299-maysville-road-carlisle",
+  "name": "Blue Licks Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10299 Maysville Road Carlisle, KY",
+  "locationCity": "10299 Maysville Road Carlisle",
+  "locationState": "KY",
+  "locationZipcode": "10299",
+  "lat": 38.42905356977454,
+  "lon": -83.99195086779586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

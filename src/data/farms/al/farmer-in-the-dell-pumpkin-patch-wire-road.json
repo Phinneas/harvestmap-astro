@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-in-the-dell-pumpkin-patch-wire-road",
+  "name": "Farmer in the Dell Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Wire Road, AL",
+  "locationCity": "Wire Road",
+  "locationState": "AL",
+  "locationZipcode": "36830",
+  "lat": 32.5953974254943,
+  "lon": -85.5013584318977,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.429Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.429Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "garden-sweet-719-w-willox-st",
+  "name": "Garden Sweet",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "719 W Willox St, CO",
+  "locationCity": "719 W Willox St",
+  "locationState": "CO",
+  "locationZipcode": "80524",
+  "lat": 40.6102430171381,
+  "lon": -105.088849004865,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.205Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.205Z",
+  "crops": []
+}

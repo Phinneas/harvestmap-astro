@@ -1,0 +1,19 @@
+{
+  "slug": "benton-farms-11946-old-lexington-pike",
+  "name": "Benton Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11946 Old Lexington Pike, KY",
+  "locationCity": "11946 Old Lexington Pike",
+  "locationState": "KY",
+  "locationZipcode": "11946",
+  "lat": 38.9040735071385,
+  "lon": -84.6134262601388,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.525Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.525Z"
+}

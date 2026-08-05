@@ -1,0 +1,19 @@
+{
+  "slug": "fruita-farmers-market-325-e-aspen-ave-fruita",
+  "name": "Fruita Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "325 E. Aspen Ave. Fruita, CO",
+  "locationCity": "325 E. Aspen Ave. Fruita",
+  "locationState": "CO",
+  "locationZipcode": "81521",
+  "lat": 39.158882837363485,
+  "lon": -108.73101374190955,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

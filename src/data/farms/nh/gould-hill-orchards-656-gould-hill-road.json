@@ -1,0 +1,20 @@
+{
+  "slug": "gould-hill-orchards-656-gould-hill-road",
+  "name": "Gould Hill Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "656 Gould Hill Road, NH",
+  "locationCity": "656 Gould Hill Road",
+  "locationState": "NH",
+  "locationZipcode": "03229",
+  "lat": 43.2228800157192,
+  "lon": -71.6874660047178,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.550Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.550Z",
+  "crops": []
+}

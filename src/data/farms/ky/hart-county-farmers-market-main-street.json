@@ -1,0 +1,19 @@
+{
+  "slug": "hart-county-farmers-market-main-street",
+  "name": "Hart County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street, KY",
+  "locationCity": "Main Street",
+  "locationState": "KY",
+  "locationZipcode": "42765",
+  "lat": 37.271492,
+  "lon": -85.889578,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.725Z"
+}

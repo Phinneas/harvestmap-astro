@@ -1,0 +1,19 @@
+{
+  "slug": "montgomery-curb-market-1004-madison-ave",
+  "name": "Montgomery Curb Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1004 Madison Ave., AL",
+  "locationCity": "1004 Madison Ave.",
+  "locationState": "AL",
+  "locationZipcode": "36104",
+  "lat": 32.38031696988033,
+  "lon": -86.29518560638401,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

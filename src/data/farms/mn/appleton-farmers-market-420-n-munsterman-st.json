@@ -1,0 +1,19 @@
+{
+  "slug": "appleton-farmers-market-420-n-munsterman-st",
+  "name": "Appleton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "420 N Munsterman St, MN",
+  "locationCity": "420 N Munsterman St",
+  "locationState": "MN",
+  "locationZipcode": "56208",
+  "lat": 45.2037928,
+  "lon": -96.0210604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

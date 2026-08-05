@@ -1,0 +1,19 @@
+{
+  "slug": "watford-market-501-7th-st-se",
+  "name": "Watford Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "501 7th St SE, ND",
+  "locationCity": "501 7th St SE",
+  "locationState": "ND",
+  "locationZipcode": "58854",
+  "lat": 47.797315,
+  "lon": -103.27139,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:01.271Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:01.271Z"
+}

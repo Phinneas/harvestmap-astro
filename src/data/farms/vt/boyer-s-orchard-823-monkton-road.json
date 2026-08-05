@@ -1,0 +1,19 @@
+{
+  "slug": "boyer-s-orchard-823-monkton-road",
+  "name": "Boyer's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "823 Monkton Road, VT",
+  "locationCity": "823 Monkton Road",
+  "locationState": "VT",
+  "locationZipcode": "05469",
+  "lat": 44.2447897495883,
+  "lon": -73.1358425946617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.016Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.016Z"
+}

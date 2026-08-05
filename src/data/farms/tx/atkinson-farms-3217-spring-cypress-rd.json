@@ -1,0 +1,19 @@
+{
+  "slug": "atkinson-farms-3217-spring-cypress-rd",
+  "name": "Atkinson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3217 Spring Cypress Rd, TX",
+  "locationCity": "3217 Spring Cypress Rd",
+  "locationState": "TX",
+  "locationZipcode": "77388",
+  "lat": 30.0607270002648,
+  "lon": -95.4648880080622,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.528Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.528Z"
+}

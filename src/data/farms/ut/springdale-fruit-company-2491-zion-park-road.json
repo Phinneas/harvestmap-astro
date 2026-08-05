@@ -1,0 +1,19 @@
+{
+  "slug": "springdale-fruit-company-2491-zion-park-road",
+  "name": "Springdale Fruit Company",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2491 Zion Park Road, UT",
+  "locationCity": "2491 Zion Park Road",
+  "locationState": "UT",
+  "locationZipcode": "84767",
+  "lat": 37.16209996359521,
+  "lon": -113.01743387850813,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:27.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:27.057Z"
+}

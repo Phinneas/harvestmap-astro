@@ -1,0 +1,19 @@
+{
+  "slug": "turner-farms-706-wall-triana-highway",
+  "name": "Turner Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "706 Wall-Triana Highway, AL",
+  "locationCity": "706 Wall-Triana Highway",
+  "locationState": "AL",
+  "locationZipcode": "35749",
+  "lat": 34.8459336486534,
+  "lon": -86.7491745691447,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.517Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.517Z"
+}

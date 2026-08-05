@@ -1,0 +1,19 @@
+{
+  "slug": "lantern-farm-doe-meadows",
+  "name": "Lantern Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Doe Meadows, NC",
+  "locationCity": "Doe Meadows",
+  "locationState": "NC",
+  "locationZipcode": "28694",
+  "lat": 36.2655971980283,
+  "lon": -81.435923871808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.692Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.692Z"
+}

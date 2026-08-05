@@ -1,0 +1,19 @@
+{
+  "slug": "lexington-farmers-market-4175-lovell-road-lexington",
+  "name": "Lexington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4175 Lovell Road Lexington, MN",
+  "locationCity": "4175 Lovell Road Lexington",
+  "locationState": "MN",
+  "locationZipcode": "55014",
+  "lat": 45.14237480967538,
+  "lon": -93.16437764169001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.774Z"
+}

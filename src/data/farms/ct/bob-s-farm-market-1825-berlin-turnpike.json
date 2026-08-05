@@ -1,0 +1,19 @@
+{
+  "slug": "bob-s-farm-market-1825-berlin-turnpike",
+  "name": "Bob's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1825 Berlin Turnpike, CT",
+  "locationCity": "1825 Berlin Turnpike",
+  "locationState": "CT",
+  "locationZipcode": "06109",
+  "lat": 41.7047140056755,
+  "lon": -72.70271698604465,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.082Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.082Z"
+}

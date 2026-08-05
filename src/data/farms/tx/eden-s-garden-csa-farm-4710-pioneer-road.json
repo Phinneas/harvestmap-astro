@@ -1,0 +1,19 @@
+{
+  "slug": "eden-s-garden-csa-farm-4710-pioneer-road",
+  "name": "Eden's Garden CSA Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4710 Pioneer Road, TX",
+  "locationCity": "4710 Pioneer Road",
+  "locationState": "TX",
+  "locationZipcode": "75180",
+  "lat": 32.70616800184649,
+  "lon": -96.6009738466707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.910Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.910Z"
+}

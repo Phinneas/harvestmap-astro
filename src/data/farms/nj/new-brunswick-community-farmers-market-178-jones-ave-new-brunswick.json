@@ -1,0 +1,19 @@
+{
+  "slug": "new-brunswick-community-farmers-market-178-jones-ave-new-brunswick",
+  "name": "New Brunswick Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "178 Jones Ave New Brunswick, NJ",
+  "locationCity": "178 Jones Ave New Brunswick",
+  "locationState": "NJ",
+  "locationZipcode": "08901",
+  "lat": 40.48043936940804,
+  "lon": -74.44458293996487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

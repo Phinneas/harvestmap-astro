@@ -1,0 +1,19 @@
+{
+  "slug": "hartford-regional-market-101-reserve-road",
+  "name": "Hartford Regional Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Reserve Road, CT",
+  "locationCity": "101 Reserve Road",
+  "locationState": "CT",
+  "locationZipcode": "06114",
+  "lat": 41.75140338167101,
+  "lon": -72.65722933319432,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

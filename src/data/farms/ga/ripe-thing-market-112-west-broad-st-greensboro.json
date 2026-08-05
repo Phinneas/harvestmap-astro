@@ -1,0 +1,19 @@
+{
+  "slug": "ripe-thing-market-112-west-broad-st-greensboro",
+  "name": "Ripe Thing Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 West Broad st Greensboro, GA",
+  "locationCity": "112 West Broad st Greensboro",
+  "locationState": "GA",
+  "locationZipcode": "30642",
+  "lat": 33.57578299640481,
+  "lon": -83.18390603325511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

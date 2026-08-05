@@ -1,0 +1,19 @@
+{
+  "slug": "westside-farmers-market-400-n-walnut-st-ferris-park",
+  "name": "Westside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 N. Walnut St. - Ferris Park, MI",
+  "locationCity": "400 N. Walnut St. - Ferris Park",
+  "locationState": "MI",
+  "locationZipcode": "48933",
+  "lat": 42.73741342529312,
+  "lon": -84.55693980199581,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.249Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.249Z"
+}

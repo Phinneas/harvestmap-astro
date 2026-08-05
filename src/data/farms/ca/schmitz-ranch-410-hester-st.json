@@ -1,0 +1,19 @@
+{
+  "slug": "schmitz-ranch-410-hester-st",
+  "name": "Schmitz Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "410 Hester St, CA",
+  "locationCity": "410 Hester St",
+  "locationState": "CA",
+  "locationZipcode": "94577",
+  "lat": 37.7230219951472,
+  "lon": -122.192858030178,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.800Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.800Z"
+}

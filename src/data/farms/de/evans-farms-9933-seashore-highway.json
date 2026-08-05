@@ -1,0 +1,19 @@
+{
+  "slug": "evans-farms-9933-seashore-highway",
+  "name": "Evans Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9933 Seashore Highway, DE",
+  "locationCity": "9933 Seashore Highway",
+  "locationState": "DE",
+  "locationZipcode": "19933",
+  "lat": 38.7159339891355,
+  "lon": -75.5758120285234,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.152Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.152Z"
+}

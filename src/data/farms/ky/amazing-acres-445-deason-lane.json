@@ -1,0 +1,19 @@
+{
+  "slug": "amazing-acres-445-deason-lane",
+  "name": "Amazing Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "445 Deason Lane, KY",
+  "locationCity": "445 Deason Lane",
+  "locationState": "KY",
+  "locationZipcode": "42240",
+  "lat": 36.913688419438,
+  "lon": -87.4288013936937,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.508Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.508Z"
+}

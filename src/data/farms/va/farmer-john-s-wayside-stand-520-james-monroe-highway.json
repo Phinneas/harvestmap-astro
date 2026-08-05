@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-john-s-wayside-stand-520-james-monroe-highway",
+  "name": "Farmer John's Wayside Stand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "520 James Monroe Highway, VA",
+  "locationCity": "520 James Monroe Highway",
+  "locationState": "VA",
+  "locationZipcode": "20176",
+  "lat": 39.2004988220561,
+  "lon": -77.5378130503923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.126Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.126Z"
+}

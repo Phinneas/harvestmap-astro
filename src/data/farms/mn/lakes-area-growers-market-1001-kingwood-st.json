@@ -1,0 +1,19 @@
+{
+  "slug": "lakes-area-growers-market-1001-kingwood-st",
+  "name": "Lakes Area Growers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1001 Kingwood St, MN",
+  "locationCity": "1001 Kingwood St",
+  "locationState": "MN",
+  "locationZipcode": "56401",
+  "lat": 46.3598183,
+  "lon": -94.1935339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

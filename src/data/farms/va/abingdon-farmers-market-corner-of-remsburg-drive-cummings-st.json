@@ -1,0 +1,19 @@
+{
+  "slug": "abingdon-farmers-market-corner-of-remsburg-drive-cummings-st",
+  "name": "Abingdon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Remsburg Drive & Cummings St, VA",
+  "locationCity": "Corner of Remsburg Drive & Cummings St",
+  "locationState": "VA",
+  "locationZipcode": "24212",
+  "lat": 36.708863,
+  "lon": -81.97716,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.094Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.094Z"
+}

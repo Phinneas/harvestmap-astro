@@ -1,0 +1,19 @@
+{
+  "slug": "metrozoo-metroboo-palm-boulevard",
+  "name": "Metrozoo MetroBoo",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Palm Boulevard, FL",
+  "locationCity": "Palm Boulevard",
+  "locationState": "FL",
+  "locationZipcode": "33177",
+  "lat": 25.6105469938417,
+  "lon": -80.3977289797728,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.838Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "helloharvest-2211-state-st",
+  "name": "HelloHarvest",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2211 state st, CA",
+  "locationCity": "2211 state st",
+  "locationState": "CA",
+  "locationZipcode": "93101",
+  "lat": 34.4328508,
+  "lon": -119.7179671,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.039Z"
+}

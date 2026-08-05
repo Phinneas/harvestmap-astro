@@ -1,0 +1,19 @@
+{
+  "slug": "7-pines-farm-15201-ne-80th-st",
+  "name": "7 Pines Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15201 NE 80th St, IA",
+  "locationCity": "15201 NE 80th St",
+  "locationState": "IA",
+  "locationZipcode": "15201",
+  "lat": 41.838562,
+  "lon": -93.4423018,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.419Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.419Z"
+}

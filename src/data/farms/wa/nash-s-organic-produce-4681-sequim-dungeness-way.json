@@ -1,0 +1,19 @@
+{
+  "slug": "nash-s-organic-produce-4681-sequim-dungeness-way",
+  "name": "Nash's Organic Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4681 Sequim-Dungeness Way, WA",
+  "locationCity": "4681 Sequim-Dungeness Way",
+  "locationState": "WA",
+  "locationZipcode": "98382",
+  "lat": 48.1422616,
+  "lon": -123.1240663,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.582Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.582Z"
+}

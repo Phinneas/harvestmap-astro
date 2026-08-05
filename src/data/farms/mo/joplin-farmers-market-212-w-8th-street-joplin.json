@@ -1,0 +1,19 @@
+{
+  "slug": "joplin-farmers-market-212-w-8th-street-joplin",
+  "name": "Joplin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "212 W 8th Street Joplin, MO",
+  "locationCity": "212 W 8th Street Joplin",
+  "locationState": "MO",
+  "locationZipcode": "64801",
+  "lat": 37.08281036174313,
+  "lon": -94.51485658934166,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "little-falls-farmers-market-505-broadway",
+  "name": "Little Falls Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "505 Broadway, MN",
+  "locationCity": "505 Broadway",
+  "locationState": "MN",
+  "locationZipcode": "56345",
+  "lat": 45.9756193,
+  "lon": -94.3550831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

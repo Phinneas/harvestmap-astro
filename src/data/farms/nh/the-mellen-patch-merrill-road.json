@@ -1,0 +1,19 @@
+{
+  "slug": "the-mellen-patch-merrill-road",
+  "name": "The Mellen Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Merrill Road, NH",
+  "locationCity": "Merrill Road",
+  "locationState": "NH",
+  "locationZipcode": "03444",
+  "lat": 43.1428659908208,
+  "lon": -71.8861539903498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.916Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.916Z"
+}

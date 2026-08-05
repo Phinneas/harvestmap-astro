@@ -1,0 +1,20 @@
+{
+  "slug": "l-a-family-farms-21661-staley-rd",
+  "name": "L&A Family Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "21661 Staley Rd, IL",
+  "locationCity": "21661 Staley Rd",
+  "locationState": "IL",
+  "locationZipcode": "21661",
+  "lat": 39.5121784,
+  "lon": -87.561245,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.478Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.478Z",
+  "crops": []
+}

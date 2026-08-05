@@ -1,0 +1,19 @@
+{
+  "slug": "food-connects-22-browne-ct",
+  "name": "Food Connects",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "22 Browne Ct, VT",
+  "locationCity": "22 Browne Ct",
+  "locationState": "VT",
+  "locationZipcode": "05301",
+  "lat": 42.8878797,
+  "lon": -72.550567,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:46.185Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:46.185Z"
+}

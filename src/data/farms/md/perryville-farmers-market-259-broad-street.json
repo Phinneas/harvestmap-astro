@@ -1,0 +1,19 @@
+{
+  "slug": "perryville-farmers-market-259-broad-street",
+  "name": "Perryville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "259 Broad Street, MD",
+  "locationCity": "259 Broad Street",
+  "locationState": "MD",
+  "locationZipcode": "21903",
+  "lat": 39.5569507973407,
+  "lon": -76.07817056130247,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gather-deliver-25711-hamilton-pool-rd",
+  "name": "Gather & Deliver",
+  "source": "usda",
+  "directory": "csa",
+  "location": "25711 Hamilton Pool Rd, TX",
+  "locationCity": "25711 Hamilton Pool Rd",
+  "locationState": "TX",
+  "locationZipcode": "25711",
+  "lat": 30.344866686661206,
+  "lon": -98.15338311630924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.886Z"
+}

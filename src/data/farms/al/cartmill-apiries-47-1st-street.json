@@ -1,0 +1,19 @@
+{
+  "slug": "cartmill-apiries-47-1st-street",
+  "name": "Cartmill Apiries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "47 1st Street, AL",
+  "locationCity": "47 1st Street",
+  "locationState": "AL",
+  "locationZipcode": "36092",
+  "lat": 32.5577200122912,
+  "lon": -86.309803969371,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.645Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.645Z"
+}

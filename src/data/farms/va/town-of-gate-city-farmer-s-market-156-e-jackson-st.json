@@ -1,0 +1,19 @@
+{
+  "slug": "town-of-gate-city-farmer-s-market-156-e-jackson-st",
+  "name": "Town of Gate City Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "156 E Jackson St, VA",
+  "locationCity": "156 E Jackson St",
+  "locationState": "VA",
+  "locationZipcode": "24251",
+  "lat": 36.63968208489487,
+  "lon": -82.57848442438934,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ohio-farmers-market-6193-edison-street-ne-hartville",
+  "name": "Ohio Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6193 Edison Street NE Hartville, OH",
+  "locationCity": "6193 Edison Street NE Hartville",
+  "locationState": "OH",
+  "locationZipcode": "44632",
+  "lat": 40.953390744729646,
+  "lon": -81.27854171110368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.935Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "abita-springs-farmers-market-25522-hwy-435-abita-springs",
+  "name": "Abita Springs Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25522 Hwy.435 Abita Springs, LA",
+  "locationCity": "25522 Hwy.435 Abita Springs",
+  "locationState": "LA",
+  "locationZipcode": "25522",
+  "lat": 30.505701437298576,
+  "lon": -89.97589036546469,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.707Z"
+}

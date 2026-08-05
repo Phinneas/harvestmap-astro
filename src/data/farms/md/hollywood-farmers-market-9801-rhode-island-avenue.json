@@ -1,0 +1,19 @@
+{
+  "slug": "hollywood-farmers-market-9801-rhode-island-avenue",
+  "name": "Hollywood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9801 Rhode Island Avenue, MD",
+  "locationCity": "9801 Rhode Island Avenue",
+  "locationState": "MD",
+  "locationZipcode": "20740",
+  "lat": 39.01442250038078,
+  "lon": -76.92125632309252,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

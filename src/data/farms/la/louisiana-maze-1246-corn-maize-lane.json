@@ -1,0 +1,19 @@
+{
+  "slug": "louisiana-maze-1246-corn-maize-lane",
+  "name": "Louisiana Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1246 Corn Maize Lane, LA",
+  "locationCity": "1246 Corn Maize Lane",
+  "locationState": "LA",
+  "locationZipcode": "70767",
+  "lat": 30.4907448471111,
+  "lon": -91.2145250243416,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.133Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.133Z"
+}

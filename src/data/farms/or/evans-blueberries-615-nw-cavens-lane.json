@@ -1,0 +1,19 @@
+{
+  "slug": "evans-blueberries-615-nw-cavens-lane",
+  "name": "Evans Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "615 NW Cavens Lane, OR",
+  "locationCity": "615 NW Cavens Lane",
+  "locationState": "OR",
+  "locationZipcode": "97124",
+  "lat": 45.5313778166945,
+  "lon": -123.011405308714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.820Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.820Z"
+}

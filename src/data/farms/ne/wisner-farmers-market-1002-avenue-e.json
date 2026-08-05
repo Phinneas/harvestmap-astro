@@ -1,0 +1,19 @@
+{
+  "slug": "wisner-farmers-market-1002-avenue-e",
+  "name": "Wisner Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1002 Avenue E, NE",
+  "locationCity": "1002 Avenue E",
+  "locationState": "NE",
+  "locationZipcode": "68791",
+  "lat": 41.986933113518724,
+  "lon": -96.9137188707867,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

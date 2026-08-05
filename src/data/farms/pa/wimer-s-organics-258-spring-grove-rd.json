@@ -1,0 +1,19 @@
+{
+  "slug": "wimer-s-organics-258-spring-grove-rd",
+  "name": "Wimer's Organics",
+  "source": "usda",
+  "directory": "csa",
+  "location": "258 Spring Grove Rd, PA",
+  "locationCity": "258 Spring Grove Rd",
+  "locationState": "PA",
+  "locationZipcode": "17519",
+  "lat": 40.1366664,
+  "lon": -76.0142345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.546Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.546Z"
+}

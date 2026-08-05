@@ -1,0 +1,19 @@
+{
+  "slug": "star-hollow-farm-22620-doyle-rd",
+  "name": "Star Hollow Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "22620 Doyle Rd., PA",
+  "locationCity": "22620 Doyle Rd.",
+  "locationState": "PA",
+  "locationZipcode": "22620",
+  "lat": 40.1399808,
+  "lon": -77.9966846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.546Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.546Z"
+}

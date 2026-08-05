@@ -1,0 +1,19 @@
+{
+  "slug": "blue-stone-farm-2051-jefferson-road",
+  "name": "Blue Stone Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2051 Jefferson Road, MI",
+  "locationCity": "2051 Jefferson Road",
+  "locationState": "MI",
+  "locationZipcode": "49078",
+  "lat": 42.455991,
+  "lon": -85.746021,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.096Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.096Z"
+}

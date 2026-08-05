@@ -1,0 +1,19 @@
+{
+  "slug": "flinchbaughs-orchard-and-farm-market-110-ducktown-road",
+  "name": "Flinchbaughs Orchard and Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "110 Ducktown Road, PA",
+  "locationCity": "110 Ducktown Road",
+  "locationState": "PA",
+  "locationZipcode": "17347",
+  "lat": 40.008422,
+  "lon": -76.580711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.366Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "poe-family-farm-smithwood-road",
+  "name": "Poe Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Smithwood Road, NC",
+  "locationCity": "Smithwood Road",
+  "locationState": "NC",
+  "locationZipcode": "27298",
+  "lat": 35.913350643817544,
+  "lon": -79.58438847662752,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.892Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.892Z"
+}

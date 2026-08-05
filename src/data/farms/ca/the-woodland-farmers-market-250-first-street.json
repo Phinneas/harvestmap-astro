@@ -1,0 +1,19 @@
+{
+  "slug": "the-woodland-farmers-market-250-first-street",
+  "name": "The Woodland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "250 First Street, CA",
+  "locationCity": "250 First Street",
+  "locationState": "CA",
+  "locationZipcode": "95695",
+  "lat": 38.6792311,
+  "lon": -121.77377,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.347Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cramer-farm-350-crust-road",
+  "name": "Cramer Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "350 Crust Road, PA",
+  "locationCity": "350 Crust Road",
+  "locationState": "PA",
+  "locationZipcode": "16841",
+  "lat": 40.98025651694289,
+  "lon": -77.56898870578455,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.612Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.612Z"
+}

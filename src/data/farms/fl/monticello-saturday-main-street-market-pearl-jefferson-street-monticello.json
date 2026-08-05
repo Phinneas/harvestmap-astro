@@ -1,0 +1,19 @@
+{
+  "slug": "monticello-saturday-main-street-market-pearl-jefferson-street-monticello",
+  "name": "Monticello Saturday Main Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Pearl & Jefferson Street Monticello, FL",
+  "locationCity": "Pearl & Jefferson Street Monticello",
+  "locationState": "FL",
+  "locationZipcode": "32344",
+  "lat": 30.54661000172915,
+  "lon": -83.87016002269003,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

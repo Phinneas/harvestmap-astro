@@ -1,0 +1,19 @@
+{
+  "slug": "hartbeet-farm-349-blackwell-ln",
+  "name": "HartBeet Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "349 Blackwell Ln, MO",
+  "locationCity": "349 Blackwell Ln",
+  "locationState": "MO",
+  "locationZipcode": "63344",
+  "lat": 39.210701,
+  "lon": -90.9134715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:52.650Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:52.650Z"
+}

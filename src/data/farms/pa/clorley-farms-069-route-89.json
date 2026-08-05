@@ -1,0 +1,19 @@
+{
+  "slug": "clorley-farms-069-route-89",
+  "name": "Clorley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "069 Route 89, PA",
+  "locationCity": "069 Route 89",
+  "locationState": "PA",
+  "locationZipcode": "16428",
+  "lat": 42.2185859016384,
+  "lon": -79.8339612075147,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.079Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.079Z"
+}

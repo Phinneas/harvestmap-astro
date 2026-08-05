@@ -1,0 +1,19 @@
+{
+  "slug": "smokey-s-house-501-n-e-23rd",
+  "name": "Smokey's House",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "501 N.e. 23rd, OK",
+  "locationCity": "501 N.e. 23rd",
+  "locationState": "OK",
+  "locationZipcode": "73020",
+  "lat": 35.4931585395791,
+  "lon": -97.2957422903565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.371Z"
+}

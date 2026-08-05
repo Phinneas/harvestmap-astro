@@ -1,0 +1,19 @@
+{
+  "slug": "wellspring-marketplace-1475-mt-hood-avenue-woodburn",
+  "name": "Wellspring Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1475 Mt. Hood Avenue Woodburn, OR",
+  "locationCity": "1475 Mt. Hood Avenue Woodburn",
+  "locationState": "OR",
+  "locationZipcode": "97071",
+  "lat": 45.151438975760925,
+  "lon": -122.83647562631101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.428Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.428Z"
+}

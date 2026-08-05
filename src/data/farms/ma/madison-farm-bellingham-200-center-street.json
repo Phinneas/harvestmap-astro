@@ -1,0 +1,19 @@
+{
+  "slug": "madison-farm-bellingham-200-center-street",
+  "name": "Madison Farm_Bellingham",
+  "source": "usda",
+  "directory": "csa",
+  "location": "200 Center Street, MA",
+  "locationCity": "200 Center Street",
+  "locationState": "MA",
+  "locationZipcode": "02019",
+  "lat": 42.04638317788317,
+  "lon": -71.47606267196875,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.276Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.276Z"
+}

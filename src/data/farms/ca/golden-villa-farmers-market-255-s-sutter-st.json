@@ -1,0 +1,19 @@
+{
+  "slug": "golden-villa-farmers-market-255-s-sutter-st",
+  "name": "Golden Villa Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "255 S Sutter St, CA",
+  "locationCity": "255 S Sutter St",
+  "locationState": "CA",
+  "locationZipcode": "95203",
+  "lat": 37.9508283,
+  "lon": -121.2880497,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.364Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.364Z"
+}

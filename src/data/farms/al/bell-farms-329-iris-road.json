@@ -1,0 +1,19 @@
+{
+  "slug": "bell-farms-329-iris-road",
+  "name": "Bell Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "329 Iris Road, AL",
+  "locationCity": "329 Iris Road",
+  "locationState": "AL",
+  "locationZipcode": "36301",
+  "lat": 31.1374692240377,
+  "lon": -85.4010430880145,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.403Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.403Z"
+}

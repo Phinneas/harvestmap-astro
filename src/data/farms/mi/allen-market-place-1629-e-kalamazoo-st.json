@@ -1,0 +1,19 @@
+{
+  "slug": "allen-market-place-1629-e-kalamazoo-st",
+  "name": "Allen Market Place",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1629 E. Kalamazoo St., MI",
+  "locationCity": "1629 E. Kalamazoo St.",
+  "locationState": "MI",
+  "locationZipcode": "48912",
+  "lat": 42.7302387,
+  "lon": -84.52638,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.224Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.224Z"
+}

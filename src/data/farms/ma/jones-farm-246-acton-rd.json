@@ -1,0 +1,19 @@
+{
+  "slug": "jones-farm-246-acton-rd",
+  "name": "Jones Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "246 Acton Rd, MA",
+  "locationCity": "246 Acton Rd",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.5771603,
+  "lon": -71.3695759,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.252Z"
+}

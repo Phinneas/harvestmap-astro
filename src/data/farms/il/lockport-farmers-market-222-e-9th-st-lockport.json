@@ -1,0 +1,19 @@
+{
+  "slug": "lockport-farmers-market-222-e-9th-st-lockport",
+  "name": "Lockport Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "222 E. 9th St. Lockport, IL",
+  "locationCity": "222 E. 9th St. Lockport",
+  "locationState": "IL",
+  "locationZipcode": "60441",
+  "lat": 41.58890971255233,
+  "lon": -88.05563569828051,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

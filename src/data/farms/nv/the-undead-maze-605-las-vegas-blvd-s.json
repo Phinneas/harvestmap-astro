@@ -1,0 +1,19 @@
+{
+  "slug": "the-undead-maze-605-las-vegas-blvd-s",
+  "name": "The Undead Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "605 Las Vegas Blvd S, NV",
+  "locationCity": "605 Las Vegas Blvd S",
+  "locationState": "NV",
+  "locationZipcode": "89119",
+  "lat": 36.1631755771392,
+  "lon": -115.144483423669,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:10.955Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:10.955Z"
+}

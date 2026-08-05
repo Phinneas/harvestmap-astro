@@ -1,0 +1,19 @@
+{
+  "slug": "the-terrace-urban-farm-649-pilgrim-terrace-drive",
+  "name": "The Terrace Urban Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "649 Pilgrim Terrace Drive, CA",
+  "locationCity": "649 Pilgrim Terrace Drive",
+  "locationState": "CA",
+  "locationZipcode": "93101",
+  "lat": 34.4255894,
+  "lon": -119.7265914,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.067Z"
+}

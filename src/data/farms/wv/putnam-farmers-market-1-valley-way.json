@@ -1,0 +1,20 @@
+{
+  "slug": "putnam-farmers-market-1-valley-way",
+  "name": "Putnam Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Valley Way, WV",
+  "locationCity": "1 Valley Way",
+  "locationState": "WV",
+  "locationZipcode": "25526",
+  "lat": 38.441892,
+  "lon": -81.99554,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:36.621Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:36.621Z",
+  "crops": []
+}

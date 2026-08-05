@@ -1,0 +1,19 @@
+{
+  "slug": "beck-and-bulow-1336-jorgensen-lane",
+  "name": "Beck and Bulow",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1336 Jorgensen Lane, NM",
+  "locationCity": "1336 Jorgensen Lane",
+  "locationState": "NM",
+  "locationZipcode": "87507",
+  "lat": 35.6588499,
+  "lon": -105.98848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:00.060Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:00.060Z"
+}

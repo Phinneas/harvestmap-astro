@@ -1,0 +1,19 @@
+{
+  "slug": "wemple-s-pumpkin-patch-525-wemple-lane",
+  "name": "Wemple's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "525 Wemple Lane, CA",
+  "locationCity": "525 Wemple Lane",
+  "locationState": "CA",
+  "locationZipcode": "96121",
+  "lat": 40.1729821867754,
+  "lon": -120.362359970857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.712Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.712Z"
+}

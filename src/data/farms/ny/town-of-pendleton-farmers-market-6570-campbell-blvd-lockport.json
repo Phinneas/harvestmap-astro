@@ -1,0 +1,19 @@
+{
+  "slug": "town-of-pendleton-farmers-market-6570-campbell-blvd-lockport",
+  "name": "Town of Pendleton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6570 Campbell Blvd Lockport, NY",
+  "locationCity": "6570 Campbell Blvd Lockport",
+  "locationState": "NY",
+  "locationZipcode": "14094",
+  "lat": 43.10112119343876,
+  "lon": -78.77293436048885,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

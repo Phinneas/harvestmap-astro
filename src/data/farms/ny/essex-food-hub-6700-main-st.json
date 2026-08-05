@@ -1,0 +1,19 @@
+{
+  "slug": "essex-food-hub-6700-main-st",
+  "name": "Essex Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "6700 Main St, NY",
+  "locationCity": "6700 Main St",
+  "locationState": "NY",
+  "locationZipcode": "12993",
+  "lat": 44.18836068091372,
+  "lon": -73.45086546309798,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:16.009Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:16.009Z"
+}

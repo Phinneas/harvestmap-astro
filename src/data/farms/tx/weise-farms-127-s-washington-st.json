@@ -1,0 +1,20 @@
+{
+  "slug": "weise-farms-127-s-washington-st",
+  "name": "Weise Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "127 S. Washington St., TX",
+  "locationCity": "127 S. Washington St.",
+  "locationState": "TX",
+  "locationZipcode": "78945",
+  "lat": 29.9047189112309,
+  "lon": -96.87722712609788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.917Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.917Z",
+  "crops": []
+}

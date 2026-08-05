@@ -1,0 +1,19 @@
+{
+  "slug": "alger-heights-farmers-market-2420-eastern-ave-se-grand-rapids",
+  "name": "Alger Heights Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2420 Eastern Ave. SE Grand Rapids, MI",
+  "locationCity": "2420 Eastern Ave. SE Grand Rapids",
+  "locationState": "MI",
+  "locationZipcode": "49503",
+  "lat": 42.9195863954936,
+  "lon": -85.64750076811393,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

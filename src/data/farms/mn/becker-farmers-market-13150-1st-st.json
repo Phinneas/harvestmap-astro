@@ -1,0 +1,19 @@
+{
+  "slug": "becker-farmers-market-13150-1st-st",
+  "name": "Becker Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13150 1st St, MN",
+  "locationCity": "13150 1st St",
+  "locationState": "MN",
+  "locationZipcode": "13150",
+  "lat": 45.4002976,
+  "lon": -93.8833423,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

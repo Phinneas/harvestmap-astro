@@ -1,0 +1,19 @@
+{
+  "slug": "wayland-winter-farmers-market-397-boston-post-road",
+  "name": "Wayland Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "397 Boston Post Road, MA",
+  "locationCity": "397 Boston Post Road",
+  "locationState": "MA",
+  "locationZipcode": "01778",
+  "lat": 42.363071,
+  "lon": -71.369892,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.738Z"
+}

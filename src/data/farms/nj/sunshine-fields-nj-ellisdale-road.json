@@ -1,0 +1,20 @@
+{
+  "slug": "sunshine-fields-nj-ellisdale-road",
+  "name": "Sunshine Fields NJ",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ellisdale Road, NJ",
+  "locationCity": "Ellisdale Road",
+  "locationState": "NJ",
+  "locationZipcode": "08501",
+  "lat": 40.1609329833467,
+  "lon": -74.5904609722041,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.748Z",
+  "crops": []
+}

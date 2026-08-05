@@ -1,0 +1,19 @@
+{
+  "slug": "red-belly-farms-22608-us-hwy-151",
+  "name": "Red Belly Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "22608 US Hwy 151, WV",
+  "locationCity": "22608 US Hwy 151",
+  "locationState": "WV",
+  "locationZipcode": "22608",
+  "lat": 38.5976262,
+  "lon": -80.4549026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:34.317Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:34.317Z"
+}

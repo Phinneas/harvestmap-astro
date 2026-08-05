@@ -1,0 +1,19 @@
+{
+  "slug": "dickinson-square-farmers-market-1600-east-moyamensing-avenue",
+  "name": "Dickinson Square Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1600 East Moyamensing Avenue, PA",
+  "locationCity": "1600 East Moyamensing Avenue",
+  "locationState": "PA",
+  "locationZipcode": "19148",
+  "lat": 39.927056,
+  "lon": -75.151276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.008Z"
+}

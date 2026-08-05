@@ -1,0 +1,19 @@
+{
+  "slug": "seattle-tilth-produce-5131-s-director-st",
+  "name": "Seattle Tilth Produce",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5131 S. Director St, WA",
+  "locationCity": "5131 S. Director St",
+  "locationState": "WA",
+  "locationZipcode": "98118",
+  "lat": 47.5216167,
+  "lon": -122.26863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:21.630Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:21.630Z"
+}

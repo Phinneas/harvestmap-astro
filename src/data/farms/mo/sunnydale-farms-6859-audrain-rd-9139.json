@@ -1,0 +1,19 @@
+{
+  "slug": "sunnydale-farms-6859-audrain-rd-9139",
+  "name": "Sunnydale Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6859 Audrain Rd #9139, MO",
+  "locationCity": "6859 Audrain Rd #9139",
+  "locationState": "MO",
+  "locationZipcode": "65240",
+  "lat": 39.245705,
+  "lon": -92.2127915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:52.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:52.643Z"
+}

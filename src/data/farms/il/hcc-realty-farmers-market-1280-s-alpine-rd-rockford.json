@@ -1,0 +1,19 @@
+{
+  "slug": "hcc-realty-farmers-market-1280-s-alpine-rd-rockford",
+  "name": "HCC Realty Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1280 S Alpine Rd Rockford, IL",
+  "locationCity": "1280 S Alpine Rd Rockford",
+  "locationState": "IL",
+  "locationZipcode": "61108",
+  "lat": 42.25437134339778,
+  "lon": -89.02892256823672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "amenia-farmers-market-4988-ny-22",
+  "name": "Amenia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4988 NY-22, NY",
+  "locationCity": "4988 NY-22",
+  "locationState": "NY",
+  "locationZipcode": "12501",
+  "lat": 41.84904645825276,
+  "lon": -73.55733599635607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.017Z"
+}

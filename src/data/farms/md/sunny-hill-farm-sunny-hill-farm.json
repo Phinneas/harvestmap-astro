@@ -1,0 +1,19 @@
+{
+  "slug": "sunny-hill-farm-sunny-hill-farm",
+  "name": "Sunny Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sunny Hill Farm, MD",
+  "locationCity": "Sunny Hill Farm",
+  "locationState": "MD",
+  "locationZipcode": "21160",
+  "lat": 39.69831700000003,
+  "lon": -76.32497299999994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.335Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.335Z"
+}

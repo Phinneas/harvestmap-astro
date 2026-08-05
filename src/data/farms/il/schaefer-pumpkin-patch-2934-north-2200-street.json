@@ -1,0 +1,19 @@
+{
+  "slug": "schaefer-pumpkin-patch-2934-north-2200-street",
+  "name": "Schaefer Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2934 North 2200 Street, IL",
+  "locationCity": "2934 North 2200 Street",
+  "locationState": "IL",
+  "locationZipcode": "62414",
+  "lat": 39.1636349908838,
+  "lon": -88.842499027421,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.880Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.880Z"
+}

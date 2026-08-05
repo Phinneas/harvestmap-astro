@@ -1,0 +1,19 @@
+{
+  "slug": "stomp-johnson-s-produce-market-3226-us-highway-13-north",
+  "name": "Stomp Johnson's Produce Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3226 US Highway 13 North, NC",
+  "locationCity": "3226 US Highway 13 North",
+  "locationState": "NC",
+  "locationZipcode": "27534",
+  "lat": 35.42675456750521,
+  "lon": -77.88539163669823,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.461Z"
+}

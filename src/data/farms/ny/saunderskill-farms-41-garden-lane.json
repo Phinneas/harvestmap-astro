@@ -1,0 +1,19 @@
+{
+  "slug": "saunderskill-farms-41-garden-lane",
+  "name": "Saunderskill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "41 Garden Lane, NY",
+  "locationCity": "41 Garden Lane",
+  "locationState": "NY",
+  "locationZipcode": "12404",
+  "lat": 41.7854386483251,
+  "lon": -74.2117338973152,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.036Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.036Z"
+}

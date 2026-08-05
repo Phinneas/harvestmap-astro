@@ -1,0 +1,20 @@
+{
+  "slug": "draper-s-super-bee-apiaries-hudson-hill-road",
+  "name": "Draper's Super Bee Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hudson Hill Road, PA",
+  "locationCity": "Hudson Hill Road",
+  "locationState": "PA",
+  "locationZipcode": "16936",
+  "lat": 41.9650336687877,
+  "lon": -77.0044920467757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.164Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.164Z",
+  "crops": []
+}

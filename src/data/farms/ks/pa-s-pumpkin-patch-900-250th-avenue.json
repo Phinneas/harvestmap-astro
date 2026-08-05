@@ -1,0 +1,19 @@
+{
+  "slug": "pa-s-pumpkin-patch-900-250th-avenue",
+  "name": "Pa's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "900 250th Avenue, KS",
+  "locationCity": "900 250th Avenue",
+  "locationState": "KS",
+  "locationZipcode": "67601",
+  "lat": 38.8239627178983,
+  "lon": -99.3185064325267,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.155Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.155Z"
+}

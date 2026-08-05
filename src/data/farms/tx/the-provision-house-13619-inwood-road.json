@@ -1,0 +1,19 @@
+{
+  "slug": "the-provision-house-13619-inwood-road",
+  "name": "The Provision House",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "13619 Inwood Road, TX",
+  "locationCity": "13619 Inwood Road",
+  "locationState": "TX",
+  "locationZipcode": "13619",
+  "lat": 32.9350989,
+  "lon": -96.825163,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:57.092Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:57.092Z"
+}

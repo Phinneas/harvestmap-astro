@@ -1,0 +1,19 @@
+{
+  "slug": "bar-m-ranch-26319-decker-prairie-rosehill-rd",
+  "name": "Bar M Ranch",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "26319 Decker Prairie Rosehill Rd., TX",
+  "locationCity": "26319 Decker Prairie Rosehill Rd.",
+  "locationState": "TX",
+  "locationZipcode": "26319",
+  "lat": 30.125433,
+  "lon": -95.672724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.252Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "veggiescapes-7777-oxford-road",
+  "name": "Veggiescapes",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7777 Oxford Road, CO",
+  "locationCity": "7777 Oxford Road",
+  "locationState": "CO",
+  "locationZipcode": "80503",
+  "lat": 40.11578258764679,
+  "lon": -105.1716223517618,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:05.335Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:05.335Z"
+}

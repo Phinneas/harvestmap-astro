@@ -1,0 +1,19 @@
+{
+  "slug": "local-food-hub-556-dettor-road",
+  "name": "Local Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "556 Dettor Road, VA",
+  "locationCity": "556 Dettor Road",
+  "locationState": "VA",
+  "locationZipcode": "22903",
+  "lat": 38.0562627,
+  "lon": -78.617003,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:05.030Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:05.030Z"
+}

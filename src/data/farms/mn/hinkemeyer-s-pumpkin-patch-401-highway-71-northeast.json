@@ -1,0 +1,19 @@
+{
+  "slug": "hinkemeyer-s-pumpkin-patch-401-highway-71-northeast",
+  "name": "Hinkemeyer's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "401 Highway 71 Northeast, MN",
+  "locationCity": "401 Highway 71 Northeast",
+  "locationState": "MN",
+  "locationZipcode": "56273",
+  "lat": 45.3116996529163,
+  "lon": -95.0094512953195,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.763Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.763Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "united-farmers-market-of-maine-18-spring-st-belfast",
+  "name": "United Farmers Market of Maine",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "18 Spring St. Belfast, ME",
+  "locationCity": "18 Spring St. Belfast",
+  "locationState": "ME",
+  "locationZipcode": "04915",
+  "lat": 44.426865319082104,
+  "lon": -69.00400175166932,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:57.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:57.069Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "marion-farmers-market-507-w-main-street-marion",
+  "name": "Marion Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "507 W. Main Street Marion, IL",
+  "locationCity": "507 W. Main Street Marion",
+  "locationState": "IL",
+  "locationZipcode": "62959",
+  "lat": 37.730783734603946,
+  "lon": -88.93048124664229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

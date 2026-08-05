@@ -1,0 +1,19 @@
+{
+  "slug": "farmington-farmers-market-1723-farmington-rd-mocksville",
+  "name": "Farmington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1723 Farmington Rd Mocksville, NC",
+  "locationCity": "1723 Farmington Rd Mocksville",
+  "locationState": "NC",
+  "locationZipcode": "27028",
+  "lat": 36.009593596269994,
+  "lon": -80.53186823978399,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

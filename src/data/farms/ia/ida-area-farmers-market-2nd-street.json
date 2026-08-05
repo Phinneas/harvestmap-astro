@@ -1,0 +1,19 @@
+{
+  "slug": "ida-area-farmers-market-2nd-street",
+  "name": "Ida Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2nd Street, IA",
+  "locationCity": "2nd Street",
+  "locationState": "IA",
+  "locationZipcode": "51445",
+  "lat": 42.345173,
+  "lon": -95.470874,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.554Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.554Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "west-fork-garden-market-100-main-st-west-fork",
+  "name": "West Fork Garden Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Main St. West Fork, AR",
+  "locationCity": "100 Main St. West Fork",
+  "locationState": "AR",
+  "locationZipcode": "72774",
+  "lat": 35.92852870111361,
+  "lon": -94.18385571112023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

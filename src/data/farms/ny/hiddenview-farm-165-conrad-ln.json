@@ -1,0 +1,19 @@
+{
+  "slug": "hiddenview-farm-165-conrad-ln",
+  "name": "Hiddenview Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "165 Conrad ln, NY",
+  "locationCity": "165 Conrad ln",
+  "locationState": "NY",
+  "locationZipcode": "12058",
+  "lat": 42.324734,
+  "lon": -73.933952,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.160Z"
+}

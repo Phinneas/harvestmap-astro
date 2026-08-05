@@ -1,0 +1,19 @@
+{
+  "slug": "iowana-farm-17749-badger-ave",
+  "name": "Iowana Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "17749 Badger Ave, IA",
+  "locationCity": "17749 Badger Ave",
+  "locationState": "IA",
+  "locationZipcode": "17749",
+  "lat": 41.36142863489755,
+  "lon": -95.84713942177926,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.422Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.422Z"
+}

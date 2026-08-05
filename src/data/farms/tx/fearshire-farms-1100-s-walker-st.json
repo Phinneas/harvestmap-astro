@@ -1,0 +1,19 @@
+{
+  "slug": "fearshire-farms-1100-s-walker-st",
+  "name": "Fearshire Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1100 S Walker St, TX",
+  "locationCity": "1100 S Walker St",
+  "locationState": "TX",
+  "locationZipcode": "77515",
+  "lat": 29.1527459813062,
+  "lon": -95.4427450315295,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.401Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.401Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bob-s-blueberries-972-college-avenue",
+  "name": "Bob's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "972 College Avenue, MI",
+  "locationCity": "972 College Avenue",
+  "locationState": "MI",
+  "locationZipcode": "49201",
+  "lat": 42.2476824574652,
+  "lon": -84.2669337184494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.558Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.558Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "broad-st-farmers-market-807-broad-st",
+  "name": "Broad St. Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "807 Broad St., RI",
+  "locationCity": "807 Broad St.",
+  "locationState": "RI",
+  "locationZipcode": "02907",
+  "lat": 41.801869,
+  "lon": -71.41892,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.507Z"
+}

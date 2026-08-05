@@ -1,0 +1,19 @@
+{
+  "slug": "vizcaya-village-farmers-market-3250-s-miami-ave",
+  "name": "Vizcaya Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3250 S. Miami Ave, FL",
+  "locationCity": "3250 S. Miami Ave",
+  "locationState": "FL",
+  "locationZipcode": "33129",
+  "lat": 25.747026,
+  "lon": -80.212735,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.557Z"
+}

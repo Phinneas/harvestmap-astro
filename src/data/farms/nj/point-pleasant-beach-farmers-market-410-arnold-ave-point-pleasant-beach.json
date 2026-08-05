@@ -1,0 +1,19 @@
+{
+  "slug": "point-pleasant-beach-farmers-market-410-arnold-ave-point-pleasant-beach",
+  "name": "Point Pleasant Beach Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "410 Arnold Ave. Point Pleasant Beach, NJ",
+  "locationCity": "410 Arnold Ave. Point Pleasant Beach",
+  "locationState": "NJ",
+  "locationZipcode": "08742",
+  "lat": 40.09199974115862,
+  "lon": -74.04633237155818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

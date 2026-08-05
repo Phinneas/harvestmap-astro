@@ -1,0 +1,19 @@
+{
+  "slug": "carlton-county-farmers-market-hwy-210-and-grand-st",
+  "name": "Carlton County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hwy 210 and Grand St, MN",
+  "locationCity": "Hwy 210 and Grand St",
+  "locationState": "MN",
+  "locationZipcode": "55718",
+  "lat": 46.664353,
+  "lon": -92.430466,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.794Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.794Z"
+}

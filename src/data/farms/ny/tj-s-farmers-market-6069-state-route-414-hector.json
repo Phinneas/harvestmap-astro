@@ -1,0 +1,19 @@
+{
+  "slug": "tj-s-farmers-market-6069-state-route-414-hector",
+  "name": "TJ's Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6069 State Route 414 Hector, NY",
+  "locationCity": "6069 State Route 414 Hector",
+  "locationState": "NY",
+  "locationZipcode": "14841",
+  "lat": 42.527208807099164,
+  "lon": -76.87514953091444,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

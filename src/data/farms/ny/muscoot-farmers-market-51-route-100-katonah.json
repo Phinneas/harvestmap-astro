@@ -1,0 +1,19 @@
+{
+  "slug": "muscoot-farmers-market-51-route-100-katonah",
+  "name": "Muscoot Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "51 Route 100 Katonah, NY",
+  "locationCity": "51 Route 100 Katonah",
+  "locationState": "NY",
+  "locationZipcode": "10536",
+  "lat": 41.24657468679243,
+  "lon": -73.75158700416584,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

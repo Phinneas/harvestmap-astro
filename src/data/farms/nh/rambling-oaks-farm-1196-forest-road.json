@@ -1,0 +1,19 @@
+{
+  "slug": "rambling-oaks-farm-1196-forest-road",
+  "name": "Rambling Oaks Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1196 Forest Road, NH",
+  "locationCity": "1196 Forest Road",
+  "locationState": "NH",
+  "locationZipcode": "03602",
+  "lat": 43.12364474019029,
+  "lon": -72.26090955308037,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.630Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.630Z"
+}

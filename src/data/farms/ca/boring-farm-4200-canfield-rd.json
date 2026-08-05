@@ -1,0 +1,19 @@
+{
+  "slug": "boring-farm-4200-canfield-rd",
+  "name": "Boring Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4200 Canfield Rd, CA",
+  "locationCity": "4200 Canfield Rd",
+  "locationState": "CA",
+  "locationZipcode": "95472",
+  "lat": 38.3305290100772,
+  "lon": -122.800046029873,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.727Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.727Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "harbor-beach-farmers-market-766-state-street-harbor-beach",
+  "name": "Harbor Beach Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "766 State Street Harbor Beach, MI",
+  "locationCity": "766 State Street Harbor Beach",
+  "locationState": "MI",
+  "locationZipcode": "48441",
+  "lat": 43.841647203489295,
+  "lon": -82.66245552878942,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

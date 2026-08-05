@@ -1,0 +1,19 @@
+{
+  "slug": "fairmount-fruit-farm-887-lincoln-st",
+  "name": "Fairmount Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "887 Lincoln St, MA",
+  "locationCity": "887 Lincoln St",
+  "locationState": "MA",
+  "locationZipcode": "02038",
+  "lat": 42.1356827170289,
+  "lon": -71.3985239488066,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.482Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.482Z"
+}

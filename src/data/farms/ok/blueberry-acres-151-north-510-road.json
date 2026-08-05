@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-acres-151-north-510-road",
+  "name": "Blueberry Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "151 North 510 Road, OK",
+  "locationCity": "151 North 510 Road",
+  "locationState": "OK",
+  "locationZipcode": "74464",
+  "lat": 36.0941344566843,
+  "lon": -94.9856118645883,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.334Z"
+}

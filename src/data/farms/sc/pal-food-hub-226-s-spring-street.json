@@ -1,0 +1,19 @@
+{
+  "slug": "pal-food-hub-226-s-spring-street",
+  "name": "PAL Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "226 S Spring Street, SC",
+  "locationCity": "226 S Spring Street",
+  "locationState": "SC",
+  "locationZipcode": "29306",
+  "lat": 34.94569716155693,
+  "lon": -81.93201114558482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:57.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:57.023Z"
+}

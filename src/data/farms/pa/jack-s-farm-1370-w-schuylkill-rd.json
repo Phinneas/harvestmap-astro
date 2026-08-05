@@ -1,0 +1,19 @@
+{
+  "slug": "jack-s-farm-1370-w-schuylkill-rd",
+  "name": "Jack's Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1370 W. Schuylkill Rd, PA",
+  "locationCity": "1370 W. Schuylkill Rd",
+  "locationState": "PA",
+  "locationZipcode": "19465",
+  "lat": 40.23452039353293,
+  "lon": -75.68713074349199,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

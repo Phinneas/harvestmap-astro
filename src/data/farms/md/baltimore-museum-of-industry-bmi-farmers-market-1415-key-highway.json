@@ -1,0 +1,19 @@
+{
+  "slug": "baltimore-museum-of-industry-bmi-farmers-market-1415-key-highway",
+  "name": "Baltimore Museum of Industry (BMI) Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1415 Key Highway, MD",
+  "locationCity": "1415 Key Highway",
+  "locationState": "MD",
+  "locationZipcode": "21230",
+  "lat": 39.273600319601805,
+  "lon": -76.60226591399442,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.535Z"
+}

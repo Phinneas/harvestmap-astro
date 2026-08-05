@@ -1,0 +1,20 @@
+{
+  "slug": "day-spring-farm-21388-steptoe-hill-rd",
+  "name": "Day Spring Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "21388 Steptoe Hill Rd, VA",
+  "locationCity": "21388 Steptoe Hill Rd",
+  "locationState": "VA",
+  "locationZipcode": "21388",
+  "lat": 39.0286283,
+  "lon": -77.687008,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.220Z",
+  "crops": []
+}

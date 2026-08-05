@@ -1,0 +1,19 @@
+{
+  "slug": "touch-of-dutch-farm-16277-us-hwy-14",
+  "name": "Touch of Dutch Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "16277 US HWY 14, WI",
+  "locationCity": "16277 US HWY 14",
+  "locationState": "WI",
+  "locationZipcode": "16277",
+  "lat": 43.34729859761302,
+  "lon": -90.54472551240806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.010Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.010Z"
+}

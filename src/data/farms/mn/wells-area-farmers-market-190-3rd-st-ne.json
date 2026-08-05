@@ -1,0 +1,19 @@
+{
+  "slug": "wells-area-farmers-market-190-3rd-st-ne",
+  "name": "Wells Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "190 3rd St NE, MN",
+  "locationCity": "190 3rd St NE",
+  "locationState": "MN",
+  "locationZipcode": "56097",
+  "lat": 43.7475655,
+  "lon": -93.7230419,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

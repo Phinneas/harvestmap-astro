@@ -1,0 +1,19 @@
+{
+  "slug": "st-george-greenmarket-35-hyatt-st",
+  "name": "St. George Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "35 Hyatt St, NY",
+  "locationCity": "35 Hyatt St",
+  "locationState": "NY",
+  "locationZipcode": "10301",
+  "lat": 40.64187072611348,
+  "lon": -74.07726953227315,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

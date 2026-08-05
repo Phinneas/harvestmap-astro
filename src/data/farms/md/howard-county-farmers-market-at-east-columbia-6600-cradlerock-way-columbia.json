@@ -1,0 +1,19 @@
+{
+  "slug": "howard-county-farmers-market-at-east-columbia-6600-cradlerock-way-columbia",
+  "name": "Howard County Farmers Market at East Columbia",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6600 Cradlerock Way Columbia, MD",
+  "locationCity": "6600 Cradlerock Way Columbia",
+  "locationState": "MD",
+  "locationZipcode": "21045",
+  "lat": 39.19109976493167,
+  "lon": -76.8476067031596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

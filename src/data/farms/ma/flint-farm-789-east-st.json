@@ -1,0 +1,19 @@
+{
+  "slug": "flint-farm-789-east-st",
+  "name": "Flint Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "789 East St., MA",
+  "locationCity": "789 East St.",
+  "locationState": "MA",
+  "locationZipcode": "02048",
+  "lat": 42.028938802904,
+  "lon": -71.1831147368919,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.622Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.622Z"
+}

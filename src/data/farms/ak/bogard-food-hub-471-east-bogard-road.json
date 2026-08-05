@@ -1,0 +1,19 @@
+{
+  "slug": "bogard-food-hub-471-east-bogard-road",
+  "name": "Bogard Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "471 East Bogard Road, AK",
+  "locationCity": "471 East Bogard Road",
+  "locationState": "AK",
+  "locationZipcode": "99654",
+  "lat": 61.5857475,
+  "lon": -149.43957,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:03.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:03.290Z"
+}

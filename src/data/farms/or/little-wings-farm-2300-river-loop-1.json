@@ -1,0 +1,19 @@
+{
+  "slug": "little-wings-farm-2300-river-loop-1",
+  "name": "Little Wings Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2300 River Loop 1, OR",
+  "locationCity": "2300 River Loop 1",
+  "locationState": "OR",
+  "locationZipcode": "97404",
+  "lat": 44.12954939255937,
+  "lon": -123.11626866604959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.977Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.977Z"
+}

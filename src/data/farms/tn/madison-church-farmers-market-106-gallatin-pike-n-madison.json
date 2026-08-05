@@ -1,0 +1,19 @@
+{
+  "slug": "madison-church-farmers-market-106-gallatin-pike-n-madison",
+  "name": "Madison Church Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 Gallatin Pike N Madison, TN",
+  "locationCity": "106 Gallatin Pike N Madison",
+  "locationState": "TN",
+  "locationZipcode": "37115",
+  "lat": 36.263237410897624,
+  "lon": -86.71184968469846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

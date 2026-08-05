@@ -1,0 +1,19 @@
+{
+  "slug": "valley-view-orchard-800-n-valley-view-road",
+  "name": "Valley View Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "800 N. Valley View Road, OR",
+  "locationCity": "800 N. Valley View Road",
+  "locationState": "OR",
+  "locationZipcode": "97520",
+  "lat": 42.2890707733534,
+  "lon": -122.735917308381,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.901Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.901Z"
+}

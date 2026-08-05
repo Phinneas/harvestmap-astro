@@ -1,0 +1,19 @@
+{
+  "slug": "slayton-farmers-market-hwy-3020-20th-st",
+  "name": "Slayton Farmers' Market (Hwy)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3020 20th St, MN",
+  "locationCity": "3020 20th St",
+  "locationState": "MN",
+  "locationZipcode": "56172",
+  "lat": 43.9925177,
+  "lon": -95.7491135,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

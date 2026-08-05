@@ -1,0 +1,19 @@
+{
+  "slug": "heritage-station-480-mullica-hill-road",
+  "name": "Heritage Station",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "480 Mullica Hill Road, NJ",
+  "locationCity": "480 Mullica Hill Road",
+  "locationState": "NJ",
+  "locationZipcode": "08062",
+  "lat": 39.7237109950388,
+  "lon": -75.172571993979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.052Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.052Z"
+}

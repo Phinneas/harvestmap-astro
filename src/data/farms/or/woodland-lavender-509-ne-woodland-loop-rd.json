@@ -1,0 +1,19 @@
+{
+  "slug": "woodland-lavender-509-ne-woodland-loop-rd",
+  "name": "Woodland Lavender",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "509 NE Woodland Loop Rd, OR",
+  "locationCity": "509 NE Woodland Loop Rd",
+  "locationState": "OR",
+  "locationZipcode": "97148",
+  "lat": 45.3560365623496,
+  "lon": -123.111549546755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.028Z"
+}

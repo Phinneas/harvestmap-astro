@@ -1,0 +1,19 @@
+{
+  "slug": "woven-meadows-814-chazy-lake-road",
+  "name": "Woven Meadows",
+  "source": "usda",
+  "directory": "csa",
+  "location": "814 Chazy Lake Road, NY",
+  "locationCity": "814 Chazy Lake Road",
+  "locationState": "NY",
+  "locationZipcode": "12981",
+  "lat": 44.674419,
+  "lon": -73.792975,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.148Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.148Z"
+}

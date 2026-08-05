@@ -1,0 +1,19 @@
+{
+  "slug": "kaiser-san-jose-farmers-market-280-international-blvd-san-jose",
+  "name": "Kaiser San Jose Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "280 International Blvd. San Jose, CA",
+  "locationCity": "280 International Blvd. San Jose",
+  "locationState": "CA",
+  "locationZipcode": "95119",
+  "lat": 37.23996583396724,
+  "lon": -121.80214048722092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

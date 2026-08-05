@@ -1,0 +1,19 @@
+{
+  "slug": "ft-thomas-farmers-market-801-cochran-ave",
+  "name": "Ft. Thomas Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "801 Cochran Ave, KY",
+  "locationCity": "801 Cochran Ave",
+  "locationState": "KY",
+  "locationZipcode": "41075",
+  "lat": 39.06822,
+  "lon": -84.444349,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.732Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.732Z"
+}

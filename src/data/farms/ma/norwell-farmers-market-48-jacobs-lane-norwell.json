@@ -1,0 +1,19 @@
+{
+  "slug": "norwell-farmers-market-48-jacobs-lane-norwell",
+  "name": "Norwell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "48 Jacobs Lane Norwell, MA",
+  "locationCity": "48 Jacobs Lane Norwell",
+  "locationState": "MA",
+  "locationZipcode": "02061",
+  "lat": 42.16193279668363,
+  "lon": -70.84460452624901,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.866Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.866Z"
+}

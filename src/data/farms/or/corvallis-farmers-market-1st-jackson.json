@@ -1,0 +1,19 @@
+{
+  "slug": "corvallis-farmers-market-1st-jackson",
+  "name": "Corvallis Farmers\\' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st & Jackson, OR",
+  "locationCity": "1st & Jackson",
+  "locationState": "OR",
+  "locationZipcode": "97330",
+  "lat": 44.564828,
+  "lon": -123.25824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.462Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "yorkville-farmers-market-s-bridge-st-at-s-main-st-yorkville",
+  "name": "Yorkville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S. Bridge St. at S. Main St. Yorkville, IL",
+  "locationCity": "S. Bridge St. at S. Main St. Yorkville",
+  "locationState": "IL",
+  "locationZipcode": "60560",
+  "lat": 41.633719998241276,
+  "lon": -88.4491199666863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

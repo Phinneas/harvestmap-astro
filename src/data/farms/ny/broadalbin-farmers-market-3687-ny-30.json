@@ -1,0 +1,19 @@
+{
+  "slug": "broadalbin-farmers-market-3687-ny-30",
+  "name": "Broadalbin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3687 NY-30, NY",
+  "locationCity": "3687 NY-30",
+  "locationState": "NY",
+  "locationZipcode": "12122",
+  "lat": 42.58552228889477,
+  "lon": -74.38790029951176,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

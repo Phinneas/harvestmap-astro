@@ -1,0 +1,19 @@
+{
+  "slug": "crow-river-winery-14848-highway-7-east",
+  "name": "Crow River Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "14848 Highway 7 East, MN",
+  "locationCity": "14848 Highway 7 East",
+  "locationState": "MN",
+  "locationZipcode": "14848",
+  "lat": 44.8941250168225,
+  "lon": -94.293398016269,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.686Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.686Z"
+}

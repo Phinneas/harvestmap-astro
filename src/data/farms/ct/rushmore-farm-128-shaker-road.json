@@ -1,0 +1,20 @@
+{
+  "slug": "rushmore-farm-128-shaker-road",
+  "name": "Rushmore Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "128 Shaker Road, CT",
+  "locationCity": "128 Shaker Road",
+  "locationState": "CT",
+  "locationZipcode": "06071",
+  "lat": 41.9960749950242,
+  "lon": -72.4944889696755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.006Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.006Z",
+  "crops": []
+}

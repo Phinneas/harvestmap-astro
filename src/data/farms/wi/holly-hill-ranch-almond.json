@@ -1,0 +1,19 @@
+{
+  "slug": "holly-hill-ranch-almond",
+  "name": "Holly Hill Ranch",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Almond, WI",
+  "locationCity": "Almond",
+  "locationState": "WI",
+  "locationZipcode": "54909",
+  "lat": 44.331018,
+  "lon": -89.339866,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:17.441Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:17.441Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "brewton-choo-choo-farmers-market-205-bellville-ave",
+  "name": "Brewton Choo-choo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 Bellville Ave., AL",
+  "locationCity": "205 Bellville Ave.",
+  "locationState": "AL",
+  "locationZipcode": "36426",
+  "lat": 31.104909795806293,
+  "lon": -87.07160633833757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

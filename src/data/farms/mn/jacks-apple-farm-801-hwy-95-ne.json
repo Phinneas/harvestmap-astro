@@ -1,0 +1,19 @@
+{
+  "slug": "jacks-apple-farm-801-hwy-95-ne",
+  "name": "Jacks Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "801 Hwy 95 NE, MN",
+  "locationCity": "801 Hwy 95 NE",
+  "locationState": "MN",
+  "locationZipcode": "56379",
+  "lat": 45.5885487751571,
+  "lon": -94.008951099639,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.790Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.790Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "faust-bee-ranch-13-fairview-lane",
+  "name": "Faust Bee Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13 Fairview Lane, MO",
+  "locationCity": "13 Fairview Lane",
+  "locationState": "MO",
+  "locationZipcode": "63069",
+  "lat": 38.4255610166236,
+  "lon": -90.6883449809106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.724Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.724Z"
+}

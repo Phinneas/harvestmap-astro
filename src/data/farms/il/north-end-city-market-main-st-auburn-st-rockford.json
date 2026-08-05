@@ -1,0 +1,19 @@
+{
+  "slug": "north-end-city-market-main-st-auburn-st-rockford",
+  "name": "North End City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St & Auburn St Rockford, IL",
+  "locationCity": "Main St & Auburn St Rockford",
+  "locationState": "IL",
+  "locationZipcode": "61103",
+  "lat": 42.28850999953622,
+  "lon": -89.08009501131255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "burge-famliy-farm-east-state-street",
+  "name": "Burge Famliy Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "East State Street, WI",
+  "locationCity": "East State Street",
+  "locationState": "WI",
+  "locationZipcode": "53105",
+  "lat": 42.6767750000001,
+  "lon": -88.274215,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.244Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.244Z"
+}

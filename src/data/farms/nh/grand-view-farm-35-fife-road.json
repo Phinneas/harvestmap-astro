@@ -1,0 +1,19 @@
+{
+  "slug": "grand-view-farm-35-fife-road",
+  "name": "Grand View Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "35 Fife Road, NH",
+  "locationCity": "35 Fife Road",
+  "locationState": "NH",
+  "locationZipcode": "03224",
+  "lat": 43.3340400193511,
+  "lon": -71.5930619703573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.852Z"
+}

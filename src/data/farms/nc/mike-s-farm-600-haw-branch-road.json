@@ -1,0 +1,19 @@
+{
+  "slug": "mike-s-farm-600-haw-branch-road",
+  "name": "Mike's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "600 Haw Branch Road, NC",
+  "locationCity": "600 Haw Branch Road",
+  "locationState": "NC",
+  "locationZipcode": "28518",
+  "lat": 34.9262447361374,
+  "lon": -77.6320322864183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.704Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.704Z"
+}

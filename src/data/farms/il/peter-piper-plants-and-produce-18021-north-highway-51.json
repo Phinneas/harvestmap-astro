@@ -1,0 +1,19 @@
+{
+  "slug": "peter-piper-plants-and-produce-18021-north-highway-51",
+  "name": "Peter Piper Plants and Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "18021 North Highway 51, IL",
+  "locationCity": "18021 North Highway 51",
+  "locationState": "IL",
+  "locationZipcode": "18021",
+  "lat": 37.849231999297274,
+  "lon": -89.2363260170614,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.667Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.667Z"
+}

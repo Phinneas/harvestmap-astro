@@ -1,0 +1,19 @@
+{
+  "slug": "utica-farmers-market-chancellor-park",
+  "name": "Utica Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Chancellor Park, NY",
+  "locationCity": "Chancellor Park",
+  "locationState": "NY",
+  "locationZipcode": "13501",
+  "lat": 43.096382,
+  "lon": -75.225983,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.835Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.835Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "southwest-farmers-market-10200-dixie-highway-louisville",
+  "name": "Southwest Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10200 Dixie Highway Louisville, KY",
+  "locationCity": "10200 Dixie Highway Louisville",
+  "locationState": "KY",
+  "locationZipcode": "10200",
+  "lat": 38.107510122831,
+  "lon": -85.86680885189419,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

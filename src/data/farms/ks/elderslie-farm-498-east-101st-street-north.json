@@ -1,0 +1,19 @@
+{
+  "slug": "elderslie-farm-498-east-101st-street-north",
+  "name": "Elderslie Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "498 East 101st Street North, KS",
+  "locationCity": "498 East 101st Street North",
+  "locationState": "KS",
+  "locationZipcode": "67147",
+  "lat": 37.8681472390727,
+  "lon": -97.3346022537301,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.076Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.076Z"
+}

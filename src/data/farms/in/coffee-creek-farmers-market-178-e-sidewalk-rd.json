@@ -1,0 +1,19 @@
+{
+  "slug": "coffee-creek-farmers-market-178-e-sidewalk-rd",
+  "name": "Coffee Creek Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "178 E Sidewalk Rd., IN",
+  "locationCity": "178 E Sidewalk Rd.",
+  "locationState": "IN",
+  "locationZipcode": "46304",
+  "lat": 41.5862951,
+  "lon": -87.0344715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.615Z"
+}

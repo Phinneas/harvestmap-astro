@@ -1,0 +1,19 @@
+{
+  "slug": "made-in-broward-500-ne-1st-ave",
+  "name": "Made in Broward",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 Ne 1st Ave, FL",
+  "locationCity": "500 Ne 1st Ave",
+  "locationState": "FL",
+  "locationZipcode": "33301",
+  "lat": 26.1280189995319,
+  "lon": -80.1425290294655,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.809Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jefferson-city-farmers-market-320-east-mccarty-jefferson-city",
+  "name": "Jefferson City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 East McCarty Jefferson City, MO",
+  "locationCity": "320 East McCarty Jefferson City",
+  "locationState": "MO",
+  "locationZipcode": "65101",
+  "lat": 38.57388998964492,
+  "lon": -92.17067972175596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

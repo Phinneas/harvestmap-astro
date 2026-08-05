@@ -1,0 +1,19 @@
+{
+  "slug": "green-wagon-farm-po-box-142",
+  "name": "Green Wagon Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 142, MI",
+  "locationCity": "PO Box 142",
+  "locationState": "MI",
+  "locationZipcode": "49301",
+  "lat": 42.9894927,
+  "lon": -85.4994192,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.979Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.979Z"
+}

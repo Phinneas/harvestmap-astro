@@ -1,0 +1,19 @@
+{
+  "slug": "trace-view-farm-985-fly-hollow-road",
+  "name": "Trace View Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "985 Fly Hollow Road, TN",
+  "locationCity": "985 Fly Hollow Road",
+  "locationState": "TN",
+  "locationZipcode": "38482",
+  "lat": 35.7999927874513,
+  "lon": -87.168434324528,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.238Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.238Z"
+}

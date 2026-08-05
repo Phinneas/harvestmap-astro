@@ -1,0 +1,19 @@
+{
+  "slug": "home-grown-produce-435-nault-road",
+  "name": "Home Grown Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "435 Nault Road, DE",
+  "locationCity": "435 Nault Road",
+  "locationState": "DE",
+  "locationZipcode": "19904",
+  "lat": 39.1342630000479,
+  "lon": -75.6247630136203,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.234Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.234Z"
+}

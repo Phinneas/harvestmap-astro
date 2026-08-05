@@ -1,0 +1,19 @@
+{
+  "slug": "delray-greenmarket-ne-2nd-avenue",
+  "name": "Delray GreenMarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "NE 2nd Avenue, FL",
+  "locationCity": "NE 2nd Avenue",
+  "locationState": "FL",
+  "locationZipcode": "33444",
+  "lat": 26.462365,
+  "lon": -80.071595,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.557Z"
+}

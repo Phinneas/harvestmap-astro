@@ -1,0 +1,19 @@
+{
+  "slug": "the-cave-pumpkin-patch-123-swinging-bridges-road",
+  "name": "The Cave Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "123 Swinging Bridges Road, MO",
+  "locationCity": "123 Swinging Bridges Road",
+  "locationState": "MO",
+  "locationZipcode": "65017",
+  "lat": 38.0819784583997,
+  "lon": -92.5179433597314,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.752Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.752Z"
+}

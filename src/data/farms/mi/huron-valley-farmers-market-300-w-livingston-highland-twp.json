@@ -1,0 +1,19 @@
+{
+  "slug": "huron-valley-farmers-market-300-w-livingston-highland-twp",
+  "name": "Huron Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 W. Livingston Highland Twp., MI",
+  "locationCity": "300 W. Livingston Highland Twp.",
+  "locationState": "MI",
+  "locationZipcode": "48357",
+  "lat": 42.63783471017086,
+  "lon": -83.62196347979416,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

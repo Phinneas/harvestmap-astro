@@ -1,0 +1,20 @@
+{
+  "slug": "putnam-family-farms-2044-lightwood-knot-road",
+  "name": "Putnam Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2044 Lightwood Knot Road, NC",
+  "locationCity": "2044 Lightwood Knot Road",
+  "locationState": "NC",
+  "locationZipcode": "28504",
+  "lat": 35.15453788691877,
+  "lon": -77.56917226946409,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.909Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.909Z",
+  "crops": []
+}

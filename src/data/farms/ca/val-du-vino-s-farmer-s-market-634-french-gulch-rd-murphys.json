@@ -1,0 +1,19 @@
+{
+  "slug": "val-du-vino-s-farmer-s-market-634-french-gulch-rd-murphys",
+  "name": "Val du Vino's Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "634 French Gulch Rd. Murphys, CA",
+  "locationCity": "634 French Gulch Rd. Murphys",
+  "locationState": "CA",
+  "locationZipcode": "95247",
+  "lat": 38.13795252516118,
+  "lon": -120.46967077141582,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.374Z"
+}

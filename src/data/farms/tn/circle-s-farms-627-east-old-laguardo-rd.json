@@ -1,0 +1,19 @@
+{
+  "slug": "circle-s-farms-627-east-old-laguardo-rd",
+  "name": "Circle S Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "627 East Old Laguardo Rd, TN",
+  "locationCity": "627 East Old Laguardo Rd",
+  "locationState": "TN",
+  "locationZipcode": "37087",
+  "lat": 36.2423178750787,
+  "lon": -86.4318523260601,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.173Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.173Z"
+}

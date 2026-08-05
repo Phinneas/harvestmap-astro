@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-valley-14337-us-highway-23",
+  "name": "Blueberry Valley",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "14337 US Highway 23, OH",
+  "locationCity": "14337 US Highway 23",
+  "locationState": "OH",
+  "locationZipcode": "14337",
+  "lat": 39.724435,
+  "lon": -82.987563,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.306Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.306Z"
+}

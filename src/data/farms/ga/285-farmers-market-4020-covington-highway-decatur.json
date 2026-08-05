@@ -1,0 +1,19 @@
+{
+  "slug": "285-farmers-market-4020-covington-highway-decatur",
+  "name": "285 Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4020 Covington Highway Decatur, GA",
+  "locationCity": "4020 Covington Highway Decatur",
+  "locationState": "GA",
+  "locationZipcode": "30032",
+  "lat": 33.75538546342475,
+  "lon": -84.2366872769074,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

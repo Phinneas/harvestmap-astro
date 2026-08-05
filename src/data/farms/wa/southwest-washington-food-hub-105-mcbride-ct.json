@@ -1,0 +1,19 @@
+{
+  "slug": "southwest-washington-food-hub-105-mcbride-ct",
+  "name": "Southwest Washington Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "105 McBride Ct, WA",
+  "locationCity": "105 McBride Ct",
+  "locationState": "WA",
+  "locationZipcode": "98532",
+  "lat": 46.62788899924041,
+  "lon": -122.9113479810354,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:21.644Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:21.644Z"
+}

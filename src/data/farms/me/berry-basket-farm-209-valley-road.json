@@ -1,0 +1,19 @@
+{
+  "slug": "berry-basket-farm-209-valley-road",
+  "name": "Berry Basket Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "209 Valley Road, ME",
+  "locationCity": "209 Valley Road",
+  "locationState": "ME",
+  "locationZipcode": "04957",
+  "lat": 44.6689000095561,
+  "lon": -69.8764264070785,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.952Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.952Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lehmans-orchard-2280-portage-road",
+  "name": "Lehmans Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2280 Portage Road, MI",
+  "locationCity": "2280 Portage Road",
+  "locationState": "MI",
+  "locationZipcode": "49120",
+  "lat": 41.7884099910913,
+  "lon": -86.30549600641498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.233Z"
+}

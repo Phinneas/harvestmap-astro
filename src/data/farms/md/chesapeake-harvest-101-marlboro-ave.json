@@ -1,0 +1,19 @@
+{
+  "slug": "chesapeake-harvest-101-marlboro-ave",
+  "name": "Chesapeake Harvest",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "101 Marlboro Ave, MD",
+  "locationCity": "101 Marlboro Ave",
+  "locationState": "MD",
+  "locationZipcode": "21601",
+  "lat": 38.7814828,
+  "lon": -76.077897,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:12.405Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:12.405Z"
+}

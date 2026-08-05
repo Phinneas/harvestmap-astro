@@ -1,0 +1,19 @@
+{
+  "slug": "first-root-farm-949-main-st",
+  "name": "First Root Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "949 Main St, MA",
+  "locationCity": "949 Main St",
+  "locationState": "MA",
+  "locationZipcode": "01742",
+  "lat": 42.4559487,
+  "lon": -71.3821822,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.252Z"
+}

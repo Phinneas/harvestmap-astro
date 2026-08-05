@@ -1,0 +1,19 @@
+{
+  "slug": "moonlight-market-11110-johnson-drive",
+  "name": "Moonlight Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11110 Johnson Drive, KS",
+  "locationCity": "11110 Johnson Drive",
+  "locationState": "KS",
+  "locationZipcode": "11110",
+  "lat": 39.017779,
+  "lon": -94.805322,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.670Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.670Z"
+}

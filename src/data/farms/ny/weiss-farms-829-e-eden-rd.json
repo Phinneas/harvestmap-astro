@@ -1,0 +1,19 @@
+{
+  "slug": "weiss-farms-829-e-eden-rd",
+  "name": "Weiss Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "829 E Eden Rd, NY",
+  "locationCity": "829 E Eden Rd",
+  "locationState": "NY",
+  "locationZipcode": "14057",
+  "lat": 42.6601996518434,
+  "lon": -78.8275349927775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.106Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.106Z"
+}

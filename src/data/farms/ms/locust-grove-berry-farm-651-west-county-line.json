@@ -1,0 +1,19 @@
+{
+  "slug": "locust-grove-berry-farm-651-west-county-line",
+  "name": "Locust Grove Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "651 West County Line, MS",
+  "locationCity": "651 West County Line",
+  "locationState": "MS",
+  "locationZipcode": "39213",
+  "lat": 32.4001714716859,
+  "lon": -90.1629764057612,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:24.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:24.039Z"
+}

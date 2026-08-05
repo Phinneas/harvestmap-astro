@@ -1,0 +1,19 @@
+{
+  "slug": "the-mater-patch-7791-taft-lane",
+  "name": "The Mater Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7791 Taft Lane, GA",
+  "locationCity": "7791 Taft Lane",
+  "locationState": "GA",
+  "locationZipcode": "31550",
+  "lat": 31.2259990029158,
+  "lon": -82.6481939585173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.387Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.387Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "milkcan-corner-farm-45-mutton-rd",
+  "name": "Milkcan Corner Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "45 Mutton Rd, NH",
+  "locationCity": "45 Mutton Rd",
+  "locationState": "NH",
+  "locationZipcode": "03303",
+  "lat": 43.3348479929077,
+  "lon": -71.7147040049148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.582Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.582Z"
+}

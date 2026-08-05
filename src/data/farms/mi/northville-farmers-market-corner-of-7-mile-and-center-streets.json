@@ -1,0 +1,19 @@
+{
+  "slug": "northville-farmers-market-corner-of-7-mile-and-center-streets",
+  "name": "Northville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of 7 Mile and Center Streets, MI",
+  "locationCity": "Corner of 7 Mile and Center Streets",
+  "locationState": "MI",
+  "locationZipcode": "48167",
+  "lat": 42.42637,
+  "lon": -83.483407,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.197Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.197Z"
+}

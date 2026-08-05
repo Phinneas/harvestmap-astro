@@ -1,0 +1,19 @@
+{
+  "slug": "frost-farms-9052-spring-lake-rd-ne",
+  "name": "Frost Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9052 Spring Lake Rd NE, MN",
+  "locationCity": "9052 Spring Lake Rd NE",
+  "locationState": "MN",
+  "locationZipcode": "55056",
+  "lat": 45.5438618,
+  "lon": -93.0406729,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.169Z"
+}

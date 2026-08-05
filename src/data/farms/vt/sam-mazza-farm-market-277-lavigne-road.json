@@ -1,0 +1,19 @@
+{
+  "slug": "sam-mazza-farm-market-277-lavigne-road",
+  "name": "Sam Mazza Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "277 Lavigne Road, VT",
+  "locationCity": "277 Lavigne Road",
+  "locationState": "VT",
+  "locationZipcode": "05446",
+  "lat": 44.52777298378189,
+  "lon": -73.2014490259818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:48.661Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:48.661Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "pattys-berries-and-bunches-410-sound-ave",
+  "name": "Pattys Berries and Bunches",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "410 Sound Ave, NY",
+  "locationCity": "410 Sound Ave",
+  "locationState": "NY",
+  "locationZipcode": "11952",
+  "lat": 40.9855379960432,
+  "lon": -72.5792366324827,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.319Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.319Z",
+  "crops": []
+}

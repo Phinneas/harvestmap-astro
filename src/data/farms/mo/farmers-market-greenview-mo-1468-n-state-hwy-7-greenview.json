@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-greenview-mo-1468-n-state-hwy-7-greenview",
+  "name": "Farmers Market - Greenview MO",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1468 N State HWY 7 Greenview, MO",
+  "locationCity": "1468 N State HWY 7 Greenview",
+  "locationState": "MO",
+  "locationZipcode": "65020",
+  "lat": 38.09930360400863,
+  "lon": -92.84428104677552,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

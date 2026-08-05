@@ -1,0 +1,19 @@
+{
+  "slug": "eureka-springs-farmers-market-44-kingshighway",
+  "name": "Eureka Springs Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "44 Kingshighway, AR",
+  "locationCity": "44 Kingshighway",
+  "locationState": "AR",
+  "locationZipcode": "72632",
+  "lat": 36.398616,
+  "lon": -93.746149,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.332Z"
+}

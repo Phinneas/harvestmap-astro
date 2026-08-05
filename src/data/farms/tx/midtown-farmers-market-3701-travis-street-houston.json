@@ -1,0 +1,19 @@
+{
+  "slug": "midtown-farmers-market-3701-travis-street-houston",
+  "name": "Midtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3701 Travis Street Houston, TX",
+  "locationCity": "3701 Travis Street Houston",
+  "locationState": "TX",
+  "locationZipcode": "77002",
+  "lat": 29.738960476431785,
+  "lon": -95.38044467312471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

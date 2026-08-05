@@ -1,0 +1,19 @@
+{
+  "slug": "clay-center-farmers-market-720-5th-street",
+  "name": "Clay Center Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "720 5th Street, KS",
+  "locationCity": "720 5th Street",
+  "locationState": "KS",
+  "locationZipcode": "67432",
+  "lat": 39.376936,
+  "lon": -97.126471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.670Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.670Z"
+}

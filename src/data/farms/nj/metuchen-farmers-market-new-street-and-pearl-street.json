@@ -1,0 +1,19 @@
+{
+  "slug": "metuchen-farmers-market-new-street-and-pearl-street",
+  "name": "Metuchen Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "New Street and Pearl Street, NJ",
+  "locationCity": "New Street and Pearl Street",
+  "locationState": "NJ",
+  "locationZipcode": "08840",
+  "lat": 40.541112,
+  "lon": -74.363008,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:21.853Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:21.853Z"
+}

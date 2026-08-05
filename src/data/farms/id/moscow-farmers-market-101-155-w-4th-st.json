@@ -1,0 +1,19 @@
+{
+  "slug": "moscow-farmers-market-101-155-w-4th-st",
+  "name": "Moscow Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101-155 W 4th St, ID",
+  "locationCity": "101-155 W 4th St",
+  "locationState": "ID",
+  "locationZipcode": "83843",
+  "lat": 46.7315842,
+  "lon": -117.0015993,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:36.267Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:36.267Z"
+}

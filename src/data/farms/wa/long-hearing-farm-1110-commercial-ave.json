@@ -1,0 +1,19 @@
+{
+  "slug": "long-hearing-farm-1110-commercial-ave",
+  "name": "Long Hearing Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1110 Commercial Ave, WA",
+  "locationCity": "1110 Commercial Ave",
+  "locationState": "WA",
+  "locationZipcode": "98241",
+  "lat": 48.25565145269766,
+  "lon": -121.60599907934946,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.617Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.617Z"
+}

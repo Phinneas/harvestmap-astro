@@ -1,0 +1,19 @@
+{
+  "slug": "cobble-knoll-orchard-672-east-road",
+  "name": "Cobble Knoll Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "672 East Road, VT",
+  "locationCity": "672 East Road",
+  "locationState": "VT",
+  "locationZipcode": "05743",
+  "lat": 43.6783162485034,
+  "lon": -73.2804970635511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.974Z"
+}

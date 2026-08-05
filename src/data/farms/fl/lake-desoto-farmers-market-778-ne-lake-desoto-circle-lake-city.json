@@ -1,0 +1,19 @@
+{
+  "slug": "lake-desoto-farmers-market-778-ne-lake-desoto-circle-lake-city",
+  "name": "Lake DeSoto Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "778 NE Lake DeSoto Circle Lake City, FL",
+  "locationCity": "778 NE Lake DeSoto Circle Lake City",
+  "locationState": "FL",
+  "locationZipcode": "32055",
+  "lat": 30.192533793205293,
+  "lon": -82.63398992062771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

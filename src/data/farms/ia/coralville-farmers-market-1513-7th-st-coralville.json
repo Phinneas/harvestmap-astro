@@ -1,0 +1,19 @@
+{
+  "slug": "coralville-farmers-market-1513-7th-st-coralville",
+  "name": "Coralville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1513 7th St. Coralville, IA",
+  "locationCity": "1513 7th St. Coralville",
+  "locationState": "IA",
+  "locationZipcode": "52241",
+  "lat": 41.67846667558245,
+  "lon": -91.58375739737545,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

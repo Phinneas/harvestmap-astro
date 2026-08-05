@@ -1,0 +1,19 @@
+{
+  "slug": "earthway-primitives-apiary-786-isaacs-creek-rd",
+  "name": "Earthway Primitives Apiary",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "786 Isaacs Creek Rd, WV",
+  "locationCity": "786 Isaacs Creek Rd",
+  "locationState": "WV",
+  "locationZipcode": "26385",
+  "lat": 39.1841250142009,
+  "lon": -80.4541850371539,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.902Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.902Z"
+}

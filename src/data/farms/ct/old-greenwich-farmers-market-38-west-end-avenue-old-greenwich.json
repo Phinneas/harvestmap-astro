@@ -1,0 +1,19 @@
+{
+  "slug": "old-greenwich-farmers-market-38-west-end-avenue-old-greenwich",
+  "name": "Old Greenwich Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "38 West End Avenue Old Greenwich, CT",
+  "locationCity": "38 West End Avenue Old Greenwich",
+  "locationState": "CT",
+  "locationZipcode": "06870",
+  "lat": 41.031502795295545,
+  "lon": -73.57106714148017,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

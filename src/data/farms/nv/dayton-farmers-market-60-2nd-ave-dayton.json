@@ -1,0 +1,19 @@
+{
+  "slug": "dayton-farmers-market-60-2nd-ave-dayton",
+  "name": "Dayton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "60 2nd Ave Dayton, NV",
+  "locationCity": "60 2nd Ave Dayton",
+  "locationState": "NV",
+  "locationZipcode": "89403",
+  "lat": 39.23842369721024,
+  "lon": -119.58985590587355,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:24.364Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:24.364Z"
+}

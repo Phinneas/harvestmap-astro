@@ -1,0 +1,19 @@
+{
+  "slug": "pioneer-farmsteaders-llc-7000-garrison-st",
+  "name": "Pioneer Farmsteaders, LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7000 Garrison St, CO",
+  "locationCity": "7000 Garrison St",
+  "locationState": "CO",
+  "locationZipcode": "80004",
+  "lat": 39.8220441,
+  "lon": -105.100196,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.582Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.582Z"
+}

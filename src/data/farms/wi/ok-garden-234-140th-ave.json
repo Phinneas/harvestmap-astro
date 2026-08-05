@@ -1,0 +1,19 @@
+{
+  "slug": "ok-garden-234-140th-ave",
+  "name": "OK Garden",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "234 140th Ave., WI",
+  "locationCity": "234 140th Ave.",
+  "locationState": "WI",
+  "locationZipcode": "54013",
+  "lat": 45.0627552358292,
+  "lon": -92.3165515800697,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.244Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.244Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "moody-s-blueberries-720-beckley-road",
+  "name": "Moody's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "720 Beckley Road, MI",
+  "locationCity": "720 Beckley Road",
+  "locationState": "MI",
+  "locationZipcode": "49310",
+  "lat": 43.5005446568852,
+  "lon": -84.9956955754318,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.668Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.668Z"
+}

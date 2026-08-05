@@ -1,0 +1,19 @@
+{
+  "slug": "boxed-organics-elm-st",
+  "name": "Boxed Organics",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Elm St, NJ",
+  "locationCity": "Elm St",
+  "locationState": "NJ",
+  "locationZipcode": "07042",
+  "lat": 40.806602361901376,
+  "lon": -74.21634765590908,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.140Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.140Z"
+}

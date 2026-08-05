@@ -1,0 +1,19 @@
+{
+  "slug": "jaswell-farm-64-swan-road",
+  "name": "Jaswell Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "64 Swan Road, RI",
+  "locationCity": "64 Swan Road",
+  "locationState": "RI",
+  "locationZipcode": "02917",
+  "lat": 41.889824020625,
+  "lon": -71.5501990129939,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:30.936Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:30.936Z"
+}

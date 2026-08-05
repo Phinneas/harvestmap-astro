@@ -1,0 +1,20 @@
+{
+  "slug": "giordano-farms-5825-snell-ave",
+  "name": "Giordano Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5825 Snell Ave, CA",
+  "locationCity": "5825 Snell Ave",
+  "locationState": "CA",
+  "locationZipcode": "95123",
+  "lat": 37.2437870163674,
+  "lon": -121.831044965345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.797Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.797Z",
+  "crops": []
+}

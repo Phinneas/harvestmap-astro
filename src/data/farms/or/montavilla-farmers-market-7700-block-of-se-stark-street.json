@@ -1,0 +1,19 @@
+{
+  "slug": "montavilla-farmers-market-7700-block-of-se-stark-street",
+  "name": "Montavilla Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7700 Block of SE Stark Street, OR",
+  "locationCity": "7700 Block of SE Stark Street",
+  "locationState": "OR",
+  "locationZipcode": "97215",
+  "lat": 45.519002,
+  "lon": -122.58431,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.264Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.264Z"
+}

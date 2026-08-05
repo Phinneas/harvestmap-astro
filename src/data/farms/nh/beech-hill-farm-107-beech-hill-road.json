@@ -1,0 +1,19 @@
+{
+  "slug": "beech-hill-farm-107-beech-hill-road",
+  "name": "Beech Hill Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "107 Beech Hill Road, NH",
+  "locationCity": "107 Beech Hill Road",
+  "locationState": "NH",
+  "locationZipcode": "03229",
+  "lat": 43.2010529950266,
+  "lon": -71.63721297478173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.801Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "belafonte-farm-1807-w-vine-dr",
+  "name": "Belafonte Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1807 W Vine Dr, CO",
+  "locationCity": "1807 W Vine Dr",
+  "locationState": "CO",
+  "locationZipcode": "80521",
+  "lat": 40.594005468578075,
+  "lon": -105.10952112502862,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.595Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.595Z"
+}

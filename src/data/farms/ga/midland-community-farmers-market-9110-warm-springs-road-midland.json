@@ -1,0 +1,19 @@
+{
+  "slug": "midland-community-farmers-market-9110-warm-springs-road-midland",
+  "name": "Midland Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9110 Warm Springs Road Midland, GA",
+  "locationCity": "9110 Warm Springs Road Midland",
+  "locationState": "GA",
+  "locationZipcode": "31820",
+  "lat": 32.57620701783292,
+  "lon": -84.83003025215757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

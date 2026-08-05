@@ -1,0 +1,19 @@
+{
+  "slug": "edgewater-farm-247-route-12a",
+  "name": "Edgewater Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "247 Route 12a, NH",
+  "locationCity": "247 Route 12a",
+  "locationState": "NH",
+  "locationZipcode": "03781",
+  "lat": 43.5880935617371,
+  "lon": -72.3429562243904,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.765Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.765Z"
+}

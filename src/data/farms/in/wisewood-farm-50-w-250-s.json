@@ -1,0 +1,20 @@
+{
+  "slug": "wisewood-farm-50-w-250-s",
+  "name": "WiseWood Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "50 W 250 S, IN",
+  "locationCity": "50 W 250 S",
+  "locationState": "IN",
+  "locationZipcode": "46052",
+  "lat": 40.0031470088303,
+  "lon": -86.4696130000379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.347Z",
+  "crops": []
+}

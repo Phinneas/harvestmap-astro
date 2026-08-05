@@ -1,0 +1,19 @@
+{
+  "slug": "steelville-morning-market-392-main-st-steelville",
+  "name": "Steelville Morning Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "392 Main St Steelville, MO",
+  "locationCity": "392 Main St Steelville",
+  "locationState": "MO",
+  "locationZipcode": "65565",
+  "lat": 37.967246042490906,
+  "lon": -91.35817236992368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "horner-vegetables-780-kate-porter-rd",
+  "name": "Horner Vegetables",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "780 Kate Porter Rd, TN",
+  "locationCity": "780 Kate Porter Rd",
+  "locationState": "TN",
+  "locationZipcode": "38343",
+  "lat": 35.8220139824888,
+  "lon": -89.006251994989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.195Z",
+  "crops": []
+}

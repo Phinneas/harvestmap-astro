@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-meadow-farm-407-ingrassia-road",
+  "name": "Fresh Meadow Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "407 Ingrassia Road, NY",
+  "locationCity": "407 Ingrassia Road",
+  "locationState": "NY",
+  "locationZipcode": "10940",
+  "lat": 41.47881811087896,
+  "lon": -74.42904974074524,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.172Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.172Z"
+}

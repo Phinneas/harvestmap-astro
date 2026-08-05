@@ -1,0 +1,19 @@
+{
+  "slug": "hickory-grove-farm-7477-castle-hwy",
+  "name": "Hickory Grove Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7477 Castle Hwy, KY",
+  "locationCity": "7477 Castle Hwy",
+  "locationState": "KY",
+  "locationZipcode": "40057",
+  "lat": 38.33953473639653,
+  "lon": -85.08462948030076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.115Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.115Z"
+}

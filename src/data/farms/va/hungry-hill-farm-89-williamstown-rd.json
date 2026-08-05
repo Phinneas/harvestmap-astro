@@ -1,0 +1,19 @@
+{
+  "slug": "hungry-hill-farm-89-williamstown-rd",
+  "name": "Hungry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "89 Williamstown Rd., VA",
+  "locationCity": "89 Williamstown Rd.",
+  "locationState": "VA",
+  "locationZipcode": "22971",
+  "lat": 37.6703369979143,
+  "lon": -78.8374640228401,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.286Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.286Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bluehouse-blueberries-859-o-nelson-road",
+  "name": "Bluehouse Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "859 O. Nelson Road, WI",
+  "locationCity": "859 O. Nelson Road",
+  "locationState": "WI",
+  "locationZipcode": "54636",
+  "lat": 43.9765808370775,
+  "lon": -91.2013584174882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.119Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.119Z"
+}

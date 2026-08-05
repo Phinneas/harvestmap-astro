@@ -1,0 +1,19 @@
+{
+  "slug": "moon-farm-3498-ga-72",
+  "name": "Moon Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3498 GA-72, GA",
+  "locationCity": "3498 GA-72",
+  "locationState": "GA",
+  "locationZipcode": "30628",
+  "lat": 34.0513352879378,
+  "lon": -83.1851238392783,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.349Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.349Z"
+}

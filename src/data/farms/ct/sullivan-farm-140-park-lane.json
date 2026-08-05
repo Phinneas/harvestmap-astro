@@ -1,0 +1,19 @@
+{
+  "slug": "sullivan-farm-140-park-lane",
+  "name": "Sullivan Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "140 Park Lane, CT",
+  "locationCity": "140 Park Lane",
+  "locationState": "CT",
+  "locationZipcode": "06776",
+  "lat": 41.6020275342216,
+  "lon": -73.40604951911475,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

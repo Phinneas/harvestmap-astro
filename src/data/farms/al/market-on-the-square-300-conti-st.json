@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-the-square-300-conti-st",
+  "name": "Market on the Square",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Conti St., AL",
+  "locationCity": "300 Conti St.",
+  "locationState": "AL",
+  "locationZipcode": "36602",
+  "lat": 30.690367130676716,
+  "lon": -88.04391965148004,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

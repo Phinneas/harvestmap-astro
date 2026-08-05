@@ -1,0 +1,19 @@
+{
+  "slug": "phipps-pumpkin-patch-5935-talbott-road",
+  "name": "Phipps Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5935 Talbott Road, MD",
+  "locationCity": "5935 Talbott Road",
+  "locationState": "MD",
+  "locationZipcode": "20711",
+  "lat": 38.7844689976352,
+  "lon": -76.6571010074844,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.203Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.203Z"
+}

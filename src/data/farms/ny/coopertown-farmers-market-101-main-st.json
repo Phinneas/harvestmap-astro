@@ -1,0 +1,19 @@
+{
+  "slug": "coopertown-farmers-market-101-main-st",
+  "name": "Coopertown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Main St, NY",
+  "locationCity": "101 Main St",
+  "locationState": "NY",
+  "locationZipcode": "13326",
+  "lat": 42.70066763319191,
+  "lon": -74.92523529060458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

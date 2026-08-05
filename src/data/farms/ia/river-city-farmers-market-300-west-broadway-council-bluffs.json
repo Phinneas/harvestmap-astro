@@ -1,0 +1,19 @@
+{
+  "slug": "river-city-farmers-market-300-west-broadway-council-bluffs",
+  "name": "River City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 West Broadway Council Bluffs, IA",
+  "locationCity": "300 West Broadway Council Bluffs",
+  "locationState": "IA",
+  "locationZipcode": "51501",
+  "lat": 41.261557766191125,
+  "lon": -95.84723194101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

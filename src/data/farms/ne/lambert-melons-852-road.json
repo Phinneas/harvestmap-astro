@@ -1,0 +1,19 @@
+{
+  "slug": "lambert-melons-852-road",
+  "name": "Lambert Melons",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "852 Road, NE",
+  "locationCity": "852 Road",
+  "locationState": "NE",
+  "locationZipcode": "68735",
+  "lat": 42.175899873281,
+  "lon": -98.4757129332669,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.421Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.421Z"
+}

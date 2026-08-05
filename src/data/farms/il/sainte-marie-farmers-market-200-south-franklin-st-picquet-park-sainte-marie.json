@@ -1,0 +1,19 @@
+{
+  "slug": "sainte-marie-farmers-market-200-south-franklin-st-picquet-park-sainte-marie",
+  "name": "Sainte Marie Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 South Franklin St Picquet Park Sainte Marie, IL",
+  "locationCity": "200 South Franklin St Picquet Park Sainte Marie",
+  "locationState": "IL",
+  "locationZipcode": "62459",
+  "lat": 38.9309331106513,
+  "lon": -88.02451125299577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

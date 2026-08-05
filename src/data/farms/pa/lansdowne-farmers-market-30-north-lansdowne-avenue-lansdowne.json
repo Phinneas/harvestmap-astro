@@ -1,0 +1,19 @@
+{
+  "slug": "lansdowne-farmers-market-30-north-lansdowne-avenue-lansdowne",
+  "name": "Lansdowne Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30 North Lansdowne Avenue Lansdowne, PA",
+  "locationCity": "30 North Lansdowne Avenue Lansdowne",
+  "locationState": "PA",
+  "locationZipcode": "19050",
+  "lat": 39.939257476182405,
+  "lon": -75.27243682136908,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "belleville-farm-market-1882-e-us-40",
+  "name": "Belleville Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1882 E Us 40, IN",
+  "locationCity": "1882 E Us 40",
+  "locationState": "IN",
+  "locationZipcode": "46118",
+  "lat": 39.67776500604944,
+  "lon": -86.48739797365265,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.599Z"
+}

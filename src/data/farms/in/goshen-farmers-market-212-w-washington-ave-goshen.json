@@ -1,0 +1,19 @@
+{
+  "slug": "goshen-farmers-market-212-w-washington-ave-goshen",
+  "name": "Goshen Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "212 W. Washington Ave. Goshen, IN",
+  "locationCity": "212 W. Washington Ave. Goshen",
+  "locationState": "IN",
+  "locationZipcode": "46526",
+  "lat": 41.585033466189486,
+  "lon": -85.83692049004532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

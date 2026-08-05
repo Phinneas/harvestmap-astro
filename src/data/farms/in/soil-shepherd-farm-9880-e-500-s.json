@@ -1,0 +1,19 @@
+{
+  "slug": "soil-shepherd-farm-9880-e-500-s",
+  "name": "Soil Shepherd Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9880 E 500 S, IN",
+  "locationCity": "9880 E 500 S",
+  "locationState": "IN",
+  "locationZipcode": "46795",
+  "lat": 41.56694958990764,
+  "lon": -85.23574739938404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.564Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.564Z"
+}

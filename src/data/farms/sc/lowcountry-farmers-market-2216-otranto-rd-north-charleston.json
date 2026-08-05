@@ -1,0 +1,19 @@
+{
+  "slug": "lowcountry-farmers-market-2216-otranto-rd-north-charleston",
+  "name": "LowCountry Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2216 Otranto Rd North Charleston, SC",
+  "locationCity": "2216 Otranto Rd North Charleston",
+  "locationState": "SC",
+  "locationZipcode": "29406",
+  "lat": 32.96491474241146,
+  "lon": -80.04639474033473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

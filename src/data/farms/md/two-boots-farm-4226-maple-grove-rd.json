@@ -1,0 +1,19 @@
+{
+  "slug": "two-boots-farm-4226-maple-grove-rd",
+  "name": "Two Boots Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4226 Maple Grove Rd., MD",
+  "locationCity": "4226 Maple Grove Rd.",
+  "locationState": "MD",
+  "locationZipcode": "21074",
+  "lat": 39.653227,
+  "lon": -76.843778,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.689Z"
+}

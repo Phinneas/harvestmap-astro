@@ -1,0 +1,19 @@
+{
+  "slug": "surfside-beach-farmers-market-intersection-of-surfside-drive-and-willow-drive",
+  "name": "Surfside Beach Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Intersection of Surfside Drive and Willow Drive, SC",
+  "locationCity": "Intersection of Surfside Drive and Willow Drive",
+  "locationState": "SC",
+  "locationZipcode": "29575",
+  "lat": 33.6069616,
+  "lon": -78.974364,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.052Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.052Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fields-edge-farm-834-rush-fork-road-sw",
+  "name": "Fields Edge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "834 Rush Fork Road Sw, VA",
+  "locationCity": "834 Rush Fork Road Sw",
+  "locationState": "VA",
+  "locationZipcode": "24091",
+  "lat": 36.8541465099325,
+  "lon": -80.3896762300534,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.076Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.076Z"
+}

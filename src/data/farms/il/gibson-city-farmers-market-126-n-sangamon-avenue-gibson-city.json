@@ -1,0 +1,19 @@
+{
+  "slug": "gibson-city-farmers-market-126-n-sangamon-avenue-gibson-city",
+  "name": "Gibson City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "126 N. Sangamon Avenue Gibson City, IL",
+  "locationCity": "126 N. Sangamon Avenue Gibson City",
+  "locationState": "IL",
+  "locationZipcode": "",
+  "lat": 40.46535142566868,
+  "lon": -88.37531643752584,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

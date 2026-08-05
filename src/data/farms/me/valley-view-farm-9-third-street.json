@@ -1,0 +1,19 @@
+{
+  "slug": "valley-view-farm-9-third-street",
+  "name": "Valley View Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "#9 Third Street, ME",
+  "locationCity": "#9 Third Street",
+  "locationState": "ME",
+  "locationZipcode": "04210",
+  "lat": 44.087681,
+  "lon": -70.22472,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:00.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:00.101Z"
+}

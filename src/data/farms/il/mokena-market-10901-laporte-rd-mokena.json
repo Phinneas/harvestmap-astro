@@ -1,0 +1,19 @@
+{
+  "slug": "mokena-market-10901-laporte-rd-mokena",
+  "name": "Mokena Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10901 LaPorte Rd Mokena, IL",
+  "locationCity": "10901 LaPorte Rd Mokena",
+  "locationState": "IL",
+  "locationZipcode": "10901",
+  "lat": 41.526243434624654,
+  "lon": -87.88468113854152,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

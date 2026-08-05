@@ -1,0 +1,19 @@
+{
+  "slug": "navonod-farms-kings-landing-road",
+  "name": "Navonod Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Kings Landing Road, AL",
+  "locationCity": "Kings Landing Road",
+  "locationState": "AL",
+  "locationZipcode": "36574",
+  "lat": 30.4868717442606,
+  "lon": -87.4717745376933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.485Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.485Z"
+}

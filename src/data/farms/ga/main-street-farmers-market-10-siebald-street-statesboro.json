@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-farmers-market-10-siebald-street-statesboro",
+  "name": "Main Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Siebald Street Statesboro, GA",
+  "locationCity": "10 Siebald Street Statesboro",
+  "locationState": "GA",
+  "locationZipcode": "30458",
+  "lat": 32.449021707480654,
+  "lon": -81.78271149767514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "la-cienega-farmers-market-1835-la-cienega-blvd",
+  "name": "La Cienega Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1835 La Cienega Blvd, CA",
+  "locationCity": "1835 La Cienega Blvd",
+  "locationState": "CA",
+  "locationZipcode": "90035",
+  "lat": 34.044973,
+  "lon": -118.37983,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.354Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.354Z"
+}

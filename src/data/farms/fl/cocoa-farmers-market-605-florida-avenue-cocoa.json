@@ -1,0 +1,19 @@
+{
+  "slug": "cocoa-farmers-market-605-florida-avenue-cocoa",
+  "name": "Cocoa Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "605 Florida Avenue Cocoa, FL",
+  "locationCity": "605 Florida Avenue Cocoa",
+  "locationState": "FL",
+  "locationZipcode": "32922",
+  "lat": 28.353427496504423,
+  "lon": -80.72776353582337,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

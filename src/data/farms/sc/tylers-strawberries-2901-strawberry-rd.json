@@ -1,0 +1,19 @@
+{
+  "slug": "tylers-strawberries-2901-strawberry-rd",
+  "name": "Tylers Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2901 Strawberry Rd., SC",
+  "locationCity": "2901 Strawberry Rd.",
+  "locationState": "SC",
+  "locationZipcode": "29569",
+  "lat": 34.05516801125145,
+  "lon": -79.03342101677946,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:50.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:50.017Z"
+}

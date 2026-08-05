@@ -1,0 +1,19 @@
+{
+  "slug": "scottsville-farmers-markets-1800-scottsville-chili-rd-scottsville",
+  "name": "Scottsville Farmers Markets",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1800 Scottsville-Chili Rd. Scottsville, NY",
+  "locationCity": "1800 Scottsville-Chili Rd. Scottsville",
+  "locationState": "NY",
+  "locationZipcode": "14543",
+  "lat": 43.03149289922711,
+  "lon": -77.77204146492177,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

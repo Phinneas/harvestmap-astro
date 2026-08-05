@@ -1,0 +1,19 @@
+{
+  "slug": "fat-donkey-farm-2631-w-mulberry-st",
+  "name": "Fat Donkey Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2631 W Mulberry St, CO",
+  "locationCity": "2631 W Mulberry St",
+  "locationState": "CO",
+  "locationZipcode": "80521",
+  "lat": 40.58142561492576,
+  "lon": -105.12750181608251,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.592Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.592Z"
+}

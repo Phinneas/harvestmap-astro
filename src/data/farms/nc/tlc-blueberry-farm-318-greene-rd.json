@@ -1,0 +1,19 @@
+{
+  "slug": "tlc-blueberry-farm-318-greene-rd",
+  "name": "TLC Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "318 Greene Rd, NC",
+  "locationCity": "318 Greene Rd",
+  "locationState": "NC",
+  "locationZipcode": "28110",
+  "lat": 35.1394231057838,
+  "lon": -80.4420274590826,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.819Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.819Z"
+}

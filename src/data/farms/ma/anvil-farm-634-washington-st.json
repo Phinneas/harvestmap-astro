@@ -1,0 +1,19 @@
+{
+  "slug": "anvil-farm-634-washington-st",
+  "name": "Anvil Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "634 Washington St, MA",
+  "locationCity": "634 Washington St",
+  "locationState": "MA",
+  "locationZipcode": "01832",
+  "lat": 42.767899875886684,
+  "lon": -71.10492708678586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.706Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.706Z"
+}

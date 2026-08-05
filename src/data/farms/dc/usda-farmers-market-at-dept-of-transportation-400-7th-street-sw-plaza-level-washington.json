@@ -1,0 +1,19 @@
+{
+  "slug": "usda-farmers-market-at-dept-of-transportation-400-7th-street-sw-plaza-level-washington",
+  "name": "USDA Farmers Market at Dept. of Transportation",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 7th Street SW (plaza level) Washington, DC",
+  "locationCity": "400 7th Street SW (plaza level) Washington",
+  "locationState": "DC",
+  "locationZipcode": "20590",
+  "lat": 38.884713000495154,
+  "lon": -77.02183649072109,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:00.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:00.247Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "village-shopping-center-friday-farmers-market-2418-state-road-la-crosse",
+  "name": "VIllage Shopping Center Friday Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2418 State Road La Crosse, WI",
+  "locationCity": "2418 State Road La Crosse",
+  "locationState": "WI",
+  "locationZipcode": "54601",
+  "lat": 43.79656298245156,
+  "lon": -91.21944171899219,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.859Z"
+}

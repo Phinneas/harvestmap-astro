@@ -1,0 +1,19 @@
+{
+  "slug": "tonganoxie-farmer-s-market-217-east-4th-st",
+  "name": "Tonganoxie Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "217 East 4th St., KS",
+  "locationCity": "217 East 4th St.",
+  "locationState": "KS",
+  "locationZipcode": "66086",
+  "lat": 39.10925480687511,
+  "lon": -95.09122731810723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

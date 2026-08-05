@@ -1,0 +1,19 @@
+{
+  "slug": "lothal-valley-farm-8448-delphi-rd-sw",
+  "name": "Lothal Valley Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8448 Delphi Rd SW, WA",
+  "locationCity": "8448 Delphi Rd SW",
+  "locationState": "WA",
+  "locationZipcode": "98512",
+  "lat": 46.966395469832406,
+  "lon": -123.02711547493334,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.617Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.617Z"
+}

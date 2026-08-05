@@ -1,0 +1,19 @@
+{
+  "slug": "wg-bee-farm-003-klyce-st",
+  "name": "WG Bee Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "003 Klyce St, NC",
+  "locationCity": "003 Klyce St",
+  "locationState": "NC",
+  "locationZipcode": "27288",
+  "lat": 36.4813395305004,
+  "lon": -79.7802154995243,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.827Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-haus-809-guilford-center-road",
+  "name": "Blueberry Haus",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "809 Guilford Center Road, VT",
+  "locationCity": "809 Guilford Center Road",
+  "locationState": "VT",
+  "locationZipcode": "05301",
+  "lat": 42.8095850082159,
+  "lon": -72.5864289759595,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.105Z"
+}

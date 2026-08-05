@@ -1,0 +1,19 @@
+{
+  "slug": "village-of-lemont-farmers-market-418-main-street-lemont",
+  "name": "Village of Lemont Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "418 Main Street Lemont, IL",
+  "locationCity": "418 Main Street Lemont",
+  "locationState": "IL",
+  "locationZipcode": "60439",
+  "lat": 41.674659272547906,
+  "lon": -87.99832249341124,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

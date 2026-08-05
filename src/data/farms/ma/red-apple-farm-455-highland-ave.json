@@ -1,0 +1,19 @@
+{
+  "slug": "red-apple-farm-455-highland-ave",
+  "name": "Red Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "455 Highland Ave, MA",
+  "locationCity": "455 Highland Ave",
+  "locationState": "MA",
+  "locationZipcode": "01331",
+  "lat": 42.5816181966018,
+  "lon": -72.1459721178496,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.739Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.739Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "luckett-farms-12501-la-highway-10",
+  "name": "Luckett Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12501 La highway 10, LA",
+  "locationCity": "12501 La highway 10",
+  "locationState": "LA",
+  "locationZipcode": "12501",
+  "lat": 30.793604990837,
+  "lon": -91.3660930150031,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.077Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.077Z",
+  "crops": []
+}

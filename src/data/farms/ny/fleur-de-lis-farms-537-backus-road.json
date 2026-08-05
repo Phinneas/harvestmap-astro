@@ -1,0 +1,19 @@
+{
+  "slug": "fleur-de-lis-farms-537-backus-road",
+  "name": "Fleur de Lis Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "537 Backus Road, NY",
+  "locationCity": "537 Backus Road",
+  "locationState": "NY",
+  "locationZipcode": "13342",
+  "lat": 42.6578146511028,
+  "lon": -75.14181276797,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.887Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.887Z"
+}

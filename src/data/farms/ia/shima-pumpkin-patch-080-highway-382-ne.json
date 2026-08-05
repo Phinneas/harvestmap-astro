@@ -1,0 +1,19 @@
+{
+  "slug": "shima-pumpkin-patch-080-highway-382-ne",
+  "name": "Shima Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "080 highway 382 Ne, IA",
+  "locationCity": "080 highway 382 Ne",
+  "locationState": "IA",
+  "locationZipcode": "52333",
+  "lat": 41.8136504861316,
+  "lon": -91.5612263101699,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.693Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.693Z"
+}

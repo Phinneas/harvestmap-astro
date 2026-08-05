@@ -1,0 +1,19 @@
+{
+  "slug": "westview-farms-111-east-hill-rd",
+  "name": "Westview Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "111 East Hill Rd, MA",
+  "locationCity": "111 East Hill Rd",
+  "locationState": "MA",
+  "locationZipcode": "01057",
+  "lat": 42.0990397185548,
+  "lon": -72.2850491815643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.610Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.610Z"
+}

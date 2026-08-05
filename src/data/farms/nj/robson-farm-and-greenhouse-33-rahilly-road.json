@@ -1,0 +1,20 @@
+{
+  "slug": "robson-farm-and-greenhouse-33-rahilly-road",
+  "name": "Robson Farm and Greenhouse",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "33 Rahilly Road, NJ",
+  "locationCity": "33 Rahilly Road",
+  "locationState": "NJ",
+  "locationZipcode": "08562",
+  "lat": 40.0613350188645,
+  "lon": -74.6103420083459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.732Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.732Z",
+  "crops": []
+}

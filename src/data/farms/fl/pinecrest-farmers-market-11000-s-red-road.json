@@ -1,0 +1,20 @@
+{
+  "slug": "pinecrest-farmers-market-11000-s-red-road",
+  "name": "Pinecrest Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11000 S. Red Road, FL",
+  "locationCity": "11000 S. Red Road",
+  "locationState": "FL",
+  "locationZipcode": "11000",
+  "lat": 25.669124,
+  "lon": -80.285895,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.541Z",
+  "crops": []
+}

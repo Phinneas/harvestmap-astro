@@ -1,0 +1,19 @@
+{
+  "slug": "bensenville-farmers-market-12-s-center-street-bensenville",
+  "name": "Bensenville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12 S. Center Street Bensenville, IL",
+  "locationCity": "12 S. Center Street Bensenville",
+  "locationState": "IL",
+  "locationZipcode": "60106",
+  "lat": 41.95645513470546,
+  "lon": -87.94105683953316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

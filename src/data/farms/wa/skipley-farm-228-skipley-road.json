@@ -1,0 +1,20 @@
+{
+  "slug": "skipley-farm-228-skipley-road",
+  "name": "Skipley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "228 Skipley Road, WA",
+  "locationCity": "228 Skipley Road",
+  "locationState": "WA",
+  "locationZipcode": "98290",
+  "lat": 47.9493151795865,
+  "lon": -122.132533297508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.109Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.109Z",
+  "crops": []
+}

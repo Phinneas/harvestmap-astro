@@ -1,0 +1,19 @@
+{
+  "slug": "clifton-plaza-farmer-s-market-329-ludlow-ave-cincinnati",
+  "name": "Clifton Plaza Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "329 Ludlow Ave Cincinnati, OH",
+  "locationCity": "329 Ludlow Ave Cincinnati",
+  "locationState": "OH",
+  "locationZipcode": "45220",
+  "lat": 39.14364314395748,
+  "lon": -84.52040540677446,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.935Z"
+}

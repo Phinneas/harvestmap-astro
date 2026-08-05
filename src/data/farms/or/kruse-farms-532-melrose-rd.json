@@ -1,0 +1,20 @@
+{
+  "slug": "kruse-farms-532-melrose-rd",
+  "name": "Kruse Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "532 Melrose Rd, OR",
+  "locationCity": "532 Melrose Rd",
+  "locationState": "OR",
+  "locationZipcode": "97471",
+  "lat": 43.2395340191385,
+  "lon": -123.403261007463,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.843Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.843Z",
+  "crops": []
+}

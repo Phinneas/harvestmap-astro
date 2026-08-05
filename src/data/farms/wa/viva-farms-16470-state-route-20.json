@@ -1,0 +1,19 @@
+{
+  "slug": "viva-farms-16470-state-route-20",
+  "name": "Viva Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "16470 State Route 20, WA",
+  "locationCity": "16470 State Route 20",
+  "locationState": "WA",
+  "locationZipcode": "16470",
+  "lat": 48.4540321,
+  "lon": -122.3901933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.600Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.600Z"
+}

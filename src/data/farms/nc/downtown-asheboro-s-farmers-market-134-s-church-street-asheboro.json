@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-asheboro-s-farmers-market-134-s-church-street-asheboro",
+  "name": "Downtown Asheboro's Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "134 S. Church Street Asheboro, NC",
+  "locationCity": "134 S. Church Street Asheboro",
+  "locationState": "NC",
+  "locationZipcode": "27205",
+  "lat": 35.705360438305405,
+  "lon": -79.81698673094861,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

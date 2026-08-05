@@ -1,0 +1,19 @@
+{
+  "slug": "larry-high-533-mcgill-road",
+  "name": "Larry High",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "533 McGill Road, AR",
+  "locationCity": "533 McGill Road",
+  "locationState": "AR",
+  "locationZipcode": "72023",
+  "lat": 35.0094976509275,
+  "lon": -92.1018380788766,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.035Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.035Z"
+}

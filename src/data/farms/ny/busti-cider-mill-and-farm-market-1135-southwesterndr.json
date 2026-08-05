@@ -1,0 +1,19 @@
+{
+  "slug": "busti-cider-mill-and-farm-market-1135-southwesterndr",
+  "name": "Busti Cider Mill And Farm Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1135 SouthwesternDr, NY",
+  "locationCity": "1135 SouthwesternDr",
+  "locationState": "NY",
+  "locationZipcode": "14701",
+  "lat": 42.0512048,
+  "lon": -79.2897224,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

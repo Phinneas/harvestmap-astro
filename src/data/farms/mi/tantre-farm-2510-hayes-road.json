@@ -1,0 +1,19 @@
+{
+  "slug": "tantre-farm-2510-hayes-road",
+  "name": "Tantre Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2510 Hayes Road, MI",
+  "locationCity": "2510 Hayes Road",
+  "locationState": "MI",
+  "locationZipcode": "48118",
+  "lat": 42.255390753157144,
+  "lon": -84.10895424155004,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.108Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.108Z"
+}

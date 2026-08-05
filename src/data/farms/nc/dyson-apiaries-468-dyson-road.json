@@ -1,0 +1,19 @@
+{
+  "slug": "dyson-apiaries-468-dyson-road",
+  "name": "Dyson Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "468 Dyson Road, NC",
+  "locationCity": "468 Dyson Road",
+  "locationState": "NC",
+  "locationZipcode": "27028",
+  "lat": 35.9708218909664,
+  "lon": -80.6801766532847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.774Z"
+}

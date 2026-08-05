@@ -1,0 +1,19 @@
+{
+  "slug": "solid-earth-farm-398-plains-rd",
+  "name": "Solid Earth Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "398 Plains Rd, NH",
+  "locationCity": "398 Plains Rd",
+  "locationState": "NH",
+  "locationZipcode": "03585",
+  "lat": 44.2593400200174,
+  "lon": -71.8852400276276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.620Z"
+}

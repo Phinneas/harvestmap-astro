@@ -1,0 +1,19 @@
+{
+  "slug": "hermanson-pumpkin-patch-127-hwy-n",
+  "name": "Hermanson Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "127 Hwy N, WI",
+  "locationCity": "127 Hwy N",
+  "locationState": "WI",
+  "locationZipcode": "53534",
+  "lat": 42.8616089676881,
+  "lon": -89.1160428856878,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.240Z"
+}

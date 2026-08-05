@@ -1,0 +1,19 @@
+{
+  "slug": "aldrich-arena-farmers-market-1850-white-bear-ave",
+  "name": "Aldrich Arena Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1850 White Bear Ave, MN",
+  "locationCity": "1850 White Bear Ave",
+  "locationState": "MN",
+  "locationZipcode": "55109",
+  "lat": 44.9969846,
+  "lon": -93.0231684,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

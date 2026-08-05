@@ -1,0 +1,19 @@
+{
+  "slug": "fort-pierce-state-farmers-market-3479-south-federal-highway-1-fort-pierce",
+  "name": "Fort Pierce State Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3479 South Federal Highway 1 Fort Pierce, FL",
+  "locationCity": "3479 South Federal Highway 1 Fort Pierce",
+  "locationState": "FL",
+  "locationZipcode": "34982",
+  "lat": 27.39676442621992,
+  "lon": -80.32570834453077,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

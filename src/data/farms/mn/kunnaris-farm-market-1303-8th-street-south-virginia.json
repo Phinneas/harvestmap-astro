@@ -1,0 +1,19 @@
+{
+  "slug": "kunnaris-farm-market-1303-8th-street-south-virginia",
+  "name": "Kunnaris Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1303 8th Street South Virginia, MN",
+  "locationCity": "1303 8th Street South Virginia",
+  "locationState": "MN",
+  "locationZipcode": "55792",
+  "lat": 47.51591693313193,
+  "lon": -92.5526331572018,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.774Z"
+}

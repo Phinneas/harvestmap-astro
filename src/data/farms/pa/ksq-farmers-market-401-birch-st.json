@@ -1,0 +1,19 @@
+{
+  "slug": "ksq-farmers-market-401-birch-st",
+  "name": "KSQ Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "401 Birch St, PA",
+  "locationCity": "401 Birch St",
+  "locationState": "PA",
+  "locationZipcode": "19348",
+  "lat": 39.842787,
+  "lon": -75.705331,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.007Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.007Z"
+}

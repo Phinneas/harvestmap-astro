@@ -1,0 +1,19 @@
+{
+  "slug": "south-windsor-farmers-market-220-nevers-rd",
+  "name": "South Windsor Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 Nevers Rd., CT",
+  "locationCity": "220 Nevers Rd.",
+  "locationState": "CT",
+  "locationZipcode": "06074",
+  "lat": 41.842841,
+  "lon": -72.55179,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.601Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.601Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "piney-hollow-farm-502-e-piney-hollow-road",
+  "name": "Piney Hollow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "502 E Piney Hollow Road, NJ",
+  "locationCity": "502 E Piney Hollow Road",
+  "locationState": "NJ",
+  "locationZipcode": "08094",
+  "lat": 39.6168349821199,
+  "lon": -74.8939069895511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.715Z"
+}

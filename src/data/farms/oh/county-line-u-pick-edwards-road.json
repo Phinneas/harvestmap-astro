@@ -1,0 +1,19 @@
+{
+  "slug": "county-line-u-pick-edwards-road",
+  "name": "County Line U-pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Edwards Road, OH",
+  "locationCity": "Edwards Road",
+  "locationState": "OH",
+  "locationZipcode": "43950",
+  "lat": 40.168475019824,
+  "lon": -80.9957289886641,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.792Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.792Z"
+}

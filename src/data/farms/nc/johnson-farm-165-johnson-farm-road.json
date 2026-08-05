@@ -1,0 +1,19 @@
+{
+  "slug": "johnson-farm-165-johnson-farm-road",
+  "name": "Johnson Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "165 Johnson Farm Road, NC",
+  "locationCity": "165 Johnson Farm Road",
+  "locationState": "NC",
+  "locationZipcode": "28447",
+  "lat": 34.5338755031372,
+  "lon": -78.2814155298979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.871Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.871Z"
+}

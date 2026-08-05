@@ -1,0 +1,19 @@
+{
+  "slug": "michaelis-family-farm-760-north-5400-west",
+  "name": "Michaelis Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "760 North 5400 West, UT",
+  "locationCity": "760 North 5400 West",
+  "locationState": "UT",
+  "locationZipcode": "84312",
+  "lat": 41.7448354058159,
+  "lon": -112.148390026832,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.600Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.600Z"
+}

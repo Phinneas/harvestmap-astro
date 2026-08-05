@@ -1,0 +1,19 @@
+{
+  "slug": "fishers-farmers-market-11601-municipal-drive-fishers",
+  "name": "Fishers Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11601 Municipal Drive Fishers, IN",
+  "locationCity": "11601 Municipal Drive Fishers",
+  "locationState": "IN",
+  "locationZipcode": "11601",
+  "lat": 39.95694605731705,
+  "lon": -86.0170234228757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bickford-blueberries-16-bickford-drive",
+  "name": "Bickford Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16 Bickford Drive, ME",
+  "locationCity": "16 Bickford Drive",
+  "locationState": "ME",
+  "locationZipcode": "04937",
+  "lat": 44.6018926029102,
+  "lon": -69.6441094715354,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.807Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.807Z"
+}

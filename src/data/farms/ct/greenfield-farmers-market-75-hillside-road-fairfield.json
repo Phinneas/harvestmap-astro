@@ -1,0 +1,19 @@
+{
+  "slug": "greenfield-farmers-market-75-hillside-road-fairfield",
+  "name": "Greenfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "75 Hillside Road Fairfield, CT",
+  "locationCity": "75 Hillside Road Fairfield",
+  "locationState": "CT",
+  "locationZipcode": "06824",
+  "lat": 41.16227176916045,
+  "lon": -73.28371696450355,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

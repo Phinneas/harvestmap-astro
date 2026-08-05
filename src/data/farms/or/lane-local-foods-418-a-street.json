@@ -1,0 +1,19 @@
+{
+  "slug": "lane-local-foods-418-a-street",
+  "name": "Lane Local Foods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "418 A Street, OR",
+  "locationCity": "418 A Street",
+  "locationState": "OR",
+  "locationZipcode": "97477",
+  "lat": 44.0472668,
+  "lon": -123.02045,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:04.346Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:04.346Z"
+}

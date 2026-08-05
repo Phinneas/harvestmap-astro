@@ -1,0 +1,19 @@
+{
+  "slug": "hall-s-orchards-4461-main-street",
+  "name": "Hall's Orchards",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4461 Main Street, VT",
+  "locationCity": "4461 Main Street",
+  "locationState": "VT",
+  "locationZipcode": "05463",
+  "lat": 44.84934628347462,
+  "lon": -73.34509547930485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:48.661Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:48.661Z"
+}

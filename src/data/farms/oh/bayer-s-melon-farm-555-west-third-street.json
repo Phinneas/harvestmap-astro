@@ -1,0 +1,19 @@
+{
+  "slug": "bayer-s-melon-farm-555-west-third-street",
+  "name": "Bayer's Melon Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "555 West Third Street, OH",
+  "locationCity": "555 West Third Street",
+  "locationState": "OH",
+  "locationZipcode": "45417",
+  "lat": 39.7572612593094,
+  "lon": -84.2061418423408,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.763Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.763Z"
+}

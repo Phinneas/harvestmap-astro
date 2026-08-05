@@ -1,0 +1,20 @@
+{
+  "slug": "st-augustine-u-pick-farm-2495-state-road-207",
+  "name": "St. Augustine U-Pick Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2495 State Road 207, FL",
+  "locationCity": "2495 State Road 207",
+  "locationState": "FL",
+  "locationZipcode": "32080",
+  "lat": 29.831885998059,
+  "lon": -81.3804789638987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.774Z",
+  "crops": []
+}

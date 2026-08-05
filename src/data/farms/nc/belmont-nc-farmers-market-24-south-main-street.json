@@ -1,0 +1,19 @@
+{
+  "slug": "belmont-nc-farmers-market-24-south-main-street",
+  "name": "Belmont, NC Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24 South Main Street, NC",
+  "locationCity": "24 South Main Street",
+  "locationState": "NC",
+  "locationZipcode": "28012",
+  "lat": 35.2417835,
+  "lon": -81.0394932,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.391Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.391Z"
+}

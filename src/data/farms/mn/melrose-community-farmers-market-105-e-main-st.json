@@ -1,0 +1,19 @@
+{
+  "slug": "melrose-community-farmers-market-105-e-main-st",
+  "name": "Melrose Community Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 E Main St, MN",
+  "locationCity": "105 E Main St",
+  "locationState": "MN",
+  "locationZipcode": "56352",
+  "lat": 45.6753223,
+  "lon": -94.8124779,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

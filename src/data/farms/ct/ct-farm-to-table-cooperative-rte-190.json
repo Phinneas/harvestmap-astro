@@ -1,0 +1,19 @@
+{
+  "slug": "ct-farm-to-table-cooperative-rte-190",
+  "name": "CT Farm to Table Cooperative",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Rte 190, CT",
+  "locationCity": "Rte 190",
+  "locationState": "CT",
+  "locationZipcode": "06076",
+  "lat": 41.97088896669981,
+  "lon": -72.33833378833629,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.082Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.082Z"
+}

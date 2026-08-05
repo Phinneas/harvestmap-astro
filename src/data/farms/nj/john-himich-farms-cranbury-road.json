@@ -1,0 +1,19 @@
+{
+  "slug": "john-himich-farms-cranbury-road",
+  "name": "John Himich Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cranbury Road, NJ",
+  "locationCity": "Cranbury Road",
+  "locationState": "NJ",
+  "locationZipcode": "08816",
+  "lat": 40.3973689956578,
+  "lon": -74.4324689705076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.368Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.368Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shelburne-vineyard-6308-shelburne-rd",
+  "name": "Shelburne Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6308 Shelburne Rd, VT",
+  "locationCity": "6308 Shelburne Rd",
+  "locationState": "VT",
+  "locationZipcode": "05482",
+  "lat": 44.36641300766095,
+  "lon": -73.23386100737092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.250Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.250Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "plainwell-indoor-market-211-n-main-st",
+  "name": "Plainwell Indoor Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "211 N. Main St., MI",
+  "locationCity": "211 N. Main St.",
+  "locationState": "MI",
+  "locationZipcode": "49080",
+  "lat": 42.44491,
+  "lon": -85.643297,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.184Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.184Z"
+}

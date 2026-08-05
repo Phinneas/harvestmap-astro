@@ -1,0 +1,19 @@
+{
+  "slug": "contented-acres-produce-1507-lucerne-ave",
+  "name": "Contented Acres Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1507 Lucerne Ave., CA",
+  "locationCity": "1507 Lucerne Ave.",
+  "locationState": "CA",
+  "locationZipcode": "95322",
+  "lat": 37.2572674,
+  "lon": -121.0106181,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.039Z"
+}

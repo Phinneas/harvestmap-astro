@@ -1,0 +1,19 @@
+{
+  "slug": "emmifarms-1482-west-genesee-road",
+  "name": "EmmiFarms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1482 West Genesee Road, NY",
+  "locationCity": "1482 West Genesee Road",
+  "locationState": "NY",
+  "locationZipcode": "13027",
+  "lat": 43.16842689792088,
+  "lon": -76.40162336472497,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.827Z"
+}

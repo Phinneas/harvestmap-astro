@@ -1,0 +1,19 @@
+{
+  "slug": "phillips-county-farmers-market-po-box-508",
+  "name": "Phillips County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "PO Box 508, KS",
+  "locationCity": "PO Box 508",
+  "locationState": "KS",
+  "locationZipcode": "67661",
+  "lat": 39.754155000000026,
+  "lon": -99.32174499999996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "fed-from-the-farm-13906-osage-valley-rd",
+  "name": "Fed From The Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "13906 Osage Valley Rd, MO",
+  "locationCity": "13906 Osage Valley Rd",
+  "locationState": "MO",
+  "locationZipcode": "13906",
+  "lat": 38.8851101,
+  "lon": -92.7573691,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:52.650Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:52.650Z",
+  "crops": []
+}

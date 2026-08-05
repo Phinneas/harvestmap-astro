@@ -1,0 +1,19 @@
+{
+  "slug": "hwy-79-farmers-market-225-donelson-parkway",
+  "name": "HWY 79 Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "225 Donelson Parkway, TN",
+  "locationCity": "225 Donelson Parkway",
+  "locationState": "TN",
+  "locationZipcode": "37058",
+  "lat": 36.4802037,
+  "lon": -87.8658044,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.536Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "highway-7-market-1118-1st-ave",
+  "name": "Highway 7 Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1118 1st Ave, IA",
+  "locationCity": "1118 1st Ave",
+  "locationState": "IA",
+  "locationZipcode": "50563",
+  "lat": 42.51712699537964,
+  "lon": -94.5352949642275,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:40.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:40.605Z"
+}

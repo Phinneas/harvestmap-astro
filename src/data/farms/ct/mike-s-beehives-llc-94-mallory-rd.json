@@ -1,0 +1,20 @@
+{
+  "slug": "mike-s-beehives-llc-94-mallory-rd",
+  "name": "Mike's Beehives LLC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "94 Mallory Rd, CT",
+  "locationCity": "94 Mallory Rd",
+  "locationState": "CT",
+  "locationZipcode": "06783",
+  "lat": 41.5168509965375,
+  "lon": -73.2914549919271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.934Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.934Z",
+  "crops": []
+}

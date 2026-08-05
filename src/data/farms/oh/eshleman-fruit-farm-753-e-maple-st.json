@@ -1,0 +1,19 @@
+{
+  "slug": "eshleman-fruit-farm-753-e-maple-st",
+  "name": "Eshleman Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "753 E Maple St, OH",
+  "locationCity": "753 E Maple St",
+  "locationState": "OH",
+  "locationZipcode": "43410",
+  "lat": 41.3179418,
+  "lon": -82.957049,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.308Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.308Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-on-the-town-square-n-cache-st-and-e-deloney-ave-jackson",
+  "name": "Farmers Market on the Town Square",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N Cache St and E Deloney Ave Jackson, WY",
+  "locationCity": "N Cache St and E Deloney Ave Jackson",
+  "locationState": "WY",
+  "locationZipcode": "83001",
+  "lat": 43.48034002048911,
+  "lon": -110.76237000094837,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

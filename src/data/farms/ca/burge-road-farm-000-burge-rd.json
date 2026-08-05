@@ -1,0 +1,19 @@
+{
+  "slug": "burge-road-farm-000-burge-rd",
+  "name": "Burge Road Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 Burge Rd, CA",
+  "locationCity": "000 Burge Rd",
+  "locationState": "CA",
+  "locationZipcode": "95215",
+  "lat": 38.0055989009732,
+  "lon": -121.19196088598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.728Z"
+}

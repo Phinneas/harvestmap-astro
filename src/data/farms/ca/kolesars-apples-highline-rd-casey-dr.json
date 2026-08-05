@@ -1,0 +1,19 @@
+{
+  "slug": "kolesars-apples-highline-rd-casey-dr",
+  "name": "Kolesars' Apples",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Highline Rd & Casey Dr, CA",
+  "locationCity": "Highline Rd & Casey Dr",
+  "locationState": "CA",
+  "locationZipcode": "93561",
+  "lat": 35.1095100096937,
+  "lon": -118.459130040584,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.744Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.744Z"
+}

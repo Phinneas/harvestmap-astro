@@ -1,0 +1,19 @@
+{
+  "slug": "apple-country-farmers-market-19th-and-ave-a-lubbock",
+  "name": "Apple Country Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "19th and Ave A Lubbock, TX",
+  "locationCity": "19th and Ave A Lubbock",
+  "locationState": "TX",
+  "locationZipcode": "79401",
+  "lat": 33.5443655807992,
+  "lon": -101.85237645953607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

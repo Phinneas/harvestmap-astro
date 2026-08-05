@@ -1,0 +1,19 @@
+{
+  "slug": "local-food-works-325-lindell-ave",
+  "name": "Local Food Works",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "325 Lindell Ave., MA",
+  "locationCity": "325 Lindell Ave.",
+  "locationState": "MA",
+  "locationZipcode": "01453",
+  "lat": 42.547874129980066,
+  "lon": -71.77440341513666,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.885Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.885Z"
+}

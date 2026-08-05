@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-sandersville-market-132-w-haynes-sreet",
+  "name": "Downtown Sandersville Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "132 W Haynes Sreet, GA",
+  "locationCity": "132 W Haynes Sreet",
+  "locationState": "GA",
+  "locationZipcode": "31082",
+  "lat": 32.98292839624147,
+  "lon": -82.8114729089944,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

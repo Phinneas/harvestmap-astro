@@ -1,0 +1,19 @@
+{
+  "slug": "pope-farm-apple-orchard-531-u-s-highway-26",
+  "name": "Pope Farm & Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "531 U.S. Highway 26, WY",
+  "locationCity": "531 U.S. Highway 26",
+  "locationState": "WY",
+  "locationZipcode": "82223",
+  "lat": 42.1546264423508,
+  "lon": -104.38948053938,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:34.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:34.536Z"
+}

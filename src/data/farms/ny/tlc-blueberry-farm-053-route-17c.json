@@ -1,0 +1,19 @@
+{
+  "slug": "tlc-blueberry-farm-053-route-17c",
+  "name": "TLC Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "053 Route 17C, NY",
+  "locationCity": "053 Route 17C",
+  "locationState": "NY",
+  "locationZipcode": "13734",
+  "lat": 42.0084615619893,
+  "lon": -76.557449734098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.363Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.363Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "queen-creek-olive-mill-25062-south-meridian-road",
+  "name": "Queen Creek Olive Mill",
+  "source": "usda",
+  "directory": "csa",
+  "location": "25062 South Meridian Road, AZ",
+  "locationCity": "25062 South Meridian Road",
+  "locationState": "AZ",
+  "locationZipcode": "25062",
+  "lat": 33.22434823644549,
+  "lon": -111.582936696514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:13.389Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:13.389Z"
+}

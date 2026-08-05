@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-market-215-n-center-thomaston",
+  "name": "Downtown Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 N Center Thomaston, GA",
+  "locationCity": "215 N Center Thomaston",
+  "locationState": "GA",
+  "locationZipcode": "30286",
+  "lat": 32.93037735361287,
+  "lon": -84.33668938812623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

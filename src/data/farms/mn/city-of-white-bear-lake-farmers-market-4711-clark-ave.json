@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-white-bear-lake-farmers-market-4711-clark-ave",
+  "name": "City of White Bear Lake Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4711 Clark Ave, MN",
+  "locationCity": "4711 Clark Ave",
+  "locationState": "MN",
+  "locationZipcode": "55110",
+  "lat": 45.0837718,
+  "lon": -93.010557,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

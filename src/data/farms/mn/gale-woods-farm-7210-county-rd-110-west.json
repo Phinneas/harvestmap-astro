@@ -1,0 +1,19 @@
+{
+  "slug": "gale-woods-farm-7210-county-rd-110-west",
+  "name": "Gale Woods Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7210 County Rd 110 West, MN",
+  "locationCity": "7210 County Rd 110 West",
+  "locationState": "MN",
+  "locationZipcode": "55364",
+  "lat": 44.9245412,
+  "lon": -93.7090531,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.169Z"
+}

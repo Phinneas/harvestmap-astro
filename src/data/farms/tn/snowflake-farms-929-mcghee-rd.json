@@ -1,0 +1,19 @@
+{
+  "slug": "snowflake-farms-929-mcghee-rd",
+  "name": "Snowflake farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "929 Mcghee Rd, TN",
+  "locationCity": "929 Mcghee Rd",
+  "locationState": "TN",
+  "locationZipcode": "37820",
+  "lat": 36.1361080464976,
+  "lon": -83.5750712198344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.228Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.228Z"
+}

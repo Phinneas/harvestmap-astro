@@ -1,0 +1,19 @@
+{
+  "slug": "gold-hill-blueberry-farm-290-daffodil-lane",
+  "name": "Gold Hill Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "290 Daffodil Lane, VA",
+  "locationCity": "290 Daffodil Lane",
+  "locationState": "VA",
+  "locationZipcode": "22567",
+  "lat": 38.240061110013,
+  "lon": -77.9332992925486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.131Z"
+}

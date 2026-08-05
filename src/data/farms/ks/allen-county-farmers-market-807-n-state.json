@@ -1,0 +1,19 @@
+{
+  "slug": "allen-county-farmers-market-807-n-state",
+  "name": "Allen County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "807  N. State, KS",
+  "locationCity": "807  N. State",
+  "locationState": "KS",
+  "locationZipcode": "66749",
+  "lat": 37.927427,
+  "lon": -95.400669,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.660Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.660Z"
+}

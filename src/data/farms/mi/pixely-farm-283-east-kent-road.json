@@ -1,0 +1,19 @@
+{
+  "slug": "pixely-farm-283-east-kent-road",
+  "name": "Pixely Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "283 East Kent Road, MI",
+  "locationCity": "283 East Kent Road",
+  "locationState": "MI",
+  "locationZipcode": "48637",
+  "lat": 43.5106939985907,
+  "lon": -84.3588104967031,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.637Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.637Z"
+}

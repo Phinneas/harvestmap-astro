@@ -1,0 +1,20 @@
+{
+  "slug": "hoover-s-farm-30-erbs-bridge-rd",
+  "name": "Hoover's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "30 Erbs Bridge Rd, PA",
+  "locationCity": "30 Erbs Bridge Rd",
+  "locationState": "PA",
+  "locationZipcode": "17543",
+  "lat": 40.1712809876405,
+  "lon": -76.2415480409942,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.144Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.144Z",
+  "crops": []
+}

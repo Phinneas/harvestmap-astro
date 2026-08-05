@@ -1,0 +1,19 @@
+{
+  "slug": "danville-farmers-market-629-craghead-street-danville",
+  "name": "Danville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "629 Craghead Street Danville, VA",
+  "locationCity": "629 Craghead Street Danville",
+  "locationState": "VA",
+  "locationZipcode": "24541",
+  "lat": 36.58476033421397,
+  "lon": -79.38616312921089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "winney-farm-113-winney-road-rt-32",
+  "name": "Winney Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "113 Winney Road (Rt 32), NY",
+  "locationCity": "113 Winney Road (Rt 32)",
+  "locationState": "NY",
+  "locationZipcode": "12871",
+  "lat": 43.1366276336539,
+  "lon": -73.6121571686175,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.124Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.124Z"
+}

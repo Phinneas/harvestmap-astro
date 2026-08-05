@@ -1,0 +1,20 @@
+{
+  "slug": "merrymead-farm-2222-valley-forge-road",
+  "name": "Merrymead Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2222 Valley Forge Road, PA",
+  "locationCity": "2222 Valley Forge Road",
+  "locationState": "PA",
+  "locationZipcode": "19446",
+  "lat": 40.2072349936735,
+  "lon": -75.3348250199737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.170Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.170Z",
+  "crops": []
+}

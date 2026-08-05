@@ -1,0 +1,19 @@
+{
+  "slug": "rocklin-farmers-market-6636-lonetree-blvd",
+  "name": "Rocklin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6636 Lonetree Blvd., CA",
+  "locationCity": "6636 Lonetree Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "95765",
+  "lat": 38.79975903028241,
+  "lon": -121.29330338801108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

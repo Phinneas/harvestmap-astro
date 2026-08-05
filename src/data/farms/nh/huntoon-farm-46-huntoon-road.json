@@ -1,0 +1,19 @@
+{
+  "slug": "huntoon-farm-46-huntoon-road",
+  "name": "Huntoon Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "46 Huntoon Road, NH",
+  "locationCity": "46 Huntoon Road",
+  "locationState": "NH",
+  "locationZipcode": "03230",
+  "lat": 43.512655,
+  "lon": -71.860923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.732Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.732Z"
+}

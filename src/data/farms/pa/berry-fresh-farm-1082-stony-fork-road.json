@@ -1,0 +1,19 @@
+{
+  "slug": "berry-fresh-farm-1082-stony-fork-road",
+  "name": "Berry Fresh Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1082 Stony Fork Road, PA",
+  "locationCity": "1082 Stony Fork Road",
+  "locationState": "PA",
+  "locationZipcode": "16901",
+  "lat": 41.7168614292395,
+  "lon": -77.33654926562888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

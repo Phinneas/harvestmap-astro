@@ -1,0 +1,19 @@
+{
+  "slug": "bridgewater-produce-farm-706-e-lonsdale-blvd",
+  "name": "Bridgewater Produce Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "706 E Lonsdale Blvd, MN",
+  "locationCity": "706 E Lonsdale Blvd",
+  "locationState": "MN",
+  "locationZipcode": "55057",
+  "lat": 44.4628852007955,
+  "lon": -93.2033146690444,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.680Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pennings-orchard-farm-market-161-s-route-94-warwick",
+  "name": "Pennings Orchard & Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "161 S. Route 94 Warwick, NY",
+  "locationCity": "161 S. Route 94 Warwick",
+  "locationState": "NY",
+  "locationZipcode": "10990",
+  "lat": 41.236761320359165,
+  "lon": -74.3901085537658,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

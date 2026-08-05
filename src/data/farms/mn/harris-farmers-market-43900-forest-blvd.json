@@ -1,0 +1,19 @@
+{
+  "slug": "harris-farmers-market-43900-forest-blvd",
+  "name": "Harris Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "43900 Forest Blvd, MN",
+  "locationCity": "43900 Forest Blvd",
+  "locationState": "MN",
+  "locationZipcode": "43900",
+  "lat": 45.5848426,
+  "lon": -92.9748387,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

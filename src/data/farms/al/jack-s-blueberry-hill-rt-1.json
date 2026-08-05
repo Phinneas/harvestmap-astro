@@ -1,0 +1,19 @@
+{
+  "slug": "jack-s-blueberry-hill-rt-1",
+  "name": "Jack's Blueberry Hill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rt 1, AL",
+  "locationCity": "Rt 1",
+  "locationState": "AL",
+  "locationZipcode": "36026",
+  "lat": 32.7656551000001,
+  "lon": -86.1027999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.662Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.662Z"
+}

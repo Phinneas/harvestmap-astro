@@ -1,0 +1,19 @@
+{
+  "slug": "burlington-farmers-market-2389-corporation-parkway",
+  "name": "Burlington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2389 Corporation Parkway, NC",
+  "locationCity": "2389 Corporation Parkway",
+  "locationState": "NC",
+  "locationZipcode": "27215",
+  "lat": 36.06688759240174,
+  "lon": -79.43575113928668,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.325Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.325Z"
+}

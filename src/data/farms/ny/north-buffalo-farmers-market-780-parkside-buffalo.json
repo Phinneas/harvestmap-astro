@@ -1,0 +1,19 @@
+{
+  "slug": "north-buffalo-farmers-market-780-parkside-buffalo",
+  "name": "North Buffalo Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "780 Parkside Buffalo, NY",
+  "locationCity": "780 Parkside Buffalo",
+  "locationState": "NY",
+  "locationZipcode": "14216",
+  "lat": 42.95086788845887,
+  "lon": -78.84884303132792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

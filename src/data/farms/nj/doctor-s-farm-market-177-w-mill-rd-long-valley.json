@@ -1,0 +1,19 @@
+{
+  "slug": "doctor-s-farm-market-177-w-mill-rd-long-valley",
+  "name": "Doctor's Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "177 W. Mill Rd Long Valley, NJ",
+  "locationCity": "177 W. Mill Rd Long Valley",
+  "locationState": "NJ",
+  "locationZipcode": "07853",
+  "lat": 40.77605172831422,
+  "lon": -74.79332212319555,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

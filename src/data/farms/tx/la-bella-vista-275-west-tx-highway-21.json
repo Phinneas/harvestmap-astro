@@ -1,0 +1,19 @@
+{
+  "slug": "la-bella-vista-275-west-tx-highway-21",
+  "name": "La Bella Vista",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "275 West TX Highway 21, TX",
+  "locationCity": "275 West TX Highway 21",
+  "locationState": "TX",
+  "locationZipcode": "75835",
+  "lat": 31.3071554858736,
+  "lon": -95.4853738119186,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.642Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.642Z"
+}

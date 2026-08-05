@@ -1,0 +1,19 @@
+{
+  "slug": "town-of-mancos-farmers-market-117-n-main-mancos",
+  "name": "Town of Mancos Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "117 N. Main Mancos, CO",
+  "locationCity": "117 N. Main Mancos",
+  "locationState": "CO",
+  "locationZipcode": "81328",
+  "lat": 37.345698865909846,
+  "lon": -108.28907583339824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.367Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.367Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dubois-farmers-market-9-s-first-st-dubois",
+  "name": "Dubois Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9 S First St Dubois, WY",
+  "locationCity": "9 S First St Dubois",
+  "locationState": "WY",
+  "locationZipcode": "82513",
+  "lat": 43.533466778697054,
+  "lon": -109.63084120689511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

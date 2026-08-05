@@ -1,0 +1,19 @@
+{
+  "slug": "assumption-farmers-market-100-n-chestnut-st-assumption",
+  "name": "Assumption Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 N Chestnut St Assumption, IL",
+  "locationCity": "100 N Chestnut St Assumption",
+  "locationState": "IL",
+  "locationZipcode": "62510",
+  "lat": 39.51917455059825,
+  "lon": -89.04976338142629,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

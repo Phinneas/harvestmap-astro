@@ -1,0 +1,19 @@
+{
+  "slug": "a1-tri-state-farms-10-grove-street",
+  "name": "A1 Tri-State Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10 Grove Street, NH",
+  "locationCity": "10 Grove Street",
+  "locationState": "NH",
+  "locationZipcode": "03235",
+  "lat": 43.4393890171495,
+  "lon": -71.6473910359886,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.777Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.777Z"
+}

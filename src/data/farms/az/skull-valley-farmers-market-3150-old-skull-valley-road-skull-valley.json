@@ -1,0 +1,19 @@
+{
+  "slug": "skull-valley-farmers-market-3150-old-skull-valley-road-skull-valley",
+  "name": "Skull Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3150 Old Skull Valley Road Skull Valley, AZ",
+  "locationCity": "3150 Old Skull Valley Road Skull Valley",
+  "locationState": "AZ",
+  "locationZipcode": "86338",
+  "lat": 34.497671207860414,
+  "lon": -112.68797637864364,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.031Z"
+}

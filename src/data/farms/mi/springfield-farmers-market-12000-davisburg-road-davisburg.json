@@ -1,0 +1,19 @@
+{
+  "slug": "springfield-farmers-market-12000-davisburg-road-davisburg",
+  "name": "Springfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12000 Davisburg Road Davisburg, MI",
+  "locationCity": "12000 Davisburg Road Davisburg",
+  "locationState": "MI",
+  "locationZipcode": "12000",
+  "lat": 42.75525519311643,
+  "lon": -83.52615404889123,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

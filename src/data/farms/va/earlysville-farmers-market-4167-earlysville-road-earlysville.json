@@ -1,0 +1,19 @@
+{
+  "slug": "earlysville-farmers-market-4167-earlysville-road-earlysville",
+  "name": "Earlysville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4167 Earlysville Road Earlysville, VA",
+  "locationCity": "4167 Earlysville Road Earlysville",
+  "locationState": "VA",
+  "locationZipcode": "22936",
+  "lat": 38.15520446853824,
+  "lon": -78.48210267831956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

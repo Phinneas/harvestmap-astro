@@ -1,0 +1,19 @@
+{
+  "slug": "bonadeo-farms-1215-white-lake-rd",
+  "name": "Bonadeo Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1215 White Lake Rd, MI",
+  "locationCity": "1215 White Lake Rd",
+  "locationState": "MI",
+  "locationZipcode": "48356",
+  "lat": 42.6830779913268,
+  "lon": -83.6028199752806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.630Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.630Z"
+}

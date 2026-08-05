@@ -1,0 +1,19 @@
+{
+  "slug": "berry-good-farm-234-parker-road",
+  "name": "Berry Good Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "234 Parker Road, NH",
+  "locationCity": "234 Parker Road",
+  "locationState": "NH",
+  "locationZipcode": "03045",
+  "lat": 43.021696988969,
+  "lon": -71.6278860120233,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.516Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.516Z"
+}

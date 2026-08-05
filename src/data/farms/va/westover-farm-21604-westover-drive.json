@@ -1,0 +1,19 @@
+{
+  "slug": "westover-farm-21604-westover-drive",
+  "name": "Westover Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "21604 Westover Drive, VA",
+  "locationCity": "21604 Westover Drive",
+  "locationState": "VA",
+  "locationZipcode": "21604",
+  "lat": 36.975052010722024,
+  "lon": -77.72739997027786,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.406Z"
+}

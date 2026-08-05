@@ -1,0 +1,19 @@
+{
+  "slug": "bowie-farmers-market-15200-annapolis-road-bowie",
+  "name": "Bowie Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15200 Annapolis Road Bowie, MD",
+  "locationCity": "15200 Annapolis Road Bowie",
+  "locationState": "MD",
+  "locationZipcode": "15200",
+  "lat": 38.97769421747444,
+  "lon": -76.7412375762671,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.535Z"
+}

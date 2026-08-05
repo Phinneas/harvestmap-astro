@@ -1,0 +1,19 @@
+{
+  "slug": "hardman-blueberry-farm-202-montecello-street",
+  "name": "Hardman Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "202 Montecello Street, AL",
+  "locationCity": "202 Montecello Street",
+  "locationState": "AL",
+  "locationZipcode": "35768",
+  "lat": 34.6738799962559,
+  "lon": -86.0160450013429,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.443Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.443Z"
+}

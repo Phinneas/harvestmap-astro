@@ -1,0 +1,19 @@
+{
+  "slug": "blue-ash-farmers-market-4335-glendale-milford-road",
+  "name": "Blue Ash Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4335 Glendale Milford Road, OH",
+  "locationCity": "4335 Glendale Milford Road",
+  "locationState": "OH",
+  "locationZipcode": "45242",
+  "lat": 39.251798,
+  "lon": -84.389892,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.872Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.872Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "old-towne-farmers-market-9200-pigeon-roost-rd-olive-branch",
+  "name": "Old Towne Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9200 Pigeon Roost Rd. Olive Branch, MS",
+  "locationCity": "9200 Pigeon Roost Rd. Olive Branch",
+  "locationState": "MS",
+  "locationZipcode": "38654",
+  "lat": 34.961940741395736,
+  "lon": -89.82764376682778,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

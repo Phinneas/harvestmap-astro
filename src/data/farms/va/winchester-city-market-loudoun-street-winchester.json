@@ -1,0 +1,19 @@
+{
+  "slug": "winchester-city-market-loudoun-street-winchester",
+  "name": "Winchester City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Loudoun Street Winchester, VA",
+  "locationCity": "Loudoun Street Winchester",
+  "locationState": "VA",
+  "locationZipcode": "22601",
+  "lat": 39.19322086902714,
+  "lon": -78.16218176268713,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

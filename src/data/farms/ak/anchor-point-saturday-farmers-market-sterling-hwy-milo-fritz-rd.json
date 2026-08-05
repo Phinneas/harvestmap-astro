@@ -1,0 +1,19 @@
+{
+  "slug": "anchor-point-saturday-farmers-market-sterling-hwy-milo-fritz-rd",
+  "name": "Anchor Point Saturday Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Sterling Hwy. & Milo Fritz Rd., AK",
+  "locationCity": "Sterling Hwy. & Milo Fritz Rd.",
+  "locationState": "AK",
+  "locationZipcode": "99556",
+  "lat": 59.779630014570245,
+  "lon": -151.83330001860546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

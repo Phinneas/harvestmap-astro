@@ -1,0 +1,19 @@
+{
+  "slug": "richmond-farmers-market-1911-east-chester-rd-richmond",
+  "name": "Richmond Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1911 East Chester Rd Richmond, IN",
+  "locationCity": "1911 East Chester Rd Richmond",
+  "locationState": "IN",
+  "locationZipcode": "47374",
+  "lat": 39.88810505621988,
+  "lon": -84.87569040560159,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

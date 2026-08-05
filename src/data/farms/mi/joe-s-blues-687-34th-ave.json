@@ -1,0 +1,19 @@
+{
+  "slug": "joe-s-blues-687-34th-ave",
+  "name": "Joe's Blues",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "687 34th Ave, MI",
+  "locationCity": "687 34th Ave",
+  "locationState": "MI",
+  "locationZipcode": "49013",
+  "lat": 42.2943699975937,
+  "lon": -86.0522295261481,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.580Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.580Z"
+}

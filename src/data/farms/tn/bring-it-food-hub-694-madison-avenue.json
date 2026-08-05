@@ -1,0 +1,19 @@
+{
+  "slug": "bring-it-food-hub-694-madison-avenue",
+  "name": "Bring It Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "694 Madison Avenue, TN",
+  "locationCity": "694 Madison Avenue",
+  "locationState": "TN",
+  "locationZipcode": "38103",
+  "lat": 35.1413216,
+  "lon": -90.037876,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:33.529Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:33.529Z"
+}

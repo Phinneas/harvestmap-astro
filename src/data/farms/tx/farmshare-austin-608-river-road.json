@@ -1,0 +1,19 @@
+{
+  "slug": "farmshare-austin-608-river-road",
+  "name": "Farmshare Austin",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "608 River Road, TX",
+  "locationCity": "608 River Road",
+  "locationState": "TX",
+  "locationZipcode": "78612",
+  "lat": 30.1937980112302,
+  "lon": -97.5138387240584,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.575Z"
+}

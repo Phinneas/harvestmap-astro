@@ -2,20 +2,19 @@
   "slug": "falcon-ridge-farm-22630-highway-18-n",
   "name": "Falcon Ridge Farm",
   "source": "usda",
-  "directory": "agritourism",
-  "location": "22630 Highway 18 N, TN",
-  "locationCity": "22630 Highway 18 N",
+  "directory": "csa",
+  "location": "22630 Highway 18 N., TN",
+  "locationCity": "22630 Highway 18 N.",
   "locationState": "TN",
   "locationZipcode": "22630",
-  "lat": 35.320646001641,
-  "lon": -88.9313779626653,
+  "lat": 35.3197604,
+  "lon": -88.9337353,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:38:57.702Z"
+      "lastSeen": "2026-08-05T18:51:28.790Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:38:57.702Z",
-  "website": "https://falconridge.farm/",
+  "usdaLastUpdated": "2026-08-05T18:51:28.790Z",
   "tagline": "Falcon Ridge Farm — Asparagus in Toone, TN"
 }

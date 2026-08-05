@@ -1,0 +1,19 @@
+{
+  "slug": "mayberry-farm-w2364-hwy-y",
+  "name": "Mayberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "W2364 Hwy Y, WI",
+  "locationCity": "W2364 Hwy Y",
+  "locationState": "WI",
+  "locationZipcode": "53050",
+  "lat": 43.4862469991139,
+  "lon": -88.5123849792929,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.301Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.301Z"
+}

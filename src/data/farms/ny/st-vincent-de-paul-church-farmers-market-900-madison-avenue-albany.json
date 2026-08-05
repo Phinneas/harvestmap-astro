@@ -1,0 +1,19 @@
+{
+  "slug": "st-vincent-de-paul-church-farmers-market-900-madison-avenue-albany",
+  "name": "St. Vincent de Paul Church Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "900 Madison Avenue Albany, NY",
+  "locationCity": "900 Madison Avenue Albany",
+  "locationState": "NY",
+  "locationZipcode": "12208",
+  "lat": 42.661770844811535,
+  "lon": -73.78399864605754,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

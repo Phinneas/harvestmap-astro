@@ -1,0 +1,19 @@
+{
+  "slug": "sandys-pick-195-poplar-street",
+  "name": "Sandys Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "195 Poplar Street, TN",
+  "locationCity": "195 Poplar Street",
+  "locationState": "TN",
+  "locationZipcode": "37307",
+  "lat": 35.17051899115114,
+  "lon": -84.65080698237327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.383Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.383Z"
+}

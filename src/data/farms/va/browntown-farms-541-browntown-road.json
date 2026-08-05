@@ -1,0 +1,19 @@
+{
+  "slug": "browntown-farms-541-browntown-road",
+  "name": "Browntown Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "541 Browntown Road, VA",
+  "locationCity": "541 Browntown Road",
+  "locationState": "VA",
+  "locationZipcode": "23856",
+  "lat": 36.9079179954286,
+  "lon": -77.747514023328,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.109Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.109Z"
+}

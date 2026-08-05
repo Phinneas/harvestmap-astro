@@ -1,0 +1,19 @@
+{
+  "slug": "third-way-farm-601-robinhood-road",
+  "name": "Third Way Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "601 Robinhood Road, MD",
+  "locationCity": "601 Robinhood Road",
+  "locationState": "MD",
+  "locationZipcode": "21078",
+  "lat": 39.547436134678975,
+  "lon": -76.14114725782589,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.724Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.724Z"
+}

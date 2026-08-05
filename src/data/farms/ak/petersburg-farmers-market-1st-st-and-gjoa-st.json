@@ -1,0 +1,19 @@
+{
+  "slug": "petersburg-farmers-market-1st-st-and-gjoa-st",
+  "name": "Petersburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st St. and Gjoa St., AK",
+  "locationCity": "1st St. and Gjoa St.",
+  "locationState": "AK",
+  "locationZipcode": "99833",
+  "lat": 56.81177998744499,
+  "lon": -132.95618998490096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

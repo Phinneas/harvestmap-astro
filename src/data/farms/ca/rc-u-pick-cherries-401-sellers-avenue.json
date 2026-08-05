@@ -1,0 +1,19 @@
+{
+  "slug": "rc-u-pick-cherries-401-sellers-avenue",
+  "name": "RC U-Pick Cherries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "401 Sellers Avenue, CA",
+  "locationCity": "401 Sellers Avenue",
+  "locationState": "CA",
+  "locationZipcode": "94513",
+  "lat": 37.9022403888136,
+  "lon": -121.678138634959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.757Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.757Z"
+}

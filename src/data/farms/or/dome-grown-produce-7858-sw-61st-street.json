@@ -1,0 +1,19 @@
+{
+  "slug": "dome-grown-produce-7858-sw-61st-street",
+  "name": "Dome Grown Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7858 SW 61st street, OR",
+  "locationCity": "7858 SW 61st street",
+  "locationState": "OR",
+  "locationZipcode": "97756",
+  "lat": 44.2017219,
+  "lon": -121.234612,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.930Z"
+}

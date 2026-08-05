@@ -1,0 +1,19 @@
+{
+  "slug": "poppell-farms-1765-hyma-poppell-loop",
+  "name": "Poppell Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1765 Hyma Poppell Loop, GA",
+  "locationCity": "1765 Hyma Poppell Loop",
+  "locationState": "GA",
+  "locationZipcode": "31555",
+  "lat": 31.6768539891005,
+  "lon": -81.9948560381284,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.335Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.335Z"
+}

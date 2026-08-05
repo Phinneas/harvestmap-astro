@@ -1,0 +1,19 @@
+{
+  "slug": "fencerow-farmers-market-1604-e-high-st-waynesburg",
+  "name": "Fencerow Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1604 E High St Waynesburg, PA",
+  "locationCity": "1604 E High St Waynesburg",
+  "locationState": "PA",
+  "locationZipcode": "15370",
+  "lat": 39.89630225147136,
+  "lon": -80.1661457167691,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

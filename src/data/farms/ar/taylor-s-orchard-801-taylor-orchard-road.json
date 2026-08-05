@@ -1,0 +1,19 @@
+{
+  "slug": "taylor-s-orchard-801-taylor-orchard-road",
+  "name": "Taylor's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "801 Taylor Orchard Road, AR",
+  "locationCity": "801 Taylor Orchard Road",
+  "locationState": "AR",
+  "locationZipcode": "72734",
+  "lat": 36.2337798691211,
+  "lon": -94.526228903919,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.970Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.970Z"
+}

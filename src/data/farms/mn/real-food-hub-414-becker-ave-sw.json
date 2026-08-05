@@ -1,0 +1,19 @@
+{
+  "slug": "real-food-hub-414-becker-ave-sw",
+  "name": "Real Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "414 Becker Ave SW, MN",
+  "locationCity": "414 Becker Ave SW",
+  "locationState": "MN",
+  "locationZipcode": "56201",
+  "lat": 45.120455010384546,
+  "lon": -95.04875400804391,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:13.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:13.505Z"
+}

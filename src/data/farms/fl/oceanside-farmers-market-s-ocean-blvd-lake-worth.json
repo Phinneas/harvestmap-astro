@@ -1,0 +1,19 @@
+{
+  "slug": "oceanside-farmers-market-s-ocean-blvd-lake-worth",
+  "name": "Oceanside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S. Ocean Blvd. Lake Worth, FL",
+  "locationCity": "S. Ocean Blvd. Lake Worth",
+  "locationState": "FL",
+  "locationZipcode": "33480",
+  "lat": 26.56457858841552,
+  "lon": -80.04117089129615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

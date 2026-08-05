@@ -1,0 +1,19 @@
+{
+  "slug": "the-farm-market-at-mill-no-5-250-jackson-street",
+  "name": "The Farm Market at Mill No. 5",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "250 Jackson Street, MA",
+  "locationCity": "250 Jackson Street",
+  "locationState": "MA",
+  "locationZipcode": "01852",
+  "lat": 42.641166,
+  "lon": -71.312805,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.751Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.751Z"
+}

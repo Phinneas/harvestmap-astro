@@ -1,0 +1,19 @@
+{
+  "slug": "bellevue-farmers-market-95-riviera-drive-bellevue",
+  "name": "Bellevue Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "95 Riviera Drive Bellevue, KY",
+  "locationCity": "95 Riviera Drive Bellevue",
+  "locationState": "KY",
+  "locationZipcode": "41073",
+  "lat": 39.10066261514958,
+  "lon": -84.48747143533235,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

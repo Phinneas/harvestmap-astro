@@ -1,0 +1,19 @@
+{
+  "slug": "new-life-ramsey-farmers-market-5900-167th-ave-nw",
+  "name": "New Life Ramsey Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5900 167th Ave NW, MN",
+  "locationCity": "5900 167th Ave NW",
+  "locationState": "MN",
+  "locationZipcode": "55303",
+  "lat": 45.2729284,
+  "lon": -93.4176609,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

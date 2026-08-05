@@ -1,0 +1,19 @@
+{
+  "slug": "andover-farmers-market-41-central-street",
+  "name": "Andover Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "41 Central Street, MA",
+  "locationCity": "41 Central Street",
+  "locationState": "MA",
+  "locationZipcode": "01810",
+  "lat": 42.653616,
+  "lon": -71.143138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.958Z"
+}

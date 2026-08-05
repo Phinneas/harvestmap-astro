@@ -1,0 +1,19 @@
+{
+  "slug": "silverthorn-farm-4485-west-1000-north",
+  "name": "Silverthorn Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4485 West 1000 North, IN",
+  "locationCity": "4485 West 1000 North",
+  "locationState": "IN",
+  "locationZipcode": "46065",
+  "lat": 40.430325004472536,
+  "lon": -86.58870701984908,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.600Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.600Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hancock-co-farmers-market-2500-us-60-west-hawesville",
+  "name": "Hancock Co Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2500 US 60 west Hawesville, KY",
+  "locationCity": "2500 US 60 west Hawesville",
+  "locationState": "KY",
+  "locationZipcode": "42348",
+  "lat": 37.91891398418935,
+  "lon": -86.7955372485932,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

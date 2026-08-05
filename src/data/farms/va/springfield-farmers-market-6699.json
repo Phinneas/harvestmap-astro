@@ -1,0 +1,19 @@
+{
+  "slug": "springfield-farmers-market-6699",
+  "name": "Springfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6699, VA",
+  "locationCity": "6699",
+  "locationState": "VA",
+  "locationZipcode": "22150",
+  "lat": 38.773396419721365,
+  "lon": -77.17533790374888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

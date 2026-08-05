@@ -1,0 +1,19 @@
+{
+  "slug": "blackduck-area-farmers-market-wayside-rest-park",
+  "name": "Blackduck Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Wayside Rest Park, MN",
+  "locationCity": "Wayside Rest Park",
+  "locationState": "MN",
+  "locationZipcode": "56630",
+  "lat": 47.729311,
+  "lon": -94.551676,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

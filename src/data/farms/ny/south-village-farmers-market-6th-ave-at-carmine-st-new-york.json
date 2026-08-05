@@ -1,0 +1,19 @@
+{
+  "slug": "south-village-farmers-market-6th-ave-at-carmine-st-new-york",
+  "name": "South Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6th Ave. at Carmine St. New York, NY",
+  "locationCity": "6th Ave. at Carmine St. New York",
+  "locationState": "NY",
+  "locationZipcode": "10014",
+  "lat": 40.730255650831445,
+  "lon": -74.00267535891862,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

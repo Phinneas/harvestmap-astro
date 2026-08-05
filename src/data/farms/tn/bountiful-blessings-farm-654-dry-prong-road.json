@@ -1,0 +1,19 @@
+{
+  "slug": "bountiful-blessings-farm-654-dry-prong-road",
+  "name": "Bountiful Blessings Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "654 Dry Prong Road, TN",
+  "locationCity": "654 Dry Prong Road",
+  "locationState": "TN",
+  "locationZipcode": "38487",
+  "lat": 35.750861640903565,
+  "lon": -87.23552474157677,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.823Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.823Z"
+}

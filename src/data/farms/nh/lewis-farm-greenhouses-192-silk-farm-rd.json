@@ -1,0 +1,19 @@
+{
+  "slug": "lewis-farm-greenhouses-192-silk-farm-rd",
+  "name": "Lewis Farm & Greenhouses",
+  "source": "usda",
+  "directory": "csa",
+  "location": "192 Silk Farm Rd, NH",
+  "locationCity": "192 Silk Farm Rd",
+  "locationState": "NH",
+  "locationZipcode": "03301",
+  "lat": 43.1676842,
+  "lon": -71.5597609,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.561Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.561Z"
+}

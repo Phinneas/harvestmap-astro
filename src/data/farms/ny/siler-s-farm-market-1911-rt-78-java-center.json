@@ -1,0 +1,19 @@
+{
+  "slug": "siler-s-farm-market-1911-rt-78-java-center",
+  "name": "Siler's Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1911 Rt 78 Java Center, NY",
+  "locationCity": "1911 Rt 78 Java Center",
+  "locationState": "NY",
+  "locationZipcode": "14082",
+  "lat": 42.649822981308624,
+  "lon": -78.35301782121918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

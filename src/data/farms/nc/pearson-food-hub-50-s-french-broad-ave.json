@@ -1,0 +1,19 @@
+{
+  "slug": "pearson-food-hub-50-s-french-broad-ave",
+  "name": "Pearson Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "50 S. French Broad Ave, NC",
+  "locationCity": "50 S. French Broad Ave",
+  "locationState": "NC",
+  "locationZipcode": "28801",
+  "lat": 35.59172341394785,
+  "lon": -82.55861354179616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.329Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.329Z"
+}

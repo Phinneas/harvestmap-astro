@@ -1,0 +1,19 @@
+{
+  "slug": "north-star-food-hub-4012-center-st",
+  "name": "North Star Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "4012 Center St, NY",
+  "locationCity": "4012 Center St",
+  "locationState": "NY",
+  "locationZipcode": "13368",
+  "lat": 43.6185628,
+  "lon": -75.360946,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.989Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.989Z"
+}

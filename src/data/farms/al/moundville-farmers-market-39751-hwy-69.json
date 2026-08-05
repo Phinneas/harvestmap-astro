@@ -1,0 +1,19 @@
+{
+  "slug": "moundville-farmers-market-39751-hwy-69",
+  "name": "Moundville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "39751 Hwy. 69, AL",
+  "locationCity": "39751 Hwy. 69",
+  "locationState": "AL",
+  "locationZipcode": "39751",
+  "lat": 32.98849500049611,
+  "lon": -87.62452654576566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

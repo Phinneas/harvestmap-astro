@@ -1,0 +1,19 @@
+{
+  "slug": "ely-farmers-market-whiteside-park",
+  "name": "Ely Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Whiteside Park, MN",
+  "locationCity": "Whiteside Park",
+  "locationState": "MN",
+  "locationZipcode": "55731",
+  "lat": 47.902258,
+  "lon": -91.856841,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "waconia-farmers-market-1st-st-and-spruce-st",
+  "name": "Waconia Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st St and Spruce St, MN",
+  "locationCity": "1st St and Spruce St",
+  "locationState": "MN",
+  "locationZipcode": "55387",
+  "lat": 44.849396,
+  "lon": -93.78316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

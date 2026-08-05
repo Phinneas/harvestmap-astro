@@ -1,0 +1,19 @@
+{
+  "slug": "providence-farm-5147-pleasant-hill-rd",
+  "name": "Providence Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5147 Pleasant Hill Rd., MO",
+  "locationCity": "5147 Pleasant Hill Rd.",
+  "locationState": "MO",
+  "locationZipcode": "65746",
+  "lat": 37.230015256083576,
+  "lon": -92.87657868716707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:52.661Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:52.661Z"
+}

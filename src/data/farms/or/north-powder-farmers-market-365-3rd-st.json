@@ -1,0 +1,19 @@
+{
+  "slug": "north-powder-farmers-market-365-3rd-st",
+  "name": "North Powder Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "365 3rd St, OR",
+  "locationCity": "365 3rd St",
+  "locationState": "OR",
+  "locationZipcode": "97867",
+  "lat": 45.03120666200018,
+  "lon": -117.91716633562355,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.427Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.427Z"
+}

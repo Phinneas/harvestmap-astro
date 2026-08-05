@@ -1,0 +1,19 @@
+{
+  "slug": "farm-fresh-farmers-market-3302-agency-st-burlington",
+  "name": "Farm Fresh Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3302 Agency St. Burlington, IA",
+  "locationCity": "3302 Agency St. Burlington",
+  "locationState": "IA",
+  "locationZipcode": "52601",
+  "lat": 40.814898888275145,
+  "lon": -91.14427527142725,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

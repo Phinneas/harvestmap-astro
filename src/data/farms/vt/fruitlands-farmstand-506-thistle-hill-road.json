@@ -1,0 +1,19 @@
+{
+  "slug": "fruitlands-farmstand-506-thistle-hill-road",
+  "name": "Fruitlands Farmstand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "506 Thistle Hill Road, VT",
+  "locationCity": "506 Thistle Hill Road",
+  "locationState": "VT",
+  "locationZipcode": "05658",
+  "lat": 44.3730500081428,
+  "lon": -72.3096519952219,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.111Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.111Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "homefields-150-letort-rd",
+  "name": "Homefields",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "150 Letort Rd, PA",
+  "locationCity": "150 Letort Rd",
+  "locationState": "PA",
+  "locationZipcode": "17551",
+  "lat": 39.99439600854851,
+  "lon": -76.367371974684,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.212Z"
+}

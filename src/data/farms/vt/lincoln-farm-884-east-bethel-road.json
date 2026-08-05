@@ -1,0 +1,19 @@
+{
+  "slug": "lincoln-farm-884-east-bethel-road",
+  "name": "Lincoln Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "884 East Bethel Road, VT",
+  "locationCity": "884 East Bethel Road",
+  "locationState": "VT",
+  "locationZipcode": "05061",
+  "lat": 43.9280255028244,
+  "lon": -72.6049195475314,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.971Z"
+}

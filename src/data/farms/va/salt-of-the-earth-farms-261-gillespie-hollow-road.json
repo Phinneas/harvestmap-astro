@@ -1,0 +1,20 @@
+{
+  "slug": "salt-of-the-earth-farms-261-gillespie-hollow-road",
+  "name": "Salt of the Earth Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "261 Gillespie Hollow Road, VA",
+  "locationCity": "261 Gillespie Hollow Road",
+  "locationState": "VA",
+  "locationZipcode": "24370",
+  "lat": 36.9164509824088,
+  "lon": -81.6089190177661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.181Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.181Z",
+  "crops": []
+}

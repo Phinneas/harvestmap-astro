@@ -1,0 +1,19 @@
+{
+  "slug": "las-vegas-farmers-market-at-bruce-trent-park-1600-n-rampart-blvd-las-vegas",
+  "name": "Las Vegas Farmers Market at Bruce Trent Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1600 N. Rampart Blvd. Las Vegas, NV",
+  "locationCity": "1600 N. Rampart Blvd. Las Vegas",
+  "locationState": "NV",
+  "locationZipcode": "89134",
+  "lat": 36.18879118990688,
+  "lon": -115.28758716941974,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:24.364Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:24.364Z"
+}

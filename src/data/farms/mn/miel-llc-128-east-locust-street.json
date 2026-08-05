@@ -1,0 +1,19 @@
+{
+  "slug": "miel-llc-128-east-locust-street",
+  "name": "Miel, LLC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "128 East Locust Street, MN",
+  "locationCity": "128 East Locust Street",
+  "locationState": "MN",
+  "locationZipcode": "55811",
+  "lat": 46.8028289996101,
+  "lon": -92.129111994118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.723Z"
+}

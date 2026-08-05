@@ -1,0 +1,19 @@
+{
+  "slug": "crossway-farms-2211-cisco-rd",
+  "name": "Crossway Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2211 Cisco Rd, OH",
+  "locationCity": "2211 Cisco Rd",
+  "locationState": "OH",
+  "locationZipcode": "45365",
+  "lat": 40.31281600255184,
+  "lon": -84.19086496540851,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.371Z"
+}

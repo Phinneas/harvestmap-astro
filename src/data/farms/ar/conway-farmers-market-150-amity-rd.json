@@ -1,0 +1,19 @@
+{
+  "slug": "conway-farmers-market-150-amity-rd",
+  "name": "Conway Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 Amity Rd., AR",
+  "locationCity": "150 Amity Rd.",
+  "locationState": "AR",
+  "locationZipcode": "72032",
+  "lat": 35.077695,
+  "lon": -92.41257,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.337Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.337Z"
+}

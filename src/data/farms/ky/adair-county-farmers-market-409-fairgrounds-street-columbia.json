@@ -1,0 +1,19 @@
+{
+  "slug": "adair-county-farmers-market-409-fairgrounds-street-columbia",
+  "name": "Adair County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "409 Fairgrounds Street Columbia, KY",
+  "locationCity": "409 Fairgrounds Street Columbia",
+  "locationState": "KY",
+  "locationZipcode": "42728",
+  "lat": 37.104394934340945,
+  "lon": -85.29792468757762,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ritchie-jenkins-304-tumbleweed-ct-elizabethtown",
+  "name": "Ritchie Jenkins",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "304 Tumbleweed Ct Elizabethtown, KY",
+  "locationCity": "304 Tumbleweed Ct Elizabethtown",
+  "locationState": "KY",
+  "locationZipcode": "42701",
+  "lat": 37.7481079836134,
+  "lon": -85.7921839811803,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.620Z"
+}

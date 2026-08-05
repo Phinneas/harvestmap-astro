@@ -1,0 +1,19 @@
+{
+  "slug": "4th-ave-sunset-park-greenmarket-60-4th-ave",
+  "name": "4th Ave Sunset Park Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "60 4th Ave, NY",
+  "locationCity": "60 4th Ave",
+  "locationState": "NY",
+  "locationZipcode": "11220",
+  "lat": 40.68281048883112,
+  "lon": -73.97938879189957,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.012Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.012Z"
+}

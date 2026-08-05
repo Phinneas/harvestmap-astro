@@ -1,0 +1,19 @@
+{
+  "slug": "teskie-farms-266-highway-42",
+  "name": "Teskie Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "266 Highway 42, WI",
+  "locationCity": "266 Highway 42",
+  "locationState": "WI",
+  "locationZipcode": "54210",
+  "lat": 45.2894256671494,
+  "lon": -86.9810612004764,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.404Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.404Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sylmar-farmers-market-13356-eldridge-ave-sylmar",
+  "name": "Sylmar Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13356 Eldridge Ave. Sylmar, CA",
+  "locationCity": "13356 Eldridge Ave. Sylmar",
+  "locationState": "CA",
+  "locationZipcode": "13356",
+  "lat": 34.314980844083074,
+  "lon": -118.42093974215464,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.374Z"
+}

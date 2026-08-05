@@ -1,0 +1,19 @@
+{
+  "slug": "mikes-produce-704-greenbriar-rd",
+  "name": "Mikes Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "704 Greenbriar Rd, OK",
+  "locationCity": "704 Greenbriar Rd",
+  "locationState": "OK",
+  "locationZipcode": "74723",
+  "lat": 33.9526165698238,
+  "lon": -95.9553486020739,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.322Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.322Z"
+}

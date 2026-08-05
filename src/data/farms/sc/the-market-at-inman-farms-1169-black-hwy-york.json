@@ -1,0 +1,19 @@
+{
+  "slug": "the-market-at-inman-farms-1169-black-hwy-york",
+  "name": "The Market at Inman Farms",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1169 Black Hwy York, SC",
+  "locationCity": "1169 Black Hwy York",
+  "locationState": "SC",
+  "locationZipcode": "29745",
+  "lat": 35.00501161706968,
+  "lon": -81.25842444264804,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

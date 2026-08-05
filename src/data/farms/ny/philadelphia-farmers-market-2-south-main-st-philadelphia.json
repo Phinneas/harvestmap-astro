@@ -1,0 +1,19 @@
+{
+  "slug": "philadelphia-farmers-market-2-south-main-st-philadelphia",
+  "name": "Philadelphia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 South Main St. Philadelphia, NY",
+  "locationCity": "2 South Main St. Philadelphia",
+  "locationState": "NY",
+  "locationZipcode": "13673",
+  "lat": 44.15665603793419,
+  "lon": -75.70772263286955,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

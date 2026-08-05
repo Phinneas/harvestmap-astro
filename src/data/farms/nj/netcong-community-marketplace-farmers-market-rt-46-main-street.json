@@ -1,0 +1,19 @@
+{
+  "slug": "netcong-community-marketplace-farmers-market-rt-46-main-street",
+  "name": "Netcong Community Marketplace/Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Rt. 46 & Main Street, NJ",
+  "locationCity": "Rt. 46 & Main Street",
+  "locationState": "NJ",
+  "locationZipcode": "07857",
+  "lat": 40.897787,
+  "lon": -74.707004,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:21.855Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:21.855Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "taylor-s-blueberry-farm-1171-sanford-road",
+  "name": "Taylor's Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1171 Sanford Road, AL",
+  "locationCity": "1171 Sanford Road",
+  "locationState": "AL",
+  "locationZipcode": "35010",
+  "lat": 33.0593783909053,
+  "lon": -85.9174954411414,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.614Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.614Z"
+}

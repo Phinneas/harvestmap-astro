@@ -1,0 +1,19 @@
+{
+  "slug": "boldly-grown-farm-8855-ershig-rd",
+  "name": "Boldly Grown Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8855 Ershig Rd, WA",
+  "locationCity": "8855 Ershig Rd",
+  "locationState": "WA",
+  "locationZipcode": "98232",
+  "lat": 48.51755483006946,
+  "lon": -122.37800974509585,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.623Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.623Z"
+}

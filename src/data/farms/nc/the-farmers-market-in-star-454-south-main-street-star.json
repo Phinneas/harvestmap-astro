@@ -1,0 +1,19 @@
+{
+  "slug": "the-farmers-market-in-star-454-south-main-street-star",
+  "name": "The Farmers' Market in Star",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "454 South Main Street Star, NC",
+  "locationCity": "454 South Main Street Star",
+  "locationState": "NC",
+  "locationZipcode": "27356",
+  "lat": 35.3932085450441,
+  "lon": -79.78549367986629,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

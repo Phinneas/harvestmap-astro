@@ -1,0 +1,19 @@
+{
+  "slug": "autumn-harvest-ah-farm-616-hale-road",
+  "name": "Autumn Harvest (AH Farm)",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "616 Hale Road, WI",
+  "locationCity": "616 Hale Road",
+  "locationState": "WI",
+  "locationZipcode": "54157",
+  "lat": 44.9982761657788,
+  "lon": -87.759841291346,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.108Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.108Z"
+}

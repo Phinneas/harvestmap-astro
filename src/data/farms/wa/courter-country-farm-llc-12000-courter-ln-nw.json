@@ -1,0 +1,19 @@
+{
+  "slug": "courter-country-farm-llc-12000-courter-ln-nw",
+  "name": "Courter Country Farm LLC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12000 Courter Ln NW, WA",
+  "locationCity": "12000 Courter Ln NW",
+  "locationState": "WA",
+  "locationZipcode": "12000",
+  "lat": 47.67184799894312,
+  "lon": -122.656408959374,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.403Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.403Z"
+}

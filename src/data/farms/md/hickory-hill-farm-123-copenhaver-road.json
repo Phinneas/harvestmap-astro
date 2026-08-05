@@ -1,0 +1,19 @@
+{
+  "slug": "hickory-hill-farm-123-copenhaver-road",
+  "name": "Hickory Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "123 Copenhaver Road, MD",
+  "locationCity": "123 Copenhaver Road",
+  "locationState": "MD",
+  "locationZipcode": "21154",
+  "lat": 39.624840896091,
+  "lon": -76.32842930133,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.144Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.144Z"
+}

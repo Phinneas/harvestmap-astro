@@ -1,0 +1,19 @@
+{
+  "slug": "barryville-farmers-market-3405-ny-97",
+  "name": "Barryville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3405 NY-97, NY",
+  "locationCity": "3405 NY-97",
+  "locationState": "NY",
+  "locationZipcode": "12719",
+  "lat": 41.47864439898811,
+  "lon": -74.9166239442753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

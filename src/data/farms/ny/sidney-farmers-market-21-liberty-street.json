@@ -1,0 +1,19 @@
+{
+  "slug": "sidney-farmers-market-21-liberty-street",
+  "name": "Sidney Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "21 Liberty Street, NY",
+  "locationCity": "21 Liberty Street",
+  "locationState": "NY",
+  "locationZipcode": "13838",
+  "lat": 42.316247899183146,
+  "lon": -75.39042663733757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

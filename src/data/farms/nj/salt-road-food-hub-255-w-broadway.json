@@ -1,0 +1,19 @@
+{
+  "slug": "salt-road-food-hub-255-w-broadway",
+  "name": "Salt Road Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "255 W Broadway, NJ",
+  "locationCity": "255 W Broadway",
+  "locationState": "NJ",
+  "locationZipcode": "07522",
+  "lat": 40.92461199542723,
+  "lon": -74.18197001059632,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.845Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.845Z"
+}

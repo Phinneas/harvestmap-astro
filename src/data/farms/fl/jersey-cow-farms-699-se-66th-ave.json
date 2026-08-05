@@ -1,0 +1,20 @@
+{
+  "slug": "jersey-cow-farms-699-se-66th-ave",
+  "name": "Jersey Cow Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "699 Se 66th Ave, FL",
+  "locationCity": "699 Se 66th Ave",
+  "locationState": "FL",
+  "locationZipcode": "32693",
+  "lat": 29.6115385474535,
+  "lon": -82.6961951763022,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.772Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.772Z",
+  "crops": []
+}

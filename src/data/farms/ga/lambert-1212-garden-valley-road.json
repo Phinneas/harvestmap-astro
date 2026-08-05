@@ -1,0 +1,19 @@
+{
+  "slug": "lambert-1212-garden-valley-road",
+  "name": "Lambert",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1212 Garden Valley Road, GA",
+  "locationCity": "1212 Garden Valley Road",
+  "locationState": "GA",
+  "locationZipcode": "31041",
+  "lat": 32.3948100233601,
+  "lon": -84.1535731935005,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.390Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.390Z"
+}

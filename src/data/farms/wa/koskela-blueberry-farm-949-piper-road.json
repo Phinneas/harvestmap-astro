@@ -1,0 +1,19 @@
+{
+  "slug": "koskela-blueberry-farm-949-piper-road",
+  "name": "Koskela Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "949 Piper Road, WA",
+  "locationCity": "949 Piper Road",
+  "locationState": "WA",
+  "locationZipcode": "98264",
+  "lat": 48.8695039874266,
+  "lon": -122.532668012442,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.164Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.164Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "r-and-g-farm-504-us-highway-441-north",
+  "name": "R and G Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "504 US Highway 441 North, GA",
+  "locationCity": "504 US Highway 441 North",
+  "locationState": "GA",
+  "locationZipcode": "31021",
+  "lat": 32.5684099599889,
+  "lon": -82.9234759863608,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.307Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.307Z"
+}

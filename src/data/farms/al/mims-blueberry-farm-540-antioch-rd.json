@@ -1,0 +1,19 @@
+{
+  "slug": "mims-blueberry-farm-540-antioch-rd",
+  "name": "Mims Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "540 Antioch Rd, AL",
+  "locationCity": "540 Antioch Rd",
+  "locationState": "AL",
+  "locationZipcode": "35670",
+  "lat": 34.4613189969497,
+  "lon": -86.7386499637452,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.484Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.484Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "poulsbo-farmers-market-18901-8th-ave-ne-poulsbo",
+  "name": "Poulsbo Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "18901 8th Ave NE Poulsbo, WA",
+  "locationCity": "18901 8th Ave NE Poulsbo",
+  "locationState": "WA",
+  "locationZipcode": "18901",
+  "lat": 47.73450372368907,
+  "lon": -122.6387604353456,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

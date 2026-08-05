@@ -1,0 +1,19 @@
+{
+  "slug": "west-chester-hayride-21-price-street",
+  "name": "West Chester Hayride",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "21 Price Street, PA",
+  "locationCity": "21 Price Street",
+  "locationState": "PA",
+  "locationZipcode": "19382",
+  "lat": 39.9554200000001,
+  "lon": -75.6011799999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.125Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.125Z"
+}

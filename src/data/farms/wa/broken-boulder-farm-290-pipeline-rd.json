@@ -1,0 +1,20 @@
+{
+  "slug": "broken-boulder-farm-290-pipeline-rd",
+  "name": "Broken Boulder Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "290 Pipeline Rd, WA",
+  "locationCity": "290 Pipeline Rd",
+  "locationState": "WA",
+  "locationZipcode": "98620",
+  "lat": 45.8662879866856,
+  "lon": -120.809761025389,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.312Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.312Z",
+  "crops": []
+}

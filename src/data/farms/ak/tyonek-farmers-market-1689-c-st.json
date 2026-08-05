@@ -1,0 +1,19 @@
+{
+  "slug": "tyonek-farmers-market-1689-c-st",
+  "name": "Tyonek Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1689 C St, AK",
+  "locationCity": "1689 C St",
+  "locationState": "AK",
+  "locationZipcode": "99501",
+  "lat": 61.20529462063429,
+  "lon": -149.8873365087129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

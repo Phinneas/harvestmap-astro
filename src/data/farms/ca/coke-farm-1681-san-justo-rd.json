@@ -1,0 +1,19 @@
+{
+  "slug": "coke-farm-1681-san-justo-rd",
+  "name": "Coke Farm",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1681 San Justo Rd, CA",
+  "locationCity": "1681 San Justo Rd",
+  "locationState": "CA",
+  "locationZipcode": "95045",
+  "lat": 36.85553600399547,
+  "lon": -121.53293302354074,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

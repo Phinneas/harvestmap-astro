@@ -1,0 +1,19 @@
+{
+  "slug": "the-dixie-farmers-market-318-garvey-ave-elsmere",
+  "name": "The Dixie Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "318 Garvey Ave. Elsmere, KY",
+  "locationCity": "318 Garvey Ave. Elsmere",
+  "locationState": "KY",
+  "locationZipcode": "41071",
+  "lat": 39.01025881313455,
+  "lon": -84.6022653522139,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

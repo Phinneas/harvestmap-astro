@@ -1,0 +1,19 @@
+{
+  "slug": "moore-berries-204-piney-grove-road",
+  "name": "Moore Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "204 Piney Grove Road, GA",
+  "locationCity": "204 Piney Grove Road",
+  "locationState": "GA",
+  "locationZipcode": "31047",
+  "lat": 32.5103845690563,
+  "lon": -83.6046738283979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.302Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.302Z"
+}

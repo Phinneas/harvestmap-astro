@@ -1,0 +1,19 @@
+{
+  "slug": "benton-city-community-market-806-dale-ave-benton-city",
+  "name": "Benton City Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "806 Dale Ave. Benton City, WA",
+  "locationCity": "806 Dale Ave. Benton City",
+  "locationState": "WA",
+  "locationZipcode": "99320",
+  "lat": 46.26330667829519,
+  "lon": -119.48601292538612,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.816Z"
+}

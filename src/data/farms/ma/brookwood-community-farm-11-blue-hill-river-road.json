@@ -1,0 +1,19 @@
+{
+  "slug": "brookwood-community-farm-11-blue-hill-river-road",
+  "name": "Brookwood Community Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "11 Blue Hill River Road, MA",
+  "locationCity": "11 Blue Hill River Road",
+  "locationState": "MA",
+  "locationZipcode": "02021",
+  "lat": 42.2062722,
+  "lon": -71.1106344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.272Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.272Z"
+}

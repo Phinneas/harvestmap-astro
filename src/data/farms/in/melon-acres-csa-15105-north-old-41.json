@@ -1,0 +1,19 @@
+{
+  "slug": "melon-acres-csa-15105-north-old-41",
+  "name": "Melon Acres CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15105 North Old 41, IN",
+  "locationCity": "15105 North Old 41",
+  "locationState": "IN",
+  "locationZipcode": "15105",
+  "lat": 38.8816678,
+  "lon": -87.4420651,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.537Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.537Z"
+}

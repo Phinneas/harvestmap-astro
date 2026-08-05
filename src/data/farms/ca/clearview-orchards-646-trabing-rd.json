@@ -1,0 +1,20 @@
+{
+  "slug": "clearview-orchards-646-trabing-rd",
+  "name": "Clearview Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "646 Trabing Rd, CA",
+  "locationCity": "646 Trabing Rd",
+  "locationState": "CA",
+  "locationZipcode": "95076",
+  "lat": 36.9351409920189,
+  "lon": -121.818373036486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.750Z",
+  "crops": []
+}

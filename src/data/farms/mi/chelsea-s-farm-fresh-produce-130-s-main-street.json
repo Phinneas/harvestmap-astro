@@ -1,0 +1,19 @@
+{
+  "slug": "chelsea-s-farm-fresh-produce-130-s-main-street",
+  "name": "Chelsea's Farm Fresh Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "130 S. Main Street, MI",
+  "locationCity": "130 S. Main Street",
+  "locationState": "MI",
+  "locationZipcode": "49230",
+  "lat": 42.10479900804572,
+  "lon": -84.2483029627466,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.232Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.232Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "chrysalis-center-food-hub-255-homestead-ave",
+  "name": "Chrysalis Center Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "255 Homestead Ave, CT",
+  "locationCity": "255 Homestead Ave",
+  "locationState": "CT",
+  "locationZipcode": "06112",
+  "lat": 41.778168981791566,
+  "lon": -72.69728500987277,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:20.509Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:20.509Z"
+}

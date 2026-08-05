@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-springdale-farmers-market-110-w-emma-ave-springdale",
+  "name": "Downtown Springdale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 W Emma Ave Springdale, AR",
+  "locationCity": "110 W Emma Ave Springdale",
+  "locationState": "AR",
+  "locationZipcode": "72764",
+  "lat": 36.18508693360522,
+  "lon": -94.13107899135014,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

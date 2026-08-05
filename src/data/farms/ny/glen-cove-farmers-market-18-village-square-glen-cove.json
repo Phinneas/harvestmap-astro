@@ -1,0 +1,19 @@
+{
+  "slug": "glen-cove-farmers-market-18-village-square-glen-cove",
+  "name": "Glen Cove Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "18 Village Square Glen Cove, NY",
+  "locationCity": "18 Village Square Glen Cove",
+  "locationState": "NY",
+  "locationZipcode": "11542",
+  "lat": 40.86484074311946,
+  "lon": -73.6325208603619,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

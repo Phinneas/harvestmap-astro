@@ -1,0 +1,19 @@
+{
+  "slug": "riverwalk-market-willing-street-milton",
+  "name": "Riverwalk Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Willing Street Milton, FL",
+  "locationCity": "Willing Street Milton",
+  "locationState": "FL",
+  "locationZipcode": "32570",
+  "lat": 30.62271600795586,
+  "lon": -87.03565068338038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "new-city-farm-1115-leonard-st-ne",
+  "name": "New City Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1115 LEONARD ST NE, MI",
+  "locationCity": "1115 LEONARD ST NE",
+  "locationState": "MI",
+  "locationZipcode": "49503",
+  "lat": 42.98490848065583,
+  "lon": -85.64068678097831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.106Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.106Z"
+}

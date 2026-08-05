@@ -1,0 +1,19 @@
+{
+  "slug": "red-barn-farm-market-3500-route-47",
+  "name": "Red Barn Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3500 Route 47, IL",
+  "locationCity": "3500 Route 47",
+  "locationState": "IL",
+  "locationZipcode": "60098",
+  "lat": 42.37646762714058,
+  "lon": -88.44308099828113,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.667Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.667Z"
+}

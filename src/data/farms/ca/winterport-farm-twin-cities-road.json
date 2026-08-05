@@ -1,0 +1,19 @@
+{
+  "slug": "winterport-farm-twin-cities-road",
+  "name": "Winterport Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Twin Cities Road, CA",
+  "locationCity": "Twin Cities Road",
+  "locationState": "CA",
+  "locationZipcode": "95640",
+  "lat": 38.3720659922678,
+  "lon": -120.976819983207,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.793Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.793Z"
+}

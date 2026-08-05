@@ -1,0 +1,19 @@
+{
+  "slug": "farmington-farmers-market-607-s-front-st-farmington",
+  "name": "Farmington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "607 S Front St Farmington, IA",
+  "locationCity": "607 S Front St Farmington",
+  "locationState": "IA",
+  "locationZipcode": "52626",
+  "lat": 40.63530296232687,
+  "lon": -91.7416429642646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

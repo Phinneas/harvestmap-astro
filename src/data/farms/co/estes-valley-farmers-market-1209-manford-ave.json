@@ -1,0 +1,19 @@
+{
+  "slug": "estes-valley-farmers-market-1209-manford-ave",
+  "name": "Estes Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1209 Manford Ave, CO",
+  "locationCity": "1209 Manford Ave",
+  "locationState": "CO",
+  "locationZipcode": "80517",
+  "lat": 40.37178141454258,
+  "lon": -105.50354120293406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fairfax-farmers-market-15-1st-st-se",
+  "name": "Fairfax Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 1st St SE, MN",
+  "locationCity": "15 1st St SE",
+  "locationState": "MN",
+  "locationZipcode": "55332",
+  "lat": 44.5289906,
+  "lon": -94.719476,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

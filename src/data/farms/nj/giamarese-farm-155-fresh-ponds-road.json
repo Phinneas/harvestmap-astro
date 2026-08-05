@@ -1,0 +1,20 @@
+{
+  "slug": "giamarese-farm-155-fresh-ponds-road",
+  "name": "Giamarese Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "155 Fresh Ponds Road, NJ",
+  "locationCity": "155 Fresh Ponds Road",
+  "locationState": "NJ",
+  "locationZipcode": "08816",
+  "lat": 40.4227530026914,
+  "lon": -74.4598229762445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.699Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.699Z",
+  "crops": []
+}

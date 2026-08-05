@@ -1,0 +1,19 @@
+{
+  "slug": "sunday-brunch-farmers-market-2101-medway-road-charleston",
+  "name": "Sunday Brunch Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2101 Medway Road Charleston, SC",
+  "locationCity": "2101 Medway Road Charleston",
+  "locationState": "SC",
+  "locationZipcode": "29412",
+  "lat": 32.761148178143685,
+  "lon": -79.99292598090602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

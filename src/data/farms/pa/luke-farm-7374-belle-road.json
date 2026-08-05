@@ -1,0 +1,19 @@
+{
+  "slug": "luke-farm-7374-belle-road",
+  "name": "Luke Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7374 Belle Road, PA",
+  "locationCity": "7374 Belle Road",
+  "locationState": "PA",
+  "locationZipcode": "16421",
+  "lat": 42.1620959798629,
+  "lon": -79.93538596664341,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

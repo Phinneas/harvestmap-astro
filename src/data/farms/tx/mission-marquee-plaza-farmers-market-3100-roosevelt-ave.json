@@ -1,0 +1,19 @@
+{
+  "slug": "mission-marquee-plaza-farmers-market-3100-roosevelt-ave",
+  "name": "Mission Marquee Plaza Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3100 Roosevelt Ave, TX",
+  "locationCity": "3100 Roosevelt Ave",
+  "locationState": "TX",
+  "locationZipcode": "78214",
+  "lat": 29.472403,
+  "lon": -98.525142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.049Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.049Z"
+}

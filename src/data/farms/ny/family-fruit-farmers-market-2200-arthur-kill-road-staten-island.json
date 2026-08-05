@@ -1,0 +1,19 @@
+{
+  "slug": "family-fruit-farmers-market-2200-arthur-kill-road-staten-island",
+  "name": "Family Fruit Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2200 Arthur Kill Road Staten Island, NY",
+  "locationCity": "2200 Arthur Kill Road Staten Island",
+  "locationState": "NY",
+  "locationZipcode": "10309",
+  "lat": 40.55753170798501,
+  "lon": -74.2075857828465,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

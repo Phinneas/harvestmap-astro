@@ -1,0 +1,19 @@
+{
+  "slug": "mt-horeb-farmers-market-401-east-main-street-mt-horeb",
+  "name": "Mt. Horeb Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "401 East Main Street Mt. Horeb, WI",
+  "locationCity": "401 East Main Street Mt. Horeb",
+  "locationState": "WI",
+  "locationZipcode": "53572",
+  "lat": 43.008665742980156,
+  "lon": -89.73478456762815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

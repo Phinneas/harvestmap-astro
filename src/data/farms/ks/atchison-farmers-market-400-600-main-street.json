@@ -1,0 +1,19 @@
+{
+  "slug": "atchison-farmers-market-400-600-main-street",
+  "name": "Atchison Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400-600 Main Street, KS",
+  "locationCity": "400-600 Main Street",
+  "locationState": "KS",
+  "locationZipcode": "66002",
+  "lat": 39.560775528000796,
+  "lon": -95.11901668242878,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.699Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

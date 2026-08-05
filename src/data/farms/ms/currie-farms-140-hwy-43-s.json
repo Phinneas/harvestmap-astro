@@ -1,0 +1,19 @@
+{
+  "slug": "currie-farms-140-hwy-43-s",
+  "name": "Currie Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "140 Hwy. 43 S., MS",
+  "locationCity": "140 Hwy. 43 S.",
+  "locationState": "MS",
+  "locationZipcode": "39090",
+  "lat": 32.9327260766222,
+  "lon": -89.6217463921613,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.911Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.911Z"
+}

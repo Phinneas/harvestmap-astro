@@ -1,0 +1,19 @@
+{
+  "slug": "the-corn-maize-2801-s-3500-w",
+  "name": "The Corn Maize",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2801 S 3500 W, UT",
+  "locationCity": "2801 S 3500 W",
+  "locationState": "UT",
+  "locationZipcode": "84401",
+  "lat": 41.2145569879629,
+  "lon": -112.064687000618,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.436Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.436Z"
+}

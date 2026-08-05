@@ -1,0 +1,19 @@
+{
+  "slug": "hoelscher-farms-18081-state-route-29",
+  "name": "Hoelscher Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "18081 State Route 29, OH",
+  "locationCity": "18081 State Route 29",
+  "locationState": "OH",
+  "locationZipcode": "18081",
+  "lat": 40.46122300460061,
+  "lon": -84.31797828726377,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.479Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.479Z"
+}

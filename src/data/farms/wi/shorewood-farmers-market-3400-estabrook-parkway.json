@@ -1,0 +1,19 @@
+{
+  "slug": "shorewood-farmers-market-3400-estabrook-parkway",
+  "name": "Shorewood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3400 Estabrook Parkway, WI",
+  "locationCity": "3400 Estabrook Parkway",
+  "locationState": "WI",
+  "locationZipcode": "53211",
+  "lat": 43.091905,
+  "lon": -87.898448,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.710Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.710Z"
+}

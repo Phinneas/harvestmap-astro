@@ -1,0 +1,19 @@
+{
+  "slug": "white-silo-farm-winery-32-route-37-east",
+  "name": "White Silo Farm & Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "32 Route 37 East, CT",
+  "locationCity": "32 Route 37 East",
+  "locationState": "CT",
+  "locationZipcode": "06784",
+  "lat": 41.5821529792539,
+  "lon": -73.4794989663546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.974Z"
+}

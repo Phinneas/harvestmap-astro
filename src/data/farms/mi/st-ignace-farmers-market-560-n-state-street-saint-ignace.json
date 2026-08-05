@@ -1,0 +1,19 @@
+{
+  "slug": "st-ignace-farmers-market-560-n-state-street-saint-ignace",
+  "name": "St. Ignace Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "560 N. State Street Saint Ignace, MI",
+  "locationCity": "560 N. State Street Saint Ignace",
+  "locationState": "MI",
+  "locationZipcode": "49781",
+  "lat": 45.872218874601884,
+  "lon": -84.73096064121945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.249Z"
+}

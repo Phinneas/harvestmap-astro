@@ -1,0 +1,20 @@
+{
+  "slug": "perry-s-berries-325-e-1600-s",
+  "name": "Perry's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "325 E 1600 S, UT",
+  "locationCity": "325 E 1600 S",
+  "locationState": "UT",
+  "locationZipcode": "84664",
+  "lat": 40.1161379973014,
+  "lon": -111.575076985906,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.599Z",
+  "crops": []
+}

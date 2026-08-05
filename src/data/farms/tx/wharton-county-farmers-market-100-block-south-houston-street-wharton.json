@@ -1,0 +1,19 @@
+{
+  "slug": "wharton-county-farmers-market-100-block-south-houston-street-wharton",
+  "name": "Wharton County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Block South Houston Street Wharton, TX",
+  "locationCity": "100 Block South Houston Street Wharton",
+  "locationState": "TX",
+  "locationZipcode": "77488",
+  "lat": 29.31107870049161,
+  "lon": -96.10122052636771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.201Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.201Z"
+}

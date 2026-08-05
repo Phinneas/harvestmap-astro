@@ -1,0 +1,19 @@
+{
+  "slug": "parker-farmers-market-parker-farmers-market",
+  "name": "Parker Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Parker Farmers Market, CO",
+  "locationCity": "Parker Farmers Market",
+  "locationState": "CO",
+  "locationZipcode": "80138",
+  "lat": 39.51848998643388,
+  "lon": -104.7236899681034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

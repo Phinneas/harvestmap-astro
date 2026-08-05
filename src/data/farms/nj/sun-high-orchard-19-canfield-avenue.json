@@ -1,0 +1,19 @@
+{
+  "slug": "sun-high-orchard-19-canfield-avenue",
+  "name": "Sun High Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "19 Canfield Avenue, NJ",
+  "locationCity": "19 Canfield Avenue",
+  "locationState": "NJ",
+  "locationZipcode": "07869",
+  "lat": 40.8520600017403,
+  "lon": -74.6138999586058,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.748Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "serendipity-farms-130-carmel-valley-rd",
+  "name": "Serendipity Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "130 Carmel Valley Rd, CA",
+  "locationCity": "130 Carmel Valley Rd",
+  "locationState": "CA",
+  "locationZipcode": "93923",
+  "lat": 36.5234807455971,
+  "lon": -121.81000851349,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.771Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.771Z"
+}

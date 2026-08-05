@@ -1,0 +1,19 @@
+{
+  "slug": "plant-city-farmers-market-708-w-sam-allen-rd-plant-city",
+  "name": "Plant City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "708 W. Sam Allen Rd Plant City, FL",
+  "locationCity": "708 W. Sam Allen Rd Plant City",
+  "locationState": "FL",
+  "locationZipcode": "33565",
+  "lat": 28.047521792809896,
+  "lon": -82.13117697149175,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sprouting-acres-farm-silver-rd",
+  "name": "Sprouting Acres Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Silver rd., NC",
+  "locationCity": "Silver rd.",
+  "locationState": "NC",
+  "locationZipcode": "28129",
+  "lat": 35.2234103,
+  "lon": -80.3524828,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.882Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.882Z"
+}

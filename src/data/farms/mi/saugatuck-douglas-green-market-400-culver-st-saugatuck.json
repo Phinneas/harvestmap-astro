@@ -1,0 +1,19 @@
+{
+  "slug": "saugatuck-douglas-green-market-400-culver-st-saugatuck",
+  "name": "Saugatuck-Douglas Green Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Culver St. Saugatuck, MI",
+  "locationCity": "400 Culver St. Saugatuck",
+  "locationState": "MI",
+  "locationZipcode": "49453",
+  "lat": 42.6548157971208,
+  "lon": -86.20171074539404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

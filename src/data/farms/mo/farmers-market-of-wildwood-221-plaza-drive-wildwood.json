@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-of-wildwood-221-plaza-drive-wildwood",
+  "name": "Farmers' Market of Wildwood",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "221 Plaza Drive Wildwood, MO",
+  "locationCity": "221 Plaza Drive Wildwood",
+  "locationState": "MO",
+  "locationZipcode": "63040",
+  "lat": 38.58197528760548,
+  "lon": -90.63023227492954,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

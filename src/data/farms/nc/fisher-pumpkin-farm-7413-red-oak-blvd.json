@@ -1,0 +1,19 @@
+{
+  "slug": "fisher-pumpkin-farm-7413-red-oak-blvd",
+  "name": "Fisher Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7413 Red Oak Blvd, NC",
+  "locationCity": "7413 Red Oak Blvd",
+  "locationState": "NC",
+  "locationZipcode": "27804",
+  "lat": 36.03024023865827,
+  "lon": -77.89567145420968,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.897Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.897Z"
+}

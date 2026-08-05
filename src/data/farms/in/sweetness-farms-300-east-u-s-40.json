@@ -1,0 +1,19 @@
+{
+  "slug": "sweetness-farms-300-east-u-s-40",
+  "name": "Sweetness Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "300 East U.s. 40, IN",
+  "locationCity": "300 East U.s. 40",
+  "locationState": "IN",
+  "locationZipcode": "46128",
+  "lat": 39.6150896174218,
+  "lon": -86.7129882021065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.343Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.343Z"
+}

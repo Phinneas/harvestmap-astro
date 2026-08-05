@@ -1,0 +1,19 @@
+{
+  "slug": "gabriel-farm-175-sullivan-road",
+  "name": "Gabriel Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "175 Sullivan Road, CA",
+  "locationCity": "175 Sullivan Road",
+  "locationState": "CA",
+  "locationZipcode": "95472",
+  "lat": 38.4365983120416,
+  "lon": -122.88190134216,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.740Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.740Z"
+}

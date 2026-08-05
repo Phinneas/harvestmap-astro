@@ -1,0 +1,20 @@
+{
+  "slug": "suchomel-farms-6207-barman-road",
+  "name": "Suchomel Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6207 Barman Road, WI",
+  "locationCity": "6207 Barman Road",
+  "locationState": "WI",
+  "locationZipcode": "53597",
+  "lat": 43.19673400986787,
+  "lon": -89.53168601241507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.475Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.475Z",
+  "crops": []
+}

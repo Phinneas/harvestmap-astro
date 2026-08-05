@@ -1,0 +1,19 @@
+{
+  "slug": "florence-farmers-market-florence-az-85132",
+  "name": "Florence Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Florence AZ 85132, AZ",
+  "locationCity": "Florence AZ 85132",
+  "locationState": "AZ",
+  "locationZipcode": "85132",
+  "lat": 33.06747500000006,
+  "lon": -111.47072499999996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

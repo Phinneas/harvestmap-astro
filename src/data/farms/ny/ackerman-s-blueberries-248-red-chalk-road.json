@@ -1,0 +1,19 @@
+{
+  "slug": "ackerman-s-blueberries-248-red-chalk-road",
+  "name": "Ackerman's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "248 Red Chalk Road, NY",
+  "locationCity": "248 Red Chalk Road",
+  "locationState": "NY",
+  "locationZipcode": "14838",
+  "lat": 42.2210190828056,
+  "lon": -76.6936730950576,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.038Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.038Z"
+}

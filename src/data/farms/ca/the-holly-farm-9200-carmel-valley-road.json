@@ -1,0 +1,19 @@
+{
+  "slug": "the-holly-farm-9200-carmel-valley-road",
+  "name": "The Holly Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9200 Carmel Valley Road, CA",
+  "locationCity": "9200 Carmel Valley Road",
+  "locationState": "CA",
+  "locationZipcode": "93923",
+  "lat": 36.5250679880963,
+  "lon": -121.815679008987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.798Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.798Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-food-farm-market-2708-sherman-rd",
+  "name": "Jackson Food & Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2708 Sherman Rd, WI",
+  "locationCity": "2708 Sherman Rd",
+  "locationState": "WI",
+  "locationZipcode": "53037",
+  "lat": 43.309792,
+  "lon": -88.171891,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.751Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.751Z"
+}

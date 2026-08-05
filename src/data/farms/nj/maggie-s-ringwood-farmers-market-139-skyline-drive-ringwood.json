@@ -1,0 +1,19 @@
+{
+  "slug": "maggie-s-ringwood-farmers-market-139-skyline-drive-ringwood",
+  "name": "Maggie's Ringwood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "139 Skyline Drive Ringwood, NJ",
+  "locationCity": "139 Skyline Drive Ringwood",
+  "locationState": "NJ",
+  "locationZipcode": "07456",
+  "lat": 41.08539955131026,
+  "lon": -74.2623407557682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

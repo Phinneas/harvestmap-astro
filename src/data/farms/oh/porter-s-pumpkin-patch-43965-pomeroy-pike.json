@@ -1,0 +1,19 @@
+{
+  "slug": "porter-s-pumpkin-patch-43965-pomeroy-pike",
+  "name": "Porter's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "43965 Pomeroy Pike, OH",
+  "locationCity": "43965 Pomeroy Pike",
+  "locationState": "OH",
+  "locationZipcode": "43965",
+  "lat": 39.0651860176889,
+  "lon": -81.971885013381,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.822Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.822Z"
+}

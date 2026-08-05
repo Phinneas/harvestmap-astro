@@ -1,0 +1,19 @@
+{
+  "slug": "bartel-pritchard-greenmarket-205-prospect-park-west",
+  "name": "Bartel Pritchard Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 Prospect Park West, NY",
+  "locationCity": "205 Prospect Park West",
+  "locationState": "NY",
+  "locationZipcode": "11215",
+  "lat": 40.66057503516893,
+  "lon": -73.98022275644817,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

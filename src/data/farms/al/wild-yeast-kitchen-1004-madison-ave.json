@@ -1,0 +1,19 @@
+{
+  "slug": "wild-yeast-kitchen-1004-madison-ave",
+  "name": "Wild Yeast Kitchen",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1004 Madison Ave, AL",
+  "locationCity": "1004 Madison Ave",
+  "locationState": "AL",
+  "locationZipcode": "36106",
+  "lat": 32.379878113223185,
+  "lon": -86.2949946552026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:46.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:46.347Z"
+}

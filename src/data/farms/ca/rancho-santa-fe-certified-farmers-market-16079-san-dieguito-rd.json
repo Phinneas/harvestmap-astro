@@ -1,0 +1,19 @@
+{
+  "slug": "rancho-santa-fe-certified-farmers-market-16079-san-dieguito-rd",
+  "name": "Rancho Santa Fe Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16079 San Dieguito Rd., CA",
+  "locationCity": "16079 San Dieguito Rd.",
+  "locationState": "CA",
+  "locationZipcode": "16079",
+  "lat": 32.99111484201668,
+  "lon": -117.19739623251171,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

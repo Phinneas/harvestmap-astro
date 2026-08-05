@@ -1,0 +1,19 @@
+{
+  "slug": "scott-county-farmers-market-corner-of-north-broadway-and-washington-street",
+  "name": "Scott County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "corner of North Broadway and Washington Street, KY",
+  "locationCity": "corner of North Broadway and Washington Street",
+  "locationState": "KY",
+  "locationZipcode": "40324",
+  "lat": 38.211492,
+  "lon": -84.559554,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.723Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "circle-b-farms-256-route-14",
+  "name": "Circle B Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "256 Route 14, NY",
+  "locationCity": "256 Route 14",
+  "locationState": "NY",
+  "locationZipcode": "14489",
+  "lat": 43.0505394246412,
+  "lon": -76.9938445358976,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.377Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.377Z"
+}

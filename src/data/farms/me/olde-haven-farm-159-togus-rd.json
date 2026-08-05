@@ -1,0 +1,19 @@
+{
+  "slug": "olde-haven-farm-159-togus-rd",
+  "name": "Olde Haven Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "159 Togus Rd., ME",
+  "locationCity": "159 Togus Rd.",
+  "locationState": "ME",
+  "locationZipcode": "04330",
+  "lat": 44.2459721,
+  "lon": -69.7237363,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.564Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.564Z"
+}

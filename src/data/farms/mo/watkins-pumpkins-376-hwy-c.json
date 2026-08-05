@@ -1,0 +1,19 @@
+{
+  "slug": "watkins-pumpkins-376-hwy-c",
+  "name": "Watkins Pumpkins",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "376 hwy c, MO",
+  "locationCity": "376 hwy c",
+  "locationState": "MO",
+  "locationZipcode": "64679",
+  "lat": 40.2431030013799,
+  "lon": -93.6663200117956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.764Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.764Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mount-morris-farmers-market-103-main-st-mount-morris",
+  "name": "Mount Morris Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "103 Main St Mount Morris, NY",
+  "locationCity": "103 Main St Mount Morris",
+  "locationState": "NY",
+  "locationZipcode": "14510",
+  "lat": 42.72472690019028,
+  "lon": -77.87349101458923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

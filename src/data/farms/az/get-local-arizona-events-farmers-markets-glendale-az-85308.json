@@ -1,0 +1,19 @@
+{
+  "slug": "get-local-arizona-events-farmers-markets-glendale-az-85308",
+  "name": "Get Local Arizona Events Farmers Markets",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Glendale AZ 85308, AZ",
+  "locationCity": "Glendale AZ 85308",
+  "locationState": "AZ",
+  "locationZipcode": "85308",
+  "lat": 33.65165500000006,
+  "lon": -112.16211999999996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

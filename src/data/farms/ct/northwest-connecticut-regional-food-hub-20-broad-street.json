@@ -1,0 +1,19 @@
+{
+  "slug": "northwest-connecticut-regional-food-hub-20-broad-street",
+  "name": "Northwest Connecticut Regional Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "20 Broad Street, CT",
+  "locationCity": "20 Broad Street",
+  "locationState": "CT",
+  "locationZipcode": "06790",
+  "lat": 41.791355053384684,
+  "lon": -73.12468471180227,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:20.509Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:20.509Z"
+}

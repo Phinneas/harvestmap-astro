@@ -1,0 +1,20 @@
+{
+  "slug": "munchkey-apples-175-drammen-valley-road",
+  "name": "Munchkey Apples",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "175 Drammen Valley Road, WI",
+  "locationCity": "175 Drammen Valley Road",
+  "locationState": "WI",
+  "locationZipcode": "53572",
+  "lat": 42.8673299927578,
+  "lon": -89.8304680035591,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.174Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.174Z",
+  "crops": []
+}

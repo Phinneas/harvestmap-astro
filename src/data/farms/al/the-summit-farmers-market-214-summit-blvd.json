@@ -1,0 +1,19 @@
+{
+  "slug": "the-summit-farmers-market-214-summit-blvd",
+  "name": "The Summit Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "214 Summit Blvd, AL",
+  "locationCity": "214 Summit Blvd",
+  "locationState": "AL",
+  "locationZipcode": "35243",
+  "lat": 33.451810503905286,
+  "lon": -86.73095778164898,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.020Z"
+}

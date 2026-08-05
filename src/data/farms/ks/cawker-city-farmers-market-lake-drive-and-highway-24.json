@@ -1,0 +1,19 @@
+{
+  "slug": "cawker-city-farmers-market-lake-drive-and-highway-24",
+  "name": "Cawker City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Lake Drive and Highway 24, KS",
+  "locationCity": "Lake Drive and Highway 24",
+  "locationState": "KS",
+  "locationZipcode": "67430",
+  "lat": 39.509440003665844,
+  "lon": -98.43306995855322,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "winooski-farmers-market-20-winooski-falls-way",
+  "name": "Winooski Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 Winooski Falls Way, VT",
+  "locationCity": "20 Winooski Falls Way",
+  "locationState": "VT",
+  "locationZipcode": "05404",
+  "lat": 44.49022454783482,
+  "lon": -73.18381679537084,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

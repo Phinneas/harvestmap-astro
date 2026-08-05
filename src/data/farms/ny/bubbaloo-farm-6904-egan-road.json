@@ -1,0 +1,19 @@
+{
+  "slug": "bubbaloo-farm-6904-egan-road",
+  "name": "Bubbaloo Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6904 Egan Road, NY",
+  "locationCity": "6904 Egan Road",
+  "locationState": "NY",
+  "locationZipcode": "14472",
+  "lat": 42.920132,
+  "lon": -77.631434,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

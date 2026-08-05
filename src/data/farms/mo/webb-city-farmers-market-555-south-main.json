@@ -1,0 +1,19 @@
+{
+  "slug": "webb-city-farmers-market-555-south-main",
+  "name": "Webb City Farmers Market",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "555 South Main, MO",
+  "locationCity": "555 South Main",
+  "locationState": "MO",
+  "locationZipcode": "64870",
+  "lat": 37.1504682,
+  "lon": -94.462559,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:56.436Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:56.436Z"
+}

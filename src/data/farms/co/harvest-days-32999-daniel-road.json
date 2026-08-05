@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-days-32999-daniel-road",
+  "name": "Harvest Days",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "32999 Daniel Road, CO",
+  "locationCity": "32999 Daniel Road",
+  "locationState": "CO",
+  "locationZipcode": "32999",
+  "lat": 38.2576302483195,
+  "lon": -104.4856601056,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.207Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.207Z"
+}

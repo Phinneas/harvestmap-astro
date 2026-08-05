@@ -1,0 +1,19 @@
+{
+  "slug": "riverside-farm-323-pendergast-road",
+  "name": "Riverside Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "323 Pendergast Road, NY",
+  "locationCity": "323 Pendergast Road",
+  "locationState": "NY",
+  "locationZipcode": "13135",
+  "lat": 43.2465466703333,
+  "lon": -76.3495530094411,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.012Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.012Z"
+}

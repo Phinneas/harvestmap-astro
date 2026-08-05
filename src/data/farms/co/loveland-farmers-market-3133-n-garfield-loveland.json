@@ -1,0 +1,19 @@
+{
+  "slug": "loveland-farmers-market-3133-n-garfield-loveland",
+  "name": "Loveland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3133 N. Garfield Loveland, CO",
+  "locationCity": "3133 N. Garfield Loveland",
+  "locationState": "CO",
+  "locationZipcode": "80538",
+  "lat": 40.42451589657412,
+  "lon": -105.07755688416826,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

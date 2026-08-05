@@ -1,0 +1,19 @@
+{
+  "slug": "huntersville-market-103-maxwell-street-huntersville",
+  "name": "Huntersville Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "103 Maxwell Street Huntersville, NC",
+  "locationCity": "103 Maxwell Street Huntersville",
+  "locationState": "NC",
+  "locationZipcode": "28078",
+  "lat": 35.411382764605904,
+  "lon": -80.84150941178106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

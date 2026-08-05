@@ -1,0 +1,19 @@
+{
+  "slug": "forest-hills-farmers-market-1840-ardmore-blvd",
+  "name": "Forest Hills Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1840 Ardmore Blvd, PA",
+  "locationCity": "1840 Ardmore Blvd",
+  "locationState": "PA",
+  "locationZipcode": "15221",
+  "lat": 40.425019,
+  "lon": -79.86111,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.010Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.010Z"
+}

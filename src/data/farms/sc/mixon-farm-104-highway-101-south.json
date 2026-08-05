@@ -1,0 +1,19 @@
+{
+  "slug": "mixon-farm-104-highway-101-south",
+  "name": "Mixon Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "104 Highway 101 South, SC",
+  "locationCity": "104 Highway 101 South",
+  "locationState": "SC",
+  "locationZipcode": "29645",
+  "lat": 34.573884578492,
+  "lon": -82.1866568476193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.786Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.786Z"
+}

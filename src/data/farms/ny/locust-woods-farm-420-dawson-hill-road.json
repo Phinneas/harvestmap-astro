@@ -1,0 +1,19 @@
+{
+  "slug": "locust-woods-farm-420-dawson-hill-road",
+  "name": "Locust Woods Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "420 Dawson Hill Road, NY",
+  "locationCity": "420 Dawson Hill Road",
+  "locationState": "NY",
+  "locationZipcode": "14883",
+  "lat": 42.23344726592,
+  "lon": -76.4713660797437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.395Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.395Z"
+}

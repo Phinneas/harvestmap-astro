@@ -1,0 +1,19 @@
+{
+  "slug": "barnegat-farmers-market-14-birdsall-st",
+  "name": "Barnegat Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14 Birdsall St., NJ",
+  "locationCity": "14 Birdsall St.",
+  "locationState": "NJ",
+  "locationZipcode": "08005",
+  "lat": 39.753903,
+  "lon": -74.221654,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:21.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:21.746Z"
+}

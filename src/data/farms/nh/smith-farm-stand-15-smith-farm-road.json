@@ -1,0 +1,19 @@
+{
+  "slug": "smith-farm-stand-15-smith-farm-road",
+  "name": "Smith Farm Stand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15 Smith Farm Road, NH",
+  "locationCity": "15 Smith Farm Road",
+  "locationState": "NH",
+  "locationZipcode": "03249",
+  "lat": 43.5411229839274,
+  "lon": -71.4439469908569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.635Z"
+}

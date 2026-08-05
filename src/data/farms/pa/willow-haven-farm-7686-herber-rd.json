@@ -1,0 +1,19 @@
+{
+  "slug": "willow-haven-farm-7686-herber-rd",
+  "name": "Willow Haven Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7686 Herber Rd., PA",
+  "locationCity": "7686 Herber Rd.",
+  "locationState": "PA",
+  "locationZipcode": "18066",
+  "lat": 40.64205485425984,
+  "lon": -75.71044894666898,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.588Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.588Z"
+}

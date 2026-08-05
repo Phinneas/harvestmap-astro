@@ -1,0 +1,19 @@
+{
+  "slug": "oregon-park-district-farmers-market-418-w",
+  "name": "Oregon Park District Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "418 W, WA",
+  "locationCity": "418 W",
+  "locationState": "WA",
+  "locationZipcode": "61061",
+  "lat": 42.01459004919471,
+  "lon": -89.33279751579038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.775Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.775Z"
+}

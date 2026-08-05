@@ -1,0 +1,19 @@
+{
+  "slug": "naomi-s-fresh-vegetables-156-highway-5-south",
+  "name": "Naomi's fresh vegetables",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "156 highway 5 South, AR",
+  "locationCity": "156 highway 5 South",
+  "locationState": "AR",
+  "locationZipcode": "72560",
+  "lat": 35.852569962955,
+  "lon": -92.081876520225,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.028Z"
+}

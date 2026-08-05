@@ -1,0 +1,19 @@
+{
+  "slug": "fairhaven-farm-743-hopkinton-road",
+  "name": "Fairhaven Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "743 Hopkinton Road, NH",
+  "locationCity": "743 Hopkinton Road",
+  "locationState": "NH",
+  "locationZipcode": "03229",
+  "lat": 43.1901320038317,
+  "lon": -71.6304699851342,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.541Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "maddox-livestock-10861-state-highway-173",
+  "name": "Maddox Livestock",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10861 State Highway 173, AL",
+  "locationCity": "10861 State Highway 173",
+  "locationState": "AL",
+  "locationZipcode": "10861",
+  "lat": 31.382079511593133,
+  "lon": -85.3621040030206,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:46.346Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:46.346Z"
+}

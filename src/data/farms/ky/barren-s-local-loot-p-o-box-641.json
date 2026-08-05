@@ -1,0 +1,19 @@
+{
+  "slug": "barren-s-local-loot-p-o-box-641",
+  "name": "Barren's Local Loot",
+  "source": "usda",
+  "directory": "csa",
+  "location": "P.O. Box 641, KY",
+  "locationCity": "P.O. Box 641",
+  "locationState": "KY",
+  "locationZipcode": "42141",
+  "lat": 36.9958839,
+  "lon": -85.9119215,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.100Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.100Z"
+}

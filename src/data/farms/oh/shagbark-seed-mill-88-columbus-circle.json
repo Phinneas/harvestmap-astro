@@ -1,0 +1,19 @@
+{
+  "slug": "shagbark-seed-mill-88-columbus-circle",
+  "name": "Shagbark Seed & Mill",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "88 Columbus Circle, OH",
+  "locationCity": "88 Columbus Circle",
+  "locationState": "OH",
+  "locationZipcode": "45701",
+  "lat": 39.3475893,
+  "lon": -82.096115,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:16.641Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:16.641Z"
+}

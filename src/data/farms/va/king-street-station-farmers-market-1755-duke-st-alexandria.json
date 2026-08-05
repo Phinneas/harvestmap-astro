@@ -1,0 +1,19 @@
+{
+  "slug": "king-street-station-farmers-market-1755-duke-st-alexandria",
+  "name": "King Street Station Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1755 Duke St. Alexandria, VA",
+  "locationCity": "1755 Duke St. Alexandria",
+  "locationState": "VA",
+  "locationZipcode": "22314",
+  "lat": 38.80460169926107,
+  "lon": -77.06157975505995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

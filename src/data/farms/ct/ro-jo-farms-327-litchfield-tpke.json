@@ -1,0 +1,19 @@
+{
+  "slug": "ro-jo-farms-327-litchfield-tpke",
+  "name": "RO-JO FARMS",
+  "source": "usda",
+  "directory": "csa",
+  "location": "327 Litchfield Tpke, CT",
+  "locationCity": "327 Litchfield Tpke",
+  "locationState": "CT",
+  "locationZipcode": "06524",
+  "lat": 41.4141914,
+  "lon": -72.9739683,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.406Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "groundwork-market-garden-52-leslie-street",
+  "name": "Groundwork Market Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "52 Leslie Street, NY",
+  "locationCity": "52 Leslie Street",
+  "locationState": "NY",
+  "locationZipcode": "14211",
+  "lat": 42.91256590881969,
+  "lon": -78.81805446875191,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.188Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.188Z"
+}

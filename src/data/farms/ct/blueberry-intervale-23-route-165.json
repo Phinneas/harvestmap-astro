@@ -1,0 +1,20 @@
+{
+  "slug": "blueberry-intervale-23-route-165",
+  "name": "Blueberry Intervale",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "23 Route 165, CT",
+  "locationCity": "23 Route 165",
+  "locationState": "CT",
+  "locationZipcode": "06365",
+  "lat": 41.5354169958902,
+  "lon": -72.0408440251094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.913Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.913Z",
+  "crops": []
+}

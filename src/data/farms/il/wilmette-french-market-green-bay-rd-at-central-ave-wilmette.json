@@ -1,0 +1,19 @@
+{
+  "slug": "wilmette-french-market-green-bay-rd-at-central-ave-wilmette",
+  "name": "Wilmette French Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Green Bay Rd. at Central Ave. Wilmette, IL",
+  "locationCity": "Green Bay Rd. at Central Ave. Wilmette",
+  "locationState": "IL",
+  "locationZipcode": "60091",
+  "lat": 42.0764799937962,
+  "lon": -87.70900001177053,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

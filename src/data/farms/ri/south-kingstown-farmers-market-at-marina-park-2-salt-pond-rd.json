@@ -1,0 +1,19 @@
+{
+  "slug": "south-kingstown-farmers-market-at-marina-park-2-salt-pond-rd",
+  "name": "South Kingstown Farmers Market  at Marina Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 Salt Pond Rd, RI",
+  "locationCity": "2 Salt Pond Rd",
+  "locationState": "RI",
+  "locationZipcode": "02879",
+  "lat": 41.428192,
+  "lon": -71.49696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.507Z"
+}

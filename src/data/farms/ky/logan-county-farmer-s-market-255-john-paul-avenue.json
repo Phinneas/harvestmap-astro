@@ -1,0 +1,19 @@
+{
+  "slug": "logan-county-farmer-s-market-255-john-paul-avenue",
+  "name": "Logan County Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "255 John Paul Avenue, KY",
+  "locationCity": "255 John Paul Avenue",
+  "locationState": "KY",
+  "locationZipcode": "42276",
+  "lat": 36.866286,
+  "lon": -86.884185,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.724Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.724Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hebron-farmers-market-1-main-st-hebron",
+  "name": "Hebron Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Main St. Hebron, CT",
+  "locationCity": "1 Main St. Hebron",
+  "locationState": "CT",
+  "locationZipcode": "06248",
+  "lat": 41.65807921372745,
+  "lon": -72.36611897263775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

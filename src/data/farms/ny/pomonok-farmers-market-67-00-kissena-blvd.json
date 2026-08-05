@@ -1,0 +1,19 @@
+{
+  "slug": "pomonok-farmers-market-67-00-kissena-blvd",
+  "name": "Pomonok Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "67-00 Kissena Blvd., NY",
+  "locationCity": "67-00 Kissena Blvd.",
+  "locationState": "NY",
+  "locationZipcode": "11367",
+  "lat": 40.73695113505347,
+  "lon": -73.81470732990135,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

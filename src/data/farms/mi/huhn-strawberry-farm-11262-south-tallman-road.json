@@ -1,0 +1,19 @@
+{
+  "slug": "huhn-strawberry-farm-11262-south-tallman-road",
+  "name": "Huhn Strawberry Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "11262 South Tallman Road, MI",
+  "locationCity": "11262 South Tallman Road",
+  "locationState": "MI",
+  "locationZipcode": "11262",
+  "lat": 42.851954020025175,
+  "lon": -84.75982000341631,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.232Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.232Z"
+}

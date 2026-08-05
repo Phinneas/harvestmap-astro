@@ -1,0 +1,20 @@
+{
+  "slug": "smithereen-farm-306-youngs-cove-road",
+  "name": "Smithereen Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "306 Youngs Cove Road, ME",
+  "locationCity": "306 Youngs Cove Road",
+  "locationState": "ME",
+  "locationZipcode": "04666",
+  "lat": 44.9101567666732,
+  "lon": -67.1603374776452,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.854Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.854Z",
+  "crops": []
+}

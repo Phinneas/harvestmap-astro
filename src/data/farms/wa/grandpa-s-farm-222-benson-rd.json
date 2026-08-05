@@ -1,0 +1,19 @@
+{
+  "slug": "grandpa-s-farm-222-benson-rd",
+  "name": "Grandpa's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "222 Benson Rd, WA",
+  "locationCity": "222 Benson Rd",
+  "locationState": "WA",
+  "locationZipcode": "98264",
+  "lat": 48.9769471042728,
+  "lon": -122.462797801858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.150Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.150Z"
+}

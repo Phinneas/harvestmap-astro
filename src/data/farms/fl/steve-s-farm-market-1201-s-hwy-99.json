@@ -1,0 +1,20 @@
+{
+  "slug": "steve-s-farm-market-1201-s-hwy-99",
+  "name": "Steve's Farm & Market",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1201 S. Hwy 99, FL",
+  "locationCity": "1201 S. Hwy 99",
+  "locationState": "FL",
+  "locationZipcode": "32568",
+  "lat": 30.87167801841706,
+  "lon": -87.46478303683213,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.894Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.894Z",
+  "crops": []
+}

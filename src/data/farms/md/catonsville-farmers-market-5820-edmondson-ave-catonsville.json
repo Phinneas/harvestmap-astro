@@ -1,0 +1,19 @@
+{
+  "slug": "catonsville-farmers-market-5820-edmondson-ave-catonsville",
+  "name": "Catonsville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5820 Edmondson Ave Catonsville, MD",
+  "locationCity": "5820 Edmondson Ave Catonsville",
+  "locationState": "MD",
+  "locationZipcode": "21228",
+  "lat": 39.2811219643306,
+  "lon": -76.71739533852679,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.535Z"
+}

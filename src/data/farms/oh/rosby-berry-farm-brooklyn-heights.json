@@ -1,0 +1,19 @@
+{
+  "slug": "rosby-berry-farm-brooklyn-heights",
+  "name": "Rosby Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brooklyn Heights, OH",
+  "locationCity": "Brooklyn Heights",
+  "locationState": "OH",
+  "locationZipcode": "44131",
+  "lat": 41.387185,
+  "lon": -81.6583167,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.935Z"
+}

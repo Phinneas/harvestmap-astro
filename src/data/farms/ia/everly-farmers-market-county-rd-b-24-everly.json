@@ -1,0 +1,19 @@
+{
+  "slug": "everly-farmers-market-county-rd-b-24-everly",
+  "name": "Everly Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "County Rd. B-24 Everly, IA",
+  "locationCity": "County Rd. B-24 Everly",
+  "locationState": "IA",
+  "locationZipcode": "51338",
+  "lat": 43.14126773433057,
+  "lon": -95.28973320794101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

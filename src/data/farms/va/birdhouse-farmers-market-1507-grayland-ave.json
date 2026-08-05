@@ -1,0 +1,19 @@
+{
+  "slug": "birdhouse-farmers-market-1507-grayland-ave",
+  "name": "Birdhouse Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1507 Grayland Ave, VA",
+  "locationCity": "1507 Grayland Ave",
+  "locationState": "VA",
+  "locationZipcode": "23220",
+  "lat": 37.544335571207604,
+  "lon": -77.46116078945415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "phelps-fruit-berry-farm-8722-south-6200-west",
+  "name": "Phelps Fruit & Berry Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8722 South 6200 West, UT",
+  "locationCity": "8722 South 6200 West",
+  "locationState": "UT",
+  "locationZipcode": "84651",
+  "lat": 40.072157,
+  "lon": -111.80072,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:26.906Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:26.906Z"
+}

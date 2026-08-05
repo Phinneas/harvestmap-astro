@@ -1,0 +1,19 @@
+{
+  "slug": "hemlock-hill-farm-500-croton-ave",
+  "name": "Hemlock Hill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "500 Croton Ave, NY",
+  "locationCity": "500 Croton Ave",
+  "locationState": "NY",
+  "locationZipcode": "10567",
+  "lat": 41.266915929162366,
+  "lon": -73.85321726736296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.167Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.167Z"
+}

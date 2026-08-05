@@ -1,0 +1,19 @@
+{
+  "slug": "north-end-commons-farmers-market-1416-n-main-st-rockford",
+  "name": "North End Commons Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1416 N Main St Rockford, IL",
+  "locationCity": "1416 N Main St Rockford",
+  "locationState": "IL",
+  "locationZipcode": "61103",
+  "lat": 42.28763044972139,
+  "lon": -89.08068507176955,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

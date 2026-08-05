@@ -1,0 +1,19 @@
+{
+  "slug": "tiri-s-garden-farmers-market-1522-california-denver",
+  "name": "Tiri's Garden Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1522 California Denver, CO",
+  "locationCity": "1522 California Denver",
+  "locationState": "CO",
+  "locationZipcode": "80202",
+  "lat": 39.744499104821784,
+  "lon": -104.9930815957288,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.367Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.367Z"
+}

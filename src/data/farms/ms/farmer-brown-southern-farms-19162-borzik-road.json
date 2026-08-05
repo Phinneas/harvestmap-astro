@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-brown-southern-farms-19162-borzik-road",
+  "name": "Farmer Brown Southern Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "19162 Borzik Road, MS",
+  "locationCity": "19162 Borzik Road",
+  "locationState": "MS",
+  "locationZipcode": "19162",
+  "lat": 30.562654012144847,
+  "lon": -89.16540698575108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:31.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:31.539Z"
+}

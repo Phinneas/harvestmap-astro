@@ -1,0 +1,19 @@
+{
+  "slug": "fernbrook-farms-csa-142-bordentown-georgetown-road",
+  "name": "Fernbrook Farms CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "142 Bordentown-Georgetown Road, NJ",
+  "locationCity": "142 Bordentown-Georgetown Road",
+  "locationState": "NJ",
+  "locationZipcode": "08515",
+  "lat": 40.10642320388297,
+  "lon": -74.67396073726655,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.173Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.173Z"
+}

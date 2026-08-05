@@ -1,0 +1,19 @@
+{
+  "slug": "royal-meadow-farm-state-forrest",
+  "name": "Royal Meadow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "State Forrest, MA",
+  "locationCity": "State Forrest",
+  "locationState": "MA",
+  "locationZipcode": "01201",
+  "lat": 42.48317,
+  "lon": -73.3012199999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.871Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.871Z"
+}

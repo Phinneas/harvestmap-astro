@@ -1,0 +1,19 @@
+{
+  "slug": "tecolote-farm-16301-decker-lake-rd",
+  "name": "Tecolote Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "16301 Decker Lake Rd, TX",
+  "locationCity": "16301 Decker Lake Rd",
+  "locationState": "TX",
+  "locationZipcode": "16301",
+  "lat": 30.2606663,
+  "lon": -97.5627895,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.836Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.836Z"
+}

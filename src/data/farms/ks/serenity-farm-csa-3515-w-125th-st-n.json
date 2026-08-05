@@ -1,0 +1,19 @@
+{
+  "slug": "serenity-farm-csa-3515-w-125th-st-n",
+  "name": "Serenity Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3515 W 125th St N, KS",
+  "locationCity": "3515 W 125th St N",
+  "locationState": "KS",
+  "locationZipcode": "67135",
+  "lat": 37.911824406083596,
+  "lon": -97.38541579683563,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:53.472Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:53.472Z"
+}

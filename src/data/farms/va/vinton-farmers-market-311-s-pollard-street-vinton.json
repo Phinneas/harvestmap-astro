@@ -1,0 +1,19 @@
+{
+  "slug": "vinton-farmers-market-311-s-pollard-street-vinton",
+  "name": "Vinton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "311 S. Pollard Street Vinton, VA",
+  "locationCity": "311 S. Pollard Street Vinton",
+  "locationState": "VA",
+  "locationZipcode": "24179",
+  "lat": 37.27890341191987,
+  "lon": -79.89804564200487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

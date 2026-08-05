@@ -1,0 +1,19 @@
+{
+  "slug": "dakota-fresh-food-hub-1191-e-72nd-st-n",
+  "name": "Dakota Fresh Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1191 E 72nd St N, SD",
+  "locationCity": "1191 E 72nd St N",
+  "locationState": "SD",
+  "locationZipcode": "57104",
+  "lat": 43.6163648,
+  "lon": -96.711045,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:15.890Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:15.890Z"
+}

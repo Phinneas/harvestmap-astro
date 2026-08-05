@@ -1,0 +1,20 @@
+{
+  "slug": "park-hill-orchard-82-park-hill-road",
+  "name": "Park Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "82 Park Hill Road, MA",
+  "locationCity": "82 Park Hill Road",
+  "locationState": "MA",
+  "locationZipcode": "01027",
+  "lat": 42.2857165207554,
+  "lon": -72.6951863489557,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.548Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.548Z",
+  "crops": []
+}

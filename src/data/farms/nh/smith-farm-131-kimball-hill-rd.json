@@ -1,0 +1,19 @@
+{
+  "slug": "smith-farm-131-kimball-hill-rd",
+  "name": "Smith Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "131 Kimball Hill Rd., NH",
+  "locationCity": "131 Kimball Hill Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03051",
+  "lat": 42.770532524792856,
+  "lon": -71.37185738034682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.803Z"
+}

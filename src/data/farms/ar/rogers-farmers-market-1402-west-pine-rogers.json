@@ -1,0 +1,19 @@
+{
+  "slug": "rogers-farmers-market-1402-west-pine-rogers",
+  "name": "Rogers Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1402 West Pine Rogers, AR",
+  "locationCity": "1402 West Pine Rogers",
+  "locationState": "AR",
+  "locationZipcode": "72756",
+  "lat": 36.328145859915836,
+  "lon": -94.13750534604188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-wegener-farm-9142-faussett-rd",
+  "name": "The Wegener Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9142 Faussett Rd, MI",
+  "locationCity": "9142 Faussett Rd",
+  "locationState": "MI",
+  "locationZipcode": "48430",
+  "lat": 42.70422058771561,
+  "lon": -83.77655495134022,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.101Z"
+}

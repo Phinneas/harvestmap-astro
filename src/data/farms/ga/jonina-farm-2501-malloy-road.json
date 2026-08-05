@@ -1,0 +1,19 @@
+{
+  "slug": "jonina-farm-2501-malloy-road",
+  "name": "JoNina Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2501 Malloy Road, GA",
+  "locationCity": "2501 Malloy Road",
+  "locationState": "GA",
+  "locationZipcode": "31773",
+  "lat": 31.01862279841121,
+  "lon": -84.09180261064714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.397Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.397Z"
+}

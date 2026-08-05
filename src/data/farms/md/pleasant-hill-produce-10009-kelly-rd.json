@@ -1,0 +1,19 @@
+{
+  "slug": "pleasant-hill-produce-10009-kelly-rd",
+  "name": "Pleasant Hill Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10009 Kelly Rd, MD",
+  "locationCity": "10009 Kelly Rd",
+  "locationState": "MD",
+  "locationZipcode": "10009",
+  "lat": 39.45022491712598,
+  "lon": -77.319734961409,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.725Z"
+}

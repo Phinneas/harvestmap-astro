@@ -1,0 +1,20 @@
+{
+  "slug": "stetson-farmers-market-234-e-michigan-ave",
+  "name": "Stetson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "234 E Michigan Ave, FL",
+  "locationCity": "234 E Michigan Ave",
+  "locationState": "FL",
+  "locationZipcode": "32723",
+  "lat": 29.033531209645936,
+  "lon": -81.30088476005382,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z",
+  "crops": []
+}

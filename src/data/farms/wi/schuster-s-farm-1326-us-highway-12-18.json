@@ -1,0 +1,20 @@
+{
+  "slug": "schuster-s-farm-1326-us-highway-12-18",
+  "name": "Schuster's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1326 Us highway 12 &18, WI",
+  "locationCity": "1326 Us highway 12 &18",
+  "locationState": "WI",
+  "locationZipcode": "53531",
+  "lat": 43.0365799800663,
+  "lon": -89.1132660159437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.203Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.203Z",
+  "crops": []
+}

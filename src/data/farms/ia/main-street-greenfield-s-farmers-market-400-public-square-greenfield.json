@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-greenfield-s-farmers-market-400-public-square-greenfield",
+  "name": "Main Street Greenfield's Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Public Square Greenfield, IA",
+  "locationCity": "400 Public Square Greenfield",
+  "locationState": "IA",
+  "locationZipcode": "50849",
+  "lat": 41.305115991879774,
+  "lon": -94.46102400983732,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

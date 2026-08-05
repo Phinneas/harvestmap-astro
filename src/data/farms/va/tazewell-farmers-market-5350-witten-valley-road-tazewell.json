@@ -1,0 +1,19 @@
+{
+  "slug": "tazewell-farmers-market-5350-witten-valley-road-tazewell",
+  "name": "Tazewell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5350 Witten Valley Road TAZEWELL, VA",
+  "locationCity": "5350 Witten Valley Road TAZEWELL",
+  "locationState": "VA",
+  "locationZipcode": "24651",
+  "lat": 37.099048262261846,
+  "lon": -81.56720211063615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

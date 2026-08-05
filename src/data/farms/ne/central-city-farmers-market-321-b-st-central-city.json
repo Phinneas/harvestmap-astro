@@ -1,0 +1,19 @@
+{
+  "slug": "central-city-farmers-market-321-b-st-central-city",
+  "name": "Central City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "321 B ST Central City, NE",
+  "locationCity": "321 B ST Central City",
+  "locationState": "NE",
+  "locationZipcode": "68826",
+  "lat": 41.11878952322886,
+  "lon": -98.00579402007554,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.904Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.904Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "st-andrew-farmers-market-1015-4-mile-rd-racine",
+  "name": "St. Andrew Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1015 4 Mile Rd Racine, WI",
+  "locationCity": "1015 4 Mile Rd Racine",
+  "locationState": "WI",
+  "locationZipcode": "53402",
+  "lat": 42.7845000690092,
+  "lon": -87.7917257023648,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

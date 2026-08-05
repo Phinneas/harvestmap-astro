@@ -1,0 +1,19 @@
+{
+  "slug": "the-norris-farm-156-alford-bend-circle",
+  "name": "The Norris Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "156 Alford Bend Circle, AL",
+  "locationCity": "156 Alford Bend Circle",
+  "locationState": "AL",
+  "locationZipcode": "35903",
+  "lat": 34.051252186093,
+  "lon": -85.8987171845746,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.516Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.516Z"
+}

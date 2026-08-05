@@ -1,0 +1,19 @@
+{
+  "slug": "three-sisters-farm-30370-san-timoteo-canyon-road",
+  "name": "Three Sisters Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "30370 San Timoteo Canyon Road, CA",
+  "locationCity": "30370 San Timoteo Canyon Road",
+  "locationState": "CA",
+  "locationZipcode": "30370",
+  "lat": 33.984149319112376,
+  "lon": -117.13288354553882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.078Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.078Z"
+}

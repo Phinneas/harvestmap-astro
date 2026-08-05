@@ -1,0 +1,19 @@
+{
+  "slug": "bird-island-berries-105-425th-st",
+  "name": "Bird Island Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "105 425th St, MN",
+  "locationCity": "105 425th St",
+  "locationState": "MN",
+  "locationZipcode": "55310",
+  "lat": 44.7843580328886,
+  "lon": -94.8229234695859,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.815Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.815Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "green-river-farmers-market-2nd-main-street-henderson",
+  "name": "Green River Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2nd & Main Street Henderson, KY",
+  "locationCity": "2nd & Main Street Henderson",
+  "locationState": "KY",
+  "locationZipcode": "42420",
+  "lat": 37.84075999066269,
+  "lon": -87.59165001455305,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

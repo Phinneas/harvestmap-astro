@@ -1,0 +1,19 @@
+{
+  "slug": "little-river-farmers-market-4461-mineola-ave",
+  "name": "Little River Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4461 Mineola Ave, SC",
+  "locationCity": "4461 Mineola Ave",
+  "locationState": "SC",
+  "locationZipcode": "29566",
+  "lat": 33.880648,
+  "lon": -78.640489,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.053Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.053Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "vesperman-farms-8419-stage-rd",
+  "name": "Vesperman Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8419 Stage Rd, WI",
+  "locationCity": "8419 Stage Rd",
+  "locationState": "WI",
+  "locationZipcode": "53813",
+  "lat": 42.8002511568655,
+  "lon": -90.7029853189612,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.225Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.225Z"
+}

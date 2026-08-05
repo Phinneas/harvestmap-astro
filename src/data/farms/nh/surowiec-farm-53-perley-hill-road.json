@@ -1,0 +1,19 @@
+{
+  "slug": "surowiec-farm-53-perley-hill-road",
+  "name": "Surowiec Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "53 Perley Hill Road, NH",
+  "locationCity": "53 Perley Hill Road",
+  "locationState": "NH",
+  "locationZipcode": "03269",
+  "lat": 43.51320299017857,
+  "lon": -71.59837098400963,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.804Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.804Z"
+}

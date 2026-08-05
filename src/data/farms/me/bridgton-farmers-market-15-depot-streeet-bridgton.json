@@ -1,0 +1,19 @@
+{
+  "slug": "bridgton-farmers-market-15-depot-streeet-bridgton",
+  "name": "Bridgton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 Depot Streeet Bridgton, ME",
+  "locationCity": "15 Depot Streeet Bridgton",
+  "locationState": "ME",
+  "locationZipcode": "04009",
+  "lat": 44.05374350472069,
+  "lon": -70.70294340468445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:57.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:57.069Z"
+}

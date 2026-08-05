@@ -1,0 +1,20 @@
+{
+  "slug": "champlin-farmers-market-12165-ensign-ave-n",
+  "name": "Champlin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12165 Ensign Ave N, MN",
+  "locationCity": "12165 Ensign Ave N",
+  "locationState": "MN",
+  "locationZipcode": "12165",
+  "lat": 45.1729953,
+  "lon": -93.3955893,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z",
+  "crops": []
+}

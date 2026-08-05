@@ -1,0 +1,19 @@
+{
+  "slug": "highcross-farm-w2292-rustic-drive",
+  "name": "HighCross Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "W2292 Rustic Drive, WI",
+  "locationCity": "W2292 Rustic Drive",
+  "locationState": "WI",
+  "locationZipcode": "53010",
+  "lat": 43.5534092,
+  "lon": -88.2693842,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.002Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.002Z"
+}

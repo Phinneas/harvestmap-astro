@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-acres-060-herrondale-west-road",
+  "name": "Blueberry Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "060 Herrondale West Road, TN",
+  "locationCity": "060 Herrondale West Road",
+  "locationState": "TN",
+  "locationZipcode": "38231",
+  "lat": 36.2521238166257,
+  "lon": -88.4673310469309,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.327Z"
+}

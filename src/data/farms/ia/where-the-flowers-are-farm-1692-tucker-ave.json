@@ -1,0 +1,19 @@
+{
+  "slug": "where-the-flowers-are-farm-1692-tucker-ave",
+  "name": "Where the flowers Are Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1692 Tucker Ave, IA",
+  "locationCity": "1692 Tucker Ave",
+  "locationState": "IA",
+  "locationZipcode": "52761",
+  "lat": 41.49340568179889,
+  "lon": -90.94033826651999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.424Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.424Z"
+}

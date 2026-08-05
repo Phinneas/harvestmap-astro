@@ -1,0 +1,19 @@
+{
+  "slug": "richardson-farm-000-bishop-road",
+  "name": "Richardson Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 Bishop Road, ID",
+  "locationCity": "000 Bishop Road",
+  "locationState": "ID",
+  "locationZipcode": "83617",
+  "lat": 43.8726315180763,
+  "lon": -116.678174344788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.686Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.686Z"
+}

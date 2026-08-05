@@ -1,0 +1,19 @@
+{
+  "slug": "matson-road-farms-1330-matson-road",
+  "name": "Matson Road Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1330 Matson Road, NY",
+  "locationCity": "1330 Matson Road",
+  "locationState": "NY",
+  "locationZipcode": "13159",
+  "lat": 42.8362292343919,
+  "lon": -76.0480720065758,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.372Z"
+}

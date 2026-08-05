@@ -1,0 +1,19 @@
+{
+  "slug": "little-red-shed-farm-market-79202-m-40-lawton",
+  "name": "Little Red Shed Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "79202 M-40 Lawton, MI",
+  "locationCity": "79202 M-40 Lawton",
+  "locationState": "MI",
+  "locationZipcode": "79202",
+  "lat": 42.14302863143723,
+  "lon": -85.851737470043,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

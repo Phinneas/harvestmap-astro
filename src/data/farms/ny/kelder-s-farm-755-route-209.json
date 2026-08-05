@@ -1,0 +1,20 @@
+{
+  "slug": "kelder-s-farm-755-route-209",
+  "name": "Kelder's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "755 Route 209, NY",
+  "locationCity": "755 Route 209",
+  "locationState": "NY",
+  "locationZipcode": "12446",
+  "lat": 41.7895252511259,
+  "lon": -74.2617549237058,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.923Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.923Z",
+  "crops": []
+}

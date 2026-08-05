@@ -1,0 +1,19 @@
+{
+  "slug": "cove-vineyard-451-smalley-lane",
+  "name": "Cove Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "451 Smalley Lane, TN",
+  "locationCity": "451 Smalley Lane",
+  "locationState": "TN",
+  "locationZipcode": "37763",
+  "lat": 35.8108873047804,
+  "lon": -84.5432675569923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.178Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.178Z"
+}

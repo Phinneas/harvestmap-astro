@@ -1,0 +1,19 @@
+{
+  "slug": "wallingford-farmers-market-4800-meridian-ave-n",
+  "name": "Wallingford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4800 Meridian Ave N, WA",
+  "locationCity": "4800 Meridian Ave N",
+  "locationState": "WA",
+  "locationZipcode": "98103",
+  "lat": 47.663924,
+  "lon": -122.33335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.746Z"
+}

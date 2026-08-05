@@ -1,0 +1,19 @@
+{
+  "slug": "springville-farmers-market-341-w-main-street-springville",
+  "name": "Springville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "341 W. Main Street Springville, NY",
+  "locationCity": "341 W. Main Street Springville",
+  "locationState": "NY",
+  "locationZipcode": "14141",
+  "lat": 42.50904829600829,
+  "lon": -78.68014085444796,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

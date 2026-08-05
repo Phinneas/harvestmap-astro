@@ -1,0 +1,19 @@
+{
+  "slug": "hiawatha-farmers-market-201-e-iowa",
+  "name": "Hiawatha Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 E. Iowa, KS",
+  "locationCity": "201 E. Iowa",
+  "locationState": "KS",
+  "locationZipcode": "66434",
+  "lat": 39.84874210411588,
+  "lon": -95.52466090212002,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

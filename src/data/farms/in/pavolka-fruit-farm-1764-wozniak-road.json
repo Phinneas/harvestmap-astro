@@ -1,0 +1,19 @@
+{
+  "slug": "pavolka-fruit-farm-1764-wozniak-road",
+  "name": "Pavolka Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1764 Wozniak Road, IN",
+  "locationCity": "1764 Wozniak Road",
+  "locationState": "IN",
+  "locationZipcode": "46360",
+  "lat": 41.6333550082675,
+  "lon": -86.8511930233106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.295Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.295Z"
+}

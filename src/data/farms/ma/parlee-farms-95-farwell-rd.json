@@ -1,0 +1,20 @@
+{
+  "slug": "parlee-farms-95-farwell-rd",
+  "name": "Parlee Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "95 Farwell Rd, MA",
+  "locationCity": "95 Farwell Rd",
+  "locationState": "MA",
+  "locationZipcode": "01879",
+  "lat": 42.6914943441243,
+  "lon": -71.4252834261513,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.548Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.548Z",
+  "crops": []
+}

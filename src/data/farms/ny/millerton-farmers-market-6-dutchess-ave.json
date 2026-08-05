@@ -1,0 +1,19 @@
+{
+  "slug": "millerton-farmers-market-6-dutchess-ave",
+  "name": "Millerton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6 Dutchess Ave, NY",
+  "locationCity": "6 Dutchess Ave",
+  "locationState": "NY",
+  "locationZipcode": "12546",
+  "lat": 41.95546931723535,
+  "lon": -73.5093642940947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

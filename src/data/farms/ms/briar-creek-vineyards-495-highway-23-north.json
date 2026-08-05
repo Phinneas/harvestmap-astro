@@ -1,0 +1,19 @@
+{
+  "slug": "briar-creek-vineyards-495-highway-23-north",
+  "name": "Briar Creek Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "495 Highway 23 North, MS",
+  "locationCity": "495 Highway 23 North",
+  "locationState": "MS",
+  "locationZipcode": "38876",
+  "lat": 34.3234881389212,
+  "lon": -88.2139480279648,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:24.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:24.028Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ft-wayne-s-farmers-market-216-w-douglas-ave-add-2-fort-wayne",
+  "name": "Ft. Wayne's Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "216 W Douglas Ave add 2 FORT WAYNE, IN",
+  "locationCity": "216 W Douglas Ave add 2 FORT WAYNE",
+  "locationState": "IN",
+  "locationZipcode": "46802",
+  "lat": 41.07420533903772,
+  "lon": -85.1404167460472,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

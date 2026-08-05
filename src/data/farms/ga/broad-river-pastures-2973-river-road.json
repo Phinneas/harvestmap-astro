@@ -1,0 +1,19 @@
+{
+  "slug": "broad-river-pastures-2973-river-road",
+  "name": "Broad River Pastures",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2973 River Road, GA",
+  "locationCity": "2973 River Road",
+  "locationState": "GA",
+  "locationZipcode": "30635",
+  "lat": 33.9889126,
+  "lon": -82.7362946,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.439Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.439Z"
+}

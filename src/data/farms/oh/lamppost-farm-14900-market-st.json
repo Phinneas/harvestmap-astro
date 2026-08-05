@@ -1,0 +1,19 @@
+{
+  "slug": "lamppost-farm-14900-market-st",
+  "name": "Lamppost Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "14900 Market St, OH",
+  "locationCity": "14900 Market St",
+  "locationState": "OH",
+  "locationZipcode": "14900",
+  "lat": 40.90089401737828,
+  "lon": -80.65129797936012,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.925Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.925Z"
+}

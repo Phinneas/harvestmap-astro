@@ -1,0 +1,19 @@
+{
+  "slug": "universal-farms-821-sam-houston",
+  "name": "Universal Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "821 Sam Houston, TX",
+  "locationCity": "821 Sam Houston",
+  "locationState": "TX",
+  "locationZipcode": "78583",
+  "lat": 26.2081749876031,
+  "lon": -97.572929488065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.668Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.668Z"
+}

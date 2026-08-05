@@ -1,0 +1,19 @@
+{
+  "slug": "julia-s-fruit-stand-11475-hwy-99e",
+  "name": "Julia's Fruit Stand",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "11475 Hwy 99E, CA",
+  "locationCity": "11475 Hwy 99E",
+  "locationState": "CA",
+  "locationZipcode": "11475",
+  "lat": 40.126378000772746,
+  "lon": -122.12441601889414,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

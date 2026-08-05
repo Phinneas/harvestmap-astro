@@ -1,0 +1,19 @@
+{
+  "slug": "lazy-j-farms-1145-ossia-road",
+  "name": "Lazy J Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1145 Ossia Road, WV",
+  "locationCity": "1145 Ossia Road",
+  "locationState": "WV",
+  "locationZipcode": "25063",
+  "lat": 38.5931469866043,
+  "lon": -81.0204400126918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.869Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.869Z"
+}

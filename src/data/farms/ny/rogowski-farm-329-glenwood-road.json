@@ -1,0 +1,19 @@
+{
+  "slug": "rogowski-farm-329-glenwood-road",
+  "name": "Rogowski Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "329 Glenwood Road, NY",
+  "locationCity": "329 Glenwood Road",
+  "locationState": "NY",
+  "locationZipcode": "10969",
+  "lat": 41.2768184551882,
+  "lon": -74.4774381671098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.007Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.007Z"
+}

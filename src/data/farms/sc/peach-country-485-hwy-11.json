@@ -1,0 +1,19 @@
+{
+  "slug": "peach-country-485-hwy-11",
+  "name": "Peach Country",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "485 Hwy 11, SC",
+  "locationCity": "485 Hwy 11",
+  "locationState": "SC",
+  "locationZipcode": "29322",
+  "lat": 35.1210244193597,
+  "lon": -82.1431492366561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.796Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.796Z"
+}

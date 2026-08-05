@@ -1,0 +1,19 @@
+{
+  "slug": "the-farmstand-2115-miller-avenue",
+  "name": "The Farmstand",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2115 Miller Avenue, CA",
+  "locationCity": "2115 Miller Avenue",
+  "locationState": "CA",
+  "locationZipcode": "92025",
+  "lat": 33.093022002416205,
+  "lon": -117.08086796900298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

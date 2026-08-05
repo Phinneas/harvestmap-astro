@@ -1,0 +1,19 @@
+{
+  "slug": "prospect-area-farmer-s-market-12900-w-hwy-42",
+  "name": "Prospect Area Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12900 W. Hwy 42, KY",
+  "locationCity": "12900 W. Hwy 42",
+  "locationState": "KY",
+  "locationZipcode": "12900",
+  "lat": 38.37102,
+  "lon": -85.58996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.723Z"
+}

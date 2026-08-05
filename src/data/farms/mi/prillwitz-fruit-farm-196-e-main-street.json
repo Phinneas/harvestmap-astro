@@ -1,0 +1,19 @@
+{
+  "slug": "prillwitz-fruit-farm-196-e-main-street",
+  "name": "Prillwitz Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "196 E. Main Street, MI",
+  "locationCity": "196 E. Main Street",
+  "locationState": "MI",
+  "locationZipcode": "49111",
+  "lat": 41.985259930564,
+  "lon": -86.2927846994773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.601Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.601Z"
+}

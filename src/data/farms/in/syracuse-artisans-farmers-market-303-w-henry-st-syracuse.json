@@ -1,0 +1,19 @@
+{
+  "slug": "syracuse-artisans-farmers-market-303-w-henry-st-syracuse",
+  "name": "Syracuse Artisans & Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "303 W. Henry St. Syracuse, IN",
+  "locationCity": "303 W. Henry St. Syracuse",
+  "locationState": "IN",
+  "locationZipcode": "46567",
+  "lat": 41.424389565468594,
+  "lon": -85.75064132707828,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

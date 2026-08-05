@@ -1,0 +1,19 @@
+{
+  "slug": "glenview-farmers-market-1510-wagner-road-glenview",
+  "name": "Glenview Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1510 Wagner Road Glenview, IL",
+  "locationCity": "1510 Wagner Road Glenview",
+  "locationState": "IL",
+  "locationZipcode": "60025",
+  "lat": 42.082400681293436,
+  "lon": -87.78092480571276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

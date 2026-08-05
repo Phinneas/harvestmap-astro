@@ -1,0 +1,19 @@
+{
+  "slug": "yellowstone-valley-food-hub-2115-lampman-drive",
+  "name": "Yellowstone Valley Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2115 Lampman Drive, MT",
+  "locationCity": "2115 Lampman Drive",
+  "locationState": "MT",
+  "locationZipcode": "59102",
+  "lat": 45.7600099,
+  "lon": -108.57009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:23.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:23.749Z"
+}

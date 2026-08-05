@@ -1,0 +1,19 @@
+{
+  "slug": "weston-red-barn-farm-16300-wilkerson-road",
+  "name": "Weston Red Barn Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16300 Wilkerson Road, MO",
+  "locationCity": "16300 Wilkerson Road",
+  "locationState": "MO",
+  "locationZipcode": "16300",
+  "lat": 39.386434987833,
+  "lon": -94.8530479682857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.758Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.758Z"
+}

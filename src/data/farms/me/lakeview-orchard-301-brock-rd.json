@@ -1,0 +1,19 @@
+{
+  "slug": "lakeview-orchard-301-brock-rd",
+  "name": "Lakeview Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "301 Brock Rd, ME",
+  "locationCity": "301 Brock Rd",
+  "locationState": "ME",
+  "locationZipcode": "04002",
+  "lat": 43.5170840208964,
+  "lon": -70.7057637584888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.831Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.831Z"
+}

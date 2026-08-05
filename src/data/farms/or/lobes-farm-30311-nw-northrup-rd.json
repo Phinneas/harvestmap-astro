@@ -1,0 +1,19 @@
+{
+  "slug": "lobes-farm-30311-nw-northrup-rd",
+  "name": "Lobes Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "30311 NW Northrup Rd, OR",
+  "locationCity": "30311 NW Northrup Rd",
+  "locationState": "OR",
+  "locationZipcode": "30311",
+  "lat": 45.64326074226601,
+  "lon": -122.9918989309333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.066Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.066Z"
+}

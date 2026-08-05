@@ -1,0 +1,19 @@
+{
+  "slug": "tarryleas-farms-state-route-19",
+  "name": "TarryLeas Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "State Route 19, WV",
+  "locationCity": "State Route 19",
+  "locationState": "WV",
+  "locationZipcode": "26385",
+  "lat": 39.175611,
+  "lon": -80.439108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:39.133Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:39.133Z"
+}

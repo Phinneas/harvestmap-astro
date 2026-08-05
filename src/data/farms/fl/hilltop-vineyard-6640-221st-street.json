@@ -1,0 +1,19 @@
+{
+  "slug": "hilltop-vineyard-6640-221st-street",
+  "name": "Hilltop Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6640 221st Street, FL",
+  "locationCity": "6640 221st Street",
+  "locationState": "FL",
+  "locationZipcode": "32640",
+  "lat": 29.59284,
+  "lon": -82.0865699999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.845Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.845Z"
+}

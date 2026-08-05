@@ -1,0 +1,19 @@
+{
+  "slug": "gulicks-fruit-farm-490-kaylor-road",
+  "name": "Gulicks Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "490 Kaylor Road, PA",
+  "locationCity": "490 Kaylor Road",
+  "locationState": "PA",
+  "locationZipcode": "18013",
+  "lat": 40.8190450922002,
+  "lon": -75.1125501286034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.089Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.089Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-blueberry-patch-493-oriole-drive",
+  "name": "The Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "493 Oriole Drive, MS",
+  "locationCity": "493 Oriole Drive",
+  "locationState": "MS",
+  "locationZipcode": "39759",
+  "lat": 33.4584790158358,
+  "lon": -88.8836600393446,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.806Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.806Z"
+}

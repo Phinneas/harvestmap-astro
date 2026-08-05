@@ -1,0 +1,19 @@
+{
+  "slug": "mcpherson-farm-522-mcpherson-rd",
+  "name": "McPherson Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "522 McPherson Rd, KY",
+  "locationCity": "522 McPherson Rd",
+  "locationState": "KY",
+  "locationZipcode": "42366",
+  "lat": 37.7406881436427,
+  "lon": -86.9424764655154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.660Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.660Z"
+}

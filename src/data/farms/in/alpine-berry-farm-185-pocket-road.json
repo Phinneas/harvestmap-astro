@@ -1,0 +1,19 @@
+{
+  "slug": "alpine-berry-farm-185-pocket-road",
+  "name": "Alpine Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "185 Pocket Road, IN",
+  "locationCity": "185 Pocket Road",
+  "locationState": "IN",
+  "locationZipcode": "47006",
+  "lat": 39.3231802249297,
+  "lon": -85.2372102969016,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.241Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.241Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "central-michigan-csa-11507-s-rodgers-avenue",
+  "name": "Central Michigan CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "11507 S. Rodgers Avenue, MI",
+  "locationCity": "11507 S. Rodgers Avenue",
+  "locationState": "MI",
+  "locationZipcode": "11507",
+  "lat": 43.8222352,
+  "lon": -84.7065229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.092Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.092Z"
+}

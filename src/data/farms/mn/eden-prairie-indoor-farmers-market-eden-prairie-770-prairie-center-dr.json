@@ -1,0 +1,19 @@
+{
+  "slug": "eden-prairie-indoor-farmers-market-eden-prairie-770-prairie-center-dr",
+  "name": "Eden Prairie Indoor Farmers' Market - Eden Prairie",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "770 Prairie Center Dr, MN",
+  "locationCity": "770 Prairie Center Dr",
+  "locationState": "MN",
+  "locationZipcode": "55344",
+  "lat": 44.8581218,
+  "lon": -93.4352433,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

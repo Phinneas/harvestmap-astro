@@ -1,0 +1,19 @@
+{
+  "slug": "oneida-farmers-market-221-w-highway-34-oneida",
+  "name": "Oneida Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "221 W. Highway 34 Oneida, IL",
+  "locationCity": "221 W. Highway 34 Oneida",
+  "locationState": "IL",
+  "locationZipcode": "61467",
+  "lat": 41.075740502939695,
+  "lon": -90.22313055701815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

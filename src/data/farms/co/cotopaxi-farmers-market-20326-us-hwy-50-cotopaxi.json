@@ -1,0 +1,19 @@
+{
+  "slug": "cotopaxi-farmers-market-20326-us-hwy-50-cotopaxi",
+  "name": "Cotopaxi Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20326 US Hwy 50 Cotopaxi, CO",
+  "locationCity": "20326 US Hwy 50 Cotopaxi",
+  "locationState": "CO",
+  "locationZipcode": "20326",
+  "lat": 38.3709234406348,
+  "lon": -105.68656277578998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

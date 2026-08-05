@@ -1,0 +1,19 @@
+{
+  "slug": "fink-s-country-farm-6242-middle-country-road",
+  "name": "Fink's Country Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6242 Middle Country Road, NY",
+  "locationCity": "6242 Middle Country Road",
+  "locationState": "NY",
+  "locationZipcode": "11949",
+  "lat": 40.9131339848568,
+  "lon": -72.8383702099502,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.221Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "uncle-bill-s-farm-580-spook-hollow-rd",
+  "name": "Uncle Bill's Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "580 Spook Hollow Rd, NJ",
+  "locationCity": "580 Spook Hollow Rd",
+  "locationState": "NJ",
+  "locationZipcode": "07931",
+  "lat": 40.6914814,
+  "lon": -74.6706417,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.066Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.066Z"
+}

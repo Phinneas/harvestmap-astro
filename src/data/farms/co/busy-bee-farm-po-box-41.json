@@ -1,0 +1,19 @@
+{
+  "slug": "busy-bee-farm-po-box-41",
+  "name": "Busy Bee Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 41, CO",
+  "locationCity": "PO Box 41",
+  "locationState": "CO",
+  "locationZipcode": "80118",
+  "lat": 39.2286021,
+  "lon": -104.887203,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.581Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.581Z"
+}

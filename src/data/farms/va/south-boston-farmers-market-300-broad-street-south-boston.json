@@ -1,0 +1,19 @@
+{
+  "slug": "south-boston-farmers-market-300-broad-street-south-boston",
+  "name": "South Boston Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Broad Street South Boston, VA",
+  "locationCity": "300 Broad Street South Boston",
+  "locationState": "VA",
+  "locationZipcode": "24592",
+  "lat": 36.69786988242246,
+  "lon": -78.89995351006831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

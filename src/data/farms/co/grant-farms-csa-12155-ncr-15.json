@@ -1,0 +1,19 @@
+{
+  "slug": "grant-farms-csa-12155-ncr-15",
+  "name": "Grant Farms CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "12155 NCR 15, CO",
+  "locationCity": "12155 NCR 15",
+  "locationState": "CO",
+  "locationZipcode": "12155",
+  "lat": 40.7038712,
+  "lon": -105.0085856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.574Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "green-hill-farm-140-green-st",
+  "name": "Green Hill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "140 Green St, MA",
+  "locationCity": "140 Green St",
+  "locationState": "MA",
+  "locationZipcode": "01545",
+  "lat": 42.264272,
+  "lon": -71.679753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.252Z"
+}

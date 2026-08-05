@@ -1,0 +1,19 @@
+{
+  "slug": "simmons-farm-470-anderson-avenue",
+  "name": "Simmons Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "470 Anderson Avenue, TN",
+  "locationCity": "470 Anderson Avenue",
+  "locationState": "TN",
+  "locationZipcode": "38012",
+  "lat": 35.5889862219471,
+  "lon": -89.2511860864668,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.344Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.344Z"
+}

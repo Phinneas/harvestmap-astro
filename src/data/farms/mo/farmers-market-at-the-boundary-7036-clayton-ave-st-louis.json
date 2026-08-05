@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-the-boundary-7036-clayton-ave-st-louis",
+  "name": "Farmers Market at the Boundary",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7036 Clayton Ave St. Louis, MO",
+  "locationCity": "7036 Clayton Ave St. Louis",
+  "locationState": "MO",
+  "locationZipcode": "63117",
+  "lat": 38.63290768609944,
+  "lon": -90.30500711263862,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

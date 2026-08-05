@@ -1,0 +1,19 @@
+{
+  "slug": "ester-community-market-3570-old-nenana-hwy",
+  "name": "Ester Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3570 Old Nenana Hwy., AK",
+  "locationCity": "3570 Old Nenana Hwy.",
+  "locationState": "AK",
+  "locationZipcode": "99709",
+  "lat": 64.84465752261931,
+  "lon": -148.01798544403533,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

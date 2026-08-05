@@ -1,0 +1,19 @@
+{
+  "slug": "edisto-blueberries-192-longview-road",
+  "name": "Edisto Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "192 Longview Road, SC",
+  "locationCity": "192 Longview Road",
+  "locationState": "SC",
+  "locationZipcode": "29135",
+  "lat": 33.6166630050245,
+  "lon": -80.7520340386555,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.738Z"
+}

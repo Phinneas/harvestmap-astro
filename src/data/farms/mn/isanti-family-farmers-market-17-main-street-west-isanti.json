@@ -1,0 +1,19 @@
+{
+  "slug": "isanti-family-farmers-market-17-main-street-west-isanti",
+  "name": "Isanti Family Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17 Main Street West Isanti, MN",
+  "locationCity": "17 Main Street West Isanti",
+  "locationState": "MN",
+  "locationZipcode": "55040",
+  "lat": 45.49035565590757,
+  "lon": -93.24696728229165,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.774Z"
+}

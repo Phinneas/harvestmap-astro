@@ -1,0 +1,19 @@
+{
+  "slug": "fairhaven-farm-835-51st-avenue",
+  "name": "Fairhaven Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "835 51st Avenue, MN",
+  "locationCity": "835 51st Avenue",
+  "locationState": "MN",
+  "locationZipcode": "55382",
+  "lat": 45.3213708717547,
+  "lon": -94.2159521874402,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.766Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.766Z"
+}

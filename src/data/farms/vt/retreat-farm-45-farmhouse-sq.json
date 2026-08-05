@@ -1,0 +1,19 @@
+{
+  "slug": "retreat-farm-45-farmhouse-sq",
+  "name": "Retreat Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "45 Farmhouse Sq, VT",
+  "locationCity": "45 Farmhouse Sq",
+  "locationState": "VT",
+  "locationZipcode": "05301",
+  "lat": 42.86300501453829,
+  "lon": -72.56769802075237,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.250Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.250Z"
+}

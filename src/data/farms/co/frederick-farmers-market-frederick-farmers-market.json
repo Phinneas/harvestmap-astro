@@ -1,0 +1,19 @@
+{
+  "slug": "frederick-farmers-market-frederick-farmers-market",
+  "name": "Frederick Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Frederick Farmers Market, CO",
+  "locationCity": "Frederick Farmers Market",
+  "locationState": "CO",
+  "locationZipcode": "80530",
+  "lat": 40.09892001752692,
+  "lon": -104.94065896838003,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

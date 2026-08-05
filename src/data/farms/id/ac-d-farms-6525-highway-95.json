@@ -1,0 +1,20 @@
+{
+  "slug": "ac-d-farms-6525-highway-95",
+  "name": "AC&D Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6525 highway 95, ID",
+  "locationCity": "6525 highway 95",
+  "locationState": "ID",
+  "locationZipcode": "83619",
+  "lat": 43.982280988238,
+  "lon": -116.915308030748,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.640Z",
+  "crops": []
+}

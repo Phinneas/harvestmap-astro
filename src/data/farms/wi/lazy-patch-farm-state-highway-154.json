@@ -1,0 +1,19 @@
+{
+  "slug": "lazy-patch-farm-state-highway-154",
+  "name": "Lazy Patch Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "State Highway 154, WI",
+  "locationCity": "State Highway 154",
+  "locationState": "WI",
+  "locationZipcode": "53937",
+  "lat": 43.3823230086743,
+  "lon": -90.2088159649674,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.292Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "northome-farmers-market-12099-u-s-hwy-71",
+  "name": "Northome Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12099 U. S. Hwy 71, MN",
+  "locationCity": "12099 U. S. Hwy 71",
+  "locationState": "MN",
+  "locationZipcode": "12099",
+  "lat": 47.8850558,
+  "lon": -94.2773065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

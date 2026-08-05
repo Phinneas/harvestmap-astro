@@ -1,0 +1,19 @@
+{
+  "slug": "triple-j-orchard-20995-orbit-ave",
+  "name": "Triple J Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "20995 Orbit Ave, WI",
+  "locationCity": "20995 Orbit Ave",
+  "locationState": "WI",
+  "locationZipcode": "20995",
+  "lat": 43.752245020006,
+  "lon": -90.5732529845895,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.400Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.400Z"
+}

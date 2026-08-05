@@ -1,0 +1,19 @@
+{
+  "slug": "betterbee-8-meader-rd",
+  "name": "Betterbee",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8 Meader Rd, NY",
+  "locationCity": "8 Meader Rd",
+  "locationState": "NY",
+  "locationZipcode": "12834",
+  "lat": 43.0995821780989,
+  "lon": -73.51174674626056,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.446Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cornelius-farmers-market-1370-n-adair-st",
+  "name": "Cornelius Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1370 N Adair St, OR",
+  "locationCity": "1370 N Adair St",
+  "locationState": "OR",
+  "locationZipcode": "97113",
+  "lat": 45.521314,
+  "lon": -123.05516,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.309Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.309Z"
+}

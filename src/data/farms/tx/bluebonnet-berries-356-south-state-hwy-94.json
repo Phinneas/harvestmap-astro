@@ -1,0 +1,19 @@
+{
+  "slug": "bluebonnet-berries-356-south-state-hwy-94",
+  "name": "Bluebonnet Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "356 South State Hwy 94, TX",
+  "locationCity": "356 South State Hwy 94",
+  "locationState": "TX",
+  "locationZipcode": "75862",
+  "lat": 31.0747845045991,
+  "lon": -95.1678827404388,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.582Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.582Z"
+}

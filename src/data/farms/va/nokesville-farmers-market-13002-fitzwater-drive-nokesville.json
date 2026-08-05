@@ -1,0 +1,19 @@
+{
+  "slug": "nokesville-farmers-market-13002-fitzwater-drive-nokesville",
+  "name": "Nokesville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13002 Fitzwater Drive Nokesville, VA",
+  "locationCity": "13002 Fitzwater Drive Nokesville",
+  "locationState": "VA",
+  "locationZipcode": "13002",
+  "lat": 38.69956133274323,
+  "lon": -77.58219480029288,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

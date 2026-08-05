@@ -1,0 +1,19 @@
+{
+  "slug": "youthmarket-flatbush-junction-51-chambers-st-new-york",
+  "name": "Youthmarket-Flatbush Junction",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "51 Chambers St. New York, NY",
+  "locationCity": "51 Chambers St. New York",
+  "locationState": "NY",
+  "locationZipcode": "10007",
+  "lat": 40.7138260552486,
+  "lon": -74.00556013851609,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

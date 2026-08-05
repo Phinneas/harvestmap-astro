@@ -1,0 +1,19 @@
+{
+  "slug": "prescott-s-patch-2338-river-road",
+  "name": "Prescott's Patch",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2338 River Road, PA",
+  "locationCity": "2338 River Road",
+  "locationState": "PA",
+  "locationZipcode": "17502",
+  "lat": 40.1156467,
+  "lon": -76.6972883,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.546Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.546Z"
+}

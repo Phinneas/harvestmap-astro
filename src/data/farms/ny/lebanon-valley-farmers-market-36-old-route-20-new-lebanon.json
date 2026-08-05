@@ -1,0 +1,19 @@
+{
+  "slug": "lebanon-valley-farmers-market-36-old-route-20-new-lebanon",
+  "name": "Lebanon Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "36 Old Route 20 New Lebanon, NY",
+  "locationCity": "36 Old Route 20 New Lebanon",
+  "locationState": "NY",
+  "locationZipcode": "12125",
+  "lat": 42.4734582467032,
+  "lon": -73.3811573799279,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

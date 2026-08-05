@@ -1,0 +1,19 @@
+{
+  "slug": "chalupiak-farm-250-tyro-road",
+  "name": "Chalupiak Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "250 Tyro Road, PA",
+  "locationCity": "250 Tyro Road",
+  "locationState": "PA",
+  "locationZipcode": "15005",
+  "lat": 40.6455789835405,
+  "lon": -80.1953070239142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.079Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.079Z"
+}

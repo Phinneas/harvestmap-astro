@@ -1,0 +1,19 @@
+{
+  "slug": "meadowlark-hearth-120024-everett-drive",
+  "name": "Meadowlark Hearth",
+  "source": "usda",
+  "directory": "csa",
+  "location": "120024 Everett Drive, NE",
+  "locationCity": "120024 Everett Drive",
+  "locationState": "NE",
+  "locationZipcode": "69361",
+  "lat": 41.834660452713564,
+  "lon": -103.57829753476116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:48.589Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:48.589Z"
+}

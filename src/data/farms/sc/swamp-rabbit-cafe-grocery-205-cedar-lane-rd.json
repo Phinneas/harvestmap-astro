@@ -1,0 +1,19 @@
+{
+  "slug": "swamp-rabbit-cafe-grocery-205-cedar-lane-rd",
+  "name": "Swamp Rabbit Cafe & Grocery",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "205 Cedar Lane Rd, SC",
+  "locationCity": "205 Cedar Lane Rd",
+  "locationState": "SC",
+  "locationZipcode": "29611",
+  "lat": 34.8694785,
+  "lon": -82.42142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:57.012Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:57.012Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hereford-farmers-market-17004-york-road",
+  "name": "Hereford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17004 York Road, MD",
+  "locationCity": "17004 York Road",
+  "locationState": "MD",
+  "locationZipcode": "17004",
+  "lat": 39.59123971093157,
+  "lon": -76.66329147807207,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

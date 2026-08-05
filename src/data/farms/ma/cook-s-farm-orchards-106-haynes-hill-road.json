@@ -9,23 +9,11 @@
   "locationZipcode": "",
   "lat": 42.1052776985361,
   "lon": -72.2130386588224,
-  "website": "https://www.cooksfarmorchard.net",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:29:19.708Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:29:34.257Z"
+      "lastSeen": "2026-08-05T18:42:22.708Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:29:19.708Z",
-  "crops": [
-    "Blueberries",
-    "Apples",
-    "Peaches",
-    "Plums"
-  ],
-  "phone": "413-245-3241"
+  "usdaLastUpdated": "2026-08-05T18:42:22.708Z"
 }

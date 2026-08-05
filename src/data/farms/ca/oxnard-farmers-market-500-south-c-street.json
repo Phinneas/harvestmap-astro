@@ -1,0 +1,19 @@
+{
+  "slug": "oxnard-farmers-market-500-south-c-street",
+  "name": "Oxnard Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 South C Street, CA",
+  "locationCity": "500 South C Street",
+  "locationState": "CA",
+  "locationZipcode": "93030",
+  "lat": 34.19798,
+  "lon": -119.18027,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.348Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.348Z"
+}

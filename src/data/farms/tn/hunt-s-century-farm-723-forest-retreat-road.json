@@ -1,0 +1,20 @@
+{
+  "slug": "hunt-s-century-farm-723-forest-retreat-road",
+  "name": "Hunt's Century Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "723 Forest Retreat Road, TN",
+  "locationCity": "723 Forest Retreat Road",
+  "locationState": "TN",
+  "locationZipcode": "37075",
+  "lat": 36.3349359977687,
+  "lon": -86.6323550262639,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.351Z",
+  "crops": []
+}

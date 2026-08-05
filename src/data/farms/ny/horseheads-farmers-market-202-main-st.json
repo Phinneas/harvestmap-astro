@@ -1,0 +1,19 @@
+{
+  "slug": "horseheads-farmers-market-202-main-st",
+  "name": "Horseheads Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "202 Main St., NY",
+  "locationCity": "202 Main St.",
+  "locationState": "NY",
+  "locationZipcode": "14845",
+  "lat": 42.1831701769329,
+  "lon": -76.77634650599641,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

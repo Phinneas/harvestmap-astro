@@ -1,0 +1,19 @@
+{
+  "slug": "dimeo-farms-u-pick-blueberries-3101-nesco-rd",
+  "name": "DiMeo Farms – U-Pick Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3101 Nesco Rd, NJ",
+  "locationCity": "3101 Nesco Rd",
+  "locationState": "NJ",
+  "locationZipcode": "08037",
+  "lat": 39.6405610067959,
+  "lon": -74.7280660060831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.196Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "vegetable-place-watkins-town-road",
+  "name": "Vegetable Place",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Watkins Town Road, NC",
+  "locationCity": "Watkins Town Road",
+  "locationState": "NC",
+  "locationZipcode": "27616",
+  "lat": 35.863477644337365,
+  "lon": -78.50077971739778,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.461Z"
+}

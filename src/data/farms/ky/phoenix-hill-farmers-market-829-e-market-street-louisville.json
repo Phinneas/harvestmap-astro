@@ -1,0 +1,19 @@
+{
+  "slug": "phoenix-hill-farmers-market-829-e-market-street-louisville",
+  "name": "Phoenix Hill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "829 E. Market Street Louisville, KY",
+  "locationCity": "829 E. Market Street Louisville",
+  "locationState": "KY",
+  "locationZipcode": "40204",
+  "lat": 38.25311889562935,
+  "lon": -85.73737375405558,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

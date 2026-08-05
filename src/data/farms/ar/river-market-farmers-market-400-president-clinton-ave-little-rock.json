@@ -1,0 +1,19 @@
+{
+  "slug": "river-market-farmers-market-400-president-clinton-ave-little-rock",
+  "name": "River Market Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 President Clinton Ave. Little Rock, AR",
+  "locationCity": "400 President Clinton Ave. Little Rock",
+  "locationState": "AR",
+  "locationZipcode": "72201",
+  "lat": 34.74760774261816,
+  "lon": -92.26665851353066,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

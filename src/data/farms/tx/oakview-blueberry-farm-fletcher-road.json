@@ -1,0 +1,19 @@
+{
+  "slug": "oakview-blueberry-farm-fletcher-road",
+  "name": "Oakview Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fletcher Road, TX",
+  "locationCity": "Fletcher Road",
+  "locationState": "TX",
+  "locationZipcode": "77331",
+  "lat": 30.5499149861512,
+  "lon": -95.2429979924313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.423Z"
+}

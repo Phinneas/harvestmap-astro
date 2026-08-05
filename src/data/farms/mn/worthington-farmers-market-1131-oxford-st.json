@@ -1,0 +1,19 @@
+{
+  "slug": "worthington-farmers-market-1131-oxford-st",
+  "name": "Worthington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1131 Oxford St, MN",
+  "locationCity": "1131 Oxford St",
+  "locationState": "MN",
+  "locationZipcode": "56187",
+  "lat": 43.6322087,
+  "lon": -95.5993955,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

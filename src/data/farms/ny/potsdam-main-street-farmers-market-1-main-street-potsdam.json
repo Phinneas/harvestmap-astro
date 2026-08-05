@@ -1,0 +1,19 @@
+{
+  "slug": "potsdam-main-street-farmers-market-1-main-street-potsdam",
+  "name": "Potsdam Main Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Main Street Potsdam, NY",
+  "locationCity": "1 Main Street Potsdam",
+  "locationState": "NY",
+  "locationZipcode": "13676",
+  "lat": 44.668645389278296,
+  "lon": -74.98643258578682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

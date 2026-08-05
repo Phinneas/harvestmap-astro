@@ -1,0 +1,19 @@
+{
+  "slug": "ham-lake-farmers-artisan-market-14630-hwy-65-ne",
+  "name": "Ham Lake Farmers' & Artisan Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14630 Hwy 65 NE, MN",
+  "locationCity": "14630 Hwy 65 NE",
+  "locationState": "MN",
+  "locationZipcode": "14630",
+  "lat": 45.233193,
+  "lon": -93.2360773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

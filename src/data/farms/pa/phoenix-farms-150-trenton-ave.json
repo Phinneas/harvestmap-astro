@@ -1,0 +1,19 @@
+{
+  "slug": "phoenix-farms-150-trenton-ave",
+  "name": "Phoenix Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "150 Trenton Ave, PA",
+  "locationCity": "150 Trenton Ave",
+  "locationState": "PA",
+  "locationZipcode": "19047",
+  "lat": 40.143277,
+  "lon": -74.906944,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.378Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.378Z"
+}

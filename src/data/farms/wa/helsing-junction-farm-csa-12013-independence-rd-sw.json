@@ -1,0 +1,19 @@
+{
+  "slug": "helsing-junction-farm-csa-12013-independence-rd-sw",
+  "name": "Helsing Junction Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "12013 Independence Rd SW, WA",
+  "locationCity": "12013 Independence Rd SW",
+  "locationState": "WA",
+  "locationZipcode": "12013",
+  "lat": 46.807584,
+  "lon": -123.13665,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.584Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.584Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sault-ste-marie-farmers-market-111-portage-ave-sault-sainte-marie",
+  "name": "Sault Ste. Marie Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 Portage Ave Sault Sainte Marie, MI",
+  "locationCity": "111 Portage Ave Sault Sainte Marie",
+  "locationState": "MI",
+  "locationZipcode": "49783",
+  "lat": 46.5003057742775,
+  "lon": -84.34616526995053,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

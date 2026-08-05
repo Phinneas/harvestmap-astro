@@ -1,0 +1,19 @@
+{
+  "slug": "fontcol-farms-800-airbase-rd",
+  "name": "Fontcol Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "800 Airbase Rd, NC",
+  "locationCity": "800 Airbase Rd",
+  "locationState": "NC",
+  "locationZipcode": "28396",
+  "lat": 34.8424952977563,
+  "lon": -79.3650713599687,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.662Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.662Z"
+}

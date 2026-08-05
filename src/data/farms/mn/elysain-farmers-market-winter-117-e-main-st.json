@@ -1,0 +1,19 @@
+{
+  "slug": "elysain-farmers-market-winter-117-e-main-st",
+  "name": "Elysain Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "117 E Main St, MN",
+  "locationCity": "117 E Main St",
+  "locationState": "MN",
+  "locationZipcode": "56028",
+  "lat": 44.1984584,
+  "lon": -93.6741319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kalchik-farms-7798-bellaire-highway",
+  "name": "Kalchik Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7798 Bellaire Highway, MI",
+  "locationCity": "7798 Bellaire Highway",
+  "locationState": "MI",
+  "locationZipcode": "48615",
+  "lat": 44.9802082372963,
+  "lon": -85.2511704162442,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.580Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.580Z"
+}

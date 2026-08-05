@@ -1,0 +1,19 @@
+{
+  "slug": "spring-wind-farm-llc-4433-320th-st-w",
+  "name": "Spring Wind Farm LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4433 320th St W, MN",
+  "locationCity": "4433 320th St W",
+  "locationState": "MN",
+  "locationZipcode": "55057",
+  "lat": 44.4886745,
+  "lon": -93.1549176,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.169Z"
+}

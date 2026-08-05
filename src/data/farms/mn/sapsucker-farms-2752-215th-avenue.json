@@ -1,0 +1,19 @@
+{
+  "slug": "sapsucker-farms-2752-215th-avenue",
+  "name": "Sapsucker Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2752 215th Avenue, MN",
+  "locationCity": "2752 215th Avenue",
+  "locationState": "MN",
+  "locationZipcode": "55051",
+  "lat": 45.89808050352059,
+  "lon": -93.15170317569361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.183Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.183Z"
+}

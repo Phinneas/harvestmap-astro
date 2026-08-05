@@ -1,0 +1,19 @@
+{
+  "slug": "terra-square-farmers-market-3380-chicago-dr",
+  "name": "Terra Square Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3380 Chicago Dr., MI",
+  "locationCity": "3380 Chicago Dr.",
+  "locationState": "MI",
+  "locationZipcode": "49426",
+  "lat": 42.8677383,
+  "lon": -85.865455,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.183Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.183Z"
+}

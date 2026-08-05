@@ -1,0 +1,19 @@
+{
+  "slug": "two-onion-farm-19638-cottage-inn-road",
+  "name": "Two Onion Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "19638 Cottage Inn Road, WI",
+  "locationCity": "19638 Cottage Inn Road",
+  "locationState": "WI",
+  "locationZipcode": "19638",
+  "lat": 42.7783012,
+  "lon": -90.3273261,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.002Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.002Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "amarillo-global-food-hub-800-s-polk-st",
+  "name": "Amarillo Global Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "800 S Polk St, TX",
+  "locationCity": "800 S Polk St",
+  "locationState": "TX",
+  "locationZipcode": "79101",
+  "lat": 35.20538599007082,
+  "lon": -101.83785501953115,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:57.115Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:57.115Z"
+}

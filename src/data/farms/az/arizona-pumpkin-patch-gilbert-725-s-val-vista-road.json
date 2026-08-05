@@ -1,0 +1,19 @@
+{
+  "slug": "arizona-pumpkin-patch-gilbert-725-s-val-vista-road",
+  "name": "Arizona Pumpkin Patch Gilbert",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "725 S. Val Vista Road, AZ",
+  "locationCity": "725 S. Val Vista Road",
+  "locationState": "AZ",
+  "locationZipcode": "85297",
+  "lat": 33.2848350043804,
+  "lon": -111.755294986887,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.753Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.753Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "baker-farms-1341-conicville-rd",
+  "name": "Baker Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1341 Conicville Rd, VA",
+  "locationCity": "1341 Conicville Rd",
+  "locationState": "VA",
+  "locationZipcode": "22842",
+  "lat": 38.82084499058354,
+  "lon": -78.67126001914556,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.365Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.365Z"
+}

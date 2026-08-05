@@ -1,0 +1,19 @@
+{
+  "slug": "simon-farm-647-urbana-road",
+  "name": "Simon Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "647 Urbana Road, IA",
+  "locationCity": "647 Urbana Road",
+  "locationState": "IA",
+  "locationZipcode": "52213",
+  "lat": 42.1979921918899,
+  "lon": -91.8142316345729,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.698Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.698Z"
+}

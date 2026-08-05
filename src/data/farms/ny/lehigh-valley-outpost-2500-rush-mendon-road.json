@@ -1,0 +1,19 @@
+{
+  "slug": "lehigh-valley-outpost-2500-rush-mendon-road",
+  "name": "Lehigh Valley Outpost",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2500 Rush-Mendon Road, NY",
+  "locationCity": "2500 Rush-Mendon Road",
+  "locationState": "NY",
+  "locationZipcode": "14472",
+  "lat": 42.994783619882,
+  "lon": -77.6182069059546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.204Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.204Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "acworth-farmers-market-4405-cherokee-street",
+  "name": "Acworth Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4405 Cherokee Street, GA",
+  "locationCity": "4405 Cherokee Street",
+  "locationState": "GA",
+  "locationZipcode": "30101",
+  "lat": 34.0685577822765,
+  "lon": -84.6770225111455,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

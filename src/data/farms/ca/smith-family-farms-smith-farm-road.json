@@ -1,0 +1,19 @@
+{
+  "slug": "smith-family-farms-smith-farm-road",
+  "name": "Smith Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Smith Farm Road, CA",
+  "locationCity": "Smith Farm Road",
+  "locationState": "CA",
+  "locationZipcode": "94548",
+  "lat": 37.9601019890793,
+  "lon": -121.67722798962,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.773Z"
+}

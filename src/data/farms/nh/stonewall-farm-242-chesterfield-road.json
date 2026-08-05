@@ -1,0 +1,19 @@
+{
+  "slug": "stonewall-farm-242-chesterfield-road",
+  "name": "Stonewall Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "242 Chesterfield Road, NH",
+  "locationCity": "242 Chesterfield Road",
+  "locationState": "NH",
+  "locationZipcode": "03431",
+  "lat": 42.9311469955981,
+  "lon": -72.3404020128494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.495Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.495Z"
+}

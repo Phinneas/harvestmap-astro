@@ -1,0 +1,19 @@
+{
+  "slug": "linton-farmers-market-sr-54-linton",
+  "name": "Linton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "SR 54 Linton, IN",
+  "locationCity": "SR 54 Linton",
+  "locationState": "IN",
+  "locationZipcode": "47441",
+  "lat": 39.03529503353243,
+  "lon": -87.1811988663151,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "alive-del-ray-food-hub-2601-mount-vernon-ave",
+  "name": "ALIVE! Del Ray Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2601 Mount Vernon Ave, VA",
+  "locationCity": "2601 Mount Vernon Ave",
+  "locationState": "VA",
+  "locationZipcode": "22301",
+  "lat": 38.828558981804434,
+  "lon": -77.05885903772845,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:05.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:05.057Z"
+}

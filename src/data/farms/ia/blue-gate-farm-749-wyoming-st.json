@@ -1,0 +1,19 @@
+{
+  "slug": "blue-gate-farm-749-wyoming-st",
+  "name": "Blue Gate Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "749 Wyoming St, IA",
+  "locationCity": "749 Wyoming St",
+  "locationState": "IA",
+  "locationZipcode": "50049",
+  "lat": 41.1617283,
+  "lon": -93.2061662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.419Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.419Z"
+}

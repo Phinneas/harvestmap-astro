@@ -1,0 +1,19 @@
+{
+  "slug": "turner-farm-7400-given-rd",
+  "name": "Turner Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7400 Given Rd, OH",
+  "locationCity": "7400 Given Rd",
+  "locationState": "OH",
+  "locationZipcode": "45243",
+  "lat": 39.18982600755515,
+  "lon": -84.32084699362557,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.927Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.927Z"
+}

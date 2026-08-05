@@ -1,0 +1,19 @@
+{
+  "slug": "salisbury-farm-plainfield",
+  "name": "Salisbury Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Plainfield, RI",
+  "locationCity": "Plainfield",
+  "locationState": "RI",
+  "locationZipcode": "02919",
+  "lat": 41.789462859635,
+  "lon": -71.5206595940454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.058Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.058Z"
+}

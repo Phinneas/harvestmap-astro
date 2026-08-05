@@ -1,0 +1,19 @@
+{
+  "slug": "menlo-park-farmers-market-chestnut-menlo-avenues",
+  "name": "Menlo Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Chestnut & Menlo Avenues, CA",
+  "locationCity": "Chestnut & Menlo Avenues",
+  "locationState": "CA",
+  "locationZipcode": "94025",
+  "lat": 37.450822,
+  "lon": -122.1841,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.339Z"
+}

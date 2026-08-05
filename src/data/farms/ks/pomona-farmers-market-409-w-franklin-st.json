@@ -1,0 +1,19 @@
+{
+  "slug": "pomona-farmers-market-409-w-franklin-st",
+  "name": "Pomona Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "409 W. Franklin St., KS",
+  "locationCity": "409 W. Franklin St.",
+  "locationState": "KS",
+  "locationZipcode": "66067",
+  "lat": 38.60848592042584,
+  "lon": -95.45795801938371,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

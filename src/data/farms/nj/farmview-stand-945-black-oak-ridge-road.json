@@ -1,0 +1,19 @@
+{
+  "slug": "farmview-stand-945-black-oak-ridge-road",
+  "name": "Farmview Stand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "945 Black Oak Ridge Road, NJ",
+  "locationCity": "945 Black Oak Ridge Road",
+  "locationState": "NJ",
+  "locationZipcode": "07440",
+  "lat": 40.9714110107028,
+  "lon": -74.2726150128397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.197Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.197Z"
+}

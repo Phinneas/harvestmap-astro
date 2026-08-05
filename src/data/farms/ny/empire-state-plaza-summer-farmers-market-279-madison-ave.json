@@ -1,0 +1,19 @@
+{
+  "slug": "empire-state-plaza-summer-farmers-market-279-madison-ave",
+  "name": "Empire State Plaza Summer Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "279 Madison Ave, NY",
+  "locationCity": "279 Madison Ave",
+  "locationState": "NY",
+  "locationZipcode": "12242",
+  "lat": 42.64891141784639,
+  "lon": -73.76145013357448,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

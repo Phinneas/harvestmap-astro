@@ -1,0 +1,19 @@
+{
+  "slug": "oxford-community-market-1801-university-ave-oxford",
+  "name": "Oxford Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1801 University Ave. Oxford, MS",
+  "locationCity": "1801 University Ave. Oxford",
+  "locationState": "MS",
+  "locationZipcode": "38655",
+  "lat": 34.36285961307257,
+  "lon": -89.51074999593568,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

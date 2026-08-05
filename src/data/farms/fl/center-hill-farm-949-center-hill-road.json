@@ -1,0 +1,19 @@
+{
+  "slug": "center-hill-farm-949-center-hill-road",
+  "name": "Center Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "949 Center Hill Road, FL",
+  "locationCity": "949 Center Hill Road",
+  "locationState": "FL",
+  "locationZipcode": "33834",
+  "lat": 27.5970221323347,
+  "lon": -81.8957107935839,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.814Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.814Z"
+}

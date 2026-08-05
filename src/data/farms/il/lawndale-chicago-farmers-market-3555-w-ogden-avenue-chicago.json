@@ -1,0 +1,19 @@
+{
+  "slug": "lawndale-chicago-farmers-market-3555-w-ogden-avenue-chicago",
+  "name": "Lawndale (Chicago) Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3555 W. Ogden Avenue Chicago, IL",
+  "locationCity": "3555 W. Ogden Avenue Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60623",
+  "lat": 41.85447338749073,
+  "lon": -87.7147005861897,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bear-knoll-farm-west-farms-road",
+  "name": "Bear Knoll Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "West Farms Road, NH",
+  "locationCity": "West Farms Road",
+  "locationState": "NH",
+  "locationZipcode": "03741",
+  "lat": 43.6703898531237,
+  "lon": -72.1203436743166,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.930Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "greenworks-farmers-market-6114-old-goldmine-rd-marshville",
+  "name": "Greenworks Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6114 Old Goldmine Rd Marshville, NC",
+  "locationCity": "6114 Old Goldmine Rd Marshville",
+  "locationState": "NC",
+  "locationZipcode": "28103",
+  "lat": 35.05397127974022,
+  "lon": -80.3443930838699,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

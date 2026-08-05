@@ -1,0 +1,19 @@
+{
+  "slug": "alba-organics-1700-old-stage-rd",
+  "name": "Alba Organics",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1700 Old Stage Rd, CA",
+  "locationCity": "1700 Old Stage Rd",
+  "locationState": "CA",
+  "locationZipcode": "93908",
+  "lat": 36.612027,
+  "lon": -121.51926,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.239Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.239Z"
+}

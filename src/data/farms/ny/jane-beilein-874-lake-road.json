@@ -1,0 +1,19 @@
+{
+  "slug": "jane-beilein-874-lake-road",
+  "name": "Jane Beilein",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "874 Lake Road, NY",
+  "locationCity": "874 Lake Road",
+  "locationState": "NY",
+  "locationZipcode": "14028",
+  "lat": 43.3308999657013,
+  "lon": -78.7368201279964,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.426Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.426Z"
+}

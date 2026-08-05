@@ -1,0 +1,19 @@
+{
+  "slug": "heidi-s-farmstand-11999-cascade-rd",
+  "name": "Heidi's Farmstand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11999 Cascade Rd, MI",
+  "locationCity": "11999 Cascade Rd",
+  "locationState": "MI",
+  "locationZipcode": "11999",
+  "lat": 42.8856273155945,
+  "lon": -85.3710981975713,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.584Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.584Z"
+}

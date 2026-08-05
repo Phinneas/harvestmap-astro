@@ -1,0 +1,20 @@
+{
+  "slug": "lick-skillet-farm-800-lick-skillet-lane",
+  "name": "Lick Skillet Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "800 Lick Skillet Lane, TN",
+  "locationCity": "800 Lick Skillet Lane",
+  "locationState": "TN",
+  "locationZipcode": "37820",
+  "lat": 36.0967340022776,
+  "lon": -83.59481240790096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.813Z",
+  "crops": []
+}

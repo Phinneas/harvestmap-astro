@@ -1,0 +1,19 @@
+{
+  "slug": "floyd-county-farmers-market-floyds-knobs-400-block-lafollette-station",
+  "name": "Floyd County Farmers Market (Floyds Knobs)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Block Lafollette Station, IN",
+  "locationCity": "400 Block Lafollette Station",
+  "locationState": "IN",
+  "locationZipcode": "47119",
+  "lat": 38.315002,
+  "lon": -85.896109,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.615Z"
+}

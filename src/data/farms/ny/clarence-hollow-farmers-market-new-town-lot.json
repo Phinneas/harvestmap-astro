@@ -1,0 +1,19 @@
+{
+  "slug": "clarence-hollow-farmers-market-new-town-lot",
+  "name": "Clarence Hollow Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "New Town lot, NY",
+  "locationCity": "New Town lot",
+  "locationState": "NY",
+  "locationZipcode": "10717",
+  "lat": 42.98032,
+  "lon": -78.58945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.834Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.834Z"
+}

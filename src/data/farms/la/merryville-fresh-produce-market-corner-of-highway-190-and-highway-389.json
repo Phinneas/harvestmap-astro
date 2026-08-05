@@ -1,0 +1,19 @@
+{
+  "slug": "merryville-fresh-produce-market-corner-of-highway-190-and-highway-389",
+  "name": "Merryville Fresh Produce Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Corner Of highway 190 And highway 389, LA",
+  "locationCity": "Corner Of highway 190 And highway 389",
+  "locationState": "LA",
+  "locationZipcode": "70653",
+  "lat": 30.754338289030983,
+  "lon": -93.55201348362118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

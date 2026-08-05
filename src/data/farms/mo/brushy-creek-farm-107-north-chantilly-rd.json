@@ -1,0 +1,19 @@
+{
+  "slug": "brushy-creek-farm-107-north-chantilly-rd",
+  "name": "Brushy Creek Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "107 North Chantilly Rd, MO",
+  "locationCity": "107 North Chantilly Rd",
+  "locationState": "MO",
+  "locationZipcode": "63389",
+  "lat": 39.00392398657459,
+  "lon": -90.84344396872606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.889Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.889Z"
+}

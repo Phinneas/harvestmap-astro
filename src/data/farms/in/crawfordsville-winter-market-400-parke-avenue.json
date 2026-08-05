@@ -1,0 +1,19 @@
+{
+  "slug": "crawfordsville-winter-market-400-parke-avenue",
+  "name": "Crawfordsville Winter Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Parke Avenue, IN",
+  "locationCity": "400 Parke Avenue",
+  "locationState": "IN",
+  "locationZipcode": "47933",
+  "lat": 40.04604,
+  "lon": -86.896007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.610Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.610Z"
+}

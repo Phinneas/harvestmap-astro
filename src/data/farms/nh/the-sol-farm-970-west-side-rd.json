@@ -1,0 +1,19 @@
+{
+  "slug": "the-sol-farm-970-west-side-rd",
+  "name": "The SoL Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "970 West Side Rd, NH",
+  "locationCity": "970 West Side Rd",
+  "locationState": "NH",
+  "locationZipcode": "03860",
+  "lat": 44.002807011829134,
+  "lon": -71.12955999147592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.804Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.804Z"
+}

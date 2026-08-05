@@ -1,0 +1,19 @@
+{
+  "slug": "fresno-bipoc-produce-3926-n-mariposa-st",
+  "name": "Fresno BIPOC Produce",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3926 N Mariposa St, CA",
+  "locationCity": "3926 N Mariposa St",
+  "locationState": "CA",
+  "locationZipcode": "93726",
+  "lat": 36.78876777495665,
+  "lon": -119.77716503654474,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

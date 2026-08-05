@@ -1,0 +1,19 @@
+{
+  "slug": "delaney-community-farm-170-s-chambers-rd",
+  "name": "DeLaney Community Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "170 S. Chambers Rd., CO",
+  "locationCity": "170 S. Chambers Rd.",
+  "locationState": "CO",
+  "locationZipcode": "80017",
+  "lat": 39.7140704,
+  "lon": -104.8074685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.574Z"
+}

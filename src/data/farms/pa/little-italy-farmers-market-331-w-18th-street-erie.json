@@ -1,0 +1,19 @@
+{
+  "slug": "little-italy-farmers-market-331-w-18th-street-erie",
+  "name": "Little Italy Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "331 W. 18th Street Erie, PA",
+  "locationCity": "331 W. 18th Street Erie",
+  "locationState": "PA",
+  "locationZipcode": "16502",
+  "lat": 42.11595416641338,
+  "lon": -80.0849071626548,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

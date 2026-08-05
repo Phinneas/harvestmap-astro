@@ -1,0 +1,20 @@
+{
+  "slug": "main-street-dyersburg-farmers-market-335-clark-ave-south",
+  "name": "Main Street Dyersburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "335 Clark Ave. South, TN",
+  "locationCity": "335 Clark Ave. South",
+  "locationState": "TN",
+  "locationZipcode": "38024",
+  "lat": 36.030081,
+  "lon": -89.389549,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.292Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "osborn-country-harvest-1021-state-route-6",
+  "name": "Osborn Country Harvest",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1021 State Route 6, WA",
+  "locationCity": "1021 State Route 6",
+  "locationState": "WA",
+  "locationZipcode": "98532",
+  "lat": 46.6462570180401,
+  "lon": -123.008076987699,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.087Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.087Z"
+}

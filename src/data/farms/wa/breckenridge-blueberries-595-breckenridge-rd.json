@@ -1,0 +1,19 @@
+{
+  "slug": "breckenridge-blueberries-595-breckenridge-rd",
+  "name": "Breckenridge Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "595 Breckenridge Rd, WA",
+  "locationCity": "595 Breckenridge Rd",
+  "locationState": "WA",
+  "locationZipcode": "98247",
+  "lat": 48.9275182089809,
+  "lon": -122.314732080148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.128Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.128Z"
+}

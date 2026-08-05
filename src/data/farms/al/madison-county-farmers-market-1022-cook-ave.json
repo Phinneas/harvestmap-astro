@@ -1,0 +1,19 @@
+{
+  "slug": "madison-county-farmers-market-1022-cook-ave",
+  "name": "Madison County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1022 Cook Ave., AL",
+  "locationCity": "1022 Cook Ave.",
+  "locationState": "AL",
+  "locationZipcode": "35801",
+  "lat": 34.74320985572215,
+  "lon": -86.59970608602458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

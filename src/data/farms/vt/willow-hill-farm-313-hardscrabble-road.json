@@ -1,0 +1,20 @@
+{
+  "slug": "willow-hill-farm-313-hardscrabble-road",
+  "name": "Willow Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "313 Hardscrabble Road, VT",
+  "locationCity": "313 Hardscrabble Road",
+  "locationState": "VT",
+  "locationZipcode": "05468",
+  "lat": 44.6138760003326,
+  "lon": -73.0826190361206,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.018Z",
+  "crops": []
+}

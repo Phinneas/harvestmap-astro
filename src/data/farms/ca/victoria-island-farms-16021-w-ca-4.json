@@ -1,0 +1,20 @@
+{
+  "slug": "victoria-island-farms-16021-w-ca-4",
+  "name": "Victoria Island Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16021 W. Ca-4, CA",
+  "locationCity": "16021 W. Ca-4",
+  "locationState": "CA",
+  "locationZipcode": "16021",
+  "lat": 37.89096822933848,
+  "lon": -121.5099636737699,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.850Z",
+  "crops": []
+}

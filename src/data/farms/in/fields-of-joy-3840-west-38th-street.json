@@ -1,0 +1,19 @@
+{
+  "slug": "fields-of-joy-3840-west-38th-street",
+  "name": "Fields of Joy",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3840 West 38th Street, IN",
+  "locationCity": "3840 West 38th Street",
+  "locationState": "IN",
+  "locationZipcode": "46011",
+  "lat": 40.076303002460065,
+  "lon": -85.73934002115361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.599Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bedford-farmers-market-209-route-101",
+  "name": "Bedford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "209 Route 101, NH",
+  "locationCity": "209 Route 101",
+  "locationState": "NH",
+  "locationZipcode": "03110",
+  "lat": 42.938268,
+  "lon": -71.525849,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.016Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.016Z"
+}

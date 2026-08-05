@@ -1,0 +1,19 @@
+{
+  "slug": "windrush-farm-250-windrush-lane",
+  "name": "Windrush Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "250 Windrush Lane, VA",
+  "locationCity": "250 Windrush Lane",
+  "locationState": "VA",
+  "locationZipcode": "24128",
+  "lat": 37.2701219922258,
+  "lon": -80.5520300104059,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.205Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.205Z"
+}

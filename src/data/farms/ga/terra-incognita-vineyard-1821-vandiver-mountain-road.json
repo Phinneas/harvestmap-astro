@@ -1,0 +1,19 @@
+{
+  "slug": "terra-incognita-vineyard-1821-vandiver-mountain-road",
+  "name": "Terra Incognita vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1821 Vandiver Mountain Road, GA",
+  "locationCity": "1821 Vandiver Mountain Road",
+  "locationState": "GA",
+  "locationZipcode": "30523",
+  "lat": 34.73321423076665,
+  "lon": -83.50867328786617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.401Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.401Z"
+}

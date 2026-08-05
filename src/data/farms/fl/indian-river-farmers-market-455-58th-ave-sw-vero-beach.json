@@ -1,0 +1,19 @@
+{
+  "slug": "indian-river-farmers-market-455-58th-ave-sw-vero-beach",
+  "name": "Indian River Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "455 58th Ave SW. Vero Beach, FL",
+  "locationCity": "455 58th Ave SW. Vero Beach",
+  "locationState": "FL",
+  "locationZipcode": "32968",
+  "lat": 27.597601176025417,
+  "lon": -80.44724461239032,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

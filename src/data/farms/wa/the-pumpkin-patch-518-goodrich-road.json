@@ -1,0 +1,19 @@
+{
+  "slug": "the-pumpkin-patch-518-goodrich-road",
+  "name": "The Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "518 Goodrich Road, WA",
+  "locationCity": "518 Goodrich Road",
+  "locationState": "WA",
+  "locationZipcode": "98531",
+  "lat": 46.7533479848659,
+  "lon": -123.01092499076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.093Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.093Z"
+}

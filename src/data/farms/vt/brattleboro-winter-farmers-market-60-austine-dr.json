@@ -1,0 +1,19 @@
+{
+  "slug": "brattleboro-winter-farmers-market-60-austine-dr",
+  "name": "Brattleboro Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "60 Austine Dr, VT",
+  "locationCity": "60 Austine Dr",
+  "locationState": "VT",
+  "locationZipcode": "05301",
+  "lat": 44.5588028,
+  "lon": -72.5778415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.161Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.161Z"
+}

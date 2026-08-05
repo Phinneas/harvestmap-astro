@@ -1,0 +1,19 @@
+{
+  "slug": "palominas-farmers-market-hereford-az-85615",
+  "name": "Palominas Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hereford AZ 85615, AZ",
+  "locationCity": "Hereford AZ 85615",
+  "locationState": "AZ",
+  "locationZipcode": "85615",
+  "lat": 31.43567500000006,
+  "lon": -110.24336999999997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

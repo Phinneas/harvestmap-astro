@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-san-bernardino-farmshare-market-corner-of-court-street-and-2nd-street",
+  "name": "Downtown San Bernardino Farmshare Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Corner of Court Street and 2nd Street, CA",
+  "locationCity": "Corner of Court Street and 2nd Street",
+  "locationState": "CA",
+  "locationZipcode": "92401",
+  "lat": 34.1027886,
+  "lon": -117.2932276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.049Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.049Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cass-county-farmers-market-10101-east-state-route-a-drexel",
+  "name": "Cass County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10101 East State Route A Drexel, MO",
+  "locationCity": "10101 East State Route A Drexel",
+  "locationState": "MO",
+  "locationZipcode": "10101",
+  "lat": 38.56221955235793,
+  "lon": -94.48456383243948,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.492Z"
+}

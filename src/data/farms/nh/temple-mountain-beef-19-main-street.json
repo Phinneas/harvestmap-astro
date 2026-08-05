@@ -1,0 +1,19 @@
+{
+  "slug": "temple-mountain-beef-19-main-street",
+  "name": "Temple Mountain Beef",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "19 Main Street, NH",
+  "locationCity": "19 Main Street",
+  "locationState": "NH",
+  "locationZipcode": "03084",
+  "lat": 42.8198100000001,
+  "lon": -71.85149,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.831Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.831Z"
+}

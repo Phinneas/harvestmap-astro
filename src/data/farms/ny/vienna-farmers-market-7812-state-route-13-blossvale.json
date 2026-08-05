@@ -1,0 +1,19 @@
+{
+  "slug": "vienna-farmers-market-7812-state-route-13-blossvale",
+  "name": "Vienna Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7812 State Route 13 Blossvale, NY",
+  "locationCity": "7812 State Route 13 Blossvale",
+  "locationState": "NY",
+  "locationZipcode": "13308",
+  "lat": 43.24127994276891,
+  "lon": -75.7019672722012,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

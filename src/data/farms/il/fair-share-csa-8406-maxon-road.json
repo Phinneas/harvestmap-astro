@@ -1,0 +1,19 @@
+{
+  "slug": "fair-share-csa-8406-maxon-road",
+  "name": "Fair Share CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8406 Maxon Road, IL",
+  "locationCity": "8406 Maxon Road",
+  "locationState": "IL",
+  "locationZipcode": "60033",
+  "lat": 42.448544,
+  "lon": -88.665075,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.473Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.473Z"
+}

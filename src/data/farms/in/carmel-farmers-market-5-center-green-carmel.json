@@ -1,0 +1,19 @@
+{
+  "slug": "carmel-farmers-market-5-center-green-carmel",
+  "name": "Carmel Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5 Center Green Carmel, IN",
+  "locationCity": "5 Center Green Carmel",
+  "locationState": "IN",
+  "locationZipcode": "46032",
+  "lat": 39.969414396192214,
+  "lon": -86.13076348964587,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

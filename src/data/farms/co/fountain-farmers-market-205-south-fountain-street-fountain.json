@@ -1,0 +1,19 @@
+{
+  "slug": "fountain-farmers-market-205-south-fountain-street-fountain",
+  "name": "Fountain Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 South Fountain Street Fountain, CO",
+  "locationCity": "205 South Fountain Street Fountain",
+  "locationState": "CO",
+  "locationZipcode": "80817",
+  "lat": 38.68219144414768,
+  "lon": -104.70586738595367,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

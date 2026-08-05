@@ -1,0 +1,19 @@
+{
+  "slug": "pike-farmers-market-5429-lafayette-road",
+  "name": "Pike Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5429 Lafayette Road, IN",
+  "locationCity": "5429 Lafayette Road",
+  "locationState": "IN",
+  "locationZipcode": "46254",
+  "lat": 39.849755,
+  "lon": -86.258818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.614Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.614Z"
+}

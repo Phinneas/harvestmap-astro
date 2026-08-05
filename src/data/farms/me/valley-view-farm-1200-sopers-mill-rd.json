@@ -1,0 +1,19 @@
+{
+  "slug": "valley-view-farm-1200-sopers-mill-rd",
+  "name": "Valley View Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1200 Sopers Mill Rd., ME",
+  "locationCity": "1200 Sopers Mill Rd.",
+  "locationState": "ME",
+  "locationZipcode": "04210",
+  "lat": 44.0034099,
+  "lon": -70.1990281,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.553Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.553Z"
+}

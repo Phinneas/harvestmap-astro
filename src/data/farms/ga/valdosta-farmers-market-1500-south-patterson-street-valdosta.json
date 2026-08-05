@@ -1,0 +1,19 @@
+{
+  "slug": "valdosta-farmers-market-1500-south-patterson-street-valdosta",
+  "name": "Valdosta Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1500 South Patterson Street Valdosta, GA",
+  "locationCity": "1500 South Patterson Street Valdosta",
+  "locationState": "GA",
+  "locationZipcode": "31601",
+  "lat": 30.81368216528409,
+  "lon": -83.26434374944598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

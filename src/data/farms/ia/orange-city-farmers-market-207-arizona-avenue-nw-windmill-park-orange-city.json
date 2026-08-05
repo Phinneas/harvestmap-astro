@@ -1,0 +1,19 @@
+{
+  "slug": "orange-city-farmers-market-207-arizona-avenue-nw-windmill-park-orange-city",
+  "name": "Orange City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "207 Arizona Avenue NW (Windmill Park) Orange City, IA",
+  "locationCity": "207 Arizona Avenue NW (Windmill Park) Orange City",
+  "locationState": "IA",
+  "locationZipcode": "51041",
+  "lat": 43.00735386408474,
+  "lon": -96.05968549873924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

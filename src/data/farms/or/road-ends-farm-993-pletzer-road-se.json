@@ -1,0 +1,19 @@
+{
+  "slug": "road-ends-farm-993-pletzer-road-se",
+  "name": "Road Ends Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "993 Pletzer Road SE, OR",
+  "locationCity": "993 Pletzer Road SE",
+  "locationState": "OR",
+  "locationZipcode": "97392",
+  "lat": 44.7285935149632,
+  "lon": -122.945560555578,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.929Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.929Z"
+}

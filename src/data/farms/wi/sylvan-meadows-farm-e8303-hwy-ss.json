@@ -1,0 +1,19 @@
+{
+  "slug": "sylvan-meadows-farm-e8303-hwy-ss",
+  "name": "Sylvan Meadows Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "e8303 hwy SS, WI",
+  "locationCity": "e8303 hwy SS",
+  "locationState": "WI",
+  "locationZipcode": "54665",
+  "lat": 43.5260228177188,
+  "lon": -90.8369511788883,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.019Z"
+}

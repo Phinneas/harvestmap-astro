@@ -1,0 +1,19 @@
+{
+  "slug": "greenport-farmers-market-622-first-street-greenport",
+  "name": "Greenport Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "622 First Street Greenport, NY",
+  "locationCity": "622 First Street Greenport",
+  "locationState": "NY",
+  "locationZipcode": "11944",
+  "lat": 41.106788118387165,
+  "lon": -72.36233421474093,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

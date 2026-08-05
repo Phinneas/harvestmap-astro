@@ -1,0 +1,19 @@
+{
+  "slug": "marysville-farmers-market-7th-street-and-broadway",
+  "name": "Marysville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7th Street and Broadway, KS",
+  "locationCity": "7th Street and Broadway",
+  "locationState": "KS",
+  "locationZipcode": "66508",
+  "lat": 39.84172001939348,
+  "lon": -96.64937003359636,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

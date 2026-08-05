@@ -1,0 +1,20 @@
+{
+  "slug": "riiska-brook-orchard-101-new-hartford-road",
+  "name": "Riiska Brook Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 New Hartford Road, MA",
+  "locationCity": "101 New Hartford Road",
+  "locationState": "MA",
+  "locationZipcode": "01255",
+  "lat": 42.0834588501991,
+  "lon": -73.1330399555774,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.560Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.560Z",
+  "crops": []
+}

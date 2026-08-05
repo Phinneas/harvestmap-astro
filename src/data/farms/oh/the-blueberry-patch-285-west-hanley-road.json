@@ -1,0 +1,19 @@
+{
+  "slug": "the-blueberry-patch-285-west-hanley-road",
+  "name": "The Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "285 West Hanley Road, OH",
+  "locationCity": "285 West Hanley Road",
+  "locationState": "OH",
+  "locationZipcode": "44904",
+  "lat": 40.6959218943844,
+  "lon": -82.5212809233205,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.786Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.786Z"
+}

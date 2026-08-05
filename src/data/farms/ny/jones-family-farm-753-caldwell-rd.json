@@ -1,0 +1,19 @@
+{
+  "slug": "jones-family-farm-753-caldwell-rd",
+  "name": "Jones Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "753 Caldwell Rd, NY",
+  "locationCity": "753 Caldwell Rd",
+  "locationState": "NY",
+  "locationZipcode": "13350",
+  "lat": 43.090489,
+  "lon": -75.00984,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

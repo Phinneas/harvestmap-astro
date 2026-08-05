@@ -1,0 +1,19 @@
+{
+  "slug": "cheyenne-farmers-market-702-w-lincolnway-cheyenne",
+  "name": "Cheyenne Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "702 W Lincolnway Cheyenne, WY",
+  "locationCity": "702 W Lincolnway Cheyenne",
+  "locationState": "WY",
+  "locationZipcode": "82001",
+  "lat": 41.130645384574336,
+  "lon": -104.82097971161188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

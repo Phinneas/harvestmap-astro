@@ -1,0 +1,19 @@
+{
+  "slug": "legare-farm-market-barre-535-us-route-302",
+  "name": "Legare Farm Market Barre",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "535 US Route 302, VT",
+  "locationCity": "535 US Route 302",
+  "locationState": "VT",
+  "locationZipcode": "05641",
+  "lat": 44.218812009421555,
+  "lon": -72.54158302794285,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:48.661Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:48.661Z"
+}

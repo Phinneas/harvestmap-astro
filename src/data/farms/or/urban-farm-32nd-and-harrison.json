@@ -1,0 +1,19 @@
+{
+  "slug": "urban-farm-32nd-and-harrison",
+  "name": "Urban Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "32nd and Harrison, OR",
+  "locationCity": "32nd and Harrison",
+  "locationState": "OR",
+  "locationZipcode": "97330",
+  "lat": 44.569949,
+  "lon": -123.27828,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.493Z"
+}

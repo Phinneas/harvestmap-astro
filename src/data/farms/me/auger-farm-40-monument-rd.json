@@ -1,0 +1,19 @@
+{
+  "slug": "auger-farm-40-monument-rd",
+  "name": "Auger Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "40 Monument Rd., ME",
+  "locationCity": "40 Monument Rd.",
+  "locationState": "ME",
+  "locationZipcode": "04406",
+  "lat": 45.16615666689637,
+  "lon": -69.45107256502429,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:00.120Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:00.120Z"
+}

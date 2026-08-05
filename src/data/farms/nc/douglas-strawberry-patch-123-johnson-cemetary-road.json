@@ -1,0 +1,19 @@
+{
+  "slug": "douglas-strawberry-patch-123-johnson-cemetary-road",
+  "name": "Douglas' Strawberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "123 Johnson Cemetary Road, NC",
+  "locationCity": "123 Johnson Cemetary Road",
+  "locationState": "NC",
+  "locationZipcode": "27332",
+  "lat": 35.3521607422047,
+  "lon": -79.1785429414262,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.659Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.659Z"
+}

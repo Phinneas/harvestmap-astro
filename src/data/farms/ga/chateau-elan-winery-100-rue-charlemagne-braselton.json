@@ -1,0 +1,19 @@
+{
+  "slug": "chateau-elan-winery-100-rue-charlemagne-braselton",
+  "name": "Chateau Elan Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 Rue Charlemagne Braselton, GA",
+  "locationCity": "100 Rue Charlemagne Braselton",
+  "locationState": "GA",
+  "locationZipcode": "30517",
+  "lat": 34.1020350037618,
+  "lon": -83.8175070024177,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.337Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.337Z"
+}

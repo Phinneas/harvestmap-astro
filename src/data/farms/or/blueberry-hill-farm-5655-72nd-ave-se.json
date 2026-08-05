@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-farm-5655-72nd-ave-se",
+  "name": "Blueberry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5655 - 72nd Ave SE, OR",
+  "locationCity": "5655 - 72nd Ave SE",
+  "locationState": "OR",
+  "locationZipcode": "97317",
+  "lat": 44.87280598137193,
+  "lon": -122.9147699768258,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.062Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.062Z"
+}

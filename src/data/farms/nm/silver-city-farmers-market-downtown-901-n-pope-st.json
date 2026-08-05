@@ -1,0 +1,19 @@
+{
+  "slug": "silver-city-farmers-market-downtown-901-n-pope-st",
+  "name": "Silver City Farmers' Market Downtown",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "901 N Pope ST, NM",
+  "locationCity": "901 N Pope ST",
+  "locationState": "NM",
+  "locationZipcode": "88061",
+  "lat": 32.774517,
+  "lon": -108.27618,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:58.762Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:58.762Z"
+}

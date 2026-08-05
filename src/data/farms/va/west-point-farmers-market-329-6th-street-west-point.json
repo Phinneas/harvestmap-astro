@@ -1,0 +1,19 @@
+{
+  "slug": "west-point-farmers-market-329-6th-street-west-point",
+  "name": "West Point Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "329 6th Street WEST POINT, VA",
+  "locationCity": "329 6th Street WEST POINT",
+  "locationState": "VA",
+  "locationZipcode": "23181",
+  "lat": 37.53075868958741,
+  "lon": -76.79671491429198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

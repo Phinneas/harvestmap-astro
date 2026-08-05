@@ -1,0 +1,19 @@
+{
+  "slug": "certified-arkansas-farmers-market-520-main-street-north-little-rock",
+  "name": "Certified Arkansas Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "520 Main Street North Little Rock, AR",
+  "locationCity": "520 Main Street North Little Rock",
+  "locationState": "AR",
+  "locationZipcode": "72114",
+  "lat": 34.75830921398268,
+  "lon": -92.26765014408758,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

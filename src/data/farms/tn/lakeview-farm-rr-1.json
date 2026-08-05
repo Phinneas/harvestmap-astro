@@ -1,0 +1,19 @@
+{
+  "slug": "lakeview-farm-rr-1",
+  "name": "Lakeview Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "RR  1, TN",
+  "locationCity": "RR  1",
+  "locationState": "TN",
+  "locationZipcode": "37708",
+  "lat": 36.3442439,
+  "lon": -83.2819756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.359Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.359Z"
+}

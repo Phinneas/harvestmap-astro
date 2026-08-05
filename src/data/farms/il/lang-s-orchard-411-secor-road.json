@@ -1,0 +1,19 @@
+{
+  "slug": "lang-s-orchard-411-secor-road",
+  "name": "Lang's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "411 Secor Road, IL",
+  "locationCity": "411 Secor Road",
+  "locationState": "IL",
+  "locationZipcode": "60098",
+  "lat": 42.2840165885215,
+  "lon": -88.5262243212421,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.919Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.919Z"
+}

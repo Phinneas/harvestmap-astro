@@ -1,0 +1,19 @@
+{
+  "slug": "fleming-farm-264-martindale-road",
+  "name": "Fleming Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "264 Martindale Road, MI",
+  "locationCity": "264 Martindale Road",
+  "locationState": "MI",
+  "locationZipcode": "49735",
+  "lat": 45.1003178582732,
+  "lon": -84.7263595874669,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.571Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.571Z"
+}

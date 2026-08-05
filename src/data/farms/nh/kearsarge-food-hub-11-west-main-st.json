@@ -1,0 +1,19 @@
+{
+  "slug": "kearsarge-food-hub-11-west-main-st",
+  "name": "Kearsarge Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "11 West Main St, NH",
+  "locationCity": "11 West Main St",
+  "locationState": "NH",
+  "locationZipcode": "03221",
+  "lat": 43.26969198103515,
+  "lon": -71.96652998773685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.986Z"
+}

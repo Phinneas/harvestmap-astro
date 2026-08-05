@@ -1,0 +1,20 @@
+{
+  "slug": "river-basin-farms-llc-126-main-rd",
+  "name": "River Basin Farms, LLC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "126 Main Rd, ME",
+  "locationCity": "126 Main Rd",
+  "locationState": "ME",
+  "locationZipcode": "04475",
+  "lat": 45.15202805399372,
+  "lon": -68.61740366690205,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.053Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.053Z",
+  "crops": []
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "lone-pine-farms-91909-river-road",
+  "name": "Lone Pine Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "91909 River Road, OR",
+  "locationCity": "91909 River Road",
+  "locationState": "OR",
+  "locationZipcode": "91909",
+  "lat": 44.15800000268874,
+  "lon": -123.1558979689869,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.066Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.066Z",
+  "crops": []
+}

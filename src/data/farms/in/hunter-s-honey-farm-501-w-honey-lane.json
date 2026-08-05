@@ -1,0 +1,20 @@
+{
+  "slug": "hunter-s-honey-farm-501-w-honey-lane",
+  "name": "Hunter’s Honey Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "501 W Honey Lane, IN",
+  "locationCity": "501 W Honey Lane",
+  "locationState": "IN",
+  "locationZipcode": "46151",
+  "lat": 39.475150440911,
+  "lon": -86.5513413321519,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.387Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.387Z",
+  "crops": []
+}

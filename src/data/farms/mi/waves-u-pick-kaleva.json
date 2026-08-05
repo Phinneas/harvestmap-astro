@@ -1,0 +1,19 @@
+{
+  "slug": "waves-u-pick-kaleva",
+  "name": "Waves U-pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Kaleva, MI",
+  "locationCity": "Kaleva",
+  "locationState": "MI",
+  "locationZipcode": "49645",
+  "lat": 44.3701556,
+  "lon": -86.0194946,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.741Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.741Z"
+}

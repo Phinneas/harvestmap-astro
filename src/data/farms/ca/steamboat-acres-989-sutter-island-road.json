@@ -1,0 +1,19 @@
+{
+  "slug": "steamboat-acres-989-sutter-island-road",
+  "name": "Steamboat Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "989 Sutter Island Road, CA",
+  "locationCity": "989 Sutter Island Road",
+  "locationState": "CA",
+  "locationZipcode": "95615",
+  "lat": 38.2653478851499,
+  "lon": -121.601553213653,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.816Z"
+}

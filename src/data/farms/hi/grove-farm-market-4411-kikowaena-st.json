@@ -1,0 +1,19 @@
+{
+  "slug": "grove-farm-market-4411-kikowaena-st",
+  "name": "Grove Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4411 Kikowaena St, HI",
+  "locationCity": "4411 Kikowaena St",
+  "locationState": "HI",
+  "locationZipcode": "96766",
+  "lat": 21.965378,
+  "lon": -159.39557,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:16.426Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:16.426Z"
+}

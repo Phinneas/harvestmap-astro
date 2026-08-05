@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-514-pinecrest-way",
+  "name": "Blueberry Hill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "514 Pinecrest Way, GA",
+  "locationCity": "514 Pinecrest Way",
+  "locationState": "GA",
+  "locationZipcode": "30115",
+  "lat": 34.179655,
+  "lon": -84.499555,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.359Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.359Z"
+}

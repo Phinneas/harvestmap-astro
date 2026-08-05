@@ -1,0 +1,19 @@
+{
+  "slug": "freshlist-1300-pegram-st",
+  "name": "Freshlist",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1300 Pegram St, NC",
+  "locationCity": "1300 Pegram St",
+  "locationState": "NC",
+  "locationZipcode": "28205",
+  "lat": 35.2284947,
+  "lon": -80.817012,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.320Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.320Z"
+}

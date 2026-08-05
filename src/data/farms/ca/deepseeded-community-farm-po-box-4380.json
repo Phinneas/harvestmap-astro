@@ -1,0 +1,19 @@
+{
+  "slug": "deepseeded-community-farm-po-box-4380",
+  "name": "DeepSeeded Community Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 4380, CA",
+  "locationCity": "PO Box 4380",
+  "locationState": "CA",
+  "locationZipcode": "95518",
+  "lat": 40.87,
+  "lon": -124.08,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.039Z"
+}

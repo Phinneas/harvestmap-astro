@@ -1,0 +1,19 @@
+{
+  "slug": "fredericksburg-va-farmers-market-900-prince-edward-st",
+  "name": "Fredericksburg, VA Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "900 Prince Edward St, VA",
+  "locationCity": "900 Prince Edward St",
+  "locationState": "VA",
+  "locationZipcode": "22401",
+  "lat": 38.30158872690188,
+  "lon": -77.46216357807805,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

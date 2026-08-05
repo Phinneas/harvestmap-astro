@@ -1,0 +1,19 @@
+{
+  "slug": "plant-chicago-farmers-market-4459-s-marshfield-ave-chicago",
+  "name": "Plant Chicago Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4459 S. Marshfield Ave Chicago, IL",
+  "locationCity": "4459 S. Marshfield Ave Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60609",
+  "lat": 41.812977056633265,
+  "lon": -87.66630602573379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

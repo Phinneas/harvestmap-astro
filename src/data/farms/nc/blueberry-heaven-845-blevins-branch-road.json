@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-heaven-845-blevins-branch-road",
+  "name": "Blueberry Heaven",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "845 Blevins Branch Road, NC",
+  "locationCity": "845 Blevins Branch Road",
+  "locationState": "NC",
+  "locationZipcode": "28705",
+  "lat": 36.1105866377389,
+  "lon": -82.1793372919792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.647Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.647Z"
+}

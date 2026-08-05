@@ -1,0 +1,19 @@
+{
+  "slug": "peachblossom-apiaries-peachblossom-pt-road",
+  "name": "Peachblossom Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Peachblossom Pt Road, MD",
+  "locationCity": "Peachblossom Pt Road",
+  "locationState": "MD",
+  "locationZipcode": "21601",
+  "lat": 38.7359500000001,
+  "lon": -76.11911,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.232Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.232Z"
+}

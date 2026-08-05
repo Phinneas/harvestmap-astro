@@ -1,0 +1,19 @@
+{
+  "slug": "cook-area-farmers-market-127-s-river-st",
+  "name": "Cook Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "127 S River St, MN",
+  "locationCity": "127 S River St",
+  "locationState": "MN",
+  "locationZipcode": "55723",
+  "lat": 47.8515249,
+  "lon": -92.6893297,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wightman-s-farms-1184-mount-kemble-avenue",
+  "name": "Wightman's Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1184 Mount Kemble Avenue, NJ",
+  "locationCity": "1184 Mount Kemble Avenue",
+  "locationState": "NJ",
+  "locationZipcode": "07960",
+  "lat": 40.7393360187948,
+  "lon": -74.5392079812191,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.779Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.779Z"
+}

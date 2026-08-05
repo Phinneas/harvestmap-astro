@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-virginia-beach-farmers-market-3640-dam-neck-road-virginia-beach",
+  "name": "City of Virginia Beach Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3640 Dam Neck Road Virginia Beach, VA",
+  "locationCity": "3640 Dam Neck Road Virginia Beach",
+  "locationState": "VA",
+  "locationZipcode": "23453",
+  "lat": 36.77653446195186,
+  "lon": -76.0897235879788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

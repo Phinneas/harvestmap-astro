@@ -1,0 +1,20 @@
+{
+  "slug": "pochuck-valley-farm-962-mcafee-glenwood-road",
+  "name": "Pochuck Valley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "962 McAfee - Glenwood Road, NJ",
+  "locationCity": "962 McAfee - Glenwood Road",
+  "locationState": "NJ",
+  "locationZipcode": "07418",
+  "lat": 41.2500840198482,
+  "lon": -74.4783759836472,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.716Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.716Z",
+  "crops": []
+}

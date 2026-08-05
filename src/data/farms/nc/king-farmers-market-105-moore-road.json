@@ -1,0 +1,19 @@
+{
+  "slug": "king-farmers-market-105-moore-road",
+  "name": "King Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 Moore Road, NC",
+  "locationCity": "105 Moore Road",
+  "locationState": "NC",
+  "locationZipcode": "27021",
+  "lat": 36.276367,
+  "lon": -80.341178,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.228Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.228Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wilco-strawberry-farms-841-wilco-highway-ne",
+  "name": "Wilco Strawberry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "841 Wilco highway NE, OR",
+  "locationCity": "841 Wilco highway NE",
+  "locationState": "OR",
+  "locationZipcode": "97071",
+  "lat": 45.1233786803111,
+  "lon": -122.805001972044,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.041Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.041Z"
+}

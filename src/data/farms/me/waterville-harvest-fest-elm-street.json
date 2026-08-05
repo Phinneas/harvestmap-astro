@@ -1,0 +1,19 @@
+{
+  "slug": "waterville-harvest-fest-elm-street",
+  "name": "Waterville Harvest Fest",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Elm Street, ME",
+  "locationCity": "Elm Street",
+  "locationState": "ME",
+  "locationZipcode": "04901",
+  "lat": 44.5527900000001,
+  "lon": -69.6313499999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.903Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.903Z"
+}

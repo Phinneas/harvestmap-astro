@@ -1,0 +1,19 @@
+{
+  "slug": "west-orchards-875-jewell-avenue",
+  "name": "West Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "875 Jewell Avenue, MO",
+  "locationCity": "875 Jewell Avenue",
+  "locationState": "MO",
+  "locationZipcode": "63552",
+  "lat": 39.825762178365,
+  "lon": -92.4882916621302,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.820Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.820Z"
+}

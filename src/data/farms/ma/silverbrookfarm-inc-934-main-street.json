@@ -1,0 +1,19 @@
+{
+  "slug": "silverbrookfarm-inc-934-main-street",
+  "name": "Silverbrookfarm Inc",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "934 Main Street, MA",
+  "locationCity": "934 Main Street",
+  "locationState": "MA",
+  "locationZipcode": "02743",
+  "lat": 41.72567760652197,
+  "lon": -70.8884394592086,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.908Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.908Z"
+}

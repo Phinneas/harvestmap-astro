@@ -1,0 +1,20 @@
+{
+  "slug": "beewench-farm-198-san-juan-rd",
+  "name": "BeeWench Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "198 San Juan Rd, CA",
+  "locationCity": "198 San Juan Rd",
+  "locationState": "CA",
+  "locationZipcode": "93461",
+  "lat": 35.6537339909252,
+  "lon": -120.364390025085,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.724Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.724Z",
+  "crops": []
+}

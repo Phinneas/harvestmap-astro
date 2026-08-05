@@ -1,0 +1,19 @@
+{
+  "slug": "east-los-angeles-farmers-market-4801-e-3rd-st",
+  "name": "East Los Angeles Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4801 E. 3rd St., CA",
+  "locationCity": "4801 E. 3rd St.",
+  "locationState": "CA",
+  "locationZipcode": "90022",
+  "lat": 34.03337435914793,
+  "lon": -118.16072530655507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

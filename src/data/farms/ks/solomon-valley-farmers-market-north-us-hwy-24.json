@@ -1,0 +1,19 @@
+{
+  "slug": "solomon-valley-farmers-market-north-us-hwy-24",
+  "name": "Solomon Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "North Us Hwy 24, KS",
+  "locationCity": "North Us Hwy 24",
+  "locationState": "KS",
+  "locationZipcode": "67420",
+  "lat": 39.47633131616045,
+  "lon": -98.10005375277896,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

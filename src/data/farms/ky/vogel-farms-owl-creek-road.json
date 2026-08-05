@@ -1,0 +1,19 @@
+{
+  "slug": "vogel-farms-owl-creek-road",
+  "name": "Vogel Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Owl Creek Road, KY",
+  "locationCity": "Owl Creek Road",
+  "locationState": "KY",
+  "locationZipcode": "41059",
+  "lat": 39.0230079875435,
+  "lon": -84.387629974814,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.608Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.608Z"
+}

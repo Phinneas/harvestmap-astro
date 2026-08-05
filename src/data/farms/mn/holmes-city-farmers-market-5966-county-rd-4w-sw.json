@@ -1,0 +1,19 @@
+{
+  "slug": "holmes-city-farmers-market-5966-county-rd-4w-sw",
+  "name": "Holmes City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5966 County Rd 4W SW, MN",
+  "locationCity": "5966 County Rd 4W SW",
+  "locationState": "MN",
+  "locationZipcode": "56327",
+  "lat": 45.8362362,
+  "lon": -95.5416219,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

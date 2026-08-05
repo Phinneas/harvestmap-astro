@@ -1,0 +1,19 @@
+{
+  "slug": "memphis-farmers-market-540-s-front-street",
+  "name": "Memphis Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "540 S. Front Street, TN",
+  "locationCity": "540 S. Front Street",
+  "locationState": "TN",
+  "locationZipcode": "38103",
+  "lat": 35.132038,
+  "lon": -90.06008,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.303Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.303Z"
+}

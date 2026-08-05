@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-fruit-farm-3650-holly-grove-road",
+  "name": "Jackson Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3650 Holly Grove Road, TX",
+  "locationCity": "3650 Holly Grove Road",
+  "locationState": "TX",
+  "locationZipcode": "77351",
+  "lat": 30.5301798285237,
+  "lon": -94.7207564100152,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.676Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.676Z"
+}

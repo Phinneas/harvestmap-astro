@@ -1,0 +1,19 @@
+{
+  "slug": "bartlett-station-farmers-market-2629-bartlett-blvd-bartlett",
+  "name": "Bartlett Station Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2629 Bartlett Blvd Bartlett, TN",
+  "locationCity": "2629 Bartlett Blvd Bartlett",
+  "locationState": "TN",
+  "locationZipcode": "38134",
+  "lat": 35.19943208312792,
+  "lon": -89.86847965378705,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

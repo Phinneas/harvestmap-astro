@@ -1,0 +1,19 @@
+{
+  "slug": "waco-downtown-farmers-market-500-washington-avenue",
+  "name": "Waco Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Washington Avenue, TX",
+  "locationCity": "500 Washington Avenue",
+  "locationState": "TX",
+  "locationZipcode": "76701",
+  "lat": 31.55682,
+  "lon": -97.132941,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.029Z"
+}

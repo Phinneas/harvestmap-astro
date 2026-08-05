@@ -1,0 +1,19 @@
+{
+  "slug": "pomeroy-farm-brentwood-1600-eureka-ave",
+  "name": "Pomeroy Farm Brentwood",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1600 Eureka Ave, CA",
+  "locationCity": "1600 Eureka Ave",
+  "locationState": "CA",
+  "locationZipcode": "94513",
+  "lat": 37.9126939866285,
+  "lon": -121.685874006565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.800Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.800Z"
+}

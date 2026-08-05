@@ -1,0 +1,19 @@
+{
+  "slug": "topaz-farm-100-nw-sauvie-island-road",
+  "name": "Topaz Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 Nw Sauvie Island Road, OR",
+  "locationCity": "100 Nw Sauvie Island Road",
+  "locationState": "OR",
+  "locationZipcode": "97231",
+  "lat": 45.6783921494701,
+  "lon": -122.857487743158,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.898Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.898Z"
+}

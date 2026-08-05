@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-to-you-446-industrial-lane",
+  "name": "Farmers To You",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "446 Industrial Lane, VT",
+  "locationCity": "446 Industrial Lane",
+  "locationState": "VT",
+  "locationZipcode": "05641",
+  "lat": 44.2121027,
+  "lon": -72.559541,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:46.183Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:46.183Z"
+}

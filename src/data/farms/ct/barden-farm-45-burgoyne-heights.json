@@ -1,0 +1,19 @@
+{
+  "slug": "barden-farm-45-burgoyne-heights",
+  "name": "Barden Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "45 Burgoyne Heights, CT",
+  "locationCity": "45 Burgoyne Heights",
+  "locationState": "CT",
+  "locationZipcode": "06057",
+  "lat": 41.8809109981549,
+  "lon": -72.9998019770718,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.969Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.969Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gravelly-run-farm-1436-fords-corner-road",
+  "name": "Gravelly Run Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1436 Fords Corner Road, DE",
+  "locationCity": "1436 Fords Corner Road",
+  "locationState": "DE",
+  "locationZipcode": "19953",
+  "lat": 39.184656133495565,
+  "lon": -75.7284724692481,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:39.475Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:39.475Z"
+}

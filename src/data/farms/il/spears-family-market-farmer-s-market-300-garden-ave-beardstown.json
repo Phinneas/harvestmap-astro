@@ -1,0 +1,19 @@
+{
+  "slug": "spears-family-market-farmer-s-market-300-garden-ave-beardstown",
+  "name": "Spears Family Market/Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Garden Ave Beardstown, IL",
+  "locationCity": "300 Garden Ave Beardstown",
+  "locationState": "IL",
+  "locationZipcode": "62618",
+  "lat": 40.00327559260836,
+  "lon": -90.42790363419459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

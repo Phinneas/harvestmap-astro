@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkin-point-farms-11900-south-3600-west",
+  "name": "Pumpkin Point Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11900 South 3600 West, UT",
+  "locationCity": "11900 South 3600 West",
+  "locationState": "UT",
+  "locationZipcode": "11900",
+  "lat": 40.5349617219512,
+  "lon": -111.976824090436,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.658Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.658Z"
+}

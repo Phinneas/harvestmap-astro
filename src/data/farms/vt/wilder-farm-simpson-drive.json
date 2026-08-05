@@ -1,0 +1,19 @@
+{
+  "slug": "wilder-farm-simpson-drive",
+  "name": "Wilder Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Simpson Drive, VT",
+  "locationCity": "Simpson Drive",
+  "locationState": "VT",
+  "locationZipcode": "05851",
+  "lat": 44.50309972779927,
+  "lon": -71.96775328621105,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.131Z"
+}

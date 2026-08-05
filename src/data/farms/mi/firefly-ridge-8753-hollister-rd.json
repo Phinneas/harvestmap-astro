@@ -1,0 +1,19 @@
+{
+  "slug": "firefly-ridge-8753-hollister-rd",
+  "name": "Firefly Ridge",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8753 Hollister Rd., MI",
+  "locationCity": "8753 Hollister Rd.",
+  "locationState": "MI",
+  "locationZipcode": "48848",
+  "lat": 42.8885997,
+  "lon": -84.3831972,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.094Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.094Z"
+}

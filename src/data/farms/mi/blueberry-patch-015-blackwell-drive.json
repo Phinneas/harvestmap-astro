@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-patch-015-blackwell-drive",
+  "name": "Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "015 Blackwell Drive, MI",
+  "locationCity": "015 Blackwell Drive",
+  "locationState": "MI",
+  "locationZipcode": "49125",
+  "lat": 41.883257342565,
+  "lon": -86.6206468697949,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.612Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.612Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "community-food-club-1100-division-ave-s",
+  "name": "Community Food Club",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1100 Division Ave S, MI",
+  "locationCity": "1100 Division Ave S",
+  "locationState": "MI",
+  "locationZipcode": "49507",
+  "lat": 42.94333000804454,
+  "lon": -85.66663103442016,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.245Z"
+}

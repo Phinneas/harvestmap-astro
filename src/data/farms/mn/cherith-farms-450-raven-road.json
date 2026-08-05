@@ -1,0 +1,19 @@
+{
+  "slug": "cherith-farms-450-raven-road",
+  "name": "Cherith Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "450 Raven Road, MN",
+  "locationCity": "450 Raven Road",
+  "locationState": "MN",
+  "locationZipcode": "56011",
+  "lat": 44.616707989683,
+  "lon": -93.7643294695911,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.729Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.729Z"
+}

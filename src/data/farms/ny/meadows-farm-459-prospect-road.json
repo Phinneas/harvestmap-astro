@@ -1,0 +1,19 @@
+{
+  "slug": "meadows-farm-459-prospect-road",
+  "name": "Meadows Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "459 Prospect Road, NY",
+  "locationCity": "459 Prospect Road",
+  "locationState": "NY",
+  "locationZipcode": "14062",
+  "lat": 42.4221476829902,
+  "lon": -79.1333061217717,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.943Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.943Z"
+}

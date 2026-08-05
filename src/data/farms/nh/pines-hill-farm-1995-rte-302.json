@@ -1,0 +1,19 @@
+{
+  "slug": "pines-hill-farm-1995-rte-302",
+  "name": "Pines Hill Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1995 Rte. 302, NH",
+  "locationCity": "1995 Rte. 302",
+  "locationState": "NH",
+  "locationZipcode": "03585",
+  "lat": 44.248646010760524,
+  "lon": -71.85729702555449,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.803Z"
+}

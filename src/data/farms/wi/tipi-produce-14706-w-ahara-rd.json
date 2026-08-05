@@ -1,0 +1,19 @@
+{
+  "slug": "tipi-produce-14706-w-ahara-rd",
+  "name": "Tipi Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "14706 W. Ahara Rd., WI",
+  "locationCity": "14706 W. Ahara Rd.",
+  "locationState": "WI",
+  "locationZipcode": "14706",
+  "lat": 42.73799278435203,
+  "lon": -89.29161129020696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.024Z"
+}

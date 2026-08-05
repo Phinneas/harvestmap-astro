@@ -1,0 +1,19 @@
+{
+  "slug": "julian-certified-farmers-market-4470-highway-78-julian",
+  "name": "Julian Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4470 Highway 78 Julian, CA",
+  "locationCity": "4470 Highway 78 Julian",
+  "locationState": "CA",
+  "locationZipcode": "92036",
+  "lat": 33.09846100269671,
+  "lon": -116.64781825373373,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

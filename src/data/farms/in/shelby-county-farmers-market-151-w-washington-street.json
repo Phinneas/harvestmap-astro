@@ -1,0 +1,19 @@
+{
+  "slug": "shelby-county-farmers-market-151-w-washington-street",
+  "name": "Shelby County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "151 W Washington Street, IN",
+  "locationCity": "151 W Washington Street",
+  "locationState": "IN",
+  "locationZipcode": "46176",
+  "lat": 39.52422,
+  "lon": -85.780478,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.608Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.608Z"
+}

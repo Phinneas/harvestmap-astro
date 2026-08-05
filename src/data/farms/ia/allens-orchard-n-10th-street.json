@@ -1,0 +1,19 @@
+{
+  "slug": "allens-orchard-n-10th-street",
+  "name": "Allens Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "N 10th Street, IA",
+  "locationCity": "N 10th Street",
+  "locationState": "IA",
+  "locationZipcode": "52302",
+  "lat": 42.07968418310214,
+  "lon": -91.59938112480276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.755Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.755Z"
+}

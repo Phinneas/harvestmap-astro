@@ -1,0 +1,19 @@
+{
+  "slug": "almont-farmers-market-741-south-main-street-m-53-almont",
+  "name": "Almont Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "741 South Main Street (M-53) Almont, MI",
+  "locationCity": "741 South Main Street (M-53) Almont",
+  "locationState": "MI",
+  "locationZipcode": "48003",
+  "lat": 42.91462426457508,
+  "lon": -83.0447350135597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

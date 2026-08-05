@@ -1,0 +1,19 @@
+{
+  "slug": "echo-valley-farms-llc-yosemite",
+  "name": "Echo Valley Farms LLC",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Yosemite, KY",
+  "locationCity": "Yosemite",
+  "locationState": "KY",
+  "locationZipcode": "42566",
+  "lat": 37.259988,
+  "lon": -84.785455,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:19.389Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:19.389Z"
+}

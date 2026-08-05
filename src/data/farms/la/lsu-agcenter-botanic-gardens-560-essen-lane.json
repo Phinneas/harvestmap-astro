@@ -1,0 +1,19 @@
+{
+  "slug": "lsu-agcenter-botanic-gardens-560-essen-lane",
+  "name": "LSU AgCenter Botanic Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "560 Essen Lane, LA",
+  "locationCity": "560 Essen Lane",
+  "locationState": "LA",
+  "locationZipcode": "70809",
+  "lat": 30.3996656741046,
+  "lon": -91.1067474217763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.021Z"
+}

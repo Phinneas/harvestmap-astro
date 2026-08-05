@@ -1,0 +1,19 @@
+{
+  "slug": "rock-falls-farmers-market-400-w-2nd-street-rock-falls",
+  "name": "Rock Falls Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 W 2nd Street Rock Falls, IL",
+  "locationCity": "400 W 2nd Street Rock Falls",
+  "locationState": "IL",
+  "locationZipcode": "61071",
+  "lat": 41.780418381917805,
+  "lon": -89.69510458435039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

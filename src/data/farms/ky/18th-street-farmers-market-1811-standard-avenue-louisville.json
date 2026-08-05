@@ -1,0 +1,19 @@
+{
+  "slug": "18th-street-farmers-market-1811-standard-avenue-louisville",
+  "name": "18th Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1811 Standard Avenue Louisville, KY",
+  "locationCity": "1811 Standard Avenue Louisville",
+  "locationState": "KY",
+  "locationZipcode": "40210",
+  "lat": 38.231020034463384,
+  "lon": -85.7896529623988,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

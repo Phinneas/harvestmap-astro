@@ -1,0 +1,19 @@
+{
+  "slug": "apple-hill-orchard-county-route-21",
+  "name": "Apple Hill Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "County Route 21, NY",
+  "locationCity": "County Route 21",
+  "locationState": "NY",
+  "locationZipcode": "12887",
+  "lat": 43.52259953346233,
+  "lon": -73.32130523572368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.824Z"
+}

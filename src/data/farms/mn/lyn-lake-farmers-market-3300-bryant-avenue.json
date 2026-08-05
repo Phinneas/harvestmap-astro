@@ -1,0 +1,19 @@
+{
+  "slug": "lyn-lake-farmers-market-3300-bryant-avenue",
+  "name": "Lyn Lake Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3300 Bryant Avenue, MN",
+  "locationCity": "3300 Bryant Avenue",
+  "locationState": "MN",
+  "locationZipcode": "55408",
+  "lat": 44.94280015292165,
+  "lon": -93.29071518301603,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.774Z"
+}

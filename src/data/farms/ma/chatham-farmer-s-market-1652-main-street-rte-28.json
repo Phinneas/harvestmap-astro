@@ -1,0 +1,19 @@
+{
+  "slug": "chatham-farmer-s-market-1652-main-street-rte-28",
+  "name": "Chatham Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1652 Main Street Rte 28, MA",
+  "locationCity": "1652 Main Street Rte 28",
+  "locationState": "MA",
+  "locationZipcode": "02633",
+  "lat": 41.676615,
+  "lon": -69.962249,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.739Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.739Z"
+}

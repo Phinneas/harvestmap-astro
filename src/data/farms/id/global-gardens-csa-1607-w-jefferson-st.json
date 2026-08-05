@@ -1,0 +1,19 @@
+{
+  "slug": "global-gardens-csa-1607-w-jefferson-st",
+  "name": "Global Gardens CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1607 W. Jefferson St, ID",
+  "locationCity": "1607 W. Jefferson St",
+  "locationState": "ID",
+  "locationZipcode": "83702",
+  "lat": 43.6226006,
+  "lon": -116.2112032,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:32.486Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shady-oak-farm-320-shady-oak-drive-east",
+  "name": "Shady Oak Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "320 Shady Oak Drive East, FL",
+  "locationCity": "320 Shady Oak Drive East",
+  "locationState": "FL",
+  "locationZipcode": "33810",
+  "lat": 28.0886299768061,
+  "lon": -82.0478247307974,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.823Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.823Z"
+}

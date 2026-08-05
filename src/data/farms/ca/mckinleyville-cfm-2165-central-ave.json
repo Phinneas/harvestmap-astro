@@ -1,0 +1,19 @@
+{
+  "slug": "mckinleyville-cfm-2165-central-ave",
+  "name": "McKinleyville CFM",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2165 Central Ave, CA",
+  "locationCity": "2165 Central Ave",
+  "locationState": "CA",
+  "locationZipcode": "95519",
+  "lat": 40.944643,
+  "lon": -124.10056,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

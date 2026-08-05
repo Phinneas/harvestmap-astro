@@ -1,0 +1,19 @@
+{
+  "slug": "echo-hill-orchards-and-winery-101-wilbraham-road",
+  "name": "Echo Hill Orchards and Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Wilbraham Road, MA",
+  "locationCity": "101 Wilbraham Road",
+  "locationState": "MA",
+  "locationZipcode": "01057",
+  "lat": 42.1084328564389,
+  "lon": -72.3475538717339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.633Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.633Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "montgomery-farms-668-sugar-ave",
+  "name": "Montgomery Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "668 Sugar Ave, OR",
+  "locationCity": "668 Sugar Ave",
+  "locationState": "OR",
+  "locationZipcode": "97914",
+  "lat": 44.0320310201645,
+  "lon": -117.039614001773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.859Z"
+}

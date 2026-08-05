@@ -1,0 +1,19 @@
+{
+  "slug": "small-potatoes-farm-24629-180th-st",
+  "name": "Small Potatoes Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "24629 180th St, IA",
+  "locationCity": "24629 180th St",
+  "locationState": "IA",
+  "locationZipcode": "24629",
+  "lat": 41.777676,
+  "lon": -93.9972312,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.412Z"
+}

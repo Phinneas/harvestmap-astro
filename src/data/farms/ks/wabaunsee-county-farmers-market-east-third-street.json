@@ -1,0 +1,19 @@
+{
+  "slug": "wabaunsee-county-farmers-market-east-third-street",
+  "name": "Wabaunsee County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "East Third Street, KS",
+  "locationCity": "East Third Street",
+  "locationState": "KS",
+  "locationZipcode": "66401",
+  "lat": 39.01281999378131,
+  "lon": -96.28748506944626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

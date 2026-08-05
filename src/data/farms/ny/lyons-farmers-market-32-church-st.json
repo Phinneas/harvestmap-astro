@@ -1,0 +1,19 @@
+{
+  "slug": "lyons-farmers-market-32-church-st",
+  "name": "Lyons Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "32 Church St, NY",
+  "locationCity": "32 Church St",
+  "locationState": "NY",
+  "locationZipcode": "14489",
+  "lat": 43.06371662397033,
+  "lon": -76.99358660074141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

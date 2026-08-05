@@ -1,0 +1,19 @@
+{
+  "slug": "rutland-county-farmers-market-15-evelyn-st",
+  "name": "Rutland County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 Evelyn St, VT",
+  "locationCity": "15 Evelyn St",
+  "locationState": "VT",
+  "locationZipcode": "05701",
+  "lat": 43.60643898244369,
+  "lon": -72.9800449680706,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

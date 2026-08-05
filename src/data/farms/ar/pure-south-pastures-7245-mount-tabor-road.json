@@ -1,0 +1,19 @@
+{
+  "slug": "pure-south-pastures-7245-mount-tabor-road",
+  "name": "Pure South Pastures",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7245 Mount Tabor Road, AR",
+  "locationCity": "7245 Mount Tabor Road",
+  "locationState": "AR",
+  "locationZipcode": "72086",
+  "lat": 34.907283100722026,
+  "lon": -91.89074684488156,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:26.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:26.290Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-food-fair-2801-pendleton-drive-kennett",
+  "name": "Farmers' Market-Food Fair",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2801 Pendleton Drive Kennett, MO",
+  "locationCity": "2801 Pendleton Drive Kennett",
+  "locationState": "MO",
+  "locationZipcode": "63857",
+  "lat": 36.27311757680595,
+  "lon": -90.02147416604102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

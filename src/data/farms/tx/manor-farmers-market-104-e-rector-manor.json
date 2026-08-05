@@ -1,0 +1,19 @@
+{
+  "slug": "manor-farmers-market-104-e-rector-manor",
+  "name": "Manor Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "104 E. Rector Manor, TX",
+  "locationCity": "104 E. Rector Manor",
+  "locationState": "TX",
+  "locationZipcode": "78653",
+  "lat": 30.345938464565435,
+  "lon": -97.55639212545073,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

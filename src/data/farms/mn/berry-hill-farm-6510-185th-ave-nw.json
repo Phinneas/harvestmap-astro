@@ -1,0 +1,19 @@
+{
+  "slug": "berry-hill-farm-6510-185th-ave-nw",
+  "name": "Berry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6510 185th Ave NW, MN",
+  "locationCity": "6510 185th Ave NW",
+  "locationState": "MN",
+  "locationZipcode": "55303",
+  "lat": 45.3052830162017,
+  "lon": -93.432578990903,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.676Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.676Z"
+}

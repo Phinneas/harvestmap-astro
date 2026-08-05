@@ -1,0 +1,19 @@
+{
+  "slug": "brazos-valley-farmers-market-201-north-texas-avenue-bryan",
+  "name": "Brazos Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 North Texas Avenue Bryan, TX",
+  "locationCity": "201 North Texas Avenue Bryan",
+  "locationState": "TX",
+  "locationZipcode": "77803",
+  "lat": 30.67440656663942,
+  "lon": -96.36993064450733,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

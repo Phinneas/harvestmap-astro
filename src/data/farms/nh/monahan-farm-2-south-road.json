@@ -1,0 +1,19 @@
+{
+  "slug": "monahan-farm-2-south-road",
+  "name": "Monahan Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2 South Road, NH",
+  "locationCity": "2 South Road",
+  "locationState": "NH",
+  "locationZipcode": "03827",
+  "lat": 42.8937039863754,
+  "lon": -70.9881889685002,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.583Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.583Z"
+}

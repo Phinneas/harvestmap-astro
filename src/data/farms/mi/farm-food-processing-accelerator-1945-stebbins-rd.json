@@ -1,0 +1,19 @@
+{
+  "slug": "farm-food-processing-accelerator-1945-stebbins-rd",
+  "name": "FARM Food Processing Accelerator",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1945 Stebbins Rd, MI",
+  "locationCity": "1945 Stebbins Rd",
+  "locationState": "MI",
+  "locationZipcode": "49442",
+  "lat": 43.25199598132261,
+  "lon": -86.1945849872169,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.245Z"
+}

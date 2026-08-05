@@ -1,0 +1,19 @@
+{
+  "slug": "maryland-heights-farmers-market-2300-mckelvey-rd-maryland-heights",
+  "name": "Maryland Heights Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2300 McKelvey Rd. Maryland Heights, MO",
+  "locationCity": "2300 McKelvey Rd. Maryland Heights",
+  "locationState": "MO",
+  "locationZipcode": "63043",
+  "lat": 38.721862169416426,
+  "lon": -90.44841712080489,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

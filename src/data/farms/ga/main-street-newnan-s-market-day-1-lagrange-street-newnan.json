@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-newnan-s-market-day-1-lagrange-street-newnan",
+  "name": "Main Street Newnan's Market Day",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 LaGrange Street Newnan, GA",
+  "locationCity": "1 LaGrange Street Newnan",
+  "locationState": "GA",
+  "locationZipcode": "30263",
+  "lat": 33.37440497945175,
+  "lon": -84.80052229345269,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

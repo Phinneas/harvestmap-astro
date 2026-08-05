@@ -1,0 +1,19 @@
+{
+  "slug": "papa-s-pumpkin-patch-909-s-summerton-road",
+  "name": "Papa's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "909 S Summerton Road, MI",
+  "locationCity": "909 S Summerton Road",
+  "locationState": "MI",
+  "locationZipcode": "48858",
+  "lat": 43.6339579022635,
+  "lon": -84.7278485656486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.598Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.598Z"
+}

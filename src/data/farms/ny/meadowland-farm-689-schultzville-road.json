@@ -1,0 +1,20 @@
+{
+  "slug": "meadowland-farm-689-schultzville-road",
+  "name": "Meadowland Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "689 Schultzville Road, NY",
+  "locationCity": "689 Schultzville Road",
+  "locationState": "NY",
+  "locationZipcode": "12514",
+  "lat": 41.8366946567952,
+  "lon": -73.7661419500439,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.418Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.418Z",
+  "crops": []
+}

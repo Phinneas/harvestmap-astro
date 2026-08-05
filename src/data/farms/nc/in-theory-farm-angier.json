@@ -1,0 +1,19 @@
+{
+  "slug": "in-theory-farm-angier",
+  "name": "In Theory Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Angier, NC",
+  "locationCity": "Angier",
+  "locationState": "NC",
+  "locationZipcode": "27501",
+  "lat": 35.512589,
+  "lon": -78.716179,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.392Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.392Z"
+}

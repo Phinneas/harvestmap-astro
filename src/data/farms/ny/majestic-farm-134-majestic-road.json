@@ -1,0 +1,19 @@
+{
+  "slug": "majestic-farm-134-majestic-road",
+  "name": "Majestic Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "134 Majestic Road, NY",
+  "locationCity": "134 Majestic Road",
+  "locationState": "NY",
+  "locationZipcode": "12763",
+  "lat": 41.6650779972156,
+  "lon": -74.5608384881918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.940Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.940Z"
+}

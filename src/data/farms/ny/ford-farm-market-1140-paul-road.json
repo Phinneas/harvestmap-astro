@@ -1,0 +1,19 @@
+{
+  "slug": "ford-farm-market-1140-paul-road",
+  "name": "Ford Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1140 Paul Road, NY",
+  "locationCity": "1140 Paul Road",
+  "locationState": "NY",
+  "locationZipcode": "14428",
+  "lat": 43.107609023855815,
+  "lon": -77.77833662823697,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.827Z"
+}

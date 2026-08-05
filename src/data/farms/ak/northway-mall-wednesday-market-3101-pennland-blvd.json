@@ -1,0 +1,19 @@
+{
+  "slug": "northway-mall-wednesday-market-3101-pennland-blvd",
+  "name": "Northway Mall Wednesday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3101 Pennland Blvd., AK",
+  "locationCity": "3101 Pennland Blvd.",
+  "locationState": "AK",
+  "locationZipcode": "99510",
+  "lat": 61.21636994239705,
+  "lon": -149.82324252362514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

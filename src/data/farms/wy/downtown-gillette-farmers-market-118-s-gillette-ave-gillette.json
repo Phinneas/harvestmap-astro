@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-gillette-farmers-market-118-s-gillette-ave-gillette",
+  "name": "Downtown Gillette Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "118 S Gillette Ave Gillette, WY",
+  "locationCity": "118 S Gillette Ave Gillette",
+  "locationState": "WY",
+  "locationZipcode": "82716",
+  "lat": 44.29386651516344,
+  "lon": -105.50401595534356,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

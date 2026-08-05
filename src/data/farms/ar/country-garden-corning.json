@@ -1,0 +1,19 @@
+{
+  "slug": "country-garden-corning",
+  "name": "Country Garden",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Corning, AR",
+  "locationCity": "Corning",
+  "locationState": "AR",
+  "locationZipcode": "72422",
+  "lat": 36.4148321,
+  "lon": -90.5795643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.051Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.051Z"
+}

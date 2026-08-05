@@ -1,0 +1,19 @@
+{
+  "slug": "texarkana-texas-farmers-market-305-texas-boulevard-texarkana",
+  "name": "Texarkana, Texas Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "305 Texas Boulevard Texarkana, TX",
+  "locationCity": "305 Texas Boulevard Texarkana",
+  "locationState": "TX",
+  "locationZipcode": "75501",
+  "lat": 33.42149120545726,
+  "lon": -94.0457434148687,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

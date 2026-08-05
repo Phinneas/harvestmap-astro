@@ -1,0 +1,20 @@
+{
+  "slug": "peck-s-farm-us-highway-14",
+  "name": "Peck's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US Highway 14, WI",
+  "locationCity": "US Highway 14",
+  "locationState": "WI",
+  "locationZipcode": "53588",
+  "lat": 43.1897059874127,
+  "lon": -90.1250687460314,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.186Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.186Z",
+  "crops": []
+}

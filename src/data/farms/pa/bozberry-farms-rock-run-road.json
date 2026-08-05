@@ -1,0 +1,19 @@
+{
+  "slug": "bozberry-farms-rock-run-road",
+  "name": "Bozberry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rock Run Road, PA",
+  "locationCity": "Rock Run Road",
+  "locationState": "PA",
+  "locationZipcode": "16750",
+  "lat": 41.9023948446715,
+  "lon": -78.3019487660908,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.076Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.076Z"
+}

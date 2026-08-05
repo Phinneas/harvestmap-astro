@@ -1,0 +1,19 @@
+{
+  "slug": "howards-strawberries-250-crater-road",
+  "name": "Howards Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "250 Crater Road, NC",
+  "locationCity": "250 Crater Road",
+  "locationState": "NC",
+  "locationZipcode": "28634",
+  "lat": 36.0084552951197,
+  "lon": -80.8181514129127,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.680Z"
+}

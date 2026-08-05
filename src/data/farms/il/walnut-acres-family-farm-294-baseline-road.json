@@ -1,0 +1,19 @@
+{
+  "slug": "walnut-acres-family-farm-294-baseline-road",
+  "name": "Walnut Acres Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "294 Baseline Road, IL",
+  "locationCity": "294 Baseline Road",
+  "locationState": "IL",
+  "locationZipcode": "61376",
+  "lat": 41.5854058,
+  "lon": -89.5750542,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.478Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.478Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "madelia-farmers-market-121-drew-ave-se",
+  "name": "Madelia Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 Drew Ave SE, MN",
+  "locationCity": "121 Drew Ave SE",
+  "locationState": "MN",
+  "locationZipcode": "56062",
+  "lat": 44.0489245,
+  "lon": -94.4099304,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

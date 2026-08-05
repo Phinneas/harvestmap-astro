@@ -1,0 +1,19 @@
+{
+  "slug": "sunset-valley-orchard-520-valley-road",
+  "name": "Sunset Valley Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "520 Valley Road, WI",
+  "locationCity": "520 Valley Road",
+  "locationState": "WI",
+  "locationZipcode": "54814",
+  "lat": 46.8303096257465,
+  "lon": -90.8666158580367,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.211Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.211Z"
+}

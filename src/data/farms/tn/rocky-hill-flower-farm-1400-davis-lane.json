@@ -1,0 +1,19 @@
+{
+  "slug": "rocky-hill-flower-farm-1400-davis-lane",
+  "name": "Rocky Hill Flower Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1400 Davis Lane, TN",
+  "locationCity": "1400 Davis Lane",
+  "locationState": "TN",
+  "locationZipcode": "37923",
+  "lat": 35.89324201265967,
+  "lon": -84.04227402249457,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.383Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.383Z"
+}

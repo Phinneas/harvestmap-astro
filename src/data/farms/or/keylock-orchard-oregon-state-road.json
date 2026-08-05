@@ -1,0 +1,19 @@
+{
+  "slug": "keylock-orchard-oregon-state-road",
+  "name": "Keylock Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Oregon State Road, OR",
+  "locationCity": "Oregon State Road",
+  "locationState": "OR",
+  "locationZipcode": "97040",
+  "lat": 45.6778059455325,
+  "lon": -121.344175591566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.049Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.049Z"
+}

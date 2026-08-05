@@ -1,0 +1,19 @@
+{
+  "slug": "flushing-greenmarket-42-45-kissena-blvd",
+  "name": "Flushing Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "42-45 Kissena Blvd, NY",
+  "locationCity": "42-45 Kissena Blvd",
+  "locationState": "NY",
+  "locationZipcode": "11355",
+  "lat": 40.75642312728826,
+  "lon": -73.82588048970902,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

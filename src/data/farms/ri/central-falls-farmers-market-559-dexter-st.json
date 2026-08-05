@@ -1,0 +1,19 @@
+{
+  "slug": "central-falls-farmers-market-559-dexter-st",
+  "name": "Central Falls Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "559 Dexter St, RI",
+  "locationCity": "559 Dexter St",
+  "locationState": "RI",
+  "locationZipcode": "02863",
+  "lat": 41.885605,
+  "lon": -71.39565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.507Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "koinonia-farms-324-ga-hwy-49-south",
+  "name": "Koinonia Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "324 GA. Hwy. 49 South, GA",
+  "locationCity": "324 GA. Hwy. 49 South",
+  "locationState": "GA",
+  "locationZipcode": "31719",
+  "lat": 32.0459255202579,
+  "lon": -84.2779524011882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.356Z"
+}

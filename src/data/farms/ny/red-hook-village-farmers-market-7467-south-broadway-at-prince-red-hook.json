@@ -1,0 +1,19 @@
+{
+  "slug": "red-hook-village-farmers-market-7467-south-broadway-at-prince-red-hook",
+  "name": "Red Hook Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7467 South Broadway at Prince Red Hook, NY",
+  "locationCity": "7467 South Broadway at Prince Red Hook",
+  "locationState": "NY",
+  "locationZipcode": "12571",
+  "lat": 41.994014002964825,
+  "lon": -73.87656937228276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

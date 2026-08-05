@@ -1,0 +1,19 @@
+{
+  "slug": "steffens-cherry-orchard-633-mcintyre-rd",
+  "name": "Steffens Cherry Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "633 Mcintyre Rd, WI",
+  "locationCity": "633 Mcintyre Rd",
+  "locationState": "WI",
+  "locationZipcode": "53538",
+  "lat": 42.8718269459995,
+  "lon": -88.8467162540933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.344Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.344Z"
+}

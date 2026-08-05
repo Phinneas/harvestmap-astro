@@ -1,0 +1,19 @@
+{
+  "slug": "b2b-jane-farmers-market-21196-hwy-71-south",
+  "name": "B2B Jane Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "21196 Hwy 71 South, MO",
+  "locationCity": "21196 Hwy 71 South",
+  "locationState": "MO",
+  "locationZipcode": "21196",
+  "lat": 36.51804321972851,
+  "lon": -94.28980959652797,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.492Z"
+}

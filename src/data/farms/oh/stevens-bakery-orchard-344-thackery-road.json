@@ -1,0 +1,19 @@
+{
+  "slug": "stevens-bakery-orchard-344-thackery-road",
+  "name": "Stevens Bakery & Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "344 Thackery Road, OH",
+  "locationCity": "344 Thackery Road",
+  "locationState": "OH",
+  "locationZipcode": "45502",
+  "lat": 40.0480035416075,
+  "lon": -83.9099420062739,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.830Z"
+}

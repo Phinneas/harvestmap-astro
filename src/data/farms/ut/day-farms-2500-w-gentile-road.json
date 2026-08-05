@@ -1,0 +1,19 @@
+{
+  "slug": "day-farms-2500-w-gentile-road",
+  "name": "Day Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2500 W. Gentile Road, UT",
+  "locationCity": "2500 W. Gentile Road",
+  "locationState": "UT",
+  "locationZipcode": "84041",
+  "lat": 41.06021292389563,
+  "lon": -112.01134633941915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:27.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:27.057Z"
+}

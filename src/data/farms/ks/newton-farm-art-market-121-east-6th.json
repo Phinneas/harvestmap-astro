@@ -1,0 +1,19 @@
+{
+  "slug": "newton-farm-art-market-121-east-6th",
+  "name": "Newton Farm & Art Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 East 6th, KS",
+  "locationCity": "121 East 6th",
+  "locationState": "KS",
+  "locationZipcode": "67114",
+  "lat": 38.04866992943419,
+  "lon": -97.34456592804426,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

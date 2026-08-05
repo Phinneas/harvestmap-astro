@@ -1,0 +1,19 @@
+{
+  "slug": "las-palomas-heirloom-farms-625-las-palomas-canyon-rd",
+  "name": "Las Palomas Heirloom Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "625 Las Palomas Canyon Rd, NM",
+  "locationCity": "625 Las Palomas Canyon Rd",
+  "locationState": "NM",
+  "locationZipcode": "87942",
+  "lat": 33.1147774,
+  "lon": -107.3711145,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:56.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:56.539Z"
+}

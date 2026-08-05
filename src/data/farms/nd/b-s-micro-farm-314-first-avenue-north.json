@@ -1,0 +1,20 @@
+{
+  "slug": "b-s-micro-farm-314-first-avenue-north",
+  "name": "B's Micro Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "314 First Avenue North, ND",
+  "locationCity": "314 First Avenue North",
+  "locationState": "ND",
+  "locationZipcode": "58426",
+  "lat": 47.2243590174356,
+  "lon": -98.5643749863675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:54.998Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:54.998Z",
+  "crops": []
+}

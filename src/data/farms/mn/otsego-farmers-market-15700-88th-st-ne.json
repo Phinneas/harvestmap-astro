@@ -1,0 +1,19 @@
+{
+  "slug": "otsego-farmers-market-15700-88th-st-ne",
+  "name": "Otsego Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15700 88th St NE, MN",
+  "locationCity": "15700 88th St NE",
+  "locationState": "MN",
+  "locationZipcode": "15700",
+  "lat": 45.2785171,
+  "lon": -93.5708229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

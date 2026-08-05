@@ -1,0 +1,19 @@
+{
+  "slug": "4-veggies-3-fruits-farmers-market-140-w-62nd-street",
+  "name": "4 Veggies & 3 Fruits Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "140 W 62nd Street, IL",
+  "locationCity": "140 W 62nd Street",
+  "locationState": "IL",
+  "locationZipcode": "60621",
+  "lat": 41.781896,
+  "lon": -87.629595,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.952Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.952Z"
+}

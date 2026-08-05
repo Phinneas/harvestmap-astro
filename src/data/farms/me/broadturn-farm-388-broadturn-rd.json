@@ -1,0 +1,19 @@
+{
+  "slug": "broadturn-farm-388-broadturn-rd",
+  "name": "Broadturn Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "388 Broadturn Rd, ME",
+  "locationCity": "388 Broadturn Rd",
+  "locationState": "ME",
+  "locationZipcode": "04074",
+  "lat": 43.61155582294407,
+  "lon": -70.4693522632445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.037Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.037Z"
+}

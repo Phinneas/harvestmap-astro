@@ -1,0 +1,19 @@
+{
+  "slug": "bainbridge-farmers-market-west-st-between-water-broughton-st-bainbridge",
+  "name": "Bainbridge Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "West St between Water & Broughton St Bainbridge, GA",
+  "locationCity": "West St between Water & Broughton St Bainbridge",
+  "locationState": "GA",
+  "locationZipcode": "39819",
+  "lat": 30.90584001546067,
+  "lon": -84.57648003686987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

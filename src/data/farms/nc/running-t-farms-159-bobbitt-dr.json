@@ -1,0 +1,19 @@
+{
+  "slug": "running-t-farms-159-bobbitt-dr",
+  "name": "Running T Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "159 Bobbitt Dr, NC",
+  "locationCity": "159 Bobbitt Dr",
+  "locationState": "NC",
+  "locationZipcode": "27013",
+  "lat": 35.8480630516298,
+  "lon": -80.7197983286901,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.745Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.745Z"
+}

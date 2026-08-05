@@ -1,0 +1,19 @@
+{
+  "slug": "levering-orchard-163-levering-lane",
+  "name": "Levering Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "163 Levering Lane, VA",
+  "locationCity": "163 Levering Lane",
+  "locationState": "VA",
+  "locationZipcode": "24053",
+  "lat": 36.6509780039317,
+  "lon": -80.6142450220018,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.151Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.151Z"
+}

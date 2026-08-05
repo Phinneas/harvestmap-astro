@@ -1,0 +1,19 @@
+{
+  "slug": "grandma-s-vineyard-14400-west-williston-road",
+  "name": "Grandma's Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "14400 West Williston Road, FL",
+  "locationCity": "14400 West Williston Road",
+  "locationState": "FL",
+  "locationZipcode": "14400",
+  "lat": 29.5221606874903,
+  "lon": -82.4063709440353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.876Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.876Z"
+}

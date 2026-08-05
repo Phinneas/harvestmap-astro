@@ -1,0 +1,19 @@
+{
+  "slug": "kankakee-farmers-market-250-s-schuyler-ave",
+  "name": "Kankakee Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "250 S Schuyler Ave, IL",
+  "locationCity": "250 S Schuyler Ave",
+  "locationState": "IL",
+  "locationZipcode": "60901",
+  "lat": 41.11833729527077,
+  "lon": -87.86427738444398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

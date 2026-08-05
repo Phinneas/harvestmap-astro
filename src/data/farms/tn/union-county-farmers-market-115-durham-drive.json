@@ -1,0 +1,19 @@
+{
+  "slug": "union-county-farmers-market-115-durham-drive",
+  "name": "Union County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 Durham Drive, TN",
+  "locationCity": "115 Durham Drive",
+  "locationState": "TN",
+  "locationZipcode": "37807",
+  "lat": 36.237614,
+  "lon": -83.8228,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.298Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.298Z"
+}

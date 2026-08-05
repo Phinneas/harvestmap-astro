@@ -1,0 +1,19 @@
+{
+  "slug": "parks-neighborhood-farmers-market-147-e-euclid-ave-des-moines",
+  "name": "Parks Neighborhood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "147 E. Euclid Ave. Des Moines, IA",
+  "locationCity": "147 E. Euclid Ave. Des Moines",
+  "locationState": "IA",
+  "locationZipcode": "50313",
+  "lat": 41.62770001108131,
+  "lon": -93.61958168079137,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

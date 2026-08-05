@@ -1,0 +1,19 @@
+{
+  "slug": "fay-mountain-farm-12-cemetary-road",
+  "name": "Fay Mountain Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12 Cemetary Road, MA",
+  "locationCity": "12 Cemetary Road",
+  "locationState": "MA",
+  "locationZipcode": "01507",
+  "lat": 42.1665431243212,
+  "lon": -71.9549410007684,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.484Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.484Z"
+}

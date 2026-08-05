@@ -1,0 +1,19 @@
+{
+  "slug": "crawfordsville-farmers-market-100-w-pike-st",
+  "name": "Crawfordsville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 W Pike St., IN",
+  "locationCity": "100 W Pike St.",
+  "locationState": "IN",
+  "locationZipcode": "47933",
+  "lat": 40.040652,
+  "lon": -86.903732,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.610Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.610Z"
+}

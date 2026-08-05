@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-minnetrista-1200-n-minnetrista-pkwy-muncie",
+  "name": "Farmers Market at Minnetrista",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1200 N. Minnetrista Pkwy. Muncie, IN",
+  "locationCity": "1200 N. Minnetrista Pkwy. Muncie",
+  "locationState": "IN",
+  "locationZipcode": "47303",
+  "lat": 40.20509630517198,
+  "lon": -85.39025945898283,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

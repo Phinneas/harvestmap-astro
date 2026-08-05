@@ -1,0 +1,19 @@
+{
+  "slug": "geneva-french-market-south-street-at-s-4th-street-geneva",
+  "name": "Geneva French Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "South Street at S. 4th Street Geneva, IL",
+  "locationCity": "South Street at S. 4th Street Geneva",
+  "locationState": "IL",
+  "locationZipcode": "60134",
+  "lat": 41.882970012669915,
+  "lon": -88.3104400375441,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

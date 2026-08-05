@@ -1,0 +1,19 @@
+{
+  "slug": "appleberry-orchard-2469-highway-2",
+  "name": "Appleberry Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2469 Highway 2, IA",
+  "locationCity": "2469 Highway 2",
+  "locationState": "IA",
+  "locationZipcode": "52625",
+  "lat": 40.633892,
+  "lon": -91.436569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:40.587Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:40.587Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "warner-s-produce-45146-duck-rd",
+  "name": "Warner's Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "45146 Duck RD, SD",
+  "locationCity": "45146 Duck RD",
+  "locationState": "SD",
+  "locationZipcode": "45146",
+  "lat": 43.717650181482384,
+  "lon": -97.17577283139144,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:11.720Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:11.720Z"
+}

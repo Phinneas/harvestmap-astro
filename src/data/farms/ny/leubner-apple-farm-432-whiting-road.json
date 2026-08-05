@@ -1,0 +1,19 @@
+{
+  "slug": "leubner-apple-farm-432-whiting-road",
+  "name": "Leubner Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "432 Whiting Road, NY",
+  "locationCity": "432 Whiting Road",
+  "locationState": "NY",
+  "locationZipcode": "13080",
+  "lat": 43.0574843275284,
+  "lon": -76.46274948161,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.930Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mt-vernon-farmers-market-311-college-ave-4th-st-and-college-ave-mount-vernon",
+  "name": "Mt. Vernon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "311 College Ave. 4th St. and College Ave. Mount Vernon, IN",
+  "locationCity": "311 College Ave. 4th St. and College Ave. Mount Vernon",
+  "locationState": "IN",
+  "locationZipcode": "47620",
+  "lat": 37.93106894511532,
+  "lon": -87.8965423050372,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

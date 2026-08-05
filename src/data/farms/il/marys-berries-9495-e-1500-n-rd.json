@@ -1,0 +1,19 @@
+{
+  "slug": "marys-berries-9495-e-1500-n-rd",
+  "name": "Marys Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9495 E 1500 N Rd, IL",
+  "locationCity": "9495 E 1500 N Rd",
+  "locationState": "IL",
+  "locationZipcode": "60954",
+  "lat": 41.14586498641683,
+  "lon": -87.69206898645129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.954Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.954Z"
+}

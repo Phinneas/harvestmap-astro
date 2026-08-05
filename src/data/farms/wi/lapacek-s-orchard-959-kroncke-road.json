@@ -1,0 +1,19 @@
+{
+  "slug": "lapacek-s-orchard-959-kroncke-road",
+  "name": "Lapacek's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "959 Kroncke Road, WI",
+  "locationCity": "959 Kroncke Road",
+  "locationState": "WI",
+  "locationZipcode": "53955",
+  "lat": 43.3470537135108,
+  "lon": -89.2848803312831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.161Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.161Z"
+}

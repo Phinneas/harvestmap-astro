@@ -1,0 +1,19 @@
+{
+  "slug": "oakwood-vineyards-3658-oakwood-road",
+  "name": "Oakwood Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3658 Oakwood Road, NC",
+  "locationCity": "3658 Oakwood Road",
+  "locationState": "NC",
+  "locationZipcode": "27011",
+  "lat": 36.2280404671884,
+  "lon": -80.6836117821688,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.894Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.894Z"
+}

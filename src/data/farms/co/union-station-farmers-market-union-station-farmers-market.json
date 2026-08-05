@@ -1,0 +1,19 @@
+{
+  "slug": "union-station-farmers-market-union-station-farmers-market",
+  "name": "Union Station Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Union Station Farmers Market, CO",
+  "locationCity": "Union Station Farmers Market",
+  "locationState": "CO",
+  "locationZipcode": "80202",
+  "lat": 39.75278314431321,
+  "lon": -104.99983322503695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.367Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.367Z"
+}

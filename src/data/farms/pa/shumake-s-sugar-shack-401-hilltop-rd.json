@@ -1,0 +1,19 @@
+{
+  "slug": "shumake-s-sugar-shack-401-hilltop-rd",
+  "name": "Shumake’s Sugar Shack",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "401 Hilltop Rd, PA",
+  "locationCity": "401 Hilltop Rd",
+  "locationState": "PA",
+  "locationZipcode": "16401",
+  "lat": 41.8989052451444,
+  "lon": -80.3917234066115,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.173Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.173Z"
+}

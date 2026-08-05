@@ -1,0 +1,19 @@
+{
+  "slug": "church-hill-produce-415-seldom-seen-rd",
+  "name": "Church Hill Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "415 Seldom Seen Rd, VA",
+  "locationCity": "415 Seldom Seen Rd",
+  "locationState": "VA",
+  "locationZipcode": "24433",
+  "lat": 38.3524293033446,
+  "lon": -79.4924852988427,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.118Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.118Z"
+}

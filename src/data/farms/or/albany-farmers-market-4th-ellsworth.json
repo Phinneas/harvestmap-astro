@@ -1,0 +1,19 @@
+{
+  "slug": "albany-farmers-market-4th-ellsworth",
+  "name": "Albany Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4th & Ellsworth, OR",
+  "locationCity": "4th & Ellsworth",
+  "locationState": "OR",
+  "locationZipcode": "97321",
+  "lat": 44.635052,
+  "lon": -123.10609,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.315Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.315Z"
+}

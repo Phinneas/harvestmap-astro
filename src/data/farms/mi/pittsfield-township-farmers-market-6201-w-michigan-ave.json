@@ -1,0 +1,19 @@
+{
+  "slug": "pittsfield-township-farmers-market-6201-w-michigan-ave",
+  "name": "Pittsfield Township Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6201 W. Michigan Ave, MI",
+  "locationCity": "6201 W. Michigan Ave",
+  "locationState": "MI",
+  "locationZipcode": "48108",
+  "lat": 42.197733,
+  "lon": -83.700262,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.186Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.186Z"
+}

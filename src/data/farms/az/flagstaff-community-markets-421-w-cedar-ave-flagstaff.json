@@ -1,0 +1,19 @@
+{
+  "slug": "flagstaff-community-markets-421-w-cedar-ave-flagstaff",
+  "name": "Flagstaff Community Markets",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "421 W Cedar Ave Flagstaff, AZ",
+  "locationCity": "421 W Cedar Ave Flagstaff",
+  "locationState": "AZ",
+  "locationZipcode": "86001",
+  "lat": 35.213191660075104,
+  "lon": -111.64734808547651,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

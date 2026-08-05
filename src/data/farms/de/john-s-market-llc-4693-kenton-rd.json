@@ -1,0 +1,19 @@
+{
+  "slug": "john-s-market-llc-4693-kenton-rd",
+  "name": "John's Market, LLC",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4693 Kenton Rd, DE",
+  "locationCity": "4693 Kenton Rd",
+  "locationState": "DE",
+  "locationZipcode": "19904",
+  "lat": 39.20613698158698,
+  "lon": -75.60319604147375,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:44.172Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:44.172Z"
+}

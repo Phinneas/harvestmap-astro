@@ -1,0 +1,19 @@
+{
+  "slug": "baxley-farms-produce-country-market-2606-hanover-road",
+  "name": "Baxley Farms Produce Country Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2606 Hanover Road, SC",
+  "locationCity": "2606 Hanover Road",
+  "locationState": "SC",
+  "locationZipcode": "29571",
+  "lat": 34.11442500730716,
+  "lon": -79.33157000659573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.221Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "garrard-county-farmers-market-117-lexington-rd",
+  "name": "Garrard County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "117 Lexington RD, KY",
+  "locationCity": "117 Lexington RD",
+  "locationState": "KY",
+  "locationZipcode": "40444",
+  "lat": 37.614373,
+  "lon": -84.583209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.724Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.724Z"
+}

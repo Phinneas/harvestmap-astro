@@ -1,0 +1,19 @@
+{
+  "slug": "northeast-minneapolis-farmers-market-winter-629-ne-2nd-st",
+  "name": "Northeast Minneapolis Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "629 NE 2nd St, MN",
+  "locationCity": "629 NE 2nd St",
+  "locationState": "MN",
+  "locationZipcode": "55413",
+  "lat": 44.9948419,
+  "lon": -93.2624838,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "west-portal-pumpkin-patch-274-asbury-west-portal-road",
+  "name": "West Portal Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "274 Asbury-west Portal Road, NJ",
+  "locationCity": "274 Asbury-west Portal Road",
+  "locationState": "NJ",
+  "locationZipcode": "08802",
+  "lat": 40.6670553038685,
+  "lon": -75.0322842935117,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.548Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.548Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mason-farmers-market-121-e-maple-street-mason",
+  "name": "Mason Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 E Maple Street Mason, MI",
+  "locationCity": "121 E Maple Street Mason",
+  "locationState": "MI",
+  "locationZipcode": "48854",
+  "lat": 42.58020120341238,
+  "lon": -84.44268446668335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

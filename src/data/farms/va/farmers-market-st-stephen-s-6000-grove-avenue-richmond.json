@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-st-stephen-s-6000-grove-avenue-richmond",
+  "name": "Farmers Market @ St. Stephen's",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6000 Grove Avenue Richmond, VA",
+  "locationCity": "6000 Grove Avenue Richmond",
+  "locationState": "VA",
+  "locationZipcode": "23226",
+  "lat": 37.57290821074268,
+  "lon": -77.52192425077928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "foodshed-small-farm-distro-14909-pauma-valley-drive",
+  "name": "Foodshed Small Farm Distro",
+  "source": "usda",
+  "directory": "csa",
+  "location": "14909 Pauma Valley Drive, CA",
+  "locationCity": "14909 Pauma Valley Drive",
+  "locationState": "CA",
+  "locationZipcode": "14909",
+  "lat": 33.3109519,
+  "lon": -117.0067188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.068Z"
+}

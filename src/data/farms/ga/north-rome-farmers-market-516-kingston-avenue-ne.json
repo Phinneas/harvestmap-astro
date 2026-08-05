@@ -1,0 +1,19 @@
+{
+  "slug": "north-rome-farmers-market-516-kingston-avenue-ne",
+  "name": "North Rome Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "516 Kingston Avenue NE, GA",
+  "locationCity": "516 Kingston Avenue NE",
+  "locationState": "GA",
+  "locationZipcode": "30161",
+  "lat": 34.264488,
+  "lon": -85.146657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.701Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.701Z"
+}

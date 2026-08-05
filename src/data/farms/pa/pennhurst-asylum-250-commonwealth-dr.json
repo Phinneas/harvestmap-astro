@@ -1,0 +1,19 @@
+{
+  "slug": "pennhurst-asylum-250-commonwealth-dr",
+  "name": "Pennhurst Asylum",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "250 Commonwealth Dr., PA",
+  "locationCity": "250 Commonwealth Dr.",
+  "locationState": "PA",
+  "locationZipcode": "19475",
+  "lat": 40.1949138558492,
+  "lon": -75.5603117979756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.152Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.152Z"
+}

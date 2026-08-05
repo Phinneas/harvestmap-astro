@@ -1,0 +1,19 @@
+{
+  "slug": "green-acres-berries-90-donkin-hill-road",
+  "name": "Green Acres Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "90 Donkin Hill Road, NH",
+  "locationCity": "90 Donkin Hill Road",
+  "locationState": "NH",
+  "locationZipcode": "03256",
+  "lat": 43.6708279902445,
+  "lon": -71.6399360036663,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.551Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.551Z"
+}

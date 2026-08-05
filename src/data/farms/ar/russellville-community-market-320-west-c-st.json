@@ -1,0 +1,19 @@
+{
+  "slug": "russellville-community-market-320-west-c-st",
+  "name": "Russellville Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 West C St., AR",
+  "locationCity": "320 West C St.",
+  "locationState": "AR",
+  "locationZipcode": "72801",
+  "lat": 35.280402,
+  "lon": -93.135468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.328Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.328Z"
+}

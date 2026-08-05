@@ -1,0 +1,19 @@
+{
+  "slug": "ashland-farmers-market-125-front-st",
+  "name": "Ashland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "125 Front St, MA",
+  "locationCity": "125 Front St",
+  "locationState": "MA",
+  "locationZipcode": "01721",
+  "lat": 42.260027,
+  "lon": -71.461538,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.740Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.740Z"
+}

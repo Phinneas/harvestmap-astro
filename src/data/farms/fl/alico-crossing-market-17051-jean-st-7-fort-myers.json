@@ -1,0 +1,19 @@
+{
+  "slug": "alico-crossing-market-17051-jean-st-7-fort-myers",
+  "name": "Alico Crossing Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17051 Jean St. #7 Fort Myers, FL",
+  "locationCity": "17051 Jean St. #7 Fort Myers",
+  "locationState": "FL",
+  "locationZipcode": "17051",
+  "lat": 26.49186352001724,
+  "lon": -81.82901615376133,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.574Z"
+}

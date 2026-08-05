@@ -1,0 +1,19 @@
+{
+  "slug": "mill-valley-farmers-market-759-e-blithedale-ave-mill-valley-ca-mill-valley",
+  "name": "Mill Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "759 E. Blithedale Ave. Mill Valley Ca Mill Valley, CA",
+  "locationCity": "759 E. Blithedale Ave. Mill Valley Ca Mill Valley",
+  "locationState": "CA",
+  "locationZipcode": "94941",
+  "lat": 37.90285256663705,
+  "lon": -122.52415550254804,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "burke-farmers-market-5936-rock-falls-road-morganton",
+  "name": "Burke Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5936 Rock Falls Road Morganton, NC",
+  "locationCity": "5936 Rock Falls Road Morganton",
+  "locationState": "NC",
+  "locationZipcode": "28655",
+  "lat": 35.646594017515525,
+  "lon": -81.57562333653101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.325Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.325Z"
+}

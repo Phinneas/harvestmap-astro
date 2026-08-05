@@ -1,0 +1,19 @@
+{
+  "slug": "longview-farm-1175-quincey-rd",
+  "name": "Longview Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1175 Quincey Rd., NH",
+  "locationCity": "1175 Quincey Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03264",
+  "lat": 43.7888563862424,
+  "lon": -71.77672854295456,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.802Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "roper-pumpkin-patch-104-orchard-lane",
+  "name": "Roper Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "104 Orchard Lane, MN",
+  "locationCity": "104 Orchard Lane",
+  "locationState": "MN",
+  "locationZipcode": "55041",
+  "lat": 44.4347960103465,
+  "lon": -92.2821079624268,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.653Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.653Z"
+}

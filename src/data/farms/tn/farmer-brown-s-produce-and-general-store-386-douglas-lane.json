@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-brown-s-produce-and-general-store-386-douglas-lane",
+  "name": "Farmer Brown's Produce and General Store",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "386 Douglas Lane, TN",
+  "locationCity": "386 Douglas Lane",
+  "locationState": "TN",
+  "locationZipcode": "37066",
+  "lat": 36.427892016446165,
+  "lon": -86.48014603484428,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:36.622Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:36.622Z"
+}

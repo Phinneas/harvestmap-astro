@@ -1,0 +1,19 @@
+{
+  "slug": "moorhead-farmers-market-food-hub-202-1st-ave-n",
+  "name": "Moorhead Farmers Market Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "202 1st Ave N, MN",
+  "locationCity": "202 1st Ave N",
+  "locationState": "MN",
+  "locationZipcode": "56560",
+  "lat": 46.87789099611243,
+  "lon": -96.7783149689335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:13.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:13.505Z"
+}

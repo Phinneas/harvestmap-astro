@@ -1,0 +1,19 @@
+{
+  "slug": "brackett-farm-611-w-union-st",
+  "name": "Brackett Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "611 W. Union St., IL",
+  "locationCity": "611 W. Union St.",
+  "locationState": "IL",
+  "locationZipcode": "61820",
+  "lat": 40.11330089071453,
+  "lon": -88.25319549453128,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.484Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.484Z"
+}

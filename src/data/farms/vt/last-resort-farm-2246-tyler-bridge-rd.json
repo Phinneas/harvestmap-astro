@@ -1,0 +1,19 @@
+{
+  "slug": "last-resort-farm-2246-tyler-bridge-rd",
+  "name": "Last Resort Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2246 Tyler Bridge RD, VT",
+  "locationCity": "2246 Tyler Bridge RD",
+  "locationState": "VT",
+  "locationZipcode": "",
+  "lat": 44.2660654,
+  "lon": -73.1014222,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.091Z"
+}

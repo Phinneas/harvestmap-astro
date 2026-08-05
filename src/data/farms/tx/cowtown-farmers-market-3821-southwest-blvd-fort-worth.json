@@ -1,0 +1,19 @@
+{
+  "slug": "cowtown-farmers-market-3821-southwest-blvd-fort-worth",
+  "name": "Cowtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3821 Southwest Blvd. Fort Worth, TX",
+  "locationCity": "3821 Southwest Blvd. Fort Worth",
+  "locationState": "TX",
+  "locationZipcode": "76116",
+  "lat": 32.71722968711019,
+  "lon": -97.44171413502093,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

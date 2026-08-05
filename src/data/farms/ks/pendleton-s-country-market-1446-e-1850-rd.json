@@ -1,0 +1,20 @@
+{
+  "slug": "pendleton-s-country-market-1446-e-1850-rd",
+  "name": "Pendleton's Country Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1446 E. 1850 Rd, KS",
+  "locationCity": "1446 E. 1850 Rd",
+  "locationState": "KS",
+  "locationZipcode": "66046",
+  "lat": 38.94889239172866,
+  "lon": -95.15766292584951,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:53.472Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:53.472Z",
+  "crops": []
+}

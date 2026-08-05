@@ -1,0 +1,19 @@
+{
+  "slug": "knapp-creek-farm-llc-s1256-knapp-valley-rd",
+  "name": "Knapp Creek Farm LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "S1256 Knapp Valley Rd, WI",
+  "locationCity": "S1256 Knapp Valley Rd",
+  "locationState": "WI",
+  "locationZipcode": "54667",
+  "lat": 43.692578,
+  "lon": -90.7689488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.001Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.001Z"
+}

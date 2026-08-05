@@ -1,0 +1,19 @@
+{
+  "slug": "doce-lume-farm-3130-east-lake-rd",
+  "name": "Doce Lume Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3130 East Lake Rd, NY",
+  "locationCity": "3130 East Lake Rd",
+  "locationState": "NY",
+  "locationZipcode": "13152",
+  "lat": 42.9228094326904,
+  "lon": -76.40208084900028,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.176Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.176Z"
+}

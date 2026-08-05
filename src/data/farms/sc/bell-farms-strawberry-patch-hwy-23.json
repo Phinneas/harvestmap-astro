@@ -1,0 +1,19 @@
+{
+  "slug": "bell-farms-strawberry-patch-hwy-23",
+  "name": "Bell Farms Strawberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hwy 23, SC",
+  "locationCity": "Hwy 23",
+  "locationState": "SC",
+  "locationZipcode": "29166",
+  "lat": 33.8545161308965,
+  "lon": -81.7112707940581,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.902Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.902Z"
+}

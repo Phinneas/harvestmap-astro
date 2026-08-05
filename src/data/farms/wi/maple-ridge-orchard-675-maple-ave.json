@@ -1,0 +1,20 @@
+{
+  "slug": "maple-ridge-orchard-675-maple-ave",
+  "name": "Maple Ridge Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "675 Maple Ave, WI",
+  "locationCity": "675 Maple Ave",
+  "locationState": "WI",
+  "locationZipcode": "54619",
+  "lat": 43.7994823693573,
+  "lon": -90.858308633574,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.252Z",
+  "crops": []
+}

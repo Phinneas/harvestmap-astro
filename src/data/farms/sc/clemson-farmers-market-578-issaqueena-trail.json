@@ -1,0 +1,19 @@
+{
+  "slug": "clemson-farmers-market-578-issaqueena-trail",
+  "name": "Clemson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "578 Issaqueena Trail, SC",
+  "locationCity": "578 Issaqueena Trail",
+  "locationState": "SC",
+  "locationZipcode": "29631",
+  "lat": 34.6849953,
+  "lon": -82.7872033,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.231Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.231Z"
+}

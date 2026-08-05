@@ -1,0 +1,19 @@
+{
+  "slug": "rantoul-farmers-market-corner-of-sangamon-garrard-rantoul",
+  "name": "Rantoul Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Sangamon & Garrard Rantoul, IL",
+  "locationCity": "Corner of Sangamon & Garrard Rantoul",
+  "locationState": "IL",
+  "locationZipcode": "61866",
+  "lat": 40.310599994990326,
+  "lon": -88.15736997321126,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

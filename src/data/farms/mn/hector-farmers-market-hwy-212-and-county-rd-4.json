@@ -1,0 +1,19 @@
+{
+  "slug": "hector-farmers-market-hwy-212-and-county-rd-4",
+  "name": "Hector Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hwy 212 and County Rd 4, MN",
+  "locationCity": "Hwy 212 and County Rd 4",
+  "locationState": "MN",
+  "locationZipcode": "55342",
+  "lat": 44.738678,
+  "lon": -94.714771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blessed-creek-farm-221-bray-road",
+  "name": "Blessed Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "221 Bray Road, TN",
+  "locationCity": "221 Bray Road",
+  "locationState": "TN",
+  "locationZipcode": "37873",
+  "lat": 36.49665840738298,
+  "lon": -82.91941759312498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.819Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.819Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "chandler-s-farm-8098-us-40",
+  "name": "Chandler's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8098 US 40, IN",
+  "locationCity": "8098 US 40",
+  "locationState": "IN",
+  "locationZipcode": "46128",
+  "lat": 39.6182477025631,
+  "lon": -86.7016035367161,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.255Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.255Z"
+}

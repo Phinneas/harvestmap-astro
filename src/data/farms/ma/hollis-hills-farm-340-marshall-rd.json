@@ -1,0 +1,20 @@
+{
+  "slug": "hollis-hills-farm-340-marshall-rd",
+  "name": "Hollis Hills Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "340 Marshall Rd, MA",
+  "locationCity": "340 Marshall Rd",
+  "locationState": "MA",
+  "locationZipcode": "01420",
+  "lat": 42.6010854181839,
+  "lon": -71.7796008064317,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.507Z",
+  "crops": []
+}

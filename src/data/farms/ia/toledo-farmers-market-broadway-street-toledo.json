@@ -1,0 +1,19 @@
+{
+  "slug": "toledo-farmers-market-broadway-street-toledo",
+  "name": "Toledo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Broadway Street Toledo, IA",
+  "locationCity": "Broadway Street Toledo",
+  "locationState": "IA",
+  "locationZipcode": "52342",
+  "lat": 41.99740455518872,
+  "lon": -92.5782701837052,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

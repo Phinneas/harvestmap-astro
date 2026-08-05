@@ -1,0 +1,19 @@
+{
+  "slug": "washington-farmers-market-317-west-main-street-washington",
+  "name": "Washington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "317 West Main Street Washington, MO",
+  "locationCity": "317 West Main Street Washington",
+  "locationState": "MO",
+  "locationZipcode": "63090",
+  "lat": 38.56085302286121,
+  "lon": -91.01336731911358,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.494Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.494Z"
+}

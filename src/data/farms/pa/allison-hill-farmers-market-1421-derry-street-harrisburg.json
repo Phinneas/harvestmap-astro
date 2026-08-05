@@ -1,0 +1,19 @@
+{
+  "slug": "allison-hill-farmers-market-1421-derry-street-harrisburg",
+  "name": "Allison Hill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1421 Derry Street Harrisburg, PA",
+  "locationCity": "1421 Derry Street Harrisburg",
+  "locationState": "PA",
+  "locationZipcode": "17104",
+  "lat": 40.26271070223619,
+  "lon": -76.86614349802088,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

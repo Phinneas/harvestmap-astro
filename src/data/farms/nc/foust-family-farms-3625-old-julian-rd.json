@@ -1,0 +1,20 @@
+{
+  "slug": "foust-family-farms-3625-old-julian-rd",
+  "name": "Foust Family Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3625 Old Julian Rd, NC",
+  "locationCity": "3625 Old Julian Rd",
+  "locationState": "NC",
+  "locationZipcode": "27377",
+  "lat": 36.00090599999999,
+  "lon": -79.62505540000001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.883Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.883Z",
+  "crops": []
+}

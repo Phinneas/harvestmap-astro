@@ -1,0 +1,19 @@
+{
+  "slug": "clark-farm-produce-400-clark-farm-road",
+  "name": "Clark Farm & Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "400 Clark Farm Road, GA",
+  "locationCity": "400 Clark Farm Road",
+  "locationState": "GA",
+  "locationZipcode": "30471",
+  "lat": 32.5296112358167,
+  "lon": -81.996143624354,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.277Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.277Z"
+}

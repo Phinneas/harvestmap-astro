@@ -1,0 +1,19 @@
+{
+  "slug": "tcc-berry-farm-466-us-highway-50",
+  "name": "TCC Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "466 Us Highway 50, OH",
+  "locationCity": "466 Us Highway 50",
+  "locationState": "OH",
+  "locationZipcode": "45103",
+  "lat": 39.1764864234764,
+  "lon": -84.2932336205899,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.832Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.832Z"
+}

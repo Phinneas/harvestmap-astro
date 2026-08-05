@@ -1,0 +1,19 @@
+{
+  "slug": "twin-oaks-farms-3250-n-eagle-road",
+  "name": "Twin Oaks Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3250 N. Eagle Road, ID",
+  "locationCity": "3250 N. Eagle Road",
+  "locationState": "ID",
+  "locationZipcode": "83686",
+  "lat": 43.7246339832082,
+  "lon": -116.353849012569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.785Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.785Z"
+}

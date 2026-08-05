@@ -1,0 +1,20 @@
+{
+  "slug": "carver-farm-nursery-105-carver-farm-rd",
+  "name": "Carver Farm Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "105 Carver Farm Rd, NC",
+  "locationCity": "105 Carver Farm Rd",
+  "locationState": "NC",
+  "locationZipcode": "27573",
+  "lat": 36.4429181285402,
+  "lon": -78.9618098917239,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.722Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.722Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-yakima-farmers-market-22-s-3rd-streeet-yakima",
+  "name": "Downtown Yakima Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "22 S 3rd Streeet Yakima, WA",
+  "locationCity": "22 S 3rd Streeet Yakima",
+  "locationState": "WA",
+  "locationZipcode": "98901",
+  "lat": 46.60259569834649,
+  "lon": -120.50291951205863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.816Z"
+}

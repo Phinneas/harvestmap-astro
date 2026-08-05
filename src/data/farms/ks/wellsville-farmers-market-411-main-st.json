@@ -1,0 +1,19 @@
+{
+  "slug": "wellsville-farmers-market-411-main-st",
+  "name": "Wellsville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "411 Main St., KS",
+  "locationCity": "411 Main St.",
+  "locationState": "KS",
+  "locationZipcode": "66092",
+  "lat": 38.71916456641737,
+  "lon": -95.0819257302788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

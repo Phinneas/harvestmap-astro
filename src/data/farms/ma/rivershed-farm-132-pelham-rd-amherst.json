@@ -1,0 +1,19 @@
+{
+  "slug": "rivershed-farm-132-pelham-rd-amherst",
+  "name": "Rivershed Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "132 Pelham Rd Amherst, MA",
+  "locationCity": "132 Pelham Rd Amherst",
+  "locationState": "MA",
+  "locationZipcode": "01002",
+  "lat": 42.37654380073422,
+  "lon": -72.48888044950405,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.278Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.278Z"
+}

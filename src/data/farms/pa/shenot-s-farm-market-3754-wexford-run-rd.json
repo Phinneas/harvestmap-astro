@@ -1,0 +1,19 @@
+{
+  "slug": "shenot-s-farm-market-3754-wexford-run-rd",
+  "name": "Shenot's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3754 Wexford Run Rd, PA",
+  "locationCity": "3754 Wexford Run Rd",
+  "locationState": "PA",
+  "locationZipcode": "15090",
+  "lat": 40.62645399506505,
+  "lon": -80.07933299992203,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.449Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.449Z"
+}

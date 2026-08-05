@@ -1,0 +1,19 @@
+{
+  "slug": "wayne-county-farmers-market-saturday-125-w-columbia-avenue-monticello",
+  "name": "Wayne County Farmers Market - Saturday",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "125 W. Columbia Avenue Monticello, KY",
+  "locationCity": "125 W. Columbia Avenue Monticello",
+  "locationState": "KY",
+  "locationZipcode": "42633",
+  "lat": 36.83072978706569,
+  "lon": -84.85084771981246,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

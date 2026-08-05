@@ -1,0 +1,20 @@
+{
+  "slug": "charlann-farms-rosalind-run",
+  "name": "Charlann Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rosalind Run, PA",
+  "locationCity": "Rosalind Run",
+  "locationState": "PA",
+  "locationZipcode": "19067",
+  "lat": 40.2205130179508,
+  "lon": -74.8653839597783,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.137Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.137Z",
+  "crops": []
+}

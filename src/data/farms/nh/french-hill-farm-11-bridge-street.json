@@ -1,0 +1,19 @@
+{
+  "slug": "french-hill-farm-11-bridge-street",
+  "name": "French Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11 Bridge Street, NH",
+  "locationCity": "11 Bridge Street",
+  "locationState": "NH",
+  "locationZipcode": "03588",
+  "lat": 44.57367,
+  "lon": -71.1826399999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.823Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.823Z"
+}

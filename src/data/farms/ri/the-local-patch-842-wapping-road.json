@@ -1,0 +1,19 @@
+{
+  "slug": "the-local-patch-842-wapping-road",
+  "name": "The Local Patch",
+  "source": "usda",
+  "directory": "csa",
+  "location": "842 Wapping Road, RI",
+  "locationCity": "842 Wapping Road",
+  "locationState": "RI",
+  "locationZipcode": "02871",
+  "lat": 41.5286496987234,
+  "lon": -71.24426122347091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:33.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:33.965Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bud-s-blueberries-830-sam-houston-drive",
+  "name": "Bud's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "830 Sam Houston Drive, TN",
+  "locationCity": "830 Sam Houston Drive",
+  "locationState": "TN",
+  "locationZipcode": "38024",
+  "lat": 36.0487043653036,
+  "lon": -89.375485677785,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.170Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.170Z"
+}

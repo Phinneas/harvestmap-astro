@@ -1,0 +1,19 @@
+{
+  "slug": "ester-market-3566-old-nenana-hwy",
+  "name": "Ester Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3566 Old Nenana Hwy, AK",
+  "locationCity": "3566 Old Nenana Hwy",
+  "locationState": "AK",
+  "locationZipcode": "99709",
+  "lat": 64.84465769238004,
+  "lon": -148.01797403611494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

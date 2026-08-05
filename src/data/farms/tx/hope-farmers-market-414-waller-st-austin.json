@@ -1,0 +1,19 @@
+{
+  "slug": "hope-farmers-market-414-waller-st-austin",
+  "name": "HOPE Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "414 Waller St Austin, TX",
+  "locationCity": "414 Waller St Austin",
+  "locationState": "TX",
+  "locationZipcode": "78702",
+  "lat": 30.263196931787423,
+  "lon": -97.73110128041517,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

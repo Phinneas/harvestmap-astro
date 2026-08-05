@@ -1,0 +1,19 @@
+{
+  "slug": "philadelphia-wholesale-produce-market-6700-essington-avenue",
+  "name": "Philadelphia Wholesale Produce Market",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "6700 Essington Avenue, PA",
+  "locationCity": "6700 Essington Avenue",
+  "locationState": "PA",
+  "locationZipcode": "19153",
+  "lat": 39.9097834,
+  "lon": -75.220557,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.775Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.775Z"
+}

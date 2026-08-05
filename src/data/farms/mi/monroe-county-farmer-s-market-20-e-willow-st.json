@@ -1,0 +1,19 @@
+{
+  "slug": "monroe-county-farmer-s-market-20-e-willow-st",
+  "name": "Monroe County Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 E. Willow St., MI",
+  "locationCity": "20 E. Willow St.",
+  "locationState": "MI",
+  "locationZipcode": "48162",
+  "lat": 41.91965,
+  "lon": -83.39378,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.181Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.181Z"
+}

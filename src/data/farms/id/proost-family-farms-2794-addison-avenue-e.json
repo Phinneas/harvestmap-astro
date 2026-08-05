@@ -1,0 +1,20 @@
+{
+  "slug": "proost-family-farms-2794-addison-avenue-e",
+  "name": "Proost Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2794 Addison Avenue E., ID",
+  "locationCity": "2794 Addison Avenue E.",
+  "locationState": "ID",
+  "locationZipcode": "83301",
+  "lat": 42.5628259291138,
+  "lon": -114.426273381982,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.615Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "arlington-farmers-market-1400-north-courthouse-road-arlington",
+  "name": "Arlington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1400 North Courthouse Road Arlington, VA",
+  "locationCity": "1400 North Courthouse Road Arlington",
+  "locationState": "VA",
+  "locationZipcode": "22201",
+  "lat": 38.88971650456245,
+  "lon": -77.08370598980659,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.290Z"
+}

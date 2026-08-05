@@ -1,0 +1,19 @@
+{
+  "slug": "fairbanks-food-hub-725-26th-ave",
+  "name": "Fairbanks Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "725 26th Ave, AK",
+  "locationCity": "725 26th Ave",
+  "locationState": "AK",
+  "locationZipcode": "99701",
+  "lat": 64.8228660062062,
+  "lon": -147.71811798574316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:03.298Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:03.298Z"
+}

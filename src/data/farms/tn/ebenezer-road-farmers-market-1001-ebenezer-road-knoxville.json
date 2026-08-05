@@ -1,0 +1,19 @@
+{
+  "slug": "ebenezer-road-farmers-market-1001-ebenezer-road-knoxville",
+  "name": "Ebenezer Road Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1001 Ebenezer Road Knoxville, TN",
+  "locationCity": "1001 Ebenezer Road Knoxville",
+  "locationState": "TN",
+  "locationZipcode": "37922",
+  "lat": 35.89376220399971,
+  "lon": -84.06866557392114,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

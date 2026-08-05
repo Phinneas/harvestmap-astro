@@ -1,0 +1,19 @@
+{
+  "slug": "spring-creek-produce-7404-spring-creek-rd",
+  "name": "Spring Creek Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7404 Spring Creek rd, VA",
+  "locationCity": "7404 Spring Creek rd",
+  "locationState": "VA",
+  "locationZipcode": "22812",
+  "lat": 38.4097325,
+  "lon": -79.037336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.224Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.224Z"
+}

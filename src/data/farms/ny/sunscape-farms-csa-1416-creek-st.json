@@ -1,0 +1,19 @@
+{
+  "slug": "sunscape-farms-csa-1416-creek-st",
+  "name": "Sunscape Farms CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1416 Creek St, NY",
+  "locationCity": "1416 Creek St",
+  "locationState": "NY",
+  "locationZipcode": "14625",
+  "lat": 43.17839629164823,
+  "lon": -77.5024128414236,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.179Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.179Z"
+}

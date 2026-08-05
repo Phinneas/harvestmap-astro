@@ -1,0 +1,19 @@
+{
+  "slug": "grapevine-farms-2826-west-lake-road-abilene",
+  "name": "Grapevine Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2826 West Lake Road Abilene, TX",
+  "locationCity": "2826 West Lake Road Abilene",
+  "locationState": "TX",
+  "locationZipcode": "79601",
+  "lat": 32.482585,
+  "lon": -99.725288,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.253Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.253Z"
+}

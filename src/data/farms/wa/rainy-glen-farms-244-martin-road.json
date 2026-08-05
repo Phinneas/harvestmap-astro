@@ -1,0 +1,19 @@
+{
+  "slug": "rainy-glen-farms-244-martin-road",
+  "name": "Rainy Glen Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "244 Martin Road, WA",
+  "locationCity": "244 Martin Road",
+  "locationState": "WA",
+  "locationZipcode": "98336",
+  "lat": 46.536101753141764,
+  "lon": -122.12383766757503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.623Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.623Z"
+}

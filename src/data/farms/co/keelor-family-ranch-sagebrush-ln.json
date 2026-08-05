@@ -1,0 +1,20 @@
+{
+  "slug": "keelor-family-ranch-sagebrush-ln",
+  "name": "Keelor Family Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sagebrush Ln, CO",
+  "locationCity": "Sagebrush Ln",
+  "locationState": "CO",
+  "locationZipcode": "80928",
+  "lat": 38.6227254,
+  "lon": -104.4265808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.317Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.317Z",
+  "crops": []
+}

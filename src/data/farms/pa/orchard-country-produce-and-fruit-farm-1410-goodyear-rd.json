@@ -1,0 +1,19 @@
+{
+  "slug": "orchard-country-produce-and-fruit-farm-1410-goodyear-rd",
+  "name": "Orchard Country  Produce and Fruit Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1410 Goodyear Rd., PA",
+  "locationCity": "1410 Goodyear Rd.",
+  "locationState": "PA",
+  "locationZipcode": "17324",
+  "lat": 40.042336,
+  "lon": -77.200467,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.546Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.546Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "woodland-park-farmers-market-woodland-park-farmers-market",
+  "name": "Woodland Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Woodland Park Farmers Market, CO",
+  "locationCity": "Woodland Park Farmers Market",
+  "locationState": "CO",
+  "locationZipcode": "80863",
+  "lat": 38.99402001360153,
+  "lon": -105.05684999984543,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.367Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.367Z"
+}

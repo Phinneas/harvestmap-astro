@@ -1,0 +1,20 @@
+{
+  "slug": "laurel-creek-farm-696-greer-branch-road",
+  "name": "Laurel Creek Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "696 Greer Branch Road, TN",
+  "locationCity": "696 Greer Branch Road",
+  "locationState": "TN",
+  "locationZipcode": "37680",
+  "lat": 36.5745399922945,
+  "lon": -81.7470119622289,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.113Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.114Z",
+  "crops": []
+}

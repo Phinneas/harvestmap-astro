@@ -1,0 +1,19 @@
+{
+  "slug": "hillberry-jewett-hill",
+  "name": "Hillberry",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Jewett Hill, NY",
+  "locationCity": "Jewett Hill",
+  "locationState": "NY",
+  "locationZipcode": "13736",
+  "lat": 42.32587023247725,
+  "lon": -76.21241377699175,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.469Z"
+}

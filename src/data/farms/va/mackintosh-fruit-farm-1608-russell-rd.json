@@ -1,0 +1,20 @@
+{
+  "slug": "mackintosh-fruit-farm-1608-russell-rd",
+  "name": "Mackintosh Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1608 Russell Rd, VA",
+  "locationCity": "1608 Russell Rd",
+  "locationState": "VA",
+  "locationZipcode": "22611",
+  "lat": 39.19493301734093,
+  "lon": -78.04301600812144,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.382Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.382Z",
+  "crops": []
+}

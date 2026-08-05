@@ -1,0 +1,19 @@
+{
+  "slug": "thorn-acres-402-ks-ave",
+  "name": "Thorn Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "402 KS Ave, KS",
+  "locationCity": "402 KS Ave",
+  "locationState": "KS",
+  "locationZipcode": "66058",
+  "lat": 39.5544639833059,
+  "lon": -95.5218889729687,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.169Z"
+}

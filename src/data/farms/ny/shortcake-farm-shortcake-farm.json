@@ -1,0 +1,19 @@
+{
+  "slug": "shortcake-farm-shortcake-farm",
+  "name": "Shortcake Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Shortcake Farm, NY",
+  "locationCity": "Shortcake Farm",
+  "locationState": "NY",
+  "locationZipcode": "12534",
+  "lat": 42.2458349,
+  "lon": -73.7680293,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.475Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.475Z"
+}

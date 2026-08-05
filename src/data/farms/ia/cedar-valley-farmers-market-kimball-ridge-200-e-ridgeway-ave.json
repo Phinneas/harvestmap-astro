@@ -1,0 +1,19 @@
+{
+  "slug": "cedar-valley-farmers-market-kimball-ridge-200-e-ridgeway-ave",
+  "name": "Cedar Valley Farmers Market - Kimball Ridge",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 E Ridgeway Ave, IA",
+  "locationCity": "200 E Ridgeway Ave",
+  "locationState": "IA",
+  "locationZipcode": "50703",
+  "lat": 42.46889400410879,
+  "lon": -92.35492700354891,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

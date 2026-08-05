@@ -1,0 +1,19 @@
+{
+  "slug": "legion-park-farmers-market-6601-biscayne-blvd",
+  "name": "Legion Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6601 Biscayne Blvd, FL",
+  "locationCity": "6601 Biscayne Blvd",
+  "locationState": "FL",
+  "locationZipcode": "33138",
+  "lat": 25.836451,
+  "lon": -80.183684,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.539Z"
+}

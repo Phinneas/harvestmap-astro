@@ -1,0 +1,19 @@
+{
+  "slug": "produce-wagon-8289-ocean-gateway",
+  "name": "Produce Wagon",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8289 Ocean Gateway, MD",
+  "locationCity": "8289 Ocean Gateway",
+  "locationState": "MD",
+  "locationZipcode": "21601",
+  "lat": 38.776671983663306,
+  "lon": -76.05962604100799,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:14.361Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:14.361Z"
+}

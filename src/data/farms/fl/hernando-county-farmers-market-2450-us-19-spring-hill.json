@@ -1,0 +1,19 @@
+{
+  "slug": "hernando-county-farmers-market-2450-us-19-spring-hill",
+  "name": "Hernando County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2450 US 19 Spring Hill, FL",
+  "locationCity": "2450 US 19 Spring Hill",
+  "locationState": "FL",
+  "locationZipcode": "34606",
+  "lat": 28.468685341931785,
+  "lon": -82.61981759994268,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

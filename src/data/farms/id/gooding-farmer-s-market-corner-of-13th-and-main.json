@@ -1,0 +1,19 @@
+{
+  "slug": "gooding-farmer-s-market-corner-of-13th-and-main",
+  "name": "Gooding Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of 13th and Main, ID",
+  "locationCity": "Corner of 13th and Main",
+  "locationState": "ID",
+  "locationZipcode": "83330",
+  "lat": 42.932194,
+  "lon": -114.71252,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:36.217Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:36.217Z"
+}

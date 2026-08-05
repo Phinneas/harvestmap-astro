@@ -1,0 +1,19 @@
+{
+  "slug": "lomira-farmers-market-150-e-main-st-lomira",
+  "name": "Lomira Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 E Main St Lomira, WI",
+  "locationCity": "150 E Main St Lomira",
+  "locationState": "WI",
+  "locationZipcode": "53048",
+  "lat": 43.591640464099655,
+  "lon": -88.43482898203865,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

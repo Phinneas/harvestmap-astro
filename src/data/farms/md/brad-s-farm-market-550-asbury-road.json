@@ -1,0 +1,19 @@
+{
+  "slug": "brad-s-farm-market-550-asbury-road",
+  "name": "Brad's Farm Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "550 Asbury Road, MD",
+  "locationCity": "550 Asbury Road",
+  "locationState": "MD",
+  "locationZipcode": "21028",
+  "lat": 39.53926746712031,
+  "lon": -76.26015947026208,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.717Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.717Z"
+}

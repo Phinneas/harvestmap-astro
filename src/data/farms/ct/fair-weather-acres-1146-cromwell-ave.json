@@ -1,0 +1,20 @@
+{
+  "slug": "fair-weather-acres-1146-cromwell-ave",
+  "name": "Fair Weather Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1146 Cromwell Ave, CT",
+  "locationCity": "1146 Cromwell Ave",
+  "locationState": "CT",
+  "locationZipcode": "06067",
+  "lat": 41.6398819962702,
+  "lon": -72.6760030224342,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.898Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.898Z",
+  "crops": []
+}

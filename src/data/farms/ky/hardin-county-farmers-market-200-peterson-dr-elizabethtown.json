@@ -1,0 +1,19 @@
+{
+  "slug": "hardin-county-farmers-market-200-peterson-dr-elizabethtown",
+  "name": "Hardin County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Peterson Dr Elizabethtown, KY",
+  "locationCity": "200 Peterson Dr Elizabethtown",
+  "locationState": "KY",
+  "locationZipcode": "42701",
+  "lat": 37.68236069606114,
+  "lon": -85.89921985468335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

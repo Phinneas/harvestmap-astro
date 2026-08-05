@@ -1,0 +1,19 @@
+{
+  "slug": "pezza-farms-279-plainfield-pike",
+  "name": "Pezza Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "279 Plainfield Pike, RI",
+  "locationCity": "279 Plainfield Pike",
+  "locationState": "RI",
+  "locationZipcode": "02919",
+  "lat": 41.7846756246189,
+  "lon": -71.5830990897192,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.042Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.042Z"
+}

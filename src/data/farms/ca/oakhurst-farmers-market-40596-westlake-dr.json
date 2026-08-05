@@ -1,0 +1,19 @@
+{
+  "slug": "oakhurst-farmers-market-40596-westlake-dr",
+  "name": "Oakhurst Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "40596 Westlake Dr., CA",
+  "locationCity": "40596 Westlake Dr.",
+  "locationState": "CA",
+  "locationZipcode": "40596",
+  "lat": 37.33856136576551,
+  "lon": -119.66923605246296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

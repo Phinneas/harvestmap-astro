@@ -1,0 +1,19 @@
+{
+  "slug": "prescott-farmers-market-900-iron-springs-road",
+  "name": "Prescott Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "900 Iron Springs Road, AZ",
+  "locationCity": "900 Iron Springs Road",
+  "locationState": "AZ",
+  "locationZipcode": "86305",
+  "lat": 34.5581335,
+  "lon": -112.4828299,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.077Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.077Z"
+}

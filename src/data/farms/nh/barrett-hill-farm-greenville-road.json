@@ -1,0 +1,19 @@
+{
+  "slug": "barrett-hill-farm-greenville-road",
+  "name": "Barrett Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Greenville Road, NH",
+  "locationCity": "Greenville Road",
+  "locationState": "NH",
+  "locationZipcode": "03048",
+  "lat": 42.7600250494923,
+  "lon": -71.8028139645326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.738Z"
+}

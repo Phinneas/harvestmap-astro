@@ -1,0 +1,19 @@
+{
+  "slug": "gardner-farmers-market-136-e-washington-st",
+  "name": "Gardner Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "136 E Washington St, KS",
+  "locationCity": "136 E Washington St",
+  "locationState": "KS",
+  "locationZipcode": "66030",
+  "lat": 38.812999,
+  "lon": -94.925777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.659Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.659Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hunter-hill-csa-901-frost-hollow-road",
+  "name": "Hunter Hill CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "901 Frost Hollow Road, PA",
+  "locationCity": "901 Frost Hollow Road",
+  "locationState": "PA",
+  "locationZipcode": "18040",
+  "lat": 40.7219213995719,
+  "lon": -75.19737220145639,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.591Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.591Z"
+}

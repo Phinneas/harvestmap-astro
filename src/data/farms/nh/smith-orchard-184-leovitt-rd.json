@@ -1,0 +1,20 @@
+{
+  "slug": "smith-orchard-184-leovitt-rd",
+  "name": "Smith Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "184 Leovitt Rd., NH",
+  "locationCity": "184 Leovitt Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03220",
+  "lat": 43.4905249967661,
+  "lon": -71.4475310088357,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.679Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.679Z",
+  "crops": []
+}

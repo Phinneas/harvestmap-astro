@@ -1,0 +1,19 @@
+{
+  "slug": "bowser-s-blueberries-143-mccalmont-road",
+  "name": "Bowser's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "143 McCalmont Road, PA",
+  "locationCity": "143 McCalmont Road",
+  "locationState": "PA",
+  "locationZipcode": "16053",
+  "lat": 40.8251830101131,
+  "lon": -79.9620099924328,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.076Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.076Z"
+}

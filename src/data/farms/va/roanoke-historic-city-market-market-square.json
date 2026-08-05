@@ -1,0 +1,19 @@
+{
+  "slug": "roanoke-historic-city-market-market-square",
+  "name": "Roanoke Historic City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Market Square, VA",
+  "locationCity": "Market Square",
+  "locationState": "VA",
+  "locationZipcode": "24011",
+  "lat": 37.271792613978334,
+  "lon": -79.93906542357462,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sunnybrook-farm-142-upper-sunnybrook-road",
+  "name": "Sunnybrook Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "142 Upper Sunnybrook Road, VT",
+  "locationCity": "142 Upper Sunnybrook Road",
+  "locationState": "VT",
+  "locationZipcode": "05602",
+  "lat": 44.28193100927487,
+  "lon": -72.61180803767024,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:48.661Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:48.661Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "robinette-farms-17675-sw-14th-street",
+  "name": "Robinette Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "17675 SW 14th Street, NE",
+  "locationCity": "17675 SW 14th Street",
+  "locationState": "NE",
+  "locationZipcode": "17675",
+  "lat": 40.63714934542642,
+  "lon": -96.74394002963972,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:48.591Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:48.591Z",
+  "crops": []
+}

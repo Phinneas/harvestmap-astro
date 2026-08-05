@@ -1,0 +1,19 @@
+{
+  "slug": "long-valley-farm-east-o-ave",
+  "name": "Long Valley Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "East O Ave., MI",
+  "locationCity": "East O Ave.",
+  "locationState": "MI",
+  "locationZipcode": "49048",
+  "lat": 42.2339948,
+  "lon": -85.4669972,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.091Z"
+}

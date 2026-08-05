@@ -1,0 +1,19 @@
+{
+  "slug": "evermore-farm-150-rockland-road",
+  "name": "Evermore Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "150 Rockland Road, MD",
+  "locationCity": "150 Rockland Road",
+  "locationState": "MD",
+  "locationZipcode": "21158",
+  "lat": 39.579598,
+  "lon": -77.048689,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:14.325Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:14.325Z"
+}

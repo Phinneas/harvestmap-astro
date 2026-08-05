@@ -1,0 +1,19 @@
+{
+  "slug": "queensbury-farmers-market-23-cronin-road-queensbury",
+  "name": "Queensbury Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "23 Cronin Road Queensbury, NY",
+  "locationCity": "23 Cronin Road Queensbury",
+  "locationState": "NY",
+  "locationZipcode": "12804",
+  "lat": 43.337105422609454,
+  "lon": -73.64502512147021,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

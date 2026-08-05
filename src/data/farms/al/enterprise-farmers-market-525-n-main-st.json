@@ -1,0 +1,19 @@
+{
+  "slug": "enterprise-farmers-market-525-n-main-st",
+  "name": "Enterprise Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "525 N. Main St., AL",
+  "locationCity": "525 N. Main St.",
+  "locationState": "AL",
+  "locationZipcode": "36330",
+  "lat": 31.319012210924416,
+  "lon": -85.8576970882214,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.018Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rockwell-s-u-pick-blueberries-cloverdale-road",
+  "name": "Rockwell's U Pick Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cloverdale Road, IL",
+  "locationCity": "Cloverdale Road",
+  "locationState": "IL",
+  "locationZipcode": "61523",
+  "lat": 40.9079648128589,
+  "lon": -89.5365622209492,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.879Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.879Z"
+}

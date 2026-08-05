@@ -1,0 +1,19 @@
+{
+  "slug": "coastal-foodshed-127-rodney-french-blvd",
+  "name": "Coastal Foodshed",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "127 Rodney French Blvd, MA",
+  "locationCity": "127 Rodney French Blvd",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 41.612227666942516,
+  "lon": -70.91860710220347,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.885Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.885Z"
+}

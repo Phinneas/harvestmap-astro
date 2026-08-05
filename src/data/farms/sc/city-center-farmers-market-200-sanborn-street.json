@@ -1,0 +1,19 @@
+{
+  "slug": "city-center-farmers-market-200-sanborn-street",
+  "name": "City Center Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Sanborn Street, SC",
+  "locationCity": "200 Sanborn Street",
+  "locationState": "SC",
+  "locationZipcode": "29501",
+  "lat": 34.198789,
+  "lon": -79.773582,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.056Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.056Z"
+}

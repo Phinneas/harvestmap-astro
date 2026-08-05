@@ -1,0 +1,19 @@
+{
+  "slug": "mableton-farmers-market-5239-floyd-road",
+  "name": "Mableton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5239 Floyd Road, GA",
+  "locationCity": "5239 Floyd Road",
+  "locationState": "GA",
+  "locationZipcode": "30126",
+  "lat": 33.826085,
+  "lon": -84.575384,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.678Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.678Z"
+}

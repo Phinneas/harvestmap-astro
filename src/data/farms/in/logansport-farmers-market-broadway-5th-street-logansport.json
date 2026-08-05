@@ -1,0 +1,19 @@
+{
+  "slug": "logansport-farmers-market-broadway-5th-street-logansport",
+  "name": "Logansport Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Broadway & 5th Street Logansport, IN",
+  "locationCity": "Broadway & 5th Street Logansport",
+  "locationState": "IN",
+  "locationZipcode": "46947",
+  "lat": 40.75424998102443,
+  "lon": -86.36443998029662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lost-greens-farm-3701-gilpin-st",
+  "name": "Lost Greens Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3701 Gilpin St, CO",
+  "locationCity": "3701 Gilpin St",
+  "locationState": "CO",
+  "locationZipcode": "80216",
+  "lat": 39.768218047556566,
+  "lon": -104.96726855883034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.596Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.596Z"
+}

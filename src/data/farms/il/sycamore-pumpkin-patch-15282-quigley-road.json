@@ -1,0 +1,19 @@
+{
+  "slug": "sycamore-pumpkin-patch-15282-quigley-road",
+  "name": "Sycamore Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15282 Quigley Road, IL",
+  "locationCity": "15282 Quigley Road",
+  "locationState": "IL",
+  "locationZipcode": "15282",
+  "lat": 41.9704112564527,
+  "lon": -88.6529829688549,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.932Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.932Z"
+}

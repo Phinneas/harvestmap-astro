@@ -1,0 +1,19 @@
+{
+  "slug": "omaha-farmer-s-market-old-market-1011-jackson-street-omaha",
+  "name": "Omaha Farmer's Market - Old Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1011 Jackson Street Omaha, NE",
+  "locationCity": "1011 Jackson Street Omaha",
+  "locationState": "NE",
+  "locationZipcode": "68102",
+  "lat": 41.25439895351476,
+  "lon": -95.92947757252813,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

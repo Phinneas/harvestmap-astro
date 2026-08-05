@@ -1,0 +1,19 @@
+{
+  "slug": "duncan-s-produce-328-adams-rd",
+  "name": "Duncan's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "328 Adams Rd, LA",
+  "locationCity": "328 Adams Rd",
+  "locationState": "LA",
+  "locationZipcode": "70427",
+  "lat": 30.7745814574575,
+  "lon": -89.8991319960969,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.040Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.040Z"
+}

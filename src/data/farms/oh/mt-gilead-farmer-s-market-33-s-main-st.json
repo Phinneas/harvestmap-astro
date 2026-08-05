@@ -1,0 +1,19 @@
+{
+  "slug": "mt-gilead-farmer-s-market-33-s-main-st",
+  "name": "Mt Gilead Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "33 S. Main St, OH",
+  "locationCity": "33 S. Main St",
+  "locationState": "OH",
+  "locationZipcode": "43338",
+  "lat": 40.548051979249,
+  "lon": -82.8287771823159,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.935Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gold-country-farmer-s-market-3185-auburn-folsom-rd-newcastle",
+  "name": "Gold Country Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3185 Auburn-Folsom Rd. Newcastle, CA",
+  "locationCity": "3185 Auburn-Folsom Rd. Newcastle",
+  "locationState": "CA",
+  "locationZipcode": "95658",
+  "lat": 38.836657993856,
+  "lon": -121.11782850605181,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "hivefive-apiary-149-trident-point-rd",
+  "name": "HiveFive Apiary",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "149 Trident Point Rd, VA",
+  "locationCity": "149 Trident Point Rd",
+  "locationState": "VA",
+  "locationZipcode": "22560",
+  "lat": 37.9098459835676,
+  "lon": -76.9106049635031,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.270Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.270Z",
+  "crops": []
+}

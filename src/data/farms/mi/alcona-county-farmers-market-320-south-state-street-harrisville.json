@@ -1,0 +1,19 @@
+{
+  "slug": "alcona-county-farmers-market-320-south-state-street-harrisville",
+  "name": "Alcona County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 South State Street Harrisville, MI",
+  "locationCity": "320 South State Street Harrisville",
+  "locationState": "MI",
+  "locationZipcode": "48740",
+  "lat": 44.653688796939484,
+  "lon": -83.29787607093733,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

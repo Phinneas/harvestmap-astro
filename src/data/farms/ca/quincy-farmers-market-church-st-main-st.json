@@ -1,0 +1,19 @@
+{
+  "slug": "quincy-farmers-market-church-st-main-st",
+  "name": "Quincy Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Church St. & Main St., CA",
+  "locationCity": "Church St. & Main St.",
+  "locationState": "CA",
+  "locationZipcode": "95971",
+  "lat": 39.936689999856384,
+  "lon": -120.9441700395868,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

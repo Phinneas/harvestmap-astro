@@ -1,0 +1,20 @@
+{
+  "slug": "twin-ponds-nursery-37-red-tail-road",
+  "name": "Twin Ponds Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "37 Red Tail Road, NY",
+  "locationCity": "37 Red Tail Road",
+  "locationState": "NY",
+  "locationZipcode": "12572",
+  "lat": 41.8958830050639,
+  "lon": -73.9131455281345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.084Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.084Z",
+  "crops": []
+}

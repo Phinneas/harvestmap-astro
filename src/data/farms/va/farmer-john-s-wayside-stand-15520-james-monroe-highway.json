@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-john-s-wayside-stand-15520-james-monroe-highway",
+  "name": "Farmer John's Wayside Stand",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "15520 James Monroe Highway, VA",
+  "locationCity": "15520 James Monroe Highway",
+  "locationState": "VA",
+  "locationZipcode": "15520",
+  "lat": 39.186259004839826,
+  "lon": -77.53419701826489,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.404Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.404Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "chestnut-street-farmers-market-502-w-chestnut-st",
+  "name": "Chestnut Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "502 W Chestnut St, NY",
+  "locationCity": "502 W Chestnut St",
+  "locationState": "NY",
+  "locationZipcode": "13440",
+  "lat": 43.23456888823689,
+  "lon": -75.44906943665796,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

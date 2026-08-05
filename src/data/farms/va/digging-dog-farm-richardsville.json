@@ -1,0 +1,19 @@
+{
+  "slug": "digging-dog-farm-richardsville",
+  "name": "Digging Dog Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Richardsville, VA",
+  "locationCity": "Richardsville",
+  "locationState": "VA",
+  "locationZipcode": "22736",
+  "lat": 38.392769,
+  "lon": -77.740219,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.250Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.250Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "the-family-farm-328-port-washington-road",
+  "name": "The Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "328 Port Washington Road, WI",
+  "locationCity": "328 Port Washington Road",
+  "locationState": "WI",
+  "locationZipcode": "53024",
+  "lat": 43.2877016772985,
+  "lon": -87.9245732454348,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.089Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.089Z",
+  "crops": []
+}

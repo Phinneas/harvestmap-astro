@@ -1,0 +1,19 @@
+{
+  "slug": "four-sisters-farmers-market-1414-e-franklin-ave",
+  "name": "Four Sisters Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1414 E Franklin Ave, MN",
+  "locationCity": "1414 E Franklin Ave",
+  "locationState": "MN",
+  "locationZipcode": "55404",
+  "lat": 44.9629242,
+  "lon": -93.2544313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

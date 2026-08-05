@@ -1,0 +1,19 @@
+{
+  "slug": "kilt-farm-8140-oxford-rd",
+  "name": "Kilt Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8140 Oxford Rd, CO",
+  "locationCity": "8140 Oxford Rd",
+  "locationState": "CO",
+  "locationZipcode": "80503",
+  "lat": 40.115949655937015,
+  "lon": -105.1628956595263,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.596Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.596Z"
+}

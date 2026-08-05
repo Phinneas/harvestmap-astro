@@ -1,0 +1,20 @@
+{
+  "slug": "carpenters-farm-522-matunuck-beach-road",
+  "name": "Carpenters Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "522 Matunuck Beach Road, RI",
+  "locationCity": "522 Matunuck Beach Road",
+  "locationState": "RI",
+  "locationZipcode": "02879",
+  "lat": 41.3825209817768,
+  "lon": -71.5492419672894,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:30.890Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:30.890Z",
+  "crops": []
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "horse-listener-s-orchard-317-bebbington-rd",
+  "name": "Horse Listener's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "317 Bebbington Rd, CT",
+  "locationCity": "317 Bebbington Rd",
+  "locationState": "CT",
+  "locationZipcode": "06278",
+  "lat": 41.8505949954738,
+  "lon": -72.1470490247696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.928Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.928Z",
+  "crops": []
+}

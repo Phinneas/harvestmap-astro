@@ -1,0 +1,19 @@
+{
+  "slug": "central-park-farmers-market-600-19th-street-bakersfield",
+  "name": "Central Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 19th Street Bakersfield, CA",
+  "locationCity": "600 19th Street Bakersfield",
+  "locationState": "CA",
+  "locationZipcode": "93301",
+  "lat": 35.37620033794026,
+  "lon": -119.00809208799204,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

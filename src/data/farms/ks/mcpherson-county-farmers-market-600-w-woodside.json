@@ -1,0 +1,19 @@
+{
+  "slug": "mcpherson-county-farmers-market-600-w-woodside",
+  "name": "McPherson County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 W. Woodside, KS",
+  "locationCity": "600 W. Woodside",
+  "locationState": "KS",
+  "locationZipcode": "67460",
+  "lat": 38.3735573040429,
+  "lon": -97.67366407129171,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

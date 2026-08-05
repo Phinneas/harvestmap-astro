@@ -1,0 +1,19 @@
+{
+  "slug": "larned-hillside-farmers-market-502-w-5th-street",
+  "name": "Larned - Hillside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "502 W 5th street, KS",
+  "locationCity": "502 W 5th street",
+  "locationState": "KS",
+  "locationZipcode": "67550",
+  "lat": 38.1785466288894,
+  "lon": -99.10390080467822,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

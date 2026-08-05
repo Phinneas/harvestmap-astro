@@ -1,0 +1,19 @@
+{
+  "slug": "gau-sco-produce-pork-farm-gault-road",
+  "name": "Gau-Sco Produce & Pork Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Gault Road, WA",
+  "locationCity": "Gault Road",
+  "locationState": "WA",
+  "locationZipcode": "98828",
+  "lat": 47.3516900173163,
+  "lon": -120.231783990793,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.148Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.148Z"
+}

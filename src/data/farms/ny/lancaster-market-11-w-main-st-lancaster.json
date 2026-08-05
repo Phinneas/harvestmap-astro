@@ -1,0 +1,19 @@
+{
+  "slug": "lancaster-market-11-w-main-st-lancaster",
+  "name": "Lancaster Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11 W Main St Lancaster, NY",
+  "locationCity": "11 W Main St Lancaster",
+  "locationState": "NY",
+  "locationZipcode": "14086",
+  "lat": 42.90120768130221,
+  "lon": -78.67057585155818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

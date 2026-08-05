@@ -1,0 +1,19 @@
+{
+  "slug": "country-store-farm-211-vashon-highway-sw",
+  "name": "Country Store & Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "211 Vashon highway Sw, WA",
+  "locationCity": "211 Vashon highway Sw",
+  "locationState": "WA",
+  "locationZipcode": "98070",
+  "lat": 47.4171461237862,
+  "lon": -122.460490019275,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.136Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.136Z"
+}

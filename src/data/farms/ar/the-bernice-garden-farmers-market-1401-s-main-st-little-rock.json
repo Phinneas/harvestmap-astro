@@ -1,0 +1,19 @@
+{
+  "slug": "the-bernice-garden-farmers-market-1401-s-main-st-little-rock",
+  "name": "The Bernice Garden Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1401 S. Main St. Little Rock, AR",
+  "locationCity": "1401 S. Main St. Little Rock",
+  "locationState": "AR",
+  "locationZipcode": "72202",
+  "lat": 34.735269595691875,
+  "lon": -92.27283356729288,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

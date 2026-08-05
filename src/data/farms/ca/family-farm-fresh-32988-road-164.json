@@ -1,0 +1,19 @@
+{
+  "slug": "family-farm-fresh-32988-road-164",
+  "name": "Family Farm Fresh",
+  "source": "usda",
+  "directory": "csa",
+  "location": "32988 Road 164, CA",
+  "locationCity": "32988 Road 164",
+  "locationState": "CA",
+  "locationZipcode": "32988",
+  "lat": 36.388286,
+  "lon": -119.2061737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.050Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.050Z"
+}

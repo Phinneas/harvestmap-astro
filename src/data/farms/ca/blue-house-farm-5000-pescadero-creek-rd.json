@@ -1,0 +1,19 @@
+{
+  "slug": "blue-house-farm-5000-pescadero-creek-rd",
+  "name": "Blue House Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5000 Pescadero Creek Rd, CA",
+  "locationCity": "5000 Pescadero Creek Rd",
+  "locationState": "CA",
+  "locationZipcode": "94060",
+  "lat": 37.2568996,
+  "lon": -122.3389233,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.039Z"
+}

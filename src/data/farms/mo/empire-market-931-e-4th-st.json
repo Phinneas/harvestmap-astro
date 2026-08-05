@@ -1,0 +1,19 @@
+{
+  "slug": "empire-market-931-e-4th-st",
+  "name": "Empire Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "931 E 4th St, MO",
+  "locationCity": "931 E 4th St",
+  "locationState": "MO",
+  "locationZipcode": "64801",
+  "lat": 37.087883,
+  "lon": -94.502691,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.437Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.437Z"
+}

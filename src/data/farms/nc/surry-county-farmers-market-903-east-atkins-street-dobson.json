@@ -1,0 +1,19 @@
+{
+  "slug": "surry-county-farmers-market-903-east-atkins-street-dobson",
+  "name": "Surry County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "903 East Atkins Street Dobson, NC",
+  "locationCity": "903 East Atkins Street Dobson",
+  "locationState": "NC",
+  "locationZipcode": "27030",
+  "lat": 36.39232309012518,
+  "lon": -80.70851945868334,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

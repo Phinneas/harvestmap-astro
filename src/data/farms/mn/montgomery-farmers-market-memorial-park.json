@@ -1,0 +1,19 @@
+{
+  "slug": "montgomery-farmers-market-memorial-park",
+  "name": "Montgomery Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Memorial Park, MN",
+  "locationCity": "Memorial Park",
+  "locationState": "MN",
+  "locationZipcode": "56069",
+  "lat": 44.4336864,
+  "lon": -93.5768403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

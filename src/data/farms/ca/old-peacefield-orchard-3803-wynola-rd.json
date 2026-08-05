@@ -1,0 +1,19 @@
+{
+  "slug": "old-peacefield-orchard-3803-wynola-rd",
+  "name": "Old Peacefield Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3803 Wynola Rd, CA",
+  "locationCity": "3803 Wynola Rd",
+  "locationState": "CA",
+  "locationZipcode": "92036",
+  "lat": 33.0938049979013,
+  "lon": -116.642956024335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.805Z"
+}

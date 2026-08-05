@@ -1,0 +1,19 @@
+{
+  "slug": "mexico-farmers-market-3284-main-street",
+  "name": "Mexico Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3284 Main Street, NY",
+  "locationCity": "3284 Main Street",
+  "locationState": "NY",
+  "locationZipcode": "13114",
+  "lat": 43.45959839673529,
+  "lon": -76.23029565233787,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.022Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

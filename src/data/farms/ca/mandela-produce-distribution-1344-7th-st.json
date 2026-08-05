@@ -1,0 +1,19 @@
+{
+  "slug": "mandela-produce-distribution-1344-7th-st",
+  "name": "Mandela Produce Distribution",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1344 7th St, CA",
+  "locationCity": "1344 7th St",
+  "locationState": "CA",
+  "locationZipcode": "94607",
+  "lat": 37.804955447459506,
+  "lon": -122.29278664271853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "anchorage-market-festival-e-st-w-3rd-ave",
+  "name": "Anchorage Market & Festival",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "E St & W 3rd Ave, AK",
+  "locationCity": "E St & W 3rd Ave",
+  "locationState": "AK",
+  "locationZipcode": "99501",
+  "lat": 61.21953000371323,
+  "lon": -149.89138002036668,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

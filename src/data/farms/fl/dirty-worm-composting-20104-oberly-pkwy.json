@@ -1,0 +1,19 @@
+{
+  "slug": "dirty-worm-composting-20104-oberly-pkwy",
+  "name": "Dirty Worm Composting",
+  "source": "usda",
+  "directory": "csa",
+  "location": "20104 Oberly Pkwy, FL",
+  "locationCity": "20104 Oberly Pkwy",
+  "locationState": "FL",
+  "locationZipcode": "20104",
+  "lat": 28.494692486009882,
+  "lon": -81.07598093388415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.822Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.822Z"
+}

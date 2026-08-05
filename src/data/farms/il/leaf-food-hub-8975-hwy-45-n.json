@@ -1,0 +1,19 @@
+{
+  "slug": "leaf-food-hub-8975-hwy-45-n",
+  "name": "LEAF Food Hub",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8975 Hwy 45 N, IL",
+  "locationCity": "8975 Hwy 45 N",
+  "locationState": "IL",
+  "locationZipcode": "62972",
+  "lat": 37.5212087,
+  "lon": -88.8133166,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.478Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.478Z"
+}

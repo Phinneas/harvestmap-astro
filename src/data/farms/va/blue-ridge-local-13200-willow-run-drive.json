@@ -1,0 +1,19 @@
+{
+  "slug": "blue-ridge-local-13200-willow-run-drive",
+  "name": "Blue Ridge Local",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "13200 Willow Run Drive, VA",
+  "locationCity": "13200 Willow Run Drive",
+  "locationState": "VA",
+  "locationZipcode": "13200",
+  "lat": 38.5203406,
+  "lon": -77.849525,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:05.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:05.028Z"
+}

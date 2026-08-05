@@ -1,0 +1,19 @@
+{
+  "slug": "bangs-farmers-market-503-west-hall-bangs",
+  "name": "Bangs Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "503 West Hall Bangs, TX",
+  "locationCity": "503 West Hall Bangs",
+  "locationState": "TX",
+  "locationZipcode": "76823",
+  "lat": 31.71689523477425,
+  "lon": -99.13690613438959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

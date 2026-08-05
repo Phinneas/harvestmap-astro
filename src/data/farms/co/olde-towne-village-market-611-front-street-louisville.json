@@ -1,0 +1,19 @@
+{
+  "slug": "olde-towne-village-market-611-front-street-louisville",
+  "name": "Olde Towne Village Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "611 Front Street Louisville, CO",
+  "locationCity": "611 Front Street Louisville",
+  "locationState": "CO",
+  "locationZipcode": "80027",
+  "lat": 39.976060085365646,
+  "lon": -105.130791789852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mountain-quest-farm-frost-road",
+  "name": "Mountain Quest Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Frost Road, WV",
+  "locationCity": "Frost Road",
+  "locationState": "WV",
+  "locationZipcode": "24954",
+  "lat": 38.1665261467989,
+  "lon": -79.9800712489102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.825Z"
+}

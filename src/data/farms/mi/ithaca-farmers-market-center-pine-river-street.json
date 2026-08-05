@@ -1,0 +1,19 @@
+{
+  "slug": "ithaca-farmers-market-center-pine-river-street",
+  "name": "Ithaca Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Center & Pine River Street, MI",
+  "locationCity": "Center & Pine River Street",
+  "locationState": "MI",
+  "locationZipcode": "48847",
+  "lat": 43.292319,
+  "lon": -84.598559,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.180Z"
+}

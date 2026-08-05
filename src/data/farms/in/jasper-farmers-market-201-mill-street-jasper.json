@@ -1,0 +1,19 @@
+{
+  "slug": "jasper-farmers-market-201-mill-street-jasper",
+  "name": "Jasper Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 Mill Street Jasper, IN",
+  "locationCity": "201 Mill Street Jasper",
+  "locationState": "IN",
+  "locationZipcode": "47546",
+  "lat": 38.38861420868076,
+  "lon": -86.92892782864472,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

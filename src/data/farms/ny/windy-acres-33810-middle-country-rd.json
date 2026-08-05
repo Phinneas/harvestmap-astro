@@ -1,0 +1,19 @@
+{
+  "slug": "windy-acres-33810-middle-country-rd",
+  "name": "Windy Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "33810 Middle Country Rd, NY",
+  "locationCity": "33810 Middle Country Rd",
+  "locationState": "NY",
+  "locationZipcode": "33810",
+  "lat": 40.9253402946099,
+  "lon": -72.7334322662575,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.220Z"
+}

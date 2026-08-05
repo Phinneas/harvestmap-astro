@@ -1,0 +1,19 @@
+{
+  "slug": "surf-and-turf-farm-galloway-township",
+  "name": "Surf and Turf Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Galloway Township, NJ",
+  "locationCity": "Galloway Township",
+  "locationState": "NJ",
+  "locationZipcode": "08213",
+  "lat": 39.4990160174198,
+  "lon": -74.5754329741818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.380Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.380Z"
+}

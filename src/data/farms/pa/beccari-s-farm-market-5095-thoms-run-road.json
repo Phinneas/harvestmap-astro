@@ -1,0 +1,19 @@
+{
+  "slug": "beccari-s-farm-market-5095-thoms-run-road",
+  "name": "Beccari's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5095 Thoms Run Road, PA",
+  "locationCity": "5095 Thoms Run Road",
+  "locationState": "PA",
+  "locationZipcode": "15071",
+  "lat": 40.3739713,
+  "lon": -80.133093,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.350Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "new-family-farm-12850-ne-64th-street",
+  "name": "New Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "12850 NE 64th Street, IA",
+  "locationCity": "12850 NE 64th Street",
+  "locationState": "IA",
+  "locationZipcode": "12850",
+  "lat": 41.7957081,
+  "lon": -93.4844613,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.412Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mount-morris-village-farmers-market-30-e-state-st-mount-morris",
+  "name": "Mount Morris Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30 E. State St. Mount Morris, NY",
+  "locationCity": "30 E. State St. Mount Morris",
+  "locationState": "NY",
+  "locationZipcode": "14510",
+  "lat": 42.72493367396944,
+  "lon": -77.87713261847831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

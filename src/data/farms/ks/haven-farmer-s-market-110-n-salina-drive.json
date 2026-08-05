@@ -1,0 +1,19 @@
+{
+  "slug": "haven-farmer-s-market-110-n-salina-drive",
+  "name": "Haven Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 N. Salina Drive, KS",
+  "locationCity": "110 N. Salina Drive",
+  "locationState": "KS",
+  "locationZipcode": "67543",
+  "lat": 37.901381267823815,
+  "lon": -97.7762120498142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

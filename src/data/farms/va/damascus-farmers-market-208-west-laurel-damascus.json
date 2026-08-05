@@ -1,0 +1,19 @@
+{
+  "slug": "damascus-farmers-market-208-west-laurel-damascus",
+  "name": "Damascus Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "208 West Laurel Damascus, VA",
+  "locationCity": "208 West Laurel Damascus",
+  "locationState": "VA",
+  "locationZipcode": "24236",
+  "lat": 36.63529615547179,
+  "lon": -81.79007530542519,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

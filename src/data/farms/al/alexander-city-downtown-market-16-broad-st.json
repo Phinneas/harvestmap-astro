@@ -1,0 +1,19 @@
+{
+  "slug": "alexander-city-downtown-market-16-broad-st",
+  "name": "Alexander City Downtown Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16 Broad St., AL",
+  "locationCity": "16 Broad St.",
+  "locationState": "AL",
+  "locationZipcode": "35010",
+  "lat": 32.94503634469432,
+  "lon": -85.95361526452832,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

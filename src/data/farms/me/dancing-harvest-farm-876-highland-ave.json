@@ -1,0 +1,19 @@
+{
+  "slug": "dancing-harvest-farm-876-highland-ave",
+  "name": "Dancing Harvest Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "876 Highland Ave, ME",
+  "locationCity": "876 Highland Ave",
+  "locationState": "ME",
+  "locationZipcode": "04072",
+  "lat": 43.615741577751805,
+  "lon": -70.2768178518288,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.574Z"
+}

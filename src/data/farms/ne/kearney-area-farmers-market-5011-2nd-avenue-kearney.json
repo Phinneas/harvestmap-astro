@@ -1,0 +1,19 @@
+{
+  "slug": "kearney-area-farmers-market-5011-2nd-avenue-kearney",
+  "name": "Kearney Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5011 2nd avenue Kearney, NE",
+  "locationCity": "5011 2nd avenue Kearney",
+  "locationState": "NE",
+  "locationZipcode": "68847",
+  "lat": 40.72279962207283,
+  "lon": -99.08382019253598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

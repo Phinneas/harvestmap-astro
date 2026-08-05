@@ -1,0 +1,19 @@
+{
+  "slug": "pagosa-farmers-market-2435-eagle-drive-pagosa-springs",
+  "name": "Pagosa Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2435 Eagle Drive Pagosa Springs, CO",
+  "locationCity": "2435 Eagle Drive Pagosa Springs",
+  "locationState": "CO",
+  "locationZipcode": "81147",
+  "lat": 37.26902698039497,
+  "lon": -107.0509409751049,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

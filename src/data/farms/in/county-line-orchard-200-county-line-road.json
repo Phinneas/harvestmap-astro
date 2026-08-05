@@ -1,0 +1,19 @@
+{
+  "slug": "county-line-orchard-200-county-line-road",
+  "name": "County Line Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 County Line Road, IN",
+  "locationCity": "200 County Line Road",
+  "locationState": "IN",
+  "locationZipcode": "46342",
+  "lat": 41.5344792704724,
+  "lon": -87.2232204429913,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.267Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.267Z"
+}

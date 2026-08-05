@@ -1,0 +1,19 @@
+{
+  "slug": "albertville-farmers-market-116-w-main-st",
+  "name": "Albertville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "116 W MAIN ST, AL",
+  "locationCity": "116 W MAIN ST",
+  "locationState": "AL",
+  "locationZipcode": "35950",
+  "lat": 34.267951019308626,
+  "lon": -86.20907036284322,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

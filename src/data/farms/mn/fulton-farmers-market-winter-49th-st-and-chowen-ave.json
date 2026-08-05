@@ -1,0 +1,19 @@
+{
+  "slug": "fulton-farmers-market-winter-49th-st-and-chowen-ave",
+  "name": "Fulton Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "49th St and Chowen Ave, MN",
+  "locationCity": "49th St and Chowen Ave",
+  "locationState": "MN",
+  "locationZipcode": "55410",
+  "lat": 44.9142498,
+  "lon": -93.3260752,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

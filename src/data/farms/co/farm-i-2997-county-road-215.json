@@ -1,0 +1,19 @@
+{
+  "slug": "farm-i-2997-county-road-215",
+  "name": "Farm-i",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2997 County Road 215, CO",
+  "locationCity": "2997 County Road 215",
+  "locationState": "CO",
+  "locationZipcode": "81303",
+  "lat": 37.14268898458346,
+  "lon": -107.87524298200162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:05.335Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:05.335Z"
+}

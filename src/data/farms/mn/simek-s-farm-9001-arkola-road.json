@@ -1,0 +1,19 @@
+{
+  "slug": "simek-s-farm-9001-arkola-road",
+  "name": "Simek's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9001 Arkola Road, MN",
+  "locationCity": "9001 Arkola Road",
+  "locationState": "MN",
+  "locationZipcode": "55724",
+  "lat": 47.1682636044032,
+  "lon": -92.6309042410467,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.653Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.653Z"
+}

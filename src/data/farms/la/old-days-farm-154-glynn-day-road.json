@@ -1,0 +1,20 @@
+{
+  "slug": "old-days-farm-154-glynn-day-road",
+  "name": "Old Days Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "154 Glynn Day Road, LA",
+  "locationCity": "154 Glynn Day Road",
+  "locationState": "LA",
+  "locationZipcode": "71295",
+  "lat": 32.1510715733731,
+  "lon": -91.6555474657357,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.083Z",
+  "crops": []
+}

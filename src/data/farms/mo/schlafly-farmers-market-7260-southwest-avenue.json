@@ -1,0 +1,19 @@
+{
+  "slug": "schlafly-farmers-market-7260-southwest-avenue",
+  "name": "Schlafly Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7260 Southwest Avenue, MO",
+  "locationCity": "7260 Southwest Avenue",
+  "locationState": "MO",
+  "locationZipcode": "63143",
+  "lat": 38.61345852357115,
+  "lon": -90.31492177954611,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

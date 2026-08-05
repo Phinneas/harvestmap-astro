@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-the-hill-1-university-boulevard",
+  "name": "Market on the Hill",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 University Boulevard, AL",
+  "locationCity": "1 University Boulevard",
+  "locationState": "AL",
+  "locationZipcode": "36633",
+  "lat": 30.688187009975408,
+  "lon": -88.17297397561975,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

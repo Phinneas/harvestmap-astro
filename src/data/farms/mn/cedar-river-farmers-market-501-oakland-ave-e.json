@@ -1,0 +1,19 @@
+{
+  "slug": "cedar-river-farmers-market-501-oakland-ave-e",
+  "name": "Cedar River Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "501 Oakland Ave E, MN",
+  "locationCity": "501 Oakland Ave E",
+  "locationState": "MN",
+  "locationZipcode": "55912",
+  "lat": 43.6671087,
+  "lon": -92.9687096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

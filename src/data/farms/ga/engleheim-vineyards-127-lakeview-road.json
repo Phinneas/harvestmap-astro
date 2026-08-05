@@ -1,0 +1,19 @@
+{
+  "slug": "engleheim-vineyards-127-lakeview-road",
+  "name": "Engleheim Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "127 Lakeview Road, GA",
+  "locationCity": "127 Lakeview Road",
+  "locationState": "GA",
+  "locationZipcode": "30540",
+  "lat": 34.6060100079542,
+  "lon": -84.5696499592483,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.340Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.340Z"
+}

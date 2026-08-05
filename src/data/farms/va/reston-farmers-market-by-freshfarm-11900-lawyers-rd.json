@@ -1,0 +1,19 @@
+{
+  "slug": "reston-farmers-market-by-freshfarm-11900-lawyers-rd",
+  "name": "Reston Farmers Market by FRESHFARM",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11900 Lawyers Rd, VA",
+  "locationCity": "11900 Lawyers Rd",
+  "locationState": "VA",
+  "locationZipcode": "11900",
+  "lat": 38.92289255798693,
+  "lon": -77.3581529554972,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

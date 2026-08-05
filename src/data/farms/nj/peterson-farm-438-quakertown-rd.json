@@ -1,0 +1,19 @@
+{
+  "slug": "peterson-farm-438-quakertown-rd",
+  "name": "Peterson Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "438 Quakertown Rd, NJ",
+  "locationCity": "438 Quakertown Rd",
+  "locationState": "NJ",
+  "locationZipcode": "08822",
+  "lat": 40.5611734673552,
+  "lon": -74.9140452414374,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.714Z"
+}

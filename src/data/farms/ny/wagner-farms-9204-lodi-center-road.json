@@ -1,0 +1,19 @@
+{
+  "slug": "wagner-farms-9204-lodi-center-road",
+  "name": "Wagner Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9204 Lodi Center Road, NY",
+  "locationCity": "9204 Lodi Center Road",
+  "locationState": "NY",
+  "locationZipcode": "14860",
+  "lat": 42.5848701728657,
+  "lon": -76.8213603454761,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.435Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.435Z"
+}

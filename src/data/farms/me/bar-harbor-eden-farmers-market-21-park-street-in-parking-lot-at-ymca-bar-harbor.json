@@ -1,0 +1,19 @@
+{
+  "slug": "bar-harbor-eden-farmers-market-21-park-street-in-parking-lot-at-ymca-bar-harbor",
+  "name": "Bar Harbor Eden Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "21 Park Street (in parking lot at YMCA) Bar Harbor, ME",
+  "locationCity": "21 Park Street (in parking lot at YMCA) Bar Harbor",
+  "locationState": "ME",
+  "locationZipcode": "04609",
+  "lat": 44.382743030791154,
+  "lon": -68.204257051922,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:57.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:57.069Z"
+}

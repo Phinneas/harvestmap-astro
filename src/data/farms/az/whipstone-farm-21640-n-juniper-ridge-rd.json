@@ -1,0 +1,19 @@
+{
+  "slug": "whipstone-farm-21640-n-juniper-ridge-rd",
+  "name": "Whipstone Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "21640 N. Juniper Ridge Rd., AZ",
+  "locationCity": "21640 N. Juniper Ridge Rd.",
+  "locationState": "AZ",
+  "locationZipcode": "21640",
+  "lat": 34.858361,
+  "lon": -112.4943367,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:13.358Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:13.358Z"
+}

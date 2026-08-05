@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-edgewater-farmers-market-2401-sheridan-blvd-edgewater",
+  "name": "City of Edgewater Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2401 Sheridan Blvd. Edgewater, CO",
+  "locationCity": "2401 Sheridan Blvd. Edgewater",
+  "locationState": "CO",
+  "locationZipcode": "80214",
+  "lat": 39.7513950649243,
+  "lon": -105.05323329920806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

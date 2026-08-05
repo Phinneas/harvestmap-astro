@@ -1,0 +1,19 @@
+{
+  "slug": "qc-farmers-market-1700-1st-ave",
+  "name": "QC Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1700 1st ave, IL",
+  "locationCity": "1700 1st ave",
+  "locationState": "IL",
+  "locationZipcode": "61201",
+  "lat": 41.51278,
+  "lon": -90.576384,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.952Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.952Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "oakton-farmers-market-2854-hunter-mill-rd",
+  "name": "Oakton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2854 Hunter Mill Rd, VA",
+  "locationCity": "2854 Hunter Mill Rd",
+  "locationState": "VA",
+  "locationZipcode": "22124",
+  "lat": 38.88480554903723,
+  "lon": -77.30119952858092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

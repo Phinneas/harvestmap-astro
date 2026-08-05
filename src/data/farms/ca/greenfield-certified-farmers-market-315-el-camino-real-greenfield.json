@@ -1,0 +1,19 @@
+{
+  "slug": "greenfield-certified-farmers-market-315-el-camino-real-greenfield",
+  "name": "Greenfield Certified Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "315 El Camino real Greenfield, CA",
+  "locationCity": "315 El Camino real Greenfield",
+  "locationState": "CA",
+  "locationZipcode": "93927",
+  "lat": 36.322650886228,
+  "lon": -121.24490063636425,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

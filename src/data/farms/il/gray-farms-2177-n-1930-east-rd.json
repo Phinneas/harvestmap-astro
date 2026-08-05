@@ -1,0 +1,19 @@
+{
+  "slug": "gray-farms-2177-n-1930-east-rd",
+  "name": "Gray Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2177 N 1930 East RD, IL",
+  "locationCity": "2177 N 1930 East RD",
+  "locationState": "IL",
+  "locationZipcode": "60970",
+  "lat": 40.8273961,
+  "lon": -87.7657753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.468Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.468Z"
+}

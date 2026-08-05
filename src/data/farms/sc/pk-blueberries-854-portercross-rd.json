@@ -1,0 +1,19 @@
+{
+  "slug": "pk-blueberries-854-portercross-rd",
+  "name": "PK Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "854 Portercross Rd, SC",
+  "locationCity": "854 Portercross Rd",
+  "locationState": "SC",
+  "locationZipcode": "29078",
+  "lat": 34.133617018217,
+  "lon": -80.7095804006307,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.799Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.799Z"
+}

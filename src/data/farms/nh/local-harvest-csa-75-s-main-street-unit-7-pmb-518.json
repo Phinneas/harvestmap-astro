@@ -1,0 +1,19 @@
+{
+  "slug": "local-harvest-csa-75-s-main-street-unit-7-pmb-518",
+  "name": "Local Harvest CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "75 S. Main Street Unit 7 PMB 518, NH",
+  "locationCity": "75 S. Main Street Unit 7 PMB 518",
+  "locationState": "NH",
+  "locationZipcode": "03301",
+  "lat": 43.2004122,
+  "lon": -71.5326861,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.523Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.523Z"
+}

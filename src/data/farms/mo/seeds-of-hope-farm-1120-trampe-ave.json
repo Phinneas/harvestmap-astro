@@ -1,0 +1,19 @@
+{
+  "slug": "seeds-of-hope-farm-1120-trampe-ave",
+  "name": "Seeds of Hope Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1120 Trampe Ave., MO",
+  "locationCity": "1120 Trampe Ave.",
+  "locationState": "MO",
+  "locationZipcode": "62025",
+  "lat": 38.787973,
+  "lon": -90.2003381,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:52.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:52.643Z"
+}

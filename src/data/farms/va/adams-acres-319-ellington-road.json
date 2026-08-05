@@ -1,0 +1,19 @@
+{
+  "slug": "adams-acres-319-ellington-road",
+  "name": "Adams Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "319 Ellington Road, VA",
+  "locationCity": "319 Ellington Road",
+  "locationState": "VA",
+  "locationZipcode": "23805",
+  "lat": 37.0835073286825,
+  "lon": -77.4049498476771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.165Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.165Z"
+}

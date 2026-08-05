@@ -1,0 +1,19 @@
+{
+  "slug": "apple-valley-orchard-mar-el-road",
+  "name": "Apple Valley Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mar-el Road, WI",
+  "locationCity": "Mar-el Road",
+  "locationState": "WI",
+  "locationZipcode": "54115",
+  "lat": 44.3769680030537,
+  "lon": -88.0929139759824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.237Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "washington-s-green-grocer-8741-ashwood-drive",
+  "name": "Washington's Green Grocer",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "8741 Ashwood Drive, MD",
+  "locationCity": "8741 Ashwood Drive",
+  "locationState": "MD",
+  "locationZipcode": "20743",
+  "lat": 38.8837469,
+  "lon": -76.854889,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:12.402Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:12.402Z"
+}

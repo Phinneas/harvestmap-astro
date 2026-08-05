@@ -1,0 +1,19 @@
+{
+  "slug": "pasadena-farmers-market-at-pasadena-corporate-center-251-s-lake-ave",
+  "name": "Pasadena Farmers' Market at Pasadena Corporate Center",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "251 S LAKE AVE, CA",
+  "locationCity": "251 S LAKE AVE",
+  "locationState": "CA",
+  "locationZipcode": "91101",
+  "lat": 34.14160710633025,
+  "lon": -118.13231772004973,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

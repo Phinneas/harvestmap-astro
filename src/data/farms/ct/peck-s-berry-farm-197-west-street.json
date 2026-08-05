@@ -1,0 +1,19 @@
+{
+  "slug": "peck-s-berry-farm-197-west-street",
+  "name": "Peck's Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "197 West Street, CT",
+  "locationCity": "197 West Street",
+  "locationState": "CT",
+  "locationZipcode": "06763",
+  "lat": 41.6809340015431,
+  "lon": -73.2161920392961,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.020Z"
+}

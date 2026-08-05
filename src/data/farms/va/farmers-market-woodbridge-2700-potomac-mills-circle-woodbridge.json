@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-woodbridge-2700-potomac-mills-circle-woodbridge",
+  "name": "Farmers Market Woodbridge",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2700 Potomac Mills Circle Woodbridge, VA",
+  "locationCity": "2700 Potomac Mills Circle Woodbridge",
+  "locationState": "VA",
+  "locationZipcode": "22192",
+  "lat": 38.64633713976391,
+  "lon": -77.29419077762698,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

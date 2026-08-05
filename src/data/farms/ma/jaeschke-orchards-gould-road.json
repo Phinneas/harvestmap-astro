@@ -1,0 +1,19 @@
+{
+  "slug": "jaeschke-orchards-gould-road",
+  "name": "Jaeschke Orchards",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Gould Road, MA",
+  "locationCity": "Gould Road",
+  "locationState": "MA",
+  "locationZipcode": "01220",
+  "lat": 42.625993868586775,
+  "lon": -73.14022208610427,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.707Z"
+}

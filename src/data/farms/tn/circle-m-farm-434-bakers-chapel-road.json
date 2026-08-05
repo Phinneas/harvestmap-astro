@@ -1,0 +1,19 @@
+{
+  "slug": "circle-m-farm-434-bakers-chapel-road",
+  "name": "Circle M Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "434 Bakers Chapel Road, TN",
+  "locationCity": "434 Bakers Chapel Road",
+  "locationState": "TN",
+  "locationZipcode": "38355",
+  "lat": 35.766050990562,
+  "lon": -88.8100540213334,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.343Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.343Z"
+}

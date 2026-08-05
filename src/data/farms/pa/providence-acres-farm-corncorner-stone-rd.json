@@ -1,0 +1,19 @@
+{
+  "slug": "providence-acres-farm-corncorner-stone-rd",
+  "name": "Providence Acres Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "CornCorner Stone Rd, PA",
+  "locationCity": "CornCorner Stone Rd",
+  "locationState": "PA",
+  "locationZipcode": "15541",
+  "lat": 40.006059717202994,
+  "lon": -78.88172699287948,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

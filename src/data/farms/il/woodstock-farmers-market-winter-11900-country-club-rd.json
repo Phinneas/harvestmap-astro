@@ -1,0 +1,19 @@
+{
+  "slug": "woodstock-farmers-market-winter-11900-country-club-rd",
+  "name": "Woodstock Farmers Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11900 Country Club Rd., IL",
+  "locationCity": "11900 Country Club Rd.",
+  "locationState": "IL",
+  "locationZipcode": "11900",
+  "lat": 42.310266,
+  "lon": -88.435654,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.950Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.950Z"
+}

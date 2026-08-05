@@ -1,0 +1,19 @@
+{
+  "slug": "swan-pumpkin-farm-howell-road",
+  "name": "Swan Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Howell Road, WI",
+  "locationCity": "Howell Road",
+  "locationState": "WI",
+  "locationZipcode": "53126",
+  "lat": 42.7982979793094,
+  "lon": -87.9189960229765,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.237Z"
+}

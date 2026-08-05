@@ -1,0 +1,19 @@
+{
+  "slug": "tassleberry-farm-7-road",
+  "name": "Tassleberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7 Road, NY",
+  "locationCity": "7 Road",
+  "locationState": "NY",
+  "locationZipcode": "13490",
+  "lat": 43.1132878000001,
+  "lon": -75.4031523,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.270Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.270Z"
+}

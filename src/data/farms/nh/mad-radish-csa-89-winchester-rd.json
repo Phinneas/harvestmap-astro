@@ -1,0 +1,19 @@
+{
+  "slug": "mad-radish-csa-89-winchester-rd",
+  "name": "Mad Radish CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "89 Winchester Rd, NH",
+  "locationCity": "89 Winchester Rd",
+  "locationState": "NH",
+  "locationZipcode": "03443",
+  "lat": 42.8801796,
+  "lon": -72.4658724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.557Z"
+}

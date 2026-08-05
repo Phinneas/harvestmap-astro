@@ -1,0 +1,19 @@
+{
+  "slug": "heritage-farm-205-day-road",
+  "name": "Heritage Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "205 Day Road, GA",
+  "locationCity": "205 Day Road",
+  "locationState": "GA",
+  "locationZipcode": "30108",
+  "lat": 33.45022200301766,
+  "lon": -85.22693902497502,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.404Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.404Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "new-braunfels-food-bank-farmers-market-1620-s-seguin-ave",
+  "name": "New Braunfels Food Bank Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1620 S. Seguin Ave, TX",
+  "locationCity": "1620 S. Seguin Ave",
+  "locationState": "TX",
+  "locationZipcode": "78130",
+  "lat": 29.699301,
+  "lon": -98.115109,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.049Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.049Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "voorheesville-farmers-market-68-maple-ave",
+  "name": "Voorheesville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "68 Maple Ave., NY",
+  "locationCity": "68 Maple Ave.",
+  "locationState": "NY",
+  "locationZipcode": "12186",
+  "lat": 42.649656,
+  "lon": -73.930027,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.835Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.835Z"
+}

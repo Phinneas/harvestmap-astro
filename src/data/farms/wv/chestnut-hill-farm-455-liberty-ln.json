@@ -1,0 +1,19 @@
+{
+  "slug": "chestnut-hill-farm-455-liberty-ln",
+  "name": "Chestnut Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "455 Liberty Ln, WV",
+  "locationCity": "455 Liberty Ln",
+  "locationState": "WV",
+  "locationZipcode": "24963",
+  "lat": 37.4537777522239,
+  "lon": -80.8076217733354,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.786Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.786Z"
+}

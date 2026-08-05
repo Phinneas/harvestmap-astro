@@ -1,0 +1,19 @@
+{
+  "slug": "south-fork-vineyard-845-road-e-d",
+  "name": "South Fork Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "845 Road E D, NE",
+  "locationCity": "845 Road E D",
+  "locationState": "NE",
+  "locationZipcode": "69153",
+  "lat": 41.1113180085604,
+  "lon": -101.651930996055,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.803Z"
+}

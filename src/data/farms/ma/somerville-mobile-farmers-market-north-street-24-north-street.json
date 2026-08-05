@@ -1,0 +1,19 @@
+{
+  "slug": "somerville-mobile-farmers-market-north-street-24-north-street",
+  "name": "Somerville Mobile Farmers' Market - North Street",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24 North Street, MA",
+  "locationCity": "24 North Street",
+  "locationState": "MA",
+  "locationZipcode": "02144",
+  "lat": 42.407206,
+  "lon": -71.131331,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.741Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.741Z"
+}

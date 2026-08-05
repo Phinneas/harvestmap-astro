@@ -1,0 +1,19 @@
+{
+  "slug": "piper-farms-13911-east-piper-road",
+  "name": "Piper Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "13911 East Piper Road, WA",
+  "locationCity": "13911 East Piper Road",
+  "locationState": "WA",
+  "locationZipcode": "13911",
+  "lat": 47.7520799952336,
+  "lon": -117.21825398375199,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.541Z"
+}

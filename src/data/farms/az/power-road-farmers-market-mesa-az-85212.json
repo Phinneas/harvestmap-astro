@@ -1,0 +1,19 @@
+{
+  "slug": "power-road-farmers-market-mesa-az-85212",
+  "name": "Power Road Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Mesa AZ 85212, AZ",
+  "locationCity": "Mesa AZ 85212",
+  "locationState": "AZ",
+  "locationZipcode": "85212",
+  "lat": 33.32668910000007,
+  "lon": -111.60848119999997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

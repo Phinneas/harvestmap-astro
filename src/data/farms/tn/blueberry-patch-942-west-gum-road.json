@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-patch-942-west-gum-road",
+  "name": "Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "942 West Gum Road, TN",
+  "locationCity": "942 West Gum Road",
+  "locationState": "TN",
+  "locationZipcode": "37127",
+  "lat": 35.7495255449885,
+  "lon": -86.3473672142193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.215Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.215Z"
+}

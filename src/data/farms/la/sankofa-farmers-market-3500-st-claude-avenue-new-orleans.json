@@ -1,0 +1,19 @@
+{
+  "slug": "sankofa-farmers-market-3500-st-claude-avenue-new-orleans",
+  "name": "Sankofa Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3500 St.Claude Avenue New Orleans, LA",
+  "locationCity": "3500 St.Claude Avenue New Orleans",
+  "locationState": "LA",
+  "locationZipcode": "70117",
+  "lat": 29.966527630846777,
+  "lon": -90.03955254425502,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.709Z"
+}

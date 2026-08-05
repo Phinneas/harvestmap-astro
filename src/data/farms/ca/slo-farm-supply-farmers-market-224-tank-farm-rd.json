@@ -1,0 +1,19 @@
+{
+  "slug": "slo-farm-supply-farmers-market-224-tank-farm-rd",
+  "name": "SLO Farm Supply Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "224 Tank Farm Rd, CA",
+  "locationCity": "224 Tank Farm Rd",
+  "locationState": "CA",
+  "locationZipcode": "93401",
+  "lat": 35.247189,
+  "lon": -120.66718,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "erickson-s-farm-171-strawberry-lane",
+  "name": "Erickson's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "171 Strawberry Lane, MD",
+  "locationCity": "171 Strawberry Lane",
+  "locationState": "MD",
+  "locationZipcode": "21617",
+  "lat": 39.0693099978703,
+  "lon": -76.057121025425,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.299Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.299Z"
+}

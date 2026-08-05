@@ -1,0 +1,19 @@
+{
+  "slug": "lukens-farms-320-east-state-highway-14",
+  "name": "Lukens Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "320 East State Highway 14, CO",
+  "locationCity": "320 East State Highway 14",
+  "locationState": "CO",
+  "locationZipcode": "80524",
+  "lat": 40.6192389582562,
+  "lon": -105.080594459133,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.215Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.215Z"
+}

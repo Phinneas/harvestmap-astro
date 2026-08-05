@@ -1,0 +1,19 @@
+{
+  "slug": "west-lafayette-farmers-market-3065-n-salisbury-st",
+  "name": "West Lafayette Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3065 N Salisbury St, IN",
+  "locationCity": "3065 N Salisbury St",
+  "locationState": "IN",
+  "locationZipcode": "47906",
+  "lat": 40.461469,
+  "lon": -86.915836,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.600Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.600Z"
+}

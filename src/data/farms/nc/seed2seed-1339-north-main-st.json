@@ -1,0 +1,19 @@
+{
+  "slug": "seed2seed-1339-north-main-st",
+  "name": "Seed2Seed",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1339 North Main St., NC",
+  "locationCity": "1339 North Main St.",
+  "locationState": "NC",
+  "locationZipcode": "27284",
+  "lat": 36.1452511,
+  "lon": -80.0455898,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.879Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.879Z"
+}

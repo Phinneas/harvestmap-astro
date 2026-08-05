@@ -1,0 +1,19 @@
+{
+  "slug": "community-farmers-market-10501-main-street-fairfax",
+  "name": "Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10501 Main Street Fairfax, VA",
+  "locationCity": "10501 Main Street Fairfax",
+  "locationState": "VA",
+  "locationZipcode": "10501",
+  "lat": 38.84670274560432,
+  "lon": -77.30850647516142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

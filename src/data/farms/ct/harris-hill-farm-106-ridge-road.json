@@ -1,0 +1,20 @@
+{
+  "slug": "harris-hill-farm-106-ridge-road",
+  "name": "Harris Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "106 Ridge Road, CT",
+  "locationCity": "106 Ridge Road",
+  "locationState": "CT",
+  "locationZipcode": "06776",
+  "lat": 41.5927080165561,
+  "lon": -73.3709020229852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.900Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.900Z",
+  "crops": []
+}

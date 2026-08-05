@@ -1,0 +1,19 @@
+{
+  "slug": "farm2people-777-s-alameda-st",
+  "name": "Farm2People",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "777 S. Alameda St., CA",
+  "locationCity": "777 S. Alameda St.",
+  "locationState": "CA",
+  "locationZipcode": "90021",
+  "lat": 34.03384600022521,
+  "lon": -118.24008802801374,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

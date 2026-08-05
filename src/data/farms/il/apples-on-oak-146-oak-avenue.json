@@ -1,0 +1,19 @@
+{
+  "slug": "apples-on-oak-146-oak-avenue",
+  "name": "Apples On Oak",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "146 Oak Avenue, IL",
+  "locationCity": "146 Oak Avenue",
+  "locationState": "IL",
+  "locationZipcode": "60137",
+  "lat": 41.5603360463757,
+  "lon": -88.0670345560012,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.842Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.842Z"
+}

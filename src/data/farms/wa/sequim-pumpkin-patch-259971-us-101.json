@@ -1,0 +1,19 @@
+{
+  "slug": "sequim-pumpkin-patch-259971-us-101",
+  "name": "Sequim Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "259971 US 101, WA",
+  "locationCity": "259971 US 101",
+  "locationState": "WA",
+  "locationZipcode": "98382",
+  "lat": 48.0841199951638,
+  "lon": -123.200130026415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.293Z"
+}

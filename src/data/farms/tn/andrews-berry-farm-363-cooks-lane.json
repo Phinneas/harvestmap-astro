@@ -1,0 +1,19 @@
+{
+  "slug": "andrews-berry-farm-363-cooks-lane",
+  "name": "Andrews Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "363 Cooks Lane, TN",
+  "locationCity": "363 Cooks Lane",
+  "locationState": "TN",
+  "locationZipcode": "37167",
+  "lat": 35.9458691711867,
+  "lon": -86.6037521764564,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.341Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.341Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "boerson-farm-w995-brooklyn-j",
+  "name": "Boerson Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "W995 Brooklyn J, WI",
+  "locationCity": "W995 Brooklyn J",
+  "locationState": "WI",
+  "locationZipcode": "54941",
+  "lat": 43.8702012802801,
+  "lon": -88.92865065901012,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.028Z"
+}

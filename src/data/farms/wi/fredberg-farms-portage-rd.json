@@ -1,0 +1,19 @@
+{
+  "slug": "fredberg-farms-portage-rd",
+  "name": "Fredberg Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Portage Rd, WI",
+  "locationCity": "Portage Rd",
+  "locationState": "WI",
+  "locationZipcode": "53532",
+  "lat": 43.180421305881694,
+  "lon": -89.30147330557789,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.013Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.013Z"
+}

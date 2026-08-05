@@ -1,0 +1,19 @@
+{
+  "slug": "brown-farms-384-walnut-grove-road",
+  "name": "Brown Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "384 Walnut Grove Road, AL",
+  "locationCity": "384 Walnut Grove Road",
+  "locationState": "AL",
+  "locationZipcode": "35761",
+  "lat": 34.9521660129317,
+  "lon": -86.4973049641109,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.414Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.414Z"
+}

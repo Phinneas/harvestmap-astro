@@ -1,0 +1,20 @@
+{
+  "slug": "harvest-valley-farms-125-ida-lane",
+  "name": "Harvest Valley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "125 Ida Lane, PA",
+  "locationCity": "125 Ida Lane",
+  "locationState": "PA",
+  "locationZipcode": "16059",
+  "lat": 40.6789069812181,
+  "lon": -79.91410699669,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.135Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.135Z",
+  "crops": []
+}

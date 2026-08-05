@@ -1,0 +1,19 @@
+{
+  "slug": "madison-farmers-market-mn-40-1st-st",
+  "name": "Madison Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "MN-40 & 1st St, MN",
+  "locationCity": "MN-40 & 1st St",
+  "locationState": "MN",
+  "locationZipcode": "56256",
+  "lat": 45.0099115,
+  "lon": -96.196063,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

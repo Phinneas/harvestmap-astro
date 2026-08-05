@@ -1,0 +1,19 @@
+{
+  "slug": "anacostia-farmers-market-14th-street-between-u-v-streets-se-washington",
+  "name": "Anacostia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14th Street between U & V Streets SE Washington, DC",
+  "locationCity": "14th Street between U & V Streets SE Washington",
+  "locationState": "DC",
+  "locationZipcode": "20020",
+  "lat": 38.865029983625305,
+  "lon": -76.98560003050864,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:00.226Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:00.226Z"
+}

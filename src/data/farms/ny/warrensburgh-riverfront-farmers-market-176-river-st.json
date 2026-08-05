@@ -1,0 +1,19 @@
+{
+  "slug": "warrensburgh-riverfront-farmers-market-176-river-st",
+  "name": "Warrensburgh Riverfront Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "176 River St, NY",
+  "locationCity": "176 River St",
+  "locationState": "NY",
+  "locationZipcode": "12885",
+  "lat": 43.48854117191472,
+  "lon": -73.77826761404359,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

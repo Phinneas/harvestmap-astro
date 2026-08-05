@@ -1,0 +1,20 @@
+{
+  "slug": "mango-blossom-apiary-330-mango-blossom-ct",
+  "name": "Mango Blossom Apiary",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "330 Mango Blossom Ct, CA",
+  "locationCity": "330 Mango Blossom Ct",
+  "locationState": "CA",
+  "locationZipcode": "95123",
+  "lat": 37.258365010963,
+  "lon": -121.812870023685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.810Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.810Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "annandale-farmers-market-6621-columbia-pike-annandale",
+  "name": "Annandale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6621 Columbia Pike Annandale, VA",
+  "locationCity": "6621 Columbia Pike Annandale",
+  "locationState": "VA",
+  "locationZipcode": "22003",
+  "lat": 38.83683204098893,
+  "lon": -77.17265534844798,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.290Z"
+}

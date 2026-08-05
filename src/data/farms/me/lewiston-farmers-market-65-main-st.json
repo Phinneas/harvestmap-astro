@@ -1,0 +1,19 @@
+{
+  "slug": "lewiston-farmers-market-65-main-st",
+  "name": "Lewiston Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "65 Main St., ME",
+  "locationCity": "65 Main St.",
+  "locationState": "ME",
+  "locationZipcode": "04240",
+  "lat": 44.096575,
+  "lon": -70.220379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:57.010Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:57.010Z"
+}

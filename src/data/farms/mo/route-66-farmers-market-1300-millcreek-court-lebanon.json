@@ -1,0 +1,19 @@
+{
+  "slug": "route-66-farmers-market-1300-millcreek-court-lebanon",
+  "name": "Route 66 Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1300 Millcreek Court Lebanon, MO",
+  "locationCity": "1300 Millcreek Court Lebanon",
+  "locationState": "MO",
+  "locationZipcode": "65536",
+  "lat": 37.6835272140034,
+  "lon": -92.64478689665215,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

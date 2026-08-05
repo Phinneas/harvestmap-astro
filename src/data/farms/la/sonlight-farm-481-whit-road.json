@@ -1,0 +1,19 @@
+{
+  "slug": "sonlight-farm-481-whit-road",
+  "name": "SonLight Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "481 Whit Road, LA",
+  "locationCity": "481 Whit Road",
+  "locationState": "LA",
+  "locationZipcode": "70427",
+  "lat": 30.6509395332572,
+  "lon": -89.9329002460351,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.198Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.198Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cambridge-farmers-market-122-buchanan-st-n",
+  "name": "Cambridge Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "122 Buchanan St N, MN",
+  "locationCity": "122 Buchanan St N",
+  "locationState": "MN",
+  "locationZipcode": "55008",
+  "lat": 45.5741509,
+  "lon": -93.2207052,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

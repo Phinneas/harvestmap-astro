@@ -1,0 +1,19 @@
+{
+  "slug": "cannon-valley-farmers-market-1814-2nd-ave-nw",
+  "name": "Cannon Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1814 2nd Ave NW, MN",
+  "locationCity": "1814 2nd Ave NW",
+  "locationState": "MN",
+  "locationZipcode": "55021",
+  "lat": 44.3104758,
+  "lon": -93.2733338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

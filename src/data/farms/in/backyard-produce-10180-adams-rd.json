@@ -1,0 +1,19 @@
+{
+  "slug": "backyard-produce-10180-adams-rd",
+  "name": "BackYard Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "10180 Adams Rd, IN",
+  "locationCity": "10180 Adams Rd",
+  "locationState": "IN",
+  "locationZipcode": "10180",
+  "lat": 41.75161599263157,
+  "lon": -86.06665702819203,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.599Z"
+}

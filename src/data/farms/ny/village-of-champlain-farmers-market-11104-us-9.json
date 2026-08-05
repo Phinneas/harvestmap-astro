@@ -1,0 +1,19 @@
+{
+  "slug": "village-of-champlain-farmers-market-11104-us-9",
+  "name": "Village Of Champlain Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11104 US-9, NY",
+  "locationCity": "11104 US-9",
+  "locationState": "NY",
+  "locationZipcode": "11104",
+  "lat": 44.98360366766924,
+  "lon": -73.44533473570053,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

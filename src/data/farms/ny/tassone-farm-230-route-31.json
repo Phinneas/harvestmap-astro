@@ -1,0 +1,19 @@
+{
+  "slug": "tassone-farm-230-route-31",
+  "name": "Tassone Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "230 Route 31, NY",
+  "locationCity": "230 Route 31",
+  "locationState": "NY",
+  "locationZipcode": "13039",
+  "lat": 43.1787121951992,
+  "lon": -76.0452771024589,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.376Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.376Z"
+}

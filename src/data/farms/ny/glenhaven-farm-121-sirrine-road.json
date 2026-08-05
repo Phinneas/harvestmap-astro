@@ -1,0 +1,19 @@
+{
+  "slug": "glenhaven-farm-121-sirrine-road",
+  "name": "Glenhaven Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "121 Sirrine Road, NY",
+  "locationCity": "121 Sirrine Road",
+  "locationState": "NY",
+  "locationZipcode": "14886",
+  "lat": 42.5023846363926,
+  "lon": -76.7124125112782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.891Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.891Z"
+}

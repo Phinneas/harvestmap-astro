@@ -1,0 +1,19 @@
+{
+  "slug": "west-end-farmers-market-4800-brenman-park-drive-in-ben-brenman-park-alexandria",
+  "name": "West End Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4800 Brenman Park Drive (In Ben Brenman Park) Alexandria, VA",
+  "locationCity": "4800 Brenman Park Drive (In Ben Brenman Park) Alexandria",
+  "locationState": "VA",
+  "locationZipcode": "22304",
+  "lat": 38.80957082667843,
+  "lon": -77.11336762885148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

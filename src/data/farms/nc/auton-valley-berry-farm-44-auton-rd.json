@@ -1,0 +1,19 @@
+{
+  "slug": "auton-valley-berry-farm-44-auton-rd",
+  "name": "Auton Valley Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "44 Auton Rd, NC",
+  "locationCity": "44 Auton Rd",
+  "locationState": "NC",
+  "locationZipcode": "28681",
+  "lat": 35.8455597753545,
+  "lon": -81.2690046344237,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.641Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.641Z"
+}

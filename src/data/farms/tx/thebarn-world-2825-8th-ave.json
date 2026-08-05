@@ -1,0 +1,19 @@
+{
+  "slug": "thebarn-world-2825-8th-ave",
+  "name": "Thebarn.world",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2825 8th ave, TX",
+  "locationCity": "2825 8th ave",
+  "locationState": "TX",
+  "locationZipcode": "76110",
+  "lat": 32.710394031698996,
+  "lon": -97.34347225043153,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.917Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.917Z"
+}

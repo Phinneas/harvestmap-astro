@@ -1,0 +1,19 @@
+{
+  "slug": "buckroe-beach-farmers-market-100-s-1st-st",
+  "name": "Buckroe Beach Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 S 1st St, VA",
+  "locationCity": "100 S 1st St",
+  "locationState": "VA",
+  "locationZipcode": "23664",
+  "lat": 37.04231849189818,
+  "lon": -76.29079190708858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

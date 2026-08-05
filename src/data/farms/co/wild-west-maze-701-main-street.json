@@ -1,0 +1,19 @@
+{
+  "slug": "wild-west-maze-701-main-street",
+  "name": "Wild West Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "701 Main Street, CO",
+  "locationCity": "701 Main Street",
+  "locationState": "CO",
+  "locationZipcode": "80642",
+  "lat": 40.0732300000001,
+  "lon": -104.6427,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.240Z"
+}

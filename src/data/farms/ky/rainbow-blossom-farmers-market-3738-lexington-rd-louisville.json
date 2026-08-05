@@ -1,0 +1,19 @@
+{
+  "slug": "rainbow-blossom-farmers-market-3738-lexington-rd-louisville",
+  "name": "Rainbow Blossom Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3738 Lexington Rd. Louisville, KY",
+  "locationCity": "3738 Lexington Rd. Louisville",
+  "locationState": "KY",
+  "locationZipcode": "40207",
+  "lat": 38.25237550313737,
+  "lon": -85.65891841511007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

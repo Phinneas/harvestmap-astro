@@ -1,0 +1,19 @@
+{
+  "slug": "kingman-farmers-market-kingman-az-86401",
+  "name": "Kingman Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Kingman AZ 86401, AZ",
+  "locationCity": "Kingman AZ 86401",
+  "locationState": "AZ",
+  "locationZipcode": "86401",
+  "lat": 35.18984500000005,
+  "lon": -114.05532499999998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

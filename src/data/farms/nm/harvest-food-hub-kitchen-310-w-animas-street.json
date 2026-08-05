@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-food-hub-kitchen-310-w-animas-street",
+  "name": "Harvest Food Hub & Kitchen",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "310 W. Animas Street, NM",
+  "locationCity": "310 W. Animas Street",
+  "locationState": "NM",
+  "locationZipcode": "87401",
+  "lat": 36.72750901278458,
+  "lon": -108.20849596904986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:00.124Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:00.124Z"
+}

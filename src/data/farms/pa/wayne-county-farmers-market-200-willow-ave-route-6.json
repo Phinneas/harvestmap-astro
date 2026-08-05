@@ -1,0 +1,19 @@
+{
+  "slug": "wayne-county-farmers-market-200-willow-ave-route-6",
+  "name": "Wayne County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Willow Ave. Route 6, PA",
+  "locationCity": "200 Willow Ave. Route 6",
+  "locationState": "PA",
+  "locationZipcode": "18431",
+  "lat": 41.566626,
+  "lon": -75.251698,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.011Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.011Z"
+}

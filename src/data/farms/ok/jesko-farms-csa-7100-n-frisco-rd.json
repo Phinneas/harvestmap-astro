@@ -1,0 +1,19 @@
+{
+  "slug": "jesko-farms-csa-7100-n-frisco-rd",
+  "name": "Jesko Farms CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7100 N Frisco Rd, OK",
+  "locationCity": "7100 N Frisco Rd",
+  "locationState": "OK",
+  "locationZipcode": "73099",
+  "lat": 35.5426374,
+  "lon": -97.7773551,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:27.088Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:27.088Z"
+}

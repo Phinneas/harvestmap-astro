@@ -1,0 +1,19 @@
+{
+  "slug": "pop-market-105-hood-st",
+  "name": "POP Market",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "105 Hood St, NC",
+  "locationCity": "105 Hood St",
+  "locationState": "NC",
+  "locationZipcode": "27704",
+  "lat": 35.9901572,
+  "lon": -78.893209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.304Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.304Z"
+}

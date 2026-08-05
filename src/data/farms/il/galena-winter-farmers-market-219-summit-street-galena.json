@@ -1,0 +1,19 @@
+{
+  "slug": "galena-winter-farmers-market-219-summit-street-galena",
+  "name": "Galena Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "219 Summit Street Galena, IL",
+  "locationCity": "219 Summit Street Galena",
+  "locationState": "IL",
+  "locationZipcode": "61036",
+  "lat": 42.418142817990585,
+  "lon": -90.4392668403626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

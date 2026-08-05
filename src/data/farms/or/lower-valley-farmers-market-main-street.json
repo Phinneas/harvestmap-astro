@@ -1,0 +1,19 @@
+{
+  "slug": "lower-valley-farmers-market-main-street",
+  "name": "Lower Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main street, OR",
+  "locationCity": "Main street",
+  "locationState": "OR",
+  "locationZipcode": "97885",
+  "lat": 45.570355,
+  "lon": -117.52864,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.257Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.257Z"
+}

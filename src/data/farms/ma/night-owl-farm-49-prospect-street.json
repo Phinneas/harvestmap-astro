@@ -1,0 +1,19 @@
+{
+  "slug": "night-owl-farm-49-prospect-street",
+  "name": "Night Owl Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "49 Prospect Street, MA",
+  "locationCity": "49 Prospect Street",
+  "locationState": "MA",
+  "locationZipcode": "02038",
+  "lat": 42.05346890355156,
+  "lon": -71.43915815811565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.282Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.282Z"
+}

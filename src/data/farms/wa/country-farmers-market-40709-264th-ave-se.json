@@ -1,0 +1,19 @@
+{
+  "slug": "country-farmers-market-40709-264th-ave-se",
+  "name": "Country Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "40709 264th ave se, WA",
+  "locationCity": "40709 264th ave se",
+  "locationState": "WA",
+  "locationZipcode": "40709",
+  "lat": 47.235011934688195,
+  "lon": -121.98971627075417,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.816Z"
+}

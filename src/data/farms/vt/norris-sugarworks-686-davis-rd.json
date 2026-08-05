@@ -1,0 +1,19 @@
+{
+  "slug": "norris-sugarworks-686-davis-rd",
+  "name": "Norris Sugarworks",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "686 Davis Rd, VT",
+  "locationCity": "686 Davis Rd",
+  "locationState": "VT",
+  "locationZipcode": "05461",
+  "lat": 44.2652309892072,
+  "lon": -73.1333700349244,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.971Z"
+}

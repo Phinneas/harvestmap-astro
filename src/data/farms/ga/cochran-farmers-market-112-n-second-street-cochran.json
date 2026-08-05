@@ -1,0 +1,19 @@
+{
+  "slug": "cochran-farmers-market-112-n-second-street-cochran",
+  "name": "Cochran Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 N Second Street Cochran, GA",
+  "locationCity": "112 N Second Street Cochran",
+  "locationState": "GA",
+  "locationZipcode": "31014",
+  "lat": 32.38755743909796,
+  "lon": -83.35590014271986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

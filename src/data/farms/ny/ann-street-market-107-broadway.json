@@ -1,0 +1,19 @@
+{
+  "slug": "ann-street-market-107-broadway",
+  "name": "Ann Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "107 Broadway, NY",
+  "locationCity": "107 Broadway",
+  "locationState": "NY",
+  "locationZipcode": "12550",
+  "lat": 41.50000940721936,
+  "lon": -74.01119443017744,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.017Z"
+}

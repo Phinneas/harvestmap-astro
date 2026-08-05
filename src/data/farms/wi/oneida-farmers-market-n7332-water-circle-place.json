@@ -1,0 +1,19 @@
+{
+  "slug": "oneida-farmers-market-n7332-water-circle-place",
+  "name": "Oneida Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N7332 Water Circle Place, WI",
+  "locationCity": "N7332 Water Circle Place",
+  "locationState": "WI",
+  "locationZipcode": "54155",
+  "lat": 44.503625,
+  "lon": -88.202341,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.704Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.704Z"
+}

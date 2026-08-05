@@ -1,0 +1,19 @@
+{
+  "slug": "schnepf-farms-601-e-cloud-road",
+  "name": "Schnepf Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "601 E. Cloud Road, AZ",
+  "locationCity": "601 E. Cloud Road",
+  "locationState": "AZ",
+  "locationZipcode": "85242",
+  "lat": 33.2253184948041,
+  "lon": -111.640380744199,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.808Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.808Z"
+}

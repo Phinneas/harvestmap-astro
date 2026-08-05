@@ -1,0 +1,19 @@
+{
+  "slug": "copper-communities-food-hub-1360-n-broad-street",
+  "name": "Copper Communities Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1360 N Broad Street, AZ",
+  "locationCity": "1360 N Broad Street",
+  "locationState": "AZ",
+  "locationZipcode": "85501",
+  "lat": 33.4100877,
+  "lon": -110.79538,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.838Z"
+}

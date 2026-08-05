@@ -1,0 +1,19 @@
+{
+  "slug": "south-meadows-produce-2860-s-710-w",
+  "name": "South Meadows Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2860 S 710 W, UT",
+  "locationCity": "2860 S 710 W",
+  "locationState": "UT",
+  "locationZipcode": "84501",
+  "lat": 39.5590167,
+  "lon": -110.8296572,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:20.004Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:20.004Z"
+}

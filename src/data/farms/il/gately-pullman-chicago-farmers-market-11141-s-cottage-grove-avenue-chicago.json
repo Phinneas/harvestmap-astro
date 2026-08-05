@@ -1,0 +1,19 @@
+{
+  "slug": "gately-pullman-chicago-farmers-market-11141-s-cottage-grove-avenue-chicago",
+  "name": "Gately/Pullman (Chicago) Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11141 S. Cottage Grove Avenue Chicago, IL",
+  "locationCity": "11141 S. Cottage Grove Avenue Chicago",
+  "locationState": "IL",
+  "locationZipcode": "11141",
+  "lat": 41.69145525129513,
+  "lon": -87.61013994689506,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

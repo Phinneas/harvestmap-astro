@@ -1,0 +1,19 @@
+{
+  "slug": "cookeville-green-market-310-newman-drive-cookeville",
+  "name": "Cookeville Green Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "310 Newman Drive Cookeville, TN",
+  "locationCity": "310 Newman Drive Cookeville",
+  "locationState": "TN",
+  "locationZipcode": "38501",
+  "lat": 36.14563019673287,
+  "lon": -85.52366861349823,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

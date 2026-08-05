@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-hollow-ranch-w-grangeville-blvd",
+  "name": "Harvest Hollow Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "W. Grangeville Blvd., CA",
+  "locationCity": "W. Grangeville Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "93245",
+  "lat": 36.3440120602495,
+  "lon": -119.825401982939,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.706Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.706Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "iowa-falls-farmers-market-corner-of-rocksylvania-ave-anb-stevens-st",
+  "name": "iowa falls farmers' market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Rocksylvania Ave. anb Stevens St., IA",
+  "locationCity": "Corner of Rocksylvania Ave. anb Stevens St.",
+  "locationState": "IA",
+  "locationZipcode": "50126",
+  "lat": 42.521222,
+  "lon": -93.264356,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.554Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.554Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pecan-hill-farms-470-highway-18",
+  "name": "Pecan Hill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "470 Highway 18, MS",
+  "locationCity": "470 Highway 18",
+  "locationState": "MS",
+  "locationZipcode": "39154",
+  "lat": 32.2548896249438,
+  "lon": -90.3751752622338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.850Z"
+}

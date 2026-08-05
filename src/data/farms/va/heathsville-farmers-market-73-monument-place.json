@@ -1,0 +1,19 @@
+{
+  "slug": "heathsville-farmers-market-73-monument-place",
+  "name": "Heathsville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "73 Monument Place, VA",
+  "locationCity": "73 Monument Place",
+  "locationState": "VA",
+  "locationZipcode": "22473",
+  "lat": 37.916391,
+  "lon": -76.473204,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.157Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.157Z"
+}

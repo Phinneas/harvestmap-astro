@@ -1,0 +1,19 @@
+{
+  "slug": "brunswick-farmers-market-336-town-office-rd-troy",
+  "name": "Brunswick Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "336 Town Office Rd Troy, NY",
+  "locationCity": "336 Town Office Rd Troy",
+  "locationState": "NY",
+  "locationZipcode": "12180",
+  "lat": 42.75523624382868,
+  "lon": -73.60880413009956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

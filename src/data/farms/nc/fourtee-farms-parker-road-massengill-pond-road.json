@@ -1,0 +1,20 @@
+{
+  "slug": "fourtee-farms-parker-road-massengill-pond-road",
+  "name": "FourTee Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Parker Road/Massengill Pond Road, NC",
+  "locationCity": "Parker Road/Massengill Pond Road",
+  "locationState": "NC",
+  "locationZipcode": "27501",
+  "lat": 35.49432886244736,
+  "lon": -78.63345856814112,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.897Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.897Z",
+  "crops": []
+}

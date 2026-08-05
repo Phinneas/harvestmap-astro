@@ -1,0 +1,19 @@
+{
+  "slug": "edwards-blueberry-farm-692-highway-92",
+  "name": "Edwards Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "692 highway 92, NC",
+  "locationCity": "692 highway 92",
+  "locationState": "NC",
+  "locationZipcode": "27808",
+  "lat": 35.4732149701815,
+  "lon": -76.8048728648338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.887Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.887Z"
+}

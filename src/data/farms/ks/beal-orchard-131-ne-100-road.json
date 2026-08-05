@@ -1,0 +1,20 @@
+{
+  "slug": "beal-orchard-131-ne-100-road",
+  "name": "Beal Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "131 NE 100 Road, KS",
+  "locationCity": "131 NE 100 Road",
+  "locationState": "KS",
+  "locationZipcode": "67058",
+  "lat": 37.2960180078149,
+  "lon": -98.0150829711999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.068Z",
+  "crops": []
+}

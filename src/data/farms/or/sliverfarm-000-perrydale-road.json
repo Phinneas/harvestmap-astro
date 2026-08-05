@@ -1,0 +1,19 @@
+{
+  "slug": "sliverfarm-000-perrydale-road",
+  "name": "Sliverfarm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 Perrydale Road, OR",
+  "locationCity": "000 Perrydale Road",
+  "locationState": "OR",
+  "locationZipcode": "97338",
+  "lat": 44.9973469263674,
+  "lon": -123.284092213761,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.879Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.879Z"
+}

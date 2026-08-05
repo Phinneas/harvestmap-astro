@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkin-patch-kingsland-saint-marys-road",
+  "name": "Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Kingsland Saint Marys Road, GA",
+  "locationCity": "Kingsland Saint Marys Road",
+  "locationState": "GA",
+  "locationZipcode": "31558",
+  "lat": 30.7782164777779,
+  "lon": -81.6223256473174,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.391Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.391Z"
+}

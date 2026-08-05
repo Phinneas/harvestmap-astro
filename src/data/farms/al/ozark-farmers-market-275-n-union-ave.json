@@ -1,0 +1,19 @@
+{
+  "slug": "ozark-farmers-market-275-n-union-ave",
+  "name": "Ozark Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "275 N. Union Ave., AL",
+  "locationCity": "275 N. Union Ave.",
+  "locationState": "AL",
+  "locationZipcode": "36360",
+  "lat": 31.460070851417036,
+  "lon": -85.6405028344096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

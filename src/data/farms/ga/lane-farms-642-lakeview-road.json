@@ -1,0 +1,19 @@
+{
+  "slug": "lane-farms-642-lakeview-road",
+  "name": "Lane Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "642 Lakeview Road, GA",
+  "locationCity": "642 Lakeview Road",
+  "locationState": "GA",
+  "locationZipcode": "30461",
+  "lat": 32.4925163411668,
+  "lon": -81.7778120679106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.386Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.386Z"
+}

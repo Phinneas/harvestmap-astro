@@ -1,0 +1,19 @@
+{
+  "slug": "wash-gallon-171-barnes-road",
+  "name": "Wash Gallon",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "171 Barnes Road, FL",
+  "locationCity": "171 Barnes Road",
+  "locationState": "FL",
+  "locationZipcode": "32344",
+  "lat": 30.606936723078,
+  "lon": -83.8695587903233,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.877Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.877Z"
+}

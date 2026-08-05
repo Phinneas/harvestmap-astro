@@ -1,0 +1,19 @@
+{
+  "slug": "rag-frass-farm-csa-15176-us-hwy-80",
+  "name": "Rag & Frass Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15176 US Hwy 80, GA",
+  "locationCity": "15176 US Hwy 80",
+  "locationState": "GA",
+  "locationZipcode": "15176",
+  "lat": 32.6702889,
+  "lon": -83.3286076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.443Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.443Z"
+}

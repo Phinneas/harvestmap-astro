@@ -1,0 +1,19 @@
+{
+  "slug": "mantorville-minnesota-farmers-market-320-n-main-st",
+  "name": "Mantorville Minnesota Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 N Main St, MN",
+  "locationCity": "320 N Main St",
+  "locationState": "MN",
+  "locationZipcode": "55955",
+  "lat": 44.0653789,
+  "lon": -92.7545709,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

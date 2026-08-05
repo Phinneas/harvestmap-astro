@@ -1,0 +1,19 @@
+{
+  "slug": "alexandria-farmers-market-2727-jackson-street",
+  "name": "Alexandria Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2727 JACKSON STREET, LA",
+  "locationCity": "2727 JACKSON STREET",
+  "locationState": "LA",
+  "locationZipcode": "71301",
+  "lat": 31.294467,
+  "lon": -92.466488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.665Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.665Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "glenwood-sunday-market-chicago",
+  "name": "Glenwood Sunday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Chicago, IL",
+  "locationCity": "Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60626",
+  "lat": 41.837551,
+  "lon": -87.681844,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.941Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.941Z"
+}

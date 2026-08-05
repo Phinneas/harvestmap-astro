@@ -1,0 +1,19 @@
+{
+  "slug": "simpsonville-farmers-market-6791-shelbyville-road-simpsonville",
+  "name": "Simpsonville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6791 Shelbyville Road Simpsonville, KY",
+  "locationCity": "6791 Shelbyville Road Simpsonville",
+  "locationState": "KY",
+  "locationZipcode": "40067",
+  "lat": 38.22149573709237,
+  "lon": -85.34000633519001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "old-homestead-orchard-7814-raynor-ave",
+  "name": "Old Homestead Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7814 Raynor Ave, WI",
+  "locationCity": "7814 Raynor Ave",
+  "locationState": "WI",
+  "locationZipcode": "53126",
+  "lat": 42.828252,
+  "lon": -88.070998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:17.391Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:17.391Z"
+}

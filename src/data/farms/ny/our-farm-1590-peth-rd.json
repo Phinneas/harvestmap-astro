@@ -1,0 +1,19 @@
+{
+  "slug": "our-farm-1590-peth-rd",
+  "name": "Our Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1590 Peth Rd, NY",
+  "locationCity": "1590 Peth Rd",
+  "locationState": "NY",
+  "locationZipcode": "13104",
+  "lat": 42.9914328283591,
+  "lon": -75.8909836578607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.204Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.204Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "full-belly-farm-686-davis-road",
+  "name": "Full Belly Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "686 Davis Road, VT",
+  "locationCity": "686 Davis Road",
+  "locationState": "VT",
+  "locationZipcode": "05461",
+  "lat": 44.2652309892072,
+  "lon": -73.1333700349244,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.964Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.964Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "whitley-farms-917-bob-smith-road",
+  "name": "Whitley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "917 Bob Smith Road, GA",
+  "locationCity": "917 Bob Smith Road",
+  "locationState": "GA",
+  "locationZipcode": "30277",
+  "lat": 33.3738810119098,
+  "lon": -84.6391429773714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.323Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.323Z"
+}

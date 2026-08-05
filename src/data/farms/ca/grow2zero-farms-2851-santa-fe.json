@@ -1,0 +1,19 @@
+{
+  "slug": "grow2zero-farms-2851-santa-fe",
+  "name": "Grow2Zero FARMS",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2851 Santa Fe, CA",
+  "locationCity": "2851 Santa Fe",
+  "locationState": "CA",
+  "locationZipcode": "90810",
+  "lat": 33.8094588,
+  "lon": -118.2156522,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.068Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "east-palo-alto-community-farmers-market-2555-pulgas-avenue",
+  "name": "East Palo Alto Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2555 Pulgas Avenue, CA",
+  "locationCity": "2555 Pulgas Avenue",
+  "locationState": "CA",
+  "locationZipcode": "94303",
+  "lat": 37.469415,
+  "lon": -122.13255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

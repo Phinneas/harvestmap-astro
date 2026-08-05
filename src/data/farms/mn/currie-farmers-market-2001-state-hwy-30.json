@@ -1,0 +1,19 @@
+{
+  "slug": "currie-farmers-market-2001-state-hwy-30",
+  "name": "Currie Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2001 State Hwy 30, MN",
+  "locationCity": "2001 State Hwy 30",
+  "locationState": "MN",
+  "locationZipcode": "56123",
+  "lat": 44.0652498,
+  "lon": -95.662701,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

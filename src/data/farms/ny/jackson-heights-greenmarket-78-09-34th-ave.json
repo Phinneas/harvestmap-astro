@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-heights-greenmarket-78-09-34th-ave",
+  "name": "Jackson Heights Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "78-09 34th Ave, NY",
+  "locationCity": "78-09 34th Ave",
+  "locationState": "NY",
+  "locationZipcode": "11372",
+  "lat": 40.75335435791281,
+  "lon": -73.88867875190445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

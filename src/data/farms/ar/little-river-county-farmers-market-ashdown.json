@@ -1,0 +1,19 @@
+{
+  "slug": "little-river-county-farmers-market-ashdown",
+  "name": "Little River County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Ashdown, AR",
+  "locationCity": "Ashdown",
+  "locationState": "AR",
+  "locationZipcode": "71822",
+  "lat": 33.661403,
+  "lon": -94.1176,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.337Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.337Z"
+}

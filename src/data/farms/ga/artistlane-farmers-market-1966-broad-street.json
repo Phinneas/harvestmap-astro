@@ -1,0 +1,19 @@
+{
+  "slug": "artistlane-farmers-market-1966-broad-street",
+  "name": "Artistlane Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1966 Broad Street, GA",
+  "locationCity": "1966 Broad Street",
+  "locationState": "GA",
+  "locationZipcode": "30904",
+  "lat": 33.365531,
+  "lon": -82.073422,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.686Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.686Z"
+}

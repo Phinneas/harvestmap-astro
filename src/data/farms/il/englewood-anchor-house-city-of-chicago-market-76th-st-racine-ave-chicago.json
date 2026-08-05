@@ -1,0 +1,19 @@
+{
+  "slug": "englewood-anchor-house-city-of-chicago-market-76th-st-racine-ave-chicago",
+  "name": "Englewood/Anchor House (City of Chicago Market)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "76th st & Racine Ave Chicago, IL",
+  "locationCity": "76th st & Racine Ave Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60620",
+  "lat": 41.75602998666281,
+  "lon": -87.65388002975558,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "queener-farm-40385-queener-dr",
+  "name": "Queener Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "40385 Queener Dr, OR",
+  "locationCity": "40385 Queener Dr",
+  "locationState": "OR",
+  "locationZipcode": "40385",
+  "lat": 44.766577973387484,
+  "lon": -122.79761594850459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.974Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-marketplace-at-simpson-spring-719-washington-street",
+  "name": "The Marketplace at Simpson Spring",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "719 Washington Street, MA",
+  "locationCity": "719 Washington Street",
+  "locationState": "MA",
+  "locationZipcode": "02375",
+  "lat": 42.039265376546844,
+  "lon": -71.07586350510289,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.868Z"
+}

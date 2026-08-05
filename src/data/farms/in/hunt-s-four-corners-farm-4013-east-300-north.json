@@ -1,0 +1,19 @@
+{
+  "slug": "hunt-s-four-corners-farm-4013-east-300-north",
+  "name": "Hunt's Four Corners Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4013 East 300 North, IN",
+  "locationCity": "4013 East 300 North",
+  "locationState": "IN",
+  "locationZipcode": "46140",
+  "lat": 39.82903300310906,
+  "lon": -85.72748700423514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.599Z"
+}

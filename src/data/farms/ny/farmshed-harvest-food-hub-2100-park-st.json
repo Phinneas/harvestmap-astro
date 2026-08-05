@@ -1,0 +1,19 @@
+{
+  "slug": "farmshed-harvest-food-hub-2100-park-st",
+  "name": "Farmshed Harvest Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2100 Park St, NY",
+  "locationCity": "2100 Park St",
+  "locationState": "NY",
+  "locationZipcode": "13208",
+  "lat": 43.0741153,
+  "lon": -76.169633,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.988Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.988Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "biscay-orchards-650-biscay-road",
+  "name": "Biscay Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "650 Biscay Road, ME",
+  "locationCity": "650 Biscay Road",
+  "locationState": "ME",
+  "locationZipcode": "04543",
+  "lat": 44.0187887595945,
+  "lon": -69.4636829125836,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.807Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.807Z"
+}

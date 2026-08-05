@@ -1,0 +1,19 @@
+{
+  "slug": "maryland-sunrise-farm-100-dairy-ln",
+  "name": "Maryland Sunrise Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 Dairy Ln, MD",
+  "locationCity": "100 Dairy Ln",
+  "locationState": "MD",
+  "locationZipcode": "21054",
+  "lat": 39.0671019950263,
+  "lon": -76.6721570010633,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.103Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.103Z"
+}

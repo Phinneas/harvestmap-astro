@@ -1,0 +1,19 @@
+{
+  "slug": "neighborhood-farmers-market-albany-jcc-340-whitehall-road-albany",
+  "name": "Neighborhood Farmers Market - Albany JCC",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "340 Whitehall Road Albany, NY",
+  "locationCity": "340 Whitehall Road Albany",
+  "locationState": "NY",
+  "locationZipcode": "12208",
+  "lat": 42.65062651138203,
+  "lon": -73.81043378124957,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

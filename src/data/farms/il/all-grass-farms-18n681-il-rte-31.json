@@ -1,0 +1,20 @@
+{
+  "slug": "all-grass-farms-18n681-il-rte-31",
+  "name": "All Grass Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "18N681  IL Rte 31, IL",
+  "locationCity": "18N681  IL Rte 31",
+  "locationState": "IL",
+  "locationZipcode": "60118",
+  "lat": 42.13385998836432,
+  "lon": -88.29720425805878,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.482Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.482Z",
+  "crops": []
+}

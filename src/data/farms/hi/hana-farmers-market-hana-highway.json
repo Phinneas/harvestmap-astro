@@ -1,0 +1,19 @@
+{
+  "slug": "hana-farmers-market-hana-highway",
+  "name": "Hana Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hana Highway, HI",
+  "locationCity": "Hana Highway",
+  "locationState": "HI",
+  "locationZipcode": "96713",
+  "lat": 20.750751,
+  "lon": -155.98694,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:16.429Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:16.429Z"
+}

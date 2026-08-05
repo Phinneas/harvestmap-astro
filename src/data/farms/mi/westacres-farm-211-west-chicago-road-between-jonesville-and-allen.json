@@ -1,0 +1,19 @@
+{
+  "slug": "westacres-farm-211-west-chicago-road-between-jonesville-and-allen",
+  "name": "Westacres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "211 West Chicago Road between Jonesville and Allen, MI",
+  "locationCity": "211 West Chicago Road between Jonesville and Allen",
+  "locationState": "MI",
+  "locationZipcode": "49250",
+  "lat": 41.9810586093297,
+  "lon": -84.6681664094958,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.546Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.546Z"
+}

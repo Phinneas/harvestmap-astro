@@ -1,0 +1,19 @@
+{
+  "slug": "winona-farmers-market-1-main-st",
+  "name": "Winona Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Main St, MN",
+  "locationCity": "1 Main St",
+  "locationState": "MN",
+  "locationZipcode": "55987",
+  "lat": 44.0544484,
+  "lon": -91.6369468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

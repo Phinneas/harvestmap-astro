@@ -1,0 +1,19 @@
+{
+  "slug": "winona-farmers-market-winter-210-zumbro-st",
+  "name": "Winona Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 Zumbro St, MN",
+  "locationCity": "210 Zumbro St",
+  "locationState": "MN",
+  "locationZipcode": "55987",
+  "lat": 44.0466033,
+  "lon": -91.6209098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

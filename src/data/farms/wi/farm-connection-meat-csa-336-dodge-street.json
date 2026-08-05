@@ -1,0 +1,19 @@
+{
+  "slug": "farm-connection-meat-csa-336-dodge-street",
+  "name": "Farm Connection Meat CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "336 Dodge Street, WI",
+  "locationCity": "336 Dodge Street",
+  "locationState": "WI",
+  "locationZipcode": "53565",
+  "lat": 42.8662484,
+  "lon": -90.1837616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:11.987Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:11.987Z"
+}

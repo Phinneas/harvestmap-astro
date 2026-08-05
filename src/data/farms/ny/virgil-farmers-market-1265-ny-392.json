@@ -1,0 +1,19 @@
+{
+  "slug": "virgil-farmers-market-1265-ny-392",
+  "name": "Virgil Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1265 NY-392, NY",
+  "locationCity": "1265 NY-392",
+  "locationState": "NY",
+  "locationZipcode": "13045",
+  "lat": 42.510676911514324,
+  "lon": -76.1914757766711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

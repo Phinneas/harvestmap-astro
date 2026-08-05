@@ -1,0 +1,19 @@
+{
+  "slug": "iron-mountain-market-400-s-main-street-poplar-bluff",
+  "name": "Iron Mountain Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 S Main Street Poplar Bluff, MO",
+  "locationCity": "400 S Main Street Poplar Bluff",
+  "locationState": "MO",
+  "locationZipcode": "63901",
+  "lat": 36.754290318414895,
+  "lon": -90.39353559555657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

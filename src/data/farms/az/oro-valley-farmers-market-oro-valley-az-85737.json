@@ -1,0 +1,19 @@
+{
+  "slug": "oro-valley-farmers-market-oro-valley-az-85737",
+  "name": "Oro Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Oro Valley AZ 85737, AZ",
+  "locationCity": "Oro Valley AZ 85737",
+  "locationState": "AZ",
+  "locationZipcode": "85737",
+  "lat": 32.3894423874648,
+  "lon": -110.9995444281193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

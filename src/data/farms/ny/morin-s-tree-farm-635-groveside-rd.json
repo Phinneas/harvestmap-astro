@@ -1,0 +1,19 @@
+{
+  "slug": "morin-s-tree-farm-635-groveside-rd",
+  "name": "Morin's Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "635 Groveside Rd, NY",
+  "locationCity": "635 Groveside Rd",
+  "locationState": "NY",
+  "locationZipcode": "12028",
+  "lat": 42.8854345264311,
+  "lon": -73.4429910841598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.954Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.954Z"
+}

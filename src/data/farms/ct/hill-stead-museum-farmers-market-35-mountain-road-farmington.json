@@ -1,0 +1,19 @@
+{
+  "slug": "hill-stead-museum-farmers-market-35-mountain-road-farmington",
+  "name": "Hill-Stead Museum Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "35 Mountain Road Farmington, CT",
+  "locationCity": "35 Mountain Road Farmington",
+  "locationState": "CT",
+  "locationZipcode": "06032",
+  "lat": 41.719656400442894,
+  "lon": -72.82473326859387,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

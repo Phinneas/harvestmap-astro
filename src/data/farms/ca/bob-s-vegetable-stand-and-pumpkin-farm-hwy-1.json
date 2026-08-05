@@ -1,0 +1,19 @@
+{
+  "slug": "bob-s-vegetable-stand-and-pumpkin-farm-hwy-1",
+  "name": "Bob's Vegetable Stand and Pumpkin Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Hwy 1, CA",
+  "locationCity": "Hwy 1",
+  "locationState": "CA",
+  "locationZipcode": "94019",
+  "lat": 37.49849965423848,
+  "lon": -122.46418288934646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

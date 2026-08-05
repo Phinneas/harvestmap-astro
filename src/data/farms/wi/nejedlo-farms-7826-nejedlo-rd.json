@@ -1,0 +1,19 @@
+{
+  "slug": "nejedlo-farms-7826-nejedlo-rd",
+  "name": "Nejedlo Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7826 Nejedlo Rd, WI",
+  "locationCity": "7826 Nejedlo Rd",
+  "locationState": "WI",
+  "locationZipcode": "54177",
+  "lat": 45.3521747791269,
+  "lon": -88.0116042771383,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.241Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.241Z"
+}

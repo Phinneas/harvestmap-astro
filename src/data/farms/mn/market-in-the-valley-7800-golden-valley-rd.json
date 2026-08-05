@@ -1,0 +1,19 @@
+{
+  "slug": "market-in-the-valley-7800-golden-valley-rd",
+  "name": "Market in the Valley",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7800 Golden Valley Rd, MN",
+  "locationCity": "7800 Golden Valley Rd",
+  "locationState": "MN",
+  "locationZipcode": "55427",
+  "lat": 44.9860925,
+  "lon": -93.3792601,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

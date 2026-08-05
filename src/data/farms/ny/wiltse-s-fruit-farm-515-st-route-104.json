@@ -1,0 +1,19 @@
+{
+  "slug": "wiltse-s-fruit-farm-515-st-route-104",
+  "name": "Wiltse's Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "515 St. Route 104, NY",
+  "locationCity": "515 St. Route 104",
+  "locationState": "NY",
+  "locationZipcode": "13074",
+  "lat": 43.3240827030245,
+  "lon": -76.5678305747398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.408Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.408Z"
+}

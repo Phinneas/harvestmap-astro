@@ -1,0 +1,19 @@
+{
+  "slug": "lakeview-terrace-farmers-market-3769-crystal-lake-blvd",
+  "name": "Lakeview Terrace Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3769 Crystal Lake Blvd, MN",
+  "locationCity": "3769 Crystal Lake Blvd",
+  "locationState": "MN",
+  "locationZipcode": "55422",
+  "lat": 45.0211477,
+  "lon": -93.324887,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bennett-orchards-442-peach-tree-lane",
+  "name": "Bennett Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "442 Peach Tree Lane, DE",
+  "locationCity": "442 Peach Tree Lane",
+  "locationState": "DE",
+  "locationZipcode": "19945",
+  "lat": 38.5325514273248,
+  "lon": -75.2038086602451,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.143Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.143Z"
+}

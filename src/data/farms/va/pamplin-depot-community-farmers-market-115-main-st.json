@@ -1,0 +1,19 @@
+{
+  "slug": "pamplin-depot-community-farmers-market-115-main-st",
+  "name": "Pamplin Depot Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 Main St, VA",
+  "locationCity": "115 Main St",
+  "locationState": "VA",
+  "locationZipcode": "23958",
+  "lat": 37.26190516268386,
+  "lon": -78.68133237313106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

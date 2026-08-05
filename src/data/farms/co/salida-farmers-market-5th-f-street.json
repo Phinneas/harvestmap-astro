@@ -1,0 +1,20 @@
+{
+  "slug": "salida-farmers-market-5th-f-street",
+  "name": "Salida Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5th & F Street, CO",
+  "locationCity": "5th & F Street",
+  "locationState": "CO",
+  "locationZipcode": "81201",
+  "lat": 38.532939985642656,
+  "lon": -105.99508998263398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z",
+  "crops": []
+}

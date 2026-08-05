@@ -1,0 +1,19 @@
+{
+  "slug": "warner-farm-23-south-main-st",
+  "name": "Warner Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "23 South Main St., MA",
+  "locationCity": "23 South Main St.",
+  "locationState": "MA",
+  "locationZipcode": "01375",
+  "lat": 42.4617329,
+  "lon": -72.5823361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.273Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.273Z"
+}

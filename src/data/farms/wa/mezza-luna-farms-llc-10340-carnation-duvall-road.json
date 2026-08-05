@@ -1,0 +1,19 @@
+{
+  "slug": "mezza-luna-farms-llc-10340-carnation-duvall-road",
+  "name": "Mezza Luna Farms LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10340 Carnation-Duvall Road, WA",
+  "locationCity": "10340 Carnation-Duvall Road",
+  "locationState": "WA",
+  "locationZipcode": "10340",
+  "lat": 47.6874513,
+  "lon": -121.9367783,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.582Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.582Z"
+}

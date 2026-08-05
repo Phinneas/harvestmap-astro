@@ -1,0 +1,19 @@
+{
+  "slug": "norm-s-farm-market-10568-125th-ave-se-becker",
+  "name": "Norm's Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10568 125th Ave. SE Becker, MN",
+  "locationCity": "10568 125th Ave. SE Becker",
+  "locationState": "MN",
+  "locationZipcode": "10568",
+  "lat": 45.417912712686764,
+  "lon": -93.90191006515,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.774Z"
+}

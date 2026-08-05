@@ -1,0 +1,19 @@
+{
+  "slug": "town-of-conquest-farmers-market-1289-fuller-rd-port-byron",
+  "name": "Town of Conquest Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1289 Fuller Rd Port Byron, NY",
+  "locationCity": "1289 Fuller Rd Port Byron",
+  "locationState": "NY",
+  "locationZipcode": "13140",
+  "lat": 43.122302095456796,
+  "lon": -76.65422304440216,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

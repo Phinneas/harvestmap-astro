@@ -1,0 +1,19 @@
+{
+  "slug": "seeds-of-love-nursery-10302-bryant-road",
+  "name": "Seeds of Love Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10302 Bryant Road, FL",
+  "locationCity": "10302 Bryant Road",
+  "locationState": "FL",
+  "locationZipcode": "10302",
+  "lat": 27.8540619918397,
+  "lon": -82.1698509818734,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.875Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.875Z"
+}

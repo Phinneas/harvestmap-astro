@@ -1,0 +1,19 @@
+{
+  "slug": "champlain-islands-farmers-market-saturday-185-us-route-2",
+  "name": "Champlain Islands Farmers' Market-Saturday",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "185 US Route 2, VT",
+  "locationCity": "185 US Route 2",
+  "locationState": "VT",
+  "locationZipcode": "05458",
+  "lat": 44.7968758,
+  "lon": -73.294874,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.154Z"
+}

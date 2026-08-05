@@ -1,0 +1,19 @@
+{
+  "slug": "ra-farms-975-red-river-rd",
+  "name": "RA Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "975 Red River Rd, KY",
+  "locationCity": "975 Red River Rd",
+  "locationState": "KY",
+  "locationZipcode": "40336",
+  "lat": 37.8334066731473,
+  "lon": -84.0848426799209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.668Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.668Z"
+}

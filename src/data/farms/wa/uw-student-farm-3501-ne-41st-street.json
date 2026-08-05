@@ -1,0 +1,19 @@
+{
+  "slug": "uw-student-farm-3501-ne-41st-street",
+  "name": "UW Student Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3501 NE 41st Street, WA",
+  "locationCity": "3501 NE 41st Street",
+  "locationState": "WA",
+  "locationZipcode": "98195",
+  "lat": 47.654457980606,
+  "lon": -122.2962809923553,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.413Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.413Z"
+}

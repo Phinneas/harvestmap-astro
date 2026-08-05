@@ -1,0 +1,19 @@
+{
+  "slug": "ridgeview-farms-471-state-hwy-7-west",
+  "name": "Ridgeview Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "471 State Hwy 7 West, TX",
+  "locationCity": "471 State Hwy 7 West",
+  "locationState": "TX",
+  "locationZipcode": "75969",
+  "lat": 31.4473817050024,
+  "lon": -94.8709152206152,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.435Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.435Z"
+}

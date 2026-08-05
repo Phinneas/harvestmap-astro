@@ -1,0 +1,19 @@
+{
+  "slug": "red-fire-farm-184-meadow-rd",
+  "name": "Red Fire farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "184 Meadow Rd, MA",
+  "locationCity": "184 Meadow Rd",
+  "locationState": "MA",
+  "locationZipcode": "01351",
+  "lat": 42.529147,
+  "lon": -72.5595096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.258Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.258Z"
+}

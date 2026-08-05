@@ -1,0 +1,19 @@
+{
+  "slug": "honey-bee-hills-farm-prospect-hill",
+  "name": "Honey Bee Hills Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Prospect Hill, NC",
+  "locationCity": "Prospect Hill",
+  "locationState": "NC",
+  "locationZipcode": "27314",
+  "lat": 36.2493046,
+  "lon": -79.1908499,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.881Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.881Z"
+}

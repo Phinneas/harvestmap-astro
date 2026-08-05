@@ -1,0 +1,19 @@
+{
+  "slug": "isom-s-apple-fruit-farm-150-s-900-west",
+  "name": "Isom's Apple Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "150 S. 900 West, ID",
+  "locationCity": "150 S. 900 West",
+  "locationState": "ID",
+  "locationZipcode": "83221",
+  "lat": 43.175962019328,
+  "lon": -112.476277003286,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.892Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.892Z"
+}

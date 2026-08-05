@@ -1,0 +1,19 @@
+{
+  "slug": "ovid-farmers-market-main-street",
+  "name": "Ovid Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street, NY",
+  "locationCity": "Main Street",
+  "locationState": "NY",
+  "locationZipcode": "14521",
+  "lat": 42.676729,
+  "lon": -76.822157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.903Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.903Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "game-s-farmers-market-503-harpersville-rd-newport-news",
+  "name": "Game's Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "503 Harpersville Rd. Newport News, VA",
+  "locationCity": "503 Harpersville Rd. Newport News",
+  "locationState": "VA",
+  "locationZipcode": "23606",
+  "lat": 37.064577138575345,
+  "lon": -76.4595553933701,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

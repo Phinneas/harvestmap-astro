@@ -1,0 +1,19 @@
+{
+  "slug": "great-lakes-farm-to-freezer-1820-mack-ave",
+  "name": "Great Lakes Farm to Freezer",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1820 Mack Ave., MI",
+  "locationCity": "1820 Mack Ave.",
+  "locationState": "MI",
+  "locationZipcode": "48207",
+  "lat": 42.35328300034314,
+  "lon": -83.04057498604087,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.245Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "white-oak-farm-680-croton-lake-road",
+  "name": "White Oak Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "680 Croton Lake Road, NY",
+  "locationCity": "680 Croton Lake Road",
+  "locationState": "NY",
+  "locationZipcode": "10598",
+  "lat": 41.2350588021909,
+  "lon": -73.791325053027,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.122Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.122Z"
+}

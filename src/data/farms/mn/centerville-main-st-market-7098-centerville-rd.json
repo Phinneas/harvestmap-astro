@@ -1,0 +1,19 @@
+{
+  "slug": "centerville-main-st-market-7098-centerville-rd",
+  "name": "Centerville Main St Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7098 Centerville Rd, MN",
+  "locationCity": "7098 Centerville Rd",
+  "locationState": "MN",
+  "locationZipcode": "55038",
+  "lat": 45.1637955,
+  "lon": -93.0559715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

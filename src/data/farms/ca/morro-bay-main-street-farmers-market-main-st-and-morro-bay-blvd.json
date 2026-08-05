@@ -1,0 +1,19 @@
+{
+  "slug": "morro-bay-main-street-farmers-market-main-st-and-morro-bay-blvd",
+  "name": "Morro Bay Main Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. and Morro Bay Blvd., CA",
+  "locationCity": "Main St. and Morro Bay Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "93442",
+  "lat": 35.365976,
+  "lon": -120.84995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

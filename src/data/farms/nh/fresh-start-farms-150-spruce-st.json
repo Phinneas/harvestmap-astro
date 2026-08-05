@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-start-farms-150-spruce-st",
+  "name": "Fresh Start Farms",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "150 Spruce St, NH",
+  "locationCity": "150 Spruce St",
+  "locationState": "NH",
+  "locationZipcode": "03103",
+  "lat": 42.986668009770426,
+  "lon": -71.45772398983023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.986Z"
+}

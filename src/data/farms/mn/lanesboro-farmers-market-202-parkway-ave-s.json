@@ -1,0 +1,19 @@
+{
+  "slug": "lanesboro-farmers-market-202-parkway-ave-s",
+  "name": "Lanesboro Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "202 Parkway Ave S, MN",
+  "locationCity": "202 Parkway Ave S",
+  "locationState": "MN",
+  "locationZipcode": "55949",
+  "lat": 43.7188783,
+  "lon": -91.9765631,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

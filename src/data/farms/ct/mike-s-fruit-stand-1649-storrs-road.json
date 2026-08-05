@@ -1,0 +1,19 @@
+{
+  "slug": "mike-s-fruit-stand-1649-storrs-road",
+  "name": "Mike's Fruit Stand",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1649 Storrs Road, CT",
+  "locationCity": "1649 Storrs Road",
+  "locationState": "CT",
+  "locationZipcode": "06268",
+  "lat": 41.82679091034729,
+  "lon": -72.26592117845178,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

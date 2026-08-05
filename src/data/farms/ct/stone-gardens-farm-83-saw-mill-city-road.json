@@ -1,0 +1,20 @@
+{
+  "slug": "stone-gardens-farm-83-saw-mill-city-road",
+  "name": "Stone Gardens Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "83 Saw Mill City Road, CT",
+  "locationCity": "83 Saw Mill City Road",
+  "locationState": "CT",
+  "locationZipcode": "06484",
+  "lat": 41.3174529798876,
+  "lon": -73.1554580261723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.949Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.949Z",
+  "crops": []
+}

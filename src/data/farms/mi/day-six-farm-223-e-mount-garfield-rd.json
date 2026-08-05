@@ -1,0 +1,20 @@
+{
+  "slug": "day-six-farm-223-e-mount-garfield-rd",
+  "name": "Day Six Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "223 E Mount Garfield Rd, MI",
+  "locationCity": "223 E Mount Garfield Rd",
+  "locationState": "MI",
+  "locationZipcode": "49441",
+  "lat": 43.1466090135028,
+  "lon": -86.2396620243041,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.539Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bay-minette-farmers-market-301-mcmeans-ave",
+  "name": "Bay Minette Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 MCMEANS AVE, AL",
+  "locationCity": "301 MCMEANS AVE",
+  "locationState": "AL",
+  "locationZipcode": "36507",
+  "lat": 30.880755789772916,
+  "lon": -87.78567916512583,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

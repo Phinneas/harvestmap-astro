@@ -1,0 +1,19 @@
+{
+  "slug": "the-dover-farm-5-edgewater-drive",
+  "name": "The Dover Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5 Edgewater Drive, MA",
+  "locationCity": "5 Edgewater Drive",
+  "locationState": "MA",
+  "locationZipcode": "02030",
+  "lat": 42.2596629,
+  "lon": -71.2934994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.252Z"
+}

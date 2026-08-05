@@ -1,0 +1,19 @@
+{
+  "slug": "stanger-ranch-chesterfield-road",
+  "name": "Stanger Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Chesterfield Road, ID",
+  "locationCity": "Chesterfield Road",
+  "locationState": "ID",
+  "locationZipcode": "83217",
+  "lat": 42.8156789938336,
+  "lon": -111.886224784658,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.625Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.625Z"
+}

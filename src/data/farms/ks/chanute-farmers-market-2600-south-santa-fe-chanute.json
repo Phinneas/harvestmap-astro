@@ -1,0 +1,19 @@
+{
+  "slug": "chanute-farmers-market-2600-south-santa-fe-chanute",
+  "name": "Chanute Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2600 South Santa Fe Chanute, KS",
+  "locationCity": "2600 South Santa Fe Chanute",
+  "locationState": "KS",
+  "locationZipcode": "66720",
+  "lat": 37.653313537744225,
+  "lon": -95.45262035745864,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

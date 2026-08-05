@@ -1,0 +1,19 @@
+{
+  "slug": "chamberlain-farm-12-friend-street",
+  "name": "Chamberlain Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12 Friend Street, MA",
+  "locationCity": "12 Friend Street",
+  "locationState": "MA",
+  "locationZipcode": "02779",
+  "lat": 41.812434956344,
+  "lon": -71.0945953014747,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.472Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.472Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pine-island-farmers-market-327-329-glenwood-road-pine-island",
+  "name": "Pine Island Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "327-329 Glenwood Road Pine Island, NY",
+  "locationCity": "327-329 Glenwood Road Pine Island",
+  "locationState": "NY",
+  "locationZipcode": "10990",
+  "lat": 41.27946555219895,
+  "lon": -74.47698828822065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

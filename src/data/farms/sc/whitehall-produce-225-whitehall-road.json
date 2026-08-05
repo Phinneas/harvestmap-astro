@@ -1,0 +1,19 @@
+{
+  "slug": "whitehall-produce-225-whitehall-road",
+  "name": "Whitehall Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "225 Whitehall Road, SC",
+  "locationCity": "225 Whitehall Road",
+  "locationState": "SC",
+  "locationZipcode": "29625",
+  "lat": 34.53084801534696,
+  "lon": -82.6695590106163,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.222Z"
+}

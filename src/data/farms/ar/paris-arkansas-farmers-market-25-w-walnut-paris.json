@@ -1,0 +1,19 @@
+{
+  "slug": "paris-arkansas-farmers-market-25-w-walnut-paris",
+  "name": "Paris Arkansas Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25 w walnut Paris, AR",
+  "locationCity": "25 w walnut Paris",
+  "locationState": "AR",
+  "locationZipcode": "72855",
+  "lat": 35.29212387038224,
+  "lon": -93.73013405649831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

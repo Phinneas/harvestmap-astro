@@ -1,0 +1,19 @@
+{
+  "slug": "cabbagetown-market-198-carroll-street-atlanta",
+  "name": "Cabbagetown Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "198 Carroll Street Atlanta, GA",
+  "locationCity": "198 Carroll Street Atlanta",
+  "locationState": "GA",
+  "locationZipcode": "30316",
+  "lat": 33.749241998302395,
+  "lon": -84.36791800165918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

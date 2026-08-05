@@ -1,0 +1,19 @@
+{
+  "slug": "windy-hill-farm-18-hill-house-road",
+  "name": "Windy Hill Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "18 Hill House Road, CT",
+  "locationCity": "18 Hill House Road",
+  "locationState": "CT",
+  "locationZipcode": "06756",
+  "lat": 41.865690006811946,
+  "lon": -73.24877501151002,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.084Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.084Z"
+}

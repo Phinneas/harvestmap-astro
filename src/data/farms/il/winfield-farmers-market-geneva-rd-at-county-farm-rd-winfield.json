@@ -1,0 +1,19 @@
+{
+  "slug": "winfield-farmers-market-geneva-rd-at-county-farm-rd-winfield",
+  "name": "Winfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Geneva Rd. at County Farm Rd. Winfield, IL",
+  "locationCity": "Geneva Rd. at County Farm Rd. Winfield",
+  "locationState": "IL",
+  "locationZipcode": "60190",
+  "lat": 41.8881499869228,
+  "lon": -88.15106996714653,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

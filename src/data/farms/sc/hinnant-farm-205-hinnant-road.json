@@ -1,0 +1,19 @@
+{
+  "slug": "hinnant-farm-205-hinnant-road",
+  "name": "Hinnant Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "205 Hinnant Road, SC",
+  "locationCity": "205 Hinnant Road",
+  "locationState": "SC",
+  "locationZipcode": "29048",
+  "lat": 33.4247449987683,
+  "lon": -80.3869989702417,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.877Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.877Z"
+}

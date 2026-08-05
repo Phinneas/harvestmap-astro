@@ -1,0 +1,19 @@
+{
+  "slug": "zw-produce-513-e-1250-n",
+  "name": "ZW Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "513 E 1250 N, ID",
+  "locationCity": "513 E 1250 N",
+  "locationState": "ID",
+  "locationZipcode": "83274",
+  "lat": 43.37711801444047,
+  "lon": -112.18014503465041,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:39.495Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:39.495Z"
+}

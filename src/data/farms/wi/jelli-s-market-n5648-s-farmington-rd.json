@@ -1,0 +1,19 @@
+{
+  "slug": "jelli-s-market-n5648-s-farmington-rd",
+  "name": "Jelli's Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "N5648 S Farmington Rd, WI",
+  "locationCity": "N5648 S Farmington Rd",
+  "locationState": "WI",
+  "locationZipcode": "53137",
+  "lat": 43.046719987432795,
+  "lon": -88.67059700594777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:17.537Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:17.537Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "new-hope-farm-5161-lamb-rd",
+  "name": "New Hope Farm",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5161 Lamb Rd, SD",
+  "locationCity": "5161 Lamb Rd",
+  "locationState": "SD",
+  "locationZipcode": "57703",
+  "lat": 44.0092409,
+  "lon": -103.13776,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:15.880Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:15.880Z"
+}

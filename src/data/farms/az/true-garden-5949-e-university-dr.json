@@ -1,0 +1,19 @@
+{
+  "slug": "true-garden-5949-e-university-dr",
+  "name": "True Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5949 E. University Dr., AZ",
+  "locationCity": "5949 E. University Dr.",
+  "locationState": "AZ",
+  "locationZipcode": "85205",
+  "lat": 33.4223927,
+  "lon": -111.702363,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:13.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:13.374Z"
+}

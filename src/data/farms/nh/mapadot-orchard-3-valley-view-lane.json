@@ -1,0 +1,19 @@
+{
+  "slug": "mapadot-orchard-3-valley-view-lane",
+  "name": "Mapadot Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3 Valley View Lane, NH",
+  "locationCity": "3 Valley View Lane",
+  "locationState": "NH",
+  "locationZipcode": "03070",
+  "lat": 42.9782169978033,
+  "lon": -71.6946939712831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.686Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.686Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "franklin-farmers-market-120-south-main-street-franklin",
+  "name": "Franklin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 South Main Street FRANKLIN, VA",
+  "locationCity": "120 South Main Street FRANKLIN",
+  "locationState": "VA",
+  "locationZipcode": "23851",
+  "lat": 36.676766175640985,
+  "lon": -76.92172684842915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

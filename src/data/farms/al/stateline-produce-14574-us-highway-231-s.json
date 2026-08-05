@@ -1,0 +1,19 @@
+{
+  "slug": "stateline-produce-14574-us-highway-231-s",
+  "name": "Stateline Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "14574 Us Highway 231 S, AL",
+  "locationCity": "14574 Us Highway 231 S",
+  "locationState": "AL",
+  "locationZipcode": "14574",
+  "lat": 31.015519793382435,
+  "lon": -85.40788939504634,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:51.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:51.809Z"
+}

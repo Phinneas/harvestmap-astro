@@ -1,0 +1,19 @@
+{
+  "slug": "valley-fruits-and-veggies-309-colony-drive",
+  "name": "Valley Fruits and Veggies",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "309 Colony Drive, PA",
+  "locationCity": "309 Colony Drive",
+  "locationState": "PA",
+  "locationZipcode": "18017",
+  "lat": 40.6834908598959,
+  "lon": -75.4305706470561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.123Z"
+}

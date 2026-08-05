@@ -1,0 +1,20 @@
+{
+  "slug": "ruffwing-farms-942-elder-road-ne",
+  "name": "Ruffwing Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "942 Elder Road Ne, OH",
+  "locationCity": "942 Elder Road Ne",
+  "locationState": "OH",
+  "locationZipcode": "43130",
+  "lat": 39.761886162916,
+  "lon": -82.4902044708359,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.826Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.826Z",
+  "crops": []
+}

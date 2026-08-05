@@ -1,0 +1,19 @@
+{
+  "slug": "four-seasons-farmers-market-206-south-main-street-amherst",
+  "name": "Four Seasons Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "206 South Main Street Amherst, VA",
+  "locationCity": "206 South Main Street Amherst",
+  "locationState": "VA",
+  "locationZipcode": "24521",
+  "lat": 37.58501612718321,
+  "lon": -79.05215299270589,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

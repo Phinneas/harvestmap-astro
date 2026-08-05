@@ -1,0 +1,19 @@
+{
+  "slug": "groton-farmers-market-200-s-street",
+  "name": "Groton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 S. Street, NY",
+  "locationCity": "200 S. Street",
+  "locationState": "NY",
+  "locationZipcode": "13073",
+  "lat": 42.58463213748208,
+  "lon": -76.3683309321687,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

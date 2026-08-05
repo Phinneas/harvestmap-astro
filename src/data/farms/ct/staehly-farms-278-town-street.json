@@ -1,0 +1,20 @@
+{
+  "slug": "staehly-farms-278-town-street",
+  "name": "Staehly Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "278 Town Street, CT",
+  "locationCity": "278 Town Street",
+  "locationState": "CT",
+  "locationZipcode": "06423",
+  "lat": 41.4533880033779,
+  "lon": -72.4323130177484,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.968Z",
+  "crops": []
+}

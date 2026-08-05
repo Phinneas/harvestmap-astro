@@ -1,0 +1,19 @@
+{
+  "slug": "doko-farm-2101-cedar-creek-road",
+  "name": "Doko Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2101 Cedar Creek Road, SC",
+  "locationCity": "2101 Cedar Creek Road",
+  "locationState": "SC",
+  "locationZipcode": "29016",
+  "lat": 34.18248295978759,
+  "lon": -81.08262141285586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:52.967Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:52.967Z"
+}

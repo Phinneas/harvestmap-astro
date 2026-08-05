@@ -1,0 +1,19 @@
+{
+  "slug": "smith-s-blueberries-265-turnpike-road",
+  "name": "Smith's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "265 Turnpike Road, NH",
+  "locationCity": "265 Turnpike Road",
+  "locationState": "NH",
+  "locationZipcode": "03071",
+  "lat": 42.749904013588,
+  "lon": -71.8252380061081,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.635Z"
+}

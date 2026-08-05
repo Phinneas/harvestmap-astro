@@ -1,0 +1,19 @@
+{
+  "slug": "hafners-u-pick-hafner-farms",
+  "name": "Hafners U-pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hafner Farms, NY",
+  "locationCity": "Hafner Farms",
+  "locationState": "NY",
+  "locationZipcode": "13027",
+  "lat": 43.16566300000005,
+  "lon": -76.38003599999996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.469Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wells-blueberries-retreat-road",
+  "name": "Wells Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Retreat Road, NJ",
+  "locationCity": "Retreat Road",
+  "locationState": "NJ",
+  "locationZipcode": "08088",
+  "lat": 39.9123619868943,
+  "lon": -74.6900600263337,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.772Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.772Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-s-daughter-produce-200-pine-street",
+  "name": "Farmer's Daughter Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 Pine Street, CA",
+  "locationCity": "200 Pine Street",
+  "locationState": "CA",
+  "locationZipcode": "94513",
+  "lat": 37.9352400000001,
+  "lon": -121.69594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.735Z"
+}

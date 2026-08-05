@@ -1,0 +1,19 @@
+{
+  "slug": "spring-hill-pumpkin-patch-5673-county-line-road",
+  "name": "Spring Hill Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5673 County Line Road, MO",
+  "locationCity": "5673 County Line Road",
+  "locationState": "MO",
+  "locationZipcode": "65711",
+  "lat": 37.2603918060048,
+  "lon": -92.239129434897,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.765Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.765Z"
+}

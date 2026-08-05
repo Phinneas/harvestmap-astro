@@ -1,0 +1,19 @@
+{
+  "slug": "river-city-farm-3304-15th-st",
+  "name": "River City Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3304 15th St., ID",
+  "locationCity": "3304 15th St.",
+  "locationState": "ID",
+  "locationZipcode": "83501",
+  "lat": 46.3838709,
+  "lon": -116.9550549,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:32.482Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:32.482Z"
+}

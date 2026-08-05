@@ -1,0 +1,19 @@
+{
+  "slug": "hart-farm-430-copeland-hill-road",
+  "name": "Hart Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "430 Copeland Hill Road, ME",
+  "locationCity": "430 Copeland Hill Road",
+  "locationState": "ME",
+  "locationZipcode": "04429",
+  "lat": 44.737817038287105,
+  "lon": -68.71741923371486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.568Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.568Z"
+}

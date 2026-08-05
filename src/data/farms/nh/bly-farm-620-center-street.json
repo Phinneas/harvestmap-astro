@@ -1,0 +1,20 @@
+{
+  "slug": "bly-farm-620-center-street",
+  "name": "Bly Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "620 Center Street, NH",
+  "locationCity": "620 Center Street",
+  "locationState": "NH",
+  "locationZipcode": "03894",
+  "lat": 43.6164679953905,
+  "lon": -71.1750319838408,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.886Z",
+  "crops": []
+}

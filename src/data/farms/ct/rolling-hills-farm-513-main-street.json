@@ -1,0 +1,19 @@
+{
+  "slug": "rolling-hills-farm-513-main-street",
+  "name": "Rolling Hills Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "513 Main Street, CT",
+  "locationCity": "513 Main Street",
+  "locationState": "CT",
+  "locationZipcode": "06073",
+  "lat": 41.6535970110696,
+  "lon": -72.6050219650404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.967Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.967Z"
+}

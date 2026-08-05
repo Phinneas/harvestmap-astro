@@ -1,0 +1,19 @@
+{
+  "slug": "terra-valley-farms-19501-tualco-rd",
+  "name": "Terra Valley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "19501 Tualco Rd, WA",
+  "locationCity": "19501 Tualco Rd",
+  "locationState": "WA",
+  "locationZipcode": "19501",
+  "lat": 47.82107898398354,
+  "lon": -121.9843659838589,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.412Z"
+}

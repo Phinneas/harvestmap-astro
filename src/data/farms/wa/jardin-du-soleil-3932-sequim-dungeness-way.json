@@ -1,0 +1,19 @@
+{
+  "slug": "jardin-du-soleil-3932-sequim-dungeness-way",
+  "name": "Jardin du Soleil",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3932 Sequim-Dungeness Way, WA",
+  "locationCity": "3932 Sequim-Dungeness Way",
+  "locationState": "WA",
+  "locationZipcode": "98382",
+  "lat": 48.1325519,
+  "lon": -123.1162673,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.430Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.430Z"
+}

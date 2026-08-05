@@ -1,0 +1,19 @@
+{
+  "slug": "greenbelt-farmers-market-25-crescent-road",
+  "name": "Greenbelt Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25 Crescent Road, MD",
+  "locationCity": "25 Crescent Road",
+  "locationState": "MD",
+  "locationZipcode": "20770",
+  "lat": 39.001146,
+  "lon": -76.877296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.503Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.503Z"
+}

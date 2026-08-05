@@ -1,0 +1,19 @@
+{
+  "slug": "sk-l-farm-590-w-colfax",
+  "name": "Skål Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "590 W. Colfax, CO",
+  "locationCity": "590 W. Colfax",
+  "locationState": "CO",
+  "locationZipcode": "80401",
+  "lat": 39.7213112688437,
+  "lon": -105.198027662213,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.171Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.171Z"
+}

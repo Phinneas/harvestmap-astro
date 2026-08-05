@@ -1,0 +1,19 @@
+{
+  "slug": "a-maze-n-farmyard-649-state-highway-55",
+  "name": "A maze'n Farmyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "649 State Highway 55, MN",
+  "locationCity": "649 State Highway 55",
+  "locationState": "MN",
+  "locationZipcode": "55329",
+  "lat": 45.3222898414369,
+  "lon": -94.5516127094591,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.765Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.765Z"
+}

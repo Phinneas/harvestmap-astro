@@ -1,0 +1,19 @@
+{
+  "slug": "tru2earth-farm-505-santa-teresa-blvd",
+  "name": "Tru2Earth Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "505 Santa Teresa Blvd, CA",
+  "locationCity": "505 Santa Teresa Blvd",
+  "locationState": "CA",
+  "locationZipcode": "95020",
+  "lat": 37.0339645213998,
+  "lon": -121.597526286377,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.778Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.778Z"
+}

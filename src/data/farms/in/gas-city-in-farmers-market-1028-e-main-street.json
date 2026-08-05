@@ -1,0 +1,19 @@
+{
+  "slug": "gas-city-in-farmers-market-1028-e-main-street",
+  "name": "Gas City, IN Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1028 E Main Street, IN",
+  "locationCity": "1028 E Main Street",
+  "locationState": "IN",
+  "locationZipcode": "46933",
+  "lat": 40.489812,
+  "lon": -85.598506,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.607Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.607Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "serendipity-farms-3455-chubb-hollow-road",
+  "name": "Serendipity Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3455 Chubb Hollow Road, NY",
+  "locationCity": "3455 Chubb Hollow Road",
+  "locationState": "NY",
+  "locationZipcode": "14527",
+  "lat": 42.5977023144242,
+  "lon": -77.0014113173827,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.383Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.383Z"
+}

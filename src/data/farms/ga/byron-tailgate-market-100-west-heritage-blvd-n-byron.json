@@ -1,0 +1,19 @@
+{
+  "slug": "byron-tailgate-market-100-west-heritage-blvd-n-byron",
+  "name": "Byron Tailgate Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 West Heritage Blvd N Byron, GA",
+  "locationCity": "100 West Heritage Blvd N Byron",
+  "locationState": "GA",
+  "locationZipcode": "31008",
+  "lat": 32.65368516988184,
+  "lon": -83.75912699894327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mcwilliams-apple-orchard-9773-ne-158th-avenue",
+  "name": "McWilliams Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9773 NE 158th Avenue, IA",
+  "locationCity": "9773 NE 158th Avenue",
+  "locationState": "IA",
+  "locationZipcode": "50161",
+  "lat": 41.84893399563103,
+  "lon": -93.40192796355203,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.759Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.759Z"
+}

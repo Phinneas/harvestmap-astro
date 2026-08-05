@@ -1,0 +1,19 @@
+{
+  "slug": "shannon-brown-1603-old-swede-rd",
+  "name": "Shannon Brown",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1603 Old Swede RD, PA",
+  "locationCity": "1603 Old Swede RD",
+  "locationState": "PA",
+  "locationZipcode": "19518",
+  "lat": 40.309580336469025,
+  "lon": -75.7427062819445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.601Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.601Z"
+}

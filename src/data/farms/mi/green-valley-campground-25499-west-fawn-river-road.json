@@ -1,0 +1,19 @@
+{
+  "slug": "green-valley-campground-25499-west-fawn-river-road",
+  "name": "Green Valley Campground",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "25499 West Fawn River Road, MI",
+  "locationCity": "25499 West Fawn River Road",
+  "locationState": "MI",
+  "locationZipcode": "25499",
+  "lat": 41.7810418990527,
+  "lon": -85.4574157545575,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.538Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.538Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sycamore-bend-farm-weekly-vegetable-share-eureka-springs",
+  "name": "Sycamore Bend Farm Weekly Vegetable Share",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Eureka Springs, AR",
+  "locationCity": "Eureka Springs",
+  "locationState": "AR",
+  "locationZipcode": "72632",
+  "lat": 36.4011825,
+  "lon": -93.7379711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:26.275Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:26.275Z"
+}

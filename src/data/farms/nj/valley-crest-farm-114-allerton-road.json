@@ -1,0 +1,19 @@
+{
+  "slug": "valley-crest-farm-114-allerton-road",
+  "name": "Valley Crest Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "114 Allerton Road, NJ",
+  "locationCity": "114 Allerton Road",
+  "locationState": "NJ",
+  "locationZipcode": "08333",
+  "lat": 40.6107116325574,
+  "lon": -74.8832653199989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:24.780Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:24.780Z"
+}

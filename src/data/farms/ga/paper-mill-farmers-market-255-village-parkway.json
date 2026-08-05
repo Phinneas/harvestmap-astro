@@ -1,0 +1,19 @@
+{
+  "slug": "paper-mill-farmers-market-255-village-parkway",
+  "name": "Paper Mill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "255 Village Parkway, GA",
+  "locationCity": "255 Village Parkway",
+  "locationState": "GA",
+  "locationZipcode": "30067",
+  "lat": 33.9507499914387,
+  "lon": -84.41319997627903,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

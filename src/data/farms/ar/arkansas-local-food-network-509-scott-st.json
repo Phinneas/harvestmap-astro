@@ -1,0 +1,19 @@
+{
+  "slug": "arkansas-local-food-network-509-scott-st",
+  "name": "Arkansas Local Food Network",
+  "source": "usda",
+  "directory": "csa",
+  "location": "509 Scott St, AR",
+  "locationCity": "509 Scott St",
+  "locationState": "AR",
+  "locationZipcode": "72201",
+  "lat": 34.7432407,
+  "lon": -92.2698291,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:26.265Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:26.265Z"
+}

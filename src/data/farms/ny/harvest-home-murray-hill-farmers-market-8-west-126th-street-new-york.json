@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-home-murray-hill-farmers-market-8-west-126th-street-new-york",
+  "name": "Harvest Home Murray Hill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8 West 126th Street New York, NY",
+  "locationCity": "8 West 126th Street New York",
+  "locationState": "NY",
+  "locationZipcode": "10016",
+  "lat": 40.80726756467693,
+  "lon": -73.94220407445611,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

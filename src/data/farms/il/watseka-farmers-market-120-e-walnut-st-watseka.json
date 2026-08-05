@@ -1,0 +1,19 @@
+{
+  "slug": "watseka-farmers-market-120-e-walnut-st-watseka",
+  "name": "Watseka Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 E. Walnut St. Watseka, IL",
+  "locationCity": "120 E. Walnut St. Watseka",
+  "locationState": "IL",
+  "locationZipcode": "60970",
+  "lat": 40.77628228566768,
+  "lon": -87.73406967984802,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

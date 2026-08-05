@@ -1,0 +1,19 @@
+{
+  "slug": "fisher-farms-pumpkin-patch-413-red-oak-road",
+  "name": "Fisher Farms Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "413 Red Oak Road, NC",
+  "locationCity": "413 Red Oak Road",
+  "locationState": "NC",
+  "locationZipcode": "27856",
+  "lat": 35.9743880752208,
+  "lon": -77.9366534728297,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.736Z"
+}

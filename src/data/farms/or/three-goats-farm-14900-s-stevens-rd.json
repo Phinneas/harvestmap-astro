@@ -1,0 +1,19 @@
+{
+  "slug": "three-goats-farm-14900-s-stevens-rd",
+  "name": "Three Goats Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "14900 S Stevens Rd, OR",
+  "locationCity": "14900 S Stevens Rd",
+  "locationState": "OR",
+  "locationZipcode": "14900",
+  "lat": 45.3900817,
+  "lon": -122.4726321,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.957Z"
+}

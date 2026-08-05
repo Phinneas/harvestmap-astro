@@ -1,0 +1,19 @@
+{
+  "slug": "flanders-farmers-market-655-flanders-road-rt-25-flanders",
+  "name": "Flanders Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "655 Flanders Road (Rt 25) Flanders, NY",
+  "locationCity": "655 Flanders Road (Rt 25) Flanders",
+  "locationState": "NY",
+  "locationZipcode": "11901",
+  "lat": 40.90956913967569,
+  "lon": -72.63695780154973,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

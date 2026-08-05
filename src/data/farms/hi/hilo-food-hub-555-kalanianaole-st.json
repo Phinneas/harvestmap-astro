@@ -1,0 +1,19 @@
+{
+  "slug": "hilo-food-hub-555-kalanianaole-st",
+  "name": "Hilo Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "555 Kalanianaole St, HI",
+  "locationCity": "555 Kalanianaole St",
+  "locationState": "HI",
+  "locationZipcode": "96720",
+  "lat": 19.727188991255687,
+  "lon": -155.05657203265307,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:17.662Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:17.662Z"
+}

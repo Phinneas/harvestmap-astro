@@ -1,0 +1,19 @@
+{
+  "slug": "global-gardens-3501-w-elder-st",
+  "name": "Global Gardens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3501 W Elder St, ID",
+  "locationCity": "3501 W Elder St",
+  "locationState": "ID",
+  "locationZipcode": "83705",
+  "lat": 43.572960050577734,
+  "lon": -116.2242673878671,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:32.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:32.505Z"
+}

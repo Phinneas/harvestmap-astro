@@ -1,0 +1,19 @@
+{
+  "slug": "mcdonald-s-muscadines-998-highway-zz",
+  "name": "McDonald's Muscadines",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "998 highway Zz, MO",
+  "locationCity": "998 highway Zz",
+  "locationState": "MO",
+  "locationZipcode": "63801",
+  "lat": 36.9190681064048,
+  "lon": -89.6448085294988,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.730Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.730Z"
+}

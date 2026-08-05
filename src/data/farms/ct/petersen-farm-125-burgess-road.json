@@ -1,0 +1,19 @@
+{
+  "slug": "petersen-farm-125-burgess-road",
+  "name": "Petersen Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "125 Burgess Road, CT",
+  "locationCity": "125 Burgess Road",
+  "locationState": "CT",
+  "locationZipcode": "06074",
+  "lat": 41.8345602051516,
+  "lon": -72.5759648403972,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.003Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.003Z"
+}

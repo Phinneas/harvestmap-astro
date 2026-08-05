@@ -1,0 +1,19 @@
+{
+  "slug": "bonverts-farm-4690-joliet-ste-a36",
+  "name": "Bonverts Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4690 Joliet Ste A36, CO",
+  "locationCity": "4690 Joliet Ste A36",
+  "locationState": "CO",
+  "locationZipcode": "80239",
+  "lat": 39.78180701368572,
+  "lon": -104.86044851358069,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.594Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.594Z"
+}

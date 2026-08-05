@@ -1,0 +1,19 @@
+{
+  "slug": "simply-fresh-farmers-market-804-main-st",
+  "name": "Simply Fresh Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "804 Main St, MN",
+  "locationCity": "804 Main St",
+  "locationState": "MN",
+  "locationZipcode": "56623",
+  "lat": 48.7140921,
+  "lon": -94.6116274,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

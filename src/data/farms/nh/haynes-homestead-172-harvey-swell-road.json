@@ -1,0 +1,19 @@
+{
+  "slug": "haynes-homestead-172-harvey-swell-road",
+  "name": "Haynes Homestead",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "172 Harvey Swell Road, NH",
+  "locationCity": "172 Harvey Swell Road",
+  "locationState": "NH",
+  "locationZipcode": "03576",
+  "lat": 44.9009799886965,
+  "lon": -71.3632910379038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.746Z"
+}

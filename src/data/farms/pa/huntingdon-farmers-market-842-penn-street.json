@@ -1,0 +1,19 @@
+{
+  "slug": "huntingdon-farmers-market-842-penn-street",
+  "name": "Huntingdon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "842 Penn Street, PA",
+  "locationCity": "842 Penn Street",
+  "locationState": "PA",
+  "locationZipcode": "16652",
+  "lat": 40.485653,
+  "lon": -78.01723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:18.991Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:18.991Z"
+}

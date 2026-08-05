@@ -1,0 +1,19 @@
+{
+  "slug": "chestnut-farms-404-turkey-st",
+  "name": "Chestnut Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "404 Turkey St., MA",
+  "locationCity": "404 Turkey St.",
+  "locationState": "MA",
+  "locationZipcode": "01037",
+  "lat": 42.32750542104594,
+  "lon": -72.2156937104723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.280Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.280Z"
+}

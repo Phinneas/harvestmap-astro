@@ -1,0 +1,19 @@
+{
+  "slug": "landscape-source-nursery-167-ole-west-lane",
+  "name": "Landscape Source Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "167 Ole West Lane, TX",
+  "locationCity": "167 Ole West Lane",
+  "locationState": "TX",
+  "locationZipcode": "75087",
+  "lat": 32.9374201423197,
+  "lon": -96.4224903548241,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.516Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.516Z"
+}

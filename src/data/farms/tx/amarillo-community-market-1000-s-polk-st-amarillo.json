@@ -1,0 +1,19 @@
+{
+  "slug": "amarillo-community-market-1000-s-polk-st-amarillo",
+  "name": "Amarillo Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 S. Polk St. Amarillo, TX",
+  "locationCity": "1000 S. Polk St. Amarillo",
+  "locationState": "TX",
+  "locationZipcode": "79101",
+  "lat": 35.203454352330986,
+  "lon": -101.83785174819096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

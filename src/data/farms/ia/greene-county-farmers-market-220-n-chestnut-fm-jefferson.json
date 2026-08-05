@@ -1,0 +1,19 @@
+{
+  "slug": "greene-county-farmers-market-220-n-chestnut-fm-jefferson",
+  "name": "Greene County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 N Chestnut #FM Jefferson, IA",
+  "locationCity": "220 N Chestnut #FM Jefferson",
+  "locationState": "IA",
+  "locationZipcode": "50129",
+  "lat": 42.017004020520034,
+  "lon": -94.37378298229248,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

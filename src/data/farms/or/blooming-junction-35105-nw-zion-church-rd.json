@@ -1,0 +1,19 @@
+{
+  "slug": "blooming-junction-35105-nw-zion-church-rd",
+  "name": "Blooming Junction",
+  "source": "usda",
+  "directory": "csa",
+  "location": "35105 NW Zion Church Rd, OR",
+  "locationCity": "35105 NW Zion Church Rd",
+  "locationState": "OR",
+  "locationZipcode": "35105",
+  "lat": 45.573669,
+  "lon": -123.03602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.959Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.959Z"
+}

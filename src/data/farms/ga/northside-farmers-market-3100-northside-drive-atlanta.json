@@ -1,0 +1,19 @@
+{
+  "slug": "northside-farmers-market-3100-northside-drive-atlanta",
+  "name": "Northside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3100 Northside Drive Atlanta, GA",
+  "locationCity": "3100 Northside Drive Atlanta",
+  "locationState": "GA",
+  "locationZipcode": "30305",
+  "lat": 33.8407614186945,
+  "lon": -84.40830507875864,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

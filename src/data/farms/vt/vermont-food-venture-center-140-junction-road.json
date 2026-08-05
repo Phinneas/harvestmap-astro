@@ -1,0 +1,19 @@
+{
+  "slug": "vermont-food-venture-center-140-junction-road",
+  "name": "Vermont Food Venture Center",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "140 Junction Road, VT",
+  "locationCity": "140 Junction Road",
+  "locationState": "VT",
+  "locationZipcode": "05826",
+  "lat": 44.5142393,
+  "lon": -72.376005,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:46.179Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:46.179Z"
+}

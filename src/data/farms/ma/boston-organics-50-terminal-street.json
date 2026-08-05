@@ -1,0 +1,19 @@
+{
+  "slug": "boston-organics-50-terminal-street",
+  "name": "Boston Organics",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "50 Terminal Street, MA",
+  "locationCity": "50 Terminal Street",
+  "locationState": "MA",
+  "locationZipcode": "02129",
+  "lat": 42.3824655,
+  "lon": -71.060687,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.878Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.878Z"
+}

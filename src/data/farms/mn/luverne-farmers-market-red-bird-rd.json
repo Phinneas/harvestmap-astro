@@ -1,0 +1,19 @@
+{
+  "slug": "luverne-farmers-market-red-bird-rd",
+  "name": "Luverne Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Red Bird Rd, MN",
+  "locationCity": "Red Bird Rd",
+  "locationState": "MN",
+  "locationZipcode": "56156",
+  "lat": 43.6535687,
+  "lon": -96.2022415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

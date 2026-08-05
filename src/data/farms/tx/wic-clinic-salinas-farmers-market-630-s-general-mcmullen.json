@@ -1,0 +1,19 @@
+{
+  "slug": "wic-clinic-salinas-farmers-market-630-s-general-mcmullen",
+  "name": "WIC Clinic Salinas Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "630 S General McMullen, TX",
+  "locationCity": "630 S General McMullen",
+  "locationState": "TX",
+  "locationZipcode": "78237",
+  "lat": 29.472403,
+  "lon": -98.525142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.049Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.049Z"
+}

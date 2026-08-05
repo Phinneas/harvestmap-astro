@@ -1,0 +1,20 @@
+{
+  "slug": "toboggan-hill-farm-8380-hardscrabble-road",
+  "name": "Toboggan Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8380 Hardscrabble Road, NY",
+  "locationCity": "8380 Hardscrabble Road",
+  "locationState": "NY",
+  "locationZipcode": "14787",
+  "lat": 42.29290718785157,
+  "lon": -79.6022956723358,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.459Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.459Z",
+  "crops": []
+}

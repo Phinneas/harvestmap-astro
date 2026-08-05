@@ -1,0 +1,19 @@
+{
+  "slug": "organically-grown-company-1800b-prairie-rd",
+  "name": "Organically Grown Company",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1800B Prairie Rd, OR",
+  "locationCity": "1800B Prairie Rd",
+  "locationState": "OR",
+  "locationZipcode": "97402",
+  "lat": 44.0918524,
+  "lon": -123.15972,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:04.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:04.347Z"
+}

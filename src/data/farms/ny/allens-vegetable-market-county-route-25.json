@@ -1,0 +1,19 @@
+{
+  "slug": "allens-vegetable-market-county-route-25",
+  "name": "Allens Vegetable Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "County Route 25, NY",
+  "locationCity": "County Route 25",
+  "locationState": "NY",
+  "locationZipcode": "14837",
+  "lat": 42.43210341738357,
+  "lon": -77.09457862269146,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.824Z"
+}

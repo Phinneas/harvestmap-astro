@@ -1,0 +1,19 @@
+{
+  "slug": "norcross-community-market-5-college-st-norcross",
+  "name": "Norcross Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5 College St Norcross, GA",
+  "locationCity": "5 College St Norcross",
+  "locationState": "GA",
+  "locationZipcode": "30071",
+  "lat": 33.941418952806636,
+  "lon": -84.21212975326479,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

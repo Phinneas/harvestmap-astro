@@ -1,0 +1,19 @@
+{
+  "slug": "hirtzel-farm-740-hirtzel-road",
+  "name": "Hirtzel Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "740 Hirtzel Road, PA",
+  "locationCity": "740 Hirtzel Road",
+  "locationState": "PA",
+  "locationZipcode": "16428",
+  "lat": 42.2385883787587,
+  "lon": -79.7780837575649,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.202Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.202Z"
+}

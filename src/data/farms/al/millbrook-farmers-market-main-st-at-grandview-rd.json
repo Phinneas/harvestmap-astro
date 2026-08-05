@@ -1,0 +1,19 @@
+{
+  "slug": "millbrook-farmers-market-main-st-at-grandview-rd",
+  "name": "Millbrook Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. at Grandview Rd., AL",
+  "locationCity": "Main St. at Grandview Rd.",
+  "locationState": "AL",
+  "locationZipcode": "36054",
+  "lat": 32.476519990002984,
+  "lon": -86.36108001058972,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

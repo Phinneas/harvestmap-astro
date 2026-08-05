@@ -1,0 +1,20 @@
+{
+  "slug": "beams-blue-mountain-farm-374-lurgan-road",
+  "name": "Beams Blue Mountain Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "374 Lurgan Road, PA",
+  "locationCity": "374 Lurgan Road",
+  "locationState": "PA",
+  "locationZipcode": "17240",
+  "lat": 40.1062113938064,
+  "lon": -77.6296312790586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.194Z",
+  "crops": []
+}

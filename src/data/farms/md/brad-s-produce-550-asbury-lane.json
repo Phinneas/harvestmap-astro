@@ -1,0 +1,20 @@
+{
+  "slug": "brad-s-produce-550-asbury-lane",
+  "name": "Brad’s Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "550 Asbury Lane, MD",
+  "locationCity": "550 Asbury Lane",
+  "locationState": "MD",
+  "locationZipcode": "21028",
+  "lat": 39.5392670061156,
+  "lon": -76.2602510006448,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.216Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.216Z",
+  "crops": []
+}

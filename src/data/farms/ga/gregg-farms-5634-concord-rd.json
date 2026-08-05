@@ -1,0 +1,19 @@
+{
+  "slug": "gregg-farms-5634-concord-rd",
+  "name": "Gregg Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5634 Concord Rd, GA",
+  "locationCity": "5634 Concord Rd",
+  "locationState": "GA",
+  "locationZipcode": "30206",
+  "lat": 33.1569554214913,
+  "lon": -84.46124303697,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.341Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.341Z"
+}

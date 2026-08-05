@@ -1,0 +1,19 @@
+{
+  "slug": "jasper-farmer-s-market-504-court-st-jasper",
+  "name": "Jasper Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "504 Court St. Jasper, AR",
+  "locationCity": "504 Court St. Jasper",
+  "locationState": "AR",
+  "locationZipcode": "72641",
+  "lat": 36.00635868286681,
+  "lon": -93.19187878779142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

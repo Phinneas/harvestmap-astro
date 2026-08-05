@@ -1,0 +1,19 @@
+{
+  "slug": "brynteg-farm-llc-st-john-s-way",
+  "name": "BrynTeg Farm LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "St. John's Way, WI",
+  "locationCity": "St. John's Way",
+  "locationState": "WI",
+  "locationZipcode": "53066",
+  "lat": 43.23059285442838,
+  "lon": -88.52053772123556,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.026Z"
+}

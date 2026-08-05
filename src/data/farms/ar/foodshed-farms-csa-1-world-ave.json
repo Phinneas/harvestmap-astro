@@ -1,0 +1,19 @@
+{
+  "slug": "foodshed-farms-csa-1-world-ave",
+  "name": "Foodshed Farms CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1 World Ave., AR",
+  "locationCity": "1 World Ave.",
+  "locationState": "AR",
+  "locationZipcode": "72202",
+  "lat": 34.7443125,
+  "lon": -92.2550389,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:26.271Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:26.271Z"
+}

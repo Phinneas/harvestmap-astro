@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkin-junction-corn-maze-34-toad-lane",
+  "name": "Pumpkin Junction Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "34 Toad Lane, NJ",
+  "locationCity": "34 Toad Lane",
+  "locationState": "NJ",
+  "locationZipcode": "08551",
+  "lat": 40.4428940470048,
+  "lon": -74.8669216989585,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.728Z"
+}

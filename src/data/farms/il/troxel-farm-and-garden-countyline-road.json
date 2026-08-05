@@ -1,0 +1,19 @@
+{
+  "slug": "troxel-farm-and-garden-countyline-road",
+  "name": "Troxel Farm and Garden",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Countyline Road, IL",
+  "locationCity": "Countyline Road",
+  "locationState": "IL",
+  "locationZipcode": "60151",
+  "lat": 41.88423002327288,
+  "lon": -88.60154672322624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.667Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.667Z"
+}

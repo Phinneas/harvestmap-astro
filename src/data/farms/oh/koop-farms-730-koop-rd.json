@@ -1,0 +1,19 @@
+{
+  "slug": "koop-farms-730-koop-rd",
+  "name": "Koop Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "730 Koop Rd, OH",
+  "locationCity": "730 Koop Rd",
+  "locationState": "OH",
+  "locationZipcode": "45804",
+  "lat": 40.740606,
+  "lon": -84.159993,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.770Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.770Z"
+}

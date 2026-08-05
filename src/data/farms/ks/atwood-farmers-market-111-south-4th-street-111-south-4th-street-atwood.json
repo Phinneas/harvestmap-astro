@@ -1,0 +1,19 @@
+{
+  "slug": "atwood-farmers-market-111-south-4th-street-111-south-4th-street-atwood",
+  "name": "Atwood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 South 4th Street 111 South 4th Street Atwood, KS",
+  "locationCity": "111 South 4th Street 111 South 4th Street Atwood",
+  "locationState": "KS",
+  "locationZipcode": "67730",
+  "lat": 39.80710280080265,
+  "lon": -101.0421526033838,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

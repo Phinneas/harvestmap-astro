@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-johns-pumpkin-patch-537-273rd-street",
+  "name": "Farmer Johns Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "537 273rd Street, MN",
+  "locationCity": "537 273rd Street",
+  "locationState": "MN",
+  "locationZipcode": "55912",
+  "lat": 43.7500615186613,
+  "lon": -93.0574021912519,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.691Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.691Z"
+}

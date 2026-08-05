@@ -1,0 +1,19 @@
+{
+  "slug": "arlington-heights-farmers-market-110-w-fremont-arlington-heights",
+  "name": "Arlington Heights Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 W. Fremont Arlington Heights, IL",
+  "locationCity": "110 W. Fremont Arlington Heights",
+  "locationState": "IL",
+  "locationZipcode": "60004",
+  "lat": 42.087400717943616,
+  "lon": -87.98440165309212,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

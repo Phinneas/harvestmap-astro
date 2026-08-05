@@ -1,0 +1,19 @@
+{
+  "slug": "emis-pumpkin-patch-600-old-telegraph-rd",
+  "name": "EMIS pumpkin patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "600 Old Telegraph Rd, CA",
+  "locationCity": "600 Old Telegraph Rd",
+  "locationState": "CA",
+  "locationZipcode": "93030",
+  "lat": 34.4018290062725,
+  "lon": -118.923731736383,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.787Z"
+}

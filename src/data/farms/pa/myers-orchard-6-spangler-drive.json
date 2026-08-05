@@ -1,0 +1,19 @@
+{
+  "slug": "myers-orchard-6-spangler-drive",
+  "name": "Myers Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6 Spangler Drive, PA",
+  "locationCity": "6 Spangler Drive",
+  "locationState": "PA",
+  "locationZipcode": "19506",
+  "lat": 40.47373198926158,
+  "lon": -76.1515549831798,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.222Z"
+}

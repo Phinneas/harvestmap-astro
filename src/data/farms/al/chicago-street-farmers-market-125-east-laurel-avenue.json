@@ -1,0 +1,19 @@
+{
+  "slug": "chicago-street-farmers-market-125-east-laurel-avenue",
+  "name": "Chicago Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "125 East Laurel Avenue, AL",
+  "locationCity": "125 East Laurel Avenue",
+  "locationState": "AL",
+  "locationZipcode": "36530",
+  "lat": 30.406432589111905,
+  "lon": -87.68329068445334,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

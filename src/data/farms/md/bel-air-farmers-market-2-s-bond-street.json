@@ -1,0 +1,19 @@
+{
+  "slug": "bel-air-farmers-market-2-s-bond-street",
+  "name": "Bel Air Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 S. Bond Street, MD",
+  "locationCity": "2 S. Bond Street",
+  "locationState": "MD",
+  "locationZipcode": "21014",
+  "lat": 39.53591499126351,
+  "lon": -76.35052508585996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.535Z"
+}

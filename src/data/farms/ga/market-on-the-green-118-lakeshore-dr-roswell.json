@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-the-green-118-lakeshore-dr-roswell",
+  "name": "Market on the Green",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "118 Lakeshore Dr. Roswell, GA",
+  "locationCity": "118 Lakeshore Dr. Roswell",
+  "locationState": "GA",
+  "locationZipcode": "30075",
+  "lat": 34.0835789971775,
+  "lon": -84.414535618829,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "benicia-certified-farmers-market-90-first-st-benicia",
+  "name": "Benicia Certified Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "90 First St Benicia, CA",
+  "locationCity": "90 First St Benicia",
+  "locationState": "CA",
+  "locationZipcode": "94510",
+  "lat": 38.04438719549517,
+  "lon": -122.16285633550501,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.372Z"
+}

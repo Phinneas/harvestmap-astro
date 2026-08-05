@@ -1,0 +1,20 @@
+{
+  "slug": "maynard-farms-326-river-road",
+  "name": "Maynard Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "326 River Road, NY",
+  "locationCity": "326 River Road",
+  "locationState": "NY",
+  "locationZipcode": "12487",
+  "lat": 41.8631513378877,
+  "lon": -73.9636807767505,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.942Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.942Z",
+  "crops": []
+}

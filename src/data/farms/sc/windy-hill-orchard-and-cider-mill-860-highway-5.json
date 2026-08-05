@@ -1,0 +1,19 @@
+{
+  "slug": "windy-hill-orchard-and-cider-mill-860-highway-5",
+  "name": "Windy Hill Orchard and Cider Mill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "860 Highway 5, SC",
+  "locationCity": "860 Highway 5",
+  "locationState": "SC",
+  "locationZipcode": "29710",
+  "lat": 35.0189803490129,
+  "lon": -81.2469414484183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.833Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.833Z"
+}

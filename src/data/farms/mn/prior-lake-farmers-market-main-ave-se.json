@@ -1,0 +1,19 @@
+{
+  "slug": "prior-lake-farmers-market-main-ave-se",
+  "name": "Prior Lake Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Ave SE, MN",
+  "locationCity": "Main Ave SE",
+  "locationState": "MN",
+  "locationZipcode": "55372",
+  "lat": 44.7161305,
+  "lon": -93.4228119,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

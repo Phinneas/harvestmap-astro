@@ -1,0 +1,19 @@
+{
+  "slug": "bass-farms-325-highway-30-west",
+  "name": "Bass Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "325 Highway 30 West, IA",
+  "locationCity": "325 Highway 30 West",
+  "locationState": "IA",
+  "locationZipcode": "52314",
+  "lat": 41.9162920810359,
+  "lon": -91.4254153332732,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.668Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.668Z"
+}

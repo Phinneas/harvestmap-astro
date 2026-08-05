@@ -1,0 +1,19 @@
+{
+  "slug": "market-at-la-grange-4970-antioch-rd",
+  "name": "Market at La Grange",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4970 Antioch Rd, VA",
+  "locationCity": "4970 Antioch Rd",
+  "locationState": "VA",
+  "locationZipcode": "20169",
+  "lat": 38.85236499979916,
+  "lon": -77.68562840465607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

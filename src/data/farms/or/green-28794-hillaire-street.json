@@ -1,0 +1,19 @@
+{
+  "slug": "green-28794-hillaire-street",
+  "name": "Green",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "28794 Hillaire Street, OR",
+  "locationCity": "28794 Hillaire Street",
+  "locationState": "OR",
+  "locationZipcode": "28794",
+  "lat": 44.07386899649811,
+  "lon": -123.2121830355433,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.065Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.065Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "adams-family-farm-15-higley-hill",
+  "name": "Adams Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15 Higley Hill, VT",
+  "locationCity": "15 Higley Hill",
+  "locationState": "VT",
+  "locationZipcode": "05363",
+  "lat": 42.9025629874797,
+  "lon": -72.8480890266821,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.810Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.810Z"
+}

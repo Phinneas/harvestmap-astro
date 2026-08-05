@@ -1,0 +1,19 @@
+{
+  "slug": "yankee-farmer-s-market-360-route-103-e",
+  "name": "Yankee Farmer's Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "360 Route 103 E, NH",
+  "locationCity": "360 Route 103 E",
+  "locationState": "NH",
+  "locationZipcode": "03278",
+  "lat": 43.258450968777026,
+  "lon": -71.76897381049068,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.612Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.612Z"
+}

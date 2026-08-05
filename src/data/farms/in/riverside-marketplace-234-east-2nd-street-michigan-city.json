@@ -1,0 +1,19 @@
+{
+  "slug": "riverside-marketplace-234-east-2nd-street-michigan-city",
+  "name": "Riverside Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "234 East 2nd Street Michigan City, IN",
+  "locationCity": "234 East 2nd Street Michigan City",
+  "locationState": "IN",
+  "locationZipcode": "46360",
+  "lat": 41.72151608027557,
+  "lon": -86.90012979350645,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

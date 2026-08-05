@@ -1,0 +1,19 @@
+{
+  "slug": "st-andrews-waterfront-farmers-market-3151-w-10th-st-panama-city",
+  "name": "St. Andrews Waterfront Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3151 W 10th St Panama City, FL",
+  "locationCity": "3151 W 10th St Panama City",
+  "locationState": "FL",
+  "locationZipcode": "32401",
+  "lat": 30.167594605480282,
+  "lon": -85.70301215016458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ttl-farms-407-north-ridge",
+  "name": "TTL Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "407 North Ridge, MO",
+  "locationCity": "407 North Ridge",
+  "locationState": "MO",
+  "locationZipcode": "64493",
+  "lat": 39.6463920034684,
+  "lon": -94.3193949918819,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.772Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.772Z"
+}

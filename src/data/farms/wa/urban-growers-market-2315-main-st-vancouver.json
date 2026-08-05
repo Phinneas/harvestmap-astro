@@ -1,0 +1,19 @@
+{
+  "slug": "urban-growers-market-2315-main-st-vancouver",
+  "name": "Urban Growers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2315 Main St. Vancouver, WA",
+  "locationCity": "2315 Main St. Vancouver",
+  "locationState": "WA",
+  "locationZipcode": "98660",
+  "lat": 45.63880244782497,
+  "lon": -122.67141578955712,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

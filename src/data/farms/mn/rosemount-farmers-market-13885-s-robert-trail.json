@@ -1,0 +1,19 @@
+{
+  "slug": "rosemount-farmers-market-13885-s-robert-trail",
+  "name": "Rosemount Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13885 S Robert Trail, MN",
+  "locationCity": "13885 S Robert Trail",
+  "locationState": "MN",
+  "locationZipcode": "13885",
+  "lat": 44.7478891,
+  "lon": -93.1274504,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

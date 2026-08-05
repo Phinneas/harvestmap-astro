@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-country-market-1-main-st",
+  "name": "Downtown Country Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Main St, NY",
+  "locationCity": "1 Main St",
+  "locationState": "NY",
+  "locationZipcode": "14203",
+  "lat": 42.87600306156384,
+  "lon": -78.87751947660522,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

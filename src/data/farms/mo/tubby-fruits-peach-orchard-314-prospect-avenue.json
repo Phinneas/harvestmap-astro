@@ -1,0 +1,19 @@
+{
+  "slug": "tubby-fruits-peach-orchard-314-prospect-avenue",
+  "name": "Tubby Fruits Peach Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "314 Prospect Avenue, MO",
+  "locationCity": "314 Prospect Avenue",
+  "locationState": "MO",
+  "locationZipcode": "64734",
+  "lat": 38.7106389058756,
+  "lon": -94.5729784743186,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.755Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.755Z"
+}

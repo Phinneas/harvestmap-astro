@@ -1,0 +1,19 @@
+{
+  "slug": "highway-45-market-1401-a-st-stephens-road",
+  "name": "Highway 45 Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1401 A St. Stephens Road, AL",
+  "locationCity": "1401 A St. Stephens Road",
+  "locationState": "AL",
+  "locationZipcode": "36612",
+  "lat": 30.731634018352082,
+  "lon": -88.10352001716547,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

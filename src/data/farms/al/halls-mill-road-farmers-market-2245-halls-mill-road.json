@@ -1,0 +1,19 @@
+{
+  "slug": "halls-mill-road-farmers-market-2245-halls-mill-road",
+  "name": "Halls Mill Road Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2245 Halls Mill Road, AL",
+  "locationCity": "2245 Halls Mill Road",
+  "locationState": "AL",
+  "locationZipcode": "36606",
+  "lat": 30.659704896803788,
+  "lon": -88.0975803525508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

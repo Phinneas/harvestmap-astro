@@ -1,0 +1,19 @@
+{
+  "slug": "wise-farmers-market-309-e-main-st",
+  "name": "Wise Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "309 E Main St, VA",
+  "locationCity": "309 E Main St",
+  "locationState": "VA",
+  "locationZipcode": "24293",
+  "lat": 36.97690546823793,
+  "lon": -82.57834982324603,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

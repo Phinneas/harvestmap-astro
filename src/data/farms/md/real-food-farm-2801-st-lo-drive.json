@@ -1,0 +1,19 @@
+{
+  "slug": "real-food-farm-2801-st-lo-drive",
+  "name": "Real Food Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2801 St. Lo Drive, MD",
+  "locationCity": "2801 St. Lo Drive",
+  "locationState": "MD",
+  "locationZipcode": "21213",
+  "lat": 39.31765158163273,
+  "lon": -76.58531319190996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.728Z"
+}

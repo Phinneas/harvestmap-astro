@@ -1,0 +1,19 @@
+{
+  "slug": "geers-farms-592-west-geers-road",
+  "name": "Geers Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "592 West Geers Road, MI",
+  "locationCity": "592 West Geers Road",
+  "locationState": "MI",
+  "locationZipcode": "49657",
+  "lat": 44.2077751018648,
+  "lon": -85.1056375316127,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.572Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.572Z"
+}

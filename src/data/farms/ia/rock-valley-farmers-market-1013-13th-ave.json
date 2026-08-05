@@ -1,0 +1,19 @@
+{
+  "slug": "rock-valley-farmers-market-1013-13th-ave",
+  "name": "Rock Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1013 13th Ave, IA",
+  "locationCity": "1013 13th Ave",
+  "locationState": "IA",
+  "locationZipcode": "51247",
+  "lat": 43.200223,
+  "lon": -96.300832,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.574Z"
+}

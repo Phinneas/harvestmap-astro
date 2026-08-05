@@ -1,0 +1,19 @@
+{
+  "slug": "riverside-farmers-market-603-pioneer-ave-oakland",
+  "name": "Riverside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "603 Pioneer Ave. Oakland, IA",
+  "locationCity": "603 Pioneer Ave. Oakland",
+  "locationState": "IA",
+  "locationZipcode": "51560",
+  "lat": 41.30129748823487,
+  "lon": -95.4019208447325,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

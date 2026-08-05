@@ -1,0 +1,19 @@
+{
+  "slug": "granite-falls-farmers-market-685-prentice-st",
+  "name": "Granite Falls Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "685 Prentice St, MN",
+  "locationCity": "685 Prentice St",
+  "locationState": "MN",
+  "locationZipcode": "56241",
+  "lat": 44.811451,
+  "lon": -95.5374702,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

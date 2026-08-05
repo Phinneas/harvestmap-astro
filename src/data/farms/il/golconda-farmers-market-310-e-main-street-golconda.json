@@ -1,0 +1,19 @@
+{
+  "slug": "golconda-farmers-market-310-e-main-street-golconda",
+  "name": "Golconda Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "310 E. Main Street Golconda, IL",
+  "locationCity": "310 E. Main Street Golconda",
+  "locationState": "IL",
+  "locationZipcode": "62938",
+  "lat": 37.367082348316636,
+  "lon": -88.48486641697048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

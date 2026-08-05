@@ -1,0 +1,19 @@
+{
+  "slug": "townsend-farms-810-freemason-road",
+  "name": "Townsend Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "810 Freemason Road, NC",
+  "locationCity": "810 Freemason Road",
+  "locationState": "NC",
+  "locationZipcode": "28638",
+  "lat": 35.8076884044863,
+  "lon": -81.5104634872994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.889Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.889Z"
+}

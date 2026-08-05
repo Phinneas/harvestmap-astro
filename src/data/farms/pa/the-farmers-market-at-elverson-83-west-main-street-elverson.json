@@ -1,0 +1,19 @@
+{
+  "slug": "the-farmers-market-at-elverson-83-west-main-street-elverson",
+  "name": "The Farmers' Market at Elverson",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "83 West Main Street Elverson, PA",
+  "locationCity": "83 West Main Street Elverson",
+  "locationState": "PA",
+  "locationZipcode": "19520",
+  "lat": 40.15615653567423,
+  "lon": -75.8391079649285,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.068Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "squashington-farm-1129-lafollette-rd",
+  "name": "Squashington Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1129 LaFollette RD, WI",
+  "locationCity": "1129 LaFollette RD",
+  "locationState": "WI",
+  "locationZipcode": "53572",
+  "lat": 42.917209105993265,
+  "lon": -89.70330556375129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.012Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.012Z"
+}

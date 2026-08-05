@@ -1,0 +1,19 @@
+{
+  "slug": "lewiston-area-farmers-market-170-s-fremont-st",
+  "name": "Lewiston Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "170 S Fremont St, MN",
+  "locationCity": "170 S Fremont St",
+  "locationState": "MN",
+  "locationZipcode": "55952",
+  "lat": 43.9798594,
+  "lon": -91.8687857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

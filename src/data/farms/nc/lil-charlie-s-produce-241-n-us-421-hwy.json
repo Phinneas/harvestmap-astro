@@ -1,0 +1,19 @@
+{
+  "slug": "lil-charlie-s-produce-241-n-us-421-hwy",
+  "name": "Lil' Charlie's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "241 N. US 421 Hwy, NC",
+  "locationCity": "241 N. US 421 Hwy",
+  "locationState": "NC",
+  "locationZipcode": "28328",
+  "lat": 35.0163692606346,
+  "lon": -78.3453985135772,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.696Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.696Z"
+}

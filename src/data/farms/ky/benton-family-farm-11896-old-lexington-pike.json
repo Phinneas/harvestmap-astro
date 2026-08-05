@@ -2,20 +2,19 @@
   "slug": "benton-family-farm-11896-old-lexington-pike",
   "name": "Benton Family Farm",
   "source": "usda",
-  "directory": "agritourism",
-  "location": "11896 OLD LEXINGTON PIKE, KY",
-  "locationCity": "11896 OLD LEXINGTON PIKE",
+  "directory": "onfarmmarket",
+  "location": "11896 Old lexington Pike, KY",
+  "locationCity": "11896 Old lexington Pike",
   "locationState": "KY",
   "locationZipcode": "11896",
-  "lat": 38.9013659948955,
-  "lon": -84.6000180135481,
+  "lat": 38.8965,
+  "lon": -84.602742,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:28:00.099Z"
+      "lastSeen": "2026-08-05T18:41:19.334Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:28:00.099Z",
-  "website": "https://www.bentonfarm.com/",
+  "usdaLastUpdated": "2026-08-05T18:41:19.334Z",
   "tagline": "Benton Farms, Benton Family Farm"
 }

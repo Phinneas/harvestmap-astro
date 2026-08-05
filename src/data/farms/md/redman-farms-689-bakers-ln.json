@@ -1,0 +1,19 @@
+{
+  "slug": "redman-farms-689-bakers-ln",
+  "name": "Redman Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "689 Bakers Ln, MD",
+  "locationCity": "689 Bakers Ln",
+  "locationState": "MD",
+  "locationZipcode": "21620",
+  "lat": 39.2092958433033,
+  "lon": -76.1488282425259,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.182Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.182Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "terrapin-orchard-us-20",
+  "name": "Terrapin Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US 20, IL",
+  "locationCity": "US 20",
+  "locationState": "IL",
+  "locationZipcode": "60128",
+  "lat": 42.3143206944219,
+  "lon": -90.2180124870744,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.884Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.884Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "autry-vineyards-al-10",
+  "name": "Autry Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "AL 10, AL",
+  "locationCity": "AL 10",
+  "locationState": "AL",
+  "locationZipcode": "36784",
+  "lat": 32.0282484512051,
+  "lon": -87.647032681303,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.659Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.659Z"
+}

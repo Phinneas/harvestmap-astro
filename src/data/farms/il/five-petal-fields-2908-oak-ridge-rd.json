@@ -1,0 +1,19 @@
+{
+  "slug": "five-petal-fields-2908-oak-ridge-rd",
+  "name": "Five Petal Fields",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2908 Oak Ridge Rd, IL",
+  "locationCity": "2908 Oak Ridge Rd",
+  "locationState": "IL",
+  "locationZipcode": "60012",
+  "lat": 42.28582728760588,
+  "lon": -88.3447195069607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.487Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.487Z"
+}

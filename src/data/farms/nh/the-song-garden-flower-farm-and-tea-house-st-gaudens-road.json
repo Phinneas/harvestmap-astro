@@ -1,0 +1,20 @@
+{
+  "slug": "the-song-garden-flower-farm-and-tea-house-st-gaudens-road",
+  "name": "The Song Garden Flower Farm and Tea House",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "St. Gaudens Road, NH",
+  "locationCity": "St. Gaudens Road",
+  "locationState": "NH",
+  "locationZipcode": "03745",
+  "lat": 43.5009456315177,
+  "lon": -72.3503349911365,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.649Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.649Z",
+  "crops": []
+}

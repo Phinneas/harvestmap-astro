@@ -1,0 +1,19 @@
+{
+  "slug": "westhampton-beach-farmers-market-85-mill-road-westhampton-beach",
+  "name": "Westhampton Beach Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "85 Mill Road Westhampton Beach, NY",
+  "locationCity": "85 Mill Road Westhampton Beach",
+  "locationState": "NY",
+  "locationZipcode": "11978",
+  "lat": 40.81194373020802,
+  "lon": -72.64289285918946,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

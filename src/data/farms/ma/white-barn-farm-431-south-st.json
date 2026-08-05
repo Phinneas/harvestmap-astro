@@ -1,0 +1,19 @@
+{
+  "slug": "white-barn-farm-431-south-st",
+  "name": "White Barn Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "431 South St, MA",
+  "locationCity": "431 South St",
+  "locationState": "MA",
+  "locationZipcode": "02093",
+  "lat": 42.055729418774625,
+  "lon": -71.33859303770696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.287Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.287Z"
+}

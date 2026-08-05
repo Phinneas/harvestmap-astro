@@ -1,0 +1,19 @@
+{
+  "slug": "pope-s-strawberries-007-fayetteville-street",
+  "name": "Pope's Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "007 Fayetteville Street, NC",
+  "locationCity": "007 Fayetteville Street",
+  "locationState": "NC",
+  "locationZipcode": "27545",
+  "lat": 35.7878790850978,
+  "lon": -78.4803581302479,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.730Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.730Z"
+}

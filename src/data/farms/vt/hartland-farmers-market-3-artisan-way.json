@@ -1,0 +1,19 @@
+{
+  "slug": "hartland-farmers-market-3-artisan-way",
+  "name": "Hartland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3 Artisan Way, VT",
+  "locationCity": "3 Artisan Way",
+  "locationState": "VT",
+  "locationZipcode": "05089",
+  "lat": 43.51369798347059,
+  "lon": -72.40222500283375,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

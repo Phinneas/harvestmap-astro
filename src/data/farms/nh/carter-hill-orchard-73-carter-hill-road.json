@@ -1,0 +1,20 @@
+{
+  "slug": "carter-hill-orchard-73-carter-hill-road",
+  "name": "Carter Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "73 Carter Hill Road, NH",
+  "locationCity": "73 Carter Hill Road",
+  "locationState": "NH",
+  "locationZipcode": "03303",
+  "lat": 43.2322110017912,
+  "lon": -71.6105109972928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.684Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.684Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kennett-square-farmers-market-106-west-state-street-kennett-square",
+  "name": "Kennett Square Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 West State Street Kennett Square, PA",
+  "locationCity": "106 West State Street Kennett Square",
+  "locationState": "PA",
+  "locationZipcode": "19348",
+  "lat": 39.846506850006726,
+  "lon": -75.71252750403458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "creston-farmers-market-1696-highway-25-mail-only-creston",
+  "name": "Creston Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1696 Highway 25 (mail only) Creston, IA",
+  "locationCity": "1696 Highway 25 (mail only) Creston",
+  "locationState": "IA",
+  "locationZipcode": "50801",
+  "lat": 41.07341001325912,
+  "lon": -94.39499104134505,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

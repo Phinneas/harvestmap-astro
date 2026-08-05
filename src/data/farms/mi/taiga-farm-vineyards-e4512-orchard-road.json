@@ -1,0 +1,19 @@
+{
+  "slug": "taiga-farm-vineyards-e4512-orchard-road",
+  "name": "Taiga Farm & Vineyards",
+  "source": "usda",
+  "directory": "csa",
+  "location": "E4512 Orchard Road, MI",
+  "locationCity": "E4512 Orchard Road",
+  "locationState": "MI",
+  "locationZipcode": "49938",
+  "lat": 46.5426004,
+  "lon": -90.1868139,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.095Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.095Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "st-john-farmers-market-9660-wicker-avenue",
+  "name": "St. John Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9660 Wicker Avenue, IN",
+  "locationCity": "9660 Wicker Avenue",
+  "locationState": "IN",
+  "locationZipcode": "46373",
+  "lat": 41.444077,
+  "lon": -87.468144,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.614Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.614Z"
+}

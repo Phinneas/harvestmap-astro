@@ -1,0 +1,20 @@
+{
+  "slug": "chippewa-valley-produce-e9321-395th-ave",
+  "name": "Chippewa Valley Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "E9321 395th Ave, WI",
+  "locationCity": "E9321 395th Ave",
+  "locationState": "WI",
+  "locationZipcode": "54739",
+  "lat": 44.8238288,
+  "lon": -91.688474,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.007Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.007Z",
+  "crops": []
+}

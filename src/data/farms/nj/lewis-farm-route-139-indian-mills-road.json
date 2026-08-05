@@ -1,0 +1,19 @@
+{
+  "slug": "lewis-farm-route-139-indian-mills-road",
+  "name": "Lewis Farm Route",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "139 Indian Mills Road, NJ",
+  "locationCity": "139 Indian Mills Road",
+  "locationState": "NJ",
+  "locationZipcode": "08088",
+  "lat": 39.8007500000001,
+  "lon": -74.7457899999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.373Z"
+}

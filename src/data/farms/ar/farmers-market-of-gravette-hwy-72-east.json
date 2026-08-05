@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-of-gravette-hwy-72-east",
+  "name": "Farmers Market of Gravette",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hwy. 72 east, AR",
+  "locationCity": "Hwy. 72 east",
+  "locationState": "AR",
+  "locationZipcode": "72736",
+  "lat": 36.419093,
+  "lon": -94.446383,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.337Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.337Z"
+}

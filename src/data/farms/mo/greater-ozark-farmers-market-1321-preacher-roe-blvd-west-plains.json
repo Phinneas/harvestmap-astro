@@ -1,0 +1,19 @@
+{
+  "slug": "greater-ozark-farmers-market-1321-preacher-roe-blvd-west-plains",
+  "name": "Greater Ozark Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1321 Preacher Roe Blvd. West Plains, MO",
+  "locationCity": "1321 Preacher Roe Blvd. West Plains",
+  "locationState": "MO",
+  "locationZipcode": "65775",
+  "lat": 36.7151831131694,
+  "lon": -91.87409526752036,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

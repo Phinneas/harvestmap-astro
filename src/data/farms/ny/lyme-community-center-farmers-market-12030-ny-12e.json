@@ -1,0 +1,19 @@
+{
+  "slug": "lyme-community-center-farmers-market-12030-ny-12e",
+  "name": "Lyme Community Center Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12030 NY-12E, NY",
+  "locationCity": "12030 NY-12E",
+  "locationState": "NY",
+  "locationZipcode": "12030",
+  "lat": 44.06761526550367,
+  "lon": -76.13110337851982,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

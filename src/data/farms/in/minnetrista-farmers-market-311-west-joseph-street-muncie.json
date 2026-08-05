@@ -1,0 +1,19 @@
+{
+  "slug": "minnetrista-farmers-market-311-west-joseph-street-muncie",
+  "name": "Minnetrista Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "311 West Joseph Street Muncie, IN",
+  "locationCity": "311 West Joseph Street Muncie",
+  "locationState": "IN",
+  "locationZipcode": "47305",
+  "lat": 40.20645019755821,
+  "lon": -85.38933383021123,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

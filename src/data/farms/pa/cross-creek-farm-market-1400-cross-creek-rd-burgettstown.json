@@ -1,0 +1,19 @@
+{
+  "slug": "cross-creek-farm-market-1400-cross-creek-rd-burgettstown",
+  "name": "Cross Creek Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1400 Cross Creek rd. Burgettstown, PA",
+  "locationCity": "1400 Cross Creek rd. Burgettstown",
+  "locationState": "PA",
+  "locationZipcode": "15021",
+  "lat": 40.33709153075527,
+  "lon": -80.38728070197153,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fw-schmitt-farms-26-pinelawn-road",
+  "name": "FW Schmitt Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "26 PineLawn Road, NY",
+  "locationCity": "26 PineLawn Road",
+  "locationState": "NY",
+  "locationZipcode": "11747",
+  "lat": 40.786912539409,
+  "lon": -73.4136859390017,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.269Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.269Z"
+}

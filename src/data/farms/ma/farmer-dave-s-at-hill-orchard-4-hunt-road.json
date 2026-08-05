@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-dave-s-at-hill-orchard-4-hunt-road",
+  "name": "Farmer Dave's at Hill Orchard",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4 Hunt Road, MA",
+  "locationCity": "4 Hunt Road",
+  "locationState": "MA",
+  "locationZipcode": "01886",
+  "lat": 42.60051062917361,
+  "lon": -71.40832935059831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.280Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.280Z"
+}

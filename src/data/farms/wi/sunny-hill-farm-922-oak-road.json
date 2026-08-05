@@ -1,0 +1,19 @@
+{
+  "slug": "sunny-hill-farm-922-oak-road",
+  "name": "Sunny Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "922 Oak Road, WI",
+  "locationCity": "922 Oak Road",
+  "locationState": "WI",
+  "locationZipcode": "54313",
+  "lat": 44.5940651036962,
+  "lon": -88.119732178271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.210Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.210Z"
+}

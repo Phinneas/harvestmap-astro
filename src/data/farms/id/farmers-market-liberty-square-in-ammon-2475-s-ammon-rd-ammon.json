@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-liberty-square-in-ammon-2475-s-ammon-rd-ammon",
+  "name": "Farmers Market @ Liberty Square in Ammon",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2475 S. Ammon Rd. Ammon, ID",
+  "locationCity": "2475 S. Ammon Rd. Ammon",
+  "locationState": "ID",
+  "locationZipcode": "83406",
+  "lat": 43.47538200330484,
+  "lon": -111.96420589991915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:36.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:36.237Z"
+}

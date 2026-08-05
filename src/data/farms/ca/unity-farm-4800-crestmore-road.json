@@ -1,0 +1,19 @@
+{
+  "slug": "unity-farm-4800-crestmore-road",
+  "name": "Unity farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4800 Crestmore Road, CA",
+  "locationCity": "4800 Crestmore Road",
+  "locationState": "CA",
+  "locationZipcode": "92509",
+  "lat": 33.98146400879206,
+  "lon": -117.40958500532881,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

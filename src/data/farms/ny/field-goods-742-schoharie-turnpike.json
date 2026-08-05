@@ -1,0 +1,19 @@
+{
+  "slug": "field-goods-742-schoharie-turnpike",
+  "name": "Field Goods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "742 Schoharie Turnpike, NY",
+  "locationCity": "742 Schoharie Turnpike",
+  "locationState": "NY",
+  "locationZipcode": "12015",
+  "lat": 42.2847057,
+  "lon": -73.837219,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.987Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.987Z"
+}

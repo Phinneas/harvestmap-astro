@@ -1,0 +1,19 @@
+{
+  "slug": "vestal-farmers-market-320-vestal-pkwy-vestal",
+  "name": "Vestal Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 Vestal Pkwy Vestal, NY",
+  "locationCity": "320 Vestal Pkwy Vestal",
+  "locationState": "NY",
+  "locationZipcode": "13850",
+  "lat": 42.08776188754123,
+  "lon": -76.04696954434385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

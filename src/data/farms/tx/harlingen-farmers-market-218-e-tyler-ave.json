@@ -1,0 +1,19 @@
+{
+  "slug": "harlingen-farmers-market-218-e-tyler-ave",
+  "name": "Harlingen Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "218 E Tyler Ave, TX",
+  "locationCity": "218 E Tyler Ave",
+  "locationState": "TX",
+  "locationZipcode": "78550",
+  "lat": 26.189375,
+  "lon": -97.694079,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.052Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.052Z"
+}

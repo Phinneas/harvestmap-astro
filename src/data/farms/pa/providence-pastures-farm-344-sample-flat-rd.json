@@ -1,0 +1,19 @@
+{
+  "slug": "providence-pastures-farm-344-sample-flat-rd",
+  "name": "Providence Pastures Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "344 Sample Flat Rd., PA",
+  "locationCity": "344 Sample Flat Rd.",
+  "locationState": "PA",
+  "locationZipcode": "16407",
+  "lat": 41.909938391174975,
+  "lon": -79.60637852770594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

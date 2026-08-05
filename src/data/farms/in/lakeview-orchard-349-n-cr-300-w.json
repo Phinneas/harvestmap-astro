@@ -1,0 +1,19 @@
+{
+  "slug": "lakeview-orchard-349-n-cr-300-w",
+  "name": "Lakeview Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "349 N CR 300 W, IN",
+  "locationCity": "349 N CR 300 W",
+  "locationState": "IN",
+  "locationZipcode": "47635",
+  "lat": 37.9337513801905,
+  "lon": -87.1093981848167,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.274Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.274Z"
+}

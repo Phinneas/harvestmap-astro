@@ -1,0 +1,19 @@
+{
+  "slug": "joe-and-madison-s-blueberries-271-eldridge-drive",
+  "name": "Joe and Madison's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "271 Eldridge Drive, MS",
+  "locationCity": "271 Eldridge Drive",
+  "locationState": "MS",
+  "locationZipcode": "39574",
+  "lat": 30.5665972816721,
+  "lon": -89.2071710695169,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.664Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.664Z"
+}

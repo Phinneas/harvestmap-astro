@@ -1,0 +1,19 @@
+{
+  "slug": "shockley-farms-23184-seaside-road",
+  "name": "Shockley Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "23184 Seaside Road, VA",
+  "locationCity": "23184 Seaside Road",
+  "locationState": "VA",
+  "locationZipcode": "23184",
+  "lat": 37.26318898483328,
+  "lon": -75.94656003450349,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.406Z"
+}

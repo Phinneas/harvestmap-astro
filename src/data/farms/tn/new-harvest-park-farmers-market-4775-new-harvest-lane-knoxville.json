@@ -1,0 +1,19 @@
+{
+  "slug": "new-harvest-park-farmers-market-4775-new-harvest-lane-knoxville",
+  "name": "New Harvest Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4775 New Harvest Lane Knoxville, TN",
+  "locationCity": "4775 New Harvest Lane Knoxville",
+  "locationState": "TN",
+  "locationZipcode": "37918",
+  "lat": 36.03903944877372,
+  "lon": -83.88339070689142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

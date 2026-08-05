@@ -1,0 +1,19 @@
+{
+  "slug": "east-post-pumpkins-950-east-post-road",
+  "name": "East Post Pumpkins",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "950 East Post Road, IA",
+  "locationCity": "950 East Post Road",
+  "locationState": "IA",
+  "locationZipcode": "52302",
+  "lat": 42.0205754060883,
+  "lon": -91.5983006256129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.689Z"
+}

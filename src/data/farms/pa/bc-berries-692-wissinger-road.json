@@ -1,0 +1,19 @@
+{
+  "slug": "bc-berries-692-wissinger-road",
+  "name": "BC Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "692 Wissinger Road, PA",
+  "locationCity": "692 Wissinger Road",
+  "locationState": "PA",
+  "locationZipcode": "15521",
+  "lat": 40.15850902076741,
+  "lon": -78.64662895847421,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.217Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.217Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "holbrook-farm-market-45-turkey-plain-rd",
+  "name": "Holbrook Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "45 Turkey Plain RD, CT",
+  "locationCity": "45 Turkey Plain RD",
+  "locationState": "CT",
+  "locationZipcode": "06801",
+  "lat": 41.346284,
+  "lon": -73.416749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.071Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.071Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "eastbound-acres-194-beach-ave",
+  "name": "Eastbound Acres",
+  "source": "usda",
+  "directory": "csa",
+  "location": "194 Beach Ave, NJ",
+  "locationCity": "194 Beach Ave",
+  "locationState": "NJ",
+  "locationZipcode": "08050",
+  "lat": 39.69850594163802,
+  "lon": -74.24834990606101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.120Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.120Z",
+  "crops": []
+}

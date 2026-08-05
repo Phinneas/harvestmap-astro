@@ -1,0 +1,19 @@
+{
+  "slug": "everfresh-produce-3145-division-hwy",
+  "name": "Everfresh Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3145 Division Hwy, PA",
+  "locationCity": "3145 Division Hwy",
+  "locationState": "PA",
+  "locationZipcode": "17557",
+  "lat": 40.13106901670389,
+  "lon": -76.08388997432026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.219Z"
+}

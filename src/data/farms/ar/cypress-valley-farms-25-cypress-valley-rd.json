@@ -1,0 +1,19 @@
+{
+  "slug": "cypress-valley-farms-25-cypress-valley-rd",
+  "name": "Cypress Valley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "25 Cypress Valley Rd, AR",
+  "locationCity": "25 Cypress Valley Rd",
+  "locationState": "AR",
+  "locationZipcode": "72173",
+  "lat": 35.0906954869119,
+  "lon": -92.153834333715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.030Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.030Z"
+}

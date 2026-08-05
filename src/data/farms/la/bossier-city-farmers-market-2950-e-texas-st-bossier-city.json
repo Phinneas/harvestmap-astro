@@ -1,0 +1,19 @@
+{
+  "slug": "bossier-city-farmers-market-2950-e-texas-st-bossier-city",
+  "name": "Bossier City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2950 E Texas St Bossier City, LA",
+  "locationCity": "2950 E Texas St Bossier City",
+  "locationState": "LA",
+  "locationZipcode": "71111",
+  "lat": 32.52867920976648,
+  "lon": -93.70579980043088,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

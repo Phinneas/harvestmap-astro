@@ -1,0 +1,19 @@
+{
+  "slug": "old-school-farmers-market-1141-lincoln-road-allegan",
+  "name": "Old School Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1141 Lincoln Road Allegan, MI",
+  "locationCity": "1141 Lincoln Road Allegan",
+  "locationState": "MI",
+  "locationZipcode": "49010",
+  "lat": 42.50255987357679,
+  "lon": -85.79386182128559,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "schramm-farms-1002-blank-road",
+  "name": "Schramm Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1002 Blank Road, PA",
+  "locationCity": "1002 Blank Road",
+  "locationState": "PA",
+  "locationZipcode": "15644",
+  "lat": 40.37561605551495,
+  "lon": -79.63884780639818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.223Z",
+  "crops": []
+}

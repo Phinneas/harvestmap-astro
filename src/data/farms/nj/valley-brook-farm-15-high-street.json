@@ -1,0 +1,19 @@
+{
+  "slug": "valley-brook-farm-15-high-street",
+  "name": "Valley Brook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15 High Street, NJ",
+  "locationCity": "15 High Street",
+  "locationState": "NJ",
+  "locationZipcode": "08833",
+  "lat": 40.6416200000001,
+  "lon": -74.83752,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.768Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.768Z"
+}

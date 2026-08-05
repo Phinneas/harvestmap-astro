@@ -1,0 +1,19 @@
+{
+  "slug": "lehmans-orchard-280-portage-road",
+  "name": "Lehmans Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "280 Portage Road, MI",
+  "locationCity": "280 Portage Road",
+  "locationState": "MI",
+  "locationZipcode": "49120",
+  "lat": 41.7827916372296,
+  "lon": -86.3034368685793,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.597Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.597Z"
+}

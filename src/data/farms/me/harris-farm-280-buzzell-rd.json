@@ -1,0 +1,20 @@
+{
+  "slug": "harris-farm-280-buzzell-rd",
+  "name": "Harris Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "280 Buzzell Rd, ME",
+  "locationCity": "280 Buzzell Rd",
+  "locationState": "ME",
+  "locationZipcode": "04005",
+  "lat": 43.5288644924429,
+  "lon": -70.5743878197737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.791Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.791Z",
+  "crops": []
+}

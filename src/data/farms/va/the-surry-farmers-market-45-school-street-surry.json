@@ -1,0 +1,19 @@
+{
+  "slug": "the-surry-farmers-market-45-school-street-surry",
+  "name": "The Surry Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "45 School Street Surry, VA",
+  "locationCity": "45 School Street Surry",
+  "locationState": "VA",
+  "locationZipcode": "23883",
+  "lat": 37.13381777886574,
+  "lon": -76.83486806765096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

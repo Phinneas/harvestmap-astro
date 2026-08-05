@@ -1,0 +1,19 @@
+{
+  "slug": "beechwood-farm-551-ozier-road",
+  "name": "Beechwood Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "551 Ozier Road, TN",
+  "locationCity": "551 Ozier Road",
+  "locationState": "TN",
+  "locationZipcode": "38366",
+  "lat": 35.5056659949504,
+  "lon": -88.6827490053525,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.346Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.346Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "eno-river-farm-127-st-marys-road",
+  "name": "Eno River Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "127 St. Marys Road, NC",
+  "locationCity": "127 St. Marys Road",
+  "locationState": "NC",
+  "locationZipcode": "27278",
+  "lat": 36.1204121185193,
+  "lon": -78.9704301847347,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.811Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.811Z"
+}

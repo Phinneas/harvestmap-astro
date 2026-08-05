@@ -1,0 +1,19 @@
+{
+  "slug": "fran-ceil-orchard-203-mill-street",
+  "name": "Fran Ceil Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "203 Mill Street, WI",
+  "locationCity": "203 Mill Street",
+  "locationState": "WI",
+  "locationZipcode": "54634",
+  "lat": 43.65173,
+  "lon": -90.3411399999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.400Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.400Z"
+}

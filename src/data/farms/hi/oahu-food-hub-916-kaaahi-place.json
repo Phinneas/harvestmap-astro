@@ -1,0 +1,19 @@
+{
+  "slug": "oahu-food-hub-916-kaaahi-place",
+  "name": "Oahu Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "916 Kaaahi Place, HI",
+  "locationCity": "916 Kaaahi Place",
+  "locationState": "HI",
+  "locationZipcode": "96817",
+  "lat": 21.317136991451093,
+  "lon": -157.86506296967391,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:17.661Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:17.661Z"
+}

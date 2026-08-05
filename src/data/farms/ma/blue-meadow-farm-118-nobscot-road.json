@@ -1,0 +1,19 @@
+{
+  "slug": "blue-meadow-farm-118-nobscot-road",
+  "name": "Blue Meadow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "118 Nobscot Road, MA",
+  "locationCity": "118 Nobscot Road",
+  "locationState": "MA",
+  "locationZipcode": "01776",
+  "lat": 42.3529044735957,
+  "lon": -71.4312567894493,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.706Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.706Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "house-of-hope-farmers-market-797-summit-ave",
+  "name": "House of Hope Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "797 Summit Ave, MN",
+  "locationCity": "797 Summit Ave",
+  "locationState": "MN",
+  "locationZipcode": "55105",
+  "lat": 44.9419151,
+  "lon": -93.133193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

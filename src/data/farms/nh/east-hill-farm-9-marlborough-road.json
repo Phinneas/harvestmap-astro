@@ -1,0 +1,19 @@
+{
+  "slug": "east-hill-farm-9-marlborough-road",
+  "name": "East Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9 Marlborough Road, NH",
+  "locationCity": "9 Marlborough Road",
+  "locationState": "NH",
+  "locationZipcode": "03465",
+  "lat": 42.8321700000001,
+  "lon": -72.1849599999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.900Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.900Z"
+}

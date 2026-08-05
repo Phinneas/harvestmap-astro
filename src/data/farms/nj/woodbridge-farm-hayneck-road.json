@@ -1,0 +1,19 @@
+{
+  "slug": "woodbridge-farm-hayneck-road",
+  "name": "Woodbridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hayneck Road, NJ",
+  "locationCity": "Hayneck Road",
+  "locationState": "NJ",
+  "locationZipcode": "08345",
+  "lat": 39.3008270064838,
+  "lon": -75.1768190204989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.369Z"
+}

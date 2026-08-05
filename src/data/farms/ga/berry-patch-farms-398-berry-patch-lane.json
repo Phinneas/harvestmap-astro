@@ -1,0 +1,19 @@
+{
+  "slug": "berry-patch-farms-398-berry-patch-lane",
+  "name": "Berry Patch Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "398 Berry Patch Lane, GA",
+  "locationCity": "398 Berry Patch Lane",
+  "locationState": "GA",
+  "locationZipcode": "30188",
+  "lat": 34.1092850147324,
+  "lon": -84.4236940352357,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.359Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.359Z"
+}

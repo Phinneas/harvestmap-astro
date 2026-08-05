@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-south-market-100-north-peachtree-parkway-peachtree-city",
+  "name": "Fresh South Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 North Peachtree Parkway Peachtree City, GA",
+  "locationCity": "100 North Peachtree Parkway Peachtree City",
+  "locationState": "GA",
+  "locationZipcode": "30269",
+  "lat": 33.407809630774175,
+  "lon": -84.56892674927711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pigmans-produce-10633-steilacoom-rd-se",
+  "name": "Pigmans Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10633 Steilacoom Rd SE, WA",
+  "locationCity": "10633 Steilacoom Rd SE",
+  "locationState": "WA",
+  "locationZipcode": "10633",
+  "lat": 47.05326999866091,
+  "lon": -122.7150139690912,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.410Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.410Z"
+}

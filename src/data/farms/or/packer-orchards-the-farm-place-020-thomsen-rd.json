@@ -1,0 +1,19 @@
+{
+  "slug": "packer-orchards-the-farm-place-020-thomsen-rd",
+  "name": "Packer Orchards, The Farm Place",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "020 Thomsen Rd, OR",
+  "locationCity": "020 Thomsen Rd",
+  "locationState": "OR",
+  "locationZipcode": "97031",
+  "lat": 45.6276839443804,
+  "lon": -121.503299419996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.859Z"
+}

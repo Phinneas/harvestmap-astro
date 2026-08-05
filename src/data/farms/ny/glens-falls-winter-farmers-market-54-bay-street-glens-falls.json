@@ -1,0 +1,19 @@
+{
+  "slug": "glens-falls-winter-farmers-market-54-bay-street-glens-falls",
+  "name": "Glens Falls Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "54 Bay Street Glens Falls, NY",
+  "locationCity": "54 Bay Street Glens Falls",
+  "locationState": "NY",
+  "locationZipcode": "12801",
+  "lat": 43.31350818730559,
+  "lon": -73.64732176191656,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

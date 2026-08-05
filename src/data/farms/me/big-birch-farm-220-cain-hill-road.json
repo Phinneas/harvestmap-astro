@@ -1,0 +1,19 @@
+{
+  "slug": "big-birch-farm-220-cain-hill-road",
+  "name": "Big Birch Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "220 Cain Hill Road, ME",
+  "locationCity": "220 Cain Hill Road",
+  "locationState": "ME",
+  "locationZipcode": "04354",
+  "lat": 44.38293478655766,
+  "lon": -69.44669209860577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.057Z"
+}

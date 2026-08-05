@@ -1,0 +1,19 @@
+{
+  "slug": "pulaski-farmers-market-67-commerce-street-pulaski",
+  "name": "Pulaski Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "67 Commerce Street Pulaski, VA",
+  "locationCity": "67 Commerce Street Pulaski",
+  "locationState": "VA",
+  "locationZipcode": "24301",
+  "lat": 37.04600607961743,
+  "lon": -80.7815687746367,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

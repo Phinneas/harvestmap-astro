@@ -1,0 +1,19 @@
+{
+  "slug": "dallas-county-farmer-s-market-206-west-3rd-st",
+  "name": "Dallas County Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "206 West 3rd St., AR",
+  "locationCity": "206 West 3rd St.",
+  "locationState": "AR",
+  "locationZipcode": "71742",
+  "lat": 33.812858,
+  "lon": -92.41424,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.337Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.337Z"
+}

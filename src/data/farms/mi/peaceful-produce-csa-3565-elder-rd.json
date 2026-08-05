@@ -1,0 +1,19 @@
+{
+  "slug": "peaceful-produce-csa-3565-elder-rd",
+  "name": "Peaceful Produce CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3565 Elder Rd., MI",
+  "locationCity": "3565 Elder Rd.",
+  "locationState": "MI",
+  "locationZipcode": "49718",
+  "lat": 45.710241,
+  "lon": -84.843071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.093Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.093Z"
+}

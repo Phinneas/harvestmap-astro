@@ -1,0 +1,19 @@
+{
+  "slug": "daily-blessings-farm-485-daily-lane",
+  "name": "Daily Blessings Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "485 Daily Lane, OR",
+  "locationCity": "485 Daily Lane",
+  "locationState": "OR",
+  "locationZipcode": "97527",
+  "lat": 42.41158923712166,
+  "lon": -123.48390103480028,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.960Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.960Z"
+}

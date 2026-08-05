@@ -1,0 +1,19 @@
+{
+  "slug": "schneider-orchard-036-county-road",
+  "name": "Schneider Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "036 County Road, IL",
+  "locationCity": "036 County Road",
+  "locationState": "IL",
+  "locationZipcode": "61537",
+  "lat": 41.089831933209,
+  "lon": -89.4921746689468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.930Z"
+}

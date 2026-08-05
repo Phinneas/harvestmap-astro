@@ -1,0 +1,19 @@
+{
+  "slug": "kimball-s-upick-107-sarepta-road",
+  "name": "Kimball's Upick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "107 Sarepta Road, NJ",
+  "locationCity": "107 Sarepta Road",
+  "locationState": "NJ",
+  "locationZipcode": "07823",
+  "lat": 40.8515109870823,
+  "lon": -75.0361079885792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.655Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.655Z"
+}

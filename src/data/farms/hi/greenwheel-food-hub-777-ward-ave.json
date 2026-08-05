@@ -1,0 +1,19 @@
+{
+  "slug": "greenwheel-food-hub-777-ward-ave",
+  "name": "GreenWheel Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "777 Ward Ave, HI",
+  "locationCity": "777 Ward Ave",
+  "locationState": "HI",
+  "locationZipcode": "96814",
+  "lat": 21.298998008155735,
+  "lon": -157.85034602407848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:17.662Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:17.662Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dresden-farmers-market-421-linden-street-dresden",
+  "name": "Dresden Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "421 Linden Street Dresden, TN",
+  "locationCity": "421 Linden Street Dresden",
+  "locationState": "TN",
+  "locationZipcode": "38225",
+  "lat": 36.285237254534636,
+  "lon": -88.70596782050033,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

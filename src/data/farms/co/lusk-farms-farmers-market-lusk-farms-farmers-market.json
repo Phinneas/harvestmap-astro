@@ -1,0 +1,19 @@
+{
+  "slug": "lusk-farms-farmers-market-lusk-farms-farmers-market",
+  "name": "Lusk Farms Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Lusk Farms Farmers Market, CO",
+  "locationCity": "Lusk Farms Farmers Market",
+  "locationState": "CO",
+  "locationZipcode": "26020",
+  "lat": 38.00406947810906,
+  "lon": -103.60091969300993,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

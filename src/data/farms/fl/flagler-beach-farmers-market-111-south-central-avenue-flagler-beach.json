@@ -1,0 +1,19 @@
+{
+  "slug": "flagler-beach-farmers-market-111-south-central-avenue-flagler-beach",
+  "name": "Flagler Beach Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 South Central Avenue Flagler Beach, FL",
+  "locationCity": "111 South Central Avenue Flagler Beach",
+  "locationState": "FL",
+  "locationZipcode": "32136",
+  "lat": 29.480813034623008,
+  "lon": -81.12833150131569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

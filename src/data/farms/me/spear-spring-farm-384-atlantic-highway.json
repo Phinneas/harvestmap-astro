@@ -1,0 +1,19 @@
+{
+  "slug": "spear-spring-farm-384-atlantic-highway",
+  "name": "Spear Spring Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "384 Atlantic Highway, ME",
+  "locationCity": "384 Atlantic Highway",
+  "locationState": "ME",
+  "locationZipcode": "04864",
+  "lat": 44.0841893035128,
+  "lon": -69.2283844878168,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.855Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.855Z"
+}

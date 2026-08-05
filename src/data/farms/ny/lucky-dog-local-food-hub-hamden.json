@@ -1,0 +1,19 @@
+{
+  "slug": "lucky-dog-local-food-hub-hamden",
+  "name": "Lucky Dog Local Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Hamden, NY",
+  "locationCity": "Hamden",
+  "locationState": "NY",
+  "locationZipcode": "13782",
+  "lat": 42.1911969,
+  "lon": -74.994608,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.985Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.985Z"
+}

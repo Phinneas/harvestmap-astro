@@ -1,0 +1,19 @@
+{
+  "slug": "erie-farmers-market-515-briggs-st-erie",
+  "name": "Erie Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "515 Briggs St Erie, CO",
+  "locationCity": "515 Briggs St Erie",
+  "locationState": "CO",
+  "locationZipcode": "80516",
+  "lat": 40.049239169846956,
+  "lon": -105.04741268150508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

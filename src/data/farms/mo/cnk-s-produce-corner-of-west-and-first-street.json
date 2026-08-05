@@ -1,0 +1,19 @@
+{
+  "slug": "cnk-s-produce-corner-of-west-and-first-street",
+  "name": "CnK's Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Corner Of West And First Street, MO",
+  "locationCity": "Corner Of West And First Street",
+  "locationState": "MO",
+  "locationZipcode": "63459",
+  "lat": 39.58818999565588,
+  "lon": -91.40548603208991,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:58.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:58.522Z"
+}

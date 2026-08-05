@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-4th-street-court-ave-des-moines",
+  "name": "Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4th Street & Court Ave Des Moines, IA",
+  "locationCity": "4th Street & Court Ave Des Moines",
+  "locationState": "IA",
+  "locationZipcode": "50309",
+  "lat": 41.58504000007409,
+  "lon": -93.62165997439142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

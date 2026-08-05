@@ -1,0 +1,19 @@
+{
+  "slug": "big-cypress-farm-235-williams-road",
+  "name": "Big Cypress Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "235 Williams Road, NC",
+  "locationCity": "235 Williams Road",
+  "locationState": "NC",
+  "locationZipcode": "28409",
+  "lat": 34.1021303060009,
+  "lon": -77.8806494073387,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.838Z"
+}

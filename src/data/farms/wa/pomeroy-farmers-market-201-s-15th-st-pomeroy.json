@@ -1,0 +1,19 @@
+{
+  "slug": "pomeroy-farmers-market-201-s-15th-st-pomeroy",
+  "name": "Pomeroy Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 S 15th St Pomeroy, WA",
+  "locationCity": "201 S 15th St Pomeroy",
+  "locationState": "WA",
+  "locationZipcode": "99347",
+  "lat": 46.471219611044226,
+  "lon": -117.59012774654038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

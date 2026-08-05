@@ -1,0 +1,19 @@
+{
+  "slug": "mt-morris-community-farmers-market-5-w-hitt-mount-morris",
+  "name": "Mt. Morris Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5 W. Hitt Mount Morris, IL",
+  "locationCity": "5 W. Hitt Mount Morris",
+  "locationState": "IL",
+  "locationZipcode": "61054",
+  "lat": 42.04954342574165,
+  "lon": -89.43365650022346,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

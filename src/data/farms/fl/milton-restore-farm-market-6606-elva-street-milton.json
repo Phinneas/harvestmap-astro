@@ -1,0 +1,19 @@
+{
+  "slug": "milton-restore-farm-market-6606-elva-street-milton",
+  "name": "Milton ReStore Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6606 Elva Street Milton, FL",
+  "locationCity": "6606 Elva Street Milton",
+  "locationState": "FL",
+  "locationZipcode": "32570",
+  "lat": 30.622656808956467,
+  "lon": -87.0470734073402,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

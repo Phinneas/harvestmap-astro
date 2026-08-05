@@ -1,0 +1,19 @@
+{
+  "slug": "cain-city-orchard-446-3rd-rd",
+  "name": "Cain City Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "446 3rd Rd, KS",
+  "locationCity": "446 3rd Rd",
+  "locationState": "KS",
+  "locationZipcode": "67427",
+  "lat": 38.4711701364604,
+  "lon": -98.4432168314095,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.072Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.072Z"
+}

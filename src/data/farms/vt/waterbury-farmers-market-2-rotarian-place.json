@@ -1,0 +1,19 @@
+{
+  "slug": "waterbury-farmers-market-2-rotarian-place",
+  "name": "Waterbury Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 Rotarian Place, VT",
+  "locationCity": "2 Rotarian Place",
+  "locationState": "VT",
+  "locationZipcode": "05676",
+  "lat": 44.33508961315038,
+  "lon": -72.75209416012439,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

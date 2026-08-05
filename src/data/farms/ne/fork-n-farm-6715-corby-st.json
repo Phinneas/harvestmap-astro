@@ -1,0 +1,19 @@
+{
+  "slug": "fork-n-farm-6715-corby-st",
+  "name": "Fork N Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6715 Corby St, NE",
+  "locationCity": "6715 Corby St",
+  "locationState": "NE",
+  "locationZipcode": "68104",
+  "lat": 41.2836075,
+  "lon": -96.0172033,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:48.524Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:48.524Z"
+}

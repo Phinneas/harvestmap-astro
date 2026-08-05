@@ -1,0 +1,19 @@
+{
+  "slug": "green-river-farms-480-green-river-road",
+  "name": "Green River Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "480 Green River Road, MA",
+  "locationCity": "480 Green River Road",
+  "locationState": "MA",
+  "locationZipcode": "01267",
+  "lat": 42.6940172250364,
+  "lon": -73.2005228824492,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.492Z"
+}

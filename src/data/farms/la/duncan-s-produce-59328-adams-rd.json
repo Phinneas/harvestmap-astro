@@ -1,0 +1,19 @@
+{
+  "slug": "duncan-s-produce-59328-adams-rd",
+  "name": "Duncan's Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "59328 Adams Rd, LA",
+  "locationCity": "59328 Adams Rd",
+  "locationState": "LA",
+  "locationZipcode": "59328",
+  "lat": 30.77436299099324,
+  "lon": -89.89660499146981,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ramapo-farmers-market-920-route-45-pomona",
+  "name": "Ramapo Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "920 Route 45 Pomona, NY",
+  "locationCity": "920 Route 45 Pomona",
+  "locationState": "NY",
+  "locationZipcode": "10970",
+  "lat": 41.174059979837025,
+  "lon": -74.03194140050944,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

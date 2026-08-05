@@ -1,0 +1,19 @@
+{
+  "slug": "plainfield-township-farmers-market-hale-220-west-washington",
+  "name": "Plainfield Township Farmers Market Hale",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 West Washington, MI",
+  "locationCity": "220 West Washington",
+  "locationState": "MI",
+  "locationZipcode": "48739",
+  "lat": 44.380388,
+  "lon": -83.804474,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.200Z"
+}

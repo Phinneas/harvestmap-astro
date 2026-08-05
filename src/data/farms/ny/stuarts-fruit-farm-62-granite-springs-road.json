@@ -1,0 +1,20 @@
+{
+  "slug": "stuarts-fruit-farm-62-granite-springs-road",
+  "name": "Stuarts Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "62 Granite Springs Road, NY",
+  "locationCity": "62 Granite Springs Road",
+  "locationState": "NY",
+  "locationZipcode": "10527",
+  "lat": 41.3072441990055,
+  "lon": -73.7653606728489,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.074Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.074Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "morganic-farm-8040-m-113-e",
+  "name": "Morganic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8040 M 113 E, MI",
+  "locationCity": "8040 M 113 E",
+  "locationState": "MI",
+  "locationZipcode": "49633",
+  "lat": 44.56883869368115,
+  "lon": -85.4142909579276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.109Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.109Z"
+}

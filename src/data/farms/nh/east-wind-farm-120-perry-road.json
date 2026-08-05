@@ -1,0 +1,20 @@
+{
+  "slug": "east-wind-farm-120-perry-road",
+  "name": "East Wind Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "120 Perry Road, NH",
+  "locationCity": "120 Perry Road",
+  "locationState": "NH",
+  "locationZipcode": "03884",
+  "lat": 43.3075529957691,
+  "lon": -71.1787750065228,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.470Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.470Z",
+  "crops": []
+}

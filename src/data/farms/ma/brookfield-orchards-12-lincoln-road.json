@@ -1,0 +1,19 @@
+{
+  "slug": "brookfield-orchards-12-lincoln-road",
+  "name": "Brookfield Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12 Lincoln Road, MA",
+  "locationCity": "12 Lincoln Road",
+  "locationState": "MA",
+  "locationZipcode": "01535",
+  "lat": 42.2586070151341,
+  "lon": -72.0626325309568,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.468Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.468Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wheaton-farmers-market-7th-st-s",
+  "name": "Wheaton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7th St S, MN",
+  "locationCity": "7th St S",
+  "locationState": "MN",
+  "locationZipcode": "56296",
+  "lat": 45.8023161,
+  "lon": -96.492704,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

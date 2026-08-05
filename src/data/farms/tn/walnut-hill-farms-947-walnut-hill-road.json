@@ -1,0 +1,19 @@
+{
+  "slug": "walnut-hill-farms-947-walnut-hill-road",
+  "name": "Walnut Hill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "947 Walnut Hill Road, TN",
+  "locationCity": "947 Walnut Hill Road",
+  "locationState": "TN",
+  "locationZipcode": "37306",
+  "lat": 35.1005819836168,
+  "lon": -86.2005819874818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.261Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.261Z"
+}

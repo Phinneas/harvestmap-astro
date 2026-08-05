@@ -1,0 +1,19 @@
+{
+  "slug": "valley-farms-125-dietrich-rd",
+  "name": "Valley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "125 Dietrich Rd, MO",
+  "locationCity": "125 Dietrich Rd",
+  "locationState": "MO",
+  "locationZipcode": "63348",
+  "lat": 38.8700327026207,
+  "lon": -90.9510592320066,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.766Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.766Z"
+}

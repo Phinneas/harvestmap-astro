@@ -1,0 +1,19 @@
+{
+  "slug": "bettendorf-farmers-market-2850-18th-st-bettendorf",
+  "name": "Bettendorf Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2850 18th St. Bettendorf, IA",
+  "locationCity": "2850 18th St. Bettendorf",
+  "locationState": "IA",
+  "locationZipcode": "52722",
+  "lat": 41.5519516,
+  "lon": -90.5007298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.620Z"
+}

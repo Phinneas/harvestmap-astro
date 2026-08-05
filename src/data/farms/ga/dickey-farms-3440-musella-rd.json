@@ -1,0 +1,20 @@
+{
+  "slug": "dickey-farms-3440-musella-rd",
+  "name": "Dickey Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3440 Musella Rd, GA",
+  "locationCity": "3440 Musella Rd",
+  "locationState": "GA",
+  "locationZipcode": "31066",
+  "lat": 32.7977200098325,
+  "lon": -84.0287599638238,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.283Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.283Z",
+  "crops": []
+}

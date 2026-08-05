@@ -1,0 +1,19 @@
+{
+  "slug": "deluxe-harvest-43026-happywoods-rd",
+  "name": "Deluxe Harvest",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "43026 Happywoods Rd, LA",
+  "locationCity": "43026 Happywoods Rd",
+  "locationState": "LA",
+  "locationZipcode": "43026",
+  "lat": 30.480179982483477,
+  "lon": -90.4989940163209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

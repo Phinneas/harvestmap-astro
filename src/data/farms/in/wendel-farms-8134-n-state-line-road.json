@@ -1,0 +1,20 @@
+{
+  "slug": "wendel-farms-8134-n-state-line-road",
+  "name": "Wendel Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8134 N. State Line Road, IN",
+  "locationCity": "8134 N. State Line Road",
+  "locationState": "IN",
+  "locationZipcode": "47012",
+  "lat": 39.415732002545,
+  "lon": -84.8175389621488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.234Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.234Z",
+  "crops": []
+}

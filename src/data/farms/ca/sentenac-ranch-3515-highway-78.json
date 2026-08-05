@@ -1,0 +1,19 @@
+{
+  "slug": "sentenac-ranch-3515-highway-78",
+  "name": "Sentenac Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3515 Highway 78, CA",
+  "locationCity": "3515 Highway 78",
+  "locationState": "CA",
+  "locationZipcode": "92036",
+  "lat": 33.0743229822602,
+  "lon": -116.641323983968,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.800Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.800Z"
+}

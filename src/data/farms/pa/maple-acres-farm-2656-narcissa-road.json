@@ -1,0 +1,20 @@
+{
+  "slug": "maple-acres-farm-2656-narcissa-road",
+  "name": "Maple Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2656 Narcissa Road, PA",
+  "locationCity": "2656 Narcissa Road",
+  "locationState": "PA",
+  "locationZipcode": "19462",
+  "lat": 40.1181890070989,
+  "lon": -75.2730759583754,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.101Z",
+  "crops": []
+}

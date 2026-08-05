@@ -1,0 +1,19 @@
+{
+  "slug": "moon-farm-3981-jones-rd",
+  "name": "Moon Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3981 Jones Rd., OH",
+  "locationCity": "3981 Jones Rd.",
+  "locationState": "OH",
+  "locationZipcode": "44412",
+  "lat": 41.09794053300189,
+  "lon": -81.01303636143591,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.464Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.464Z"
+}

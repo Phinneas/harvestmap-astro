@@ -1,0 +1,20 @@
+{
+  "slug": "highland-orchards-farm-market-1431-foulk-rd",
+  "name": "Highland Orchards Farm Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1431 Foulk Rd, DE",
+  "locationCity": "1431 Foulk Rd",
+  "locationState": "DE",
+  "locationZipcode": "19803",
+  "lat": 39.8022311,
+  "lon": -75.521364,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:39.457Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:39.457Z",
+  "crops": []
+}

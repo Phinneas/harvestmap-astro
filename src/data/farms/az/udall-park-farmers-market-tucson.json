@@ -1,0 +1,19 @@
+{
+  "slug": "udall-park-farmers-market-tucson",
+  "name": "Udall Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Tucson, AZ",
+  "locationCity": "Tucson",
+  "locationState": "AZ",
+  "locationZipcode": "85714",
+  "lat": 32.17041500000005,
+  "lon": -110.97124999999994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.031Z"
+}

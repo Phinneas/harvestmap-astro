@@ -1,0 +1,19 @@
+{
+  "slug": "lincoln-square-farmers-market-2309-w-leland-ave-chicago",
+  "name": "Lincoln Square Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2309 W. Leland Ave. Chicago, IL",
+  "locationCity": "2309 W. Leland Ave. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60625",
+  "lat": 41.96679576510555,
+  "lon": -87.68761576020032,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

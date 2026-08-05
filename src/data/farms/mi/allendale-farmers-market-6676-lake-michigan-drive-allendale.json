@@ -1,0 +1,19 @@
+{
+  "slug": "allendale-farmers-market-6676-lake-michigan-drive-allendale",
+  "name": "Allendale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6676 Lake Michigan Drive Allendale, MI",
+  "locationCity": "6676 Lake Michigan Drive Allendale",
+  "locationState": "MI",
+  "locationZipcode": "49401",
+  "lat": 42.972219544067244,
+  "lon": -85.95086694776138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

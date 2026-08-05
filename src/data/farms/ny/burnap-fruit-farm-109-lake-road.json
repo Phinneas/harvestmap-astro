@@ -1,0 +1,19 @@
+{
+  "slug": "burnap-fruit-farm-109-lake-road",
+  "name": "Burnap Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "109 Lake Road, NY",
+  "locationCity": "109 Lake Road",
+  "locationState": "NY",
+  "locationZipcode": "14551",
+  "lat": 43.2650098965749,
+  "lon": -77.0660366011665,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.219Z"
+}

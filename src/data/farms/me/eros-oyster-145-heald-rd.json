@@ -1,0 +1,19 @@
+{
+  "slug": "eros-oyster-145-heald-rd",
+  "name": "Eros Oyster",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "145 Heald Rd, ME",
+  "locationCity": "145 Heald Rd",
+  "locationState": "ME",
+  "locationZipcode": "04548",
+  "lat": 43.81587875253328,
+  "lon": -69.7481531974618,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.039Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sapelo-farms-brunswick",
+  "name": "Sapelo Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Brunswick, GA",
+  "locationCity": "Brunswick",
+  "locationState": "GA",
+  "locationZipcode": "31520",
+  "lat": 31.1763619,
+  "lon": -81.5047772,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.439Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.439Z"
+}

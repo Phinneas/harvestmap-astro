@@ -1,0 +1,19 @@
+{
+  "slug": "herter-nursery-112-ritchie-rd",
+  "name": "Herter Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "112 Ritchie Rd, NC",
+  "locationCity": "112 Ritchie Rd",
+  "locationState": "NC",
+  "locationZipcode": "28092",
+  "lat": 35.5443073526576,
+  "lon": -81.28779352788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.789Z"
+}

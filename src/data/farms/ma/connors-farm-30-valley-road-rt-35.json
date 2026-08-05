@@ -1,0 +1,19 @@
+{
+  "slug": "connors-farm-30-valley-road-rt-35",
+  "name": "Connors Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "30 Valley Road (Rt. 35), MA",
+  "locationCity": "30 Valley Road (Rt. 35)",
+  "locationState": "MA",
+  "locationZipcode": "01923",
+  "lat": 42.60837298008073,
+  "lon": -70.93530234458638,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.281Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.281Z"
+}

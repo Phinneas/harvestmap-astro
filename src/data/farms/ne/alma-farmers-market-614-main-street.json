@@ -1,0 +1,19 @@
+{
+  "slug": "alma-farmers-market-614-main-street",
+  "name": "Alma Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "614 Main Street, NE",
+  "locationCity": "614 Main Street",
+  "locationState": "NE",
+  "locationZipcode": "68920",
+  "lat": 40.09738437133362,
+  "lon": -99.36113163699976,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.904Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.904Z"
+}

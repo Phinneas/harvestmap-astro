@@ -1,0 +1,19 @@
+{
+  "slug": "saba-food-hub-900-alice-street",
+  "name": "Saba Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "900 Alice street, CA",
+  "locationCity": "900 Alice street",
+  "locationState": "CA",
+  "locationZipcode": "94607",
+  "lat": 37.79915599515623,
+  "lon": -122.26824101166252,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

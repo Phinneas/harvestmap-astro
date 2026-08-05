@@ -1,0 +1,19 @@
+{
+  "slug": "flint-hills-farmers-market-632-tuttle-creek-blvd-manhattan",
+  "name": "Flint Hills Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "632 Tuttle Creek Blvd Manhattan, KS",
+  "locationCity": "632 Tuttle Creek Blvd Manhattan",
+  "locationState": "KS",
+  "locationZipcode": "66502",
+  "lat": 39.18430708658311,
+  "lon": -96.55868313295807,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

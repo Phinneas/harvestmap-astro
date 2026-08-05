@@ -1,0 +1,19 @@
+{
+  "slug": "worcester-regional-food-hub-474-boston-turnpike",
+  "name": "Worcester Regional Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "474 Boston Turnpike, MA",
+  "locationCity": "474 Boston Turnpike",
+  "locationState": "MA",
+  "locationZipcode": "01545",
+  "lat": 42.2757796,
+  "lon": -71.72119,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.881Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.881Z"
+}

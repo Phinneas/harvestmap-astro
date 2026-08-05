@@ -1,0 +1,19 @@
+{
+  "slug": "forest-hills-umc-farmers-market-1250-old-hickory-boulevard-brentwood",
+  "name": "Forest Hills UMC Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1250 Old Hickory Boulevard Brentwood, TN",
+  "locationCity": "1250 Old Hickory Boulevard Brentwood",
+  "locationState": "TN",
+  "locationZipcode": "37027",
+  "lat": 36.04123597212022,
+  "lon": -86.8213139235164,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

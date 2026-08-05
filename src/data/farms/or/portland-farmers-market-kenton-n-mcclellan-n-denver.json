@@ -1,0 +1,19 @@
+{
+  "slug": "portland-farmers-market-kenton-n-mcclellan-n-denver",
+  "name": "Portland Farmers Market - Kenton",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N McClellan & N Denver, OR",
+  "locationCity": "N McClellan & N Denver",
+  "locationState": "OR",
+  "locationZipcode": "97217",
+  "lat": 45.583224,
+  "lon": -122.68679,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.261Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.261Z"
+}

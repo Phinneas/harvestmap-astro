@@ -1,0 +1,19 @@
+{
+  "slug": "antioch-s-farmers-market-900-skidmore-drive-antioch",
+  "name": "Antioch's Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "900 Skidmore Drive Antioch, IL",
+  "locationCity": "900 Skidmore Drive Antioch",
+  "locationState": "IL",
+  "locationZipcode": "60002",
+  "lat": 42.4770085060344,
+  "lon": -88.09445309780797,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

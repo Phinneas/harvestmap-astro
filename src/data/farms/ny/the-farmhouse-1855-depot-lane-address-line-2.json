@@ -1,0 +1,20 @@
+{
+  "slug": "the-farmhouse-1855-depot-lane-address-line-2",
+  "name": "The Farmhouse",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1855 Depot Lane address line 2, NY",
+  "locationCity": "1855 Depot Lane address line 2",
+  "locationState": "NY",
+  "locationZipcode": "11935",
+  "lat": 41.01488308097,
+  "lon": -72.487239293981,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.333Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.333Z",
+  "crops": []
+}

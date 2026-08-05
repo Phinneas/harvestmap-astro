@@ -1,0 +1,19 @@
+{
+  "slug": "federal-plaza-chicago-farmers-market-230-s-dearborn-street-chicago",
+  "name": "Federal Plaza (Chicago) Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "230 S. Dearborn Street Chicago, IL",
+  "locationCity": "230 S. Dearborn Street Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60604",
+  "lat": 41.87900464836531,
+  "lon": -87.6293462520771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

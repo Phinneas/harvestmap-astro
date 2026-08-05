@@ -1,0 +1,19 @@
+{
+  "slug": "hammond-farmers-artisans-market-213-sw-railroad-ave",
+  "name": "Hammond Farmers & Artisans Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "213 SW Railroad Ave, LA",
+  "locationCity": "213 SW Railroad Ave",
+  "locationState": "LA",
+  "locationZipcode": "70401",
+  "lat": 30.5028232,
+  "lon": -90.4612004,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.755Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.755Z"
+}

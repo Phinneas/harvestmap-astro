@@ -1,0 +1,19 @@
+{
+  "slug": "aga-farms-1333-elephant-road",
+  "name": "AGA Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1333 Elephant Road, PA",
+  "locationCity": "1333 Elephant Road",
+  "locationState": "PA",
+  "locationZipcode": "18944",
+  "lat": 40.4245629908631,
+  "lon": -75.2301929682634,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.133Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.133Z"
+}

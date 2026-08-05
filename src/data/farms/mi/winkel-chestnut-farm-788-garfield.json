@@ -1,0 +1,19 @@
+{
+  "slug": "winkel-chestnut-farm-788-garfield",
+  "name": "Winkel Chestnut Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "788 Garfield, MI",
+  "locationCity": "788 Garfield",
+  "locationState": "MI",
+  "locationZipcode": "49404",
+  "lat": 43.0452164710658,
+  "lon": -86.0552504033194,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.565Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.565Z"
+}

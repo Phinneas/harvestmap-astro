@@ -1,0 +1,19 @@
+{
+  "slug": "the-wright-place-84-west-street",
+  "name": "The Wright Place",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "84 West Street, CT",
+  "locationCity": "84 West Street",
+  "locationState": "CT",
+  "locationZipcode": "06237",
+  "lat": 41.6956309982089,
+  "lon": -72.343022028144,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.092Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.092Z"
+}

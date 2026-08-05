@@ -1,0 +1,19 @@
+{
+  "slug": "country-lane-gardens-csa-5132-e-8th-street",
+  "name": "Country Lane Gardens CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5132 E. 8th Street, NE",
+  "locationCity": "5132 E. 8th Street",
+  "locationState": "NE",
+  "locationZipcode": "68601",
+  "lat": 41.4245049,
+  "lon": -97.2600652,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:48.526Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:48.526Z"
+}

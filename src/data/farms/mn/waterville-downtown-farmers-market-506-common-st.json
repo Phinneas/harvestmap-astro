@@ -1,0 +1,19 @@
+{
+  "slug": "waterville-downtown-farmers-market-506-common-st",
+  "name": "Waterville Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "506 Common St, MN",
+  "locationCity": "506 Common St",
+  "locationState": "MN",
+  "locationZipcode": "56096",
+  "lat": 44.2154722,
+  "lon": -93.5631211,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "soco-farmers-market-3315-hyland",
+  "name": "SOCO Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3315 Hyland, CA",
+  "locationCity": "3315 Hyland",
+  "locationState": "CA",
+  "locationZipcode": "92626",
+  "lat": 33.694867,
+  "lon": -117.92709,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.351Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "orangevale-farmers-market-9295-greenback-ln",
+  "name": "Orangevale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9295 Greenback Ln., CA",
+  "locationCity": "9295 Greenback Ln.",
+  "locationState": "CA",
+  "locationZipcode": "95662",
+  "lat": 38.67820279791382,
+  "lon": -121.20744433804735,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

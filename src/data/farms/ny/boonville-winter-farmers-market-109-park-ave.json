@@ -1,0 +1,19 @@
+{
+  "slug": "boonville-winter-farmers-market-109-park-ave",
+  "name": "Boonville Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "109 Park Ave, NY",
+  "locationCity": "109 Park Ave",
+  "locationState": "NY",
+  "locationZipcode": "13309",
+  "lat": 43.47986770586926,
+  "lon": -75.32666228183301,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

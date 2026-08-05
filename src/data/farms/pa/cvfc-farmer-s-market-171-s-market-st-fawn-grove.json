@@ -1,0 +1,19 @@
+{
+  "slug": "cvfc-farmer-s-market-171-s-market-st-fawn-grove",
+  "name": "CVFC Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "171 S. Market St. Fawn Grove, PA",
+  "locationCity": "171 S. Market St. Fawn Grove",
+  "locationState": "PA",
+  "locationZipcode": "17321",
+  "lat": 39.723378167637314,
+  "lon": -76.45197928410929,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

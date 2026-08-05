@@ -1,0 +1,19 @@
+{
+  "slug": "tcc-berry-farm-1466-us-highway-50",
+  "name": "TCC Berry Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1466 US Highway 50, OH",
+  "locationCity": "1466 US Highway 50",
+  "locationState": "OH",
+  "locationZipcode": "45103",
+  "lat": 39.12944897968762,
+  "lon": -84.21366801681633,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.375Z"
+}

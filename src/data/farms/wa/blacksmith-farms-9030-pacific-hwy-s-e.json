@@ -1,0 +1,19 @@
+{
+  "slug": "blacksmith-farms-9030-pacific-hwy-s-e",
+  "name": "Blacksmith Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9030 pacific hwy. s.e., WA",
+  "locationCity": "9030 pacific hwy. s.e.",
+  "locationState": "WA",
+  "locationZipcode": "98513",
+  "lat": 47.03685185969098,
+  "lon": -122.74690332112314,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.614Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.614Z"
+}

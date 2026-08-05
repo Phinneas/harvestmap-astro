@@ -1,0 +1,19 @@
+{
+  "slug": "anaheim-farmers-market-201-center-street-promenade-anaheim",
+  "name": "Anaheim Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 Center Street Promenade Anaheim, CA",
+  "locationCity": "201 Center Street Promenade Anaheim",
+  "locationState": "CA",
+  "locationZipcode": "92805",
+  "lat": 33.833947809348174,
+  "lon": -117.91554747363266,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.372Z"
+}

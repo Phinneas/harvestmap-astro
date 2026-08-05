@@ -1,0 +1,19 @@
+{
+  "slug": "grand-rapids-farmers-market-winter-1601-golf-course-rd",
+  "name": "Grand Rapids Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1601 Golf Course Rd, MN",
+  "locationCity": "1601 Golf Course Rd",
+  "locationState": "MN",
+  "locationZipcode": "55744",
+  "lat": 47.2177068,
+  "lon": -93.5627708,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

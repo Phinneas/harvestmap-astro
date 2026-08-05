@@ -1,0 +1,19 @@
+{
+  "slug": "wigwam-farmer-s-market-300-e-wigwam-blvd-litchfield-park",
+  "name": "Wigwam Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 E. Wigwam Blvd. Litchfield Park, AZ",
+  "locationCity": "300 E. Wigwam Blvd. Litchfield Park",
+  "locationState": "AZ",
+  "locationZipcode": "85340",
+  "lat": 33.49339245372156,
+  "lon": -112.356113502775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.031Z"
+}

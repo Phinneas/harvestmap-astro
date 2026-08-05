@@ -1,0 +1,19 @@
+{
+  "slug": "owego-farmers-market-153-main-st",
+  "name": "Owego Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "153 Main St, NY",
+  "locationCity": "153 Main St",
+  "locationState": "NY",
+  "locationZipcode": "13827",
+  "lat": 42.103099710581716,
+  "lon": -76.26345201374468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

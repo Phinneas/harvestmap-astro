@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-bayou-3050-levee-rd",
+  "name": "Blueberry Bayou",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3050 Levee Rd, LA",
+  "locationCity": "3050 Levee Rd",
+  "locationState": "LA",
+  "locationZipcode": "71220",
+  "lat": 32.728958434667376,
+  "lon": -92.00367891490406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

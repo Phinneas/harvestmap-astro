@@ -1,0 +1,19 @@
+{
+  "slug": "berry-barn-old-columbus-road",
+  "name": "Berry Barn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Old Columbus Road, OH",
+  "locationCity": "Old Columbus Road",
+  "locationState": "OH",
+  "locationZipcode": "43050",
+  "lat": 40.3778327123283,
+  "lon": -82.4990500689768,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.833Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.833Z"
+}

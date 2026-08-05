@@ -1,0 +1,19 @@
+{
+  "slug": "owens-berry-farm-4722-john-street",
+  "name": "Owens Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4722 John Street, NC",
+  "locationCity": "4722 John Street",
+  "locationState": "NC",
+  "locationZipcode": "28470",
+  "lat": 33.9778500000001,
+  "lon": -78.384695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.838Z"
+}

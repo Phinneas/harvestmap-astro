@@ -1,0 +1,19 @@
+{
+  "slug": "west-produce-026-hayes-rd",
+  "name": "West Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "026 Hayes Rd, NC",
+  "locationCity": "026 Hayes Rd",
+  "locationState": "NC",
+  "locationZipcode": "28390",
+  "lat": 35.2562542128025,
+  "lon": -78.9247544067427,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.863Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.863Z"
+}

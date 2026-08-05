@@ -1,0 +1,19 @@
+{
+  "slug": "kershaw-county-farmers-market-906-broad-street",
+  "name": "Kershaw County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "906 Broad Street, SC",
+  "locationCity": "906 Broad Street",
+  "locationState": "SC",
+  "locationZipcode": "29020",
+  "lat": 34.243195,
+  "lon": -80.606634,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.076Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.076Z"
+}

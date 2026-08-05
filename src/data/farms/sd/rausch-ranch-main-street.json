@@ -1,0 +1,19 @@
+{
+  "slug": "rausch-ranch-main-street",
+  "name": "RAUSCH RANCH",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Main Street, SD",
+  "locationCity": "Main Street",
+  "locationState": "SD",
+  "locationZipcode": "57466",
+  "lat": 45.1922200000001,
+  "lon": -99.46609,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:07.733Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:07.733Z"
+}

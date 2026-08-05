@@ -1,0 +1,19 @@
+{
+  "slug": "red-bay-farmers-market-648-2nd-st-ne",
+  "name": "Red Bay Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "648 2nd St. NE, AL",
+  "locationCity": "648 2nd St. NE",
+  "locationState": "AL",
+  "locationZipcode": "35582",
+  "lat": 34.446559787231884,
+  "lon": -88.1425847814602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

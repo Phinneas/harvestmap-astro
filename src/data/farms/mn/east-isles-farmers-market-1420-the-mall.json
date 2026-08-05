@@ -1,0 +1,19 @@
+{
+  "slug": "east-isles-farmers-market-1420-the-mall",
+  "name": "East Isles Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1420 The Mall, MN",
+  "locationCity": "1420 The Mall",
+  "locationState": "MN",
+  "locationZipcode": "55408",
+  "lat": 44.9500154,
+  "lon": -93.3017683,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

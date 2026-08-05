@@ -1,0 +1,19 @@
+{
+  "slug": "warrenville-farmers-market-3s260-warren-ave-warrenville",
+  "name": "Warrenville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3S260 Warren Ave Warrenville, IL",
+  "locationCity": "3S260 Warren Ave Warrenville",
+  "locationState": "IL",
+  "locationZipcode": "60555",
+  "lat": 41.823139694179694,
+  "lon": -88.18026451270308,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

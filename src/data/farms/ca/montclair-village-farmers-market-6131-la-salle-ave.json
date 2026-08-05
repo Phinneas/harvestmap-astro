@@ -1,0 +1,19 @@
+{
+  "slug": "montclair-village-farmers-market-6131-la-salle-ave",
+  "name": "Montclair Village Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6131 La Salle Ave, CA",
+  "locationCity": "6131 La Salle Ave",
+  "locationState": "CA",
+  "locationZipcode": "94611",
+  "lat": 37.826522,
+  "lon": -122.20992,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

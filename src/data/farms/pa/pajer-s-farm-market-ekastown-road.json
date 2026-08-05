@@ -1,0 +1,19 @@
+{
+  "slug": "pajer-s-farm-market-ekastown-road",
+  "name": "Pajer's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Ekastown Road, PA",
+  "locationCity": "Ekastown Road",
+  "locationState": "PA",
+  "locationZipcode": "16055",
+  "lat": 40.70093839260566,
+  "lon": -79.76984618965359,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

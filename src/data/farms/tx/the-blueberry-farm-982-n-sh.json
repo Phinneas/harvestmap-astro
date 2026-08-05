@@ -1,0 +1,20 @@
+{
+  "slug": "the-blueberry-farm-982-n-sh",
+  "name": "The Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "982 N SH, TX",
+  "locationCity": "982 N SH",
+  "locationState": "TX",
+  "locationZipcode": "75783",
+  "lat": 32.8039707,
+  "lon": -95.4348166,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.715Z",
+  "crops": []
+}

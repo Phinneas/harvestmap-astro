@@ -1,0 +1,19 @@
+{
+  "slug": "my-little-farm-142-north-flat-street",
+  "name": "My Little Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "142 North Flat Street, NY",
+  "locationCity": "142 North Flat Street",
+  "locationState": "NY",
+  "locationZipcode": "14527",
+  "lat": 42.7563979768923,
+  "lon": -77.0585124460321,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.204Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.204Z"
+}

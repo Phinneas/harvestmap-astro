@@ -1,0 +1,19 @@
+{
+  "slug": "rt-639-farmers-market-7278-ladysmith-road-ruther-glen",
+  "name": "RT 639 Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7278 Ladysmith Road Ruther Glen, VA",
+  "locationCity": "7278 Ladysmith Road Ruther Glen",
+  "locationState": "VA",
+  "locationZipcode": "22546",
+  "lat": 38.016661,
+  "lon": -77.518506,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.107Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.107Z"
+}

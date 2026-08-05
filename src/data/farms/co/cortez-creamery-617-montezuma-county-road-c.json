@@ -1,0 +1,19 @@
+{
+  "slug": "cortez-creamery-617-montezuma-county-road-c",
+  "name": "Cortez Creamery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "617 Montezuma County Road C, CO",
+  "locationCity": "617 Montezuma County Road C",
+  "locationState": "CO",
+  "locationZipcode": "81321",
+  "lat": 37.3486300000001,
+  "lon": -108.585745,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.199Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.199Z"
+}

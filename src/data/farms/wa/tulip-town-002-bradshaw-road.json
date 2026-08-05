@@ -1,0 +1,19 @@
+{
+  "slug": "tulip-town-002-bradshaw-road",
+  "name": "Tulip Town",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "002 Bradshaw Road, WA",
+  "locationCity": "002 Bradshaw Road",
+  "locationState": "WA",
+  "locationZipcode": "98273",
+  "lat": 48.4068855766238,
+  "lon": -122.422196888138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.184Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.184Z"
+}

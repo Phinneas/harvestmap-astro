@@ -1,0 +1,19 @@
+{
+  "slug": "the-briar-patch-1399-sherwood-road",
+  "name": "The Briar Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1399 Sherwood Road, WV",
+  "locationCity": "1399 Sherwood Road",
+  "locationState": "WV",
+  "locationZipcode": "25880",
+  "lat": 37.8875522127472,
+  "lon": -81.1870478392662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.933Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.933Z"
+}

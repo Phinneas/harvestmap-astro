@@ -1,0 +1,19 @@
+{
+  "slug": "point-lookout-farms-158-john-delk-road",
+  "name": "Point Lookout Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "158 John Delk Road, NC",
+  "locationCity": "158 John Delk Road",
+  "locationState": "NC",
+  "locationZipcode": "28792",
+  "lat": 35.3789821618139,
+  "lon": -82.3100500471471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.730Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.730Z"
+}

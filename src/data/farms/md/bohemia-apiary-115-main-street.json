@@ -1,0 +1,19 @@
+{
+  "slug": "bohemia-apiary-115-main-street",
+  "name": "Bohemia Apiary",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "115 Main Street, MD",
+  "locationCity": "115 Main Street",
+  "locationState": "MD",
+  "locationZipcode": "21912",
+  "lat": 39.4178984000001,
+  "lon": -75.7767024,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.130Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.130Z"
+}

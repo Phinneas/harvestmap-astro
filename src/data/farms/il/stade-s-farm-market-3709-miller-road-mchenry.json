@@ -1,0 +1,19 @@
+{
+  "slug": "stade-s-farm-market-3709-miller-road-mchenry",
+  "name": "Stade's Farm & Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3709 Miller Road McHenry, IL",
+  "locationCity": "3709 Miller Road McHenry",
+  "locationState": "IL",
+  "locationZipcode": "60051",
+  "lat": 42.41502688909944,
+  "lon": -88.26708261193062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

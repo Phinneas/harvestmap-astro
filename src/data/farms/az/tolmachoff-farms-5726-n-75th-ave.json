@@ -1,0 +1,20 @@
+{
+  "slug": "tolmachoff-farms-5726-n-75th-ave",
+  "name": "Tolmachoff Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5726 N. 75th Ave, AZ",
+  "locationCity": "5726 N. 75th Ave",
+  "locationState": "AZ",
+  "locationZipcode": "85303",
+  "lat": 33.5201549453289,
+  "lon": -112.220957024126,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.805Z",
+  "crops": []
+}

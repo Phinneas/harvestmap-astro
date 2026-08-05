@@ -1,0 +1,19 @@
+{
+  "slug": "breathitt-county-farmers-market-3215-quicksand-road",
+  "name": "Breathitt County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3215 Quicksand Road, KY",
+  "locationCity": "3215 Quicksand Road",
+  "locationState": "KY",
+  "locationZipcode": "41339",
+  "lat": 37.535327,
+  "lon": -83.348327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.725Z"
+}

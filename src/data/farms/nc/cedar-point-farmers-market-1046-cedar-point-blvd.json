@@ -1,0 +1,19 @@
+{
+  "slug": "cedar-point-farmers-market-1046-cedar-point-blvd",
+  "name": "Cedar Point Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1046 Cedar Point Blvd., NC",
+  "locationCity": "1046 Cedar Point Blvd.",
+  "locationState": "NC",
+  "locationZipcode": "28584",
+  "lat": 34.68261,
+  "lon": -77.083526,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.245Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "anchorage-farmers-market-1420-cordova-st",
+  "name": "Anchorage Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1420 Cordova St, AK",
+  "locationCity": "1420 Cordova St",
+  "locationState": "AK",
+  "locationZipcode": "99501",
+  "lat": 61.20844983116041,
+  "lon": -149.87920238543765,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

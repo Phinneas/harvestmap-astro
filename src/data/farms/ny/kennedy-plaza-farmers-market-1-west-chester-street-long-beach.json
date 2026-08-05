@@ -1,0 +1,19 @@
+{
+  "slug": "kennedy-plaza-farmers-market-1-west-chester-street-long-beach",
+  "name": "Kennedy Plaza Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 West Chester Street Long Beach, NY",
+  "locationCity": "1 West Chester Street Long Beach",
+  "locationState": "NY",
+  "locationZipcode": "11561",
+  "lat": 40.5893999304251,
+  "lon": -73.665983931027,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

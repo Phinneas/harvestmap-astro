@@ -1,0 +1,19 @@
+{
+  "slug": "port-angeles-farmers-market-125-e-front-st-port-angeles",
+  "name": "Port Angeles Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "125 E. Front St. Port Angeles, WA",
+  "locationCity": "125 E. Front St. Port Angeles",
+  "locationState": "WA",
+  "locationZipcode": "98362",
+  "lat": 48.1196650592218,
+  "lon": -123.43213646456375,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

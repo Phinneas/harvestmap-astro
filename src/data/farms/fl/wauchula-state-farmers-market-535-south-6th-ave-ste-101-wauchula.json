@@ -1,0 +1,19 @@
+{
+  "slug": "wauchula-state-farmers-market-535-south-6th-ave-ste-101-wauchula",
+  "name": "Wauchula State Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "535 South 6th Ave. Ste. #101 Wauchula, FL",
+  "locationCity": "535 South 6th Ave. Ste. #101 Wauchula",
+  "locationState": "FL",
+  "locationZipcode": "33873",
+  "lat": 27.5407029909737,
+  "lon": -81.81080503473561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.576Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.576Z"
+}

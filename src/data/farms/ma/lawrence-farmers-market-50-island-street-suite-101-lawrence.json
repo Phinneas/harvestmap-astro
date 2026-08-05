@@ -1,0 +1,19 @@
+{
+  "slug": "lawrence-farmers-market-50-island-street-suite-101-lawrence",
+  "name": "Lawrence Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50 Island Street Suite 101 Lawrence, MA",
+  "locationCity": "50 Island Street Suite 101 Lawrence",
+  "locationState": "MA",
+  "locationZipcode": "01840",
+  "lat": 42.70623313969974,
+  "lon": -71.1513065245408,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.865Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.865Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gardenhour-orchards-511-gardenhour-road",
+  "name": "Gardenhour Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "511 Gardenhour Road, MD",
+  "locationCity": "511 Gardenhour Road",
+  "locationState": "MD",
+  "locationZipcode": "21783",
+  "lat": 39.6870395805854,
+  "lon": -77.5804252531519,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.140Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.140Z"
+}

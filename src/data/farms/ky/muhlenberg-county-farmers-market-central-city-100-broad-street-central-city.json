@@ -1,0 +1,19 @@
+{
+  "slug": "muhlenberg-county-farmers-market-central-city-100-broad-street-central-city",
+  "name": "Muhlenberg County Farmers' Market - Central City",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Broad Street Central City, KY",
+  "locationCity": "100 Broad Street Central City",
+  "locationState": "KY",
+  "locationZipcode": "42330",
+  "lat": 37.293168566462526,
+  "lon": -87.12479566319519,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

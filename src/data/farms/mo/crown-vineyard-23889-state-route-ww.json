@@ -1,0 +1,19 @@
+{
+  "slug": "crown-vineyard-23889-state-route-ww",
+  "name": "Crown Vineyard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "23889 State Route WW, MO",
+  "locationCity": "23889 State Route WW",
+  "locationState": "MO",
+  "locationZipcode": "23889",
+  "lat": 37.77365799423943,
+  "lon": -90.17941702631275,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:58.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:58.522Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "smith-farms-939-highway-51",
+  "name": "Smith Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "939 Highway 51, AL",
+  "locationCity": "939 Highway 51",
+  "locationState": "AL",
+  "locationZipcode": "35147",
+  "lat": 33.3449120367371,
+  "lon": -86.5614814592949,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.509Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.509Z"
+}

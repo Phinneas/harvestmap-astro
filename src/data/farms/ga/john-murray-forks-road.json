@@ -1,0 +1,19 @@
+{
+  "slug": "john-murray-forks-road",
+  "name": "John Murray",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Forks Road, GA",
+  "locationCity": "Forks Road",
+  "locationState": "GA",
+  "locationZipcode": "31552",
+  "lat": 31.2736750167206,
+  "lon": -82.6576749806561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.382Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.382Z"
+}

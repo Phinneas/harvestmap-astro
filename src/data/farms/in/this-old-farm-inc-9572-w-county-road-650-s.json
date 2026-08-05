@@ -1,0 +1,20 @@
+{
+  "slug": "this-old-farm-inc-9572-w-county-road-650-s",
+  "name": "This Old Farm, Inc.",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9572 W County Road 650 S, IN",
+  "locationCity": "9572 W County Road 650 S",
+  "locationState": "IN",
+  "locationZipcode": "46035",
+  "lat": 40.1937786,
+  "lon": -86.6859339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.533Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.533Z",
+  "crops": []
+}

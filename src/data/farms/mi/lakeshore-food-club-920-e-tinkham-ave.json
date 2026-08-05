@@ -1,0 +1,19 @@
+{
+  "slug": "lakeshore-food-club-920-e-tinkham-ave",
+  "name": "Lakeshore Food Club",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "920 E Tinkham Ave, MI",
+  "locationCity": "920 E Tinkham Ave",
+  "locationState": "MI",
+  "locationZipcode": "49431",
+  "lat": 43.96278401089961,
+  "lon": -86.43158698753993,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.245Z"
+}

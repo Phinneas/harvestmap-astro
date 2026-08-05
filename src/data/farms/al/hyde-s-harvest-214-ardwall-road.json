@@ -1,0 +1,19 @@
+{
+  "slug": "hyde-s-harvest-214-ardwall-road",
+  "name": "Hyde's Harvest",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "214 Ardwall Road, AL",
+  "locationCity": "214 Ardwall Road",
+  "locationState": "AL",
+  "locationZipcode": "35773",
+  "lat": 34.9106639832774,
+  "lon": -86.7533179590261,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.447Z"
+}

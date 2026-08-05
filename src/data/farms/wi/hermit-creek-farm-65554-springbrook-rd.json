@@ -1,0 +1,19 @@
+{
+  "slug": "hermit-creek-farm-65554-springbrook-rd",
+  "name": "Hermit Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "65554 Springbrook Rd, WI",
+  "locationCity": "65554 Springbrook Rd",
+  "locationState": "WI",
+  "locationZipcode": "65554",
+  "lat": 46.3620146,
+  "lon": -90.7700005,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:11.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:11.986Z"
+}

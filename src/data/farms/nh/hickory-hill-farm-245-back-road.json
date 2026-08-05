@@ -1,0 +1,19 @@
+{
+  "slug": "hickory-hill-farm-245-back-road",
+  "name": "Hickory Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "245 Back Road, NH",
+  "locationCity": "245 Back Road",
+  "locationState": "NH",
+  "locationZipcode": "03820",
+  "lat": 43.1797770006488,
+  "lon": -70.8430449994481,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.473Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.473Z"
+}

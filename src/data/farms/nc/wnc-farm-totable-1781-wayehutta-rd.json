@@ -1,0 +1,19 @@
+{
+  "slug": "wnc-farm-totable-1781-wayehutta-rd",
+  "name": "WNC Farm toTable",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1781 WAYEHUTTA RD, NC",
+  "locationCity": "1781 WAYEHUTTA RD",
+  "locationState": "NC",
+  "locationZipcode": "28723",
+  "lat": 35.3224064,
+  "lon": -83.157802,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.320Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.320Z"
+}

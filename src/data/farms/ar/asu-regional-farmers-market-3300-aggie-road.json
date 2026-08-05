@@ -1,0 +1,19 @@
+{
+  "slug": "asu-regional-farmers-market-3300-aggie-road",
+  "name": "ASU Regional Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3300 Aggie Road, AR",
+  "locationCity": "3300 Aggie Road",
+  "locationState": "AR",
+  "locationZipcode": "72401",
+  "lat": 35.840771,
+  "lon": -90.667327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.321Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.321Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dungeness-meadow-farm-135-meadowmeer-lane",
+  "name": "Dungeness Meadow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "135 Meadowmeer Lane, WA",
+  "locationCity": "135 Meadowmeer Lane",
+  "locationState": "WA",
+  "locationZipcode": "98382",
+  "lat": 48.095274003267,
+  "lon": -123.14101497789,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.142Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.142Z"
+}

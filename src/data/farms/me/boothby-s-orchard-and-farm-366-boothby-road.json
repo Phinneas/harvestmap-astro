@@ -1,0 +1,20 @@
+{
+  "slug": "boothby-s-orchard-and-farm-366-boothby-road",
+  "name": "Boothby's Orchard and Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "366 Boothby Road, ME",
+  "locationCity": "366 Boothby Road",
+  "locationState": "ME",
+  "locationZipcode": "04253",
+  "lat": 44.3772500540955,
+  "lon": -70.205747108071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.808Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.808Z",
+  "crops": []
+}

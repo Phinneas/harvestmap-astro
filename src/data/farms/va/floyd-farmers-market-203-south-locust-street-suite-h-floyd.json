@@ -1,0 +1,19 @@
+{
+  "slug": "floyd-farmers-market-203-south-locust-street-suite-h-floyd",
+  "name": "Floyd Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "203 South Locust Street Suite H Floyd, VA",
+  "locationCity": "203 South Locust Street Suite H Floyd",
+  "locationState": "VA",
+  "locationZipcode": "24091",
+  "lat": 36.910459659945765,
+  "lon": -80.32003939527252,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

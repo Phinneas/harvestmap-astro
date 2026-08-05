@@ -1,0 +1,19 @@
+{
+  "slug": "agro-works-inc-651-se-orient-dr",
+  "name": "Agro Works Inc.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "651 SE Orient Dr., OR",
+  "locationCity": "651 SE Orient Dr.",
+  "locationState": "OR",
+  "locationZipcode": "97009",
+  "lat": 45.4332207224606,
+  "lon": -122.329928798479,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.036Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.036Z"
+}

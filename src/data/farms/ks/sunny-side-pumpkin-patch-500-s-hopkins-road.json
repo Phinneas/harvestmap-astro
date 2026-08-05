@@ -1,0 +1,19 @@
+{
+  "slug": "sunny-side-pumpkin-patch-500-s-hopkins-road",
+  "name": "Sunny Side Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 S Hopkins Road, KS",
+  "locationCity": "500 S Hopkins Road",
+  "locationState": "KS",
+  "locationZipcode": "67416",
+  "lat": 38.6301848926627,
+  "lon": -97.5751621903588,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.120Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.120Z"
+}

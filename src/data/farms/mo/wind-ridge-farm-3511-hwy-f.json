@@ -2,20 +2,19 @@
   "slug": "wind-ridge-farm-3511-hwy-f",
   "name": "Wind Ridge Farm",
   "source": "usda",
-  "directory": "agritourism",
+  "directory": "onfarmmarket",
   "location": "3511 Hwy F, MO",
   "locationCity": "3511 Hwy F",
   "locationState": "MO",
   "locationZipcode": "63365",
-  "lat": 38.7077209813091,
-  "lon": -90.8766119977816,
+  "lat": 38.708905,
+  "lon": -90.878906,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:31:46.331Z"
+      "lastSeen": "2026-08-05T18:43:58.461Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:31:46.331Z",
-  "website": "https://pickyourown.farm/farm/wind-ridge-farm-10416/",
+  "usdaLastUpdated": "2026-08-05T18:43:58.461Z",
   "tagline": "Wind Ridge Farm"
 }

@@ -1,0 +1,19 @@
+{
+  "slug": "simplicity-farm-turner-farm-905-main-street",
+  "name": "Simplicity Farm/Turner Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "905 Main Street, VT",
+  "locationCity": "905 Main Street",
+  "locationState": "VT",
+  "locationZipcode": "05673",
+  "lat": 44.2286659843422,
+  "lon": -72.7834140103233,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.231Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.231Z"
+}

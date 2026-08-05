@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-garden-city-farmers-market-1118-fleming-st",
+  "name": "Downtown Garden City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1118 Fleming St, KS",
+  "locationCity": "1118 Fleming St",
+  "locationState": "KS",
+  "locationZipcode": "67846",
+  "lat": 37.975871308865784,
+  "lon": -100.85429107107439,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

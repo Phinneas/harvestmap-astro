@@ -1,0 +1,19 @@
+{
+  "slug": "wind-swept-farm-517-hanover-pike",
+  "name": "Wind Swept Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "517 Hanover Pike, MD",
+  "locationCity": "517 Hanover Pike",
+  "locationState": "MD",
+  "locationZipcode": "21155",
+  "lat": 39.5875163429721,
+  "lon": -76.843314276628,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.229Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.229Z"
+}

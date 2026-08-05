@@ -1,0 +1,19 @@
+{
+  "slug": "ellijay-farmers-market-1-broad-street",
+  "name": "Ellijay Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Broad Street, GA",
+  "locationCity": "1 Broad Street",
+  "locationState": "GA",
+  "locationZipcode": "30540",
+  "lat": 34.695615057531896,
+  "lon": -84.48363774685117,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "havre-hi-line-farmers-market-510-second-street-510-second-street-havre",
+  "name": "Havre Hi-Line Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "510 Second Street 510 Second Street Havre, MT",
+  "locationCity": "510 Second Street 510 Second Street Havre",
+  "locationState": "MT",
+  "locationZipcode": "59501",
+  "lat": 48.55222386085321,
+  "lon": -109.67500789265334,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:22.007Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:22.007Z"
+}

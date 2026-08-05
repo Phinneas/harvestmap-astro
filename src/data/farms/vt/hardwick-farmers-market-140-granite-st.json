@@ -1,0 +1,19 @@
+{
+  "slug": "hardwick-farmers-market-140-granite-st",
+  "name": "Hardwick Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "140 Granite St, VT",
+  "locationCity": "140 Granite St",
+  "locationState": "VT",
+  "locationZipcode": "05843",
+  "lat": 44.50599170478339,
+  "lon": -72.37277050812457,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

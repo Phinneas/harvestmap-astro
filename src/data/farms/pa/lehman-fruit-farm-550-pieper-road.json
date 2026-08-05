@@ -1,0 +1,19 @@
+{
+  "slug": "lehman-fruit-farm-550-pieper-road",
+  "name": "Lehman Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "550 Pieper Road, PA",
+  "locationCity": "550 Pieper Road",
+  "locationState": "PA",
+  "locationZipcode": "16417",
+  "lat": 41.9831184556017,
+  "lon": -80.3470774003799,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.100Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.100Z"
+}

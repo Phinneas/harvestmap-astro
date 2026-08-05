@@ -1,0 +1,19 @@
+{
+  "slug": "greater-belhaven-market-904-east-fortification-st-jackson",
+  "name": "Greater Belhaven Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "904 East Fortification St Jackson, MS",
+  "locationCity": "904 East Fortification St Jackson",
+  "locationState": "MS",
+  "locationZipcode": "39202",
+  "lat": 32.31218190146001,
+  "lon": -90.17460669775102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

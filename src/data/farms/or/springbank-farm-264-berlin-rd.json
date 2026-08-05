@@ -1,0 +1,19 @@
+{
+  "slug": "springbank-farm-264-berlin-rd",
+  "name": "Springbank Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "264 Berlin Rd, OR",
+  "locationCity": "264 Berlin Rd",
+  "locationState": "OR",
+  "locationZipcode": "97355",
+  "lat": 44.5103147181827,
+  "lon": -122.806766299469,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.822Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.822Z"
+}

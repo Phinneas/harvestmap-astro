@@ -1,0 +1,19 @@
+{
+  "slug": "clayton-farmers-market-4616-wallbridge-road-clayton",
+  "name": "Clayton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4616 Wallbridge Road Clayton, WA",
+  "locationCity": "4616 Wallbridge Road Clayton",
+  "locationState": "WA",
+  "locationZipcode": "99110",
+  "lat": 47.988059695369216,
+  "lon": -117.54494828768334,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.816Z"
+}

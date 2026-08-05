@@ -1,0 +1,19 @@
+{
+  "slug": "grinnell-farm-to-table-512-10th-ave",
+  "name": "Grinnell Farm to Table",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "512 10th Ave, IA",
+  "locationCity": "512 10th Ave",
+  "locationState": "IA",
+  "locationZipcode": "50112",
+  "lat": 41.75165199290572,
+  "lon": -92.73000702854712,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:37.781Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:37.781Z"
+}

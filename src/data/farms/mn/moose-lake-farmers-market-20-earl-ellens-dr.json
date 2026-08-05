@@ -1,0 +1,19 @@
+{
+  "slug": "moose-lake-farmers-market-20-earl-ellens-dr",
+  "name": "Moose Lake Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 Earl Ellens Dr, MN",
+  "locationCity": "20 Earl Ellens Dr",
+  "locationState": "MN",
+  "locationZipcode": "55767",
+  "lat": 46.4478621,
+  "lon": -92.7695986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

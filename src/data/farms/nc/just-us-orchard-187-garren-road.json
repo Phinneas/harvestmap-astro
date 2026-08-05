@@ -1,0 +1,20 @@
+{
+  "slug": "just-us-orchard-187-garren-road",
+  "name": "Just Us Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "187 Garren Road, NC",
+  "locationCity": "187 Garren Road",
+  "locationState": "NC",
+  "locationZipcode": "28792",
+  "lat": 35.3956503306495,
+  "lon": -82.3813809651795,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.685Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.685Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "howe-farmers-market-towm-square-401-defiance-st-howe",
+  "name": "Howe Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Towm Square (401 Defiance St.) Howe, IN",
+  "locationCity": "Towm Square (401 Defiance St.) Howe",
+  "locationState": "IN",
+  "locationZipcode": "46746",
+  "lat": 41.72050400251547,
+  "lon": -85.4213010265591,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

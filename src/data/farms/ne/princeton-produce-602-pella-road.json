@@ -1,0 +1,19 @@
+{
+  "slug": "princeton-produce-602-pella-road",
+  "name": "Princeton Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "602 Pella Road, NE",
+  "locationCity": "602 Pella Road",
+  "locationState": "NE",
+  "locationZipcode": "68404",
+  "lat": 40.5521158389115,
+  "lon": -96.7151165182628,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.421Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.421Z"
+}

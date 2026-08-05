@@ -1,0 +1,19 @@
+{
+  "slug": "gainesville-farmers-market-323-broad-sreet-sw",
+  "name": "Gainesville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "323 Broad Sreet SW, GA",
+  "locationCity": "323 Broad Sreet SW",
+  "locationState": "GA",
+  "locationZipcode": "30501",
+  "lat": 34.29954317629648,
+  "lon": -83.82350663823384,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

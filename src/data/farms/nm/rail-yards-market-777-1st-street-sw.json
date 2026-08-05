@@ -1,0 +1,19 @@
+{
+  "slug": "rail-yards-market-777-1st-street-sw",
+  "name": "Rail Yards Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "777 1st street SW, NM",
+  "locationCity": "777 1st street SW",
+  "locationState": "NM",
+  "locationZipcode": "87102",
+  "lat": 35.075615,
+  "lon": -106.64902,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:59.058Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:59.058Z"
+}

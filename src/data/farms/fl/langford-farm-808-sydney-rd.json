@@ -1,0 +1,19 @@
+{
+  "slug": "langford-farm-808-sydney-rd",
+  "name": "Langford Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "808 Sydney Rd, FL",
+  "locationCity": "808 Sydney Rd",
+  "locationState": "FL",
+  "locationZipcode": "33566",
+  "lat": 27.9901785765149,
+  "lon": -82.1640831261064,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.886Z"
+}

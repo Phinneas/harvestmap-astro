@@ -1,0 +1,19 @@
+{
+  "slug": "bracken-county-farmers-market-augusta-2nd-main-street-augusta",
+  "name": "Bracken County Farmers Market - Augusta",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2nd & Main Street Augusta, KY",
+  "locationCity": "2nd & Main Street Augusta",
+  "locationState": "KY",
+  "locationZipcode": "41002",
+  "lat": 38.773520010883686,
+  "lon": -84.0076900385356,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

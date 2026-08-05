@@ -1,0 +1,20 @@
+{
+  "slug": "the-cherry-house-10600-leona-ave",
+  "name": "The Cherry House",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10600 Leona Ave, CA",
+  "locationCity": "10600 Leona Ave",
+  "locationState": "CA",
+  "locationZipcode": "10600",
+  "lat": 34.61329300171383,
+  "lon": -118.3154909584278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.850Z",
+  "crops": []
+}

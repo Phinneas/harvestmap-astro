@@ -1,0 +1,19 @@
+{
+  "slug": "gourmet-gorilla-inc-1200-west-cermak",
+  "name": "Gourmet Gorilla, Inc",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1200 West Cermak, IL",
+  "locationCity": "1200 West Cermak",
+  "locationState": "IL",
+  "locationZipcode": "60608",
+  "lat": 41.8537887,
+  "lon": -87.656726,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:51.753Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:51.753Z"
+}

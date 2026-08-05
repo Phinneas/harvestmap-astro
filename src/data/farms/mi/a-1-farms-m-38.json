@@ -1,0 +1,19 @@
+{
+  "slug": "a-1-farms-m-38",
+  "name": "A-1 Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "M 38, MI",
+  "locationCity": "M 38",
+  "locationState": "MI",
+  "locationZipcode": "49952",
+  "lat": 46.7650969419169,
+  "lon": -88.8131036476301,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.721Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.721Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lasalle-farmers-market-2nd-st-gooding-st-la-salle",
+  "name": "LaSalle Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2nd St & Gooding St La Salle, IL",
+  "locationCity": "2nd St & Gooding St La Salle",
+  "locationState": "IL",
+  "locationZipcode": "61301",
+  "lat": 41.329130018748856,
+  "lon": -89.09690998918234,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cannon-valley-farmers-market-winter-200-western-ave-nw",
+  "name": "Cannon Valley Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Western Ave NW, MN",
+  "locationCity": "200 Western Ave NW",
+  "locationState": "MN",
+  "locationZipcode": "55021",
+  "lat": 44.2916625,
+  "lon": -93.3045877,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

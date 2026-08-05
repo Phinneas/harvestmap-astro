@@ -1,0 +1,19 @@
+{
+  "slug": "milk-lady-derwood-farmers-market-16501-redland-road",
+  "name": "Milk Lady Derwood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16501 Redland Road, MD",
+  "locationCity": "16501 Redland Road",
+  "locationState": "MD",
+  "locationZipcode": "16501",
+  "lat": 39.126885,
+  "lon": -77.150144,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.492Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "double-d-farms-8060-w-airline-road",
+  "name": "Double D Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8060 W Airline Road, MI",
+  "locationCity": "8060 W Airline Road",
+  "locationState": "MI",
+  "locationZipcode": "48893",
+  "lat": 43.690693016951286,
+  "lon": -85.00935496064339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.232Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.232Z"
+}

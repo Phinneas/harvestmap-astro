@@ -1,0 +1,19 @@
+{
+  "slug": "huguenot-st-farm-205-huguenot-st",
+  "name": "Huguenot St Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "205 Huguenot St, NY",
+  "locationCity": "205 Huguenot St",
+  "locationState": "NY",
+  "locationZipcode": "12561",
+  "lat": 41.7621247,
+  "lon": -74.0862452,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

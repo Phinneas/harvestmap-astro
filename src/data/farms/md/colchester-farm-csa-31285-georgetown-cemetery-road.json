@@ -1,0 +1,19 @@
+{
+  "slug": "colchester-farm-csa-31285-georgetown-cemetery-road",
+  "name": "Colchester Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "31285 Georgetown Cemetery Road, MD",
+  "locationCity": "31285 Georgetown Cemetery Road",
+  "locationState": "MD",
+  "locationZipcode": "31285",
+  "lat": 39.358259,
+  "lon": -75.8784772,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.689Z"
+}

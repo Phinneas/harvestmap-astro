@@ -1,0 +1,19 @@
+{
+  "slug": "jonesboro-farmers-market-155-lee-street",
+  "name": "Jonesboro Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "155 Lee Street, GA",
+  "locationCity": "155 Lee Street",
+  "locationState": "GA",
+  "locationZipcode": "30236",
+  "lat": 33.52700040377472,
+  "lon": -84.35764640947687,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

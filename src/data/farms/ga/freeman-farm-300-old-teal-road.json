@@ -1,0 +1,19 @@
+{
+  "slug": "freeman-farm-300-old-teal-road",
+  "name": "Freeman Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "300 Old Teal Road, GA",
+  "locationCity": "300 Old Teal Road",
+  "locationState": "GA",
+  "locationZipcode": "30141",
+  "lat": 33.8608019863538,
+  "lon": -84.8180800139988,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.379Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.379Z"
+}

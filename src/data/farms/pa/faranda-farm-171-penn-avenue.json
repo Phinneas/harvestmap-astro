@@ -1,0 +1,19 @@
+{
+  "slug": "faranda-farm-171-penn-avenue",
+  "name": "Faranda Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "171 Penn Avenue, PA",
+  "locationCity": "171 Penn Avenue",
+  "locationState": "PA",
+  "locationZipcode": "15935",
+  "lat": 40.2096945162461,
+  "lon": -78.9303739566368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.085Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.085Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "honey-field-farm-55-butternut-road",
+  "name": "Honey Field Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "55 Butternut Road, VT",
+  "locationCity": "55 Butternut Road",
+  "locationState": "VT",
+  "locationZipcode": "05055",
+  "lat": 43.737431472976425,
+  "lon": -72.27072702360839,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.144Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.144Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sunset-view-farms-502-sugar-run-road",
+  "name": "Sunset View Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "502 Sugar Run Road, WV",
+  "locationCity": "502 Sugar Run Road",
+  "locationState": "WV",
+  "locationZipcode": "24918",
+  "lat": 37.4910669901832,
+  "lon": -80.7484299879281,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.835Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.835Z"
+}

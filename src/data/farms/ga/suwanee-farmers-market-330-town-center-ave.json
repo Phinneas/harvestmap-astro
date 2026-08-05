@@ -1,0 +1,19 @@
+{
+  "slug": "suwanee-farmers-market-330-town-center-ave",
+  "name": "Suwanee Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "330 Town Center Ave, GA",
+  "locationCity": "330 Town Center Ave",
+  "locationState": "GA",
+  "locationZipcode": "30024",
+  "lat": 34.05617,
+  "lon": -84.063354,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.685Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.685Z"
+}

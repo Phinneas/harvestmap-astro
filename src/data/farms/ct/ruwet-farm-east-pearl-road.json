@@ -1,0 +1,20 @@
+{
+  "slug": "ruwet-farm-east-pearl-road",
+  "name": "Ruwet Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "East Pearl Road, CT",
+  "locationCity": "East Pearl Road",
+  "locationState": "CT",
+  "locationZipcode": "06790",
+  "lat": 41.8302521610754,
+  "lon": -73.0730067263631,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.945Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.945Z",
+  "crops": []
+}

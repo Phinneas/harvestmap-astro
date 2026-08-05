@@ -1,0 +1,19 @@
+{
+  "slug": "baker-blueberry-hill-411-ef-sanford-rd",
+  "name": "Baker Blueberry Hill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "411 EF Sanford Rd, FL",
+  "locationCity": "411 EF Sanford Rd",
+  "locationState": "FL",
+  "locationZipcode": "32531",
+  "lat": 30.8800576936824,
+  "lon": -86.6897589862763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.783Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "spork-food-hub-1500-cannery-ave",
+  "name": "Spork Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1500 Cannery Ave, CA",
+  "locationCity": "1500 Cannery Ave",
+  "locationState": "CA",
+  "locationZipcode": "95616",
+  "lat": 38.56644391946796,
+  "lon": -121.73964005975967,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

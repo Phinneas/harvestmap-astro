@@ -1,0 +1,19 @@
+{
+  "slug": "suter-produce-12200-pandora-road",
+  "name": "Suter Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "12200 Pandora Road, OH",
+  "locationCity": "12200 Pandora Road",
+  "locationState": "OH",
+  "locationZipcode": "12200",
+  "lat": 40.91581099709302,
+  "lon": -83.95588803289267,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.374Z"
+}

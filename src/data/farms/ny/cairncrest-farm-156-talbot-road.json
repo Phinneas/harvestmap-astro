@@ -1,0 +1,19 @@
+{
+  "slug": "cairncrest-farm-156-talbot-road",
+  "name": "Cairncrest farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "156 Talbot Road, NY",
+  "locationCity": "156 Talbot Road",
+  "locationState": "NY",
+  "locationZipcode": "13491",
+  "lat": 42.8045020125827,
+  "lon": -75.1542934939052,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.201Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.201Z"
+}

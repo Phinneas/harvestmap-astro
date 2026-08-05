@@ -1,0 +1,19 @@
+{
+  "slug": "farmland-farmers-market-103-n-main-st-farmland",
+  "name": "Farmland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "103 N. Main St. Farmland, IN",
+  "locationCity": "103 N. Main St. Farmland",
+  "locationState": "IN",
+  "locationZipcode": "47340",
+  "lat": 40.18915771654715,
+  "lon": -85.12774736231675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

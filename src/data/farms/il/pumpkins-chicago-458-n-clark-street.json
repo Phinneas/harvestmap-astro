@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkins-chicago-458-n-clark-street",
+  "name": "Pumpkins Chicago",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "458 N. Clark Street, IL",
+  "locationCity": "458 N. Clark Street",
+  "locationState": "IL",
+  "locationZipcode": "60657",
+  "lat": 41.8903908679281,
+  "lon": -87.6311559991187,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.900Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.900Z"
+}

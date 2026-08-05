@@ -1,0 +1,19 @@
+{
+  "slug": "maple-crest-farm-102-moulton-street",
+  "name": "Maple Crest Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "102 Moulton Street, MA",
+  "locationCity": "102 Moulton Street",
+  "locationState": "MA",
+  "locationZipcode": "01985",
+  "lat": 42.7765637043754,
+  "lon": -70.95419029284,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.530Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.530Z"
+}

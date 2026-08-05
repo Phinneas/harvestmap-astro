@@ -1,0 +1,19 @@
+{
+  "slug": "dinsdale-farm-123-riverbanks-rd",
+  "name": "Dinsdale Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "123 Riverbanks Rd, OR",
+  "locationCity": "123 Riverbanks Rd",
+  "locationState": "OR",
+  "locationZipcode": "97527",
+  "lat": 42.3970228306272,
+  "lon": -123.458659931307,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.818Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.818Z"
+}

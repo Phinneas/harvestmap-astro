@@ -1,0 +1,19 @@
+{
+  "slug": "homeless-garden-project-601-shaffer-rd",
+  "name": "Homeless Garden Project",
+  "source": "usda",
+  "directory": "csa",
+  "location": "601 Shaffer Rd, CA",
+  "locationCity": "601 Shaffer Rd",
+  "locationState": "CA",
+  "locationZipcode": "95060",
+  "lat": 36.95417956045463,
+  "lon": -122.06527798047995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.076Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.076Z"
+}

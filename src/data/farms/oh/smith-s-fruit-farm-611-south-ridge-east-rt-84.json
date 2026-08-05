@@ -1,0 +1,19 @@
+{
+  "slug": "smith-s-fruit-farm-611-south-ridge-east-rt-84",
+  "name": "Smith's Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "611 South Ridge East (Rt 84), OH",
+  "locationCity": "611 South Ridge East (Rt 84)",
+  "locationState": "OH",
+  "locationZipcode": "44041",
+  "lat": 41.7932905535617,
+  "lon": -80.9380242562493,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.829Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.829Z"
+}

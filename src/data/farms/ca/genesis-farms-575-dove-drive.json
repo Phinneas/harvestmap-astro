@@ -1,0 +1,19 @@
+{
+  "slug": "genesis-farms-575-dove-drive",
+  "name": "Genesis Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "575 Dove Drive, CA",
+  "locationCity": "575 Dove Drive",
+  "locationState": "CA",
+  "locationZipcode": "92536",
+  "lat": 33.4666115794763,
+  "lon": -116.797460994326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.793Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.793Z"
+}

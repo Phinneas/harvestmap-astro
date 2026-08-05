@@ -1,0 +1,19 @@
+{
+  "slug": "wedofarm-230-bethel-road",
+  "name": "WeDoFarm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "230 Bethel Road, TN",
+  "locationCity": "230 Bethel Road",
+  "locationState": "TN",
+  "locationZipcode": "37166",
+  "lat": 35.8533146552872,
+  "lon": -85.8797579621792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.273Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.273Z"
+}

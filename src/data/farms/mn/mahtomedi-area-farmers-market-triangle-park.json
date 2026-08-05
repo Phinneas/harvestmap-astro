@@ -1,0 +1,19 @@
+{
+  "slug": "mahtomedi-area-farmers-market-triangle-park",
+  "name": "Mahtomedi Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Triangle Park, MN",
+  "locationCity": "Triangle Park",
+  "locationState": "MN",
+  "locationZipcode": "55115",
+  "lat": 45.0570248,
+  "lon": -92.9590885,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

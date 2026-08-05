@@ -1,0 +1,19 @@
+{
+  "slug": "silverton-farmers-market-229-eureka-ave",
+  "name": "Silverton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "229 Eureka Ave, OR",
+  "locationCity": "229 Eureka Ave",
+  "locationState": "OR",
+  "locationZipcode": "97381",
+  "lat": 45.00054607408315,
+  "lon": -122.78927897449776,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.427Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.427Z"
+}

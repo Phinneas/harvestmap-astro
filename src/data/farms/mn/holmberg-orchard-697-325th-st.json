@@ -1,0 +1,19 @@
+{
+  "slug": "holmberg-orchard-697-325th-st",
+  "name": "Holmberg Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "697 325th St, MN",
+  "locationCity": "697 325th St",
+  "locationState": "MN",
+  "locationZipcode": "56292",
+  "lat": 44.5230398017345,
+  "lon": -95.5333801883008,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.703Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.703Z"
+}

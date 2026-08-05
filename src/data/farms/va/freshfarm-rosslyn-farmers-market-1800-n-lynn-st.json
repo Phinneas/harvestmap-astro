@@ -1,0 +1,19 @@
+{
+  "slug": "freshfarm-rosslyn-farmers-market-1800-n-lynn-st",
+  "name": "FRESHFARM Rosslyn Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1800 N Lynn St, VA",
+  "locationCity": "1800 N Lynn St",
+  "locationState": "VA",
+  "locationZipcode": "22209",
+  "lat": 38.896123821679204,
+  "lon": -77.07084962764637,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

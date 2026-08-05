@@ -1,0 +1,19 @@
+{
+  "slug": "antrim-farmers-market-128-concord-st-antrim",
+  "name": "Antrim Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "128 Concord St Antrim, NH",
+  "locationCity": "128 Concord St Antrim",
+  "locationState": "NH",
+  "locationZipcode": "03440",
+  "lat": 43.047755794814776,
+  "lon": -71.92929493023875,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.153Z"
+}

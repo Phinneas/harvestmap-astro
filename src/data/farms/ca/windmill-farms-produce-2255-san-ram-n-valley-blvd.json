@@ -1,0 +1,19 @@
+{
+  "slug": "windmill-farms-produce-2255-san-ram-n-valley-blvd",
+  "name": "Windmill Farms Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2255 San Ramón Valley Blvd, CA",
+  "locationCity": "2255 San Ramón Valley Blvd",
+  "locationState": "CA",
+  "locationZipcode": "94583",
+  "lat": 37.77885100235177,
+  "lon": -121.97778903971323,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

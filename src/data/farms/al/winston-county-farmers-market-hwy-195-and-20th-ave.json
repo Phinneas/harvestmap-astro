@@ -1,0 +1,19 @@
+{
+  "slug": "winston-county-farmers-market-hwy-195-and-20th-ave",
+  "name": "Winston County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hwy 195 and 20th Ave., AL",
+  "locationCity": "Hwy 195 and 20th Ave.",
+  "locationState": "AL",
+  "locationZipcode": "35565",
+  "lat": 34.231430005389925,
+  "lon": -87.60961997677089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.020Z"
+}

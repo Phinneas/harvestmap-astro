@@ -1,0 +1,19 @@
+{
+  "slug": "murray-farmers-market-296-e-murray-park-ave-murray",
+  "name": "Murray Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "296 E Murray Park Ave Murray, UT",
+  "locationCity": "296 E Murray Park Ave Murray",
+  "locationState": "UT",
+  "locationZipcode": "84107",
+  "lat": 40.66004937724367,
+  "lon": -111.88219186292648,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:23.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:23.640Z"
+}

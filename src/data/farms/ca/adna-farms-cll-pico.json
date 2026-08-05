@@ -1,0 +1,19 @@
+{
+  "slug": "adna-farms-cll-pico",
+  "name": "Adna Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cll Pico, CA",
+  "locationCity": "Cll Pico",
+  "locationState": "CA",
+  "locationZipcode": "92590",
+  "lat": 33.4645828,
+  "lon": -117.198284,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.850Z"
+}

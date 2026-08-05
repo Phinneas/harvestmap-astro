@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-farmers-market-100-block-w-broadway-council-bluffs",
+  "name": "Main Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Block W. Broadway Council Bluffs, IA",
+  "locationCity": "100 Block W. Broadway Council Bluffs",
+  "locationState": "IA",
+  "locationZipcode": "51503",
+  "lat": 41.26332662300899,
+  "lon": -95.84380673778418,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

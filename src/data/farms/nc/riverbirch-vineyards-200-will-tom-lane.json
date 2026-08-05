@@ -1,0 +1,20 @@
+{
+  "slug": "riverbirch-vineyards-200-will-tom-lane",
+  "name": "Riverbirch Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 Will Tom Lane, NC",
+  "locationCity": "200 Will Tom Lane",
+  "locationState": "NC",
+  "locationZipcode": "27320",
+  "lat": 36.3091239832389,
+  "lon": -79.8458890798128,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.744Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.744Z",
+  "crops": []
+}

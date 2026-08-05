@@ -1,0 +1,19 @@
+{
+  "slug": "westerly-land-trust-farmers-market-61-85-main-street",
+  "name": "Westerly Land Trust Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "61-85 Main Street, RI",
+  "locationCity": "61-85 Main Street",
+  "locationState": "RI",
+  "locationZipcode": "02891",
+  "lat": 41.375089,
+  "lon": -71.83172,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.524Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.524Z"
+}

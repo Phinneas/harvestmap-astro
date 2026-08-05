@@ -1,0 +1,19 @@
+{
+  "slug": "hanover-farmers-market-210-east-chestnut-street-210-east-chestnut-street-hanover",
+  "name": "Hanover Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 East Chestnut Street 210 East Chestnut Street Hanover, PA",
+  "locationCity": "210 East Chestnut Street 210 East Chestnut Street Hanover",
+  "locationState": "PA",
+  "locationZipcode": "17331",
+  "lat": 39.80352480710675,
+  "lon": -76.98213726683507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

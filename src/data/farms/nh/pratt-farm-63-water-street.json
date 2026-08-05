@@ -1,0 +1,19 @@
+{
+  "slug": "pratt-farm-63-water-street",
+  "name": "Pratt Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "63 Water Street, NH",
+  "locationCity": "63 Water Street",
+  "locationState": "NH",
+  "locationZipcode": "03584",
+  "lat": 44.4877799480805,
+  "lon": -71.5787889808881,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.888Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.888Z"
+}

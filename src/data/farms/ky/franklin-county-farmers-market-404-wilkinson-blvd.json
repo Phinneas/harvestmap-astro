@@ -1,0 +1,19 @@
+{
+  "slug": "franklin-county-farmers-market-404-wilkinson-blvd",
+  "name": "Franklin County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "404 Wilkinson Blvd., KY",
+  "locationCity": "404 Wilkinson Blvd.",
+  "locationState": "KY",
+  "locationZipcode": "40601",
+  "lat": 38.201613,
+  "lon": -84.88021,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.717Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.717Z"
+}

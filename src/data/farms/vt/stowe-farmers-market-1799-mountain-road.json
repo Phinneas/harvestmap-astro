@@ -1,0 +1,19 @@
+{
+  "slug": "stowe-farmers-market-1799-mountain-road",
+  "name": "Stowe Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1799 Mountain Road, VT",
+  "locationCity": "1799 Mountain Road",
+  "locationState": "VT",
+  "locationZipcode": "05672",
+  "lat": 44.473531,
+  "lon": -72.712004,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.107Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.107Z"
+}

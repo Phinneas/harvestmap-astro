@@ -1,0 +1,19 @@
+{
+  "slug": "vienna-farmers-market-131-church-street-ne-vienna",
+  "name": "Vienna Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "131 Church Street NE Vienna, VA",
+  "locationCity": "131 Church Street NE Vienna",
+  "locationState": "VA",
+  "locationZipcode": "22180",
+  "lat": 38.90336615700646,
+  "lon": -77.26534240238045,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

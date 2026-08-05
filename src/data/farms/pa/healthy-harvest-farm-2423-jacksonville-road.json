@@ -1,0 +1,19 @@
+{
+  "slug": "healthy-harvest-farm-2423-jacksonville-road",
+  "name": "Healthy Harvest Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2423 Jacksonville Road, PA",
+  "locationCity": "2423 Jacksonville Road",
+  "locationState": "PA",
+  "locationZipcode": "16823",
+  "lat": 40.9607277,
+  "lon": -77.6883498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.546Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.546Z"
+}

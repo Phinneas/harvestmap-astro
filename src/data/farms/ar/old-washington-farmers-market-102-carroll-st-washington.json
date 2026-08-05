@@ -1,0 +1,19 @@
+{
+  "slug": "old-washington-farmers-market-102-carroll-st-washington",
+  "name": "Old Washington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 carroll st. Washington, AR",
+  "locationCity": "102 carroll st. Washington",
+  "locationState": "AR",
+  "locationZipcode": "71862",
+  "lat": 33.7743225997419,
+  "lon": -93.68246508320883,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

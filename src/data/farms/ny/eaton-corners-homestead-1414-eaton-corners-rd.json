@@ -1,0 +1,19 @@
+{
+  "slug": "eaton-corners-homestead-1414-eaton-corners-rd",
+  "name": "Eaton Corners Homestead",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1414 Eaton Corners rd, NY",
+  "locationCity": "1414 Eaton Corners rd",
+  "locationState": "NY",
+  "locationZipcode": "12053",
+  "lat": 42.801517910097786,
+  "lon": -74.24595789772665,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.174Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.174Z"
+}

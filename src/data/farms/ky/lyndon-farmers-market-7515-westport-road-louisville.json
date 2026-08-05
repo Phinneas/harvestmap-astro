@@ -1,0 +1,19 @@
+{
+  "slug": "lyndon-farmers-market-7515-westport-road-louisville",
+  "name": "Lyndon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7515 Westport Road Louisville, KY",
+  "locationCity": "7515 Westport Road Louisville",
+  "locationState": "KY",
+  "locationZipcode": "40222",
+  "lat": 38.27163263909712,
+  "lon": -85.61330854761432,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

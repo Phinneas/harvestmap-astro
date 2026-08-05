@@ -1,0 +1,19 @@
+{
+  "slug": "jack-s-bees-67-baker-road",
+  "name": "Jack's Bees",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "67 Baker Road, NH",
+  "locationCity": "67 Baker Road",
+  "locationState": "NH",
+  "locationZipcode": "03034",
+  "lat": 43.0563409873547,
+  "lon": -71.3144719839629,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.562Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.562Z"
+}

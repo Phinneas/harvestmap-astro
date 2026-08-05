@@ -1,0 +1,19 @@
+{
+  "slug": "smith-s-local-farmers-market-peoria-az-85383",
+  "name": "Smith's Local Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Peoria AZ 85383, AZ",
+  "locationCity": "Peoria AZ 85383",
+  "locationState": "AZ",
+  "locationZipcode": "85383",
+  "lat": 33.75192050000004,
+  "lon": -112.32745539999996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.031Z"
+}

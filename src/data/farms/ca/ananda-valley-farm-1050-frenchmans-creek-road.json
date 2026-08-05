@@ -1,0 +1,19 @@
+{
+  "slug": "ananda-valley-farm-1050-frenchmans-creek-road",
+  "name": "Ananda Valley Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1050 Frenchmans Creek Road, CA",
+  "locationCity": "1050 Frenchmans Creek Road",
+  "locationState": "CA",
+  "locationZipcode": "94019",
+  "lat": 37.504906,
+  "lon": -122.432961,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.065Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.065Z"
+}

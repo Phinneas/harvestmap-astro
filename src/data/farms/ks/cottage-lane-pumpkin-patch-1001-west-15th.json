@@ -1,0 +1,19 @@
+{
+  "slug": "cottage-lane-pumpkin-patch-1001-west-15th",
+  "name": "Cottage Lane Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1001 West 15th, KS",
+  "locationCity": "1001 West 15th",
+  "locationState": "KS",
+  "locationZipcode": "67637",
+  "lat": 38.9324120194337,
+  "lon": -99.5749290006118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.056Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.056Z"
+}

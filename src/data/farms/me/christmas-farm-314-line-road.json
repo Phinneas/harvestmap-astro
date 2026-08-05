@@ -1,0 +1,20 @@
+{
+  "slug": "christmas-farm-314-line-road",
+  "name": "Christmas Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "314 Line Road, ME",
+  "locationCity": "314 Line Road",
+  "locationState": "ME",
+  "locationZipcode": "04093",
+  "lat": 43.7097504053776,
+  "lon": -70.5422761619754,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.019Z",
+  "crops": []
+}

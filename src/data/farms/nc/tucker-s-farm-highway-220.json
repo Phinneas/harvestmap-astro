@@ -1,0 +1,19 @@
+{
+  "slug": "tucker-s-farm-highway-220",
+  "name": "Tucker's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Highway 220, NC",
+  "locationCity": "Highway 220",
+  "locationState": "NC",
+  "locationZipcode": "27025",
+  "lat": 36.360165225511,
+  "lon": -79.9455142246112,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.847Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.847Z"
+}

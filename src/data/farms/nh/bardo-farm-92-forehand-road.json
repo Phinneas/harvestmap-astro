@@ -1,0 +1,19 @@
+{
+  "slug": "bardo-farm-92-forehand-road",
+  "name": "Bardo Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "92 Forehand Road, NH",
+  "locationCity": "92 Forehand Road",
+  "locationState": "NH",
+  "locationZipcode": "03773",
+  "lat": 43.4619593869252,
+  "lon": -72.15833911307078,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.607Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.607Z"
+}

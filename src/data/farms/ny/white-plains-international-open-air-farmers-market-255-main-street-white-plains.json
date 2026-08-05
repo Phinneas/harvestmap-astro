@@ -1,0 +1,19 @@
+{
+  "slug": "white-plains-international-open-air-farmers-market-255-main-street-white-plains",
+  "name": "White Plains International Open Air Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "255 Main Street White Plains, NY",
+  "locationCity": "255 Main Street White Plains",
+  "locationState": "NY",
+  "locationZipcode": "10601",
+  "lat": 41.03318810874806,
+  "lon": -73.76507456474839,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

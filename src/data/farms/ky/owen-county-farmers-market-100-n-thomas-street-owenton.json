@@ -1,0 +1,19 @@
+{
+  "slug": "owen-county-farmers-market-100-n-thomas-street-owenton",
+  "name": "Owen County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 N Thomas Street Owenton, KY",
+  "locationCity": "100 N Thomas Street Owenton",
+  "locationState": "KY",
+  "locationZipcode": "40359",
+  "lat": 38.53704343449874,
+  "lon": -84.83679361752381,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "chimney-creek-farm-12101-7-mile-rd-ne",
+  "name": "Chimney Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "12101 7 Mile Rd NE, MI",
+  "locationCity": "12101 7 Mile Rd NE",
+  "locationState": "MI",
+  "locationZipcode": "12101",
+  "lat": 43.073623,
+  "lon": -85.369163,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.092Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.092Z"
+}

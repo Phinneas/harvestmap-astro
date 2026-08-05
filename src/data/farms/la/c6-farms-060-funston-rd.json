@@ -1,0 +1,19 @@
+{
+  "slug": "c6-farms-060-funston-rd",
+  "name": "C6 Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "060 Funston Rd, LA",
+  "locationCity": "060 Funston Rd",
+  "locationState": "LA",
+  "locationZipcode": "71049",
+  "lat": 32.0469257170888,
+  "lon": -93.9701318688061,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.022Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.022Z"
+}

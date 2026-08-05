@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-marketplace-tallahassee-119-e-park-avenue-tallahassee",
+  "name": "Downtown MarketPlace Tallahassee",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "119 E Park Avenue Tallahassee, FL",
+  "locationCity": "119 E Park Avenue Tallahassee",
+  "locationState": "FL",
+  "locationZipcode": "32301",
+  "lat": 30.44187262446051,
+  "lon": -84.28168211344772,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bigfork-farmer-s-market-8096-mt-hwy-35-bigfork",
+  "name": "Bigfork Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8096 MT Hwy 35 Bigfork, MT",
+  "locationCity": "8096 MT Hwy 35 Bigfork",
+  "locationState": "MT",
+  "locationZipcode": "59911",
+  "lat": 48.07446613275215,
+  "lon": -114.07885974240038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:22.007Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:22.007Z"
+}

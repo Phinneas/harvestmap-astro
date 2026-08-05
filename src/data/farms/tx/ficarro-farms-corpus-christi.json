@@ -1,0 +1,19 @@
+{
+  "slug": "ficarro-farms-corpus-christi",
+  "name": "Ficarro Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Corpus Christi, TX",
+  "locationCity": "Corpus Christi",
+  "locationState": "TX",
+  "locationZipcode": "78413",
+  "lat": 27.682065,
+  "lon": -97.40283,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.273Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.273Z"
+}

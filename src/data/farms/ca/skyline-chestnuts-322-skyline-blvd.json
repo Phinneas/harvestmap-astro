@@ -1,0 +1,19 @@
+{
+  "slug": "skyline-chestnuts-322-skyline-blvd",
+  "name": "Skyline Chestnuts",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "322 Skyline Blvd., CA",
+  "locationCity": "322 Skyline Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "94020",
+  "lat": 37.3126649533285,
+  "lon": -122.175454673478,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.773Z"
+}

@@ -3,19 +3,19 @@
   "name": "Von Thuns Country Farm Market",
   "source": "usda",
   "directory": "onfarmmarket",
-  "location": "519 Ridge Road Route 522, NJ",
-  "locationCity": "519 Ridge Road Route 522",
+  "location": "519 Ridge Road (Route 522), NJ",
+  "locationCity": "519 Ridge Road (Route 522)",
   "locationState": "NJ",
-  "locationZipcode": "",
-  "lat": 40.38058201334465,
-  "lon": -74.53136201693275,
+  "locationZipcode": "08852",
+  "lat": 40.379488,
+  "lon": -74.529965,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:33:36.554Z"
+      "lastSeen": "2026-08-05T18:46:24.716Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:33:36.554Z",
-  "website": "https://vonthunfarms.com/",
+  "usdaLastUpdated": "2026-08-05T18:46:24.716Z",
+  "crops": [],
   "tagline": "Von Thun Farms"
 }

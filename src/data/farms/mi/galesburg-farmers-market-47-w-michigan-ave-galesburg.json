@@ -1,0 +1,19 @@
+{
+  "slug": "galesburg-farmers-market-47-w-michigan-ave-galesburg",
+  "name": "Galesburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "47 W. Michigan Ave Galesburg, MI",
+  "locationCity": "47 W. Michigan Ave Galesburg",
+  "locationState": "MI",
+  "locationZipcode": "49053",
+  "lat": 42.28888701722971,
+  "lon": -85.41893036403027,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

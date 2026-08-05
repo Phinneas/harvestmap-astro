@@ -1,0 +1,19 @@
+{
+  "slug": "taylorville-market-day-100-n-main-st-taylorville",
+  "name": "Taylorville Market Day",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 N Main St. Taylorville, IL",
+  "locationCity": "100 N Main St. Taylorville",
+  "locationState": "IL",
+  "locationZipcode": "62568",
+  "lat": 39.549422663797856,
+  "lon": -89.29493663130356,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

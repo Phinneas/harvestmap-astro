@@ -1,0 +1,19 @@
+{
+  "slug": "lewistown-farmers-market-101-n-main-street-lewistown",
+  "name": "Lewistown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 N. Main Street Lewistown, IL",
+  "locationCity": "101 N. Main Street Lewistown",
+  "locationState": "IL",
+  "locationZipcode": "61542",
+  "lat": 40.396648207765665,
+  "lon": -90.15518046249144,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

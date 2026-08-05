@@ -1,0 +1,19 @@
+{
+  "slug": "highland-orchards-1000-marshallton-thorndale-rd",
+  "name": "Highland Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1000 Marshallton-thorndale Rd, PA",
+  "locationCity": "1000 Marshallton-thorndale Rd",
+  "locationState": "PA",
+  "locationZipcode": "19380",
+  "lat": 39.9606461077745,
+  "lon": -75.697633854904,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.133Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.133Z"
+}

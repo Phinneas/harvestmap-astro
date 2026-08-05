@@ -1,0 +1,19 @@
+{
+  "slug": "stark-farm-organic-blueberries-30-stark-lane",
+  "name": "Stark Farm Organic Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "30 Stark Lane, NH",
+  "locationCity": "30 Stark Lane",
+  "locationState": "NH",
+  "locationZipcode": "03046",
+  "lat": 43.1267340123312,
+  "lon": -71.6349979730486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.637Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.637Z"
+}

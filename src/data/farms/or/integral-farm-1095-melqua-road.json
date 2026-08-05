@@ -1,0 +1,19 @@
+{
+  "slug": "integral-farm-1095-melqua-road",
+  "name": "Integral Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1095 Melqua Road, OR",
+  "locationCity": "1095 Melqua Road",
+  "locationState": "OR",
+  "locationZipcode": "97471",
+  "lat": 43.260391002176505,
+  "lon": -123.454862015068,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.978Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.978Z"
+}

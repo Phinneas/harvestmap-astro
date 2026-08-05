@@ -1,0 +1,19 @@
+{
+  "slug": "marlette-farmers-market-3048-main-street",
+  "name": "Marlette Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3048 Main Street, MI",
+  "locationCity": "3048 Main Street",
+  "locationState": "MI",
+  "locationZipcode": "48453",
+  "lat": 43.327346,
+  "lon": -83.080532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.185Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.185Z"
+}

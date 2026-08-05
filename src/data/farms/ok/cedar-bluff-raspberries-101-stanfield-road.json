@@ -1,0 +1,19 @@
+{
+  "slug": "cedar-bluff-raspberries-101-stanfield-road",
+  "name": "Cedar Bluff Raspberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Stanfield Road, OK",
+  "locationCity": "101 Stanfield Road",
+  "locationState": "OK",
+  "locationZipcode": "74066",
+  "lat": 36.0159847473582,
+  "lon": -96.0742538441826,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.360Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.360Z"
+}

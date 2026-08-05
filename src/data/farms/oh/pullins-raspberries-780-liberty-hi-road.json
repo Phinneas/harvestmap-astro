@@ -1,0 +1,19 @@
+{
+  "slug": "pullins-raspberries-780-liberty-hi-road",
+  "name": "Pullins Raspberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "780 Liberty Hi Road, OH",
+  "locationCity": "780 Liberty Hi Road",
+  "locationState": "OH",
+  "locationZipcode": "43525",
+  "lat": 41.4608499926798,
+  "lon": -83.7087600229815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.823Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.823Z"
+}

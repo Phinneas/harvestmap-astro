@@ -1,0 +1,19 @@
+{
+  "slug": "riverton-farmers-market-1010-fairground-road-riverton",
+  "name": "Riverton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1010 Fairground Road Riverton, WY",
+  "locationCity": "1010 Fairground Road Riverton",
+  "locationState": "WY",
+  "locationZipcode": "82501",
+  "lat": 43.01467299601745,
+  "lon": -108.38123198988905,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

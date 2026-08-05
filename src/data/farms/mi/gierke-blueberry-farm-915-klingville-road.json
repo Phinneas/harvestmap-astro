@@ -1,0 +1,19 @@
+{
+  "slug": "gierke-blueberry-farm-915-klingville-road",
+  "name": "Gierke Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "915 Klingville Road, MI",
+  "locationCity": "915 Klingville Road",
+  "locationState": "MI",
+  "locationZipcode": "49916",
+  "lat": 46.9664107416783,
+  "lon": -88.4776307230902,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.573Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.573Z"
+}

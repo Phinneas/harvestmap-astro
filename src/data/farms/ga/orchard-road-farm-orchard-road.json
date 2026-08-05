@@ -1,0 +1,19 @@
+{
+  "slug": "orchard-road-farm-orchard-road",
+  "name": "Orchard Road Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Orchard Road, GA",
+  "locationCity": "Orchard Road",
+  "locationState": "GA",
+  "locationZipcode": "31826",
+  "lat": 32.8237957146385,
+  "lon": -84.8239095476012,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:57.884Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:57.884Z"
+}

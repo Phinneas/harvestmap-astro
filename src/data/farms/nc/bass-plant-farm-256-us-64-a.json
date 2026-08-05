@@ -1,0 +1,19 @@
+{
+  "slug": "bass-plant-farm-256-us-64-a",
+  "name": "Bass Plant Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "256 US 64 A, NC",
+  "locationCity": "256 US 64 A",
+  "locationState": "NC",
+  "locationZipcode": "27856",
+  "lat": 35.9708245475472,
+  "lon": -77.9986463554162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.643Z"
+}

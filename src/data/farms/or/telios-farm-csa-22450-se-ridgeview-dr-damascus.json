@@ -1,0 +1,19 @@
+{
+  "slug": "telios-farm-csa-22450-se-ridgeview-dr-damascus",
+  "name": "Telios Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "22450 SE Ridgeview Dr Damascus, OR",
+  "locationCity": "22450 SE Ridgeview Dr Damascus",
+  "locationState": "OR",
+  "locationZipcode": "22450",
+  "lat": 45.430725,
+  "lon": -122.4304739,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.958Z"
+}

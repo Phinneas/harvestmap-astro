@@ -1,0 +1,19 @@
+{
+  "slug": "eden-prairie-indoor-farmers-market-plymoth-10050-6th-ave-n",
+  "name": "Eden Prairie Indoor Farmers' Market - Plymoth",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10050 6th Ave N, MN",
+  "locationCity": "10050 6th Ave N",
+  "locationState": "MN",
+  "locationZipcode": "10050",
+  "lat": 44.9846056,
+  "lon": -93.4081154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

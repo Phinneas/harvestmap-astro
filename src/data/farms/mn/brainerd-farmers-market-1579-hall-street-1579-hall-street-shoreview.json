@@ -1,0 +1,19 @@
+{
+  "slug": "brainerd-farmers-market-1579-hall-street-1579-hall-street-shoreview",
+  "name": "Brainerd Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1579 Hall Street 1579 Hall Street Shoreview, MN",
+  "locationCity": "1579 Hall Street 1579 Hall Street Shoreview",
+  "locationState": "MN",
+  "locationZipcode": "55126",
+  "lat": 45.12292487049462,
+  "lon": -93.16813132869247,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.773Z"
+}

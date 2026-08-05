@@ -1,0 +1,19 @@
+{
+  "slug": "gardener-ranch-114-w-carmel-valley-rd",
+  "name": "Gardener Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "114 W. Carmel Valley Rd., CA",
+  "locationCity": "114 W. Carmel Valley Rd.",
+  "locationState": "CA",
+  "locationZipcode": "93924",
+  "lat": 36.4837682956449,
+  "lon": -121.737825334954,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.808Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.808Z"
+}

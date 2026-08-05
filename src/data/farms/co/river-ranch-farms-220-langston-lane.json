@@ -1,0 +1,19 @@
+{
+  "slug": "river-ranch-farms-220-langston-lane",
+  "name": "River Ranch Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "220 Langston Lane, CO",
+  "locationCity": "220 Langston Lane",
+  "locationState": "CO",
+  "locationZipcode": "80537",
+  "lat": 40.4057457949367,
+  "lon": -105.145804706518,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.244Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.244Z"
+}

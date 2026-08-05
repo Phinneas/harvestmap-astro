@@ -1,0 +1,19 @@
+{
+  "slug": "hazel-creek-vineyard-060-hazel-road",
+  "name": "Hazel Creek Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "060 Hazel Road, IL",
+  "locationCity": "060 Hazel Road",
+  "locationState": "IL",
+  "locationZipcode": "61081",
+  "lat": 41.8157890350197,
+  "lon": -89.802916834435,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.930Z"
+}

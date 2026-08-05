@@ -1,0 +1,19 @@
+{
+  "slug": "parker-farms-157-farm-tree-lane",
+  "name": "Parker Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "157 Farm Tree Lane, NC",
+  "locationCity": "157 Farm Tree Lane",
+  "locationState": "NC",
+  "locationZipcode": "28328",
+  "lat": 35.08791902339455,
+  "lon": -78.39501051157481,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.909Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.909Z"
+}

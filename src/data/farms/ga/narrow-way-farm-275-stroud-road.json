@@ -1,0 +1,19 @@
+{
+  "slug": "narrow-way-farm-275-stroud-road",
+  "name": "Narrow Way Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "275 Stroud Road, GA",
+  "locationCity": "275 Stroud Road",
+  "locationState": "GA",
+  "locationZipcode": "30252",
+  "lat": 33.4544259884648,
+  "lon": -83.9661589655868,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.360Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.360Z"
+}

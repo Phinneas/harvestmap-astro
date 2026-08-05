@@ -1,0 +1,20 @@
+{
+  "slug": "ives-berry-farm-133-flag-pond-road",
+  "name": "Ives Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "133 Flag Pond Road, ME",
+  "locationCity": "133 Flag Pond Road",
+  "locationState": "ME",
+  "locationZipcode": "04072",
+  "lat": 43.5537413105153,
+  "lon": -70.4205364782459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.824Z",
+  "crops": []
+}

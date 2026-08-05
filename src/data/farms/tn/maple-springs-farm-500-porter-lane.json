@@ -1,0 +1,19 @@
+{
+  "slug": "maple-springs-farm-500-porter-lane",
+  "name": "Maple Springs Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 Porter Lane, TN",
+  "locationCity": "500 Porter Lane",
+  "locationState": "TN",
+  "locationZipcode": "37052",
+  "lat": 36.33593298324195,
+  "lon": -87.36034502618031,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.379Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.379Z"
+}

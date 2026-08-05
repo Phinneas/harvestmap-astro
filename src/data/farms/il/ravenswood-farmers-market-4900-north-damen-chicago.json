@@ -1,0 +1,19 @@
+{
+  "slug": "ravenswood-farmers-market-4900-north-damen-chicago",
+  "name": "Ravenswood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4900 North Damen Chicago, IL",
+  "locationCity": "4900 North Damen Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60625",
+  "lat": 41.9707065558456,
+  "lon": -87.67924858104035,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

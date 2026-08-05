@@ -1,0 +1,19 @@
+{
+  "slug": "ford-s-farm-792-se-36-ave",
+  "name": "Ford's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "792 SE 36 Ave, FL",
+  "locationCity": "792 SE 36 Ave",
+  "locationState": "FL",
+  "locationZipcode": "32091",
+  "lat": 29.8524030220984,
+  "lon": -82.1056000059962,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.886Z"
+}

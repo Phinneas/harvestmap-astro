@@ -1,0 +1,19 @@
+{
+  "slug": "mcquesten-farm-route-3a",
+  "name": "McQuesten Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 3A, NH",
+  "locationCity": "Route 3A",
+  "locationState": "NH",
+  "locationZipcode": "03052",
+  "lat": 42.8500916636541,
+  "lon": -71.477734202707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.581Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.581Z"
+}

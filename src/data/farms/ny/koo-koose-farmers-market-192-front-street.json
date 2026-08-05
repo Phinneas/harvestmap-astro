@@ -1,0 +1,19 @@
+{
+  "slug": "koo-koose-farmers-market-192-front-street",
+  "name": "Koo Koose Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "192 Front Street, NY",
+  "locationCity": "192 Front Street",
+  "locationState": "NY",
+  "locationZipcode": "13754",
+  "lat": 42.06097650204982,
+  "lon": -75.42358304601599,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

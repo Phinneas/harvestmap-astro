@@ -1,0 +1,19 @@
+{
+  "slug": "carlson-s-crypt-14058-6-mile-ne",
+  "name": "Carlson's Crypt",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "14058 - 6 Mile NE, MI",
+  "locationCity": "14058 - 6 Mile NE",
+  "locationState": "MI",
+  "locationZipcode": "14058",
+  "lat": 43.0578509872117,
+  "lon": -85.3210490221721,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.638Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.638Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mandela-marketplace-1364-7th-street",
+  "name": "Mandela MarketPlace",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1364 7th Street, CA",
+  "locationCity": "1364 7th Street",
+  "locationState": "CA",
+  "locationZipcode": "94607",
+  "lat": 37.8049685,
+  "lon": -122.29252,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.239Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.239Z"
+}

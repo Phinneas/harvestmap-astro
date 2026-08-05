@@ -1,0 +1,19 @@
+{
+  "slug": "leeds-farmers-market-7901-parkway-dr",
+  "name": "Leeds Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7901 Parkway Dr., AL",
+  "locationCity": "7901 Parkway Dr.",
+  "locationState": "AL",
+  "locationZipcode": "35094",
+  "lat": 33.54449699797877,
+  "lon": -86.54457998766777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

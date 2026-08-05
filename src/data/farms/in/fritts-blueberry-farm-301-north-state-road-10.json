@@ -1,0 +1,19 @@
+{
+  "slug": "fritts-blueberry-farm-301-north-state-road-10",
+  "name": "Fritts Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "301 North State Road 10, IN",
+  "locationCity": "301 North State Road 10",
+  "locationState": "IN",
+  "locationZipcode": "46310",
+  "lat": 41.1879026981127,
+  "lon": -87.1954161049857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.263Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.263Z"
+}

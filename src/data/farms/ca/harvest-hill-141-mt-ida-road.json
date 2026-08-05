@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-hill-141-mt-ida-road",
+  "name": "Harvest Hill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "141 Mt. Ida Road, CA",
+  "locationCity": "141 Mt. Ida Road",
+  "locationState": "CA",
+  "locationZipcode": "95966",
+  "lat": 39.4839189944248,
+  "lon": -121.49860804039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.825Z"
+}

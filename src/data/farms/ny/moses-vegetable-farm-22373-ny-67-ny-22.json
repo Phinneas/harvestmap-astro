@@ -1,0 +1,19 @@
+{
+  "slug": "moses-vegetable-farm-22373-ny-67-ny-22",
+  "name": "Moses Vegetable Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "22373 NY 67;NY 22, NY",
+  "locationCity": "22373 NY 67;NY 22",
+  "locationState": "NY",
+  "locationZipcode": "22373",
+  "lat": 42.9323551547697,
+  "lon": -73.3594625367016,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.954Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.954Z"
+}

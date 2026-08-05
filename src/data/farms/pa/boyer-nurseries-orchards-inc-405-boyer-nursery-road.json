@@ -1,0 +1,20 @@
+{
+  "slug": "boyer-nurseries-orchards-inc-405-boyer-nursery-road",
+  "name": "Boyer Nurseries Orchards, Inc",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "405 Boyer Nursery Road, PA",
+  "locationCity": "405 Boyer Nursery Road",
+  "locationState": "PA",
+  "locationZipcode": "17307",
+  "lat": 39.91241701408867,
+  "lon": -77.3329200303801,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.218Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.218Z",
+  "crops": []
+}

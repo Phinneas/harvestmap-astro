@@ -1,0 +1,19 @@
+{
+  "slug": "red-oak-farmers-market-307-east-reed-street",
+  "name": "Red Oak Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "307 East Reed Street, IA",
+  "locationCity": "307 East Reed Street",
+  "locationState": "IA",
+  "locationZipcode": "51566",
+  "lat": 41.009641,
+  "lon": -95.228044,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.552Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.552Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gold-orchards-14329-east-u-s-hwy-290",
+  "name": "Gold Orchards",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "14329 East U.S. Hwy. 290, TX",
+  "locationCity": "14329 East U.S. Hwy. 290",
+  "locationState": "TX",
+  "locationZipcode": "14329",
+  "lat": 30.235512019244723,
+  "lon": -98.66661199306446,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.351Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bourbon-farmers-market-201-n-bourbon-st-bourbon",
+  "name": "Bourbon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 N Bourbon St Bourbon, IN",
+  "locationCity": "201 N Bourbon St Bourbon",
+  "locationState": "IN",
+  "locationZipcode": "46504",
+  "lat": 41.296479567502075,
+  "lon": -86.11847128058145,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

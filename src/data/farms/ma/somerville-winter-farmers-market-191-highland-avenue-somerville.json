@@ -1,0 +1,19 @@
+{
+  "slug": "somerville-winter-farmers-market-191-highland-avenue-somerville",
+  "name": "Somerville Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "191 Highland Avenue Somerville, MA",
+  "locationCity": "191 Highland Avenue Somerville",
+  "locationState": "MA",
+  "locationZipcode": "02143",
+  "lat": 42.38942667179555,
+  "lon": -71.10624198454597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.867Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.867Z"
+}

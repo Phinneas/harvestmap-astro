@@ -1,0 +1,20 @@
+{
+  "slug": "tangerini-s-spring-street-farm-inc-139-spring-street",
+  "name": "Tangerini's Spring Street Farm, Inc.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "139 Spring Street, MA",
+  "locationCity": "139 Spring Street",
+  "locationState": "MA",
+  "locationZipcode": "02054",
+  "lat": 42.1590102660279,
+  "lon": -71.3566805661454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.618Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.618Z",
+  "crops": []
+}

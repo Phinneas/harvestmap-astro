@@ -1,0 +1,19 @@
+{
+  "slug": "bixby-farmer-s-market-50-w-dawes-bixby",
+  "name": "Bixby Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50 W. Dawes Bixby, OK",
+  "locationCity": "50 W. Dawes Bixby",
+  "locationState": "OK",
+  "locationZipcode": "74008",
+  "lat": 35.94236437904529,
+  "lon": -95.88386898519266,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:29.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:29.366Z"
+}

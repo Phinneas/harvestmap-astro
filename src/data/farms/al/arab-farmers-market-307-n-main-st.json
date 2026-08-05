@@ -1,0 +1,19 @@
+{
+  "slug": "arab-farmers-market-307-n-main-st",
+  "name": "Arab Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "307 N. Main St., AL",
+  "locationCity": "307 N. Main St.",
+  "locationState": "AL",
+  "locationZipcode": "36016",
+  "lat": 34.31974695909701,
+  "lon": -86.49581072821816,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

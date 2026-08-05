@@ -1,0 +1,19 @@
+{
+  "slug": "brookline-farmers-market-centre-street-west-parking-lot",
+  "name": "Brookline Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Centre Street West PArking Lot, MA",
+  "locationCity": "Centre Street West PArking Lot",
+  "locationState": "MA",
+  "locationZipcode": "02446",
+  "lat": 42.34219,
+  "lon": -71.123782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.771Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.771Z"
+}

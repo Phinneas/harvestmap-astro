@@ -1,0 +1,19 @@
+{
+  "slug": "bmi-farmers-market-1415-key-highway",
+  "name": "BMI Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1415 Key Highway, MD",
+  "locationCity": "1415 Key Highway",
+  "locationState": "MD",
+  "locationZipcode": "21230",
+  "lat": 39.273864,
+  "lon": -76.601326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.489Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.489Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sun-mountain-farm-3000-north-canyon-road",
+  "name": "Sun Mountain Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3000 North Canyon Road, CA",
+  "locationCity": "3000 North Canyon Road",
+  "locationState": "CA",
+  "locationZipcode": "95709",
+  "lat": 38.749688,
+  "lon": -120.72219,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.919Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.919Z"
+}

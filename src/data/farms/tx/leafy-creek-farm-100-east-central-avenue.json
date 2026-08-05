@@ -1,0 +1,19 @@
+{
+  "slug": "leafy-creek-farm-100-east-central-avenue",
+  "name": "Leafy Creek Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 East Central Avenue, TX",
+  "locationCity": "100 East Central Avenue",
+  "locationState": "TX",
+  "locationZipcode": "76442",
+  "lat": 31.8974000000001,
+  "lon": -98.6033,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.580Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.580Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "spring-haven-homestead-double-branch-rd",
+  "name": "Spring Haven Homestead",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Double Branch Rd, TN",
+  "locationCity": "Double Branch Rd",
+  "locationState": "TN",
+  "locationZipcode": "38401",
+  "lat": 35.6722806681689,
+  "lon": -86.9644890335315,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.229Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.229Z"
+}

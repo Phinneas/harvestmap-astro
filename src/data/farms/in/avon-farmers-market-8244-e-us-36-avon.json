@@ -1,0 +1,19 @@
+{
+  "slug": "avon-farmers-market-8244-e-us-36-avon",
+  "name": "Avon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8244 E. US 36 Avon, IN",
+  "locationCity": "8244 E. US 36 Avon",
+  "locationState": "IN",
+  "locationZipcode": "46123",
+  "lat": 39.76299856493487,
+  "lon": -86.38892621758373,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

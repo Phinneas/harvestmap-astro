@@ -1,0 +1,19 @@
+{
+  "slug": "cook-farm-852-ripley-rd",
+  "name": "Cook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "852 Ripley Rd, WV",
+  "locationCity": "852 Ripley Rd",
+  "locationState": "WV",
+  "locationZipcode": "25550",
+  "lat": 38.8419494170607,
+  "lon": -82.114446855011,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.788Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.788Z"
+}

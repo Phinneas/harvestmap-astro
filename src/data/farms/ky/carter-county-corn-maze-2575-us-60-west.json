@@ -1,0 +1,19 @@
+{
+  "slug": "carter-county-corn-maze-2575-us-60-west",
+  "name": "Carter County Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2575 US 60 West, KY",
+  "locationCity": "2575 US 60 West",
+  "locationState": "KY",
+  "locationZipcode": "41143",
+  "lat": 38.3382915705845,
+  "lon": -82.8872190706624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.625Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.625Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ackerman-farms-158-u-s-hwy-150-jackson-st",
+  "name": "Ackerman Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "158 U.S. Hwy. 150 (Jackson St.), IL",
+  "locationCity": "158 U.S. Hwy. 150 (Jackson St.)",
+  "locationState": "IL",
+  "locationZipcode": "61550",
+  "lat": 40.6134327027496,
+  "lon": -89.4605624164983,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.837Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.837Z"
+}

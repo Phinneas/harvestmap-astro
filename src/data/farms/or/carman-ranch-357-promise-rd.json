@@ -1,0 +1,19 @@
+{
+  "slug": "carman-ranch-357-promise-rd",
+  "name": "Carman Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "357 Promise Rd, OR",
+  "locationCity": "357 Promise Rd",
+  "locationState": "OR",
+  "locationZipcode": "97885",
+  "lat": 45.7473199887887,
+  "lon": -117.55639789922,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.960Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.960Z"
+}

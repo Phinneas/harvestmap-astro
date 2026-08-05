@@ -1,0 +1,19 @@
+{
+  "slug": "fergus-farm-1810-porterville-road",
+  "name": "Fergus Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1810 Porterville Road, NY",
+  "locationCity": "1810 Porterville Road",
+  "locationState": "NY",
+  "locationZipcode": "14052",
+  "lat": 42.79123404658924,
+  "lon": -78.56243391454333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.827Z"
+}

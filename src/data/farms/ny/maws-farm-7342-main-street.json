@@ -1,0 +1,20 @@
+{
+  "slug": "maws-farm-7342-main-street",
+  "name": "MAWS Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7342 Main Street, NY",
+  "locationCity": "7342 Main Street",
+  "locationState": "NY",
+  "locationZipcode": "13416",
+  "lat": 43.18083232416811,
+  "lon": -75.01019793330235,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.175Z",
+  "crops": []
+}

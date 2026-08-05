@@ -1,0 +1,19 @@
+{
+  "slug": "tallgrass-farm-p-o-box-1254",
+  "name": "Tallgrass Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "P.O. Box 1254, LA",
+  "locationCity": "P.O. Box 1254",
+  "locationState": "LA",
+  "locationZipcode": "70546",
+  "lat": 30.2340547,
+  "lon": -92.6580775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

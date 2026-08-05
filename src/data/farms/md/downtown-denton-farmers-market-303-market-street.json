@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-denton-farmers-market-303-market-street",
+  "name": "Downtown Denton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "303 Market Street, MD",
+  "locationCity": "303 Market Street",
+  "locationState": "MD",
+  "locationZipcode": "21629",
+  "lat": 38.8860465242934,
+  "lon": -75.83151087260052,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

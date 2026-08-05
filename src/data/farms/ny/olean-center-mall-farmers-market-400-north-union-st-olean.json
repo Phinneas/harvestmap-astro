@@ -1,0 +1,19 @@
+{
+  "slug": "olean-center-mall-farmers-market-400-north-union-st-olean",
+  "name": "Olean Center Mall Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 North Union St Olean, NY",
+  "locationCity": "400 North Union St Olean",
+  "locationState": "NY",
+  "locationZipcode": "14760",
+  "lat": 42.0825795545714,
+  "lon": -78.42990824863745,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

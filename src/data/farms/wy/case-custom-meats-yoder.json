@@ -1,0 +1,19 @@
+{
+  "slug": "case-custom-meats-yoder",
+  "name": "Case Custom Meats",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Yoder, WY",
+  "locationCity": "Yoder",
+  "locationState": "WY",
+  "locationZipcode": "82244",
+  "lat": 41.915028,
+  "lon": -104.28372,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:46.171Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:46.171Z"
+}

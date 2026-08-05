@@ -1,0 +1,19 @@
+{
+  "slug": "stones-throw-farm-3540-makyes-road",
+  "name": "Stones Throw Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3540 Makyes Road, NY",
+  "locationCity": "3540 Makyes Road",
+  "locationState": "NY",
+  "locationZipcode": "13120",
+  "lat": 42.94293040081064,
+  "lon": -76.21377477246047,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.188Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.188Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stoneledge-farm-3000-smith-ln",
+  "name": "StoneLedge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3000 Smith Ln, KY",
+  "locationCity": "3000 Smith Ln",
+  "locationState": "KY",
+  "locationZipcode": "40031",
+  "lat": 38.46260898674959,
+  "lon": -85.41420901446334,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.676Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.676Z"
+}

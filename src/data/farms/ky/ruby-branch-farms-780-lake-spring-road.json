@@ -1,0 +1,19 @@
+{
+  "slug": "ruby-branch-farms-780-lake-spring-road",
+  "name": "Ruby Branch Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "780 Lake Spring Road, KY",
+  "locationCity": "780 Lake Spring Road",
+  "locationState": "KY",
+  "locationZipcode": "42134",
+  "lat": 36.68047098753996,
+  "lon": -86.57866700858747,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.676Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.676Z"
+}

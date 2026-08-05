@@ -1,0 +1,19 @@
+{
+  "slug": "petit-jean-farmers-market-1039-winrock-dr-morrilton",
+  "name": "Petit Jean Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1039 Winrock Dr. Morrilton, AR",
+  "locationCity": "1039 Winrock Dr. Morrilton",
+  "locationState": "AR",
+  "locationZipcode": "72110",
+  "lat": 35.14435087925073,
+  "lon": -92.86380950410776,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

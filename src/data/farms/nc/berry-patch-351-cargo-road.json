@@ -1,0 +1,19 @@
+{
+  "slug": "berry-patch-351-cargo-road",
+  "name": "Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "351 Cargo Road, NC",
+  "locationCity": "351 Cargo Road",
+  "locationState": "NC",
+  "locationZipcode": "28338",
+  "lat": 35.0414255284897,
+  "lon": -79.7668140753018,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.805Z"
+}

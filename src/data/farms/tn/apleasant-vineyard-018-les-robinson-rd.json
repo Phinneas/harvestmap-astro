@@ -1,0 +1,19 @@
+{
+  "slug": "apleasant-vineyard-018-les-robinson-rd",
+  "name": "APleasant Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "018 Les Robinson Rd, TN",
+  "locationCity": "018 Les Robinson Rd",
+  "locationState": "TN",
+  "locationZipcode": "38401",
+  "lat": 35.7788380881283,
+  "lon": -87.0288513194616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.326Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "clark-farm-163-hobart-street",
+  "name": "Clark Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "163 Hobart Street, MA",
+  "locationCity": "163 Hobart Street",
+  "locationState": "MA",
+  "locationZipcode": "01923",
+  "lat": 42.567667147409,
+  "lon": -70.9564374810813,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.628Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.628Z"
+}

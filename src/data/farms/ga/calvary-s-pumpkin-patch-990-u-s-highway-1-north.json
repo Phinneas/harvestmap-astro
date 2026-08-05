@@ -1,0 +1,19 @@
+{
+  "slug": "calvary-s-pumpkin-patch-990-u-s-highway-1-north",
+  "name": "Calvary's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "990 U. S. Highway 1 North, GA",
+  "locationCity": "990 U. S. Highway 1 North",
+  "locationState": "GA",
+  "locationZipcode": "30401",
+  "lat": 32.6282820182206,
+  "lon": -82.3548333960161,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.307Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.307Z"
+}

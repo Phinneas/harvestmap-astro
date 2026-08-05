@@ -1,0 +1,19 @@
+{
+  "slug": "port-orange-green-market-5501-s-williamson-blvd-port-orange",
+  "name": "Port Orange Green Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5501 S. Williamson Blvd Port Orange, FL",
+  "locationCity": "5501 S. Williamson Blvd Port Orange",
+  "locationState": "FL",
+  "locationZipcode": "32128",
+  "lat": 29.10920941198029,
+  "lon": -81.03636231305893,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

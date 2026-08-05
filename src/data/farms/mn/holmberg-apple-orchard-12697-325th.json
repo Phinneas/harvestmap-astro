@@ -1,0 +1,19 @@
+{
+  "slug": "holmberg-apple-orchard-12697-325th",
+  "name": "Holmberg Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12697 325th, MN",
+  "locationCity": "12697 325th",
+  "locationState": "MN",
+  "locationZipcode": "12697",
+  "lat": 44.5251750128927,
+  "lon": -95.5395649818422,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.649Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.649Z"
+}

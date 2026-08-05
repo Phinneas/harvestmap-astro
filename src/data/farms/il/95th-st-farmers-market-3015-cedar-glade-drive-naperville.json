@@ -1,0 +1,19 @@
+{
+  "slug": "95th-st-farmers-market-3015-cedar-glade-drive-naperville",
+  "name": "95th St. Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3015 Cedar Glade Drive Naperville, IL",
+  "locationCity": "3015 Cedar Glade Drive Naperville",
+  "locationState": "IL",
+  "locationZipcode": "60564",
+  "lat": 41.710653556566925,
+  "lon": -88.20102499649082,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

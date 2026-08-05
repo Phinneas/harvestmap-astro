@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-farmers-market-301-main-street-gaithersburg",
+  "name": "Main Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 Main Street Gaithersburg, MD",
+  "locationCity": "301 Main Street Gaithersburg",
+  "locationState": "MD",
+  "locationZipcode": "20878",
+  "lat": 39.12197643962013,
+  "lon": -77.23860910976123,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

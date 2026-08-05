@@ -1,0 +1,19 @@
+{
+  "slug": "frosty-morning-farm-4211-state-route-13",
+  "name": "Frosty Morning Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4211 State Route 13, NY",
+  "locationCity": "4211 State Route 13",
+  "locationState": "NY",
+  "locationZipcode": "13158",
+  "lat": 42.7130815,
+  "lon": -75.9964154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.152Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.152Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "something-from-the-farm-7755-south-timberline-road",
+  "name": "Something From the Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7755 South Timberline Road, CO",
+  "locationCity": "7755 South Timberline Road",
+  "locationState": "CO",
+  "locationZipcode": "80525",
+  "lat": 40.4787533389054,
+  "lon": -105.039485170791,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.176Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.176Z"
+}

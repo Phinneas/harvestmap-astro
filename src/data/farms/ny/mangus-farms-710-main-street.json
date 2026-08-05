@@ -1,0 +1,19 @@
+{
+  "slug": "mangus-farms-710-main-street",
+  "name": "Mangus Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "710 Main Street, NY",
+  "locationCity": "710 Main Street",
+  "locationState": "NY",
+  "locationZipcode": "14818",
+  "lat": 42.4168665667082,
+  "lon": -76.8495542957575,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.941Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.941Z"
+}

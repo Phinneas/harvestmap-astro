@@ -1,0 +1,19 @@
+{
+  "slug": "logan-farms-110-logan-farm-lane",
+  "name": "Logan Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "110 Logan Farm Lane, NC",
+  "locationCity": "110 Logan Farm Lane",
+  "locationState": "NC",
+  "locationZipcode": "27330",
+  "lat": 35.5365961396771,
+  "lon": -79.304147855986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.697Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.697Z"
+}

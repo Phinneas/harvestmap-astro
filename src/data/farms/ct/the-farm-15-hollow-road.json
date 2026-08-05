@@ -1,0 +1,19 @@
+{
+  "slug": "the-farm-15-hollow-road",
+  "name": "The Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "15 Hollow Road, CT",
+  "locationCity": "15 Hollow Road",
+  "locationState": "CT",
+  "locationZipcode": "06798",
+  "lat": 41.537240017921306,
+  "lon": -73.20774702038976,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

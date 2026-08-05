@@ -1,0 +1,19 @@
+{
+  "slug": "seguin-gardens-market-3100-south-central-ave-cicero",
+  "name": "Seguin Gardens Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3100 South Central Ave Cicero, IL",
+  "locationCity": "3100 South Central Ave Cicero",
+  "locationState": "IL",
+  "locationZipcode": "60804",
+  "lat": 41.83623717591785,
+  "lon": -87.76352197597646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "tanglebloom-flower-farm-21-harris-hill-rd",
+  "name": "Tanglebloom Flower Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "21 Harris Hill Rd, VT",
+  "locationCity": "21 Harris Hill Rd",
+  "locationState": "VT",
+  "locationZipcode": "05345",
+  "lat": 42.99091101297685,
+  "lon": -72.63211998745432,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.251Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.251Z",
+  "crops": []
+}

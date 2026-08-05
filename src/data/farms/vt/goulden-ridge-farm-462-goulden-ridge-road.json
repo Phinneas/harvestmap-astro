@@ -1,0 +1,19 @@
+{
+  "slug": "goulden-ridge-farm-462-goulden-ridge-road",
+  "name": "Goulden Ridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "462 Goulden Ridge Road, VT",
+  "locationCity": "462 Goulden Ridge Road",
+  "locationState": "VT",
+  "locationZipcode": "05156",
+  "lat": 43.3957623183753,
+  "lon": -72.4248669114857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.119Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.119Z"
+}

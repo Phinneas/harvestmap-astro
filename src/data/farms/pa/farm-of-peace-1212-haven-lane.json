@@ -1,0 +1,19 @@
+{
+  "slug": "farm-of-peace-1212-haven-lane",
+  "name": "Farm of Peace",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1212 Haven Lane, PA",
+  "locationCity": "1212 Haven Lane",
+  "locationState": "PA",
+  "locationZipcode": "17267",
+  "lat": 39.8088909964119,
+  "lon": -78.2160039889701,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.145Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.145Z"
+}

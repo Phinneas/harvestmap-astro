@@ -1,0 +1,19 @@
+{
+  "slug": "hinsdale-farmers-market-30-e-chicago-ave",
+  "name": "Hinsdale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30 E. Chicago Ave., IL",
+  "locationCity": "30 E. Chicago Ave.",
+  "locationState": "IL",
+  "locationZipcode": "60521",
+  "lat": 41.8036543,
+  "lon": -87.928694,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.929Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.929Z"
+}

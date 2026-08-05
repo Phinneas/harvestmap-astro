@@ -1,0 +1,19 @@
+{
+  "slug": "simple-times-farm-081-e-baldwin-rd",
+  "name": "Simple Times Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "081 E Baldwin Rd, MI",
+  "locationCity": "081 E Baldwin Rd",
+  "locationState": "MI",
+  "locationZipcode": "48439",
+  "lat": 42.8862469122859,
+  "lon": -83.6604060032125,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.647Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.647Z"
+}

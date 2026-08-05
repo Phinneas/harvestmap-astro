@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-on-the-square-901-east-morton-avenue-jacksonville",
+  "name": "Farmers Market on the Square",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "901 East Morton Avenue Jacksonville, IL",
+  "locationCity": "901 East Morton Avenue Jacksonville",
+  "locationState": "IL",
+  "locationZipcode": "62650",
+  "lat": 39.723222831926904,
+  "lon": -90.21823023533325,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

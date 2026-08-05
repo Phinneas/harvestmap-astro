@@ -1,0 +1,19 @@
+{
+  "slug": "depot-farm-market-2838-e-douglas-wichita",
+  "name": "Depot Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2838 E. Douglas Wichita, KS",
+  "locationCity": "2838 E. Douglas Wichita",
+  "locationState": "KS",
+  "locationZipcode": "67214",
+  "lat": 37.68628015845597,
+  "lon": -97.30301547256282,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

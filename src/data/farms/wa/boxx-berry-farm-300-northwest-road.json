@@ -1,0 +1,19 @@
+{
+  "slug": "boxx-berry-farm-300-northwest-road",
+  "name": "Boxx Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "300 Northwest Road, WA",
+  "locationCity": "300 Northwest Road",
+  "locationState": "WA",
+  "locationZipcode": "98248",
+  "lat": 48.8739685820704,
+  "lon": -122.540782050971,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.128Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.128Z"
+}

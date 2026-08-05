@@ -1,0 +1,19 @@
+{
+  "slug": "provenance-farm-233-west-hills-road",
+  "name": "Provenance Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "233 West Hills Road, OR",
+  "locationCity": "233 West Hills Road",
+  "locationState": "OR",
+  "locationZipcode": "97370",
+  "lat": 44.555751371789,
+  "lon": -123.352868831989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.787Z"
+}

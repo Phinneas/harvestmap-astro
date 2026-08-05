@@ -1,0 +1,20 @@
+{
+  "slug": "cure-organic-farm-7416-valmont-road",
+  "name": "Cure Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7416 Valmont Road, CO",
+  "locationCity": "7416 Valmont Road",
+  "locationState": "CO",
+  "locationZipcode": "80301",
+  "lat": 40.0327259,
+  "lon": -105.1803587,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.574Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bradley-farms-543-maple-avenue",
+  "name": "Bradley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "543 Maple Avenue, NY",
+  "locationCity": "543 Maple Avenue",
+  "locationState": "NY",
+  "locationZipcode": "14904",
+  "lat": 42.0827931368966,
+  "lon": -76.7943455455954,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.904Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.904Z"
+}

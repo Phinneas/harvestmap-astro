@@ -1,0 +1,19 @@
+{
+  "slug": "ivanhoe-farmers-market-112-e-railroad-st",
+  "name": "Ivanhoe Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 E Railroad St, MN",
+  "locationCity": "112 E Railroad St",
+  "locationState": "MN",
+  "locationZipcode": "56142",
+  "lat": 44.464531,
+  "lon": -96.2457602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

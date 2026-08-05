@@ -1,0 +1,19 @@
+{
+  "slug": "powers-farm-324-vandyke-md-line-road",
+  "name": "Powers Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "324 VanDyke-MD Line Road, DE",
+  "locationCity": "324 VanDyke-MD Line Road",
+  "locationState": "DE",
+  "locationZipcode": "19734",
+  "lat": 39.345614784092476,
+  "lon": -75.7611879593512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:39.472Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:39.472Z"
+}

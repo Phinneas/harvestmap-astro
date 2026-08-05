@@ -1,0 +1,19 @@
+{
+  "slug": "kessler-family-farm-1910-92nd-st-sw",
+  "name": "Kessler Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1910 92nd St. SW, MI",
+  "locationCity": "1910 92nd St. SW",
+  "locationState": "MI",
+  "locationZipcode": "49315",
+  "lat": 42.79699266552785,
+  "lon": -85.71082009268497,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.101Z"
+}

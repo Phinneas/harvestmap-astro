@@ -1,0 +1,19 @@
+{
+  "slug": "microgreen-market-8442-rockwell-lane",
+  "name": "MicroGreen Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8442 Rockwell Lane, AL",
+  "locationCity": "8442 Rockwell Lane",
+  "locationState": "AL",
+  "locationZipcode": "36532",
+  "lat": 30.495213531577928,
+  "lon": -87.8782458393704,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

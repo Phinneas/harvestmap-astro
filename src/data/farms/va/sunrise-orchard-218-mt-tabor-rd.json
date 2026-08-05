@@ -1,0 +1,19 @@
+{
+  "slug": "sunrise-orchard-218-mt-tabor-rd",
+  "name": "Sunrise Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "218 Mt. Tabor Rd, VA",
+  "locationCity": "218 Mt. Tabor Rd",
+  "locationState": "VA",
+  "locationZipcode": "24401",
+  "lat": 38.0745600201537,
+  "lon": -79.1882610037868,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.254Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.254Z"
+}

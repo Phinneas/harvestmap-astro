@@ -1,0 +1,19 @@
+{
+  "slug": "humphrey-farm-989-guthrie-chapel-rd",
+  "name": "Humphrey Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "989 Guthrie Chapel Rd, KY",
+  "locationCity": "989 Guthrie Chapel Rd",
+  "locationState": "KY",
+  "locationZipcode": "42717",
+  "lat": 36.7127702882178,
+  "lon": -85.3819092100648,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.669Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.669Z"
+}

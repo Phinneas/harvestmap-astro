@@ -1,0 +1,19 @@
+{
+  "slug": "kildee-farm-936-kildee-church-road",
+  "name": "Kildee Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "936 Kildee Church Road, NC",
+  "locationCity": "936 Kildee Church Road",
+  "locationState": "NC",
+  "locationZipcode": "27316",
+  "lat": 35.7275117122231,
+  "lon": -79.5733935290824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.688Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.688Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-fruit-basket-highway-68",
+  "name": "The Fruit Basket",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Highway 68, NM",
+  "locationCity": "Highway 68",
+  "locationState": "NM",
+  "locationZipcode": "87582",
+  "lat": 36.165529,
+  "lon": -105.96974,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:01.901Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:01.901Z"
+}

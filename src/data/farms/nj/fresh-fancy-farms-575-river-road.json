@@ -1,0 +1,20 @@
+{
+  "slug": "fresh-fancy-farms-575-river-road",
+  "name": "Fresh & Fancy Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "575 River Road, NJ",
+  "locationCity": "575 River Road",
+  "locationState": "NJ",
+  "locationZipcode": "07646",
+  "lat": 40.9344150083765,
+  "lon": -74.0231600189689,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.632Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.632Z",
+  "crops": []
+}

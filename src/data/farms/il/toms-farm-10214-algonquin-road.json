@@ -1,0 +1,19 @@
+{
+  "slug": "toms-farm-10214-algonquin-road",
+  "name": "Toms Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "10214 Algonquin Road, IL",
+  "locationCity": "10214 Algonquin Road",
+  "locationState": "IL",
+  "locationZipcode": "10214",
+  "lat": 42.17613298547275,
+  "lon": -88.39694597218043,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.667Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.667Z"
+}

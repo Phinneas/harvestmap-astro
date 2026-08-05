@@ -1,0 +1,19 @@
+{
+  "slug": "sky-island-farm-291-walker-rd",
+  "name": "Sky Island Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "291 walker rd, WA",
+  "locationCity": "291 walker rd",
+  "locationState": "WA",
+  "locationZipcode": "98550",
+  "lat": 47.18569803386259,
+  "lon": -123.97407313993855,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.615Z"
+}

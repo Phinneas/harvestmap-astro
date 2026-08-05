@@ -1,0 +1,19 @@
+{
+  "slug": "shawhaven-farm-1826-rolfe-roas",
+  "name": "Shawhaven Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1826 Rolfe Roas, MI",
+  "locationCity": "1826 Rolfe Roas",
+  "locationState": "MI",
+  "locationZipcode": "48854",
+  "lat": 42.5327019964031,
+  "lon": -84.4145020211183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.630Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.630Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "j-t-farms-156-west-road-rte-83",
+  "name": "J.T. Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "156 West Road Rte. 83, CT",
+  "locationCity": "156 West Road Rte. 83",
+  "locationState": "CT",
+  "locationZipcode": "06029",
+  "lat": 41.890314990603514,
+  "lon": -72.46612796209106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

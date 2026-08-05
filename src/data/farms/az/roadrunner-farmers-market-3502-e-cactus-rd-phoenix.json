@@ -1,0 +1,19 @@
+{
+  "slug": "roadrunner-farmers-market-3502-e-cactus-rd-phoenix",
+  "name": "Roadrunner Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3502 E Cactus Rd Phoenix, AZ",
+  "locationCity": "3502 E Cactus Rd Phoenix",
+  "locationState": "AZ",
+  "locationZipcode": "85032",
+  "lat": 33.59705615455017,
+  "lon": -112.0068820043632,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

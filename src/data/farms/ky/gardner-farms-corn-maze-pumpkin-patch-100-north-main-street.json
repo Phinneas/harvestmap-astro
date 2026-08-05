@@ -1,0 +1,19 @@
+{
+  "slug": "gardner-farms-corn-maze-pumpkin-patch-100-north-main-street",
+  "name": "Gardner Farms Corn Maze & Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 North Main Street, KY",
+  "locationCity": "100 North Main Street",
+  "locationState": "KY",
+  "locationZipcode": "42064",
+  "lat": 37.3333750000001,
+  "lon": -88.081285,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.541Z"
+}

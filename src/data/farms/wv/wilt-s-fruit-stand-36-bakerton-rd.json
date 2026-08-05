@@ -1,0 +1,19 @@
+{
+  "slug": "wilt-s-fruit-stand-36-bakerton-rd",
+  "name": "Wilt's Fruit Stand",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "36 Bakerton Rd, WV",
+  "locationCity": "36 Bakerton Rd",
+  "locationState": "WV",
+  "locationZipcode": "25425",
+  "lat": 39.31756298491618,
+  "lon": -77.7740969777918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:39.183Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:39.183Z"
+}

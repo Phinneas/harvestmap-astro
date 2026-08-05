@@ -1,0 +1,19 @@
+{
+  "slug": "napa-downtown-farmers-market-1100-west-street",
+  "name": "Napa Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1100 West Street, CA",
+  "locationCity": "1100 West Street",
+  "locationState": "CA",
+  "locationZipcode": "94559",
+  "lat": 38.301189,
+  "lon": -122.28513,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.348Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.348Z"
+}

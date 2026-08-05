@@ -1,0 +1,19 @@
+{
+  "slug": "burlington-downtown-farmers-market-268-east-front-street",
+  "name": "Burlington Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "268 East Front Street, NC",
+  "locationCity": "268 East Front Street",
+  "locationState": "NC",
+  "locationZipcode": "27216",
+  "lat": 36.09235630857942,
+  "lon": -79.43533878807544,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.325Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.325Z"
+}

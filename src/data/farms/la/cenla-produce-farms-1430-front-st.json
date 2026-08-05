@@ -1,0 +1,19 @@
+{
+  "slug": "cenla-produce-farms-1430-front-st",
+  "name": "Cenla Produce Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1430 Front St, LA",
+  "locationCity": "1430 Front St",
+  "locationState": "LA",
+  "locationZipcode": "71327",
+  "lat": 30.996068981939956,
+  "lon": -92.04961198943184,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

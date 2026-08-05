@@ -1,0 +1,19 @@
+{
+  "slug": "apple-lane-orchard-north-center-road",
+  "name": "Apple Lane Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "North Center Road, MI",
+  "locationCity": "North Center Road",
+  "locationState": "MI",
+  "locationZipcode": "48506",
+  "lat": 43.076489992941,
+  "lon": -83.6314620280785,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.551Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.551Z"
+}

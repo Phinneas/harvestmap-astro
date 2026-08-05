@@ -1,0 +1,19 @@
+{
+  "slug": "seneca-falls-farmers-market-15-water-street",
+  "name": "Seneca Falls Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 Water Street, NY",
+  "locationCity": "15 Water Street",
+  "locationState": "NY",
+  "locationZipcode": "13148",
+  "lat": 42.909109,
+  "lon": -76.800314,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.898Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.898Z"
+}

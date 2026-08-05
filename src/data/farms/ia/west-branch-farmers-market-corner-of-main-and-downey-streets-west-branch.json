@@ -1,0 +1,19 @@
+{
+  "slug": "west-branch-farmers-market-corner-of-main-and-downey-streets-west-branch",
+  "name": "West Branch Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Main and Downey Streets West Branch, IA",
+  "locationCity": "Corner of Main and Downey Streets West Branch",
+  "locationState": "IA",
+  "locationZipcode": "52358",
+  "lat": 41.67141999661524,
+  "lon": -91.34665001712118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cape-vincent-farmers-market-341-broadway-street-cape-vincent",
+  "name": "Cape Vincent Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "341 Broadway Street Cape Vincent, NY",
+  "locationCity": "341 Broadway Street Cape Vincent",
+  "locationState": "NY",
+  "locationZipcode": "13618",
+  "lat": 44.12500628892702,
+  "lon": -76.34466934561412,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fruitful-hills-csa-64106",
+  "name": "Fruitful Hills CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "64106, KS",
+  "locationCity": "64106",
+  "locationState": "KS",
+  "locationZipcode": "64106",
+  "lat": 39.104271,
+  "lon": -94.575126,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:53.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:53.469Z"
+}

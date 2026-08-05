@@ -1,0 +1,19 @@
+{
+  "slug": "butterfield-farms-228-butterfield-lane",
+  "name": "Butterfield Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "228 Butterfield Lane, LA",
+  "locationCity": "228 Butterfield Lane",
+  "locationState": "LA",
+  "locationZipcode": "71467",
+  "lat": 31.4804015,
+  "lon": -92.476617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.052Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.052Z"
+}

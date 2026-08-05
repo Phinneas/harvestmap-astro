@@ -1,0 +1,19 @@
+{
+  "slug": "country-barn-market-211-south-donerville-road",
+  "name": "Country Barn Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "211 South Donerville Road, PA",
+  "locationCity": "211 South Donerville Road",
+  "locationState": "PA",
+  "locationZipcode": "17603",
+  "lat": 40.03106000368999,
+  "lon": -76.40138297174191,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

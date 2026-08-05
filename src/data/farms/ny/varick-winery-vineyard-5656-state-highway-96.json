@@ -1,0 +1,19 @@
+{
+  "slug": "varick-winery-vineyard-5656-state-highway-96",
+  "name": "Varick Winery & Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5656 State Highway 96, NY",
+  "locationCity": "5656 State Highway 96",
+  "locationState": "NY",
+  "locationZipcode": "14541",
+  "lat": 42.7503,
+  "lon": -76.8339149999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.087Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.087Z"
+}

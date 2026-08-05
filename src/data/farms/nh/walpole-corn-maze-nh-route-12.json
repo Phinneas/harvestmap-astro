@@ -1,0 +1,19 @@
+{
+  "slug": "walpole-corn-maze-nh-route-12",
+  "name": "Walpole Corn Maze (NH)",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 12, NH",
+  "locationCity": "Route 12",
+  "locationState": "NH",
+  "locationZipcode": "03608",
+  "lat": 43.0527475752808,
+  "lon": -72.4469911104401,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.797Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.797Z"
+}

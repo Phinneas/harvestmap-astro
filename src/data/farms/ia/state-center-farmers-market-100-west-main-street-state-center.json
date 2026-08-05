@@ -1,0 +1,19 @@
+{
+  "slug": "state-center-farmers-market-100-west-main-street-state-center",
+  "name": "State Center Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 West Main Street State Center, IA",
+  "locationCity": "100 West Main Street State Center",
+  "locationState": "IA",
+  "locationZipcode": "50247",
+  "lat": 42.01664820383105,
+  "lon": -93.16373600458577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

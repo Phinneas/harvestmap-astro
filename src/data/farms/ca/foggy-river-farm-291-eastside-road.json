@@ -1,0 +1,19 @@
+{
+  "slug": "foggy-river-farm-291-eastside-road",
+  "name": "Foggy River Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "291 Eastside Road, CA",
+  "locationCity": "291 Eastside Road",
+  "locationState": "CA",
+  "locationZipcode": "95448",
+  "lat": 38.5370772442268,
+  "lon": -122.846877620038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.736Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "gotta-s-farm-661-glastonbury-turnpike",
+  "name": "Gotta's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "661 Glastonbury Turnpike, CT",
+  "locationCity": "661 Glastonbury Turnpike",
+  "locationState": "CT",
+  "locationZipcode": "06480",
+  "lat": 41.6162902264531,
+  "lon": -72.5989744731213,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.925Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.925Z",
+  "crops": []
+}

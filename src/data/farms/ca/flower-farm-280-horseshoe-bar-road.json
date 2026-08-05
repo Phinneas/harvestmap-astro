@@ -1,0 +1,19 @@
+{
+  "slug": "flower-farm-280-horseshoe-bar-road",
+  "name": "Flower Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "280 Horseshoe Bar Road, CA",
+  "locationCity": "280 Horseshoe Bar Road",
+  "locationState": "CA",
+  "locationZipcode": "95650",
+  "lat": 38.8090955114739,
+  "lon": -121.1452962762,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.736Z"
+}

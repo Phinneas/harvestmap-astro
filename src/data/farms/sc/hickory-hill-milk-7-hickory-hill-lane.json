@@ -1,0 +1,19 @@
+{
+  "slug": "hickory-hill-milk-7-hickory-hill-lane",
+  "name": "Hickory Hill Milk",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7 Hickory Hill Lane, SC",
+  "locationCity": "7 Hickory Hill Lane",
+  "locationState": "SC",
+  "locationZipcode": "29824",
+  "lat": 33.9456569794312,
+  "lon": -81.9621979640621,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.852Z"
+}

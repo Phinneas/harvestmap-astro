@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-connect-food-hub-1001-east-mt-faith",
+  "name": "Fresh Connect Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1001 East Mt Faith, MN",
+  "locationCity": "1001 East Mt Faith",
+  "locationState": "MN",
+  "locationZipcode": "56537",
+  "lat": 46.2881957,
+  "lon": -96.059176,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:13.501Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:13.501Z"
+}

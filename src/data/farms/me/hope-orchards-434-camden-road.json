@@ -1,0 +1,20 @@
+{
+  "slug": "hope-orchards-434-camden-road",
+  "name": "Hope Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "434 Camden Road, ME",
+  "locationCity": "434 Camden Road",
+  "locationState": "ME",
+  "locationZipcode": "04847",
+  "lat": 44.2641234464311,
+  "lon": -69.1570674204999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.823Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.823Z",
+  "crops": []
+}

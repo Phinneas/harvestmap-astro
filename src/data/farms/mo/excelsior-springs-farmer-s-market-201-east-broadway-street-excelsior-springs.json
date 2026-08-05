@@ -1,0 +1,19 @@
+{
+  "slug": "excelsior-springs-farmer-s-market-201-east-broadway-street-excelsior-springs",
+  "name": "Excelsior Springs Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 East Broadway Street Excelsior Springs, MO",
+  "locationCity": "201 East Broadway Street Excelsior Springs",
+  "locationState": "MO",
+  "locationZipcode": "64024",
+  "lat": 39.34232343301145,
+  "lon": -94.22218170489661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.492Z"
+}

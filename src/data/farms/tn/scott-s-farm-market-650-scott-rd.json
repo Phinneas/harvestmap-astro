@@ -1,0 +1,19 @@
+{
+  "slug": "scott-s-farm-market-650-scott-rd",
+  "name": "Scott's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "650 Scott Rd, TN",
+  "locationCity": "650 Scott Rd",
+  "locationState": "TN",
+  "locationZipcode": "37692",
+  "lat": 36.18907801629467,
+  "lon": -82.34265900326085,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:36.623Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:36.623Z"
+}

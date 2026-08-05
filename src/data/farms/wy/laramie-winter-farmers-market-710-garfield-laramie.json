@@ -1,0 +1,19 @@
+{
+  "slug": "laramie-winter-farmers-market-710-garfield-laramie",
+  "name": "Laramie Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "710 Garfield Laramie, WY",
+  "locationCity": "710 Garfield Laramie",
+  "locationState": "WY",
+  "locationZipcode": "82010",
+  "lat": 41.309248982607045,
+  "lon": -105.58783099315494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

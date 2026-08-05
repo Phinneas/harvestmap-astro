@@ -1,0 +1,19 @@
+{
+  "slug": "finca-tres-robles-257-n-greenwood-street",
+  "name": "Finca Tres Robles",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "257 N. Greenwood Street, TX",
+  "locationCity": "257 N. Greenwood Street",
+  "locationState": "TX",
+  "locationZipcode": "77011",
+  "lat": 29.7466744255849,
+  "lon": -95.3136800453254,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.401Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.401Z"
+}

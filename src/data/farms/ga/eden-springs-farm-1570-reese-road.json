@@ -1,0 +1,19 @@
+{
+  "slug": "eden-springs-farm-1570-reese-road",
+  "name": "Eden Springs Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1570 Reese Road, GA",
+  "locationCity": "1570 Reese Road",
+  "locationState": "GA",
+  "locationZipcode": "30663",
+  "lat": 33.55278301218189,
+  "lon": -83.60431497153095,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.404Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.404Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "skaneateles-farmers-market-97-state-st-skaneateles",
+  "name": "Skaneateles Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "97 State St. Skaneateles, NY",
+  "locationCity": "97 State St. Skaneateles",
+  "locationState": "NY",
+  "locationZipcode": "13152",
+  "lat": 42.95213072409597,
+  "lon": -76.4260346089937,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

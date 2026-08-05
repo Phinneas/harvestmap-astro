@@ -1,0 +1,19 @@
+{
+  "slug": "anderson-farms-700-privetts-road",
+  "name": "Anderson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "700 Privetts Road, SC",
+  "locationCity": "700 Privetts Road",
+  "locationState": "SC",
+  "locationZipcode": "29526",
+  "lat": 33.9669132454702,
+  "lon": -78.991596221351,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.683Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.683Z"
+}

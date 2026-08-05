@@ -1,0 +1,19 @@
+{
+  "slug": "metro-denver-farmers-market-lakewood-9077-w-alameda-ave-lakewood",
+  "name": "Metro Denver Farmers' Market-Lakewood",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9077 W Alameda Ave Lakewood, CO",
+  "locationCity": "9077 W Alameda Ave Lakewood",
+  "locationState": "CO",
+  "locationZipcode": "80226",
+  "lat": 39.71102762899645,
+  "lon": -105.09882199933506,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

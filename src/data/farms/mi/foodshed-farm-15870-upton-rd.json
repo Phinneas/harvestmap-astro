@@ -1,0 +1,19 @@
+{
+  "slug": "foodshed-farm-15870-upton-rd",
+  "name": "Foodshed Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15870 Upton Rd, MI",
+  "locationCity": "15870 Upton Rd",
+  "locationState": "MI",
+  "locationZipcode": "15870",
+  "lat": 42.7860674,
+  "lon": -84.3988086,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.965Z"
+}

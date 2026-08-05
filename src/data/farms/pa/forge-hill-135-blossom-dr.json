@@ -1,0 +1,19 @@
+{
+  "slug": "forge-hill-135-blossom-dr",
+  "name": "Forge Hill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "135 Blossom Dr, PA",
+  "locationCity": "135 Blossom Dr",
+  "locationState": "PA",
+  "locationZipcode": "17347",
+  "lat": 40.04063100555942,
+  "lon": -76.70212498712452,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.220Z"
+}

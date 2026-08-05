@@ -1,0 +1,19 @@
+{
+  "slug": "craftsbury-farmers-market-1422-n-craftsbury-road",
+  "name": "Craftsbury Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1422 N. Craftsbury Road, VT",
+  "locationCity": "1422 N. Craftsbury Road",
+  "locationState": "VT",
+  "locationZipcode": "05827",
+  "lat": 44.65430502065192,
+  "lon": -72.3817360272546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

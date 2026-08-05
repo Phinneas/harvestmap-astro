@@ -1,0 +1,19 @@
+{
+  "slug": "lavender-pond-farm-318-roast-meat-hill-rd",
+  "name": "Lavender Pond Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "318 Roast Meat Hill Rd, CT",
+  "locationCity": "318 Roast Meat Hill Rd",
+  "locationState": "CT",
+  "locationZipcode": "06419",
+  "lat": 41.3669790054518,
+  "lon": -72.5520129653402,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.000Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.000Z"
+}

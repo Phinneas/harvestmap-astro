@@ -1,0 +1,19 @@
+{
+  "slug": "schul-farmstead-5340-cambria-road",
+  "name": "Schul Farmstead",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5340 Cambria Road, NY",
+  "locationCity": "5340 Cambria Road",
+  "locationState": "NY",
+  "locationZipcode": "14132",
+  "lat": 43.153735726677695,
+  "lon": -78.81623651777218,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.188Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.188Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "east-dundee-farmers-market-319-n-river-street-east-dundee",
+  "name": "East Dundee Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "319 N. River Street East Dundee, IL",
+  "locationCity": "319 N. River Street East Dundee",
+  "locationState": "IL",
+  "locationZipcode": "60118",
+  "lat": 42.101158881631804,
+  "lon": -88.27484110927608,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

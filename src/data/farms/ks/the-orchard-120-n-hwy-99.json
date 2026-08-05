@@ -1,0 +1,19 @@
+{
+  "slug": "the-orchard-120-n-hwy-99",
+  "name": "The Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "120 N. Hwy 99, KS",
+  "locationCity": "120 N. Hwy 99",
+  "locationState": "KS",
+  "locationZipcode": "66801",
+  "lat": 38.3962710263043,
+  "lon": -96.1801492193089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.164Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.164Z"
+}

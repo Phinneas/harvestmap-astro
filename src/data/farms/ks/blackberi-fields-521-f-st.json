@@ -1,0 +1,19 @@
+{
+  "slug": "blackberi-fields-521-f-st",
+  "name": "Blackberi Fields",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "521 F St, KS",
+  "locationCity": "521 F St",
+  "locationState": "KS",
+  "locationZipcode": "66857",
+  "lat": 38.0813982735615,
+  "lon": -95.6284759309954,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.087Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.087Z"
+}

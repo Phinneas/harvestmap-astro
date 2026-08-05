@@ -1,0 +1,19 @@
+{
+  "slug": "apple-starr-orchard-1020-julian-orchards-dr",
+  "name": "Apple Starr Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1020 Julian Orchards Dr, CA",
+  "locationCity": "1020 Julian Orchards Dr",
+  "locationState": "CA",
+  "locationZipcode": "92036",
+  "lat": 33.1055340045623,
+  "lon": -116.614230990696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.794Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.794Z"
+}

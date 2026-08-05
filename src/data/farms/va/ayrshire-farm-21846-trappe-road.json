@@ -1,0 +1,19 @@
+{
+  "slug": "ayrshire-farm-21846-trappe-road",
+  "name": "Ayrshire Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "21846 Trappe Road, VA",
+  "locationCity": "21846 Trappe Road",
+  "locationState": "VA",
+  "locationZipcode": "21846",
+  "lat": 39.010196122811266,
+  "lon": -77.87437563663087,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.249Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.249Z"
+}

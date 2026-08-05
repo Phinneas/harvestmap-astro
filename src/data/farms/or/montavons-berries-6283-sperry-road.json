@@ -1,0 +1,20 @@
+{
+  "slug": "montavons-berries-6283-sperry-road",
+  "name": "Montavons Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6283 Sperry Road, OR",
+  "locationCity": "6283 Sperry Road",
+  "locationState": "OR",
+  "locationZipcode": "97041",
+  "lat": 45.5439688514364,
+  "lon": -121.625209450382,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.784Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.784Z",
+  "crops": []
+}

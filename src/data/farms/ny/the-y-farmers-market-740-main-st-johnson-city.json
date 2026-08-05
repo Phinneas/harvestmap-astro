@@ -1,0 +1,19 @@
+{
+  "slug": "the-y-farmers-market-740-main-st-johnson-city",
+  "name": "The Y Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "740 Main St Johnson City, NY",
+  "locationCity": "740 Main St Johnson City",
+  "locationState": "NY",
+  "locationZipcode": "10901",
+  "lat": 42.11635767202121,
+  "lon": -75.97705245871225,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

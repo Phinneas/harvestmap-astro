@@ -1,0 +1,19 @@
+{
+  "slug": "bittersweet-junction-24747-highway-98",
+  "name": "Bittersweet Junction",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "24747 highway 98, MO",
+  "locationCity": "24747 highway 98",
+  "locationState": "MO",
+  "locationZipcode": "24747",
+  "lat": 38.9409059886545,
+  "lon": -92.5967370311714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.783Z"
+}

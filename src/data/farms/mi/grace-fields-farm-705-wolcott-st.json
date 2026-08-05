@@ -1,0 +1,19 @@
+{
+  "slug": "grace-fields-farm-705-wolcott-st",
+  "name": "Grace Fields Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "705 Wolcott St, MI",
+  "locationCity": "705 Wolcott St",
+  "locationState": "MI",
+  "locationZipcode": "48504",
+  "lat": 43.01777413255431,
+  "lon": -83.70591109791114,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.098Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.098Z"
+}

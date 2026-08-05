@@ -1,0 +1,19 @@
+{
+  "slug": "ring-s-strawberry-farm-843-airport-road",
+  "name": "Ring's Strawberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "843 Airport Road, NC",
+  "locationCity": "843 Airport Road",
+  "locationState": "NC",
+  "locationZipcode": "28350",
+  "lat": 35.2460633365831,
+  "lon": -79.336107576315,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.852Z"
+}

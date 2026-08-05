@@ -1,0 +1,19 @@
+{
+  "slug": "sandy-river-farms-route-27",
+  "name": "Sandy River Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 27, ME",
+  "locationCity": "Route 27",
+  "locationState": "ME",
+  "locationZipcode": "04938",
+  "lat": 44.7552775662549,
+  "lon": -70.1330041740059,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.900Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.900Z"
+}

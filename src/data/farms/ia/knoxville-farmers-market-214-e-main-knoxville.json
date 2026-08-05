@@ -1,0 +1,19 @@
+{
+  "slug": "knoxville-farmers-market-214-e-main-knoxville",
+  "name": "Knoxville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "214 E. Main Knoxville, IA",
+  "locationCity": "214 E. Main Knoxville",
+  "locationState": "IA",
+  "locationZipcode": "50138",
+  "lat": 41.3189375787209,
+  "lon": -93.09742546205557,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

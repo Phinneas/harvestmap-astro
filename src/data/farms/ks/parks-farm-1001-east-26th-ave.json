@@ -1,0 +1,19 @@
+{
+  "slug": "parks-farm-1001-east-26th-ave",
+  "name": "Parks Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1001 East 26th Ave., KS",
+  "locationCity": "1001 East 26th Ave.",
+  "locationState": "KS",
+  "locationZipcode": "66502",
+  "lat": 39.153204,
+  "lon": -96.492305,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:58.151Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:58.151Z"
+}

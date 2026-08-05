@@ -1,0 +1,19 @@
+{
+  "slug": "route-one-farmers-market-3745-constellation-rd",
+  "name": "Route One Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3745 Constellation Rd, CA",
+  "locationCity": "3745 Constellation Rd",
+  "locationState": "CA",
+  "locationZipcode": "93436",
+  "lat": 34.700679,
+  "lon": -120.46622,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ebensburg-farmers-market-111-west-high-street-111-west-high-street-ebensburg",
+  "name": "Ebensburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 West High Street 111 West High Street Ebensburg, PA",
+  "locationCity": "111 West High Street 111 West High Street Ebensburg",
+  "locationState": "PA",
+  "locationZipcode": "15931",
+  "lat": 40.48518309001749,
+  "lon": -78.72514552431426,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wellsville-farmers-market-191-north-main-street-wellsville",
+  "name": "Wellsville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "191 North Main Street Wellsville, NY",
+  "locationCity": "191 North Main Street Wellsville",
+  "locationState": "NY",
+  "locationZipcode": "14895",
+  "lat": 42.12304619614488,
+  "lon": -77.9500699905545,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

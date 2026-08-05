@@ -1,0 +1,19 @@
+{
+  "slug": "twin-acres-farm-llc-2413-zellman-ct",
+  "name": "Twin Acres Farm LLC",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2413 Zellman Ct, MI",
+  "locationCity": "2413 Zellman Ct",
+  "locationState": "MI",
+  "locationZipcode": "49323",
+  "lat": 42.70645201797899,
+  "lon": -85.78433801689387,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.246Z"
+}

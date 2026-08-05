@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-aurora-pumpkin-patch-151-e-alameda-parkway",
+  "name": "City of Aurora Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "151 E. Alameda Parkway, CO",
+  "locationCity": "151 E. Alameda Parkway",
+  "locationState": "CO",
+  "locationZipcode": "80012",
+  "lat": 39.7088967825355,
+  "lon": -104.813680280982,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.250Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.250Z"
+}

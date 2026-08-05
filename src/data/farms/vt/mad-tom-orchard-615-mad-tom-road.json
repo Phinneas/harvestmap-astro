@@ -1,0 +1,19 @@
+{
+  "slug": "mad-tom-orchard-615-mad-tom-road",
+  "name": "Mad Tom Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "615 Mad Tom Road, VT",
+  "locationCity": "615 Mad Tom Road",
+  "locationState": "VT",
+  "locationZipcode": "05253",
+  "lat": 43.2406597438331,
+  "lon": -72.9990826292047,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.030Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.030Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cedarmore-farm-csa-10148-pigeon-roost-rd",
+  "name": "Cedarmore Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10148 Pigeon Roost Rd., OH",
+  "locationCity": "10148 Pigeon Roost Rd.",
+  "locationState": "OH",
+  "locationZipcode": "10148",
+  "lat": 39.14726417006332,
+  "lon": -83.53992787354622,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.464Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.464Z"
+}

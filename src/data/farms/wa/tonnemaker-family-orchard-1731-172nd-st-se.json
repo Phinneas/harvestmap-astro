@@ -1,0 +1,19 @@
+{
+  "slug": "tonnemaker-family-orchard-1731-172nd-st-se",
+  "name": "Tonnemaker Family Orchard",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1731 172nd St SE, WA",
+  "locationCity": "1731 172nd St SE",
+  "locationState": "WA",
+  "locationZipcode": "98012",
+  "lat": 47.8416225,
+  "lon": -122.2086578,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.588Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.588Z"
+}

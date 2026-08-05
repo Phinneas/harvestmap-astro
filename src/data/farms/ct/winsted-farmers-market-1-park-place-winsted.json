@@ -1,0 +1,19 @@
+{
+  "slug": "winsted-farmers-market-1-park-place-winsted",
+  "name": "Winsted Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Park Place Winsted, CT",
+  "locationCity": "1 Park Place Winsted",
+  "locationState": "CT",
+  "locationZipcode": "06098",
+  "lat": 41.921284285851655,
+  "lon": -73.0604073831492,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

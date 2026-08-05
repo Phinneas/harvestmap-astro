@@ -1,0 +1,19 @@
+{
+  "slug": "elm-street-gardens-15-elm-st",
+  "name": "Elm Street Gardens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15 Elm St, GA",
+  "locationCity": "15 Elm St",
+  "locationState": "GA",
+  "locationZipcode": "31087",
+  "lat": 33.2784414,
+  "lon": -82.9706328,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.439Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.439Z"
+}

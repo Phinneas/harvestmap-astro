@@ -1,0 +1,19 @@
+{
+  "slug": "gilbert-farm-730-elm-street",
+  "name": "Gilbert Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "730 Elm Street, CT",
+  "locationCity": "730 Elm Street",
+  "locationState": "CT",
+  "locationZipcode": "06067",
+  "lat": 41.65883599392083,
+  "lon": -72.66391296529393,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

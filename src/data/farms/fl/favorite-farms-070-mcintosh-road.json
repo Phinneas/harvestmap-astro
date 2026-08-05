@@ -1,0 +1,19 @@
+{
+  "slug": "favorite-farms-070-mcintosh-road",
+  "name": "Favorite Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "070 McIntosh Road, FL",
+  "locationCity": "070 McIntosh Road",
+  "locationState": "FL",
+  "locationZipcode": "33527",
+  "lat": 28.0340913801125,
+  "lon": -82.2491082991091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.859Z"
+}

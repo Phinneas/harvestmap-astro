@@ -1,0 +1,19 @@
+{
+  "slug": "carlisle-farmers-market-260-york-road-260-york-road-carlisle",
+  "name": "Carlisle Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "260 York Road 260 York Road Carlisle, PA",
+  "locationCity": "260 York Road 260 York Road Carlisle",
+  "locationState": "PA",
+  "locationZipcode": "17013",
+  "lat": 40.19413212548635,
+  "lon": -77.16586990383074,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

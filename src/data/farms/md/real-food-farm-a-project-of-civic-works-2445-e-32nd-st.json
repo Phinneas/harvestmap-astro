@@ -1,0 +1,19 @@
+{
+  "slug": "real-food-farm-a-project-of-civic-works-2445-e-32nd-st",
+  "name": "Real Food Farm (a project of Civic Works)",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2445 E 32nd St., MD",
+  "locationCity": "2445 E 32nd St.",
+  "locationState": "MD",
+  "locationZipcode": "21218",
+  "lat": 39.3245245,
+  "lon": -76.5784303,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.692Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.692Z"
+}

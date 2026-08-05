@@ -1,0 +1,19 @@
+{
+  "slug": "prince-george-farmers-market-p-o-box-62-prince-george",
+  "name": "Prince George Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "P. O. Box 62 Prince George, VA",
+  "locationCity": "P. O. Box 62 Prince George",
+  "locationState": "VA",
+  "locationZipcode": "23875",
+  "lat": 37.25843000000003,
+  "lon": -77.28193999999996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

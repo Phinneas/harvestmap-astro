@@ -1,0 +1,19 @@
+{
+  "slug": "swartz-farm-1505-eleanor-drive",
+  "name": "Swartz Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1505 Eleanor Drive, NY",
+  "locationCity": "1505 Eleanor Drive",
+  "locationState": "NY",
+  "locationZipcode": "12033",
+  "lat": 42.5028171478019,
+  "lon": -73.6940873604108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.075Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.075Z"
+}

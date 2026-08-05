@@ -1,0 +1,19 @@
+{
+  "slug": "martinsville-uptown-farmers-market-65-w-main-st",
+  "name": "Martinsville Uptown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "65 W Main St, VA",
+  "locationCity": "65 W Main St",
+  "locationState": "VA",
+  "locationZipcode": "24112",
+  "lat": 36.69208431261579,
+  "lon": -79.87449759921232,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

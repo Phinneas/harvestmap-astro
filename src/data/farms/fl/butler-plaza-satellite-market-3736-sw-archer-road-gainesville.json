@@ -1,0 +1,19 @@
+{
+  "slug": "butler-plaza-satellite-market-3736-sw-archer-road-gainesville",
+  "name": "Butler Plaza Satellite Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3736 SW Archer Road Gainesville, FL",
+  "locationCity": "3736 SW Archer Road Gainesville",
+  "locationState": "FL",
+  "locationZipcode": "32608",
+  "lat": 29.620884804703284,
+  "lon": -82.3796131029268,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.574Z"
+}

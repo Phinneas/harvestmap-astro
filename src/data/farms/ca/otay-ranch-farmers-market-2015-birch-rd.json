@@ -1,0 +1,19 @@
+{
+  "slug": "otay-ranch-farmers-market-2015-birch-rd",
+  "name": "Otay Ranch Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2015 Birch Rd., CA",
+  "locationCity": "2015 Birch Rd.",
+  "locationState": "CA",
+  "locationZipcode": "91915",
+  "lat": 32.62107567231322,
+  "lon": -116.9679269386885,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

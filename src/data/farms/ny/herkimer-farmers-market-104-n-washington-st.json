@@ -1,0 +1,19 @@
+{
+  "slug": "herkimer-farmers-market-104-n-washington-st",
+  "name": "Herkimer Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "104 N Washington St, NY",
+  "locationCity": "104 N Washington St",
+  "locationState": "NY",
+  "locationZipcode": "13350",
+  "lat": 43.026276382697134,
+  "lon": -74.98465563192579,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

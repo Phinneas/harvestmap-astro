@@ -1,0 +1,19 @@
+{
+  "slug": "cardinale-pumpkin-patch-2004-fairground-road",
+  "name": "Cardinale Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2004 Fairground Road, CA",
+  "locationCity": "2004 Fairground Road",
+  "locationState": "CA",
+  "locationZipcode": "93940",
+  "lat": 36.5950899881288,
+  "lon": -121.862409963208,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.813Z"
+}

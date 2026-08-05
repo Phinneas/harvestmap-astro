@@ -1,0 +1,20 @@
+{
+  "slug": "sekapp-orchard-3415-college-view-road-east",
+  "name": "Sekapp Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3415 College View Road East, MN",
+  "locationCity": "3415 College View Road East",
+  "locationState": "MN",
+  "locationZipcode": "55904",
+  "lat": 44.0218900069696,
+  "lon": -92.4113760201313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.753Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.753Z",
+  "crops": []
+}

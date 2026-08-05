@@ -1,0 +1,19 @@
+{
+  "slug": "riverview-farm-141-river-road",
+  "name": "Riverview Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "141 River Road, NH",
+  "locationCity": "141 River Road",
+  "locationState": "NH",
+  "locationZipcode": "03781",
+  "lat": 43.5839850192815,
+  "lon": -72.3499970288714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.680Z"
+}

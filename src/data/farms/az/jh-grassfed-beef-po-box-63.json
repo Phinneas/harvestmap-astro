@@ -1,0 +1,19 @@
+{
+  "slug": "jh-grassfed-beef-po-box-63",
+  "name": "JH Grassfed Beef",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 63, AZ",
+  "locationCity": "PO Box 63",
+  "locationState": "AZ",
+  "locationZipcode": "85327",
+  "lat": 33.83,
+  "lon": -111.95,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:13.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:13.352Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "whitesboro-farmers-market-10-moseley-st-whitesboro",
+  "name": "Whitesboro Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Moseley St. Whitesboro, NY",
+  "locationCity": "10 Moseley St. Whitesboro",
+  "locationState": "NY",
+  "locationZipcode": "13492",
+  "lat": 43.124989112285235,
+  "lon": -75.29388176859275,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "harecrest-acres-36-meetinghouse-road",
+  "name": "Harecrest Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "36 Meetinghouse Road, ME",
+  "locationCity": "36 Meetinghouse Road",
+  "locationState": "ME",
+  "locationZipcode": "04005",
+  "lat": 43.4703242748372,
+  "lon": -70.412034630036,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.917Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.917Z",
+  "crops": []
+}

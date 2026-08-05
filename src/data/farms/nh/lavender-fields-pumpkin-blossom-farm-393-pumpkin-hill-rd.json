@@ -1,0 +1,20 @@
+{
+  "slug": "lavender-fields-pumpkin-blossom-farm-393-pumpkin-hill-rd",
+  "name": "Lavender Fields @ Pumpkin Blossom Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "393 Pumpkin Hill Rd, NH",
+  "locationCity": "393 Pumpkin Hill Rd",
+  "locationState": "NH",
+  "locationZipcode": "03278",
+  "lat": 43.3044869516875,
+  "lon": -71.8017182733607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.790Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.790Z",
+  "crops": []
+}

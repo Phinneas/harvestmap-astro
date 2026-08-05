@@ -1,0 +1,19 @@
+{
+  "slug": "ludlow-farmers-market-53-main-street",
+  "name": "Ludlow Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "53 Main Street, VT",
+  "locationCity": "53 Main Street",
+  "locationState": "VT",
+  "locationZipcode": "05149",
+  "lat": 43.396701664597565,
+  "lon": -72.69030188970454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "white-oak-farm-98-white-oak-lane",
+  "name": "White Oak Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "98 White Oak Lane, RI",
+  "locationCity": "98 White Oak Lane",
+  "locationState": "RI",
+  "locationZipcode": "02857",
+  "lat": 41.8624390018463,
+  "lon": -71.5940170044052,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.028Z"
+}

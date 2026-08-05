@@ -1,0 +1,19 @@
+{
+  "slug": "east-vassalboro-farmers-market-353-main-street-vassalboro",
+  "name": "East Vassalboro Farmers'Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "353 Main Street vassalboro, ME",
+  "locationCity": "353 Main Street vassalboro",
+  "locationState": "ME",
+  "locationZipcode": "04935",
+  "lat": 44.44853247974381,
+  "lon": -69.60646613313045,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:57.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:57.069Z"
+}

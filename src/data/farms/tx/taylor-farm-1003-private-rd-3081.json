@@ -1,0 +1,19 @@
+{
+  "slug": "taylor-farm-1003-private-rd-3081",
+  "name": "Taylor Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1003 private rd 3081, TX",
+  "locationCity": "1003 private rd 3081",
+  "locationState": "TX",
+  "locationZipcode": "78947",
+  "lat": 30.384445,
+  "lon": -97.158258,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.246Z"
+}

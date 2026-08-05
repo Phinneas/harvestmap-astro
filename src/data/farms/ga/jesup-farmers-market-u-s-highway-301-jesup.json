@@ -1,0 +1,19 @@
+{
+  "slug": "jesup-farmers-market-u-s-highway-301-jesup",
+  "name": "Jesup Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "U.S. Highway 301 Jesup, GA",
+  "locationCity": "U.S. Highway 301 Jesup",
+  "locationState": "GA",
+  "locationZipcode": "31545",
+  "lat": 31.645074747203346,
+  "lon": -81.8570024703078,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

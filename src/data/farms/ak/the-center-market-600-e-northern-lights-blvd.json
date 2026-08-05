@@ -1,0 +1,19 @@
+{
+  "slug": "the-center-market-600-e-northern-lights-blvd",
+  "name": "The Center Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 E. Northern Lights Blvd., AK",
+  "locationCity": "600 E. Northern Lights Blvd.",
+  "locationState": "AK",
+  "locationZipcode": "99503",
+  "lat": 61.195276553385646,
+  "lon": -149.87355280509874,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

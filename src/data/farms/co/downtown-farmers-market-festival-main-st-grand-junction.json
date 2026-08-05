@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-festival-main-st-grand-junction",
+  "name": "Downtown Farmers' Market Festival",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. Grand Junction, CO",
+  "locationCity": "Main St. Grand Junction",
+  "locationState": "CO",
+  "locationZipcode": "81501",
+  "lat": 39.067303933538255,
+  "lon": -108.55140601938072,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

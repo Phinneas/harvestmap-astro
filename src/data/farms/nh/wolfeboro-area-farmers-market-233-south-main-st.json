@@ -1,0 +1,19 @@
+{
+  "slug": "wolfeboro-area-farmers-market-233-south-main-st",
+  "name": "Wolfeboro Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "233 South Main St, NH",
+  "locationCity": "233 South Main St",
+  "locationState": "NH",
+  "locationZipcode": "03894",
+  "lat": 43.580593,
+  "lon": -71.202747,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:52.981Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:52.981Z"
+}

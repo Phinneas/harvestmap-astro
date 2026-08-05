@@ -1,0 +1,19 @@
+{
+  "slug": "crossmolina-farm-109-gristmill-road",
+  "name": "Crossmolina Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "109 Gristmill Road, VT",
+  "locationCity": "109 Gristmill Road",
+  "locationState": "VT",
+  "locationZipcode": "05039",
+  "lat": 44.04335627054951,
+  "lon": -72.33598424696177,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.148Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.148Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sumter-farmers-market-200-miller-road-sumter",
+  "name": "Sumter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Miller Road Sumter, SC",
+  "locationCity": "200 Miller Road Sumter",
+  "locationState": "SC",
+  "locationZipcode": "29150",
+  "lat": 33.93248206062888,
+  "lon": -80.37286727689518,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

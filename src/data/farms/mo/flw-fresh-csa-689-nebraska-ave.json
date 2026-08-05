@@ -1,0 +1,19 @@
+{
+  "slug": "flw-fresh-csa-689-nebraska-ave",
+  "name": "FLW Fresh CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "689 Nebraska Ave, MO",
+  "locationCity": "689 Nebraska Ave",
+  "locationState": "MO",
+  "locationZipcode": "65473",
+  "lat": 37.7608765,
+  "lon": -92.1120419,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:52.650Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:52.650Z"
+}

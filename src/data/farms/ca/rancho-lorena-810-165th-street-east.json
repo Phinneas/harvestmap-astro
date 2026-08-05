@@ -1,0 +1,19 @@
+{
+  "slug": "rancho-lorena-810-165th-street-east",
+  "name": "Rancho Lorena",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "810 165th Street East, CA",
+  "locationCity": "810 165th Street East",
+  "locationState": "CA",
+  "locationZipcode": "93544",
+  "lat": 34.5176252704705,
+  "lon": -117.835470008587,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.835Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.835Z"
+}

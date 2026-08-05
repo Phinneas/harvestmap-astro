@@ -1,0 +1,19 @@
+{
+  "slug": "baylor-farm-ben-howard-road",
+  "name": "Baylor Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ben Howard Road, WA",
+  "locationCity": "Ben Howard Road",
+  "locationState": "WA",
+  "locationZipcode": "98294",
+  "lat": 47.8373659857723,
+  "lon": -121.849086006102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.366Z"
+}

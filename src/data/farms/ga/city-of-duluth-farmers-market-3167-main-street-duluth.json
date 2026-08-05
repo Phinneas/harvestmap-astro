@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-duluth-farmers-market-3167-main-street-duluth",
+  "name": "City of Duluth Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3167 Main Street Duluth, GA",
+  "locationCity": "3167 Main Street Duluth",
+  "locationState": "GA",
+  "locationZipcode": "30096",
+  "lat": 34.00236455617895,
+  "lon": -84.14555419807023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

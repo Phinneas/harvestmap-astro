@@ -1,0 +1,19 @@
+{
+  "slug": "smith-farms-465-north-800-west",
+  "name": "Smith Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "465 North 800 West, IN",
+  "locationCity": "465 North 800 West",
+  "locationState": "IN",
+  "locationZipcode": "46041",
+  "lat": 40.4311745685517,
+  "lon": -86.5142875420274,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.310Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.310Z"
+}

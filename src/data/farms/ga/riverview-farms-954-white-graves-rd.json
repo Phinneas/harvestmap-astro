@@ -1,0 +1,19 @@
+{
+  "slug": "riverview-farms-954-white-graves-rd",
+  "name": "Riverview Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "954 White Graves Rd., GA",
+  "locationCity": "954 White Graves Rd.",
+  "locationState": "GA",
+  "locationZipcode": "30734",
+  "lat": 34.61506048496039,
+  "lon": -84.74090558300011,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.458Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.458Z"
+}

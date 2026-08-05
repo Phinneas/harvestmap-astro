@@ -1,0 +1,19 @@
+{
+  "slug": "king-street-farmers-market-1021-king-street-jacksonville",
+  "name": "King Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1021 King Street Jacksonville, FL",
+  "locationCity": "1021 King Street Jacksonville",
+  "locationState": "FL",
+  "locationZipcode": "32204",
+  "lat": 30.31314529810627,
+  "lon": -81.6955111425269,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

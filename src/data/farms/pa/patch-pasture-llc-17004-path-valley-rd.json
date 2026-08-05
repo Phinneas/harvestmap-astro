@@ -1,0 +1,19 @@
+{
+  "slug": "patch-pasture-llc-17004-path-valley-rd",
+  "name": "Patch & Pasture, LLC",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17004 Path Valley Rd, PA",
+  "locationCity": "17004 Path Valley Rd",
+  "locationState": "PA",
+  "locationZipcode": "17004",
+  "lat": 40.151488,
+  "lon": -77.766771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.010Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.010Z"
+}

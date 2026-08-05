@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-central-726-1st-avenue-north-fort-dodge",
+  "name": "Market on Central",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "726 1st Avenue North Fort Dodge, IA",
+  "locationCity": "726 1st Avenue North Fort Dodge",
+  "locationState": "IA",
+  "locationZipcode": "50501",
+  "lat": 42.505983880560045,
+  "lon": -94.18856674122834,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

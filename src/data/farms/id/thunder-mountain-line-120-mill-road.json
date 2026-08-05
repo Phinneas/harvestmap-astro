@@ -1,0 +1,19 @@
+{
+  "slug": "thunder-mountain-line-120-mill-road",
+  "name": "Thunder Mountain Line",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "120 Mill Road, ID",
+  "locationCity": "120 Mill Road",
+  "locationState": "ID",
+  "locationZipcode": "83629",
+  "lat": 43.9125787729962,
+  "lon": -116.194247134125,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.618Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.618Z"
+}

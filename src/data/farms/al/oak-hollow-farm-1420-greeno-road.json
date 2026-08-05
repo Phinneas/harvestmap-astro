@@ -1,0 +1,19 @@
+{
+  "slug": "oak-hollow-farm-1420-greeno-road",
+  "name": "Oak Hollow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1420 Greeno Road, AL",
+  "locationCity": "1420 Greeno Road",
+  "locationState": "AL",
+  "locationZipcode": "36532",
+  "lat": 30.4607129846922,
+  "lon": -87.8862010042511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.618Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.618Z"
+}

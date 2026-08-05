@@ -1,0 +1,19 @@
+{
+  "slug": "forester-farm-408-sunny-point-rd",
+  "name": "Forester Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "408 Sunny Point Rd, KY",
+  "locationCity": "408 Sunny Point Rd",
+  "locationState": "KY",
+  "locationZipcode": "42210",
+  "lat": 37.3225263173992,
+  "lon": -86.3664279507026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.658Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.658Z"
+}

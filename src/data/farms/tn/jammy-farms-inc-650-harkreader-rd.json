@@ -1,0 +1,19 @@
+{
+  "slug": "jammy-farms-inc-650-harkreader-rd",
+  "name": "Jammy Farms, Inc",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "650 Harkreader Rd, TN",
+  "locationCity": "650 Harkreader Rd",
+  "locationState": "TN",
+  "locationZipcode": "37122",
+  "lat": 36.1209362831819,
+  "lon": -86.4532262021529,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.350Z"
+}

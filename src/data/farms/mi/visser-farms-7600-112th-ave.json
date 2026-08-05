@@ -1,0 +1,19 @@
+{
+  "slug": "visser-farms-7600-112th-ave",
+  "name": "Visser Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7600 112th Ave, MI",
+  "locationCity": "7600 112th Ave",
+  "locationState": "MI",
+  "locationZipcode": "49464",
+  "lat": 42.90721557238476,
+  "lon": -86.06064603014879,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.099Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.099Z"
+}

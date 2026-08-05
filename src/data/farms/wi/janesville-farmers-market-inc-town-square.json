@@ -1,0 +1,19 @@
+{
+  "slug": "janesville-farmers-market-inc-town-square",
+  "name": "Janesville Farmers Market, Inc.",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Town Square, WI",
+  "locationCity": "Town Square",
+  "locationState": "WI",
+  "locationZipcode": "53545",
+  "lat": 42.681669,
+  "lon": -89.023298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.707Z"
+}

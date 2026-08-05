@@ -1,0 +1,19 @@
+{
+  "slug": "mt-washington-farmers-market-2221-oxford-avenue-cincinnati",
+  "name": "Mt. Washington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2221 Oxford Avenue Cincinnati, OH",
+  "locationCity": "2221 Oxford Avenue Cincinnati",
+  "locationState": "OH",
+  "locationZipcode": "45230",
+  "lat": 39.095669786400585,
+  "lon": -84.38815209172844,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.935Z"
+}

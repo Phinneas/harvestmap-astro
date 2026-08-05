@@ -1,0 +1,19 @@
+{
+  "slug": "signal-hill-farmers-market-1225-s-robert-st",
+  "name": "Signal Hill Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1225 S Robert St, MN",
+  "locationCity": "1225 S Robert St",
+  "locationState": "MN",
+  "locationZipcode": "55118",
+  "lat": 44.9090044,
+  "lon": -93.0812385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

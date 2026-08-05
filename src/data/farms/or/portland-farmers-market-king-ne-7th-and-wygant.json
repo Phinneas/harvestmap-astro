@@ -1,0 +1,19 @@
+{
+  "slug": "portland-farmers-market-king-ne-7th-and-wygant",
+  "name": "Portland Farmers Market - King",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "NE 7th and Wygant, OR",
+  "locationCity": "NE 7th and Wygant",
+  "locationState": "OR",
+  "locationZipcode": "97211",
+  "lat": 45.557097,
+  "lon": -122.65898,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.261Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.261Z"
+}

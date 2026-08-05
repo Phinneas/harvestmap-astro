@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-gray-570-littlejohn-rd",
+  "name": "Farmer Gray",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "570 Littlejohn Rd, SC",
+  "locationCity": "570 Littlejohn Rd",
+  "locationState": "SC",
+  "locationZipcode": "29340",
+  "lat": 34.8861760016932,
+  "lon": -81.597409994154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.862Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.862Z"
+}

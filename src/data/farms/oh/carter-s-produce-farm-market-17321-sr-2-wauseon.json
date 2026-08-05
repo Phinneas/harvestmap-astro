@@ -1,0 +1,19 @@
+{
+  "slug": "carter-s-produce-farm-market-17321-sr-2-wauseon",
+  "name": "Carter's Produce Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "17321 SR 2 Wauseon, OH",
+  "locationCity": "17321 SR 2 Wauseon",
+  "locationState": "OH",
+  "locationZipcode": "17321",
+  "lat": 41.543338020119506,
+  "lon": -84.1983769946724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.371Z"
+}

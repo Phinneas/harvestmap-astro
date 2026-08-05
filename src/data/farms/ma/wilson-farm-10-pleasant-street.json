@@ -1,0 +1,20 @@
+{
+  "slug": "wilson-farm-10-pleasant-street",
+  "name": "Wilson Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10 Pleasant Street, MA",
+  "locationCity": "10 Pleasant Street",
+  "locationState": "MA",
+  "locationZipcode": "02421",
+  "lat": 42.4272602109365,
+  "lon": -71.2062269128888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.570Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.570Z",
+  "crops": []
+}

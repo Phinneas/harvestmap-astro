@@ -1,0 +1,19 @@
+{
+  "slug": "ujamaa-co-op-farmers-market-4857-s-evans-ave-1-chicago",
+  "name": "Ujamaa Co-op Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4857 S Evans Ave. #1 Chicago, IL",
+  "locationCity": "4857 S Evans Ave. #1 Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60615",
+  "lat": 41.80666148137705,
+  "lon": -87.60771285310283,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "assateague-farm-11832-assateague-rd",
+  "name": "Assateague Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "11832 Assateague Rd, MD",
+  "locationCity": "11832 Assateague Rd",
+  "locationState": "MD",
+  "locationZipcode": "11832",
+  "lat": 38.28874098988658,
+  "lon": -75.15309395974181,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:14.359Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:14.359Z"
+}

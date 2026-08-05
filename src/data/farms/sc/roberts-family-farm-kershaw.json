@@ -1,0 +1,19 @@
+{
+  "slug": "roberts-family-farm-kershaw",
+  "name": "Roberts Family Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Kershaw, SC",
+  "locationCity": "Kershaw",
+  "locationState": "SC",
+  "locationZipcode": "29067",
+  "lat": 34.5518201,
+  "lon": -80.583683,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.149Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.149Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-farm-market-day-100-2nd-road-summertown",
+  "name": "The Farm Market Day",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 2nd Road Summertown, TN",
+  "locationCity": "100 2nd Road Summertown",
+  "locationState": "TN",
+  "locationZipcode": "38483",
+  "lat": 35.4893458882118,
+  "lon": -87.33757506574365,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

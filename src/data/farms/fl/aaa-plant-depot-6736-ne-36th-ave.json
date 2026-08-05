@@ -1,0 +1,19 @@
+{
+  "slug": "aaa-plant-depot-6736-ne-36th-ave",
+  "name": "AAA Plant Depot",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6736 NE 36th Ave, FL",
+  "locationCity": "6736 NE 36th Ave",
+  "locationState": "FL",
+  "locationZipcode": "34479",
+  "lat": 29.2559933007024,
+  "lon": -82.093074592805,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.844Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.844Z"
+}

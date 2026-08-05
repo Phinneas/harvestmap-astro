@@ -1,0 +1,19 @@
+{
+  "slug": "cresco-farmers-market-112-2nd-street-sw",
+  "name": "Cresco Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 2nd Street SW, IA",
+  "locationCity": "112 2nd Street SW",
+  "locationState": "IA",
+  "locationZipcode": "52136",
+  "lat": 43.371922994671365,
+  "lon": -92.1189739984083,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

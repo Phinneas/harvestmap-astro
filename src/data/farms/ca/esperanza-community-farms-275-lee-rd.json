@@ -1,0 +1,19 @@
+{
+  "slug": "esperanza-community-farms-275-lee-rd",
+  "name": "Esperanza Community Farms",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "275 Lee Rd, CA",
+  "locationCity": "275 Lee Rd",
+  "locationState": "CA",
+  "locationZipcode": "95076",
+  "lat": 36.90556201008407,
+  "lon": -121.7919189956933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

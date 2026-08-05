@@ -1,0 +1,19 @@
+{
+  "slug": "b-b-farms-galloway-township",
+  "name": "B & B Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Galloway Township, NJ",
+  "locationCity": "Galloway Township",
+  "locationState": "NJ",
+  "locationZipcode": "08215",
+  "lat": 39.5011650116654,
+  "lon": -74.5731909827204,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.580Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.580Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "humpday-farmers-market-2421-w-main-st",
+  "name": "Humpday Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2421 W Main St, IL",
+  "locationCity": "2421 W Main St",
+  "locationState": "IL",
+  "locationZipcode": "62901",
+  "lat": 37.731906,
+  "lon": -89.247353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.952Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.952Z"
+}

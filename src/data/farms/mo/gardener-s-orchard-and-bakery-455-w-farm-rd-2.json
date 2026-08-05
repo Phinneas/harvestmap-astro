@@ -1,0 +1,19 @@
+{
+  "slug": "gardener-s-orchard-and-bakery-455-w-farm-rd-2",
+  "name": "Gardener's Orchard and Bakery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "455 W Farm Rd 2, MO",
+  "locationCity": "455 W Farm Rd 2",
+  "locationState": "MO",
+  "locationZipcode": "65617",
+  "lat": 37.4208999832258,
+  "lon": -93.3365399825091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.796Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.796Z"
+}

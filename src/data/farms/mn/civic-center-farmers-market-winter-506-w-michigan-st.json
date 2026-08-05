@@ -1,0 +1,19 @@
+{
+  "slug": "civic-center-farmers-market-winter-506-w-michigan-st",
+  "name": "Civic Center Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "506 W Michigan St, MN",
+  "locationCity": "506 W Michigan St",
+  "locationState": "MN",
+  "locationZipcode": "55802",
+  "lat": 46.7811071,
+  "lon": -92.1041399,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

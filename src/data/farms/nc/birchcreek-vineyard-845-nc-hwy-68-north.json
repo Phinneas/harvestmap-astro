@@ -1,0 +1,19 @@
+{
+  "slug": "birchcreek-vineyard-845-nc-hwy-68-north",
+  "name": "Birchcreek Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "845 NC Hwy 68 North, NC",
+  "locationCity": "845 NC Hwy 68 North",
+  "locationState": "NC",
+  "locationZipcode": "27357",
+  "lat": 36.2660167374788,
+  "lon": -79.9509984698241,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.890Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.890Z"
+}

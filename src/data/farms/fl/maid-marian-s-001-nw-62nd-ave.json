@@ -1,0 +1,19 @@
+{
+  "slug": "maid-marian-s-001-nw-62nd-ave",
+  "name": "Maid Marian's",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "001 NW 62nd Ave, FL",
+  "locationCity": "001 NW 62nd Ave",
+  "locationState": "FL",
+  "locationZipcode": "32643",
+  "lat": 29.7118771828987,
+  "lon": -82.6392538371313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.873Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.873Z"
+}

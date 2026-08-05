@@ -1,0 +1,19 @@
+{
+  "slug": "lutz-orchard-030-macon-road",
+  "name": "Lutz Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "030 Macon Road, MI",
+  "locationCity": "030 Macon Road",
+  "locationState": "MI",
+  "locationZipcode": "48176",
+  "lat": 42.1216703482123,
+  "lon": -83.8204261057129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.687Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.687Z"
+}

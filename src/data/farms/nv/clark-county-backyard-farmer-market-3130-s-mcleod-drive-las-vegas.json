@@ -1,0 +1,19 @@
+{
+  "slug": "clark-county-backyard-farmer-market-3130-s-mcleod-drive-las-vegas",
+  "name": "Clark County Backyard Farmer Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3130 S. McLeod Drive Las Vegas, NV",
+  "locationCity": "3130 S. McLeod Drive Las Vegas",
+  "locationState": "NV",
+  "locationZipcode": "89121",
+  "lat": 36.133521487023785,
+  "lon": -115.10978362360592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:24.364Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:24.364Z"
+}

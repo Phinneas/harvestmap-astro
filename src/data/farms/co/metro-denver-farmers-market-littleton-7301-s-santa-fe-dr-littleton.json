@@ -1,0 +1,19 @@
+{
+  "slug": "metro-denver-farmers-market-littleton-7301-s-santa-fe-dr-littleton",
+  "name": "Metro Denver Farmers' Market-Littleton",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7301 S Santa Fe Dr Littleton, CO",
+  "locationCity": "7301 S Santa Fe Dr Littleton",
+  "locationState": "CO",
+  "locationZipcode": "80120",
+  "lat": 39.588668490829825,
+  "lon": -105.0225971771578,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

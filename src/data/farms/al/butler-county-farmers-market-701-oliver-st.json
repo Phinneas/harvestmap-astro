@@ -1,0 +1,19 @@
+{
+  "slug": "butler-county-farmers-market-701-oliver-st",
+  "name": "Butler County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "701 Oliver St., AL",
+  "locationCity": "701 Oliver St.",
+  "locationState": "AL",
+  "locationZipcode": "36037",
+  "lat": 31.830725296519468,
+  "lon": -86.62889834580574,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "coon-rapids-farmers-market-11000-crooked-lake-blvd-nw",
+  "name": "Coon Rapids Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11000 Crooked Lake Blvd NW, MN",
+  "locationCity": "11000 Crooked Lake Blvd NW",
+  "locationState": "MN",
+  "locationZipcode": "11000",
+  "lat": 45.1707519,
+  "lon": -93.3424745,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

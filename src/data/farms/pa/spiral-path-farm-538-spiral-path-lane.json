@@ -1,0 +1,19 @@
+{
+  "slug": "spiral-path-farm-538-spiral-path-lane",
+  "name": "Spiral Path Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "538 Spiral Path Lane, PA",
+  "locationCity": "538 Spiral Path Lane",
+  "locationState": "PA",
+  "locationZipcode": "17047",
+  "lat": 40.37124935089204,
+  "lon": -77.43323137864155,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.606Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.606Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sonlight-orchard-605-austin-street",
+  "name": "Sonlight Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "605 Austin Street, TX",
+  "locationCity": "605 Austin Street",
+  "locationState": "TX",
+  "locationZipcode": "76856",
+  "lat": 30.7474909865984,
+  "lon": -99.2241849932932,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.661Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.661Z"
+}

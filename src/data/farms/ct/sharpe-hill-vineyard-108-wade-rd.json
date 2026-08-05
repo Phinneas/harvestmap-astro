@@ -1,0 +1,19 @@
+{
+  "slug": "sharpe-hill-vineyard-108-wade-rd",
+  "name": "Sharpe Hill Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "108 Wade Rd, CT",
+  "locationCity": "108 Wade Rd",
+  "locationState": "CT",
+  "locationZipcode": "06258",
+  "lat": 41.8142000175147,
+  "lon": -72.0118269659634,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.993Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.993Z"
+}

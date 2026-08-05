@@ -1,0 +1,19 @@
+{
+  "slug": "hams-produce-2107-route-318-town-of-tyre",
+  "name": "Hams Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2107 Route 318 town Of Tyre, NY",
+  "locationCity": "2107 Route 318 town Of Tyre",
+  "locationState": "NY",
+  "locationZipcode": "13148",
+  "lat": 42.95960016220789,
+  "lon": -76.82564590909782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.827Z"
+}

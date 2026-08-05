@@ -1,0 +1,19 @@
+{
+  "slug": "hatches-orchard-1440-brownfield-road",
+  "name": "Hatches Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1440 Brownfield Road, NH",
+  "locationCity": "1440 Brownfield Road",
+  "locationState": "NH",
+  "locationZipcode": "03813",
+  "lat": 43.9581759,
+  "lon": -71.013385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.736Z"
+}

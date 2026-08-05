@@ -1,0 +1,19 @@
+{
+  "slug": "zentek-farms-325-higgins-road",
+  "name": "Zentek Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "325 Higgins Road, CT",
+  "locationCity": "325 Higgins Road",
+  "locationState": "CT",
+  "locationZipcode": "06410",
+  "lat": 41.4854090108934,
+  "lon": -72.9160629924927,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.957Z"
+}

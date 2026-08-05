@@ -1,0 +1,19 @@
+{
+  "slug": "mariposa-ranch-132-spengler-way",
+  "name": "Mariposa Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "132 Spengler Way, CA",
+  "locationCity": "132 Spengler Way",
+  "locationState": "CA",
+  "locationZipcode": "95380",
+  "lat": 37.484186743559,
+  "lon": -120.880820936456,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.803Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "ariels-farm-194-northern-pines-road",
+  "name": "Ariels Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "194 Northern Pines Road, NY",
+  "locationCity": "194 Northern Pines Road",
+  "locationState": "NY",
+  "locationZipcode": "12831",
+  "lat": 43.1495912527431,
+  "lon": -73.7395045132095,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.228Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.228Z",
+  "crops": []
+}

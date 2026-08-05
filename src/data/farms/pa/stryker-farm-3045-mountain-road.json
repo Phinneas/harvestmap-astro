@@ -1,0 +1,19 @@
+{
+  "slug": "stryker-farm-3045-mountain-road",
+  "name": "Stryker Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3045 Mountain Road, PA",
+  "locationCity": "3045 Mountain Road",
+  "locationState": "PA",
+  "locationZipcode": "18353",
+  "lat": 40.8608203,
+  "lon": -75.328785,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.345Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.345Z"
+}

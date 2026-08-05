@@ -1,0 +1,19 @@
+{
+  "slug": "greenfield-farm-2455-dairy-road",
+  "name": "Greenfield Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2455 Dairy Road, VA",
+  "locationCity": "2455 Dairy Road",
+  "locationState": "VA",
+  "locationZipcode": "22968",
+  "lat": 38.2633789853488,
+  "lon": -78.3604800041581,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.076Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.076Z"
+}

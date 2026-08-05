@@ -1,0 +1,19 @@
+{
+  "slug": "simpsons-family-farm-748-simpson-road",
+  "name": "Simpsons Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "748 Simpson Road, MO",
+  "locationCity": "748 Simpson Road",
+  "locationState": "MO",
+  "locationZipcode": "65711",
+  "lat": 37.2216463945933,
+  "lon": -92.3059271693306,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.747Z"
+}

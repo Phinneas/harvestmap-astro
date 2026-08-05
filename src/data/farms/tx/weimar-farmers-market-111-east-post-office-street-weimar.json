@@ -1,0 +1,19 @@
+{
+  "slug": "weimar-farmers-market-111-east-post-office-street-weimar",
+  "name": "Weimar Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 East Post Office Street Weimar, TX",
+  "locationCity": "111 East Post Office Street Weimar",
+  "locationState": "TX",
+  "locationZipcode": "78962",
+  "lat": 29.70366551948022,
+  "lon": -96.78039680500241,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.201Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.201Z"
+}

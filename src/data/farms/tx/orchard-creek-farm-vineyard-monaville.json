@@ -1,0 +1,19 @@
+{
+  "slug": "orchard-creek-farm-vineyard-monaville",
+  "name": "Orchard Creek Farm & Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Monaville, TX",
+  "locationCity": "Monaville",
+  "locationState": "TX",
+  "locationZipcode": "77445",
+  "lat": 29.9520871245372,
+  "lon": -96.0311344584036,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.677Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.677Z"
+}

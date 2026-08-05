@@ -1,0 +1,19 @@
+{
+  "slug": "denison-farm-333-buttermilk-falls-road",
+  "name": "Denison Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "333 Buttermilk Falls Road, NY",
+  "locationCity": "333 Buttermilk Falls Road",
+  "locationState": "NY",
+  "locationZipcode": "12154",
+  "lat": 42.8950001,
+  "lon": -73.6316869,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

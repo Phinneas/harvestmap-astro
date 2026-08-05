@@ -1,0 +1,19 @@
+{
+  "slug": "bunch-farms-920-sw-95-st",
+  "name": "Bunch Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "920 Sw 95 St, FL",
+  "locationCity": "920 Sw 95 St",
+  "locationState": "FL",
+  "locationZipcode": "33176",
+  "lat": 25.6803173183141,
+  "lon": -80.3762651213034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.789Z"
+}

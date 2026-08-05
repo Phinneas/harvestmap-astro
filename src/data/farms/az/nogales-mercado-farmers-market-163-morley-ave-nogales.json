@@ -1,0 +1,19 @@
+{
+  "slug": "nogales-mercado-farmers-market-163-morley-ave-nogales",
+  "name": "Nogales Mercado Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "163 Morley Ave Nogales, AZ",
+  "locationCity": "163 Morley Ave Nogales",
+  "locationState": "AZ",
+  "locationZipcode": "85621",
+  "lat": 31.3345560717684,
+  "lon": -110.94020856598029,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

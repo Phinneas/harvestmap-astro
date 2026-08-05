@@ -1,0 +1,19 @@
+{
+  "slug": "murphysboro-farmers-market-1101-walnut-st-murphysboro",
+  "name": "Murphysboro Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1101 Walnut St Murphysboro, IL",
+  "locationCity": "1101 Walnut St Murphysboro",
+  "locationState": "IL",
+  "locationZipcode": "62966",
+  "lat": 37.76431134807224,
+  "lon": -89.33536683039301,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

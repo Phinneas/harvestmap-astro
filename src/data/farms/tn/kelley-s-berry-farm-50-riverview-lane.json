@@ -1,0 +1,19 @@
+{
+  "slug": "kelley-s-berry-farm-50-riverview-lane",
+  "name": "Kelley's Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "50 Riverview Lane, TN",
+  "locationCity": "50 Riverview Lane",
+  "locationState": "TN",
+  "locationZipcode": "37031",
+  "lat": 36.3128939812597,
+  "lon": -86.2704780075096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.200Z"
+}

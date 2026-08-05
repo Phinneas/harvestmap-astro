@@ -1,0 +1,19 @@
+{
+  "slug": "heeks-farm-3602-hall-road",
+  "name": "Heeks Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3602 Hall Road, NC",
+  "locationCity": "3602 Hall Road",
+  "locationState": "NC",
+  "locationZipcode": "27572",
+  "lat": 36.18263413486194,
+  "lon": -78.84534016197796,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.907Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.907Z"
+}

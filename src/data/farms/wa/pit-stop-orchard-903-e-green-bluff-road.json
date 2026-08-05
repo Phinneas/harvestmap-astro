@@ -1,0 +1,19 @@
+{
+  "slug": "pit-stop-orchard-903-e-green-bluff-road",
+  "name": "Pit Stop Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "903 E. Green Bluff Road, WA",
+  "locationCity": "903 E. Green Bluff Road",
+  "locationState": "WA",
+  "locationZipcode": "99005",
+  "lat": 47.8091220010307,
+  "lon": -117.33107154094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.191Z"
+}

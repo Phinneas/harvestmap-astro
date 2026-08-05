@@ -1,0 +1,19 @@
+{
+  "slug": "sweet-core-farm-route-126",
+  "name": "Sweet Core Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 126, NH",
+  "locationCity": "Route 126",
+  "locationState": "NH",
+  "locationZipcode": "03815",
+  "lat": 43.2284774283359,
+  "lon": -71.0538652150598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.925Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.925Z"
+}

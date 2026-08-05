@@ -1,0 +1,19 @@
+{
+  "slug": "grandma-s-berry-patch-16998-south-1050-west",
+  "name": "Grandma's Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16998 South 1050 West, IN",
+  "locationCity": "16998 South 1050 West",
+  "locationState": "IN",
+  "locationZipcode": "16998",
+  "lat": 41.3612705736791,
+  "lon": -86.9015648271123,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.264Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.264Z"
+}

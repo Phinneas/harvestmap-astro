@@ -1,0 +1,19 @@
+{
+  "slug": "ladybug-acres-999-kizer-rd",
+  "name": "Ladybug Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "999 Kizer Rd, OH",
+  "locationCity": "999 Kizer Rd",
+  "locationState": "OH",
+  "locationZipcode": "43078",
+  "lat": 40.1654759370432,
+  "lon": -83.8321921199045,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.919Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.919Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "local-organic-market-19-e-main-street-kutztown",
+  "name": "Local Organic Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "19 E. Main Street Kutztown, PA",
+  "locationCity": "19 E. Main Street Kutztown",
+  "locationState": "PA",
+  "locationZipcode": "19530",
+  "lat": 40.51990635439522,
+  "lon": -75.77566054472766,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

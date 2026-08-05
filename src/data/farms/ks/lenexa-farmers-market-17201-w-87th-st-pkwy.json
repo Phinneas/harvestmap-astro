@@ -1,0 +1,19 @@
+{
+  "slug": "lenexa-farmers-market-17201-w-87th-st-pkwy",
+  "name": "Lenexa Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17201 W. 87th St. Pkwy, KS",
+  "locationCity": "17201 W. 87th St. Pkwy",
+  "locationState": "KS",
+  "locationZipcode": "17201",
+  "lat": 38.96959598593861,
+  "lon": -94.78569401185294,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

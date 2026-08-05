@@ -1,0 +1,20 @@
+{
+  "slug": "chelan-ranch-100-chelan-ranch-road",
+  "name": "Chelan Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 Chelan Ranch Road, WA",
+  "locationCity": "100 Chelan Ranch Road",
+  "locationState": "WA",
+  "locationZipcode": "98816",
+  "lat": 47.8805449827949,
+  "lon": -120.065873991729,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.132Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.132Z",
+  "crops": []
+}

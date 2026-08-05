@@ -1,0 +1,19 @@
+{
+  "slug": "spring-hill-farmers-market-3021-commercial-way-spring-hill",
+  "name": "Spring Hill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3021 Commercial Way Spring Hill, FL",
+  "locationCity": "3021 Commercial Way Spring Hill",
+  "locationState": "FL",
+  "locationZipcode": "34606",
+  "lat": 28.477962887510376,
+  "lon": -82.61164219902244,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

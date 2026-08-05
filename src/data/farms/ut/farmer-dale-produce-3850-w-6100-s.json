@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-dale-produce-3850-w-6100-s",
+  "name": "Farmer Dale Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3850 W. 6100 S., UT",
+  "locationCity": "3850 W. 6100 S.",
+  "locationState": "UT",
+  "locationZipcode": "84339",
+  "lat": 41.622384388198086,
+  "lon": -111.92558549560057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:27.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:27.057Z"
+}

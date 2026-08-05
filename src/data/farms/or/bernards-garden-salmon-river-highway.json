@@ -1,0 +1,19 @@
+{
+  "slug": "bernards-garden-salmon-river-highway",
+  "name": "Bernards Garden",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Salmon River Highway, OR",
+  "locationCity": "Salmon River Highway",
+  "locationState": "OR",
+  "locationZipcode": "97128",
+  "lat": 45.1725000074005,
+  "lon": -123.243779960668,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.953Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.953Z"
+}

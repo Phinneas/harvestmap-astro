@@ -1,0 +1,19 @@
+{
+  "slug": "riverside-brewing-company-1-fountain-street",
+  "name": "Riverside Brewing Company",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1 Fountain Street, PA",
+  "locationCity": "1 Fountain Street",
+  "locationState": "PA",
+  "locationZipcode": "16403",
+  "lat": 41.8056659827966,
+  "lon": -80.0531289913008,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.153Z"
+}

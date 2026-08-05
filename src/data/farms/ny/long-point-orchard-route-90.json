@@ -1,0 +1,19 @@
+{
+  "slug": "long-point-orchard-route-90",
+  "name": "Long Point Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Route 90, NY",
+  "locationCity": "Route 90",
+  "locationState": "NY",
+  "locationZipcode": "13026",
+  "lat": 42.718819014636225,
+  "lon": -76.68487086909042,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.828Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.828Z"
+}

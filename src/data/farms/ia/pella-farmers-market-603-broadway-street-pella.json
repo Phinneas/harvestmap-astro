@@ -1,0 +1,19 @@
+{
+  "slug": "pella-farmers-market-603-broadway-street-pella",
+  "name": "Pella Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "603 Broadway Street Pella, IA",
+  "locationCity": "603 Broadway Street Pella",
+  "locationState": "IA",
+  "locationZipcode": "50219",
+  "lat": 41.404201255295185,
+  "lon": -92.91833326299313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

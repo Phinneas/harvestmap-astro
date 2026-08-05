@@ -1,0 +1,19 @@
+{
+  "slug": "nimbus-farm-1407-marietta-ave",
+  "name": "Nimbus Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1407 Marietta Ave, WA",
+  "locationCity": "1407 Marietta Ave",
+  "locationState": "WA",
+  "locationZipcode": "98226",
+  "lat": 48.80431553758882,
+  "lon": -122.5558878120761,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.623Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.623Z"
+}

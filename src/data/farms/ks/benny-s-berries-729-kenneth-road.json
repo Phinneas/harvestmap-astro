@@ -1,0 +1,19 @@
+{
+  "slug": "benny-s-berries-729-kenneth-road",
+  "name": "Benny's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "729 Kenneth Road, KS",
+  "locationCity": "729 Kenneth Road",
+  "locationState": "KS",
+  "locationZipcode": "64145",
+  "lat": 38.8476330083085,
+  "lon": -94.5949840054824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.069Z"
+}

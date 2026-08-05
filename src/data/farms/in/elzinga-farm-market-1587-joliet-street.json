@@ -1,0 +1,19 @@
+{
+  "slug": "elzinga-farm-market-1587-joliet-street",
+  "name": "Elzinga Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1587 Joliet Street, IN",
+  "locationCity": "1587 Joliet Street",
+  "locationState": "IN",
+  "locationZipcode": "46311",
+  "lat": 41.49158207303452,
+  "lon": -87.49049318371829,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.599Z"
+}

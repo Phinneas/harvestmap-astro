@@ -1,0 +1,19 @@
+{
+  "slug": "hillcrest-farm-30497-hixson-road",
+  "name": "Hillcrest Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "30497 Hixson Road, AL",
+  "locationCity": "30497 Hixson Road",
+  "locationState": "AL",
+  "locationZipcode": "30497",
+  "lat": 30.42359501143153,
+  "lon": -87.5078129617068,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:51.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:51.809Z"
+}

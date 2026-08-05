@@ -1,0 +1,20 @@
+{
+  "slug": "brehmer-s-u-pick-5783-clover-road",
+  "name": "Brehmer's U-pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5783 Clover Road, WI",
+  "locationCity": "5783 Clover Road",
+  "locationState": "WI",
+  "locationZipcode": "53027",
+  "lat": 43.3387134332856,
+  "lon": -88.3231406325117,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.121Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.121Z",
+  "crops": []
+}

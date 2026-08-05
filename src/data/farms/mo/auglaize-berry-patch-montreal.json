@@ -1,0 +1,19 @@
+{
+  "slug": "auglaize-berry-patch-montreal",
+  "name": "Auglaize Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Montreal, MO",
+  "locationCity": "Montreal",
+  "locationState": "MO",
+  "locationZipcode": "65591",
+  "lat": 38.0082803,
+  "lon": -92.578407,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.886Z"
+}

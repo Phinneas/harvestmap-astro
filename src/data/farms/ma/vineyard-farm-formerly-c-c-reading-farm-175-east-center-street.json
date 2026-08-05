@@ -1,0 +1,20 @@
+{
+  "slug": "vineyard-farm-formerly-c-c-reading-farm-175-east-center-street",
+  "name": "Vineyard Farm formerly C&C Reading Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "175 East Center Street, MA",
+  "locationCity": "175 East Center Street",
+  "locationState": "MA",
+  "locationZipcode": "02379",
+  "lat": 42.0204360745942,
+  "lon": -70.9972251630375,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.606Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.606Z",
+  "crops": []
+}

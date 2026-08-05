@@ -1,0 +1,19 @@
+{
+  "slug": "rankin-farm-4th-street",
+  "name": "Rankin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4th Street, KY",
+  "locationCity": "4th Street",
+  "locationState": "KY",
+  "locationZipcode": "40229",
+  "lat": 38.0819421234804,
+  "lon": -85.663045543445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.617Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.617Z"
+}

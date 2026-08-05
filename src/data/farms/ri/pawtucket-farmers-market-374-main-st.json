@@ -1,0 +1,20 @@
+{
+  "slug": "pawtucket-farmers-market-374-main-st",
+  "name": "Pawtucket Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "374 Main ST, RI",
+  "locationCity": "374 Main ST",
+  "locationState": "RI",
+  "locationZipcode": "02860",
+  "lat": 41.877734,
+  "lon": -71.387274,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.507Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kemperman-s-blueberries-524-fremont-street",
+  "name": "Kemperman's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "524 Fremont Street, MI",
+  "locationCity": "524 Fremont Street",
+  "locationState": "MI",
+  "locationZipcode": "49337",
+  "lat": 43.4236485246865,
+  "lon": -85.8108553033835,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.707Z"
+}

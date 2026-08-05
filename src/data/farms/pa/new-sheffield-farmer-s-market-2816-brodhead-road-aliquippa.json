@@ -1,0 +1,19 @@
+{
+  "slug": "new-sheffield-farmer-s-market-2816-brodhead-road-aliquippa",
+  "name": "New Sheffield Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2816 Brodhead Road Aliquippa, PA",
+  "locationCity": "2816 Brodhead Road Aliquippa",
+  "locationState": "PA",
+  "locationZipcode": "15001",
+  "lat": 40.617693777481946,
+  "lon": -80.29028860509415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

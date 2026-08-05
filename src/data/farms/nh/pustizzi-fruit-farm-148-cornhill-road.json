@@ -1,0 +1,20 @@
+{
+  "slug": "pustizzi-fruit-farm-148-cornhill-road",
+  "name": "Pustizzi Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "148 Cornhill Road, NH",
+  "locationCity": "148 Cornhill Road",
+  "locationState": "NH",
+  "locationZipcode": "03303",
+  "lat": 43.3124909844773,
+  "lon": -71.6622349674172,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.620Z",
+  "crops": []
+}

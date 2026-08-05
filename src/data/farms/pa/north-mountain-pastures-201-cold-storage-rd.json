@@ -1,0 +1,19 @@
+{
+  "slug": "north-mountain-pastures-201-cold-storage-rd",
+  "name": "North Mountain Pastures",
+  "source": "usda",
+  "directory": "csa",
+  "location": "201 Cold Storage Rd, PA",
+  "locationCity": "201 Cold Storage Rd",
+  "locationState": "PA",
+  "locationZipcode": "17074",
+  "lat": 40.4538359,
+  "lon": -77.2178703,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.551Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.551Z"
+}

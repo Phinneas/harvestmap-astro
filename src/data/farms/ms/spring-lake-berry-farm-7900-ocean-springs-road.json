@@ -1,0 +1,19 @@
+{
+  "slug": "spring-lake-berry-farm-7900-ocean-springs-road",
+  "name": "Spring Lake Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7900 Ocean Springs Road, MS",
+  "locationCity": "7900 Ocean Springs Road",
+  "locationState": "MS",
+  "locationZipcode": "39564",
+  "lat": 30.4294890073241,
+  "lon": -88.7395523884557,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.842Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.842Z"
+}

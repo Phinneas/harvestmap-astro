@@ -1,0 +1,19 @@
+{
+  "slug": "bixby-orchards-pokagon-rd",
+  "name": "Bixby Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Pokagon Rd, MI",
+  "locationCity": "Pokagon Rd",
+  "locationState": "MI",
+  "locationZipcode": "49103",
+  "lat": 41.9438372167938,
+  "lon": -86.3161942074132,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.557Z"
+}

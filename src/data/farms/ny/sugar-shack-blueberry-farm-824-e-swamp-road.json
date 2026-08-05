@@ -1,0 +1,19 @@
+{
+  "slug": "sugar-shack-blueberry-farm-824-e-swamp-road",
+  "name": "Sugar Shack Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "824 E. Swamp Road, NY",
+  "locationCity": "824 E. Swamp Road",
+  "locationState": "NY",
+  "locationZipcode": "14527",
+  "lat": 42.7236588917317,
+  "lon": -77.1439893344156,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.423Z"
+}

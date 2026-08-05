@@ -1,0 +1,19 @@
+{
+  "slug": "tucker-farms-produce-clay-city",
+  "name": "Tucker Farms Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Clay City, IN",
+  "locationCity": "Clay City",
+  "locationState": "IN",
+  "locationZipcode": "47841",
+  "lat": 39.304845,
+  "lon": -87.110518,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.583Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.583Z"
+}

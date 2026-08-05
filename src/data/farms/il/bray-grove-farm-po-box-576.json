@@ -1,0 +1,19 @@
+{
+  "slug": "bray-grove-farm-po-box-576",
+  "name": "Bray Grove Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 576, IL",
+  "locationCity": "PO Box 576",
+  "locationState": "IL",
+  "locationZipcode": "60450",
+  "lat": 41.357254,
+  "lon": -88.4211785,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.477Z"
+}

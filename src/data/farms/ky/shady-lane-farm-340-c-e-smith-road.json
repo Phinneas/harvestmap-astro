@@ -1,0 +1,20 @@
+{
+  "slug": "shady-lane-farm-340-c-e-smith-road",
+  "name": "Shady Lane Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "340 C.e. Smith Road, KY",
+  "locationCity": "340 C.e. Smith Road",
+  "locationState": "KY",
+  "locationZipcode": "40165",
+  "lat": 38.023829012189,
+  "lon": -85.6413490351482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.594Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.594Z",
+  "crops": []
+}

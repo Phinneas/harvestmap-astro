@@ -1,0 +1,19 @@
+{
+  "slug": "hmong-village-farmers-market-1001-johnson-pkwy",
+  "name": "Hmong Village Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1001 Johnson Pkwy, MN",
+  "locationCity": "1001 Johnson Pkwy",
+  "locationState": "MN",
+  "locationZipcode": "55106",
+  "lat": 44.9716473,
+  "lon": -93.0447786,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "essex-farmers-market-24-martin-st-shepard-memorial-park-essex",
+  "name": "Essex Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24 Martin St. Shepard Memorial Park Essex, MA",
+  "locationCity": "24 Martin St. Shepard Memorial Park Essex",
+  "locationState": "MA",
+  "locationZipcode": "01929",
+  "lat": 42.63091578032666,
+  "lon": -70.78455870475442,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.864Z"
+}

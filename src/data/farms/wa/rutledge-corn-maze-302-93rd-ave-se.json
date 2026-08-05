@@ -1,0 +1,20 @@
+{
+  "slug": "rutledge-corn-maze-302-93rd-ave-se",
+  "name": "Rutledge Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "302 93rd Ave SE, WA",
+  "locationCity": "302 93rd Ave SE",
+  "locationState": "WA",
+  "locationZipcode": "98501",
+  "lat": 46.9530879831654,
+  "lon": -122.90430701473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.206Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.206Z",
+  "crops": []
+}

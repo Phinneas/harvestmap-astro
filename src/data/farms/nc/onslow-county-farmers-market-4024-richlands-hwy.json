@@ -1,0 +1,19 @@
+{
+  "slug": "onslow-county-farmers-market-4024-richlands-hwy",
+  "name": "Onslow County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4024 RIchlands Hwy, NC",
+  "locationCity": "4024 RIchlands Hwy",
+  "locationState": "NC",
+  "locationZipcode": "28540",
+  "lat": 34.782418,
+  "lon": -77.49326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.244Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.244Z"
+}

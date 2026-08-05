@@ -1,0 +1,19 @@
+{
+  "slug": "brainerd-farms-groger-road",
+  "name": "Brainerd Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Groger Road, MI",
+  "locationCity": "Groger Road",
+  "locationState": "MI",
+  "locationZipcode": "49265",
+  "lat": 42.0393870128502,
+  "lon": -84.1592719797787,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.716Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.716Z"
+}

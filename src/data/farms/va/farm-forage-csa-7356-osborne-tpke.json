@@ -1,0 +1,19 @@
+{
+  "slug": "farm-forage-csa-7356-osborne-tpke",
+  "name": "Farm & Forage CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7356 Osborne Tpke, VA",
+  "locationCity": "7356 Osborne Tpke",
+  "locationState": "VA",
+  "locationZipcode": "23231",
+  "lat": 37.4637611,
+  "lon": -77.3994121,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.224Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.224Z"
+}

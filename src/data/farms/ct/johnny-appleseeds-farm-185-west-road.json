@@ -1,0 +1,20 @@
+{
+  "slug": "johnny-appleseeds-farm-185-west-road",
+  "name": "Johnny Appleseeds Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "185 West Road, CT",
+  "locationCity": "185 West Road",
+  "locationState": "CT",
+  "locationZipcode": "06029",
+  "lat": 41.89541898290415,
+  "lon": -72.45990196823138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.205Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.205Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "way-farms-13-denver-road",
+  "name": "Way Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "13 Denver Road, OH",
+  "locationCity": "13 Denver Road",
+  "locationState": "OH",
+  "locationZipcode": "45690",
+  "lat": 39.138281,
+  "lon": -82.982336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.225Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.225Z"
+}

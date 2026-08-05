@@ -1,0 +1,20 @@
+{
+  "slug": "hazel-blue-acres-430-hevly-rd",
+  "name": "Hazel Blue Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "430 Hevly Rd, WA",
+  "locationCity": "430 Hevly Rd",
+  "locationState": "WA",
+  "locationZipcode": "98223",
+  "lat": 48.1996579925528,
+  "lon": -122.223491036437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.153Z",
+  "crops": []
+}

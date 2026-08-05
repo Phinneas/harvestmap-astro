@@ -1,0 +1,19 @@
+{
+  "slug": "warrick-county-farmers-market-611-w-main-street-boonville",
+  "name": "Warrick County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "611 W. Main Street Boonville, IN",
+  "locationCity": "611 W. Main Street Boonville",
+  "locationState": "IN",
+  "locationZipcode": "47601",
+  "lat": 38.05005623953472,
+  "lon": -87.28101639791001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

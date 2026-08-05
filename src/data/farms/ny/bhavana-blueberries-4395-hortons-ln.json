@@ -1,0 +1,20 @@
+{
+  "slug": "bhavana-blueberries-4395-hortons-ln",
+  "name": "Bhavana Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4395 Hortons Ln, NY",
+  "locationCity": "4395 Hortons Ln",
+  "locationState": "NY",
+  "locationZipcode": "11971",
+  "lat": 41.0733707021332,
+  "lon": -72.4408723658141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.260Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.260Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "newport-farmers-market-246-causeway-rd",
+  "name": "Newport Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "246 Causeway Rd., VT",
+  "locationCity": "246 Causeway Rd.",
+  "locationState": "VT",
+  "locationZipcode": "05855",
+  "lat": 44.939707985585414,
+  "lon": -72.20473495880363,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

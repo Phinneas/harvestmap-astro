@@ -1,0 +1,19 @@
+{
+  "slug": "port-royal-farmers-market-1214-paris-avenue-port-royal",
+  "name": "Port Royal Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1214 Paris Avenue Port Royal, SC",
+  "locationCity": "1214 Paris Avenue Port Royal",
+  "locationState": "SC",
+  "locationZipcode": "29935",
+  "lat": 32.37763708165039,
+  "lon": -80.69262998507902,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

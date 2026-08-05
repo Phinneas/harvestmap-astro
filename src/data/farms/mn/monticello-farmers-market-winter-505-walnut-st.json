@@ -1,0 +1,19 @@
+{
+  "slug": "monticello-farmers-market-winter-505-walnut-st",
+  "name": "Monticello Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "505 Walnut St, MN",
+  "locationCity": "505 Walnut St",
+  "locationState": "MN",
+  "locationZipcode": "55362",
+  "lat": 45.3031458,
+  "lon": -93.7990797,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tlc-produce-912-w-25th-st",
+  "name": "TLC Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "912 W. 25th St, IN",
+  "locationCity": "912 W. 25th St",
+  "locationState": "IN",
+  "locationZipcode": "46011",
+  "lat": 40.0904404331814,
+  "lon": -85.7300434401229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.324Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.324Z"
+}

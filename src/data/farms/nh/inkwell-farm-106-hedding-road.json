@@ -1,0 +1,19 @@
+{
+  "slug": "inkwell-farm-106-hedding-road",
+  "name": "Inkwell Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "106 Hedding Road, NH",
+  "locationCity": "106 Hedding Road",
+  "locationState": "NH",
+  "locationZipcode": "03042",
+  "lat": 43.0517959841768,
+  "lon": -71.0360190416854,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.779Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.779Z"
+}

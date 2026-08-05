@@ -1,0 +1,19 @@
+{
+  "slug": "berryknoll-brownfield-road",
+  "name": "BerryKnoll -",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brownfield Road, NH",
+  "locationCity": "Brownfield Road",
+  "locationState": "NH",
+  "locationZipcode": "03832",
+  "lat": 43.9139069290164,
+  "lon": -71.0331693216338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.705Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.705Z"
+}

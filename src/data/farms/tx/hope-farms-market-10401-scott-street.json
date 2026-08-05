@@ -1,0 +1,19 @@
+{
+  "slug": "hope-farms-market-10401-scott-street",
+  "name": "Hope Farms Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "10401 Scott Street, TX",
+  "locationCity": "10401 Scott Street",
+  "locationState": "TX",
+  "locationZipcode": "10401",
+  "lat": 29.645582,
+  "lon": -95.367588,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.279Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.279Z"
+}

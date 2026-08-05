@@ -1,0 +1,19 @@
+{
+  "slug": "fox-farm-pecan-orchard-519-highway-113-west",
+  "name": "Fox Farm Pecan Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "519 highway 113 West, AR",
+  "locationCity": "519 highway 113 West",
+  "locationState": "AR",
+  "locationZipcode": "72110",
+  "lat": 35.1528666417359,
+  "lon": -92.7579514431626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.935Z"
+}

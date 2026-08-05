@@ -1,0 +1,19 @@
+{
+  "slug": "dave-s-pumpkin-patch-3101-burrows-ave",
+  "name": "Dave's Pumpkin Patch",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3101 Burrows Ave, CA",
+  "locationCity": "3101 Burrows Ave",
+  "locationState": "CA",
+  "locationZipcode": "95619",
+  "lat": 38.51081829148256,
+  "lon": -121.56105855460265,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

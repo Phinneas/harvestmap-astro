@@ -1,0 +1,19 @@
+{
+  "slug": "nuangola-farmer-s-market-5177-nuangola-road-nuangola",
+  "name": "Nuangola Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5177 Nuangola Road Nuangola, PA",
+  "locationCity": "5177 Nuangola Road Nuangola",
+  "locationState": "PA",
+  "locationZipcode": "18707",
+  "lat": 41.15528906868269,
+  "lon": -75.97887935726241,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

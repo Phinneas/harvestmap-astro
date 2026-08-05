@@ -1,0 +1,19 @@
+{
+  "slug": "alpharetta-farmers-market-2-park-plaza",
+  "name": "Alpharetta Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 Park Plaza, GA",
+  "locationCity": "2 Park Plaza",
+  "locationState": "GA",
+  "locationZipcode": "30009",
+  "lat": 34.0746167,
+  "lon": -84.29230110000002,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.746Z"
+}

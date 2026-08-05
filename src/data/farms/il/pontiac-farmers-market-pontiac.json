@@ -1,0 +1,19 @@
+{
+  "slug": "pontiac-farmers-market-pontiac",
+  "name": "Pontiac Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Pontiac, IL",
+  "locationCity": "Pontiac",
+  "locationState": "IL",
+  "locationZipcode": "61764",
+  "lat": 40.880177,
+  "lon": -88.629562,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.951Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.951Z"
+}

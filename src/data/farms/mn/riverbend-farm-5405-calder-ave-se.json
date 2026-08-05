@@ -1,0 +1,19 @@
+{
+  "slug": "riverbend-farm-5405-calder-ave-se",
+  "name": "Riverbend Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5405 Calder Ave SE, MN",
+  "locationCity": "5405 Calder Ave SE",
+  "locationState": "MN",
+  "locationZipcode": "55328",
+  "lat": 45.07350201954762,
+  "lon": -93.8485091430361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.184Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.184Z"
+}

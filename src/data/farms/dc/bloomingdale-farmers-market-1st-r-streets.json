@@ -1,0 +1,19 @@
+{
+  "slug": "bloomingdale-farmers-market-1st-r-streets",
+  "name": "Bloomingdale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st & R Streets, DC",
+  "locationCity": "1st & R Streets",
+  "locationState": "DC",
+  "locationZipcode": "20001",
+  "lat": 38.912609982729236,
+  "lon": -77.01216001855775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:00.226Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:00.226Z"
+}

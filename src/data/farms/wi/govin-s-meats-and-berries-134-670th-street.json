@@ -1,0 +1,20 @@
+{
+  "slug": "govin-s-meats-and-berries-134-670th-street",
+  "name": "Govin's Meats and Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "134 670th Street, WI",
+  "locationCity": "134 670th Street",
+  "locationState": "WI",
+  "locationZipcode": "54751",
+  "lat": 44.901820002078,
+  "lon": -91.8239799988568,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.144Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.144Z",
+  "crops": []
+}

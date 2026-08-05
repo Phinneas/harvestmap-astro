@@ -1,0 +1,19 @@
+{
+  "slug": "buon-giardino-produce-220-e-hwy-88",
+  "name": "Buon Giardino Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "220 E Hwy 88, CA",
+  "locationCity": "220 E Hwy 88",
+  "locationState": "CA",
+  "locationZipcode": "95237",
+  "lat": 38.1737397744604,
+  "lon": -121.126213435231,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.827Z"
+}

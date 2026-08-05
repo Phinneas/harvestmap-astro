@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-farm-15604-sugarland-rd",
+  "name": "Homestead Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15604 Sugarland Rd, MD",
+  "locationCity": "15604 Sugarland Rd",
+  "locationState": "MD",
+  "locationZipcode": "15604",
+  "lat": 39.1100794030763,
+  "lon": -77.3524757561566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.201Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.201Z"
+}

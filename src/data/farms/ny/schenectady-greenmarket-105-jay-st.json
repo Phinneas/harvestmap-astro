@@ -1,0 +1,19 @@
+{
+  "slug": "schenectady-greenmarket-105-jay-st",
+  "name": "Schenectady Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 Jay St, NY",
+  "locationCity": "105 Jay St",
+  "locationState": "NY",
+  "locationZipcode": "12305",
+  "lat": 42.81380118753227,
+  "lon": -73.9401882483477,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

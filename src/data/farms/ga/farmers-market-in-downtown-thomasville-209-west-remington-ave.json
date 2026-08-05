@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-in-downtown-thomasville-209-west-remington-ave",
+  "name": "Farmers Market in Downtown Thomasville",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "209 West Remington Ave, GA",
+  "locationCity": "209 West Remington Ave",
+  "locationState": "GA",
+  "locationZipcode": "31792",
+  "lat": 30.835601825333036,
+  "lon": -83.98053000169166,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

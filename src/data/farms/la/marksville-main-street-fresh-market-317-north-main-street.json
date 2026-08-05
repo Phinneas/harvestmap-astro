@@ -1,0 +1,19 @@
+{
+  "slug": "marksville-main-street-fresh-market-317-north-main-street",
+  "name": "Marksville Main Street Fresh Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "317 North Main Street, LA",
+  "locationCity": "317 North Main Street",
+  "locationState": "LA",
+  "locationZipcode": "71351",
+  "lat": 31.12742,
+  "lon": -92.066002,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.659Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.659Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "cloud-9-ranch-910-ottway-rd",
+  "name": "Cloud 9 Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "910 Ottway Rd, TN",
+  "locationCity": "910 Ottway Rd",
+  "locationState": "TN",
+  "locationZipcode": "37745",
+  "lat": 36.2631600006778,
+  "lon": -82.839062969591,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.111Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.111Z",
+  "crops": []
+}

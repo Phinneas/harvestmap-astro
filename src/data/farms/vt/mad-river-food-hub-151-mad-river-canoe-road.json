@@ -1,0 +1,19 @@
+{
+  "slug": "mad-river-food-hub-151-mad-river-canoe-road",
+  "name": "Mad River Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "151 Mad River Canoe Road, VT",
+  "locationCity": "151 Mad River Canoe Road",
+  "locationState": "VT",
+  "locationZipcode": "05673",
+  "lat": 44.1867092,
+  "lon": -72.838157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:46.181Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:46.181Z"
+}

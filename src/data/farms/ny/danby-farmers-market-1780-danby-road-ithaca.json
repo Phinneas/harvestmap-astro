@@ -1,0 +1,19 @@
+{
+  "slug": "danby-farmers-market-1780-danby-road-ithaca",
+  "name": "Danby Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1780 Danby Road Ithaca, NY",
+  "locationCity": "1780 Danby Road Ithaca",
+  "locationState": "NY",
+  "locationZipcode": "14850",
+  "lat": 42.357749957350016,
+  "lon": -76.48303550124389,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

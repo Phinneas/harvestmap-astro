@@ -1,0 +1,19 @@
+{
+  "slug": "ashland-tuesday-market-1554-webster-st",
+  "name": "Ashland Tuesday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1554 Webster St, OR",
+  "locationCity": "1554 Webster St",
+  "locationState": "OR",
+  "locationZipcode": "97520",
+  "lat": 42.18714986390795,
+  "lon": -122.68877064764149,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.423Z"
+}

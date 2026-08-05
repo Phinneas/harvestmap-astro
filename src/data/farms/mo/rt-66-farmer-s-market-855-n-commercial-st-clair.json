@@ -1,0 +1,19 @@
+{
+  "slug": "rt-66-farmer-s-market-855-n-commercial-st-clair",
+  "name": "Rt 66 Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "855 N. Commercial St. Clair, MO",
+  "locationCity": "855 N. Commercial St. Clair",
+  "locationState": "MO",
+  "locationZipcode": "63077",
+  "lat": 38.35387670768481,
+  "lon": -90.97813182508483,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

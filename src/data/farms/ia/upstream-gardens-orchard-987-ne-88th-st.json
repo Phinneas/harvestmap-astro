@@ -1,0 +1,19 @@
+{
+  "slug": "upstream-gardens-orchard-987-ne-88th-st",
+  "name": "Upstream Gardens & Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "987 Ne 88th St, IA",
+  "locationCity": "987 Ne 88th St",
+  "locationState": "IA",
+  "locationZipcode": "50009",
+  "lat": 41.6510474662147,
+  "lon": -93.4257804165515,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.681Z"
+}

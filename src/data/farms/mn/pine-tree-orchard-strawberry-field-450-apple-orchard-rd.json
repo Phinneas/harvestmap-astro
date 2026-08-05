@@ -1,0 +1,19 @@
+{
+  "slug": "pine-tree-orchard-strawberry-field-450-apple-orchard-rd",
+  "name": "Pine Tree Orchard Strawberry Field",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "450 Apple Orchard Rd, MN",
+  "locationCity": "450 Apple Orchard Rd",
+  "locationState": "MN",
+  "locationZipcode": "55110",
+  "lat": 45.1064809947771,
+  "lon": -92.9549970072485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.798Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.798Z"
+}

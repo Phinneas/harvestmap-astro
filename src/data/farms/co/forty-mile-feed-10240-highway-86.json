@@ -1,0 +1,19 @@
+{
+  "slug": "forty-mile-feed-10240-highway-86",
+  "name": "Forty Mile Feed",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "10240 Highway 86, CO",
+  "locationCity": "10240 Highway 86",
+  "locationState": "CO",
+  "locationZipcode": "10240",
+  "lat": 39.345979019694965,
+  "lon": -104.47242900937444,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:05.335Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:05.335Z"
+}

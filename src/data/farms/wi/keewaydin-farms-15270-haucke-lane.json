@@ -1,0 +1,19 @@
+{
+  "slug": "keewaydin-farms-15270-haucke-lane",
+  "name": "Keewaydin Farms",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "15270 Haucke Lane, WI",
+  "locationCity": "15270 Haucke Lane",
+  "locationState": "WI",
+  "locationZipcode": "15270",
+  "lat": 43.51487300056726,
+  "lon": -90.5632149849847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:15.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:15.615Z"
+}

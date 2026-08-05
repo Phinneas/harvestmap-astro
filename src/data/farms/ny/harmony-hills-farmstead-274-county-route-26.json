@@ -1,0 +1,19 @@
+{
+  "slug": "harmony-hills-farmstead-274-county-route-26",
+  "name": "Harmony Hills Farmstead",
+  "source": "usda",
+  "directory": "csa",
+  "location": "274 County Route 26, NY",
+  "locationCity": "274 County Route 26",
+  "locationState": "NY",
+  "locationZipcode": "12953",
+  "lat": 44.65762305984342,
+  "lon": -74.25688371011745,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.176Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.176Z"
+}

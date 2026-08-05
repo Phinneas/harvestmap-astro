@@ -1,0 +1,19 @@
+{
+  "slug": "johnson-family-pastures-872-320th-ave",
+  "name": "Johnson Family Pastures",
+  "source": "usda",
+  "directory": "csa",
+  "location": "872 320th Ave, WI",
+  "locationCity": "872 320th Ave",
+  "locationState": "WI",
+  "locationZipcode": "54837",
+  "lat": 45.66863659101941,
+  "lon": -92.33982390367417,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.020Z"
+}

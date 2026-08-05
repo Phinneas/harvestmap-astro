@@ -1,0 +1,19 @@
+{
+  "slug": "hyatt-family-blueberries-3411-west-lakewood-road",
+  "name": "Hyatt Family Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3411 West Lakewood Road, MI",
+  "locationCity": "3411 West Lakewood Road",
+  "locationState": "MI",
+  "locationZipcode": "49461",
+  "lat": 43.369970435023,
+  "lon": -86.3265978989099,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.579Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.579Z"
+}

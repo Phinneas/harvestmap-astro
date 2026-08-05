@@ -1,0 +1,19 @@
+{
+  "slug": "coleman-farms-13295-coleman-rd",
+  "name": "Coleman Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "13295 Coleman Rd, MI",
+  "locationCity": "13295 Coleman Rd",
+  "locationState": "MI",
+  "locationZipcode": "13295",
+  "lat": 44.99590998748127,
+  "lon": -85.3607100087035,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.232Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.232Z"
+}

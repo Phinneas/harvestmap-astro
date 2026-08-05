@@ -1,0 +1,19 @@
+{
+  "slug": "north-end-farmers-market-575-main-st-middletown",
+  "name": "North End Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "575 Main St. Middletown, CT",
+  "locationCity": "575 Main St. Middletown",
+  "locationState": "CT",
+  "locationZipcode": "06457",
+  "lat": 41.56305393364268,
+  "lon": -72.6513886601969,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "burnsville-farmers-market-parkway-200-burnsville-pkwy",
+  "name": "Burnsville Farmers' Market - Parkway",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Burnsville Pkwy, MN",
+  "locationCity": "200 Burnsville Pkwy",
+  "locationState": "MN",
+  "locationZipcode": "55337",
+  "lat": 44.7726843,
+  "lon": -93.2817813,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "east-moline-farmers-market-1112-42nd-avenue-east-moline",
+  "name": "East Moline Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1112 42nd Avenue East Moline, IL",
+  "locationCity": "1112 42nd Avenue East Moline",
+  "locationState": "IL",
+  "locationZipcode": "61244",
+  "lat": 41.489519347729974,
+  "lon": -90.43620170167912,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "city-commons-csa-870-gladstone-st",
+  "name": "City Commons CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "870 Gladstone St., MI",
+  "locationCity": "870 Gladstone St.",
+  "locationState": "MI",
+  "locationZipcode": "48202",
+  "lat": 42.3778963,
+  "lon": -83.0874508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.092Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.092Z"
+}

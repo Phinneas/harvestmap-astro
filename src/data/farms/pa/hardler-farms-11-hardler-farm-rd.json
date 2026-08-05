@@ -1,0 +1,19 @@
+{
+  "slug": "hardler-farms-11-hardler-farm-rd",
+  "name": "Hardler Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "11 Hardler Farm Rd, PA",
+  "locationCity": "11 Hardler Farm Rd",
+  "locationState": "PA",
+  "locationZipcode": "18431",
+  "lat": 41.697583,
+  "lon": -75.259646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.380Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.380Z"
+}

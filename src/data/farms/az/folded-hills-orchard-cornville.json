@@ -1,0 +1,19 @@
+{
+  "slug": "folded-hills-orchard-cornville",
+  "name": "Folded Hills Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cornville, AZ",
+  "locationCity": "Cornville",
+  "locationState": "AZ",
+  "locationZipcode": "86325",
+  "lat": 34.7221412,
+  "lon": -111.9124765,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.876Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.876Z"
+}

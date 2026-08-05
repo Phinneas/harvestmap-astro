@@ -1,0 +1,19 @@
+{
+  "slug": "grow-it-4-dinner-hwy-30w",
+  "name": "Grow It 4 Dinner",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Hwy 30W, TX",
+  "locationCity": "Hwy 30W",
+  "locationState": "TX",
+  "locationZipcode": "77320",
+  "lat": 30.71826661269127,
+  "lon": -95.57088015983167,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.915Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.915Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hartland-orchard-064-hartland-lane",
+  "name": "Hartland Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "064 Hartland Lane, VA",
+  "locationCity": "064 Hartland Lane",
+  "locationState": "VA",
+  "locationZipcode": "22643",
+  "lat": 38.9130393958817,
+  "lon": -78.0068187696972,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.135Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.135Z"
+}

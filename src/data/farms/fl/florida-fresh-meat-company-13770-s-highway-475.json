@@ -1,0 +1,20 @@
+{
+  "slug": "florida-fresh-meat-company-13770-s-highway-475",
+  "name": "Florida Fresh Meat Company",
+  "source": "usda",
+  "directory": "csa",
+  "location": "13770 S Highway 475, FL",
+  "locationCity": "13770 S Highway 475",
+  "locationState": "FL",
+  "locationZipcode": "13770",
+  "lat": 29.0221885,
+  "lon": -82.1215898,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.805Z",
+  "crops": []
+}

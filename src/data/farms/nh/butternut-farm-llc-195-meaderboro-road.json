@@ -1,0 +1,20 @@
+{
+  "slug": "butternut-farm-llc-195-meaderboro-road",
+  "name": "Butternut Farm LLC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "195 Meaderboro Road, NH",
+  "locationCity": "195 Meaderboro Road",
+  "locationState": "NH",
+  "locationZipcode": "03835",
+  "lat": 43.3244160019441,
+  "lon": -71.0680229920279,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.693Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.693Z",
+  "crops": []
+}

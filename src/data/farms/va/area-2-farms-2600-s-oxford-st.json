@@ -1,0 +1,19 @@
+{
+  "slug": "area-2-farms-2600-s-oxford-st",
+  "name": "Area 2 Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2600 S Oxford St, VA",
+  "locationCity": "2600 S Oxford St",
+  "locationState": "VA",
+  "locationZipcode": "22206",
+  "lat": 38.84529801963143,
+  "lon": -77.09263400039292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.244Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.244Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "white-house-farmers-market-105-college-street",
+  "name": "White House Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 College Street, TN",
+  "locationCity": "105 College Street",
+  "locationState": "TN",
+  "locationZipcode": "37188",
+  "lat": 36.467683,
+  "lon": -86.653004,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.300Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.300Z"
+}

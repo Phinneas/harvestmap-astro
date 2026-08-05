@@ -1,0 +1,19 @@
+{
+  "slug": "minor-s-farm-409-hill-street",
+  "name": "Minor's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "409 Hill Street, CT",
+  "locationCity": "409 Hill Street",
+  "locationState": "CT",
+  "locationZipcode": "06010",
+  "lat": 41.6923270196152,
+  "lon": -72.9748320360551,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.934Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.934Z"
+}

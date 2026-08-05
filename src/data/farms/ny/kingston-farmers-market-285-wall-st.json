@@ -1,0 +1,19 @@
+{
+  "slug": "kingston-farmers-market-285-wall-st",
+  "name": "Kingston Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "285 Wall St, NY",
+  "locationCity": "285 Wall St",
+  "locationState": "NY",
+  "locationZipcode": "12401",
+  "lat": 41.93314684617169,
+  "lon": -74.01952118591899,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

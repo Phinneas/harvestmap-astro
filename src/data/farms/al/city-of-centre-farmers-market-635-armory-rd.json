@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-centre-farmers-market-635-armory-rd",
+  "name": "City of Centre Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "635 Armory Rd., AL",
+  "locationCity": "635 Armory Rd.",
+  "locationState": "AL",
+  "locationZipcode": "35960",
+  "lat": 34.157988985142666,
+  "lon": -85.6680090193022,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.018Z"
+}

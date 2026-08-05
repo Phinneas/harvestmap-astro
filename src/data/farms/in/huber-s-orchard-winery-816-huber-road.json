@@ -1,0 +1,19 @@
+{
+  "slug": "huber-s-orchard-winery-816-huber-road",
+  "name": "Huber's Orchard & Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "816 Huber Road, IN",
+  "locationCity": "816 Huber Road",
+  "locationState": "IN",
+  "locationZipcode": "47106",
+  "lat": 38.4227116257966,
+  "lon": -85.9268046375747,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.268Z"
+}

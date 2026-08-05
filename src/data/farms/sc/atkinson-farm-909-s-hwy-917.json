@@ -1,0 +1,19 @@
+{
+  "slug": "atkinson-farm-909-s-hwy-917",
+  "name": "Atkinson Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "909 S. Hwy. 917, SC",
+  "locationCity": "909 S. Hwy. 917",
+  "locationState": "SC",
+  "locationZipcode": "29574",
+  "lat": 34.1939529208807,
+  "lon": -79.2464781592368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.719Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.719Z"
+}

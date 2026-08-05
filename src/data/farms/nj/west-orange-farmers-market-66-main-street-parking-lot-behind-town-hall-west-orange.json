@@ -1,0 +1,19 @@
+{
+  "slug": "west-orange-farmers-market-66-main-street-parking-lot-behind-town-hall-west-orange",
+  "name": "West Orange Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "66 Main Street (Parking Lot behind Town Hall) West Orange, NJ",
+  "locationCity": "66 Main Street (Parking Lot behind Town Hall) West Orange",
+  "locationState": "NJ",
+  "locationZipcode": "07052",
+  "lat": 40.77808529485383,
+  "lon": -74.23906071892728,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

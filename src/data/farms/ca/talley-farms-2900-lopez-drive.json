@@ -1,0 +1,19 @@
+{
+  "slug": "talley-farms-2900-lopez-drive",
+  "name": "Talley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2900 Lopez Drive, CA",
+  "locationCity": "2900 Lopez Drive",
+  "locationState": "CA",
+  "locationZipcode": "93420",
+  "lat": 35.1825244986379,
+  "lon": -120.509487870668,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.776Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.776Z"
+}

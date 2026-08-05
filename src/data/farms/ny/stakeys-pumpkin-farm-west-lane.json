@@ -1,0 +1,19 @@
+{
+  "slug": "stakeys-pumpkin-farm-west-lane",
+  "name": "Stakeys Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "West Lane, NY",
+  "locationCity": "West Lane",
+  "locationState": "NY",
+  "locationZipcode": "11931",
+  "lat": 40.9572209865739,
+  "lon": -72.6311828081486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.212Z"
+}

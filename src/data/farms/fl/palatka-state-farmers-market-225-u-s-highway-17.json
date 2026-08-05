@@ -1,0 +1,19 @@
+{
+  "slug": "palatka-state-farmers-market-225-u-s-highway-17",
+  "name": "Palatka State Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "225 U.S. Highway 17, FL",
+  "locationCity": "225 U.S. Highway 17",
+  "locationState": "FL",
+  "locationZipcode": "32131",
+  "lat": 29.646689984782924,
+  "lon": -81.59874900318624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

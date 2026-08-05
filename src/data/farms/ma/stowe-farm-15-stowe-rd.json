@@ -1,0 +1,19 @@
+{
+  "slug": "stowe-farm-15-stowe-rd",
+  "name": "Stowe Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15 Stowe Rd, MA",
+  "locationCity": "15 Stowe Rd",
+  "locationState": "MA",
+  "locationZipcode": "01527",
+  "lat": 42.181138238954,
+  "lon": -71.8036701119522,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.644Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.644Z"
+}

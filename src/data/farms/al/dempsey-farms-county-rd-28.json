@@ -1,0 +1,19 @@
+{
+  "slug": "dempsey-farms-county-rd-28",
+  "name": "Dempsey Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "County Rd. 28, AL",
+  "locationCity": "County Rd. 28",
+  "locationState": "AL",
+  "locationZipcode": "36862",
+  "lat": 32.8823177186767,
+  "lon": -85.4788435563497,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.421Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.421Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "schmerber-farm-79-snowden-road",
+  "name": "Schmerber Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "79 Snowden Road, WA",
+  "locationCity": "79 Snowden Road",
+  "locationState": "WA",
+  "locationZipcode": "98672",
+  "lat": 45.7468749935491,
+  "lon": -121.477806000727,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.134Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.134Z"
+}

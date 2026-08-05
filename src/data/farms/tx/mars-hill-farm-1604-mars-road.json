@@ -1,0 +1,19 @@
+{
+  "slug": "mars-hill-farm-1604-mars-road",
+  "name": "Mars Hill Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1604 Mars Road, TX",
+  "locationCity": "1604 Mars Road",
+  "locationState": "TX",
+  "locationZipcode": "75125",
+  "lat": 32.58754701474102,
+  "lon": -96.63766403525959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.352Z"
+}

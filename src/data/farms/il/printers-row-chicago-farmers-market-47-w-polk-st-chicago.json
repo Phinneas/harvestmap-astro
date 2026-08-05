@@ -1,0 +1,19 @@
+{
+  "slug": "printers-row-chicago-farmers-market-47-w-polk-st-chicago",
+  "name": "Printers Row (Chicago) Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "47 W Polk St. Chicago, IL",
+  "locationCity": "47 W Polk St. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60605",
+  "lat": 41.872275072448396,
+  "lon": -87.62935783052872,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

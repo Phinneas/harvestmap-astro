@@ -1,0 +1,19 @@
+{
+  "slug": "saxony-market-13578-e-131st-street",
+  "name": "Saxony Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13578 E. 131st Street, IN",
+  "locationCity": "13578 E. 131st Street",
+  "locationState": "IN",
+  "locationZipcode": "13578",
+  "lat": 39.981552121368956,
+  "lon": -85.92320380619732,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

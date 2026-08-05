@@ -1,0 +1,19 @@
+{
+  "slug": "brickers-strawberries-1710-w-lisburn-road",
+  "name": "Brickers Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1710 W. Lisburn Road, PA",
+  "locationCity": "1710 W. Lisburn Road",
+  "locationState": "PA",
+  "locationZipcode": "17015",
+  "lat": 40.17932698604619,
+  "lon": -77.08626098795155,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.218Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.218Z"
+}

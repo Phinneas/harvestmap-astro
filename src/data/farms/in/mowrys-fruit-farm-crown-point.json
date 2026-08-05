@@ -1,0 +1,19 @@
+{
+  "slug": "mowrys-fruit-farm-crown-point",
+  "name": "Mowrys Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Crown Point, IN",
+  "locationCity": "Crown Point",
+  "locationState": "IN",
+  "locationZipcode": "46307",
+  "lat": 41.420209,
+  "lon": -87.347143,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.454Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.454Z"
+}

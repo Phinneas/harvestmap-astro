@@ -1,0 +1,19 @@
+{
+  "slug": "wic-clinic-pecan-valley-farmers-market-802-pecan-valley",
+  "name": "WIC Clinic Pecan Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "802 Pecan Valley, TX",
+  "locationCity": "802 Pecan Valley",
+  "locationState": "TX",
+  "locationZipcode": "78220",
+  "lat": 29.472403,
+  "lon": -98.525142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.049Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.049Z"
+}

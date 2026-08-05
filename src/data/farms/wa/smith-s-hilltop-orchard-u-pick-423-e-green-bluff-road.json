@@ -1,0 +1,19 @@
+{
+  "slug": "smith-s-hilltop-orchard-u-pick-423-e-green-bluff-road",
+  "name": "Smith's Hilltop Orchard U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "423 E. Green Bluff Road, WA",
+  "locationCity": "423 E. Green Bluff Road",
+  "locationState": "WA",
+  "locationZipcode": "99005",
+  "lat": 47.8091220010307,
+  "lon": -117.33107154094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.234Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.234Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "creamery-brook-bison-19-purvis-road",
+  "name": "Creamery Brook Bison",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "19 Purvis Road, CT",
+  "locationCity": "19 Purvis Road",
+  "locationState": "CT",
+  "locationZipcode": "06234",
+  "lat": 41.7678050099722,
+  "lon": -71.9287319630053,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.961Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.961Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "brockton-farmers-market-45-school-st",
+  "name": "Brockton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "45 School St, MA",
+  "locationCity": "45 School St",
+  "locationState": "MA",
+  "locationZipcode": "02301",
+  "lat": 42.082799,
+  "lon": -71.018866,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.751Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.751Z"
+}

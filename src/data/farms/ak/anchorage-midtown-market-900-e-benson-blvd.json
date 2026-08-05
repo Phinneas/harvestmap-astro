@@ -1,0 +1,19 @@
+{
+  "slug": "anchorage-midtown-market-900-e-benson-blvd",
+  "name": "Anchorage Midtown Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "900 E Benson Blvd, AK",
+  "locationCity": "900 E Benson Blvd",
+  "locationState": "AK",
+  "locationZipcode": "99508",
+  "lat": 61.19341965596916,
+  "lon": -149.8655843711945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "darien-farmers-market-905-e-broad-street",
+  "name": "Darien Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "905 E Broad Street, GA",
+  "locationCity": "905 E Broad Street",
+  "locationState": "GA",
+  "locationZipcode": "31305",
+  "lat": 31.367042000110743,
+  "lon": -81.4231280150931,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

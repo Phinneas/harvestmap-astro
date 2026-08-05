@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-oakdale-farmers-market-winter-4444-hadley-ave-n",
+  "name": "City of Oakdale Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4444 Hadley Ave N, MN",
+  "locationCity": "4444 Hadley Ave N",
+  "locationState": "MN",
+  "locationZipcode": "55128",
+  "lat": 45.0125788,
+  "lon": -92.9663797,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

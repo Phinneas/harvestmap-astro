@@ -1,0 +1,20 @@
+{
+  "slug": "sideways-farm-brewery-62-eade-road",
+  "name": "Sideways Farm & Brewery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "62 Eade Road, NC",
+  "locationCity": "62 Eade Road",
+  "locationState": "NC",
+  "locationZipcode": "28729",
+  "lat": 35.3089137679473,
+  "lon": -82.608586197071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.756Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.756Z",
+  "crops": []
+}

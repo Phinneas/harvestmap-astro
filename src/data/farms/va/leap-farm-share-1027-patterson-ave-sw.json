@@ -1,0 +1,19 @@
+{
+  "slug": "leap-farm-share-1027-patterson-ave-sw",
+  "name": "LEAP Farm Share",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1027 Patterson Ave. SW, VA",
+  "locationCity": "1027 Patterson Ave. SW",
+  "locationState": "VA",
+  "locationZipcode": "24016",
+  "lat": 37.272290516305844,
+  "lon": -79.9602554924601,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.254Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.254Z"
+}

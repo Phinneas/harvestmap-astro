@@ -1,0 +1,19 @@
+{
+  "slug": "timberlane-farm-528-old-highway-64-west",
+  "name": "Timberlane Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "528 Old highway 64 West, NC",
+  "locationCity": "528 Old highway 64 West",
+  "locationState": "NC",
+  "locationZipcode": "28904",
+  "lat": 35.0292037497411,
+  "lon": -83.8379434234639,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.880Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.880Z"
+}

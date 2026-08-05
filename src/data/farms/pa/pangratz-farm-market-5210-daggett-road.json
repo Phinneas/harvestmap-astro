@@ -1,0 +1,19 @@
+{
+  "slug": "pangratz-farm-market-5210-daggett-road",
+  "name": "Pangratz Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5210 Daggett Road, PA",
+  "locationCity": "5210 Daggett Road",
+  "locationState": "PA",
+  "locationZipcode": "16417",
+  "lat": 42.015344990424495,
+  "lon": -80.28112497193791,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

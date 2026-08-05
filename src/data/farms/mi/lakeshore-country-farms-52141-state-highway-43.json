@@ -1,0 +1,19 @@
+{
+  "slug": "lakeshore-country-farms-52141-state-highway-43",
+  "name": "Lakeshore Country Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "52141 State Highway 43, MI",
+  "locationCity": "52141 State Highway 43",
+  "locationState": "MI",
+  "locationZipcode": "52141",
+  "lat": 42.3016668100819,
+  "lon": -86.0539553146335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.581Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.581Z"
+}

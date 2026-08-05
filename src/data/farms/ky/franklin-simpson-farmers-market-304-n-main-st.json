@@ -1,0 +1,19 @@
+{
+  "slug": "franklin-simpson-farmers-market-304-n-main-st",
+  "name": "Franklin Simpson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "304 N Main St, KY",
+  "locationCity": "304 N Main St",
+  "locationState": "KY",
+  "locationZipcode": "42134",
+  "lat": 36.724368,
+  "lon": -86.577261,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.724Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.724Z"
+}

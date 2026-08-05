@@ -1,0 +1,19 @@
+{
+  "slug": "pekin-downtown-farmers-market-17-s-capitol-street-pekin",
+  "name": "Pekin Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17 S. Capitol Street Pekin, IL",
+  "locationCity": "17 S. Capitol Street Pekin",
+  "locationState": "IL",
+  "locationZipcode": "61554",
+  "lat": 40.569756052218054,
+  "lon": -89.648428872729,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hawes-farms-923-dersch-road",
+  "name": "Hawes Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "923 Dersch Road, CA",
+  "locationCity": "923 Dersch Road",
+  "locationState": "CA",
+  "locationZipcode": "96007",
+  "lat": 40.4839461347661,
+  "lon": -122.160069969656,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.740Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.740Z"
+}

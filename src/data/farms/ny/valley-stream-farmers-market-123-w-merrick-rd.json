@@ -1,0 +1,19 @@
+{
+  "slug": "valley-stream-farmers-market-123-w-merrick-rd",
+  "name": "Valley Stream Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "123 W Merrick Rd, NY",
+  "locationCity": "123 W Merrick Rd",
+  "locationState": "NY",
+  "locationZipcode": "11580",
+  "lat": 40.66635737211981,
+  "lon": -73.70357043066673,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

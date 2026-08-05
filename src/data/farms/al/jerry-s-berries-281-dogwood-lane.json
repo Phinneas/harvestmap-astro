@@ -1,0 +1,19 @@
+{
+  "slug": "jerry-s-berries-281-dogwood-lane",
+  "name": "Jerry's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "281 Dogwood Lane, AL",
+  "locationCity": "281 Dogwood Lane",
+  "locationState": "AL",
+  "locationZipcode": "36265",
+  "lat": 33.8850142230533,
+  "lon": -85.780995093193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.485Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.485Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dimler-pumpkin-patch-810-state-highway-7",
+  "name": "Dimler Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "810 State Highway 7, MN",
+  "locationCity": "810 State Highway 7",
+  "locationState": "MN",
+  "locationZipcode": "55388",
+  "lat": 44.9052799888445,
+  "lon": -93.78216901231,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.688Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.688Z"
+}

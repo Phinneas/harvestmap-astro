@@ -1,0 +1,19 @@
+{
+  "slug": "ahwatukee-farmers-market-4700-e-warner-road-phoenix",
+  "name": "Ahwatukee Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4700 E. Warner Road Phoenix, AZ",
+  "locationCity": "4700 E. Warner Road Phoenix",
+  "locationState": "AZ",
+  "locationZipcode": "85015",
+  "lat": 33.33087826955648,
+  "lon": -111.98049644214557,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

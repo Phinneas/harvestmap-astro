@@ -1,0 +1,19 @@
+{
+  "slug": "growing-roots-8300-krupp-ave-ne",
+  "name": "Growing Roots",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8300 Krupp Ave NE, MI",
+  "locationCity": "8300 Krupp Ave NE",
+  "locationState": "MI",
+  "locationZipcode": "49321",
+  "lat": 43.115515044478485,
+  "lon": -85.6585792944108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.099Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.099Z"
+}

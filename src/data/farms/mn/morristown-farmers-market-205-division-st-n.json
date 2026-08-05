@@ -1,0 +1,19 @@
+{
+  "slug": "morristown-farmers-market-205-division-st-n",
+  "name": "Morristown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 Division St N, MN",
+  "locationCity": "205 Division St N",
+  "locationState": "MN",
+  "locationZipcode": "55052",
+  "lat": 44.2281959,
+  "lon": -93.4447469,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

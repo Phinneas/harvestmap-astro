@@ -1,0 +1,19 @@
+{
+  "slug": "u-pick-blueberries-15552-albain-road",
+  "name": "U-Pick Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15552 Albain Road, MI",
+  "locationCity": "15552 Albain Road",
+  "locationState": "MI",
+  "locationZipcode": "15552",
+  "lat": 41.8960239886753,
+  "lon": -83.6649779899348,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.694Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.694Z"
+}

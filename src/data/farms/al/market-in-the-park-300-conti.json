@@ -1,0 +1,19 @@
+{
+  "slug": "market-in-the-park-300-conti",
+  "name": "Market in The Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Conti, AL",
+  "locationCity": "300 Conti",
+  "locationState": "AL",
+  "locationZipcode": "36602",
+  "lat": 30.69035,
+  "lon": -88.045015,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:48.977Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:48.977Z"
+}

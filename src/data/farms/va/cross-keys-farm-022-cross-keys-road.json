@@ -1,0 +1,19 @@
+{
+  "slug": "cross-keys-farm-022-cross-keys-road",
+  "name": "Cross Keys Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "022 Cross Keys Road, VA",
+  "locationCity": "022 Cross Keys Road",
+  "locationState": "VA",
+  "locationZipcode": "22801",
+  "lat": 38.3925623433042,
+  "lon": -78.8108014217884,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.153Z"
+}

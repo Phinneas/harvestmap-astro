@@ -1,0 +1,19 @@
+{
+  "slug": "denison-farmers-market-18-s-main-street-denison",
+  "name": "Denison Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "18 S Main Street Denison, IA",
+  "locationCity": "18 S Main Street Denison",
+  "locationState": "IA",
+  "locationZipcode": "51442",
+  "lat": 42.01660856871189,
+  "lon": -95.35528477626296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

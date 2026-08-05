@@ -1,0 +1,19 @@
+{
+  "slug": "u-pick-blackberries-500-snowhill-road",
+  "name": "U-Pick Blackberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 Snowhill Road, FL",
+  "locationCity": "500 Snowhill Road",
+  "locationState": "FL",
+  "locationZipcode": "32732",
+  "lat": 28.7105493334637,
+  "lon": -81.1170662572221,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.853Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.853Z"
+}

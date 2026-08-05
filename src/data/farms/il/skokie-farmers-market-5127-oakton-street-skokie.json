@@ -1,0 +1,19 @@
+{
+  "slug": "skokie-farmers-market-5127-oakton-street-skokie",
+  "name": "Skokie Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5127 Oakton Street Skokie, IL",
+  "locationCity": "5127 Oakton Street Skokie",
+  "locationState": "IL",
+  "locationZipcode": "60077",
+  "lat": 42.02633461406631,
+  "lon": -87.75642271166625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

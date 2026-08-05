@@ -1,0 +1,19 @@
+{
+  "slug": "grampa-s-farm-2613-norwegian-road",
+  "name": "Grampa's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2613 Norwegian Road, WI",
+  "locationCity": "2613 Norwegian Road",
+  "locationState": "WI",
+  "locationZipcode": "54452",
+  "lat": 45.2212462964955,
+  "lon": -89.630826289207,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.268Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "area-81-crop-maze-27159-us-hwy-81",
+  "name": "Area 81 Crop Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "27159 US HWY 81, SD",
+  "locationCity": "27159 US HWY 81",
+  "locationState": "SD",
+  "locationZipcode": "27159",
+  "lat": 43.4487879804563,
+  "lon": -97.4222140281565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:06.999Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:06.999Z"
+}

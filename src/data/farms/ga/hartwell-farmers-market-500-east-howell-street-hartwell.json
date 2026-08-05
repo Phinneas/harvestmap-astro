@@ -1,0 +1,19 @@
+{
+  "slug": "hartwell-farmers-market-500-east-howell-street-hartwell",
+  "name": "Hartwell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 East Howell Street Hartwell, GA",
+  "locationCity": "500 East Howell Street Hartwell",
+  "locationState": "GA",
+  "locationZipcode": "30643",
+  "lat": 34.35177543908415,
+  "lon": -82.92858949568378,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

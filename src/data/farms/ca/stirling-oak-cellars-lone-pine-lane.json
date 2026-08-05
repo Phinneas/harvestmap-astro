@@ -1,0 +1,19 @@
+{
+  "slug": "stirling-oak-cellars-lone-pine-lane",
+  "name": "Stirling Oak Cellars",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lone Pine Lane, CA",
+  "locationCity": "Lone Pine Lane",
+  "locationState": "CA",
+  "locationZipcode": "95648",
+  "lat": 39.0086661857416,
+  "lon": -121.262389054392,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.838Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "quinter-farmers-market-329-main-street",
+  "name": "Quinter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "329 Main Street, KS",
+  "locationCity": "329 Main Street",
+  "locationState": "KS",
+  "locationZipcode": "67752",
+  "lat": 39.06936753373171,
+  "lon": -100.23480570883771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

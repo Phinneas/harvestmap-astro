@@ -1,0 +1,19 @@
+{
+  "slug": "honey-locust-farm-2581-south-road",
+  "name": "Honey Locust Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2581 South Road, VT",
+  "locationCity": "2581 South Road",
+  "locationState": "VT",
+  "locationZipcode": "05033",
+  "lat": 43.9888874,
+  "lon": -72.1914287,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.091Z"
+}

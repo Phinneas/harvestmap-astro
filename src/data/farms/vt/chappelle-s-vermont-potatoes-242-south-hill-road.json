@@ -1,0 +1,19 @@
+{
+  "slug": "chappelle-s-vermont-potatoes-242-south-hill-road",
+  "name": "Chappelle's Vermont Potatoes",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "242 South Hill Road, VT",
+  "locationCity": "242 South Hill Road",
+  "locationState": "VT",
+  "locationZipcode": "05679",
+  "lat": 44.1027589431231,
+  "lon": -72.5395983178391,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.204Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.204Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sanford-farmers-market-683-e-saginaw-rd-sanford",
+  "name": "Sanford Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "683 E. Saginaw Rd Sanford, MI",
+  "locationCity": "683 E. Saginaw Rd Sanford",
+  "locationState": "MI",
+  "locationZipcode": "48657",
+  "lat": 43.665151050108875,
+  "lon": -84.34237888288531,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

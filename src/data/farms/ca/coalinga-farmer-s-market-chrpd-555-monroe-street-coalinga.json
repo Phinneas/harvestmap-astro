@@ -1,0 +1,19 @@
+{
+  "slug": "coalinga-farmer-s-market-chrpd-555-monroe-street-coalinga",
+  "name": "Coalinga Farmer's Market (CHRPD)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "555 Monroe Street Coalinga, CA",
+  "locationCity": "555 Monroe Street Coalinga",
+  "locationState": "CA",
+  "locationZipcode": "93210",
+  "lat": 36.13956483286177,
+  "lon": -120.37001923697596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

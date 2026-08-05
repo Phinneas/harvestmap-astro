@@ -1,0 +1,19 @@
+{
+  "slug": "birchwood-orchard-206-old-turnpike-road",
+  "name": "Birchwood Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "206 Old Turnpike Road, NH",
+  "locationCity": "206 Old Turnpike Road",
+  "locationState": "NH",
+  "locationZipcode": "03048",
+  "lat": 42.7199299008926,
+  "lon": -71.7918367037856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.518Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.518Z"
+}

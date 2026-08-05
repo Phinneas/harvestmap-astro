@@ -1,0 +1,19 @@
+{
+  "slug": "canton-farmers-market-130-e-main-sreet",
+  "name": "Canton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "130 E Main Sreet, GA",
+  "locationCity": "130 E Main Sreet",
+  "locationState": "GA",
+  "locationZipcode": "30114",
+  "lat": 34.23429793364382,
+  "lon": -84.48644994780767,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

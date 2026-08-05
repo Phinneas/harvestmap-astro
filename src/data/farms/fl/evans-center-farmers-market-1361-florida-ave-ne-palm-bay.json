@@ -1,0 +1,19 @@
+{
+  "slug": "evans-center-farmers-market-1361-florida-ave-ne-palm-bay",
+  "name": "Evans Center Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1361 Florida Ave. NE Palm bay, FL",
+  "locationCity": "1361 Florida Ave. NE Palm bay",
+  "locationState": "FL",
+  "locationZipcode": "32905",
+  "lat": 28.05650534955593,
+  "lon": -80.59912079566811,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

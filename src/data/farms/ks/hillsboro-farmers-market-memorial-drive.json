@@ -1,0 +1,19 @@
+{
+  "slug": "hillsboro-farmers-market-memorial-drive",
+  "name": "Hillsboro Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Memorial Drive, KS",
+  "locationCity": "Memorial Drive",
+  "locationState": "KS",
+  "locationZipcode": "67063",
+  "lat": 38.34573099220745,
+  "lon": -97.20762761055522,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "vincennes-farmers-market-second-street-busseron-street-vincennes",
+  "name": "Vincennes Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Second Street & Busseron Street Vincennes, IN",
+  "locationCity": "Second Street & Busseron Street Vincennes",
+  "locationState": "IN",
+  "locationZipcode": "47591",
+  "lat": 38.680419991109716,
+  "lon": -87.53141003080243,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

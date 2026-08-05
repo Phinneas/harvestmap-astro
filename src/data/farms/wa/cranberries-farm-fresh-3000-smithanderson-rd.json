@@ -1,0 +1,19 @@
+{
+  "slug": "cranberries-farm-fresh-3000-smithanderson-rd",
+  "name": "cranberries farm fresh",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3000 smithanderson rd, WA",
+  "locationCity": "3000 smithanderson rd",
+  "locationState": "WA",
+  "locationZipcode": "98547",
+  "lat": 46.7572969,
+  "lon": -124.06659,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.456Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.456Z"
+}

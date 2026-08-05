@@ -1,0 +1,19 @@
+{
+  "slug": "danbury-farmers-market-1-patriot-drive",
+  "name": "Danbury Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Patriot Drive, CT",
+  "locationCity": "1 Patriot Drive",
+  "locationState": "CT",
+  "locationZipcode": "06810",
+  "lat": 41.3961518,
+  "lon": -73.4487846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.602Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.602Z"
+}

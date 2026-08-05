@@ -9,26 +9,13 @@
   "locationZipcode": "",
   "lat": 44.2706165324823,
   "lon": -70.2273006280641,
-  "website": "https://www.rickerhill.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:28:41.878Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:28:54.184Z"
+      "lastSeen": "2026-08-05T18:41:51.883Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:28:41.878Z",
-  "crops": [
-    "Blueberries",
-    "Apples",
-    "Pumpkins",
-    "Corn",
-    "Eggs"
-  ],
-  "phone": "207-225-3455",
+  "usdaLastUpdated": "2026-08-05T18:41:51.883Z",
   "image": "/farm-images/ricker-hill-orchards-rte-117.jpg",
   "imageAlt": "Ricker Hill Orchards"
 }

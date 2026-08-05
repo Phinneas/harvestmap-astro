@@ -1,0 +1,19 @@
+{
+  "slug": "howell-nj-csa-21-maxim-road",
+  "name": "Howell, NJ CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "21 Maxim Road, NJ",
+  "locationCity": "21 Maxim Road",
+  "locationState": "NJ",
+  "locationZipcode": "07731",
+  "lat": 40.163258,
+  "lon": -74.1956682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.116Z"
+}

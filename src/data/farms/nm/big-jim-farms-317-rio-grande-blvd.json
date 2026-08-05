@@ -1,0 +1,19 @@
+{
+  "slug": "big-jim-farms-317-rio-grande-blvd",
+  "name": "Big Jim Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "317 Rio Grande Blvd, NM",
+  "locationCity": "317 Rio Grande Blvd",
+  "locationState": "NM",
+  "locationZipcode": "87107",
+  "lat": 35.0938049122773,
+  "lon": -106.671624425417,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:54.387Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:54.387Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "king-george-farmers-market-king-george-middle-school-at-8246-dahlgren-rd",
+  "name": "King George Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "King George Middle School at 8246 Dahlgren Rd, VA",
+  "locationCity": "King George Middle School at 8246 Dahlgren Rd",
+  "locationState": "VA",
+  "locationZipcode": "22485",
+  "lat": 38.27678,
+  "lon": -77.2028,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.107Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.107Z"
+}

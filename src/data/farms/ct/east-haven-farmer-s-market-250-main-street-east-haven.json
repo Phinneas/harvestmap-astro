@@ -1,0 +1,19 @@
+{
+  "slug": "east-haven-farmer-s-market-250-main-street-east-haven",
+  "name": "East Haven Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "250 Main Street East Haven, CT",
+  "locationCity": "250 Main Street East Haven",
+  "locationState": "CT",
+  "locationZipcode": "06512",
+  "lat": 41.27797634630813,
+  "lon": -72.87189432097333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

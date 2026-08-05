@@ -1,0 +1,19 @@
+{
+  "slug": "locust-grove-pastures-15355-beaverdam-road",
+  "name": "Locust Grove Pastures",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "15355 Beaverdam Road, VA",
+  "locationCity": "15355 Beaverdam Road",
+  "locationState": "VA",
+  "locationZipcode": "15355",
+  "lat": 37.83066000688386,
+  "lon": -77.68932098415183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.404Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.404Z"
+}

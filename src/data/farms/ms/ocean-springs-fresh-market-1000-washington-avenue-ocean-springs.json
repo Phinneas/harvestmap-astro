@@ -1,0 +1,20 @@
+{
+  "slug": "ocean-springs-fresh-market-1000-washington-avenue-ocean-springs",
+  "name": "Ocean Springs Fresh Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 Washington Avenue Ocean Springs, MS",
+  "locationCity": "1000 Washington Avenue Ocean Springs",
+  "locationState": "MS",
+  "locationZipcode": "39564",
+  "lat": 30.415052980841885,
+  "lon": -88.82776719770132,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z",
+  "crops": []
+}

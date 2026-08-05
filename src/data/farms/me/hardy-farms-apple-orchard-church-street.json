@@ -9,22 +9,11 @@
   "locationZipcode": "",
   "lat": 44.2693324856265,
   "lon": -69.1522663600855,
-  "website": "https://www.facebook.com/HardyFarmsOrchard",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:28:41.872Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:28:54.166Z"
+      "lastSeen": "2026-08-05T18:41:51.821Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:28:41.872Z",
-  "crops": [
-    "Apples",
-    "Pumpkins",
-    "Squash"
-  ],
-  "phone": "207-763-3262"
+  "usdaLastUpdated": "2026-08-05T18:41:51.821Z"
 }

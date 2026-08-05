@@ -1,0 +1,19 @@
+{
+  "slug": "randolph-farmers-market-44-south-main-street",
+  "name": "Randolph Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "44 South Main Street, VT",
+  "locationCity": "44 South Main Street",
+  "locationState": "VT",
+  "locationZipcode": "05060",
+  "lat": 43.91550963348972,
+  "lon": -72.66541044716575,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

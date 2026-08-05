@@ -1,0 +1,20 @@
+{
+  "slug": "dallas-farmers-market-1010-s-pearl-expressway-dallas",
+  "name": "Dallas Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1010 S. Pearl Expressway Dallas, TX",
+  "locationCity": "1010 S. Pearl Expressway Dallas",
+  "locationState": "TX",
+  "locationZipcode": "75201",
+  "lat": 32.777555755641714,
+  "lon": -96.78932788512616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z",
+  "crops": []
+}

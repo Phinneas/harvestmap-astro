@@ -1,0 +1,19 @@
+{
+  "slug": "schenectady-greenmarket-winter-432-state-street-schenectady",
+  "name": "Schenectady Greenmarket - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "432 State Street Schenectady, NY",
+  "locationCity": "432 State Street Schenectady",
+  "locationState": "NY",
+  "locationZipcode": "12305",
+  "lat": 42.81265365868778,
+  "lon": -73.94163412585584,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

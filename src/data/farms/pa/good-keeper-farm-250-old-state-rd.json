@@ -1,0 +1,19 @@
+{
+  "slug": "good-keeper-farm-250-old-state-rd",
+  "name": "Good Keeper Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "250 Old State Rd, PA",
+  "locationCity": "250 Old State Rd",
+  "locationState": "PA",
+  "locationZipcode": "17324",
+  "lat": 40.06708626172835,
+  "lon": -77.19530854243567,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.609Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.609Z"
+}

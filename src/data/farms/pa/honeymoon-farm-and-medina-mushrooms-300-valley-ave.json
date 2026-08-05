@@ -1,0 +1,20 @@
+{
+  "slug": "honeymoon-farm-and-medina-mushrooms-300-valley-ave",
+  "name": "Honeymoon Farm and Medina Mushrooms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "300 Valley Ave, PA",
+  "locationCity": "300 Valley Ave",
+  "locationState": "PA",
+  "locationZipcode": "19363",
+  "lat": 39.7781968860785,
+  "lon": -75.9850074890931,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.057Z",
+  "crops": []
+}

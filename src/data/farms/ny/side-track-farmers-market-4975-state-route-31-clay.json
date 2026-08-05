@@ -1,0 +1,19 @@
+{
+  "slug": "side-track-farmers-market-4975-state-route-31-clay",
+  "name": "Side Track Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4975 State Route 31 Clay, NY",
+  "locationCity": "4975 State Route 31 Clay",
+  "locationState": "NY",
+  "locationZipcode": "13041",
+  "lat": 43.18569796388321,
+  "lon": -76.17079680086115,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

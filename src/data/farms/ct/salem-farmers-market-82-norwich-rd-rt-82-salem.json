@@ -1,0 +1,19 @@
+{
+  "slug": "salem-farmers-market-82-norwich-rd-rt-82-salem",
+  "name": "Salem Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "82 Norwich Rd (RT 82) Salem, CT",
+  "locationCity": "82 Norwich Rd (RT 82) Salem",
+  "locationState": "CT",
+  "locationZipcode": "06420",
+  "lat": 41.4815303818999,
+  "lon": -72.25842394832503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

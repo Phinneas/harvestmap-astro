@@ -1,0 +1,20 @@
+{
+  "slug": "spiller-farm-6067",
+  "name": "Spiller Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6067, ME",
+  "locationCity": "6067",
+  "locationState": "ME",
+  "locationZipcode": "04090",
+  "lat": 43.3656405906033,
+  "lon": -70.6048520145029,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.856Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.856Z",
+  "crops": []
+}

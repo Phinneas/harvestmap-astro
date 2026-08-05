@@ -1,0 +1,20 @@
+{
+  "slug": "downtown-bloomington-farmers-market-200-n-main",
+  "name": "Downtown Bloomington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 N. Main, IL",
+  "locationCity": "200 N. Main",
+  "locationState": "IL",
+  "locationZipcode": "61701",
+  "lat": 40.480014,
+  "lon": -88.994107,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.953Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.953Z",
+  "crops": []
+}

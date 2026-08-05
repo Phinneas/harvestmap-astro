@@ -1,0 +1,19 @@
+{
+  "slug": "norwich-farmers-market-winter-300-main-st",
+  "name": "Norwich Farmers Market (Winter)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Main St, VT",
+  "locationCity": "300 Main St",
+  "locationState": "VT",
+  "locationZipcode": "05055",
+  "lat": 43.71492125050847,
+  "lon": -72.30854690992341,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

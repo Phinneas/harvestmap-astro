@@ -1,0 +1,19 @@
+{
+  "slug": "east-new-york-farmers-market-613-new-lots-ave",
+  "name": "East New York Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "613 New Lots Ave, NY",
+  "locationCity": "613 New Lots Ave",
+  "locationState": "NY",
+  "locationZipcode": "11207",
+  "lat": 40.66472091831227,
+  "lon": -73.88656406088565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jb-tree-farm-7880-barker-rd",
+  "name": "JB Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7880 Barker Rd, PA",
+  "locationCity": "7880 Barker Rd",
+  "locationState": "PA",
+  "locationZipcode": "16611",
+  "lat": 40.5428759849364,
+  "lon": -78.1905520047017,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.142Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.142Z"
+}

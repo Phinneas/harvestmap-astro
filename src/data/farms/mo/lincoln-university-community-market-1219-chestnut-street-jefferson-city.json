@@ -1,0 +1,19 @@
+{
+  "slug": "lincoln-university-community-market-1219-chestnut-street-jefferson-city",
+  "name": "Lincoln University Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1219 Chestnut Street Jefferson City, MO",
+  "locationCity": "1219 Chestnut Street Jefferson City",
+  "locationState": "MO",
+  "locationZipcode": "65109",
+  "lat": 38.55910254278896,
+  "lon": -92.17428100751549,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

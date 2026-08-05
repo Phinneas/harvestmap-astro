@@ -1,0 +1,19 @@
+{
+  "slug": "macon-state-farmers-market-2055-eisenhower-parkway-macon",
+  "name": "Macon State Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2055 Eisenhower Parkway Macon, GA",
+  "locationCity": "2055 Eisenhower Parkway Macon",
+  "locationState": "GA",
+  "locationZipcode": "31206",
+  "lat": 32.815242555383506,
+  "lon": -83.68392291368943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

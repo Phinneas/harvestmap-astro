@@ -1,0 +1,19 @@
+{
+  "slug": "bechdolt-s-orchard-2209-leithsville-road",
+  "name": "Bechdolt's Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2209 Leithsville Road, PA",
+  "locationCity": "2209 Leithsville Road",
+  "locationState": "PA",
+  "locationZipcode": "18055",
+  "lat": 40.55163800742088,
+  "lon": -75.31615701285943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

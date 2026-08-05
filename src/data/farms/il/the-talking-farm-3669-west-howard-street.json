@@ -1,0 +1,19 @@
+{
+  "slug": "the-talking-farm-3669-west-howard-street",
+  "name": "The Talking Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3669 West Howard Street, IL",
+  "locationCity": "3669 West Howard Street",
+  "locationState": "IL",
+  "locationZipcode": "60076",
+  "lat": 42.017328903087105,
+  "lon": -87.72209698693925,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.487Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.487Z"
+}

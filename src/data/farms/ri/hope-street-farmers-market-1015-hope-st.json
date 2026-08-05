@@ -1,0 +1,19 @@
+{
+  "slug": "hope-street-farmers-market-1015-hope-st",
+  "name": "Hope Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1015 Hope St, RI",
+  "locationCity": "1015 Hope St",
+  "locationState": "RI",
+  "locationZipcode": "02906",
+  "lat": 41.799956,
+  "lon": -71.356584,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.567Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.567Z"
+}

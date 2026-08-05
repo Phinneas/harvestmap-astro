@@ -1,0 +1,19 @@
+{
+  "slug": "pearlstone-center-425-mount-gilead-road",
+  "name": "Pearlstone Center",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "425 Mount Gilead Road, MD",
+  "locationCity": "425 Mount Gilead Road",
+  "locationState": "MD",
+  "locationZipcode": "21136",
+  "lat": 39.5242845295766,
+  "lon": -76.8445580820175,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.176Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.176Z"
+}

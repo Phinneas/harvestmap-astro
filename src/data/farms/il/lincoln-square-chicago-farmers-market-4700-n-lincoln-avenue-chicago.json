@@ -1,0 +1,19 @@
+{
+  "slug": "lincoln-square-chicago-farmers-market-4700-n-lincoln-avenue-chicago",
+  "name": "Lincoln Square (Chicago) Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4700 N Lincoln Avenue Chicago, IL",
+  "locationCity": "4700 N Lincoln Avenue Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60625",
+  "lat": 41.96687558938813,
+  "lon": -87.68746481816623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

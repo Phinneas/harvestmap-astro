@@ -1,0 +1,19 @@
+{
+  "slug": "smith-road-farm-504-smith-road",
+  "name": "Smith Road Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "504 Smith Road, NY",
+  "locationCity": "504 Smith Road",
+  "locationState": "NY",
+  "locationZipcode": "14505",
+  "lat": 43.1326974076039,
+  "lon": -77.1633727006866,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.213Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.213Z"
+}

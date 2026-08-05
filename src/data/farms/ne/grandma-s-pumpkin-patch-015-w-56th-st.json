@@ -1,0 +1,19 @@
+{
+  "slug": "grandma-s-pumpkin-patch-015-w-56th-st",
+  "name": "Grandma's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "015 W 56th St, NE",
+  "locationCity": "015 W 56th St",
+  "locationState": "NE",
+  "locationZipcode": "68845",
+  "lat": 40.7284172961042,
+  "lon": -99.0820054535169,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.264Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.264Z"
+}

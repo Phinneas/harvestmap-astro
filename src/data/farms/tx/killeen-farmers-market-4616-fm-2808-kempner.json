@@ -1,0 +1,19 @@
+{
+  "slug": "killeen-farmers-market-4616-fm-2808-kempner",
+  "name": "Killeen Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4616 fm 2808 Kempner, TX",
+  "locationCity": "4616 fm 2808 Kempner",
+  "locationState": "TX",
+  "locationZipcode": "76539",
+  "lat": 31.068098268678956,
+  "lon": -97.93091463961981,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

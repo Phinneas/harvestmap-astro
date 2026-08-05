@@ -1,0 +1,19 @@
+{
+  "slug": "rancho-murieta-marketplace-14670-ntova-way",
+  "name": "Rancho Murieta Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14670 NTOVA WAY, CA",
+  "locationCity": "14670 NTOVA WAY",
+  "locationState": "CA",
+  "locationZipcode": "14670",
+  "lat": 38.4900379147119,
+  "lon": -121.10091561908368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

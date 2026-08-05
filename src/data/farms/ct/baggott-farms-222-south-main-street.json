@@ -1,0 +1,19 @@
+{
+  "slug": "baggott-farms-222-south-main-street",
+  "name": "Baggott Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "222 South Main Street, CT",
+  "locationCity": "222 South Main Street",
+  "locationState": "CT",
+  "locationZipcode": "06088",
+  "lat": 41.87890001194501,
+  "lon": -72.61025596065925,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.082Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.082Z"
+}

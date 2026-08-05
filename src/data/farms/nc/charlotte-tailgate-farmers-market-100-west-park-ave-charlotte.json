@@ -1,0 +1,19 @@
+{
+  "slug": "charlotte-tailgate-farmers-market-100-west-park-ave-charlotte",
+  "name": "Charlotte Tailgate Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 West Park Ave. Charlotte, NC",
+  "locationCity": "100 West Park Ave. Charlotte",
+  "locationState": "NC",
+  "locationZipcode": "28203",
+  "lat": 35.21476678473739,
+  "lon": -80.85709133482236,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

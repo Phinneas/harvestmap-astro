@@ -1,0 +1,19 @@
+{
+  "slug": "arcadia-farmers-market-550-dettloff-drive-arcadia",
+  "name": "Arcadia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "550 Dettloff Drive Arcadia, WI",
+  "locationCity": "550 Dettloff Drive Arcadia",
+  "locationState": "WI",
+  "locationZipcode": "54612",
+  "lat": 44.245745565443066,
+  "lon": -91.47378396665218,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.857Z"
+}

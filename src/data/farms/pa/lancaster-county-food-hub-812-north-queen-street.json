@@ -1,0 +1,19 @@
+{
+  "slug": "lancaster-county-food-hub-812-north-queen-street",
+  "name": "Lancaster County Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "812 North Queen Street, PA",
+  "locationCity": "812 North Queen Street",
+  "locationState": "PA",
+  "locationZipcode": "17603",
+  "lat": 40.05030799659448,
+  "lon": -76.30873704157246,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.782Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.782Z"
+}

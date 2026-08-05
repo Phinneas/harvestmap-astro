@@ -1,0 +1,19 @@
+{
+  "slug": "indigo-farms-542-hickman-road-nw",
+  "name": "Indigo Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "542 Hickman Road NW, NC",
+  "locationCity": "542 Hickman Road NW",
+  "locationState": "NC",
+  "locationZipcode": "28467",
+  "lat": 33.9337030165199,
+  "lon": -78.5890832642278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.683Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.683Z"
+}

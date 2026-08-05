@@ -1,0 +1,20 @@
+{
+  "slug": "troy-farmers-market-arts-crafts-201-east-main-troy",
+  "name": "Troy Farmers Market / Arts & Crafts",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 East Main Troy, TX",
+  "locationCity": "201 East Main Troy",
+  "locationState": "TX",
+  "locationZipcode": "76579",
+  "lat": 31.206116774217506,
+  "lon": -97.30083210369445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.201Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.201Z",
+  "crops": []
+}

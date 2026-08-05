@@ -1,0 +1,19 @@
+{
+  "slug": "beverly-hills-farmers-market-9300-civic-center-dr",
+  "name": "Beverly Hills Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9300 Civic Center Dr, CA",
+  "locationCity": "9300 Civic Center Dr",
+  "locationState": "CA",
+  "locationZipcode": "90210",
+  "lat": 34.073685,
+  "lon": -118.39874,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

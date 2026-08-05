@@ -1,0 +1,19 @@
+{
+  "slug": "port-jefferson-farmers-market-102-w-broadway",
+  "name": "Port Jefferson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 W. Broadway, NY",
+  "locationCity": "102 W. Broadway",
+  "locationState": "NY",
+  "locationZipcode": "11777",
+  "lat": 40.94562375037678,
+  "lon": -73.0725720953912,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

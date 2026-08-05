@@ -1,0 +1,19 @@
+{
+  "slug": "edgebrook-farmers-market-1605-n-alpine-road-rockford",
+  "name": "Edgebrook Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1605 N. Alpine Road Rockford, IL",
+  "locationCity": "1605 N. Alpine Road Rockford",
+  "locationState": "IL",
+  "locationZipcode": "61107",
+  "lat": 42.286436987242865,
+  "lon": -89.02734597633935,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

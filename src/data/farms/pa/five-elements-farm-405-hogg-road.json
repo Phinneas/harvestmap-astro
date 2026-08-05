@@ -1,0 +1,19 @@
+{
+  "slug": "five-elements-farm-405-hogg-road",
+  "name": "Five Elements Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "405 Hogg Road, PA",
+  "locationCity": "405 Hogg Road",
+  "locationState": "PA",
+  "locationZipcode": "16262",
+  "lat": 40.8060346,
+  "lon": -79.6544866,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.559Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.559Z"
+}

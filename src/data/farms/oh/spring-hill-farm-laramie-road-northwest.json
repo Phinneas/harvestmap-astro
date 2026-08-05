@@ -1,0 +1,19 @@
+{
+  "slug": "spring-hill-farm-laramie-road-northwest",
+  "name": "Spring Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Laramie Road Northwest, OH",
+  "locationCity": "Laramie Road Northwest",
+  "locationState": "OH",
+  "locationZipcode": "44615",
+  "lat": 40.6286969923548,
+  "lon": -81.131237960016,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.880Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.880Z"
+}

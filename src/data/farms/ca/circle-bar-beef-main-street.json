@@ -1,0 +1,19 @@
+{
+  "slug": "circle-bar-beef-main-street",
+  "name": "Circle Bar Beef",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Main Street, CA",
+  "locationCity": "Main Street",
+  "locationState": "CA",
+  "locationZipcode": "96112",
+  "lat": 41.8572800000001,
+  "lon": -120.1519,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.807Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.807Z"
+}

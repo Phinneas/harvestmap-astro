@@ -1,0 +1,19 @@
+{
+  "slug": "ville-open-air-market-4223-dr-martin-luther-king-drive-st-louis",
+  "name": "Ville Open-Air Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4223 Dr. Martin Luther King Drive St. Louis, MO",
+  "locationCity": "4223 Dr. Martin Luther King Drive St. Louis",
+  "locationState": "MO",
+  "locationZipcode": "63113",
+  "lat": 38.65485153342435,
+  "lon": -90.24129119929701,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.494Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.494Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "middleton-farms-630-north-lewis-road",
+  "name": "Middleton Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "630 North Lewis Road, MI",
+  "locationCity": "630 North Lewis Road",
+  "locationState": "MI",
+  "locationZipcode": "48618",
+  "lat": 43.6817413426842,
+  "lon": -84.5678500293604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.714Z"
+}

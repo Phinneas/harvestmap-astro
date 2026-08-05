@@ -1,0 +1,19 @@
+{
+  "slug": "yazoo-farmers-market-417-north-main-street-yazoo-city",
+  "name": "Yazoo Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "417 North Main Street Yazoo City, MS",
+  "locationCity": "417 North Main Street Yazoo City",
+  "locationState": "MS",
+  "locationZipcode": "39194",
+  "lat": 32.850899878078806,
+  "lon": -90.4115967812487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

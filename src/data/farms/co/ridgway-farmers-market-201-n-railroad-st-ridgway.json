@@ -1,0 +1,19 @@
+{
+  "slug": "ridgway-farmers-market-201-n-railroad-st-ridgway",
+  "name": "Ridgway Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 N. Railroad St. Ridgway, CO",
+  "locationCity": "201 N. Railroad St. Ridgway",
+  "locationState": "CO",
+  "locationZipcode": "81403",
+  "lat": 38.15280001524499,
+  "lon": -107.75511698227149,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-peoples-market-3220-e-3rd-st",
+  "name": "The Peoples Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3220 E 3rd St., IN",
+  "locationCity": "3220 E 3rd St.",
+  "locationState": "IN",
+  "locationZipcode": "47403",
+  "lat": 39.164192,
+  "lon": -86.491053,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.608Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.608Z"
+}

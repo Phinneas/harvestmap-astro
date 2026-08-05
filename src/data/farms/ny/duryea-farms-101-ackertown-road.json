@@ -1,0 +1,19 @@
+{
+  "slug": "duryea-farms-101-ackertown-road",
+  "name": "Duryea Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Ackertown Road, NY",
+  "locationCity": "101 Ackertown Road",
+  "locationState": "NY",
+  "locationZipcode": "10952",
+  "lat": 41.0836230689118,
+  "lon": -74.0746477870618,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.369Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "apple-creek-orchard-harrison-road",
+  "name": "Apple Creek Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Harrison Road, NY",
+  "locationCity": "Harrison Road",
+  "locationState": "NY",
+  "locationZipcode": "14812",
+  "lat": 42.2620026669479,
+  "lon": -77.06641852333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.435Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.435Z"
+}

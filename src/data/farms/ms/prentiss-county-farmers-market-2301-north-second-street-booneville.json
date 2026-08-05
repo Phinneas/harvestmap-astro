@@ -1,0 +1,19 @@
+{
+  "slug": "prentiss-county-farmers-market-2301-north-second-street-booneville",
+  "name": "Prentiss County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2301 North Second Street Booneville, MS",
+  "locationCity": "2301 North Second Street Booneville",
+  "locationState": "MS",
+  "locationZipcode": "38829",
+  "lat": 34.69631534530084,
+  "lon": -88.5606159983515,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

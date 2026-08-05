@@ -1,0 +1,19 @@
+{
+  "slug": "the-farm-market-main-st",
+  "name": "the Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St, NM",
+  "locationCity": "Main St",
+  "locationState": "NM",
+  "locationZipcode": "88042",
+  "lat": 32.920178,
+  "lon": -107.5691,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:58.772Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:58.772Z"
+}

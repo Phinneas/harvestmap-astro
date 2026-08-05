@@ -1,0 +1,19 @@
+{
+  "slug": "vernon-hills-park-district-farmers-market-lakeview-parkway-and-hawthorn-parkway",
+  "name": "Vernon Hills Park District Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Lakeview Parkway and Hawthorn Parkway, IL",
+  "locationCity": "Lakeview Parkway and Hawthorn Parkway",
+  "locationState": "IL",
+  "locationZipcode": "60061",
+  "lat": 42.241619,
+  "lon": -87.962265,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.942Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.942Z"
+}

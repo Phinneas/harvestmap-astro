@@ -1,0 +1,19 @@
+{
+  "slug": "narita-farms-965-s-narita-lane",
+  "name": "Narita Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "965 S. Narita Lane, AZ",
+  "locationCity": "965 S. Narita Lane",
+  "locationState": "AZ",
+  "locationZipcode": "85643",
+  "lat": 32.1740621826364,
+  "lon": -109.704365957236,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.836Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.836Z"
+}

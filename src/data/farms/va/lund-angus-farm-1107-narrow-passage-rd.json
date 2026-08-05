@@ -1,0 +1,19 @@
+{
+  "slug": "lund-angus-farm-1107-narrow-passage-rd",
+  "name": "Lund Angus Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1107 Narrow Passage Rd, VA",
+  "locationCity": "1107 Narrow Passage Rd",
+  "locationState": "VA",
+  "locationZipcode": "24593",
+  "lat": 37.2570334,
+  "lon": -78.881511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.210Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.210Z"
+}

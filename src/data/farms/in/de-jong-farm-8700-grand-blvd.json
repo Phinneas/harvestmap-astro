@@ -1,0 +1,19 @@
+{
+  "slug": "de-jong-farm-8700-grand-blvd",
+  "name": "De Jong Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8700 Grand Blvd, IN",
+  "locationCity": "8700 Grand Blvd",
+  "locationState": "IN",
+  "locationZipcode": "46410",
+  "lat": 41.458761851051236,
+  "lon": -87.26078075694888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.599Z"
+}

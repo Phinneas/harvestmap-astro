@@ -1,0 +1,19 @@
+{
+  "slug": "bates-motel-1835",
+  "name": "Bates Motel",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1835, PA",
+  "locationCity": "1835",
+  "locationState": "PA",
+  "locationZipcode": "19342",
+  "lat": 39.9446212886523,
+  "lon": -75.498728704213,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.154Z"
+}

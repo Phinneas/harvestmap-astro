@@ -1,0 +1,20 @@
+{
+  "slug": "shaw-farm-204-new-boston-road",
+  "name": "Shaw Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "204 New Boston Road, MA",
+  "locationCity": "204 New Boston Road",
+  "locationState": "MA",
+  "locationZipcode": "01826",
+  "lat": 42.681617235151,
+  "lon": -71.3329376519345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.569Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.569Z",
+  "crops": []
+}

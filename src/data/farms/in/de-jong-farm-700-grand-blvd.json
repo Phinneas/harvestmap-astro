@@ -1,0 +1,19 @@
+{
+  "slug": "de-jong-farm-700-grand-blvd",
+  "name": "De Jong Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "700 Grand Blvd, IN",
+  "locationCity": "700 Grand Blvd",
+  "locationState": "IN",
+  "locationZipcode": "46410",
+  "lat": 41.4616454319693,
+  "lon": -87.2584100194547,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.257Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.257Z"
+}

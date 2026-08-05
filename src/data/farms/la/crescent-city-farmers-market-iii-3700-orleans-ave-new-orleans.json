@@ -1,0 +1,19 @@
+{
+  "slug": "crescent-city-farmers-market-iii-3700-orleans-ave-new-orleans",
+  "name": "Crescent City Farmers' Market III",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3700 Orleans Ave. New Orleans, LA",
+  "locationCity": "3700 Orleans Ave. New Orleans",
+  "locationState": "LA",
+  "locationZipcode": "70119",
+  "lat": 29.976788598232424,
+  "lon": -90.09194010853894,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

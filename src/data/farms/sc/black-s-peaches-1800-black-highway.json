@@ -1,0 +1,20 @@
+{
+  "slug": "black-s-peaches-1800-black-highway",
+  "name": "Black's Peaches",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1800 Black Highway, SC",
+  "locationCity": "1800 Black Highway",
+  "locationState": "SC",
+  "locationZipcode": "29745",
+  "lat": 35.0229200045685,
+  "lon": -81.2788400059933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.725Z",
+  "crops": []
+}

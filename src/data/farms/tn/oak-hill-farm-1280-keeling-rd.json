@@ -1,0 +1,19 @@
+{
+  "slug": "oak-hill-farm-1280-keeling-rd",
+  "name": "Oak Hill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1280 Keeling Rd., TN",
+  "locationCity": "1280 Keeling Rd.",
+  "locationState": "TN",
+  "locationZipcode": "38069",
+  "lat": 35.451064,
+  "lon": -89.474682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.790Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.790Z"
+}

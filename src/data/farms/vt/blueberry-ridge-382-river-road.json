@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-ridge-382-river-road",
+  "name": "Blueberry Ridge",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "382 River Road, VT",
+  "locationCity": "382 River Road",
+  "locationState": "VT",
+  "locationZipcode": "05859",
+  "lat": 44.9915382330066,
+  "lon": -72.3861462630128,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.212Z"
+}

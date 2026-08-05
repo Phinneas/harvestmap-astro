@@ -1,0 +1,19 @@
+{
+  "slug": "woodbine-farmers-market-602-washington-ave-woodbine",
+  "name": "Woodbine Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "602 Washington Ave. Woodbine, NJ",
+  "locationCity": "602 Washington Ave. Woodbine",
+  "locationState": "NJ",
+  "locationZipcode": "08270",
+  "lat": 39.239858334138155,
+  "lon": -74.81731798376904,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

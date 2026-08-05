@@ -1,0 +1,19 @@
+{
+  "slug": "triple-s-farms-3078-county-highway-33",
+  "name": "Triple S Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3078 County Highway 33, IL",
+  "locationCity": "3078 County Highway 33",
+  "locationState": "IL",
+  "locationZipcode": "62463",
+  "lat": 39.3161299,
+  "lon": -88.5685127,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.469Z"
+}

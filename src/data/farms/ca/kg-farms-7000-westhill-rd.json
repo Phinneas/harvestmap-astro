@@ -1,0 +1,19 @@
+{
+  "slug": "kg-farms-7000-westhill-rd",
+  "name": "KG Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7000 Westhill Rd., CA",
+  "locationCity": "7000 Westhill Rd.",
+  "locationState": "CA",
+  "locationZipcode": "95252",
+  "lat": 38.118062,
+  "lon": -120.85915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.939Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.939Z"
+}

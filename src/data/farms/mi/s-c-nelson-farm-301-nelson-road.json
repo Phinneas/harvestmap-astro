@@ -1,0 +1,19 @@
+{
+  "slug": "s-c-nelson-farm-301-nelson-road",
+  "name": "S&C Nelson Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "301 Nelson Road, MI",
+  "locationCity": "301 Nelson Road",
+  "locationState": "MI",
+  "locationZipcode": "49935",
+  "lat": 46.0944389,
+  "lon": -88.533402,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.175Z"
+}

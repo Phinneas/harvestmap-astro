@@ -1,0 +1,19 @@
+{
+  "slug": "strawberry-hill-farm-ellisdale-road",
+  "name": "Strawberry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ellisdale Road, NJ",
+  "locationCity": "Ellisdale Road",
+  "locationState": "NJ",
+  "locationZipcode": "08620",
+  "lat": 40.1340399822844,
+  "lon": -74.6235399854479,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.747Z"
+}

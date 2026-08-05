@@ -1,0 +1,19 @@
+{
+  "slug": "hendricks-farmers-market-main-street",
+  "name": "Hendricks Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street, MN",
+  "locationCity": "Main Street",
+  "locationState": "MN",
+  "locationZipcode": "56136",
+  "lat": 44.508647,
+  "lon": -96.426422,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.739Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.739Z"
+}

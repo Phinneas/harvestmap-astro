@@ -1,0 +1,19 @@
+{
+  "slug": "aventura-farmers-market-19501-biscayne-blvd-aventura",
+  "name": "Aventura Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "19501 Biscayne Blvd. Aventura, FL",
+  "locationCity": "19501 Biscayne Blvd. Aventura",
+  "locationState": "FL",
+  "locationZipcode": "19501",
+  "lat": 25.95706230064707,
+  "lon": -80.14689529519562,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.574Z"
+}

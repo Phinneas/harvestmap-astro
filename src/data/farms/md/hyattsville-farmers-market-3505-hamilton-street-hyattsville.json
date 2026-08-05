@@ -1,0 +1,19 @@
+{
+  "slug": "hyattsville-farmers-market-3505-hamilton-street-hyattsville",
+  "name": "Hyattsville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3505 Hamilton Street Hyattsville, MD",
+  "locationCity": "3505 Hamilton Street Hyattsville",
+  "locationState": "MD",
+  "locationZipcode": "20782",
+  "lat": 38.9547617422838,
+  "lon": -76.95975140964104,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

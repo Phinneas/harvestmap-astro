@@ -1,0 +1,19 @@
+{
+  "slug": "bella-vista-farmers-market-1451-bella-vista-way-bella-vista",
+  "name": "Bella Vista Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1451 Bella Vista Way Bella Vista, AR",
+  "locationCity": "1451 Bella Vista Way Bella Vista",
+  "locationState": "AR",
+  "locationZipcode": "72714",
+  "lat": 36.46953556951424,
+  "lon": -94.24263461836084,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

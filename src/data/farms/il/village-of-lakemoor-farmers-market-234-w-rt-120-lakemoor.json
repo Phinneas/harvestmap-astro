@@ -1,0 +1,19 @@
+{
+  "slug": "village-of-lakemoor-farmers-market-234-w-rt-120-lakemoor",
+  "name": "Village of Lakemoor Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "234 w Rt. 120 Lakemoor, IL",
+  "locationCity": "234 w Rt. 120 Lakemoor",
+  "locationState": "IL",
+  "locationZipcode": "60051",
+  "lat": 42.32991972686437,
+  "lon": -88.20167624900452,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

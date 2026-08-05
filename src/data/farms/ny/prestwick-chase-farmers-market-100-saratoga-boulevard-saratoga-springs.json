@@ -1,0 +1,19 @@
+{
+  "slug": "prestwick-chase-farmers-market-100-saratoga-boulevard-saratoga-springs",
+  "name": "Prestwick Chase Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Saratoga Boulevard Saratoga Springs, NY",
+  "locationCity": "100 Saratoga Boulevard Saratoga Springs",
+  "locationState": "NY",
+  "locationZipcode": "12866",
+  "lat": 43.094734666550536,
+  "lon": -73.81756838278305,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "palmyra-farmers-market-103-north-college-st-palmyra",
+  "name": "Palmyra Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "103 north college st palmyra, PA",
+  "locationCity": "103 north college st palmyra",
+  "locationState": "PA",
+  "locationZipcode": "17078",
+  "lat": 40.30785231022988,
+  "lon": -76.5980447633556,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

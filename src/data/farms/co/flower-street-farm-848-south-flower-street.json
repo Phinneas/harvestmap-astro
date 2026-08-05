@@ -1,0 +1,19 @@
+{
+  "slug": "flower-street-farm-848-south-flower-street",
+  "name": "Flower Street Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "848 South Flower Street, CO",
+  "locationCity": "848 South Flower Street",
+  "locationState": "CO",
+  "locationZipcode": "80226",
+  "lat": 39.7013199979911,
+  "lon": -105.098858003085,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.204Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.204Z"
+}

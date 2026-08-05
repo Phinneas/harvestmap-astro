@@ -1,0 +1,19 @@
+{
+  "slug": "coon-rock-farm-1021-dimmocks-mill-rd",
+  "name": "Coon Rock Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1021 DIMMOCKS MILL RD, NC",
+  "locationCity": "1021 DIMMOCKS MILL RD",
+  "locationState": "NC",
+  "locationZipcode": "27278",
+  "lat": 36.0667248,
+  "lon": -79.131777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.882Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.882Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "owsberry-farm-208-myers-mill-road",
+  "name": "Owsberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "208 Myers Mill Road, VA",
+  "locationCity": "208 Myers Mill Road",
+  "locationState": "VA",
+  "locationZipcode": "22724",
+  "lat": 38.6286893529491,
+  "lon": -77.8817989058775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.222Z"
+}

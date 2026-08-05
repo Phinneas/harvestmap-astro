@@ -1,0 +1,19 @@
+{
+  "slug": "walkabout-farm-15d-callies-common",
+  "name": "Walkabout Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15D Callies Common, NH",
+  "locationCity": "15D Callies Common",
+  "locationState": "NH",
+  "locationZipcode": "03458",
+  "lat": 42.8851053,
+  "lon": -71.9725526,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.523Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.523Z"
+}

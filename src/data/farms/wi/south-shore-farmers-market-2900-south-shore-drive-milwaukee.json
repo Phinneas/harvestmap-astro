@@ -1,0 +1,19 @@
+{
+  "slug": "south-shore-farmers-market-2900-south-shore-drive-milwaukee",
+  "name": "South Shore Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2900 South Shore Drive Milwaukee, WI",
+  "locationCity": "2900 South Shore Drive Milwaukee",
+  "locationState": "WI",
+  "locationZipcode": "53207",
+  "lat": 42.992976983864,
+  "lon": -87.88042246131498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

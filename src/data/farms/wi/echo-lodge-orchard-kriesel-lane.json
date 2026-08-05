@@ -1,0 +1,19 @@
+{
+  "slug": "echo-lodge-orchard-kriesel-lane",
+  "name": "Echo Lodge Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Kriesel Lane, WI",
+  "locationCity": "Kriesel Lane",
+  "locationState": "WI",
+  "locationZipcode": "54661",
+  "lat": 44.0775869991992,
+  "lon": -91.5064439603623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.444Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.444Z"
+}

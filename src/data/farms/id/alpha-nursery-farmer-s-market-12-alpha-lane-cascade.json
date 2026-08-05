@@ -1,0 +1,19 @@
+{
+  "slug": "alpha-nursery-farmer-s-market-12-alpha-lane-cascade",
+  "name": "Alpha Nursery Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12 Alpha Lane Cascade, ID",
+  "locationCity": "12 Alpha Lane Cascade",
+  "locationState": "ID",
+  "locationZipcode": "83611",
+  "lat": 44.42506621532688,
+  "lon": -115.99789685085412,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:36.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:36.237Z"
+}

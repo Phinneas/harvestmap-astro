@@ -1,0 +1,19 @@
+{
+  "slug": "yorktown-farmers-market-8920-w-adaline-street-yorktown",
+  "name": "Yorktown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8920 W. Adaline Street Yorktown, IN",
+  "locationCity": "8920 W. Adaline Street Yorktown",
+  "locationState": "IN",
+  "locationZipcode": "47396",
+  "lat": 40.174643320343414,
+  "lon": -85.49043246679746,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

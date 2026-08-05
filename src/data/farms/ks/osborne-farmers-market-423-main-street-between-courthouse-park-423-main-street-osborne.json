@@ -1,0 +1,19 @@
+{
+  "slug": "osborne-farmers-market-423-main-street-between-courthouse-park-423-main-street-osborne",
+  "name": "Osborne Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "423 Main Street Between Courthouse & Park 423 Main Street Osborne, KS",
+  "locationCity": "423 Main Street Between Courthouse & Park 423 Main Street Osborne",
+  "locationState": "KS",
+  "locationZipcode": "67473",
+  "lat": 36.20909406008447,
+  "lon": -94.80222100684935,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.714Z"
+}

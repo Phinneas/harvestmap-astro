@@ -1,0 +1,20 @@
+{
+  "slug": "mccurley-farms-840-north-road-corner-of-north-road-and-oak-lane",
+  "name": "McCurley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "840 North Road Corner of North Road and Oak Lane, SC",
+  "locationCity": "840 North Road Corner of North Road and Oak Lane",
+  "locationState": "SC",
+  "locationZipcode": "29112",
+  "lat": 33.6151199804689,
+  "lon": -81.0954299667363,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.784Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.784Z",
+  "crops": []
+}

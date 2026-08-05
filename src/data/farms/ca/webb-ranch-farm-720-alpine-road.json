@@ -1,0 +1,19 @@
+{
+  "slug": "webb-ranch-farm-720-alpine-road",
+  "name": "Webb Ranch Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "720 Alpine Road, CA",
+  "locationCity": "720 Alpine Road",
+  "locationState": "CA",
+  "locationZipcode": "94028",
+  "lat": 37.3907045767859,
+  "lon": -122.190857391333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.788Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.788Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "marina-certified-farmers-market-215-reservation-road-marina",
+  "name": "Marina Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 Reservation Road Marina, CA",
+  "locationCity": "215 Reservation Road Marina",
+  "locationState": "CA",
+  "locationZipcode": "93933",
+  "lat": 36.68741611452366,
+  "lon": -121.79913758922417,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

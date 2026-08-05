@@ -1,0 +1,19 @@
+{
+  "slug": "beach-street-local-market-3789-n-beach-st-fort-worth",
+  "name": "Beach Street Local Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3789 N Beach St Fort Worth, TX",
+  "locationCity": "3789 N Beach St Fort Worth",
+  "locationState": "TX",
+  "locationZipcode": "76137",
+  "lat": 32.815034091663286,
+  "lon": -97.29076188071852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

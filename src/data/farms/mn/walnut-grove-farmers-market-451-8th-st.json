@@ -1,0 +1,19 @@
+{
+  "slug": "walnut-grove-farmers-market-451-8th-st",
+  "name": "Walnut Grove Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "451 8th St, MN",
+  "locationCity": "451 8th St",
+  "locationState": "MN",
+  "locationZipcode": "56180",
+  "lat": 44.2221038,
+  "lon": -95.4729071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

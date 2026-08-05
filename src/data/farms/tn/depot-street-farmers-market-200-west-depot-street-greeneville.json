@@ -1,0 +1,19 @@
+{
+  "slug": "depot-street-farmers-market-200-west-depot-street-greeneville",
+  "name": "Depot Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 West Depot Street Greeneville, TN",
+  "locationCity": "200 West Depot Street Greeneville",
+  "locationState": "TN",
+  "locationZipcode": "37745",
+  "lat": 36.16402942179643,
+  "lon": -82.83306366105643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

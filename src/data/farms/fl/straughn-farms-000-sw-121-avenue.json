@@ -1,0 +1,19 @@
+{
+  "slug": "straughn-farms-000-sw-121-avenue",
+  "name": "Straughn Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 SW 121 Avenue, FL",
+  "locationCity": "000 SW 121 Avenue",
+  "locationState": "FL",
+  "locationZipcode": "32618",
+  "lat": 29.5436725567195,
+  "lon": -82.4847560412126,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.806Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.806Z"
+}

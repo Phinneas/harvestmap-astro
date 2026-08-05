@@ -1,0 +1,19 @@
+{
+  "slug": "bompa-s-blueberry-farm-south-high-street",
+  "name": "Bompa's Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "South High Street, OR",
+  "locationCity": "South High Street",
+  "locationState": "OR",
+  "locationZipcode": "97045",
+  "lat": 45.3519771,
+  "lon": -122.6120488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.810Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.810Z"
+}

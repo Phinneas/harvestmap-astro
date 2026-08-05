@@ -1,0 +1,19 @@
+{
+  "slug": "duncan-farm-10265-old-62-road",
+  "name": "Duncan Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10265 Old 62 Road, OH",
+  "locationCity": "10265 Old 62 Road",
+  "locationState": "OH",
+  "locationZipcode": "10265",
+  "lat": 39.2921420136896,
+  "lon": -83.5834229940471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.844Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.844Z"
+}

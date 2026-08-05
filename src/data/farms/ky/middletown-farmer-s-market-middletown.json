@@ -1,0 +1,19 @@
+{
+  "slug": "middletown-farmer-s-market-middletown",
+  "name": "Middletown farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Middletown, KY",
+  "locationCity": "Middletown",
+  "locationState": "KY",
+  "locationZipcode": "40243",
+  "lat": 38.242222,
+  "lon": -85.543717,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.723Z"
+}

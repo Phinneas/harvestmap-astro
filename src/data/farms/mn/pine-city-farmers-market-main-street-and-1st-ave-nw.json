@@ -1,0 +1,20 @@
+{
+  "slug": "pine-city-farmers-market-main-street-and-1st-ave-nw",
+  "name": "Pine City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street and 1st Ave NW, MN",
+  "locationCity": "Main Street and 1st Ave NW",
+  "locationState": "MN",
+  "locationZipcode": "55063",
+  "lat": 45.832364,
+  "lon": -92.970689,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.740Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.740Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tenney-farm-1-main-street",
+  "name": "Tenney Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1 Main Street, NH",
+  "locationCity": "1 Main Street",
+  "locationState": "NH",
+  "locationZipcode": "03440",
+  "lat": 43.0230629877295,
+  "lon": -71.9317310079614,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.543Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.543Z"
+}

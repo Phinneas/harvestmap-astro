@@ -1,0 +1,19 @@
+{
+  "slug": "eden-st-market-106-eden-st-davidson",
+  "name": "Eden St. Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 Eden St. Davidson, NC",
+  "locationCity": "106 Eden St. Davidson",
+  "locationState": "NC",
+  "locationZipcode": "28036",
+  "lat": 35.50029879598069,
+  "lon": -80.84973982997401,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

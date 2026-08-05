@@ -1,0 +1,19 @@
+{
+  "slug": "inthebeginning-farm-35074-highway-94",
+  "name": "InTheBeginning Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "35074 Highway 94, CA",
+  "locationCity": "35074 Highway 94",
+  "locationState": "CA",
+  "locationZipcode": "35074",
+  "lat": 32.65295335215188,
+  "lon": -116.39452622104182,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.076Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.076Z"
+}

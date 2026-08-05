@@ -1,0 +1,19 @@
+{
+  "slug": "rains-and-sun-hilltop-farm-10050-marshall-rd",
+  "name": "Rains and Sun Hilltop Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10050 Marshall Rd., KY",
+  "locationCity": "10050 Marshall Rd.",
+  "locationState": "KY",
+  "locationZipcode": "10050",
+  "lat": 38.955749,
+  "lon": -84.481488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.100Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.100Z"
+}

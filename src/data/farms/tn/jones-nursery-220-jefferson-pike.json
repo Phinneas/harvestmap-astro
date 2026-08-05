@@ -1,0 +1,20 @@
+{
+  "slug": "jones-nursery-220-jefferson-pike",
+  "name": "Jones Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "220 Jefferson Pike, TN",
+  "locationCity": "220 Jefferson Pike",
+  "locationState": "TN",
+  "locationZipcode": "37167",
+  "lat": 35.995513007974,
+  "lon": -86.4914450079629,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.268Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fruit-stand-farm-produce-stand-6150-deschutes-rd",
+  "name": "Fruit Stand Farm Produce Stand",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6150 Deschutes Rd, CA",
+  "locationCity": "6150 Deschutes Rd",
+  "locationState": "CA",
+  "locationZipcode": "96007",
+  "lat": 40.46661898049834,
+  "lon": -122.24525598913675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

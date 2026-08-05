@@ -1,0 +1,19 @@
+{
+  "slug": "castle-hill-farm-25-sugar-lane",
+  "name": "Castle Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "25 Sugar Lane, CT",
+  "locationCity": "25 Sugar Lane",
+  "locationState": "CT",
+  "locationZipcode": "06470",
+  "lat": 41.401544618037,
+  "lon": -73.3200295145661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.898Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.898Z"
+}

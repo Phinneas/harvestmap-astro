@@ -1,0 +1,19 @@
+{
+  "slug": "odom-farm-168-cross-trail",
+  "name": "Odom Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "168 Cross Trail, GA",
+  "locationCity": "168 Cross Trail",
+  "locationState": "GA",
+  "locationZipcode": "30188",
+  "lat": 34.1516450159958,
+  "lon": -84.4373609798203,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.382Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.382Z"
+}

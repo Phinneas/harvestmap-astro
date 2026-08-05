@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-denison-farmers-market-701-w-main-street-downtown-denison",
+  "name": "Downtown Denison Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "701 W. Main Street Downtown Denison, TX",
+  "locationCity": "701 W. Main Street Downtown Denison",
+  "locationState": "TX",
+  "locationZipcode": "75020",
+  "lat": 33.75561574670121,
+  "lon": -96.54473243650425,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

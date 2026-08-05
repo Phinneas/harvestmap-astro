@@ -1,0 +1,19 @@
+{
+  "slug": "green-city-market-lincoln-park-1817-n-clark-st",
+  "name": "Green City Market Lincoln Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1817 N. Clark St, IL",
+  "locationCity": "1817 N. Clark St",
+  "locationState": "IL",
+  "locationZipcode": "60614",
+  "lat": 41.915854,
+  "lon": -87.633865,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.950Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.950Z"
+}

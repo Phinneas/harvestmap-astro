@@ -1,0 +1,19 @@
+{
+  "slug": "lavender-hill-farm-425-sw-238th-st",
+  "name": "Lavender Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "425 SW 238th St., WA",
+  "locationCity": "425 SW 238th St.",
+  "locationState": "WA",
+  "locationZipcode": "98070",
+  "lat": 47.3909675479635,
+  "lon": -122.474655355924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.166Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.166Z"
+}

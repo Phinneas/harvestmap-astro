@@ -1,0 +1,19 @@
+{
+  "slug": "armstrong-farm-20-peacock-lane",
+  "name": "Armstrong farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "20 Peacock Lane, NY",
+  "locationCity": "20 Peacock Lane",
+  "locationState": "NY",
+  "locationZipcode": "11560",
+  "lat": 40.89484672569429,
+  "lon": -73.61192373261412,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.825Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "watson-farms-713-colony-road",
+  "name": "Watson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "713 Colony Road, SC",
+  "locationCity": "713 Colony Road",
+  "locationState": "SC",
+  "locationZipcode": "29706",
+  "lat": 34.8105410182898,
+  "lon": -81.2131360272007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.702Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.702Z"
+}

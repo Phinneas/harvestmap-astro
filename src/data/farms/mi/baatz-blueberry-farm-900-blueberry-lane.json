@@ -1,0 +1,19 @@
+{
+  "slug": "baatz-blueberry-farm-900-blueberry-lane",
+  "name": "Baatz Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "900 Blueberry Lane, MI",
+  "locationCity": "900 Blueberry Lane",
+  "locationState": "MI",
+  "locationZipcode": "49640",
+  "lat": 44.6851486553108,
+  "lon": -86.0209078014271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.552Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.552Z"
+}

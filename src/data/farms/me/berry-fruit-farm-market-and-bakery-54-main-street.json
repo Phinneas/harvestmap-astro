@@ -1,0 +1,19 @@
+{
+  "slug": "berry-fruit-farm-market-and-bakery-54-main-street",
+  "name": "Berry Fruit Farm Market and Bakery",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "54 Main Street, ME",
+  "locationCity": "54 Main Street",
+  "locationState": "ME",
+  "locationZipcode": "04254",
+  "lat": 44.474086307209944,
+  "lon": -70.1905427548059,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:00.120Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:00.120Z"
+}

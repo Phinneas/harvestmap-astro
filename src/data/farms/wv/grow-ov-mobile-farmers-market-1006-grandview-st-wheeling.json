@@ -1,0 +1,19 @@
+{
+  "slug": "grow-ov-mobile-farmers-market-1006-grandview-st-wheeling",
+  "name": "Grow OV Mobile Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1006 Grandview st Wheeling, WV",
+  "locationCity": "1006 Grandview st Wheeling",
+  "locationState": "WV",
+  "locationZipcode": "26003",
+  "lat": 40.07043318343467,
+  "lon": -80.71878932875633,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:36.740Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:36.740Z"
+}

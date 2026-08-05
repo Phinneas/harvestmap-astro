@@ -1,0 +1,19 @@
+{
+  "slug": "redbo-farm-1990-sunnyside-mabton-road",
+  "name": "Redbo farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1990 Sunnyside Mabton Road, WA",
+  "locationCity": "1990 Sunnyside Mabton Road",
+  "locationState": "WA",
+  "locationZipcode": "98944",
+  "lat": 46.3053529878638,
+  "lon": -119.998578038066,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.132Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.132Z"
+}

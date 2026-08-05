@@ -1,0 +1,19 @@
+{
+  "slug": "manassas-farmers-market-thursday-9201-center-street-manassas",
+  "name": "Manassas Farmers Market (Thursday)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9201 Center Street Manassas, VA",
+  "locationCity": "9201 Center Street Manassas",
+  "locationState": "VA",
+  "locationZipcode": "20110",
+  "lat": 38.75093785860818,
+  "lon": -77.47349606980472,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

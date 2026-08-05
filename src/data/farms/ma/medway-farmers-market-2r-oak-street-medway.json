@@ -1,0 +1,19 @@
+{
+  "slug": "medway-farmers-market-2r-oak-street-medway",
+  "name": "Medway Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2R Oak Street Medway, MA",
+  "locationCity": "2R Oak Street Medway",
+  "locationState": "MA",
+  "locationZipcode": "02053",
+  "lat": 42.147137214224045,
+  "lon": -71.43021071304852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.865Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.865Z"
+}

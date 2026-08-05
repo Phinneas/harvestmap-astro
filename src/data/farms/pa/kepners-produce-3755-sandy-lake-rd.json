@@ -1,0 +1,20 @@
+{
+  "slug": "kepners-produce-3755-sandy-lake-rd",
+  "name": "Kepners Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3755 Sandy Lake Rd, PA",
+  "locationCity": "3755 Sandy Lake Rd",
+  "locationState": "PA",
+  "locationZipcode": "16145",
+  "lat": 41.37799001828674,
+  "lon": -80.07165098566173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.212Z",
+  "crops": []
+}

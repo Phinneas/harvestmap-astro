@@ -1,0 +1,19 @@
+{
+  "slug": "berryhill-farm-330-e-krepps-rd",
+  "name": "Berryhill Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "330 E. Krepps Rd, OH",
+  "locationCity": "330 E. Krepps Rd",
+  "locationState": "OH",
+  "locationZipcode": "45385",
+  "lat": 39.63047166803409,
+  "lon": -83.92848147262282,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.371Z"
+}

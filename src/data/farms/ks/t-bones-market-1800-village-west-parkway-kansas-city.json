@@ -1,0 +1,19 @@
+{
+  "slug": "t-bones-market-1800-village-west-parkway-kansas-city",
+  "name": "T-Bones Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1800 Village West Parkway Kansas City, KS",
+  "locationCity": "1800 Village West Parkway Kansas City",
+  "locationState": "KS",
+  "locationZipcode": "66111",
+  "lat": 39.12501523986815,
+  "lon": -94.82873269015693,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

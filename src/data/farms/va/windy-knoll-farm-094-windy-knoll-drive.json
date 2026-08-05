@@ -1,0 +1,19 @@
+{
+  "slug": "windy-knoll-farm-094-windy-knoll-drive",
+  "name": "Windy Knoll Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "094 Windy Knoll Drive, VA",
+  "locationCity": "094 Windy Knoll Drive",
+  "locationState": "VA",
+  "locationZipcode": "23116",
+  "lat": 37.6801528261755,
+  "lon": -77.4046327319707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.206Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.206Z"
+}

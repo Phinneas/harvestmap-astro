@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-farm-blueberries-297-ford-chapel-drive",
+  "name": "Harvest Farm Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "297 Ford Chapel Drive, AL",
+  "locationCity": "297 Ford Chapel Drive",
+  "locationState": "AL",
+  "locationZipcode": "35749",
+  "lat": 34.8408990143057,
+  "lon": -86.7317000249083,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.613Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.613Z"
+}

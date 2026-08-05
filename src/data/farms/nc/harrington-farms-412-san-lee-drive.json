@@ -1,0 +1,19 @@
+{
+  "slug": "harrington-farms-412-san-lee-drive",
+  "name": "Harrington Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "412 San Lee Drive, NC",
+  "locationCity": "412 San Lee Drive",
+  "locationState": "NC",
+  "locationZipcode": "27330",
+  "lat": 35.4834087480114,
+  "lon": -79.1559911248512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.676Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.676Z"
+}

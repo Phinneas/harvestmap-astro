@@ -1,0 +1,19 @@
+{
+  "slug": "village-of-devon-farmer-s-market-120-bridgeport-ave-rt-1-milford",
+  "name": "Village of Devon Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 Bridgeport Ave (RT. 1) Milford, CT",
+  "locationCity": "120 Bridgeport Ave (RT. 1) Milford",
+  "locationState": "CT",
+  "locationZipcode": "06460",
+  "lat": 41.2012767915233,
+  "lon": -73.10430234507113,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

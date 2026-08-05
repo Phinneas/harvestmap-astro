@@ -1,0 +1,19 @@
+{
+  "slug": "moundridge-farmers-market-406-w-cole-st",
+  "name": "Moundridge Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "406 W Cole St, KS",
+  "locationCity": "406 W Cole St",
+  "locationState": "KS",
+  "locationZipcode": "67107",
+  "lat": 38.203047016472155,
+  "lon": -97.52382086775542,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

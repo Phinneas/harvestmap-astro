@@ -1,0 +1,20 @@
+{
+  "slug": "dixie-lee-farmers-market-12740-kingston-pike-knoxville",
+  "name": "Dixie Lee Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12740 Kingston Pike Knoxville, TN",
+  "locationCity": "12740 Kingston Pike Knoxville",
+  "locationState": "TN",
+  "locationZipcode": "12740",
+  "lat": 35.86753591456688,
+  "lon": -84.20909954731042,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z",
+  "crops": []
+}

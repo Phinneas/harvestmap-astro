@@ -1,0 +1,19 @@
+{
+  "slug": "desert-queen-498-west-carefree-highway",
+  "name": "Desert Queen",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "498 West Carefree Highway, AZ",
+  "locationCity": "498 West Carefree Highway",
+  "locationState": "AZ",
+  "locationZipcode": "85085",
+  "lat": 33.7991400127295,
+  "lon": -112.078340031243,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.762Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.762Z"
+}

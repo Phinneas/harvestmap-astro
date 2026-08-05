@@ -1,0 +1,19 @@
+{
+  "slug": "country-taste-farm-36463-blackfoot-st-nw",
+  "name": "Country Taste Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "36463 Blackfoot ST NW, MN",
+  "locationCity": "36463 Blackfoot ST NW",
+  "locationState": "MN",
+  "locationZipcode": "36463",
+  "lat": 45.6302164,
+  "lon": -93.3642012,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.172Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.172Z"
+}

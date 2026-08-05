@@ -1,0 +1,19 @@
+{
+  "slug": "silloway-maple-1303-boudro-rd",
+  "name": "Silloway Maple",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1303 Boudro Rd, VT",
+  "locationCity": "1303 Boudro Rd",
+  "locationState": "VT",
+  "locationZipcode": "05061",
+  "lat": 43.93971001447164,
+  "lon": -72.57784699675527,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.250Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.250Z"
+}

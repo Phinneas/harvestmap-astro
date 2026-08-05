@@ -1,0 +1,19 @@
+{
+  "slug": "ritter-apiary-east-trade-street",
+  "name": "Ritter Apiary",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "East Trade Street, NC",
+  "locationCity": "East Trade Street",
+  "locationState": "NC",
+  "locationZipcode": "28202",
+  "lat": 35.22286,
+  "lon": -80.83796,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.847Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.847Z"
+}

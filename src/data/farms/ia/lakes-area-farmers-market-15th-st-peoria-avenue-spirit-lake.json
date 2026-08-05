@@ -1,0 +1,19 @@
+{
+  "slug": "lakes-area-farmers-market-15th-st-peoria-avenue-spirit-lake",
+  "name": "Lakes Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15th St. & Peoria Avenue Spirit Lake, IA",
+  "locationCity": "15th St. & Peoria Avenue Spirit Lake",
+  "locationState": "IA",
+  "locationZipcode": "51360",
+  "lat": 43.42551001041454,
+  "lon": -95.11218003701055,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

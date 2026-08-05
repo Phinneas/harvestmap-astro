@@ -1,0 +1,19 @@
+{
+  "slug": "cornell-farm-8212-sw-barnes-road",
+  "name": "Cornell Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8212 Sw Barnes Road, OR",
+  "locationCity": "8212 Sw Barnes Road",
+  "locationState": "OR",
+  "locationZipcode": "97225",
+  "lat": 45.50936898938818,
+  "lon": -122.7603909944931,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.521Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.521Z"
+}

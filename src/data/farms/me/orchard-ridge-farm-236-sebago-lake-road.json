@@ -1,0 +1,20 @@
+{
+  "slug": "orchard-ridge-farm-236-sebago-lake-road",
+  "name": "Orchard Ridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "236 Sebago Lake Road, ME",
+  "locationCity": "236 Sebago Lake Road",
+  "locationState": "ME",
+  "locationZipcode": "04038",
+  "lat": 43.75026274181448,
+  "lon": -70.46321536901557,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.065Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.065Z",
+  "crops": []
+}

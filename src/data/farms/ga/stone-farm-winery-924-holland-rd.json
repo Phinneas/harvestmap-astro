@@ -1,0 +1,19 @@
+{
+  "slug": "stone-farm-winery-924-holland-rd",
+  "name": "Stone Farm Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "924 Holland Rd, GA",
+  "locationCity": "924 Holland Rd",
+  "locationState": "GA",
+  "locationZipcode": "31030",
+  "lat": 32.4956459843068,
+  "lon": -83.813955003309,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.366Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "market-and-penn-street-farmers-market-380-west-market-street-york",
+  "name": "Market and Penn Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "380 West Market Street York, PA",
+  "locationCity": "380 West Market Street York",
+  "locationState": "PA",
+  "locationZipcode": "17401",
+  "lat": 39.95971114841758,
+  "lon": -76.73657388705126,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

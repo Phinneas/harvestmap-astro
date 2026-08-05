@@ -1,0 +1,20 @@
+{
+  "slug": "wooded-valley-acres-farm-99-hatch-road",
+  "name": "Wooded Valley Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "99 Hatch Road, NH",
+  "locationCity": "99 Hatch Road",
+  "locationState": "NH",
+  "locationZipcode": "03837",
+  "lat": 43.3844150059784,
+  "lon": -71.318978011291,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.497Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.497Z",
+  "crops": []
+}

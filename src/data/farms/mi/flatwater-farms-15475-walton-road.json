@@ -1,0 +1,19 @@
+{
+  "slug": "flatwater-farms-15475-walton-road",
+  "name": "Flatwater Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15475 Walton Road, MI",
+  "locationCity": "15475 Walton Road",
+  "locationState": "MI",
+  "locationZipcode": "15475",
+  "lat": 41.83883598159943,
+  "lon": -86.34094500278167,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.099Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.099Z"
+}

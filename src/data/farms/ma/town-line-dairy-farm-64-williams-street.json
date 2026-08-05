@@ -1,0 +1,19 @@
+{
+  "slug": "town-line-dairy-farm-64-williams-street",
+  "name": "Town Line Dairy Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "64 Williams Street, MA",
+  "locationCity": "64 Williams Street",
+  "locationState": "MA",
+  "locationZipcode": "01568",
+  "lat": 42.1713805,
+  "lon": -71.634137,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.664Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.664Z"
+}

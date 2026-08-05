@@ -1,0 +1,19 @@
+{
+  "slug": "oconee-farmers-market-23-north-main-street",
+  "name": "Oconee Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "23 North Main Street, GA",
+  "locationCity": "23 North Main Street",
+  "locationState": "GA",
+  "locationZipcode": "30677",
+  "lat": 33.86724790841044,
+  "lon": -83.41140729140221,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

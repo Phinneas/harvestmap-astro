@@ -1,0 +1,20 @@
+{
+  "slug": "goughan-farms-872-fort-fairfield-road",
+  "name": "Goughan Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "872 Fort Fairfield Road, ME",
+  "locationCity": "872 Fort Fairfield Road",
+  "locationState": "ME",
+  "locationZipcode": "04736",
+  "lat": 46.8319010021314,
+  "lon": -67.9371050502812,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.819Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.819Z",
+  "crops": []
+}

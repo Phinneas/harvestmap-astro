@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-phoenix-public-market-721-n-central-phoenix",
+  "name": "Downtown Phoenix Public Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "721 N. Central Phoenix, AZ",
+  "locationCity": "721 N. Central Phoenix",
+  "locationState": "AZ",
+  "locationZipcode": "85004",
+  "lat": 33.45584580999547,
+  "lon": -112.07381515293832,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

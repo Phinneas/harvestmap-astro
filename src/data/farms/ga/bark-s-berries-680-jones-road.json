@@ -1,0 +1,19 @@
+{
+  "slug": "bark-s-berries-680-jones-road",
+  "name": "Bark's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "680 Jones Road, GA",
+  "locationCity": "680 Jones Road",
+  "locationState": "GA",
+  "locationZipcode": "31714",
+  "lat": 31.7704469905097,
+  "lon": -83.6986159923014,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.338Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.338Z"
+}

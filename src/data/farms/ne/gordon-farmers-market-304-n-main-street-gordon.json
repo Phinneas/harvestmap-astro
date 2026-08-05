@@ -1,0 +1,19 @@
+{
+  "slug": "gordon-farmers-market-304-n-main-street-gordon",
+  "name": "Gordon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "304 N Main Street Gordon, NE",
+  "locationCity": "304 N Main Street Gordon",
+  "locationState": "NE",
+  "locationZipcode": "69343",
+  "lat": 42.80646455946344,
+  "lon": -102.2032808587587,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

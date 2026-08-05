@@ -1,0 +1,19 @@
+{
+  "slug": "stella-matutina-farm-8780-moeckel-road",
+  "name": "Stella Matutina Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8780 Moeckel Road, MI",
+  "locationCity": "8780 Moeckel Road",
+  "locationState": "MI",
+  "locationZipcode": "49240",
+  "lat": 42.361263410356486,
+  "lon": -84.20502987886081,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.107Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.107Z"
+}

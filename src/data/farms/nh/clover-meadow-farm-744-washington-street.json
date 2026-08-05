@@ -1,0 +1,19 @@
+{
+  "slug": "clover-meadow-farm-744-washington-street",
+  "name": "Clover Meadow Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "744 Washington Street, NH",
+  "locationCity": "744 Washington Street",
+  "locationState": "NH",
+  "locationZipcode": "03743",
+  "lat": 43.364184989297854,
+  "lon": -72.2860789821884,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.623Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.623Z"
+}

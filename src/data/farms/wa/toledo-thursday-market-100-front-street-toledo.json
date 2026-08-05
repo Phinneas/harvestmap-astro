@@ -1,0 +1,19 @@
+{
+  "slug": "toledo-thursday-market-100-front-street-toledo",
+  "name": "Toledo Thursday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Front Street Toledo, WA",
+  "locationCity": "100 Front Street Toledo",
+  "locationState": "WA",
+  "locationZipcode": "98591",
+  "lat": 46.438835507579306,
+  "lon": -122.84536720827617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

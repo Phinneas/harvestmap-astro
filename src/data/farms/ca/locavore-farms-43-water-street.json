@@ -1,0 +1,19 @@
+{
+  "slug": "locavore-farms-43-water-street",
+  "name": "Locavore Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "43 Water Street, CA",
+  "locationCity": "43 Water Street",
+  "locationState": "CA",
+  "locationZipcode": "96112",
+  "lat": 41.8580200000001,
+  "lon": -120.152855,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.812Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.812Z"
+}

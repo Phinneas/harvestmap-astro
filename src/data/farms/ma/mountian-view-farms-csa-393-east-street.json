@@ -1,0 +1,19 @@
+{
+  "slug": "mountian-view-farms-csa-393-east-street",
+  "name": "Mountian View Farms - CSA",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "393 East Street, MA",
+  "locationCity": "393 East Street",
+  "locationState": "MA",
+  "locationZipcode": "01027",
+  "lat": 42.2623313880816,
+  "lon": -72.6504977292616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.736Z"
+}

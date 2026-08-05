@@ -1,0 +1,19 @@
+{
+  "slug": "fern-hill-farm-001-fern-avenue",
+  "name": "Fern Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "001 Fern Avenue, CO",
+  "locationCity": "001 Fern Avenue",
+  "locationState": "CO",
+  "locationZipcode": "80631",
+  "lat": 40.4161867075833,
+  "lon": -104.640095819111,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.282Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.282Z"
+}

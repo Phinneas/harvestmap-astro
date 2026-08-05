@@ -1,0 +1,19 @@
+{
+  "slug": "huber-blueberry-farms-600-w-us-highway-6",
+  "name": "Huber Blueberry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "600 W US Highway 6, IN",
+  "locationCity": "600 W US Highway 6",
+  "locationState": "IN",
+  "locationZipcode": "46382",
+  "lat": 41.5173635970615,
+  "lon": -86.7129242081216,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.268Z"
+}

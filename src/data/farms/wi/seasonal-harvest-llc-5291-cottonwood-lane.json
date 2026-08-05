@@ -1,0 +1,19 @@
+{
+  "slug": "seasonal-harvest-llc-5291-cottonwood-lane",
+  "name": "Seasonal Harvest LLC",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5291 Cottonwood Lane, WI",
+  "locationCity": "5291 Cottonwood Lane",
+  "locationState": "WI",
+  "locationZipcode": "54115",
+  "lat": 44.410323,
+  "lon": -88.042931,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:15.603Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:15.603Z"
+}

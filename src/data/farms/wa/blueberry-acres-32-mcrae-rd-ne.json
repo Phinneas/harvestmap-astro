@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-acres-32-mcrae-rd-ne",
+  "name": "Blueberry Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "32 McRae Rd NE, WA",
+  "locationCity": "32 McRae Rd NE",
+  "locationState": "WA",
+  "locationZipcode": "98223",
+  "lat": 48.1412440064089,
+  "lon": -122.231387962695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.126Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.126Z"
+}

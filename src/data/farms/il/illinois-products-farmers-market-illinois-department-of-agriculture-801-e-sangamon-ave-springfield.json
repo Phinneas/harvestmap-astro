@@ -1,0 +1,19 @@
+{
+  "slug": "illinois-products-farmers-market-illinois-department-of-agriculture-801-e-sangamon-ave-springfield",
+  "name": "Illinois Products Farmers' Market - Illinois Department of Agriculture",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "801 E Sangamon Ave Springfield, IL",
+  "locationCity": "801 E Sangamon Ave Springfield",
+  "locationState": "IL",
+  "locationZipcode": "62703",
+  "lat": 39.83086197061492,
+  "lon": -89.64532148678029,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

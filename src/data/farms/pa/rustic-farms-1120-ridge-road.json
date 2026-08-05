@@ -1,0 +1,19 @@
+{
+  "slug": "rustic-farms-1120-ridge-road",
+  "name": "Rustic Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1120 Ridge Road, PA",
+  "locationCity": "1120 Ridge Road",
+  "locationState": "PA",
+  "locationZipcode": "17846",
+  "lat": 41.1486952,
+  "lon": -76.3168825,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.153Z"
+}

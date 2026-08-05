@@ -1,0 +1,20 @@
+{
+  "slug": "ozark-berry-farm-552-lick-creek",
+  "name": "Ozark Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "552 Lick Creek, MO",
+  "locationCity": "552 Lick Creek",
+  "locationState": "MO",
+  "locationZipcode": "65535",
+  "lat": 38.0903599914584,
+  "lon": -91.3097379595552,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.734Z",
+  "crops": []
+}

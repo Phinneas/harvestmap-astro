@@ -1,0 +1,19 @@
+{
+  "slug": "butler-tree-farm-515-crane-street",
+  "name": "Butler Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "515 Crane Street, MI",
+  "locationCity": "515 Crane Street",
+  "locationState": "MI",
+  "locationZipcode": "49047",
+  "lat": 42.026987004417,
+  "lon": -85.9729795207747,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.622Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.622Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-organic-family-farm-12334-us-hwy-69-s",
+  "name": "The Organic Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "12334 US HWY 69 S, TX",
+  "locationCity": "12334 US HWY 69 S",
+  "locationState": "TX",
+  "locationZipcode": "12334",
+  "lat": 30.606314591414446,
+  "lon": -94.40271136090286,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.916Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.916Z"
+}

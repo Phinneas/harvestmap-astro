@@ -1,0 +1,19 @@
+{
+  "slug": "dolly-gray-orchard-112-dutton-road",
+  "name": "Dolly Gray Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "112 Dutton Road, VT",
+  "locationCity": "112 Dutton Road",
+  "locationState": "VT",
+  "locationZipcode": "05843",
+  "lat": 44.4822965188402,
+  "lon": -72.3244795915577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.110Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.110Z"
+}

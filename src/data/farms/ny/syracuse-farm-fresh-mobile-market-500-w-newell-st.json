@@ -1,0 +1,19 @@
+{
+  "slug": "syracuse-farm-fresh-mobile-market-500-w-newell-st",
+  "name": "Syracuse Farm Fresh Mobile Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 W Newell St, NY",
+  "locationCity": "500 W Newell St",
+  "locationState": "NY",
+  "locationZipcode": "13205",
+  "lat": 43.01683859826109,
+  "lon": -76.15356437075786,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

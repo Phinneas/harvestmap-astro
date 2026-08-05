@@ -1,0 +1,19 @@
+{
+  "slug": "rebecca-farms-po-box-11",
+  "name": "Rebecca Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "PO Box 11, SC",
+  "locationCity": "PO Box 11",
+  "locationState": "SC",
+  "locationZipcode": "29554",
+  "lat": 33.7194975,
+  "lon": -79.3917959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.222Z"
+}

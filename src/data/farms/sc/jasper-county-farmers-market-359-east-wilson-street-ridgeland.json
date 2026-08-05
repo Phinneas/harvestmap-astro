@@ -1,0 +1,19 @@
+{
+  "slug": "jasper-county-farmers-market-359-east-wilson-street-ridgeland",
+  "name": "Jasper County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "359 East Wilson Street Ridgeland, SC",
+  "locationCity": "359 East Wilson Street Ridgeland",
+  "locationState": "SC",
+  "locationZipcode": "29936",
+  "lat": 32.48095786415416,
+  "lon": -80.97626465538094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

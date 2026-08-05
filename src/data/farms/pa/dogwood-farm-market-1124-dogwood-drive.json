@@ -1,0 +1,19 @@
+{
+  "slug": "dogwood-farm-market-1124-dogwood-drive",
+  "name": "Dogwood Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1124 Dogwood Drive, PA",
+  "locationCity": "1124 Dogwood Drive",
+  "locationState": "PA",
+  "locationZipcode": "17569",
+  "lat": 40.255987998217336,
+  "lon": -76.10442396071946,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

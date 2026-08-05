@@ -1,0 +1,20 @@
+{
+  "slug": "blue-house-farm-950-la-honda-rd",
+  "name": "Blue House Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "950 La Honda Rd, CA",
+  "locationCity": "950 La Honda Rd",
+  "locationState": "CA",
+  "locationZipcode": "94074",
+  "lat": 37.3277870134114,
+  "lon": -122.381590997047,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.726Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.726Z",
+  "crops": []
+}

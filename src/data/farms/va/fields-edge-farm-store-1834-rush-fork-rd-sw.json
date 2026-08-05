@@ -1,0 +1,19 @@
+{
+  "slug": "fields-edge-farm-store-1834-rush-fork-rd-sw",
+  "name": "Fields Edge Farm Store",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1834 Rush Fork Rd SW, VA",
+  "locationCity": "1834 Rush Fork Rd SW",
+  "locationState": "VA",
+  "locationZipcode": "24091",
+  "lat": 36.83495,
+  "lon": -80.411973,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.273Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.273Z"
+}

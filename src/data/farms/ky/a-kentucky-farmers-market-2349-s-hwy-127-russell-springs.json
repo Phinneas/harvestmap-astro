@@ -1,0 +1,19 @@
+{
+  "slug": "a-kentucky-farmers-market-2349-s-hwy-127-russell-springs",
+  "name": "A Kentucky Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2349 S. Hwy 127 Russell Springs, KY",
+  "locationCity": "2349 S. Hwy 127 Russell Springs",
+  "locationState": "KY",
+  "locationZipcode": "42642",
+  "lat": 37.03262898001476,
+  "lon": -85.07915802536493,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

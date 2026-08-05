@@ -1,0 +1,19 @@
+{
+  "slug": "l-t-organic-farm-32513-ute-ave",
+  "name": "L.T. Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "32513 ute ave, IA",
+  "locationCity": "32513 ute ave",
+  "locationState": "IA",
+  "locationZipcode": "32513",
+  "lat": 41.5691115,
+  "lon": -93.8818178,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.417Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.417Z"
+}

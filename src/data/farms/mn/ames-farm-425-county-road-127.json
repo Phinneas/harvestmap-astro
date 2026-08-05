@@ -1,0 +1,19 @@
+{
+  "slug": "ames-farm-425-county-road-127",
+  "name": "Ames Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "425 County Road 127, MN",
+  "locationCity": "425 County Road 127",
+  "locationState": "MN",
+  "locationZipcode": "55328",
+  "lat": 44.9605750571137,
+  "lon": -93.7777609532194,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.667Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.667Z"
+}

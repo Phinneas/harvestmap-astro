@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-barn-2721-us-hwy-34",
+  "name": "Harvest Barn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2721 US Hwy. 34, IA",
+  "locationCity": "2721 US Hwy. 34",
+  "locationState": "IA",
+  "locationZipcode": "50213",
+  "lat": 41.0312810172473,
+  "lon": -93.6869730212199,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.710Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.710Z"
+}

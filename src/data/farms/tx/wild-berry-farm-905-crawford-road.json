@@ -1,0 +1,20 @@
+{
+  "slug": "wild-berry-farm-905-crawford-road",
+  "name": "Wild Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "905 Crawford Road, TX",
+  "locationCity": "905 Crawford Road",
+  "locationState": "TX",
+  "locationZipcode": "76264",
+  "lat": 33.7281139864252,
+  "lon": -96.855266036864,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.357Z",
+  "crops": []
+}

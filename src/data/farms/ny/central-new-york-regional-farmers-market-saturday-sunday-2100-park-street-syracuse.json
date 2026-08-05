@@ -1,0 +1,19 @@
+{
+  "slug": "central-new-york-regional-farmers-market-saturday-sunday-2100-park-street-syracuse",
+  "name": "Central New York Regional Farmers Market (Saturday & Sunday)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2100 Park Street Syracuse, NY",
+  "locationCity": "2100 Park Street Syracuse",
+  "locationState": "NY",
+  "locationZipcode": "13208",
+  "lat": 43.072755778308235,
+  "lon": -76.16845262568619,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

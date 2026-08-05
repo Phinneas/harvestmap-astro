@@ -1,0 +1,19 @@
+{
+  "slug": "st-cloud-area-farmers-market-198-7th-ave-s",
+  "name": "St. Cloud Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "198 7th Ave S, MN",
+  "locationCity": "198 7th Ave S",
+  "locationState": "MN",
+  "locationZipcode": "56301",
+  "lat": 45.5583135,
+  "lon": -94.158696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

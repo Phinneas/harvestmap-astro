@@ -1,0 +1,19 @@
+{
+  "slug": "irvada-s-blueberry-lane-459-point-rock-rd",
+  "name": "Irvada's Blueberry Lane",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "459 Point Rock Rd, NY",
+  "locationCity": "459 Point Rock Rd",
+  "locationState": "NY",
+  "locationZipcode": "13471",
+  "lat": 43.3465401152391,
+  "lon": -75.5542287877894,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.918Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.918Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "creekside-farm-988-route-96",
+  "name": "Creekside Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "988 Route 96, NY",
+  "locationCity": "988 Route 96",
+  "locationState": "NY",
+  "locationZipcode": "14532",
+  "lat": 42.9500929885311,
+  "lon": -77.0250212946092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.434Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.434Z",
+  "crops": []
+}

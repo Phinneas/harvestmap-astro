@@ -1,0 +1,19 @@
+{
+  "slug": "sitka-farmers-market-611-lincoln-street",
+  "name": "Sitka Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "611 Lincoln Street, AK",
+  "locationCity": "611 Lincoln Street",
+  "locationState": "AK",
+  "locationZipcode": "99835",
+  "lat": 57.051519,
+  "lon": -135.32674,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.489Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.489Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sanibel-island-farmers-market-800-dunlop-road-sanibel",
+  "name": "Sanibel Island Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "800 Dunlop Road Sanibel, FL",
+  "locationCity": "800 Dunlop Road Sanibel",
+  "locationState": "FL",
+  "locationZipcode": "33957",
+  "lat": 26.439618643273192,
+  "lon": -82.07428977403764,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

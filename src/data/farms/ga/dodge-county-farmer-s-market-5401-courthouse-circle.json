@@ -1,0 +1,20 @@
+{
+  "slug": "dodge-county-farmer-s-market-5401-courthouse-circle",
+  "name": "Dodge County Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5401 Courthouse Circle, GA",
+  "locationCity": "5401 Courthouse Circle",
+  "locationState": "GA",
+  "locationZipcode": "31023",
+  "lat": 32.20079,
+  "lon": -83.176305,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.681Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dundee-farmers-market-43-water-st-dundee",
+  "name": "Dundee Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "43 Water St. Dundee, NY",
+  "locationCity": "43 Water St. Dundee",
+  "locationState": "NY",
+  "locationZipcode": "14837",
+  "lat": 42.52485508851522,
+  "lon": -76.97687831776022,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

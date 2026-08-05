@@ -1,0 +1,19 @@
+{
+  "slug": "studebaker-farmers-market-10687-fm-1425-raymondville",
+  "name": "Studebaker Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10687 Fm 1425 Raymondville, TX",
+  "locationCity": "10687 Fm 1425 Raymondville",
+  "locationState": "TX",
+  "locationZipcode": "10687",
+  "lat": 26.44652769863038,
+  "lon": -97.86255754132289,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

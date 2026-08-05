@@ -1,0 +1,19 @@
+{
+  "slug": "ishman-s-blueberries-812-route-210-highway",
+  "name": "Ishman's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "812 Route 210 Highway, PA",
+  "locationCity": "812 Route 210 Highway",
+  "locationState": "PA",
+  "locationZipcode": "15767",
+  "lat": 40.9060289808111,
+  "lon": -79.0235690116061,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.203Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.203Z"
+}

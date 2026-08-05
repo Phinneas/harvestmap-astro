@@ -1,0 +1,19 @@
+{
+  "slug": "jr-s-farm-115-hwy-64-e",
+  "name": "JR's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "115 Hwy. 64 E., SC",
+  "locationCity": "115 Hwy. 64 E.",
+  "locationState": "SC",
+  "locationZipcode": "29812",
+  "lat": 33.2403933188357,
+  "lon": -81.3900506674539,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.927Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.927Z"
+}

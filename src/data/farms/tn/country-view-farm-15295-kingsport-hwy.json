@@ -1,0 +1,19 @@
+{
+  "slug": "country-view-farm-15295-kingsport-hwy",
+  "name": "Country View Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15295 Kingsport Hwy, TN",
+  "locationCity": "15295 Kingsport Hwy",
+  "locationState": "TN",
+  "locationZipcode": "15295",
+  "lat": 36.3546659920154,
+  "lon": -82.6758069650623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.235Z"
+}

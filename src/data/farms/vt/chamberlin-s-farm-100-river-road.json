@@ -1,0 +1,19 @@
+{
+  "slug": "chamberlin-s-farm-100-river-road",
+  "name": "Chamberlin's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 River Road, VT",
+  "locationCity": "100 River Road",
+  "locationState": "VT",
+  "locationZipcode": "05489",
+  "lat": 44.52032867817715,
+  "lon": -72.93105447045599,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.240Z"
+}

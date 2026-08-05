@@ -1,0 +1,19 @@
+{
+  "slug": "glen-arbor-farmers-market-6394-western-ave",
+  "name": "Glen Arbor Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6394 Western Ave., MI",
+  "locationCity": "6394 Western Ave.",
+  "locationState": "MI",
+  "locationZipcode": "49636",
+  "lat": 44.897978,
+  "lon": -85.986905,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.180Z"
+}

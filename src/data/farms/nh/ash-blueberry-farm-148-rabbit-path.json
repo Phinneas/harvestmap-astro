@@ -1,0 +1,19 @@
+{
+  "slug": "ash-blueberry-farm-148-rabbit-path",
+  "name": "Ash Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "148 Rabbit Path, NH",
+  "locationCity": "148 Rabbit Path",
+  "locationState": "NH",
+  "locationZipcode": "03740",
+  "lat": 44.1685570097382,
+  "lon": -71.9462180379528,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.827Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dave-s-pumpkin-patch-106-east-lumsden",
+  "name": "Dave's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "106 East Lumsden, FL",
+  "locationCity": "106 East Lumsden",
+  "locationState": "FL",
+  "locationZipcode": "33511",
+  "lat": 27.9239650107566,
+  "lon": -82.2847839734912,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.793Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.793Z"
+}

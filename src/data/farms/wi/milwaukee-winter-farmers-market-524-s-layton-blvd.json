@@ -1,0 +1,19 @@
+{
+  "slug": "milwaukee-winter-farmers-market-524-s-layton-blvd",
+  "name": "Milwaukee Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "524 S Layton Blvd, WI",
+  "locationCity": "524 S Layton Blvd",
+  "locationState": "WI",
+  "locationZipcode": "53215",
+  "lat": 43.025865,
+  "lon": -87.944924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.752Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.752Z"
+}

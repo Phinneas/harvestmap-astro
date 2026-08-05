@@ -1,0 +1,19 @@
+{
+  "slug": "wadena-farmers-market-jefferson-st-418-jefferson-st-n",
+  "name": "Wadena Farmers' Market - Jefferson St",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "418 Jefferson St N, MN",
+  "locationCity": "418 Jefferson St N",
+  "locationState": "MN",
+  "locationZipcode": "56482",
+  "lat": 46.4456862,
+  "lon": -95.1330838,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

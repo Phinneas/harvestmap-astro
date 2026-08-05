@@ -1,0 +1,19 @@
+{
+  "slug": "yonkers-down-to-earth-market-41-dock-st",
+  "name": "Yonkers Down to Earth Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "41 Dock St, NY",
+  "locationCity": "41 Dock St",
+  "locationState": "NY",
+  "locationZipcode": "10701",
+  "lat": 40.93551879143914,
+  "lon": -73.90020758788842,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

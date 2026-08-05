@@ -1,0 +1,19 @@
+{
+  "slug": "iowa-food-cooperative-4944-franklin-avenue",
+  "name": "Iowa Food Cooperative",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "4944 Franklin Avenue, IA",
+  "locationCity": "4944 Franklin Avenue",
+  "locationState": "IA",
+  "locationZipcode": "50310",
+  "lat": 41.610739,
+  "lon": -93.686808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:37.775Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:37.775Z"
+}

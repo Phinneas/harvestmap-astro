@@ -1,0 +1,19 @@
+{
+  "slug": "allenholm-farm-111-south-st",
+  "name": "Allenholm Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "111 South St, VT",
+  "locationCity": "111 South St",
+  "locationState": "VT",
+  "locationZipcode": "05486",
+  "lat": 44.6315039809009,
+  "lon": -73.3022219656511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.857Z"
+}

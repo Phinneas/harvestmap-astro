@@ -1,0 +1,19 @@
+{
+  "slug": "deposit-farmers-market-107-second-st-deposit",
+  "name": "Deposit Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "107 Second St Deposit, NY",
+  "locationCity": "107 Second St Deposit",
+  "locationState": "NY",
+  "locationZipcode": "13754",
+  "lat": 42.061998885442605,
+  "lon": -75.42488965375007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

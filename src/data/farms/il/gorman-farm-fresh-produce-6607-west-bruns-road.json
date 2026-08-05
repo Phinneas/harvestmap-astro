@@ -1,0 +1,19 @@
+{
+  "slug": "gorman-farm-fresh-produce-6607-west-bruns-road",
+  "name": "Gorman Farm Fresh Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6607 West Bruns Road, IL",
+  "locationCity": "6607 West Bruns Road",
+  "locationState": "IL",
+  "locationZipcode": "60449",
+  "lat": 41.412203,
+  "lon": -87.771681,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.655Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.655Z"
+}

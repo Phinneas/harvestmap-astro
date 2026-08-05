@@ -1,0 +1,19 @@
+{
+  "slug": "donoma-farms-10018-wcr-110",
+  "name": "Donoma Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10018 WCR 110, CO",
+  "locationCity": "10018 WCR 110",
+  "locationState": "CO",
+  "locationZipcode": "10018",
+  "lat": 40.893219,
+  "lon": -104.8783379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.574Z"
+}

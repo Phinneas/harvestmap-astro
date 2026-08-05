@@ -1,0 +1,19 @@
+{
+  "slug": "re-rustica-high-oaks-lane",
+  "name": "Re Rustica",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "High Oaks Lane, CA",
+  "locationCity": "High Oaks Lane",
+  "locationState": "CA",
+  "locationZipcode": "93675",
+  "lat": 36.6990225803878,
+  "lon": -119.10744140156,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.794Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.794Z"
+}

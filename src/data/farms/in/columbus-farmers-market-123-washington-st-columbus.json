@@ -1,0 +1,19 @@
+{
+  "slug": "columbus-farmers-market-123-washington-st-columbus",
+  "name": "Columbus Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "123 Washington St. Columbus, IN",
+  "locationCity": "123 Washington St. Columbus",
+  "locationState": "IN",
+  "locationZipcode": "47201",
+  "lat": 39.19989761077758,
+  "lon": -85.92090106197313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "westgate-farms-fruit-market-10951-e-lake-road",
+  "name": "Westgate Farms Fruit Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "10951 E. Lake Road, PA",
+  "locationCity": "10951 E. Lake Road",
+  "locationState": "PA",
+  "locationZipcode": "10951",
+  "lat": 42.233385994207765,
+  "lon": -79.84149096526275,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.449Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.449Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "east-falls-farmers-market-4100-ridge-ave-philadelphia",
+  "name": "East Falls Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4100 Ridge Ave. Philadelphia, PA",
+  "locationCity": "4100 Ridge Ave. Philadelphia",
+  "locationState": "PA",
+  "locationZipcode": "19129",
+  "lat": 40.00811979795799,
+  "lon": -75.19228001794266,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fishs-farm-market-4494-mt-payne-road",
+  "name": "Fishs Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4494 Mt. Payne Road, NY",
+  "locationCity": "4494 Mt. Payne Road",
+  "locationState": "NY",
+  "locationZipcode": "14548",
+  "lat": 42.99832903919665,
+  "lon": -77.25306454918024,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.827Z"
+}

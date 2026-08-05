@@ -1,0 +1,19 @@
+{
+  "slug": "gallaghers-farm-market-7237-e-traverse-hwy",
+  "name": "Gallaghers Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7237 E Traverse Hwy, MI",
+  "locationCity": "7237 E Traverse Hwy",
+  "locationState": "MI",
+  "locationZipcode": "49684",
+  "lat": 44.775821997214024,
+  "lon": -85.71006697868465,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.232Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.232Z"
+}

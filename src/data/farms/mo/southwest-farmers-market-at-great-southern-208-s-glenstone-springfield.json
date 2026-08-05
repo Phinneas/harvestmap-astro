@@ -1,0 +1,19 @@
+{
+  "slug": "southwest-farmers-market-at-great-southern-208-s-glenstone-springfield",
+  "name": "Southwest Farmers' Market at Great Southern",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "208 S. Glenstone Springfield, MO",
+  "locationCity": "208 S. Glenstone Springfield",
+  "locationState": "MO",
+  "locationZipcode": "65802",
+  "lat": 37.20868812488342,
+  "lon": -93.26184803190444,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

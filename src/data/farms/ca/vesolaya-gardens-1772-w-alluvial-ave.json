@@ -1,0 +1,19 @@
+{
+  "slug": "vesolaya-gardens-1772-w-alluvial-ave",
+  "name": "Vesolaya Gardens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1772 W Alluvial Ave, CA",
+  "locationCity": "1772 W Alluvial Ave",
+  "locationState": "CA",
+  "locationZipcode": "93711",
+  "lat": 36.84804715069386,
+  "lon": -119.82585618264315,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.077Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.077Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "circle-l-farms-circle-l-farm-drive",
+  "name": "Circle L Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Circle L Farm Drive, NC",
+  "locationCity": "Circle L Farm Drive",
+  "locationState": "NC",
+  "locationZipcode": "28792",
+  "lat": 35.37490086602046,
+  "lon": -82.34221132340525,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.461Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mccalls-pumpkin-patch-abrahames-road",
+  "name": "McCalls Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Abrahames Road, NM",
+  "locationCity": "Abrahames Road",
+  "locationState": "NM",
+  "locationZipcode": "87035",
+  "lat": 35.0051403135592,
+  "lon": -105.947247694441,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:54.564Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:54.564Z"
+}

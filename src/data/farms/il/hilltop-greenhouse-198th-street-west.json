@@ -1,0 +1,19 @@
+{
+  "slug": "hilltop-greenhouse-198th-street-west",
+  "name": "Hilltop Greenhouse",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "198th Street West, IL",
+  "locationCity": "198th Street West",
+  "locationState": "IL",
+  "locationZipcode": "61259",
+  "lat": 41.3908200000001,
+  "lon": -90.83878,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.900Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.900Z"
+}

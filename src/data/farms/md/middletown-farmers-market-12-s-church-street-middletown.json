@@ -1,0 +1,19 @@
+{
+  "slug": "middletown-farmers-market-12-s-church-street-middletown",
+  "name": "Middletown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12 S. Church Street Middletown, MD",
+  "locationCity": "12 S. Church Street Middletown",
+  "locationState": "MD",
+  "locationZipcode": "21769",
+  "lat": 39.443652397036416,
+  "lon": -77.54535215057902,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

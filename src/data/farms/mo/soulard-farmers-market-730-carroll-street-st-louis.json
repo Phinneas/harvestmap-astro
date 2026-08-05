@@ -1,0 +1,19 @@
+{
+  "slug": "soulard-farmers-market-730-carroll-street-st-louis",
+  "name": "Soulard Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "730 Carroll Street St. Louis, MO",
+  "locationCity": "730 Carroll Street St. Louis",
+  "locationState": "MO",
+  "locationZipcode": "63104",
+  "lat": 38.61106415091785,
+  "lon": -90.2010012973506,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "meriden-farmers-market-46-pratt-st-meriden",
+  "name": "Meriden Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "46 Pratt St. Meriden, CT",
+  "locationCity": "46 Pratt St. Meriden",
+  "locationState": "CT",
+  "locationZipcode": "06450",
+  "lat": 41.53840274355134,
+  "lon": -72.79872282283424,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "frith-farm-61-ash-swamp-road",
+  "name": "Frith Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "61 Ash Swamp Road, ME",
+  "locationCity": "61 Ash Swamp Road",
+  "locationState": "ME",
+  "locationZipcode": "04074",
+  "lat": 43.5775268,
+  "lon": -70.4255104,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.553Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.553Z"
+}

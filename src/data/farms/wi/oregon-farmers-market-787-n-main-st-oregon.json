@@ -1,0 +1,19 @@
+{
+  "slug": "oregon-farmers-market-787-n-main-st-oregon",
+  "name": "Oregon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "787 N. Main St. Oregon, WI",
+  "locationCity": "787 N. Main St. Oregon",
+  "locationState": "WI",
+  "locationZipcode": "53575",
+  "lat": 42.937634654362874,
+  "lon": -89.3833934685597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hamilton-park-farmers-market-hamilton-park",
+  "name": "Hamilton Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hamilton Park, NJ",
+  "locationCity": "Hamilton Park",
+  "locationState": "NJ",
+  "locationZipcode": "07302",
+  "lat": 40.72781,
+  "lon": -74.044847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:21.855Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:21.855Z"
+}

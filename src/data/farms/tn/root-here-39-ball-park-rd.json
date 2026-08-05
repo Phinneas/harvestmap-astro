@@ -1,0 +1,19 @@
+{
+  "slug": "root-here-39-ball-park-rd",
+  "name": "Root Here",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "39 Ball Park Rd, TN",
+  "locationCity": "39 Ball Park Rd",
+  "locationState": "TN",
+  "locationZipcode": "37375",
+  "lat": 35.1939932,
+  "lon": -85.917217,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:33.550Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:33.550Z"
+}

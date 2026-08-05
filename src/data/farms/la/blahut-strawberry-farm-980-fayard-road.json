@@ -1,0 +1,19 @@
+{
+  "slug": "blahut-strawberry-farm-980-fayard-road",
+  "name": "Blahut Strawberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "980 Fayard Road, LA",
+  "locationCity": "980 Fayard Road",
+  "locationState": "LA",
+  "locationZipcode": "70462",
+  "lat": 30.4274726992324,
+  "lon": -90.5815360905473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.137Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.137Z"
+}

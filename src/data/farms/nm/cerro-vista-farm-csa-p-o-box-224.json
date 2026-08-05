@@ -1,0 +1,19 @@
+{
+  "slug": "cerro-vista-farm-csa-p-o-box-224",
+  "name": "Cerro Vista Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "P.O. Box 224, NM",
+  "locationCity": "P.O. Box 224",
+  "locationState": "NM",
+  "locationZipcode": "87519",
+  "lat": 36.7756976,
+  "lon": -105.652983,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:56.544Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:56.544Z"
+}

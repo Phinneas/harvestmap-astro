@@ -1,0 +1,19 @@
+{
+  "slug": "merrie-lane-honey-112-merrie-lane",
+  "name": "Merrie Lane Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "112 Merrie Lane, OH",
+  "locationCity": "112 Merrie Lane",
+  "locationState": "OH",
+  "locationZipcode": "45358",
+  "lat": 39.9847219930891,
+  "lon": -84.4901770281094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.897Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.897Z"
+}

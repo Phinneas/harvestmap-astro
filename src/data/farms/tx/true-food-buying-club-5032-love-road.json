@@ -1,0 +1,19 @@
+{
+  "slug": "true-food-buying-club-5032-love-road",
+  "name": "True Food Buying Club",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5032 Love Road, TX",
+  "locationCity": "5032 Love Road",
+  "locationState": "TX",
+  "locationZipcode": "79922",
+  "lat": 31.8418719,
+  "lon": -106.586422,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.850Z"
+}

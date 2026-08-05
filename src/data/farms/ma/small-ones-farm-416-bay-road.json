@@ -1,0 +1,19 @@
+{
+  "slug": "small-ones-farm-416-bay-road",
+  "name": "Small Ones Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "416 Bay Road, MA",
+  "locationCity": "416 Bay Road",
+  "locationState": "MA",
+  "locationZipcode": "01002",
+  "lat": 42.320205034837215,
+  "lon": -72.50741185271526,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.707Z"
+}

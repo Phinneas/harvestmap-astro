@@ -2,20 +2,19 @@
   "slug": "hunter-s-honey-farm-6501-w-honey-ln",
   "name": "Hunter's Honey Farm",
   "source": "usda",
-  "directory": "agritourism",
-  "location": "6501 W. Honey Ln, IN",
-  "locationCity": "6501 W. Honey Ln",
+  "directory": "onfarmmarket",
+  "location": "6501 W Honey Ln, IN",
+  "locationCity": "6501 W Honey Ln",
   "locationState": "IN",
   "locationZipcode": "46151",
-  "lat": 39.4751060099691,
-  "lon": -86.5517379653415,
+  "lat": 39.487286,
+  "lon": -86.552612,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:27:02.806Z"
+      "lastSeen": "2026-08-05T18:40:12.590Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:27:02.806Z",
-  "website": "https://bhumifarms.co/farms/hunter-s-honey-farm-martinsville-in",
+  "usdaLastUpdated": "2026-08-05T18:40:12.590Z",
   "tagline": "Hunter's Honey Farm — Apples in Martinsville, IN"
 }

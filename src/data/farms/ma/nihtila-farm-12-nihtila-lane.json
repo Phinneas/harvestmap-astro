@@ -1,0 +1,19 @@
+{
+  "slug": "nihtila-farm-12-nihtila-lane",
+  "name": "Nihtila Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12 Nihtila Lane, MA",
+  "locationCity": "12 Nihtila Lane",
+  "locationState": "MA",
+  "locationZipcode": "02343",
+  "lat": 42.1572677102672,
+  "lon": -70.9988028886722,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.536Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "lowrey-s-farm-market-2416-turkey-mountain-road",
+  "name": "Lowrey's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2416 Turkey Mountain Road, GA",
+  "locationCity": "2416 Turkey Mountain Road",
+  "locationState": "GA",
+  "locationZipcode": "30161",
+  "lat": 34.37297398893767,
+  "lon": -85.10152303851281,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:57.884Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:57.884Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "eric-s-egg-emporium-889-s-pricetown-road",
+  "name": "Eric's Egg Emporium",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "889 S Pricetown Road, OH",
+  "locationCity": "889 S Pricetown Road",
+  "locationState": "OH",
+  "locationZipcode": "44401",
+  "lat": 41.0916504867391,
+  "lon": -80.9485581766756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.764Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.764Z"
+}

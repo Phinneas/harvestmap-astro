@@ -1,0 +1,19 @@
+{
+  "slug": "windy-hill-farm-10445-route-28-north",
+  "name": "Windy Hill Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "10445 Route 28 North, PA",
+  "locationCity": "10445 Route 28 North",
+  "locationState": "PA",
+  "locationZipcode": "10445",
+  "lat": 41.23238,
+  "lon": -78.902435,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.349Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.349Z"
+}

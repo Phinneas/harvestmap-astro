@@ -1,0 +1,19 @@
+{
+  "slug": "maize-maze-1701-montano-road-nw",
+  "name": "Maize Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1701 Montano Road NW, NM",
+  "locationCity": "1701 Montano Road NW",
+  "locationState": "NM",
+  "locationZipcode": "87107",
+  "lat": 35.1414394061645,
+  "lon": -106.658484652528,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:54.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:54.496Z"
+}

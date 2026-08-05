@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-of-madison-in-412-west-main-street",
+  "name": "Farmers Market of Madison, IN",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "412 West Main Street, IN",
+  "locationCity": "412 West Main Street",
+  "locationState": "IN",
+  "locationZipcode": "47250",
+  "lat": 38.737406,
+  "lon": -85.382985,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.613Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.613Z"
+}

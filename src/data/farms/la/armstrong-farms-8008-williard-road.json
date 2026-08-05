@@ -1,0 +1,19 @@
+{
+  "slug": "armstrong-farms-8008-williard-road",
+  "name": "Armstrong Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8008 Williard Road, LA",
+  "locationCity": "8008 Williard Road",
+  "locationState": "LA",
+  "locationZipcode": "71220",
+  "lat": 32.72595700469145,
+  "lon": -91.88409102702704,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

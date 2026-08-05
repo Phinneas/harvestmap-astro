@@ -1,0 +1,19 @@
+{
+  "slug": "sunnyvale-farmers-market-4013-s-700-w-salt-lake-city",
+  "name": "Sunnyvale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4013 S 700 W Salt Lake City, UT",
+  "locationCity": "4013 S 700 W Salt Lake City",
+  "locationState": "UT",
+  "locationZipcode": "84123",
+  "lat": 40.68287966907942,
+  "lon": -111.91140953696609,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:23.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:23.640Z"
+}

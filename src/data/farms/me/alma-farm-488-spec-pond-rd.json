@@ -1,0 +1,19 @@
+{
+  "slug": "alma-farm-488-spec-pond-rd",
+  "name": "Alma Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "488 Spec Pond Rd, ME",
+  "locationCity": "488 Spec Pond Rd",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 43.8369115,
+  "lon": -70.910635,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.553Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.553Z"
+}

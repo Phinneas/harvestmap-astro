@@ -1,0 +1,19 @@
+{
+  "slug": "thermal-riverside-county-82805-60th-avenue-1",
+  "name": "Thermal, Riverside County",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "82805 60th Avenue #1, CA",
+  "locationCity": "82805 60th Avenue #1",
+  "locationState": "CA",
+  "locationZipcode": "82805",
+  "lat": 33.61244699154629,
+  "lon": -116.21958802278135,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

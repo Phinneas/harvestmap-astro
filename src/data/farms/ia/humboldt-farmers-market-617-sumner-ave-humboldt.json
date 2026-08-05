@@ -1,0 +1,19 @@
+{
+  "slug": "humboldt-farmers-market-617-sumner-ave-humboldt",
+  "name": "Humboldt Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "617 Sumner Ave. Humboldt, IA",
+  "locationCity": "617 Sumner Ave. Humboldt",
+  "locationState": "IA",
+  "locationZipcode": "50548",
+  "lat": 42.72110959605785,
+  "lon": -94.21639933280711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

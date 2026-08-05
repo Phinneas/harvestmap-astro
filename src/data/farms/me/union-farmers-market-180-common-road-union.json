@@ -1,0 +1,19 @@
+{
+  "slug": "union-farmers-market-180-common-road-union",
+  "name": "Union Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "180 Common Road Union, ME",
+  "locationCity": "180 Common Road Union",
+  "locationState": "ME",
+  "locationZipcode": "04862",
+  "lat": 44.21356584623578,
+  "lon": -69.27892375212043,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:57.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:57.069Z"
+}

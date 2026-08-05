@@ -1,0 +1,19 @@
+{
+  "slug": "city-roots-1005-airport-blvd",
+  "name": "City Roots",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1005 Airport Blvd., SC",
+  "locationCity": "1005 Airport Blvd.",
+  "locationState": "SC",
+  "locationZipcode": "29205",
+  "lat": 33.9771969,
+  "lon": -81.0030131,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:52.951Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:52.951Z"
+}

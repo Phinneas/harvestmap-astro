@@ -1,0 +1,19 @@
+{
+  "slug": "paul-bunyan-farmers-market-winter-1401-paul-bunyan-dr-nw",
+  "name": "Paul Bunyan Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1401 Paul Bunyan Dr NW, MN",
+  "locationCity": "1401 Paul Bunyan Dr NW",
+  "locationState": "MN",
+  "locationZipcode": "56601",
+  "lat": 47.4947844,
+  "lon": -94.8996812,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

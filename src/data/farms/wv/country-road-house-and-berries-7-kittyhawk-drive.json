@@ -1,0 +1,20 @@
+{
+  "slug": "country-road-house-and-berries-7-kittyhawk-drive",
+  "name": "Country Road House and Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7 Kittyhawk Drive, WV",
+  "locationCity": "7 Kittyhawk Drive",
+  "locationState": "WV",
+  "locationZipcode": "25045",
+  "lat": 38.5327010175831,
+  "lon": -81.3683820335979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.760Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.760Z",
+  "crops": []
+}

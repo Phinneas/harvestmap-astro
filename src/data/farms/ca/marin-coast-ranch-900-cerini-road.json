@@ -1,0 +1,19 @@
+{
+  "slug": "marin-coast-ranch-900-cerini-road",
+  "name": "Marin Coast Ranch",
+  "source": "usda",
+  "directory": "csa",
+  "location": "900 Cerini Road, CA",
+  "locationCity": "900 Cerini Road",
+  "locationState": "CA",
+  "locationZipcode": "94971",
+  "lat": 38.22703480172299,
+  "lon": -122.8778115673353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.071Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.071Z"
+}

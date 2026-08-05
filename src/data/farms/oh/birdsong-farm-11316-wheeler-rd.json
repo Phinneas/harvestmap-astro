@@ -1,0 +1,19 @@
+{
+  "slug": "birdsong-farm-11316-wheeler-rd",
+  "name": "Birdsong Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "11316 Wheeler Rd., OH",
+  "locationCity": "11316 Wheeler Rd.",
+  "locationState": "OH",
+  "locationZipcode": "11316",
+  "lat": 41.30028340560398,
+  "lon": -81.10669985465086,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.479Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.479Z"
+}

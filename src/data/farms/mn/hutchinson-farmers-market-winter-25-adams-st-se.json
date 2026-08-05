@@ -1,0 +1,19 @@
+{
+  "slug": "hutchinson-farmers-market-winter-25-adams-st-se",
+  "name": "Hutchinson Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25 Adams St SE, MN",
+  "locationCity": "25 Adams St SE",
+  "locationState": "MN",
+  "locationZipcode": "55350",
+  "lat": 44.8919401,
+  "lon": -94.3643616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

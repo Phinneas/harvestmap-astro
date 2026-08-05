@@ -1,0 +1,19 @@
+{
+  "slug": "rusty-s-u-pick-635-s-hollister-road",
+  "name": "Rusty's U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "635 S. Hollister Road, MI",
+  "locationCity": "635 S. Hollister Road",
+  "locationState": "MI",
+  "locationZipcode": "48866",
+  "lat": 42.9630955226759,
+  "lon": -84.385650125725,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.714Z"
+}

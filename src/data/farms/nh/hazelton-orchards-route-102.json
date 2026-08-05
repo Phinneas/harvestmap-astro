@@ -1,0 +1,19 @@
+{
+  "slug": "hazelton-orchards-route-102",
+  "name": "Hazelton Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 102, NH",
+  "locationCity": "Route 102",
+  "locationState": "NH",
+  "locationZipcode": "03036",
+  "lat": 42.9435979796483,
+  "lon": -71.2806414771581,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.554Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.554Z"
+}

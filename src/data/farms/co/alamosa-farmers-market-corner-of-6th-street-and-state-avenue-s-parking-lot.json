@@ -1,0 +1,19 @@
+{
+  "slug": "alamosa-farmers-market-corner-of-6th-street-and-state-avenue-s-parking-lot",
+  "name": "Alamosa Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of 6th Street and State Avenue's Parking Lot, CO",
+  "locationCity": "Corner of 6th Street and State Avenue's Parking Lot",
+  "locationState": "CO",
+  "locationZipcode": "81101",
+  "lat": 37.467321,
+  "lon": -105.865,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.326Z"
+}

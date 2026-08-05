@@ -1,0 +1,19 @@
+{
+  "slug": "coleman-nursery-and-farmer-s-market-3000-ironbound-road-williamsburg",
+  "name": "Coleman Nursery and Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3000 Ironbound Road Williamsburg, VA",
+  "locationCity": "3000 Ironbound Road Williamsburg",
+  "locationState": "VA",
+  "locationZipcode": "23185",
+  "lat": 37.24635877884774,
+  "lon": -76.76206553347836,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

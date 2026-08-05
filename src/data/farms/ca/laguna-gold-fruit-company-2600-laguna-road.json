@@ -1,0 +1,19 @@
+{
+  "slug": "laguna-gold-fruit-company-2600-laguna-road",
+  "name": "Laguna Gold Fruit Company",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2600 Laguna Road, CA",
+  "locationCity": "2600 Laguna Road",
+  "locationState": "CA",
+  "locationZipcode": "95401",
+  "lat": 38.47916399989239,
+  "lon": -122.8479360336661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.848Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.848Z"
+}

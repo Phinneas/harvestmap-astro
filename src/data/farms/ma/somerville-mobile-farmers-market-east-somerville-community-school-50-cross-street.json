@@ -1,0 +1,19 @@
+{
+  "slug": "somerville-mobile-farmers-market-east-somerville-community-school-50-cross-street",
+  "name": "Somerville Mobile Farmers' Market - East Somerville Community School",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50 Cross Street, MA",
+  "locationCity": "50 Cross Street",
+  "locationState": "MA",
+  "locationZipcode": "02145",
+  "lat": 42.385778,
+  "lon": -71.087099,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.752Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.752Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "hemingway-farms-1815-claremont-rd",
+  "name": "Hemingway Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1815 Claremont Rd, NH",
+  "locationCity": "1815 Claremont Rd",
+  "locationState": "NH",
+  "locationZipcode": "03603",
+  "lat": 43.2837001,
+  "lon": -72.3972642,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.554Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.554Z",
+  "crops": []
+}

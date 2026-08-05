@@ -1,0 +1,19 @@
+{
+  "slug": "brooklawn-farm-market-2325-lititz-pike",
+  "name": "Brooklawn Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2325 Lititz Pike, PA",
+  "locationCity": "2325 Lititz Pike",
+  "locationState": "PA",
+  "locationZipcode": "17601",
+  "lat": 40.08921000179333,
+  "lon": -76.30441399119069,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

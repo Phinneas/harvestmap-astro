@@ -1,0 +1,19 @@
+{
+  "slug": "manning-farmers-market-21-east-boyce-street-manning",
+  "name": "Manning Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "21 East Boyce Street Manning, SC",
+  "locationCity": "21 East Boyce Street Manning",
+  "locationState": "SC",
+  "locationZipcode": "29102",
+  "lat": 33.6950715617632,
+  "lon": -80.2088454533955,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

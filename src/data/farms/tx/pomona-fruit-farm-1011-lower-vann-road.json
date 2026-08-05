@@ -1,0 +1,19 @@
+{
+  "slug": "pomona-fruit-farm-1011-lower-vann-road",
+  "name": "Pomona Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1011 Lower Vann Road, TX",
+  "locationCity": "1011 Lower Vann Road",
+  "locationState": "TX",
+  "locationZipcode": "77331",
+  "lat": 30.494117788269236,
+  "lon": -95.15692531837007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.352Z"
+}

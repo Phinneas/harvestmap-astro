@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-s-garden-po-box-250",
+  "name": "Farmer's Garden",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "PO Box 250, NC",
+  "locationCity": "PO Box 250",
+  "locationState": "NC",
+  "locationZipcode": "27871",
+  "lat": 35.8228,
+  "lon": -77.25217,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.839Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.839Z"
+}

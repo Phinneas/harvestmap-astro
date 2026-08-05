@@ -1,0 +1,19 @@
+{
+  "slug": "abenaki-springs-farm-188-upper-walpole-rd",
+  "name": "Abenaki Springs Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "188 Upper Walpole Rd, NH",
+  "locationCity": "188 Upper Walpole Rd",
+  "locationState": "NH",
+  "locationZipcode": "03608",
+  "lat": 43.114288813953436,
+  "lon": -72.42372014207007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.624Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.624Z"
+}

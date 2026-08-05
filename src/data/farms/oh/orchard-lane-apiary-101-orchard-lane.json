@@ -1,0 +1,19 @@
+{
+  "slug": "orchard-lane-apiary-101-orchard-lane",
+  "name": "Orchard Lane Apiary",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Orchard Lane, OH",
+  "locationCity": "101 Orchard Lane",
+  "locationState": "OH",
+  "locationZipcode": "43214",
+  "lat": 40.0334430206723,
+  "lon": -83.0193029730671,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.884Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.884Z"
+}

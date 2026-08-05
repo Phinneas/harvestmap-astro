@@ -1,0 +1,19 @@
+{
+  "slug": "norman-farm-market-210-james-garner-avenue",
+  "name": "Norman Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 James Garner Avenue, OK",
+  "locationCity": "210 James Garner Avenue",
+  "locationState": "OK",
+  "locationZipcode": "73069",
+  "lat": 35.2195801,
+  "lon": -97.4433552,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:29.376Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:29.376Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farm-to-fork-farmers-market-at-normandy-farms-7802-marsh-road",
+  "name": "Farm to Fork Farmers Market at Normandy Farms",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7802 Marsh Road, IN",
+  "locationCity": "7802 Marsh Road",
+  "locationState": "IN",
+  "locationZipcode": "46278",
+  "lat": 39.894467,
+  "lon": -86.274997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.607Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.607Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sheldon-farmers-market-416-9th-st-sheldon",
+  "name": "Sheldon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "416 9th St. Sheldon, IA",
+  "locationCity": "416 9th St. Sheldon",
+  "locationState": "IA",
+  "locationZipcode": "51201",
+  "lat": 43.180494261875985,
+  "lon": -95.85326145051265,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

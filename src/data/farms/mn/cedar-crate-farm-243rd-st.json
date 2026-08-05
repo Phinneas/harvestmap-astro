@@ -1,0 +1,19 @@
+{
+  "slug": "cedar-crate-farm-243rd-st",
+  "name": "Cedar Crate Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "243rd St, MN",
+  "locationCity": "243rd St",
+  "locationState": "MN",
+  "locationZipcode": "56050",
+  "lat": 44.2397434,
+  "lon": -93.9142007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.177Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.177Z"
+}

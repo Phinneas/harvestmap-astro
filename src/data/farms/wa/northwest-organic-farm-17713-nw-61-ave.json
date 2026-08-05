@@ -1,0 +1,19 @@
+{
+  "slug": "northwest-organic-farm-17713-nw-61-ave",
+  "name": "Northwest Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "17713 NW 61 Ave, WA",
+  "locationCity": "17713 NW 61 Ave",
+  "locationState": "WA",
+  "locationZipcode": "17713",
+  "lat": 45.7485415,
+  "lon": -122.7322552,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.582Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.582Z"
+}

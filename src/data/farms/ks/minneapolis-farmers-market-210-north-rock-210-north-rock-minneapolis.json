@@ -1,0 +1,19 @@
+{
+  "slug": "minneapolis-farmers-market-210-north-rock-210-north-rock-minneapolis",
+  "name": "Minneapolis Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 North Rock 210 North Rock Minneapolis, KS",
+  "locationCity": "210 North Rock 210 North Rock Minneapolis",
+  "locationState": "KS",
+  "locationZipcode": "67467",
+  "lat": 39.122527272974544,
+  "lon": -97.70592896395863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

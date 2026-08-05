@@ -1,0 +1,19 @@
+{
+  "slug": "kelrae-farm-food-hub-126-camp-rd",
+  "name": "KelRae Farm Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "126 Camp Rd, VA",
+  "locationCity": "126 Camp Rd",
+  "locationState": "VA",
+  "locationZipcode": "23168",
+  "lat": 37.40492600361115,
+  "lon": -76.85565002116172,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:05.058Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:05.058Z"
+}

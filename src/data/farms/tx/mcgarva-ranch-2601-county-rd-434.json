@@ -1,0 +1,19 @@
+{
+  "slug": "mcgarva-ranch-2601-county-rd-434",
+  "name": "McGarva Ranch",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2601 County Rd 434, TX",
+  "locationCity": "2601 County Rd 434",
+  "locationState": "TX",
+  "locationZipcode": "76525",
+  "lat": 31.516140048166804,
+  "lon": -98.08459484860515,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.887Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.887Z"
+}

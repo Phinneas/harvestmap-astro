@@ -1,0 +1,19 @@
+{
+  "slug": "pinedale-farmers-market-s-tyler-ave-and-e-pine-st-pinedale",
+  "name": "Pinedale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S Tyler Ave and E Pine St. Pinedale, WY",
+  "locationCity": "S Tyler Ave and E Pine St. Pinedale",
+  "locationState": "WY",
+  "locationZipcode": "82925",
+  "lat": 42.86660998727504,
+  "lon": -109.86129001242169,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "flowery-branch-farmers-market-5410-w-pine-street-flowery-branch",
+  "name": "Flowery Branch Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5410 W Pine Street Flowery Branch, GA",
+  "locationCity": "5410 W Pine Street Flowery Branch",
+  "locationState": "GA",
+  "locationZipcode": "30542",
+  "lat": 34.18655635705545,
+  "lon": -83.92672268845332,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

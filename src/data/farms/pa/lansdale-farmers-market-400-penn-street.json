@@ -1,0 +1,19 @@
+{
+  "slug": "lansdale-farmers-market-400-penn-street",
+  "name": "Lansdale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Penn Street, PA",
+  "locationCity": "400 Penn Street",
+  "locationState": "PA",
+  "locationZipcode": "19446",
+  "lat": 40.234201,
+  "lon": -75.277496,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:18.995Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:18.995Z"
+}

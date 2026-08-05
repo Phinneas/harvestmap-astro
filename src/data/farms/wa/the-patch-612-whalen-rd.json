@@ -1,0 +1,19 @@
+{
+  "slug": "the-patch-612-whalen-rd",
+  "name": "The Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "612 Whalen Rd, WA",
+  "locationCity": "612 Whalen Rd",
+  "locationState": "WA",
+  "locationZipcode": "98674",
+  "lat": 45.8874910165963,
+  "lon": -122.761483994667,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.243Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rodoni-farms-4444-coast-rd",
+  "name": "Rodoni Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4444 Coast Rd, CA",
+  "locationCity": "4444 Coast Rd",
+  "locationState": "CA",
+  "locationZipcode": "95060",
+  "lat": 37.002225299653,
+  "lon": -122.181781406024,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.788Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.788Z"
+}

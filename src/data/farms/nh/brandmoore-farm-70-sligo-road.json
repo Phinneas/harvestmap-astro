@@ -1,0 +1,19 @@
+{
+  "slug": "brandmoore-farm-70-sligo-road",
+  "name": "Brandmoore Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "70 Sligo Road, NH",
+  "locationCity": "70 Sligo Road",
+  "locationState": "NH",
+  "locationZipcode": "03869",
+  "lat": 43.22327400707792,
+  "lon": -70.81210496407566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.801Z"
+}

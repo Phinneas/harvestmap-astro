@@ -1,0 +1,19 @@
+{
+  "slug": "goin-s-blueberry-lane-3340-south-750-west",
+  "name": "Goin's Blueberry Lane",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3340 South 750 West, IN",
+  "locationCity": "3340 South 750 West",
+  "locationState": "IN",
+  "locationZipcode": "46366",
+  "lat": 41.25297099875891,
+  "lon": -86.8405419713075,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.599Z"
+}

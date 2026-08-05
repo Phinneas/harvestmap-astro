@@ -1,0 +1,19 @@
+{
+  "slug": "sugar-mountian-farm-252-riddle-pond-raod",
+  "name": "Sugar Mountian Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "252 Riddle Pond Raod, VT",
+  "locationCity": "252 Riddle Pond Raod",
+  "locationState": "VT",
+  "locationZipcode": "05086",
+  "lat": 44.1416256,
+  "lon": -72.3481711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.091Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "uptown-farmers-market-phoenix-az-85012",
+  "name": "Uptown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Phoenix AZ 85012, AZ",
+  "locationCity": "Phoenix AZ 85012",
+  "locationState": "AZ",
+  "locationZipcode": "85012",
+  "lat": 33.486290000000054,
+  "lon": -112.06941999999998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.031Z"
+}

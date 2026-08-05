@@ -1,0 +1,19 @@
+{
+  "slug": "wiregrass-farmers-market-1392-whiddon-mill-road-tifton",
+  "name": "Wiregrass Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1392 Whiddon Mill Road Tifton, GA",
+  "locationCity": "1392 Whiddon Mill Road Tifton",
+  "locationState": "GA",
+  "locationZipcode": "31793",
+  "lat": 31.464200026145082,
+  "lon": -83.53385746394841,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

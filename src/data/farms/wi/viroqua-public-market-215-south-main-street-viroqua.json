@@ -1,0 +1,19 @@
+{
+  "slug": "viroqua-public-market-215-south-main-street-viroqua",
+  "name": "Viroqua Public Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 South Main Street Viroqua, WI",
+  "locationCity": "215 South Main Street Viroqua",
+  "locationState": "WI",
+  "locationZipcode": "54665",
+  "lat": 43.555073108563604,
+  "lon": -90.88932137583062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.859Z"
+}

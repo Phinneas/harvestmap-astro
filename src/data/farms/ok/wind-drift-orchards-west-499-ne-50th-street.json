@@ -1,0 +1,19 @@
+{
+  "slug": "wind-drift-orchards-west-499-ne-50th-street",
+  "name": "Wind Drift Orchards West",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "499 NE 50th Street, OK",
+  "locationCity": "499 NE 50th Street",
+  "locationState": "OK",
+  "locationZipcode": "73045",
+  "lat": 35.521359236399,
+  "lon": -97.0570490213463,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.312Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.312Z"
+}

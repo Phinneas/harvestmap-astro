@@ -1,0 +1,19 @@
+{
+  "slug": "berry-hill-farm-136-highway-40",
+  "name": "Berry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "136 Highway 40, LA",
+  "locationCity": "136 Highway 40",
+  "locationState": "LA",
+  "locationZipcode": "70446",
+  "lat": 30.6066125742738,
+  "lon": -90.3887932885695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.184Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.184Z"
+}

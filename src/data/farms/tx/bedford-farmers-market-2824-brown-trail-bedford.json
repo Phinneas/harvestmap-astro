@@ -1,0 +1,19 @@
+{
+  "slug": "bedford-farmers-market-2824-brown-trail-bedford",
+  "name": "Bedford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2824 Brown Trail Bedford, TX",
+  "locationCity": "2824 Brown Trail Bedford",
+  "locationState": "TX",
+  "locationZipcode": "76021",
+  "lat": 32.85194341951646,
+  "lon": -97.1600553613894,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

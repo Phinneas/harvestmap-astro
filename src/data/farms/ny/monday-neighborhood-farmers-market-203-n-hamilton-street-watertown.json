@@ -1,0 +1,19 @@
+{
+  "slug": "monday-neighborhood-farmers-market-203-n-hamilton-street-watertown",
+  "name": "Monday Neighborhood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "203 N. Hamilton Street Watertown, NY",
+  "locationCity": "203 N. Hamilton Street Watertown",
+  "locationState": "NY",
+  "locationZipcode": "13601",
+  "lat": 43.97325961617334,
+  "lon": -75.89409766533075,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

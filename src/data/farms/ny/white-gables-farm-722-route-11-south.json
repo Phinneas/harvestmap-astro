@@ -1,0 +1,19 @@
+{
+  "slug": "white-gables-farm-722-route-11-south",
+  "name": "White Gables Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "722 Route 11 South, NY",
+  "locationCity": "722 Route 11 South",
+  "locationState": "NY",
+  "locationZipcode": "13803",
+  "lat": 42.5909817173802,
+  "lon": -76.134843446562,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.420Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.420Z"
+}

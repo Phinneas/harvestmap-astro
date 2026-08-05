@@ -1,0 +1,19 @@
+{
+  "slug": "plantation-community-farmers-market-12050-w-sunrise-blvd-plantation",
+  "name": "Plantation Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12050 W. Sunrise Blvd. Plantation, FL",
+  "locationCity": "12050 W. Sunrise Blvd. Plantation",
+  "locationState": "FL",
+  "locationZipcode": "12050",
+  "lat": 26.14569992098985,
+  "lon": -80.31398086018802,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

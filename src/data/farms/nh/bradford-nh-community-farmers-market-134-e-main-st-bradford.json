@@ -1,0 +1,19 @@
+{
+  "slug": "bradford-nh-community-farmers-market-134-e-main-st-bradford",
+  "name": "Bradford NH Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "134 E Main St Bradford, NH",
+  "locationCity": "134 E Main St Bradford",
+  "locationState": "NH",
+  "locationZipcode": "03221",
+  "lat": 43.26877032986252,
+  "lon": -71.95617981681535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.153Z"
+}

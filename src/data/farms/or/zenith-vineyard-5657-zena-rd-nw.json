@@ -1,0 +1,19 @@
+{
+  "slug": "zenith-vineyard-5657-zena-rd-nw",
+  "name": "Zenith Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5657 Zena Rd NW, OR",
+  "locationCity": "5657 Zena Rd NW",
+  "locationState": "OR",
+  "locationZipcode": "97304",
+  "lat": 45.02451901558067,
+  "lon": -123.1421580180256,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.061Z"
+}

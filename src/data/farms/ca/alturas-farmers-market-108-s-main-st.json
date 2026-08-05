@@ -1,0 +1,19 @@
+{
+  "slug": "alturas-farmers-market-108-s-main-st",
+  "name": "Alturas Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "108 S Main St, CA",
+  "locationCity": "108 S Main St",
+  "locationState": "CA",
+  "locationZipcode": "96101",
+  "lat": 41.483907,
+  "lon": -120.5422,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

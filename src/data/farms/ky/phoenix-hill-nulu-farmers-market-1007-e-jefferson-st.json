@@ -1,0 +1,19 @@
+{
+  "slug": "phoenix-hill-nulu-farmers-market-1007-e-jefferson-st",
+  "name": "Phoenix Hill NuLu Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1007 E. Jefferson St, KY",
+  "locationCity": "1007 E. Jefferson St",
+  "locationState": "KY",
+  "locationZipcode": "40206",
+  "lat": 38.251583,
+  "lon": -85.733398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.728Z"
+}

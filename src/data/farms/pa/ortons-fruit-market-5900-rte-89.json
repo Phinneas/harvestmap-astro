@@ -1,0 +1,19 @@
+{
+  "slug": "ortons-fruit-market-5900-rte-89",
+  "name": "Ortons Fruit Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5900 Rte 89, PA",
+  "locationCity": "5900 Rte 89",
+  "locationState": "PA",
+  "locationZipcode": "16428",
+  "lat": 42.189012995077775,
+  "lon": -79.83296103767722,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

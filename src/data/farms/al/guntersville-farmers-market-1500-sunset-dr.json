@@ -1,0 +1,19 @@
+{
+  "slug": "guntersville-farmers-market-1500-sunset-dr",
+  "name": "Guntersville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1500 SUNSET DR, AL",
+  "locationCity": "1500 SUNSET DR",
+  "locationState": "AL",
+  "locationZipcode": "35976",
+  "lat": 34.337786670466876,
+  "lon": -86.32632238967659,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

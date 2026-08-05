@@ -1,0 +1,19 @@
+{
+  "slug": "fruit-hill-orchard-2745-thomas-jefferson-pkwy",
+  "name": "Fruit Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2745 Thomas Jefferson Pkwy, VA",
+  "locationCity": "2745 Thomas Jefferson Pkwy",
+  "locationState": "VA",
+  "locationZipcode": "22963",
+  "lat": 37.8687159846857,
+  "lon": -78.3135400052711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.269Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.269Z"
+}

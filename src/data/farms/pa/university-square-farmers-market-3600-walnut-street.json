@@ -1,0 +1,19 @@
+{
+  "slug": "university-square-farmers-market-3600-walnut-street",
+  "name": "University Square Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3600 Walnut Street, PA",
+  "locationCity": "3600 Walnut Street",
+  "locationState": "PA",
+  "locationZipcode": "19104",
+  "lat": 39.953276,
+  "lon": -75.194883,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.008Z"
+}

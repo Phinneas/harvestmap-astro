@@ -1,0 +1,19 @@
+{
+  "slug": "clarkston-farmers-market-beachview-park",
+  "name": "Clarkston Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Beachview Park, WA",
+  "locationCity": "Beachview Park",
+  "locationState": "WA",
+  "locationZipcode": "99403",
+  "lat": 46.410563,
+  "lon": -117.03992,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.727Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.727Z"
+}

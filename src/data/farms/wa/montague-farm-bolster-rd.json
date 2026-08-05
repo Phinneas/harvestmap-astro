@@ -1,0 +1,19 @@
+{
+  "slug": "montague-farm-bolster-rd",
+  "name": "Montague Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bolster Rd, WA",
+  "locationCity": "Bolster Rd",
+  "locationState": "WA",
+  "locationZipcode": "98844",
+  "lat": 48.9640481018152,
+  "lon": -119.040006511792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.290Z"
+}

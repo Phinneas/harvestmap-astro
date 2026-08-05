@@ -1,0 +1,19 @@
+{
+  "slug": "cherry-hill-farm-409-highland-road",
+  "name": "Cherry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "409 Highland Road, VT",
+  "locationCity": "409 Highland Road",
+  "locationState": "VT",
+  "locationZipcode": "05156",
+  "lat": 43.3138320051664,
+  "lon": -72.4674920330138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.121Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.121Z"
+}

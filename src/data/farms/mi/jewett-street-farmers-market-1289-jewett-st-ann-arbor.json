@@ -1,0 +1,19 @@
+{
+  "slug": "jewett-street-farmers-market-1289-jewett-st-ann-arbor",
+  "name": "Jewett Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1289 Jewett St Ann Arbor, MI",
+  "locationCity": "1289 Jewett St Ann Arbor",
+  "locationState": "MI",
+  "locationZipcode": "48104",
+  "lat": 42.25379294449432,
+  "lon": -83.73150164648888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wakefield-farmers-market-8100-braddock-road-wakefield-park-annandale",
+  "name": "Wakefield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8100 Braddock Road (Wakefield Park) Annandale, VA",
+  "locationCity": "8100 Braddock Road (Wakefield Park) Annandale",
+  "locationState": "VA",
+  "locationZipcode": "22003",
+  "lat": 38.81129177376971,
+  "lon": -77.22468687079518,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

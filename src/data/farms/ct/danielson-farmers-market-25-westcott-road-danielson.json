@@ -1,0 +1,19 @@
+{
+  "slug": "danielson-farmers-market-25-westcott-road-danielson",
+  "name": "Danielson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25 Westcott Road Danielson, CT",
+  "locationCity": "25 Westcott Road Danielson",
+  "locationState": "CT",
+  "locationZipcode": "06239",
+  "lat": 41.80932945123494,
+  "lon": -71.87760275390609,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

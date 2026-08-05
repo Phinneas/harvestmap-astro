@@ -1,0 +1,19 @@
+{
+  "slug": "derry-farmers-market-14-manning-street-derry",
+  "name": "Derry Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14 Manning Street Derry, NH",
+  "locationCity": "14 Manning Street Derry",
+  "locationState": "NH",
+  "locationZipcode": "03038",
+  "lat": 42.88344240754907,
+  "lon": -71.32885374544965,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.153Z"
+}

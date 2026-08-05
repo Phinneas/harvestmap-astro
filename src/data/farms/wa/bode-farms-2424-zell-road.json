@@ -1,0 +1,20 @@
+{
+  "slug": "bode-farms-2424-zell-road",
+  "name": "Bode Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2424 Zell Road, WA",
+  "locationCity": "2424 Zell Road",
+  "locationState": "WA",
+  "locationZipcode": "98248",
+  "lat": 48.9140810020799,
+  "lon": -122.61237999546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.084Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.084Z",
+  "crops": []
+}

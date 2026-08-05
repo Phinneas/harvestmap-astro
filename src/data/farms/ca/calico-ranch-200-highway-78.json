@@ -1,0 +1,19 @@
+{
+  "slug": "calico-ranch-200-highway-78",
+  "name": "Calico Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 Highway 78, CA",
+  "locationCity": "200 Highway 78",
+  "locationState": "CA",
+  "locationZipcode": "92036",
+  "lat": 33.080493159915,
+  "lon": -116.571241827349,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.807Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.807Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jones-family-farms-winery-120-beardsley-road",
+  "name": "Jones Family Farms Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "120 Beardsley Road, CT",
+  "locationCity": "120 Beardsley Road",
+  "locationState": "CT",
+  "locationZipcode": "06484",
+  "lat": 41.3415080989868,
+  "lon": -73.1582566568932,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.000Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.000Z"
+}

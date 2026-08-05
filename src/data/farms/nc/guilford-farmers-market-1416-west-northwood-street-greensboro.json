@@ -1,0 +1,19 @@
+{
+  "slug": "guilford-farmers-market-1416-west-northwood-street-greensboro",
+  "name": "Guilford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1416 West Northwood Street Greensboro, NC",
+  "locationCity": "1416 West Northwood Street Greensboro",
+  "locationState": "NC",
+  "locationZipcode": "27401",
+  "lat": 36.09079876086699,
+  "lon": -79.80940181795374,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

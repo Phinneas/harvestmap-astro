@@ -1,0 +1,19 @@
+{
+  "slug": "hall-apiaries-374-route-12a",
+  "name": "Hall Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "374 Route 12A, NH",
+  "locationCity": "374 Route 12A",
+  "locationState": "NH",
+  "locationZipcode": "03781",
+  "lat": 43.5816489828665,
+  "lon": -72.3498540336033,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.746Z"
+}

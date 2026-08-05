@@ -1,0 +1,19 @@
+{
+  "slug": "acushnet-farmers-market-186-leonard-street",
+  "name": "Acushnet Farmers Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "186 leonard street, MA",
+  "locationCity": "186 leonard street",
+  "locationState": "MA",
+  "locationZipcode": "02743",
+  "lat": 41.7201499,
+  "lon": -70.900827,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.658Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.658Z"
+}

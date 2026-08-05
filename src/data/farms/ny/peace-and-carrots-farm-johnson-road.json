@@ -1,0 +1,19 @@
+{
+  "slug": "peace-and-carrots-farm-johnson-road",
+  "name": "Peace and Carrots Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Johnson Road, NY",
+  "locationCity": "Johnson Road",
+  "locationState": "NY",
+  "locationZipcode": "10918",
+  "lat": 41.3800074,
+  "lon": -74.2562284,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

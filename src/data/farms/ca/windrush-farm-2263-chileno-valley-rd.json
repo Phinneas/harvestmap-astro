@@ -1,0 +1,19 @@
+{
+  "slug": "windrush-farm-2263-chileno-valley-rd",
+  "name": "Windrush Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2263 Chileno Valley Rd, CA",
+  "locationCity": "2263 Chileno Valley Rd",
+  "locationState": "CA",
+  "locationZipcode": "94952",
+  "lat": 38.19603898478488,
+  "lon": -122.7053440188548,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.844Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.844Z"
+}

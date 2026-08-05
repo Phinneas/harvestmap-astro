@@ -1,0 +1,19 @@
+{
+  "slug": "wyoming-farmers-market-1025-springfield-pike-wyoming",
+  "name": "Wyoming Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1025 Springfield Pike Wyoming, OH",
+  "locationCity": "1025 Springfield Pike Wyoming",
+  "locationState": "OH",
+  "locationZipcode": "45215",
+  "lat": 39.23381241172754,
+  "lon": -84.47204858084798,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.935Z"
+}

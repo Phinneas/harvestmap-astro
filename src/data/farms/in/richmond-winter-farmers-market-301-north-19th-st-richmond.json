@@ -1,0 +1,19 @@
+{
+  "slug": "richmond-winter-farmers-market-301-north-19th-st-richmond",
+  "name": "Richmond Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 North 19th St. Richmond, IN",
+  "locationCity": "301 North 19th St. Richmond",
+  "locationState": "IN",
+  "locationZipcode": "47374",
+  "lat": 39.83283724298449,
+  "lon": -84.87643683372511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

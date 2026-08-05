@@ -1,0 +1,19 @@
+{
+  "slug": "sanford-state-farmers-market-1300-1a-south-french-avenue-sanford",
+  "name": "Sanford State Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1300-1A South French Avenue Sanford, FL",
+  "locationCity": "1300-1A South French Avenue Sanford",
+  "locationState": "FL",
+  "locationZipcode": "32771",
+  "lat": 28.80066299733115,
+  "lon": -81.27308631970081,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

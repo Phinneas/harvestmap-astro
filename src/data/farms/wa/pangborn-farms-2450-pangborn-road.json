@@ -1,0 +1,19 @@
+{
+  "slug": "pangborn-farms-2450-pangborn-road",
+  "name": "Pangborn Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2450 Pangborn Road, WA",
+  "locationCity": "2450 Pangborn Road",
+  "locationState": "WA",
+  "locationZipcode": "98264",
+  "lat": 48.98396101267261,
+  "lon": -122.35439297852777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.541Z"
+}

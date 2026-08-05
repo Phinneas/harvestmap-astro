@@ -1,0 +1,19 @@
+{
+  "slug": "river-run-farm-2800-woodcock-road",
+  "name": "River Run Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2800 Woodcock Road, WA",
+  "locationCity": "2800 Woodcock Road",
+  "locationState": "WA",
+  "locationZipcode": "98382",
+  "lat": 48.11433000867922,
+  "lon": -123.15572102701091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.619Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.619Z"
+}

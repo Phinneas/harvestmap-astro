@@ -1,0 +1,19 @@
+{
+  "slug": "allen-s-apiary-980-harvest-dr",
+  "name": "Allen's Apiary",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "980 Harvest Dr, MD",
+  "locationCity": "980 Harvest Dr",
+  "locationState": "MD",
+  "locationZipcode": "21702",
+  "lat": 39.5064129017891,
+  "lon": -77.4338447353483,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.121Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.121Z"
+}

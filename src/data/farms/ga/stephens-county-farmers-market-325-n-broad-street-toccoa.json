@@ -1,0 +1,19 @@
+{
+  "slug": "stephens-county-farmers-market-325-n-broad-street-toccoa",
+  "name": "Stephens County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "325 N. Broad Street Toccoa, GA",
+  "locationCity": "325 N. Broad Street Toccoa",
+  "locationState": "GA",
+  "locationZipcode": "30577",
+  "lat": 34.57220528569604,
+  "lon": -83.33279735575007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tre-g-farms-183-us-route-20",
+  "name": "Tre-G Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "183 US Route 20, NY",
+  "locationCity": "183 US Route 20",
+  "locationState": "NY",
+  "locationZipcode": "13104",
+  "lat": 42.9234253972924,
+  "lon": -75.9456650984295,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.082Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.082Z"
+}

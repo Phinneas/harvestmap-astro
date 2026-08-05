@@ -1,0 +1,19 @@
+{
+  "slug": "waquoit-spring-farmers-market-15-parsons-lane-east-falmouth",
+  "name": "Waquoit Spring Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 Parsons Lane East Falmouth, MA",
+  "locationCity": "15 Parsons Lane East Falmouth",
+  "locationState": "MA",
+  "locationZipcode": "02536",
+  "lat": 41.58572084771215,
+  "lon": -70.52437956275804,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.868Z"
+}

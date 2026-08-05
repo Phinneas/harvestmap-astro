@@ -1,0 +1,19 @@
+{
+  "slug": "seaside-farmers-market-2217-e-county-hwy-30a-santa-rosa-beach",
+  "name": "Seaside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2217 E County Hwy 30A Santa Rosa Beach, FL",
+  "locationCity": "2217 E County Hwy 30A Santa Rosa Beach",
+  "locationState": "FL",
+  "locationZipcode": "32459",
+  "lat": 30.319891529865686,
+  "lon": -86.13813089484331,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

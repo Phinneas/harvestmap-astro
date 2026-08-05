@@ -1,0 +1,19 @@
+{
+  "slug": "birch-creek-ranch-mastadon",
+  "name": "Birch Creek Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mastadon, AK",
+  "locationCity": "Mastadon",
+  "locationState": "AK",
+  "locationZipcode": "99676",
+  "lat": 62.266026498467,
+  "lon": -149.956499103832,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:58.104Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:58.104Z"
+}

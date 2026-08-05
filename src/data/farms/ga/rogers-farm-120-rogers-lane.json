@@ -1,0 +1,19 @@
+{
+  "slug": "rogers-farm-120-rogers-lane",
+  "name": "Rogers Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "120 Rogers Lane, GA",
+  "locationCity": "120 Rogers Lane",
+  "locationState": "GA",
+  "locationZipcode": "30728",
+  "lat": 34.7317075030956,
+  "lon": -85.1866272618482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.360Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.360Z"
+}

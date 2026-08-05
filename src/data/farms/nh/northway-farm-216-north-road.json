@@ -1,0 +1,19 @@
+{
+  "slug": "northway-farm-216-north-road",
+  "name": "Northway Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "216 North Road, NH",
+  "locationCity": "216 North Road",
+  "locationState": "NH",
+  "locationZipcode": "03034",
+  "lat": 43.0714450092388,
+  "lon": -71.303385995004,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.836Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.836Z"
+}

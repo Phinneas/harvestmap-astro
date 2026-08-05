@@ -1,0 +1,19 @@
+{
+  "slug": "jklm-berries-611-loop-road",
+  "name": "JKLM Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "611 Loop Road, NC",
+  "locationCity": "611 Loop Road",
+  "locationState": "NC",
+  "locationZipcode": "27520",
+  "lat": 35.6786470607289,
+  "lon": -78.4013163849718,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.840Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.840Z"
+}

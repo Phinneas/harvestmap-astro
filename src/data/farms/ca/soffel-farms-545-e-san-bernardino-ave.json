@@ -1,0 +1,19 @@
+{
+  "slug": "soffel-farms-545-e-san-bernardino-ave",
+  "name": "Soffel Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "545 E. San Bernardino Ave, CA",
+  "locationCity": "545 E. San Bernardino Ave",
+  "locationState": "CA",
+  "locationZipcode": "92373",
+  "lat": 34.0773472868153,
+  "lon": -117.176873604754,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.773Z"
+}

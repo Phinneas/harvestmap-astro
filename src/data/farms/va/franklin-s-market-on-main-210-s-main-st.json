@@ -1,0 +1,19 @@
+{
+  "slug": "franklin-s-market-on-main-210-s-main-st",
+  "name": "Franklin's Market on Main",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 S Main St, VA",
+  "locationCity": "210 S Main St",
+  "locationState": "VA",
+  "locationZipcode": "23851",
+  "lat": 36.67592385234749,
+  "lon": -76.92097904623259,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

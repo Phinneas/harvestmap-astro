@@ -1,0 +1,19 @@
+{
+  "slug": "harmony-vineyard-780-harmony-blvd",
+  "name": "Harmony Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "780 Harmony Blvd, FL",
+  "locationCity": "780 Harmony Blvd",
+  "locationState": "FL",
+  "locationZipcode": "32421",
+  "lat": 30.574139591887,
+  "lon": -85.0765801722563,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.886Z"
+}

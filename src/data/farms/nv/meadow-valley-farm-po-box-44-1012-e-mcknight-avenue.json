@@ -1,0 +1,19 @@
+{
+  "slug": "meadow-valley-farm-po-box-44-1012-e-mcknight-avenue",
+  "name": "Meadow Valley Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 44 1012 E. McKnight Avenue, NV",
+  "locationCity": "PO Box 44 1012 E. McKnight Avenue",
+  "locationState": "NV",
+  "locationZipcode": "89025",
+  "lat": 36.7002183,
+  "lon": -114.5976003,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:17.035Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:17.035Z"
+}

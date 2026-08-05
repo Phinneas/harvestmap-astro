@@ -1,0 +1,19 @@
+{
+  "slug": "jeffersontown-farmers-market-10434-watterson-trail",
+  "name": "Jeffersontown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10434 watterson trail, KY",
+  "locationCity": "10434 watterson trail",
+  "locationState": "KY",
+  "locationZipcode": "10434",
+  "lat": 38.19521,
+  "lon": -85.562797,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.728Z"
+}

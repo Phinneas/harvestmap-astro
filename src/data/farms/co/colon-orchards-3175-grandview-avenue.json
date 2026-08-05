@@ -1,21 +1,20 @@
 {
   "slug": "colon-orchards-3175-grandview-avenue",
-  "name": "COLON ORCHARDS",
+  "name": "Colon Orchards",
   "source": "usda",
-  "directory": "agritourism",
+  "directory": "onfarmmarket",
   "location": "3175 Grandview Avenue, CO",
   "locationCity": "3175 Grandview Avenue",
   "locationState": "CO",
   "locationZipcode": "81212",
-  "lat": 38.4395705608567,
-  "lon": -105.187173750481,
+  "lat": 38.435304,
+  "lon": -105.18516,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:23:57.213Z"
+      "lastSeen": "2026-08-05T18:37:05.308Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:23:57.213Z",
-  "website": "https://www.colonorchards.com/faq/",
+  "usdaLastUpdated": "2026-08-05T18:37:05.308Z",
   "tagline": "Colon Orchards"
 }

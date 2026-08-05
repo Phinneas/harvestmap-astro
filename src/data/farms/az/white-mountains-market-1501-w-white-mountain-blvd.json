@@ -1,0 +1,19 @@
+{
+  "slug": "white-mountains-market-1501-w-white-mountain-blvd",
+  "name": "White Mountains Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1501 W White Mountain Blvd, AZ",
+  "locationCity": "1501 W White Mountain Blvd",
+  "locationState": "AZ",
+  "locationZipcode": "85929",
+  "lat": 34.146798,
+  "lon": -109.97074,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.018Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "betty-s-farm-harbor-road",
+  "name": "Betty's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Harbor road, NJ",
+  "locationCity": "Harbor road",
+  "locationState": "NJ",
+  "locationZipcode": "07751",
+  "lat": 40.3622494807309,
+  "lon": -74.2577312510985,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.588Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.588Z"
+}

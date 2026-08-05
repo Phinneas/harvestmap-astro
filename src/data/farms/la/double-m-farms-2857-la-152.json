@@ -1,0 +1,19 @@
+{
+  "slug": "double-m-farms-2857-la-152",
+  "name": "Double M Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2857 LA 152, LA",
+  "locationCity": "2857 LA 152",
+  "locationState": "LA",
+  "locationZipcode": "71040",
+  "lat": 32.7728000000001,
+  "lon": -92.7686399999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.208Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.208Z"
+}

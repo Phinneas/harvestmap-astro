@@ -1,0 +1,19 @@
+{
+  "slug": "white-barn-local-653-woodin-road",
+  "name": "White Barn Local",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "653 Woodin Road, OH",
+  "locationCity": "653 Woodin Road",
+  "locationState": "OH",
+  "locationZipcode": "44024",
+  "lat": 41.606574112919,
+  "lon": -81.18205686429,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.770Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.770Z"
+}

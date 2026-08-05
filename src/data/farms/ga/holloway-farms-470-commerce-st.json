@@ -1,0 +1,19 @@
+{
+  "slug": "holloway-farms-470-commerce-st",
+  "name": "Holloway Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "470 Commerce St, GA",
+  "locationCity": "470 Commerce St",
+  "locationState": "GA",
+  "locationZipcode": "31764",
+  "lat": 31.959298705841373,
+  "lon": -84.09769058771828,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:57.884Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:57.884Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shockley-farms-184-seaside-road",
+  "name": "Shockley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "184 Seaside Road, VA",
+  "locationCity": "184 Seaside Road",
+  "locationState": "VA",
+  "locationZipcode": "23310",
+  "lat": 37.2098922316855,
+  "lon": -75.9548341393116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.237Z"
+}

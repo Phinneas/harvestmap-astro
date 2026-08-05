@@ -1,0 +1,19 @@
+{
+  "slug": "galena-ks-farmer-s-market-210-w-7th-st",
+  "name": "Galena KS Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 W 7th St, KS",
+  "locationCity": "210 W 7th St",
+  "locationState": "KS",
+  "locationZipcode": "66739",
+  "lat": 37.074792,
+  "lon": -94.640914,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.680Z"
+}

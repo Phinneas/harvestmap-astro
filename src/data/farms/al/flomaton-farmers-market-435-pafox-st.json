@@ -1,0 +1,19 @@
+{
+  "slug": "flomaton-farmers-market-435-pafox-st",
+  "name": "Flomaton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "435 PAFOX ST, AL",
+  "locationCity": "435 PAFOX ST",
+  "locationState": "AL",
+  "locationZipcode": "36441",
+  "lat": 31.001376905360917,
+  "lon": -87.25994744548107,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.018Z"
+}

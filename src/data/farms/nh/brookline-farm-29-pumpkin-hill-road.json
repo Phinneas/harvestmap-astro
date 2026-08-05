@@ -1,0 +1,19 @@
+{
+  "slug": "brookline-farm-29-pumpkin-hill-road",
+  "name": "Brookline Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "29 Pumpkin Hill Road, NH",
+  "locationCity": "29 Pumpkin Hill Road",
+  "locationState": "NH",
+  "locationZipcode": "03278",
+  "lat": 43.2837551267713,
+  "lon": -71.80992768924823,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.801Z"
+}

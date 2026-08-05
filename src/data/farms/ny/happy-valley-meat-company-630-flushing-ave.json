@@ -1,0 +1,19 @@
+{
+  "slug": "happy-valley-meat-company-630-flushing-ave",
+  "name": "Happy Valley Meat Company",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "630 Flushing Ave, NY",
+  "locationCity": "630 Flushing Ave",
+  "locationState": "NY",
+  "locationZipcode": "11206",
+  "lat": 40.699613,
+  "lon": -73.947925,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.986Z"
+}

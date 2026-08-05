@@ -1,0 +1,19 @@
+{
+  "slug": "loon-meadow-farm-695-locust-grove-rd",
+  "name": "Loon Meadow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "695 Locust Grove Rd, NY",
+  "locationCity": "695 Locust Grove Rd",
+  "locationState": "NY",
+  "locationZipcode": "12833",
+  "lat": 43.1536029573314,
+  "lon": -73.8260513515333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.206Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.206Z"
+}

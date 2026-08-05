@@ -1,0 +1,20 @@
+{
+  "slug": "eckert-s-country-store-and-farms-951-south-green-mount-road",
+  "name": "Eckert's Country Store and Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "951 South Green Mount Road, IL",
+  "locationCity": "951 South Green Mount Road",
+  "locationState": "IL",
+  "locationZipcode": "62220",
+  "lat": 38.4780099534066,
+  "lon": -89.9392587867284,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.857Z",
+  "crops": []
+}

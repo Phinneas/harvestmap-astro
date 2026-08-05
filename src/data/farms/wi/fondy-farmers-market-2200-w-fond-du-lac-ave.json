@@ -1,0 +1,19 @@
+{
+  "slug": "fondy-farmers-market-2200-w-fond-du-lac-ave",
+  "name": "Fondy Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2200 W Fond du Lac Ave, WI",
+  "locationCity": "2200 W Fond du Lac Ave",
+  "locationState": "WI",
+  "locationZipcode": "53206",
+  "lat": 43.061843,
+  "lon": -87.939701,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.752Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.752Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "green-avenue-farmers-market-717-n-2nd-street-killeen",
+  "name": "Green Avenue Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "717 N. 2nd Street Killeen, TX",
+  "locationCity": "717 N. 2nd Street Killeen",
+  "locationState": "TX",
+  "locationZipcode": "76541",
+  "lat": 31.12438313453259,
+  "lon": -97.7290330572694,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

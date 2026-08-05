@@ -1,0 +1,19 @@
+{
+  "slug": "jim-s-produce-2244-county-road-90",
+  "name": "Jim's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2244 County Road 90, MN",
+  "locationCity": "2244 County Road 90",
+  "locationState": "MN",
+  "locationZipcode": "55359",
+  "lat": 45.01919,
+  "lon": -93.6866899999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.819Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.819Z"
+}

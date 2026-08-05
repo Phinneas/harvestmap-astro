@@ -1,0 +1,19 @@
+{
+  "slug": "target-range-farmers-market-4095-south-ave-w-missoula",
+  "name": "Target Range Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4095 South Ave W Missoula, MT",
+  "locationCity": "4095 South Ave W Missoula",
+  "locationState": "MT",
+  "locationZipcode": "59804",
+  "lat": 46.84874482338431,
+  "lon": -114.0809281576627,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:22.007Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:22.007Z"
+}

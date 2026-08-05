@@ -1,0 +1,19 @@
+{
+  "slug": "leap-frog-flower-farm-4919-miller-road",
+  "name": "Leap Frog Flower Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4919 Miller Road, VA",
+  "locationCity": "4919 Miller Road",
+  "locationState": "VA",
+  "locationZipcode": "22936",
+  "lat": 38.17301213656228,
+  "lon": -78.45177066440311,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.247Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "winfield-farmers-market-900-fuller-street-900-fuller-street-winfield",
+  "name": "Winfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "900 Fuller Street 900 Fuller Street Winfield, KS",
+  "locationCity": "900 Fuller Street 900 Fuller Street Winfield",
+  "locationState": "KS",
+  "locationZipcode": "67156",
+  "lat": 37.24029211691984,
+  "lon": -96.99329940657964,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

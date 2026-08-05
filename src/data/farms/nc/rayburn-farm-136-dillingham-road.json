@@ -1,0 +1,20 @@
+{
+  "slug": "rayburn-farm-136-dillingham-road",
+  "name": "Rayburn Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "136 Dillingham Road, NC",
+  "locationCity": "136 Dillingham Road",
+  "locationState": "NC",
+  "locationZipcode": "28709",
+  "lat": 35.7739809834277,
+  "lon": -82.4463098693855,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.794Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.794Z",
+  "crops": []
+}

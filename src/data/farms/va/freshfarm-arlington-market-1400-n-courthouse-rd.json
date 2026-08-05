@@ -1,0 +1,19 @@
+{
+  "slug": "freshfarm-arlington-market-1400-n-courthouse-rd",
+  "name": "FRESHFARM Arlington Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1400 N Courthouse Rd, VA",
+  "locationCity": "1400 N Courthouse Rd",
+  "locationState": "VA",
+  "locationZipcode": "22201",
+  "lat": 38.88975529999999,
+  "lon": -77.0840474,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.153Z"
+}

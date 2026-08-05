@@ -1,0 +1,19 @@
+{
+  "slug": "tlv-tree-farm-15155-triadelphia-mill-rd",
+  "name": "TLV Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15155 Triadelphia Mill Rd, MD",
+  "locationCity": "15155 Triadelphia Mill Rd",
+  "locationState": "MD",
+  "locationZipcode": "15155",
+  "lat": 39.2369079958819,
+  "lon": -77.0349619803182,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.285Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.285Z"
+}

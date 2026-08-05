@@ -1,0 +1,19 @@
+{
+  "slug": "bullbourne-bison-ranch-209-lynnville-rd",
+  "name": "Bullbourne Bison Ranch",
+  "source": "usda",
+  "directory": "csa",
+  "location": "209 Lynnville RD, TN",
+  "locationCity": "209 Lynnville RD",
+  "locationState": "TN",
+  "locationZipcode": "37047",
+  "lat": 35.36356243554668,
+  "lon": -86.84928228466272,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.818Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.818Z"
+}

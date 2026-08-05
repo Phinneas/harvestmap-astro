@@ -1,0 +1,19 @@
+{
+  "slug": "morehouse-farmers-market-305-e-madison-street-bastrop",
+  "name": "Morehouse Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "305 E. Madison Street Bastrop, LA",
+  "locationCity": "305 E. Madison Street Bastrop",
+  "locationState": "LA",
+  "locationZipcode": "71220",
+  "lat": 32.778269230550016,
+  "lon": -91.91266877301675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

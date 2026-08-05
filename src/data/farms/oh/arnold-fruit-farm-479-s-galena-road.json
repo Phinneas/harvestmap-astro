@@ -1,0 +1,19 @@
+{
+  "slug": "arnold-fruit-farm-479-s-galena-road",
+  "name": "Arnold Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "479 S. Galena Road, OH",
+  "locationCity": "479 S. Galena Road",
+  "locationState": "OH",
+  "locationZipcode": "43074",
+  "lat": 40.25797300052736,
+  "lon": -82.90646503814797,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.371Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gary-thomas-farms-443-thomas-road",
+  "name": "Gary Thomas Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "443 Thomas Road, NC",
+  "locationCity": "443 Thomas Road",
+  "locationState": "NC",
+  "locationZipcode": "27330",
+  "lat": 35.4683755363656,
+  "lon": -79.1055719363995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.664Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.664Z"
+}

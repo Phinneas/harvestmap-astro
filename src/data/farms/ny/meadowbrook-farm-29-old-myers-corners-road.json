@@ -1,0 +1,20 @@
+{
+  "slug": "meadowbrook-farm-29-old-myers-corners-road",
+  "name": "Meadowbrook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "29 Old Myers Corners Road, NY",
+  "locationCity": "29 Old Myers Corners Road",
+  "locationState": "NY",
+  "locationZipcode": "12590",
+  "lat": 41.6039166327584,
+  "lon": -73.8741594524468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.943Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.943Z",
+  "crops": []
+}

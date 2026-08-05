@@ -1,0 +1,19 @@
+{
+  "slug": "fruit-haven-441-state-road-28-east",
+  "name": "Fruit Haven",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "441 State Road 28 East, IN",
+  "locationCity": "441 State Road 28 East",
+  "locationState": "IN",
+  "locationZipcode": "47909",
+  "lat": 40.2586799730048,
+  "lon": -86.895514735411,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.363Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.363Z"
+}

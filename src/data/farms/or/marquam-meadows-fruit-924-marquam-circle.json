@@ -1,0 +1,20 @@
+{
+  "slug": "marquam-meadows-fruit-924-marquam-circle",
+  "name": "Marquam Meadows Fruit",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "924 Marquam Circle, OR",
+  "locationCity": "924 Marquam Circle",
+  "locationState": "OR",
+  "locationZipcode": "97038",
+  "lat": 45.0851560791149,
+  "lon": -122.659436230421,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.853Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.853Z",
+  "crops": []
+}

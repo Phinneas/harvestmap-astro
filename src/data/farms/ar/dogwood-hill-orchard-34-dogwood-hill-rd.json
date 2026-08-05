@@ -1,0 +1,20 @@
+{
+  "slug": "dogwood-hill-orchard-34-dogwood-hill-rd",
+  "name": "Dogwood Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "34 Dogwood Hill Rd, AR",
+  "locationCity": "34 Dogwood Hill Rd",
+  "locationState": "AR",
+  "locationZipcode": "72032",
+  "lat": 35.1143915881935,
+  "lon": -92.3763101605588,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.032Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.032Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "clover-nook-farm-fairwood-rd",
+  "name": "Clover Nook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fairwood Rd, CT",
+  "locationCity": "Fairwood Rd",
+  "locationState": "CT",
+  "locationZipcode": "06524",
+  "lat": 41.4383976196481,
+  "lon": -73.0041565979698,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.988Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.988Z"
+}

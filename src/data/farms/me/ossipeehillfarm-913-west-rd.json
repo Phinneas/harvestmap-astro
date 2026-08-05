@@ -1,0 +1,19 @@
+{
+  "slug": "ossipeehillfarm-913-west-rd",
+  "name": "Ossipeehillfarm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "913 West Rd, ME",
+  "locationCity": "913 West Rd",
+  "locationState": "ME",
+  "locationZipcode": "04087",
+  "lat": 43.57454163188791,
+  "lon": -70.77189345414372,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.052Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.052Z"
+}

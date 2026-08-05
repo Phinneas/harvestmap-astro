@@ -1,0 +1,20 @@
+{
+  "slug": "new-creations-farm-31-murphy-rd",
+  "name": "New Creations Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "31 Murphy Rd, PA",
+  "locationCity": "31 Murphy Rd",
+  "locationState": "PA",
+  "locationZipcode": "17821",
+  "lat": 40.888656019647,
+  "lon": -76.6769210233711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.103Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.103Z",
+  "crops": []
+}

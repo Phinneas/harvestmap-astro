@@ -1,0 +1,19 @@
+{
+  "slug": "red-ranch-130-294th-street-northeast",
+  "name": "Red Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "130 294th Street Northeast, WA",
+  "locationCity": "130 294th Street Northeast",
+  "locationState": "WA",
+  "locationZipcode": "98223",
+  "lat": 48.2629593685445,
+  "lon": -122.025798223213,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.201Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.201Z"
+}

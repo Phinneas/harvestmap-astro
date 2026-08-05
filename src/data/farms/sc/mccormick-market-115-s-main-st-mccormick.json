@@ -1,0 +1,19 @@
+{
+  "slug": "mccormick-market-115-s-main-st-mccormick",
+  "name": "McCormick Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 S. Main St. McCormick, SC",
+  "locationCity": "115 S. Main St. McCormick",
+  "locationState": "SC",
+  "locationZipcode": "29835",
+  "lat": 33.912228304672404,
+  "lon": -82.29416495403129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

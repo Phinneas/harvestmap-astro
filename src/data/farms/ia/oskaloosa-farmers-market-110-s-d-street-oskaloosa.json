@@ -1,0 +1,19 @@
+{
+  "slug": "oskaloosa-farmers-market-110-s-d-street-oskaloosa",
+  "name": "Oskaloosa Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 S. D Street Oskaloosa, IA",
+  "locationCity": "110 S. D Street Oskaloosa",
+  "locationState": "IA",
+  "locationZipcode": "52577",
+  "lat": 41.29514691806009,
+  "lon": -92.64976763054587,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

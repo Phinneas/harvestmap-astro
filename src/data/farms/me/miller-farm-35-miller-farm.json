@@ -1,0 +1,19 @@
+{
+  "slug": "miller-farm-35-miller-farm",
+  "name": "Miller Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "35 Miller Farm, ME",
+  "locationCity": "35 Miller Farm",
+  "locationState": "ME",
+  "locationZipcode": "04856",
+  "lat": 44.2007040820361,
+  "lon": -69.1081693372534,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.839Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.839Z"
+}

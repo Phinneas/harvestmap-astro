@@ -1,0 +1,19 @@
+{
+  "slug": "meadow-farm-foods-csa-23064-highway-1",
+  "name": "Meadow Farm Foods CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "23064 Highway 1, MN",
+  "locationCity": "23064 Highway 1",
+  "locationState": "MN",
+  "locationZipcode": "23064",
+  "lat": 46.286442,
+  "lon": -96.1103674,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.178Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.178Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "neumann-farms-2277-40th-ave",
+  "name": "Neumann farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2277 40th Ave, WI",
+  "locationCity": "2277 40th Ave",
+  "locationState": "WI",
+  "locationZipcode": "54020",
+  "lat": 45.2681370197181,
+  "lon": -92.6268139819739,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.175Z"
+}

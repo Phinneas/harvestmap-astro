@@ -1,0 +1,19 @@
+{
+  "slug": "munson-farms-7501-valmont-road",
+  "name": "Munson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7501 Valmont Road, CO",
+  "locationCity": "7501 Valmont Road",
+  "locationState": "CO",
+  "locationZipcode": "80301",
+  "lat": 40.0333999795995,
+  "lon": -105.17852002996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.249Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.249Z"
+}

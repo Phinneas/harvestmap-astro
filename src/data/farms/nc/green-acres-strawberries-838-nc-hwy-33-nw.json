@@ -1,0 +1,19 @@
+{
+  "slug": "green-acres-strawberries-838-nc-hwy-33-nw",
+  "name": "Green Acres Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "838 NC Hwy 33 NW, NC",
+  "locationCity": "838 NC Hwy 33 NW",
+  "locationState": "NC",
+  "locationZipcode": "27886",
+  "lat": 35.8799653281557,
+  "lon": -77.5245563044684,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.889Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.889Z"
+}

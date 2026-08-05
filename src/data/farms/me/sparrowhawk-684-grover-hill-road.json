@@ -1,0 +1,19 @@
+{
+  "slug": "sparrowhawk-684-grover-hill-road",
+  "name": "Sparrowhawk",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "684 Grover Hill Road, ME",
+  "locationCity": "684 Grover Hill Road",
+  "locationState": "ME",
+  "locationZipcode": "04217",
+  "lat": 44.37576574477171,
+  "lon": -70.8323909299599,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.067Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "reno-county-farmers-market-115-w-2nd-ave",
+  "name": "Reno County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 W 2nd Ave., KS",
+  "locationCity": "115 W 2nd Ave.",
+  "locationState": "KS",
+  "locationZipcode": "67504",
+  "lat": 38.05472471297897,
+  "lon": -97.9338746288029,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

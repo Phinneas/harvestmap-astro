@@ -1,0 +1,19 @@
+{
+  "slug": "the-fruitguys-llc-901-sneath-lane",
+  "name": "The FruitGuys LLC",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "901 Sneath Lane, CA",
+  "locationCity": "901 Sneath Lane",
+  "locationState": "CA",
+  "locationZipcode": "94066",
+  "lat": 37.63511498348559,
+  "lon": -122.4240729969107,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

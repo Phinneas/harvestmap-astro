@@ -1,0 +1,20 @@
+{
+  "slug": "fox-trail-farm-115-south-orange-street",
+  "name": "Fox Trail Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "115 South Orange Street, IN",
+  "locationCity": "115 South Orange Street",
+  "locationState": "IN",
+  "locationZipcode": "46701",
+  "lat": 41.3954109538982,
+  "lon": -85.4240582022112,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.424Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.424Z",
+  "crops": []
+}

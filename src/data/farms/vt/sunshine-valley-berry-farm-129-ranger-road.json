@@ -1,0 +1,20 @@
+{
+  "slug": "sunshine-valley-berry-farm-129-ranger-road",
+  "name": "Sunshine Valley Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "129 Ranger Road, VT",
+  "locationCity": "129 Ranger Road",
+  "locationState": "VT",
+  "locationZipcode": "05767",
+  "lat": 43.8987059955945,
+  "lon": -72.8165419738817,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.015Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.015Z",
+  "crops": []
+}

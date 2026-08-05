@@ -1,0 +1,19 @@
+{
+  "slug": "orion-farmers-market-550-e-silverbell-rd-orion",
+  "name": "Orion Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "550 E. Silverbell Rd Orion, MI",
+  "locationCity": "550 E. Silverbell Rd Orion",
+  "locationState": "MI",
+  "locationZipcode": "48360",
+  "lat": 42.72328239671125,
+  "lon": -83.23339024561085,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gibson-farms-p-o-box-245",
+  "name": "Gibson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "P.O. Box 245, OR",
+  "locationCity": "P.O. Box 245",
+  "locationState": "OR",
+  "locationZipcode": "97380",
+  "lat": 44.7220050000001,
+  "lon": -123.92171,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.827Z"
+}

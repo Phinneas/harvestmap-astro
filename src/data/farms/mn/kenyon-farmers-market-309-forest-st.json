@@ -1,0 +1,19 @@
+{
+  "slug": "kenyon-farmers-market-309-forest-st",
+  "name": "Kenyon Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "309 Forest St, MN",
+  "locationCity": "309 Forest St",
+  "locationState": "MN",
+  "locationZipcode": "55946",
+  "lat": 44.2707086,
+  "lon": -92.9870486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

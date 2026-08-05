@@ -1,0 +1,19 @@
+{
+  "slug": "watershed-farmers-market-16280-national-parkway-lansing",
+  "name": "Watershed Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16280 National Parkway Lansing, MI",
+  "locationCity": "16280 National Parkway Lansing",
+  "locationState": "MI",
+  "locationZipcode": "16280",
+  "lat": 42.7806423528266,
+  "lon": -84.63721911551761,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.249Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.249Z"
+}

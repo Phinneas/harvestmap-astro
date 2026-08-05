@@ -1,0 +1,19 @@
+{
+  "slug": "nettle-creek-farmers-market-299-n-sycamore-st-hagerstown",
+  "name": "Nettle Creek Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "299 N Sycamore St. Hagerstown, IN",
+  "locationCity": "299 N Sycamore St. Hagerstown",
+  "locationState": "IN",
+  "locationZipcode": "47346",
+  "lat": 39.9132435691312,
+  "lon": -85.15789505046543,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

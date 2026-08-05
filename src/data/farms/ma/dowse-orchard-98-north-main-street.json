@@ -9,23 +9,11 @@
   "locationZipcode": "",
   "lat": 42.2556208831873,
   "lon": -71.3682761312525,
-  "website": "http://www.dowseorchards.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:29:19.692Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:29:34.228Z"
+      "lastSeen": "2026-08-05T18:42:22.443Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:29:19.692Z",
-  "crops": [
-    "Apples",
-    "Pumpkins",
-    "Flowers",
-    "Christmas trees"
-  ],
-  "phone": "(508) 653-2639"
+  "usdaLastUpdated": "2026-08-05T18:42:22.443Z"
 }

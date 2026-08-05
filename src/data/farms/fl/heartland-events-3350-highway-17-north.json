@@ -1,0 +1,19 @@
+{
+  "slug": "heartland-events-3350-highway-17-north",
+  "name": "Heartland Events",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3350 Highway 17 North, FL",
+  "locationCity": "3350 Highway 17 North",
+  "locationState": "FL",
+  "locationZipcode": "33834",
+  "lat": 27.612356989464,
+  "lon": -81.824758975685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.802Z"
+}

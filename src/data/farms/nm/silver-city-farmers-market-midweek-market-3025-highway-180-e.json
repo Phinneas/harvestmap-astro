@@ -1,0 +1,19 @@
+{
+  "slug": "silver-city-farmers-market-midweek-market-3025-highway-180-e",
+  "name": "Silver City Farmers' Market Midweek Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3025 Highway 180 E, NM",
+  "locationCity": "3025 Highway 180 E",
+  "locationState": "NM",
+  "locationZipcode": "88061",
+  "lat": 32.787733,
+  "lon": -108.24248,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:58.797Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:58.797Z"
+}

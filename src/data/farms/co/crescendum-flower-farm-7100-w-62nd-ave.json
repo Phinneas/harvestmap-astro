@@ -1,0 +1,19 @@
+{
+  "slug": "crescendum-flower-farm-7100-w-62nd-ave",
+  "name": "Crescendum Flower Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7100 W. 62nd Ave, CO",
+  "locationCity": "7100 W. 62nd Ave",
+  "locationState": "CO",
+  "locationZipcode": "80003",
+  "lat": 39.809005157933115,
+  "lon": -105.07614153673693,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.589Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.589Z"
+}

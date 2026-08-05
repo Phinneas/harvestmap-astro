@@ -1,0 +1,19 @@
+{
+  "slug": "simple-living-farmers-market-501-e-prairie-ave",
+  "name": "Simple Living Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "501 E Prairie Ave, MN",
+  "locationCity": "501 E Prairie Ave",
+  "locationState": "MN",
+  "locationZipcode": "55954",
+  "lat": 43.5227513,
+  "lon": -91.7644929,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "terre-haute-farmers-market-2800-poplar-street",
+  "name": "Terre Haute Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2800 Poplar Street, IN",
+  "locationCity": "2800 Poplar Street",
+  "locationState": "IN",
+  "locationZipcode": "47803",
+  "lat": 39.464145,
+  "lon": -87.37607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.600Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.600Z"
+}

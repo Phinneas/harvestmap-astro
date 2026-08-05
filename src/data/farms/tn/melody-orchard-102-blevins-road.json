@@ -1,0 +1,19 @@
+{
+  "slug": "melody-orchard-102-blevins-road",
+  "name": "Melody Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "102 Blevins Road, TN",
+  "locationCity": "102 Blevins Road",
+  "locationState": "TN",
+  "locationZipcode": "37857",
+  "lat": 36.4620118908464,
+  "lon": -82.9365730759744,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.328Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.328Z"
+}

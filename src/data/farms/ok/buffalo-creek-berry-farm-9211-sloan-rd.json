@@ -2,20 +2,19 @@
   "slug": "buffalo-creek-berry-farm-9211-sloan-rd",
   "name": "Buffalo Creek Berry Farm",
   "source": "usda",
-  "directory": "agritourism",
-  "location": "9211 Sloan rd, OK",
-  "locationCity": "9211 Sloan rd",
+  "directory": "onfarmmarket",
+  "location": "9211 Sloan Rd, OK",
+  "locationCity": "9211 Sloan Rd",
   "locationState": "OK",
   "locationZipcode": "73064",
-  "lat": 35.3770766109806,
-  "lon": -97.680279751588,
+  "lat": 35.373981,
+  "lon": -97.681934,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:36:32.604Z"
+      "lastSeen": "2026-08-05T18:48:31.769Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:36:32.604Z",
-  "website": "https://pickyourown.farm/farm/buffalo-creek-berry-farm-11625/",
+  "usdaLastUpdated": "2026-08-05T18:48:31.769Z",
   "tagline": "Buffalo Creek Berry Farm"
 }

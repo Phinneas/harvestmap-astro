@@ -1,0 +1,19 @@
+{
+  "slug": "p-hala-resilience-food-hub-305-wailuku-drive",
+  "name": "Pāhala Resilience Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "305 Wailuku Drive, HI",
+  "locationCity": "305 Wailuku Drive",
+  "locationState": "HI",
+  "locationZipcode": "96720",
+  "lat": 19.72539698226629,
+  "lon": -155.09109600218528,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:17.662Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:17.662Z"
+}

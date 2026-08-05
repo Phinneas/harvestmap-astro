@@ -1,0 +1,20 @@
+{
+  "slug": "north-rd-tree-farm-50-north-rd",
+  "name": "North Rd Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "50 North Rd, RI",
+  "locationCity": "50 North Rd",
+  "locationState": "RI",
+  "locationZipcode": "02825",
+  "lat": 41.7806649868286,
+  "lon": -71.7629229984073,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.236Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.236Z",
+  "crops": []
+}

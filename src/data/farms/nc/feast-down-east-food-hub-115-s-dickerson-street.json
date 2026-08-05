@@ -1,0 +1,19 @@
+{
+  "slug": "feast-down-east-food-hub-115-s-dickerson-street",
+  "name": "Feast Down East Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "115 S. Dickerson Street, NC",
+  "locationCity": "115 S. Dickerson Street",
+  "locationState": "NC",
+  "locationZipcode": "27425",
+  "lat": 34.549773,
+  "lon": -77.927926,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.319Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.319Z"
+}

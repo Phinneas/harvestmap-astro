@@ -1,0 +1,19 @@
+{
+  "slug": "eatwell-farm-5835-sievers-road",
+  "name": "Eatwell Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5835 Sievers Road, CA",
+  "locationCity": "5835 Sievers Road",
+  "locationState": "CA",
+  "locationZipcode": "95620",
+  "lat": 38.49004836217037,
+  "lon": -121.87285322783183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.073Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.073Z"
+}

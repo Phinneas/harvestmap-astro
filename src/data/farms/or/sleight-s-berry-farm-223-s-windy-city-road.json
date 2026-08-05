@@ -1,0 +1,19 @@
+{
+  "slug": "sleight-s-berry-farm-223-s-windy-city-road",
+  "name": "Sleight's Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "223 S. Windy City Road, OR",
+  "locationCity": "223 S. Windy City Road",
+  "locationState": "OR",
+  "locationZipcode": "97042",
+  "lat": 45.2043511233997,
+  "lon": -122.50922882659,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.861Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.861Z"
+}

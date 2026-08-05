@@ -1,0 +1,19 @@
+{
+  "slug": "kirby-s-farmers-market-67-n-main-st-medford",
+  "name": "Kirby's Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "67 N. Main St Medford, NJ",
+  "locationCity": "67 N. Main St Medford",
+  "locationState": "NJ",
+  "locationZipcode": "08055",
+  "lat": 39.902647093986324,
+  "lon": -74.8239108485319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

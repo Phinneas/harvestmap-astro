@@ -1,0 +1,19 @@
+{
+  "slug": "rockfield-farm-market-216-pond-hill-rd",
+  "name": "Rockfield Farm market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "216 Pond Hill Rd., NH",
+  "locationCity": "216 Pond Hill Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03825",
+  "lat": 43.26904900524255,
+  "lon": -71.04272297166415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.803Z"
+}

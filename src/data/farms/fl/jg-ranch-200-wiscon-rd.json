@@ -1,0 +1,19 @@
+{
+  "slug": "jg-ranch-200-wiscon-rd",
+  "name": "JG Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 Wiscon Rd, FL",
+  "locationCity": "200 Wiscon Rd",
+  "locationState": "FL",
+  "locationZipcode": "34601",
+  "lat": 28.5337552084371,
+  "lon": -82.4602311068441,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.805Z"
+}

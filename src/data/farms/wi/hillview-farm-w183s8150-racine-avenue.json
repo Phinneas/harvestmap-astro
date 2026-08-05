@@ -1,0 +1,19 @@
+{
+  "slug": "hillview-farm-w183s8150-racine-avenue",
+  "name": "Hillview Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "W183S8150 Racine Avenue, WI",
+  "locationCity": "W183S8150 Racine Avenue",
+  "locationState": "WI",
+  "locationZipcode": "53150",
+  "lat": 42.8963600000001,
+  "lon": -88.1439599999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.237Z"
+}

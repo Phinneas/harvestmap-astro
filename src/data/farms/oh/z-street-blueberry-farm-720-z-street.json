@@ -1,0 +1,19 @@
+{
+  "slug": "z-street-blueberry-farm-720-z-street",
+  "name": "Z Street Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "720 Z Street, OH",
+  "locationCity": "720 Z Street",
+  "locationState": "OH",
+  "locationZipcode": "43019",
+  "lat": 40.4690170156984,
+  "lon": -82.5119986850905,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.841Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.841Z"
+}

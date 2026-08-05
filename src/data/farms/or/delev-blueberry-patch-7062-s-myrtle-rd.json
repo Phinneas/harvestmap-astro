@@ -1,0 +1,19 @@
+{
+  "slug": "delev-blueberry-patch-7062-s-myrtle-rd",
+  "name": "DelEv Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7062 S. Myrtle Rd, OR",
+  "locationCity": "7062 S. Myrtle Rd",
+  "locationState": "OR",
+  "locationZipcode": "97457",
+  "lat": 43.03732500553008,
+  "lon": -123.1768099792194,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.063Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.063Z"
+}

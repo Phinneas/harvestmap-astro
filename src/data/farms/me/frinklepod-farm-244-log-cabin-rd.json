@@ -1,0 +1,19 @@
+{
+  "slug": "frinklepod-farm-244-log-cabin-rd",
+  "name": "Frinklepod Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "244 Log Cabin Rd, ME",
+  "locationCity": "244 Log Cabin Rd",
+  "locationState": "ME",
+  "locationZipcode": "04046",
+  "lat": 43.41163343443145,
+  "lon": -70.496375183806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.040Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.040Z"
+}

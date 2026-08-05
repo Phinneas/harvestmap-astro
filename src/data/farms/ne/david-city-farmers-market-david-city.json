@@ -1,0 +1,19 @@
+{
+  "slug": "david-city-farmers-market-david-city",
+  "name": "David City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "David City, NE",
+  "locationCity": "David City",
+  "locationState": "NE",
+  "locationZipcode": "68632",
+  "lat": 41.264759,
+  "lon": -97.129955,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.782Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.782Z"
+}

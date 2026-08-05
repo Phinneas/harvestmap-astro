@@ -1,0 +1,19 @@
+{
+  "slug": "wayne-state-wednesday-farmers-market-5201-cass-ave-detroit",
+  "name": "Wayne State Wednesday Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5201 Cass Ave Detroit, MI",
+  "locationCity": "5201 Cass Ave Detroit",
+  "locationState": "MI",
+  "locationZipcode": "48202",
+  "lat": 42.357113175388164,
+  "lon": -83.06730862433201,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.249Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.249Z"
+}

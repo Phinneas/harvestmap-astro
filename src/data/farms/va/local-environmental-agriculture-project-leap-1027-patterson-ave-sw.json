@@ -1,0 +1,19 @@
+{
+  "slug": "local-environmental-agriculture-project-leap-1027-patterson-ave-sw",
+  "name": "Local Environmental Agriculture Project (LEAP)",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1027 Patterson Ave SW, VA",
+  "locationCity": "1027 Patterson Ave SW",
+  "locationState": "VA",
+  "locationZipcode": "24016",
+  "lat": 37.2722779853606,
+  "lon": -79.96027703395126,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:05.042Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:05.042Z"
+}

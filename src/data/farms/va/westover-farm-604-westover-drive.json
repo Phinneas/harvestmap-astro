@@ -1,0 +1,19 @@
+{
+  "slug": "westover-farm-604-westover-drive",
+  "name": "Westover Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "604 Westover Drive, VA",
+  "locationCity": "604 Westover Drive",
+  "locationState": "VA",
+  "locationZipcode": "23872",
+  "lat": 36.9831132915914,
+  "lon": -77.7242870153292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.348Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.348Z"
+}

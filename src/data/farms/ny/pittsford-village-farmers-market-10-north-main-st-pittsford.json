@@ -1,0 +1,19 @@
+{
+  "slug": "pittsford-village-farmers-market-10-north-main-st-pittsford",
+  "name": "Pittsford Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 North Main St. Pittsford, NY",
+  "locationCity": "10 North Main St. Pittsford",
+  "locationState": "NY",
+  "locationZipcode": "14534",
+  "lat": 43.09147257854924,
+  "lon": -77.51491638625649,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

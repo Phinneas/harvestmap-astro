@@ -1,0 +1,19 @@
+{
+  "slug": "brightly-s-farm-market-525-drake-rd",
+  "name": "Brightly's Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "525 Drake Rd, NY",
+  "locationCity": "525 Drake Rd",
+  "locationState": "NY",
+  "locationZipcode": "14464",
+  "lat": 43.29452001884702,
+  "lon": -77.9434222253207,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

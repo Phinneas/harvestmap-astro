@@ -1,0 +1,19 @@
+{
+  "slug": "feed-denver-urban-farms-markets-2139-w-44th-avenue-denver",
+  "name": "Feed Denver: Urban Farms & Markets",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2139 W. 44th Avenue Denver, CO",
+  "locationCity": "2139 W. 44th Avenue Denver",
+  "locationState": "CO",
+  "locationZipcode": "80211",
+  "lat": 39.77656483771201,
+  "lon": -105.01284379998835,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

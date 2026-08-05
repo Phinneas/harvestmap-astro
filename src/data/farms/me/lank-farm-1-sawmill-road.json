@@ -1,0 +1,19 @@
+{
+  "slug": "lank-farm-1-sawmill-road",
+  "name": "Lank Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1 Sawmill Road, ME",
+  "locationCity": "1 Sawmill Road",
+  "locationState": "ME",
+  "locationZipcode": "04043",
+  "lat": 43.4067851320872,
+  "lon": -70.5407413516849,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.887Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.887Z"
+}

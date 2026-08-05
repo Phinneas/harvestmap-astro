@@ -1,0 +1,19 @@
+{
+  "slug": "river-falls-farmers-market-1121-s-main-st-at-dick-s-fresh-market-river-falls",
+  "name": "River Falls Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1121 S Main St at Dick's Fresh Market River Falls, WI",
+  "locationCity": "1121 S Main St at Dick's Fresh Market River Falls",
+  "locationState": "WI",
+  "locationZipcode": "54022",
+  "lat": 44.84621373110885,
+  "lon": -92.62933978865269,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "idabel-farmers-market-108-b-north-central",
+  "name": "Idabel Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "108-B North Central, OK",
+  "locationCity": "108-B North Central",
+  "locationState": "OK",
+  "locationZipcode": "74745",
+  "lat": 33.895118982619444,
+  "lon": -94.82798792377577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:29.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:29.366Z"
+}

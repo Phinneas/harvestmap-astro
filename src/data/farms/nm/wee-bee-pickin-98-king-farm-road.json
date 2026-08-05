@@ -1,0 +1,19 @@
+{
+  "slug": "wee-bee-pickin-98-king-farm-road",
+  "name": "Wee Bee Pickin'",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "98 King Farm Road, NM",
+  "locationCity": "98 King Farm Road",
+  "locationState": "NM",
+  "locationZipcode": "87035",
+  "lat": 35.0305140088454,
+  "lon": -106.067091033825,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:54.485Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:54.485Z"
+}

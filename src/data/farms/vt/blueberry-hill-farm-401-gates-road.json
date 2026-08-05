@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-farm-401-gates-road",
+  "name": "Blueberry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "401 Gates Road, VT",
+  "locationCity": "401 Gates Road",
+  "locationState": "VT",
+  "locationZipcode": "05143",
+  "lat": 43.2471250059303,
+  "lon": -72.727129027586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.213Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.213Z"
+}

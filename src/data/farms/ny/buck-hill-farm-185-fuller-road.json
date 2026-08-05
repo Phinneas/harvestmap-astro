@@ -1,0 +1,19 @@
+{
+  "slug": "buck-hill-farm-185-fuller-road",
+  "name": "Buck Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "185 Fuller Road, NY",
+  "locationCity": "185 Fuller Road",
+  "locationState": "NY",
+  "locationZipcode": "12093",
+  "lat": 42.4838142108563,
+  "lon": -74.6240978011042,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.219Z"
+}

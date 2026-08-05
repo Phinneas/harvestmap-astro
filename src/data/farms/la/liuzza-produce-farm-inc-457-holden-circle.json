@@ -1,0 +1,20 @@
+{
+  "slug": "liuzza-produce-farm-inc-457-holden-circle",
+  "name": "Liuzza Produce Farm, Inc",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "457 Holden Circle, LA",
+  "locationCity": "457 Holden Circle",
+  "locationState": "LA",
+  "locationZipcode": "70422",
+  "lat": 30.6717840907513,
+  "lon": -90.5198596221573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.074Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.074Z",
+  "crops": []
+}

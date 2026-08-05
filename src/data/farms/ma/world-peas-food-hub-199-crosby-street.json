@@ -1,0 +1,19 @@
+{
+  "slug": "world-peas-food-hub-199-crosby-street",
+  "name": "World PEAS Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "199 Crosby Street, MA",
+  "locationCity": "199 Crosby Street",
+  "locationState": "MA",
+  "locationZipcode": "01850",
+  "lat": 42.6326048,
+  "lon": -71.304915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.878Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.878Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "south-of-the-james-farmers-market-forest-hill-avenue-42nd-street-richmond",
+  "name": "South of the James Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Forest Hill Avenue & 42nd Street Richmond, VA",
+  "locationCity": "Forest Hill Avenue & 42nd Street Richmond",
+  "locationState": "VA",
+  "locationZipcode": "23150",
+  "lat": 37.51839999925271,
+  "lon": -77.47856004046209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

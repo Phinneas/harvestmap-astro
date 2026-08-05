@@ -1,0 +1,19 @@
+{
+  "slug": "westwego-farmers-fisheries-market-484-sala-westwego",
+  "name": "Westwego Farmers & Fisheries Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "484 Sala Westwego, LA",
+  "locationCity": "484 Sala Westwego",
+  "locationState": "LA",
+  "locationZipcode": "70094",
+  "lat": 29.910878635926856,
+  "lon": -90.14529288701699,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.709Z"
+}

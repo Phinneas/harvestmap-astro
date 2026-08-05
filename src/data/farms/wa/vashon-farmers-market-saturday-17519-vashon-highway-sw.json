@@ -1,0 +1,19 @@
+{
+  "slug": "vashon-farmers-market-saturday-17519-vashon-highway-sw",
+  "name": "Vashon Farmers Market - Saturday",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17519 Vashon Highway SW, WA",
+  "locationCity": "17519 Vashon Highway SW",
+  "locationState": "WA",
+  "locationZipcode": "17519",
+  "lat": 47.447921,
+  "lon": -122.46075,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.702Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.702Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "martin-marketplace-1619-12th-ave-martin",
+  "name": "Martin Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1619 12th Ave. Martin, MI",
+  "locationCity": "1619 12th Ave. Martin",
+  "locationState": "MI",
+  "locationZipcode": "49070",
+  "lat": 42.53865901842836,
+  "lon": -85.6622163668911,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

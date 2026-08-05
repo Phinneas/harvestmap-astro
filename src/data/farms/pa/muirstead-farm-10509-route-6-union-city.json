@@ -1,0 +1,19 @@
+{
+  "slug": "muirstead-farm-10509-route-6-union-city",
+  "name": "Muirstead Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10509 Route 6 Union City, PA",
+  "locationCity": "10509 Route 6 Union City",
+  "locationState": "PA",
+  "locationZipcode": "10509",
+  "lat": 41.9199440125003,
+  "lon": -79.778515966506,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.186Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.186Z"
+}

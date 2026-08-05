@@ -1,0 +1,19 @@
+{
+  "slug": "mt-airy-farmers-market-601-carpenter-lane",
+  "name": "Mt Airy Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "601 Carpenter Lane, PA",
+  "locationCity": "601 Carpenter Lane",
+  "locationState": "PA",
+  "locationZipcode": "19119",
+  "lat": 40.046156,
+  "lon": -75.196253,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.008Z"
+}

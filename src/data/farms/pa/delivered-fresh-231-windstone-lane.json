@@ -1,0 +1,19 @@
+{
+  "slug": "delivered-fresh-231-windstone-lane",
+  "name": "Delivered Fresh",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "231 Windstone Lane, PA",
+  "locationCity": "231 Windstone Lane",
+  "locationState": "PA",
+  "locationZipcode": "16914",
+  "lat": 41.8507082,
+  "lon": -76.671151,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.776Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.776Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "piney-orchard-farmers-market-2400-stream-valley-drive",
+  "name": "Piney Orchard Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2400 Stream Valley Drive, MD",
+  "locationCity": "2400 Stream Valley Drive",
+  "locationState": "MD",
+  "locationZipcode": "20755",
+  "lat": 39.06341510614407,
+  "lon": -76.71643396207982,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

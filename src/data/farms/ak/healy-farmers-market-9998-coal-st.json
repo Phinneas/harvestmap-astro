@@ -1,0 +1,19 @@
+{
+  "slug": "healy-farmers-market-9998-coal-st",
+  "name": "Healy Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9998 Coal St, AK",
+  "locationCity": "9998 Coal St",
+  "locationState": "AK",
+  "locationZipcode": "99743",
+  "lat": 63.87144885511926,
+  "lon": -149.01789980318026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

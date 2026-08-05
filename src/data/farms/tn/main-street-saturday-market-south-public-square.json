@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-saturday-market-south-public-square",
+  "name": "Main Street Saturday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "South Public Square, TN",
+  "locationCity": "South Public Square",
+  "locationState": "TN",
+  "locationZipcode": "37130",
+  "lat": 35.845982,
+  "lon": -86.392158,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.309Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.309Z"
+}

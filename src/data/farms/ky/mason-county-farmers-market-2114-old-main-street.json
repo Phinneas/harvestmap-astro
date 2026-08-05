@@ -1,0 +1,19 @@
+{
+  "slug": "mason-county-farmers-market-2114-old-main-street",
+  "name": "Mason County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2114 Old Main Street, KY",
+  "locationCity": "2114 Old Main Street",
+  "locationState": "KY",
+  "locationZipcode": "41056",
+  "lat": 38.615073,
+  "lon": -83.80842,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.719Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.719Z"
+}

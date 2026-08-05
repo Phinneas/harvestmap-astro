@@ -1,0 +1,19 @@
+{
+  "slug": "appel-farms-909-elm-springs-road",
+  "name": "Appel Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "909 Elm Springs Road, AR",
+  "locationCity": "909 Elm Springs Road",
+  "locationState": "AR",
+  "locationZipcode": "72762",
+  "lat": 36.2087250947696,
+  "lon": -94.2200563231189,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.922Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.922Z"
+}

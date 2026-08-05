@@ -1,0 +1,19 @@
+{
+  "slug": "jordan-farms-seegars-road",
+  "name": "Jordan Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Seegars Road, SC",
+  "locationCity": "Seegars Road",
+  "locationState": "SC",
+  "locationZipcode": "29714",
+  "lat": 34.7530134383203,
+  "lon": -80.8929469930481,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.758Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.758Z"
+}

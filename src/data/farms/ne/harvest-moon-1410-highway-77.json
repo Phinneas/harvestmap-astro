@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-moon-1410-highway-77",
+  "name": "Harvest Moon",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1410 highway 77, NE",
+  "locationCity": "1410 highway 77",
+  "locationState": "NE",
+  "locationZipcode": "68045",
+  "lat": 41.8750929934322,
+  "lon": -96.464559965052,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.140Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.140Z"
+}

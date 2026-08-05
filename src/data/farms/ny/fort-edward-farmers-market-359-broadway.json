@@ -1,0 +1,19 @@
+{
+  "slug": "fort-edward-farmers-market-359-broadway",
+  "name": "Fort Edward Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "359 Broadway, NY",
+  "locationCity": "359 Broadway",
+  "locationState": "NY",
+  "locationZipcode": "12828",
+  "lat": 43.28320975290438,
+  "lon": -73.58651177221387,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

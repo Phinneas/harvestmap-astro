@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-in-windom-mn-900-3rd-ave",
+  "name": "Farmers' Market in Windom MN",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "900 3rd Ave, MN",
+  "locationCity": "900 3rd Ave",
+  "locationState": "MN",
+  "locationZipcode": "56101",
+  "lat": 43.865969,
+  "lon": -95.116947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

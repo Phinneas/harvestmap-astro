@@ -1,0 +1,19 @@
+{
+  "slug": "windy-mane-ranch-14265-chaparral-ln",
+  "name": "Windy Mane Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "14265 Chaparral Ln, TX",
+  "locationCity": "14265 Chaparral Ln",
+  "locationState": "TX",
+  "locationZipcode": "14265",
+  "lat": 32.9880869868156,
+  "lon": -97.2660259796614,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.553Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.553Z"
+}

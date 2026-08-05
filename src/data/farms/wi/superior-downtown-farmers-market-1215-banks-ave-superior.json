@@ -1,0 +1,19 @@
+{
+  "slug": "superior-downtown-farmers-market-1215-banks-ave-superior",
+  "name": "Superior Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1215 Banks Ave. Superior, WI",
+  "locationCity": "1215 Banks Ave. Superior",
+  "locationState": "WI",
+  "locationZipcode": "54880",
+  "lat": 46.724041020150025,
+  "lon": -92.10545277542286,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

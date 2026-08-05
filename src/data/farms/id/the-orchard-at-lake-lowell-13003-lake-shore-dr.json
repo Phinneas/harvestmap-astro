@@ -1,0 +1,19 @@
+{
+  "slug": "the-orchard-at-lake-lowell-13003-lake-shore-dr",
+  "name": "The Orchard at Lake Lowell",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13003 Lake Shore Dr, ID",
+  "locationCity": "13003 Lake Shore Dr",
+  "locationState": "ID",
+  "locationZipcode": "13003",
+  "lat": 43.52691528085941,
+  "lon": -116.6543086416341,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.941Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.941Z"
+}

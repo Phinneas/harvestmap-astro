@@ -1,0 +1,19 @@
+{
+  "slug": "fox-creek-farm-182-fox-creek-farm-rd",
+  "name": "Fox Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "182 Fox Creek Farm Rd, NY",
+  "locationCity": "182 Fox Creek Farm Rd",
+  "locationState": "NY",
+  "locationZipcode": "12157",
+  "lat": 42.677627,
+  "lon": -74.229578,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

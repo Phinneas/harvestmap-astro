@@ -1,0 +1,19 @@
+{
+  "slug": "dwight-main-street-farmers-market-132-e-main-street-dwight",
+  "name": "Dwight Main Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "132 E. Main Street Dwight, IL",
+  "locationCity": "132 E. Main Street Dwight",
+  "locationState": "IL",
+  "locationZipcode": "60420",
+  "lat": 41.092495750173946,
+  "lon": -88.42736834356637,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

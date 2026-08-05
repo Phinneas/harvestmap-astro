@@ -1,0 +1,20 @@
+{
+  "slug": "seeds-of-grace-acres-178-crestview-mountain-rd",
+  "name": "Seeds of Grace Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "178 Crestview Mountain Rd, WV",
+  "locationCity": "178 Crestview Mountain Rd",
+  "locationState": "WV",
+  "locationZipcode": "26704",
+  "lat": 39.31741198493046,
+  "lon": -78.5929130290602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:32.002Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:32.002Z",
+  "crops": []
+}

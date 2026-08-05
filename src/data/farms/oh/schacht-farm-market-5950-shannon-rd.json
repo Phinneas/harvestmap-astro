@@ -1,0 +1,19 @@
+{
+  "slug": "schacht-farm-market-5950-shannon-rd",
+  "name": "Schacht Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5950 Shannon Rd, OH",
+  "locationCity": "5950 Shannon Rd",
+  "locationState": "OH",
+  "locationZipcode": "43110",
+  "lat": 39.89312,
+  "lon": -82.831925,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.223Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hendrix-farm-produce-19011-e-state-highway-52",
+  "name": "Hendrix Farm Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "19011 E State Highway 52, AL",
+  "locationCity": "19011 E State Highway 52",
+  "locationState": "AL",
+  "locationZipcode": "19011",
+  "lat": 31.12422300089348,
+  "lon": -85.57193698620979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:51.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:51.809Z"
+}

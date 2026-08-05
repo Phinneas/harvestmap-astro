@@ -1,0 +1,19 @@
+{
+  "slug": "brookfield-pumpkins-ramsburg-road",
+  "name": "Brookfield Pumpkins",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ramsburg Road, MD",
+  "locationCity": "Ramsburg Road",
+  "locationState": "MD",
+  "locationZipcode": "21788",
+  "lat": 39.5335380172047,
+  "lon": -77.3753890382943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.237Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bakers-farm-fresh-030-fearstown-rd",
+  "name": "Bakers' Farm Fresh",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "030 Fearstown Rd., VA",
+  "locationCity": "030 Fearstown Rd.",
+  "locationState": "VA",
+  "locationZipcode": "23962",
+  "lat": 37.038207974751,
+  "lon": -78.7337660881773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.275Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.275Z"
+}

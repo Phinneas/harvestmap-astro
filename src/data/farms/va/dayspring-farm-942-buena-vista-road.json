@@ -1,0 +1,19 @@
+{
+  "slug": "dayspring-farm-942-buena-vista-road",
+  "name": "Dayspring Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "942 Buena Vista Road, VA",
+  "locationCity": "942 Buena Vista Road",
+  "locationState": "VA",
+  "locationZipcode": "23181",
+  "lat": 37.5339959,
+  "lon": -76.6955667,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.207Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.207Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mackintosh-fruit-farm-csa-1608-russell-road",
+  "name": "Mackintosh Fruit Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1608 Russell Road, VA",
+  "locationCity": "1608 Russell Road",
+  "locationState": "VA",
+  "locationZipcode": "22611",
+  "lat": 39.19493800457332,
+  "lon": -78.0430320175565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.244Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.244Z"
+}

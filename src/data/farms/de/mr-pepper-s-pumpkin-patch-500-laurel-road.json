@@ -1,0 +1,19 @@
+{
+  "slug": "mr-pepper-s-pumpkin-patch-500-laurel-road",
+  "name": "Mr. Pepper's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 Laurel Road, DE",
+  "locationCity": "500 Laurel Road",
+  "locationState": "DE",
+  "locationZipcode": "19956",
+  "lat": 38.5514170050096,
+  "lon": -75.57581041749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.167Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.167Z"
+}

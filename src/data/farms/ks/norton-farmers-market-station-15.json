@@ -1,0 +1,19 @@
+{
+  "slug": "norton-farmers-market-station-15",
+  "name": "Norton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Station 15, KS",
+  "locationCity": "Station 15",
+  "locationState": "KS",
+  "locationZipcode": "67654",
+  "lat": 39.829185396689965,
+  "lon": -99.88701303897224,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

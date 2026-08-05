@@ -1,0 +1,19 @@
+{
+  "slug": "calera-farmers-market-9758-state-rte-25",
+  "name": "Calera Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9758 STATE RTE 25, AL",
+  "locationCity": "9758 STATE RTE 25",
+  "locationState": "AL",
+  "locationZipcode": "35040",
+  "lat": 33.09736963497477,
+  "lon": -86.7681964200099,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

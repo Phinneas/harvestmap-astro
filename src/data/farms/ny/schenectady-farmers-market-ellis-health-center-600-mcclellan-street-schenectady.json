@@ -1,0 +1,19 @@
+{
+  "slug": "schenectady-farmers-market-ellis-health-center-600-mcclellan-street-schenectady",
+  "name": "Schenectady farmers Market Ellis Health Center",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 McClellan Street Schenectady, NY",
+  "locationCity": "600 McClellan Street Schenectady",
+  "locationState": "NY",
+  "locationZipcode": "12304",
+  "lat": 42.80506664523552,
+  "lon": -73.91781553826611,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

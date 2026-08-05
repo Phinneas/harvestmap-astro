@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-foodshare-902-n-mangum-st",
+  "name": "Farmer Foodshare",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "902 N Mangum St, NC",
+  "locationCity": "902 N Mangum St",
+  "locationState": "NC",
+  "locationZipcode": "27701",
+  "lat": 36.003836028279665,
+  "lon": -78.89405259811042,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.329Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.329Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "peck-farm-orchard-750-sibley-rd",
+  "name": "Peck Farm Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "750 Sibley Rd, VT",
+  "locationCity": "750 Sibley Rd",
+  "locationState": "VT",
+  "locationZipcode": "05651",
+  "lat": 44.3104852499292,
+  "lon": -72.5009087980463,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.974Z"
+}

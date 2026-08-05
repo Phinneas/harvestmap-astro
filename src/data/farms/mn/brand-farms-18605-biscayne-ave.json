@@ -1,0 +1,19 @@
+{
+  "slug": "brand-farms-18605-biscayne-ave",
+  "name": "Brand Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "18605 Biscayne Ave, MN",
+  "locationCity": "18605 Biscayne Ave",
+  "locationState": "MN",
+  "locationZipcode": "18605",
+  "lat": 44.6803921436334,
+  "lon": -93.1169892722354,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.786Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.786Z"
+}

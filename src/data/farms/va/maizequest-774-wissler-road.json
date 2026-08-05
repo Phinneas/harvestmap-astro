@@ -1,0 +1,19 @@
+{
+  "slug": "maizequest-774-wissler-road",
+  "name": "MaizeQuest",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "774 Wissler Road, VA",
+  "locationCity": "774 Wissler Road",
+  "locationState": "VA",
+  "locationZipcode": "22847",
+  "lat": 38.725220006297,
+  "lon": -78.6544070293449,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.215Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.215Z"
+}

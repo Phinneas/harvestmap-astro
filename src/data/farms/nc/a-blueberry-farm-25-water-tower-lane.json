@@ -1,0 +1,19 @@
+{
+  "slug": "a-blueberry-farm-25-water-tower-lane",
+  "name": "A Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "25 Water Tower Lane, NC",
+  "locationCity": "25 Water Tower Lane",
+  "locationState": "NC",
+  "locationZipcode": "28789",
+  "lat": 35.4382201728589,
+  "lon": -83.3691294972641,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.873Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.873Z"
+}

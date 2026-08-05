@@ -1,0 +1,19 @@
+{
+  "slug": "boccali-ranch-pumpkin-patch-277-e-ojai-ave",
+  "name": "Boccali Ranch Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "277 E. Ojai Ave, CA",
+  "locationCity": "277 E. Ojai Ave",
+  "locationState": "CA",
+  "locationZipcode": "93023",
+  "lat": 34.4477461398738,
+  "lon": -119.245345408817,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.727Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.727Z"
+}

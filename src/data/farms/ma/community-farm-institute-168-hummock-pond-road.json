@@ -1,0 +1,19 @@
+{
+  "slug": "community-farm-institute-168-hummock-pond-road",
+  "name": "Community Farm Institute",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "168 Hummock Pond Road, MA",
+  "locationCity": "168 Hummock Pond Road",
+  "locationState": "MA",
+  "locationZipcode": "02554",
+  "lat": 41.2632494,
+  "lon": -70.135336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.880Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.880Z"
+}

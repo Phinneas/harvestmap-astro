@@ -1,0 +1,19 @@
+{
+  "slug": "morris-farm-market-3784-caratoke-hwy",
+  "name": "Morris Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3784 Caratoke Hwy, NC",
+  "locationCity": "3784 Caratoke Hwy",
+  "locationState": "NC",
+  "locationZipcode": "27917",
+  "lat": 36.39108221470946,
+  "lon": -75.97951967380895,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.461Z"
+}

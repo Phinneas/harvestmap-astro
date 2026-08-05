@@ -1,0 +1,19 @@
+{
+  "slug": "south-of-the-james-winter-market-3411-semmes-ave-richmond",
+  "name": "South of the James Winter Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3411 Semmes Ave Richmond, VA",
+  "locationCity": "3411 Semmes Ave Richmond",
+  "locationState": "VA",
+  "locationZipcode": "23225",
+  "lat": 37.5162070000154,
+  "lon": -77.46986800686916,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

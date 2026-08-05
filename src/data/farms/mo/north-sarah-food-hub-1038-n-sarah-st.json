@@ -1,0 +1,19 @@
+{
+  "slug": "north-sarah-food-hub-1038-n-sarah-st",
+  "name": "North Sarah Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1038 N Sarah St, MO",
+  "locationCity": "1038 N Sarah St",
+  "locationState": "MO",
+  "locationZipcode": "63113",
+  "lat": 38.64850799024501,
+  "lon": -90.23995599254964,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:56.459Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:56.459Z"
+}

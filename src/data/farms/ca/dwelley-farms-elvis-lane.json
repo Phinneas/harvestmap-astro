@@ -1,0 +1,19 @@
+{
+  "slug": "dwelley-farms-elvis-lane",
+  "name": "Dwelley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Elvis Lane, CA",
+  "locationCity": "Elvis Lane",
+  "locationState": "CA",
+  "locationZipcode": "94548",
+  "lat": 37.9661040184861,
+  "lon": -121.686699959304,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.735Z"
+}

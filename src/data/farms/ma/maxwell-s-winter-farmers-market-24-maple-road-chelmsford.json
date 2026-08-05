@@ -1,0 +1,19 @@
+{
+  "slug": "maxwell-s-winter-farmers-market-24-maple-road-chelmsford",
+  "name": "Maxwell's Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24 Maple Road Chelmsford, MA",
+  "locationCity": "24 Maple Road Chelmsford",
+  "locationState": "MA",
+  "locationZipcode": "01824",
+  "lat": 42.57139066092116,
+  "lon": -71.38178031073957,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.865Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.865Z"
+}

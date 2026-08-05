@@ -1,0 +1,19 @@
+{
+  "slug": "oliver-farms-1034-highway-46",
+  "name": "Oliver Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1034 Highway 46, AL",
+  "locationCity": "1034 Highway 46",
+  "locationState": "AL",
+  "locationZipcode": "35653",
+  "lat": 34.47020371551866,
+  "lon": -87.76713180113336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.677Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.677Z"
+}

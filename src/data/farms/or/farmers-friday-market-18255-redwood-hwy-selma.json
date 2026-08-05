@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-friday-market-18255-redwood-hwy-selma",
+  "name": "Farmers' Friday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "18255 Redwood Hwy Selma, OR",
+  "locationCity": "18255 Redwood Hwy Selma",
+  "locationState": "OR",
+  "locationZipcode": "18255",
+  "lat": 42.28367654918175,
+  "lon": -123.6143873780245,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.423Z"
+}

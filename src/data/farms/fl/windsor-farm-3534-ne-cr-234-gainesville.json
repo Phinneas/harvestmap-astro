@@ -1,0 +1,19 @@
+{
+  "slug": "windsor-farm-3534-ne-cr-234-gainesville",
+  "name": "Windsor Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3534 NE CR 234 Gainesville, FL",
+  "locationCity": "3534 NE CR 234 Gainesville",
+  "locationState": "FL",
+  "locationZipcode": "32641",
+  "lat": 29.6811769901222,
+  "lon": -82.1867840188494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.825Z"
+}

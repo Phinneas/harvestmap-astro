@@ -1,0 +1,19 @@
+{
+  "slug": "saint-luke-farm-2599-saint-luke-rd",
+  "name": "Saint Luke Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2599 Saint Luke  Rd., VA",
+  "locationCity": "2599 Saint Luke  Rd.",
+  "locationState": "VA",
+  "locationZipcode": "22664",
+  "lat": 38.887176941562075,
+  "lon": -78.55907050825613,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.258Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.258Z"
+}

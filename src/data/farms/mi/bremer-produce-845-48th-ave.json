@@ -1,0 +1,19 @@
+{
+  "slug": "bremer-produce-845-48th-ave",
+  "name": "Bremer Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "845 48th Ave, MI",
+  "locationCity": "845 48th Ave",
+  "locationState": "MI",
+  "locationZipcode": "49426",
+  "lat": 42.8581903072618,
+  "lon": -85.9006289541862,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.559Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.559Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dig-deep-farms-produce-16378-east-14th-street",
+  "name": "Dig Deep Farms & Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "16378 East 14th Street, CA",
+  "locationCity": "16378 East 14th Street",
+  "locationState": "CA",
+  "locationZipcode": "16378",
+  "lat": 37.69527127393302,
+  "lon": -122.11385741928306,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.071Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.071Z"
+}

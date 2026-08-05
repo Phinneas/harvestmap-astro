@@ -1,0 +1,19 @@
+{
+  "slug": "hillsdale-farmers-market-1405-sw-vermont-st",
+  "name": "Hillsdale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1405 SW Vermont St, OR",
+  "locationCity": "1405 SW Vermont St",
+  "locationState": "OR",
+  "locationZipcode": "97219",
+  "lat": 45.477581,
+  "lon": -122.6928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.280Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.280Z"
+}

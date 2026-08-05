@@ -1,0 +1,19 @@
+{
+  "slug": "chockalog-farm-710-chockalog-rd",
+  "name": "Chockalog Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "710 Chockalog Rd., MA",
+  "locationCity": "710 Chockalog Rd.",
+  "locationState": "MA",
+  "locationZipcode": "01569",
+  "lat": 42.0298459,
+  "lon": -71.6731642,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.258Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.258Z"
+}

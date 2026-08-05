@@ -1,0 +1,19 @@
+{
+  "slug": "little-parsley-farm-300-little-lake-rd",
+  "name": "Little Parsley Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "300 Little Lake Rd., MI",
+  "locationCity": "300 Little Lake Rd.",
+  "locationState": "MI",
+  "locationZipcode": "49855",
+  "lat": 46.455514238428094,
+  "lon": -87.32654944403401,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.098Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.098Z"
+}

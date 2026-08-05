@@ -1,0 +1,20 @@
+{
+  "slug": "hawkins-organic-170-yates-street",
+  "name": "Hawkins Organic",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "170 Yates Street, TX",
+  "locationCity": "170 Yates Street",
+  "locationState": "TX",
+  "locationZipcode": "75765",
+  "lat": 32.5977619982314,
+  "lon": -95.2073319885914,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.636Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.636Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "south-wind-produce-2144-cothran-road",
+  "name": "South Wind Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2144 Cothran Road, NC",
+  "locationCity": "2144 Cothran Road",
+  "locationState": "NC",
+  "locationZipcode": "27572",
+  "lat": 36.21033045752455,
+  "lon": -78.94525940480887,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.902Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.902Z"
+}

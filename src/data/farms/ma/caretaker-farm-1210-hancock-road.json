@@ -1,0 +1,19 @@
+{
+  "slug": "caretaker-farm-1210-hancock-road",
+  "name": "Caretaker Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1210 Hancock Road, MA",
+  "locationCity": "1210 Hancock Road",
+  "locationState": "MA",
+  "locationZipcode": "01267",
+  "lat": 42.64107036527295,
+  "lon": -73.27212028823426,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.281Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.281Z"
+}

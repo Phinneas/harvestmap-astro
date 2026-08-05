@@ -1,0 +1,19 @@
+{
+  "slug": "irondequoit-farmers-market-1280-titus-ave",
+  "name": "Irondequoit Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1280 Titus Ave, NY",
+  "locationCity": "1280 Titus Ave",
+  "locationState": "NY",
+  "locationZipcode": "14617",
+  "lat": 43.211136849307096,
+  "lon": -77.58263051639183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

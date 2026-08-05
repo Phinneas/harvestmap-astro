@@ -1,0 +1,19 @@
+{
+  "slug": "little-italy-mercato-cfm-555-w-date-street",
+  "name": "Little Italy Mercato CFM",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "555 W Date Street, CA",
+  "locationCity": "555 W Date Street",
+  "locationState": "CA",
+  "locationZipcode": "92101",
+  "lat": 32.723123,
+  "lon": -117.16757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.351Z"
+}

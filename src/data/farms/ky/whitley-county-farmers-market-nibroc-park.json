@@ -1,0 +1,19 @@
+{
+  "slug": "whitley-county-farmers-market-nibroc-park",
+  "name": "Whitley County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "NIBROC Park, KY",
+  "locationCity": "NIBROC Park",
+  "locationState": "KY",
+  "locationZipcode": "40771",
+  "lat": 36.947,
+  "lon": -84.096509,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.728Z"
+}

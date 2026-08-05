@@ -1,0 +1,19 @@
+{
+  "slug": "spring-creek-meats-21010-co-hwy-r",
+  "name": "Spring Creek Meats",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "21010 Co Hwy R, WI",
+  "locationCity": "21010 Co Hwy R",
+  "locationState": "WI",
+  "locationZipcode": "21010",
+  "lat": 45.13618201722213,
+  "lon": -91.2514409847797,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.460Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.460Z"
+}

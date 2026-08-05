@@ -1,0 +1,20 @@
+{
+  "slug": "rose-s-berry-farm-295-matson-hill-rd",
+  "name": "Rose's Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "295 Matson Hill Rd, CT",
+  "locationCity": "295 Matson Hill Rd",
+  "locationState": "CT",
+  "locationZipcode": "06073",
+  "lat": 41.6565339880327,
+  "lon": -72.5809840078377,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.961Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.961Z",
+  "crops": []
+}

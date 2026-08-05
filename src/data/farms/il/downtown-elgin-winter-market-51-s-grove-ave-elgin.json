@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-elgin-winter-market-51-s-grove-ave-elgin",
+  "name": "Downtown Elgin Winter Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "51 S. Grove Ave Elgin, IL",
+  "locationCity": "51 S. Grove Ave Elgin",
+  "locationState": "IL",
+  "locationZipcode": "60120",
+  "lat": 42.03577295904123,
+  "lon": -88.283076321737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mendota-farmers-market-700-main-street-mendota",
+  "name": "Mendota Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 Main Street Mendota, IL",
+  "locationCity": "700 Main Street Mendota",
+  "locationState": "IL",
+  "locationZipcode": "61342",
+  "lat": 41.548120185470495,
+  "lon": -89.11844892013275,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

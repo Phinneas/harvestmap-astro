@@ -1,0 +1,19 @@
+{
+  "slug": "edison-farmers-market-925-amboy-avenue-edison",
+  "name": "Edison Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "925 Amboy Avenue Edison, NJ",
+  "locationCity": "925 Amboy Avenue Edison",
+  "locationState": "NJ",
+  "locationZipcode": "08837",
+  "lat": 40.53317070709849,
+  "lon": -74.33256508530945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

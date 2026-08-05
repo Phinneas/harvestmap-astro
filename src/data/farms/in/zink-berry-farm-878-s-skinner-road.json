@@ -1,0 +1,19 @@
+{
+  "slug": "zink-berry-farm-878-s-skinner-road",
+  "name": "Zink Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "878 S. Skinner Road, IN",
+  "locationCity": "878 S. Skinner Road",
+  "locationState": "IN",
+  "locationZipcode": "46160",
+  "lat": 39.3475999963909,
+  "lon": -86.2751602160243,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.348Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.348Z"
+}

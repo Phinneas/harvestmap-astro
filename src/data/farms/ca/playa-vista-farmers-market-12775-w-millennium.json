@@ -1,0 +1,19 @@
+{
+  "slug": "playa-vista-farmers-market-12775-w-millennium",
+  "name": "Playa Vista Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12775 W. Millennium, CA",
+  "locationCity": "12775 W. Millennium",
+  "locationState": "CA",
+  "locationZipcode": "12775",
+  "lat": 33.975922,
+  "lon": -118.41662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.351Z"
+}

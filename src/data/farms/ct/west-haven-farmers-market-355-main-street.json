@@ -1,0 +1,19 @@
+{
+  "slug": "west-haven-farmers-market-355-main-street",
+  "name": "West Haven Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "355 Main Street, CT",
+  "locationCity": "355 Main Street",
+  "locationState": "CT",
+  "locationZipcode": "06516",
+  "lat": 41.271879,
+  "lon": -72.949946,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.601Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.601Z"
+}

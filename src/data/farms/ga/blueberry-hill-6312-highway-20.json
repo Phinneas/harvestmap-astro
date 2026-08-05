@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-6312-highway-20",
+  "name": "Blueberry Hill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6312 Highway 20, GA",
+  "locationCity": "6312 Highway 20",
+  "locationState": "GA",
+  "locationZipcode": "30016",
+  "lat": 33.52821891434195,
+  "lon": -84.03006510462852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.402Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.402Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wellington-farmers-market-4th-cleveland-wellington",
+  "name": "Wellington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4th & Cleveland Wellington, CO",
+  "locationCity": "4th & Cleveland Wellington",
+  "locationState": "CO",
+  "locationZipcode": "80549",
+  "lat": 40.70395001243054,
+  "lon": -105.00338996993536,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.367Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.367Z"
+}

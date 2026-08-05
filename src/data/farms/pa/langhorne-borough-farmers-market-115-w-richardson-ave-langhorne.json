@@ -1,0 +1,19 @@
+{
+  "slug": "langhorne-borough-farmers-market-115-w-richardson-ave-langhorne",
+  "name": "Langhorne Borough Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 W. Richardson Ave. Langhorne, PA",
+  "locationCity": "115 W. Richardson Ave. Langhorne",
+  "locationState": "PA",
+  "locationZipcode": "19047",
+  "lat": 40.174891899867,
+  "lon": -74.92069149498968,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sidetrack-market-3349-n-halsted-street-chicago",
+  "name": "Sidetrack Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3349 N. halsted street Chicago, IL",
+  "locationCity": "3349 N. halsted street Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60657",
+  "lat": 41.942957026024416,
+  "lon": -87.64935107139092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

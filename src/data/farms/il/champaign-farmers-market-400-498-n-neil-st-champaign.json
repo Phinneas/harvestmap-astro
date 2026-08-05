@@ -1,0 +1,20 @@
+{
+  "slug": "champaign-farmers-market-400-498-n-neil-st-champaign",
+  "name": "Champaign Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400-498 N Neil St Champaign, IL",
+  "locationCity": "400-498 N Neil St Champaign",
+  "locationState": "IL",
+  "locationZipcode": "61820",
+  "lat": 40.11987554328879,
+  "lon": -88.24355741815299,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z",
+  "crops": []
+}

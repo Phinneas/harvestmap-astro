@@ -1,0 +1,19 @@
+{
+  "slug": "freddy-hill-farm-1440-sumneytown-pike",
+  "name": "Freddy Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1440 Sumneytown Pike, PA",
+  "locationCity": "1440 Sumneytown Pike",
+  "locationState": "PA",
+  "locationZipcode": "19446",
+  "lat": 40.236582006438,
+  "lon": -75.326650987997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.134Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.134Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wenninghoff-6707-wenninghoff-road",
+  "name": "Wenninghoff",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6707 Wenninghoff Road, NE",
+  "locationCity": "6707 Wenninghoff Road",
+  "locationState": "NE",
+  "locationZipcode": "68122",
+  "lat": 41.32053278448086,
+  "lon": -96.0421176608848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:48.588Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:48.588Z"
+}

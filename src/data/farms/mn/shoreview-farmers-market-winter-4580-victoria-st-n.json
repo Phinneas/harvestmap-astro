@@ -1,0 +1,19 @@
+{
+  "slug": "shoreview-farmers-market-winter-4580-victoria-st-n",
+  "name": "Shoreview Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4580 Victoria St N, MN",
+  "locationCity": "4580 Victoria St N",
+  "locationState": "MN",
+  "locationZipcode": "55126",
+  "lat": 45.0805484,
+  "lon": -93.1317343,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "berryview-orchard-504-west-midtown-road",
+  "name": "BerryView Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "504 West Midtown Road, IL",
+  "locationCity": "504 West Midtown Road",
+  "locationState": "IL",
+  "locationZipcode": "61054",
+  "lat": 42.0711602260757,
+  "lon": -89.4349519202557,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.871Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.871Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "berrutis-harvest-house-1098-main-street",
+  "name": "Berrutis Harvest House",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1098 Main Street, CT",
+  "locationCity": "1098 Main Street",
+  "locationState": "CT",
+  "locationZipcode": "06073",
+  "lat": 41.67359401084184,
+  "lon": -72.59906695811034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.193Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.193Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "b-and-b-farm-1200-rock-fork-road",
+  "name": "B and B Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1200 Rock Fork Road, KY",
+  "locationCity": "1200 Rock Fork Road",
+  "locationState": "KY",
+  "locationZipcode": "40351",
+  "lat": 38.29557898840662,
+  "lon": -83.42270000065803,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:19.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:19.406Z"
+}

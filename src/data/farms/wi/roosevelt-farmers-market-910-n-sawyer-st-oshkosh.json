@@ -1,0 +1,19 @@
+{
+  "slug": "roosevelt-farmers-market-910-n-sawyer-st-oshkosh",
+  "name": "Roosevelt Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "910 N Sawyer St oshkosh, WI",
+  "locationCity": "910 N Sawyer St oshkosh",
+  "locationState": "WI",
+  "locationZipcode": "54902",
+  "lat": 44.02888843367028,
+  "lon": -88.5671276268294,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

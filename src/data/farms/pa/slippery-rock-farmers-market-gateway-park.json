@@ -1,0 +1,19 @@
+{
+  "slug": "slippery-rock-farmers-market-gateway-park",
+  "name": "Slippery Rock Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Gateway Park, PA",
+  "locationCity": "Gateway Park",
+  "locationState": "PA",
+  "locationZipcode": "16057",
+  "lat": 41.062533,
+  "lon": -80.050842,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:18.996Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:18.996Z"
+}

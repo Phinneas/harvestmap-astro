@@ -1,0 +1,19 @@
+{
+  "slug": "poorman-s-island-market-1468-woodward-avenue-lock-haven",
+  "name": "Poorman's Island Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1468 Woodward Avenue Lock Haven, PA",
+  "locationCity": "1468 Woodward Avenue Lock Haven",
+  "locationState": "PA",
+  "locationZipcode": "17745",
+  "lat": 41.15755925573316,
+  "lon": -77.38399711665166,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

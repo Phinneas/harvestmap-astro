@@ -1,0 +1,19 @@
+{
+  "slug": "bacon-acres-ranch-31089-118th-rd",
+  "name": "Bacon Acres Ranch",
+  "source": "usda",
+  "directory": "csa",
+  "location": "31089  118th RD, MO",
+  "locationCity": "31089  118th RD",
+  "locationState": "MO",
+  "locationZipcode": "31089",
+  "lat": 38.9947437,
+  "lon": -93.0326962,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:52.649Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:52.649Z"
+}

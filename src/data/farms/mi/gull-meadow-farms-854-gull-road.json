@@ -1,0 +1,19 @@
+{
+  "slug": "gull-meadow-farms-854-gull-road",
+  "name": "Gull Meadow Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "854 Gull Road, MI",
+  "locationCity": "854 Gull Road",
+  "locationState": "MI",
+  "locationZipcode": "49083",
+  "lat": 42.3580760532796,
+  "lon": -85.4748024086927,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.541Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-on-the-court-square-at-4th-street-and-maple-street",
+  "name": "Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "on the court square at 4th Street and Maple Street, KY",
+  "locationCity": "on the court square at 4th Street and Maple Street",
+  "locationState": "KY",
+  "locationZipcode": "42071",
+  "lat": 36.609868,
+  "lon": -88.302435,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.718Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.718Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cross-e-ranch-west-center-street",
+  "name": "Cross E Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "West Center Street, UT",
+  "locationCity": "West Center Street",
+  "locationState": "UT",
+  "locationZipcode": "83350",
+  "lat": 40.8412059819518,
+  "lon": -111.954142019131,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.407Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.407Z"
+}

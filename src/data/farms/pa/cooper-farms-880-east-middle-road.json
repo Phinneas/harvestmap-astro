@@ -1,0 +1,19 @@
+{
+  "slug": "cooper-farms-880-east-middle-road",
+  "name": "Cooper Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "880 East Middle Road, PA",
+  "locationCity": "880 East Middle Road",
+  "locationState": "PA",
+  "locationZipcode": "16428",
+  "lat": 42.2554651106205,
+  "lon": -79.7805577240163,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.168Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.168Z"
+}

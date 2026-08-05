@@ -1,0 +1,20 @@
+{
+  "slug": "the-blue-nickol-blueberries-158-atlantic-street",
+  "name": "The Blue Nickol Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "158 Atlantic Street, OR",
+  "locationCity": "158 Atlantic Street",
+  "locationState": "OR",
+  "locationZipcode": "97128",
+  "lat": 45.2025609906775,
+  "lon": -123.175896016497,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.976Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.976Z",
+  "crops": []
+}

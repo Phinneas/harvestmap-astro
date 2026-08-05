@@ -1,0 +1,19 @@
+{
+  "slug": "halfway-acres-200-purgatory-road",
+  "name": "Halfway Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 Purgatory Road, NY",
+  "locationCity": "200 Purgatory Road",
+  "locationState": "NY",
+  "locationZipcode": "10916",
+  "lat": 41.4174110728397,
+  "lon": -74.2606748241282,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.894Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.894Z"
+}

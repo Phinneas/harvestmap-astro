@@ -1,0 +1,19 @@
+{
+  "slug": "basin-farmers-market-4th-street-c-street-basin",
+  "name": "Basin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4th Street & C Street Basin, WY",
+  "locationCity": "4th Street & C Street Basin",
+  "locationState": "WY",
+  "locationZipcode": "82410",
+  "lat": 44.38111000432684,
+  "lon": -108.038959991205,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.423Z"
+}

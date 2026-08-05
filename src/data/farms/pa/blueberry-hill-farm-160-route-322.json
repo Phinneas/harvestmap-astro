@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-farm-160-route-322",
+  "name": "Blueberry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "160 Route 322, PA",
+  "locationCity": "160 Route 322",
+  "locationState": "PA",
+  "locationZipcode": "15851",
+  "lat": 41.0988459412483,
+  "lon": -78.8910413579125,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.074Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.074Z"
+}

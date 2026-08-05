@@ -1,0 +1,19 @@
+{
+  "slug": "rose-city-farmers-market-7212-old-jacksonville-hwy-tyler",
+  "name": "Rose City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7212 Old Jacksonville Hwy. Tyler, TX",
+  "locationCity": "7212 Old Jacksonville Hwy. Tyler",
+  "locationState": "TX",
+  "locationZipcode": "75703",
+  "lat": 32.26789229069149,
+  "lon": -95.34140889605811,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

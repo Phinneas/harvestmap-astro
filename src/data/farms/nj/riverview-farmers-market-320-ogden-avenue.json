@@ -1,0 +1,20 @@
+{
+  "slug": "riverview-farmers-market-320-ogden-avenue",
+  "name": "Riverview Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 Ogden Avenue, NJ",
+  "locationCity": "320 Ogden Avenue",
+  "locationState": "NJ",
+  "locationZipcode": "07307",
+  "lat": 40.744736,
+  "lon": -74.042798,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:21.843Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:21.843Z",
+  "crops": []
+}

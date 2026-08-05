@@ -1,0 +1,19 @@
+{
+  "slug": "full-belly-farm-road-43",
+  "name": "Full Belly Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Road 43, CA",
+  "locationCity": "Road 43",
+  "locationState": "CA",
+  "locationZipcode": "95637",
+  "lat": 38.8586889030497,
+  "lon": -122.21036676787696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.069Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "grider-farm-pumpkin-patch-14500-s-country-club-road",
+  "name": "Grider Farm Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "14500 S. Country Club Road, OK",
+  "locationCity": "14500 S. Country Club Road",
+  "locationState": "OK",
+  "locationZipcode": "14500",
+  "lat": 35.9529580017333,
+  "lon": -97.1252440368409,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.322Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.322Z"
+}

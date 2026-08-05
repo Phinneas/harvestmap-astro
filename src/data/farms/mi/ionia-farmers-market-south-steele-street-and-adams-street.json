@@ -1,0 +1,19 @@
+{
+  "slug": "ionia-farmers-market-south-steele-street-and-adams-street",
+  "name": "Ionia Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "South Steele Street and Adams Street, MI",
+  "locationCity": "South Steele Street and Adams Street",
+  "locationState": "MI",
+  "locationZipcode": "48846",
+  "lat": 42.9814841,
+  "lon": -85.067726,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.180Z"
+}

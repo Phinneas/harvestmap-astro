@@ -1,0 +1,19 @@
+{
+  "slug": "queener-farm-385-queener-dr",
+  "name": "Queener Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "385 Queener Dr, OR",
+  "locationCity": "385 Queener Dr",
+  "locationState": "OR",
+  "locationZipcode": "97374",
+  "lat": 44.7698392968688,
+  "lon": -122.791684755056,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.785Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.785Z"
+}

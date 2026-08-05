@@ -1,0 +1,19 @@
+{
+  "slug": "westside-farmers-market-831-genesee-st",
+  "name": "Westside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "831 Genesee St, NY",
+  "locationCity": "831 Genesee St",
+  "locationState": "NY",
+  "locationZipcode": "14036",
+  "lat": 42.956483278632305,
+  "lon": -78.42439465707409,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "slow-farm-4700-whitmore-lake-rd",
+  "name": "Slow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4700 Whitmore Lake Rd, MI",
+  "locationCity": "4700 Whitmore Lake Rd",
+  "locationState": "MI",
+  "locationZipcode": "48105",
+  "lat": 42.339975010762,
+  "lon": -83.7487680203043,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.607Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.607Z"
+}

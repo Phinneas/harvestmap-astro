@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-dale-produce-850-w-6100-s",
+  "name": "Farmer Dale Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "850 W. 6100 S., UT",
+  "locationCity": "850 W. 6100 S.",
+  "locationState": "UT",
+  "locationZipcode": "84339",
+  "lat": 41.6218489765779,
+  "lon": -111.916361186344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.554Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.554Z"
+}

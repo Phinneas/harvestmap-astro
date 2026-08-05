@@ -1,0 +1,19 @@
+{
+  "slug": "buffalo-pumpkin-patch-1500-front-street",
+  "name": "Buffalo Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1500 Front Street, IA",
+  "locationCity": "1500 Front Street",
+  "locationState": "IA",
+  "locationZipcode": "52728",
+  "lat": 41.4563559933828,
+  "lon": -90.7448590410617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.693Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.693Z"
+}

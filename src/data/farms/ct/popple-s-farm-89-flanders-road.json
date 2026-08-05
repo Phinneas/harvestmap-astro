@@ -1,0 +1,19 @@
+{
+  "slug": "popple-s-farm-89-flanders-road",
+  "name": "Popple's Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "89 Flanders Road, CT",
+  "locationCity": "89 Flanders Road",
+  "locationState": "CT",
+  "locationZipcode": "06238",
+  "lat": 41.7367630087476,
+  "lon": -72.26497200888814,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

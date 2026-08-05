@@ -1,0 +1,19 @@
+{
+  "slug": "engelhart-farms-940-west-osage",
+  "name": "Engelhart Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "940 West Osage, MO",
+  "locationCity": "940 West Osage",
+  "locationState": "MO",
+  "locationZipcode": "63069",
+  "lat": 38.4840122082606,
+  "lon": -90.7516249107095,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.736Z"
+}

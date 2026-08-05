@@ -1,0 +1,19 @@
+{
+  "slug": "beatty-farm-175-hyland-stringer-road",
+  "name": "Beatty Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "175 Hyland Stringer Road, WA",
+  "locationCity": "175 Hyland Stringer Road",
+  "locationState": "WA",
+  "locationZipcode": "98577",
+  "lat": 46.5844485862975,
+  "lon": -123.650270584822,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.323Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.323Z"
+}

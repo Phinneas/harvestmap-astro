@@ -1,0 +1,20 @@
+{
+  "slug": "bug-hill-farm-502-bug-hill-rd-po-box-459",
+  "name": "Bug Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "502 Bug Hill Rd PO BOX 459, MA",
+  "locationCity": "502 Bug Hill Rd PO BOX 459",
+  "locationState": "MA",
+  "locationZipcode": "01330",
+  "lat": 42.5206996139701,
+  "lon": -72.8236122768482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.468Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.468Z",
+  "crops": []
+}

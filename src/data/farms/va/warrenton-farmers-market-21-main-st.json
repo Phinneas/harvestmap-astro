@@ -1,0 +1,19 @@
+{
+  "slug": "warrenton-farmers-market-21-main-st",
+  "name": "Warrenton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "21 Main St, VA",
+  "locationCity": "21 Main St",
+  "locationState": "VA",
+  "locationZipcode": "20186",
+  "lat": 38.7136239328489,
+  "lon": -77.7951171312285,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

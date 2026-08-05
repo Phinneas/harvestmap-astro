@@ -1,0 +1,19 @@
+{
+  "slug": "floyd-farms-strawberries-043-stone-road",
+  "name": "Floyd Farms Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "043 Stone Road, NC",
+  "locationCity": "043 Stone Road",
+  "locationState": "NC",
+  "locationZipcode": "28340",
+  "lat": 34.5670767066541,
+  "lon": -79.1643144766508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.864Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "seton-harvest-9400-new-harmony-rd",
+  "name": "Seton Harvest",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9400 New Harmony Rd., IN",
+  "locationCity": "9400 New Harmony Rd.",
+  "locationState": "IN",
+  "locationZipcode": "47720",
+  "lat": 38.0352814,
+  "lon": -87.6832298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.535Z"
+}

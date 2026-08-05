@@ -1,0 +1,19 @@
+{
+  "slug": "hill-section-farm-3047-centerville-road",
+  "name": "Hill Section Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3047 Centerville Road, VT",
+  "locationCity": "3047 Centerville Road",
+  "locationState": "VT",
+  "locationZipcode": "05655",
+  "lat": 44.62123698770125,
+  "lon": -72.5748440123046,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.243Z"
+}

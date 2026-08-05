@@ -1,0 +1,19 @@
+{
+  "slug": "platte-county-farmers-market-711-9th-street-wheatland",
+  "name": "Platte County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "711 9th Street Wheatland, WY",
+  "locationCity": "711 9th Street Wheatland",
+  "locationState": "WY",
+  "locationZipcode": "82201",
+  "lat": 42.0545272371574,
+  "lon": -104.95325023885026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

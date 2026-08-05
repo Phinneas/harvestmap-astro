@@ -1,0 +1,20 @@
+{
+  "slug": "minards-family-farm-250-hurds-road",
+  "name": "Minards Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "250 Hurds Road, NY",
+  "locationCity": "250 Hurds Road",
+  "locationState": "NY",
+  "locationZipcode": "12515",
+  "lat": 41.7060167372039,
+  "lon": -74.0666708739859,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.945Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.945Z",
+  "crops": []
+}

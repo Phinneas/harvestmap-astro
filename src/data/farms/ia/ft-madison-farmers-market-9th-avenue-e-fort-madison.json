@@ -1,0 +1,19 @@
+{
+  "slug": "ft-madison-farmers-market-9th-avenue-e-fort-madison",
+  "name": "Ft Madison Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9th & Avenue E Fort Madison, IA",
+  "locationCity": "9th & Avenue E Fort Madison",
+  "locationState": "IA",
+  "locationZipcode": "52627",
+  "lat": 40.63300998445274,
+  "lon": -91.3134499691955,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

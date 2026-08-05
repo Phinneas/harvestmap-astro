@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-of-mobile-2245-hls-mill-rd",
+  "name": "Farmers Market of Mobile",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2245 HLS MILL RD, AL",
+  "locationCity": "2245 HLS MILL RD",
+  "locationState": "AL",
+  "locationZipcode": "36606",
+  "lat": 30.659704896803788,
+  "lon": -88.0975803525508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.018Z"
+}

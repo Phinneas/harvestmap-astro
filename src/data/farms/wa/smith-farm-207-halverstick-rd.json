@@ -1,0 +1,19 @@
+{
+  "slug": "smith-farm-207-halverstick-rd",
+  "name": "Smith Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "207 Halverstick Rd, WA",
+  "locationCity": "207 Halverstick Rd",
+  "locationState": "WA",
+  "locationZipcode": "98264",
+  "lat": 48.9933074809848,
+  "lon": -122.368767310777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.364Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.364Z"
+}

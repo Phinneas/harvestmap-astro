@@ -1,0 +1,19 @@
+{
+  "slug": "surprise-valley-farmers-market-501-main",
+  "name": "Surprise Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "501 Main, CA",
+  "locationCity": "501 Main",
+  "locationState": "CA",
+  "locationZipcode": "96104",
+  "lat": 41.527832,
+  "lon": -120.17166,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

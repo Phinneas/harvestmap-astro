@@ -1,0 +1,19 @@
+{
+  "slug": "canterbury-community-farmers-market-9-center-road-canterbury",
+  "name": "Canterbury Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9 Center Road Canterbury, NH",
+  "locationCity": "9 Center Road Canterbury",
+  "locationState": "NH",
+  "locationZipcode": "03224",
+  "lat": 43.33711600880431,
+  "lon": -71.56476658110451,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.153Z"
+}

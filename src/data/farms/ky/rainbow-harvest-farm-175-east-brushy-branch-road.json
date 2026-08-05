@@ -1,0 +1,19 @@
+{
+  "slug": "rainbow-harvest-farm-175-east-brushy-branch-road",
+  "name": "Rainbow Harvest Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "175 East Brushy Branch Road, KY",
+  "locationCity": "175 East Brushy Branch Road",
+  "locationState": "KY",
+  "locationZipcode": "42539",
+  "lat": 37.2707730146455,
+  "lon": -85.0722749741153,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.635Z"
+}

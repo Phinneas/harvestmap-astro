@@ -1,0 +1,19 @@
+{
+  "slug": "the-market-nhumc-835-poleman-rd",
+  "name": "The Market @ NHUMC",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "835 Poleman Rd, LA",
+  "locationCity": "835 Poleman Rd",
+  "locationState": "LA",
+  "locationZipcode": "71107",
+  "lat": 32.5727809,
+  "lon": -93.7816484,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.753Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.753Z"
+}

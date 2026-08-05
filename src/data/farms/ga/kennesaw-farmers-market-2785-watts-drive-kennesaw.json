@@ -1,0 +1,19 @@
+{
+  "slug": "kennesaw-farmers-market-2785-watts-drive-kennesaw",
+  "name": "Kennesaw Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2785 Watts Drive Kennesaw, GA",
+  "locationCity": "2785 Watts Drive Kennesaw",
+  "locationState": "GA",
+  "locationZipcode": "30144",
+  "lat": 34.02057360527674,
+  "lon": -84.62083240433866,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

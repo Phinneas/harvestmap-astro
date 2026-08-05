@@ -1,0 +1,19 @@
+{
+  "slug": "fleischman-orchard-knutson-lane",
+  "name": "Fleischman Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Knutson Lane, WI",
+  "locationCity": "Knutson Lane",
+  "locationState": "WI",
+  "locationZipcode": "54616",
+  "lat": 44.2457200140905,
+  "lon": -91.1767449840795,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.446Z"
+}

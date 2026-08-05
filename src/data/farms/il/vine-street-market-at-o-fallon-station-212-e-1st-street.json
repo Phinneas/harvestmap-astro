@@ -1,0 +1,19 @@
+{
+  "slug": "vine-street-market-at-o-fallon-station-212-e-1st-street",
+  "name": "Vine Street Market at O'Fallon Station",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "212 E 1st Street, IL",
+  "locationCity": "212 E 1st Street",
+  "locationState": "IL",
+  "locationZipcode": "62269",
+  "lat": 38.591615,
+  "lon": -89.908925,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.950Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.950Z"
+}

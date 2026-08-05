@@ -1,0 +1,19 @@
+{
+  "slug": "woolery-farmers-market-2250-w-sunstone-dr",
+  "name": "Woolery Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2250 W Sunstone Dr, IN",
+  "locationCity": "2250 W Sunstone Dr",
+  "locationState": "IN",
+  "locationZipcode": "47403",
+  "lat": 39.138753,
+  "lon": -86.559788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.610Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.610Z"
+}

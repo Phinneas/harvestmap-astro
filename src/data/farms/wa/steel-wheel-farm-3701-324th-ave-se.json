@@ -1,0 +1,19 @@
+{
+  "slug": "steel-wheel-farm-3701-324th-ave-se",
+  "name": "Steel Wheel Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3701 324th Ave SE, WA",
+  "locationCity": "3701 324th Ave SE",
+  "locationState": "WA",
+  "locationZipcode": "98024",
+  "lat": 47.57500118645547,
+  "lon": -121.90885483717032,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.620Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "port-townsend-farmers-market-600-block-tyler-st",
+  "name": "Port Townsend Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 Block Tyler St, WA",
+  "locationCity": "600 Block Tyler St",
+  "locationState": "WA",
+  "locationZipcode": "98368",
+  "lat": 48.11702,
+  "lon": -122.7603,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.733Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.733Z"
+}

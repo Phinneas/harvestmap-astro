@@ -1,0 +1,19 @@
+{
+  "slug": "castine-farmers-market-432-the-shore-road-castine",
+  "name": "Castine Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "432 The Shore Road Castine, ME",
+  "locationCity": "432 The Shore Road Castine",
+  "locationState": "ME",
+  "locationZipcode": "04421",
+  "lat": 44.431080005273095,
+  "lon": -68.80143275652705,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:57.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:57.069Z"
+}

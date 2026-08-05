@@ -1,0 +1,19 @@
+{
+  "slug": "strawberry-patch-063-370th-street",
+  "name": "Strawberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "063 370th Street, MN",
+  "locationCity": "063 370th Street",
+  "locationState": "MN",
+  "locationZipcode": "56352",
+  "lat": 45.6578651526141,
+  "lon": -94.8296396896068,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.801Z"
+}

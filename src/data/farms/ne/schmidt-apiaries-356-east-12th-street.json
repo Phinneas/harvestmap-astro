@@ -1,0 +1,19 @@
+{
+  "slug": "schmidt-apiaries-356-east-12th-street",
+  "name": "Schmidt Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "356 East 12th Street, NE",
+  "locationCity": "356 East 12th Street",
+  "locationState": "NE",
+  "locationZipcode": "68333",
+  "lat": 40.624285,
+  "lon": -96.9584849999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.629Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.629Z"
+}

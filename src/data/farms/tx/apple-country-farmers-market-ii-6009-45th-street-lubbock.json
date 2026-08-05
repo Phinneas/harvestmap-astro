@@ -1,0 +1,19 @@
+{
+  "slug": "apple-country-farmers-market-ii-6009-45th-street-lubbock",
+  "name": "Apple Country Farmers Market II",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6009 45th Street Lubbock, TX",
+  "locationCity": "6009 45th Street Lubbock",
+  "locationState": "TX",
+  "locationZipcode": "79407",
+  "lat": 33.55338777364512,
+  "lon": -101.94287502172774,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

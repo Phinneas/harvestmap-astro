@@ -1,0 +1,19 @@
+{
+  "slug": "deer-creek-farms-1573-jenkins-road",
+  "name": "Deer Creek Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1573 Jenkins Road, GA",
+  "locationCity": "1573 Jenkins Road",
+  "locationState": "GA",
+  "locationZipcode": "31029",
+  "lat": 32.99801077916632,
+  "lon": -83.83648836849467,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:57.883Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:57.883Z"
+}

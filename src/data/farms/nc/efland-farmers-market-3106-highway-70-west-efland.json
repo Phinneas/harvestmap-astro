@@ -1,0 +1,19 @@
+{
+  "slug": "efland-farmers-market-3106-highway-70-west-efland",
+  "name": "Efland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3106 Highway 70 West Efland, NC",
+  "locationCity": "3106 Highway 70 West Efland",
+  "locationState": "NC",
+  "locationZipcode": "27243",
+  "lat": 36.08155622401836,
+  "lon": -79.16044382701605,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

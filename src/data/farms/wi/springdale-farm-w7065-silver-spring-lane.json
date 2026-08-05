@@ -1,0 +1,19 @@
+{
+  "slug": "springdale-farm-w7065-silver-spring-lane",
+  "name": "Springdale Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "W7065 Silver Spring Lane, WI",
+  "locationCity": "W7065 Silver Spring Lane",
+  "locationState": "WI",
+  "locationZipcode": "53073",
+  "lat": 43.708481301417805,
+  "lon": -88.04941114413059,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.020Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "central-montana-food-hub-32-spring-creek-rd",
+  "name": "Central Montana Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "32 Spring Creek Rd, MT",
+  "locationCity": "32 Spring Creek Rd",
+  "locationState": "MT",
+  "locationZipcode": "59053",
+  "lat": 46.542361910732765,
+  "lon": -110.44441749577675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:23.762Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:23.762Z"
+}

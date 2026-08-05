@@ -1,0 +1,19 @@
+{
+  "slug": "trogg-s-hollow-11577-poplar-grove-road",
+  "name": "Trogg's Hollow",
+  "source": "usda",
+  "directory": "csa",
+  "location": "11577 Poplar Grove Road, IL",
+  "locationCity": "11577 Poplar Grove Road",
+  "locationState": "IL",
+  "locationZipcode": "11577",
+  "lat": 42.322216,
+  "lon": -88.820853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.481Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.481Z"
+}

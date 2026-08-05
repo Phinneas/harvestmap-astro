@@ -1,0 +1,20 @@
+{
+  "slug": "lewis-county-farms-107-pinkerton-rd",
+  "name": "Lewis County Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "107 Pinkerton Rd, WA",
+  "locationCity": "107 Pinkerton Rd",
+  "locationState": "WA",
+  "locationZipcode": "98542",
+  "lat": 46.5282734883261,
+  "lon": -122.699149096248,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.169Z",
+  "crops": []
+}

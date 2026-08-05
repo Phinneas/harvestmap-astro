@@ -1,0 +1,19 @@
+{
+  "slug": "charlestown-farm-2565-charlestown-road",
+  "name": "Charlestown Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2565 Charlestown Road, PA",
+  "locationCity": "2565 Charlestown Road",
+  "locationState": "PA",
+  "locationZipcode": "19460",
+  "lat": 40.1082246,
+  "lon": -75.5560771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.567Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.567Z"
+}

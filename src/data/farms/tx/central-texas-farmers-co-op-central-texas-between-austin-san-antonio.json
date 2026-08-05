@@ -1,0 +1,19 @@
+{
+  "slug": "central-texas-farmers-co-op-central-texas-between-austin-san-antonio",
+  "name": "Central Texas Farmers Co-op",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Central Texas between Austin/ San Antonio, TX",
+  "locationCity": "Central Texas between Austin/ San Antonio",
+  "locationState": "TX",
+  "locationZipcode": "78666",
+  "lat": 29.81331233966925,
+  "lon": -98.0064931022048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.891Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.891Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gothenburg-farmers-market-1001-lake-ave-gothenburg",
+  "name": "Gothenburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1001 Lake Ave Gothenburg, NE",
+  "locationCity": "1001 Lake Ave Gothenburg",
+  "locationState": "NE",
+  "locationZipcode": "69138",
+  "lat": 40.928661370058634,
+  "lon": -100.16133534366782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

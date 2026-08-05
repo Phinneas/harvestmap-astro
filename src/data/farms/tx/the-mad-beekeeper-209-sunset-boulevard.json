@@ -1,0 +1,19 @@
+{
+  "slug": "the-mad-beekeeper-209-sunset-boulevard",
+  "name": "The Mad Beekeeper",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "209 Sunset Boulevard, TX",
+  "locationCity": "209 Sunset Boulevard",
+  "locationState": "TX",
+  "locationZipcode": "77303",
+  "lat": 30.3566673,
+  "lon": -95.4704955,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.455Z"
+}

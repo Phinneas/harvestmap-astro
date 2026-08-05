@@ -1,0 +1,19 @@
+{
+  "slug": "weare-farmers-market-65-n-stark-hwy",
+  "name": "Weare Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "65 N Stark Hwy, NH",
+  "locationCity": "65 N Stark Hwy",
+  "locationState": "NH",
+  "locationZipcode": "03281",
+  "lat": 43.09871690249018,
+  "lon": -71.73325176442553,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.154Z"
+}

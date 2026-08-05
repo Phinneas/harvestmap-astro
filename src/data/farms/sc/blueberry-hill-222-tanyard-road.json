@@ -1,0 +1,20 @@
+{
+  "slug": "blueberry-hill-222-tanyard-road",
+  "name": "Blueberry Hill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "222 Tanyard Road, SC",
+  "locationCity": "222 Tanyard Road",
+  "locationState": "SC",
+  "locationZipcode": "29609",
+  "lat": 34.9400640115794,
+  "lon": -82.3704890172791,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.683Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.683Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jack-s-garden-2098-state-road-234",
+  "name": "Jack's Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2098 state road 234, IN",
+  "locationCity": "2098 state road 234",
+  "locationState": "IN",
+  "locationZipcode": "46140",
+  "lat": 39.901537639043084,
+  "lon": -85.76828474447517,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.567Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.567Z"
+}

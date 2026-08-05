@@ -1,0 +1,19 @@
+{
+  "slug": "woolbright-farmers-market-141-w-woolbright-rd-boynton-beach",
+  "name": "Woolbright Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "141 W. Woolbright Rd. Boynton Beach, FL",
+  "locationCity": "141 W. Woolbright Rd. Boynton Beach",
+  "locationState": "FL",
+  "locationZipcode": "33435",
+  "lat": 26.51454415241411,
+  "lon": -80.06472036431116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.576Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.576Z"
+}

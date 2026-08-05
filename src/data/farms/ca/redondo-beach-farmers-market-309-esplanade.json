@@ -1,0 +1,19 @@
+{
+  "slug": "redondo-beach-farmers-market-309-esplanade",
+  "name": "Redondo Beach Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "309 Esplanade, CA",
+  "locationCity": "309 Esplanade",
+  "locationState": "CA",
+  "locationZipcode": "90277",
+  "lat": 33.836657200381815,
+  "lon": -118.38801547807657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

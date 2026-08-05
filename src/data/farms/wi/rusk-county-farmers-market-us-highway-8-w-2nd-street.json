@@ -1,0 +1,19 @@
+{
+  "slug": "rusk-county-farmers-market-us-highway-8-w-2nd-street",
+  "name": "Rusk County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "US Highway 8 & W. 2nd  Street, WI",
+  "locationCity": "US Highway 8 & W. 2nd  Street",
+  "locationState": "WI",
+  "locationZipcode": "54848",
+  "lat": 45.464998,
+  "lon": -91.09924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.705Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.705Z"
+}

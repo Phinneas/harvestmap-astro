@@ -1,0 +1,19 @@
+{
+  "slug": "nesconset-farmers-market-127-smithtown-boulevard-nesconset",
+  "name": "Nesconset Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "127 Smithtown Boulevard Nesconset, NY",
+  "locationCity": "127 Smithtown Boulevard Nesconset",
+  "locationState": "NY",
+  "locationZipcode": "11767",
+  "lat": 40.83787630543058,
+  "lon": -73.16141510331272,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

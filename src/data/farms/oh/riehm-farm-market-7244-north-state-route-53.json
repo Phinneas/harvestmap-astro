@@ -1,0 +1,19 @@
+{
+  "slug": "riehm-farm-market-7244-north-state-route-53",
+  "name": "Riehm Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7244 North State Route 53, OH",
+  "locationCity": "7244 North State Route 53",
+  "locationState": "OH",
+  "locationZipcode": "44883",
+  "lat": 41.229467010698045,
+  "lon": -83.1725570201746,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.373Z"
+}

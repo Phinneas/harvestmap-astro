@@ -1,0 +1,19 @@
+{
+  "slug": "munsell-farms-6850-mason-road",
+  "name": "Munsell Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6850 Mason Road, MI",
+  "locationCity": "6850 Mason Road",
+  "locationState": "MI",
+  "locationZipcode": "48836",
+  "lat": 42.60300101833559,
+  "lon": -84.04627403432795,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.233Z"
+}

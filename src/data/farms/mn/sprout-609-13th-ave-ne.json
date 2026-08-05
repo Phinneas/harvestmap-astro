@@ -1,0 +1,19 @@
+{
+  "slug": "sprout-609-13th-ave-ne",
+  "name": "Sprout",
+  "source": "usda",
+  "directory": "csa",
+  "location": "609 13th Ave. NE, MN",
+  "locationCity": "609 13th Ave. NE",
+  "locationState": "MN",
+  "locationZipcode": "56345",
+  "lat": 45.991867,
+  "lon": -94.3490471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.180Z"
+}

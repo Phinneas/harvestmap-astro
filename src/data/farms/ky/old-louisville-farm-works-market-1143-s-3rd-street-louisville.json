@@ -1,0 +1,20 @@
+{
+  "slug": "old-louisville-farm-works-market-1143-s-3rd-street-louisville",
+  "name": "Old Louisville Farm Works Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1143 S. 3rd Street Louisville, KY",
+  "locationCity": "1143 S. 3rd Street Louisville",
+  "locationState": "KY",
+  "locationZipcode": "40203",
+  "lat": 38.23636167509465,
+  "lon": -85.75838902783458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z",
+  "crops": []
+}

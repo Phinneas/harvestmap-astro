@@ -1,0 +1,19 @@
+{
+  "slug": "apple-valley-orchard-340-south-hwy-16",
+  "name": "Apple Valley Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "340 South Hwy 16, TX",
+  "locationCity": "340 South Hwy 16",
+  "locationState": "TX",
+  "locationZipcode": "78643",
+  "lat": 30.7547203404167,
+  "lon": -98.6756914129695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.373Z"
+}

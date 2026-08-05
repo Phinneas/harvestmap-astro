@@ -1,0 +1,19 @@
+{
+  "slug": "front-royal-farmers-market-220-n-commerce-ave-front-royal",
+  "name": "Front Royal Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 N Commerce Ave Front Royal, VA",
+  "locationCity": "220 N Commerce Ave Front Royal",
+  "locationState": "VA",
+  "locationZipcode": "22630",
+  "lat": 38.92218237941628,
+  "lon": -78.19088946753313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

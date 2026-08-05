@@ -1,0 +1,19 @@
+{
+  "slug": "poppe-s-pumpkin-patch-109-840th-street",
+  "name": "Poppe's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "109 840th Street, MN",
+  "locationCity": "109 840th Street",
+  "locationState": "MN",
+  "locationZipcode": "56150",
+  "lat": 43.7033100024347,
+  "lon": -95.1429606685097,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.765Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.765Z"
+}

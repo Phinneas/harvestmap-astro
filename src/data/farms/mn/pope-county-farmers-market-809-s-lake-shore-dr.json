@@ -1,0 +1,19 @@
+{
+  "slug": "pope-county-farmers-market-809-s-lake-shore-dr",
+  "name": "Pope County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "809 S Lake Shore Dr, MN",
+  "locationCity": "809 S Lake Shore Dr",
+  "locationState": "MN",
+  "locationZipcode": "56334",
+  "lat": 45.6412441,
+  "lon": -95.3863644,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

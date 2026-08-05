@@ -1,0 +1,19 @@
+{
+  "slug": "delano-neighborhood-market-1709-w-douglas",
+  "name": "Delano Neighborhood Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1709 W Douglas, KS",
+  "locationCity": "1709 W Douglas",
+  "locationState": "KS",
+  "locationZipcode": "67213",
+  "lat": 37.683757,
+  "lon": -97.360349,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.666Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.666Z"
+}

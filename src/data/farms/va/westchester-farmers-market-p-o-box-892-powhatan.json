@@ -1,0 +1,19 @@
+{
+  "slug": "westchester-farmers-market-p-o-box-892-powhatan",
+  "name": "Westchester Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "P.O. Box 892 POWHATAN, VA",
+  "locationCity": "P.O. Box 892 POWHATAN",
+  "locationState": "VA",
+  "locationZipcode": "23139",
+  "lat": 37.54308590000005,
+  "lon": -77.92002469999994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

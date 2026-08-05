@@ -1,0 +1,19 @@
+{
+  "slug": "huffman-farms-u-pick-pumpkin-patch-6181-wilson-creek-road",
+  "name": "Huffman Farms U-Pick Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6181 Wilson Creek Road, WA",
+  "locationCity": "6181 Wilson Creek Road",
+  "locationState": "WA",
+  "locationZipcode": "98926",
+  "lat": 47.0524380109517,
+  "lon": -120.501857009019,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.085Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.085Z"
+}

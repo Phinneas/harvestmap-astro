@@ -1,0 +1,19 @@
+{
+  "slug": "schwab-s-blueberries-407-highway-127-south",
+  "name": "Schwab's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "407 Highway 127 South, TN",
+  "locationCity": "407 Highway 127 South",
+  "locationState": "TN",
+  "locationZipcode": "38572",
+  "lat": 35.8510501702876,
+  "lon": -85.0129084395964,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.272Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.272Z"
+}

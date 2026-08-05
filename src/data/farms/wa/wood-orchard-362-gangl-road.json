@@ -1,0 +1,19 @@
+{
+  "slug": "wood-orchard-362-gangl-road",
+  "name": "Wood Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "362 Gangl Road, WA",
+  "locationCity": "362 Gangl Road",
+  "locationState": "WA",
+  "locationZipcode": "98951",
+  "lat": 46.5154049901829,
+  "lon": -120.452774008947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.370Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.370Z"
+}

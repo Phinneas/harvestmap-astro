@@ -1,0 +1,19 @@
+{
+  "slug": "searcy-county-farmers-market-200-w-fair-street",
+  "name": "Searcy County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 W Fair Street, AR",
+  "locationCity": "200 W Fair Street",
+  "locationState": "AR",
+  "locationZipcode": "72650",
+  "lat": 35.911945,
+  "lon": -92.632893,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.339Z"
+}

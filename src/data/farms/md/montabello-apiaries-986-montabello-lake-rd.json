@@ -1,0 +1,19 @@
+{
+  "slug": "montabello-apiaries-986-montabello-lake-rd",
+  "name": "Montabello Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "986 Montabello Lake Rd, MD",
+  "locationCity": "986 Montabello Lake Rd",
+  "locationState": "MD",
+  "locationZipcode": "21678",
+  "lat": 39.3062287262305,
+  "lon": -76.1040856450299,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.320Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.320Z"
+}

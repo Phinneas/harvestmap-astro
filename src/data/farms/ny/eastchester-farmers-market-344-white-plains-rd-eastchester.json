@@ -1,0 +1,19 @@
+{
+  "slug": "eastchester-farmers-market-344-white-plains-rd-eastchester",
+  "name": "Eastchester Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "344 White Plains Rd Eastchester, NY",
+  "locationCity": "344 White Plains Rd Eastchester",
+  "locationState": "NY",
+  "locationZipcode": "10709",
+  "lat": 40.952446288357486,
+  "lon": -73.8158769837036,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

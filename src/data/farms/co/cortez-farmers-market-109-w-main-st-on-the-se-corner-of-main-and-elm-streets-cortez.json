@@ -1,0 +1,19 @@
+{
+  "slug": "cortez-farmers-market-109-w-main-st-on-the-se-corner-of-main-and-elm-streets-cortez",
+  "name": "Cortez Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "109 W Main St (On the SE corner of Main and Elm Streets) Cortez, CO",
+  "locationCity": "109 W Main St (On the SE corner of Main and Elm Streets) Cortez",
+  "locationState": "CO",
+  "locationZipcode": "81321",
+  "lat": 37.34859634604308,
+  "lon": -108.58671808753023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

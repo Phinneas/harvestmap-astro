@@ -1,0 +1,19 @@
+{
+  "slug": "adel-farmers-market-611-nile-kinnick-dr-s-adel",
+  "name": "Adel Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "611 Nile Kinnick Dr. S. Adel, IA",
+  "locationCity": "611 Nile Kinnick Dr. S. Adel",
+  "locationState": "IA",
+  "locationZipcode": "50003",
+  "lat": 41.6119285615727,
+  "lon": -94.0174216485397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

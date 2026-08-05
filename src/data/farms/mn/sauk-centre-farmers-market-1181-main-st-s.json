@@ -1,0 +1,19 @@
+{
+  "slug": "sauk-centre-farmers-market-1181-main-st-s",
+  "name": "Sauk Centre Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1181 Main St S, MN",
+  "locationCity": "1181 Main St S",
+  "locationState": "MN",
+  "locationZipcode": "56378",
+  "lat": 45.7248968,
+  "lon": -94.9508784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

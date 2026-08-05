@@ -1,0 +1,19 @@
+{
+  "slug": "route-one-nursery-158-lloyd-hamilton-road",
+  "name": "Route One Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "158 Lloyd Hamilton Road, MS",
+  "locationCity": "158 Lloyd Hamilton Road",
+  "locationState": "MS",
+  "locationZipcode": "39648",
+  "lat": 31.2544719582188,
+  "lon": -90.3575173948012,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.945Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.945Z"
+}

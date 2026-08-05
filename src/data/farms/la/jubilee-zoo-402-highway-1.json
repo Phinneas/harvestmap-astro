@@ -1,0 +1,19 @@
+{
+  "slug": "jubilee-zoo-402-highway-1",
+  "name": "Jubilee Zoo",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "402 Highway 1, LA",
+  "locationCity": "402 Highway 1",
+  "locationState": "LA",
+  "locationZipcode": "71107",
+  "lat": 32.5224938252114,
+  "lon": -93.7558783370991,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.067Z"
+}

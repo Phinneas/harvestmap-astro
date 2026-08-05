@@ -1,0 +1,19 @@
+{
+  "slug": "southside-community-farmers-market-2400-rickert-st",
+  "name": "Southside Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2400 RICKERT ST, AK",
+  "locationCity": "2400 RICKERT ST",
+  "locationState": "AK",
+  "locationZipcode": "99701",
+  "lat": 64.82516074496922,
+  "lon": -147.71864869645123,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "north-ridge-blueberries-497-west-main-road",
+  "name": "North Ridge Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "497 West Main Road, OH",
+  "locationCity": "497 West Main Road",
+  "locationState": "OH",
+  "locationZipcode": "44030",
+  "lat": 41.9255989892062,
+  "lon": -80.6134339890505,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.884Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.884Z"
+}

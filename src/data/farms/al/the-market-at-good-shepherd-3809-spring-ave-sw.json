@@ -1,0 +1,19 @@
+{
+  "slug": "the-market-at-good-shepherd-3809-spring-ave-sw",
+  "name": "The Market at Good Shepherd",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3809 SPRING AVE SW, AL",
+  "locationCity": "3809 SPRING AVE SW",
+  "locationState": "AL",
+  "locationZipcode": "35603",
+  "lat": 34.535176078512634,
+  "lon": -87.00060530083987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

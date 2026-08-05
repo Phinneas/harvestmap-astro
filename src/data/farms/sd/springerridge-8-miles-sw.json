@@ -1,0 +1,19 @@
+{
+  "slug": "springerridge-8-miles-sw",
+  "name": "Springerridge",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8 Miles SW, SD",
+  "locationCity": "8 Miles SW",
+  "locationState": "SD",
+  "locationZipcode": "57442",
+  "lat": 44.940829,
+  "lon": -100.021,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:17.915Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:17.915Z"
+}

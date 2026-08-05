@@ -1,0 +1,19 @@
+{
+  "slug": "oak-marr-farmers-market-3200-jermantown-road-oak-marr-recreation-center-vienna",
+  "name": "Oak Marr Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3200 Jermantown Road (Oak Marr Recreation Center) Vienna, VA",
+  "locationCity": "3200 Jermantown Road (Oak Marr Recreation Center) Vienna",
+  "locationState": "VA",
+  "locationZipcode": "22124",
+  "lat": 38.874981202711275,
+  "lon": -77.31269383711788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

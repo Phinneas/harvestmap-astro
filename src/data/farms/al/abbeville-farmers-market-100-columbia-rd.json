@@ -1,0 +1,19 @@
+{
+  "slug": "abbeville-farmers-market-100-columbia-rd",
+  "name": "Abbeville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Columbia Rd., AL",
+  "locationCity": "100 Columbia Rd.",
+  "locationState": "AL",
+  "locationZipcode": "36310",
+  "lat": 31.568669395366115,
+  "lon": -85.24935015019707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

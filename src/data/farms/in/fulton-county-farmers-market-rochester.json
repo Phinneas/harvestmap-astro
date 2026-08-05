@@ -1,0 +1,19 @@
+{
+  "slug": "fulton-county-farmers-market-rochester",
+  "name": "Fulton County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Rochester, IN",
+  "locationCity": "Rochester",
+  "locationState": "IN",
+  "locationZipcode": "46975",
+  "lat": 41.0647645,
+  "lon": -86.215833,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.606Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.606Z"
+}

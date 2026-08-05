@@ -1,0 +1,19 @@
+{
+  "slug": "oakland-county-farmers-market-2350-pontiac-lk-rd-waterford",
+  "name": "Oakland County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2350 Pontiac Lk Rd Waterford, MI",
+  "locationCity": "2350 Pontiac Lk Rd Waterford",
+  "locationState": "MI",
+  "locationZipcode": "48328",
+  "lat": 42.654121379905426,
+  "lon": -83.33665808697154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

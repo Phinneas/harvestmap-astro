@@ -1,0 +1,19 @@
+{
+  "slug": "larimer-street-market-2301-larimer-street-denver",
+  "name": "Larimer Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2301 Larimer Street Denver, CO",
+  "locationCity": "2301 Larimer Street Denver",
+  "locationState": "CO",
+  "locationZipcode": "80205",
+  "lat": 39.75584225413244,
+  "lon": -104.98886187325867,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

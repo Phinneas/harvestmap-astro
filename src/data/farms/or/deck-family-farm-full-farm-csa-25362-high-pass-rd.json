@@ -1,0 +1,19 @@
+{
+  "slug": "deck-family-farm-full-farm-csa-25362-high-pass-rd",
+  "name": "Deck Family Farm - Full Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "25362 High Pass Rd, OR",
+  "locationCity": "25362 High Pass Rd",
+  "locationState": "OR",
+  "locationZipcode": "25362",
+  "lat": 44.2196354,
+  "lon": -123.3459621,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.956Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.956Z"
+}

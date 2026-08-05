@@ -1,0 +1,19 @@
+{
+  "slug": "crete-farmers-market-930-main-avenue-crete",
+  "name": "Crete Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "930 Main Avenue Crete, NE",
+  "locationCity": "930 Main Avenue Crete",
+  "locationState": "NE",
+  "locationZipcode": "68333",
+  "lat": 40.62213035351192,
+  "lon": -96.9614632357095,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

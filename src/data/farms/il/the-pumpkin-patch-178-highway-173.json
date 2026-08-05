@@ -1,0 +1,19 @@
+{
+  "slug": "the-pumpkin-patch-178-highway-173",
+  "name": "The Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "178 Highway 173, IL",
+  "locationCity": "178 Highway 173",
+  "locationState": "IL",
+  "locationZipcode": "61011",
+  "lat": 42.3703241701764,
+  "lon": -88.9367810169337,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.885Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.885Z"
+}

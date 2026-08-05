@@ -1,0 +1,19 @@
+{
+  "slug": "fields-of-pumpkins-200-oak-street",
+  "name": "Fields of Pumpkins",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 Oak Street, WI",
+  "locationCity": "200 Oak Street",
+  "locationState": "WI",
+  "locationZipcode": "54755",
+  "lat": 44.5700837,
+  "lon": -91.6688063,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.249Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.249Z"
+}

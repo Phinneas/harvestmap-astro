@@ -1,0 +1,19 @@
+{
+  "slug": "beck-s-farm-620-s-anderson-rd",
+  "name": "Beck's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "620 S. Anderson Rd, KS",
+  "locationCity": "620 S. Anderson Rd",
+  "locationState": "KS",
+  "locationZipcode": "67114",
+  "lat": 37.9774647965951,
+  "lon": -97.3549634622091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.141Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.141Z"
+}

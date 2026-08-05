@@ -1,0 +1,19 @@
+{
+  "slug": "florence-mill-farmers-market-9102-north-30th-street-omaha",
+  "name": "Florence Mill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9102 North 30th Street Omaha, NE",
+  "locationCity": "9102 North 30th Street Omaha",
+  "locationState": "NE",
+  "locationZipcode": "68112",
+  "lat": 41.34335461987465,
+  "lon": -95.96236394785872,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

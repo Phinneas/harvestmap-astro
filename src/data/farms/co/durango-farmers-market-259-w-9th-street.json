@@ -1,0 +1,19 @@
+{
+  "slug": "durango-farmers-market-259-w-9th-street",
+  "name": "Durango Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "259 W 9th Street, CO",
+  "locationCity": "259 W 9th Street",
+  "locationState": "CO",
+  "locationZipcode": "81301",
+  "lat": 37.273063,
+  "lon": -107.88275,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.352Z"
+}

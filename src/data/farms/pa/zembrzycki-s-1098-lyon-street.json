@@ -1,0 +1,20 @@
+{
+  "slug": "zembrzycki-s-1098-lyon-street",
+  "name": "Zembrzycki's",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1098 Lyon Street, PA",
+  "locationCity": "1098 Lyon Street",
+  "locationState": "PA",
+  "locationZipcode": "18470",
+  "lat": 41.7279270033971,
+  "lon": -75.5264746895323,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.126Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.126Z",
+  "crops": []
+}

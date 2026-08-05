@@ -1,0 +1,19 @@
+{
+  "slug": "gbreisch-3001-south-137th-west-avenue",
+  "name": "GBreisch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3001 South 137th West Avenue, OK",
+  "locationCity": "3001 South 137th West Avenue",
+  "locationState": "OK",
+  "locationZipcode": "74063",
+  "lat": 36.1207609791871,
+  "lon": -96.14578202187353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.388Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.388Z"
+}

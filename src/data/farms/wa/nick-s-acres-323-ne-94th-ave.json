@@ -1,0 +1,19 @@
+{
+  "slug": "nick-s-acres-323-ne-94th-ave",
+  "name": "Nick's Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "323 NE 94th Ave, WA",
+  "locationCity": "323 NE 94th Ave",
+  "locationState": "WA",
+  "locationZipcode": "98604",
+  "lat": 45.7503600002967,
+  "lon": -122.57673997552,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.179Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.179Z"
+}

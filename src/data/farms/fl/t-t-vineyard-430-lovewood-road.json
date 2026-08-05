@@ -1,0 +1,19 @@
+{
+  "slug": "t-t-vineyard-430-lovewood-road",
+  "name": "T&T Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "430 Lovewood Road, FL",
+  "locationCity": "430 Lovewood Road",
+  "locationState": "FL",
+  "locationZipcode": "32440",
+  "lat": 30.8381970090969,
+  "lon": -85.5640800416302,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.882Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.882Z"
+}

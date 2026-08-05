@@ -1,0 +1,19 @@
+{
+  "slug": "growfood-carolina-990-morrison-drive",
+  "name": "GrowFood Carolina",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "990 Morrison Drive, SC",
+  "locationCity": "990 Morrison Drive",
+  "locationState": "SC",
+  "locationZipcode": "29401",
+  "lat": 32.8072137,
+  "lon": -79.942406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:57.001Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:57.001Z"
+}

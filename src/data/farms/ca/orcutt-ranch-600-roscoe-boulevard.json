@@ -1,0 +1,19 @@
+{
+  "slug": "orcutt-ranch-600-roscoe-boulevard",
+  "name": "Orcutt Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "600 Roscoe Boulevard, CA",
+  "locationCity": "600 Roscoe Boulevard",
+  "locationState": "CA",
+  "locationZipcode": "91304",
+  "lat": 34.2206710603345,
+  "lon": -118.654388928582,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.798Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.798Z"
+}

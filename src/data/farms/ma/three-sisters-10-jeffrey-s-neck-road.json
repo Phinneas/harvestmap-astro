@@ -1,0 +1,19 @@
+{
+  "slug": "three-sisters-10-jeffrey-s-neck-road",
+  "name": "Three Sisters",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10 Jeffrey's Neck Road, MA",
+  "locationCity": "10 Jeffrey's Neck Road",
+  "locationState": "MA",
+  "locationZipcode": "01938",
+  "lat": 42.68760220738483,
+  "lon": -70.82721518856809,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.281Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.281Z"
+}

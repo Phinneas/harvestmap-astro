@@ -1,0 +1,19 @@
+{
+  "slug": "brandon-farmers-market-central-park",
+  "name": "Brandon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Central Park, VT",
+  "locationCity": "Central Park",
+  "locationState": "VT",
+  "locationZipcode": "05733",
+  "lat": 43.79899198320488,
+  "lon": -73.08859558876048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.355Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.355Z"
+}

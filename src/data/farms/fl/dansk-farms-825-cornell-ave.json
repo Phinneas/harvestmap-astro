@@ -1,0 +1,20 @@
+{
+  "slug": "dansk-farms-825-cornell-ave",
+  "name": "Dansk Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "825 Cornell Ave, FL",
+  "locationCity": "825 Cornell Ave",
+  "locationState": "FL",
+  "locationZipcode": "32789",
+  "lat": 28.5842749982068,
+  "lon": -81.3736799831379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.815Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.815Z",
+  "crops": []
+}

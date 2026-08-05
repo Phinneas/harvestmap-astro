@@ -1,0 +1,19 @@
+{
+  "slug": "ted-s-garden-center-701-cumming-ave",
+  "name": "Ted's Garden Center",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "701 Cumming Ave, IA",
+  "locationCity": "701 Cumming Ave",
+  "locationState": "IA",
+  "locationZipcode": "50061",
+  "lat": 41.4831456101111,
+  "lon": -93.7439216266142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.677Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.677Z"
+}

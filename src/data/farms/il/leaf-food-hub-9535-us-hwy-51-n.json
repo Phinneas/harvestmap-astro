@@ -1,0 +1,19 @@
+{
+  "slug": "leaf-food-hub-9535-us-hwy-51-n",
+  "name": "LEAF Food Hub",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9535 US Hwy 51 N, IL",
+  "locationCity": "9535 US Hwy 51 N",
+  "locationState": "IL",
+  "locationZipcode": "62920",
+  "lat": 37.533392,
+  "lon": -89.254353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.952Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.952Z"
+}

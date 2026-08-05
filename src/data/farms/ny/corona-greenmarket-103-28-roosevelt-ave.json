@@ -1,0 +1,19 @@
+{
+  "slug": "corona-greenmarket-103-28-roosevelt-ave",
+  "name": "Corona Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "103-28 Roosevelt Ave, NY",
+  "locationCity": "103-28 Roosevelt Ave",
+  "locationState": "NY",
+  "locationZipcode": "11368",
+  "lat": 40.74987401047055,
+  "lon": -73.86264448092193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

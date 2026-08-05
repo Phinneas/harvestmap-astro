@@ -1,0 +1,19 @@
+{
+  "slug": "the-upcounty-hub-12900-middlebrook-road",
+  "name": "The Upcounty Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "12900 Middlebrook Road, MD",
+  "locationCity": "12900 Middlebrook Road",
+  "locationState": "MD",
+  "locationZipcode": "12900",
+  "lat": 39.178961007473504,
+  "lon": -77.26848699956597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:12.417Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:12.417Z"
+}

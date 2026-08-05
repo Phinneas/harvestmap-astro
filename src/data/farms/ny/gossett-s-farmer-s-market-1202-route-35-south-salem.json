@@ -1,0 +1,19 @@
+{
+  "slug": "gossett-s-farmer-s-market-1202-route-35-south-salem",
+  "name": "Gossett's Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1202 Route 35 South Salem, NY",
+  "locationCity": "1202 Route 35 South Salem",
+  "locationState": "NY",
+  "locationZipcode": "10590",
+  "lat": 41.27451626853144,
+  "lon": -73.56697285520147,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

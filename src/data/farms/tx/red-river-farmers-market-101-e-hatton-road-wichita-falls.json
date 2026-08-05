@@ -1,0 +1,19 @@
+{
+  "slug": "red-river-farmers-market-101-e-hatton-road-wichita-falls",
+  "name": "Red River Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 E. Hatton Road Wichita Falls, TX",
+  "locationCity": "101 E. Hatton Road Wichita Falls",
+  "locationState": "TX",
+  "locationZipcode": "76302",
+  "lat": 33.867649172331056,
+  "lon": -98.48438274979625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

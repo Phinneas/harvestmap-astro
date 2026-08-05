@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-ranch-743-buckeye-road",
+  "name": "Blueberry Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "743 Buckeye Road, IN",
+  "locationCity": "743 Buckeye Road",
+  "locationState": "IN",
+  "locationZipcode": "46545",
+  "lat": 41.7099950244163,
+  "lon": -86.0960898734269,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.249Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.249Z"
+}

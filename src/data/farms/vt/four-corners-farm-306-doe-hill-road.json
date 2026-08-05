@@ -1,0 +1,19 @@
+{
+  "slug": "four-corners-farm-306-doe-hill-road",
+  "name": "Four Corners Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "306 Doe Hill Road, VT",
+  "locationCity": "306 Doe Hill Road",
+  "locationState": "VT",
+  "locationZipcode": "05061",
+  "lat": 44.0449389834166,
+  "lon": -72.0915329978296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.844Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.844Z"
+}

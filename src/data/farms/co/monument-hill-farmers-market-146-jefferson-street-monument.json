@@ -1,0 +1,19 @@
+{
+  "slug": "monument-hill-farmers-market-146-jefferson-street-monument",
+  "name": "Monument Hill Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "146 Jefferson Street Monument, CO",
+  "locationCity": "146 Jefferson Street Monument",
+  "locationState": "CO",
+  "locationZipcode": "80132",
+  "lat": 39.090785984457824,
+  "lon": -104.8707290016444,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

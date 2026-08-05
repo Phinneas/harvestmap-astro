@@ -1,0 +1,19 @@
+{
+  "slug": "lida-farm-44593-275th-ave",
+  "name": "Lida Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "44593 275th Ave, MN",
+  "locationCity": "44593 275th Ave",
+  "locationState": "MN",
+  "locationZipcode": "44593",
+  "lat": 46.606909,
+  "lon": -95.917509,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.169Z"
+}

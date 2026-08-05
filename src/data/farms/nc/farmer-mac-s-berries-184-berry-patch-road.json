@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-mac-s-berries-184-berry-patch-road",
+  "name": "Farmer Mac's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "184 Berry Patch Road, NC",
+  "locationCity": "184 Berry Patch Road",
+  "locationState": "NC",
+  "locationZipcode": "28443",
+  "lat": 34.3715029649304,
+  "lon": -77.7295005590327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.822Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.822Z"
+}

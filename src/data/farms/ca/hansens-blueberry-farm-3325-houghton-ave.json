@@ -1,0 +1,20 @@
+{
+  "slug": "hansens-blueberry-farm-3325-houghton-ave",
+  "name": "Hansens Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3325 Houghton Ave, CA",
+  "locationCity": "3325 Houghton Ave",
+  "locationState": "CA",
+  "locationZipcode": "96021",
+  "lat": 39.89436000580636,
+  "lon": -122.1887590280682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.847Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.847Z",
+  "crops": []
+}

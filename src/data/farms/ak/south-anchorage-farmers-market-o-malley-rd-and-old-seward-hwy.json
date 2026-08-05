@@ -1,0 +1,19 @@
+{
+  "slug": "south-anchorage-farmers-market-o-malley-rd-and-old-seward-hwy",
+  "name": "South Anchorage Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "O'Malley Rd. and Old Seward Hwy., AK",
+  "locationCity": "O'Malley Rd. and Old Seward Hwy.",
+  "locationState": "AK",
+  "locationZipcode": "99515",
+  "lat": 61.123140003123865,
+  "lon": -149.86394999076796,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ecker-s-apple-farm-11390-main-street",
+  "name": "Ecker's Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11390 Main Street, WI",
+  "locationCity": "11390 Main Street",
+  "locationState": "WI",
+  "locationZipcode": "11390",
+  "lat": 44.00552,
+  "lon": -91.44209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.386Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.386Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "center-for-urban-ecology-cue-farm-at-butler-university-4600-sunset-ave",
+  "name": "Center for Urban Ecology (CUE) Farm at Butler University",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4600 Sunset Ave, IN",
+  "locationCity": "4600 Sunset Ave",
+  "locationState": "IN",
+  "locationZipcode": "46208",
+  "lat": 39.8381669,
+  "lon": -86.1705391,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.530Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.530Z"
+}

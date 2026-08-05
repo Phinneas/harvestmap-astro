@@ -1,0 +1,19 @@
+{
+  "slug": "slate-farms-strawberries-1601-highway-76",
+  "name": "Slate Farms Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1601 Highway 76, TN",
+  "locationCity": "1601 Highway 76",
+  "locationState": "TN",
+  "locationZipcode": "37043",
+  "lat": 36.52714498179365,
+  "lon": -87.20592799000718,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.383Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.383Z"
+}

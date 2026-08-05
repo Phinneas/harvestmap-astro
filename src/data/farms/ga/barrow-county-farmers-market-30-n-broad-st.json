@@ -1,0 +1,19 @@
+{
+  "slug": "barrow-county-farmers-market-30-n-broad-st",
+  "name": "Barrow County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30 N. Broad St, GA",
+  "locationCity": "30 N. Broad St",
+  "locationState": "GA",
+  "locationZipcode": "30680",
+  "lat": 33.993074,
+  "lon": -83.721123,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.686Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.686Z"
+}

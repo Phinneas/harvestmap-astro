@@ -1,0 +1,19 @@
+{
+  "slug": "chula-vista-farmers-market-3rd-avenue-and-center-street-chula-vista",
+  "name": "Chula Vista Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3rd Avenue and Center Street Chula Vista, CA",
+  "locationCity": "3rd Avenue and Center Street Chula Vista",
+  "locationState": "CA",
+  "locationZipcode": "91910",
+  "lat": 32.643416590074594,
+  "lon": -117.06732931077354,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

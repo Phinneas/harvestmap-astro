@@ -1,0 +1,19 @@
+{
+  "slug": "plank-rd-orchard-737-plank-rd",
+  "name": "Plank Rd Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "737 Plank Rd, IL",
+  "locationCity": "737 Plank Rd",
+  "locationState": "IL",
+  "locationZipcode": "60178",
+  "lat": 42.0321295828463,
+  "lon": -88.6294093305065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.876Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.876Z"
+}

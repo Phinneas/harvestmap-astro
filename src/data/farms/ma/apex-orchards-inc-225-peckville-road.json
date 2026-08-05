@@ -1,0 +1,20 @@
+{
+  "slug": "apex-orchards-inc-225-peckville-road",
+  "name": "Apex Orchards Inc.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "225 Peckville Road, MA",
+  "locationCity": "225 Peckville Road",
+  "locationState": "MA",
+  "locationZipcode": "01370",
+  "lat": 42.624208743938,
+  "lon": -72.6598734504558,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.445Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.445Z",
+  "crops": []
+}

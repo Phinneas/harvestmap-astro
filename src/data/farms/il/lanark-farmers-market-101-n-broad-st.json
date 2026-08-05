@@ -1,0 +1,19 @@
+{
+  "slug": "lanark-farmers-market-101-n-broad-st",
+  "name": "Lanark Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 N Broad St, IL",
+  "locationCity": "101 N Broad St",
+  "locationState": "IL",
+  "locationZipcode": "61046",
+  "lat": 42.102271,
+  "lon": -89.832636,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.953Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.953Z"
+}

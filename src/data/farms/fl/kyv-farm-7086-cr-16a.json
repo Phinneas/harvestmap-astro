@@ -1,0 +1,19 @@
+{
+  "slug": "kyv-farm-7086-cr-16a",
+  "name": "KYV Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7086 CR 16A, FL",
+  "locationCity": "7086 CR 16A",
+  "locationState": "FL",
+  "locationZipcode": "32092",
+  "lat": 30.0052971,
+  "lon": -81.5498534,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.805Z"
+}

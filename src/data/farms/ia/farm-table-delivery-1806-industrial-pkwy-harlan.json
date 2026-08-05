@@ -1,0 +1,19 @@
+{
+  "slug": "farm-table-delivery-1806-industrial-pkwy-harlan",
+  "name": "Farm Table Delivery",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1806 Industrial Pkwy. Harlan, IA",
+  "locationCity": "1806 Industrial Pkwy. Harlan",
+  "locationState": "IA",
+  "locationZipcode": "51537",
+  "lat": 41.63618201466099,
+  "lon": -95.33392697355427,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:37.781Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:37.781Z"
+}

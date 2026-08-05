@@ -1,0 +1,19 @@
+{
+  "slug": "shashok-s-orchard-route-6",
+  "name": "Shashok's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 6, CT",
+  "locationCity": "Route 6",
+  "locationState": "CT",
+  "locationZipcode": "06235",
+  "lat": 41.7709768561444,
+  "lon": -72.130185817755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.140Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.140Z"
+}

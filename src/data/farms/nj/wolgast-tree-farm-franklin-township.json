@@ -1,0 +1,19 @@
+{
+  "slug": "wolgast-tree-farm-franklin-township",
+  "name": "Wolgast Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Franklin Township, NJ",
+  "locationCity": "Franklin Township",
+  "locationState": "NJ",
+  "locationZipcode": "08874",
+  "lat": 40.4783129927136,
+  "lon": -74.5054450046762,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.240Z"
+}

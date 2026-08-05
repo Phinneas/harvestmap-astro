@@ -1,0 +1,19 @@
+{
+  "slug": "murrysville-farmers-market-3235-sardis-road",
+  "name": "Murrysville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3235 Sardis Road, PA",
+  "locationCity": "3235 Sardis Road",
+  "locationState": "PA",
+  "locationZipcode": "15668",
+  "lat": 40.430121,
+  "lon": -79.696788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:18.996Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:18.996Z"
+}

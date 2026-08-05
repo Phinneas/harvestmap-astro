@@ -1,0 +1,19 @@
+{
+  "slug": "grumpy-chicken-farm-535-east-shingle-mill-rd",
+  "name": "Grumpy Chicken Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "535 East Shingle Mill Rd, ID",
+  "locationCity": "535 East Shingle Mill Rd",
+  "locationState": "ID",
+  "locationZipcode": "83864",
+  "lat": 48.3354525331594,
+  "lon": -116.476753709954,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.682Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.682Z"
+}

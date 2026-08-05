@@ -1,0 +1,19 @@
+{
+  "slug": "deadwood-street-market-71-sherman-street-deadwood",
+  "name": "Deadwood Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "71 Sherman Street Deadwood, SD",
+  "locationCity": "71 Sherman Street Deadwood",
+  "locationState": "SD",
+  "locationZipcode": "57732",
+  "lat": 44.37481347854722,
+  "lon": -103.72905902642471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:14.872Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:14.872Z"
+}

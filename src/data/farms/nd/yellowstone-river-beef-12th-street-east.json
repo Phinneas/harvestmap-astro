@@ -1,0 +1,19 @@
+{
+  "slug": "yellowstone-river-beef-12th-street-east",
+  "name": "Yellowstone River Beef",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12th Street East, ND",
+  "locationCity": "12th Street East",
+  "locationState": "ND",
+  "locationZipcode": "58801",
+  "lat": 48.138590002497,
+  "lon": -103.602914010921,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:54.966Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:54.966Z"
+}

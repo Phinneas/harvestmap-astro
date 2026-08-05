@@ -1,0 +1,19 @@
+{
+  "slug": "mavourneen-farm-8652-s-rockport-rd",
+  "name": "Mavourneen Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8652 S Rockport Rd, IN",
+  "locationCity": "8652 S Rockport Rd",
+  "locationState": "IN",
+  "locationZipcode": "47403",
+  "lat": 39.03248674656845,
+  "lon": -86.61032403195757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.567Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.567Z"
+}

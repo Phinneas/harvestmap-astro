@@ -1,0 +1,19 @@
+{
+  "slug": "marshall-county-market-3700-south-center-street-marshalltown",
+  "name": "Marshall County Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3700 South Center Street Marshalltown, IA",
+  "locationCity": "3700 South Center Street Marshalltown",
+  "locationState": "IA",
+  "locationZipcode": "50158",
+  "lat": 42.001499433614306,
+  "lon": -92.91244088532065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

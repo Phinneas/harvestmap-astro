@@ -1,0 +1,19 @@
+{
+  "slug": "tuesday-local-farmers-market-1140-woodruff-rd-greenville",
+  "name": "Tuesday Local Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1140 Woodruff Rd Greenville, SC",
+  "locationCity": "1140 Woodruff Rd Greenville",
+  "locationState": "SC",
+  "locationZipcode": "29607",
+  "lat": 34.83107000187991,
+  "lon": -82.30617558451391,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.196Z"
+}

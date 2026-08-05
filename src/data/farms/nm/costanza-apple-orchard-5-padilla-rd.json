@@ -1,0 +1,20 @@
+{
+  "slug": "costanza-apple-orchard-5-padilla-rd",
+  "name": "Costanza Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5 Padilla Rd, NM",
+  "locationCity": "5 Padilla Rd",
+  "locationState": "NM",
+  "locationZipcode": "87002",
+  "lat": 34.6822769868571,
+  "lon": -106.757829006183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:54.401Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:54.401Z",
+  "crops": []
+}

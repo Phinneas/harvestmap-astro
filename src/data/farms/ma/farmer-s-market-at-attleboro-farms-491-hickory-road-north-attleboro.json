@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-s-market-at-attleboro-farms-491-hickory-road-north-attleboro",
+  "name": "Farmer's Market at Attleboro Farms",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "491 Hickory Road North Attleboro, MA",
+  "locationCity": "491 Hickory Road North Attleboro",
+  "locationState": "MA",
+  "locationZipcode": "02760",
+  "lat": 41.96685699295044,
+  "lon": -71.36862741334672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.864Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sweetland-farm-742-rt-132",
+  "name": "Sweetland Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "742 Rt 132, VT",
+  "locationCity": "742 Rt 132",
+  "locationState": "VT",
+  "locationZipcode": "05055",
+  "lat": 43.779487169245016,
+  "lon": -72.25905086484694,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.145Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.145Z"
+}

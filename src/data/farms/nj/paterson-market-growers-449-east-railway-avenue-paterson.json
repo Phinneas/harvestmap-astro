@@ -1,0 +1,19 @@
+{
+  "slug": "paterson-market-growers-449-east-railway-avenue-paterson",
+  "name": "Paterson Market Growers",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "449 East Railway Avenue Paterson, NJ",
+  "locationCity": "449 East Railway Avenue Paterson",
+  "locationState": "NJ",
+  "locationZipcode": "07503",
+  "lat": 40.890851864591234,
+  "lon": -74.14949734158336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

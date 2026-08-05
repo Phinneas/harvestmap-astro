@@ -1,0 +1,19 @@
+{
+  "slug": "the-north-bee-27-north-ave",
+  "name": "The North Bee",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "27 North Ave, NY",
+  "locationCity": "27 North Ave",
+  "locationState": "NY",
+  "locationZipcode": "14580",
+  "lat": 43.213064094639,
+  "lon": -77.4299895099504,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.078Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.078Z"
+}

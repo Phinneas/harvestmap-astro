@@ -1,0 +1,19 @@
+{
+  "slug": "hull-farms-1503-s-1600-e",
+  "name": "Hull Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1503 S 1600 E, ID",
+  "locationCity": "1503 S 1600 E",
+  "locationState": "ID",
+  "locationZipcode": "83263",
+  "lat": 42.069260995867324,
+  "lon": -111.83167202017813,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:39.495Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:39.495Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cycle-source-berries-201-m-43",
+  "name": "Cycle Source Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "201 M-43, MI",
+  "locationCity": "201 M-43",
+  "locationState": "MI",
+  "locationZipcode": "49079",
+  "lat": 42.3026382060591,
+  "lon": -85.9383641777163,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.602Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.602Z"
+}

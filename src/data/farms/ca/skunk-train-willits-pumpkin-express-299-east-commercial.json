@@ -1,0 +1,19 @@
+{
+  "slug": "skunk-train-willits-pumpkin-express-299-east-commercial",
+  "name": "Skunk Train Willits Pumpkin Express",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "299 East Commercial, CA",
+  "locationCity": "299 East Commercial",
+  "locationState": "CA",
+  "locationZipcode": "95488",
+  "lat": 39.4122139920538,
+  "lon": -123.350863970514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.800Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.800Z"
+}

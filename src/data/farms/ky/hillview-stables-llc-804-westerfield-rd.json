@@ -1,0 +1,20 @@
+{
+  "slug": "hillview-stables-llc-804-westerfield-rd",
+  "name": "Hillview Stables llc",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "804 Westerfield Rd, KY",
+  "locationCity": "804 Westerfield Rd",
+  "locationState": "KY",
+  "locationZipcode": "40744",
+  "lat": 37.0127940024309,
+  "lon": -83.9554059896411,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.602Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.602Z",
+  "crops": []
+}

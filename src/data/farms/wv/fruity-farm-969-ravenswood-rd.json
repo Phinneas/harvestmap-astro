@@ -1,0 +1,19 @@
+{
+  "slug": "fruity-farm-969-ravenswood-rd",
+  "name": "Fruity Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "969 Ravenswood Rd, WV",
+  "locationCity": "969 Ravenswood Rd",
+  "locationState": "WV",
+  "locationZipcode": "26164",
+  "lat": 38.9663366678235,
+  "lon": -81.7735206360348,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.799Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.799Z"
+}

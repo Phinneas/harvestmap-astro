@@ -1,0 +1,19 @@
+{
+  "slug": "athens-farmers-market-409-w-green-st",
+  "name": "Athens Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "409 W. Green St., AL",
+  "locationCity": "409 W. Green St.",
+  "locationState": "AL",
+  "locationZipcode": "35611",
+  "lat": 34.801341270132696,
+  "lon": -86.97358681585723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

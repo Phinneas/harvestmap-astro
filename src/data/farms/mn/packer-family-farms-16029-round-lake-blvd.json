@@ -1,0 +1,19 @@
+{
+  "slug": "packer-family-farms-16029-round-lake-blvd",
+  "name": "Packer Family Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "16029 Round Lake Blvd, MN",
+  "locationCity": "16029 Round Lake Blvd",
+  "locationState": "MN",
+  "locationZipcode": "16029",
+  "lat": 45.26171509887172,
+  "lon": -93.34622124831482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:15.277Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:15.277Z"
+}

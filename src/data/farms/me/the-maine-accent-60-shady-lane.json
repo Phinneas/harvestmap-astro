@@ -1,0 +1,19 @@
+{
+  "slug": "the-maine-accent-60-shady-lane",
+  "name": "The Maine Accent",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "60 Shady Lane, ME",
+  "locationCity": "60 Shady Lane",
+  "locationState": "ME",
+  "locationZipcode": "04347",
+  "lat": 44.2884932012709,
+  "lon": -69.8220502351513,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.795Z"
+}

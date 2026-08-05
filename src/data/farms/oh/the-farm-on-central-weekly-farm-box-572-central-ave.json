@@ -1,0 +1,19 @@
+{
+  "slug": "the-farm-on-central-weekly-farm-box-572-central-ave",
+  "name": "The Farm on Central Weekly Farm Box",
+  "source": "usda",
+  "directory": "csa",
+  "location": "572 Central Ave, OH",
+  "locationCity": "572 Central Ave",
+  "locationState": "OH",
+  "locationZipcode": "45005",
+  "lat": 39.580825,
+  "lon": -84.31638579999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.457Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.457Z"
+}

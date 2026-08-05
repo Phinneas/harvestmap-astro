@@ -1,0 +1,19 @@
+{
+  "slug": "gentry-farmers-market-500-e-main-gentry",
+  "name": "Gentry Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 E. Main Gentry, AR",
+  "locationCity": "500 E. Main Gentry",
+  "locationState": "AR",
+  "locationZipcode": "72734",
+  "lat": 36.26750375181701,
+  "lon": -94.47946426961076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

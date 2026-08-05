@@ -1,0 +1,19 @@
+{
+  "slug": "himmelgarten-1301-himmel",
+  "name": "Himmelgarten",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1301 Himmel, CA",
+  "locationCity": "1301 Himmel",
+  "locationState": "CA",
+  "locationZipcode": "94061",
+  "lat": 37.4555491,
+  "lon": -122.2238851,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.059Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.059Z"
+}

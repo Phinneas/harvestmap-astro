@@ -1,0 +1,19 @@
+{
+  "slug": "one-straw-farm-19718-kirkwood-shop-road",
+  "name": "One Straw Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "19718 Kirkwood Shop Road, MD",
+  "locationCity": "19718 Kirkwood Shop Road",
+  "locationState": "MD",
+  "locationZipcode": "19718",
+  "lat": 39.669447894985524,
+  "lon": -76.57759882350341,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.725Z"
+}

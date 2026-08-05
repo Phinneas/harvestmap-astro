@@ -1,0 +1,19 @@
+{
+  "slug": "johnny-appleseed-s-farm-somers-road-231-somers-road",
+  "name": "Johnny Appleseed's Farm - Somers Road",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "231 Somers Road, CT",
+  "locationCity": "231 Somers Road",
+  "locationState": "CT",
+  "locationZipcode": "06029",
+  "lat": 41.9017820208807,
+  "lon": -72.4572760017855,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.929Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.929Z"
+}

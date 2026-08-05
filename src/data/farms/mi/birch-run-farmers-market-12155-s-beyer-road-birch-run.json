@@ -1,0 +1,19 @@
+{
+  "slug": "birch-run-farmers-market-12155-s-beyer-road-birch-run",
+  "name": "Birch Run Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12155 S Beyer Road Birch Run, MI",
+  "locationCity": "12155 S Beyer Road Birch Run",
+  "locationState": "MI",
+  "locationZipcode": "12155",
+  "lat": 43.24837329405548,
+  "lon": -83.77849539576178,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

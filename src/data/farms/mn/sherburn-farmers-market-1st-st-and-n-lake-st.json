@@ -1,0 +1,19 @@
+{
+  "slug": "sherburn-farmers-market-1st-st-and-n-lake-st",
+  "name": "Sherburn Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st St and N Lake St, MN",
+  "locationCity": "1st St and N Lake St",
+  "locationState": "MN",
+  "locationZipcode": "56171",
+  "lat": 43.653844,
+  "lon": -94.724571,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

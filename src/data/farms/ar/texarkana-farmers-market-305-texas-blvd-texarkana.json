@@ -1,0 +1,19 @@
+{
+  "slug": "texarkana-farmers-market-305-texas-blvd-texarkana",
+  "name": "Texarkana Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "305 Texas Blvd Texarkana, AR",
+  "locationCity": "305 Texas Blvd Texarkana",
+  "locationState": "AR",
+  "locationZipcode": "71854",
+  "lat": 33.42160601793863,
+  "lon": -94.0462570144079,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

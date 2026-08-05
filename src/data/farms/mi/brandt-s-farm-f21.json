@@ -1,0 +1,19 @@
+{
+  "slug": "brandt-s-farm-f21",
+  "name": "Brandt's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "F21, MI",
+  "locationCity": "F21",
+  "locationState": "MI",
+  "locationZipcode": "49746",
+  "lat": 45.0654400000001,
+  "lon": -83.90174,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.720Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.720Z"
+}

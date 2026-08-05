@@ -1,0 +1,20 @@
+{
+  "slug": "sunrise-farms-521-rl-lewis-lane",
+  "name": "Sunrise Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "521 Rl Lewis Lane, NC",
+  "locationCity": "521 Rl Lewis Lane",
+  "locationState": "NC",
+  "locationZipcode": "28422",
+  "lat": 34.0706576267528,
+  "lon": -78.0861457980721,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.879Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.879Z",
+  "crops": []
+}

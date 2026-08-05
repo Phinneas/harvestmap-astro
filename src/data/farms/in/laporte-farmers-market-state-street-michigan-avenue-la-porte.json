@@ -1,0 +1,19 @@
+{
+  "slug": "laporte-farmers-market-state-street-michigan-avenue-la-porte",
+  "name": "LaPorte Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "State Street & Michigan Avenue La Porte, IN",
+  "locationCity": "State Street & Michigan Avenue La Porte",
+  "locationState": "IN",
+  "locationZipcode": "46350",
+  "lat": 41.61192998365124,
+  "lon": -86.72202999085282,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

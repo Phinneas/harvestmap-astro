@@ -1,0 +1,20 @@
+{
+  "slug": "2024-veggie-share-13500-excelsior-boulevard",
+  "name": "2024 Veggie Share",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13500 Excelsior Boulevard, MN",
+  "locationCity": "13500 Excelsior Boulevard",
+  "locationState": "MN",
+  "locationZipcode": "13500",
+  "lat": 44.9132219,
+  "lon": -93.4519978,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.845Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.845Z",
+  "crops": []
+}

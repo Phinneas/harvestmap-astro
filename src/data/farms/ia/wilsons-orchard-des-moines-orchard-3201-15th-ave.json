@@ -1,0 +1,19 @@
+{
+  "slug": "wilsons-orchard-des-moines-orchard-3201-15th-ave",
+  "name": "Wilsons-Orchard Des Moines Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3201 15th Ave, IA",
+  "locationCity": "3201 15th Ave",
+  "locationState": "IA",
+  "locationZipcode": "50061",
+  "lat": 41.48133469999824,
+  "lon": -93.77021163681108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:40.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:40.605Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "grayslake-farmers-market-center-and-whitney-streets-grayslake",
+  "name": "Grayslake Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Center and Whitney Streets Grayslake, IL",
+  "locationCity": "Center and Whitney Streets Grayslake",
+  "locationState": "IL",
+  "locationZipcode": "60073",
+  "lat": 42.344310005355766,
+  "lon": -88.04027000816552,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

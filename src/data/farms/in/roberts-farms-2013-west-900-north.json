@@ -1,0 +1,20 @@
+{
+  "slug": "roberts-farms-2013-west-900-north",
+  "name": "Roberts Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2013 West 900 North, IN",
+  "locationCity": "2013 West 900 North",
+  "locationState": "IN",
+  "locationZipcode": "46794",
+  "lat": 41.481661000979,
+  "lon": -85.4642769719773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.303Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.303Z",
+  "crops": []
+}

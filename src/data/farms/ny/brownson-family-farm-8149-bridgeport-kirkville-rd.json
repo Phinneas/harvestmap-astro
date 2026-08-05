@@ -1,0 +1,19 @@
+{
+  "slug": "brownson-family-farm-8149-bridgeport-kirkville-rd",
+  "name": "Brownson Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8149 Bridgeport Kirkville Rd, NY",
+  "locationCity": "8149 Bridgeport Kirkville Rd",
+  "locationState": "NY",
+  "locationZipcode": "13082",
+  "lat": 43.116576193420485,
+  "lon": -75.95356998776718,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.188Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.188Z"
+}

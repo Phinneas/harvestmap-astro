@@ -1,0 +1,19 @@
+{
+  "slug": "market-of-life-3510-w-15th-ave",
+  "name": "Market of Life",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3510 W 15th Ave, IN",
+  "locationCity": "3510 W 15th Ave",
+  "locationState": "IN",
+  "locationZipcode": "46404",
+  "lat": 41.595883,
+  "lon": -87.344853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.607Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.607Z"
+}

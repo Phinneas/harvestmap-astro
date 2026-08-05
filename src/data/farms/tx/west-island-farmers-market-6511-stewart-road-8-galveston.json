@@ -1,0 +1,19 @@
+{
+  "slug": "west-island-farmers-market-6511-stewart-road-8-galveston",
+  "name": "West Island Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6511 Stewart Road #8 Galveston, TX",
+  "locationCity": "6511 Stewart Road #8 Galveston",
+  "locationState": "TX",
+  "locationZipcode": "77551",
+  "lat": 29.273948484179574,
+  "lon": -94.83483589000262,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.201Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.201Z"
+}

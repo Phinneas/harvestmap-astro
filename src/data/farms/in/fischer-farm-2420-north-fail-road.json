@@ -1,0 +1,19 @@
+{
+  "slug": "fischer-farm-2420-north-fail-road",
+  "name": "Fischer Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2420 North Fail Road, IN",
+  "locationCity": "2420 North Fail Road",
+  "locationState": "IN",
+  "locationZipcode": "46350",
+  "lat": 41.6419369874717,
+  "lon": -86.680564967301,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.299Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.299Z"
+}

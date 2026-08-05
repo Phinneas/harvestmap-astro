@@ -1,0 +1,19 @@
+{
+  "slug": "franklin-farmer-s-market-300-willow-street-franklin",
+  "name": "Franklin Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Willow Street Franklin, LA",
+  "locationCity": "300 Willow Street Franklin",
+  "locationState": "LA",
+  "locationZipcode": "70538",
+  "lat": 29.79121425307201,
+  "lon": -91.5015113327755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

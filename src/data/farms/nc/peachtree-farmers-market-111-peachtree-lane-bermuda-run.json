@@ -1,0 +1,19 @@
+{
+  "slug": "peachtree-farmers-market-111-peachtree-lane-bermuda-run",
+  "name": "Peachtree Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 Peachtree Lane Bermuda Run, NC",
+  "locationCity": "111 Peachtree Lane Bermuda Run",
+  "locationState": "NC",
+  "locationZipcode": "27006",
+  "lat": 36.0033925890275,
+  "lon": -80.44000372718172,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

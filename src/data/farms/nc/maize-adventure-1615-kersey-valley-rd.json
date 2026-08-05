@@ -1,0 +1,19 @@
+{
+  "slug": "maize-adventure-1615-kersey-valley-rd",
+  "name": "Maize Adventure",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1615 Kersey Valley Rd, NC",
+  "locationCity": "1615 Kersey Valley Rd",
+  "locationState": "NC",
+  "locationZipcode": "27263",
+  "lat": 35.9305790746261,
+  "lon": -79.9358747154176,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.813Z"
+}

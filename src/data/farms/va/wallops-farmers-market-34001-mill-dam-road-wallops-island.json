@@ -1,0 +1,19 @@
+{
+  "slug": "wallops-farmers-market-34001-mill-dam-road-wallops-island",
+  "name": "Wallops Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "34001 Mill Dam Road Wallops Island, VA",
+  "locationCity": "34001 Mill Dam Road Wallops Island",
+  "locationState": "VA",
+  "locationZipcode": "34001",
+  "lat": 37.934682987599956,
+  "lon": -75.48273300541692,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

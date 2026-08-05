@@ -1,0 +1,19 @@
+{
+  "slug": "mustard-seed-farm-1759-mills-ave",
+  "name": "Mustard Seed Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1759 Mills Ave, OH",
+  "locationCity": "1759 Mills Ave",
+  "locationState": "OH",
+  "locationZipcode": "45212",
+  "lat": 39.1592680193294,
+  "lon": -84.46555300823671,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.477Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pringle-farm-577-lake-road",
+  "name": "Pringle Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "577 Lake Road, VT",
+  "locationCity": "577 Lake Road",
+  "locationState": "VT",
+  "locationZipcode": "05445",
+  "lat": 44.3313434126846,
+  "lon": -73.2698573694568,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.219Z"
+}

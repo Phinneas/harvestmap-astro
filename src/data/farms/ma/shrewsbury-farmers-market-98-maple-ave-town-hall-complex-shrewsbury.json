@@ -1,0 +1,19 @@
+{
+  "slug": "shrewsbury-farmers-market-98-maple-ave-town-hall-complex-shrewsbury",
+  "name": "Shrewsbury Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "98 Maple Ave Town Hall Complex Shrewsbury, MA",
+  "locationCity": "98 Maple Ave Town Hall Complex Shrewsbury",
+  "locationState": "MA",
+  "locationZipcode": "01545",
+  "lat": 42.29177002128168,
+  "lon": -71.72056158922102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.867Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.867Z"
+}

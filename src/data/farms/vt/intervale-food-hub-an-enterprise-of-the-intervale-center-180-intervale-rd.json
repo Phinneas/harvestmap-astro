@@ -1,0 +1,19 @@
+{
+  "slug": "intervale-food-hub-an-enterprise-of-the-intervale-center-180-intervale-rd",
+  "name": "Intervale Food Hub (an enterprise of the Intervale Center)",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "180 Intervale Rd., VT",
+  "locationCity": "180 Intervale Rd.",
+  "locationState": "VT",
+  "locationZipcode": "05401",
+  "lat": 44.49311301787063,
+  "lon": -73.20527796317138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:46.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:46.196Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shellsburg-farmers-market-city-park-shellsburg",
+  "name": "Shellsburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "City Park Shellsburg, IA",
+  "locationCity": "City Park Shellsburg",
+  "locationState": "IA",
+  "locationZipcode": "52332",
+  "lat": 42.094065059417524,
+  "lon": -91.87721806869884,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

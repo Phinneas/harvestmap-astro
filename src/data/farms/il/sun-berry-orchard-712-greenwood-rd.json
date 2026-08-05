@@ -1,0 +1,19 @@
+{
+  "slug": "sun-berry-orchard-712-greenwood-rd",
+  "name": "Sun Berry Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "712 Greenwood Rd, IL",
+  "locationCity": "712 Greenwood Rd",
+  "locationState": "IL",
+  "locationZipcode": "60098",
+  "lat": 42.3784124082972,
+  "lon": -88.3945332117586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.883Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.883Z"
+}

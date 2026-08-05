@@ -1,0 +1,19 @@
+{
+  "slug": "weeksville-farmers-market-1698-bergen-street-brooklyn",
+  "name": "Weeksville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1698 Bergen Street Brooklyn, NY",
+  "locationCity": "1698 Bergen Street Brooklyn",
+  "locationState": "NY",
+  "locationZipcode": "11223",
+  "lat": 40.674807083802285,
+  "lon": -73.92636001991741,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "inverness-farmers-market-212-w-main-st-inverness",
+  "name": "Inverness Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "212 W Main St Inverness, FL",
+  "locationCity": "212 W Main St Inverness",
+  "locationState": "FL",
+  "locationZipcode": "34450",
+  "lat": 28.83555513837771,
+  "lon": -82.33171031602122,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

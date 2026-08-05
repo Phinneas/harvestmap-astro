@@ -1,0 +1,19 @@
+{
+  "slug": "mesa-community-farmers-market-260-n-center-st-mesa",
+  "name": "Mesa Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "260 N. Center St. Mesa, AZ",
+  "locationCity": "260 N. Center St. Mesa",
+  "locationState": "AZ",
+  "locationZipcode": "85201",
+  "lat": 33.420178078580015,
+  "lon": -111.83145151890875,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "elegant-farmer-1545-main-street",
+  "name": "Elegant Farmer",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1545 Main Street, WI",
+  "locationCity": "1545 Main Street",
+  "locationState": "WI",
+  "locationZipcode": "53149",
+  "lat": 42.841521,
+  "lon": -88.3444,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:17.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:17.412Z"
+}

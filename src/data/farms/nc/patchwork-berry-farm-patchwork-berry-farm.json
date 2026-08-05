@@ -1,0 +1,19 @@
+{
+  "slug": "patchwork-berry-farm-patchwork-berry-farm",
+  "name": "Patchwork Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Patchwork Berry Farm, NC",
+  "locationCity": "Patchwork Berry Farm",
+  "locationState": "NC",
+  "locationZipcode": "27517",
+  "lat": 35.8685898,
+  "lon": -79.0229732,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.909Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.909Z"
+}

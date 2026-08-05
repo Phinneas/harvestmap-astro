@@ -1,0 +1,19 @@
+{
+  "slug": "erdle-farm-229-hanford-road",
+  "name": "Erdle Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "229 Hanford Road, NY",
+  "locationCity": "229 Hanford Road",
+  "locationState": "NY",
+  "locationZipcode": "14136",
+  "lat": 42.5401810404471,
+  "lon": -79.1420425321054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.871Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.871Z"
+}

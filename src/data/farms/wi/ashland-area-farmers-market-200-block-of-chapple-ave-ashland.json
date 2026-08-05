@@ -1,0 +1,19 @@
+{
+  "slug": "ashland-area-farmers-market-200-block-of-chapple-ave-ashland",
+  "name": "Ashland Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Block of Chapple Ave. Ashland, WI",
+  "locationCity": "200 Block of Chapple Ave. Ashland",
+  "locationState": "WI",
+  "locationZipcode": "54806",
+  "lat": 46.5881645743521,
+  "lon": -90.890530075857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.857Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rebel-farm-11081-bird-lake-rd-s",
+  "name": "Rebel Farm",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "11081 Bird Lake Rd S, MI",
+  "locationCity": "11081 Bird Lake Rd S",
+  "locationState": "MI",
+  "locationZipcode": "11081",
+  "lat": 41.76592100959547,
+  "lon": -84.53349897849071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.246Z"
+}

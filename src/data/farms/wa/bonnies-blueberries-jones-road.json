@@ -1,0 +1,19 @@
+{
+  "slug": "bonnies-blueberries-jones-road",
+  "name": "Bonnies Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Jones Road, WA",
+  "locationCity": "Jones Road",
+  "locationState": "WA",
+  "locationZipcode": "98277",
+  "lat": 48.3690559940487,
+  "lon": -122.587904273085,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.312Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.312Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bar-j-ranch-004-cantelow-rd",
+  "name": "Bar J Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "004 Cantelow Rd, CA",
+  "locationCity": "004 Cantelow Rd",
+  "locationState": "CA",
+  "locationZipcode": "95688",
+  "lat": 38.4183984404427,
+  "lon": -122.020650828602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.727Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.727Z"
+}

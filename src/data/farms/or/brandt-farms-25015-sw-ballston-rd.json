@@ -1,0 +1,19 @@
+{
+  "slug": "brandt-farms-25015-sw-ballston-rd",
+  "name": "Brandt Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "25015 SW Ballston Rd, OR",
+  "locationCity": "25015 SW Ballston Rd",
+  "locationState": "OR",
+  "locationZipcode": "25015",
+  "lat": 45.07555399326401,
+  "lon": -123.3717420340384,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.062Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.062Z"
+}

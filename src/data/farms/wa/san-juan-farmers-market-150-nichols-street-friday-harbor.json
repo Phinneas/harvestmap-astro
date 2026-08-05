@@ -1,0 +1,19 @@
+{
+  "slug": "san-juan-farmers-market-150-nichols-street-friday-harbor",
+  "name": "San Juan Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 Nichols Street Friday Harbor, WA",
+  "locationCity": "150 Nichols Street Friday Harbor",
+  "locationState": "WA",
+  "locationZipcode": "98250",
+  "lat": 48.53344158303808,
+  "lon": -123.01603138901554,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

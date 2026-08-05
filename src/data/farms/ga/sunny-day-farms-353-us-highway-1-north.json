@@ -1,0 +1,19 @@
+{
+  "slug": "sunny-day-farms-353-us-highway-1-north",
+  "name": "Sunny Day Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "353 US highway 1 North, GA",
+  "locationCity": "353 US highway 1 North",
+  "locationState": "GA",
+  "locationZipcode": "30434",
+  "lat": 33.0126736678884,
+  "lon": -82.4004374809444,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.318Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.318Z"
+}

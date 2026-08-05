@@ -1,0 +1,19 @@
+{
+  "slug": "petal-farmers-market-334-n-main-street-petal",
+  "name": "Petal Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "334 N. Main Street Petal, MS",
+  "locationCity": "334 N. Main Street Petal",
+  "locationState": "MS",
+  "locationZipcode": "39465",
+  "lat": 31.353069172100433,
+  "lon": -89.26293820228324,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

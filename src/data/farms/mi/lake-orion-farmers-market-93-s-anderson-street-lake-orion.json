@@ -1,0 +1,19 @@
+{
+  "slug": "lake-orion-farmers-market-93-s-anderson-street-lake-orion",
+  "name": "Lake Orion Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "93 S. Anderson Street Lake Orion, MI",
+  "locationCity": "93 S. Anderson Street Lake Orion",
+  "locationState": "MI",
+  "locationZipcode": "48362",
+  "lat": 42.783956918965586,
+  "lon": -83.23867411824635,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

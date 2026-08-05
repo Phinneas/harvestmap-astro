@@ -1,0 +1,19 @@
+{
+  "slug": "mad-radish-farm-1991-george-st",
+  "name": "Mad Radish Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1991 George St, PA",
+  "locationCity": "1991 George St",
+  "locationState": "PA",
+  "locationZipcode": "17315",
+  "lat": 40.014551887295454,
+  "lon": -76.85267058985897,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.596Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.596Z"
+}

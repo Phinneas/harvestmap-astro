@@ -1,0 +1,19 @@
+{
+  "slug": "liberty-orchard-408-west-st",
+  "name": "Liberty Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "408 West St, VT",
+  "locationCity": "408 West St",
+  "locationState": "VT",
+  "locationZipcode": "05036",
+  "lat": 44.0529762638206,
+  "lon": -72.6092457271576,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.095Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.095Z"
+}

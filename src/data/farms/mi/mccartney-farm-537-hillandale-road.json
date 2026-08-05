@@ -1,0 +1,19 @@
+{
+  "slug": "mccartney-farm-537-hillandale-road",
+  "name": "McCartney Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "537 Hillandale Road, MI",
+  "locationCity": "537 Hillandale Road",
+  "locationState": "MI",
+  "locationZipcode": "49126",
+  "lat": 42.1078203442571,
+  "lon": -86.3588769367358,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.588Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.588Z"
+}

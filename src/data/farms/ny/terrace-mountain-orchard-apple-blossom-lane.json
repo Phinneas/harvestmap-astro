@@ -1,0 +1,19 @@
+{
+  "slug": "terrace-mountain-orchard-apple-blossom-lane",
+  "name": "Terrace Mountain Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Apple Blossom Lane, NY",
+  "locationCity": "Apple Blossom Lane",
+  "locationState": "NY",
+  "locationZipcode": "12157",
+  "lat": 42.6858304419237,
+  "lon": -74.3352202909016,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.333Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.333Z"
+}

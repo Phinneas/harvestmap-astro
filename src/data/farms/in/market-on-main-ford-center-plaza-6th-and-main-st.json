@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-main-ford-center-plaza-6th-and-main-st",
+  "name": "Market on Main",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Ford Center Plaza 6th and Main St, IN",
+  "locationCity": "Ford Center Plaza 6th and Main St",
+  "locationState": "IN",
+  "locationZipcode": "47715",
+  "lat": 37.972884,
+  "lon": -87.568349,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.607Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.607Z"
+}

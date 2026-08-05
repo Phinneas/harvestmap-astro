@@ -1,0 +1,19 @@
+{
+  "slug": "windcrest-tree-farm-35-north-road",
+  "name": "Windcrest Tree Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "35 North Road, NH",
+  "locationCity": "35 North Road",
+  "locationState": "NH",
+  "locationZipcode": "03827",
+  "lat": 42.927052,
+  "lon": -70.991808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.713Z"
+}

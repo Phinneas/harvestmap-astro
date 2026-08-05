@@ -1,0 +1,19 @@
+{
+  "slug": "baty-farm-400-baty-road",
+  "name": "Baty Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "400 Baty Road, AL",
+  "locationCity": "400 Baty Road",
+  "locationState": "AL",
+  "locationZipcode": "35049",
+  "lat": 33.9249886931594,
+  "lon": -86.6009197367478,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.643Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "scamman-farm-69-portsmouth-ave",
+  "name": "Scamman Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "69 Portsmouth Ave, NH",
+  "locationCity": "69 Portsmouth Ave",
+  "locationState": "NH",
+  "locationZipcode": "03885",
+  "lat": 43.0095439837359,
+  "lon": -70.9210350042773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.703Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.703Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "roberts-orchard-125-hill-street",
+  "name": "Roberts Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "125 Hill Street, CT",
+  "locationCity": "125 Hill Street",
+  "locationState": "CT",
+  "locationZipcode": "06010",
+  "lat": 41.68464601118333,
+  "lon": -72.97335598290589,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

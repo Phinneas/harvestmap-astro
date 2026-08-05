@@ -1,0 +1,19 @@
+{
+  "slug": "edenton-farmers-market-200-north-broad-st",
+  "name": "Edenton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 North Broad St, NC",
+  "locationCity": "200 North Broad St",
+  "locationState": "NC",
+  "locationZipcode": "27932",
+  "lat": 36.062086,
+  "lon": -76.607401,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.231Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.231Z"
+}

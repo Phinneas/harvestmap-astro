@@ -1,0 +1,19 @@
+{
+  "slug": "alderson-community-food-hub-109-cherry-ave",
+  "name": "Alderson Community Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "109 Cherry Ave, WV",
+  "locationCity": "109 Cherry Ave",
+  "locationState": "WV",
+  "locationZipcode": "24910",
+  "lat": 37.7248361,
+  "lon": -80.635778,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:37.456Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:37.456Z"
+}

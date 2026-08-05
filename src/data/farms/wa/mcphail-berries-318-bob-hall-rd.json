@@ -1,0 +1,19 @@
+{
+  "slug": "mcphail-berries-318-bob-hall-rd",
+  "name": "McPhail Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "318 Bob Hall Rd., WA",
+  "locationCity": "318 Bob Hall Rd.",
+  "locationState": "WA",
+  "locationZipcode": "98264",
+  "lat": 48.9427868426686,
+  "lon": -122.552084104264,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.369Z"
+}

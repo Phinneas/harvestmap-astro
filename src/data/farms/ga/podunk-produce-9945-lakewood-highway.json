@@ -1,0 +1,19 @@
+{
+  "slug": "podunk-produce-9945-lakewood-highway",
+  "name": "Podunk Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "9945 Lakewood Highway, GA",
+  "locationCity": "9945 Lakewood Highway",
+  "locationState": "GA",
+  "locationZipcode": "30559",
+  "lat": 34.89941999544362,
+  "lon": -84.2645370328168,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:57.884Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:57.884Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "coppell-farmers-market-793-s-coppell-road-coppell",
+  "name": "Coppell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "793 S. Coppell Road Coppell, TX",
+  "locationCity": "793 S. Coppell Road Coppell",
+  "locationState": "TX",
+  "locationZipcode": "75019",
+  "lat": 32.952130788115944,
+  "lon": -97.00525795554125,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

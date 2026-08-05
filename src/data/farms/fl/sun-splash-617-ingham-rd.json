@@ -1,0 +1,19 @@
+{
+  "slug": "sun-splash-617-ingham-rd",
+  "name": "Sun Splash",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "617 Ingham Rd, FL",
+  "locationCity": "617 Ingham Rd",
+  "locationState": "FL",
+  "locationZipcode": "32168",
+  "lat": 29.0115620004998,
+  "lon": -80.933619002315,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.776Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.776Z"
+}

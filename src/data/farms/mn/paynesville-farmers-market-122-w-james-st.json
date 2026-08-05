@@ -1,0 +1,19 @@
+{
+  "slug": "paynesville-farmers-market-122-w-james-st",
+  "name": "Paynesville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "122 W James St, MN",
+  "locationCity": "122 W James St",
+  "locationState": "MN",
+  "locationZipcode": "56362",
+  "lat": 45.3821829,
+  "lon": -94.7148875,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

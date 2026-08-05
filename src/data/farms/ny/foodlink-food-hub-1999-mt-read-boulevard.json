@@ -1,0 +1,19 @@
+{
+  "slug": "foodlink-food-hub-1999-mt-read-boulevard",
+  "name": "Foodlink Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1999 Mt Read Boulevard, NY",
+  "locationCity": "1999 Mt Read Boulevard",
+  "locationState": "NY",
+  "locationZipcode": "14615",
+  "lat": 43.1903849,
+  "lon": -77.66072,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.982Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.982Z"
+}

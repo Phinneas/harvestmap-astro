@@ -1,0 +1,19 @@
+{
+  "slug": "neligh-farmers-market-501-main-st-neligh",
+  "name": "Neligh Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "501 Main St Neligh, NE",
+  "locationCity": "501 Main St Neligh",
+  "locationState": "NE",
+  "locationZipcode": "68756",
+  "lat": 42.12968104966954,
+  "lon": -98.0298772558033,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

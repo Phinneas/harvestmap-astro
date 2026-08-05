@@ -1,0 +1,19 @@
+{
+  "slug": "global-growers-network-1763-big-valley-way",
+  "name": "Global Growers Network",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1763 Big Valley Way, GA",
+  "locationCity": "1763 Big Valley Way",
+  "locationState": "GA",
+  "locationZipcode": "30083",
+  "lat": 33.739206,
+  "lon": -84.201311,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:55.626Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:55.626Z"
+}

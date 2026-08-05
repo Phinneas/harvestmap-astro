@@ -1,0 +1,19 @@
+{
+  "slug": "orange-community-farmers-market-525-orange-center-road",
+  "name": "Orange Community Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "525 Orange Center Road, CT",
+  "locationCity": "525 Orange Center Road",
+  "locationState": "CT",
+  "locationZipcode": "06477",
+  "lat": 41.2735586,
+  "lon": -73.021058,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.586Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.586Z"
+}

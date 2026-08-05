@@ -1,0 +1,19 @@
+{
+  "slug": "jenkins-farms-269-cr-1600",
+  "name": "Jenkins Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "269 Cr 1600, TX",
+  "locationCity": "269 Cr 1600",
+  "locationState": "TX",
+  "locationZipcode": "75476",
+  "lat": 33.7345439958081,
+  "lon": -96.2207039986833,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.642Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.642Z"
+}

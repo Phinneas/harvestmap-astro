@@ -1,0 +1,19 @@
+{
+  "slug": "rasmussen-farms-3020-thomsen-road",
+  "name": "Rasmussen Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3020 Thomsen Road, OR",
+  "locationCity": "3020 Thomsen Road",
+  "locationState": "OR",
+  "locationZipcode": "97031",
+  "lat": 45.636423009278445,
+  "lon": -121.50402300129832,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.522Z"
+}

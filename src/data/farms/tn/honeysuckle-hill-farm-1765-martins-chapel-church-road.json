@@ -9,25 +9,13 @@
   "locationZipcode": "37172",
   "lat": 36.3922560198196,
   "lon": -86.9409340372965,
-  "website": "https://honeysucklehillfarm.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:38:57.707Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:39:13.080Z"
+      "lastSeen": "2026-08-05T18:51:24.195Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:38:57.707Z",
-  "crops": [
-    "Apples",
-    "Pumpkins",
-    "Corn",
-    "Honey"
-  ],
-  "phone": "615-382-7593",
+  "usdaLastUpdated": "2026-08-05T18:51:24.195Z",
   "image": "/farm-images/honeysuckle-hill-farm-1765-martins-chapel-church-road.jpg",
   "imageAlt": "Honeysuckle Hill Farm"
 }

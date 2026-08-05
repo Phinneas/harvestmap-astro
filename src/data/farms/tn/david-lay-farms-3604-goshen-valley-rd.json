@@ -1,0 +1,19 @@
+{
+  "slug": "david-lay-farms-3604-goshen-valley-rd",
+  "name": "David Lay Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3604 Goshen Valley Rd, TN",
+  "locationCity": "3604 Goshen Valley Rd",
+  "locationState": "TN",
+  "locationZipcode": "37857",
+  "lat": 36.41174344178836,
+  "lon": -82.82620043625413,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.830Z"
+}

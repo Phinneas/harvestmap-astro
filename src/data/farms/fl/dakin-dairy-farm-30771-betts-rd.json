@@ -1,0 +1,20 @@
+{
+  "slug": "dakin-dairy-farm-30771-betts-rd",
+  "name": "Dakin Dairy Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "30771 Betts Rd., FL",
+  "locationCity": "30771 Betts Rd.",
+  "locationState": "FL",
+  "locationZipcode": "30771",
+  "lat": 27.3630529955789,
+  "lon": -82.2302249922558,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.844Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.844Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tahoe-city-farmers-market-thursday-cfm-400-n-lake-blvd",
+  "name": "Tahoe City Farmers Market Thursday CFM",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 N Lake Blvd, CA",
+  "locationCity": "400 N Lake Blvd",
+  "locationState": "CA",
+  "locationZipcode": "96145",
+  "lat": 39.169938,
+  "lon": -120.14113,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.349Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.349Z"
+}

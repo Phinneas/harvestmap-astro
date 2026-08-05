@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-the-crossings-5320-hickory-hollow-pkwy-antioch",
+  "name": "Farmers Market at the Crossings",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5320 Hickory Hollow Pkwy Antioch, TN",
+  "locationCity": "5320 Hickory Hollow Pkwy Antioch",
+  "locationState": "TN",
+  "locationZipcode": "37013",
+  "lat": 36.04621312775108,
+  "lon": -86.65446051770061,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

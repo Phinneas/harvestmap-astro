@@ -1,0 +1,19 @@
+{
+  "slug": "food-roots-905-east-8th-street",
+  "name": "Food Roots",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "905 East 8th Street, CA",
+  "locationCity": "905 East 8th Street",
+  "locationState": "CA",
+  "locationZipcode": "90021",
+  "lat": 34.03675100022775,
+  "lon": -118.24615803465534,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

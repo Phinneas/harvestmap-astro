@@ -1,0 +1,19 @@
+{
+  "slug": "houston-co-farmers-market-1699-ross-clark-cir",
+  "name": "Houston Co. Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1699 ROSS CLARK CIR, AL",
+  "locationCity": "1699 ROSS CLARK CIR",
+  "locationState": "AL",
+  "locationZipcode": "36301",
+  "lat": 31.194933669848847,
+  "lon": -85.37526426595551,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

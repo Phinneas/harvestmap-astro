@@ -1,0 +1,20 @@
+{
+  "slug": "goss-farm-446-pleasant-street-po-box-215",
+  "name": "Goss Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "446 Pleasant Street PO Box 215, MA",
+  "locationCity": "446 Pleasant Street PO Box 215",
+  "locationState": "MA",
+  "locationZipcode": "01827",
+  "lat": 42.6692619326847,
+  "lon": -71.5132558585672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.428Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.428Z",
+  "crops": []
+}

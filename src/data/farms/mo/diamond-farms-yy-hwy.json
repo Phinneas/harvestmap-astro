@@ -1,0 +1,19 @@
+{
+  "slug": "diamond-farms-yy-hwy",
+  "name": "Diamond Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Yy Hwy, MO",
+  "locationCity": "Yy Hwy",
+  "locationState": "MO",
+  "locationZipcode": "64020",
+  "lat": 38.93354370209087,
+  "lon": -93.67612038444547,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:58.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:58.522Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-ridge-farm-12201-gowanda-state-rd",
+  "name": "Blueberry Ridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12201 Gowanda State Rd, NY",
+  "locationCity": "12201 Gowanda State Rd",
+  "locationState": "NY",
+  "locationZipcode": "12201",
+  "lat": 42.54486426363925,
+  "lon": -78.92926472189336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.462Z"
+}

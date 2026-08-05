@@ -1,0 +1,19 @@
+{
+  "slug": "seward-farmer-s-market-529-seward-st",
+  "name": "Seward Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "529 Seward St, NE",
+  "locationCity": "529 Seward St",
+  "locationState": "NE",
+  "locationZipcode": "68434",
+  "lat": 40.907721,
+  "lon": -97.098509,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.802Z"
+}

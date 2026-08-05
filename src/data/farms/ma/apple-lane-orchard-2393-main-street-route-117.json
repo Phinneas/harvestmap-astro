@@ -9,22 +9,13 @@
   "locationZipcode": "",
   "lat": 42.4870835877711,
   "lon": -71.7090147538863,
-  "website": "https://www.applelanefarm.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:29:19.708Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:29:34.257Z"
+      "lastSeen": "2026-08-05T18:42:22.697Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:29:19.708Z",
-  "crops": [
-    "Apples"
-  ],
-  "phone": "(978) 840-6963",
+  "usdaLastUpdated": "2026-08-05T18:42:22.697Z",
   "image": "/farm-images/apple-lane-orchard-2393-main-street-route-117.jpg",
   "imageAlt": "Apple Lane Orchard"
 }

@@ -1,0 +1,19 @@
+{
+  "slug": "fluvanna-farmers-market-114-crofton-plaza-palmyra",
+  "name": "Fluvanna Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "114 Crofton Plaza Palmyra, VA",
+  "locationCity": "114 Crofton Plaza Palmyra",
+  "locationState": "VA",
+  "locationZipcode": "22963",
+  "lat": 37.92453462319919,
+  "lon": -78.31760660710768,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

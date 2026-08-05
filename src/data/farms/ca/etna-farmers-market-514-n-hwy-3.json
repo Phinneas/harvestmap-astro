@@ -1,0 +1,19 @@
+{
+  "slug": "etna-farmers-market-514-n-hwy-3",
+  "name": "Etna Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "514 N Hwy 3, CA",
+  "locationCity": "514 N Hwy 3",
+  "locationState": "CA",
+  "locationZipcode": "96027",
+  "lat": 41.458263,
+  "lon": -122.89585,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.351Z"
+}

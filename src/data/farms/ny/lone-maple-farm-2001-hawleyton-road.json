@@ -1,0 +1,19 @@
+{
+  "slug": "lone-maple-farm-2001-hawleyton-road",
+  "name": "Lone Maple Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2001 Hawleyton Road, NY",
+  "locationCity": "2001 Hawleyton Road",
+  "locationState": "NY",
+  "locationZipcode": "13903",
+  "lat": 42.07099646891979,
+  "lon": -75.9222857914503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.171Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.171Z"
+}

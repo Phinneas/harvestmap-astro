@@ -1,0 +1,19 @@
+{
+  "slug": "circle-square-commons-farmers-market-8445-sw-80th-street",
+  "name": "Circle Square Commons Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8445 SW 80th Street, FL",
+  "locationCity": "8445 SW 80th Street",
+  "locationState": "FL",
+  "locationZipcode": "34481",
+  "lat": 29.106489,
+  "lon": -82.257895,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.559Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.559Z"
+}

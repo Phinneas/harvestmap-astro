@@ -1,0 +1,19 @@
+{
+  "slug": "navarino-orchard-655-cherry-valley-tpk-rt-20",
+  "name": "Navarino Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "655 Cherry Valley Tpk. (rt.20), NY",
+  "locationCity": "655 Cherry Valley Tpk. (rt.20)",
+  "locationState": "NY",
+  "locationZipcode": "13215",
+  "lat": 42.9240485438563,
+  "lon": -76.264670078199,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.956Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.956Z"
+}

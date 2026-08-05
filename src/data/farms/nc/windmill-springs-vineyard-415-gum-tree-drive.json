@@ -1,0 +1,19 @@
+{
+  "slug": "windmill-springs-vineyard-415-gum-tree-drive",
+  "name": "Windmill Springs Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "415 Gum Tree Drive, NC",
+  "locationCity": "415 Gum Tree Drive",
+  "locationState": "NC",
+  "locationZipcode": "27013",
+  "lat": 35.7190837923992,
+  "lon": -80.6760507452656,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.770Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.770Z"
+}

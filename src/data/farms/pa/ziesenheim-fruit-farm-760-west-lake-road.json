@@ -1,0 +1,19 @@
+{
+  "slug": "ziesenheim-fruit-farm-760-west-lake-road",
+  "name": "Ziesenheim Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "760 West Lake Road, PA",
+  "locationCity": "760 West Lake Road",
+  "locationState": "PA",
+  "locationZipcode": "16423",
+  "lat": 42.0307371828741,
+  "lon": -80.3295863162095,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.203Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.203Z"
+}

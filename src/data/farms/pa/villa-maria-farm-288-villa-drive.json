@@ -1,0 +1,19 @@
+{
+  "slug": "villa-maria-farm-288-villa-drive",
+  "name": "Villa Maria Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "288 Villa Drive, PA",
+  "locationCity": "288 Villa Drive",
+  "locationState": "PA",
+  "locationZipcode": "16155",
+  "lat": 41.07304099997182,
+  "lon": -80.50818603509487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.216Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.216Z"
+}

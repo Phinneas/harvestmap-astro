@@ -2,20 +2,20 @@
   "slug": "allison-family-farm-llc-124-diamond-lake-lane",
   "name": "Allison Family Farm LLC",
   "source": "usda",
-  "directory": "onfarmmarket",
+  "directory": "agritourism",
   "location": "124 Diamond Lake Lane, FL",
   "locationCity": "124 Diamond Lake Lane",
   "locationState": "FL",
-  "locationZipcode": "",
-  "lat": 29.423516,
-  "lon": -81.5767371,
+  "locationZipcode": "32112",
+  "lat": 29.422529982134,
+  "lon": -81.5766729980598,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:25:01.940Z"
+      "lastSeen": "2026-08-05T18:38:24.853Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:25:01.940Z",
-  "website": "https://allisonfamilyfarm.com/",
+  "usdaLastUpdated": "2026-08-05T18:38:24.853Z",
+  "crops": [],
   "tagline": "Allison Family Farm LLC"
 }

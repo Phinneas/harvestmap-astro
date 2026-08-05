@@ -1,0 +1,19 @@
+{
+  "slug": "azure-acres-1233-w-lake-road",
+  "name": "Azure Acres",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1233 W. Lake Road, MI",
+  "locationCity": "1233 W. Lake Road",
+  "locationState": "MI",
+  "locationZipcode": "48420",
+  "lat": 43.20491198133905,
+  "lon": -83.70312201962952,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.232Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.232Z"
+}

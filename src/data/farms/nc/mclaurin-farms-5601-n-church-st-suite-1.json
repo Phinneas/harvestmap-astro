@@ -1,0 +1,19 @@
+{
+  "slug": "mclaurin-farms-5601-n-church-st-suite-1",
+  "name": "McLaurin Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5601 N Church St Suite 1, NC",
+  "locationCity": "5601 N Church St Suite 1",
+  "locationState": "NC",
+  "locationZipcode": "27455",
+  "lat": 36.1963538771345,
+  "lon": -79.784550575298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.825Z"
+}

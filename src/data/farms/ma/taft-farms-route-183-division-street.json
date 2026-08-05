@@ -9,21 +9,11 @@
   "locationZipcode": "",
   "lat": 42.2330099820313,
   "lon": -73.3462700403045,
-  "website": "https://taftfarmsgb.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:29:19.708Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:29:34.256Z"
+      "lastSeen": "2026-08-05T18:42:22.695Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:29:19.708Z",
-  "crops": [
-    "Strawberries",
-    "Raspberries"
-  ],
-  "phone": "413-528-1515"
+  "usdaLastUpdated": "2026-08-05T18:42:22.695Z"
 }

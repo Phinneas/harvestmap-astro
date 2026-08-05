@@ -1,0 +1,19 @@
+{
+  "slug": "top-of-the-hill-farm-50-south-main-street",
+  "name": "Top of the Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "50 South Main Street, NH",
+  "locationCity": "50 South Main Street",
+  "locationState": "NH",
+  "locationZipcode": "03894",
+  "lat": 43.58455,
+  "lon": -71.2117,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.867Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.867Z"
+}

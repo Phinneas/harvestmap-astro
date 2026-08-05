@@ -1,0 +1,19 @@
+{
+  "slug": "state-fair-farmers-market-400-w-center-douglas",
+  "name": "State Fair Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 W Center Douglas, WY",
+  "locationCity": "400 W Center Douglas",
+  "locationState": "WY",
+  "locationZipcode": "82002",
+  "lat": 42.75957728006659,
+  "lon": -105.3827580106801,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

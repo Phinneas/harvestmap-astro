@@ -1,0 +1,19 @@
+{
+  "slug": "bentz-road-farm-6109-85th-street",
+  "name": "Bentz Road Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6109 85th Street, WI",
+  "locationCity": "6109 85th Street",
+  "locationState": "WI",
+  "locationZipcode": "53158",
+  "lat": 42.5482549949308,
+  "lon": -87.8804260249624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.081Z"
+}

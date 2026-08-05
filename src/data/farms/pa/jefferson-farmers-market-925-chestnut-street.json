@@ -1,0 +1,19 @@
+{
+  "slug": "jefferson-farmers-market-925-chestnut-street",
+  "name": "Jefferson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "925 Chestnut Street, PA",
+  "locationCity": "925 Chestnut Street",
+  "locationState": "PA",
+  "locationZipcode": "19107",
+  "lat": 39.94994,
+  "lon": -75.156213,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.008Z"
+}

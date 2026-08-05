@@ -1,0 +1,19 @@
+{
+  "slug": "midwest-farmers-market-305-n-west-street-winchester",
+  "name": "Midwest Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "305 N West Street Winchester, IN",
+  "locationCity": "305 N West Street Winchester",
+  "locationState": "IN",
+  "locationZipcode": "47394",
+  "lat": 40.17465987250201,
+  "lon": -84.98400243226561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

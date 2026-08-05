@@ -1,0 +1,19 @@
+{
+  "slug": "berry-hill-farm-2587-us-highway-75",
+  "name": "Berry Hill Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2587 Us Highway 75, KS",
+  "locationCity": "2587 Us Highway 75",
+  "locationState": "KS",
+  "locationZipcode": "66534",
+  "lat": 39.927763985436286,
+  "lon": -95.78890003067856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:58.168Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:58.168Z"
+}

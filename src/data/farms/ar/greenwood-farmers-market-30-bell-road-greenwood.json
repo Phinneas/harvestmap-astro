@@ -1,0 +1,19 @@
+{
+  "slug": "greenwood-farmers-market-30-bell-road-greenwood",
+  "name": "Greenwood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30 Bell Road Greenwood, AR",
+  "locationCity": "30 Bell Road Greenwood",
+  "locationState": "AR",
+  "locationZipcode": "72936",
+  "lat": 35.21284751836809,
+  "lon": -94.25254671566772,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

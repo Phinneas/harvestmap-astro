@@ -1,0 +1,19 @@
+{
+  "slug": "bayfield-foods-csa-p-o-box-412",
+  "name": "Bayfield Foods CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "P.O. Box 412, WI",
+  "locationCity": "P.O. Box 412",
+  "locationState": "WI",
+  "locationZipcode": "54891",
+  "lat": 46.68305,
+  "lon": -90.918654,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.025Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.025Z"
+}

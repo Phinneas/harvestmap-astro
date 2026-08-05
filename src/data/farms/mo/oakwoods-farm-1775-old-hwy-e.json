@@ -1,0 +1,20 @@
+{
+  "slug": "oakwoods-farm-1775-old-hwy-e",
+  "name": "Oakwoods Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1775 Old Hwy E, MO",
+  "locationCity": "1775 Old Hwy E",
+  "locationState": "MO",
+  "locationZipcode": "64844",
+  "lat": 36.9352773,
+  "lon": -94.2634518,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:52.646Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:52.646Z",
+  "crops": []
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "pete-s-pumpkin-patch-101-freeway-at-central-avenue",
+  "name": "Pete's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Freeway At Central Avenue, CA",
+  "locationCity": "101 Freeway At Central Avenue",
+  "locationState": "CA",
+  "locationZipcode": "93010",
+  "lat": 34.2218400185098,
+  "lon": -119.101950013592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.799Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.799Z",
+  "crops": []
+}

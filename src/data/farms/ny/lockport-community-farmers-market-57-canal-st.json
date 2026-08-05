@@ -1,0 +1,19 @@
+{
+  "slug": "lockport-community-farmers-market-57-canal-st",
+  "name": "Lockport Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "57 Canal St, NY",
+  "locationCity": "57 Canal St",
+  "locationState": "NY",
+  "locationZipcode": "14094",
+  "lat": 43.17056736764342,
+  "lon": -78.69391294254969,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

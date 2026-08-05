@@ -1,0 +1,19 @@
+{
+  "slug": "crestone-farmers-market-crestone-farmers-market",
+  "name": "Crestone Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Crestone Farmers Market, CO",
+  "locationCity": "Crestone Farmers Market",
+  "locationState": "CO",
+  "locationZipcode": "81131",
+  "lat": 37.994247928590546,
+  "lon": -105.7004601913917,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

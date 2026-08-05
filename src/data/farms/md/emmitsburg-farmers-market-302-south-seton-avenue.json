@@ -1,0 +1,19 @@
+{
+  "slug": "emmitsburg-farmers-market-302-south-seton-avenue",
+  "name": "Emmitsburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "302 South Seton Avenue, MD",
+  "locationCity": "302 South Seton Avenue",
+  "locationState": "MD",
+  "locationZipcode": "21727",
+  "lat": 39.70085284318868,
+  "lon": -77.3284567409275,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

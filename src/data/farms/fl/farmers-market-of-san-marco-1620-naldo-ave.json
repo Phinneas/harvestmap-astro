@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-of-san-marco-1620-naldo-ave",
+  "name": "Farmers Market of San Marco",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1620 Naldo Ave, FL",
+  "locationCity": "1620 Naldo Ave",
+  "locationState": "FL",
+  "locationZipcode": "32207",
+  "lat": 30.30842535535048,
+  "lon": -81.65582116084995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

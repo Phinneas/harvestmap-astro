@@ -1,0 +1,19 @@
+{
+  "slug": "pangborn-farms-450-pangborn-road",
+  "name": "Pangborn Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "450 Pangborn Road, WA",
+  "locationCity": "450 Pangborn Road",
+  "locationState": "WA",
+  "locationZipcode": "98264",
+  "lat": 48.9793662656351,
+  "lon": -122.462651105082,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.188Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.188Z"
+}

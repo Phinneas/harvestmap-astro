@@ -1,0 +1,19 @@
+{
+  "slug": "huffman-fruit-farm-13075-lisbon-road",
+  "name": "Huffman Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "13075 Lisbon Road, OH",
+  "locationCity": "13075 Lisbon Road",
+  "locationState": "OH",
+  "locationZipcode": "13075",
+  "lat": 40.928520979792125,
+  "lon": -80.78794797919129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.372Z"
+}

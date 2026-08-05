@@ -1,0 +1,19 @@
+{
+  "slug": "south-collier-farmer-s-market-6060-collier-blvd",
+  "name": "South Collier Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6060 Collier Blvd, FL",
+  "locationCity": "6060 Collier Blvd",
+  "locationState": "FL",
+  "locationZipcode": "34114",
+  "lat": 26.045266,
+  "lon": -81.698398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.560Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.560Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hilton-farmers-market-55-hovey-st-hilton",
+  "name": "Hilton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "55 Hovey St. Hilton, NY",
+  "locationCity": "55 Hovey St. Hilton",
+  "locationState": "NY",
+  "locationZipcode": "14468",
+  "lat": 43.28883672098462,
+  "lon": -77.79129615181738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

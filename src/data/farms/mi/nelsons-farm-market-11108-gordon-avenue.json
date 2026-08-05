@@ -1,0 +1,19 @@
+{
+  "slug": "nelsons-farm-market-11108-gordon-avenue",
+  "name": "Nelsons Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "11108 Gordon Avenue, MI",
+  "locationCity": "11108 Gordon Avenue",
+  "locationState": "MI",
+  "locationZipcode": "11108",
+  "lat": 43.35249882228966,
+  "lon": -85.82062844660209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.233Z"
+}

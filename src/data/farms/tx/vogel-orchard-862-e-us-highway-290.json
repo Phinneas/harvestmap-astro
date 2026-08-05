@@ -1,0 +1,19 @@
+{
+  "slug": "vogel-orchard-862-e-us-highway-290",
+  "name": "Vogel Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "862 E. US Highway 290, TX",
+  "locationCity": "862 E. US Highway 290",
+  "locationState": "TX",
+  "locationZipcode": "78624",
+  "lat": 30.2662506098038,
+  "lon": -98.8596384065848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.405Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.405Z"
+}

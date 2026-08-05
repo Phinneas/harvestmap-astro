@@ -1,0 +1,19 @@
+{
+  "slug": "catawba-valley-farmers-market-4965-catawba-creek-rd-catawba",
+  "name": "Catawba Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4965 Catawba Creek Rd. Catawba, VA",
+  "locationCity": "4965 Catawba Creek Rd. Catawba",
+  "locationState": "VA",
+  "locationZipcode": "24070",
+  "lat": 37.383185473140756,
+  "lon": -80.108255305886,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

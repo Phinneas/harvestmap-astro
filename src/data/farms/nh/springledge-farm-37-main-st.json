@@ -1,0 +1,19 @@
+{
+  "slug": "springledge-farm-37-main-st",
+  "name": "Springledge Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "37 Main St., NH",
+  "locationCity": "37 Main St.",
+  "locationState": "NH",
+  "locationZipcode": "03257",
+  "lat": 43.42198399520572,
+  "lon": -71.98857196233635,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.803Z"
+}

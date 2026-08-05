@@ -1,0 +1,19 @@
+{
+  "slug": "east-nashville-farmers-market-511-woodland-street",
+  "name": "East Nashville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "511 Woodland Street, TN",
+  "locationCity": "511 Woodland Street",
+  "locationState": "TN",
+  "locationZipcode": "",
+  "lat": 36.172268,
+  "lon": -86.764338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.291Z"
+}

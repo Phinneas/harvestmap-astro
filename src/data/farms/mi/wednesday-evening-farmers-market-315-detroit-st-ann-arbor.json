@@ -1,0 +1,19 @@
+{
+  "slug": "wednesday-evening-farmers-market-315-detroit-st-ann-arbor",
+  "name": "Wednesday Evening Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "315 Detroit St. Ann Arbor, MI",
+  "locationCity": "315 Detroit St. Ann Arbor",
+  "locationState": "MI",
+  "locationZipcode": "48104",
+  "lat": 42.28340482174158,
+  "lon": -83.74663376200793,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.249Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.249Z"
+}

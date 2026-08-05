@@ -1,0 +1,19 @@
+{
+  "slug": "bakersville-main-street-farmer-s-market-143-crimson-laurel-way-bakersville",
+  "name": "Bakersville Main Street Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "143 Crimson Laurel Way Bakersville, NC",
+  "locationCity": "143 Crimson Laurel Way Bakersville",
+  "locationState": "NC",
+  "locationZipcode": "28705",
+  "lat": 36.01373477403024,
+  "lon": -82.15643050612566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.325Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.325Z"
+}

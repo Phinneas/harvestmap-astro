@@ -1,0 +1,19 @@
+{
+  "slug": "dekalb-farmers-market-2nd-and-locust-streets",
+  "name": "DeKalb Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2nd and Locust Streets, IL",
+  "locationCity": "2nd and Locust Streets",
+  "locationState": "IL",
+  "locationZipcode": "60115",
+  "lat": 41.931127,
+  "lon": -88.752032,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.931Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.931Z"
+}

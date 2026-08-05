@@ -1,0 +1,19 @@
+{
+  "slug": "batavia-farmers-market-north-river-street",
+  "name": "Batavia Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "North River Street, IL",
+  "locationCity": "North River Street",
+  "locationState": "IL",
+  "locationZipcode": "60510",
+  "lat": 41.851028,
+  "lon": -88.306027,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.952Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.952Z"
+}

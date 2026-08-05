@@ -1,0 +1,19 @@
+{
+  "slug": "hadley-s-farm-904-main-street",
+  "name": "Hadley's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "904 Main Street, KS",
+  "locationCity": "904 Main Street",
+  "locationState": "KS",
+  "locationZipcode": "67548",
+  "lat": 38.5321900000001,
+  "lon": -99.3096697,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.140Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.140Z"
+}

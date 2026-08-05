@@ -1,0 +1,20 @@
+{
+  "slug": "mick-farms-4261-canoe-creek-rd",
+  "name": "Mick Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4261 Canoe Creek Rd, FL",
+  "locationCity": "4261 Canoe Creek Rd",
+  "locationState": "FL",
+  "locationZipcode": "34772",
+  "lat": 28.1647159849129,
+  "lon": -81.2705620384172,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.810Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.810Z",
+  "crops": []
+}

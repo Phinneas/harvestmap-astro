@@ -1,0 +1,19 @@
+{
+  "slug": "berrybogg-farm-providence-road",
+  "name": "Berrybogg Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Providence Road, NH",
+  "locationCity": "Providence Road",
+  "locationState": "NH",
+  "locationZipcode": "03884",
+  "lat": 43.2659253308461,
+  "lon": -71.2189570608939,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.782Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.782Z"
+}

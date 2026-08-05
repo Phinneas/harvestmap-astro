@@ -1,0 +1,19 @@
+{
+  "slug": "rare-earth-farms-1209-agriculture-street",
+  "name": "Rare Earth Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1209 Agriculture Street, NC",
+  "locationCity": "1209 Agriculture Street",
+  "locationState": "NC",
+  "locationZipcode": "27603",
+  "lat": 35.7642035,
+  "lon": -78.6631175,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.859Z"
+}

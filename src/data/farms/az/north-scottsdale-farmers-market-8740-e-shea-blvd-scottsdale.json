@@ -1,0 +1,19 @@
+{
+  "slug": "north-scottsdale-farmers-market-8740-e-shea-blvd-scottsdale",
+  "name": "North Scottsdale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8740 E Shea Blvd Scottsdale, AZ",
+  "locationCity": "8740 E Shea Blvd Scottsdale",
+  "locationState": "AZ",
+  "locationZipcode": "85260",
+  "lat": 33.58223149801226,
+  "lon": -111.8916647634321,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

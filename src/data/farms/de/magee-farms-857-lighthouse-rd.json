@@ -1,0 +1,19 @@
+{
+  "slug": "magee-farms-857-lighthouse-rd",
+  "name": "Magee Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "857 Lighthouse Rd, DE",
+  "locationCity": "857 Lighthouse Rd",
+  "locationState": "DE",
+  "locationZipcode": "19975",
+  "lat": 38.465262524737,
+  "lon": -75.1236296275644,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.163Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.163Z"
+}

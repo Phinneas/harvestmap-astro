@@ -1,0 +1,19 @@
+{
+  "slug": "breese-farmers-market-500-n-1st-street-breese",
+  "name": "Breese Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 N 1st Street Breese, IL",
+  "locationCity": "500 N 1st Street Breese",
+  "locationState": "IL",
+  "locationZipcode": "62230",
+  "lat": 38.607700580546314,
+  "lon": -89.52877599303756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

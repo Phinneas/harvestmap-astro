@@ -1,0 +1,20 @@
+{
+  "slug": "zarpentine-farm-market-and-maize-163-burritt-rd",
+  "name": "Zarpentine Farm Market and MAiZE",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "163 Burritt Rd, NY",
+  "locationCity": "163 Burritt Rd",
+  "locationState": "NY",
+  "locationZipcode": "14468",
+  "lat": 43.273359357041016,
+  "lon": -77.76540025033309,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.830Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "beasley-s-orchard-2304-e-main-street",
+  "name": "Beasley's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2304 E. Main Street, IN",
+  "locationCity": "2304 E. Main Street",
+  "locationState": "IN",
+  "locationZipcode": "46122",
+  "lat": 39.7621540072198,
+  "lon": -86.4773860417667,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.355Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.355Z"
+}

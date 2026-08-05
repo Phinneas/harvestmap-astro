@@ -1,0 +1,19 @@
+{
+  "slug": "home-sweet-farm-800-fm-2502",
+  "name": "Home Sweet Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "800 FM 2502, TX",
+  "locationCity": "800 FM 2502",
+  "locationState": "TX",
+  "locationZipcode": "77833",
+  "lat": 30.1551867374961,
+  "lon": -96.6066530018185,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.522Z"
+}

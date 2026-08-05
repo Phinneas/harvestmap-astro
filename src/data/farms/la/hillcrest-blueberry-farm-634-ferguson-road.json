@@ -1,0 +1,20 @@
+{
+  "slug": "hillcrest-blueberry-farm-634-ferguson-road",
+  "name": "Hillcrest Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "634 Ferguson Road, LA",
+  "locationCity": "634 Ferguson Road",
+  "locationState": "LA",
+  "locationZipcode": "71030",
+  "lat": 32.1680167766227,
+  "lon": -93.8070043773926,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.060Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.060Z",
+  "crops": []
+}

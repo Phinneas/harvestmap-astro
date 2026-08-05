@@ -1,0 +1,20 @@
+{
+  "slug": "stone-harvest-farm-60-hardwick-road",
+  "name": "Stone Harvest Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "60 Hardwick Road, MA",
+  "locationCity": "60 Hardwick Road",
+  "locationState": "MA",
+  "locationZipcode": "01366",
+  "lat": 42.4798918573558,
+  "lon": -72.1962620281597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.642Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.642Z",
+  "crops": []
+}

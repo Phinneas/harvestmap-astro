@@ -1,0 +1,19 @@
+{
+  "slug": "lewis-county-gen-hospital-market-7785-n-state-st-lowville",
+  "name": "Lewis County Gen Hospital Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7785 N. State St. Lowville, NY",
+  "locationCity": "7785 N. State St. Lowville",
+  "locationState": "NY",
+  "locationZipcode": "13367",
+  "lat": 43.79577717263277,
+  "lon": -75.49813091082515,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

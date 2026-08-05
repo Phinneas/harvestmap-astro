@@ -1,0 +1,19 @@
+{
+  "slug": "section-farmers-market-73-dutton-rd",
+  "name": "Section Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "73 Dutton Rd., AL",
+  "locationCity": "73 Dutton Rd.",
+  "locationState": "AL",
+  "locationZipcode": "35771",
+  "lat": 34.58080102206368,
+  "lon": -85.9839883206997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

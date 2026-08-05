@@ -1,0 +1,20 @@
+{
+  "slug": "perfectly-blended-farm-3819-riceville-road",
+  "name": "Perfectly Blended Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3819 Riceville Road, NY",
+  "locationCity": "3819 Riceville Road",
+  "locationState": "NY",
+  "locationZipcode": "14101",
+  "lat": 42.43374545706143,
+  "lon": -78.51896586758967,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.455Z",
+  "crops": []
+}

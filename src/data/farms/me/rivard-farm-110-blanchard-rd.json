@@ -1,0 +1,19 @@
+{
+  "slug": "rivard-farm-110-blanchard-rd",
+  "name": "Rivard Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "110 Blanchard Rd, ME",
+  "locationCity": "110 Blanchard Rd",
+  "locationState": "ME",
+  "locationZipcode": "04083",
+  "lat": 43.4598170143831,
+  "lon": -70.838818676229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.851Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.851Z"
+}

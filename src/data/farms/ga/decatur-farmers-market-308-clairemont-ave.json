@@ -1,0 +1,19 @@
+{
+  "slug": "decatur-farmers-market-308-clairemont-ave",
+  "name": "Decatur Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "308 Clairemont Ave, GA",
+  "locationCity": "308 Clairemont Ave",
+  "locationState": "GA",
+  "locationZipcode": "30030",
+  "lat": 33.778773,
+  "lon": -84.296808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.685Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.685Z"
+}

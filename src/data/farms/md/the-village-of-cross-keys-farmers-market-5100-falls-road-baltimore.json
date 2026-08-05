@@ -1,0 +1,19 @@
+{
+  "slug": "the-village-of-cross-keys-farmers-market-5100-falls-road-baltimore",
+  "name": "The Village of Cross Keys Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5100 Falls Road Baltimore, MD",
+  "locationCity": "5100 Falls Road Baltimore",
+  "locationState": "MD",
+  "locationZipcode": "21210",
+  "lat": 39.355930374869935,
+  "lon": -76.64431330004099,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

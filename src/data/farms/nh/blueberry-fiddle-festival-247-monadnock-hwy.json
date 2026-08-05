@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-fiddle-festival-247-monadnock-hwy",
+  "name": "Blueberry Fiddle Festival",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "247 Monadnock Hwy, NH",
+  "locationCity": "247 Monadnock Hwy",
+  "locationState": "NH",
+  "locationZipcode": "03446",
+  "lat": 42.8929549795077,
+  "lon": -72.2491729595927,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.761Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.761Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wapello-county-farmers-market-ottumwa",
+  "name": "Wapello County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Ottumwa, IA",
+  "locationCity": "Ottumwa",
+  "locationState": "IA",
+  "locationZipcode": "52501",
+  "lat": 41.017422,
+  "lon": -92.425855,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.555Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.555Z"
+}

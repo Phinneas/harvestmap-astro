@@ -1,0 +1,19 @@
+{
+  "slug": "hawthorne-valley-farm-327-county-route-21c",
+  "name": "Hawthorne Valley Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "327 County Route 21C, NY",
+  "locationCity": "327 County Route 21C",
+  "locationState": "NY",
+  "locationZipcode": "12075",
+  "lat": 42.270816723942204,
+  "lon": -73.59452625438315,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.188Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.188Z"
+}

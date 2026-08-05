@@ -1,0 +1,19 @@
+{
+  "slug": "smith-county-farmers-market-110-ag-center-lane",
+  "name": "Smith County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 Ag. Center lane, TN",
+  "locationCity": "110 Ag. Center lane",
+  "locationState": "TN",
+  "locationZipcode": "37030",
+  "lat": 36.2233523,
+  "lon": -85.946185,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.290Z"
+}

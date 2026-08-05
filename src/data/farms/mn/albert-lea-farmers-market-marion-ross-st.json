@@ -1,0 +1,19 @@
+{
+  "slug": "albert-lea-farmers-market-marion-ross-st",
+  "name": "Albert Lea Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Marion Ross St, MN",
+  "locationCity": "Marion Ross St",
+  "locationState": "MN",
+  "locationZipcode": "56007",
+  "lat": 43.6508866,
+  "lon": -93.3693604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

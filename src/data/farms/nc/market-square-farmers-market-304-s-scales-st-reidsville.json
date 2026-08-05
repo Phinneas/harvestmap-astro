@@ -1,0 +1,19 @@
+{
+  "slug": "market-square-farmers-market-304-s-scales-st-reidsville",
+  "name": "Market Square Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "304 S Scales St Reidsville, NC",
+  "locationCity": "304 S Scales St Reidsville",
+  "locationState": "NC",
+  "locationZipcode": "27320",
+  "lat": 36.358692532075686,
+  "lon": -79.66429744643128,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

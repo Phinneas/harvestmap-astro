@@ -1,0 +1,19 @@
+{
+  "slug": "nettles-farm-1001-cherokee-phoenix-lane",
+  "name": "Nettles Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1001 Cherokee Phoenix Lane, GA",
+  "locationCity": "1001 Cherokee Phoenix Lane",
+  "locationState": "GA",
+  "locationZipcode": "31634",
+  "lat": 30.9054000074535,
+  "lon": -82.6703540341325,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.378Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.378Z"
+}

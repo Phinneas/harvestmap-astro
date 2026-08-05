@@ -1,0 +1,19 @@
+{
+  "slug": "hanover-honey-18-parkwood-road",
+  "name": "Hanover Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "18 Parkwood Road, CT",
+  "locationCity": "18 Parkwood Road",
+  "locationState": "CT",
+  "locationZipcode": "06350",
+  "lat": 41.6456699937795,
+  "lon": -72.0620280280998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.996Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.996Z"
+}

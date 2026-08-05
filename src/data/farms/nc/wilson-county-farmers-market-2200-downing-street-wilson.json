@@ -1,0 +1,19 @@
+{
+  "slug": "wilson-county-farmers-market-2200-downing-street-wilson",
+  "name": "Wilson County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2200 Downing Street Wilson, NC",
+  "locationCity": "2200 Downing Street Wilson",
+  "locationState": "NC",
+  "locationZipcode": "27893",
+  "lat": 35.711861191435155,
+  "lon": -77.93696407589958,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.328Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.328Z"
+}

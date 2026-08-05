@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-fort-worth-inc-5507-e-belknap-st-fort-worth",
+  "name": "Farmers Market Fort Worth Inc",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5507 E Belknap St Fort Worth, TX",
+  "locationCity": "5507 E Belknap St Fort Worth",
+  "locationState": "TX",
+  "locationZipcode": "76117",
+  "lat": 32.79776198297814,
+  "lon": -97.26764078521836,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.199Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.199Z"
+}

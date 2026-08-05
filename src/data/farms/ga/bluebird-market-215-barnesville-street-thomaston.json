@@ -1,0 +1,19 @@
+{
+  "slug": "bluebird-market-215-barnesville-street-thomaston",
+  "name": "Bluebird Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 Barnesville Street Thomaston, GA",
+  "locationCity": "215 Barnesville Street Thomaston",
+  "locationState": "GA",
+  "locationZipcode": "30286",
+  "lat": 32.88946882903165,
+  "lon": -84.3217177426079,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

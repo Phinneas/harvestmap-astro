@@ -1,0 +1,19 @@
+{
+  "slug": "heads-farm-422-kinneys-road",
+  "name": "Heads Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "422 Kinneys Road, TN",
+  "locationCity": "422 Kinneys Road",
+  "locationState": "TN",
+  "locationZipcode": "37032",
+  "lat": 36.5363386250491,
+  "lon": -86.9936473768943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.306Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.306Z"
+}

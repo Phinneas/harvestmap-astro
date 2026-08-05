@@ -1,0 +1,19 @@
+{
+  "slug": "ashland-saturday-farmers-market-101-oak-st",
+  "name": "Ashland Saturday Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Oak St, OR",
+  "locationCity": "101 Oak St",
+  "locationState": "OR",
+  "locationZipcode": "97520",
+  "lat": 42.197636048810814,
+  "lon": -122.71421256142389,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.423Z"
+}

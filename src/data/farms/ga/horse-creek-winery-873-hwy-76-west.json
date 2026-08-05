@@ -1,0 +1,19 @@
+{
+  "slug": "horse-creek-winery-873-hwy-76-west",
+  "name": "Horse Creek Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "873 Hwy 76 West, GA",
+  "locationCity": "873 Hwy 76 West",
+  "locationState": "GA",
+  "locationZipcode": "31639",
+  "lat": 31.1859637718241,
+  "lon": -83.3110508044116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.341Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.341Z"
+}

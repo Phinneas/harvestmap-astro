@@ -1,0 +1,19 @@
+{
+  "slug": "richfield-farmers-market-winter-7000-nicollet-ave",
+  "name": "Richfield Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7000 Nicollet Ave, MN",
+  "locationCity": "7000 Nicollet Ave",
+  "locationState": "MN",
+  "locationZipcode": "55423",
+  "lat": 44.876064,
+  "lon": -93.2787959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

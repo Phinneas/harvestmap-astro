@@ -1,0 +1,19 @@
+{
+  "slug": "heikes-farms-10099-southwest-heikes-drive",
+  "name": "Heikes Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10099 Southwest Heikes Drive, OR",
+  "locationCity": "10099 Southwest Heikes Drive",
+  "locationState": "OR",
+  "locationZipcode": "10099",
+  "lat": 45.4504987885157,
+  "lon": -122.9634471157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.815Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.815Z"
+}

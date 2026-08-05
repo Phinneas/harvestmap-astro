@@ -1,0 +1,19 @@
+{
+  "slug": "browning-s-honey-north-5th-east",
+  "name": "Browning's Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "North 5th East, ID",
+  "locationCity": "North 5th East",
+  "locationState": "ID",
+  "locationZipcode": "83401",
+  "lat": 43.541953,
+  "lon": -112.023788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.666Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.666Z"
+}

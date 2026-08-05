@@ -1,0 +1,19 @@
+{
+  "slug": "noblesville-farmers-market-395-westfield-rd-noblesville",
+  "name": "Noblesville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "395 Westfield Rd. Noblesville, IN",
+  "locationCity": "395 Westfield Rd. Noblesville",
+  "locationState": "IN",
+  "locationZipcode": "46060",
+  "lat": 40.047022480245616,
+  "lon": -86.02383801219345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

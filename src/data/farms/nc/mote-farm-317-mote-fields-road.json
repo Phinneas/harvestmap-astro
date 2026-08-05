@@ -1,0 +1,19 @@
+{
+  "slug": "mote-farm-317-mote-fields-road",
+  "name": "Mote Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "317 Mote Fields Road, NC",
+  "locationCity": "317 Mote Fields Road",
+  "locationState": "NC",
+  "locationZipcode": "28444",
+  "lat": 34.6584783329901,
+  "lon": -78.4447166223287,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.838Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "piggott-s-farm-market-bakery-3824-e-napier-ave",
+  "name": "Piggott's Farm Market & Bakery",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3824 E. Napier Ave., MI",
+  "locationCity": "3824 E. Napier Ave.",
+  "locationState": "MI",
+  "locationZipcode": "49022",
+  "lat": 42.0906298,
+  "lon": -86.365637,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.082Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.082Z"
+}

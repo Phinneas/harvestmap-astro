@@ -1,0 +1,19 @@
+{
+  "slug": "warren-farmers-market-424-n-1st-st",
+  "name": "Warren Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "424 N 1st St, MN",
+  "locationCity": "424 N 1st St",
+  "locationState": "MN",
+  "locationZipcode": "56762",
+  "lat": 48.1968794,
+  "lon": -96.771445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

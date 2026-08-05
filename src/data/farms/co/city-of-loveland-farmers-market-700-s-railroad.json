@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-loveland-farmers-market-700-s-railroad",
+  "name": "City of Loveland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 S. Railroad, CO",
+  "locationCity": "700 S. Railroad",
+  "locationState": "CO",
+  "locationZipcode": "80537",
+  "lat": 40.387479,
+  "lon": -105.07865,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.326Z"
+}

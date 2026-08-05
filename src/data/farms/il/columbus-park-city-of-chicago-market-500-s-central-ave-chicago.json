@@ -1,0 +1,19 @@
+{
+  "slug": "columbus-park-city-of-chicago-market-500-s-central-ave-chicago",
+  "name": "Columbus Park (City of Chicago Market)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 S Central Ave Chicago, IL",
+  "locationCity": "500 S Central Ave Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60644",
+  "lat": 41.873747971697604,
+  "lon": -87.76462744610724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

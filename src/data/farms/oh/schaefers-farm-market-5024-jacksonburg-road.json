@@ -1,0 +1,19 @@
+{
+  "slug": "schaefers-farm-market-5024-jacksonburg-road",
+  "name": "Schaefers Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5024 Jacksonburg Road, OH",
+  "locationCity": "5024 Jacksonburg Road",
+  "locationState": "OH",
+  "locationZipcode": "45067",
+  "lat": 39.51464,
+  "lon": -84.501404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.309Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.309Z"
+}

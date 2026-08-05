@@ -1,0 +1,19 @@
+{
+  "slug": "indigo-farm-22651ne-77th-terrace-road",
+  "name": "Indigo Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "22651ne 77th Terrace Road, FL",
+  "locationCity": "22651ne 77th Terrace Road",
+  "locationState": "FL",
+  "locationZipcode": "32113",
+  "lat": 29.4794482595657,
+  "lon": -82.0283294199166,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.804Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.804Z"
+}

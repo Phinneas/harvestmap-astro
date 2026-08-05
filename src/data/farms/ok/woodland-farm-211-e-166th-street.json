@@ -1,0 +1,19 @@
+{
+  "slug": "woodland-farm-211-e-166th-street",
+  "name": "Woodland Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "211 E. 166th Street, OK",
+  "locationCity": "211 E. 166th Street",
+  "locationState": "OK",
+  "locationZipcode": "74070",
+  "lat": 36.3935726708493,
+  "lon": -96.0022267620014,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.325Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.325Z"
+}

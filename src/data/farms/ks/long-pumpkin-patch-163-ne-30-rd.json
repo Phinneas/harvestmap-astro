@@ -1,0 +1,19 @@
+{
+  "slug": "long-pumpkin-patch-163-ne-30-rd",
+  "name": "Long Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "163 NE 30 Rd, KS",
+  "locationCity": "163 NE 30 Rd",
+  "locationState": "KS",
+  "locationZipcode": "67530",
+  "lat": 38.40529582131022,
+  "lon": -98.74237477768588,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.183Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.183Z"
+}

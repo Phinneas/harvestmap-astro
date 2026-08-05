@@ -1,0 +1,20 @@
+{
+  "slug": "happy-sapling-farm-13-river-road",
+  "name": "Happy Sapling Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13 River Road, NH",
+  "locationCity": "13 River Road",
+  "locationState": "NH",
+  "locationZipcode": "03885",
+  "lat": 43.0015460136354,
+  "lon": -70.9239420159366,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.824Z",
+  "crops": []
+}

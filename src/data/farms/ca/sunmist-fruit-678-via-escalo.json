@@ -1,0 +1,19 @@
+{
+  "slug": "sunmist-fruit-678-via-escalo",
+  "name": "Sunmist fruit",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "678 Via Escalo, CA",
+  "locationCity": "678 Via Escalo",
+  "locationState": "CA",
+  "locationZipcode": "92590",
+  "lat": 33.4982491077431,
+  "lon": -117.274003863112,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.775Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.775Z"
+}

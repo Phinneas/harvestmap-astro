@@ -1,0 +1,19 @@
+{
+  "slug": "red-dog-farm-box-402",
+  "name": "Red Dog Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Box 402, WA",
+  "locationCity": "Box 402",
+  "locationState": "WA",
+  "locationZipcode": "98325",
+  "lat": 47.9805812,
+  "lon": -122.7710565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.541Z"
+}

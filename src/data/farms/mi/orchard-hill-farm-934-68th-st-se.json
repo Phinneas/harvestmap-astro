@@ -1,0 +1,19 @@
+{
+  "slug": "orchard-hill-farm-934-68th-st-se",
+  "name": "Orchard Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "934 68th St SE, MI",
+  "locationCity": "934 68th St SE",
+  "locationState": "MI",
+  "locationZipcode": "49316",
+  "lat": 42.8407308411364,
+  "lon": -85.6415154986575,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.718Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.718Z"
+}

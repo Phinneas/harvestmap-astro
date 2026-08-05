@@ -1,0 +1,19 @@
+{
+  "slug": "circle-c-farm-880-north-johnson-ave",
+  "name": "Circle C Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "880 North Johnson Ave, FL",
+  "locationCity": "880 North Johnson Ave",
+  "locationState": "FL",
+  "locationZipcode": "34266",
+  "lat": 27.2339216035549,
+  "lon": -81.8673055509749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.791Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.791Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "whitelock-community-farm-csa-900-whitelock-street",
+  "name": "Whitelock Community Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "900 Whitelock Street, MD",
+  "locationCity": "900 Whitelock Street",
+  "locationState": "MD",
+  "locationZipcode": "21217",
+  "lat": 39.314642,
+  "lon": -76.632737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.693Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.693Z"
+}

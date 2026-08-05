@@ -1,0 +1,19 @@
+{
+  "slug": "russell-farms-pumpkin-patch-12290-east-191st-street",
+  "name": "Russell Farms Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12290 East 191st Street, IN",
+  "locationCity": "12290 East 191st Street",
+  "locationState": "IN",
+  "locationZipcode": "12290",
+  "lat": 40.0665209861782,
+  "lon": -85.9479130366575,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.304Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.304Z"
+}

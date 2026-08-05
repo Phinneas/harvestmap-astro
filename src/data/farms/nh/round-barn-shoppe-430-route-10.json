@@ -1,0 +1,19 @@
+{
+  "slug": "round-barn-shoppe-430-route-10",
+  "name": "Round Barn Shoppe",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "430 Route 10, NH",
+  "locationCity": "430 Route 10",
+  "locationState": "NH",
+  "locationZipcode": "03779",
+  "lat": 44.0099939908879,
+  "lon": -72.069393038782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.863Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.863Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "calico-rock-downtown-market-100-main-street-calico-rock",
+  "name": "Calico Rock Downtown Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Main Street Calico Rock, AR",
+  "locationCity": "100 Main Street Calico Rock",
+  "locationState": "AR",
+  "locationZipcode": "72519",
+  "lat": 36.116562914599655,
+  "lon": -92.14289038372961,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

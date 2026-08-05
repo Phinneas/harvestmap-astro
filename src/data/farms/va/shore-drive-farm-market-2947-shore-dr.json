@@ -1,0 +1,19 @@
+{
+  "slug": "shore-drive-farm-market-2947-shore-dr",
+  "name": "Shore Drive Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2947 Shore Dr, VA",
+  "locationCity": "2947 Shore Dr",
+  "locationState": "VA",
+  "locationZipcode": "23451",
+  "lat": 36.91003999994604,
+  "lon": -76.0742650349039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

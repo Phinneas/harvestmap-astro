@@ -1,0 +1,20 @@
+{
+  "slug": "snyder-s-farm-586-south-middlebush-road",
+  "name": "Snyder's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "586 South Middlebush Road, NJ",
+  "locationCity": "586 South Middlebush Road",
+  "locationState": "NJ",
+  "locationZipcode": "08873",
+  "lat": 40.4567670172345,
+  "lon": -74.5439399846568,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.740Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.740Z",
+  "crops": []
+}

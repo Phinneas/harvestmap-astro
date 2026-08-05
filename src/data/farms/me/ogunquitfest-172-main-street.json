@@ -1,0 +1,19 @@
+{
+  "slug": "ogunquitfest-172-main-street",
+  "name": "OgunquitFest",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "172 Main Street, ME",
+  "locationCity": "172 Main Street",
+  "locationState": "ME",
+  "locationZipcode": "03907",
+  "lat": 43.24762,
+  "lon": -70.6004,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.923Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.923Z"
+}

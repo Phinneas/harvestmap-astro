@@ -1,0 +1,19 @@
+{
+  "slug": "kutztown-main-street-growers-market-357-west-main-st-kutztown",
+  "name": "Kutztown Main Street Growers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "357 West Main St. Kutztown, PA",
+  "locationCity": "357 West Main St. Kutztown",
+  "locationState": "PA",
+  "locationZipcode": "19530",
+  "lat": 40.51488058820026,
+  "lon": -75.7795116314171,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

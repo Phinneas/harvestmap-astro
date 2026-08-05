@@ -1,0 +1,19 @@
+{
+  "slug": "kleinschmidt-farms-44910-county-21",
+  "name": "Kleinschmidt Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "44910 County 21, MN",
+  "locationCity": "44910 County 21",
+  "locationState": "MN",
+  "locationZipcode": "44910",
+  "lat": 46.2807313,
+  "lon": -94.813839,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.177Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.177Z"
+}

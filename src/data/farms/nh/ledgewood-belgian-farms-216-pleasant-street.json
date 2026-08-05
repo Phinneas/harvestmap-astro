@@ -1,0 +1,19 @@
+{
+  "slug": "ledgewood-belgian-farms-216-pleasant-street",
+  "name": "Ledgewood Belgian Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "216 Pleasant Street, NH",
+  "locationCity": "216 Pleasant Street",
+  "locationState": "NH",
+  "locationZipcode": "03042",
+  "lat": 43.037548006064,
+  "lon": -71.109750033873,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.715Z"
+}

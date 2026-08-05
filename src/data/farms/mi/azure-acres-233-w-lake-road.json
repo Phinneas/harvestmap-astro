@@ -1,0 +1,19 @@
+{
+  "slug": "azure-acres-233-w-lake-road",
+  "name": "Azure Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "233 W. Lake Road, MI",
+  "locationCity": "233 W. Lake Road",
+  "locationState": "MI",
+  "locationZipcode": "48420",
+  "lat": 43.2063867299609,
+  "lon": -83.7549388389547,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.552Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.552Z"
+}

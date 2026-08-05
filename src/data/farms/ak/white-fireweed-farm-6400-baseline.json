@@ -1,0 +1,19 @@
+{
+  "slug": "white-fireweed-farm-6400-baseline",
+  "name": "White Fireweed Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6400 Baseline, AK",
+  "locationCity": "6400 Baseline",
+  "locationState": "AK",
+  "locationZipcode": "99712",
+  "lat": 64.867087,
+  "lon": -146.97699,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:04.956Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:04.956Z"
+}

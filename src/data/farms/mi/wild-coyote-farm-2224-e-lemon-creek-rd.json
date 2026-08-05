@@ -1,0 +1,19 @@
+{
+  "slug": "wild-coyote-farm-2224-e-lemon-creek-rd",
+  "name": "Wild Coyote Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2224 E Lemon Creek Rd, MI",
+  "locationCity": "2224 E Lemon Creek Rd",
+  "locationState": "MI",
+  "locationZipcode": "49103",
+  "lat": 41.95593464745019,
+  "lon": -86.40575597360998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.101Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-great-pumpkin-farm-11199-main-street",
+  "name": "The Great Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11199 Main Street, NY",
+  "locationCity": "11199 Main Street",
+  "locationState": "NY",
+  "locationZipcode": "11199",
+  "lat": 42.9849434362377,
+  "lon": -78.5691326488162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.218Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.218Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "savitsky-farm-195-cato-corner-rd",
+  "name": "Savitsky Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "195 Cato Corner Rd, CT",
+  "locationCity": "195 Cato Corner Rd",
+  "locationState": "CT",
+  "locationZipcode": "06416",
+  "lat": 41.5704310133916,
+  "lon": -72.3938260005758,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.946Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.946Z",
+  "crops": []
+}

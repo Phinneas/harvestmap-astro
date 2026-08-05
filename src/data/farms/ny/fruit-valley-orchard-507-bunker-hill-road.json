@@ -1,0 +1,19 @@
+{
+  "slug": "fruit-valley-orchard-507-bunker-hill-road",
+  "name": "Fruit Valley Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "507 Bunker Hill Road, NY",
+  "locationCity": "507 Bunker Hill Road",
+  "locationState": "NY",
+  "locationZipcode": "13126",
+  "lat": 43.4234214916003,
+  "lon": -76.5544779303272,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.295Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.295Z"
+}

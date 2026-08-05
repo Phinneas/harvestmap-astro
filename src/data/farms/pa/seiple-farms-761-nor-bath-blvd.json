@@ -1,0 +1,19 @@
+{
+  "slug": "seiple-farms-761-nor-bath-blvd",
+  "name": "Seiple Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "761 Nor- Bath Blvd., PA",
+  "locationCity": "761 Nor- Bath Blvd.",
+  "locationState": "PA",
+  "locationZipcode": "18014",
+  "lat": 40.7047938482582,
+  "lon": -75.4116093709511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.115Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.115Z"
+}

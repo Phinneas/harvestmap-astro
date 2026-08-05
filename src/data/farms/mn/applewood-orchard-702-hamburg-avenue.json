@@ -1,0 +1,19 @@
+{
+  "slug": "applewood-orchard-702-hamburg-avenue",
+  "name": "Applewood Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "702 Hamburg Avenue, MN",
+  "locationCity": "702 Hamburg Avenue",
+  "locationState": "MN",
+  "locationZipcode": "55044",
+  "lat": 44.612550465566,
+  "lon": -93.2281515070061,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.760Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.760Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "groveland-acres-helvetia-strawberries-hillsboro",
+  "name": "Groveland Acres Helvetia Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hillsboro, OR",
+  "locationCity": "Hillsboro",
+  "locationState": "OR",
+  "locationZipcode": "97124",
+  "lat": 45.5511004,
+  "lon": -122.9466858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.065Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.065Z"
+}

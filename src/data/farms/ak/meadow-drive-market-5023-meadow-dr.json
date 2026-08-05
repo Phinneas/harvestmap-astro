@@ -1,0 +1,19 @@
+{
+  "slug": "meadow-drive-market-5023-meadow-dr",
+  "name": "Meadow Drive Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5023 Meadow Dr., AK",
+  "locationCity": "5023 Meadow Dr.",
+  "locationState": "AK",
+  "locationZipcode": "99603",
+  "lat": 59.66250622701951,
+  "lon": -151.4675841519027,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

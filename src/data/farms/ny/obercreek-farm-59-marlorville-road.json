@@ -1,0 +1,19 @@
+{
+  "slug": "obercreek-farm-59-marlorville-road",
+  "name": "Obercreek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "59 Marlorville Road, NY",
+  "locationCity": "59 Marlorville Road",
+  "locationState": "NY",
+  "locationZipcode": "12590",
+  "lat": 41.587507632368954,
+  "lon": -73.93267234504813,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.187Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.187Z"
+}

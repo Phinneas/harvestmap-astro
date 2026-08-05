@@ -1,0 +1,19 @@
+{
+  "slug": "ocean-city-nj-farmers-crafters-market-6th-street-asbury-avenue",
+  "name": "Ocean City, NJ Farmers & Crafters Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6th Street & Asbury Avenue, NJ",
+  "locationCity": "6th Street & Asbury Avenue",
+  "locationState": "NJ",
+  "locationZipcode": "08226",
+  "lat": 39.282143,
+  "lon": -74.572082,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:21.751Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:21.751Z"
+}

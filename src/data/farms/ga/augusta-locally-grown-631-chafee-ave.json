@@ -1,0 +1,19 @@
+{
+  "slug": "augusta-locally-grown-631-chafee-ave",
+  "name": "Augusta Locally Grown",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "631 Chafee Ave, GA",
+  "locationCity": "631 Chafee Ave",
+  "locationState": "GA",
+  "locationZipcode": "30904",
+  "lat": 33.477138012404154,
+  "lon": -81.98965196590389,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:55.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:55.634Z"
+}

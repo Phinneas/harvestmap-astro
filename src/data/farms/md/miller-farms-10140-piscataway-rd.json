@@ -1,0 +1,19 @@
+{
+  "slug": "miller-farms-10140-piscataway-rd",
+  "name": "Miller Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10140 Piscataway Rd, MD",
+  "locationCity": "10140 Piscataway Rd",
+  "locationState": "MD",
+  "locationZipcode": "10140",
+  "lat": 38.7500630033901,
+  "lon": -76.9282337822617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.264Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.264Z"
+}

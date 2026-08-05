@@ -1,0 +1,19 @@
+{
+  "slug": "caston-fruits-2422-fairview-road",
+  "name": "Caston Fruits",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2422 Fairview Road, AR",
+  "locationCity": "2422 Fairview Road",
+  "locationState": "AR",
+  "locationZipcode": "72663",
+  "lat": 35.9089060294949,
+  "lon": -92.35308801399222,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:30.948Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:30.948Z"
+}

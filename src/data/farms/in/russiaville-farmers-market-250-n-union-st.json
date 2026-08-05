@@ -1,0 +1,19 @@
+{
+  "slug": "russiaville-farmers-market-250-n-union-st",
+  "name": "Russiaville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "250 N Union St, IN",
+  "locationCity": "250 N Union St",
+  "locationState": "IN",
+  "locationZipcode": "46979",
+  "lat": 40.419151,
+  "lon": -86.270804,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.613Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.613Z"
+}

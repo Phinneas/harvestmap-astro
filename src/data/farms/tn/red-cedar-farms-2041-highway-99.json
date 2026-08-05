@@ -1,0 +1,19 @@
+{
+  "slug": "red-cedar-farms-2041-highway-99",
+  "name": "Red Cedar Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2041 highway 99, TN",
+  "locationCity": "2041 highway 99",
+  "locationState": "TN",
+  "locationZipcode": "37034",
+  "lat": 35.59650101493881,
+  "lon": -86.71802603952494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:36.623Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:36.623Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pepper-berries-urban-farm-8319-independence-ave",
+  "name": "Pepper Berries Urban Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8319 Independence Ave, KS",
+  "locationCity": "8319 Independence Ave",
+  "locationState": "KS",
+  "locationZipcode": "64125",
+  "lat": 39.10365082281811,
+  "lon": -94.48489399370034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:53.467Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:53.467Z"
+}

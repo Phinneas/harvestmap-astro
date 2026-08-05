@@ -1,0 +1,19 @@
+{
+  "slug": "grossman-farms-sykesville-road",
+  "name": "Grossman Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sykesville Road, NJ",
+  "locationCity": "Sykesville Road",
+  "locationState": "NJ",
+  "locationZipcode": "08562",
+  "lat": 40.0891410187302,
+  "lon": -74.6330599834365,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.806Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.806Z"
+}

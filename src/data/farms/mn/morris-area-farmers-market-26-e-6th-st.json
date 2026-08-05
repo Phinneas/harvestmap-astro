@@ -1,0 +1,19 @@
+{
+  "slug": "morris-area-farmers-market-26-e-6th-st",
+  "name": "Morris Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "26 E 6th St, MN",
+  "locationCity": "26 E 6th St",
+  "locationState": "MN",
+  "locationZipcode": "56267",
+  "lat": 45.5873384,
+  "lon": -95.9133246,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "zumbrota-farmers-market-east-park",
+  "name": "Zumbrota Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "East Park, MN",
+  "locationCity": "East Park",
+  "locationState": "MN",
+  "locationZipcode": "55992",
+  "lat": 44.2912758,
+  "lon": -92.6674871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

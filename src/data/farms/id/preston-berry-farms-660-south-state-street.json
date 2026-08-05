@@ -1,0 +1,20 @@
+{
+  "slug": "preston-berry-farms-660-south-state-street",
+  "name": "Preston Berry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "660 South State Street, ID",
+  "locationCity": "660 South State Street",
+  "locationState": "ID",
+  "locationZipcode": "83263",
+  "lat": 42.0839849822614,
+  "lon": -111.878059986922,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.901Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.901Z",
+  "crops": []
+}

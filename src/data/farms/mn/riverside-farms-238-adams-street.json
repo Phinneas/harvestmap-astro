@@ -1,0 +1,19 @@
+{
+  "slug": "riverside-farms-238-adams-street",
+  "name": "Riverside Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "238 Adams Street, MN",
+  "locationCity": "238 Adams Street",
+  "locationState": "MN",
+  "locationZipcode": "55330",
+  "lat": 45.2499719474507,
+  "lon": -93.5138545398675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.763Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.763Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "full-circus-farm-27-mils-path",
+  "name": "Full Circus Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "27 Mils Path, NY",
+  "locationCity": "27 Mils Path",
+  "locationState": "NY",
+  "locationZipcode": "12567",
+  "lat": 41.9804252,
+  "lon": -73.5720883,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.159Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.159Z"
+}

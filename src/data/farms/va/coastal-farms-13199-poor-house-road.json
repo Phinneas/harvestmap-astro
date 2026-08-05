@@ -1,0 +1,19 @@
+{
+  "slug": "coastal-farms-13199-poor-house-road",
+  "name": "Coastal Farms",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "13199 Poor House Road, VA",
+  "locationCity": "13199 Poor House Road",
+  "locationState": "VA",
+  "locationZipcode": "13199",
+  "lat": 36.910105,
+  "lon": -76.697684,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:05.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:05.027Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stumpf-peach-orchard-geiger-road",
+  "name": "Stumpf Peach Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Geiger Road, IL",
+  "locationCity": "Geiger Road",
+  "locationState": "IL",
+  "locationZipcode": "62001",
+  "lat": 38.8822630089159,
+  "lon": -89.7026259590418,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.940Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.940Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bulverde-pumpin-patch-800-west-ammann-road",
+  "name": "Bulverde Pumpin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "800 West Ammann Road, TX",
+  "locationCity": "800 West Ammann Road",
+  "locationState": "TX",
+  "locationZipcode": "78163",
+  "lat": 29.7697277986256,
+  "lon": -98.5695147902462,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.460Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.460Z"
+}

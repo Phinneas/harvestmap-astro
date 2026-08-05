@@ -1,0 +1,19 @@
+{
+  "slug": "sapling-farms-5412-lake-victoria-ct",
+  "name": "Sapling Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5412 Lake Victoria Ct, TX",
+  "locationCity": "5412 Lake Victoria Ct",
+  "locationState": "TX",
+  "locationZipcode": "75022",
+  "lat": 33.0199199,
+  "lon": -97.1146141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.861Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.861Z"
+}

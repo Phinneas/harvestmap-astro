@@ -1,0 +1,19 @@
+{
+  "slug": "schooner-farms-20473-oak-street",
+  "name": "Schooner Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "20473 Oak Street, OH",
+  "locationCity": "20473 Oak Street",
+  "locationState": "OH",
+  "locationZipcode": "20473",
+  "lat": 41.34677,
+  "lon": -83.7945099999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.827Z"
+}

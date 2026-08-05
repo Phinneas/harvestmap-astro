@@ -1,0 +1,19 @@
+{
+  "slug": "baldwin-s-main-st-farmers-market-main-st-and-6th-ave",
+  "name": "Baldwin's Main St. Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. and 6th Ave., WI",
+  "locationCity": "Main St. and 6th Ave.",
+  "locationState": "WI",
+  "locationZipcode": "54002",
+  "lat": 44.966999,
+  "lon": -92.370763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.715Z"
+}

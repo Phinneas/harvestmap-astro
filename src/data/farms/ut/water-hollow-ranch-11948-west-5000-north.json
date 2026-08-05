@@ -1,0 +1,19 @@
+{
+  "slug": "water-hollow-ranch-11948-west-5000-north",
+  "name": "Water Hollow Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11948 West 5000 North, UT",
+  "locationCity": "11948 West 5000 North",
+  "locationState": "UT",
+  "locationZipcode": "11948",
+  "lat": 40.3740680172919,
+  "lon": -110.217507989247,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.651Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.651Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "smiley-s-family-farm-600-n-350-rd",
+  "name": "Smiley's Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "600 N 350 Rd, IL",
+  "locationCity": "600 N 350 Rd",
+  "locationState": "IL",
+  "locationZipcode": "61440",
+  "lat": 40.3298945943296,
+  "lon": -90.5813076916978,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.881Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.881Z"
+}

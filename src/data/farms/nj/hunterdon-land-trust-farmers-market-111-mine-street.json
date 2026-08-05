@@ -1,0 +1,19 @@
+{
+  "slug": "hunterdon-land-trust-farmers-market-111-mine-street",
+  "name": "Hunterdon Land Trust Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 Mine Street, NJ",
+  "locationCity": "111 Mine Street",
+  "locationState": "NJ",
+  "locationZipcode": "08822",
+  "lat": 40.505223,
+  "lon": -74.871267,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.081Z"
+}

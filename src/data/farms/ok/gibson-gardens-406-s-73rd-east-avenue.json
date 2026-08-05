@@ -1,0 +1,19 @@
+{
+  "slug": "gibson-gardens-406-s-73rd-east-avenue",
+  "name": "Gibson Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "406 S. 73rd. East Avenue, OK",
+  "locationCity": "406 S. 73rd. East Avenue",
+  "locationState": "OK",
+  "locationZipcode": "74008",
+  "lat": 35.8946852873277,
+  "lon": -95.8994329324977,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.279Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.279Z"
+}

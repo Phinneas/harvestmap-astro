@@ -1,0 +1,19 @@
+{
+  "slug": "berkeley-lakeside-market-4043-south-berkeley-lake-rd-berkeley-lake",
+  "name": "Berkeley Lakeside Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4043 South Berkeley Lake Rd. Berkeley Lake, GA",
+  "locationCity": "4043 South Berkeley Lake Rd. Berkeley Lake",
+  "locationState": "GA",
+  "locationZipcode": "30096",
+  "lat": 33.98526931844324,
+  "lon": -84.18838627508185,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

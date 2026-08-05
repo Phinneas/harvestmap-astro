@@ -1,0 +1,19 @@
+{
+  "slug": "long-beach-uptown-farmers-market-606-e-46th-st-long-beach",
+  "name": "Long Beach Uptown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "606 E. 46th St. Long Beach, CA",
+  "locationCity": "606 E. 46th St. Long Beach",
+  "locationState": "CA",
+  "locationZipcode": "90807",
+  "lat": 33.84265247748248,
+  "lon": -118.18458106573833,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

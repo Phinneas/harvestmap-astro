@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-market-169-halbert-ln",
+  "name": "Homestead Market",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "169 Halbert Ln, TX",
+  "locationCity": "169 Halbert Ln",
+  "locationState": "TX",
+  "locationZipcode": "76705",
+  "lat": 31.6695965,
+  "lon": -97.145487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:57.088Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:57.088Z"
+}

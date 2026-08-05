@@ -1,0 +1,19 @@
+{
+  "slug": "delmar-farmers-market-428-kenwood-ave-delmar",
+  "name": "Delmar Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "428 Kenwood Ave Delmar, NY",
+  "locationCity": "428 Kenwood Ave Delmar",
+  "locationState": "NY",
+  "locationZipcode": "12054",
+  "lat": 42.62298012856136,
+  "lon": -73.83612896811496,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

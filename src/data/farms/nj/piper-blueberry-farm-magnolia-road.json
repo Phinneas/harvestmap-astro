@@ -1,0 +1,19 @@
+{
+  "slug": "piper-blueberry-farm-magnolia-road",
+  "name": "Piper Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Magnolia Road, NJ",
+  "locationCity": "Magnolia Road",
+  "locationState": "NJ",
+  "locationZipcode": "08068",
+  "lat": 39.9373527834711,
+  "lon": -74.6504281164045,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.243Z"
+}

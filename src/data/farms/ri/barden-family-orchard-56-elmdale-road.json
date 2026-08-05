@@ -1,0 +1,20 @@
+{
+  "slug": "barden-family-orchard-56-elmdale-road",
+  "name": "Barden Family Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "56 Elmdale Road, RI",
+  "locationCity": "56 Elmdale Road",
+  "locationState": "RI",
+  "locationZipcode": "02857",
+  "lat": 41.8591130207568,
+  "lon": -71.5882540268769,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:30.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:30.864Z",
+  "crops": []
+}

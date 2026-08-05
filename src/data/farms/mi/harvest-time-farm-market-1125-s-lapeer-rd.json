@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-time-farm-market-1125-s-lapeer-rd",
+  "name": "Harvest Time Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1125 S Lapeer Rd, MI",
+  "locationCity": "1125 S Lapeer Rd",
+  "locationState": "MI",
+  "locationZipcode": "48371",
+  "lat": 42.80919499826115,
+  "lon": -83.24986800702749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.232Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.232Z"
+}

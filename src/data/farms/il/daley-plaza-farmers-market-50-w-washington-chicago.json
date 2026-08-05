@@ -1,0 +1,19 @@
+{
+  "slug": "daley-plaza-farmers-market-50-w-washington-chicago",
+  "name": "Daley Plaza Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50 W. Washington Chicago, IL",
+  "locationCity": "50 W. Washington Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60602",
+  "lat": 41.88322118305063,
+  "lon": -87.62965116873187,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

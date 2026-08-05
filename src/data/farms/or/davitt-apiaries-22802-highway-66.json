@@ -1,0 +1,19 @@
+{
+  "slug": "davitt-apiaries-22802-highway-66",
+  "name": "Davitt Apiaries",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "22802 Highway 66, OR",
+  "locationCity": "22802 Highway 66",
+  "locationState": "OR",
+  "locationZipcode": "22802",
+  "lat": 42.138836,
+  "lon": -122.01842,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.472Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.472Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "beaverton-farmers-market-12375-sw-5th-st",
+  "name": "Beaverton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12375 SW 5th St, OR",
+  "locationCity": "12375 SW 5th St",
+  "locationState": "OR",
+  "locationZipcode": "12375",
+  "lat": 45.48335416779531,
+  "lon": -122.80443274529402,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.423Z"
+}

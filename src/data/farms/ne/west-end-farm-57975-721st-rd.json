@@ -1,0 +1,19 @@
+{
+  "slug": "west-end-farm-57975-721st-rd",
+  "name": "West End Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "57975 721st Rd, NE",
+  "locationCity": "57975 721st Rd",
+  "locationState": "NE",
+  "locationZipcode": "57975",
+  "lat": 40.27780751710657,
+  "lon": -96.95638573586773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:48.589Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:48.589Z"
+}

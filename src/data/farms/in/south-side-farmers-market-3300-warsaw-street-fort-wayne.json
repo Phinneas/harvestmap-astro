@@ -1,0 +1,19 @@
+{
+  "slug": "south-side-farmers-market-3300-warsaw-street-fort-wayne",
+  "name": "South Side Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3300 Warsaw Street Fort Wayne, IN",
+  "locationCity": "3300 Warsaw Street Fort Wayne",
+  "locationState": "IN",
+  "locationZipcode": "46806",
+  "lat": 41.05470056053432,
+  "lon": -85.1303669908325,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

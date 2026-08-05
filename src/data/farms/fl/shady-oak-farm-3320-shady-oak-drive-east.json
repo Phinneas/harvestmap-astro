@@ -1,0 +1,19 @@
+{
+  "slug": "shady-oak-farm-3320-shady-oak-drive-east",
+  "name": "Shady Oak Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3320 Shady Oak Drive East, FL",
+  "locationCity": "3320 Shady Oak Drive East",
+  "locationState": "FL",
+  "locationZipcode": "33810",
+  "lat": 28.084833011070657,
+  "lon": -82.04890003523272,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:37.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:37.838Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "edwards-apple-orchard-601-centerville-road",
+  "name": "Edwards Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "601 Centerville Road, IL",
+  "locationCity": "601 Centerville Road",
+  "locationState": "IL",
+  "locationZipcode": "61065",
+  "lat": 42.3932835575567,
+  "lon": -88.8249951160872,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.857Z"
+}

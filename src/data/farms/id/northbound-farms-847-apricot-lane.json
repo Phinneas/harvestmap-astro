@@ -1,0 +1,19 @@
+{
+  "slug": "northbound-farms-847-apricot-lane",
+  "name": "Northbound Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "847 Apricot Lane, ID",
+  "locationCity": "847 Apricot Lane",
+  "locationState": "ID",
+  "locationZipcode": "83607",
+  "lat": 43.588596093649,
+  "lon": -116.800473837372,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.827Z"
+}

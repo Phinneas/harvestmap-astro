@@ -1,0 +1,19 @@
+{
+  "slug": "torch-lake-co-op-312-thayer-ln",
+  "name": "Torch Lake Co-op",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "312 Thayer Ln, MI",
+  "locationCity": "312 Thayer Ln",
+  "locationState": "MI",
+  "locationZipcode": "49615",
+  "lat": 44.974821517933485,
+  "lon": -85.20477158298337,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.246Z"
+}

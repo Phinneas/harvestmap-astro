@@ -1,0 +1,19 @@
+{
+  "slug": "kiser-orchard-105-church-road",
+  "name": "Kiser Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "105 Church Road, NE",
+  "locationCity": "105 Church Road",
+  "locationState": "NE",
+  "locationZipcode": "68048",
+  "lat": 40.958713427389,
+  "lon": -95.9108607548721,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.689Z"
+}

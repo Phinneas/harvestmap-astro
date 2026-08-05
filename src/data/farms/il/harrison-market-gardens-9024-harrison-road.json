@@ -1,0 +1,20 @@
+{
+  "slug": "harrison-market-gardens-9024-harrison-road",
+  "name": "Harrison Market Gardens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9024 Harrison Road, IL",
+  "locationCity": "9024 Harrison Road",
+  "locationState": "IL",
+  "locationZipcode": "61088",
+  "lat": 42.3850649,
+  "lon": -89.1961406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.468Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.468Z",
+  "crops": []
+}

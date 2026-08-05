@@ -1,0 +1,19 @@
+{
+  "slug": "berry-patch-191-shea-road",
+  "name": "Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "191 Shea Road, NY",
+  "locationCity": "191 Shea Road",
+  "locationState": "NY",
+  "locationZipcode": "10916",
+  "lat": 41.4545475977727,
+  "lon": -74.2171634427352,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.374Z"
+}

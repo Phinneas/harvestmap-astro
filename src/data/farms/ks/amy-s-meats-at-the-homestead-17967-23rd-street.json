@@ -1,0 +1,19 @@
+{
+  "slug": "amy-s-meats-at-the-homestead-17967-23rd-street",
+  "name": "Amy's Meats at the Homestead",
+  "source": "usda",
+  "directory": "csa",
+  "location": "17967 23rd Street, KS",
+  "locationCity": "17967 23rd Street",
+  "locationState": "KS",
+  "locationZipcode": "17967",
+  "lat": 39.08619550945525,
+  "lon": -95.23748420888441,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:53.471Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:53.471Z"
+}

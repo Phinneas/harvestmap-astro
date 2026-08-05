@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-place-llc-austin-101-3rd-ave-ne",
+  "name": "Farmers' Market Place LLC (Austin)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 3rd Ave NE, MN",
+  "locationCity": "101 3rd Ave NE",
+  "locationState": "MN",
+  "locationZipcode": "55912",
+  "lat": 43.669107,
+  "lon": -92.9623234,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

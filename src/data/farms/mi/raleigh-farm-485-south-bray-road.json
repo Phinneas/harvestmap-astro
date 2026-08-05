@@ -1,0 +1,19 @@
+{
+  "slug": "raleigh-farm-485-south-bray-road",
+  "name": "Raleigh farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "485 South Bray Road, MI",
+  "locationCity": "485 South Bray Road",
+  "locationState": "MI",
+  "locationZipcode": "48420",
+  "lat": 43.2291881224034,
+  "lon": -83.6609417489512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.602Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.602Z"
+}

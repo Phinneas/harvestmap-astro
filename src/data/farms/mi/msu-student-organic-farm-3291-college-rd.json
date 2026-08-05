@@ -1,0 +1,19 @@
+{
+  "slug": "msu-student-organic-farm-3291-college-rd",
+  "name": "MSU Student Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3291 College Rd., MI",
+  "locationCity": "3291 College Rd.",
+  "locationState": "MI",
+  "locationZipcode": "48842",
+  "lat": 42.6740583,
+  "lon": -84.4843799,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.095Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.095Z"
+}

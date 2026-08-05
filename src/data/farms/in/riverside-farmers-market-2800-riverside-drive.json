@@ -1,0 +1,19 @@
+{
+  "slug": "riverside-farmers-market-2800-riverside-drive",
+  "name": "Riverside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2800 Riverside Drive, IN",
+  "locationCity": "2800 Riverside Drive",
+  "locationState": "IN",
+  "locationZipcode": "46208",
+  "lat": 39.806671,
+  "lon": -86.192041,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.610Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.610Z"
+}

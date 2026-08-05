@@ -1,0 +1,19 @@
+{
+  "slug": "the-mason-city-market-9-n-federal-avenue-mason-city",
+  "name": "The Mason City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9 N. Federal Avenue Mason City, IA",
+  "locationCity": "9 N. Federal Avenue Mason City",
+  "locationState": "IA",
+  "locationZipcode": "50401",
+  "lat": 43.1519389658913,
+  "lon": -93.2010672085951,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

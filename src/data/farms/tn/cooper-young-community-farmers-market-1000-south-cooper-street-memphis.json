@@ -1,0 +1,19 @@
+{
+  "slug": "cooper-young-community-farmers-market-1000-south-cooper-street-memphis",
+  "name": "Cooper-Young Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 South Cooper Street Memphis, TN",
+  "locationCity": "1000 South Cooper Street Memphis",
+  "locationState": "TN",
+  "locationZipcode": "38104",
+  "lat": 35.118858751917905,
+  "lon": -89.99110827589423,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

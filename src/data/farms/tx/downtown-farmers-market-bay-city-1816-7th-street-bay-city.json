@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-bay-city-1816-7th-street-bay-city",
+  "name": "Downtown Farmers Market Bay City",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1816 7th Street Bay City, TX",
+  "locationCity": "1816 7th Street Bay City",
+  "locationState": "TX",
+  "locationZipcode": "77414",
+  "lat": 28.98303270934976,
+  "lon": -95.96853234906912,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

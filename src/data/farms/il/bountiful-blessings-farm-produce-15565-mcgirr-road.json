@@ -1,0 +1,20 @@
+{
+  "slug": "bountiful-blessings-farm-produce-15565-mcgirr-road",
+  "name": "Bountiful Blessings Farm Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15565 McGirr Road, IL",
+  "locationCity": "15565 McGirr Road",
+  "locationState": "IL",
+  "locationZipcode": "15565",
+  "lat": 41.82111139959707,
+  "lon": -88.6488884634566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.484Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.484Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "willow-grove-gardens-8561-willow-grove",
+  "name": "Willow Grove Gardens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8561 Willow Grove, WA",
+  "locationCity": "8561 Willow Grove",
+  "locationState": "WA",
+  "locationZipcode": "98632",
+  "lat": 46.182748333636084,
+  "lon": -123.08150204042042,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.614Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.614Z"
+}

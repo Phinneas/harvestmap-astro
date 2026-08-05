@@ -1,0 +1,19 @@
+{
+  "slug": "historic-valley-junction-farmers-market-137-5th-st-west-des-moines",
+  "name": "Historic Valley Junction Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "137 5th St. West Des Moines, IA",
+  "locationCity": "137 5th St. West Des Moines",
+  "locationState": "IA",
+  "locationZipcode": "50265",
+  "lat": 41.57083799670025,
+  "lon": -93.70860302527836,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

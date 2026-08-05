@@ -1,0 +1,19 @@
+{
+  "slug": "rime-farm-82-arthur-damon-rd",
+  "name": "Rime Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "82 Arthur Damon Rd., ME",
+  "locationCity": "82 Arthur Damon Rd.",
+  "locationState": "ME",
+  "locationZipcode": "04666",
+  "lat": 45.02476107924628,
+  "lon": -67.30374117686306,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.569Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.569Z"
+}

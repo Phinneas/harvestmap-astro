@@ -1,0 +1,19 @@
+{
+  "slug": "barnersville-farmers-market-300-east-church-street-barnersville",
+  "name": "Barnersville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 East Church Street Barnersville, OH",
+  "locationCity": "300 East Church Street Barnersville",
+  "locationState": "OH",
+  "locationZipcode": "43713",
+  "lat": 39.98814779249316,
+  "lon": -81.1735119479829,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.935Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "inwood-farmers-market-178-pilgrim-street-inwood",
+  "name": "Inwood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "178 Pilgrim Street Inwood, WV",
+  "locationCity": "178 Pilgrim Street Inwood",
+  "locationState": "WV",
+  "locationZipcode": "25428",
+  "lat": 39.360965649456006,
+  "lon": -78.04314272145356,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:36.740Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:36.740Z"
+}

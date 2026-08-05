@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-county-farmers-market-madison-street-and-jackson-street-marianna",
+  "name": "Jackson County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Madison Street and Jackson Street Marianna, FL",
+  "locationCity": "Madison Street and Jackson Street Marianna",
+  "locationState": "FL",
+  "locationZipcode": "32448",
+  "lat": 30.77303001693126,
+  "lon": -85.22566003036948,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

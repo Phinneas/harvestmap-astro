@@ -1,0 +1,19 @@
+{
+  "slug": "carver-farmers-market-800-6th-st-w",
+  "name": "Carver Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "800 6th St W, MN",
+  "locationCity": "800 6th St W",
+  "locationState": "MN",
+  "locationZipcode": "55315",
+  "lat": 44.7604017,
+  "lon": -93.642533,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

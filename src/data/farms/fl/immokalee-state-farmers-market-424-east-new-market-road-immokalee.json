@@ -1,0 +1,19 @@
+{
+  "slug": "immokalee-state-farmers-market-424-east-new-market-road-immokalee",
+  "name": "immokalee state farmers' market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "424 east new market road Immokalee, FL",
+  "locationCity": "424 east new market road Immokalee",
+  "locationState": "FL",
+  "locationZipcode": "34142",
+  "lat": 26.42423600257571,
+  "lon": -81.41142997956436,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lattin-farms-955-mclean-road",
+  "name": "Lattin Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "955 McLean Road, NV",
+  "locationCity": "955 McLean Road",
+  "locationState": "NV",
+  "locationZipcode": "89406",
+  "lat": 39.4756454202251,
+  "lon": -118.847443698405,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:10.981Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:10.981Z"
+}

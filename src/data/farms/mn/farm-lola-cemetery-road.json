@@ -1,0 +1,19 @@
+{
+  "slug": "farm-lola-cemetery-road",
+  "name": "Farm LoLa",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cemetery Road, MN",
+  "locationCity": "Cemetery Road",
+  "locationState": "MN",
+  "locationZipcode": "55797",
+  "lat": 46.603552017642,
+  "lon": -92.3774190025299,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.691Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.691Z"
+}

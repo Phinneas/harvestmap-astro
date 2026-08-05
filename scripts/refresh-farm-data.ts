@@ -30,6 +30,7 @@ const EDITORIAL_FIELDS = [
   'tagline', 'region', 'image', 'imageAlt', 'seasons', 'peak',
   'produce', 'inSeasonNow', 'established', 'stand', 'practices',
   'description', 'calendar',
+  'website', 'phone', 'email', 'permanentlyClosed',
 ] as const;
 
 const OUTPUT_DIR = join(process.cwd(), 'src/data/farms');

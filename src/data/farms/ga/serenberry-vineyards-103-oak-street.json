@@ -1,0 +1,19 @@
+{
+  "slug": "serenberry-vineyards-103-oak-street",
+  "name": "Serenberry Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "103 Oak Street, GA",
+  "locationCity": "103 Oak Street",
+  "locationState": "GA",
+  "locationZipcode": "30560",
+  "lat": 34.8746408000001,
+  "lon": -84.2488977,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.343Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.343Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kiester-farmers-market-131-s-main-st",
+  "name": "Kiester Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "131 S Main St, MN",
+  "locationCity": "131 S Main St",
+  "locationState": "MN",
+  "locationZipcode": "56051",
+  "lat": 43.5363011,
+  "lon": -93.7119156,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

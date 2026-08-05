@@ -1,0 +1,19 @@
+{
+  "slug": "purcellville-farmers-market-717-e-main-street",
+  "name": "Purcellville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "717 E Main Street, VA",
+  "locationCity": "717 E Main Street",
+  "locationState": "VA",
+  "locationZipcode": "20132",
+  "lat": 39.136603,
+  "lon": -77.703843,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.114Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.114Z"
+}

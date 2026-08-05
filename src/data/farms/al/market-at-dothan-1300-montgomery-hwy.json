@@ -1,0 +1,19 @@
+{
+  "slug": "market-at-dothan-1300-montgomery-hwy",
+  "name": "Market At Dothan",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1300 MONTGOMERY HWY, AL",
+  "locationCity": "1300 MONTGOMERY HWY",
+  "locationState": "AL",
+  "locationZipcode": "36303",
+  "lat": 31.238952126918033,
+  "lon": -85.4029508842601,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

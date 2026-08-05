@@ -1,0 +1,19 @@
+{
+  "slug": "bordua-farms-1536-main-street",
+  "name": "Bordua Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1536 Main Street, CT",
+  "locationCity": "1536 Main Street",
+  "locationState": "CT",
+  "locationZipcode": "06074",
+  "lat": 41.84802558349287,
+  "lon": -72.61018482899239,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.082Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.082Z"
+}

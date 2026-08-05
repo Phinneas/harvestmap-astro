@@ -1,0 +1,19 @@
+{
+  "slug": "sager-farms-251-kell-road",
+  "name": "Sager Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "251 Kell Road, IL",
+  "locationCity": "251 Kell Road",
+  "locationState": "IL",
+  "locationZipcode": "62853",
+  "lat": 38.4912527105378,
+  "lon": -88.9063632236606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.879Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.879Z"
+}

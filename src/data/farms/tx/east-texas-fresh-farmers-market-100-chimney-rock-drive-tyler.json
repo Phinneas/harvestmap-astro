@@ -1,0 +1,19 @@
+{
+  "slug": "east-texas-fresh-farmers-market-100-chimney-rock-drive-tyler",
+  "name": "East Texas Fresh Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Chimney Rock Drive Tyler, TX",
+  "locationCity": "100 Chimney Rock Drive Tyler",
+  "locationState": "TX",
+  "locationZipcode": "75703",
+  "lat": 32.28502679709872,
+  "lon": -95.30555358339151,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.197Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.197Z"
+}

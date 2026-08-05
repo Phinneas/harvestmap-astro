@@ -1,0 +1,19 @@
+{
+  "slug": "the-607-csa-35786-state-hwy-10",
+  "name": "The 607 CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "35786 State Hwy 10, NY",
+  "locationCity": "35786 State Hwy 10",
+  "locationState": "NY",
+  "locationZipcode": "35786",
+  "lat": 42.191556156535015,
+  "lon": -74.99384620684467,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.177Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.177Z"
+}

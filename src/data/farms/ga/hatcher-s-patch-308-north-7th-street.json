@@ -1,0 +1,19 @@
+{
+  "slug": "hatcher-s-patch-308-north-7th-street",
+  "name": "Hatcher's Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "308 North 7th Street, GA",
+  "locationCity": "308 North 7th Street",
+  "locationState": "GA",
+  "locationZipcode": "31015",
+  "lat": 31.9711059806734,
+  "lon": -83.7824569846422,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.379Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.379Z"
+}

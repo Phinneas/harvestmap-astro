@@ -1,0 +1,19 @@
+{
+  "slug": "parsons-sweet-corn-10th-and-colfax-street",
+  "name": "Parsons Sweet Corn",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "10th And Colfax Street, NE",
+  "locationCity": "10th And Colfax Street",
+  "locationState": "NE",
+  "locationZipcode": "68661",
+  "lat": 41.44635298822371,
+  "lon": -97.05975999918755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:57.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:57.252Z"
+}

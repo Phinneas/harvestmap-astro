@@ -1,0 +1,19 @@
+{
+  "slug": "menagerie-farm-135-shea-road",
+  "name": "Menagerie Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "135 Shea Road, TN",
+  "locationCity": "135 Shea Road",
+  "locationState": "TN",
+  "locationZipcode": "38017",
+  "lat": 35.0433998654908,
+  "lon": -89.7139946077297,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.207Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.207Z"
+}

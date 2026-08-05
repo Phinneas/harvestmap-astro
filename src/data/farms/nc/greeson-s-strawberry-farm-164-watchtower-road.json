@@ -1,0 +1,19 @@
+{
+  "slug": "greeson-s-strawberry-farm-164-watchtower-road",
+  "name": "Greeson's Strawberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "164 Watchtower Road, NC",
+  "locationCity": "164 Watchtower Road",
+  "locationState": "NC",
+  "locationZipcode": "27283",
+  "lat": 35.9471252801077,
+  "lon": -79.6481175475496,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.834Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.834Z"
+}

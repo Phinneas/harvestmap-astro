@@ -1,0 +1,19 @@
+{
+  "slug": "marshfield-farmer-s-market-140-main-st-route-3a",
+  "name": "Marshfield Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "140 Main St  (Route 3A), MA",
+  "locationCity": "140 Main St  (Route 3A)",
+  "locationState": "MA",
+  "locationZipcode": "02050",
+  "lat": 42.098148,
+  "lon": -70.717317,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.737Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.737Z"
+}

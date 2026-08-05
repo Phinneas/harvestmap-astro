@@ -1,0 +1,19 @@
+{
+  "slug": "hudson-valley-farm-hub-1875-hurley-mountain-road",
+  "name": "Hudson Valley Farm Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1875 Hurley Mountain Road, NY",
+  "locationCity": "1875 Hurley Mountain Road",
+  "locationState": "NY",
+  "locationZipcode": "12443",
+  "lat": 41.91414629198337,
+  "lon": -74.09537950255692,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:16.009Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:16.009Z"
+}

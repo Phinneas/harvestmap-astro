@@ -1,0 +1,20 @@
+{
+  "slug": "kauffman-orchards-53-south-weavertown-rd",
+  "name": "Kauffman Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "53 South Weavertown Rd, PA",
+  "locationCity": "53 South Weavertown Rd",
+  "locationState": "PA",
+  "locationZipcode": "17572",
+  "lat": 40.0330950040524,
+  "lon": -76.152547987249,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.095Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.095Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "olde-carthage-farm-270-us-highway-15-501",
+  "name": "Olde Carthage Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "270 US Highway 15 501, NC",
+  "locationCity": "270 US Highway 15 501",
+  "locationState": "NC",
+  "locationZipcode": "28327",
+  "lat": 35.3795979310664,
+  "lon": -79.2852609199035,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.718Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.718Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "catskill-cattle-co-catskill-fresh-csa-96-laurel-bank-ave",
+  "name": "Catskill Cattle Co - Catskill Fresh CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "96 Laurel Bank Ave, NY",
+  "locationCity": "96 Laurel Bank Ave",
+  "locationState": "NY",
+  "locationZipcode": "13754",
+  "lat": 42.066562,
+  "lon": -75.406916,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.152Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.152Z"
+}

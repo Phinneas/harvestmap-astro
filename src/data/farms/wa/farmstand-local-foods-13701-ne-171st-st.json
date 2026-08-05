@@ -1,0 +1,19 @@
+{
+  "slug": "farmstand-local-foods-13701-ne-171st-st",
+  "name": "Farmstand Local Foods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "13701 NE 171st St, WA",
+  "locationCity": "13701 NE 171st St",
+  "locationState": "WA",
+  "locationZipcode": "13701",
+  "lat": 47.7501685,
+  "lon": -122.15709,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:21.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:21.635Z"
+}

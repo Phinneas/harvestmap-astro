@@ -1,0 +1,19 @@
+{
+  "slug": "mt-naomi-farms-1285-east-4500-north",
+  "name": "Mt. Naomi Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1285 East 4500 North, UT",
+  "locationCity": "1285 East 4500 North",
+  "locationState": "UT",
+  "locationZipcode": "84318",
+  "lat": 41.815248,
+  "lon": -111.80298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:26.861Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:26.861Z"
+}

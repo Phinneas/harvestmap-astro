@@ -1,0 +1,19 @@
+{
+  "slug": "st-charles-farmers-market-307-cedar-ave-saint-charles",
+  "name": "St. Charles Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "307 Cedar Ave. Saint Charles, IL",
+  "locationCity": "307 Cedar Ave. Saint Charles",
+  "locationState": "IL",
+  "locationZipcode": "60174",
+  "lat": 41.9148562386916,
+  "lon": -88.31067226384161,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

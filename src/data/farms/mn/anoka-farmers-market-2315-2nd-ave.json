@@ -1,0 +1,19 @@
+{
+  "slug": "anoka-farmers-market-2315-2nd-ave",
+  "name": "Anoka Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2315 2nd Ave, MN",
+  "locationCity": "2315 2nd Ave",
+  "locationState": "MN",
+  "locationZipcode": "55303",
+  "lat": 45.2020799,
+  "lon": -93.3890379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "the-wright-patch-358-mco-rd",
+  "name": "The Wright Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "358 Mco Rd, TN",
+  "locationCity": "358 Mco Rd",
+  "locationState": "TN",
+  "locationZipcode": "38305",
+  "lat": 35.6791389946263,
+  "lon": -88.8199220359418,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.266Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.266Z",
+  "crops": []
+}

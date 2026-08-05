@@ -1,0 +1,19 @@
+{
+  "slug": "keiths-farm-149-main-st",
+  "name": "Keiths Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "149 Main St, MA",
+  "locationCity": "149 Main St",
+  "locationState": "MA",
+  "locationZipcode": "02743",
+  "lat": 41.6835964375968,
+  "lon": -70.9086469813276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.515Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.515Z"
+}

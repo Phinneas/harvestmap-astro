@@ -1,0 +1,19 @@
+{
+  "slug": "catawba-county-public-health-farmers-market-3070-11th-ave-dr-se",
+  "name": "Catawba County Public Health Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3070 11th Ave Dr. SE, NC",
+  "locationCity": "3070 11th Ave Dr. SE",
+  "locationState": "NC",
+  "locationZipcode": "28602",
+  "lat": 35.712066,
+  "lon": -81.269507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.227Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.227Z"
+}

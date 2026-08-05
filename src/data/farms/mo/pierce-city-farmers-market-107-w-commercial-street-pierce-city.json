@@ -1,0 +1,19 @@
+{
+  "slug": "pierce-city-farmers-market-107-w-commercial-street-pierce-city",
+  "name": "Pierce City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "107 W Commercial Street Pierce City, MO",
+  "locationCity": "107 W Commercial Street Pierce City",
+  "locationState": "MO",
+  "locationZipcode": "65873",
+  "lat": 36.94462220225072,
+  "lon": -94.0031566548698,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

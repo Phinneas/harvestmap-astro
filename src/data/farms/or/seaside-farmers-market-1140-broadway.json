@@ -1,0 +1,19 @@
+{
+  "slug": "seaside-farmers-market-1140-broadway",
+  "name": "Seaside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1140 Broadway, OR",
+  "locationCity": "1140 Broadway",
+  "locationState": "OR",
+  "locationZipcode": "97138",
+  "lat": 45.993667,
+  "lon": -123.91986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.315Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.315Z"
+}

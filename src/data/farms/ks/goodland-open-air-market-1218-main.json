@@ -1,0 +1,19 @@
+{
+  "slug": "goodland-open-air-market-1218-main",
+  "name": "Goodland Open Air Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1218 Main, KS",
+  "locationCity": "1218 Main",
+  "locationState": "KS",
+  "locationZipcode": "67736",
+  "lat": 39.346689068685116,
+  "lon": -101.71186411160349,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

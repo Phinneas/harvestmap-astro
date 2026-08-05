@@ -1,0 +1,19 @@
+{
+  "slug": "old-stone-orchard-33-cold-brook-road",
+  "name": "Old Stone Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "33 Cold Brook Road, RI",
+  "locationCity": "33 Cold Brook Road",
+  "locationState": "RI",
+  "locationZipcode": "02837",
+  "lat": 41.5535250080533,
+  "lon": -71.1346459626847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.149Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.149Z"
+}

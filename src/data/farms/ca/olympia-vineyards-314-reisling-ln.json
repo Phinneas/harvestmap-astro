@@ -1,0 +1,19 @@
+{
+  "slug": "olympia-vineyards-314-reisling-ln",
+  "name": "Olympia Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "314 Reisling Ln, CA",
+  "locationCity": "314 Reisling Ln",
+  "locationState": "CA",
+  "locationZipcode": "95448",
+  "lat": 38.6405950126427,
+  "lon": -122.880955032483,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.829Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.829Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "brunswick-area-farmers-market-1-w-potomac-street-brunswick",
+  "name": "Brunswick Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 W. Potomac Street Brunswick, MD",
+  "locationCity": "1 W. Potomac Street Brunswick",
+  "locationState": "MD",
+  "locationZipcode": "21716",
+  "lat": 39.31295003521908,
+  "lon": -77.62704253496744,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.535Z"
+}

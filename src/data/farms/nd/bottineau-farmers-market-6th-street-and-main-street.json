@@ -1,0 +1,19 @@
+{
+  "slug": "bottineau-farmers-market-6th-street-and-main-street",
+  "name": "Bottineau Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6th Street and Main Street, ND",
+  "locationCity": "6th Street and Main Street",
+  "locationState": "ND",
+  "locationZipcode": "58318",
+  "lat": 48.8262788,
+  "lon": -100.44594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:01.271Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:01.271Z"
+}

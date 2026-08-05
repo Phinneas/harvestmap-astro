@@ -1,0 +1,19 @@
+{
+  "slug": "shaver-hill-maple-farm-310-shaver-road",
+  "name": "Shaver-Hill Maple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "310 Shaver Road, NY",
+  "locationCity": "310 Shaver Road",
+  "locationState": "NY",
+  "locationZipcode": "13786",
+  "lat": 42.4434891261363,
+  "lon": -74.7099477679981,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.040Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.040Z"
+}

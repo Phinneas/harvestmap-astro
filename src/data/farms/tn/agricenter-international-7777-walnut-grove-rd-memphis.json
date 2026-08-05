@@ -1,0 +1,19 @@
+{
+  "slug": "agricenter-international-7777-walnut-grove-rd-memphis",
+  "name": "Agricenter International",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7777 Walnut Grove Rd. Memphis, TN",
+  "locationCity": "7777 Walnut Grove Rd. Memphis",
+  "locationState": "TN",
+  "locationZipcode": "38120",
+  "lat": 35.1288450067532,
+  "lon": -89.8037289780582,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.253Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.253Z"
+}

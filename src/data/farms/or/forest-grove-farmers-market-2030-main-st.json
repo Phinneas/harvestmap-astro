@@ -1,0 +1,19 @@
+{
+  "slug": "forest-grove-farmers-market-2030-main-st",
+  "name": "Forest Grove Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2030 Main St, OR",
+  "locationCity": "2030 Main St",
+  "locationState": "OR",
+  "locationZipcode": "97116",
+  "lat": 45.520653,
+  "lon": -123.11204,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.309Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.309Z"
+}

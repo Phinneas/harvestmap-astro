@@ -1,0 +1,19 @@
+{
+  "slug": "owatonna-farmers-and-craft-market-100-e-main-st",
+  "name": "Owatonna Farmers' and Craft Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 E Main St, MN",
+  "locationCity": "100 E Main St",
+  "locationState": "MN",
+  "locationZipcode": "55060",
+  "lat": 44.0851146,
+  "lon": -93.2262103,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

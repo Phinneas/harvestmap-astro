@@ -2,20 +2,19 @@
   "slug": "steve-normanton-226-charles-bancroft-hwy",
   "name": "Steve Normanton",
   "source": "usda",
-  "directory": "agritourism",
+  "directory": "csa",
   "location": "226 Charles Bancroft Hwy, NH",
   "locationCity": "226 Charles Bancroft Hwy",
   "locationState": "NH",
-  "locationZipcode": "",
-  "lat": 42.8363599920815,
-  "lon": -71.4807039832141,
+  "locationZipcode": "03052",
+  "lat": 42.8373379,
+  "lon": -71.4771407,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:33:12.444Z"
+      "lastSeen": "2026-08-05T18:45:50.523Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:33:12.444Z",
-  "website": "https://bhumifarms.co/farms/steve-normanton-farms-litchfield-nh",
+  "usdaLastUpdated": "2026-08-05T18:45:50.523Z",
   "tagline": "Steve Normanton Farms — Grass"
 }

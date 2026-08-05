@@ -1,0 +1,19 @@
+{
+  "slug": "meadowview-farm-870-covington-road",
+  "name": "Meadowview Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "870 Covington Road, IA",
+  "locationCity": "870 Covington Road",
+  "locationState": "IA",
+  "locationZipcode": "52324",
+  "lat": 42.0272495565972,
+  "lon": -91.7850491777417,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.746Z"
+}

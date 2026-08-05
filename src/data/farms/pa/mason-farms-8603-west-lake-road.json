@@ -1,0 +1,19 @@
+{
+  "slug": "mason-farms-8603-west-lake-road",
+  "name": "Mason Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8603 West Lake Road, PA",
+  "locationCity": "8603 West Lake Road",
+  "locationState": "PA",
+  "locationZipcode": "16423",
+  "lat": 42.038609004597475,
+  "lon": -80.29604098773378,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "southwest-umc-pumpkin-patch-400-sw-williston-road",
+  "name": "Southwest UMC Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "400 SW Williston Road, FL",
+  "locationCity": "400 SW Williston Road",
+  "locationState": "FL",
+  "locationZipcode": "32608",
+  "lat": 29.6173872931856,
+  "lon": -82.3342721694407,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.796Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.796Z"
+}

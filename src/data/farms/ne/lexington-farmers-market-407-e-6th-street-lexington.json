@@ -1,0 +1,19 @@
+{
+  "slug": "lexington-farmers-market-407-e-6th-street-lexington",
+  "name": "Lexington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "407 E. 6th Street Lexington, NE",
+  "locationCity": "407 E. 6th Street Lexington",
+  "locationState": "NE",
+  "locationZipcode": "68850",
+  "lat": 40.77879970817701,
+  "lon": -99.73720856403453,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

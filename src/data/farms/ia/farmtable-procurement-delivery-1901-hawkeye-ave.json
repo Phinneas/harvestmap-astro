@@ -1,0 +1,19 @@
+{
+  "slug": "farmtable-procurement-delivery-1901-hawkeye-ave",
+  "name": "FarmTable Procurement & Delivery",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1901 Hawkeye Ave, IA",
+  "locationCity": "1901 Hawkeye Ave",
+  "locationState": "IA",
+  "locationZipcode": "51537",
+  "lat": 41.6382222,
+  "lon": -95.335986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:37.776Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:37.776Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "brighton-farmers-market-1150-winton-road-south-brighton",
+  "name": "Brighton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1150 Winton Road South Brighton, NY",
+  "locationCity": "1150 Winton Road South Brighton",
+  "locationState": "NY",
+  "locationZipcode": "14610",
+  "lat": 43.16678372498763,
+  "lon": -77.54378475240176,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

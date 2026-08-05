@@ -1,0 +1,19 @@
+{
+  "slug": "drewry-farms-541-strawberry-lane",
+  "name": "Drewry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "541 Strawberry Lane, VA",
+  "locationCity": "541 Strawberry Lane",
+  "locationState": "VA",
+  "locationZipcode": "23888",
+  "lat": 37.0055830092195,
+  "lon": -76.9577609640349,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.122Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.122Z"
+}

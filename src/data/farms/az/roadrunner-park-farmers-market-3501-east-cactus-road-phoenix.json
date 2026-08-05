@@ -1,0 +1,19 @@
+{
+  "slug": "roadrunner-park-farmers-market-3501-east-cactus-road-phoenix",
+  "name": "Roadrunner Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3501 East Cactus Road Phoenix, AZ",
+  "locationCity": "3501 East Cactus Road Phoenix",
+  "locationState": "AZ",
+  "locationZipcode": "85032",
+  "lat": 33.59705589203078,
+  "lon": -112.00529697997817,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

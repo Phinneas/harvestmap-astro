@@ -1,0 +1,19 @@
+{
+  "slug": "krebs-farm-315-upper-bay-road",
+  "name": "KREBS Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "315 Upper Bay Road, NH",
+  "locationCity": "315 Upper Bay Road",
+  "locationState": "NH",
+  "locationZipcode": "03269",
+  "lat": 43.5382459794815,
+  "lon": -71.5326850263088,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.567Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.567Z"
+}

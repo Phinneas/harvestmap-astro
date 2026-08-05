@@ -1,0 +1,19 @@
+{
+  "slug": "pacific-beach-tuesday-market-901-garnet-ave",
+  "name": "Pacific Beach Tuesday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "901 GARNET AVE, CA",
+  "locationCity": "901 GARNET AVE",
+  "locationState": "CA",
+  "locationZipcode": "92109",
+  "lat": 32.796993490026715,
+  "lon": -117.25351984257047,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

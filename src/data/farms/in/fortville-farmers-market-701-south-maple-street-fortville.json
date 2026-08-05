@@ -1,0 +1,19 @@
+{
+  "slug": "fortville-farmers-market-701-south-maple-street-fortville",
+  "name": "Fortville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "701 South Maple Street Fortville, IN",
+  "locationCity": "701 South Maple Street Fortville",
+  "locationState": "IN",
+  "locationZipcode": "46040",
+  "lat": 39.929029238475856,
+  "lon": -85.84646382566714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkins-galore-26415-s-stringtown",
+  "name": "Pumpkins Galore",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "26415 S. Stringtown, MO",
+  "locationCity": "26415 S. Stringtown",
+  "locationState": "MO",
+  "locationZipcode": "26415",
+  "lat": 38.786311004677,
+  "lon": -90.9949890295952,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.780Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.780Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "beach-view-farms-178-beachview-ave",
+  "name": "Beach View Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "178 Beachview Ave., NJ",
+  "locationCity": "178 Beachview Ave.",
+  "locationState": "NJ",
+  "locationZipcode": "08050",
+  "lat": 39.730090000541,
+  "lon": -74.2510880223713,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.580Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.580Z",
+  "crops": []
+}

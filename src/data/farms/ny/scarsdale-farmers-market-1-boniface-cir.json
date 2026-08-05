@@ -1,0 +1,19 @@
+{
+  "slug": "scarsdale-farmers-market-1-boniface-cir",
+  "name": "Scarsdale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Boniface Cir, NY",
+  "locationCity": "1 Boniface Cir",
+  "locationState": "NY",
+  "locationZipcode": "10583",
+  "lat": 40.9891955262266,
+  "lon": -73.80687039574129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

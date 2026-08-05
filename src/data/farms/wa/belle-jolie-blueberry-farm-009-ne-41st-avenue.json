@@ -1,0 +1,19 @@
+{
+  "slug": "belle-jolie-blueberry-farm-009-ne-41st-avenue",
+  "name": "Belle Jolie Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "009 Ne 41st Avenue, WA",
+  "locationCity": "009 Ne 41st Avenue",
+  "locationState": "WA",
+  "locationZipcode": "98629",
+  "lat": 45.8950121616493,
+  "lon": -122.628919709064,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.307Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.307Z"
+}

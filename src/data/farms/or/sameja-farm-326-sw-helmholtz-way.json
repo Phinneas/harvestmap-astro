@@ -1,0 +1,20 @@
+{
+  "slug": "sameja-farm-326-sw-helmholtz-way",
+  "name": "Sameja Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "326 SW Helmholtz Way, OR",
+  "locationCity": "326 SW Helmholtz Way",
+  "locationState": "OR",
+  "locationZipcode": "97756",
+  "lat": 44.2743320177655,
+  "lon": -121.219075006069,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.921Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.921Z",
+  "crops": []
+}

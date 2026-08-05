@@ -1,0 +1,20 @@
+{
+  "slug": "berry-harvest-farm-12766-white-cemetery-rd",
+  "name": "Berry Harvest Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12766 White Cemetery Rd, NY",
+  "locationCity": "12766 White Cemetery Rd",
+  "locationState": "NY",
+  "locationZipcode": "12766",
+  "lat": 43.2349895188748,
+  "lon": -76.502268899466,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.259Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.259Z",
+  "crops": []
+}

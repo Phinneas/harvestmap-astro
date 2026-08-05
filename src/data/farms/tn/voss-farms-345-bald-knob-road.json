@@ -1,0 +1,19 @@
+{
+  "slug": "voss-farms-345-bald-knob-road",
+  "name": "Voss Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "345 Bald Knob Road, TN",
+  "locationCity": "345 Bald Knob Road",
+  "locationState": "TN",
+  "locationZipcode": "38063",
+  "lat": 35.8271676747258,
+  "lon": -89.4918894391221,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.340Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.340Z"
+}

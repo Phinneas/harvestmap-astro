@@ -1,0 +1,19 @@
+{
+  "slug": "boonville-farmers-market-601-main-st-boonville",
+  "name": "Boonville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "601 Main St. Boonville, NY",
+  "locationCity": "601 Main St. Boonville",
+  "locationState": "NY",
+  "locationZipcode": "13309",
+  "lat": 43.48064634245594,
+  "lon": -75.32746599752174,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

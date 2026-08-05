@@ -1,0 +1,19 @@
+{
+  "slug": "untiedt-s-vegetable-farm-inc-4750-25th-street-sw",
+  "name": "Untiedt's Vegetable Farm, Inc.",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4750 - 25th Street SW, MN",
+  "locationCity": "4750 - 25th Street SW",
+  "locationState": "MN",
+  "locationZipcode": "55390",
+  "lat": 45.1159157,
+  "lon": -93.9889697,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.169Z"
+}

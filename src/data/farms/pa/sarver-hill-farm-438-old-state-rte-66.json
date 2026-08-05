@@ -1,0 +1,20 @@
+{
+  "slug": "sarver-hill-farm-438-old-state-rte-66",
+  "name": "Sarver Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "438 Old State Rte. 66, PA",
+  "locationCity": "438 Old State Rte. 66",
+  "locationState": "PA",
+  "locationZipcode": "15601",
+  "lat": 40.3478630028422,
+  "lon": -79.5732829717795,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.153Z",
+  "crops": []
+}

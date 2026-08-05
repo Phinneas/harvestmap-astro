@@ -1,0 +1,20 @@
+{
+  "slug": "grand-river-farmers-market-117-louis-glick-highway-jackson",
+  "name": "Grand River Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "117 Louis Glick Highway Jackson, MI",
+  "locationCity": "117 Louis Glick Highway Jackson",
+  "locationState": "MI",
+  "locationZipcode": "49201",
+  "lat": 42.24932810206202,
+  "lon": -84.4070778032304,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z",
+  "crops": []
+}

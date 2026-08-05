@@ -1,0 +1,19 @@
+{
+  "slug": "green-acres-farmer-s-market-3400-carson-ct-camino",
+  "name": "Green Acres Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3400 Carson Ct Camino, CA",
+  "locationCity": "3400 Carson Ct Camino",
+  "locationState": "CA",
+  "locationZipcode": "95709",
+  "lat": 38.740986244526866,
+  "lon": -120.69744009760885,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

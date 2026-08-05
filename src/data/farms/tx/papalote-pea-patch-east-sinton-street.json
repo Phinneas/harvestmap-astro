@@ -1,0 +1,19 @@
+{
+  "slug": "papalote-pea-patch-east-sinton-street",
+  "name": "Papalote Pea Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "East Sinton Street, TX",
+  "locationCity": "East Sinton Street",
+  "locationState": "TX",
+  "locationZipcode": "78387",
+  "lat": 28.0365195045,
+  "lon": -97.4861973434685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.676Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.676Z"
+}

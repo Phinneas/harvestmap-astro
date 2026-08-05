@@ -1,0 +1,19 @@
+{
+  "slug": "heirloom-farmers-market-2200-illinois-route-84-thomson",
+  "name": "Heirloom Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2200 Illinois Route 84 Thomson, IL",
+  "locationCity": "2200 Illinois Route 84 Thomson",
+  "locationState": "IL",
+  "locationZipcode": "61285",
+  "lat": 41.96023338333414,
+  "lon": -90.09937372226413,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

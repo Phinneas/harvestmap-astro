@@ -1,0 +1,19 @@
+{
+  "slug": "cambridge-corner-farm-27-maple-ave",
+  "name": "Cambridge Corner Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "27 Maple Ave, NY",
+  "locationCity": "27 Maple Ave",
+  "locationState": "NY",
+  "locationZipcode": "12816",
+  "lat": 43.0307617238866,
+  "lon": -73.36629482608582,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.176Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.176Z"
+}

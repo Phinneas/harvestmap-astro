@@ -1,0 +1,19 @@
+{
+  "slug": "cold-water-creek-farms-911-central-drive-nw",
+  "name": "Cold Water Creek Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "911 Central Drive NW, NC",
+  "locationCity": "911 Central Drive NW",
+  "locationState": "NC",
+  "locationZipcode": "28027",
+  "lat": 35.4274755,
+  "lon": -80.6152812,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.851Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.851Z"
+}

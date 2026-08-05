@@ -1,0 +1,19 @@
+{
+  "slug": "beas-blueberry-patch-113-highway-188",
+  "name": "Beas Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "113 Highway 188, GA",
+  "locationCity": "113 Highway 188",
+  "locationState": "GA",
+  "locationZipcode": "31773",
+  "lat": 30.9596360761321,
+  "lon": -84.1100382903653,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.270Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.270Z"
+}

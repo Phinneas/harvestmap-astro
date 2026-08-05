@@ -1,0 +1,19 @@
+{
+  "slug": "unadilla-farmers-market-187-main-st-unadilla",
+  "name": "Unadilla Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "187 Main St. Unadilla, NY",
+  "locationCity": "187 Main St. Unadilla",
+  "locationState": "NY",
+  "locationZipcode": "13849",
+  "lat": 42.324833321222016,
+  "lon": -75.3163107477977,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kenbridge-farmers-market-533-east-fifth-avenue-kenbridge",
+  "name": "Kenbridge Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "533 East Fifth Avenue Kenbridge, VA",
+  "locationCity": "533 East Fifth Avenue Kenbridge",
+  "locationState": "VA",
+  "locationZipcode": "23944",
+  "lat": 36.95936884032316,
+  "lon": -78.11738403682094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

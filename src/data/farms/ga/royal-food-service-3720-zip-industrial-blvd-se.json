@@ -1,0 +1,19 @@
+{
+  "slug": "royal-food-service-3720-zip-industrial-blvd-se",
+  "name": "Royal Food Service",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3720 Zip Industrial Blvd SE, GA",
+  "locationCity": "3720 Zip Industrial Blvd SE",
+  "locationState": "GA",
+  "locationZipcode": "30354",
+  "lat": 33.6551509,
+  "lon": -84.388453,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:55.626Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:55.626Z"
+}

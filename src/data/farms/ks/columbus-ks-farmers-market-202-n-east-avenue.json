@@ -1,0 +1,19 @@
+{
+  "slug": "columbus-ks-farmers-market-202-n-east-avenue",
+  "name": "Columbus KS Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "202 N. East Avenue, KS",
+  "locationCity": "202 N. East Avenue",
+  "locationState": "KS",
+  "locationZipcode": "66725",
+  "lat": 37.171861,
+  "lon": -94.831459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.659Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.659Z"
+}

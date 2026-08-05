@@ -1,0 +1,19 @@
+{
+  "slug": "de-soto-farmers-market-520-n-main-st",
+  "name": "De Soto Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "520 N. Main St., MO",
+  "locationCity": "520 N. Main St.",
+  "locationState": "MO",
+  "locationZipcode": "63020",
+  "lat": 38.143674,
+  "lon": -90.552205,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.453Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.453Z"
+}

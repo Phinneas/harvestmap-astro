@@ -1,0 +1,19 @@
+{
+  "slug": "anderson-orchard-045-elm-grove-road",
+  "name": "Anderson Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "045 Elm Grove Road, TN",
+  "locationCity": "045 Elm Grove Road",
+  "locationState": "TN",
+  "locationZipcode": "38015",
+  "lat": 35.552167424103,
+  "lon": -89.7949691994642,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.327Z"
+}

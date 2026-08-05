@@ -1,0 +1,19 @@
+{
+  "slug": "redfir-farms-184-s-redfir-dr",
+  "name": "Redfir Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "184 S. Redfir Dr., OR",
+  "locationCity": "184 S. Redfir Dr.",
+  "locationState": "OR",
+  "locationZipcode": "97004",
+  "lat": 45.2543295072095,
+  "lon": -122.492609929299,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.004Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.004Z"
+}

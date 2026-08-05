@@ -1,0 +1,19 @@
+{
+  "slug": "howard-lake-area-farmers-market-us-12-county-rd-7-sw",
+  "name": "Howard Lake Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "US-12 & County Rd 7 SW, MN",
+  "locationCity": "US-12 & County Rd 7 SW",
+  "locationState": "MN",
+  "locationZipcode": "55349",
+  "lat": 45.061918,
+  "lon": -94.0595139,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

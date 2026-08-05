@@ -1,0 +1,19 @@
+{
+  "slug": "sweetwater-farm-101-blue-star-highway",
+  "name": "Sweetwater Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Blue Star Highway, FL",
+  "locationCity": "101 Blue Star Highway",
+  "locationState": "FL",
+  "locationZipcode": "32352",
+  "lat": 30.6642289863073,
+  "lon": -84.6962453087013,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.874Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.874Z"
+}

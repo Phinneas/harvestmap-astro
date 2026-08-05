@@ -1,0 +1,19 @@
+{
+  "slug": "collinsville-farmers-market-main-st-and-route-179",
+  "name": "Collinsville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St. and Route 179, CT",
+  "locationCity": "Main St. and Route 179",
+  "locationState": "CT",
+  "locationZipcode": "06019",
+  "lat": 41.810819,
+  "lon": -72.923264,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.578Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.578Z"
+}

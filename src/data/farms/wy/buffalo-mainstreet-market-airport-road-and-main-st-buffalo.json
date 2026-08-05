@@ -1,0 +1,19 @@
+{
+  "slug": "buffalo-mainstreet-market-airport-road-and-main-st-buffalo",
+  "name": "Buffalo Mainstreet Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Airport Road and Main St. Buffalo, WY",
+  "locationCity": "Airport Road and Main St. Buffalo",
+  "locationState": "WY",
+  "locationZipcode": "82834",
+  "lat": 44.362690017727516,
+  "lon": -106.69710002220101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.423Z"
+}

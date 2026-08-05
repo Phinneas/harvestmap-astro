@@ -1,0 +1,20 @@
+{
+  "slug": "blue-barn-farm-9955-huff-road",
+  "name": "Blue Barn Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9955 Huff Road, KS",
+  "locationCity": "9955 Huff Road",
+  "locationState": "KS",
+  "locationZipcode": "66549",
+  "lat": 39.4651100036991,
+  "lon": -96.4835790062712,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.129Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.129Z",
+  "crops": []
+}

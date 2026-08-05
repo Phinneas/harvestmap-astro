@@ -1,0 +1,19 @@
+{
+  "slug": "old-monterey-farmers-market-alvarado-st-at-franklin-st",
+  "name": "Old Monterey Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Alvarado St. at Franklin St., CA",
+  "locationCity": "Alvarado St. at Franklin St.",
+  "locationState": "CA",
+  "locationZipcode": "93940",
+  "lat": 36.59997001597657,
+  "lon": -121.89432003623541,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

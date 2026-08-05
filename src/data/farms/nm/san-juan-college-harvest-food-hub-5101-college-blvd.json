@@ -1,0 +1,19 @@
+{
+  "slug": "san-juan-college-harvest-food-hub-5101-college-blvd",
+  "name": "San Juan College Harvest Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5101 College Blvd, NM",
+  "locationCity": "5101 College Blvd",
+  "locationState": "NM",
+  "locationZipcode": "87402",
+  "lat": 36.7737916,
+  "lon": -108.16738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:00.060Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:00.060Z"
+}

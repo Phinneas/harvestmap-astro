@@ -1,0 +1,19 @@
+{
+  "slug": "osma-acres-farm-csa-53464-osma-acres-road",
+  "name": "Osma Acres Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "53464 Osma Acres Road, MI",
+  "locationCity": "53464 Osma Acres Road",
+  "locationState": "MI",
+  "locationZipcode": "53464",
+  "lat": 47.1904137,
+  "lon": -88.6430486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.978Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.978Z"
+}

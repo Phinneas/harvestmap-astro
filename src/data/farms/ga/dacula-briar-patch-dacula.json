@@ -1,0 +1,19 @@
+{
+  "slug": "dacula-briar-patch-dacula",
+  "name": "Dacula Briar Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dacula, GA",
+  "locationCity": "Dacula",
+  "locationState": "GA",
+  "locationZipcode": "30019",
+  "lat": 33.9998793,
+  "lon": -83.8979756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.403Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.403Z"
+}

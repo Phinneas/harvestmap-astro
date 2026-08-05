@@ -1,0 +1,19 @@
+{
+  "slug": "keg-and-case-farmers-market-928-7th-st-w",
+  "name": "Keg and Case Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "928 7th St W, MN",
+  "locationCity": "928 7th St W",
+  "locationState": "MN",
+  "locationZipcode": "55102",
+  "lat": 44.9285888,
+  "lon": -93.1247292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

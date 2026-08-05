@@ -1,0 +1,19 @@
+{
+  "slug": "4rivers-fresh-foods-315-losher-st-suite-100",
+  "name": "4Rivers Fresh Foods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "315 Losher St.  Suite 100, MS",
+  "locationCity": "315 Losher St.  Suite 100",
+  "locationState": "MS",
+  "locationZipcode": "38632",
+  "lat": 34.8222958,
+  "lon": -89.994898,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.908Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.908Z"
+}

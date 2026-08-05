@@ -1,0 +1,19 @@
+{
+  "slug": "hope-farm-farmers-market-19833-morris-rd-harlingen",
+  "name": "HOPE Farm farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "19833 Morris rd Harlingen, TX",
+  "locationCity": "19833 Morris rd Harlingen",
+  "locationState": "TX",
+  "locationZipcode": "19833",
+  "lat": 26.15449103600846,
+  "lon": -97.70490062845715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

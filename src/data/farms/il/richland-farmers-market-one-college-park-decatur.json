@@ -1,0 +1,19 @@
+{
+  "slug": "richland-farmers-market-one-college-park-decatur",
+  "name": "Richland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "One College Park Decatur, IL",
+  "locationCity": "One College Park Decatur",
+  "locationState": "IL",
+  "locationZipcode": "62521",
+  "lat": 39.883813979050046,
+  "lon": -88.89397296537365,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

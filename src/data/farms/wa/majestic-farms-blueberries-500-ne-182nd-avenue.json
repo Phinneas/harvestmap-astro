@@ -1,0 +1,19 @@
+{
+  "slug": "majestic-farms-blueberries-500-ne-182nd-avenue",
+  "name": "Majestic Farms Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 Ne 182nd Avenue, WA",
+  "locationCity": "500 Ne 182nd Avenue",
+  "locationState": "WA",
+  "locationZipcode": "98606",
+  "lat": 45.7366528175183,
+  "lon": -122.486780026223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.174Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.174Z"
+}

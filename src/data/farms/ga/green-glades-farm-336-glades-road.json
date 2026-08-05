@@ -1,0 +1,19 @@
+{
+  "slug": "green-glades-farm-336-glades-road",
+  "name": "Green Glades Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "336 Glades Road, GA",
+  "locationCity": "336 Glades Road",
+  "locationState": "GA",
+  "locationZipcode": "31024",
+  "lat": 33.3863529904682,
+  "lon": -83.4490989723471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.341Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.341Z"
+}

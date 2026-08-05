@@ -1,0 +1,19 @@
+{
+  "slug": "sweet-pepper-ranch-7235-southside-blvd",
+  "name": "Sweet Pepper Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7235 Southside Blvd, ID",
+  "locationCity": "7235 Southside Blvd",
+  "locationState": "ID",
+  "locationZipcode": "83686",
+  "lat": 43.47739772101744,
+  "lon": -116.536471404385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.918Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.918Z"
+}

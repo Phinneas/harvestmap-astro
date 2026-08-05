@@ -1,0 +1,19 @@
+{
+  "slug": "smith-berry-barn-500-sw-scholls-ferry-road",
+  "name": "Smith Berry Barn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 SW Scholls Ferry Road, OR",
+  "locationCity": "500 SW Scholls Ferry Road",
+  "locationState": "OR",
+  "locationZipcode": "97007",
+  "lat": 45.4103448864618,
+  "lon": -122.922247661218,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.879Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.879Z"
+}

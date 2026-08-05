@@ -1,0 +1,19 @@
+{
+  "slug": "deibel-s-farm-olden-road",
+  "name": "Deibel's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Olden Road, NY",
+  "locationCity": "Olden Road",
+  "locationState": "NY",
+  "locationZipcode": "14170",
+  "lat": 42.7143810979225,
+  "lon": -78.6604648560894,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.437Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.437Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "larimer-county-farmers-market-200-w-oak-st",
+  "name": "Larimer County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 W. Oak St., CO",
+  "locationCity": "200 W. Oak St.",
+  "locationState": "CO",
+  "locationZipcode": "80521",
+  "lat": 40.586073,
+  "lon": -105.08019,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.343Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.343Z"
+}

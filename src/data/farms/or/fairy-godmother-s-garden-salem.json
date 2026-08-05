@@ -1,0 +1,19 @@
+{
+  "slug": "fairy-godmother-s-garden-salem",
+  "name": "Fairy Godmother's Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Salem, OR",
+  "locationCity": "Salem",
+  "locationState": "OR",
+  "locationZipcode": "97301",
+  "lat": 44.9464822,
+  "lon": -123.0018941,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.930Z"
+}

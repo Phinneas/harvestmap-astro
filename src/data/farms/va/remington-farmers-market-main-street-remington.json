@@ -1,0 +1,19 @@
+{
+  "slug": "remington-farmers-market-main-street-remington",
+  "name": "Remington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street Remington, VA",
+  "locationCity": "Main Street Remington",
+  "locationState": "VA",
+  "locationZipcode": "22734",
+  "lat": 38.53437627072633,
+  "lon": -77.81080707559063,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

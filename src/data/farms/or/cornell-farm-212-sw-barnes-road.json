@@ -1,0 +1,19 @@
+{
+  "slug": "cornell-farm-212-sw-barnes-road",
+  "name": "Cornell Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "212 Sw Barnes Road, OR",
+  "locationCity": "212 Sw Barnes Road",
+  "locationState": "OR",
+  "locationZipcode": "97225",
+  "lat": 45.5090071467132,
+  "lon": -122.772168673825,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.814Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.814Z"
+}

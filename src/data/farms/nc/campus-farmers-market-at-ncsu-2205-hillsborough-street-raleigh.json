@@ -1,0 +1,19 @@
+{
+  "slug": "campus-farmers-market-at-ncsu-2205-hillsborough-street-raleigh",
+  "name": "Campus Farmers Market at NCSU",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2205 Hillsborough Street Raleigh, NC",
+  "locationCity": "2205 Hillsborough Street Raleigh",
+  "locationState": "NC",
+  "locationZipcode": "27607",
+  "lat": 35.786710478592596,
+  "lon": -78.66424940040389,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

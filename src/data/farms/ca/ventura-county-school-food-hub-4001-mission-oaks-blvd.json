@@ -1,0 +1,19 @@
+{
+  "slug": "ventura-county-school-food-hub-4001-mission-oaks-blvd",
+  "name": "Ventura County School Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "4001 Mission Oaks Blvd, CA",
+  "locationCity": "4001 Mission Oaks Blvd",
+  "locationState": "CA",
+  "locationZipcode": "93012",
+  "lat": 34.216881997052994,
+  "lon": -119.01662601112231,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

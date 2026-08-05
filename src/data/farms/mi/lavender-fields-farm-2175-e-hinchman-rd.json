@@ -1,0 +1,19 @@
+{
+  "slug": "lavender-fields-farm-2175-e-hinchman-rd",
+  "name": "Lavender Fields Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2175 E Hinchman Rd, MI",
+  "locationCity": "2175 E Hinchman Rd",
+  "locationState": "MI",
+  "locationZipcode": "49103",
+  "lat": 41.9733519907917,
+  "lon": -86.4058119647232,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.674Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.674Z"
+}

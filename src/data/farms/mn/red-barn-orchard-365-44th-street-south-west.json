@@ -1,0 +1,19 @@
+{
+  "slug": "red-barn-orchard-365-44th-street-south-west",
+  "name": "Red Barn Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "365 44th Street South West, MN",
+  "locationCity": "365 44th Street South West",
+  "locationState": "MN",
+  "locationZipcode": "56474",
+  "lat": 46.6458794853438,
+  "lon": -94.3978154910854,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.791Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.791Z"
+}

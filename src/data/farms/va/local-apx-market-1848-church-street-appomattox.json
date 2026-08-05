@@ -1,0 +1,19 @@
+{
+  "slug": "local-apx-market-1848-church-street-appomattox",
+  "name": "Local APX Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1848 Church Street Appomattox, VA",
+  "locationCity": "1848 Church Street Appomattox",
+  "locationState": "VA",
+  "locationZipcode": "24522",
+  "lat": 37.35275361206558,
+  "lon": -78.82745747308512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

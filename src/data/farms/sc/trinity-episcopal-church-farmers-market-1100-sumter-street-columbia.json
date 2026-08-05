@@ -1,0 +1,19 @@
+{
+  "slug": "trinity-episcopal-church-farmers-market-1100-sumter-street-columbia",
+  "name": "Trinity Episcopal Church Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1100 Sumter Street Columbia, SC",
+  "locationCity": "1100 Sumter Street Columbia",
+  "locationState": "SC",
+  "locationZipcode": "29201",
+  "lat": 34.00031830716184,
+  "lon": -81.0312627631106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.196Z"
+}

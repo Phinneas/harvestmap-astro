@@ -1,0 +1,19 @@
+{
+  "slug": "twin-valley-farmers-market-104-1st-st-ne",
+  "name": "Twin Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "104 1st St NE, MN",
+  "locationCity": "104 1st St NE",
+  "locationState": "MN",
+  "locationZipcode": "56584",
+  "lat": 47.2610057,
+  "lon": -96.2580044,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

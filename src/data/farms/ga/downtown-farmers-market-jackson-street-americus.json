@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-jackson-street-americus",
+  "name": "Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Jackson Street Americus, GA",
+  "locationCity": "Jackson Street Americus",
+  "locationState": "GA",
+  "locationZipcode": "31709",
+  "lat": 32.07572150752716,
+  "lon": -84.23387997049554,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

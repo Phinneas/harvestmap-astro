@@ -1,0 +1,19 @@
+{
+  "slug": "roha-farms-6009-church-lane",
+  "name": "Roha Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6009 Church Lane, MD",
+  "locationCity": "6009 Church Lane",
+  "locationState": "MD",
+  "locationZipcode": "21082",
+  "lat": 39.480831017476,
+  "lon": -76.4699740132643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.226Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.226Z"
+}

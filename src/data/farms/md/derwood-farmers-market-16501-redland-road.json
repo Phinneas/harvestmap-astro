@@ -1,0 +1,19 @@
+{
+  "slug": "derwood-farmers-market-16501-redland-road",
+  "name": "Derwood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16501 Redland Road, MD",
+  "locationCity": "16501 Redland Road",
+  "locationState": "MD",
+  "locationZipcode": "16501",
+  "lat": 39.12708393390918,
+  "lon": -77.15019365457039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

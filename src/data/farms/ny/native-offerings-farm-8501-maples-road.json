@@ -1,0 +1,19 @@
+{
+  "slug": "native-offerings-farm-8501-maples-road",
+  "name": "Native Offerings Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8501 Maples Road, NY",
+  "locationCity": "8501 Maples Road",
+  "locationState": "NY",
+  "locationZipcode": "14755",
+  "lat": 42.349171383485896,
+  "lon": -78.78880352937948,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.193Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.193Z"
+}

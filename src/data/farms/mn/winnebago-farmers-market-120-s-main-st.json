@@ -1,0 +1,19 @@
+{
+  "slug": "winnebago-farmers-market-120-s-main-st",
+  "name": "Winnebago Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 S Main St, MN",
+  "locationCity": "120 S Main St",
+  "locationState": "MN",
+  "locationZipcode": "56098",
+  "lat": 43.766421,
+  "lon": -94.1656663,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

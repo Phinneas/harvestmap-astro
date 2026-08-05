@@ -1,0 +1,19 @@
+{
+  "slug": "hanover-vegetable-farm-580-ashland-road",
+  "name": "Hanover Vegetable Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "580 Ashland Road, VA",
+  "locationCity": "580 Ashland Road",
+  "locationState": "VA",
+  "locationZipcode": "23005",
+  "lat": 37.7361233362977,
+  "lon": -77.561261836615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.079Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.079Z"
+}

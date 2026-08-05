@@ -1,0 +1,19 @@
+{
+  "slug": "the-neighborhood-market-210-6th-avenue-northeast",
+  "name": "The Neighborhood Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 6th Avenue Northeast, MN",
+  "locationCity": "210 6th Avenue Northeast",
+  "locationState": "MN",
+  "locationZipcode": "55040",
+  "lat": 45.4922747,
+  "lon": -93.2357696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

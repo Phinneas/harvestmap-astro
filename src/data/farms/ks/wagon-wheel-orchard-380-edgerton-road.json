@@ -1,0 +1,19 @@
+{
+  "slug": "wagon-wheel-orchard-380-edgerton-road",
+  "name": "Wagon Wheel Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "380 Edgerton Road, KS",
+  "locationCity": "380 Edgerton Road",
+  "locationState": "KS",
+  "locationZipcode": "66030",
+  "lat": 38.8549649558272,
+  "lon": -95.0189798765653,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.155Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.155Z"
+}

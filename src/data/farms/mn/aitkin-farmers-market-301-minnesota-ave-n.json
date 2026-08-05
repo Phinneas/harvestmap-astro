@@ -1,0 +1,19 @@
+{
+  "slug": "aitkin-farmers-market-301-minnesota-ave-n",
+  "name": "Aitkin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 Minnesota Ave N, MN",
+  "locationCity": "301 Minnesota Ave N",
+  "locationState": "MN",
+  "locationZipcode": "56431",
+  "lat": 46.5346116,
+  "lon": -93.7069271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.794Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.794Z"
+}

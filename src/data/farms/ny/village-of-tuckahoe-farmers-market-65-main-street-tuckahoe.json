@@ -1,0 +1,19 @@
+{
+  "slug": "village-of-tuckahoe-farmers-market-65-main-street-tuckahoe",
+  "name": "Village of Tuckahoe Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "65 Main Street Tuckahoe, NY",
+  "locationCity": "65 Main Street Tuckahoe",
+  "locationState": "NY",
+  "locationZipcode": "10707",
+  "lat": 40.949994278534525,
+  "lon": -73.82668956628805,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

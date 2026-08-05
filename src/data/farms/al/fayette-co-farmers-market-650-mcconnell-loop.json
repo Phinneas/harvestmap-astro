@@ -1,0 +1,19 @@
+{
+  "slug": "fayette-co-farmers-market-650-mcconnell-loop",
+  "name": "Fayette Co. Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "650 MCCONNELL LOOP, AL",
+  "locationCity": "650 MCCONNELL LOOP",
+  "locationState": "AL",
+  "locationZipcode": "35555",
+  "lat": 33.73163356915062,
+  "lon": -87.80698658996633,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.018Z"
+}

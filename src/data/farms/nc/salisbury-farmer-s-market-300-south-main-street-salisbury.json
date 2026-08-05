@@ -1,0 +1,19 @@
+{
+  "slug": "salisbury-farmer-s-market-300-south-main-street-salisbury",
+  "name": "Salisbury Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 South Main Street Salisbury, NC",
+  "locationCity": "300 South Main Street Salisbury",
+  "locationState": "NC",
+  "locationZipcode": "28144",
+  "lat": 35.665571643175234,
+  "lon": -80.47223499091585,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

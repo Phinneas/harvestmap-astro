@@ -1,0 +1,19 @@
+{
+  "slug": "andy-ts-farm-market-3131-s-us-27",
+  "name": "Andy Ts Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3131 S US-27, MI",
+  "locationCity": "3131 S US-27",
+  "locationState": "MI",
+  "locationZipcode": "48829",
+  "lat": 42.969862000537034,
+  "lon": -84.54196503597403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.231Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.231Z"
+}

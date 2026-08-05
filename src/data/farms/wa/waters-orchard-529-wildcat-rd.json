@@ -1,0 +1,19 @@
+{
+  "slug": "waters-orchard-529-wildcat-rd",
+  "name": "Waters Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "529 Wildcat Rd., WA",
+  "locationCity": "529 Wildcat Rd.",
+  "locationState": "WA",
+  "locationZipcode": "20876",
+  "lat": 39.2239586755212,
+  "lon": -77.2102737297777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.295Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.295Z"
+}

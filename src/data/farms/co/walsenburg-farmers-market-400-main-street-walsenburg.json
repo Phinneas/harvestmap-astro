@@ -1,0 +1,19 @@
+{
+  "slug": "walsenburg-farmers-market-400-main-street-walsenburg",
+  "name": "Walsenburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Main Street Walsenburg, CO",
+  "locationCity": "400 Main Street Walsenburg",
+  "locationState": "CO",
+  "locationZipcode": "81089",
+  "lat": 37.62557933074802,
+  "lon": -104.78189654180994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.367Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.367Z"
+}

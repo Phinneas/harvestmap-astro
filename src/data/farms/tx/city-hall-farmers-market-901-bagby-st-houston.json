@@ -1,0 +1,19 @@
+{
+  "slug": "city-hall-farmers-market-901-bagby-st-houston",
+  "name": "City Hall Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "901 Bagby St. Houston, TX",
+  "locationCity": "901 Bagby St. Houston",
+  "locationState": "TX",
+  "locationZipcode": "77002",
+  "lat": 29.760743937771394,
+  "lon": -95.36953918956755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

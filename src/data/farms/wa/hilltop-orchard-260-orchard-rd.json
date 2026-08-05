@@ -1,0 +1,19 @@
+{
+  "slug": "hilltop-orchard-260-orchard-rd",
+  "name": "Hilltop Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "260 Orchard Rd, WA",
+  "locationCity": "260 Orchard Rd",
+  "locationState": "WA",
+  "locationZipcode": "98926",
+  "lat": 46.9276753723894,
+  "lon": -120.473990270873,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.157Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.157Z"
+}

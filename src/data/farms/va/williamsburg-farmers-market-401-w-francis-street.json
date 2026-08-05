@@ -1,0 +1,19 @@
+{
+  "slug": "williamsburg-farmers-market-401-w-francis-street",
+  "name": "Williamsburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "401 W. Francis Street, VA",
+  "locationCity": "401 W. Francis Street",
+  "locationState": "VA",
+  "locationZipcode": "23185",
+  "lat": 37.269293,
+  "lon": -76.706717,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.135Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.135Z"
+}

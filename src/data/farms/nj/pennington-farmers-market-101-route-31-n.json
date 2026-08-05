@@ -1,0 +1,19 @@
+{
+  "slug": "pennington-farmers-market-101-route-31-n",
+  "name": "Pennington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Route 31 N, NJ",
+  "locationCity": "101 Route 31 N",
+  "locationState": "NJ",
+  "locationZipcode": "08534",
+  "lat": 40.3494,
+  "lon": -74.79688,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:21.796Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:21.796Z"
+}

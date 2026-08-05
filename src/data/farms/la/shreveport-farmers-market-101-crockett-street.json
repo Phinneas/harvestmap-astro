@@ -1,0 +1,19 @@
+{
+  "slug": "shreveport-farmers-market-101-crockett-street",
+  "name": "Shreveport Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Crockett Street, LA",
+  "locationCity": "101 Crockett Street",
+  "locationState": "LA",
+  "locationZipcode": "71101",
+  "lat": 32.514186,
+  "lon": -93.744962,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.659Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.659Z"
+}

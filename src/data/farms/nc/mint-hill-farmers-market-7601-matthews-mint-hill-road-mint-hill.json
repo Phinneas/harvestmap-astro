@@ -1,0 +1,19 @@
+{
+  "slug": "mint-hill-farmers-market-7601-matthews-mint-hill-road-mint-hill",
+  "name": "Mint Hill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7601 Matthews Mint Hill Road Mint Hill, NC",
+  "locationCity": "7601 Matthews Mint Hill Road Mint Hill",
+  "locationState": "NC",
+  "locationZipcode": "28227",
+  "lat": 35.17702338163593,
+  "lon": -80.65189169901242,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

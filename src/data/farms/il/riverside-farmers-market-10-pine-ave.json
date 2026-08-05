@@ -1,0 +1,19 @@
+{
+  "slug": "riverside-farmers-market-10-pine-ave",
+  "name": "Riverside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Pine Ave., IL",
+  "locationCity": "10 Pine Ave.",
+  "locationState": "IL",
+  "locationZipcode": "60546",
+  "lat": 41.8277856,
+  "lon": -87.820102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.953Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.953Z"
+}

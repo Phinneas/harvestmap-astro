@@ -1,0 +1,20 @@
+{
+  "slug": "the-common-sense-farm-41-north-union-street",
+  "name": "The Common Sense Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "41 North Union Street, NY",
+  "locationCity": "41 North Union Street",
+  "locationState": "NY",
+  "locationZipcode": "12816",
+  "lat": 43.0341470069411,
+  "lon": -73.3817168573764,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.395Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.395Z",
+  "crops": []
+}

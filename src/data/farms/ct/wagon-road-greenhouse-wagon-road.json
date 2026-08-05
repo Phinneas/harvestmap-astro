@@ -1,0 +1,19 @@
+{
+  "slug": "wagon-road-greenhouse-wagon-road",
+  "name": "Wagon Road Greenhouse",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Wagon Road, CT",
+  "locationCity": "Wagon Road",
+  "locationState": "CT",
+  "locationZipcode": "06239",
+  "lat": 41.78828791805046,
+  "lon": -71.81087870601937,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

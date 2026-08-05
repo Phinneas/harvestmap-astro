@@ -1,0 +1,19 @@
+{
+  "slug": "waterfront-farmers-market-of-gig-harbor-3211-harborview-drive",
+  "name": "Waterfront Farmers Market of Gig Harbor",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3211 Harborview Drive, WA",
+  "locationCity": "3211 Harborview Drive",
+  "locationState": "WA",
+  "locationZipcode": "98335",
+  "lat": 47.330952,
+  "lon": -122.58127,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.749Z"
+}

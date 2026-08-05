@@ -1,0 +1,19 @@
+{
+  "slug": "merryvale-farm-15873-general-puller-highway",
+  "name": "Merryvale Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "15873 General Puller Highway, VA",
+  "locationCity": "15873 General Puller Highway",
+  "locationState": "VA",
+  "locationZipcode": "15873",
+  "lat": 37.5565330067447,
+  "lon": -76.36294398287448,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.404Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.404Z"
+}

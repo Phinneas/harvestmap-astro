@@ -1,0 +1,19 @@
+{
+  "slug": "beck-s-farm-134-w-tama-road",
+  "name": "Beck's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "134 W. Tama Road, IA",
+  "locationCity": "134 W. Tama Road",
+  "locationState": "IA",
+  "locationZipcode": "50612",
+  "lat": 42.3119762224418,
+  "lon": -92.3600275445632,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.733Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.733Z"
+}

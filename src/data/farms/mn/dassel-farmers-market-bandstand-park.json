@@ -1,0 +1,19 @@
+{
+  "slug": "dassel-farmers-market-bandstand-park",
+  "name": "Dassel Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Bandstand Park, MN",
+  "locationCity": "Bandstand Park",
+  "locationState": "MN",
+  "locationZipcode": "55325",
+  "lat": 45.079729,
+  "lon": -94.310693,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "vine-grove-farmers-market-104-w-main-street-vine-grove",
+  "name": "Vine Grove Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "104 W. Main Street Vine Grove, KY",
+  "locationCity": "104 W. Main Street Vine Grove",
+  "locationState": "KY",
+  "locationZipcode": "40175",
+  "lat": 37.810207788119534,
+  "lon": -85.98137695554466,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

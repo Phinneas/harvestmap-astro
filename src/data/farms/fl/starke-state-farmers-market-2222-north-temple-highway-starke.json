@@ -1,0 +1,19 @@
+{
+  "slug": "starke-state-farmers-market-2222-north-temple-highway-starke",
+  "name": "Starke State Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2222 North Temple Highway Starke, FL",
+  "locationCity": "2222 North Temple Highway Starke",
+  "locationState": "FL",
+  "locationZipcode": "32091",
+  "lat": 29.967615439951306,
+  "lon": -82.10295748732753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

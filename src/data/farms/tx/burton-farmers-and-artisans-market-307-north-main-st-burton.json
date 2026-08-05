@@ -1,0 +1,19 @@
+{
+  "slug": "burton-farmers-and-artisans-market-307-north-main-st-burton",
+  "name": "Burton Farmers and Artisans Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "307 North Main St. Burton, TX",
+  "locationCity": "307 North Main St. Burton",
+  "locationState": "TX",
+  "locationZipcode": "77835",
+  "lat": 30.18119213244799,
+  "lon": -96.59464918522157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "harrison-city-market-121-e-main-street",
+  "name": "Harrison City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 E. Main Street, MI",
+  "locationCity": "121 E. Main Street",
+  "locationState": "MI",
+  "locationZipcode": "48625",
+  "lat": 44.019859,
+  "lon": -84.800573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.197Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.197Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "elberta-farmers-market-24978-state-street",
+  "name": "Elberta Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24978 State Street, AL",
+  "locationCity": "24978 State Street",
+  "locationState": "AL",
+  "locationZipcode": "24978",
+  "lat": 30.41431378098425,
+  "lon": -87.5990702977479,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.018Z"
+}

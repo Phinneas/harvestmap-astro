@@ -1,0 +1,19 @@
+{
+  "slug": "doles-orchard-311-elm-st",
+  "name": "Doles Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "311 Elm St, ME",
+  "locationCity": "311 Elm St",
+  "locationState": "ME",
+  "locationZipcode": "04256",
+  "lat": 44.0938015813445,
+  "lon": -70.3793387535863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.815Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.815Z"
+}

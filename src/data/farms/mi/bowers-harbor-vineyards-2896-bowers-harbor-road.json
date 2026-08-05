@@ -1,0 +1,19 @@
+{
+  "slug": "bowers-harbor-vineyards-2896-bowers-harbor-road",
+  "name": "Bowers Harbor Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2896 Bowers Harbor Road, MI",
+  "locationCity": "2896 Bowers Harbor Road",
+  "locationState": "MI",
+  "locationZipcode": "49686",
+  "lat": 44.8917074244897,
+  "lon": -85.5172849658491,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.681Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "brooks-farm-1924-hobbs-rd",
+  "name": "Brooks Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1924 Hobbs Rd., KY",
+  "locationCity": "1924 Hobbs Rd.",
+  "locationState": "KY",
+  "locationZipcode": "40144",
+  "lat": 37.8470766,
+  "lon": -86.3956514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.100Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.100Z"
+}

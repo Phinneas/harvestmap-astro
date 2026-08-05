@@ -1,0 +1,19 @@
+{
+  "slug": "geary-community-farmers-market-1025-s-washington",
+  "name": "Geary Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1025 S Washington, KS",
+  "locationCity": "1025 S Washington",
+  "locationState": "KS",
+  "locationZipcode": "66441",
+  "lat": 39.01020400180025,
+  "lon": -96.83198002019523,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

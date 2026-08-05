@@ -1,0 +1,19 @@
+{
+  "slug": "dalton-farm-660-oak-grove-rd",
+  "name": "Dalton Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "660 Oak Grove Rd, NJ",
+  "locationCity": "660 Oak Grove Rd",
+  "locationState": "NJ",
+  "locationZipcode": "08085",
+  "lat": 39.7846709842722,
+  "lon": -75.324357028736,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.195Z"
+}

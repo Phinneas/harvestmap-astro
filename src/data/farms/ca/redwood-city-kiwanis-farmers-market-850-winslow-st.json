@@ -1,0 +1,19 @@
+{
+  "slug": "redwood-city-kiwanis-farmers-market-850-winslow-st",
+  "name": "Redwood City Kiwanis Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "850 WINSLOW ST, CA",
+  "locationCity": "850 WINSLOW ST",
+  "locationState": "CA",
+  "locationZipcode": "94063",
+  "lat": 37.48567984990416,
+  "lon": -122.23085495838758,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

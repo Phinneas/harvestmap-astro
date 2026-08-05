@@ -1,0 +1,20 @@
+{
+  "slug": "mark-s-melon-patch-580-albany-hwy",
+  "name": "Mark's Melon Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "580 Albany Hwy, GA",
+  "locationCity": "580 Albany Hwy",
+  "locationState": "GA",
+  "locationZipcode": "39885",
+  "lat": 31.7193274716807,
+  "lon": -84.3485869108171,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.300Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.300Z",
+  "crops": []
+}

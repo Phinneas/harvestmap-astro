@@ -1,0 +1,19 @@
+{
+  "slug": "turner-farm-400-given-road",
+  "name": "Turner Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "400 Given Road, OH",
+  "locationCity": "400 Given Road",
+  "locationState": "OH",
+  "locationZipcode": "45243",
+  "lat": 39.2236587023214,
+  "lon": -84.3215563364064,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.906Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.906Z"
+}

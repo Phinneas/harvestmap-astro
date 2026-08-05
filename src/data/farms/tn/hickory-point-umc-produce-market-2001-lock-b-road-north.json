@@ -1,0 +1,19 @@
+{
+  "slug": "hickory-point-umc-produce-market-2001-lock-b-road-north",
+  "name": "Hickory Point UMC Produce Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2001 Lock B Road North, TN",
+  "locationCity": "2001 Lock B Road North",
+  "locationState": "TN",
+  "locationZipcode": "37043",
+  "lat": 36.433597,
+  "lon": -87.24862,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.300Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.300Z"
+}

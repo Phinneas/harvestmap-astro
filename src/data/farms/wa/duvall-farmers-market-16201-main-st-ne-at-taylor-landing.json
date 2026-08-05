@@ -1,0 +1,19 @@
+{
+  "slug": "duvall-farmers-market-16201-main-st-ne-at-taylor-landing",
+  "name": "Duvall Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16201 Main St. NE at Taylor Landing, WA",
+  "locationCity": "16201 Main St. NE at Taylor Landing",
+  "locationState": "WA",
+  "locationZipcode": "16201",
+  "lat": 47.744679,
+  "lon": -121.98641,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.820Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.820Z"
+}

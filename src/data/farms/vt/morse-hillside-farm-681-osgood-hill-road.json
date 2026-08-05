@@ -1,0 +1,20 @@
+{
+  "slug": "morse-hillside-farm-681-osgood-hill-road",
+  "name": "Morse Hillside Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "681 Osgood Hill Road, VT",
+  "locationCity": "681 Osgood Hill Road",
+  "locationState": "VT",
+  "locationZipcode": "05494",
+  "lat": 44.5647849955432,
+  "lon": -72.9998090178705,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.126Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.126Z",
+  "crops": []
+}

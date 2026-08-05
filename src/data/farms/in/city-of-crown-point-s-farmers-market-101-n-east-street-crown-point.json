@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-crown-point-s-farmers-market-101-n-east-street-crown-point",
+  "name": "City of Crown Point's Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 N. East Street Crown Point, IN",
+  "locationCity": "101 N. East Street Crown Point",
+  "locationState": "IN",
+  "locationZipcode": "46307",
+  "lat": 41.41815454029301,
+  "lon": -87.3631922685897,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dig-nation-farm-8141-apple-st",
+  "name": "Dig Nation Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8141 Apple St, LA",
+  "locationCity": "8141 Apple St",
+  "locationState": "LA",
+  "locationZipcode": "70118",
+  "lat": 29.958297000247185,
+  "lon": -90.11955397674794,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

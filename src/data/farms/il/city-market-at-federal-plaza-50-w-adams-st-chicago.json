@@ -1,0 +1,19 @@
+{
+  "slug": "city-market-at-federal-plaza-50-w-adams-st-chicago",
+  "name": "City Market at Federal Plaza",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50 W. Adams St. Chicago, IL",
+  "locationCity": "50 W. Adams St. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60604",
+  "lat": 41.87943089333168,
+  "lon": -87.63009698317038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

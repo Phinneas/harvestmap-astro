@@ -1,0 +1,19 @@
+{
+  "slug": "groundworks-farm-po-box-118",
+  "name": "Groundworks Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 118, MT",
+  "locationCity": "PO Box 118",
+  "locationState": "MT",
+  "locationZipcode": "59443",
+  "lat": 47.5055075,
+  "lon": -111.8102651,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:15.482Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:15.482Z"
+}

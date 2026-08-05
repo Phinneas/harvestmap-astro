@@ -1,0 +1,19 @@
+{
+  "slug": "craft-s-blueberry-farm-060-eastaboga-road",
+  "name": "Craft's Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "060 Eastaboga Road, AL",
+  "locationCity": "060 Eastaboga Road",
+  "locationState": "AL",
+  "locationZipcode": "35160",
+  "lat": 33.4531169601274,
+  "lon": -86.0530509433764,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.420Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.420Z"
+}

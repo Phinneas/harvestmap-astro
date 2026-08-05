@@ -1,0 +1,20 @@
+{
+  "slug": "gagnon-family-orchard-75-saunders-road",
+  "name": "Gagnon Family Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "75 Saunders Road, ME",
+  "locationCity": "75 Saunders Road",
+  "locationState": "ME",
+  "locationZipcode": "04236",
+  "lat": 44.1724076979665,
+  "lon": -70.1796534891146,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.872Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.872Z",
+  "crops": []
+}

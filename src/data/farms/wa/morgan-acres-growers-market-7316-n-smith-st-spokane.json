@@ -1,0 +1,19 @@
+{
+  "slug": "morgan-acres-growers-market-7316-n-smith-st-spokane",
+  "name": "Morgan Acres Growers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7316 N Smith St. Spokane, WA",
+  "locationCity": "7316 N Smith St. Spokane",
+  "locationState": "WA",
+  "locationZipcode": "99217",
+  "lat": 47.723713995348646,
+  "lon": -117.37172053342861,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.816Z"
+}

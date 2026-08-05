@@ -1,0 +1,19 @@
+{
+  "slug": "greensburg-farmers-market-150-courthouse-square-greensburg",
+  "name": "Greensburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 Courthouse Square Greensburg, IN",
+  "locationCity": "150 Courthouse Square Greensburg",
+  "locationState": "IN",
+  "locationZipcode": "47240",
+  "lat": 39.337285980273634,
+  "lon": -85.48352098347783,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

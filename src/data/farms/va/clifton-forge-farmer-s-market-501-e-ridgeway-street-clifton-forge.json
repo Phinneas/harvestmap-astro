@@ -1,0 +1,19 @@
+{
+  "slug": "clifton-forge-farmer-s-market-501-e-ridgeway-street-clifton-forge",
+  "name": "Clifton Forge Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "501 E. Ridgeway Street Clifton Forge, VA",
+  "locationCity": "501 E. Ridgeway Street Clifton Forge",
+  "locationState": "VA",
+  "locationZipcode": "24422",
+  "lat": 37.81565269146731,
+  "lon": -79.82579486345466,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

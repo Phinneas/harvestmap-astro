@@ -1,0 +1,19 @@
+{
+  "slug": "riverhill-farm-500-cement-hill-road",
+  "name": "Riverhill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 Cement Hill Road, NV",
+  "locationCity": "500 Cement Hill Road",
+  "locationState": "NV",
+  "locationZipcode": "95959",
+  "lat": 39.2831468969025,
+  "lon": -121.050742137706,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:11.082Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:11.082Z"
+}

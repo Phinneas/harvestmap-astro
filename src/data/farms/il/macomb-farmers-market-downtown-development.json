@@ -1,0 +1,19 @@
+{
+  "slug": "macomb-farmers-market-downtown-development",
+  "name": "Macomb Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "downtown development, IL",
+  "locationCity": "downtown development",
+  "locationState": "IL",
+  "locationZipcode": "61455",
+  "lat": 40.45913000146817,
+  "lon": -90.66935997021821,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

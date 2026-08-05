@@ -1,0 +1,19 @@
+{
+  "slug": "ohsu-farmers-market-mailcode-l338",
+  "name": "OHSU Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Mailcode L338, OR",
+  "locationCity": "Mailcode L338",
+  "locationState": "OR",
+  "locationZipcode": "97239",
+  "lat": 45.499865,
+  "lon": -122.6877,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.248Z"
+}

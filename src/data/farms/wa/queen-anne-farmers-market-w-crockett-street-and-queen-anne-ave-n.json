@@ -1,0 +1,19 @@
+{
+  "slug": "queen-anne-farmers-market-w-crockett-street-and-queen-anne-ave-n",
+  "name": "Queen Anne Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "W Crockett Street and Queen Anne Ave N, WA",
+  "locationCity": "W Crockett Street and Queen Anne Ave N",
+  "locationState": "WA",
+  "locationZipcode": "98109",
+  "lat": 47.637172,
+  "lon": -122.3576,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.700Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "daisy-field-farm-248-elmira-street",
+  "name": "Daisy Field Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "248 Elmira Street, PA",
+  "locationCity": "248 Elmira Street",
+  "locationState": "PA",
+  "locationZipcode": "18661",
+  "lat": 41.06303,
+  "lon": -75.77601,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.147Z"
+}

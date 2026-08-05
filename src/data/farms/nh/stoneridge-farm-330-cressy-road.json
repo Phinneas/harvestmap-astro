@@ -1,0 +1,19 @@
+{
+  "slug": "stoneridge-farm-330-cressy-road",
+  "name": "Stoneridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "330 Cressy Road, NH",
+  "locationCity": "330 Cressy Road",
+  "locationState": "NH",
+  "locationZipcode": "03221",
+  "lat": 43.2487660149339,
+  "lon": -71.9623510222707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.728Z"
+}

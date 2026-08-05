@@ -1,0 +1,19 @@
+{
+  "slug": "holden-brothers-farm-market-55600-ocean-hwy-west",
+  "name": "Holden Brothers Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "55600 Ocean Hwy. West, NC",
+  "locationCity": "55600 Ocean Hwy. West",
+  "locationState": "NC",
+  "locationZipcode": "55600",
+  "lat": 33.95944565809967,
+  "lon": -78.4200859054155,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.461Z"
+}

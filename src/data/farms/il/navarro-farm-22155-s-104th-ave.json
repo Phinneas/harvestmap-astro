@@ -1,0 +1,20 @@
+{
+  "slug": "navarro-farm-22155-s-104th-ave",
+  "name": "Navarro Farm",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "22155 S.104th Ave., IL",
+  "locationCity": "22155 S.104th Ave.",
+  "locationState": "IL",
+  "locationZipcode": "22155",
+  "lat": 41.488007,
+  "lon": -87.867562,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.953Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.953Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "paramount-farmers-market-15500-downey-ave",
+  "name": "Paramount Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15500 Downey Ave., CA",
+  "locationCity": "15500 Downey Ave.",
+  "locationState": "CA",
+  "locationZipcode": "15500",
+  "lat": 33.8927064270831,
+  "lon": -118.15130614491807,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

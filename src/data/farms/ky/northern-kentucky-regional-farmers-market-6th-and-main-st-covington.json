@@ -1,0 +1,19 @@
+{
+  "slug": "northern-kentucky-regional-farmers-market-6th-and-main-st-covington",
+  "name": "Northern Kentucky Regional Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6th and Main St. Covington, KY",
+  "locationCity": "6th and Main St. Covington",
+  "locationState": "KY",
+  "locationZipcode": "41016",
+  "lat": 39.0842760292309,
+  "lon": -84.56130026280813,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

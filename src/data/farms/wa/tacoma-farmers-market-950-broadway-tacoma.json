@@ -1,0 +1,19 @@
+{
+  "slug": "tacoma-farmers-market-950-broadway-tacoma",
+  "name": "Tacoma Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "950 Broadway Tacoma, WA",
+  "locationCity": "950 Broadway Tacoma",
+  "locationState": "WA",
+  "locationZipcode": "98402",
+  "lat": 47.254691028629104,
+  "lon": -122.44044140042173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

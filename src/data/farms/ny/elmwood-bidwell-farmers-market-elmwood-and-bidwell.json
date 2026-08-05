@@ -1,0 +1,19 @@
+{
+  "slug": "elmwood-bidwell-farmers-market-elmwood-and-bidwell",
+  "name": "Elmwood Bidwell Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Elmwood and Bidwell, NY",
+  "locationCity": "Elmwood and Bidwell",
+  "locationState": "NY",
+  "locationZipcode": "14221",
+  "lat": 42.923862,
+  "lon": -78.877625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.906Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.906Z"
+}

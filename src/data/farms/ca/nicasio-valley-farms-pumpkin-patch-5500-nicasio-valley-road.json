@@ -1,0 +1,19 @@
+{
+  "slug": "nicasio-valley-farms-pumpkin-patch-5500-nicasio-valley-road",
+  "name": "Nicasio Valley Farms Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5500 Nicasio Valley Road, CA",
+  "locationCity": "5500 Nicasio Valley Road",
+  "locationState": "CA",
+  "locationZipcode": "94946",
+  "lat": 38.0737590035767,
+  "lon": -122.699589004135,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.785Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.785Z"
+}

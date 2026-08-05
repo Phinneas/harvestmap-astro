@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-days-main-street-hahira",
+  "name": "Farmers Market Days",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street Hahira, GA",
+  "locationCity": "Main Street Hahira",
+  "locationState": "GA",
+  "locationZipcode": "31632",
+  "lat": 30.990028362919148,
+  "lon": -83.3780349933437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hnh-blueberry-farm-bostwick-park-drive",
+  "name": "HNH Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bostwick Park Drive, FL",
+  "locationCity": "Bostwick Park Drive",
+  "locationState": "FL",
+  "locationZipcode": "32177",
+  "lat": 29.7841140114628,
+  "lon": -81.6394999724065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.803Z"
+}

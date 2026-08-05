@@ -1,0 +1,19 @@
+{
+  "slug": "king-s-market-2559-hwy-174",
+  "name": "King's Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2559 Hwy. 174, SC",
+  "locationCity": "2559 Hwy. 174",
+  "locationState": "SC",
+  "locationZipcode": "29449",
+  "lat": 32.58089337618132,
+  "lon": -80.33466538429943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.221Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-farm-market-262-n-main-street-lambertville",
+  "name": "Homestead Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "262 N. Main Street Lambertville, NJ",
+  "locationCity": "262 N. Main Street Lambertville",
+  "locationState": "NJ",
+  "locationZipcode": "08530",
+  "lat": 40.374959048108046,
+  "lon": -74.94545262595514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

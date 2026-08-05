@@ -1,0 +1,19 @@
+{
+  "slug": "first-ny-federal-credit-union-farmers-market-2-wall-street-albany",
+  "name": "First NY Federal Credit Union Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 Wall Street Albany, NY",
+  "locationCity": "2 Wall Street Albany",
+  "locationState": "NY",
+  "locationZipcode": "12205",
+  "lat": 42.741385161027615,
+  "lon": -73.8412458153467,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

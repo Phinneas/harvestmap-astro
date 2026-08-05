@@ -1,0 +1,19 @@
+{
+  "slug": "nashville-grown-4611-alabama-ave",
+  "name": "Nashville Grown",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "4611 Alabama Ave, TN",
+  "locationCity": "4611 Alabama Ave",
+  "locationState": "TN",
+  "locationZipcode": "37209",
+  "lat": 36.1530043,
+  "lon": -86.843327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:33.533Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:33.533Z"
+}

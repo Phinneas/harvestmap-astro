@@ -1,0 +1,19 @@
+{
+  "slug": "newton-s-blueberry-farm-hwy-30",
+  "name": "Newton's Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hwy 30, AL",
+  "locationCity": "Hwy 30",
+  "locationState": "AL",
+  "locationZipcode": "36033",
+  "lat": 31.7661999689337,
+  "lon": -86.7818523100711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.660Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.660Z"
+}

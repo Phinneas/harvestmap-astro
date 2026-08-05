@@ -1,0 +1,19 @@
+{
+  "slug": "field-to-fork-farm-522-haverhill-rd",
+  "name": "Field To Fork Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "522 Haverhill Rd, NH",
+  "locationCity": "522 Haverhill Rd",
+  "locationState": "NH",
+  "locationZipcode": "03036",
+  "lat": 42.92811999699478,
+  "lon": -71.23693401517204,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.944Z"
+}

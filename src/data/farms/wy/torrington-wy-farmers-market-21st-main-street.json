@@ -1,0 +1,19 @@
+{
+  "slug": "torrington-wy-farmers-market-21st-main-street",
+  "name": "Torrington WY Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "21st & Main Street, WY",
+  "locationCity": "21st & Main Street",
+  "locationState": "WY",
+  "locationZipcode": "82240",
+  "lat": 42.064541,
+  "lon": -104.18407,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.190Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.190Z"
+}

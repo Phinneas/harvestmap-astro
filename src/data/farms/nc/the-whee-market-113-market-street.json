@@ -1,0 +1,19 @@
+{
+  "slug": "the-whee-market-113-market-street",
+  "name": "The 'Whee Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "113 Market Street, NC",
+  "locationCity": "113 Market Street",
+  "locationState": "NC",
+  "locationZipcode": "28723",
+  "lat": 35.301188,
+  "lon": -83.18569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.268Z"
+}

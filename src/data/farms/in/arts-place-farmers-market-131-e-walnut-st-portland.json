@@ -1,0 +1,19 @@
+{
+  "slug": "arts-place-farmers-market-131-e-walnut-st-portland",
+  "name": "Arts Place Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "131 E. Walnut St. Portland, IN",
+  "locationCity": "131 E. Walnut St. Portland",
+  "locationState": "IN",
+  "locationZipcode": "47371",
+  "lat": 40.43435565954646,
+  "lon": -84.97724388313084,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

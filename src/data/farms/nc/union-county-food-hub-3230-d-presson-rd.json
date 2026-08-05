@@ -1,0 +1,19 @@
+{
+  "slug": "union-county-food-hub-3230-d-presson-rd",
+  "name": "Union County Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3230-D Presson Rd, NC",
+  "locationCity": "3230-D Presson Rd",
+  "locationState": "NC",
+  "locationZipcode": "28112",
+  "lat": 34.97960610081424,
+  "lon": -80.47429079211983,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.329Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.329Z"
+}

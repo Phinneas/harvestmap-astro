@@ -1,0 +1,20 @@
+{
+  "slug": "highland-farm-4235-tower-hill-road-us-route-1",
+  "name": "Highland Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4235 Tower Hill Road / US Route 1, RI",
+  "locationCity": "4235 Tower Hill Road / US Route 1",
+  "locationState": "RI",
+  "locationZipcode": "02879",
+  "lat": 41.463724985469,
+  "lon": -71.465591998522,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:30.928Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:30.928Z",
+  "crops": []
+}

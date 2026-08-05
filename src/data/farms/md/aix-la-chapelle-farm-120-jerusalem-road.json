@@ -1,0 +1,19 @@
+{
+  "slug": "aix-la-chapelle-farm-120-jerusalem-road",
+  "name": "Aix La Chapelle Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "120 Jerusalem Road, MD",
+  "locationCity": "120 Jerusalem Road",
+  "locationState": "MD",
+  "locationZipcode": "20837",
+  "lat": 39.1595647849572,
+  "lon": -77.4059608071779,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.120Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.120Z"
+}

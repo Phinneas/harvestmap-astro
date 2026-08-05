@@ -1,0 +1,20 @@
+{
+  "slug": "honey-creek-farm-101-trillium",
+  "name": "Honey Creek Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Trillium, IL",
+  "locationCity": "101 Trillium",
+  "locationState": "IL",
+  "locationZipcode": "62707",
+  "lat": 39.9162539979053,
+  "lon": -89.6569310080525,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.830Z",
+  "crops": []
+}

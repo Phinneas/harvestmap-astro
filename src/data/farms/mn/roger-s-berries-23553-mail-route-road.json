@@ -1,0 +1,19 @@
+{
+  "slug": "roger-s-berries-23553-mail-route-road",
+  "name": "Roger's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "23553 Mail Route Road, MN",
+  "locationCity": "23553 Mail Route Road",
+  "locationState": "MN",
+  "locationZipcode": "23553",
+  "lat": 46.3229619834213,
+  "lon": -93.9041069773511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.731Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.731Z"
+}

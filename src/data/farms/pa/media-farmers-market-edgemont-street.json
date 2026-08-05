@@ -1,0 +1,19 @@
+{
+  "slug": "media-farmers-market-edgemont-street",
+  "name": "Media Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Edgemont Street, PA",
+  "locationCity": "Edgemont Street",
+  "locationState": "PA",
+  "locationZipcode": "19063",
+  "lat": 39.917838,
+  "lon": -75.385551,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.008Z"
+}

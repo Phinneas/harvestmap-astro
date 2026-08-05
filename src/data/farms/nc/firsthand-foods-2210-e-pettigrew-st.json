@@ -1,0 +1,19 @@
+{
+  "slug": "firsthand-foods-2210-e-pettigrew-st",
+  "name": "Firsthand Foods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2210 E Pettigrew St, NC",
+  "locationCity": "2210 E Pettigrew St",
+  "locationState": "NC",
+  "locationZipcode": "27703",
+  "lat": 35.978466102843385,
+  "lon": -78.87757369264847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.322Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.322Z"
+}

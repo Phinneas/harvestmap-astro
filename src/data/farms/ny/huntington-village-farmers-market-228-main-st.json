@@ -1,0 +1,19 @@
+{
+  "slug": "huntington-village-farmers-market-228-main-st",
+  "name": "Huntington Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "228 Main St, NY",
+  "locationCity": "228 Main St",
+  "locationState": "NY",
+  "locationZipcode": "11743",
+  "lat": 40.87156319527741,
+  "lon": -73.4246876631962,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "riverbend-farm-150-mcmanus-rd",
+  "name": "Riverbend Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "150 McManus Rd, NC",
+  "locationCity": "150 McManus Rd",
+  "locationState": "NC",
+  "locationZipcode": "28107",
+  "lat": 35.2520567204512,
+  "lon": -80.4835921807277,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.801Z"
+}

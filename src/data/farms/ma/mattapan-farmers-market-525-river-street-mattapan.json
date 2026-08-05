@@ -1,0 +1,19 @@
+{
+  "slug": "mattapan-farmers-market-525-river-street-mattapan",
+  "name": "Mattapan Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "525 River Street Mattapan, MA",
+  "locationCity": "525 River Street Mattapan",
+  "locationState": "MA",
+  "locationZipcode": "02126",
+  "lat": 42.2671484987703,
+  "lon": -71.09485561111725,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.865Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.865Z"
+}

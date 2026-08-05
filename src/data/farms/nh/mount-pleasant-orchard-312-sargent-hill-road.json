@@ -1,0 +1,19 @@
+{
+  "slug": "mount-pleasant-orchard-312-sargent-hill-road",
+  "name": "Mount Pleasant Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "312 Sargent Hill Road, NH",
+  "locationCity": "312 Sargent Hill Road",
+  "locationState": "NH",
+  "locationZipcode": "03240",
+  "lat": 43.5498739842092,
+  "lon": -71.9406360257141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.584Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.584Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pahl-farms-6885-160th-st-w",
+  "name": "Pahl Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6885 160th St W, MN",
+  "locationCity": "6885 160th St W",
+  "locationState": "MN",
+  "locationZipcode": "55124",
+  "lat": 44.7181989,
+  "lon": -93.2052734,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.177Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.177Z"
+}

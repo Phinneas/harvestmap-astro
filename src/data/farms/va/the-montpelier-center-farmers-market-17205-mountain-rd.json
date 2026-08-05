@@ -1,0 +1,19 @@
+{
+  "slug": "the-montpelier-center-farmers-market-17205-mountain-rd",
+  "name": "The Montpelier Center Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17205 Mountain Rd, VA",
+  "locationCity": "17205 Mountain Rd",
+  "locationState": "VA",
+  "locationZipcode": "17205",
+  "lat": 37.82393764458326,
+  "lon": -77.68831487082555,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

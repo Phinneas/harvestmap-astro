@@ -1,0 +1,19 @@
+{
+  "slug": "hillview-blueberry-farm-990-bean-station-road",
+  "name": "Hillview Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "990 Bean Station Road, NY",
+  "locationCity": "990 Bean Station Road",
+  "locationState": "NY",
+  "locationZipcode": "14873",
+  "lat": 42.4859520850716,
+  "lon": -77.2842456860543,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.909Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.909Z"
+}

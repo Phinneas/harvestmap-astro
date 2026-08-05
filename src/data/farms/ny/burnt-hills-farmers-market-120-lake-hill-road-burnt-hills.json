@@ -1,0 +1,19 @@
+{
+  "slug": "burnt-hills-farmers-market-120-lake-hill-road-burnt-hills",
+  "name": "Burnt Hills Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 Lake Hill Road Burnt Hills, NY",
+  "locationCity": "120 Lake Hill Road Burnt Hills",
+  "locationState": "NY",
+  "locationZipcode": "12027",
+  "lat": 42.910335175336265,
+  "lon": -73.89862030363017,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

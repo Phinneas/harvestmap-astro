@@ -1,0 +1,19 @@
+{
+  "slug": "rich-farms-2043-springhill-furnace-road",
+  "name": "Rich Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2043 Springhill Furnace Road, PA",
+  "locationCity": "2043 Springhill Furnace Road",
+  "locationState": "PA",
+  "locationZipcode": "15478",
+  "lat": 39.7575820143137,
+  "lon": -79.7923730126547,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.140Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.140Z"
+}

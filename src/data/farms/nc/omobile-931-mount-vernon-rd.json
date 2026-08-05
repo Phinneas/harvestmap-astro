@@ -1,0 +1,19 @@
+{
+  "slug": "omobile-931-mount-vernon-rd",
+  "name": "Omobile",
+  "source": "usda",
+  "directory": "csa",
+  "location": "931 mount vernon rd, NC",
+  "locationCity": "931 mount vernon rd",
+  "locationState": "NC",
+  "locationZipcode": "27054",
+  "lat": 35.79887301465443,
+  "lon": -80.6402994974704,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.894Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.894Z"
+}

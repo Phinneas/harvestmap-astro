@@ -1,0 +1,19 @@
+{
+  "slug": "peoria-road-farm-market-33269-peoria-road",
+  "name": "Peoria Road Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "33269 Peoria Road, OR",
+  "locationCity": "33269 Peoria Road",
+  "locationState": "OR",
+  "locationZipcode": "33269",
+  "lat": 44.546417018653074,
+  "lon": -123.21341802515715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.522Z"
+}

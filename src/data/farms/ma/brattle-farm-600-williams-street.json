@@ -1,0 +1,19 @@
+{
+  "slug": "brattle-farm-600-williams-street",
+  "name": "Brattle Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "600 Williams Street, MA",
+  "locationCity": "600 Williams Street",
+  "locationState": "MA",
+  "locationZipcode": "01201",
+  "lat": 42.43243104891499,
+  "lon": -73.21744203251667,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.706Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.706Z"
+}

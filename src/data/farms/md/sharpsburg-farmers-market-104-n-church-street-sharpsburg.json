@@ -1,0 +1,19 @@
+{
+  "slug": "sharpsburg-farmers-market-104-n-church-street-sharpsburg",
+  "name": "Sharpsburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "104 N Church Street Sharpsburg, MD",
+  "locationCity": "104 N Church Street Sharpsburg",
+  "locationState": "MD",
+  "locationZipcode": "21782",
+  "lat": 39.459815974451594,
+  "lon": -77.74648539495595,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

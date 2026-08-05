@@ -1,0 +1,19 @@
+{
+  "slug": "waldoch-farm-174-lake-drive",
+  "name": "Waldoch Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "174 Lake Drive, MN",
+  "locationCity": "174 Lake Drive",
+  "locationState": "MN",
+  "locationZipcode": "55014",
+  "lat": 45.1614197918132,
+  "lon": -93.1242891045359,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.750Z"
+}

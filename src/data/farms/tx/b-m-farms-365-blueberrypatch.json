@@ -1,0 +1,20 @@
+{
+  "slug": "b-m-farms-365-blueberrypatch",
+  "name": "B&M Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "365 Blueberrypatch, TX",
+  "locationCity": "365 Blueberrypatch",
+  "locationState": "TX",
+  "locationZipcode": "77656",
+  "lat": 30.3979188898746,
+  "lon": -94.246288222755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.454Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.454Z",
+  "crops": []
+}

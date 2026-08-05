@@ -1,0 +1,19 @@
+{
+  "slug": "gorman-farm-151-gorman-rd",
+  "name": "Gorman Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "151 Gorman Rd, MD",
+  "locationCity": "151 Gorman Rd",
+  "locationState": "MD",
+  "locationZipcode": "20723",
+  "lat": 39.1516703525625,
+  "lon": -76.8636930956814,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.141Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.141Z"
+}

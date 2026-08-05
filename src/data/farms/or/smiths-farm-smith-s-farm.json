@@ -1,0 +1,17 @@
+{
+  "slug": "smiths-farm-smith-s-farm",
+  "name": "Smiths Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Smith's Farm, OR",
+  "locationCity": "Smith's Farm",
+  "locationState": "OR",
+  "locationZipcode": "97023",
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.069Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "grand-prairie-farmers-market-120-w-main-st-grand-prairie",
+  "name": "Grand Prairie Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 W Main St Grand Prairie, TX",
+  "locationCity": "120 W Main St Grand Prairie",
+  "locationState": "TX",
+  "locationZipcode": "75050",
+  "lat": 32.745478216780015,
+  "lon": -97.00392234489625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

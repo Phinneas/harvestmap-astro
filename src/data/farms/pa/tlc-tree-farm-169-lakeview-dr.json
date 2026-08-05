@@ -1,0 +1,19 @@
+{
+  "slug": "tlc-tree-farm-169-lakeview-dr",
+  "name": "TLC Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "169 Lakeview Dr, PA",
+  "locationCity": "169 Lakeview Dr",
+  "locationState": "PA",
+  "locationZipcode": "15044",
+  "lat": 40.6085416851853,
+  "lon": -79.9642509967701,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.132Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.132Z"
+}

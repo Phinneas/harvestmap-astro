@@ -1,0 +1,20 @@
+{
+  "slug": "hatch-s-blueberry-patch-329-southwest-elim-church-road",
+  "name": "Hatch's Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "329 Southwest Elim Church Road, FL",
+  "locationCity": "329 Southwest Elim Church Road",
+  "locationState": "FL",
+  "locationZipcode": "32038",
+  "lat": 29.9343900102816,
+  "lon": -82.6495310397118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.802Z",
+  "crops": []
+}

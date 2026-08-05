@@ -1,0 +1,19 @@
+{
+  "slug": "garden-ridge-farmers-market-9400-municipal-parkway-garden-ridge",
+  "name": "Garden Ridge Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9400 MUNICIPAL PARKWAY Garden Ridge, TX",
+  "locationCity": "9400 MUNICIPAL PARKWAY Garden Ridge",
+  "locationState": "TX",
+  "locationZipcode": "78266",
+  "lat": 29.639260309681873,
+  "lon": -98.30123659957437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

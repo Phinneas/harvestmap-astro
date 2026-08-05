@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-hub-5720-west-end-road",
+  "name": "Harvest Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5720 West End Road, CA",
+  "locationCity": "5720 West End Road",
+  "locationState": "CA",
+  "locationZipcode": "95521",
+  "lat": 40.906905979340394,
+  "lon": -124.07089099477552,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

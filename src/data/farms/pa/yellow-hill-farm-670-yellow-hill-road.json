@@ -1,0 +1,20 @@
+{
+  "slug": "yellow-hill-farm-670-yellow-hill-road",
+  "name": "Yellow Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "670 Yellow Hill Road, PA",
+  "locationCity": "670 Yellow Hill Road",
+  "locationState": "PA",
+  "locationZipcode": "17307",
+  "lat": 39.93893798437853,
+  "lon": -77.26356799586843,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.225Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.225Z",
+  "crops": []
+}

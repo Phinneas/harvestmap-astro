@@ -1,0 +1,19 @@
+{
+  "slug": "park-rapids-farmers-market-910-1st-st-e",
+  "name": "Park Rapids Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "910 1st St E, MN",
+  "locationCity": "910 1st St E",
+  "locationState": "MN",
+  "locationZipcode": "56470",
+  "lat": 46.9216133,
+  "lon": -95.0434652,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

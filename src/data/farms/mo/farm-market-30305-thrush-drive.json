@@ -1,0 +1,19 @@
+{
+  "slug": "farm-market-30305-thrush-drive",
+  "name": "Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "30305 Thrush Drive, MO",
+  "locationCity": "30305 Thrush Drive",
+  "locationState": "MO",
+  "locationZipcode": "30305",
+  "lat": 37.777003,
+  "lon": -92.443898,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:58.501Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:58.501Z"
+}

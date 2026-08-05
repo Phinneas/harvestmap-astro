@@ -1,0 +1,19 @@
+{
+  "slug": "ballou-s-farm-550-golden-road",
+  "name": "Ballou's Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "550 Golden Road, CA",
+  "locationCity": "550 Golden Road",
+  "locationState": "CA",
+  "locationZipcode": "92028",
+  "lat": 33.372504,
+  "lon": -117.24439,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.935Z"
+}

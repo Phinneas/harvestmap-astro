@@ -1,0 +1,19 @@
+{
+  "slug": "powers-spalding-farmers-market-n16087-main-st-powers",
+  "name": "Powers Spalding Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N16087 MAIN ST POWERS, MI",
+  "locationCity": "N16087 MAIN ST POWERS",
+  "locationState": "MI",
+  "locationZipcode": "49874",
+  "lat": 45.69375915295835,
+  "lon": -87.52126857844421,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

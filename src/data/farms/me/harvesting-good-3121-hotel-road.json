@@ -1,0 +1,19 @@
+{
+  "slug": "harvesting-good-3121-hotel-road",
+  "name": "Harvesting Good",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3121 Hotel Road, ME",
+  "locationCity": "3121 Hotel Road",
+  "locationState": "ME",
+  "locationZipcode": "04211",
+  "lat": 44.030899421326296,
+  "lon": -70.28881310964414,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:58.259Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:58.259Z"
+}

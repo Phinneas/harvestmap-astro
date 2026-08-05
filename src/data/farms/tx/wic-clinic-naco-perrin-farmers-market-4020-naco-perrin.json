@@ -1,0 +1,19 @@
+{
+  "slug": "wic-clinic-naco-perrin-farmers-market-4020-naco-perrin",
+  "name": "WIC Clinic Naco-Perrin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4020 Naco Perrin, TX",
+  "locationCity": "4020 Naco Perrin",
+  "locationState": "TX",
+  "locationZipcode": "78217",
+  "lat": 29.472403,
+  "lon": -98.525142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.049Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.049Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "brookhaven-farmers-market-4101-edgmont-ave-brookhaven",
+  "name": "Brookhaven Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4101 Edgmont Ave. Brookhaven, PA",
+  "locationCity": "4101 Edgmont Ave. Brookhaven",
+  "locationState": "PA",
+  "locationZipcode": "19015",
+  "lat": 39.87323038305947,
+  "lon": -75.3894193180046,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

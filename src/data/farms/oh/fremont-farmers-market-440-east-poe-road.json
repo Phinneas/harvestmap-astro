@@ -1,0 +1,19 @@
+{
+  "slug": "fremont-farmers-market-440-east-poe-road",
+  "name": "Fremont Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "440 East Poe Road, OH",
+  "locationCity": "440 East Poe Road",
+  "locationState": "OH",
+  "locationZipcode": "43402",
+  "lat": 41.38553604018125,
+  "lon": -83.6439358020507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.935Z"
+}

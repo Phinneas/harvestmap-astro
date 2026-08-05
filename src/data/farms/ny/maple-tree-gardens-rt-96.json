@@ -1,0 +1,19 @@
+{
+  "slug": "maple-tree-gardens-rt-96",
+  "name": "Maple Tree Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rt 96, NY",
+  "locationCity": "Rt 96",
+  "locationState": "NY",
+  "locationZipcode": "13827",
+  "lat": 42.1001840201066,
+  "lon": -76.2601345114322,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.941Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.941Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hidden-stream-farm-117-planeview-road",
+  "name": "Hidden Stream Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "117 Planeview Road, WI",
+  "locationCity": "117 Planeview Road",
+  "locationState": "WI",
+  "locationZipcode": "54904",
+  "lat": 43.9298139188411,
+  "lon": -88.583870027939,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.151Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.151Z"
+}

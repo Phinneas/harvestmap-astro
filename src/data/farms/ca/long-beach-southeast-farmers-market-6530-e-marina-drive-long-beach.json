@@ -1,0 +1,19 @@
+{
+  "slug": "long-beach-southeast-farmers-market-6530-e-marina-drive-long-beach",
+  "name": "Long Beach Southeast Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6530 E. Marina Drive Long Beach, CA",
+  "locationCity": "6530 E. Marina Drive Long Beach",
+  "locationState": "CA",
+  "locationZipcode": "90803",
+  "lat": 33.747746543674324,
+  "lon": -118.11386374082966,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

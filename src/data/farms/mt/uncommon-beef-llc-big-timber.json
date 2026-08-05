@@ -1,0 +1,19 @@
+{
+  "slug": "uncommon-beef-llc-big-timber",
+  "name": "Uncommon Beef LLC",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Big Timber, MT",
+  "locationCity": "Big Timber",
+  "locationState": "MT",
+  "locationZipcode": "59011",
+  "lat": 45.834528,
+  "lon": -109.94808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:27.168Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:27.168Z"
+}

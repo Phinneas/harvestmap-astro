@@ -1,0 +1,19 @@
+{
+  "slug": "catonsville-sunday-farmers-market-15-mellor-avenue",
+  "name": "Catonsville Sunday Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 Mellor Avenue, MD",
+  "locationCity": "15 Mellor Avenue",
+  "locationState": "MD",
+  "locationZipcode": "21228",
+  "lat": 39.27093661387549,
+  "lon": -76.73372140819103,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.535Z"
+}

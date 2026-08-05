@@ -1,0 +1,19 @@
+{
+  "slug": "two-pony-gardens-brown-road-north",
+  "name": "Two Pony Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brown Road North, MN",
+  "locationCity": "Brown Road North",
+  "locationState": "MN",
+  "locationZipcode": "55356",
+  "lat": 44.9881100000001,
+  "lon": -93.57388,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.802Z"
+}

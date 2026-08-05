@@ -1,0 +1,19 @@
+{
+  "slug": "central-texas-food-bank-6500-metropolis-drive",
+  "name": "Central Texas Food Bank",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "6500 Metropolis Drive, TX",
+  "locationCity": "6500 Metropolis Drive",
+  "locationState": "TX",
+  "locationZipcode": "78744",
+  "lat": 30.203701984232154,
+  "lon": -97.70984004145015,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:57.115Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:57.115Z"
+}

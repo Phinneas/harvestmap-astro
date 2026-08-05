@@ -1,0 +1,19 @@
+{
+  "slug": "lansing-farmers-market-29-auburn-rd-nys-rt-34-lansing",
+  "name": "Lansing Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "29 Auburn Rd. (NYS Rt. 34) Lansing, NY",
+  "locationCity": "29 Auburn Rd. (NYS Rt. 34) Lansing",
+  "locationState": "NY",
+  "locationZipcode": "14882",
+  "lat": 42.53805798219455,
+  "lon": -76.5034011998748,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

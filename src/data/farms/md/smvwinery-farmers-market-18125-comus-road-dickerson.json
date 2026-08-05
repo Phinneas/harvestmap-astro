@@ -1,0 +1,19 @@
+{
+  "slug": "smvwinery-farmers-market-18125-comus-road-dickerson",
+  "name": "SMVWinery Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "18125 Comus Road Dickerson, MD",
+  "locationCity": "18125 Comus Road Dickerson",
+  "locationState": "MD",
+  "locationZipcode": "18125",
+  "lat": 39.25070353508102,
+  "lon": -77.37766502235453,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mccoard-s-provo-corn-maze-384-south-3110-west",
+  "name": "McCoard's Provo Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "384 South 3110 West, UT",
+  "locationCity": "384 South 3110 West",
+  "locationState": "UT",
+  "locationZipcode": "84601",
+  "lat": 40.2288320221981,
+  "lon": -111.713095024184,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.670Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.670Z"
+}

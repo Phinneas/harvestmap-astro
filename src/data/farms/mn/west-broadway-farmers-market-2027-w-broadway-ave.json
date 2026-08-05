@@ -1,0 +1,19 @@
+{
+  "slug": "west-broadway-farmers-market-2027-w-broadway-ave",
+  "name": "West Broadway Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2027 W Broadway Ave, MN",
+  "locationCity": "2027 W Broadway Ave",
+  "locationState": "MN",
+  "locationZipcode": "55411",
+  "lat": 45.0023884,
+  "lon": -93.3063822,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

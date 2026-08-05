@@ -1,0 +1,20 @@
+{
+  "slug": "circle-h-farms-815-tabernacle-road",
+  "name": "Circle H Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "815 Tabernacle Road, VA",
+  "locationCity": "815 Tabernacle Road",
+  "locationState": "VA",
+  "locationZipcode": "24529",
+  "lat": 36.6463869841054,
+  "lon": -78.6703860381015,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.256Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.256Z",
+  "crops": []
+}

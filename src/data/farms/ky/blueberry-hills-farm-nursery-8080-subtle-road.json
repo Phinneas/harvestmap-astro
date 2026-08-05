@@ -1,0 +1,20 @@
+{
+  "slug": "blueberry-hills-farm-nursery-8080-subtle-road",
+  "name": "Blueberry Hills Farm & Nursery",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8080 Subtle Road, KY",
+  "locationCity": "8080 Subtle Road",
+  "locationState": "KY",
+  "locationZipcode": "42129",
+  "lat": 36.9208337,
+  "lon": -85.5131633,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.100Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.100Z",
+  "crops": []
+}

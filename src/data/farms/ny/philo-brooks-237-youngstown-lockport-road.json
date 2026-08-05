@@ -1,0 +1,19 @@
+{
+  "slug": "philo-brooks-237-youngstown-lockport-road",
+  "name": "Philo Brooks",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "237 Youngstown-Lockport Road, NY",
+  "locationCity": "237 Youngstown-Lockport Road",
+  "locationState": "NY",
+  "locationZipcode": "14131",
+  "lat": 43.2355345509025,
+  "lon": -78.9004051722928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.377Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.377Z"
+}

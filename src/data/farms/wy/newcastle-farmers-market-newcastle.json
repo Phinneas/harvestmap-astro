@@ -1,0 +1,19 @@
+{
+  "slug": "newcastle-farmers-market-newcastle",
+  "name": "Newcastle Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Newcastle, WY",
+  "locationCity": "Newcastle",
+  "locationState": "WY",
+  "locationZipcode": "82701",
+  "lat": 43.849469,
+  "lon": -104.18498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.219Z"
+}

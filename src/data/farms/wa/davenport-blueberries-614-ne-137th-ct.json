@@ -1,0 +1,19 @@
+{
+  "slug": "davenport-blueberries-614-ne-137th-ct",
+  "name": "Davenport Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "614 Ne 137th Ct, WA",
+  "locationCity": "614 Ne 137th Ct",
+  "locationState": "WA",
+  "locationZipcode": "98629",
+  "lat": 45.8943546137044,
+  "lon": -122.532658941374,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.379Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.379Z"
+}

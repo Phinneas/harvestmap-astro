@@ -1,0 +1,19 @@
+{
+  "slug": "the-produce-box-900-withers-road",
+  "name": "The Produce Box",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "900 Withers Road, NC",
+  "locationCity": "900 Withers Road",
+  "locationState": "NC",
+  "locationZipcode": "27603",
+  "lat": 35.7310589,
+  "lon": -78.661271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.321Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.321Z"
+}

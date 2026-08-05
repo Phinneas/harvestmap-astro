@@ -1,0 +1,19 @@
+{
+  "slug": "carolina-brewery-farmer-s-market-120-lowes-dr-pittsboro",
+  "name": "Carolina Brewery Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 Lowes Dr. Pittsboro, NC",
+  "locationCity": "120 Lowes Dr. Pittsboro",
+  "locationState": "NC",
+  "locationZipcode": "27312",
+  "lat": 35.7445695681161,
+  "lon": -79.16595247248328,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

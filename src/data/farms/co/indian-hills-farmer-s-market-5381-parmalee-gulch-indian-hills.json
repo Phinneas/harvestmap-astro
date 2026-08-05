@@ -1,0 +1,19 @@
+{
+  "slug": "indian-hills-farmer-s-market-5381-parmalee-gulch-indian-hills",
+  "name": "Indian Hills Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5381 Parmalee Gulch Indian Hills, CO",
+  "locationCity": "5381 Parmalee Gulch Indian Hills",
+  "locationState": "CO",
+  "locationZipcode": "80454",
+  "lat": 39.61830073244233,
+  "lon": -105.23721546063105,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dos-cabezas-wineworks-3248-highway-82",
+  "name": "Dos Cabezas WineWorks",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3248 Highway 82, AZ",
+  "locationCity": "3248 Highway 82",
+  "locationState": "AZ",
+  "locationZipcode": "85637",
+  "lat": 31.67971216847306,
+  "lon": -110.6532927370335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.870Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.870Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "historic-lafayette-farmers-market-5th-street",
+  "name": "Historic Lafayette Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5th Street, IN",
+  "locationCity": "5th Street",
+  "locationState": "IN",
+  "locationZipcode": "47901",
+  "lat": 40.418803,
+  "lon": -86.891858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.613Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.613Z"
+}

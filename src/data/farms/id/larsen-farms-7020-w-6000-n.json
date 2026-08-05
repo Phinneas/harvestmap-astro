@@ -1,0 +1,19 @@
+{
+  "slug": "larsen-farms-7020-w-6000-n",
+  "name": "Larsen Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7020 W 6000 N, ID",
+  "locationCity": "7020 W 6000 N",
+  "locationState": "ID",
+  "locationZipcode": "83440",
+  "lat": 43.912955985364,
+  "lon": -111.917616032026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.787Z"
+}

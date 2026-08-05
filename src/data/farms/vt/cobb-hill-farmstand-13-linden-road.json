@@ -1,0 +1,19 @@
+{
+  "slug": "cobb-hill-farmstand-13-linden-road",
+  "name": "Cobb Hill Farmstand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13 Linden Road, VT",
+  "locationCity": "13 Linden Road",
+  "locationState": "VT",
+  "locationZipcode": "05048",
+  "lat": 43.5487469954178,
+  "lon": -72.4258229939387,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.185Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.185Z"
+}

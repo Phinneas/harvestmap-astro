@@ -1,0 +1,19 @@
+{
+  "slug": "battle-creek-farmers-market-25-s-mccamly-st",
+  "name": "Battle Creek Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25 S McCamly St, MI",
+  "locationCity": "25 S McCamly St",
+  "locationState": "MI",
+  "locationZipcode": "49017",
+  "lat": 42.32009,
+  "lon": -85.18515,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.199Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.199Z"
+}

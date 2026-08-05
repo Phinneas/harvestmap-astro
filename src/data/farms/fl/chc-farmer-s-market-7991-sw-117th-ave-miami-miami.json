@@ -1,0 +1,19 @@
+{
+  "slug": "chc-farmer-s-market-7991-sw-117th-ave-miami-miami",
+  "name": "CHC Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7991 SW 117th Ave Miami Miami, FL",
+  "locationCity": "7991 SW 117th Ave Miami Miami",
+  "locationState": "FL",
+  "locationZipcode": "33183",
+  "lat": 25.693811354716328,
+  "lon": -80.38198768370931,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

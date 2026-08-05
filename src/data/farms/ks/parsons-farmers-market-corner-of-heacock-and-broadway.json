@@ -1,0 +1,19 @@
+{
+  "slug": "parsons-farmers-market-corner-of-heacock-and-broadway",
+  "name": "Parsons Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Heacock and Broadway, KS",
+  "locationCity": "Corner of Heacock and Broadway",
+  "locationState": "KS",
+  "locationZipcode": "67357",
+  "lat": 37.33953999231548,
+  "lon": -95.25175004045094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

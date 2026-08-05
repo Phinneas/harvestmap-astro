@@ -1,0 +1,19 @@
+{
+  "slug": "cascade-farmer-s-market-301-minor-ave-n-seattle",
+  "name": "Cascade Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 Minor Ave N. Seattle, WA",
+  "locationCity": "301 Minor Ave N. Seattle",
+  "locationState": "WA",
+  "locationZipcode": "98109",
+  "lat": 47.62090451517931,
+  "lon": -122.33299407144857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.816Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "overlea-farmers-market-6908-belair-rd-baltimore",
+  "name": "Overlea Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6908 Belair Rd. Baltimore, MD",
+  "locationCity": "6908 Belair Rd. Baltimore",
+  "locationState": "MD",
+  "locationZipcode": "21206",
+  "lat": 39.35721542531677,
+  "lon": -76.52788275344516,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

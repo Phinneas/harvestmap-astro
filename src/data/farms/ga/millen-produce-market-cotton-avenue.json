@@ -1,0 +1,19 @@
+{
+  "slug": "millen-produce-market-cotton-avenue",
+  "name": "Millen Produce Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Cotton Avenue, GA",
+  "locationCity": "Cotton Avenue",
+  "locationState": "GA",
+  "locationZipcode": "30442",
+  "lat": 32.802685,
+  "lon": -81.936127,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.678Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.678Z"
+}

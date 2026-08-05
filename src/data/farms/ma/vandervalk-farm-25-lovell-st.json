@@ -1,0 +1,19 @@
+{
+  "slug": "vandervalk-farm-25-lovell-st",
+  "name": "Vandervalk Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "25 Lovell St, MA",
+  "locationCity": "25 Lovell St",
+  "locationState": "MA",
+  "locationZipcode": "01756",
+  "lat": 42.0812689103565,
+  "lon": -71.5599424725212,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.750Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-rosenberg-farmer-s-market-811-third-street-rosenberg",
+  "name": "Downtown Rosenberg Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "811 Third Street Rosenberg, TX",
+  "locationCity": "811 Third Street Rosenberg",
+  "locationState": "TX",
+  "locationZipcode": "77471",
+  "lat": 29.560119048609103,
+  "lon": -95.80672929000883,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "the-sunshine-farm-37-highway-97a",
+  "name": "The Sunshine Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "37 Highway 97a, WA",
+  "locationCity": "37 Highway 97a",
+  "locationState": "WA",
+  "locationZipcode": "98816",
+  "lat": 47.8393579869714,
+  "lon": -120.090752989096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.246Z",
+  "crops": []
+}

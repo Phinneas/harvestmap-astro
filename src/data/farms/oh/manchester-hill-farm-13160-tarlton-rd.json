@@ -1,0 +1,20 @@
+{
+  "slug": "manchester-hill-farm-13160-tarlton-rd",
+  "name": "Manchester Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13160 Tarlton Rd, OH",
+  "locationCity": "13160 Tarlton Rd",
+  "locationState": "OH",
+  "locationZipcode": "13160",
+  "lat": 39.5566569825433,
+  "lon": -82.7845660144391,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.763Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.763Z",
+  "crops": []
+}

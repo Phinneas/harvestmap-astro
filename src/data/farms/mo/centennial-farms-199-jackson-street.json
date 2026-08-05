@@ -1,0 +1,19 @@
+{
+  "slug": "centennial-farms-199-jackson-street",
+  "name": "Centennial Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "199 Jackson Street, MO",
+  "locationCity": "199 Jackson Street",
+  "locationState": "MO",
+  "locationZipcode": "63332",
+  "lat": 38.5744379919835,
+  "lon": -90.884859036135,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.765Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.765Z"
+}

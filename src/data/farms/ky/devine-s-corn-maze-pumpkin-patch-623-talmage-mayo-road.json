@@ -1,21 +1,20 @@
 {
   "slug": "devine-s-corn-maze-pumpkin-patch-623-talmage-mayo-road",
-  "name": "Devine's Corn Maze & Pumpkin Patch",
+  "name": "Devine's Corn Maze Pumpkin Patch",
   "source": "usda",
-  "directory": "agritourism",
-  "location": "623 Talmage-Mayo Road, KY",
-  "locationCity": "623 Talmage-Mayo Road",
+  "directory": "onfarmmarket",
+  "location": "623 Talmage-mayo Road, KY",
+  "locationCity": "623 Talmage-mayo Road",
   "locationState": "KY",
   "locationZipcode": "40330",
-  "lat": 37.8514976217937,
-  "lon": -84.873010308792,
+  "lat": 37.851949259140554,
+  "lon": -84.87555797003309,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:28:00.085Z"
+      "lastSeen": "2026-08-05T18:41:19.406Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:28:00.085Z",
-  "website": "https://www.devinescornmaze.com/home",
+  "usdaLastUpdated": "2026-08-05T18:41:19.406Z",
   "tagline": "Devine's Corn Maze & Pumpkin Patch"
 }

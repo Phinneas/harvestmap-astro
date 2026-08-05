@@ -1,0 +1,19 @@
+{
+  "slug": "down-to-earth-harvest-1585-winfield-drive",
+  "name": "Down To Earth Harvest",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1585 Winfield Drive, PA",
+  "locationCity": "1585 Winfield Drive",
+  "locationState": "PA",
+  "locationZipcode": "19335",
+  "lat": 39.981878055251144,
+  "lon": -75.74335160466998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.583Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.583Z"
+}

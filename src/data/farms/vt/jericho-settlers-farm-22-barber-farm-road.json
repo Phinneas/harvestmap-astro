@@ -1,0 +1,20 @@
+{
+  "slug": "jericho-settlers-farm-22-barber-farm-road",
+  "name": "Jericho Settlers' Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "22 Barber Farm Road, VT",
+  "locationCity": "22 Barber Farm Road",
+  "locationState": "VT",
+  "locationZipcode": "05465",
+  "lat": 44.4644979967105,
+  "lon": -72.9779559713686,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.073Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.073Z",
+  "crops": []
+}

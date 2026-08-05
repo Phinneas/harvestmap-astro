@@ -1,0 +1,20 @@
+{
+  "slug": "oakview-farms-164-dewberry-trail",
+  "name": "Oakview Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "164 Dewberry Trail, AL",
+  "locationCity": "164 Dewberry Trail",
+  "locationState": "AL",
+  "locationZipcode": "36093",
+  "lat": 32.5000220083166,
+  "lon": -86.1386030102794,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.495Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.495Z",
+  "crops": []
+}

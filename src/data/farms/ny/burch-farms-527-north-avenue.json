@@ -1,0 +1,20 @@
+{
+  "slug": "burch-farms-527-north-avenue",
+  "name": "Burch Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "527 North Avenue, NY",
+  "locationCity": "527 North Avenue",
+  "locationState": "NY",
+  "locationZipcode": "14468",
+  "lat": 43.3043356860542,
+  "lon": -77.7942412056933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.612Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.612Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "derry-homegrown-farm-artisan-market-1-west-broadway",
+  "name": "Derry Homegrown Farm & Artisan Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 West Broadway, NH",
+  "locationCity": "1 West Broadway",
+  "locationState": "NH",
+  "locationZipcode": "03038",
+  "lat": 42.88048836915351,
+  "lon": -71.326927872,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.153Z"
+}

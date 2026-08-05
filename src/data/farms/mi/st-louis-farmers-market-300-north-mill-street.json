@@ -1,0 +1,19 @@
+{
+  "slug": "st-louis-farmers-market-300-north-mill-street",
+  "name": "St. Louis Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 North Mill Street, MI",
+  "locationCity": "300 North Mill Street",
+  "locationState": "MI",
+  "locationZipcode": "48880",
+  "lat": 43.410742,
+  "lon": -84.608462,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.199Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.199Z"
+}

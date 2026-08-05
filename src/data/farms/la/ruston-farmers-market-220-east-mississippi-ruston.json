@@ -1,0 +1,19 @@
+{
+  "slug": "ruston-farmers-market-220-east-mississippi-ruston",
+  "name": "Ruston Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 East Mississippi Ruston, LA",
+  "locationCity": "220 East Mississippi Ruston",
+  "locationState": "LA",
+  "locationZipcode": "71270",
+  "lat": 32.52946632876283,
+  "lon": -92.63641809526021,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.709Z"
+}

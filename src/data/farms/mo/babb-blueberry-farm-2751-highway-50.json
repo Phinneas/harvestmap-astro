@@ -1,0 +1,20 @@
+{
+  "slug": "babb-blueberry-farm-2751-highway-50",
+  "name": "Babb Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2751 Highway 50, MO",
+  "locationCity": "2751 Highway 50",
+  "locationState": "MO",
+  "locationZipcode": "63013",
+  "lat": 38.44099689345794,
+  "lon": -91.08759950344141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.886Z",
+  "crops": []
+}

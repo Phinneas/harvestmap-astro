@@ -1,0 +1,20 @@
+{
+  "slug": "liberty-apple-orchard-308-kuhn-station-road",
+  "name": "Liberty Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "308 Kuhn Station Road, IL",
+  "locationCity": "308 Kuhn Station Road",
+  "locationState": "IL",
+  "locationZipcode": "62025",
+  "lat": 38.7811882139284,
+  "lon": -89.8784554250431,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.868Z",
+  "crops": []
+}

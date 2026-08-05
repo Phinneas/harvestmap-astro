@@ -1,0 +1,19 @@
+{
+  "slug": "off-road-maple-195-pomeroy-road",
+  "name": "Off Road Maple",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "195 pomeroy road, NY",
+  "locationCity": "195 pomeroy road",
+  "locationState": "NY",
+  "locationZipcode": "13775",
+  "lat": 42.3596857266313,
+  "lon": -75.1020542881927,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.959Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.959Z"
+}

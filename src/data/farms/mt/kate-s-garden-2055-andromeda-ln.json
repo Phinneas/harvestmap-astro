@@ -1,0 +1,19 @@
+{
+  "slug": "kate-s-garden-2055-andromeda-ln",
+  "name": "Kate's Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2055 Andromeda Ln, MT",
+  "locationCity": "2055 Andromeda Ln",
+  "locationState": "MT",
+  "locationZipcode": "59105",
+  "lat": 45.8366255,
+  "lon": -108.4847763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:15.482Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:15.482Z"
+}

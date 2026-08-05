@@ -1,0 +1,19 @@
+{
+  "slug": "east-street-farm-460-east-street",
+  "name": "East Street Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "460 East Street, MA",
+  "locationCity": "460 East Street",
+  "locationState": "MA",
+  "locationZipcode": "01876",
+  "lat": 42.61300699907031,
+  "lon": -71.21487753988005,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.279Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.279Z"
+}

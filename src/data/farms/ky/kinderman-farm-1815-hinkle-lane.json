@@ -1,0 +1,19 @@
+{
+  "slug": "kinderman-farm-1815-hinkle-lane",
+  "name": "Kinderman Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1815 Hinkle Lane, KY",
+  "locationCity": "1815 Hinkle Lane",
+  "locationState": "KY",
+  "locationZipcode": "40065",
+  "lat": 38.32102598544259,
+  "lon": -85.2864350309998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:19.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:19.406Z"
+}

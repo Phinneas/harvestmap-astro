@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-farm-2798-highway-117",
+  "name": "Jackson Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2798 highway 117, AR",
+  "locationCity": "2798 highway 117",
+  "locationState": "AR",
+  "locationZipcode": "72415",
+  "lat": 36.0882053319775,
+  "lon": -91.2290043063597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.974Z"
+}

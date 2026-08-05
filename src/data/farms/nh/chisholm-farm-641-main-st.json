@@ -1,0 +1,19 @@
+{
+  "slug": "chisholm-farm-641-main-st",
+  "name": "Chisholm Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "641 Main St, NH",
+  "locationCity": "641 Main St",
+  "locationState": "NH",
+  "locationZipcode": "03841",
+  "lat": 42.9056450132773,
+  "lon": -71.215642975278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.740Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.740Z"
+}

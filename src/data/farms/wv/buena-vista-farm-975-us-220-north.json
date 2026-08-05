@@ -1,0 +1,19 @@
+{
+  "slug": "buena-vista-farm-975-us-220-north",
+  "name": "Buena Vista Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "975 US 220 North, WV",
+  "locationCity": "975 US 220 North",
+  "locationState": "WV",
+  "locationZipcode": "26845",
+  "lat": 39.0922483439562,
+  "lon": -78.958274271513,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.783Z"
+}

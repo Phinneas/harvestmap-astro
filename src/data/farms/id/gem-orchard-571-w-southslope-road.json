@@ -1,0 +1,19 @@
+{
+  "slug": "gem-orchard-571-w-southslope-road",
+  "name": "Gem Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "571 W. Southslope Road, ID",
+  "locationCity": "571 W. Southslope Road",
+  "locationState": "ID",
+  "locationZipcode": "83617",
+  "lat": 43.8362268640799,
+  "lon": -116.505748512216,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.673Z"
+}

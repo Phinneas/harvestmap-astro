@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-sun-valley-resort-51-old-springfield-stafford",
+  "name": "Farmers Market at Sun Valley Resort",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "51 Old Springfield Stafford, CT",
+  "locationCity": "51 Old Springfield Stafford",
+  "locationState": "CT",
+  "locationZipcode": "06076",
+  "lat": 41.975300466124004,
+  "lon": -72.36424161359416,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

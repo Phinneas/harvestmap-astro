@@ -1,0 +1,19 @@
+{
+  "slug": "palmyra-farmers-market-131-e-main-street-palmyra",
+  "name": "Palmyra Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "131 E. Main Street Palmyra, NY",
+  "locationCity": "131 E. Main Street Palmyra",
+  "locationState": "NY",
+  "locationZipcode": "14522",
+  "lat": 43.06358734195682,
+  "lon": -77.232645589281,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-evanston-farmers-market-university-place-at-oak-street",
+  "name": "Downtown Evanston Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "University Place at Oak Street, IL",
+  "locationCity": "University Place at Oak Street",
+  "locationState": "IL",
+  "locationZipcode": "60201",
+  "lat": 42.05062,
+  "lon": -87.686152,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.952Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.952Z"
+}

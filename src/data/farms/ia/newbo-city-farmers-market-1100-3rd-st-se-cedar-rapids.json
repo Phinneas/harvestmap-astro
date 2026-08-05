@@ -1,0 +1,19 @@
+{
+  "slug": "newbo-city-farmers-market-1100-3rd-st-se-cedar-rapids",
+  "name": "NewBo City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1100 3rd St. SE Cedar Rapids, IA",
+  "locationCity": "1100 3rd St. SE Cedar Rapids",
+  "locationState": "IA",
+  "locationZipcode": "52401",
+  "lat": 41.970694432616995,
+  "lon": -91.65863562382738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

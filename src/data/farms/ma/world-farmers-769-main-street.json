@@ -1,0 +1,19 @@
+{
+  "slug": "world-farmers-769-main-street",
+  "name": "World Farmers",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "769 Main Street, MA",
+  "locationCity": "769 Main Street",
+  "locationState": "MA",
+  "locationZipcode": "01523",
+  "lat": 42.4564599,
+  "lon": -71.67338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.881Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.881Z"
+}

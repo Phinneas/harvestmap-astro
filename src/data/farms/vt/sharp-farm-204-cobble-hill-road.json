@@ -1,0 +1,19 @@
+{
+  "slug": "sharp-farm-204-cobble-hill-road",
+  "name": "Sharp Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "204 Cobble Hill Road, VT",
+  "locationCity": "204 Cobble Hill Road",
+  "locationState": "VT",
+  "locationZipcode": "05468",
+  "lat": 44.6030060130186,
+  "lon": -73.1352370200377,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.824Z"
+}

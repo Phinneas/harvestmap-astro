@@ -1,0 +1,19 @@
+{
+  "slug": "lavalley-farms-1801-hooksett-rd",
+  "name": "LaValley Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1801 Hooksett Rd, NH",
+  "locationCity": "1801 Hooksett Rd",
+  "locationState": "NH",
+  "locationZipcode": "03106",
+  "lat": 43.10068498509969,
+  "lon": -71.45137997877383,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.802Z"
+}

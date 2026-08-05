@@ -1,0 +1,20 @@
+{
+  "slug": "yesterdays-favorite-farm-9327-gap-rd",
+  "name": "Yesterdays Favorite Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9327 Gap Rd, PA",
+  "locationCity": "9327 Gap Rd",
+  "locationState": "PA",
+  "locationZipcode": "17268",
+  "lat": 39.7835449,
+  "lon": -77.5373027,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.557Z",
+  "crops": []
+}

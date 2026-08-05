@@ -1,0 +1,19 @@
+{
+  "slug": "moyer-creek-farms-us-131-south",
+  "name": "Moyer Creek Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "US 131 South, MI",
+  "locationCity": "US 131 South",
+  "locationState": "MI",
+  "locationZipcode": "49713",
+  "lat": 45.184772672923145,
+  "lon": -84.91469600018935,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.233Z"
+}

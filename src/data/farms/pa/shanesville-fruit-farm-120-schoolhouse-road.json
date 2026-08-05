@@ -1,0 +1,20 @@
+{
+  "slug": "shanesville-fruit-farm-120-schoolhouse-road",
+  "name": "Shanesville Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "120 Schoolhouse Road, PA",
+  "locationCity": "120 Schoolhouse Road",
+  "locationState": "PA",
+  "locationZipcode": "19512",
+  "lat": 40.37621298822398,
+  "lon": -75.69759001755044,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.223Z",
+  "crops": []
+}

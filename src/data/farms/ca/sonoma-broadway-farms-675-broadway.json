@@ -1,0 +1,19 @@
+{
+  "slug": "sonoma-broadway-farms-675-broadway",
+  "name": "Sonoma Broadway Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "675 Broadway, CA",
+  "locationCity": "675 Broadway",
+  "locationState": "CA",
+  "locationZipcode": "95476",
+  "lat": 38.2887585800948,
+  "lon": -122.458429803918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.774Z"
+}

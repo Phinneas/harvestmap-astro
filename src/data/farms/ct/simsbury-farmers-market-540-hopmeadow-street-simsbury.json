@@ -1,0 +1,19 @@
+{
+  "slug": "simsbury-farmers-market-540-hopmeadow-street-simsbury",
+  "name": "Simsbury Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "540 Hopmeadow Street Simsbury, CT",
+  "locationCity": "540 Hopmeadow Street Simsbury",
+  "locationState": "CT",
+  "locationZipcode": "06070",
+  "lat": 41.86200664072559,
+  "lon": -72.80997178647556,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

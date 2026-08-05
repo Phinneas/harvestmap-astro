@@ -1,0 +1,20 @@
+{
+  "slug": "jerry-or-peggy-everett-us-64",
+  "name": "Jerry or Peggy Everett",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US 64, AR",
+  "locationCity": "US 64",
+  "locationState": "AR",
+  "locationZipcode": "72012",
+  "lat": 35.1080337889064,
+  "lon": -92.0760651920345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.027Z",
+  "crops": []
+}

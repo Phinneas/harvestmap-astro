@@ -1,0 +1,19 @@
+{
+  "slug": "jbj-market-214-highway-24-clayton",
+  "name": "JBJ Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "214 Highway 24 Clayton, IL",
+  "locationCity": "214 Highway 24 Clayton",
+  "locationState": "IL",
+  "locationZipcode": "62324",
+  "lat": 40.02607946339579,
+  "lon": -90.95599933023448,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

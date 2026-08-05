@@ -1,0 +1,19 @@
+{
+  "slug": "st-luke-s-pumpkin-patch-012-youree-drive",
+  "name": "St. Luke's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "012 Youree Drive, LA",
+  "locationCity": "012 Youree Drive",
+  "locationState": "LA",
+  "locationZipcode": "71105",
+  "lat": 32.454990066665,
+  "lon": -93.7221225129952,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.102Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.102Z"
+}

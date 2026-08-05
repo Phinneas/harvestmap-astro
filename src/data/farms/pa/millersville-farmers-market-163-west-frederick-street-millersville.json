@@ -1,0 +1,19 @@
+{
+  "slug": "millersville-farmers-market-163-west-frederick-street-millersville",
+  "name": "Millersville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "163 West Frederick Street Millersville, PA",
+  "locationCity": "163 West Frederick Street Millersville",
+  "locationState": "PA",
+  "locationZipcode": "17551",
+  "lat": 39.995965445604476,
+  "lon": -76.36174282313281,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

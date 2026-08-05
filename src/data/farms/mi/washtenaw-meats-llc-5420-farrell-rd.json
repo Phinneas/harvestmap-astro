@@ -1,0 +1,19 @@
+{
+  "slug": "washtenaw-meats-llc-5420-farrell-rd",
+  "name": "Washtenaw Meats LLC",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5420 Farrell Rd, MI",
+  "locationCity": "5420 Farrell Rd",
+  "locationState": "MI",
+  "locationZipcode": "48130",
+  "lat": 42.36555498669182,
+  "lon": -83.84056796498623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.246Z"
+}

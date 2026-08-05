@@ -1,0 +1,19 @@
+{
+  "slug": "arcadian-fields-organic-farm-94-blitzkrieg-trail",
+  "name": "Arcadian Fields Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "94 Blitzkrieg Trail, RI",
+  "locationCity": "94 Blitzkrieg Trail",
+  "locationState": "RI",
+  "locationZipcode": "02832",
+  "lat": 41.541613150174555,
+  "lon": -71.70992162623905,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:33.970Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:33.970Z"
+}

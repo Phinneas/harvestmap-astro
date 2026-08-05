@@ -1,0 +1,19 @@
+{
+  "slug": "teresa-s-tasty-produce-county-highway-5",
+  "name": "Teresa's Tasty Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "County Highway 5, IL",
+  "locationCity": "County Highway 5",
+  "locationState": "IL",
+  "locationZipcode": "61235",
+  "lat": 41.3692979971917,
+  "lon": -90.03014845901285,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.667Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.667Z"
+}

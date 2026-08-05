@@ -64,12 +64,42 @@ function parseAddress(address: string): { city: string; state: string; zipcode: 
   let city = '';
 
   for (const part of parts) {
+    // Exact match: "CA" or "California"
     if (stateAbbr[part.toUpperCase()]) {
       state = part.toUpperCase();
     } else if (stateNames[part]) {
       state = stateNames[part];
     } else if (!city && part.length > 2 && part !== 'USA') {
       city = part;
+    }
+  }
+
+  // Fallback: check if any part starts with a state name or abbr
+  // Handles "Colorado 80919", "New York 14580", "South Carolina 29582"
+  if (!state) {
+    for (const part of parts) {
+      // Check "StateName 12345" pattern
+      for (const [name, abbr] of Object.entries(stateNames)) {
+        if (part.startsWith(name + ' ') || part === name) {
+          state = abbr;
+          break;
+        }
+      }
+      if (state) break;
+      // Check "ST 12345" pattern (2-letter abbr followed by space/zip)
+      const abbrMatch = part.match(/^([A-Z]{2})\s+\d{5}/);
+      if (abbrMatch && stateAbbr[abbrMatch[1]]) {
+        state = abbrMatch[1];
+        break;
+      }
+    }
+  }
+
+  // Last resort: scan entire address for "ST 12345" or "StateName 12345"
+  if (!state) {
+    const fullMatch = address.match(/\b([A-Z]{2})\s+\d{5}/);
+    if (fullMatch && stateAbbr[fullMatch[1]]) {
+      state = fullMatch[1];
     }
   }
 

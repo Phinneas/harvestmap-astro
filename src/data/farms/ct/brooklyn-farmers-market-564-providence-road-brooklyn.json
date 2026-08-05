@@ -1,0 +1,19 @@
+{
+  "slug": "brooklyn-farmers-market-564-providence-road-brooklyn",
+  "name": "Brooklyn Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "564 Providence Road Brooklyn, CT",
+  "locationCity": "564 Providence Road Brooklyn",
+  "locationState": "CT",
+  "locationZipcode": "06234",
+  "lat": 41.799075854199394,
+  "lon": -71.90206732923076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

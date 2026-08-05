@@ -1,0 +1,19 @@
+{
+  "slug": "superior-farm-to-fantastic-farmer-s-market-superior-food-court",
+  "name": "Superior Farm-to-Fantastic Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Superior Food Court, AZ",
+  "locationCity": "Superior Food Court",
+  "locationState": "AZ",
+  "locationZipcode": "85173",
+  "lat": 33.285146,
+  "lon": -111.1103,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.018Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "nelson-produce-farm-505-n-234th-st",
+  "name": "Nelson Produce Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "505 N. 234th St, NE",
+  "locationCity": "505 N. 234th St",
+  "locationState": "NE",
+  "locationZipcode": "68064",
+  "lat": 41.3458397028788,
+  "lon": -96.2825941900447,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.332Z"
+}

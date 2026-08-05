@@ -1,0 +1,19 @@
+{
+  "slug": "kipps-grapes-943-south-blue-ridge-turnpike",
+  "name": "Kipps Grapes",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "943 South Blue Ridge Turnpike, VA",
+  "locationCity": "943 South Blue Ridge Turnpike",
+  "locationState": "VA",
+  "locationZipcode": "22738",
+  "lat": 38.2956319041033,
+  "lon": -78.2734959081807,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.285Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.285Z"
+}

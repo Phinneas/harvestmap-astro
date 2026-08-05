@@ -1,0 +1,19 @@
+{
+  "slug": "lake-angus-farms-346-county-road-12-north",
+  "name": "Lake Angus Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "346 County Road 12 North, MN",
+  "locationCity": "346 County Road 12 North",
+  "locationState": "MN",
+  "locationZipcode": "55313",
+  "lat": 45.1459289971487,
+  "lon": -93.8933099964137,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.762Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.762Z"
+}

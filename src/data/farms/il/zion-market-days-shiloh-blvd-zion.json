@@ -1,0 +1,19 @@
+{
+  "slug": "zion-market-days-shiloh-blvd-zion",
+  "name": "Zion Market Days",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Shiloh Blvd Zion, IL",
+  "locationCity": "Shiloh Blvd Zion",
+  "locationState": "IL",
+  "locationZipcode": "60099",
+  "lat": 42.44973280171333,
+  "lon": -87.81738490069871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.975Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.975Z"
+}

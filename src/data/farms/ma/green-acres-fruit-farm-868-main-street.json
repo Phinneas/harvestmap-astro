@@ -1,0 +1,19 @@
+{
+  "slug": "green-acres-fruit-farm-868-main-street",
+  "name": "Green Acres Fruit Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "868 Main Street, MA",
+  "locationCity": "868 Main Street",
+  "locationState": "MA",
+  "locationZipcode": "01095",
+  "lat": 42.0975848,
+  "lon": -72.431179,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.258Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.258Z"
+}

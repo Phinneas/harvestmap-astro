@@ -1,0 +1,19 @@
+{
+  "slug": "saratoga-maple-69-waterview-dr",
+  "name": "Saratoga Maple",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "69 Waterview Dr, NY",
+  "locationCity": "69 Waterview Dr",
+  "locationState": "NY",
+  "locationZipcode": "12866",
+  "lat": 43.0546652353623,
+  "lon": -73.7302179512243,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.212Z"
+}

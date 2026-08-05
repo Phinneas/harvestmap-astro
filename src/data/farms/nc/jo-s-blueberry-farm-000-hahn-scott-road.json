@@ -1,0 +1,19 @@
+{
+  "slug": "jo-s-blueberry-farm-000-hahn-scott-road",
+  "name": "Jo's Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 Hahn-scott Road, NC",
+  "locationCity": "000 Hahn-scott Road",
+  "locationState": "NC",
+  "locationZipcode": "28124",
+  "lat": 35.3696307316185,
+  "lon": -80.4052078701996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.725Z"
+}

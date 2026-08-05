@@ -1,0 +1,19 @@
+{
+  "slug": "carroll-gardens-greenmarket-330-smith-st",
+  "name": "Carroll Gardens Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "330 Smith St, NY",
+  "locationCity": "330 Smith St",
+  "locationState": "NY",
+  "locationZipcode": "11231",
+  "lat": 40.679857904668324,
+  "lon": -73.99512451883244,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

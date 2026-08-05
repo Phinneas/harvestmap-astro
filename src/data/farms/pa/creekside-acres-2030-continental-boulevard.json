@@ -1,0 +1,20 @@
+{
+  "slug": "creekside-acres-2030-continental-boulevard",
+  "name": "Creekside Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2030 Continental Boulevard, PA",
+  "locationCity": "2030 Continental Boulevard",
+  "locationState": "PA",
+  "locationZipcode": "17772",
+  "lat": 41.10040300234482,
+  "lon": -76.71564356714448,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.219Z",
+  "crops": []
+}

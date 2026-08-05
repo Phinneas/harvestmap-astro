@@ -1,0 +1,19 @@
+{
+  "slug": "auburn-farmers-market-1140-auburn-way-south",
+  "name": "Auburn Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1140 Auburn Way South, WA",
+  "locationCity": "1140 Auburn Way South",
+  "locationState": "WA",
+  "locationZipcode": "98002",
+  "lat": 47.29804,
+  "lon": -122.2174809,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.821Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.821Z"
+}

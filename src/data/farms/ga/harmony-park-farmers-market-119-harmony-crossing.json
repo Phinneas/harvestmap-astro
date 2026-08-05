@@ -1,0 +1,19 @@
+{
+  "slug": "harmony-park-farmers-market-119-harmony-crossing",
+  "name": "Harmony Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "119 Harmony Crossing, GA",
+  "locationCity": "119 Harmony Crossing",
+  "locationState": "GA",
+  "locationZipcode": "31024",
+  "lat": 33.42835761718717,
+  "lon": -83.27577587945895,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

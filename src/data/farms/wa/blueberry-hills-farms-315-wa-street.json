@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hills-farms-315-wa-street",
+  "name": "Blueberry Hills Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "315 WA Street, WA",
+  "locationCity": "315 WA Street",
+  "locationState": "WA",
+  "locationZipcode": "98831",
+  "lat": 47.8969590123263,
+  "lon": -120.170577038159,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.126Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.126Z"
+}

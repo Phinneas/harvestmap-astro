@@ -1,0 +1,19 @@
+{
+  "slug": "the-carytown-farmers-market-3201-maplewood-ave",
+  "name": "The Carytown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3201 Maplewood Ave, VA",
+  "locationCity": "3201 Maplewood Ave",
+  "locationState": "VA",
+  "locationZipcode": "23221",
+  "lat": 37.550051256320884,
+  "lon": -77.48480967581838,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

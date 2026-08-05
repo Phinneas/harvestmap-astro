@@ -1,0 +1,19 @@
+{
+  "slug": "alexandria-bay-farmers-market-route-12",
+  "name": "Alexandria Bay Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Route 12, NY",
+  "locationCity": "Route 12",
+  "locationState": "NY",
+  "locationZipcode": "13607",
+  "lat": 44.331171,
+  "lon": -75.916118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.834Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.834Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "upper-valley-farmers-market-99-mosquito-lake-rd",
+  "name": "Upper Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "99 Mosquito Lake Rd, AK",
+  "locationCity": "99 Mosquito Lake Rd",
+  "locationState": "AK",
+  "locationZipcode": "99827",
+  "lat": 59.424613942436075,
+  "lon": -136.01568711203646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

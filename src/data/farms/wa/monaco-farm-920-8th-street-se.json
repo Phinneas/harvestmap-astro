@@ -1,0 +1,19 @@
+{
+  "slug": "monaco-farm-920-8th-street-se",
+  "name": "Monaco farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "920 8th Street SE, WA",
+  "locationCity": "920 8th Street SE",
+  "locationState": "WA",
+  "locationZipcode": "98802",
+  "lat": 47.3914100124461,
+  "lon": -120.236795815966,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.251Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.251Z"
+}

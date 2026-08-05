@@ -1,0 +1,19 @@
+{
+  "slug": "apple-hill-farm-124-route-32-south",
+  "name": "Apple Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "124 Route 32 South, NY",
+  "locationCity": "124 Route 32 South",
+  "locationState": "NY",
+  "locationZipcode": "12561",
+  "lat": 41.7328657077153,
+  "lon": -74.081877728245,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.227Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.227Z"
+}

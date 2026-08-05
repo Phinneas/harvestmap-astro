@@ -1,0 +1,19 @@
+{
+  "slug": "berry-bay-farm-12002-ne-203-terrace",
+  "name": "Berry Bay Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12002 NE 203 Terrace, FL",
+  "locationCity": "12002 NE 203 Terrace",
+  "locationState": "FL",
+  "locationZipcode": "12002",
+  "lat": 29.76549298491585,
+  "lon": -82.10801097662561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.895Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.895Z"
+}

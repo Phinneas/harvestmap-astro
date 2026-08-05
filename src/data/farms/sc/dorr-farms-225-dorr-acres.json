@@ -1,0 +1,19 @@
+{
+  "slug": "dorr-farms-225-dorr-acres",
+  "name": "Dorr Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "225 Dorr Acres, SC",
+  "locationCity": "225 Dorr Acres",
+  "locationState": "SC",
+  "locationZipcode": "29051",
+  "lat": 33.8723769921755,
+  "lon": -80.193266900805,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.737Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.737Z"
+}

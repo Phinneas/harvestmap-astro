@@ -1,0 +1,19 @@
+{
+  "slug": "maize-valley-winery-6193-edison-street-ne",
+  "name": "Maize Valley Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6193 Edison Street NE, OH",
+  "locationCity": "6193 Edison Street NE",
+  "locationState": "OH",
+  "locationZipcode": "44632",
+  "lat": 40.9538249815599,
+  "lon": -81.27914401762148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.934Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.934Z"
+}

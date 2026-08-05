@@ -1,0 +1,19 @@
+{
+  "slug": "g-and-s-farms-151-chestnut-st",
+  "name": "G and S Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "151 Chestnut St, CA",
+  "locationCity": "151 Chestnut St",
+  "locationState": "CA",
+  "locationZipcode": "94513",
+  "lat": 37.9311849549826,
+  "lon": -121.694601899695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.809Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-acres-5393-s-800-east",
+  "name": "Blueberry Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5393 S. 800 East, IN",
+  "locationCity": "5393 S. 800 East",
+  "locationState": "IN",
+  "locationZipcode": "46763",
+  "lat": 41.27245100274331,
+  "lon": -85.26865701436468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.451Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.451Z"
+}

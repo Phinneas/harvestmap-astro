@@ -1,0 +1,19 @@
+{
+  "slug": "ulderich-blueberry-farm-705-ballcreek-road",
+  "name": "Ulderich Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "705 Ballcreek Road, TN",
+  "locationCity": "705 Ballcreek Road",
+  "locationState": "TN",
+  "locationZipcode": "38318",
+  "lat": 35.9712626708895,
+  "lon": -88.2937475951397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.239Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.239Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "annandale-farmers-market-30-cedar-st-e",
+  "name": "Annandale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30 Cedar St E, MN",
+  "locationCity": "30 Cedar St E",
+  "locationState": "MN",
+  "locationZipcode": "55302",
+  "lat": 45.2637988,
+  "lon": -94.1234229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

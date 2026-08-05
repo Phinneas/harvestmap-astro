@@ -1,0 +1,19 @@
+{
+  "slug": "monticello-farmers-market-201-n-state-street-monticello",
+  "name": "Monticello Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 N State Street Monticello, IL",
+  "locationCity": "201 N State Street Monticello",
+  "locationState": "IL",
+  "locationZipcode": "61856",
+  "lat": 40.02621808600676,
+  "lon": -88.57176361040148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "freeport-farmers-market-721-w-south-st-freeport",
+  "name": "Freeport Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "721 W. South St Freeport, IL",
+  "locationCity": "721 W. South St Freeport",
+  "locationState": "IL",
+  "locationZipcode": "61032",
+  "lat": 42.28032402380892,
+  "lon": -89.62888629746854,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

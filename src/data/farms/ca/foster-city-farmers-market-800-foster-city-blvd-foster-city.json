@@ -1,0 +1,19 @@
+{
+  "slug": "foster-city-farmers-market-800-foster-city-blvd-foster-city",
+  "name": "Foster City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "800 Foster City Blvd Foster City, CA",
+  "locationCity": "800 Foster City Blvd Foster City",
+  "locationState": "CA",
+  "locationZipcode": "94404",
+  "lat": 37.55823910337347,
+  "lon": -122.26354718761804,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

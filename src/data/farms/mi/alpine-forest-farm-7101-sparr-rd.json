@@ -1,0 +1,19 @@
+{
+  "slug": "alpine-forest-farm-7101-sparr-rd",
+  "name": "Alpine Forest Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7101 Sparr Rd, MI",
+  "locationCity": "7101 Sparr Rd",
+  "locationState": "MI",
+  "locationZipcode": "49735",
+  "lat": 45.04129032373487,
+  "lon": -84.53028694937484,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.100Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.100Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "porky-pastures-6892-bleak-ridge-rd",
+  "name": "Porky Pastures",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6892 Bleak Ridge Rd, VA",
+  "locationCity": "6892 Bleak Ridge Rd",
+  "locationState": "VA",
+  "locationZipcode": "24347",
+  "lat": 37.02774991608585,
+  "lon": -80.60594501002038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.255Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.255Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cambridge-valley-farmers-market-24-s-park-st",
+  "name": "Cambridge Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24 S Park St, NY",
+  "locationCity": "24 S Park St",
+  "locationState": "NY",
+  "locationZipcode": "12816",
+  "lat": 43.02170648139137,
+  "lon": -73.37539368767516,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

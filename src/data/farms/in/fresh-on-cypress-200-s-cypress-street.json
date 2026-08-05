@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-on-cypress-200-s-cypress-street",
+  "name": "Fresh on Cypress",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 S Cypress Street, IN",
+  "locationCity": "200 S Cypress Street",
+  "locationState": "IN",
+  "locationZipcode": "47802",
+  "lat": 39.2810499897604,
+  "lon": -87.4072649923187,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.263Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.263Z"
+}

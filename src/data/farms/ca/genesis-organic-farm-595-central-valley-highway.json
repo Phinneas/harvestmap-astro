@@ -1,0 +1,19 @@
+{
+  "slug": "genesis-organic-farm-595-central-valley-highway",
+  "name": "Genesis Organic Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "595 Central Valley Highway, CA",
+  "locationCity": "595 Central Valley Highway",
+  "locationState": "CA",
+  "locationZipcode": "93230",
+  "lat": 36.2336354737391,
+  "lon": -119.600783986935,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.737Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.737Z"
+}

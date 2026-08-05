@@ -1,0 +1,19 @@
+{
+  "slug": "vaughan-farms-produce-1258-princess-anne-road",
+  "name": "Vaughan Farms Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1258 Princess Anne Road, VA",
+  "locationCity": "1258 Princess Anne Road",
+  "locationState": "VA",
+  "locationZipcode": "23457",
+  "lat": 36.67243,
+  "lon": -76.026145,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.213Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.213Z"
+}

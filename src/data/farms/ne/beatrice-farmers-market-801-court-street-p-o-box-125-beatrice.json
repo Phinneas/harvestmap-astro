@@ -1,0 +1,19 @@
+{
+  "slug": "beatrice-farmers-market-801-court-street-p-o-box-125-beatrice",
+  "name": "Beatrice Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "801 Court Street P.O. Box 125 Beatrice, NE",
+  "locationCity": "801 Court Street P.O. Box 125 Beatrice",
+  "locationState": "NE",
+  "locationZipcode": "68310",
+  "lat": 40.265834986960265,
+  "lon": -96.74253041187245,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.904Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.904Z"
+}

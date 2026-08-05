@@ -9,24 +9,11 @@
   "locationZipcode": "",
   "lat": 44.6475020484218,
   "lon": -69.1658171718737,
-  "website": "https://www.mainelyapples.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:28:41.883Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:28:54.191Z"
+      "lastSeen": "2026-08-05T18:41:51.917Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:28:41.883Z",
-  "crops": [
-    "Apples",
-    "Pumpkins",
-    "Squash",
-    "Corn",
-    "Honey"
-  ],
-  "phone": "207-234-2043"
+  "usdaLastUpdated": "2026-08-05T18:41:51.917Z"
 }

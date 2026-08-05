@@ -1,0 +1,20 @@
+{
+  "slug": "small-valley-milling-917-small-valley-road",
+  "name": "small valley milling",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "917 small valley road, PA",
+  "locationCity": "917 small valley road",
+  "locationState": "PA",
+  "locationZipcode": "17032",
+  "lat": 40.496213,
+  "lon": -76.806746,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.775Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.775Z",
+  "crops": []
+}

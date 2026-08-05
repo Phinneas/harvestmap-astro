@@ -1,0 +1,19 @@
+{
+  "slug": "western-ma-food-processing-center-324-wells-st",
+  "name": "Western MA Food Processing Center",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "324 Wells St., MA",
+  "locationCity": "324 Wells St.",
+  "locationState": "MA",
+  "locationZipcode": "01301",
+  "lat": 42.6027862,
+  "lon": -72.608371,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.878Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.878Z"
+}

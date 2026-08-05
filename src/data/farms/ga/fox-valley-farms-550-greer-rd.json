@@ -1,0 +1,19 @@
+{
+  "slug": "fox-valley-farms-550-greer-rd",
+  "name": "Fox Valley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "550 Greer Rd, GA",
+  "locationCity": "550 Greer Rd",
+  "locationState": "GA",
+  "locationZipcode": "31030",
+  "lat": 32.6038139837812,
+  "lon": -83.9114080387686,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.384Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.384Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "milk-and-honey-farm-pleasant-street",
+  "name": "Milk and Honey Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Pleasant Street, NH",
+  "locationCity": "Pleasant Street",
+  "locationState": "NH",
+  "locationZipcode": "03307",
+  "lat": 43.3145248090371,
+  "lon": -71.4000423967149,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.582Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.582Z"
+}

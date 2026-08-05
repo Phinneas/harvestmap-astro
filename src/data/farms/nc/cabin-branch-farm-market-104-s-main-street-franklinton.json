@@ -1,0 +1,19 @@
+{
+  "slug": "cabin-branch-farm-market-104-s-main-street-franklinton",
+  "name": "Cabin Branch Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "104 S. Main Street Franklinton, NC",
+  "locationCity": "104 S. Main Street Franklinton",
+  "locationState": "NC",
+  "locationZipcode": "27525",
+  "lat": 36.10464255196,
+  "lon": -78.4562024457489,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.325Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.325Z"
+}

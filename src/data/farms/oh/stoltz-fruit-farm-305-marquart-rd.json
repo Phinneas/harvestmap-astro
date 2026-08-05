@@ -1,0 +1,19 @@
+{
+  "slug": "stoltz-fruit-farm-305-marquart-rd",
+  "name": "Stoltz Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "305 Marquart Rd, OH",
+  "locationCity": "305 Marquart Rd",
+  "locationState": "OH",
+  "locationZipcode": "45344",
+  "lat": 39.9854276626981,
+  "lon": -84.0169423967403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.830Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "oil-ranch-23501-macedonia-road",
+  "name": "Oil Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "23501 Macedonia Road, TX",
+  "locationCity": "23501 Macedonia Road",
+  "locationState": "TX",
+  "locationZipcode": "23501",
+  "lat": 30.1171939960295,
+  "lon": -95.8283010105734,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.484Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.484Z"
+}

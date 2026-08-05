@@ -1,0 +1,19 @@
+{
+  "slug": "nashville-chamber-of-commerce-market-101-e-saint-louis-st-nashville",
+  "name": "Nashville Chamber of Commerce Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 E Saint Louis St. Nashville, IL",
+  "locationCity": "101 E Saint Louis St. Nashville",
+  "locationState": "IL",
+  "locationZipcode": "62263",
+  "lat": 38.34369528193371,
+  "lon": -89.3829081228066,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

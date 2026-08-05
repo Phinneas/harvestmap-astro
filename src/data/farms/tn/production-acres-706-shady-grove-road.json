@@ -1,0 +1,19 @@
+{
+  "slug": "production-acres-706-shady-grove-road",
+  "name": "Production Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "706 Shady Grove Road, TN",
+  "locationCity": "706 Shady Grove Road",
+  "locationState": "TN",
+  "locationZipcode": "37770",
+  "lat": 36.1078050791786,
+  "lon": -84.6733780268201,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.290Z"
+}

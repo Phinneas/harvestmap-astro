@@ -1,0 +1,19 @@
+{
+  "slug": "atlas-orchards-400-maurer-rd",
+  "name": "Atlas Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "400 Maurer Rd, MI",
+  "locationCity": "400 Maurer Rd",
+  "locationState": "MI",
+  "locationZipcode": "48813",
+  "lat": 42.5243300130924,
+  "lon": -84.8753000141806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.598Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.598Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rhinebeck-farmers-market-61-e-market-st",
+  "name": "Rhinebeck Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "61 E Market St, NY",
+  "locationCity": "61 E Market St",
+  "locationState": "NY",
+  "locationZipcode": "12572",
+  "lat": 41.92701506212216,
+  "lon": -73.91015284673918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

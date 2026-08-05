@@ -1,0 +1,19 @@
+{
+  "slug": "new-entry-food-hub-733-cabot-street",
+  "name": "New Entry Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "733 Cabot Street, MA",
+  "locationCity": "733 Cabot Street",
+  "locationState": "MA",
+  "locationZipcode": "01915",
+  "lat": 42.58380725634461,
+  "lon": -70.89908305131787,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.885Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.885Z"
+}

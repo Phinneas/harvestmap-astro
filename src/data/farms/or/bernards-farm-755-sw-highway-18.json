@@ -1,0 +1,19 @@
+{
+  "slug": "bernards-farm-755-sw-highway-18",
+  "name": "Bernards Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "755 Sw highway 18, OR",
+  "locationCity": "755 Sw highway 18",
+  "locationState": "OR",
+  "locationZipcode": "97128",
+  "lat": 45.1490699524969,
+  "lon": -123.274458749749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.860Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.860Z"
+}

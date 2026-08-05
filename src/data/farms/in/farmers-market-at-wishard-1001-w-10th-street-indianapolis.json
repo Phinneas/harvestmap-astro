@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-wishard-1001-w-10th-street-indianapolis",
+  "name": "Farmers' Market at Wishard",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1001 W. 10th Street Indianapolis, IN",
+  "locationCity": "1001 W. 10th Street Indianapolis",
+  "locationState": "IN",
+  "locationZipcode": "46202",
+  "lat": 39.78090029463939,
+  "lon": -86.17664728078182,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

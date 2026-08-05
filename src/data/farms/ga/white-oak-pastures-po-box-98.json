@@ -1,0 +1,19 @@
+{
+  "slug": "white-oak-pastures-po-box-98",
+  "name": "White Oak Pastures",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO BOX 98, GA",
+  "locationCity": "PO BOX 98",
+  "locationState": "GA",
+  "locationZipcode": "39824",
+  "lat": 31.5229496,
+  "lon": -84.8677008,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.439Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.439Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "papa-s-pumpkin-patch-5001-fernwood-drive",
+  "name": "Papa's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5001 Fernwood Drive, ND",
+  "locationCity": "5001 Fernwood Drive",
+  "locationState": "ND",
+  "locationZipcode": "58503",
+  "lat": 46.8604729822187,
+  "lon": -100.858674971787,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:54.840Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:54.840Z"
+}

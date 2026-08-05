@@ -1,0 +1,19 @@
+{
+  "slug": "pilsen-community-market-1800-s-blue-island-ave-chicago",
+  "name": "Pilsen Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1800 S. Blue Island Ave. Chicago, IL",
+  "locationCity": "1800 S. Blue Island Ave. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60608",
+  "lat": 41.857562868863546,
+  "lon": -87.66143010658392,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

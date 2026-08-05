@@ -1,0 +1,19 @@
+{
+  "slug": "the-market-at-alhambra-519-s-17th-st-mcallen",
+  "name": "The Market At Alhambra",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "519 S 17Th St McAllen, TX",
+  "locationCity": "519 S 17Th St McAllen",
+  "locationState": "TX",
+  "locationZipcode": "78501",
+  "lat": 26.19977188101182,
+  "lon": -98.23856450197468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

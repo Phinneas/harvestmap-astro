@@ -1,0 +1,19 @@
+{
+  "slug": "hickory-bluff-berry-farm-245-hickory-bluff-lane",
+  "name": "Hickory Bluff Berry Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "245 Hickory Bluff Lane, SC",
+  "locationCity": "245 Hickory Bluff Lane",
+  "locationState": "SC",
+  "locationZipcode": "29059",
+  "lat": 33.257054,
+  "lon": -80.342703,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.123Z"
+}

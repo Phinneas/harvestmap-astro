@@ -1,0 +1,19 @@
+{
+  "slug": "nacogdoches-farmers-market-107-pilar-street-nacogdoches",
+  "name": "Nacogdoches Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "107 Pilar Street Nacogdoches, TX",
+  "locationCity": "107 Pilar Street Nacogdoches",
+  "locationState": "TX",
+  "locationZipcode": "75961",
+  "lat": 31.603109532866434,
+  "lon": -94.65662436642464,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pickles-farmers-market-136-e-36th-street-charlotte",
+  "name": "Pickles Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "136 E. 36th Street charlotte, NC",
+  "locationCity": "136 E. 36th Street charlotte",
+  "locationState": "NC",
+  "locationZipcode": "28206",
+  "lat": 35.251753239053926,
+  "lon": -80.80750939421826,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

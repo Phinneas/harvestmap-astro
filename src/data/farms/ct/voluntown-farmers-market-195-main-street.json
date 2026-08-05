@@ -1,0 +1,19 @@
+{
+  "slug": "voluntown-farmers-market-195-main-street",
+  "name": "Voluntown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "195 Main Street, CT",
+  "locationCity": "195 Main Street",
+  "locationState": "CT",
+  "locationZipcode": "06384",
+  "lat": 41.573913,
+  "lon": -71.865502,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.585Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.585Z"
+}

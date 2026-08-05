@@ -1,0 +1,19 @@
+{
+  "slug": "siskiyou-farm-co-1512-s-oregon-st",
+  "name": "Siskiyou Farm Co.",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1512 S. Oregon St., CA",
+  "locationCity": "1512 S. Oregon St.",
+  "locationState": "CA",
+  "locationZipcode": "96097",
+  "lat": 41.71788101164526,
+  "lon": -122.64164297964501,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

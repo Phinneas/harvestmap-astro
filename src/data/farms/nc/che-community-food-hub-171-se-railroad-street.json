@@ -1,0 +1,19 @@
+{
+  "slug": "che-community-food-hub-171-se-railroad-street",
+  "name": "CHE Community Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "171 SE Railroad Street, NC",
+  "locationCity": "171 SE Railroad Street",
+  "locationState": "NC",
+  "locationZipcode": "27812",
+  "lat": 35.8086803,
+  "lon": -77.369901,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.319Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.319Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pike-park-farmers-market-194-2nd-street-amherst",
+  "name": "Pike Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "194 2nd Street Amherst, VA",
+  "locationCity": "194 2nd Street Amherst",
+  "locationState": "VA",
+  "locationZipcode": "24521",
+  "lat": 37.583217223564425,
+  "lon": -79.04830077658251,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

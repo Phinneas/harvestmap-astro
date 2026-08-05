@@ -1,0 +1,19 @@
+{
+  "slug": "lyons-outdoor-market-446-main-street-lyons",
+  "name": "Lyons Outdoor Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "446 Main Street Lyons, CO",
+  "locationCity": "446 Main Street Lyons",
+  "locationState": "CO",
+  "locationZipcode": "80540",
+  "lat": 40.224679204441195,
+  "lon": -105.27071804569668,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

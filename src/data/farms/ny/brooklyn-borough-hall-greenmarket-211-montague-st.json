@@ -1,0 +1,19 @@
+{
+  "slug": "brooklyn-borough-hall-greenmarket-211-montague-st",
+  "name": "Brooklyn Borough Hall Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "211 Montague St, NY",
+  "locationCity": "211 Montague St",
+  "locationState": "NY",
+  "locationZipcode": "11201",
+  "lat": 40.69411265186563,
+  "lon": -73.99179722743187,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

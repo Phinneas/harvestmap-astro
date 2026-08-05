@@ -1,0 +1,19 @@
+{
+  "slug": "country-farmers-market-640-main-st-honesdale",
+  "name": "Country Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "640 MAIN ST. Honesdale, PA",
+  "locationCity": "640 MAIN ST. Honesdale",
+  "locationState": "PA",
+  "locationZipcode": "18431",
+  "lat": 41.570998561870766,
+  "lon": -75.25497244929025,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

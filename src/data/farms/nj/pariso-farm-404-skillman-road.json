@@ -1,0 +1,20 @@
+{
+  "slug": "pariso-farm-404-skillman-road",
+  "name": "Pariso Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "404 Skillman Road, NJ",
+  "locationCity": "404 Skillman Road",
+  "locationState": "NJ",
+  "locationZipcode": "08558",
+  "lat": 40.4213849922742,
+  "lon": -74.7137310238153,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.705Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.705Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stone-ridge-farm-451-north-4th-street",
+  "name": "Stone Ridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "451 North 4th Street, NE",
+  "locationCity": "451 North 4th Street",
+  "locationState": "NE",
+  "locationZipcode": "68450",
+  "lat": 40.3728600000001,
+  "lon": -96.194265,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.372Z"
+}

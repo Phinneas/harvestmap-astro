@@ -1,0 +1,19 @@
+{
+  "slug": "pena-park-market-8400-starview-dr",
+  "name": "Pena Park Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8400 Starview Dr, AK",
+  "locationCity": "8400 Starview Dr",
+  "locationState": "AK",
+  "locationZipcode": "99504",
+  "lat": 61.229289534114606,
+  "lon": -149.7215647610233,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

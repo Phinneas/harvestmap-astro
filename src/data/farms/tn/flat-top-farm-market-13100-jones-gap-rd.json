@@ -1,0 +1,19 @@
+{
+  "slug": "flat-top-farm-market-13100-jones-gap-rd",
+  "name": "Flat Top Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "13100 Jones Gap Rd, TN",
+  "locationCity": "13100 Jones Gap Rd",
+  "locationState": "TN",
+  "locationZipcode": "13100",
+  "lat": 35.350871982681966,
+  "lon": -85.18263999614057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:36.622Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:36.622Z"
+}

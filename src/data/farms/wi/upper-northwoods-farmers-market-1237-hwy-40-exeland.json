@@ -1,0 +1,19 @@
+{
+  "slug": "upper-northwoods-farmers-market-1237-hwy-40-exeland",
+  "name": "Upper Northwoods Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1237 Hwy 40 Exeland, WI",
+  "locationCity": "1237 Hwy 40 Exeland",
+  "locationState": "WI",
+  "locationZipcode": "54835",
+  "lat": 45.67994082659369,
+  "lon": -91.21488218072085,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.859Z"
+}

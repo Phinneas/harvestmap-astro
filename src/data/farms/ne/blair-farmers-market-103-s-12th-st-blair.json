@@ -1,0 +1,19 @@
+{
+  "slug": "blair-farmers-market-103-s-12th-st-blair",
+  "name": "Blair Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "103 S. 12th St. Blair, NE",
+  "locationCity": "103 S. 12th St. Blair",
+  "locationState": "NE",
+  "locationZipcode": "68008",
+  "lat": 41.54359807950764,
+  "lon": -96.12962269773134,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.904Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.904Z"
+}

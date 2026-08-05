@@ -1,0 +1,19 @@
+{
+  "slug": "irvington-farmers-market-5301-e-st-clair-st-indianapolis",
+  "name": "Irvington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5301 E. St. Clair St. Indianapolis, IN",
+  "locationCity": "5301 E. St. Clair St. Indianapolis",
+  "locationState": "IN",
+  "locationZipcode": "46219",
+  "lat": 39.777945443084164,
+  "lon": -86.076587445173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

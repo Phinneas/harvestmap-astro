@@ -1,0 +1,20 @@
+{
+  "slug": "lincoln-heights-certified-farmers-market-n-broadway-sichel",
+  "name": "Lincoln Heights Certified Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N. Broadway & Sichel, CA",
+  "locationCity": "N. Broadway & Sichel",
+  "locationState": "CA",
+  "locationZipcode": "90031",
+  "lat": 34.07348,
+  "lon": -118.21309,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.348Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.348Z",
+  "crops": []
+}

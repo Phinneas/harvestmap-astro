@@ -1,0 +1,19 @@
+{
+  "slug": "the-petaluma-east-side-farmers-market-320-n-mcdowell-blvd",
+  "name": "The Petaluma East Side Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 N McDowell Blvd, CA",
+  "locationCity": "320 N McDowell Blvd",
+  "locationState": "CA",
+  "locationZipcode": "94954",
+  "lat": 38.252337,
+  "lon": -122.63089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.363Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.363Z"
+}

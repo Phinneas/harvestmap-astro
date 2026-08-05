@@ -1,0 +1,19 @@
+{
+  "slug": "west-warwick-farmers-market-186-providence-st",
+  "name": "West Warwick Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "186 Providence St, RI",
+  "locationCity": "186 Providence St",
+  "locationState": "RI",
+  "locationZipcode": "02893",
+  "lat": 41.713691,
+  "lon": -71.516856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.507Z"
+}

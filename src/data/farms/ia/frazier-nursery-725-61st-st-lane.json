@@ -1,0 +1,19 @@
+{
+  "slug": "frazier-nursery-725-61st-st-lane",
+  "name": "Frazier Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "725 61st St. Lane, IA",
+  "locationCity": "725 61st St. Lane",
+  "locationState": "IA",
+  "locationZipcode": "52349",
+  "lat": 42.1380606196215,
+  "lon": -91.9511716918983,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.743Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.743Z"
+}

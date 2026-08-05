@@ -1,0 +1,19 @@
+{
+  "slug": "richardson-farmers-market-101-s-coit-rd-richardson",
+  "name": "Richardson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 S. Coit Rd Richardson, TX",
+  "locationCity": "101 S. Coit Rd Richardson",
+  "locationState": "TX",
+  "locationZipcode": "75080",
+  "lat": 32.94919542548782,
+  "lon": -96.76883077022134,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

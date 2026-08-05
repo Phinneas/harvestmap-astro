@@ -1,0 +1,19 @@
+{
+  "slug": "easton-original-farmers-market-524-depot-street-easton",
+  "name": "Easton Original Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "524 Depot Street Easton, MA",
+  "locationCity": "524 Depot Street Easton",
+  "locationState": "MA",
+  "locationZipcode": "02375",
+  "lat": 42.031176109489664,
+  "lon": -71.11227969928336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.864Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cashmere-farmers-market-600-cotlets-way",
+  "name": "Cashmere Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 Cotlets Way, WA",
+  "locationCity": "600 Cotlets Way",
+  "locationState": "WA",
+  "locationZipcode": "98815",
+  "lat": 47.52057133780007,
+  "lon": -120.45699307112855,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.816Z"
+}

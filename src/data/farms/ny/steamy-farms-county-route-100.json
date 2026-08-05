@@ -1,0 +1,19 @@
+{
+  "slug": "steamy-farms-county-route-100",
+  "name": "Steamy Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "County Route 100, NY",
+  "locationCity": "County Route 100",
+  "locationState": "NY",
+  "locationZipcode": "14898",
+  "lat": 42.038941,
+  "lon": -77.408089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.796Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.796Z"
+}

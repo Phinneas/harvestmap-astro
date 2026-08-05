@@ -1,0 +1,19 @@
+{
+  "slug": "bisbee-farmers-market-bisbee-az-85603",
+  "name": "Bisbee Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Bisbee AZ 85603, AZ",
+  "locationCity": "Bisbee AZ 85603",
+  "locationState": "AZ",
+  "locationZipcode": "85603",
+  "lat": 31.411815000000047,
+  "lon": -109.87788999999998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

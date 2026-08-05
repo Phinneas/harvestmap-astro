@@ -1,0 +1,19 @@
+{
+  "slug": "full-bushel-farm-375-sullivan-rd",
+  "name": "Full Bushel Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "375 Sullivan Rd, MT",
+  "locationCity": "375 Sullivan Rd",
+  "locationState": "MT",
+  "locationZipcode": "59870",
+  "lat": 46.5405690560772,
+  "lon": -114.06116413607316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:15.501Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:15.501Z"
+}

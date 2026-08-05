@@ -9,22 +9,11 @@
   "locationZipcode": "",
   "lat": 42.721613874995,
   "lon": -71.1107587959202,
-  "website": "https://www.facebook.com/BarkersFarmNA",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:29:19.710Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:29:34.263Z"
+      "lastSeen": "2026-08-05T18:42:22.752Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:29:19.710Z",
-  "crops": [
-    "Apples",
-    "Pumpkins",
-    "Corn"
-  ],
-  "phone": "(978) 683-0785"
+  "usdaLastUpdated": "2026-08-05T18:42:22.752Z"
 }

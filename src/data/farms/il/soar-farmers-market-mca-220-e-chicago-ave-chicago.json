@@ -1,0 +1,19 @@
+{
+  "slug": "soar-farmers-market-mca-220-e-chicago-ave-chicago",
+  "name": "SOAR Farmers Market @ MCA",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 E. Chicago Ave. Chicago, IL",
+  "locationCity": "220 E. Chicago Ave. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60611",
+  "lat": 41.896749337970164,
+  "lon": -87.62362586914304,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

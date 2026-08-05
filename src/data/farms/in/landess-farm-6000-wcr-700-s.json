@@ -1,0 +1,19 @@
+{
+  "slug": "landess-farm-6000-wcr-700-s",
+  "name": "Landess Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6000 WCR 700 S, IN",
+  "locationCity": "6000 WCR 700 S",
+  "locationState": "IN",
+  "locationZipcode": "47334",
+  "lat": 40.0916309,
+  "lon": -85.5016671,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.525Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.525Z"
+}

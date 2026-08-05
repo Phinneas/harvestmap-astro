@@ -1,0 +1,19 @@
+{
+  "slug": "placentia-certified-farmers-market-130-e-yorba-linda-blvd",
+  "name": "Placentia Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "130 E. Yorba Linda Blvd., CA",
+  "locationCity": "130 E. Yorba Linda Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "92870",
+  "lat": 33.886085997282564,
+  "lon": -117.86493499663888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

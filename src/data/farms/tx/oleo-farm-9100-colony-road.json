@@ -1,0 +1,19 @@
+{
+  "slug": "oleo-farm-9100-colony-road",
+  "name": "Oleo Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9100 Colony Road, TX",
+  "locationCity": "9100 Colony Road",
+  "locationState": "TX",
+  "locationZipcode": "76476",
+  "lat": 32.40892098863094,
+  "lon": -97.93621596784155,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.711Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.711Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "spokane-marketplace-809-north-washington-spokane",
+  "name": "Spokane MarketPlace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "809 North Washington Spokane, WA",
+  "locationCity": "809 North Washington Spokane",
+  "locationState": "WA",
+  "locationZipcode": "99201",
+  "lat": 47.66475130345405,
+  "lon": -117.417581136695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "north-valley-market-614-spring-st-peoria",
+  "name": "North Valley Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "614 Spring St Peoria, IL",
+  "locationCity": "614 Spring St Peoria",
+  "locationState": "IL",
+  "locationZipcode": "61603",
+  "lat": 40.70410462625081,
+  "lon": -89.57835454126646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

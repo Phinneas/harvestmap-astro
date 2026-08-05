@@ -1,0 +1,20 @@
+{
+  "slug": "citizens-of-earth-12600-piedmont-road",
+  "name": "Citizens of Earth",
+  "source": "usda",
+  "directory": "csa",
+  "location": "12600 Piedmont Road, MD",
+  "locationCity": "12600 Piedmont Road",
+  "locationState": "MD",
+  "locationZipcode": "12600",
+  "lat": 39.2433532,
+  "lon": -77.2609223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.699Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.699Z",
+  "crops": []
+}

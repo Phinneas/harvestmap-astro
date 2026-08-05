@@ -1,0 +1,19 @@
+{
+  "slug": "oxford-farmers-market-corner-of-lanier-and-mcclanahan-streets",
+  "name": "Oxford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Lanier and McClanahan Streets, NC",
+  "locationCity": "Corner of Lanier and McClanahan Streets",
+  "locationState": "NC",
+  "locationZipcode": "27565",
+  "lat": 36.3148277,
+  "lon": -78.586616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.218Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.218Z"
+}

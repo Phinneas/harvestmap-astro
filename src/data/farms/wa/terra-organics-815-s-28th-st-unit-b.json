@@ -1,0 +1,19 @@
+{
+  "slug": "terra-organics-815-s-28th-st-unit-b",
+  "name": "Terra Organics",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "815 S 28th St Unit B, WA",
+  "locationCity": "815 S 28th St Unit B",
+  "locationState": "WA",
+  "locationZipcode": "98409",
+  "lat": 47.2356,
+  "lon": -122.44455,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:21.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:21.634Z"
+}

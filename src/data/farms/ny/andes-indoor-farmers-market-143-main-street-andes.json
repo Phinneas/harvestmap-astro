@@ -1,0 +1,19 @@
+{
+  "slug": "andes-indoor-farmers-market-143-main-street-andes",
+  "name": "Andes Indoor Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "143 Main Street Andes, NY",
+  "locationCity": "143 Main Street Andes",
+  "locationState": "NY",
+  "locationZipcode": "13731",
+  "lat": 42.19004124657492,
+  "lon": -74.78335657020915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.017Z"
+}

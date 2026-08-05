@@ -1,0 +1,19 @@
+{
+  "slug": "archway-farm-183-arch-st",
+  "name": "Archway Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "183 Arch St., NH",
+  "locationCity": "183 Arch St.",
+  "locationState": "NH",
+  "locationZipcode": "03431",
+  "lat": 42.93625400538383,
+  "lon": -72.33824601971463,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.801Z"
+}

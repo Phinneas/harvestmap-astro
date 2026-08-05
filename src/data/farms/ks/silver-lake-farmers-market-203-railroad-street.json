@@ -1,0 +1,19 @@
+{
+  "slug": "silver-lake-farmers-market-203-railroad-street",
+  "name": "Silver Lake Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "203 Railroad Street, KS",
+  "locationCity": "203 Railroad Street",
+  "locationState": "KS",
+  "locationZipcode": "66539",
+  "lat": 39.105562603396706,
+  "lon": -95.85956976339376,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

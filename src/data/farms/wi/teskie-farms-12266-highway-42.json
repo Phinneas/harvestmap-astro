@@ -1,0 +1,19 @@
+{
+  "slug": "teskie-farms-12266-highway-42",
+  "name": "Teskie Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "12266 Highway 42, WI",
+  "locationCity": "12266 Highway 42",
+  "locationState": "WI",
+  "locationZipcode": "12266",
+  "lat": 45.26868800412336,
+  "lon": -87.01865800051887,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:17.538Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:17.538Z"
+}

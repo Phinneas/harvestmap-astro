@@ -1,0 +1,19 @@
+{
+  "slug": "k-g-la-cresta-citrus-35751-avenida-la-cresta",
+  "name": "K&G La Cresta Citrus",
+  "source": "usda",
+  "directory": "csa",
+  "location": "35751 Avenida La Cresta, CA",
+  "locationCity": "35751 Avenida La Cresta",
+  "locationState": "CA",
+  "locationZipcode": "35751",
+  "lat": 33.54932074134672,
+  "lon": -117.28729060724717,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.072Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.072Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "3-winds-farm-10769-n-1500w-rd",
+  "name": "3 Winds Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10769 N 1500W Rd, IL",
+  "locationCity": "10769 N 1500W Rd",
+  "locationState": "IL",
+  "locationZipcode": "10769",
+  "lat": 41.275889,
+  "lon": -87.9061,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.479Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.479Z",
+  "crops": []
+}

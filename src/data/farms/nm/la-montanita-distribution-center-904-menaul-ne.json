@@ -1,0 +1,19 @@
+{
+  "slug": "la-montanita-distribution-center-904-menaul-ne",
+  "name": "La Montanita Distribution Center",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "904 Menaul NE, NM",
+  "locationCity": "904 Menaul NE",
+  "locationState": "NM",
+  "locationZipcode": "87107",
+  "lat": 35.1086949,
+  "lon": -106.6327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:00.043Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:00.043Z"
+}

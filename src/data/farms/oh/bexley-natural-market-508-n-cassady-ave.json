@@ -1,0 +1,19 @@
+{
+  "slug": "bexley-natural-market-508-n-cassady-ave",
+  "name": "Bexley Natural Market",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "508 N Cassady Ave, OH",
+  "locationCity": "508 N Cassady Ave",
+  "locationState": "OH",
+  "locationZipcode": "43209",
+  "lat": 39.9809567,
+  "lon": -82.931689,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:16.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:16.640Z"
+}

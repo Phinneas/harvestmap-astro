@@ -1,0 +1,19 @@
+{
+  "slug": "nash-county-farmers-market-in-rocky-mount-1006-peachtree-st",
+  "name": "Nash County Farmers Market in Rocky Mount",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1006 Peachtree St., NC",
+  "locationCity": "1006 Peachtree St.",
+  "locationState": "NC",
+  "locationZipcode": "27804",
+  "lat": 35.955256,
+  "lon": -77.802729,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.214Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.214Z"
+}

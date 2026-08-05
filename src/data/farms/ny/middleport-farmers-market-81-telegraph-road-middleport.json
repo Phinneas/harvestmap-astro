@@ -1,0 +1,19 @@
+{
+  "slug": "middleport-farmers-market-81-telegraph-road-middleport",
+  "name": "Middleport Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "81 Telegraph Road Middleport, NY",
+  "locationCity": "81 Telegraph Road Middleport",
+  "locationState": "NY",
+  "locationZipcode": "14105",
+  "lat": 43.205237323021954,
+  "lon": -78.48219344986235,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

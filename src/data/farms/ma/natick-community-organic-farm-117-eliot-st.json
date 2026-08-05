@@ -1,0 +1,19 @@
+{
+  "slug": "natick-community-organic-farm-117-eliot-st",
+  "name": "Natick Community Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "117 Eliot St, MA",
+  "locationCity": "117 Eliot St",
+  "locationState": "MA",
+  "locationZipcode": "01760",
+  "lat": 42.268796475729346,
+  "lon": -71.32479731520861,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.279Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.279Z"
+}

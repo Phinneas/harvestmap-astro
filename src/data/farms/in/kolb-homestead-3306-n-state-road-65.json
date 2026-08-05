@@ -1,0 +1,19 @@
+{
+  "slug": "kolb-homestead-3306-n-state-road-65",
+  "name": "Kolb Homestead",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3306 N State Road 65, IN",
+  "locationCity": "3306 N State Road 65",
+  "locationState": "IN",
+  "locationZipcode": "47666",
+  "lat": 38.4047537,
+  "lon": -87.5290954,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.525Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.525Z"
+}

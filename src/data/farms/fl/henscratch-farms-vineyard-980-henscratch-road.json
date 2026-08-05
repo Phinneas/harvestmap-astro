@@ -1,0 +1,19 @@
+{
+  "slug": "henscratch-farms-vineyard-980-henscratch-road",
+  "name": "Henscratch Farms Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "980 Henscratch Road, FL",
+  "locationCity": "980 Henscratch Road",
+  "locationState": "FL",
+  "locationZipcode": "33852",
+  "lat": 27.3694200149595,
+  "lon": -81.46637503126,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.803Z"
+}

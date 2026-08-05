@@ -1,0 +1,19 @@
+{
+  "slug": "tyler-s-produce-800-hwy-378",
+  "name": "Tyler's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "800 Hwy. 378, SC",
+  "locationCity": "800 Hwy. 378",
+  "locationState": "SC",
+  "locationZipcode": "29527",
+  "lat": 33.8342764868571,
+  "lon": -79.0621221916385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.795Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.795Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "botticello-farms-209-hillstown-road",
+  "name": "Botticello Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "209 Hillstown Road, CT",
+  "locationCity": "209 Hillstown Road",
+  "locationState": "CT",
+  "locationZipcode": "06040",
+  "lat": 41.7598310121148,
+  "lon": -72.5686569942947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.913Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.913Z",
+  "crops": []
+}

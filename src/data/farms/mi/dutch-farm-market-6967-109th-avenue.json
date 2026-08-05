@@ -1,0 +1,19 @@
+{
+  "slug": "dutch-farm-market-6967-109th-avenue",
+  "name": "Dutch Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6967 109th Avenue, MI",
+  "locationCity": "6967 109th Avenue",
+  "locationState": "MI",
+  "locationZipcode": "49090",
+  "lat": 42.4838629,
+  "lon": -86.224747,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.148Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.148Z"
+}

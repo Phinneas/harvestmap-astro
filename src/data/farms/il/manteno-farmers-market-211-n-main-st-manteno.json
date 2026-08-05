@@ -1,0 +1,19 @@
+{
+  "slug": "manteno-farmers-market-211-n-main-st-manteno",
+  "name": "Manteno Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "211 N. Main St. Manteno, IL",
+  "locationCity": "211 N. Main St. Manteno",
+  "locationState": "IL",
+  "locationZipcode": "60950",
+  "lat": 41.251320015210574,
+  "lon": -87.83404165280879,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

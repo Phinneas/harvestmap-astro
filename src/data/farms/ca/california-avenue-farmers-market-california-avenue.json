@@ -1,0 +1,19 @@
+{
+  "slug": "california-avenue-farmers-market-california-avenue",
+  "name": "California Avenue Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "California Avenue, CA",
+  "locationCity": "California Avenue",
+  "locationState": "CA",
+  "locationZipcode": "94306",
+  "lat": 37.46778,
+  "lon": -122.13255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

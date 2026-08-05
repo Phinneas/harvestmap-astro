@@ -1,0 +1,19 @@
+{
+  "slug": "hessey-farmstead-49479-68th-st",
+  "name": "Hessey Farmstead",
+  "source": "usda",
+  "directory": "csa",
+  "location": "49479 68th St, MI",
+  "locationCity": "49479 68th St",
+  "locationState": "MI",
+  "locationZipcode": "49479",
+  "lat": 42.23782530158658,
+  "lon": -86.20113242706337,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.098Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.098Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "desert-oasis-12901-s-186th-ave",
+  "name": "Desert Oasis",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "12901 S 186th Ave, AZ",
+  "locationCity": "12901 S 186th Ave",
+  "locationState": "AZ",
+  "locationZipcode": "12901",
+  "lat": 33.329627851371015,
+  "lon": -112.45030803121749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:18.721Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:18.721Z"
+}

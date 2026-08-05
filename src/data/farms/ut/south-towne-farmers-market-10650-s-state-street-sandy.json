@@ -1,0 +1,19 @@
+{
+  "slug": "south-towne-farmers-market-10650-s-state-street-sandy",
+  "name": "South Towne Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10650 S State Street Sandy, UT",
+  "locationCity": "10650 S State Street Sandy",
+  "locationState": "UT",
+  "locationZipcode": "10650",
+  "lat": 40.557875847980924,
+  "lon": -111.89079973873442,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:23.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:23.640Z"
+}

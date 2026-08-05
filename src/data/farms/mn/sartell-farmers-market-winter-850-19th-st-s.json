@@ -1,0 +1,19 @@
+{
+  "slug": "sartell-farmers-market-winter-850-19th-st-s",
+  "name": "Sartell Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "850 19th St S, MN",
+  "locationCity": "850 19th St S",
+  "locationState": "MN",
+  "locationZipcode": "56377",
+  "lat": 45.5941027,
+  "lon": -94.2192001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

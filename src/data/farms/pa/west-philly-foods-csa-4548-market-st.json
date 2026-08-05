@@ -1,0 +1,19 @@
+{
+  "slug": "west-philly-foods-csa-4548-market-st",
+  "name": "West Philly Foods CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4548 Market St., PA",
+  "locationCity": "4548 Market St.",
+  "locationState": "PA",
+  "locationZipcode": "19139",
+  "lat": 39.9581652,
+  "lon": -75.2126261,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.545Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.545Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "stone-mountain-farm-522-laconia-road",
+  "name": "Stone Mountain Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "522 Laconia Road, NH",
+  "locationCity": "522 Laconia Road",
+  "locationState": "NH",
+  "locationZipcode": "03220",
+  "lat": 43.4713940152299,
+  "lon": -71.4679869597163,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.638Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.638Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "nick-s-acres-16323-ne-92nd-ave",
+  "name": "Nick's Acres",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "16323 NE 92nd Ave, WA",
+  "locationCity": "16323 NE 92nd Ave",
+  "locationState": "WA",
+  "locationZipcode": "16323",
+  "lat": 45.739657447296395,
+  "lon": -122.57873537895543,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.541Z"
+}

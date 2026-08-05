@@ -1,0 +1,20 @@
+{
+  "slug": "boice-s-farm-600-kings-highway",
+  "name": "Boice's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "600 Kings Highway, NY",
+  "locationCity": "600 Kings Highway",
+  "locationState": "NY",
+  "locationZipcode": "12477",
+  "lat": 42.0273825967978,
+  "lon": -73.9888993540044,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.530Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.530Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "henderson-farmers-market-523-main-st",
+  "name": "Henderson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "523 Main St, MN",
+  "locationCity": "523 Main St",
+  "locationState": "MN",
+  "locationZipcode": "56044",
+  "lat": 44.5280192,
+  "lon": -93.9078882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

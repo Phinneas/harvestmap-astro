@@ -1,0 +1,19 @@
+{
+  "slug": "taylor-s-farm-market-178-pilgrim-street",
+  "name": "Taylor's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "178 Pilgrim Street, WV",
+  "locationCity": "178 Pilgrim Street",
+  "locationState": "WV",
+  "locationZipcode": "25428",
+  "lat": 39.36125998355507,
+  "lon": -78.04267603812863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:39.183Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:39.183Z"
+}

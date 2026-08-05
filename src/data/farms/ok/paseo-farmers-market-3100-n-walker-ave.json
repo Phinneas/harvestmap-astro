@@ -1,0 +1,19 @@
+{
+  "slug": "paseo-farmers-market-3100-n-walker-ave",
+  "name": "Paseo Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3100 N Walker Ave, OK",
+  "locationCity": "3100 N Walker Ave",
+  "locationState": "OK",
+  "locationZipcode": "73103",
+  "lat": 35.501891,
+  "lon": -97.52482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:29.312Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:29.312Z"
+}

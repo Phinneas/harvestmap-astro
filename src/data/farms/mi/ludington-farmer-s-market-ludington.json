@@ -1,0 +1,19 @@
+{
+  "slug": "ludington-farmer-s-market-ludington",
+  "name": "Ludington Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "LUDINGTON, MI",
+  "locationCity": "LUDINGTON",
+  "locationState": "MI",
+  "locationZipcode": "49431",
+  "lat": 43.955713,
+  "lon": -86.447744,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.191Z"
+}

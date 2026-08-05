@@ -1,0 +1,19 @@
+{
+  "slug": "el-monte-farmers-market-10700-main-street",
+  "name": "El Monte Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10700 Main Street, CA",
+  "locationCity": "10700 Main Street",
+  "locationState": "CA",
+  "locationZipcode": "10700",
+  "lat": 34.075484,
+  "lon": -118.03995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.350Z"
+}

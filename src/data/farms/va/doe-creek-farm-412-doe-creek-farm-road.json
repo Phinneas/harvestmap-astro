@@ -1,0 +1,19 @@
+{
+  "slug": "doe-creek-farm-412-doe-creek-farm-road",
+  "name": "Doe Creek Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "412 Doe Creek Farm Road, VA",
+  "locationCity": "412 Doe Creek Farm Road",
+  "locationState": "VA",
+  "locationZipcode": "24136",
+  "lat": 37.3277619934304,
+  "lon": -80.5766279625598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.279Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.279Z"
+}

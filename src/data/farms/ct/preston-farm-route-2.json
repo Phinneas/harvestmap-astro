@@ -1,0 +1,19 @@
+{
+  "slug": "preston-farm-route-2",
+  "name": "Preston Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 2, CT",
+  "locationCity": "Route 2",
+  "locationState": "CT",
+  "locationZipcode": "06339",
+  "lat": 41.4905616842202,
+  "lon": -72.0028204102981,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.140Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.140Z"
+}

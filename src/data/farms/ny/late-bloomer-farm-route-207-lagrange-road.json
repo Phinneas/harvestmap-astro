@@ -1,0 +1,19 @@
+{
+  "slug": "late-bloomer-farm-route-207-lagrange-road",
+  "name": "Late Bloomer Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Route 207 Lagrange Road, NY",
+  "locationCity": "Route 207 Lagrange Road",
+  "locationState": "NY",
+  "locationZipcode": "10916",
+  "lat": 41.44563719375412,
+  "lon": -74.29772358989389,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.828Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.828Z"
+}

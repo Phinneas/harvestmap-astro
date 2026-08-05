@@ -1,0 +1,19 @@
+{
+  "slug": "maple-plain-udder-market-1620-maple-ave",
+  "name": "Maple Plain Udder Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1620 Maple Ave, MN",
+  "locationCity": "1620 Maple Ave",
+  "locationState": "MN",
+  "locationZipcode": "55359",
+  "lat": 45.00776582482576,
+  "lon": -93.65735434415221,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.774Z"
+}

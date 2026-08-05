@@ -1,0 +1,19 @@
+{
+  "slug": "pome-ridge-orchard-715-luciusboro-road",
+  "name": "Pome Ridge Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "715 Luciusboro Road, PA",
+  "locationCity": "715 Luciusboro Road",
+  "locationState": "PA",
+  "locationZipcode": "15717",
+  "lat": 40.4969320076038,
+  "lon": -79.1599220406077,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.109Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.109Z"
+}

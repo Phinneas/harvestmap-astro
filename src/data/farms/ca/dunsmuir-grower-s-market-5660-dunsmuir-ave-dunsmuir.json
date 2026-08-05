@@ -1,0 +1,19 @@
+{
+  "slug": "dunsmuir-grower-s-market-5660-dunsmuir-ave-dunsmuir",
+  "name": "Dunsmuir Grower's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5660 Dunsmuir Ave Dunsmuir, CA",
+  "locationCity": "5660 Dunsmuir Ave Dunsmuir",
+  "locationState": "CA",
+  "locationZipcode": "96025",
+  "lat": 41.212520646983414,
+  "lon": -122.2714963122621,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

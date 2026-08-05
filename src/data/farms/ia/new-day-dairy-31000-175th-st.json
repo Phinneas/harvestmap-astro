@@ -1,0 +1,19 @@
+{
+  "slug": "new-day-dairy-31000-175th-st",
+  "name": "New Day Dairy",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "31000 175th St, IA",
+  "locationCity": "31000 175th St",
+  "locationState": "IA",
+  "locationZipcode": "31000",
+  "lat": 42.79319998006952,
+  "lon": -92.6121540333201,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.752Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.752Z"
+}

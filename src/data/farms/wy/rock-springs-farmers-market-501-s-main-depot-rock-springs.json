@@ -1,0 +1,19 @@
+{
+  "slug": "rock-springs-farmers-market-501-s-main-depot-rock-springs",
+  "name": "Rock Springs Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "501 S Main Depot Rock Springs, WY",
+  "locationCity": "501 S Main Depot Rock Springs",
+  "locationState": "WY",
+  "locationZipcode": "82902",
+  "lat": 41.58717399071304,
+  "lon": -109.21950998214051,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

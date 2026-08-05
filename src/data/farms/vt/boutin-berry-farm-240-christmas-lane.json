@@ -1,0 +1,19 @@
+{
+  "slug": "boutin-berry-farm-240-christmas-lane",
+  "name": "Boutin Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "240 Christmas Lane, VT",
+  "locationCity": "240 Christmas Lane",
+  "locationState": "VT",
+  "locationZipcode": "05495",
+  "lat": 44.4043010121231,
+  "lon": -73.0727110398341,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.969Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.969Z"
+}

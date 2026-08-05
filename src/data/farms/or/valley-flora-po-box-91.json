@@ -1,0 +1,19 @@
+{
+  "slug": "valley-flora-po-box-91",
+  "name": "Valley Flora",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 91, OR",
+  "locationCity": "PO Box 91",
+  "locationState": "OR",
+  "locationZipcode": "97450",
+  "lat": 42.9236823,
+  "lon": -124.4500174,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.945Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.945Z"
+}

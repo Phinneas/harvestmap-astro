@@ -1,0 +1,19 @@
+{
+  "slug": "peachblow-farm-old-claremont-road",
+  "name": "Peachblow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Old Claremont Road, NH",
+  "locationCity": "Old Claremont Road",
+  "locationState": "NH",
+  "locationZipcode": "03603",
+  "lat": 43.2619170956782,
+  "lon": -72.4017795533524,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.789Z"
+}

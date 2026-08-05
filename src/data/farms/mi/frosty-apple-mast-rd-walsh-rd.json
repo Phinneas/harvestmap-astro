@@ -1,0 +1,19 @@
+{
+  "slug": "frosty-apple-mast-rd-walsh-rd",
+  "name": "Frosty Apple",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mast Rd & Walsh Rd, MI",
+  "locationCity": "Mast Rd & Walsh Rd",
+  "locationState": "MI",
+  "locationZipcode": "48130",
+  "lat": 42.4129499971927,
+  "lon": -83.8744900300514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.662Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.662Z"
+}

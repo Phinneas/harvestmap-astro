@@ -1,0 +1,20 @@
+{
+  "slug": "south-hadley-farm-10-pearle-lane",
+  "name": "South Hadley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10 Pearle Lane, MA",
+  "locationCity": "10 Pearle Lane",
+  "locationState": "MA",
+  "locationZipcode": "01075",
+  "lat": 42.2791895746622,
+  "lon": -72.5793714973048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.539Z",
+  "crops": []
+}

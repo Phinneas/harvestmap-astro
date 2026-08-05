@@ -1,0 +1,19 @@
+{
+  "slug": "c-c-vineyard-093-potters-hill-road",
+  "name": "C & C Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "093 Potters Hill Road, NC",
+  "locationCity": "093 Potters Hill Road",
+  "locationState": "NC",
+  "locationZipcode": "28572",
+  "lat": 35.0256927294834,
+  "lon": -77.7280899604615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.864Z"
+}

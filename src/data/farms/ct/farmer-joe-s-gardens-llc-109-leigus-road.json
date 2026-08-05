@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-joe-s-gardens-llc-109-leigus-road",
+  "name": "Farmer Joe's Gardens LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "109 Leigus Road, CT",
+  "locationCity": "109 Leigus Road",
+  "locationState": "CT",
+  "locationZipcode": "06492",
+  "lat": 41.48216714220223,
+  "lon": -72.77694209142446,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.444Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.444Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-of-grapevine-325-s-main-st-grapevine",
+  "name": "Farmers Market Of Grapevine",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "325 S Main St Grapevine, TX",
+  "locationCity": "325 S Main St Grapevine",
+  "locationState": "TX",
+  "locationZipcode": "76051",
+  "lat": 32.93851806196043,
+  "lon": -97.0783419925389,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

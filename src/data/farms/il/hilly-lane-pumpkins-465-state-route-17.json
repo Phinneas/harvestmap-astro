@@ -1,0 +1,20 @@
+{
+  "slug": "hilly-lane-pumpkins-465-state-route-17",
+  "name": "Hilly Lane Pumpkins",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "465 State Route 17, IL",
+  "locationCity": "465 State Route 17",
+  "locationState": "IL",
+  "locationZipcode": "61565",
+  "lat": 41.0310790133807,
+  "lon": -89.5514839838964,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.864Z",
+  "crops": []
+}

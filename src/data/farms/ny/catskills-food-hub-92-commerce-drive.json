@@ -1,0 +1,19 @@
+{
+  "slug": "catskills-food-hub-92-commerce-drive",
+  "name": "Catskills Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "92 Commerce Drive, NY",
+  "locationCity": "92 Commerce Drive",
+  "locationState": "NY",
+  "locationZipcode": "12754",
+  "lat": 41.784183,
+  "lon": -74.733021,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.988Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.988Z"
+}

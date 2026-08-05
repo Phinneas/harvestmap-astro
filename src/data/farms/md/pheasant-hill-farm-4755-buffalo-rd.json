@@ -1,0 +1,19 @@
+{
+  "slug": "pheasant-hill-farm-4755-buffalo-rd",
+  "name": "Pheasant Hill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4755 Buffalo Rd, MD",
+  "locationCity": "4755 Buffalo Rd",
+  "locationState": "MD",
+  "locationZipcode": "21771",
+  "lat": 39.441509,
+  "lon": -77.124403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.689Z"
+}

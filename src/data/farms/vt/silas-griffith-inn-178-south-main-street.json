@@ -1,0 +1,19 @@
+{
+  "slug": "silas-griffith-inn-178-south-main-street",
+  "name": "Silas Griffith Inn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "178 South Main Street, VT",
+  "locationCity": "178 South Main Street",
+  "locationState": "VT",
+  "locationZipcode": "05739",
+  "lat": 43.3447189830918,
+  "lon": -72.9955820240991,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.804Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.804Z"
+}

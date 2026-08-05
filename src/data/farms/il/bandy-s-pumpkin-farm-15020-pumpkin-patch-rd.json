@@ -1,0 +1,19 @@
+{
+  "slug": "bandy-s-pumpkin-farm-15020-pumpkin-patch-rd",
+  "name": "Bandy's Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15020 Pumpkin Patch Rd, IL",
+  "locationCity": "15020 Pumpkin Patch Rd",
+  "locationState": "IL",
+  "locationZipcode": "15020",
+  "lat": 37.8134240060176,
+  "lon": -88.9646739833824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.847Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.847Z"
+}

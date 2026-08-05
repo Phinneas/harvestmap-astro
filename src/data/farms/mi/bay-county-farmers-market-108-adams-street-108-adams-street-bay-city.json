@@ -1,0 +1,19 @@
+{
+  "slug": "bay-county-farmers-market-108-adams-street-108-adams-street-bay-city",
+  "name": "Bay County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "108 Adams Street 108 Adams Street Bay City, MI",
+  "locationCity": "108 Adams Street 108 Adams Street Bay City",
+  "locationState": "MI",
+  "locationZipcode": "48708",
+  "lat": 43.58959198663474,
+  "lon": -83.88788143492403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

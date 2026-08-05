@@ -1,0 +1,19 @@
+{
+  "slug": "foggy-hill-farm-331-squantum-road",
+  "name": "Foggy Hill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "331 SQUANTUM ROAD, NH",
+  "locationCity": "331 SQUANTUM ROAD",
+  "locationState": "NH",
+  "locationZipcode": "03452",
+  "lat": 42.7934989,
+  "lon": -71.9944487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.539Z"
+}

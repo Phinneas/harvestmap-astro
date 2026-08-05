@@ -1,0 +1,19 @@
+{
+  "slug": "hope-main-691-main-st",
+  "name": "Hope & Main",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "691 Main St, RI",
+  "locationCity": "691 Main St",
+  "locationState": "RI",
+  "locationZipcode": "02885",
+  "lat": 41.72523701178153,
+  "lon": -71.28185498122212,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:38.720Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:38.720Z"
+}

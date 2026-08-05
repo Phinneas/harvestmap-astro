@@ -1,0 +1,19 @@
+{
+  "slug": "g-and-s-orchards-csa-825-atlantic-avenue",
+  "name": "G and S Orchards CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "825 Atlantic Avenue, NY",
+  "locationCity": "825 Atlantic Avenue",
+  "locationState": "NY",
+  "locationZipcode": "14568",
+  "lat": 43.165441,
+  "lon": -77.338498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

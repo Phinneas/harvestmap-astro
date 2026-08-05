@@ -1,0 +1,19 @@
+{
+  "slug": "shenandoah-marketplace-201-maryland-avenue-shenandoah",
+  "name": "Shenandoah MarketPlace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 Maryland Avenue Shenandoah, VA",
+  "locationCity": "201 Maryland Avenue Shenandoah",
+  "locationState": "VA",
+  "locationZipcode": "22849",
+  "lat": 38.48395175475637,
+  "lon": -78.62273804248433,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

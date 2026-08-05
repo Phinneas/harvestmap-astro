@@ -1,0 +1,19 @@
+{
+  "slug": "az-field-of-screams-5726-north-75th-avenue",
+  "name": "AZ Field of Screams",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5726 North 75th Avenue, AZ",
+  "locationCity": "5726 North 75th Avenue",
+  "locationState": "AZ",
+  "locationZipcode": "85303",
+  "lat": 33.5201549453289,
+  "lon": -112.220957024126,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.754Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.754Z"
+}

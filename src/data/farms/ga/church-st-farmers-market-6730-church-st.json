@@ -1,0 +1,19 @@
+{
+  "slug": "church-st-farmers-market-6730-church-st",
+  "name": "Church St Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6730 Church St, GA",
+  "locationCity": "6730 Church St",
+  "locationState": "GA",
+  "locationZipcode": "30134",
+  "lat": 33.749649,
+  "lon": -84.750061,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.688Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.688Z"
+}

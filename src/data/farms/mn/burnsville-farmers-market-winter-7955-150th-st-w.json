@@ -1,0 +1,19 @@
+{
+  "slug": "burnsville-farmers-market-winter-7955-150th-st-w",
+  "name": "Burnsville Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7955 150th St W, MN",
+  "locationCity": "7955 150th St W",
+  "locationState": "MN",
+  "locationZipcode": "55124",
+  "lat": 44.7319413,
+  "lon": -93.2238317,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

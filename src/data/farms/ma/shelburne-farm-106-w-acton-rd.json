@@ -1,0 +1,19 @@
+{
+  "slug": "shelburne-farm-106-w-acton-rd",
+  "name": "Shelburne Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "106 W Acton Rd, MA",
+  "locationCity": "106 W Acton Rd",
+  "locationState": "MA",
+  "locationZipcode": "01775",
+  "lat": 42.4463280767418,
+  "lon": -71.5004038026093,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.570Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.570Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "windmill-farms-69-homer-spiers-rd",
+  "name": "Windmill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "69 Homer Spiers Rd, MS",
+  "locationCity": "69 Homer Spiers Rd",
+  "locationState": "MS",
+  "locationZipcode": "39466",
+  "lat": 30.5817940042269,
+  "lon": -89.7064610150207,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.968Z",
+  "crops": []
+}

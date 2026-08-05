@@ -1,0 +1,19 @@
+{
+  "slug": "south-street-barn-market-411-muhlenburg-st-woodstock",
+  "name": "South Street Barn Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "411 Muhlenburg St. Woodstock, VA",
+  "locationCity": "411 Muhlenburg St. Woodstock",
+  "locationState": "VA",
+  "locationZipcode": "22664",
+  "lat": 38.878778286784524,
+  "lon": -78.50968433388852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

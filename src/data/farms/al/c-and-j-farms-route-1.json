@@ -1,0 +1,19 @@
+{
+  "slug": "c-and-j-farms-route-1",
+  "name": "C and J Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 1, AL",
+  "locationCity": "Route 1",
+  "locationState": "AL",
+  "locationZipcode": "36793",
+  "lat": 32.83283,
+  "lon": -86.988203,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.674Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.674Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "champlain-islands-farmers-market-winter-24-south-st",
+  "name": "Champlain Islands Farmers Market (Winter)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24 South St., VT",
+  "locationCity": "24 South St.",
+  "locationState": "VT",
+  "locationZipcode": "05486",
+  "lat": 44.642635403760636,
+  "lon": -73.30261585466542,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

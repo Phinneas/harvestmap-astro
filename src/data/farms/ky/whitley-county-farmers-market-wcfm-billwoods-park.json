@@ -1,0 +1,19 @@
+{
+  "slug": "whitley-county-farmers-market-wcfm-billwoods-park",
+  "name": "Whitley County Farmers Market (WCFM)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Billwoods Park, KY",
+  "locationCity": "Billwoods Park",
+  "locationState": "KY",
+  "locationZipcode": "40769",
+  "lat": 36.741975,
+  "lon": -84.159267,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.728Z"
+}

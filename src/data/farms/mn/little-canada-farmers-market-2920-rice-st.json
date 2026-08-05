@@ -1,0 +1,19 @@
+{
+  "slug": "little-canada-farmers-market-2920-rice-st",
+  "name": "Little Canada Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2920 Rice St, MN",
+  "locationCity": "2920 Rice St",
+  "locationState": "MN",
+  "locationZipcode": "55113",
+  "lat": 45.0288435,
+  "lon": -93.1054461,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

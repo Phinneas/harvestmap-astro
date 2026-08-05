@@ -1,0 +1,19 @@
+{
+  "slug": "roselawn-stables-22501-rum-river-boulevard-northwest",
+  "name": "Roselawn Stables",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "22501 Rum River Boulevard Northwest, MN",
+  "locationCity": "22501 Rum River Boulevard Northwest",
+  "locationState": "MN",
+  "locationZipcode": "22501",
+  "lat": 45.3783197571036,
+  "lon": -93.3668194560624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.776Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.776Z"
+}

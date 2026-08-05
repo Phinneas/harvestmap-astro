@@ -1,0 +1,19 @@
+{
+  "slug": "pinery-pumpkin-patch-rancho-bernardo-13307-highland-valley-road",
+  "name": "Pinery Pumpkin Patch - Rancho Bernardo",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13307 Highland Valley Road, CA",
+  "locationCity": "13307 Highland Valley Road",
+  "locationState": "CA",
+  "locationZipcode": "13307",
+  "lat": 33.051379922292,
+  "lon": -117.049338551466,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.787Z"
+}

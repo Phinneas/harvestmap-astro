@@ -1,0 +1,19 @@
+{
+  "slug": "lake-to-river-food-hub-901-elm-street",
+  "name": "Lake-to-River Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "901 Elm Street, OH",
+  "locationCity": "901 Elm Street",
+  "locationState": "OH",
+  "locationZipcode": "44505",
+  "lat": 41.1124748,
+  "lon": -80.645271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:16.639Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:16.639Z"
+}

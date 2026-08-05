@@ -1,0 +1,19 @@
+{
+  "slug": "hundred-acre-farms-124-vandyke-greenspring-rd",
+  "name": "Hundred Acre Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "124 Vandyke Greenspring Rd, DE",
+  "locationCity": "124 Vandyke Greenspring Rd",
+  "locationState": "DE",
+  "locationZipcode": "19977",
+  "lat": 39.3188891586676,
+  "lon": -75.6558198272565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.196Z"
+}

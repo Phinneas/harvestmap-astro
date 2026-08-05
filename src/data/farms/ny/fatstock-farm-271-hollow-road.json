@@ -1,0 +1,19 @@
+{
+  "slug": "fatstock-farm-271-hollow-road",
+  "name": "Fatstock Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "271 Hollow Road, NY",
+  "locationCity": "271 Hollow Road",
+  "locationState": "NY",
+  "locationZipcode": "12173",
+  "lat": 42.4181837,
+  "lon": -73.7533615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

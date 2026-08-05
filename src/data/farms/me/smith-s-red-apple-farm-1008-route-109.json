@@ -1,0 +1,19 @@
+{
+  "slug": "smith-s-red-apple-farm-1008-route-109",
+  "name": "Smith's Red Apple Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1008 Route 109, ME",
+  "locationCity": "1008 Route 109",
+  "locationState": "ME",
+  "locationZipcode": "04001",
+  "lat": 43.52196216281595,
+  "lon": -70.884755612763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:00.121Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:00.121Z"
+}

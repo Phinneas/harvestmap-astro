@@ -1,0 +1,19 @@
+{
+  "slug": "hill-family-farm-2008-highway-31-w",
+  "name": "Hill Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2008 Highway 31 W, TN",
+  "locationCity": "2008 Highway 31 W",
+  "locationState": "TN",
+  "locationZipcode": "37188",
+  "lat": 36.4306804,
+  "lon": -86.687233,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.790Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.790Z"
+}

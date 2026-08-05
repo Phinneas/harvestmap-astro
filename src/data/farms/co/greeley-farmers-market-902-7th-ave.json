@@ -1,0 +1,19 @@
+{
+  "slug": "greeley-farmers-market-902-7th-ave",
+  "name": "Greeley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "902 7th Ave., CO",
+  "locationCity": "902 7th Ave.",
+  "locationState": "CO",
+  "locationZipcode": "80631",
+  "lat": 40.424001,
+  "lon": -104.6891,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.343Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.343Z"
+}

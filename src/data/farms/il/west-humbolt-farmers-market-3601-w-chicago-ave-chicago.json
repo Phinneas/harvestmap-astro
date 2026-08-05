@@ -1,0 +1,19 @@
+{
+  "slug": "west-humbolt-farmers-market-3601-w-chicago-ave-chicago",
+  "name": "West Humbolt Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3601 W Chicago Ave Chicago, IL",
+  "locationCity": "3601 W Chicago Ave Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60651",
+  "lat": 41.89510700846793,
+  "lon": -87.71675603823586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

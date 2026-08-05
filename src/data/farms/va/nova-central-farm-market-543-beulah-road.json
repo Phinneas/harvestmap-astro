@@ -1,0 +1,19 @@
+{
+  "slug": "nova-central-farm-market-543-beulah-road",
+  "name": "NOVA Central Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "543 Beulah Road, VA",
+  "locationCity": "543 Beulah Road",
+  "locationState": "VA",
+  "locationZipcode": "22180",
+  "lat": 38.915538,
+  "lon": -77.264712,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.118Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.118Z"
+}

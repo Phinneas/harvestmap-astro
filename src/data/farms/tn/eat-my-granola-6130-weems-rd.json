@@ -1,0 +1,19 @@
+{
+  "slug": "eat-my-granola-6130-weems-rd",
+  "name": "Eat my Granola!",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6130 Weems Rd, TN",
+  "locationCity": "6130 Weems Rd",
+  "locationState": "TN",
+  "locationZipcode": "37918",
+  "lat": 36.04601376505849,
+  "lon": -83.93633456152693,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.830Z"
+}

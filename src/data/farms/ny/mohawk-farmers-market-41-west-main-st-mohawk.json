@@ -1,0 +1,19 @@
+{
+  "slug": "mohawk-farmers-market-41-west-main-st-mohawk",
+  "name": "Mohawk Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "41 West Main St. Mohawk, NY",
+  "locationCity": "41 West Main St. Mohawk",
+  "locationState": "NY",
+  "locationZipcode": "13407",
+  "lat": 43.01092322182797,
+  "lon": -75.00716515191733,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

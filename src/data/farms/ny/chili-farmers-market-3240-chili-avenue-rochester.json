@@ -1,0 +1,19 @@
+{
+  "slug": "chili-farmers-market-3240-chili-avenue-rochester",
+  "name": "Chili Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3240 Chili Avenue Rochester, NY",
+  "locationCity": "3240 Chili Avenue Rochester",
+  "locationState": "NY",
+  "locationZipcode": "14624",
+  "lat": 43.103868052488146,
+  "lon": -77.75284676878199,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

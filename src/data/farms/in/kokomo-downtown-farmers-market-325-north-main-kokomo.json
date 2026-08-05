@@ -1,0 +1,19 @@
+{
+  "slug": "kokomo-downtown-farmers-market-325-north-main-kokomo",
+  "name": "Kokomo Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "325 North Main Kokomo, IN",
+  "locationCity": "325 North Main Kokomo",
+  "locationState": "IN",
+  "locationZipcode": "46901",
+  "lat": 40.48848426273724,
+  "lon": -86.131245751004,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

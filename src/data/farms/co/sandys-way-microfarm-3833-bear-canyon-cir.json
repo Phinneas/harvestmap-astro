@@ -1,0 +1,19 @@
+{
+  "slug": "sandys-way-microfarm-3833-bear-canyon-cir",
+  "name": "Sandys Way Microfarm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3833 BEAR CANYON CIR, CO",
+  "locationCity": "3833 BEAR CANYON CIR",
+  "locationState": "CO",
+  "locationZipcode": "80135",
+  "lat": 39.35726751543453,
+  "lon": -104.95666018918001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.592Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.592Z"
+}

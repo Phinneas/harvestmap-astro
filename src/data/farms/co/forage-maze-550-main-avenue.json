@@ -1,0 +1,19 @@
+{
+  "slug": "forage-maze-550-main-avenue",
+  "name": "Forage Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "550 Main Avenue, CO",
+  "locationCity": "550 Main Avenue",
+  "locationState": "CO",
+  "locationZipcode": "80815",
+  "lat": 39.2942400000001,
+  "lon": -103.06766,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.293Z"
+}

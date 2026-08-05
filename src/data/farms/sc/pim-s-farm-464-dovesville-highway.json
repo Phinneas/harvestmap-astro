@@ -1,0 +1,19 @@
+{
+  "slug": "pim-s-farm-464-dovesville-highway",
+  "name": "Pim's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "464 Dovesville Highway, SC",
+  "locationCity": "464 Dovesville Highway",
+  "locationState": "SC",
+  "locationZipcode": "29540",
+  "lat": 34.4125390026777,
+  "lon": -79.9101730342536,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.875Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.875Z"
+}

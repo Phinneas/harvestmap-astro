@@ -1,0 +1,19 @@
+{
+  "slug": "hammond-farmers-market-2-w-thomas-hammond",
+  "name": "Hammond Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "#2 W. Thomas Hammond, LA",
+  "locationCity": "#2 W. Thomas Hammond",
+  "locationState": "LA",
+  "locationZipcode": "70401",
+  "lat": 30.50402663542011,
+  "lon": -90.46137492867852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

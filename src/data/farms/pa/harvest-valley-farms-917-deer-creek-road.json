@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-valley-farms-917-deer-creek-road",
+  "name": "Harvest Valley Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "917 Deer Creek Road, PA",
+  "locationCity": "917 Deer Creek Road",
+  "locationState": "PA",
+  "locationZipcode": "15044",
+  "lat": 40.6656134504199,
+  "lon": -79.89352506580461,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.588Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.588Z"
+}

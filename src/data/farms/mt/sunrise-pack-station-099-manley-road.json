@@ -1,0 +1,19 @@
+{
+  "slug": "sunrise-pack-station-099-manley-road",
+  "name": "Sunrise Pack Station",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "099 Manley Road, MT",
+  "locationCity": "099 Manley Road",
+  "locationState": "MT",
+  "locationZipcode": "59715",
+  "lat": 45.7058297042623,
+  "lon": -111.041148595263,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:09.755Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:09.755Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fazio-farm-433-ne-13th-avenue",
+  "name": "Fazio Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "433 NE 13th Avenue, OR",
+  "locationCity": "433 NE 13th Avenue",
+  "locationState": "OR",
+  "locationZipcode": "97211",
+  "lat": 45.5917584481152,
+  "lon": -122.65191269081,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.962Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.962Z"
+}

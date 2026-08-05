@@ -1,0 +1,19 @@
+{
+  "slug": "smith-s-maple-farm-257-mayer-road",
+  "name": "Smith's Maple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "257 Mayer Road, NY",
+  "locationCity": "257 Mayer Road",
+  "locationState": "NY",
+  "locationZipcode": "14075",
+  "lat": 42.6746902507414,
+  "lon": -78.7910615491141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.045Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.045Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "upstate-locally-grown-online-farmer-s-market-1624-taylor-road-honea-path",
+  "name": "Upstate Locally Grown online Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1624 Taylor Road Honea Path, SC",
+  "locationCity": "1624 Taylor Road Honea Path",
+  "locationState": "SC",
+  "locationZipcode": "29654",
+  "lat": 34.501758788971074,
+  "lon": -82.36356019869707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.196Z"
+}

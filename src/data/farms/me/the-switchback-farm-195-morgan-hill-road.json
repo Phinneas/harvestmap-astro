@@ -1,0 +1,20 @@
+{
+  "slug": "the-switchback-farm-195-morgan-hill-road",
+  "name": "The Switchback Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "195 Morgan Hill road, ME",
+  "locationCity": "195 Morgan Hill road",
+  "locationState": "ME",
+  "locationZipcode": "04555",
+  "lat": 44.0688383039408,
+  "lon": -69.4966572939868,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.842Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.842Z",
+  "crops": []
+}

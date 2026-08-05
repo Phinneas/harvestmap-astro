@@ -1,0 +1,19 @@
+{
+  "slug": "ives-farm-585-cheshire-st",
+  "name": "Ives Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "585 Cheshire St, CT",
+  "locationCity": "585 Cheshire St",
+  "locationState": "CT",
+  "locationZipcode": "06410",
+  "lat": 41.5367098088933,
+  "lon": -72.8678303836289,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.002Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.002Z"
+}

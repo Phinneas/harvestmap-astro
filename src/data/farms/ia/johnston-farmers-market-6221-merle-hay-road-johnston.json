@@ -1,0 +1,19 @@
+{
+  "slug": "johnston-farmers-market-6221-merle-hay-road-johnston",
+  "name": "Johnston Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6221 Merle Hay Road Johnston, IA",
+  "locationCity": "6221 Merle Hay Road Johnston",
+  "locationState": "IA",
+  "locationZipcode": "50131",
+  "lat": 41.67357496650165,
+  "lon": -93.69766315671544,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

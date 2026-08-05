@@ -1,0 +1,19 @@
+{
+  "slug": "berridge-farms-po-box-104",
+  "name": "Berridge Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "PO BOX 104, NM",
+  "locationCity": "PO BOX 104",
+  "locationState": "NM",
+  "locationZipcode": "87936",
+  "lat": 32.754465,
+  "lon": -107.26487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:54.553Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:54.553Z"
+}

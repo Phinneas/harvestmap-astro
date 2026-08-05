@@ -1,0 +1,19 @@
+{
+  "slug": "kash-farm-177-petersburg-road",
+  "name": "Kash Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "177 Petersburg Road, NJ",
+  "locationCity": "177 Petersburg Road",
+  "locationState": "NJ",
+  "locationZipcode": "07840",
+  "lat": 40.875857985055,
+  "lon": -74.8727900417861,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.293Z"
+}

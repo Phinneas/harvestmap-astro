@@ -1,0 +1,19 @@
+{
+  "slug": "delano-farmers-market-8045-county-line-rd-se",
+  "name": "Delano Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8045 County Line Rd SE, MN",
+  "locationCity": "8045 County Line Rd SE",
+  "locationState": "MN",
+  "locationZipcode": "55328",
+  "lat": 45.0351001,
+  "lon": -93.7681972,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

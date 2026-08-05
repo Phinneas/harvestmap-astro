@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-imperial-198-kempner-street-sugar-land",
+  "name": "Farmers Market at Imperial",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "198 Kempner Street Sugar Land, TX",
+  "locationCity": "198 Kempner Street Sugar Land",
+  "locationState": "TX",
+  "locationZipcode": "77478",
+  "lat": 29.619962878818853,
+  "lon": -95.63701798554871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.199Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.199Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "field-goods-farm-2310-annett-st",
+  "name": "Field Goods Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2310 Annett St., ID",
+  "locationCity": "2310 Annett St.",
+  "locationState": "ID",
+  "locationZipcode": "83705",
+  "lat": 43.5812312,
+  "lon": -116.2037007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:32.482Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:32.482Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bass-farms-1325-highway-30-west",
+  "name": "Bass Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1325 Highway 30 West, IA",
+  "locationCity": "1325 Highway 30 West",
+  "locationState": "IA",
+  "locationZipcode": "52314",
+  "lat": 41.91925247540725,
+  "lon": -91.49435886688421,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:40.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:40.605Z"
+}

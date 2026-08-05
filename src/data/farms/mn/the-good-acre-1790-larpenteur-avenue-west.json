@@ -1,0 +1,19 @@
+{
+  "slug": "the-good-acre-1790-larpenteur-avenue-west",
+  "name": "The Good Acre",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1790 Larpenteur Avenue West, MN",
+  "locationCity": "1790 Larpenteur Avenue West",
+  "locationState": "MN",
+  "locationZipcode": "55113",
+  "lat": 44.9913526,
+  "lon": -93.174577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:13.501Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:13.501Z"
+}

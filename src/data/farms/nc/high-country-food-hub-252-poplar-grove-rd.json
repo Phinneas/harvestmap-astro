@@ -1,0 +1,19 @@
+{
+  "slug": "high-country-food-hub-252-poplar-grove-rd",
+  "name": "High Country Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "252 Poplar Grove Rd, NC",
+  "locationCity": "252 Poplar Grove Rd",
+  "locationState": "NC",
+  "locationZipcode": "28607",
+  "lat": 36.2204478,
+  "lon": -81.688715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.321Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.321Z"
+}

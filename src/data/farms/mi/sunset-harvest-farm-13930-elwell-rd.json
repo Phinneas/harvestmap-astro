@@ -1,0 +1,19 @@
+{
+  "slug": "sunset-harvest-farm-13930-elwell-rd",
+  "name": "Sunset Harvest Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "13930 Elwell Rd, MI",
+  "locationCity": "13930 Elwell Rd",
+  "locationState": "MI",
+  "locationZipcode": "13930",
+  "lat": 42.1999249,
+  "lon": -83.5037089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.094Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.094Z"
+}

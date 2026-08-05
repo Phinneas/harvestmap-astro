@@ -1,0 +1,19 @@
+{
+  "slug": "pure-harvest-market-6661-hickory-fork-rd-hayes",
+  "name": "Pure Harvest Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6661 Hickory Fork RD Hayes, VA",
+  "locationCity": "6661 Hickory Fork RD Hayes",
+  "locationState": "VA",
+  "locationZipcode": "23072",
+  "lat": 37.345987738209004,
+  "lon": -76.52676983699865,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

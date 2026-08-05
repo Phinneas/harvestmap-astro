@@ -1,0 +1,19 @@
+{
+  "slug": "smith-smith-farms-305-comstock",
+  "name": "Smith & Smith Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "305 Comstock, NV",
+  "locationCity": "305 Comstock",
+  "locationState": "NV",
+  "locationZipcode": "89403",
+  "lat": 39.2735550176695,
+  "lon": -119.517226964011,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:10.923Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:10.923Z"
+}

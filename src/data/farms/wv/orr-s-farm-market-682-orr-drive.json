@@ -1,0 +1,19 @@
+{
+  "slug": "orr-s-farm-market-682-orr-drive",
+  "name": "Orr's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "682 Orr Drive, WV",
+  "locationCity": "682 Orr Drive",
+  "locationState": "WV",
+  "locationZipcode": "25403",
+  "lat": 39.4355669801289,
+  "lon": -78.04677797390464,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:39.183Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:39.183Z"
+}

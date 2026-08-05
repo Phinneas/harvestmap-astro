@@ -1,0 +1,19 @@
+{
+  "slug": "wauconda-farmers-market-main-street-of-wauconda",
+  "name": "Wauconda Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street of Wauconda, IL",
+  "locationCity": "Main Street of Wauconda",
+  "locationState": "IL",
+  "locationZipcode": "60084",
+  "lat": 42.266513219803564,
+  "lon": -88.14475409614009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

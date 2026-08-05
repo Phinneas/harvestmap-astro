@@ -1,0 +1,19 @@
+{
+  "slug": "rice-area-farmers-market-10-division-st-n",
+  "name": "Rice Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Division St N, MN",
+  "locationCity": "10 Division St N",
+  "locationState": "MN",
+  "locationZipcode": "56367",
+  "lat": 45.7526595,
+  "lon": -94.2194465,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

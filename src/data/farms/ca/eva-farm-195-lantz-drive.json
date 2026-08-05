@@ -1,0 +1,19 @@
+{
+  "slug": "eva-farm-195-lantz-drive",
+  "name": "Eva Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "195 Lantz Drive, CA",
+  "locationCity": "195 Lantz Drive",
+  "locationState": "CA",
+  "locationZipcode": "95037",
+  "lat": 37.1846200000423,
+  "lon": -121.719363984521,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.826Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.826Z"
+}

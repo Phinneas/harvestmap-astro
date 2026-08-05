@@ -1,0 +1,19 @@
+{
+  "slug": "munster-farmer-s-market-901-n-centennial-dr-munster",
+  "name": "Munster Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "901 N. Centennial Dr. Munster, IN",
+  "locationCity": "901 N. Centennial Dr. Munster",
+  "locationState": "IN",
+  "locationZipcode": "46321",
+  "lat": 40.609974470951464,
+  "lon": -79.19899648332715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.654Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.654Z"
+}

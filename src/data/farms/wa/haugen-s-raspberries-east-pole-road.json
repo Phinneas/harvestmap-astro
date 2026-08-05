@@ -1,0 +1,19 @@
+{
+  "slug": "haugen-s-raspberries-east-pole-road",
+  "name": "Haugen's Raspberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "East Pole Road, WA",
+  "locationCity": "East Pole Road",
+  "locationState": "WA",
+  "locationZipcode": "98264",
+  "lat": 48.8902030134994,
+  "lon": -122.460387005685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.317Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.317Z"
+}

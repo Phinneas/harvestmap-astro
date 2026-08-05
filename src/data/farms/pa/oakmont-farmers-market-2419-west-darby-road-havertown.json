@@ -1,0 +1,19 @@
+{
+  "slug": "oakmont-farmers-market-2419-west-darby-road-havertown",
+  "name": "Oakmont Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2419 West Darby Road Havertown, PA",
+  "locationCity": "2419 West Darby Road Havertown",
+  "locationState": "PA",
+  "locationZipcode": "19083",
+  "lat": 39.988690575231836,
+  "lon": -75.3116070230557,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

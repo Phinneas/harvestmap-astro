@@ -1,0 +1,19 @@
+{
+  "slug": "dragonfly-farm-823-1400-lane",
+  "name": "Dragonfly Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "823 1400 Lane, CO",
+  "locationCity": "823 1400 Lane",
+  "locationState": "CO",
+  "locationZipcode": "81416",
+  "lat": 38.773807,
+  "lon": -108.10809,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:05.300Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:05.300Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "basalt-sunday-market-101-midland-avenue",
+  "name": "Basalt Sunday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Midland Avenue, CO",
+  "locationCity": "101 Midland Avenue",
+  "locationState": "CO",
+  "locationZipcode": "81621",
+  "lat": 39.368957,
+  "lon": -107.03473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.326Z"
+}

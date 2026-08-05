@@ -1,0 +1,19 @@
+{
+  "slug": "ron-s-produce-hc-80",
+  "name": "Ron's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "HC 80, NE",
+  "locationCity": "HC 80",
+  "locationState": "NE",
+  "locationZipcode": "68753",
+  "lat": 42.9263529,
+  "lon": -99.437405,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.815Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.815Z"
+}

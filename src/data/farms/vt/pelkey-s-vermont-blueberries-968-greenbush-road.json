@@ -1,0 +1,19 @@
+{
+  "slug": "pelkey-s-vermont-blueberries-968-greenbush-road",
+  "name": "Pelkey's Vermont Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "968 Greenbush Road, VT",
+  "locationCity": "968 Greenbush Road",
+  "locationState": "VT",
+  "locationZipcode": "05445",
+  "lat": 44.3367953907333,
+  "lon": -73.2583265007162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.974Z"
+}

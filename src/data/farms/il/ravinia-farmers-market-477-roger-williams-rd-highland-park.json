@@ -1,0 +1,19 @@
+{
+  "slug": "ravinia-farmers-market-477-roger-williams-rd-highland-park",
+  "name": "Ravinia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "477 roger williams rd Highland Park, IL",
+  "locationCity": "477 roger williams rd Highland Park",
+  "locationState": "IL",
+  "locationZipcode": "60035",
+  "lat": 42.16548534128329,
+  "lon": -87.78227482739214,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

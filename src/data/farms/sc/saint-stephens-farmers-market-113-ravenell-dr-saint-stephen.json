@@ -1,0 +1,19 @@
+{
+  "slug": "saint-stephens-farmers-market-113-ravenell-dr-saint-stephen",
+  "name": "Saint Stephens Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "113 Ravenell Dr Saint Stephen, SC",
+  "locationCity": "113 Ravenell Dr Saint Stephen",
+  "locationState": "SC",
+  "locationZipcode": "29479",
+  "lat": 33.40541156949974,
+  "lon": -79.92730329536278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

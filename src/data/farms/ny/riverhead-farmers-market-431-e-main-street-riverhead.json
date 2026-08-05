@@ -1,0 +1,19 @@
+{
+  "slug": "riverhead-farmers-market-431-e-main-street-riverhead",
+  "name": "Riverhead Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "431 E. Main Street Riverhead, NY",
+  "locationCity": "431 E. Main Street Riverhead",
+  "locationState": "NY",
+  "locationZipcode": "11901",
+  "lat": 40.91854294950431,
+  "lon": -72.65690318430966,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

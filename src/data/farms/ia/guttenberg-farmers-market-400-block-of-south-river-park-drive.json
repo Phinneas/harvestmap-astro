@@ -1,0 +1,19 @@
+{
+  "slug": "guttenberg-farmers-market-400-block-of-south-river-park-drive",
+  "name": "Guttenberg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Block of South River Park Drive, IA",
+  "locationCity": "400 Block of South River Park Drive",
+  "locationState": "IA",
+  "locationZipcode": "52052",
+  "lat": 42.782433,
+  "lon": -91.095446,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.564Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.564Z"
+}

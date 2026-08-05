@@ -1,0 +1,19 @@
+{
+  "slug": "winter-market-150-n-schuyler-avenue-kankakee",
+  "name": "Winter Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 N Schuyler Avenue Kankakee, IL",
+  "locationCity": "150 N Schuyler Avenue Kankakee",
+  "locationState": "IL",
+  "locationZipcode": "60901",
+  "lat": 41.12100643197611,
+  "lon": -87.86377018209457,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

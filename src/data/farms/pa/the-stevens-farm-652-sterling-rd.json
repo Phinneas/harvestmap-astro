@@ -1,0 +1,20 @@
+{
+  "slug": "the-stevens-farm-652-sterling-rd",
+  "name": "The Stevens' Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "652 Sterling Rd, PA",
+  "locationCity": "652 Sterling Rd",
+  "locationState": "PA",
+  "locationZipcode": "18463",
+  "lat": 41.3449990150262,
+  "lon": -75.3883350060267,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.118Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.118Z",
+  "crops": []
+}

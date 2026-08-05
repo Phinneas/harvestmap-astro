@@ -1,0 +1,19 @@
+{
+  "slug": "fernley-poolside-farmers-market-300-cottonwood-lane",
+  "name": "Fernley Poolside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Cottonwood Lane, NV",
+  "locationCity": "300 Cottonwood Lane",
+  "locationState": "NV",
+  "locationZipcode": "89408",
+  "lat": 39.594402,
+  "lon": -119.24733,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:24.182Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:24.182Z"
+}

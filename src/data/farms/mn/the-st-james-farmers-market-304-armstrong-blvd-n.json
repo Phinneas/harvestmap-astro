@@ -1,0 +1,19 @@
+{
+  "slug": "the-st-james-farmers-market-304-armstrong-blvd-n",
+  "name": "The St. James Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "304 Armstrong Blvd n, MN",
+  "locationCity": "304 Armstrong Blvd n",
+  "locationState": "MN",
+  "locationZipcode": "56081",
+  "lat": 43.9784291,
+  "lon": -94.614044,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.742Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.742Z"
+}

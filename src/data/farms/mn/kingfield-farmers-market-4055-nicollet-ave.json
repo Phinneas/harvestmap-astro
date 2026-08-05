@@ -1,0 +1,19 @@
+{
+  "slug": "kingfield-farmers-market-4055-nicollet-ave",
+  "name": "Kingfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4055 Nicollet Ave, MN",
+  "locationCity": "4055 Nicollet Ave",
+  "locationState": "MN",
+  "locationZipcode": "55409",
+  "lat": 44.9294207,
+  "lon": -93.2774606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

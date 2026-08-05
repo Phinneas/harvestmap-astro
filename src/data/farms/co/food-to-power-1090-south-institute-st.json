@@ -1,0 +1,19 @@
+{
+  "slug": "food-to-power-1090-south-institute-st",
+  "name": "Food to Power",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1090 South Institute St, CO",
+  "locationCity": "1090 South Institute St",
+  "locationState": "CO",
+  "locationZipcode": "80903",
+  "lat": 38.81738401894336,
+  "lon": -104.80871699974347,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:03.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:03.294Z"
+}

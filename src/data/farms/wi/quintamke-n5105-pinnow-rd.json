@@ -1,0 +1,19 @@
+{
+  "slug": "quintamke-n5105-pinnow-rd",
+  "name": "QuintaMKE",
+  "source": "usda",
+  "directory": "csa",
+  "location": "N5105 Pinnow Rd, WI",
+  "locationCity": "N5105 Pinnow Rd",
+  "locationState": "WI",
+  "locationZipcode": "53115",
+  "lat": 42.675591526867635,
+  "lon": -88.6993838142135,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.024Z"
+}

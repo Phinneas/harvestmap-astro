@@ -1,0 +1,19 @@
+{
+  "slug": "tampa-downtown-market-300-madison-street-tampa",
+  "name": "Tampa Downtown Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Madison Street Tampa, FL",
+  "locationCity": "300 Madison Street Tampa",
+  "locationState": "FL",
+  "locationZipcode": "33602",
+  "lat": 27.948464228843054,
+  "lon": -82.45821627779264,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

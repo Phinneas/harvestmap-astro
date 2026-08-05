@@ -1,0 +1,19 @@
+{
+  "slug": "central-coast-food-web-3814-yaquina-bay-rd",
+  "name": "Central Coast Food Web",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3814 Yaquina Bay Rd., OR",
+  "locationCity": "3814 Yaquina Bay Rd.",
+  "locationState": "OR",
+  "locationZipcode": "97365",
+  "lat": 44.606889013483595,
+  "lon": -124.0097099747554,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:04.362Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:04.362Z"
+}

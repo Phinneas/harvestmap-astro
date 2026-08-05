@@ -1,0 +1,19 @@
+{
+  "slug": "orange-door-farm-36-curtis-farm-road",
+  "name": "Orange Door Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "36 Curtis Farm Road, NH",
+  "locationCity": "36 Curtis Farm Road",
+  "locationState": "NH",
+  "locationZipcode": "03086",
+  "lat": 42.854765436078765,
+  "lon": -71.7585339824476,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.606Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.606Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "herndon-farmers-market-765-lynn-street-herndon",
+  "name": "Herndon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "765 Lynn Street Herndon, VA",
+  "locationCity": "765 Lynn Street Herndon",
+  "locationState": "VA",
+  "locationZipcode": "20170",
+  "lat": 38.97159407163594,
+  "lon": -77.38595764646975,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

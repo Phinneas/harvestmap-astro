@@ -1,0 +1,19 @@
+{
+  "slug": "nomad-market-kc-604-s-2nd-st",
+  "name": "Nomad Market KC",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "604 S. 2nd St., KS",
+  "locationCity": "604 S. 2nd St.",
+  "locationState": "KS",
+  "locationZipcode": "66053",
+  "lat": 38.61938561583064,
+  "lon": -94.68239875537074,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

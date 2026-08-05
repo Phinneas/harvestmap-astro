@@ -1,0 +1,19 @@
+{
+  "slug": "sinclair-farm-1167-crooked-run-rd",
+  "name": "Sinclair Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1167 Crooked Run Rd., VA",
+  "locationCity": "1167 Crooked Run Rd.",
+  "locationState": "VA",
+  "locationZipcode": "22842",
+  "lat": 38.764631,
+  "lon": -78.689532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.262Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.262Z"
+}

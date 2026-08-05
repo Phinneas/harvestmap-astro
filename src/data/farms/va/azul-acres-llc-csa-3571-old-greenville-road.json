@@ -1,0 +1,19 @@
+{
+  "slug": "azul-acres-llc-csa-3571-old-greenville-road",
+  "name": "Azul Acres LLC CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3571 Old Greenville Road, VA",
+  "locationCity": "3571 Old Greenville Road",
+  "locationState": "VA",
+  "locationZipcode": "24401",
+  "lat": 38.048826,
+  "lon": -79.153621,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.225Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.225Z"
+}

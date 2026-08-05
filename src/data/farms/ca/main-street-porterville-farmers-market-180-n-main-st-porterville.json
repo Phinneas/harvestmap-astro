@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-porterville-farmers-market-180-n-main-st-porterville",
+  "name": "Main Street Porterville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "180 N. Main St. Porterville, CA",
+  "locationCity": "180 N. Main St. Porterville",
+  "locationState": "CA",
+  "locationZipcode": "93257",
+  "lat": 36.06850250972808,
+  "lon": -119.01616401177255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

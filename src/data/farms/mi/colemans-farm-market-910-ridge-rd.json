@@ -1,0 +1,19 @@
+{
+  "slug": "colemans-farm-market-910-ridge-rd",
+  "name": "Colemans Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "910 Ridge Rd, MI",
+  "locationCity": "910 Ridge Rd",
+  "locationState": "MI",
+  "locationZipcode": "48198",
+  "lat": 42.254631017453335,
+  "lon": -83.55342500077255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.232Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.232Z"
+}

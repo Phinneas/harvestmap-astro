@@ -1,0 +1,19 @@
+{
+  "slug": "earthly-delights-farm-stinger-street",
+  "name": "Earthly Delights Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Stinger Street, ID",
+  "locationCity": "Stinger Street",
+  "locationState": "ID",
+  "locationZipcode": "83703",
+  "lat": 43.6672392,
+  "lon": -116.2549358,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:32.487Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:32.487Z"
+}

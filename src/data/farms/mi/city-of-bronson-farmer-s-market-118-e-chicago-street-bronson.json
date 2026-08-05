@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-bronson-farmer-s-market-118-e-chicago-street-bronson",
+  "name": "City of Bronson Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "118 E. Chicago Street Bronson, MI",
+  "locationCity": "118 E. Chicago Street Bronson",
+  "locationState": "MI",
+  "locationZipcode": "49028",
+  "lat": 41.87241352779681,
+  "lon": -85.19437990619319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

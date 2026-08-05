@@ -1,0 +1,19 @@
+{
+  "slug": "rome-farmers-market-130-east-dominick-street-rome",
+  "name": "Rome Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "130 East Dominick Street Rome, NY",
+  "locationCity": "130 East Dominick Street Rome",
+  "locationState": "NY",
+  "locationZipcode": "13440",
+  "lat": 43.211606622121366,
+  "lon": -75.45934097465116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

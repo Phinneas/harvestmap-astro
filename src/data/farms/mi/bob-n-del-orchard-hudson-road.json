@@ -1,0 +1,19 @@
+{
+  "slug": "bob-n-del-orchard-hudson-road",
+  "name": "Bob N Del Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hudson Road, MI",
+  "locationCity": "Hudson Road",
+  "locationState": "MI",
+  "locationZipcode": "49242",
+  "lat": 41.88453,
+  "lon": -84.54459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.720Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.720Z"
+}

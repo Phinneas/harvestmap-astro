@@ -1,0 +1,19 @@
+{
+  "slug": "water-way-farm-water-way-farm",
+  "name": "Water Way Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Water Way Farm, RI",
+  "locationCity": "Water Way Farm",
+  "locationState": "RI",
+  "locationZipcode": "02806",
+  "lat": 41.72611089999999,
+  "lon": -71.3117224,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:41.439Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:41.439Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hood-river-organic-4700-dee-highway",
+  "name": "Hood River Organic",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4700 Dee Highway, OR",
+  "locationCity": "4700 Dee Highway",
+  "locationState": "OR",
+  "locationZipcode": "97031",
+  "lat": 45.5916447,
+  "lon": -121.6282625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.948Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.948Z"
+}

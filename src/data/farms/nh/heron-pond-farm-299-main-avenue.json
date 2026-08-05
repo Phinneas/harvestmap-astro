@@ -1,0 +1,19 @@
+{
+  "slug": "heron-pond-farm-299-main-avenue",
+  "name": "Heron Pond Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "299 Main Avenue, NH",
+  "locationCity": "299 Main Avenue",
+  "locationState": "NH",
+  "locationZipcode": "03827",
+  "lat": 42.8787600169325,
+  "lon": -70.9507279800953,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.780Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.780Z"
+}

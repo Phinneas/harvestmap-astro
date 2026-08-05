@@ -1,0 +1,19 @@
+{
+  "slug": "walker-farms-28800-chieftain-dr",
+  "name": "Walker Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "28800 Chieftain Dr, OH",
+  "locationCity": "28800 Chieftain Dr",
+  "locationState": "OH",
+  "locationZipcode": "28800",
+  "lat": 39.5635520199144,
+  "lon": -82.483601040432,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.838Z"
+}

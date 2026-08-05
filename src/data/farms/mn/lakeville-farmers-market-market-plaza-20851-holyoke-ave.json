@@ -1,0 +1,19 @@
+{
+  "slug": "lakeville-farmers-market-market-plaza-20851-holyoke-ave",
+  "name": "Lakeville Farmers' Market (Market Plaza)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20851 Holyoke Ave, MN",
+  "locationCity": "20851 Holyoke Ave",
+  "locationState": "MN",
+  "locationZipcode": "20851",
+  "lat": 44.6475506,
+  "lon": -93.2430818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

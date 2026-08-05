@@ -1,0 +1,19 @@
+{
+  "slug": "shackley-hill-orchard-shackley-hill-road",
+  "name": "Shackley Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Shackley Hill Road, ME",
+  "locationCity": "Shackley Hill Road",
+  "locationState": "ME",
+  "locationZipcode": "04253",
+  "lat": 44.4092219828063,
+  "lon": -70.2648536822882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.034Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.034Z"
+}

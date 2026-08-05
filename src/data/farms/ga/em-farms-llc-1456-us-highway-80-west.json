@@ -1,0 +1,19 @@
+{
+  "slug": "em-farms-llc-1456-us-highway-80-west",
+  "name": "EM Farms LLC",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1456 US Highway 80 West, GA",
+  "locationCity": "1456 US Highway 80 West",
+  "locationState": "GA",
+  "locationZipcode": "31016",
+  "lat": 32.752503523527785,
+  "lon": -84.18022995437407,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:57.883Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:57.883Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "spring-mountain-farms-4595-interchange-rd",
+  "name": "Spring Mountain Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4595 Interchange Rd, PA",
+  "locationCity": "4595 Interchange Rd",
+  "locationState": "PA",
+  "locationZipcode": "18235",
+  "lat": 40.84616123738056,
+  "lon": -75.62205574271366,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.597Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.597Z",
+  "crops": []
+}

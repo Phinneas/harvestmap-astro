@@ -1,0 +1,19 @@
+{
+  "slug": "garden-spot-market-106-w-main-st",
+  "name": "Garden Spot Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 W Main St, MN",
+  "locationCity": "106 W Main St",
+  "locationState": "MN",
+  "locationZipcode": "55918",
+  "lat": 43.7411262,
+  "lon": -92.8702193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

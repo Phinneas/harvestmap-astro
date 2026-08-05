@@ -1,0 +1,19 @@
+{
+  "slug": "the-farm-stand-at-farmer-dave-s-476-parker-road",
+  "name": "The Farm Stand at Farmer Dave's",
+  "source": "usda",
+  "directory": "csa",
+  "location": "476 Parker Road, MA",
+  "locationCity": "476 Parker Road",
+  "locationState": "MA",
+  "locationZipcode": "01826",
+  "lat": 42.68289326869029,
+  "lon": -71.26748805520324,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.287Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.287Z"
+}

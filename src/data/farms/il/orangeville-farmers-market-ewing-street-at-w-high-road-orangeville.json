@@ -1,0 +1,19 @@
+{
+  "slug": "orangeville-farmers-market-ewing-street-at-w-high-road-orangeville",
+  "name": "Orangeville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Ewing Street at W High Road Orangeville, IL",
+  "locationCity": "Ewing Street at W High Road Orangeville",
+  "locationState": "IL",
+  "locationZipcode": "61060",
+  "lat": 42.46947000849502,
+  "lon": -89.65059001448127,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

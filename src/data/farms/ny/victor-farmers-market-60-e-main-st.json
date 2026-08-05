@@ -1,0 +1,19 @@
+{
+  "slug": "victor-farmers-market-60-e-main-st",
+  "name": "Victor Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "60 E Main St, NY",
+  "locationCity": "60 E Main St",
+  "locationState": "NY",
+  "locationZipcode": "14564",
+  "lat": 42.98219896477045,
+  "lon": -77.40831721519596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

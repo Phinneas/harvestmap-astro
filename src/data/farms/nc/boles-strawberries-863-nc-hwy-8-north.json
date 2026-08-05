@@ -1,0 +1,19 @@
+{
+  "slug": "boles-strawberries-863-nc-hwy-8-north",
+  "name": "Boles Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "863 NC Hwy 8 North, NC",
+  "locationCity": "863 NC Hwy 8 North",
+  "locationState": "NC",
+  "locationZipcode": "27022",
+  "lat": 36.5135718728665,
+  "lon": -80.2234850853775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.890Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.890Z"
+}

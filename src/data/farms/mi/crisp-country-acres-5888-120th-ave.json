@@ -1,0 +1,19 @@
+{
+  "slug": "crisp-country-acres-5888-120th-ave",
+  "name": "Crisp Country Acres",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5888 120th Ave, MI",
+  "locationCity": "5888 120th Ave",
+  "locationState": "MI",
+  "locationZipcode": "49424",
+  "lat": 42.8759622,
+  "lon": -86.0791718,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.091Z"
+}

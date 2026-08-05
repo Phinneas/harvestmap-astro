@@ -1,0 +1,19 @@
+{
+  "slug": "burris-farms-u-pick-920-highway-4-west",
+  "name": "Burris Farms U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "920 Highway 4 West, MS",
+  "locationCity": "920 Highway 4 West",
+  "locationState": "MS",
+  "locationZipcode": "38668",
+  "lat": 34.6194412929061,
+  "lon": -90.0702848628956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.596Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.596Z"
+}

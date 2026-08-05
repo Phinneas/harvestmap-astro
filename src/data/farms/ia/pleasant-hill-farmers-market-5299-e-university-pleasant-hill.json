@@ -1,0 +1,19 @@
+{
+  "slug": "pleasant-hill-farmers-market-5299-e-university-pleasant-hill",
+  "name": "Pleasant Hill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5299 E University Pleasant Hill, IA",
+  "locationCity": "5299 E University Pleasant Hill",
+  "locationState": "IA",
+  "locationZipcode": "50327",
+  "lat": 41.59785601384837,
+  "lon": -93.50832197512888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

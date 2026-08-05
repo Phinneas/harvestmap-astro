@@ -1,0 +1,19 @@
+{
+  "slug": "solace-farm-30119-n-spotted-rd",
+  "name": "Solace Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "30119 N. Spotted Rd, WA",
+  "locationCity": "30119 N. Spotted Rd",
+  "locationState": "WA",
+  "locationZipcode": "30119",
+  "lat": 47.93060803689556,
+  "lon": -117.52163512516843,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.621Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.621Z"
+}

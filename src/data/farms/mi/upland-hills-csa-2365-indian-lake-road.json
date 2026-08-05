@@ -1,0 +1,19 @@
+{
+  "slug": "upland-hills-csa-2365-indian-lake-road",
+  "name": "Upland Hills CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2365 Indian Lake Road, MI",
+  "locationCity": "2365 Indian Lake Road",
+  "locationState": "MI",
+  "locationZipcode": "48370",
+  "lat": 42.806253,
+  "lon": -83.186398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.966Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.966Z"
+}

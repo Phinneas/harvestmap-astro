@@ -1,0 +1,19 @@
+{
+  "slug": "living-river-farms-main-street",
+  "name": "Living River Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Main Street, MT",
+  "locationCity": "Main Street",
+  "locationState": "MT",
+  "locationZipcode": "59833",
+  "lat": 46.5093200000001,
+  "lon": -114.09365,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:09.804Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:09.804Z"
+}

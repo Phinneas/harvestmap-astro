@@ -1,0 +1,19 @@
+{
+  "slug": "pickin-patch-811-us-highway-31",
+  "name": "Pickin' Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "811 US Highway 31, IN",
+  "locationCity": "811 US Highway 31",
+  "locationState": "IN",
+  "locationZipcode": "46563",
+  "lat": 41.4667434140528,
+  "lon": -86.3063425083822,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.296Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.296Z"
+}

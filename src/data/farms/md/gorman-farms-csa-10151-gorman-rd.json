@@ -1,0 +1,19 @@
+{
+  "slug": "gorman-farms-csa-10151-gorman-rd",
+  "name": "Gorman Farms / CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10151 Gorman Rd, MD",
+  "locationCity": "10151 Gorman Rd",
+  "locationState": "MD",
+  "locationZipcode": "10151",
+  "lat": 39.148883,
+  "lon": -76.861989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.704Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.704Z"
+}

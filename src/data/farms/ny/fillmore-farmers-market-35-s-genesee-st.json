@@ -1,0 +1,19 @@
+{
+  "slug": "fillmore-farmers-market-35-s-genesee-st",
+  "name": "Fillmore Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "35 S Genesee St, NY",
+  "locationCity": "35 S Genesee St",
+  "locationState": "NY",
+  "locationZipcode": "14735",
+  "lat": 42.46295770341791,
+  "lon": -78.11227138777426,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

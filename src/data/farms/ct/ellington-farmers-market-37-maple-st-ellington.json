@@ -1,0 +1,19 @@
+{
+  "slug": "ellington-farmers-market-37-maple-st-ellington",
+  "name": "Ellington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "37 Maple St ELLINGTON, CT",
+  "locationCity": "37 Maple St ELLINGTON",
+  "locationState": "CT",
+  "locationZipcode": "06029",
+  "lat": 41.90808371319921,
+  "lon": -72.4606328687849,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

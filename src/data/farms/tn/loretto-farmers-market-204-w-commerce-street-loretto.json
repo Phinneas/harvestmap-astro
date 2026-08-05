@@ -1,0 +1,19 @@
+{
+  "slug": "loretto-farmers-market-204-w-commerce-street-loretto",
+  "name": "Loretto Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "204 W. Commerce Street Loretto, TN",
+  "locationCity": "204 W. Commerce Street Loretto",
+  "locationState": "TN",
+  "locationZipcode": "38469",
+  "lat": 35.078914091691715,
+  "lon": -87.43961692285482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

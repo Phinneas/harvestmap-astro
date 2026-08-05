@@ -1,0 +1,19 @@
+{
+  "slug": "far-view-farm-hemlock-road",
+  "name": "Far View Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hemlock Road, NH",
+  "locationCity": "Hemlock Road",
+  "locationState": "NH",
+  "locationZipcode": "03602",
+  "lat": 43.17299,
+  "lon": -72.38487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.915Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.915Z"
+}

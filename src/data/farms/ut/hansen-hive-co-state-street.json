@@ -1,0 +1,19 @@
+{
+  "slug": "hansen-hive-co-state-street",
+  "name": "Hansen Hive Co.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "State Street, UT",
+  "locationCity": "State Street",
+  "locationState": "UT",
+  "locationZipcode": "84115",
+  "lat": 40.7603100000001,
+  "lon": -111.88822,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.687Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.687Z"
+}

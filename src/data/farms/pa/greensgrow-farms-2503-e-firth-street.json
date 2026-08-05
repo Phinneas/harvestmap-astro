@@ -1,0 +1,19 @@
+{
+  "slug": "greensgrow-farms-2503-e-firth-street",
+  "name": "Greensgrow Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2503 E. Firth Street, PA",
+  "locationCity": "2503 E. Firth Street",
+  "locationState": "PA",
+  "locationZipcode": "19125",
+  "lat": 39.9786195,
+  "lon": -75.1206568,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.545Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.545Z"
+}

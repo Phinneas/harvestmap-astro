@@ -1,0 +1,19 @@
+{
+  "slug": "wildwood-gardens-5442-saunders-street",
+  "name": "Wildwood  Gardens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5442 Saunders Street, MI",
+  "locationCity": "5442 Saunders Street",
+  "locationState": "MI",
+  "locationZipcode": "48116",
+  "lat": 42.52412789618788,
+  "lon": -83.76237067569157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.099Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.099Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "echoing-hope-ranch-8344-s-hereford-rd",
+  "name": "Echoing Hope Ranch",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8344 S Hereford Rd, AZ",
+  "locationCity": "8344 S Hereford Rd",
+  "locationState": "AZ",
+  "locationZipcode": "85615",
+  "lat": 31.4178209,
+  "lon": -110.0936296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:13.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:13.375Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "persephone-farm-northeast-midway-avenue",
+  "name": "Persephone Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Northeast Midway Avenue, WA",
+  "locationCity": "Northeast Midway Avenue",
+  "locationState": "WA",
+  "locationZipcode": "98342",
+  "lat": 47.7525080171192,
+  "lon": -122.512275009655,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.190Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.190Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "arbor-hill-blackberry-farm-2100-arbor-hill-road",
+  "name": "Arbor Hill Blackberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2100 Arbor Hill Road, GA",
+  "locationCity": "2100 Arbor Hill Road",
+  "locationState": "GA",
+  "locationZipcode": "30115",
+  "lat": 34.21218599388943,
+  "lon": -84.34486399607029,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.401Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.401Z"
+}

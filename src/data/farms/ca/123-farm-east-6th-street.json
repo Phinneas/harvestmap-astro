@@ -1,0 +1,19 @@
+{
+  "slug": "123-farm-east-6th-street",
+  "name": "123 Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "East 6th Street, CA",
+  "locationCity": "East 6th Street",
+  "locationState": "CA",
+  "locationZipcode": "92223",
+  "lat": 33.9292538062672,
+  "lon": -116.946950328219,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.803Z"
+}

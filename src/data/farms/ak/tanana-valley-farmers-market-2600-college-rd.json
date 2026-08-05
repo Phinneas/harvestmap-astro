@@ -1,0 +1,19 @@
+{
+  "slug": "tanana-valley-farmers-market-2600-college-rd",
+  "name": "Tanana Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2600 College Rd, AK",
+  "locationCity": "2600 College Rd",
+  "locationState": "AK",
+  "locationZipcode": "99709",
+  "lat": 64.86266040231017,
+  "lon": -147.7809520184179,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

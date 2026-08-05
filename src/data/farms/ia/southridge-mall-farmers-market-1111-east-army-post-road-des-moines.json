@@ -1,0 +1,19 @@
+{
+  "slug": "southridge-mall-farmers-market-1111-east-army-post-road-des-moines",
+  "name": "Southridge Mall Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1111 East Army Post Road Des Moines, IA",
+  "locationCity": "1111 East Army Post Road Des Moines",
+  "locationState": "IA",
+  "locationZipcode": "50315",
+  "lat": 41.52632811149204,
+  "lon": -93.59973067881373,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

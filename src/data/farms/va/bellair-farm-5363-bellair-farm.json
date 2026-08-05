@@ -1,0 +1,19 @@
+{
+  "slug": "bellair-farm-5363-bellair-farm",
+  "name": "Bellair Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5363 Bellair Farm, VA",
+  "locationCity": "5363 Bellair Farm",
+  "locationState": "VA",
+  "locationZipcode": "22902",
+  "lat": 37.887650452501916,
+  "lon": -78.51662153309054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.256Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.256Z"
+}

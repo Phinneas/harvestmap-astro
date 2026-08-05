@@ -1,0 +1,19 @@
+{
+  "slug": "home-farm-16539-183rd-street",
+  "name": "Home Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16539 183rd Street, MN",
+  "locationCity": "16539 183rd Street",
+  "locationState": "MN",
+  "locationZipcode": "16539",
+  "lat": 46.0229670051592,
+  "lon": -94.3123179833928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.817Z"
+}

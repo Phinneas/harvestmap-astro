@@ -1,0 +1,19 @@
+{
+  "slug": "the-berlin-farmers-market-pitts-street-and-commerce-street",
+  "name": "The Berlin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Pitts Street and Commerce Street, MD",
+  "locationCity": "Pitts Street and Commerce Street",
+  "locationState": "MD",
+  "locationZipcode": "21811",
+  "lat": 38.325383,
+  "lon": -75.219388,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.491Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.491Z"
+}

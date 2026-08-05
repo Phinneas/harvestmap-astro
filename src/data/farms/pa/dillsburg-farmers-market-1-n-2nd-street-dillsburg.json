@@ -1,0 +1,19 @@
+{
+  "slug": "dillsburg-farmers-market-1-n-2nd-street-dillsburg",
+  "name": "Dillsburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 N. 2nd Street Dillsburg, PA",
+  "locationCity": "1 N. 2nd Street Dillsburg",
+  "locationState": "PA",
+  "locationZipcode": "17019",
+  "lat": 40.11066893206609,
+  "lon": -77.03730767570501,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

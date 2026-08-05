@@ -1,0 +1,19 @@
+{
+  "slug": "mount-pleasant-farmers-market-645-coleman-boulevard",
+  "name": "Mount Pleasant Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "645 Coleman Boulevard, SC",
+  "locationCity": "645 Coleman Boulevard",
+  "locationState": "SC",
+  "locationZipcode": "29464",
+  "lat": 32.790718,
+  "lon": -79.8734,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.051Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.051Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "brightberry-farm-262-kennebec-rd",
+  "name": "BrightBerry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "262 Kennebec Rd, ME",
+  "locationCity": "262 Kennebec Rd",
+  "locationState": "ME",
+  "locationZipcode": "04932",
+  "lat": 44.6800558565639,
+  "lon": -69.0947688935493,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.809Z"
+}

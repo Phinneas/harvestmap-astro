@@ -1,0 +1,19 @@
+{
+  "slug": "thimble-farm-85-stoney-hill-road",
+  "name": "Thimble Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "85 Stoney Hill Road, MA",
+  "locationCity": "85 Stoney Hill Road",
+  "locationState": "MA",
+  "locationZipcode": "02568",
+  "lat": 41.4238720660552,
+  "lon": -70.6197325313534,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.840Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.840Z"
+}

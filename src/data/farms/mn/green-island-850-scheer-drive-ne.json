@@ -1,0 +1,19 @@
+{
+  "slug": "green-island-850-scheer-drive-ne",
+  "name": "Green Island",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "850 Scheer Drive NE, MN",
+  "locationCity": "850 Scheer Drive NE",
+  "locationState": "MN",
+  "locationZipcode": "56482",
+  "lat": 46.4471640188466,
+  "lon": -95.1257210015905,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.789Z"
+}

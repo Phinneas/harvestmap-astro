@@ -1,0 +1,19 @@
+{
+  "slug": "herman-produce-753-elberta",
+  "name": "Herman Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "753 Elberta, CO",
+  "locationCity": "753 Elberta",
+  "locationState": "CO",
+  "locationZipcode": "81526",
+  "lat": 39.10887963904394,
+  "lon": -108.36017921655319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:05.335Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:05.335Z"
+}

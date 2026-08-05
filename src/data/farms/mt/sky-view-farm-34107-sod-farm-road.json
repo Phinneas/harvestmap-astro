@@ -1,0 +1,20 @@
+{
+  "slug": "sky-view-farm-34107-sod-farm-road",
+  "name": "Sky View Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "34107 Sod Farm Road, MT",
+  "locationCity": "34107 Sod Farm Road",
+  "locationState": "MT",
+  "locationZipcode": "34107",
+  "lat": 47.1998823514208,
+  "lon": -114.077879997938,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:09.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:09.824Z",
+  "crops": []
+}

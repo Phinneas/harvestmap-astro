@@ -1,0 +1,19 @@
+{
+  "slug": "bensonhurst-greenmarket-8118-18th-ave",
+  "name": "Bensonhurst Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8118 18th Ave, NY",
+  "locationCity": "8118 18th Ave",
+  "locationState": "NY",
+  "locationZipcode": "11214",
+  "lat": 40.609827996160824,
+  "lon": -73.99958515943747,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

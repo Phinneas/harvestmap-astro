@@ -1,0 +1,19 @@
+{
+  "slug": "charlie-s-produce-crabs-4866-route-30-west",
+  "name": "Charlie's Produce Crabs",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4866 Route 30 West, PA",
+  "locationCity": "4866 Route 30 West",
+  "locationState": "PA",
+  "locationZipcode": "17364",
+  "lat": 39.92852968638394,
+  "lon": -76.83815924174068,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

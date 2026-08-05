@@ -1,0 +1,19 @@
+{
+  "slug": "suffolk-y-jcc-farmers-market-74-hauppauge-rd-commack",
+  "name": "Suffolk Y JCC Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "74 Hauppauge Rd Commack, NY",
+  "locationCity": "74 Hauppauge Rd Commack",
+  "locationState": "NY",
+  "locationZipcode": "11725",
+  "lat": 40.82803339305015,
+  "lon": -73.30101765591388,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

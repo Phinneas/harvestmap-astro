@@ -1,0 +1,19 @@
+{
+  "slug": "original-farmers-market-222-east-market-street-indianapolis",
+  "name": "Original Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "222 East Market Street Indianapolis, IN",
+  "locationCity": "222 East Market Street Indianapolis",
+  "locationState": "IN",
+  "locationZipcode": "46204",
+  "lat": 39.768434876810744,
+  "lon": -86.153918953359,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

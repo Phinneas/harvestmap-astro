@@ -1,0 +1,19 @@
+{
+  "slug": "magnusson-farms-605-state-highway-11",
+  "name": "Magnusson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "605 State Highway 11, MN",
+  "locationCity": "605 State Highway 11",
+  "locationState": "MN",
+  "locationZipcode": "56751",
+  "lat": 48.8481373062468,
+  "lon": -95.7701438384815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.764Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.764Z"
+}

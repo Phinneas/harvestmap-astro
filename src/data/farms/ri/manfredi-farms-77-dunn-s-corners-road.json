@@ -1,0 +1,20 @@
+{
+  "slug": "manfredi-farms-77-dunn-s-corners-road",
+  "name": "Manfredi Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "77 Dunn's Corners Road, RI",
+  "locationCity": "77 Dunn's Corners Road",
+  "locationState": "RI",
+  "locationZipcode": "02891",
+  "lat": 41.3644000195732,
+  "lon": -71.7727380393877,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.011Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.011Z",
+  "crops": []
+}

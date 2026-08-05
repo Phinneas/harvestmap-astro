@@ -1,0 +1,19 @@
+{
+  "slug": "tomkins-farm-429-seeger-rd",
+  "name": "Tomkins Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "429 Seeger Rd, LA",
+  "locationCity": "429 Seeger Rd",
+  "locationState": "LA",
+  "locationZipcode": "70433",
+  "lat": 30.4693412063598,
+  "lon": -90.1556656672724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.197Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.197Z"
+}

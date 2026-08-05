@@ -1,0 +1,19 @@
+{
+  "slug": "cedar-creek-apiaries-us-52",
+  "name": "Cedar Creek Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US 52, IA",
+  "locationCity": "US 52",
+  "locationState": "IA",
+  "locationZipcode": "52052",
+  "lat": 42.7857300000001,
+  "lon": -91.1017199999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.634Z"
+}

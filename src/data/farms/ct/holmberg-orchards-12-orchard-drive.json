@@ -1,0 +1,19 @@
+{
+  "slug": "holmberg-orchards-12-orchard-drive",
+  "name": "Holmberg Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12 Orchard Drive, CT",
+  "locationCity": "12 Orchard Drive",
+  "locationState": "CT",
+  "locationZipcode": "06335",
+  "lat": 41.4510232030373,
+  "lon": -72.0994763015413,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.928Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.928Z"
+}

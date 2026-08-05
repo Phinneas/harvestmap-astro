@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-farms-county-road-205",
+  "name": "Blueberry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "County Road 205, TX",
+  "locationCity": "County Road 205",
+  "locationState": "TX",
+  "locationZipcode": "75964",
+  "lat": 31.6581060186299,
+  "lon": -94.579383020559,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.656Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.656Z"
+}

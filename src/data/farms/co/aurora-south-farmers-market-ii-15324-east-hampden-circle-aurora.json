@@ -1,0 +1,19 @@
+{
+  "slug": "aurora-south-farmers-market-ii-15324-east-hampden-circle-aurora",
+  "name": "Aurora South Farmers Market II",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15324 East Hampden Circle Aurora, CO",
+  "locationCity": "15324 East Hampden Circle Aurora",
+  "locationState": "CO",
+  "locationZipcode": "15324",
+  "lat": 39.65097603435367,
+  "lon": -104.80936747150693,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.365Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.365Z"
+}

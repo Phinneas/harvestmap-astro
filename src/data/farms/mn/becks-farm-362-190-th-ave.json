@@ -1,0 +1,19 @@
+{
+  "slug": "becks-farm-362-190-th-ave",
+  "name": "Becks Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "362 190 Th Ave, MN",
+  "locationCity": "362 190 Th Ave",
+  "locationState": "MN",
+  "locationZipcode": "55330",
+  "lat": 45.3151409005666,
+  "lon": -93.4965913647231,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.756Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.756Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bramblewood-farm-319-marengo-rd",
+  "name": "Bramblewood Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "319 Marengo Rd, IL",
+  "locationCity": "319 Marengo Rd",
+  "locationState": "IL",
+  "locationZipcode": "60033",
+  "lat": 42.412655876210266,
+  "lon": -88.61871763533853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.489Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.489Z"
+}

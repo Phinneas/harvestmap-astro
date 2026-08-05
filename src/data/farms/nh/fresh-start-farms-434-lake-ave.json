@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-start-farms-434-lake-ave",
+  "name": "Fresh Start Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "434 Lake Ave., NH",
+  "locationCity": "434 Lake Ave.",
+  "locationState": "NH",
+  "locationZipcode": "03103",
+  "lat": 42.98747200192301,
+  "lon": -71.44645301226826,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.802Z"
+}

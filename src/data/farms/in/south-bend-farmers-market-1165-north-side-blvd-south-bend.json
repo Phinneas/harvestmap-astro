@@ -1,0 +1,19 @@
+{
+  "slug": "south-bend-farmers-market-1165-north-side-blvd-south-bend",
+  "name": "South Bend Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1165 North Side Blvd. South Bend, IN",
+  "locationCity": "1165 North Side Blvd. South Bend",
+  "locationState": "IN",
+  "locationZipcode": "46615",
+  "lat": 41.66342329566837,
+  "lon": -86.23315848820286,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

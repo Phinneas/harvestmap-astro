@@ -1,0 +1,19 @@
+{
+  "slug": "hoodoo-valley-farm-7063-app-rd",
+  "name": "Hoodoo Valley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7063 App Rd, MN",
+  "locationCity": "7063 App Rd",
+  "locationState": "MN",
+  "locationZipcode": "55616",
+  "lat": 47.02288107342221,
+  "lon": -91.85863334306453,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.847Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.847Z"
+}

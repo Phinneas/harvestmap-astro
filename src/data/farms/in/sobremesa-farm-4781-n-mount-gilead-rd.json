@@ -1,0 +1,19 @@
+{
+  "slug": "sobremesa-farm-4781-n-mount-gilead-rd",
+  "name": "Sobremesa Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4781 N MOUNT GILEAD RD, IN",
+  "locationCity": "4781 N MOUNT GILEAD RD",
+  "locationState": "IN",
+  "locationZipcode": "47408",
+  "lat": 39.2215234,
+  "lon": -86.4256722,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.547Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.547Z"
+}

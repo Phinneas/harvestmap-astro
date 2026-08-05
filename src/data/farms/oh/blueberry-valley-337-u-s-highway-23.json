@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-valley-337-u-s-highway-23",
+  "name": "Blueberry Valley",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "337 U.s. Highway 23, OH",
+  "locationCity": "337 U.s. Highway 23",
+  "locationState": "OH",
+  "locationZipcode": "43103",
+  "lat": 39.7167690817981,
+  "lon": -82.986833930284,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.818Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.818Z"
+}

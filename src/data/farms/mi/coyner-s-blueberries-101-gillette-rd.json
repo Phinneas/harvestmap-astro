@@ -1,0 +1,19 @@
+{
+  "slug": "coyner-s-blueberries-101-gillette-rd",
+  "name": "Coyner's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Gillette Rd, MI",
+  "locationCity": "101 Gillette Rd",
+  "locationState": "MI",
+  "locationZipcode": "48433",
+  "lat": 43.1100511051155,
+  "lon": -83.8630335051805,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.651Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.651Z"
+}

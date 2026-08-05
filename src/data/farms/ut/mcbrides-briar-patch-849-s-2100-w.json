@@ -1,0 +1,19 @@
+{
+  "slug": "mcbrides-briar-patch-849-s-2100-w",
+  "name": "McBrides Briar Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "849 S. 2100 W, UT",
+  "locationCity": "849 S. 2100 W",
+  "locationState": "UT",
+  "locationZipcode": "84664",
+  "lat": 40.1142318361949,
+  "lon": -111.603770000676,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.585Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.585Z"
+}

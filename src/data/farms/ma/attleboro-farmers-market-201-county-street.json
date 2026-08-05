@@ -1,0 +1,19 @@
+{
+  "slug": "attleboro-farmers-market-201-county-street",
+  "name": "Attleboro Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 County Street, MA",
+  "locationCity": "201 County Street",
+  "locationState": "MA",
+  "locationZipcode": "02703",
+  "lat": 41.93605686114514,
+  "lon": -71.29655412911566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.864Z"
+}

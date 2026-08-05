@@ -1,0 +1,19 @@
+{
+  "slug": "redlands-farmers-market-210-e-citrus-ave",
+  "name": "Redlands Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 E CITRUS AVE, CA",
+  "locationCity": "210 E CITRUS AVE",
+  "locationState": "CA",
+  "locationZipcode": "92373",
+  "lat": 34.05555035560758,
+  "lon": -117.18097277256086,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

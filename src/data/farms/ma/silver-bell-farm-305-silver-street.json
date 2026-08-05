@@ -1,0 +1,19 @@
+{
+  "slug": "silver-bell-farm-305-silver-street",
+  "name": "Silver Bell Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "305 Silver Street, MA",
+  "locationCity": "305 Silver Street",
+  "locationState": "MA",
+  "locationZipcode": "01057",
+  "lat": 42.1393300183766,
+  "lon": -72.383616507232,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.581Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.581Z"
+}

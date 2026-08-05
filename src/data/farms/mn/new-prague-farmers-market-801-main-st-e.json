@@ -1,0 +1,19 @@
+{
+  "slug": "new-prague-farmers-market-801-main-st-e",
+  "name": "New Prague Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "801 Main St E, MN",
+  "locationCity": "801 Main St E",
+  "locationState": "MN",
+  "locationZipcode": "56071",
+  "lat": 44.5438365,
+  "lon": -93.5652361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

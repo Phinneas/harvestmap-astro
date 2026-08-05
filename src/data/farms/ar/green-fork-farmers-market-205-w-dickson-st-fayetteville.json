@@ -1,0 +1,19 @@
+{
+  "slug": "green-fork-farmers-market-205-w-dickson-st-fayetteville",
+  "name": "Green Fork Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 W. Dickson St. Fayetteville, AR",
+  "locationCity": "205 W. Dickson St. Fayetteville",
+  "locationState": "AR",
+  "locationZipcode": "72701",
+  "lat": 36.066356116361916,
+  "lon": -94.16192028158781,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

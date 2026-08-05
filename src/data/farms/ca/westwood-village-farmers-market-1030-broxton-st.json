@@ -1,0 +1,19 @@
+{
+  "slug": "westwood-village-farmers-market-1030-broxton-st",
+  "name": "Westwood Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1030 Broxton St, CA",
+  "locationCity": "1030 Broxton St",
+  "locationState": "CA",
+  "locationZipcode": "90024",
+  "lat": 34.061784,
+  "lon": -118.44653,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.351Z"
+}

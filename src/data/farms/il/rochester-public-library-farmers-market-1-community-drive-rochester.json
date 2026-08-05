@@ -1,0 +1,19 @@
+{
+  "slug": "rochester-public-library-farmers-market-1-community-drive-rochester",
+  "name": "Rochester Public Library Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Community Drive Rochester, IL",
+  "locationCity": "1 Community Drive Rochester",
+  "locationState": "IL",
+  "locationZipcode": "62563",
+  "lat": 39.74477501108532,
+  "lon": -89.52658202011445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

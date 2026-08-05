@@ -1,0 +1,19 @@
+{
+  "slug": "sunnyvale-farmers-market-murphy-avenue-at-washington-avenue",
+  "name": "Sunnyvale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Murphy Avenue at Washington Avenue, CA",
+  "locationCity": "Murphy Avenue at Washington Avenue",
+  "locationState": "CA",
+  "locationZipcode": "94086",
+  "lat": 37.385784,
+  "lon": -122.02632,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

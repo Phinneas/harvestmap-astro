@@ -1,0 +1,20 @@
+{
+  "slug": "lost-acres-orchard-130-lost-acres-road",
+  "name": "Lost Acres Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "130 Lost Acres Road, CT",
+  "locationCity": "130 Lost Acres Road",
+  "locationState": "CT",
+  "locationZipcode": "06060",
+  "lat": 42.0095719965219,
+  "lon": -72.8615310009856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.933Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.933Z",
+  "crops": []
+}

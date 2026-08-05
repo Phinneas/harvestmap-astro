@@ -1,0 +1,19 @@
+{
+  "slug": "division-street-city-market-100-w-division-st-chicago",
+  "name": "Division Street City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 W. Division St. Chicago, IL",
+  "locationCity": "100 W. Division St. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60610",
+  "lat": 41.90388435082592,
+  "lon": -87.6330740072182,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "5-bar-beef-irvine-valley",
+  "name": "5 Bar Beef",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Irvine Valley, CA",
+  "locationCity": "Irvine Valley",
+  "locationState": "CA",
+  "locationZipcode": "92604",
+  "lat": 33.6761799,
+  "lon": -117.78199,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.801Z"
+}

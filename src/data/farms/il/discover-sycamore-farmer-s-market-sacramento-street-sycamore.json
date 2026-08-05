@@ -1,0 +1,19 @@
+{
+  "slug": "discover-sycamore-farmer-s-market-sacramento-street-sycamore",
+  "name": "Discover Sycamore Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Sacramento Street. Sycamore, IL",
+  "locationCity": "Sacramento Street. Sycamore",
+  "locationState": "IL",
+  "locationZipcode": "60178",
+  "lat": 41.99120868602663,
+  "lon": -88.68957888607208,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "grand-ledge-farmers-market-213-s-bridge-st-grand-ledge",
+  "name": "Grand Ledge Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "213 S. Bridge St Grand Ledge, MI",
+  "locationCity": "213 S. Bridge St Grand Ledge",
+  "locationState": "MI",
+  "locationZipcode": "48837",
+  "lat": 42.75385843138432,
+  "lon": -84.74540550343795,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jefferson-farmers-market-28-college-street-jefferson",
+  "name": "Jefferson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "28 College Street Jefferson, GA",
+  "locationCity": "28 College Street Jefferson",
+  "locationState": "GA",
+  "locationZipcode": "30549",
+  "lat": 34.11894984068215,
+  "lon": -83.5737488158835,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stardust-market-garden-405-e-church-ave",
+  "name": "Stardust Market Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "405 E. Church Ave, OK",
+  "locationCity": "405 E. Church Ave",
+  "locationState": "OK",
+  "locationZipcode": "74343",
+  "lat": 36.754248331652136,
+  "lon": -94.84306704944143,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:27.104Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:27.104Z"
+}

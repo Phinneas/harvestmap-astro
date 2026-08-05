@@ -1,0 +1,19 @@
+{
+  "slug": "taproot-community-farm-inc-1601-stambaugh-ave",
+  "name": "Taproot Community Farm INC",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1601 Stambaugh Ave, MI",
+  "locationCity": "1601 Stambaugh Ave",
+  "locationState": "MI",
+  "locationZipcode": "49935",
+  "lat": 46.07498400661862,
+  "lon": -88.62642496294642,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.246Z"
+}

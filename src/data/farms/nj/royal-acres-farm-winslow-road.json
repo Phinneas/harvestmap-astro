@@ -1,0 +1,19 @@
+{
+  "slug": "royal-acres-farm-winslow-road",
+  "name": "Royal Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Winslow Road, NJ",
+  "locationCity": "Winslow Road",
+  "locationState": "NJ",
+  "locationZipcode": "08094",
+  "lat": 39.6723160146141,
+  "lon": -74.9416949855823,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.379Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.379Z"
+}

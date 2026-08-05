@@ -1,0 +1,19 @@
+{
+  "slug": "upstream-gardens-orchard-5987-ne-88th-street",
+  "name": "Upstream Gardens Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5987 NE 88th Street, IA",
+  "locationCity": "5987 NE 88th Street",
+  "locationState": "IA",
+  "locationZipcode": "50009",
+  "lat": 41.66732401199047,
+  "lon": -93.42550499989908,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:40.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:40.605Z"
+}

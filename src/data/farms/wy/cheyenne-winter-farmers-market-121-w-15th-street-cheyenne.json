@@ -1,0 +1,19 @@
+{
+  "slug": "cheyenne-winter-farmers-market-121-w-15th-street-cheyenne",
+  "name": "Cheyenne Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 W 15th Street Cheyenne, WY",
+  "locationCity": "121 W 15th Street Cheyenne",
+  "locationState": "WY",
+  "locationZipcode": "82001",
+  "lat": 41.131830855340134,
+  "lon": -104.81478902296035,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

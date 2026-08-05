@@ -1,0 +1,19 @@
+{
+  "slug": "champlain-orchards-3597-route-74-west",
+  "name": "Champlain Orchards",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3597 Route 74 West, VT",
+  "locationCity": "3597 Route 74 West",
+  "locationState": "VT",
+  "locationZipcode": "05770",
+  "lat": 43.85686500177573,
+  "lon": -73.35369296993767,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:48.660Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:48.660Z"
+}

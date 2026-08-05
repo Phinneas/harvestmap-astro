@@ -1,0 +1,19 @@
+{
+  "slug": "food-commons-fresno-202-van-ness-avenue",
+  "name": "Food Commons Fresno",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "202 Van Ness Avenue, CA",
+  "locationCity": "202 Van Ness Avenue",
+  "locationState": "CA",
+  "locationZipcode": "93721",
+  "lat": 36.72713,
+  "lon": -119.78033,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.239Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.239Z"
+}

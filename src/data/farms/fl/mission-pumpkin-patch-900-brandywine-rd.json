@@ -1,0 +1,19 @@
+{
+  "slug": "mission-pumpkin-patch-900-brandywine-rd",
+  "name": "Mission Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "900 Brandywine Rd, FL",
+  "locationCity": "900 Brandywine Rd",
+  "locationState": "FL",
+  "locationZipcode": "33409",
+  "lat": 26.715343984177,
+  "lon": -80.0958499592244,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.818Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.818Z"
+}

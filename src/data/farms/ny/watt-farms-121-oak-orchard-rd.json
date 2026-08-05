@@ -1,0 +1,19 @@
+{
+  "slug": "watt-farms-121-oak-orchard-rd",
+  "name": "Watt Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "121 Oak Orchard Rd, NY",
+  "locationCity": "121 Oak Orchard Rd",
+  "locationState": "NY",
+  "locationZipcode": "14411",
+  "lat": 43.25693885416,
+  "lon": -78.1972754366032,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.336Z"
+}

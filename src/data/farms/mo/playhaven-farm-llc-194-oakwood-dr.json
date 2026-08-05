@@ -1,0 +1,20 @@
+{
+  "slug": "playhaven-farm-llc-194-oakwood-dr",
+  "name": "PlayHaven Farm LLC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "194 Oakwood Dr., MO",
+  "locationCity": "194 Oakwood Dr.",
+  "locationState": "MO",
+  "locationZipcode": "64074",
+  "lat": 39.0617995917411,
+  "lon": -94.0508138371639,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.684Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.684Z",
+  "crops": []
+}

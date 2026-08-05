@@ -1,0 +1,19 @@
+{
+  "slug": "ledgend-farm-1288-munger-street",
+  "name": "LedgEnd Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1288 Munger Street, VT",
+  "locationCity": "1288 Munger Street",
+  "locationState": "VT",
+  "locationZipcode": "05753",
+  "lat": 44.03691498750678,
+  "lon": -73.11711601592467,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.245Z"
+}

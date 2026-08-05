@@ -1,0 +1,19 @@
+{
+  "slug": "eagle-river-farmers-market-10527-vfw-rd",
+  "name": "Eagle River Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10527 Vfw Rd, AK",
+  "locationCity": "10527 Vfw Rd",
+  "locationState": "AK",
+  "locationZipcode": "10527",
+  "lat": 61.31568907084171,
+  "lon": -149.5733582725163,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

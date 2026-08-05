@@ -1,0 +1,19 @@
+{
+  "slug": "mcleod-farms-1-247-hwy-151-south",
+  "name": "McLeod Farms - 1",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "247 Hwy 151 South, SC",
+  "locationCity": "247 Hwy 151 South",
+  "locationState": "SC",
+  "locationZipcode": "29101",
+  "lat": 34.4675283239925,
+  "lon": -80.2522995479771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.856Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.856Z"
+}

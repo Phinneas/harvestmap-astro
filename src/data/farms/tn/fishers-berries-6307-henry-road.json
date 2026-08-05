@@ -1,0 +1,19 @@
+{
+  "slug": "fishers-berries-6307-henry-road",
+  "name": "Fishers Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6307 Henry Road, TN",
+  "locationCity": "6307 Henry Road",
+  "locationState": "TN",
+  "locationZipcode": "37172",
+  "lat": 36.58830299348958,
+  "lon": -86.7597199728525,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.376Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.376Z"
+}

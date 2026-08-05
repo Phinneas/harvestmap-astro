@@ -1,0 +1,20 @@
+{
+  "slug": "sites-farm-sites-farm",
+  "name": "Sites Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sites farm, ME",
+  "locationCity": "Sites farm",
+  "locationState": "ME",
+  "locationZipcode": "04912",
+  "lat": 44.9210975202364,
+  "lon": -69.5975368514646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.854Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.854Z",
+  "crops": []
+}

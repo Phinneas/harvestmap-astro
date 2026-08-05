@@ -1,0 +1,19 @@
+{
+  "slug": "south-atlanta-farmers-market-555-hopkins-st-sw-atlanta",
+  "name": "South Atlanta Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "555 Hopkins St. SW Atlanta, GA",
+  "locationCity": "555 Hopkins St. SW Atlanta",
+  "locationState": "GA",
+  "locationZipcode": "30310",
+  "lat": 33.73976193961377,
+  "lon": -84.43066044032439,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

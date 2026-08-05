@@ -1,0 +1,19 @@
+{
+  "slug": "kanab-farmer-s-market-78-south-100-east-kanab",
+  "name": "Kanab Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "78 South 100 East Kanab, UT",
+  "locationCity": "78 South 100 East Kanab",
+  "locationState": "UT",
+  "locationZipcode": "84741",
+  "lat": 37.046829631900486,
+  "lon": -112.52639843469886,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:23.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:23.640Z"
+}

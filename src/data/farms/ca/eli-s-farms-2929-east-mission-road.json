@@ -1,0 +1,19 @@
+{
+  "slug": "eli-s-farms-2929-east-mission-road",
+  "name": "Eli's Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2929 East Mission Road, CA",
+  "locationCity": "2929 East Mission Road",
+  "locationState": "CA",
+  "locationZipcode": "92028",
+  "lat": 33.392992254063955,
+  "lon": -117.19951900523134,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.072Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.072Z"
+}

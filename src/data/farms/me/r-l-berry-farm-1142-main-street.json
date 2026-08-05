@@ -1,0 +1,19 @@
+{
+  "slug": "r-l-berry-farm-1142-main-street",
+  "name": "R & L Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1142 Main Street, ME",
+  "locationCity": "1142 Main Street",
+  "locationState": "ME",
+  "locationZipcode": "04355",
+  "lat": 44.38793,
+  "lon": -69.96645,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.823Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.823Z"
+}

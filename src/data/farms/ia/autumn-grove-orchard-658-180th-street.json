@@ -1,0 +1,19 @@
+{
+  "slug": "autumn-grove-orchard-658-180th-street",
+  "name": "Autumn Grove Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "658 180th Street, IA",
+  "locationCity": "658 180th Street",
+  "locationState": "IA",
+  "locationZipcode": "51106",
+  "lat": 42.4456267735901,
+  "lon": -96.2797235715572,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.625Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.625Z"
+}

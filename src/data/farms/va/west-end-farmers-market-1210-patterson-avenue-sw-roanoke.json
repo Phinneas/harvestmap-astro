@@ -1,0 +1,19 @@
+{
+  "slug": "west-end-farmers-market-1210-patterson-avenue-sw-roanoke",
+  "name": "West End Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1210 Patterson Avenue SW Roanoke, VA",
+  "locationCity": "1210 Patterson Avenue SW Roanoke",
+  "locationState": "VA",
+  "locationZipcode": "24016",
+  "lat": 37.27229642750735,
+  "lon": -79.96225896910735,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

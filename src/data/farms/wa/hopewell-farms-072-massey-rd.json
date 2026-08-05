@@ -1,0 +1,19 @@
+{
+  "slug": "hopewell-farms-072-massey-rd",
+  "name": "Hopewell Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "072 Massey Rd, WA",
+  "locationCity": "072 Massey Rd",
+  "locationState": "WA",
+  "locationZipcode": "98247",
+  "lat": 48.9055767058803,
+  "lon": -122.311014216744,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.158Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.158Z"
+}

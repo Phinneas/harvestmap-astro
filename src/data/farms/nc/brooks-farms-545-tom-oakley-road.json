@@ -1,0 +1,19 @@
+{
+  "slug": "brooks-farms-545-tom-oakley-road",
+  "name": "Brooks Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "545 Tom Oakley Road, NC",
+  "locationCity": "545 Tom Oakley Road",
+  "locationState": "NC",
+  "locationZipcode": "27583",
+  "lat": 36.2791062781024,
+  "lon": -78.9691205876736,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.650Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.650Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "greenwood-tree-farm-96-dudley-road",
+  "name": "Greenwood Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "96 Dudley Road, MA",
+  "locationCity": "96 Dudley Road",
+  "locationState": "MA",
+  "locationZipcode": "01821",
+  "lat": 42.5240051432159,
+  "lon": -71.2969756830935,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.492Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "boulder-belt-eco-farm-3257-us-rt-127-n",
+  "name": "Boulder Belt Eco-Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3257 US RT 127 N, OH",
+  "locationCity": "3257 US RT 127 N",
+  "locationState": "OH",
+  "locationZipcode": "45320",
+  "lat": 39.79158999388645,
+  "lon": -84.63114002003853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.461Z",
+  "crops": []
+}

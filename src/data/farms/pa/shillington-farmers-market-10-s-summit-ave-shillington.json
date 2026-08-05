@@ -1,0 +1,19 @@
+{
+  "slug": "shillington-farmers-market-10-s-summit-ave-shillington",
+  "name": "Shillington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 S. Summit ave Shillington, PA",
+  "locationCity": "10 S. Summit ave Shillington",
+  "locationState": "PA",
+  "locationZipcode": "19607",
+  "lat": 40.30972217516791,
+  "lon": -75.9546407829122,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.068Z"
+}

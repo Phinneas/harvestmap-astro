@@ -1,0 +1,19 @@
+{
+  "slug": "champlain-islands-farmers-market-wednesday-501-u-s-route-2",
+  "name": "Champlain Islands Farmers' Market - Wednesday",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "501 U.S Route 2, VT",
+  "locationCity": "501 U.S Route 2",
+  "locationState": "VT",
+  "locationZipcode": "05486",
+  "lat": 44.661841,
+  "lon": -73.323048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.150Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.150Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "new-albany-farmers-market-202-east-market-street-new-albany",
+  "name": "New Albany Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "202 East Market Street New Albany, IN",
+  "locationCity": "202 East Market Street New Albany",
+  "locationState": "IN",
+  "locationZipcode": "47150",
+  "lat": 38.28524916961583,
+  "lon": -85.82130564759075,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

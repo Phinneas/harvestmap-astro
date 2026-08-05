@@ -1,0 +1,19 @@
+{
+  "slug": "old-pasadena-farmers-market-1-e-holly-st",
+  "name": "Old Pasadena Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 E. Holly St., CA",
+  "locationCity": "1 E. Holly St.",
+  "locationState": "CA",
+  "locationZipcode": "91103",
+  "lat": 34.14765474720052,
+  "lon": -118.15044819415323,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

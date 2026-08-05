@@ -1,0 +1,19 @@
+{
+  "slug": "dave-s-pumpkin-patch-3010-burrows-ave",
+  "name": "Dave's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3010 Burrows Ave, CA",
+  "locationCity": "3010 Burrows Ave",
+  "locationState": "CA",
+  "locationZipcode": "95619",
+  "lat": 38.5106030099609,
+  "lon": -121.55839095896,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.731Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.731Z"
+}

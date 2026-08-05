@@ -1,0 +1,19 @@
+{
+  "slug": "providence-farm-38822-brookside-avenue",
+  "name": "Providence Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "38822 Brookside Avenue, CA",
+  "locationCity": "38822 Brookside Avenue",
+  "locationState": "CA",
+  "locationZipcode": "38822",
+  "lat": 33.9614653226658,
+  "lon": -116.985368404198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.756Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.756Z"
+}

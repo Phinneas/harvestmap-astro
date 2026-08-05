@@ -1,0 +1,20 @@
+{
+  "slug": "dinner-bell-farm-7565-snow-camp-rd",
+  "name": "Dinner Bell Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7565 Snow Camp Rd, NC",
+  "locationCity": "7565 Snow Camp Rd",
+  "locationState": "NC",
+  "locationZipcode": "27349",
+  "lat": 35.90488611064147,
+  "lon": -79.42182550179857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.896Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.896Z",
+  "crops": []
+}

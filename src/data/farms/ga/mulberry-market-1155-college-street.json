@@ -1,0 +1,19 @@
+{
+  "slug": "mulberry-market-1155-college-street",
+  "name": "Mulberry Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1155 College Street, GA",
+  "locationCity": "1155 College Street",
+  "locationState": "GA",
+  "locationZipcode": "31201",
+  "lat": 32.833797,
+  "lon": -83.646551,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.678Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.678Z"
+}

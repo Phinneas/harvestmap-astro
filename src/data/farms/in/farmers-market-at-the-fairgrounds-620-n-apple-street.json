@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-the-fairgrounds-620-n-apple-street",
+  "name": "Farmers Market at the Fairgrounds",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "620 N Apple Street, IN",
+  "locationCity": "620 N Apple Street",
+  "locationState": "IN",
+  "locationZipcode": "46140",
+  "lat": 39.791832,
+  "lon": -85.75624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.610Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.610Z"
+}

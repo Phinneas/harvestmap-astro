@@ -1,0 +1,19 @@
+{
+  "slug": "beekind-921-gravenstein-highway-s",
+  "name": "Beekind",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "921 Gravenstein Highway S, CA",
+  "locationCity": "921 Gravenstein Highway S",
+  "locationState": "CA",
+  "locationZipcode": "95472",
+  "lat": 38.3925069704173,
+  "lon": -122.817779417977,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.802Z"
+}

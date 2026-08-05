@@ -1,0 +1,19 @@
+{
+  "slug": "mulberry-pond-pumpkin-patch-2252-mulberry-road",
+  "name": "Mulberry Pond Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2252 Mulberry Road, KS",
+  "locationCity": "2252 Mulberry Road",
+  "locationState": "KS",
+  "locationZipcode": "66434",
+  "lat": 39.8350320150307,
+  "lon": -95.4868159887785,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.091Z"
+}

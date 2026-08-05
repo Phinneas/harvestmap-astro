@@ -1,0 +1,19 @@
+{
+  "slug": "hann-farms-600-lockbourne-road",
+  "name": "Hann Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "600 Lockbourne Road, OH",
+  "locationCity": "600 Lockbourne Road",
+  "locationState": "OH",
+  "locationZipcode": "43207",
+  "lat": 39.8602453603489,
+  "lon": -82.9703224137896,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.802Z"
+}

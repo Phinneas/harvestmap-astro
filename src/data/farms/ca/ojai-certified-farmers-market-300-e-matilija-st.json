@@ -1,0 +1,19 @@
+{
+  "slug": "ojai-certified-farmers-market-300-e-matilija-st",
+  "name": "Ojai Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 E. Matilija St., CA",
+  "locationCity": "300 E. Matilija St.",
+  "locationState": "CA",
+  "locationZipcode": "93023",
+  "lat": 34.44883503772722,
+  "lon": -119.24409530412535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

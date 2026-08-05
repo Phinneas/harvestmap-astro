@@ -1,0 +1,19 @@
+{
+  "slug": "kdcrop-farms-275-south-bear-hill-rd",
+  "name": "KDCrop Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "275 South Bear Hill Rd., CT",
+  "locationCity": "275 South Bear Hill Rd.",
+  "locationState": "CT",
+  "locationZipcode": "06235",
+  "lat": 41.7827897,
+  "lon": -72.1147464,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.414Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.414Z"
+}

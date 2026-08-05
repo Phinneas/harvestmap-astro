@@ -1,0 +1,19 @@
+{
+  "slug": "pretzel-park-farmers-market-4300-silverwood-street",
+  "name": "Pretzel Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4300 Silverwood Street, PA",
+  "locationCity": "4300 Silverwood Street",
+  "locationState": "PA",
+  "locationZipcode": "19127",
+  "lat": 40.025446,
+  "lon": -75.220985,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.010Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.010Z"
+}

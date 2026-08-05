@@ -1,0 +1,19 @@
+{
+  "slug": "persimmon-hill-farm-367-persimmon-hill-lane",
+  "name": "Persimmon Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "367 Persimmon Hill Lane, MO",
+  "locationCity": "367 Persimmon Hill Lane",
+  "locationState": "MO",
+  "locationZipcode": "65681",
+  "lat": 36.535321989346,
+  "lon": -93.501387961908,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.738Z"
+}

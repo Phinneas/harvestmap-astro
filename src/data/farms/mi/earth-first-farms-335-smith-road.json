@@ -1,0 +1,19 @@
+{
+  "slug": "earth-first-farms-335-smith-road",
+  "name": "Earth First Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "335 Smith Road, MI",
+  "locationCity": "335 Smith Road",
+  "locationState": "MI",
+  "locationZipcode": "49102",
+  "lat": 41.9413850540684,
+  "lon": -86.2648218389255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.568Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.568Z"
+}

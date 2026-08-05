@@ -1,0 +1,19 @@
+{
+  "slug": "muddy-river-herbals-2468-washington-st",
+  "name": "Muddy River Herbals",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2468 Washington St, MA",
+  "locationCity": "2468 Washington St",
+  "locationState": "MA",
+  "locationZipcode": "02021",
+  "lat": 42.19951493302338,
+  "lon": -71.1211253661295,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.291Z"
+}

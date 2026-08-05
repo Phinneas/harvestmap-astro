@@ -1,0 +1,19 @@
+{
+  "slug": "riverbank-certified-farmers-market-3600-santa-fe-st",
+  "name": "Riverbank Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3600 Santa Fe St., CA",
+  "locationCity": "3600 Santa Fe St.",
+  "locationState": "CA",
+  "locationZipcode": "95367",
+  "lat": 37.73601970186856,
+  "lon": -120.93071803933603,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

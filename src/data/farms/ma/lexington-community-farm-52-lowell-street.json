@@ -2,20 +2,20 @@
   "slug": "lexington-community-farm-52-lowell-street",
   "name": "Lexington Community Farm",
   "source": "usda",
-  "directory": "onfarmmarket",
+  "directory": "csa",
   "location": "52 Lowell Street, MA",
   "locationCity": "52 Lowell Street",
   "locationState": "MA",
-  "locationZipcode": "",
-  "lat": 42.4330736,
-  "lon": -71.18850290000002,
+  "locationZipcode": "02420",
+  "lat": 42.43315407188291,
+  "lon": -71.18904132917014,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:29:26.590Z"
+      "lastSeen": "2026-08-05T18:42:25.288Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:29:26.590Z",
-  "website": "https://www.allthefarms.com/farms/lexington-community-farm",
+  "usdaLastUpdated": "2026-08-05T18:42:25.288Z",
+  "crops": [],
   "tagline": "Lexington Community Farm – All The Farms"
 }

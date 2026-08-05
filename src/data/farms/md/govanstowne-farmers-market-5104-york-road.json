@@ -1,0 +1,19 @@
+{
+  "slug": "govanstowne-farmers-market-5104-york-road",
+  "name": "Govanstowne Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5104 York Road, MD",
+  "locationCity": "5104 York Road",
+  "locationState": "MD",
+  "locationZipcode": "21212",
+  "lat": 39.35022173365797,
+  "lon": -76.6097945498939,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farnham-farms-529-co-route-22a",
+  "name": "Farnham Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "529 Co. Route 22a, NY",
+  "locationCity": "529 Co. Route 22a",
+  "locationState": "NY",
+  "locationZipcode": "13145",
+  "lat": 43.6619044065764,
+  "lon": -76.1025361046673,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.996Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.996Z"
+}

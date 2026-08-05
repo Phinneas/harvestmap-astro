@@ -1,0 +1,20 @@
+{
+  "slug": "creme-de-la-crop-208-n-250-w",
+  "name": "Creme de la Crop",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "208 N 250 W, IN",
+  "locationCity": "208 N 250 W",
+  "locationState": "IN",
+  "locationZipcode": "46385",
+  "lat": 41.4654359833642,
+  "lon": -87.1157159968818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.292Z",
+  "crops": []
+}

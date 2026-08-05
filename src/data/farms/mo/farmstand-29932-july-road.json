@@ -1,0 +1,19 @@
+{
+  "slug": "farmstand-29932-july-road",
+  "name": "Farmstand",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "29932 July Road, MO",
+  "locationCity": "29932 July Road",
+  "locationState": "MO",
+  "locationZipcode": "29932",
+  "lat": 40.018748,
+  "lon": -92.477971,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:56.438Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:56.438Z"
+}

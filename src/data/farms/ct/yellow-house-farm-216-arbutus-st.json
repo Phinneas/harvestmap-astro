@@ -1,0 +1,19 @@
+{
+  "slug": "yellow-house-farm-216-arbutus-st",
+  "name": "Yellow House Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "216 Arbutus St, CT",
+  "locationCity": "216 Arbutus St",
+  "locationState": "CT",
+  "locationZipcode": "06457",
+  "lat": 41.5264742,
+  "lon": -72.6498062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.414Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.414Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "t-and-farms-1927-holstein-lane",
+  "name": "T and Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1927 Holstein Lane, MT",
+  "locationCity": "1927 Holstein Lane",
+  "locationState": "MT",
+  "locationZipcode": "59044",
+  "lat": 45.6437572164665,
+  "lon": -108.802303266154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:09.717Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:09.717Z",
+  "crops": []
+}

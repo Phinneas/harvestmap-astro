@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-on-green-river-1099-legion-park-road",
+  "name": "Farmers Market on Green River",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1099 Legion Park Road, KY",
+  "locationCity": "1099 Legion Park Road",
+  "locationState": "KY",
+  "locationZipcode": "42743",
+  "lat": 37.244082,
+  "lon": -85.482096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.720Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.720Z"
+}

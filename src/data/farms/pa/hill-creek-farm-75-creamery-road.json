@@ -1,0 +1,19 @@
+{
+  "slug": "hill-creek-farm-75-creamery-road",
+  "name": "Hill Creek Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "75 Creamery Road, PA",
+  "locationCity": "75 Creamery Road",
+  "locationState": "PA",
+  "locationZipcode": "19465",
+  "lat": 40.189647,
+  "lon": -75.607324,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.371Z"
+}

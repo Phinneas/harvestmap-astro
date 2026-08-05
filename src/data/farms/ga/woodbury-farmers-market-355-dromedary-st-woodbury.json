@@ -1,0 +1,19 @@
+{
+  "slug": "woodbury-farmers-market-355-dromedary-st-woodbury",
+  "name": "Woodbury Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "355 Dromedary St. Woodbury, GA",
+  "locationCity": "355 Dromedary St. Woodbury",
+  "locationState": "GA",
+  "locationZipcode": "30293",
+  "lat": 32.97982978194221,
+  "lon": -84.58125219695054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

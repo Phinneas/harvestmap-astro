@@ -1,0 +1,19 @@
+{
+  "slug": "willow-pond-farm-395-middle-rd",
+  "name": "Willow Pond Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "395 Middle Rd, ME",
+  "locationCity": "395 Middle Rd",
+  "locationState": "ME",
+  "locationZipcode": "04280",
+  "lat": 44.0948141,
+  "lon": -70.0836713,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.553Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.553Z"
+}

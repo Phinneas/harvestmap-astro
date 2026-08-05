@@ -1,0 +1,19 @@
+{
+  "slug": "brewster-farmers-market-208-main-street",
+  "name": "Brewster Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "208 Main Street, NY",
+  "locationCity": "208 Main Street",
+  "locationState": "NY",
+  "locationZipcode": "10509",
+  "lat": 41.39486873134305,
+  "lon": -73.60749765026249,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

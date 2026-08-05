@@ -1,0 +1,19 @@
+{
+  "slug": "the-berry-farm-966-hudson-road",
+  "name": "The Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "966 Hudson Road, KY",
+  "locationCity": "966 Hudson Road",
+  "locationState": "KY",
+  "locationZipcode": "42041",
+  "lat": 36.5224470606651,
+  "lon": -88.7463626297856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.586Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.586Z"
+}

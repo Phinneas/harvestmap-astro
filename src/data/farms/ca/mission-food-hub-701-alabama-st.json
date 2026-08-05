@@ -1,0 +1,19 @@
+{
+  "slug": "mission-food-hub-701-alabama-st",
+  "name": "Mission Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "701 Alabama St, CA",
+  "locationCity": "701 Alabama St",
+  "locationState": "CA",
+  "locationZipcode": "94110",
+  "lat": 37.75987875259559,
+  "lon": -122.4115906673361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.245Z"
+}

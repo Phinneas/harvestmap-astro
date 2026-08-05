@@ -1,0 +1,19 @@
+{
+  "slug": "kenny-s-strawberry-farm-953-rainbow-valley-blvd",
+  "name": "Kenny's Strawberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "953 Rainbow Valley Blvd, CA",
+  "locationCity": "953 Rainbow Valley Blvd",
+  "locationState": "CA",
+  "locationZipcode": "92028",
+  "lat": 33.4030330196968,
+  "lon": -117.1662000181,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.743Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.743Z"
+}

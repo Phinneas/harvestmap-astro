@@ -1,0 +1,19 @@
+{
+  "slug": "acadiana-food-hub-1811-n-university-avenue",
+  "name": "Acadiana Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1811 N. University Avenue, LA",
+  "locationCity": "1811 N. University Avenue",
+  "locationState": "LA",
+  "locationZipcode": "70507",
+  "lat": 30.2550067,
+  "lon": -92.041038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:34.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:34.734Z"
+}

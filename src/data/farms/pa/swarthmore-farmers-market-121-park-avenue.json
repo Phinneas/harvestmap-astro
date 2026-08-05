@@ -1,0 +1,19 @@
+{
+  "slug": "swarthmore-farmers-market-121-park-avenue",
+  "name": "Swarthmore Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 Park Avenue, PA",
+  "locationCity": "121 Park Avenue",
+  "locationState": "PA",
+  "locationZipcode": "19081",
+  "lat": 39.901671,
+  "lon": -75.348771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.008Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lockman-s-muscadine-vineyard-590-orchard-road",
+  "name": "Lockman's Muscadine Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "590 Orchard Road, NC",
+  "locationCity": "590 Orchard Road",
+  "locationState": "NC",
+  "locationZipcode": "28080",
+  "lat": 35.4405904242127,
+  "lon": -81.1326039437024,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.883Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.883Z"
+}

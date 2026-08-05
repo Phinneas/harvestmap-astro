@@ -1,0 +1,19 @@
+{
+  "slug": "edgebrook-neighborhood-farmers-market-6525-n-hiawatha-chicago",
+  "name": "Edgebrook Neighborhood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6525 N Hiawatha Chicago, IL",
+  "locationCity": "6525 N Hiawatha Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60646",
+  "lat": 41.99982388950156,
+  "lon": -87.76285952718015,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

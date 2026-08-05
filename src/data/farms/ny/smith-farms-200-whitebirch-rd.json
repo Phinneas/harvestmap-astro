@@ -1,0 +1,19 @@
+{
+  "slug": "smith-farms-200-whitebirch-rd",
+  "name": "Smith Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 Whitebirch Rd, NY",
+  "locationCity": "200 Whitebirch Rd",
+  "locationState": "NY",
+  "locationZipcode": "12534",
+  "lat": 42.1924869069837,
+  "lon": -73.82848866282,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.328Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.328Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "taproot-marketplace-101-main-st",
+  "name": "Taproot Marketplace",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "101 Main St, NH",
+  "locationCity": "101 Main St",
+  "locationState": "NH",
+  "locationZipcode": "03584",
+  "lat": 44.4895270237167,
+  "lon": -71.56951829522616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.986Z"
+}

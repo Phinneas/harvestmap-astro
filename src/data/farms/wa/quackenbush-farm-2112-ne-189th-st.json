@@ -1,0 +1,19 @@
+{
+  "slug": "quackenbush-farm-2112-ne-189th-st",
+  "name": "Quackenbush Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2112 NE 189th St, WA",
+  "locationCity": "2112 NE 189th St",
+  "locationState": "WA",
+  "locationZipcode": "98642",
+  "lat": 45.7588288,
+  "lon": -122.6494752,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.582Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.582Z"
+}

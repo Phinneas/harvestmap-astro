@@ -1,0 +1,19 @@
+{
+  "slug": "lazy-squirrel-acres-naperville",
+  "name": "Lazy Squirrel Acres",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Naperville, IL",
+  "locationCity": "Naperville",
+  "locationState": "IL",
+  "locationZipcode": "60565",
+  "lat": 41.7334771,
+  "lon": -88.1244554,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.487Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.487Z"
+}

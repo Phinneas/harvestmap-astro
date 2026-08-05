@@ -1,0 +1,19 @@
+{
+  "slug": "sunflower-farm-acres-11150-prospect-rd",
+  "name": "Sunflower Farm Acres",
+  "source": "usda",
+  "directory": "csa",
+  "location": "11150 Prospect Rd, CO",
+  "locationCity": "11150 Prospect Rd",
+  "locationState": "CO",
+  "locationZipcode": "11150",
+  "lat": 40.132853398161416,
+  "lon": -105.090371829034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.589Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.589Z"
+}

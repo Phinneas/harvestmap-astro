@@ -1,0 +1,19 @@
+{
+  "slug": "kaiser-permanente-fresno-farmers-market-7300-n-fresno-st-fresno",
+  "name": "Kaiser Permanente Fresno Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7300 N. Fresno St. Fresno, CA",
+  "locationCity": "7300 N. Fresno St. Fresno",
+  "locationState": "CA",
+  "locationZipcode": "93720",
+  "lat": 36.84104209069025,
+  "lon": -119.78233860789628,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

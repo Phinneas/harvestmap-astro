@@ -1,0 +1,19 @@
+{
+  "slug": "the-berry-patch-4339-320th-st-w",
+  "name": "The Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4339 320th St W, MN",
+  "locationCity": "4339 320th St W",
+  "locationState": "MN",
+  "locationZipcode": "55057",
+  "lat": 44.4885697329829,
+  "lon": -93.1523039905132,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.740Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.740Z"
+}

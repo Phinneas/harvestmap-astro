@@ -1,0 +1,19 @@
+{
+  "slug": "happy-valley-orchard-217-quarry-rd",
+  "name": "Happy Valley Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "217 Quarry Rd, VT",
+  "locationCity": "217 Quarry Rd",
+  "locationState": "VT",
+  "locationZipcode": "05753",
+  "lat": 44.0141069907761,
+  "lon": -73.1389750135778,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.928Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.928Z"
+}

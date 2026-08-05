@@ -1,0 +1,19 @@
+{
+  "slug": "colonial-heights-farmers-market-2600-boulevard-colonial-heights",
+  "name": "Colonial Heights Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2600 Boulevard Colonial Heights, VA",
+  "locationCity": "2600 Boulevard Colonial Heights",
+  "locationState": "VA",
+  "locationZipcode": "23834",
+  "lat": 37.264774641418256,
+  "lon": -77.41167935355982,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

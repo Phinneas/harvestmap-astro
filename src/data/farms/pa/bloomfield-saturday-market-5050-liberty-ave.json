@@ -1,0 +1,19 @@
+{
+  "slug": "bloomfield-saturday-market-5050-liberty-ave",
+  "name": "Bloomfield Saturday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5050 Liberty Ave, PA",
+  "locationCity": "5050 Liberty Ave",
+  "locationState": "PA",
+  "locationZipcode": "15224",
+  "lat": 40.459005,
+  "lon": -79.944435,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:18.991Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:18.991Z"
+}

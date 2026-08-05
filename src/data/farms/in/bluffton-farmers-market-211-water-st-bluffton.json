@@ -1,0 +1,19 @@
+{
+  "slug": "bluffton-farmers-market-211-water-st-bluffton",
+  "name": "Bluffton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "211 Water St. Bluffton, IN",
+  "locationCity": "211 Water St. Bluffton",
+  "locationState": "IN",
+  "locationZipcode": "46714",
+  "lat": 40.74140730781536,
+  "lon": -85.17293973347418,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

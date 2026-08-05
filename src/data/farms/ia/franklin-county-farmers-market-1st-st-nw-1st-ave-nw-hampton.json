@@ -1,0 +1,19 @@
+{
+  "slug": "franklin-county-farmers-market-1st-st-nw-1st-ave-nw-hampton",
+  "name": "Franklin County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st St. NW & 1st Ave. NW Hampton, IA",
+  "locationCity": "1st St. NW & 1st Ave. NW Hampton",
+  "locationState": "IA",
+  "locationZipcode": "50441",
+  "lat": 42.74270001926584,
+  "lon": -93.208680000719,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mhk-community-market-114-mccall-rd",
+  "name": "MHK Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "114 McCall Rd, KS",
+  "locationCity": "114 McCall Rd",
+  "locationState": "KS",
+  "locationZipcode": "66502",
+  "lat": 39.18939730924338,
+  "lon": -96.55811806935422,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

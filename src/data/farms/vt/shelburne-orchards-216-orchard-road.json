@@ -1,0 +1,20 @@
+{
+  "slug": "shelburne-orchards-216-orchard-road",
+  "name": "Shelburne Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "216 Orchard Road, VT",
+  "locationCity": "216 Orchard Road",
+  "locationState": "VT",
+  "locationZipcode": "05482",
+  "lat": 44.3522599965112,
+  "lon": -73.2651789827576,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.995Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.995Z",
+  "crops": []
+}

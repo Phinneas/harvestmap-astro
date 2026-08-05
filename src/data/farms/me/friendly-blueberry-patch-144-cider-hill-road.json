@@ -1,0 +1,19 @@
+{
+  "slug": "friendly-blueberry-patch-144-cider-hill-road",
+  "name": "Friendly Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "144 Cider Hill Road, ME",
+  "locationCity": "144 Cider Hill Road",
+  "locationState": "ME",
+  "locationZipcode": "03909",
+  "lat": 43.1575023025077,
+  "lon": -70.6944642824561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.858Z"
+}

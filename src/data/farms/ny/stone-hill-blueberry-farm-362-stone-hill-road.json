@@ -1,0 +1,19 @@
+{
+  "slug": "stone-hill-blueberry-farm-362-stone-hill-road",
+  "name": "Stone Hill Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "362 Stone Hill Road, NY",
+  "locationCity": "362 Stone Hill Road",
+  "locationState": "NY",
+  "locationZipcode": "13730",
+  "lat": 42.2550686785276,
+  "lon": -75.6144737245582,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.332Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "maple-springs-farm-maple-springs-farm",
+  "name": "Maple Springs Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Maple Springs Farm, ME",
+  "locationCity": "Maple Springs Farm",
+  "locationState": "ME",
+  "locationZipcode": "04040",
+  "lat": 44.109745,
+  "lon": -70.679878,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.064Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.064Z"
+}

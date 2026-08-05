@@ -1,0 +1,19 @@
+{
+  "slug": "anderson-farm-575-underwood-avenue",
+  "name": "Anderson Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "575 Underwood Avenue, IA",
+  "locationCity": "575 Underwood Avenue",
+  "locationState": "IA",
+  "locationZipcode": "52761",
+  "lat": 41.5142749867157,
+  "lon": -90.9296880783779,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.718Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.718Z"
+}

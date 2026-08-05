@@ -1,0 +1,19 @@
+{
+  "slug": "piedmont-avenue-pumpkin-patch-414-piedmont-avenue",
+  "name": "Piedmont Avenue Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "414 Piedmont Avenue, CA",
+  "locationCity": "414 Piedmont Avenue",
+  "locationState": "CA",
+  "locationZipcode": "94611",
+  "lat": 37.827451903533,
+  "lon": -122.251054721045,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.792Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.792Z"
+}

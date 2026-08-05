@@ -1,0 +1,19 @@
+{
+  "slug": "105-market-highway-105",
+  "name": "105 Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Highway 105, TX",
+  "locationCity": "Highway 105",
+  "locationState": "TX",
+  "locationZipcode": "77328",
+  "lat": 30.325279816965267,
+  "lon": -95.15132859402198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.351Z"
+}

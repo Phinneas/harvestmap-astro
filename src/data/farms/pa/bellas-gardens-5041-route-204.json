@@ -1,0 +1,20 @@
+{
+  "slug": "bellas-gardens-5041-route-204",
+  "name": "Bellas Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5041 Route 204, PA",
+  "locationCity": "5041 Route 204",
+  "locationState": "PA",
+  "locationZipcode": "17870",
+  "lat": 40.85701798128756,
+  "lon": -76.91341197905756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.217Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.217Z",
+  "crops": []
+}

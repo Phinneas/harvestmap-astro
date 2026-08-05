@@ -1,0 +1,19 @@
+{
+  "slug": "sonny-s-farm-000-alexandrite-dr",
+  "name": "Sonny's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 Alexandrite Dr, CA",
+  "locationCity": "000 Alexandrite Dr",
+  "locationState": "CA",
+  "locationZipcode": "95672",
+  "lat": 38.6996981730774,
+  "lon": -121.007869989149,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.773Z"
+}

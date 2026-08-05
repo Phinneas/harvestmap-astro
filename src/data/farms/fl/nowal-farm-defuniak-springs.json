@@ -1,0 +1,19 @@
+{
+  "slug": "nowal-farm-defuniak-springs",
+  "name": "NoWal Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Defuniak Springs, FL",
+  "locationCity": "Defuniak Springs",
+  "locationState": "FL",
+  "locationZipcode": "32433",
+  "lat": 30.72425,
+  "lon": -86.1121199999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.813Z"
+}

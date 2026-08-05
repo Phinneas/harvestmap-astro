@@ -1,0 +1,19 @@
+{
+  "slug": "old-path-farm-9035-grange-hill-rd",
+  "name": "Old Path Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9035 Grange Hill Rd., NY",
+  "locationCity": "9035 Grange Hill Rd.",
+  "locationState": "NY",
+  "locationZipcode": "13456",
+  "lat": 43.02131360789549,
+  "lon": -75.28945223100635,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.178Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.178Z"
+}

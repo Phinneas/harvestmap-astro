@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkinland-pumpkin-patch-820-winchester-rd",
+  "name": "Pumpkinland Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "820 Winchester Rd, CA",
+  "locationCity": "820 Winchester Rd",
+  "locationState": "CA",
+  "locationZipcode": "92563",
+  "lat": 33.5239082177492,
+  "lon": -117.161045722838,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.756Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.756Z"
+}

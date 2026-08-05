@@ -1,0 +1,19 @@
+{
+  "slug": "aha-rabbits-575-s-windrow-road",
+  "name": "AHA Rabbits",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "575 S. Windrow Road, TN",
+  "locationCity": "575 S. Windrow Road",
+  "locationState": "TN",
+  "locationZipcode": "37153",
+  "lat": 35.7710248996387,
+  "lon": -86.5552784844198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.347Z"
+}

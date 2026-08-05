@@ -1,0 +1,19 @@
+{
+  "slug": "memphis-maker-farm-130-madison-avenue",
+  "name": "Memphis Maker Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "130 Madison Avenue, TN",
+  "locationCity": "130 Madison Avenue",
+  "locationState": "TN",
+  "locationZipcode": "38103",
+  "lat": 35.145209,
+  "lon": -90.051661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.801Z"
+}

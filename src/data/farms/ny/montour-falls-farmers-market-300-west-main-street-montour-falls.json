@@ -1,0 +1,19 @@
+{
+  "slug": "montour-falls-farmers-market-300-west-main-street-montour-falls",
+  "name": "Montour Falls Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 West Main Street Montour Falls, NY",
+  "locationCity": "300 West Main Street Montour Falls",
+  "locationState": "NY",
+  "locationZipcode": "14865",
+  "lat": 42.34613992012074,
+  "lon": -76.84815407892613,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

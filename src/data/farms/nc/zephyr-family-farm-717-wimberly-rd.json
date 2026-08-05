@@ -1,0 +1,19 @@
+{
+  "slug": "zephyr-family-farm-717-wimberly-rd",
+  "name": "Zephyr Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "717 Wimberly Rd, NC",
+  "locationCity": "717 Wimberly Rd",
+  "locationState": "NC",
+  "locationZipcode": "27523",
+  "lat": 35.767296122278694,
+  "lon": -78.92307192037025,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.895Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.895Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "next-generation-foods-2640-hoffman-rd",
+  "name": "Next Generation Foods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2640 Hoffman Rd., CA",
+  "locationCity": "2640 Hoffman Rd.",
+  "locationState": "CA",
+  "locationZipcode": "95961",
+  "lat": 39.0154957,
+  "lon": -121.51741,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.238Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.238Z"
+}

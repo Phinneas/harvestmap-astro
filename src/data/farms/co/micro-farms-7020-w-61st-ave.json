@@ -1,0 +1,19 @@
+{
+  "slug": "micro-farms-7020-w-61st-ave",
+  "name": "Micro Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7020 W. 61st Ave, CO",
+  "locationCity": "7020 W. 61st Ave",
+  "locationState": "CO",
+  "locationZipcode": "80003",
+  "lat": 39.80719336765222,
+  "lon": -105.07470546526588,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.588Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.588Z"
+}

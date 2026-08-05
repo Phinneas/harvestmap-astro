@@ -1,0 +1,19 @@
+{
+  "slug": "ela-family-farms-csa-30753-l-road",
+  "name": "Ela Family Farms CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "30753 L Road, CO",
+  "locationCity": "30753 L Road",
+  "locationState": "CO",
+  "locationZipcode": "30753",
+  "lat": 38.8153682,
+  "lon": -107.7862013,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.583Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.583Z"
+}

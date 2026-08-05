@@ -1,0 +1,19 @@
+{
+  "slug": "tarboro-edgecombe-farmers-market-507-albemarle-ave-tarboro",
+  "name": "Tarboro-Edgecombe Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "507 Albemarle Ave Tarboro, NC",
+  "locationCity": "507 Albemarle Ave Tarboro",
+  "locationState": "NC",
+  "locationZipcode": "27886",
+  "lat": 35.89746114794592,
+  "lon": -77.53762477018581,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

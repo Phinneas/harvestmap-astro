@@ -1,0 +1,19 @@
+{
+  "slug": "crystal-farmers-market-5530-douglas-dr-n",
+  "name": "Crystal Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5530 Douglas Dr N, MN",
+  "locationCity": "5530 Douglas Dr N",
+  "locationState": "MN",
+  "locationZipcode": "55429",
+  "lat": 45.0519339,
+  "lon": -93.3598867,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

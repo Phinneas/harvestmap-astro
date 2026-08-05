@@ -1,0 +1,19 @@
+{
+  "slug": "studio-farm-products-5-sand-hill-road",
+  "name": "Studio Farm Products",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5 Sand Hill Road, CT",
+  "locationCity": "5 Sand Hill Road",
+  "locationState": "CT",
+  "locationZipcode": "06384",
+  "lat": 41.521193199568046,
+  "lon": -71.837606929167,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.443Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.443Z"
+}

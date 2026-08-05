@@ -1,0 +1,19 @@
+{
+  "slug": "newport-farmers-market-1644-hastings-ave",
+  "name": "Newport Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1644 Hastings Ave, MN",
+  "locationCity": "1644 Hastings Ave",
+  "locationState": "MN",
+  "locationZipcode": "55055",
+  "lat": 44.8746527,
+  "lon": -93.000373,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

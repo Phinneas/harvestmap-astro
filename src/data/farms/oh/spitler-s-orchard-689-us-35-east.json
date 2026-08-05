@@ -1,0 +1,19 @@
+{
+  "slug": "spitler-s-orchard-689-us-35-east",
+  "name": "Spitler's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "689 US 35 East, OH",
+  "locationCity": "689 US 35 East",
+  "locationState": "OH",
+  "locationZipcode": "45335",
+  "lat": 39.6489577804044,
+  "lon": -83.6822334048608,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.912Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.912Z"
+}

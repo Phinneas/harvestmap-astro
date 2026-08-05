@@ -1,0 +1,19 @@
+{
+  "slug": "iowa-city-farmers-market-460-e-washington-st-iowa-city",
+  "name": "Iowa City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "460 E. Washington St. Iowa City, IA",
+  "locationCity": "460 E. Washington St. Iowa City",
+  "locationState": "IA",
+  "locationZipcode": "52240",
+  "lat": 41.66004318038775,
+  "lon": -91.52924973149509,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

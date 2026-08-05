@@ -1,0 +1,19 @@
+{
+  "slug": "spring-valley-orchard-3607-spring-valley-road",
+  "name": "Spring Valley Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3607 Spring Valley Road, VA",
+  "locationCity": "3607 Spring Valley Road",
+  "locationState": "VA",
+  "locationZipcode": "22920",
+  "lat": 37.9427770143108,
+  "lon": -78.7662060273654,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.296Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.296Z"
+}

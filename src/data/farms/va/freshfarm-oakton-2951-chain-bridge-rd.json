@@ -1,0 +1,19 @@
+{
+  "slug": "freshfarm-oakton-2951-chain-bridge-rd",
+  "name": "FRESHFARM Oakton",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2951 Chain Bridge Rd, VA",
+  "locationCity": "2951 Chain Bridge Rd",
+  "locationState": "VA",
+  "locationZipcode": "22124",
+  "lat": 38.880203,
+  "lon": -77.3013443,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.157Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.157Z"
+}

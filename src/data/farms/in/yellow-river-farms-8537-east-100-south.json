@@ -1,0 +1,19 @@
+{
+  "slug": "yellow-river-farms-8537-east-100-south",
+  "name": "Yellow River Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8537 East 100 South, IN",
+  "locationCity": "8537 East 100 South",
+  "locationState": "IN",
+  "locationZipcode": "46534",
+  "lat": 41.2873029807989,
+  "lon": -86.5335120198007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.411Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.411Z"
+}

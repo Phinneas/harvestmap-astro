@@ -1,0 +1,19 @@
+{
+  "slug": "shadows-of-catoctin-farm-6517-fish-hatchery-rd",
+  "name": "Shadows of Catoctin Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6517 Fish Hatchery Rd, MD",
+  "locationCity": "6517 Fish Hatchery Rd",
+  "locationState": "MD",
+  "locationZipcode": "21788",
+  "lat": 39.5352114,
+  "lon": -77.4398532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.698Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.698Z"
+}

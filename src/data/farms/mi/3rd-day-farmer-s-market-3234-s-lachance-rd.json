@@ -1,0 +1,19 @@
+{
+  "slug": "3rd-day-farmer-s-market-3234-s-lachance-rd",
+  "name": "3rd Day Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3234 S. LaChance Rd, MI",
+  "locationCity": "3234 S. LaChance Rd",
+  "locationState": "MI",
+  "locationZipcode": "49651",
+  "lat": 44.292952,
+  "lon": -85.296147,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.186Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.186Z"
+}

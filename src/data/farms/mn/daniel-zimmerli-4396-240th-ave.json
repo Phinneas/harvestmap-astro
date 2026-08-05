@@ -1,0 +1,19 @@
+{
+  "slug": "daniel-zimmerli-4396-240th-ave",
+  "name": "Daniel Zimmerli",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4396 240th Ave., MN",
+  "locationCity": "4396 240th Ave.",
+  "locationState": "MN",
+  "locationZipcode": "56091",
+  "lat": 43.90483949515263,
+  "lon": -93.67995887700467,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.186Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.186Z"
+}

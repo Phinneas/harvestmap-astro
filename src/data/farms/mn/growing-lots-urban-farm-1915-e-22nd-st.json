@@ -1,0 +1,19 @@
+{
+  "slug": "growing-lots-urban-farm-1915-e-22nd-st",
+  "name": "Growing Lots Urban Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1915 E 22nd St, MN",
+  "locationCity": "1915 E 22nd St",
+  "locationState": "MN",
+  "locationZipcode": "55404",
+  "lat": 44.960729,
+  "lon": -93.243781,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.169Z"
+}

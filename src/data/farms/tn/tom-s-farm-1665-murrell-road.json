@@ -1,0 +1,19 @@
+{
+  "slug": "tom-s-farm-1665-murrell-road",
+  "name": "Tom's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1665 Murrell Road, TN",
+  "locationCity": "1665 Murrell Road",
+  "locationState": "TN",
+  "locationZipcode": "38066",
+  "lat": 35.1384922368566,
+  "lon": -89.5079808692178,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.238Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.238Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bar-c-mater-vegetable-patch-054-yates-road",
+  "name": "Bar C Mater & Vegetable Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "054 Yates Road, GA",
+  "locationCity": "054 Yates Road",
+  "locationState": "GA",
+  "locationZipcode": "31625",
+  "lat": 31.0043503855237,
+  "lon": -83.5128496461418,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.268Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "battens-farmers-market-5151-sw-64th-avenue-davie",
+  "name": "Battens Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5151 SW 64th Avenue Davie, FL",
+  "locationCity": "5151 SW 64th Avenue Davie",
+  "locationState": "FL",
+  "locationZipcode": "33314",
+  "lat": 26.056719764991787,
+  "lon": -80.23182771193216,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.574Z"
+}

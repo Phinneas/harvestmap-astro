@@ -1,0 +1,19 @@
+{
+  "slug": "hillcrest-orchard-9696-highway-52-east",
+  "name": "Hillcrest Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "9696 highway 52 East, GA",
+  "locationCity": "9696 highway 52 East",
+  "locationState": "GA",
+  "locationZipcode": "30536",
+  "lat": 34.620097011616494,
+  "lon": -84.37355600501111,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:57.884Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:57.884Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "west-sonoma-county-farmers-market-25300-steelhead-blvd-duncans-mills",
+  "name": "West Sonoma County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25300 Steelhead Blvd Duncans Mills, CA",
+  "locationCity": "25300 Steelhead Blvd Duncans Mills",
+  "locationState": "CA",
+  "locationZipcode": "25300",
+  "lat": 38.45339987746299,
+  "lon": -123.05128122755748,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.374Z"
+}

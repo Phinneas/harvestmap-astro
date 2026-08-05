@@ -1,0 +1,20 @@
+{
+  "slug": "rankin-rapids-farm-rankin-rapids-road",
+  "name": "Rankin Rapids Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Rankin Rapids Road, ME",
+  "locationCity": "Rankin Rapids Road",
+  "locationState": "ME",
+  "locationZipcode": "04774",
+  "lat": 47.15189230129789,
+  "lon": -68.94329238775497,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:00.121Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:00.121Z",
+  "crops": []
+}

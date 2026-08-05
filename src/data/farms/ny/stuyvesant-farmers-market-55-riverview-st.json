@@ -1,0 +1,19 @@
+{
+  "slug": "stuyvesant-farmers-market-55-riverview-st",
+  "name": "Stuyvesant Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "55 Riverview St., NY",
+  "locationCity": "55 Riverview St.",
+  "locationState": "NY",
+  "locationZipcode": "12173",
+  "lat": 42.389211875075105,
+  "lon": -73.78371112631113,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

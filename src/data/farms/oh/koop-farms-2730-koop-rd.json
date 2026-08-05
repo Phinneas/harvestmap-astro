@@ -1,0 +1,19 @@
+{
+  "slug": "koop-farms-2730-koop-rd",
+  "name": "Koop Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2730 Koop Rd, OH",
+  "locationCity": "2730 Koop Rd",
+  "locationState": "OH",
+  "locationZipcode": "45804",
+  "lat": 40.74094702058517,
+  "lon": -84.16350500852033,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.373Z"
+}

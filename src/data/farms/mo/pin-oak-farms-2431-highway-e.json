@@ -1,0 +1,19 @@
+{
+  "slug": "pin-oak-farms-2431-highway-e",
+  "name": "Pin Oak Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2431 Highway E, MO",
+  "locationCity": "2431 Highway E",
+  "locationState": "MO",
+  "locationZipcode": "63068",
+  "lat": 38.5894528242726,
+  "lon": -91.264857974214,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.739Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.739Z"
+}

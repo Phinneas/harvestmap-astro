@@ -1,0 +1,19 @@
+{
+  "slug": "the-market-at-mccrory-100-s-edmonds-ave",
+  "name": "The Market at McCrory",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 S. Edmonds Ave., AR",
+  "locationCity": "100 S. Edmonds Ave.",
+  "locationState": "AR",
+  "locationZipcode": "72101",
+  "lat": 35.25653685993644,
+  "lon": -91.19989467703397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

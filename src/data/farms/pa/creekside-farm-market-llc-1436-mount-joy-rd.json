@@ -1,0 +1,20 @@
+{
+  "slug": "creekside-farm-market-llc-1436-mount-joy-rd",
+  "name": "Creekside Farm Market LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1436 Mount Joy Rd, PA",
+  "locationCity": "1436 Mount Joy Rd",
+  "locationState": "PA",
+  "locationZipcode": "17545",
+  "lat": 40.1388008,
+  "lon": -76.4277008,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.558Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.558Z",
+  "crops": []
+}

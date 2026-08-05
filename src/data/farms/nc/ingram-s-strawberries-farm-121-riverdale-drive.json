@@ -1,0 +1,19 @@
+{
+  "slug": "ingram-s-strawberries-farm-121-riverdale-drive",
+  "name": "Ingram's Strawberries Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "121 Riverdale Drive, NC",
+  "locationCity": "121 Riverdale Drive",
+  "locationState": "NC",
+  "locationZipcode": "27263",
+  "lat": 35.9353179442615,
+  "lon": -79.9042737319004,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.835Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.835Z"
+}

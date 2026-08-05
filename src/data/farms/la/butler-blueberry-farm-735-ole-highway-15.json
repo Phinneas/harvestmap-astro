@@ -1,0 +1,19 @@
+{
+  "slug": "butler-blueberry-farm-735-ole-highway-15",
+  "name": "Butler Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "735 Ole highway 15, LA",
+  "locationCity": "735 Ole highway 15",
+  "locationState": "LA",
+  "locationZipcode": "71291",
+  "lat": 32.5334489962707,
+  "lon": -92.2341379952776,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.021Z"
+}

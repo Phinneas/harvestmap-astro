@@ -1,0 +1,19 @@
+{
+  "slug": "clyde-farmers-market-6-south-park-street-clyde",
+  "name": "Clyde Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6 South Park Street Clyde, NY",
+  "locationCity": "6 South Park Street Clyde",
+  "locationState": "NY",
+  "locationZipcode": "14433",
+  "lat": 43.08368440028205,
+  "lon": -76.86999364946332,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

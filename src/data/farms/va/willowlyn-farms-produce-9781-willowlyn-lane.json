@@ -1,0 +1,19 @@
+{
+  "slug": "willowlyn-farms-produce-9781-willowlyn-lane",
+  "name": "Willowlyn Farms Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9781 Willowlyn Lane, VA",
+  "locationCity": "9781 Willowlyn Lane",
+  "locationState": "VA",
+  "locationZipcode": "20119",
+  "lat": 38.62344107060852,
+  "lon": -77.61343550757199,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.244Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.244Z"
+}

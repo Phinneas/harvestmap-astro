@@ -2,20 +2,19 @@
   "slug": "happy-day-farm-97-daum-road",
   "name": "Happy Day Farm",
   "source": "usda",
-  "directory": "agritourism",
+  "directory": "onfarmmarket",
   "location": "97 Daum Road, NJ",
   "locationCity": "97 Daum Road",
   "locationState": "NJ",
-  "locationZipcode": "07726",
-  "lat": 40.2667470091333,
-  "lon": -74.3769410412651,
+  "locationZipcode": "",
+  "lat": 40.2681312,
+  "lon": -74.379158,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:33:30.228Z"
+      "lastSeen": "2026-08-05T18:46:24.724Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:33:30.228Z",
-  "website": "https://www.happydayfarmnj.com/",
+  "usdaLastUpdated": "2026-08-05T18:46:24.724Z",
   "tagline": "Happy Day Farm In Manalapan NJ"
 }

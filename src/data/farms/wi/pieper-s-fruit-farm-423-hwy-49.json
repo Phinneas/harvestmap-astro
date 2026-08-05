@@ -1,0 +1,19 @@
+{
+  "slug": "pieper-s-fruit-farm-423-hwy-49",
+  "name": "Pieper's Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "423 Hwy 49, WI",
+  "locationCity": "423 Hwy 49",
+  "locationState": "WI",
+  "locationZipcode": "53006",
+  "lat": 43.6162984645294,
+  "lon": -88.487073017754,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.189Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.189Z"
+}

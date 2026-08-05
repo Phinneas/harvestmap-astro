@@ -1,0 +1,19 @@
+{
+  "slug": "jq-fruit-farm-orchard-8082-33rd-st",
+  "name": "JQ Fruit Farm & Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8082 33rd St, MN",
+  "locationCity": "8082 33rd St",
+  "locationState": "MN",
+  "locationZipcode": "55371",
+  "lat": 45.5921889821031,
+  "lon": -93.5746550157548,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.839Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.839Z"
+}

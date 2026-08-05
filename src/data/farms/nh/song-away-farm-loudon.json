@@ -1,0 +1,19 @@
+{
+  "slug": "song-away-farm-loudon",
+  "name": "Song Away Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Loudon, NH",
+  "locationCity": "Loudon",
+  "locationState": "NH",
+  "locationZipcode": "03307",
+  "lat": 43.297737,
+  "lon": -71.4491456,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.803Z"
+}

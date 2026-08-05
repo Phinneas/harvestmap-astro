@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-farmers-market-1273-state-route-5-elbridge",
+  "name": "Main Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1273 State Route 5 Elbridge, NY",
+  "locationCity": "1273 State Route 5 Elbridge",
+  "locationState": "NY",
+  "locationZipcode": "13060",
+  "lat": 43.0383553452698,
+  "lon": -76.41605062713653,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

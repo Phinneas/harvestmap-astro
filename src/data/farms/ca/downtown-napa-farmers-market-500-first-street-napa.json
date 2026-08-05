@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-napa-farmers-market-500-first-street-napa",
+  "name": "Downtown Napa Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 First Street Napa, CA",
+  "locationCity": "500 First Street Napa",
+  "locationState": "CA",
+  "locationZipcode": "94559",
+  "lat": 38.30228749099002,
+  "lon": -122.27930815758317,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

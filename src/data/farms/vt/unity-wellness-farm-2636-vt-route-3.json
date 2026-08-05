@@ -1,0 +1,19 @@
+{
+  "slug": "unity-wellness-farm-2636-vt-route-3",
+  "name": "Unity Wellness Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2636 VT Route 3, VT",
+  "locationCity": "2636 VT Route 3",
+  "locationState": "VT",
+  "locationZipcode": "05744",
+  "lat": 43.66935457739484,
+  "lon": -73.02261911007697,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.139Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.139Z"
+}

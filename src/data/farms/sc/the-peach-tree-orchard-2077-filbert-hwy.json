@@ -1,0 +1,19 @@
+{
+  "slug": "the-peach-tree-orchard-2077-filbert-hwy",
+  "name": "The Peach Tree Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2077 Filbert Hwy, SC",
+  "locationCity": "2077 Filbert Hwy",
+  "locationState": "SC",
+  "locationZipcode": "29745",
+  "lat": 35.04829500105619,
+  "lon": -81.25500799215166,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.222Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "marshall-farmers-market-200-s-a-st",
+  "name": "Marshall Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 S A St, MN",
+  "locationCity": "200 S A St",
+  "locationState": "MN",
+  "locationZipcode": "56258",
+  "lat": 44.4439512,
+  "lon": -95.7877653,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

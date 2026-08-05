@@ -1,0 +1,19 @@
+{
+  "slug": "the-albemarle-farmers-market-towncenter-lane",
+  "name": "The Albemarle Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Towncenter lane, VA",
+  "locationCity": "Towncenter lane",
+  "locationState": "VA",
+  "locationZipcode": "22911",
+  "lat": 38.126837,
+  "lon": -78.445556,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.129Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.129Z"
+}

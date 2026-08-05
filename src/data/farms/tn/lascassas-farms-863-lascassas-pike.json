@@ -1,0 +1,19 @@
+{
+  "slug": "lascassas-farms-863-lascassas-pike",
+  "name": "Lascassas Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "863 Lascassas Pike, TN",
+  "locationCity": "863 Lascassas Pike",
+  "locationState": "TN",
+  "locationZipcode": "37085",
+  "lat": 35.9280056655586,
+  "lon": -86.219099674982,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.267Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.267Z"
+}

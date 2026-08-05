@@ -1,0 +1,19 @@
+{
+  "slug": "parks-farms-525-route-24",
+  "name": "Parks Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "525 Route 24, NJ",
+  "locationCity": "525 Route 24",
+  "locationState": "NJ",
+  "locationZipcode": "07930",
+  "lat": 40.7733479797716,
+  "lon": -74.6501350098523,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.705Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.705Z"
+}

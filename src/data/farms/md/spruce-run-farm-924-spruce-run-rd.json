@@ -1,0 +1,19 @@
+{
+  "slug": "spruce-run-farm-924-spruce-run-rd",
+  "name": "Spruce Run Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "924 Spruce Run Rd, MD",
+  "locationCity": "924 Spruce Run Rd",
+  "locationState": "MD",
+  "locationZipcode": "21773",
+  "lat": 39.5848550830965,
+  "lon": -77.5260710131595,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.226Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.226Z"
+}

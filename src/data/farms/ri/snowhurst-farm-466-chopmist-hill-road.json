@@ -1,0 +1,19 @@
+{
+  "slug": "snowhurst-farm-466-chopmist-hill-road",
+  "name": "Snowhurst Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "466 Chopmist Hill Road, RI",
+  "locationCity": "466 Chopmist Hill Road",
+  "locationState": "RI",
+  "locationZipcode": "02814",
+  "lat": 41.8777039981809,
+  "lon": -71.6725879589434,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.235Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.235Z"
+}

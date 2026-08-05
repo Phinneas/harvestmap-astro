@@ -1,0 +1,19 @@
+{
+  "slug": "meadowlark-community-farm-w8130-van-wormer-rd",
+  "name": "Meadowlark Community Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "W8130 Van Wormer Rd, WI",
+  "locationCity": "W8130 Van Wormer Rd",
+  "locationState": "WI",
+  "locationZipcode": "53968",
+  "lat": 43.68015893440702,
+  "lon": -90.1722841943485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.010Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.010Z"
+}

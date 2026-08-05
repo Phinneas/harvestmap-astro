@@ -1,0 +1,19 @@
+{
+  "slug": "woodbridge-dairy-farm-1050-woodbridge-st",
+  "name": "Woodbridge Dairy Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1050 Woodbridge St, MI",
+  "locationCity": "1050 Woodbridge St",
+  "locationState": "MI",
+  "locationZipcode": "49315",
+  "lat": 42.78940033763155,
+  "lon": -85.80943318354406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.097Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.097Z"
+}

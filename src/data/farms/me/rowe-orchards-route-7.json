@@ -1,0 +1,19 @@
+{
+  "slug": "rowe-orchards-route-7",
+  "name": "Rowe Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 7, ME",
+  "locationCity": "Route 7",
+  "locationState": "ME",
+  "locationZipcode": "04953",
+  "lat": 44.8643834613717,
+  "lon": -69.2840987601687,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.919Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.919Z"
+}

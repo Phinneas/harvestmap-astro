@@ -1,0 +1,19 @@
+{
+  "slug": "finland-farmers-market-6866-cramer-rd",
+  "name": "Finland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6866 Cramer Rd, MN",
+  "locationCity": "6866 Cramer Rd",
+  "locationState": "MN",
+  "locationZipcode": "55603",
+  "lat": 47.428094,
+  "lon": -91.22888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

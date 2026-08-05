@@ -1,0 +1,19 @@
+{
+  "slug": "price-s-pumpkin-patch-020-west-jefferson",
+  "name": "Price's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "020 West Jefferson, IN",
+  "locationCity": "020 West Jefferson",
+  "locationState": "IN",
+  "locationZipcode": "46901",
+  "lat": 40.4910447317897,
+  "lon": -86.1313685239985,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.298Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.298Z"
+}

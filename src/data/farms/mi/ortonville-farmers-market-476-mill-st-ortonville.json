@@ -1,0 +1,19 @@
+{
+  "slug": "ortonville-farmers-market-476-mill-st-ortonville",
+  "name": "Ortonville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "476 Mill St Ortonville, MI",
+  "locationCity": "476 Mill St Ortonville",
+  "locationState": "MI",
+  "locationZipcode": "48462",
+  "lat": 42.85217638280649,
+  "lon": -83.44308976628756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

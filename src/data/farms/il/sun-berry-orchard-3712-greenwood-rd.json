@@ -1,0 +1,19 @@
+{
+  "slug": "sun-berry-orchard-3712-greenwood-rd",
+  "name": "Sun Berry Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3712 Greenwood Rd, IL",
+  "locationCity": "3712 Greenwood Rd",
+  "locationState": "IL",
+  "locationZipcode": "60098",
+  "lat": 42.38069500885004,
+  "lon": -88.38843096438256,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.667Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.667Z"
+}

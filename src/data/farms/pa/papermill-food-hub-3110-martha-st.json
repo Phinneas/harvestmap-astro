@@ -1,0 +1,19 @@
+{
+  "slug": "papermill-food-hub-3110-martha-st",
+  "name": "Papermill Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3110 Martha St, PA",
+  "locationCity": "3110 Martha St",
+  "locationState": "PA",
+  "locationZipcode": "19134",
+  "lat": 39.99028502031709,
+  "lon": -75.11100297566084,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.782Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.782Z"
+}

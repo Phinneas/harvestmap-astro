@@ -1,0 +1,19 @@
+{
+  "slug": "circle-a-garden-20341-pahgre-road",
+  "name": "Circle A Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "20341 Pahgre Road, CO",
+  "locationCity": "20341 Pahgre Road",
+  "locationState": "CO",
+  "locationZipcode": "20341",
+  "lat": 38.385808,
+  "lon": -107.813915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.581Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.581Z"
+}

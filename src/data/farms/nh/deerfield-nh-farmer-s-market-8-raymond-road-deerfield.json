@@ -1,0 +1,19 @@
+{
+  "slug": "deerfield-nh-farmer-s-market-8-raymond-road-deerfield",
+  "name": "Deerfield NH Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8 Raymond Road Deerfield, NH",
+  "locationCity": "8 Raymond Road Deerfield",
+  "locationState": "NH",
+  "locationZipcode": "03037",
+  "lat": 43.13047489602379,
+  "lon": -71.23871037215449,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.153Z"
+}

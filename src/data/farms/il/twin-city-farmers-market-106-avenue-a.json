@@ -1,0 +1,19 @@
+{
+  "slug": "twin-city-farmers-market-106-avenue-a",
+  "name": "Twin City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 Avenue A, IL",
+  "locationCity": "106 Avenue A",
+  "locationState": "IL",
+  "locationZipcode": "61081",
+  "lat": 41.787255,
+  "lon": -89.697172,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.929Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.929Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "oxford-farmers-market-486-oxford-rd-oxford",
+  "name": "Oxford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "486 Oxford Rd Oxford, CT",
+  "locationCity": "486 Oxford Rd Oxford",
+  "locationState": "CT",
+  "locationZipcode": "06478",
+  "lat": 41.43902476698592,
+  "lon": -73.12315798513102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

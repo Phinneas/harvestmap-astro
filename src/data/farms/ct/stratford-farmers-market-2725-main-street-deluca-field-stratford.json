@@ -1,0 +1,19 @@
+{
+  "slug": "stratford-farmers-market-2725-main-street-deluca-field-stratford",
+  "name": "Stratford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2725 Main Street DeLuca Field Stratford, CT",
+  "locationCity": "2725 Main Street DeLuca Field Stratford",
+  "locationState": "CT",
+  "locationZipcode": "06615",
+  "lat": 41.19724638204813,
+  "lon": -73.13190164046054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

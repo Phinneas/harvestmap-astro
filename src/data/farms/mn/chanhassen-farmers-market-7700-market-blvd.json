@@ -1,0 +1,19 @@
+{
+  "slug": "chanhassen-farmers-market-7700-market-blvd",
+  "name": "Chanhassen Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7700 Market Blvd, MN",
+  "locationCity": "7700 Market Blvd",
+  "locationState": "MN",
+  "locationZipcode": "55317",
+  "lat": 44.8632887,
+  "lon": -93.5389721,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

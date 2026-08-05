@@ -9,24 +9,14 @@
   "locationZipcode": "",
   "lat": 43.3201590258177,
   "lon": -90.8119124881107,
+  "website": "https://www.farmfun.com/flemingorchards",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:41:30.006Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:41:42.906Z"
+      "lastSeen": "2026-08-05T18:52:09.319Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:41:30.006Z",
-  "crops": [
-    "Apples",
-    "Pumpkins",
-    "Squash",
-    "Corn"
-  ],
-  "phone": "608-735 4625",
-  "website": "https://www.farmfun.com/flemingorchards",
-  "tagline": "Fleming Orchard"
+  "usdaLastUpdated": "2026-08-05T18:52:09.319Z",
+  "tagline": "Fleming Orchard",
+  "phone": "608-735 4625"
 }

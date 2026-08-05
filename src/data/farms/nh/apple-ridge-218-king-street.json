@@ -1,0 +1,19 @@
+{
+  "slug": "apple-ridge-218-king-street",
+  "name": "Apple Ridge",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "218 King Street, NH",
+  "locationCity": "218 King Street",
+  "locationState": "NH",
+  "locationZipcode": "03303",
+  "lat": 43.316339996325,
+  "lon": -71.6211639771336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.836Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.836Z"
+}

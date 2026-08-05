@@ -1,0 +1,19 @@
+{
+  "slug": "gary-s-berries-603-state-route-17c",
+  "name": "Gary's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "603 State Route 17C, NY",
+  "locationCity": "603 State Route 17C",
+  "locationState": "NY",
+  "locationZipcode": "13760",
+  "lat": 42.0956269615532,
+  "lon": -76.0551687117696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.006Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.006Z"
+}

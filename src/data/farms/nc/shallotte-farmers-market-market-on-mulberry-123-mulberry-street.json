@@ -1,0 +1,19 @@
+{
+  "slug": "shallotte-farmers-market-market-on-mulberry-123-mulberry-street",
+  "name": "Shallotte Farmers Market/Market on Mulberry",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "123 Mulberry Street, NC",
+  "locationCity": "123 Mulberry Street",
+  "locationState": "NC",
+  "locationZipcode": "28470",
+  "lat": 33.975058,
+  "lon": -78.386035,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.228Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.228Z"
+}

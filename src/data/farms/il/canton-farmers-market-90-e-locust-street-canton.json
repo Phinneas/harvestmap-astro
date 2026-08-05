@@ -1,0 +1,19 @@
+{
+  "slug": "canton-farmers-market-90-e-locust-street-canton",
+  "name": "Canton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "90 E. Locust Street Canton, IL",
+  "locationCity": "90 E. Locust Street Canton",
+  "locationState": "IL",
+  "locationZipcode": "61520",
+  "lat": 40.55829770022703,
+  "lon": -90.0337816248504,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

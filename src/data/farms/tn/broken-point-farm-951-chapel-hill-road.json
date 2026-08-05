@@ -1,0 +1,19 @@
+{
+  "slug": "broken-point-farm-951-chapel-hill-road",
+  "name": "Broken Point Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "951 Chapel Hill Road, TN",
+  "locationCity": "951 Chapel Hill Road",
+  "locationState": "TN",
+  "locationZipcode": "37040",
+  "lat": 36.4218360618862,
+  "lon": -87.3158361262355,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.169Z"
+}

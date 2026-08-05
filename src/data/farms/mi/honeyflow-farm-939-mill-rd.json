@@ -1,0 +1,19 @@
+{
+  "slug": "honeyflow-farm-939-mill-rd",
+  "name": "Honeyflow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "939 Mill Rd, MI",
+  "locationCity": "939 Mill Rd",
+  "locationState": "MI",
+  "locationZipcode": "48428",
+  "lat": 42.9241003892369,
+  "lon": -83.1235756532524,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.578Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.578Z"
+}

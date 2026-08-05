@@ -1,0 +1,19 @@
+{
+  "slug": "angevine-farm-40-angevine-road",
+  "name": "Angevine Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "40 Angevine Road, CT",
+  "locationCity": "40 Angevine Road",
+  "locationState": "CT",
+  "locationZipcode": "06754",
+  "lat": 41.7259459950616,
+  "lon": -73.3259109842246,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.907Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.907Z"
+}

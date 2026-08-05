@@ -1,0 +1,20 @@
+{
+  "slug": "d-m-orchard-and-produce-243-spaeth-lane",
+  "name": "D&M Orchard and Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "243 Spaeth Lane, IL",
+  "locationCity": "243 Spaeth Lane",
+  "locationState": "IL",
+  "locationZipcode": "62049",
+  "lat": 39.0625400184945,
+  "lon": -89.5152429814987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.900Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.900Z",
+  "crops": []
+}

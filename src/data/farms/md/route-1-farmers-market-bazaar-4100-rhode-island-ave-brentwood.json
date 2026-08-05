@@ -1,0 +1,19 @@
+{
+  "slug": "route-1-farmers-market-bazaar-4100-rhode-island-ave-brentwood",
+  "name": "Route 1 Farmers Market & Bazaar",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4100 Rhode Island Ave Brentwood, MD",
+  "locationCity": "4100 Rhode Island Ave Brentwood",
+  "locationState": "MD",
+  "locationZipcode": "20722",
+  "lat": 38.940377126059914,
+  "lon": -76.9538738413218,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

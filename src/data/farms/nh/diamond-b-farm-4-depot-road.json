@@ -1,0 +1,19 @@
+{
+  "slug": "diamond-b-farm-4-depot-road",
+  "name": "Diamond B Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4 Depot Road, NH",
+  "locationCity": "4 Depot Road",
+  "locationState": "NH",
+  "locationZipcode": "03855",
+  "lat": 43.4342400000001,
+  "lon": -71.1635199999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.710Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.710Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stone-farm-town-house-road",
+  "name": "Stone Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Town House Road, NH",
+  "locationCity": "Town House Road",
+  "locationState": "NH",
+  "locationZipcode": "03745",
+  "lat": 43.4646700000001,
+  "lon": -72.3364999999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.927Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.927Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "grange-fruit-farm-10724-grange-ave-ne",
+  "name": "Grange Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "10724 Grange Ave NE, MI",
+  "locationCity": "10724 Grange Ave NE",
+  "locationState": "MI",
+  "locationZipcode": "10724",
+  "lat": 43.159966,
+  "lon": -85.625363,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.187Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.187Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-mead-farmers-market-p-o-box-55-mead",
+  "name": "Downtown Mead Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "P.O. Box 55 Mead, CO",
+  "locationCity": "P.O. Box 55 Mead",
+  "locationState": "CO",
+  "locationZipcode": "80542",
+  "lat": 40.23740500000008,
+  "lon": -105.00235499999997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

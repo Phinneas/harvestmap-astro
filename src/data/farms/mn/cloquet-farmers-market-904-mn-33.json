@@ -1,0 +1,19 @@
+{
+  "slug": "cloquet-farmers-market-904-mn-33",
+  "name": "Cloquet Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "904 MN-33, MN",
+  "locationCity": "904 MN-33",
+  "locationState": "MN",
+  "locationZipcode": "55720",
+  "lat": 46.7103966,
+  "lon": -92.4573496,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

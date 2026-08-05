@@ -1,0 +1,19 @@
+{
+  "slug": "lansing-farm-market-204-lishakill-rd",
+  "name": "Lansing Farm Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "204 Lishakill Rd, NY",
+  "locationCity": "204 Lishakill Rd",
+  "locationState": "NY",
+  "locationZipcode": "12309",
+  "lat": 42.7633045,
+  "lon": -73.8546101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

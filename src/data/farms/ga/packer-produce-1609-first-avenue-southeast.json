@@ -1,0 +1,19 @@
+{
+  "slug": "packer-produce-1609-first-avenue-southeast",
+  "name": "Packer Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1609 First Avenue Southeast, GA",
+  "locationCity": "1609 First Avenue Southeast",
+  "locationState": "GA",
+  "locationZipcode": "31768",
+  "lat": 31.177983556572077,
+  "lon": -83.76679001213286,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:57.884Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:57.884Z"
+}

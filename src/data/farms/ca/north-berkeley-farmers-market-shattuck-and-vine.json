@@ -1,0 +1,19 @@
+{
+  "slug": "north-berkeley-farmers-market-shattuck-and-vine",
+  "name": "North Berkeley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Shattuck and Vine, CA",
+  "locationCity": "Shattuck and Vine",
+  "locationState": "CA",
+  "locationZipcode": "94702",
+  "lat": 37.880337,
+  "lon": -122.26907,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.351Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "roberts-family-farm-222-south-street",
+  "name": "Roberts Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "222 South Street, MA",
+  "locationCity": "222 South Street",
+  "locationState": "MA",
+  "locationZipcode": "01012",
+  "lat": 42.3632402403109,
+  "lon": -72.8284301109744,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.740Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.740Z"
+}

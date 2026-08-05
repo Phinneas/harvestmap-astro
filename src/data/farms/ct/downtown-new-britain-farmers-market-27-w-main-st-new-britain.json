@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-new-britain-farmers-market-27-w-main-st-new-britain",
+  "name": "Downtown New Britain Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "27 W Main St New Britain, CT",
+  "locationCity": "27 W Main St New Britain",
+  "locationState": "CT",
+  "locationZipcode": "06051",
+  "lat": 41.667647037646695,
+  "lon": -72.78298181564199,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

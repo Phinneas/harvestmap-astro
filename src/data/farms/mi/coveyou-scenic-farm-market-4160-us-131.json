@@ -1,0 +1,20 @@
+{
+  "slug": "coveyou-scenic-farm-market-4160-us-131",
+  "name": "Coveyou Scenic Farm Market",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "4160 US-131, MI",
+  "locationCity": "4160 US-131",
+  "locationState": "MI",
+  "locationZipcode": "49770",
+  "lat": 45.31717400314156,
+  "lon": -84.96663902186167,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.245Z",
+  "crops": []
+}

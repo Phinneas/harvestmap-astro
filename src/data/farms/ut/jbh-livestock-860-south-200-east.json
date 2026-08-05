@@ -1,0 +1,19 @@
+{
+  "slug": "jbh-livestock-860-south-200-east",
+  "name": "JBH Livestock",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "860 South 200 East, UT",
+  "locationCity": "860 South 200 East",
+  "locationState": "UT",
+  "locationZipcode": "84328",
+  "lat": 41.5653614393343,
+  "lon": -111.827289961198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.737Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.737Z"
+}

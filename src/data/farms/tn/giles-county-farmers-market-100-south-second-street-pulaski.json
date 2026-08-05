@@ -1,0 +1,19 @@
+{
+  "slug": "giles-county-farmers-market-100-south-second-street-pulaski",
+  "name": "Giles County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 South Second Street Pulaski, TN",
+  "locationCity": "100 South Second Street Pulaski",
+  "locationState": "TN",
+  "locationZipcode": "38478",
+  "lat": 35.19917852144946,
+  "lon": -87.03182184815232,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

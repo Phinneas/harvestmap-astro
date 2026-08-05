@@ -1,0 +1,19 @@
+{
+  "slug": "marview-farms-627-buford-rd",
+  "name": "Marview Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "627 Buford Rd, GA",
+  "locationCity": "627 Buford Rd",
+  "locationState": "GA",
+  "locationZipcode": "31712",
+  "lat": 31.80725146634842,
+  "lon": -83.79605938857237,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.458Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.458Z"
+}

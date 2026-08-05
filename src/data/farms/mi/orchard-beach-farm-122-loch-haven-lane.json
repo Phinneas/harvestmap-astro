@@ -1,0 +1,19 @@
+{
+  "slug": "orchard-beach-farm-122-loch-haven-lane",
+  "name": "Orchard Beach Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "122 Loch Haven Lane, MI",
+  "locationCity": "122 Loch Haven Lane",
+  "locationState": "MI",
+  "locationZipcode": "49082",
+  "lat": 41.8924589976168,
+  "lon": -84.9065380100657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.691Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.691Z"
+}

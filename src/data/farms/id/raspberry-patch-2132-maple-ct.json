@@ -1,0 +1,19 @@
+{
+  "slug": "raspberry-patch-2132-maple-ct",
+  "name": "Raspberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2132 Maple Ct, ID",
+  "locationCity": "2132 Maple Ct",
+  "locationState": "ID",
+  "locationZipcode": "83619",
+  "lat": 44.02862000466726,
+  "lon": -116.9081030305978,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.939Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.939Z"
+}

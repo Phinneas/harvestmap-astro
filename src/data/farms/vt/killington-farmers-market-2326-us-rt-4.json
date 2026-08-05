@@ -1,0 +1,19 @@
+{
+  "slug": "killington-farmers-market-2326-us-rt-4",
+  "name": "Killington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2326 US. Rt. 4, VT",
+  "locationCity": "2326 US. Rt. 4",
+  "locationState": "VT",
+  "locationZipcode": "05751",
+  "lat": 43.6677240038606,
+  "lon": -72.80455803163562,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

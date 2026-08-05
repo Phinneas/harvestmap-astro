@@ -1,0 +1,20 @@
+{
+  "slug": "gather-and-feast-farm-2706-ne-369th-street",
+  "name": "Gather and Feast Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2706 Ne 369th Street, WA",
+  "locationCity": "2706 Ne 369th Street",
+  "locationState": "WA",
+  "locationZipcode": "98629",
+  "lat": 45.8895285734392,
+  "lon": -122.643193044999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.085Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.085Z",
+  "crops": []
+}

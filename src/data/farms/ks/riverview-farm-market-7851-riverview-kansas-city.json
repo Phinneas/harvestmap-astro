@@ -1,0 +1,19 @@
+{
+  "slug": "riverview-farm-market-7851-riverview-kansas-city",
+  "name": "Riverview Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7851 Riverview Kansas City, KS",
+  "locationCity": "7851 Riverview Kansas City",
+  "locationState": "KS",
+  "locationZipcode": "66112",
+  "lat": 39.101873090400275,
+  "lon": -94.7614805670352,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

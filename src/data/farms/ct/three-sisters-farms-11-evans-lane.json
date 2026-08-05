@@ -1,0 +1,19 @@
+{
+  "slug": "three-sisters-farms-11-evans-lane",
+  "name": "Three Sisters Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11 Evans Lane, CT",
+  "locationCity": "11 Evans Lane",
+  "locationState": "CT",
+  "locationZipcode": "06426",
+  "lat": 41.3513579877798,
+  "lon": -72.3960760386642,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.953Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.953Z"
+}

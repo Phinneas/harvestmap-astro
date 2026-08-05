@@ -1,0 +1,19 @@
+{
+  "slug": "bluebird-hill-farm-480-trumbull-hwy",
+  "name": "Bluebird Hill Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "480 Trumbull Hwy, CT",
+  "locationCity": "480 Trumbull Hwy",
+  "locationState": "CT",
+  "locationZipcode": "06249",
+  "lat": 41.65050098749367,
+  "lon": -72.24015403177596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.082Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.082Z"
+}

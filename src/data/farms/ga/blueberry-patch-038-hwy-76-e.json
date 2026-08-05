@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-patch-038-hwy-76-e",
+  "name": "Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "038 Hwy. 76 E., GA",
+  "locationCity": "038 Hwy. 76 E.",
+  "locationState": "GA",
+  "locationZipcode": "30546",
+  "lat": 34.9486243516822,
+  "lon": -83.7570556520818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.359Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.359Z"
+}

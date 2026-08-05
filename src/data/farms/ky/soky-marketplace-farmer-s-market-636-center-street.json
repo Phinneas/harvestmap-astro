@@ -1,0 +1,19 @@
+{
+  "slug": "soky-marketplace-farmer-s-market-636-center-street",
+  "name": "SoKY Marketplace Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "636 Center Street, KY",
+  "locationCity": "636 Center Street",
+  "locationState": "KY",
+  "locationZipcode": "42102",
+  "lat": 36.970919,
+  "lon": -86.438462,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.728Z"
+}

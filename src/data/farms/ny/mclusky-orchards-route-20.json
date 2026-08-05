@@ -1,0 +1,19 @@
+{
+  "slug": "mclusky-orchards-route-20",
+  "name": "McLusky Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 20, NY",
+  "locationCity": "Route 20",
+  "locationState": "NY",
+  "locationZipcode": "13084",
+  "lat": 42.90380903238221,
+  "lon": -76.1784509803561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.471Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.471Z"
+}

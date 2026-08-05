@@ -1,0 +1,19 @@
+{
+  "slug": "mike-s-upick-peaches-3230-concord-ave",
+  "name": "Mike's UPick Peaches",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3230 Concord Ave, CA",
+  "locationCity": "3230 Concord Ave",
+  "locationState": "CA",
+  "locationZipcode": "94513",
+  "lat": 37.9033490027782,
+  "lon": -121.69387503606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.813Z"
+}

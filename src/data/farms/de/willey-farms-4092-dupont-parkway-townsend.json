@@ -1,0 +1,19 @@
+{
+  "slug": "willey-farms-4092-dupont-parkway-townsend",
+  "name": "Willey Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4092 DuPont Parkway Townsend, DE",
+  "locationCity": "4092 DuPont Parkway Townsend",
+  "locationState": "DE",
+  "locationZipcode": "19734",
+  "lat": 39.3904899849512,
+  "lon": -75.66244000367,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.219Z"
+}

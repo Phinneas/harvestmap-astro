@@ -1,0 +1,19 @@
+{
+  "slug": "runyan-farms-rr-2",
+  "name": "Runyan Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "RR 2, NE",
+  "locationCity": "RR 2",
+  "locationState": "NE",
+  "locationZipcode": "68355",
+  "lat": 40.0607400000001,
+  "lon": -95.5975349999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.824Z"
+}

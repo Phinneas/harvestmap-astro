@@ -1,0 +1,19 @@
+{
+  "slug": "camp-joy-garden-131-camp-joy-road",
+  "name": "Camp Joy Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "131 Camp Joy Road, CA",
+  "locationCity": "131 Camp Joy Road",
+  "locationState": "CA",
+  "locationZipcode": "95006",
+  "lat": 37.11471220344059,
+  "lon": -122.11486919881537,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.074Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.074Z"
+}

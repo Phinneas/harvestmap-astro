@@ -1,0 +1,19 @@
+{
+  "slug": "waxhaw-farmers-market-27283-waxhaw-pkwy",
+  "name": "Waxhaw Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "27283 Waxhaw Pkwy, NC",
+  "locationCity": "27283 Waxhaw Pkwy",
+  "locationState": "NC",
+  "locationZipcode": "27283",
+  "lat": 34.9333456,
+  "lon": -80.7468349,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.393Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.393Z"
+}

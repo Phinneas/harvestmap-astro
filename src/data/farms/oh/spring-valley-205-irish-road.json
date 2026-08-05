@@ -1,0 +1,19 @@
+{
+  "slug": "spring-valley-205-irish-road",
+  "name": "Spring Valley",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "205 Irish Road, OH",
+  "locationCity": "205 Irish Road",
+  "locationState": "OH",
+  "locationZipcode": "44643",
+  "lat": 40.6300549750272,
+  "lon": -81.2665681965347,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.902Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.902Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "turtle-box-market-miami",
+  "name": "Turtle Box Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Miami, FL",
+  "locationCity": "Miami",
+  "locationState": "FL",
+  "locationZipcode": "33179",
+  "lat": 25.7616798,
+  "lon": -80.1917902,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.809Z"
+}

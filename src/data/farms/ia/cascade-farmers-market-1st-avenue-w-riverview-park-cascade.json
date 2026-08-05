@@ -1,0 +1,19 @@
+{
+  "slug": "cascade-farmers-market-1st-avenue-w-riverview-park-cascade",
+  "name": "Cascade Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st Avenue W - Riverview Park Cascade, IA",
+  "locationCity": "1st Avenue W - Riverview Park Cascade",
+  "locationState": "IA",
+  "locationZipcode": "52033",
+  "lat": 42.29705534611378,
+  "lon": -91.01873079487694,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

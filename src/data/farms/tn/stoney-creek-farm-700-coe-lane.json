@@ -1,0 +1,20 @@
+{
+  "slug": "stoney-creek-farm-700-coe-lane",
+  "name": "Stoney Creek Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "700 Coe Lane, TN",
+  "locationCity": "700 Coe Lane",
+  "locationState": "TN",
+  "locationZipcode": "37064",
+  "lat": 35.8915777496865,
+  "lon": -86.7799836252586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.109Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.109Z",
+  "crops": []
+}

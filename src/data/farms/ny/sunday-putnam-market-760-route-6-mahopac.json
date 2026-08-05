@@ -1,0 +1,19 @@
+{
+  "slug": "sunday-putnam-market-760-route-6-mahopac",
+  "name": "Sunday Putnam Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "760 Route 6 Mahopac, NY",
+  "locationCity": "760 Route 6 Mahopac",
+  "locationState": "NY",
+  "locationZipcode": "10541",
+  "lat": 41.3795328731283,
+  "lon": -73.72574485670864,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

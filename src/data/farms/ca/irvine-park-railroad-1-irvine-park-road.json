@@ -1,0 +1,19 @@
+{
+  "slug": "irvine-park-railroad-1-irvine-park-road",
+  "name": "Irvine Park Railroad",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1 Irvine Park Road, CA",
+  "locationCity": "1 Irvine Park Road",
+  "locationState": "CA",
+  "locationZipcode": "92869",
+  "lat": 33.7967030162908,
+  "lon": -117.756887989937,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.787Z"
+}

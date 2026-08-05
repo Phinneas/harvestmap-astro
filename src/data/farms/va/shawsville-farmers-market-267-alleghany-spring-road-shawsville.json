@@ -1,0 +1,19 @@
+{
+  "slug": "shawsville-farmers-market-267-alleghany-spring-road-shawsville",
+  "name": "Shawsville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "267 Alleghany Spring Road Shawsville, VA",
+  "locationCity": "267 Alleghany Spring Road Shawsville",
+  "locationState": "VA",
+  "locationZipcode": "24162",
+  "lat": 37.168536539263904,
+  "lon": -80.25578188740624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-woodland-farmers-market-at-woodland-healthcare-corner-of-cottonwood-and-gibson-rd",
+  "name": "The Woodland Farmers Market at Woodland Healthcare",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Cottonwood and Gibson Rd, CA",
+  "locationCity": "Corner of Cottonwood and Gibson Rd",
+  "locationState": "CA",
+  "locationZipcode": "95695",
+  "lat": 38.663686,
+  "lon": -121.79304,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.347Z"
+}

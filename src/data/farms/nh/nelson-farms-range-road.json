@@ -1,0 +1,19 @@
+{
+  "slug": "nelson-farms-range-road",
+  "name": "Nelson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Range Road, NH",
+  "locationCity": "Range Road",
+  "locationState": "NH",
+  "locationZipcode": "03884",
+  "lat": 43.2405578749203,
+  "lon": -71.1106670099455,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.925Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.925Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cumc-farmers-market-6101-grelot-rd",
+  "name": "CUMC Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6101 Grelot Rd., AL",
+  "locationCity": "6101 Grelot Rd.",
+  "locationState": "AL",
+  "locationZipcode": "36609",
+  "lat": 30.66113052277336,
+  "lon": -88.19075318323489,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.018Z"
+}

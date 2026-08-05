@@ -1,0 +1,20 @@
+{
+  "slug": "agape-pond-farm-230-shreve-road",
+  "name": "Agape Pond Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "230 Shreve Road, PA",
+  "locationCity": "230 Shreve Road",
+  "locationState": "PA",
+  "locationZipcode": "16438",
+  "lat": 41.8631689238085,
+  "lon": -79.8577607727416,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.058Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.058Z",
+  "crops": []
+}

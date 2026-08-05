@@ -1,0 +1,19 @@
+{
+  "slug": "lindell-s-hatch-patch-hatch-run-rd",
+  "name": "Lindell's Hatch Patch",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Hatch Run Rd, PA",
+  "locationCity": "Hatch Run Rd",
+  "locationState": "PA",
+  "locationZipcode": "16365",
+  "lat": 41.87353030000752,
+  "lon": -79.14265740888543,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

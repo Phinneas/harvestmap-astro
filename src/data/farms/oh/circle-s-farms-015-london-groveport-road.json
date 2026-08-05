@@ -1,0 +1,19 @@
+{
+  "slug": "circle-s-farms-015-london-groveport-road",
+  "name": "Circle S Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "015 London Groveport Road, OH",
+  "locationCity": "015 London Groveport Road",
+  "locationState": "OH",
+  "locationZipcode": "43123",
+  "lat": 39.8279459631307,
+  "lon": -83.0471876162515,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.817Z"
+}

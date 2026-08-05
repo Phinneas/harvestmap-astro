@@ -1,0 +1,19 @@
+{
+  "slug": "lake-crystal-farmers-market-201-mn-60",
+  "name": "Lake Crystal Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 MN-60, MN",
+  "locationCity": "201 MN-60",
+  "locationState": "MN",
+  "locationZipcode": "56055",
+  "lat": 44.1124471,
+  "lon": -94.2173478,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

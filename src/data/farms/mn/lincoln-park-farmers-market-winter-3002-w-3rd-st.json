@@ -1,0 +1,19 @@
+{
+  "slug": "lincoln-park-farmers-market-winter-3002-w-3rd-st",
+  "name": "Lincoln Park Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3002 W 3rd St, MN",
+  "locationCity": "3002 W 3rd St",
+  "locationState": "MN",
+  "locationZipcode": "55806",
+  "lat": 46.760397,
+  "lon": -92.1382609,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

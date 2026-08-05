@@ -1,0 +1,19 @@
+{
+  "slug": "morris-farm-110-slebodnik-road",
+  "name": "Morris Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "110 Slebodnik Road, PA",
+  "locationCity": "110 Slebodnik Road",
+  "locationState": "PA",
+  "locationZipcode": "15642",
+  "lat": 40.2636459983251,
+  "lon": -79.7474429941491,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.103Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.103Z"
+}

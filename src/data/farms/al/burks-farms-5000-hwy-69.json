@@ -1,0 +1,19 @@
+{
+  "slug": "burks-farms-5000-hwy-69",
+  "name": "Burks Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5000 Hwy 69, AL",
+  "locationCity": "5000 Hwy 69",
+  "locationState": "AL",
+  "locationZipcode": "35058",
+  "lat": 34.227796471800154,
+  "lon": -86.72718123275111,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:51.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:51.809Z"
+}

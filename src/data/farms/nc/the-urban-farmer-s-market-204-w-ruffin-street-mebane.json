@@ -1,0 +1,19 @@
+{
+  "slug": "the-urban-farmer-s-market-204-w-ruffin-street-mebane",
+  "name": "The Urban Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "204 W. Ruffin Street Mebane, NC",
+  "locationCity": "204 W. Ruffin Street Mebane",
+  "locationState": "NC",
+  "locationZipcode": "27302",
+  "lat": 36.09826302408345,
+  "lon": -79.26918837624969,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

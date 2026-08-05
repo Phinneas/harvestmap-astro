@@ -1,0 +1,19 @@
+{
+  "slug": "swift-farm-189-south-grant-street",
+  "name": "Swift Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "189 South Grant Street, OR",
+  "locationCity": "189 South Grant Street",
+  "locationState": "OR",
+  "locationZipcode": "97013",
+  "lat": 45.2605100000001,
+  "lon": -122.69417,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.004Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.004Z"
+}

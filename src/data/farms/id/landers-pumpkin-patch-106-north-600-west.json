@@ -1,0 +1,20 @@
+{
+  "slug": "landers-pumpkin-patch-106-north-600-west",
+  "name": "Landers Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "106 North 600 West, ID",
+  "locationCity": "106 North 600 West",
+  "locationState": "ID",
+  "locationZipcode": "83347",
+  "lat": 42.6352609939106,
+  "lon": -113.781943998198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.692Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.692Z",
+  "crops": []
+}

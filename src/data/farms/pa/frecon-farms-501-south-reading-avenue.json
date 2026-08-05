@@ -1,0 +1,20 @@
+{
+  "slug": "frecon-farms-501-south-reading-avenue",
+  "name": "Frecon Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "501 South Reading Avenue, PA",
+  "locationCity": "501 South Reading Avenue",
+  "locationState": "PA",
+  "locationZipcode": "19512",
+  "lat": 40.3279820086099,
+  "lon": -75.6479989903271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.149Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.149Z",
+  "crops": []
+}

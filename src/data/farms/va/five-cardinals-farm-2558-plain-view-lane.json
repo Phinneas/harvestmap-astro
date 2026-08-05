@@ -1,0 +1,19 @@
+{
+  "slug": "five-cardinals-farm-2558-plain-view-lane",
+  "name": "Five Cardinals Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2558 Plain View Lane, VA",
+  "locationCity": "2558 Plain View Lane",
+  "locationState": "VA",
+  "locationZipcode": "23156",
+  "lat": 37.48529915115111,
+  "lon": -76.67692060427596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.245Z"
+}

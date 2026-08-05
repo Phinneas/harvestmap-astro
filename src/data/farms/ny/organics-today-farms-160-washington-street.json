@@ -1,0 +1,20 @@
+{
+  "slug": "organics-today-farms-160-washington-street",
+  "name": "Organics Today Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "160 Washington Street, NY",
+  "locationCity": "160 Washington Street",
+  "locationState": "NY",
+  "locationZipcode": "11730",
+  "lat": 40.7395319737219,
+  "lon": -73.1772924001561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.303Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.303Z",
+  "crops": []
+}

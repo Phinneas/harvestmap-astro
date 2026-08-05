@@ -1,0 +1,19 @@
+{
+  "slug": "smithfield-farmers-market-350-e-market-street-smithfield",
+  "name": "Smithfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "350 E. Market Street Smithfield, NC",
+  "locationCity": "350 E. Market Street Smithfield",
+  "locationState": "NC",
+  "locationZipcode": "27577",
+  "lat": 35.51089225348608,
+  "lon": -78.34526246223913,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

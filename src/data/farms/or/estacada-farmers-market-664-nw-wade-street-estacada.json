@@ -1,0 +1,19 @@
+{
+  "slug": "estacada-farmers-market-664-nw-wade-street-estacada",
+  "name": "Estacada Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "664 NW Wade Street Estacada, OR",
+  "locationCity": "664 NW Wade Street Estacada",
+  "locationState": "OR",
+  "locationZipcode": "97023",
+  "lat": 45.29605519406482,
+  "lon": -122.33783297214609,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.423Z"
+}

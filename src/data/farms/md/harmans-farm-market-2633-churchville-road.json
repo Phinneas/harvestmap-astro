@@ -1,0 +1,19 @@
+{
+  "slug": "harmans-farm-market-2633-churchville-road",
+  "name": "Harmans Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2633 Churchville Road, MD",
+  "locationCity": "2633 Churchville Road",
+  "locationState": "MD",
+  "locationZipcode": "21028",
+  "lat": 39.55600600203314,
+  "lon": -76.26321400341727,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:14.360Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:14.360Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gib-s-farm-251-campbell-road",
+  "name": "Gib's Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "251 Campbell Road, PA",
+  "locationCity": "251 Campbell Road",
+  "locationState": "PA",
+  "locationZipcode": "17820",
+  "lat": 40.889795,
+  "lon": -76.501264,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.545Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.545Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "black-rock-farmers-market-481-brewster-street-bridgeport",
+  "name": "Black Rock Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "481 Brewster Street Bridgeport, CT",
+  "locationCity": "481 Brewster Street Bridgeport",
+  "locationState": "CT",
+  "locationZipcode": "06605",
+  "lat": 41.15578754350639,
+  "lon": -73.22441828524141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.615Z"
+}

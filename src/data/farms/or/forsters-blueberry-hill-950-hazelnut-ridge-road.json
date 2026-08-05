@@ -1,0 +1,19 @@
+{
+  "slug": "forsters-blueberry-hill-950-hazelnut-ridge-road",
+  "name": "Forsters' Blueberry Hill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "950 Hazelnut Ridge Road, OR",
+  "locationCity": "950 Hazelnut Ridge Road",
+  "locationState": "OR",
+  "locationZipcode": "97381",
+  "lat": 45.0274598372237,
+  "lon": -122.697092403502,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.953Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.953Z"
+}

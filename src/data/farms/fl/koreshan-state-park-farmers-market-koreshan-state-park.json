@@ -1,0 +1,19 @@
+{
+  "slug": "koreshan-state-park-farmers-market-koreshan-state-park",
+  "name": "Koreshan State Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Koreshan State Park, FL",
+  "locationCity": "Koreshan State Park",
+  "locationState": "FL",
+  "locationZipcode": "33928",
+  "lat": 26.434777,
+  "lon": -81.8156127,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.560Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.560Z"
+}

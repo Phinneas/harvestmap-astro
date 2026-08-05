@@ -1,0 +1,19 @@
+{
+  "slug": "sweet-core-farm-150-hill-rd",
+  "name": "Sweet Core Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "150 Hill Rd, NY",
+  "locationCity": "150 Hill Rd",
+  "locationState": "NY",
+  "locationZipcode": "13684",
+  "lat": 44.4941913497142,
+  "lon": -75.1469397149733,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.076Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.076Z"
+}

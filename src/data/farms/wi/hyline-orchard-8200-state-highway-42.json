@@ -1,0 +1,19 @@
+{
+  "slug": "hyline-orchard-8200-state-highway-42",
+  "name": "Hyline Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8200 State Highway 42, WI",
+  "locationCity": "8200 State Highway 42",
+  "locationState": "WI",
+  "locationZipcode": "54212",
+  "lat": 45.0707369973281,
+  "lon": -87.2589150291211,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.193Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.193Z"
+}

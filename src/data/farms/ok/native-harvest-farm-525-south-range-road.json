@@ -1,0 +1,19 @@
+{
+  "slug": "native-harvest-farm-525-south-range-road",
+  "name": "Native Harvest Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "525 South Range Road, OK",
+  "locationCity": "525 South Range Road",
+  "locationState": "OK",
+  "locationZipcode": "74851",
+  "lat": 35.4294115660259,
+  "lon": -97.0358458100944,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.371Z"
+}

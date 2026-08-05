@@ -1,0 +1,19 @@
+{
+  "slug": "jr-organics-31030-rodriguez-rd",
+  "name": "JR Organics",
+  "source": "usda",
+  "directory": "csa",
+  "location": "31030 Rodriguez Rd., CA",
+  "locationCity": "31030 Rodriguez Rd.",
+  "locationState": "CA",
+  "locationZipcode": "31030",
+  "lat": 33.278857010080884,
+  "lon": -117.12495133146874,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.072Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.072Z"
+}

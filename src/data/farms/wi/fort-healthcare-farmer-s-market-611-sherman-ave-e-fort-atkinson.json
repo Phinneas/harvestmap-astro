@@ -1,0 +1,19 @@
+{
+  "slug": "fort-healthcare-farmer-s-market-611-sherman-ave-e-fort-atkinson",
+  "name": "Fort HealthCare Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "611 Sherman Ave E Fort Atkinson, WI",
+  "locationCity": "611 Sherman Ave E Fort Atkinson",
+  "locationState": "WI",
+  "locationZipcode": "53538",
+  "lat": 42.92998165156335,
+  "lon": -88.82856184720742,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.857Z"
+}

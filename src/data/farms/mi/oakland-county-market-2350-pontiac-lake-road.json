@@ -1,0 +1,19 @@
+{
+  "slug": "oakland-county-market-2350-pontiac-lake-road",
+  "name": "Oakland County Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2350 Pontiac Lake Road, MI",
+  "locationCity": "2350 Pontiac Lake Road",
+  "locationState": "MI",
+  "locationZipcode": "48328",
+  "lat": 42.65310799360887,
+  "lon": -83.33321295833831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.233Z"
+}

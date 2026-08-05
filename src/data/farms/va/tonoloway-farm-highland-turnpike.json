@@ -1,0 +1,19 @@
+{
+  "slug": "tonoloway-farm-highland-turnpike",
+  "name": "Tonoloway Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Highland Turnpike, VA",
+  "locationCity": "Highland Turnpike",
+  "locationState": "VA",
+  "locationZipcode": "24458",
+  "lat": 38.3320799974408,
+  "lon": -79.4727289674211,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.266Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.266Z"
+}

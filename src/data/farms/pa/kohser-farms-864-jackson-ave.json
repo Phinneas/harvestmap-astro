@@ -1,0 +1,19 @@
+{
+  "slug": "kohser-farms-864-jackson-ave",
+  "name": "Kohser Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "864 Jackson Ave, PA",
+  "locationCity": "864 Jackson Ave",
+  "locationState": "PA",
+  "locationZipcode": "15061",
+  "lat": 40.6761049,
+  "lon": -80.2642104,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.550Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.550Z"
+}

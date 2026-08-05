@@ -1,0 +1,19 @@
+{
+  "slug": "happy-acres-028-south-afton-road",
+  "name": "Happy Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "028 South Afton Road, WI",
+  "locationCity": "028 South Afton Road",
+  "locationState": "WI",
+  "locationZipcode": "53511",
+  "lat": 42.5300255624764,
+  "lon": -89.0469128081655,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.378Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.378Z"
+}

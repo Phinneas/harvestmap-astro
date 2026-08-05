@@ -1,0 +1,19 @@
+{
+  "slug": "mapletree-farm-105-oak-hill-rd",
+  "name": "Mapletree Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "105 Oak Hill Rd., NH",
+  "locationCity": "105 Oak Hill Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03301",
+  "lat": 43.25796599185932,
+  "lon": -71.52563802503312,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.803Z"
+}

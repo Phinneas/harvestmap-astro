@@ -1,0 +1,19 @@
+{
+  "slug": "copake-hillsdale-farmers-market-9140-ny-22",
+  "name": "Copake Hillsdale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9140 NY-22, NY",
+  "locationCity": "9140 NY-22",
+  "locationState": "NY",
+  "locationZipcode": "12832",
+  "lat": 43.40240548334175,
+  "lon": -73.27288884142777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "kookoolan-farms-15713-highway-47",
+  "name": "Kookoolan Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15713 Highway 47, OR",
+  "locationCity": "15713 Highway 47",
+  "locationState": "OR",
+  "locationZipcode": "15713",
+  "lat": 45.3302206,
+  "lon": -123.1844309,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.930Z",
+  "crops": []
+}

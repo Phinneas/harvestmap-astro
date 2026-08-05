@@ -1,0 +1,19 @@
+{
+  "slug": "putney-farmers-market-winter-130-west-hill-rd",
+  "name": "Putney Farmers' Market (Winter)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "130 West Hill Rd., VT",
+  "locationCity": "130 West Hill Rd.",
+  "locationState": "VT",
+  "locationZipcode": "05346",
+  "lat": 42.99034254159647,
+  "lon": -72.54387203360471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

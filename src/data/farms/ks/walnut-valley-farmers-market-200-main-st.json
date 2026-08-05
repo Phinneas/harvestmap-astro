@@ -1,0 +1,19 @@
+{
+  "slug": "walnut-valley-farmers-market-200-main-st",
+  "name": "Walnut Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Main St, KS",
+  "locationCity": "200 Main St",
+  "locationState": "KS",
+  "locationZipcode": "67156",
+  "lat": 37.24788732968209,
+  "lon": -96.99735263346089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

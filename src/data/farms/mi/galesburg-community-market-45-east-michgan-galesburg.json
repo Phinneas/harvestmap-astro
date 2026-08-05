@@ -1,0 +1,19 @@
+{
+  "slug": "galesburg-community-market-45-east-michgan-galesburg",
+  "name": "Galesburg Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "45 East Michgan Galesburg, MI",
+  "locationCity": "45 East Michgan Galesburg",
+  "locationState": "MI",
+  "locationZipcode": "49053",
+  "lat": 42.28892055570401,
+  "lon": -85.4170694682022,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

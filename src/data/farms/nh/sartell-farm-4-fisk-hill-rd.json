@@ -1,0 +1,19 @@
+{
+  "slug": "sartell-farm-4-fisk-hill-rd",
+  "name": "Sartell Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4 Fisk Hill Rd., NH",
+  "locationCity": "4 Fisk Hill Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03084",
+  "lat": 42.80989798848046,
+  "lon": -71.82823797307361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.803Z"
+}

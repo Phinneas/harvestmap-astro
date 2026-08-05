@@ -1,0 +1,19 @@
+{
+  "slug": "custom-gardens-farm-csa-701-elm-street",
+  "name": "Custom Gardens Farm & CSA",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "701 Elm Street, NV",
+  "locationCity": "701 Elm Street",
+  "locationState": "NV",
+  "locationZipcode": "89429",
+  "lat": 39.3573283489501,
+  "lon": -119.231289021217,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:11.050Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:11.050Z"
+}

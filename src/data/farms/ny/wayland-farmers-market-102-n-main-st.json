@@ -1,0 +1,19 @@
+{
+  "slug": "wayland-farmers-market-102-n-main-st",
+  "name": "Wayland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 N Main St, NY",
+  "locationCity": "102 N Main St",
+  "locationState": "NY",
+  "locationZipcode": "14572",
+  "lat": 42.56878671816631,
+  "lon": -77.59159242293497,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

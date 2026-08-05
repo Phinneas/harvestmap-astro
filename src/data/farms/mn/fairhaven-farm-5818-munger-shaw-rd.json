@@ -1,0 +1,19 @@
+{
+  "slug": "fairhaven-farm-5818-munger-shaw-rd",
+  "name": "Fairhaven Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5818 Munger Shaw Rd, MN",
+  "locationCity": "5818 Munger Shaw Rd",
+  "locationState": "MN",
+  "locationZipcode": "55779",
+  "lat": 46.931371,
+  "lon": -92.341584,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.180Z"
+}

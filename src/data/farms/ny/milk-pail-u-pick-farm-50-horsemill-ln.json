@@ -1,0 +1,19 @@
+{
+  "slug": "milk-pail-u-pick-farm-50-horsemill-ln",
+  "name": "Milk Pail U-Pick Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "50 Horsemill Ln, NY",
+  "locationCity": "50 Horsemill Ln",
+  "locationState": "NY",
+  "locationZipcode": "11976",
+  "lat": 40.9096622668263,
+  "lon": -72.3175431210229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.312Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.312Z"
+}

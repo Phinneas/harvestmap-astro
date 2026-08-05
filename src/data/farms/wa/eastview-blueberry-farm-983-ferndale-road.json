@@ -1,0 +1,19 @@
+{
+  "slug": "eastview-blueberry-farm-983-ferndale-road",
+  "name": "Eastview Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "983 Ferndale Road, WA",
+  "locationCity": "983 Ferndale Road",
+  "locationState": "WA",
+  "locationZipcode": "98248",
+  "lat": 48.8151874356071,
+  "lon": -122.59554874464,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.143Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.143Z"
+}

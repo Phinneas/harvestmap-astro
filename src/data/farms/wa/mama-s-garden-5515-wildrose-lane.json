@@ -1,0 +1,20 @@
+{
+  "slug": "mama-s-garden-5515-wildrose-lane",
+  "name": "Mama's Garden",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5515 Wildrose Lane, WA",
+  "locationCity": "5515 Wildrose Lane",
+  "locationState": "WA",
+  "locationZipcode": "98244",
+  "lat": 48.7359290145039,
+  "lon": -122.200925025251,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.174Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.174Z",
+  "crops": []
+}

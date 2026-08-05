@@ -1,0 +1,19 @@
+{
+  "slug": "clock-tower-place-farmers-market-1410-forest-drive-annapolis",
+  "name": "Clock Tower Place Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1410 Forest Drive Annapolis, MD",
+  "locationCity": "1410 Forest Drive Annapolis",
+  "locationState": "MD",
+  "locationZipcode": "21403",
+  "lat": 38.960497659179865,
+  "lon": -76.5104888322336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.535Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "clemson-student-organic-farm-e-142-poole-agriculture-bldg",
+  "name": "Clemson Student Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "E-142 Poole Agriculture Bldg., SC",
+  "locationCity": "E-142 Poole Agriculture Bldg.",
+  "locationState": "SC",
+  "locationZipcode": "29634",
+  "lat": 34.6738091,
+  "lon": -82.8341849,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:52.949Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:52.949Z"
+}

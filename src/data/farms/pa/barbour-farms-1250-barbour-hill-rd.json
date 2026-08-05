@@ -1,0 +1,19 @@
+{
+  "slug": "barbour-farms-1250-barbour-hill-rd",
+  "name": "Barbour Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1250 Barbour Hill Rd, PA",
+  "locationCity": "1250 Barbour Hill Rd",
+  "locationState": "PA",
+  "locationZipcode": "18822",
+  "lat": 41.94202940164365,
+  "lon": -75.81735150146058,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.593Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.593Z"
+}

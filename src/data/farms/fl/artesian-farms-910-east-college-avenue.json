@@ -1,0 +1,19 @@
+{
+  "slug": "artesian-farms-910-east-college-avenue",
+  "name": "Artesian Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "910 East College Avenue, FL",
+  "locationCity": "910 East College Avenue",
+  "locationState": "FL",
+  "locationZipcode": "33570",
+  "lat": 27.7132373067033,
+  "lon": -82.422779026119,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.888Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.888Z"
+}

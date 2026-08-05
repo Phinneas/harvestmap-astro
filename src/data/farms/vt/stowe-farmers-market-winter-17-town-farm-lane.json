@@ -1,0 +1,19 @@
+{
+  "slug": "stowe-farmers-market-winter-17-town-farm-lane",
+  "name": "Stowe Farmers' Market (Winter)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17 Town Farm Lane, VT",
+  "locationCity": "17 Town Farm Lane",
+  "locationState": "VT",
+  "locationZipcode": "05672",
+  "lat": 44.47537405243621,
+  "lon": -72.70017971503776,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

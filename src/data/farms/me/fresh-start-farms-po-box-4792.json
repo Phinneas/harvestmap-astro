@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-start-farms-po-box-4792",
+  "name": "Fresh Start Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 4792, ME",
+  "locationCity": "PO Box 4792",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 43.6599999,
+  "lon": -70.27,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.553Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.553Z"
+}

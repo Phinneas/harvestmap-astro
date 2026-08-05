@@ -1,0 +1,19 @@
+{
+  "slug": "seward-farmers-market-237-4th-ave",
+  "name": "Seward Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "237 4th Ave, AK",
+  "locationCity": "237 4th Ave",
+  "locationState": "AK",
+  "locationZipcode": "99664",
+  "lat": 60.10170421746773,
+  "lon": -149.44051847883495,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

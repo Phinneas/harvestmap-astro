@@ -1,0 +1,19 @@
+{
+  "slug": "west-village-farm-to-market-3699-mckinney-ave-dallas",
+  "name": "West Village Farm-to-Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3699 McKinney Ave. Dallas, TX",
+  "locationCity": "3699 McKinney Ave. Dallas",
+  "locationState": "TX",
+  "locationZipcode": "75204",
+  "lat": 32.80835175560009,
+  "lon": -96.79635152608402,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.201Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.201Z"
+}

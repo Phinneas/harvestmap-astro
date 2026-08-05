@@ -1,0 +1,19 @@
+{
+  "slug": "eagle-peak-farm-748-eagle-peak-road",
+  "name": "Eagle Peak Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "748 Eagle Peak Road, VT",
+  "locationCity": "748 Eagle Peak Road",
+  "locationState": "VT",
+  "locationZipcode": "05060",
+  "lat": 44.0296482939402,
+  "lon": -72.6687002285653,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.910Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.910Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "alexandria-farmers-market-200-broadway-st",
+  "name": "Alexandria Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Broadway St, MN",
+  "locationCity": "200 Broadway St",
+  "locationState": "MN",
+  "locationZipcode": "56308",
+  "lat": 45.8908155,
+  "lon": -95.3776342,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

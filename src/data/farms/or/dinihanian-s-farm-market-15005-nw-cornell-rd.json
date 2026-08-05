@@ -1,0 +1,19 @@
+{
+  "slug": "dinihanian-s-farm-market-15005-nw-cornell-rd",
+  "name": "Dinihanian's Farm Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15005 NW Cornell Rd., OR",
+  "locationCity": "15005 NW Cornell Rd.",
+  "locationState": "OR",
+  "locationZipcode": "15005",
+  "lat": 45.5334373,
+  "lon": -122.8295233,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.930Z"
+}

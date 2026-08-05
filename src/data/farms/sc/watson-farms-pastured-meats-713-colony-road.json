@@ -1,0 +1,19 @@
+{
+  "slug": "watson-farms-pastured-meats-713-colony-road",
+  "name": "Watson Farms Pastured Meats",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "713 Colony Road, SC",
+  "locationCity": "713 Colony Road",
+  "locationState": "SC",
+  "locationZipcode": "29706",
+  "lat": 34.811077,
+  "lon": -81.213222,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.144Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.144Z"
+}

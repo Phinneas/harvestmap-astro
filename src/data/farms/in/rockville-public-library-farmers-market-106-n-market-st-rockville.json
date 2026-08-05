@@ -1,0 +1,19 @@
+{
+  "slug": "rockville-public-library-farmers-market-106-n-market-st-rockville",
+  "name": "Rockville Public Library Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 N. Market St. Rockville, IN",
+  "locationCity": "106 N. Market St. Rockville",
+  "locationState": "IN",
+  "locationZipcode": "47872",
+  "lat": 39.763089334927095,
+  "lon": -87.22913358308458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

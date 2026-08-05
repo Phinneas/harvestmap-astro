@@ -1,0 +1,19 @@
+{
+  "slug": "kilgore-fruit-farm-448-kilgore-road",
+  "name": "Kilgore Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "448 Kilgore Road, OH",
+  "locationCity": "448 Kilgore Road",
+  "locationState": "OH",
+  "locationZipcode": "43906",
+  "lat": 40.0552960251473,
+  "lon": -80.7540192605503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.806Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.806Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "holly-springs-farmers-market-300-west-ballentine-street",
+  "name": "Holly Springs Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 West Ballentine Street, NC",
+  "locationCity": "300 West Ballentine Street",
+  "locationState": "NC",
+  "locationZipcode": "27540",
+  "lat": 35.650573,
+  "lon": -78.83619,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.273Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.273Z"
+}

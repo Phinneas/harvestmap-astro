@@ -1,0 +1,20 @@
+{
+  "slug": "vollmer-fam-677-nc-highway-98-east",
+  "name": "Vollmer Fam",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "677 NC highway 98 East, NC",
+  "locationCity": "677 NC highway 98 East",
+  "locationState": "NC",
+  "locationZipcode": "27508",
+  "lat": 35.9443792914713,
+  "lon": -78.2233131761771,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.633Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.633Z",
+  "crops": []
+}

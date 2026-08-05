@@ -1,0 +1,19 @@
+{
+  "slug": "pa-pa-s-pumpkin-patch-4502-forest-park-road",
+  "name": "Pa Pa's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4502 Forest Park Road, MO",
+  "locationCity": "4502 Forest Park Road",
+  "locationState": "MO",
+  "locationZipcode": "65301",
+  "lat": 38.6671930126227,
+  "lon": -93.2336119717144,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.682Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.682Z"
+}

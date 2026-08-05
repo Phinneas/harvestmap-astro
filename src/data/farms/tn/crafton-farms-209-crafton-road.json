@@ -1,0 +1,19 @@
+{
+  "slug": "crafton-farms-209-crafton-road",
+  "name": "Crafton Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "209 Crafton Road, TN",
+  "locationCity": "209 Crafton Road",
+  "locationState": "TN",
+  "locationZipcode": "37148",
+  "lat": 36.579933998445,
+  "lon": -86.5752829828185,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.223Z"
+}

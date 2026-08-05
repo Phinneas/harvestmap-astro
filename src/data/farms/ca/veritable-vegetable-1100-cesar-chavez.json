@@ -1,0 +1,19 @@
+{
+  "slug": "veritable-vegetable-1100-cesar-chavez",
+  "name": "Veritable Vegetable",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1100 Cesar Chavez, CA",
+  "locationCity": "1100 Cesar Chavez",
+  "locationState": "CA",
+  "locationZipcode": "94124",
+  "lat": 37.7505071,
+  "lon": -122.38911,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.240Z"
+}

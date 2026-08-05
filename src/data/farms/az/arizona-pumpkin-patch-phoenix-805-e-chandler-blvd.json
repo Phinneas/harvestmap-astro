@@ -1,0 +1,19 @@
+{
+  "slug": "arizona-pumpkin-patch-phoenix-805-e-chandler-blvd",
+  "name": "Arizona Pumpkin Patch Phoenix",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "805 E Chandler Blvd, AZ",
+  "locationCity": "805 E Chandler Blvd",
+  "locationState": "AZ",
+  "locationZipcode": "85048",
+  "lat": 33.3095305228951,
+  "lon": -112.062826825139,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.753Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.753Z"
+}

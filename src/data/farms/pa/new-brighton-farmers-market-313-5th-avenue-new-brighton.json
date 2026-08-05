@@ -1,0 +1,19 @@
+{
+  "slug": "new-brighton-farmers-market-313-5th-avenue-new-brighton",
+  "name": "New Brighton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "313 5th Avenue New Brighton, PA",
+  "locationCity": "313 5th Avenue New Brighton",
+  "locationState": "PA",
+  "locationZipcode": "15066",
+  "lat": 40.74029449047134,
+  "lon": -80.3173354124008,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

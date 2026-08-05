@@ -1,0 +1,19 @@
+{
+  "slug": "dao-house-120-hwy-7",
+  "name": "Dao House",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "120 HWY 7, CO",
+  "locationCity": "120 HWY 7",
+  "locationState": "CO",
+  "locationZipcode": "80517",
+  "lat": 40.3748866269455,
+  "lon": -105.509126680889,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.171Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.171Z"
+}

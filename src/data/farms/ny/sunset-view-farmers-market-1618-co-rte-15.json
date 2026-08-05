@@ -1,0 +1,19 @@
+{
+  "slug": "sunset-view-farmers-market-1618-co-rte-15",
+  "name": "Sunset View Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1618 Co Rte 15, NY",
+  "locationCity": "1618 Co Rte 15",
+  "locationState": "NY",
+  "locationZipcode": "14869",
+  "lat": 42.31293224814282,
+  "lon": -76.7849304288818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

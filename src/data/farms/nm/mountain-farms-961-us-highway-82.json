@@ -1,0 +1,19 @@
+{
+  "slug": "mountain-farms-961-us-highway-82",
+  "name": "Mountain Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "961 US Highway 82, NM",
+  "locationCity": "961 US Highway 82",
+  "locationState": "NM",
+  "locationZipcode": "88325",
+  "lat": 32.954103985314305,
+  "lon": -105.82260801728005,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:01.955Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:01.955Z"
+}

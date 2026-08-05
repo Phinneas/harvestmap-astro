@@ -1,0 +1,19 @@
+{
+  "slug": "chickasabogue-vineyard-old-gulfcrest-road",
+  "name": "Chickasabogue Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Old Gulfcrest Road, AL",
+  "locationCity": "Old Gulfcrest Road",
+  "locationState": "AL",
+  "locationZipcode": "36522",
+  "lat": 31.00724825072568,
+  "lon": -88.21511024243172,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.674Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.674Z"
+}

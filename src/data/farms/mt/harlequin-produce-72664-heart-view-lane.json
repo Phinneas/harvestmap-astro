@@ -1,0 +1,19 @@
+{
+  "slug": "harlequin-produce-72664-heart-view-lane",
+  "name": "Harlequin Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "72664 Heart View Lane, MT",
+  "locationCity": "72664 Heart View Lane",
+  "locationState": "MT",
+  "locationZipcode": "72664",
+  "lat": 47.15796923132518,
+  "lon": -114.04276895990724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:15.498Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:15.498Z"
+}

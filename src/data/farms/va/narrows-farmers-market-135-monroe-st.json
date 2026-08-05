@@ -1,0 +1,19 @@
+{
+  "slug": "narrows-farmers-market-135-monroe-st",
+  "name": "Narrows Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "135 Monroe St, VA",
+  "locationCity": "135 Monroe St",
+  "locationState": "VA",
+  "locationZipcode": "24124",
+  "lat": 37.33101560962183,
+  "lon": -80.81183144223135,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

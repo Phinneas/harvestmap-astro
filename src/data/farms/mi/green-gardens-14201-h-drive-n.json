@@ -1,0 +1,19 @@
+{
+  "slug": "green-gardens-14201-h-drive-n",
+  "name": "Green Gardens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "14201 H Drive N, MI",
+  "locationCity": "14201 H Drive N",
+  "locationState": "MI",
+  "locationZipcode": "14201",
+  "lat": 42.3058502,
+  "lon": -85.0196714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.092Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.092Z"
+}

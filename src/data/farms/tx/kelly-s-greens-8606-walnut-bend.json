@@ -1,0 +1,19 @@
+{
+  "slug": "kelly-s-greens-8606-walnut-bend",
+  "name": "Kelly's Greens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8606 Walnut Bend, TX",
+  "locationCity": "8606 Walnut Bend",
+  "locationState": "TX",
+  "locationZipcode": "77845",
+  "lat": 30.6058479,
+  "lon": -96.2826186,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.844Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.844Z"
+}

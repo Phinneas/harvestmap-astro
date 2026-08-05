@@ -1,0 +1,19 @@
+{
+  "slug": "lynchburg-community-market-1219-main-st",
+  "name": "Lynchburg Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1219 Main St, VA",
+  "locationCity": "1219 Main St",
+  "locationState": "VA",
+  "locationZipcode": "24504",
+  "lat": 37.411517,
+  "lon": -79.140379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.116Z"
+}

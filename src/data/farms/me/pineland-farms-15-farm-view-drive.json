@@ -1,0 +1,20 @@
+{
+  "slug": "pineland-farms-15-farm-view-drive",
+  "name": "Pineland Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15 Farm View Drive, ME",
+  "locationCity": "15 Farm View Drive",
+  "locationState": "ME",
+  "locationZipcode": "04260",
+  "lat": 43.902546625539,
+  "lon": -70.2591234865874,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.847Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.847Z",
+  "crops": []
+}

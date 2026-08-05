@@ -1,0 +1,19 @@
+{
+  "slug": "unity-farm-4649-crestmore-road",
+  "name": "Unity Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4649 Crestmore Road, CA",
+  "locationCity": "4649 Crestmore Road",
+  "locationState": "CA",
+  "locationZipcode": "92509",
+  "lat": 33.9851571360347,
+  "lon": -117.401014139536,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.831Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.831Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "corfu-farmers-market-63-alleghany-rd",
+  "name": "Corfu Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "63 Alleghany Rd, NY",
+  "locationCity": "63 Alleghany Rd",
+  "locationState": "NY",
+  "locationZipcode": "14036",
+  "lat": 42.960783252424676,
+  "lon": -78.40586622841892,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "woodstock-farmers-market-4600-se-woodstock-blvd",
+  "name": "Woodstock Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4600 SE Woodstock Blvd, OR",
+  "locationCity": "4600 SE Woodstock Blvd",
+  "locationState": "OR",
+  "locationZipcode": "97206",
+  "lat": 45.479170934268254,
+  "lon": -122.61536168270172,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.428Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.428Z"
+}

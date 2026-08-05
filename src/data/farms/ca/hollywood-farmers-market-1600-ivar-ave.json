@@ -1,0 +1,19 @@
+{
+  "slug": "hollywood-farmers-market-1600-ivar-ave",
+  "name": "Hollywood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1600 Ivar Ave, CA",
+  "locationCity": "1600 Ivar Ave",
+  "locationState": "CA",
+  "locationZipcode": "90028",
+  "lat": 34.099639,
+  "lon": -118.32819,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

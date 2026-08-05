@@ -1,0 +1,19 @@
+{
+  "slug": "erickson-s-produce-201-hwy-4-north",
+  "name": "Erickson's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "201 Hwy 4 North, IA",
+  "locationCity": "201 Hwy 4 North",
+  "locationState": "IA",
+  "locationZipcode": "51365",
+  "lat": 43.3248270085663,
+  "lon": -94.7974089788261,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.735Z"
+}

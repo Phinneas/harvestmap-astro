@@ -1,0 +1,19 @@
+{
+  "slug": "historic-downtown-farmers-market-121-orange-street",
+  "name": "Historic Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 Orange Street, AR",
+  "locationCity": "121 Orange Street",
+  "locationState": "AR",
+  "locationZipcode": "71901",
+  "lat": 34.504886,
+  "lon": -93.050943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.328Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.328Z"
+}

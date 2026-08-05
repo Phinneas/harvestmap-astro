@@ -1,0 +1,19 @@
+{
+  "slug": "county-line-produce-1429-county-line-rd",
+  "name": "County Line Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1429 County Line Rd, NC",
+  "locationCity": "1429 County Line Rd",
+  "locationState": "NC",
+  "locationZipcode": "27919",
+  "lat": 36.30297369079456,
+  "lon": -76.56773174820984,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.905Z"
+}

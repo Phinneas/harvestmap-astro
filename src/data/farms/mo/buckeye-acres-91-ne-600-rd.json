@@ -1,0 +1,20 @@
+{
+  "slug": "buckeye-acres-91-ne-600-rd",
+  "name": "Buckeye Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "91 Ne 600 Rd, MO",
+  "locationCity": "91 Ne 600 Rd",
+  "locationState": "MO",
+  "locationZipcode": "64093",
+  "lat": 38.850166983367,
+  "lon": -93.7230690166927,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.738Z",
+  "crops": []
+}

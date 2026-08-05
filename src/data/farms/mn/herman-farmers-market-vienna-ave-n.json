@@ -1,0 +1,19 @@
+{
+  "slug": "herman-farmers-market-vienna-ave-n",
+  "name": "Herman Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Vienna Ave N, MN",
+  "locationCity": "Vienna Ave N",
+  "locationState": "MN",
+  "locationZipcode": "56248",
+  "lat": 45.809134,
+  "lon": -96.147832,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

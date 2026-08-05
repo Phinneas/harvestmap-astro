@@ -1,0 +1,19 @@
+{
+  "slug": "south-pearl-farmers-market-south-pearl-farmers-market",
+  "name": "South Pearl Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "South Pearl Farmers Market, CO",
+  "locationCity": "South Pearl Farmers Market",
+  "locationState": "CO",
+  "locationZipcode": "80210",
+  "lat": 39.68922499552798,
+  "lon": -104.98017695964322,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

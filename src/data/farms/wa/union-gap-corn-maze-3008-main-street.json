@@ -1,0 +1,19 @@
+{
+  "slug": "union-gap-corn-maze-3008-main-street",
+  "name": "Union Gap Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3008 Main Street, WA",
+  "locationCity": "3008 Main Street",
+  "locationState": "WA",
+  "locationZipcode": "98903",
+  "lat": 46.5570200000001,
+  "lon": -120.47533,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.307Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.307Z"
+}

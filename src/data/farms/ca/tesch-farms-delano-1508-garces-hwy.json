@@ -1,0 +1,19 @@
+{
+  "slug": "tesch-farms-delano-1508-garces-hwy",
+  "name": "Tesch Farms Delano",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1508 Garces Hwy, CA",
+  "locationCity": "1508 Garces Hwy",
+  "locationState": "CA",
+  "locationZipcode": "93215",
+  "lat": 35.76115398936027,
+  "lon": -119.23692204022637,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

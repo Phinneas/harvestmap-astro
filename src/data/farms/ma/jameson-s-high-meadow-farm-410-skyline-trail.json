@@ -1,0 +1,20 @@
+{
+  "slug": "jameson-s-high-meadow-farm-410-skyline-trail",
+  "name": "Jameson's High Meadow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "410 Skyline Trail, MA",
+  "locationCity": "410 Skyline Trail",
+  "locationState": "MA",
+  "locationZipcode": "01011",
+  "lat": 42.2978880919041,
+  "lon": -72.9344553188116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.500Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.500Z",
+  "crops": []
+}

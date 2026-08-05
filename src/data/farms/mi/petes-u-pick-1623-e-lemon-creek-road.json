@@ -1,0 +1,19 @@
+{
+  "slug": "petes-u-pick-1623-e-lemon-creek-road",
+  "name": "Petes U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1623 E Lemon Creek Road, MI",
+  "locationCity": "1623 E Lemon Creek Road",
+  "locationState": "MI",
+  "locationZipcode": "49103",
+  "lat": 41.95832101719375,
+  "lon": -86.41915000342725,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.738Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "honeysuckle-hill-bee-farm-041-highway-49-north",
+  "name": "Honeysuckle Hill Bee Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "041 Highway 49 North, NC",
+  "locationCity": "041 Highway 49 North",
+  "locationState": "NC",
+  "locationZipcode": "28025",
+  "lat": 35.3724216460958,
+  "lon": -80.5549328986149,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.851Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.851Z"
+}

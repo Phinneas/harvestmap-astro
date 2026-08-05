@@ -1,0 +1,19 @@
+{
+  "slug": "erickson-s-ranch-cordelia-road",
+  "name": "Erickson's Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cordelia Road, CA",
+  "locationCity": "Cordelia Road",
+  "locationState": "CA",
+  "locationZipcode": "94534",
+  "lat": 38.2333925680877,
+  "lon": -122.05852906701,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.808Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.808Z"
+}

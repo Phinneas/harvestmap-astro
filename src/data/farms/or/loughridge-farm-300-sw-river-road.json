@@ -1,0 +1,19 @@
+{
+  "slug": "loughridge-farm-300-sw-river-road",
+  "name": "Loughridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "300 SW River Road, OR",
+  "locationCity": "300 SW River Road",
+  "locationState": "OR",
+  "locationZipcode": "97123",
+  "lat": 45.4452325157611,
+  "lon": -122.949041172411,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.887Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.887Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blue-goose-blueberries-735-blue-goose-rd",
+  "name": "Blue Goose Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "735 Blue Goose Rd, TN",
+  "locationCity": "735 Blue Goose Rd",
+  "locationState": "TN",
+  "locationZipcode": "38345",
+  "lat": 35.6929336449665,
+  "lon": -88.5757243926348,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.168Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.168Z"
+}

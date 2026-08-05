@@ -1,0 +1,19 @@
+{
+  "slug": "bratton-farms-914-bratton-lane",
+  "name": "Bratton Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "914 Bratton Lane, TN",
+  "locationCity": "914 Bratton Lane",
+  "locationState": "TN",
+  "locationZipcode": "38487",
+  "lat": 35.7443393633245,
+  "lon": -87.2841081999345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.354Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.354Z"
+}

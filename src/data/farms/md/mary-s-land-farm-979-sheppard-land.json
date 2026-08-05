@@ -1,0 +1,19 @@
+{
+  "slug": "mary-s-land-farm-979-sheppard-land",
+  "name": "Mary's Land Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "979 Sheppard Land, MD",
+  "locationCity": "979 Sheppard Land",
+  "locationState": "MD",
+  "locationZipcode": "21042",
+  "lat": 39.2418703781125,
+  "lon": -76.9427933278284,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.155Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.155Z"
+}

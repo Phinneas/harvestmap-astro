@@ -1,0 +1,19 @@
+{
+  "slug": "woo-berry-farm-181-babcock-lake-road",
+  "name": "Woo Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "181 Babcock Lake Road, NY",
+  "locationCity": "181 Babcock Lake Road",
+  "locationState": "NY",
+  "locationZipcode": "12082",
+  "lat": 42.7833265591335,
+  "lon": -73.4190660311929,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.780Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.780Z"
+}

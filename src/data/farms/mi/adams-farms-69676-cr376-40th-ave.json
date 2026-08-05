@@ -1,0 +1,19 @@
+{
+  "slug": "adams-farms-69676-cr376-40th-ave",
+  "name": "Adams Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "69676 Cr376 (40th Ave), MI",
+  "locationCity": "69676 Cr376 (40th Ave)",
+  "locationState": "MI",
+  "locationZipcode": "69676",
+  "lat": 42.257492,
+  "lon": -86.220746,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.130Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.130Z"
+}

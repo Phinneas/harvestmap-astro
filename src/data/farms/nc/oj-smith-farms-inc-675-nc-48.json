@@ -1,0 +1,19 @@
+{
+  "slug": "oj-smith-farms-inc-675-nc-48",
+  "name": "OJ Smith Farms, Inc",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "675 NC 48, NC",
+  "locationCity": "675 NC 48",
+  "locationState": "NC",
+  "locationZipcode": "27891",
+  "lat": 36.1198521856681,
+  "lon": -77.806558052067,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.887Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.887Z"
+}

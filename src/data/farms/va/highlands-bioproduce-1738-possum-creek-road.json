@@ -1,0 +1,19 @@
+{
+  "slug": "highlands-bioproduce-1738-possum-creek-road",
+  "name": "Highlands BioProduce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1738 Possum Creek Road, VA",
+  "locationCity": "1738 Possum Creek Road",
+  "locationState": "VA",
+  "locationZipcode": "24251",
+  "lat": 36.6071088,
+  "lon": -82.6852905,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.208Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.208Z"
+}

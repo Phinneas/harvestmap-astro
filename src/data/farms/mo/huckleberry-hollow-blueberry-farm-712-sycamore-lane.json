@@ -1,0 +1,19 @@
+{
+  "slug": "huckleberry-hollow-blueberry-farm-712-sycamore-lane",
+  "name": "Huckleberry Hollow Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "712 Sycamore Lane, MO",
+  "locationCity": "712 Sycamore Lane",
+  "locationState": "MO",
+  "locationZipcode": "63077",
+  "lat": 38.3073057912344,
+  "lon": -90.9874145291774,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.720Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.720Z"
+}

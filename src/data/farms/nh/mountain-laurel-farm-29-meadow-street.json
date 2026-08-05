@@ -1,0 +1,19 @@
+{
+  "slug": "mountain-laurel-farm-29-meadow-street",
+  "name": "Mountain Laurel Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "29 Meadow Street, NH",
+  "locationCity": "29 Meadow Street",
+  "locationState": "NH",
+  "locationZipcode": "03872",
+  "lat": 43.5537600000001,
+  "lon": -71.0271499999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.842Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.842Z"
+}

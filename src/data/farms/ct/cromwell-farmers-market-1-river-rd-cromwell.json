@@ -1,0 +1,19 @@
+{
+  "slug": "cromwell-farmers-market-1-river-rd-cromwell",
+  "name": "Cromwell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 River Rd Cromwell, CT",
+  "locationCity": "1 River Rd Cromwell",
+  "locationState": "CT",
+  "locationZipcode": "06416",
+  "lat": 41.58364809326402,
+  "lon": -72.64678941751842,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

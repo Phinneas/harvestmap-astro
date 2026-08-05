@@ -1,0 +1,19 @@
+{
+  "slug": "rekaivery-food-hub-fort-collins",
+  "name": "Rekaivery Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Fort Collins, CO",
+  "locationCity": "Fort Collins",
+  "locationState": "CO",
+  "locationZipcode": "80521",
+  "lat": 40.587076,
+  "lon": -105.104893,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:03.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:03.294Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kosinski-farm-227-north-west-street",
+  "name": "Kosinski Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "227 North West Street, MA",
+  "locationCity": "227 North West Street",
+  "locationState": "MA",
+  "locationZipcode": "01030",
+  "lat": 42.0732811661778,
+  "lon": -72.6949462074297,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.690Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.690Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "victoria-farmers-market-2805-north-navarro",
+  "name": "Victoria Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2805 North Navarro, TX",
+  "locationCity": "2805 North Navarro",
+  "locationState": "TX",
+  "locationZipcode": "77901",
+  "lat": 28.821562,
+  "lon": -97.000968,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.038Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.038Z"
+}

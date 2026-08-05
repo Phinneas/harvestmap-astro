@@ -1,0 +1,19 @@
+{
+  "slug": "northport-farmers-market-4150-5th-st",
+  "name": "Northport Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4150 5th St., AL",
+  "locationCity": "4150 5th St.",
+  "locationState": "AL",
+  "locationZipcode": "35476",
+  "lat": 33.21987698210491,
+  "lon": -87.59785557679545,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

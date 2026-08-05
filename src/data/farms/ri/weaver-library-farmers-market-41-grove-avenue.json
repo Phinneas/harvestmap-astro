@@ -1,0 +1,19 @@
+{
+  "slug": "weaver-library-farmers-market-41-grove-avenue",
+  "name": "Weaver Library Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "41 Grove Avenue, RI",
+  "locationCity": "41 Grove Avenue",
+  "locationState": "RI",
+  "locationZipcode": "02914",
+  "lat": 41.818333,
+  "lon": -71.37757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.534Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.534Z"
+}

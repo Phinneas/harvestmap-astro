@@ -1,0 +1,19 @@
+{
+  "slug": "snowberry-farm-friday-harbor",
+  "name": "Snowberry Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Friday Harbor, WA",
+  "locationCity": "Friday Harbor",
+  "locationState": "WA",
+  "locationZipcode": "98250",
+  "lat": 48.529435,
+  "lon": -123.02339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.456Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.456Z"
+}

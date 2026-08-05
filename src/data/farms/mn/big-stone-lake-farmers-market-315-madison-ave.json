@@ -1,0 +1,19 @@
+{
+  "slug": "big-stone-lake-farmers-market-315-madison-ave",
+  "name": "Big Stone Lake Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "315 Madison Ave, MN",
+  "locationCity": "315 Madison Ave",
+  "locationState": "MN",
+  "locationZipcode": "56278",
+  "lat": 45.3071425,
+  "lon": -96.4455843,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

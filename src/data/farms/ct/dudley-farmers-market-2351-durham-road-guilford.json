@@ -1,0 +1,19 @@
+{
+  "slug": "dudley-farmers-market-2351-durham-road-guilford",
+  "name": "Dudley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2351 Durham Road Guilford, CT",
+  "locationCity": "2351 Durham Road Guilford",
+  "locationState": "CT",
+  "locationZipcode": "06437",
+  "lat": 41.35402870700666,
+  "lon": -72.71970317364935,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

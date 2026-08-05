@@ -1,0 +1,19 @@
+{
+  "slug": "fruitville-grove-7410-fruitville-road",
+  "name": "Fruitville Grove",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7410 Fruitville Road, FL",
+  "locationCity": "7410 Fruitville Road",
+  "locationState": "FL",
+  "locationZipcode": "34240",
+  "lat": 27.337765212793727,
+  "lon": -82.42305888907195,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:37.837Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:37.837Z"
+}

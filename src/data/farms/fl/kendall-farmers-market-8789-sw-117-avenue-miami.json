@@ -1,0 +1,19 @@
+{
+  "slug": "kendall-farmers-market-8789-sw-117-avenue-miami",
+  "name": "Kendall Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8789 SW 117 Avenue MIAMI, FL",
+  "locationCity": "8789 SW 117 Avenue MIAMI",
+  "locationState": "FL",
+  "locationZipcode": "33183",
+  "lat": 25.686590529606324,
+  "lon": -80.38454932593763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

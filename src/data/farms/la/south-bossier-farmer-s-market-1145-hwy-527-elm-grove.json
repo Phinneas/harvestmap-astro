@@ -1,0 +1,19 @@
+{
+  "slug": "south-bossier-farmer-s-market-1145-hwy-527-elm-grove",
+  "name": "South Bossier Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1145 Hwy 527 Elm Grove, LA",
+  "locationCity": "1145 Hwy 527 Elm Grove",
+  "locationState": "LA",
+  "locationZipcode": "71051",
+  "lat": 32.397731600492854,
+  "lon": -93.5690301446665,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.709Z"
+}

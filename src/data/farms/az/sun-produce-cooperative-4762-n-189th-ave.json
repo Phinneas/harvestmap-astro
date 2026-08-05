@@ -1,0 +1,19 @@
+{
+  "slug": "sun-produce-cooperative-4762-n-189th-ave",
+  "name": "Sun Produce Cooperative",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "4762 N. 189th Ave., AZ",
+  "locationCity": "4762 N. 189th Ave.",
+  "locationState": "AZ",
+  "locationZipcode": "85340",
+  "lat": 33.5043289,
+  "lon": -112.46681,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.838Z"
+}

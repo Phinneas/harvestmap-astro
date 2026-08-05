@@ -1,0 +1,19 @@
+{
+  "slug": "field-51-produce-1205-s-buckeye-lane",
+  "name": "Field 51 Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1205 S Buckeye Lane, KY",
+  "locationCity": "1205 S Buckeye Lane",
+  "locationState": "KY",
+  "locationZipcode": "40026",
+  "lat": 38.403698289023566,
+  "lon": -85.55147466508275,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.121Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.121Z"
+}

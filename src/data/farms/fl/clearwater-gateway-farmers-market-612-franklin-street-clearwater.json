@@ -1,0 +1,19 @@
+{
+  "slug": "clearwater-gateway-farmers-market-612-franklin-street-clearwater",
+  "name": "Clearwater Gateway Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "612 Franklin Street Clearwater, FL",
+  "locationCity": "612 Franklin Street Clearwater",
+  "locationState": "FL",
+  "locationZipcode": "33756",
+  "lat": 27.962994913111856,
+  "lon": -82.7983628799782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

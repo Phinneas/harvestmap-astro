@@ -1,0 +1,19 @@
+{
+  "slug": "raw-goat-milk-shares-jones",
+  "name": "Raw Goat Milk Shares",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Jones, MI",
+  "locationCity": "Jones",
+  "locationState": "MI",
+  "locationZipcode": "49061",
+  "lat": 41.9042867,
+  "lon": -85.7988714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.979Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.979Z"
+}

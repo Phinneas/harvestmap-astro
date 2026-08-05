@@ -1,0 +1,19 @@
+{
+  "slug": "hidden-fields-private-stable-259-forest-blvd",
+  "name": "Hidden Fields Private Stable",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "259 Forest Blvd, FL",
+  "locationCity": "259 Forest Blvd",
+  "locationState": "FL",
+  "locationZipcode": "32246",
+  "lat": 30.2910214040189,
+  "lon": -81.5441774706276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.840Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.840Z"
+}

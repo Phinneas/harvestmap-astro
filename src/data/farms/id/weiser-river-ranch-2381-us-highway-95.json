@@ -1,0 +1,19 @@
+{
+  "slug": "weiser-river-ranch-2381-us-highway-95",
+  "name": "Weiser River Ranch",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2381 US Highway 95, ID",
+  "locationCity": "2381 US Highway 95",
+  "locationState": "ID",
+  "locationZipcode": "83612",
+  "lat": 44.785699273825486,
+  "lon": -116.44436543641815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:32.500Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:32.500Z"
+}

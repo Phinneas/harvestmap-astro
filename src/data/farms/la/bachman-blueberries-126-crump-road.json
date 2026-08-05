@@ -1,0 +1,19 @@
+{
+  "slug": "bachman-blueberries-126-crump-road",
+  "name": "Bachman Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "126 Crump Road, LA",
+  "locationCity": "126 Crump Road",
+  "locationState": "LA",
+  "locationZipcode": "70431",
+  "lat": 30.5809240533496,
+  "lon": -89.8924552949007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:25.997Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:25.997Z"
+}

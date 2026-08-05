@@ -1,0 +1,19 @@
+{
+  "slug": "miami-seaquarium-rickenbacker-causeway",
+  "name": "Miami Seaquarium",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rickenbacker Causeway, FL",
+  "locationCity": "Rickenbacker Causeway",
+  "locationState": "FL",
+  "locationZipcode": "33109",
+  "lat": 25.7326149967185,
+  "lon": -80.1626279950899,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.850Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "able-farms-9571-n-buchanan-ave",
+  "name": "Able Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9571 N. Buchanan Ave., OR",
+  "locationCity": "9571 N. Buchanan Ave.",
+  "locationState": "OR",
+  "locationZipcode": "97203",
+  "lat": 45.5957144,
+  "lon": -122.7399606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.943Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.943Z"
+}

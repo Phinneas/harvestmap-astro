@@ -1,0 +1,19 @@
+{
+  "slug": "kiomatia-blueberry-farm-16602-farm-road-410-north",
+  "name": "Kiomatia Blueberry Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "16602 Farm Road 410 North, TX",
+  "locationCity": "16602 Farm Road 410 North",
+  "locationState": "TX",
+  "locationZipcode": "16602",
+  "lat": 33.878438,
+  "lon": -95.223135,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.250Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.250Z"
+}

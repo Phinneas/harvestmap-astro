@@ -1,0 +1,20 @@
+{
+  "slug": "blue-hills-orchard-141-blue-hills-road",
+  "name": "Blue Hills Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "141 Blue Hills Road, CT",
+  "locationCity": "141 Blue Hills Road",
+  "locationState": "CT",
+  "locationZipcode": "06492",
+  "lat": 41.449312175843,
+  "lon": -72.8665054772218,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.912Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.912Z",
+  "crops": []
+}

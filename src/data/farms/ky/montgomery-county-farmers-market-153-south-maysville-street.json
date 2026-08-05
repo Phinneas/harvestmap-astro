@@ -1,0 +1,19 @@
+{
+  "slug": "montgomery-county-farmers-market-153-south-maysville-street",
+  "name": "Montgomery County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "153 South Maysville Street, KY",
+  "locationCity": "153 South Maysville Street",
+  "locationState": "KY",
+  "locationZipcode": "40353",
+  "lat": 38.054333,
+  "lon": -83.941302,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.723Z"
+}

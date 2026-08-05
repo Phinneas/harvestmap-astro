@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-honey-farm-175-olsen-rd",
+  "name": "Homestead Honey Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "175 Olsen Rd, MI",
+  "locationCity": "175 Olsen Rd",
+  "locationState": "MI",
+  "locationZipcode": "49841",
+  "lat": 46.405359,
+  "lon": -87.398745,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.172Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.172Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lind-s-blueberries-48-4th-street",
+  "name": "Lind's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "48 4th Street, PA",
+  "locationCity": "48 4th Street",
+  "locationState": "PA",
+  "locationZipcode": "16371",
+  "lat": 41.8543191,
+  "lon": -79.3218917999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.152Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.152Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bedford-va-farmers-market-220-west-washington-street-bedford",
+  "name": "Bedford VA Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 West Washington Street Bedford, VA",
+  "locationCity": "220 West Washington Street Bedford",
+  "locationState": "VA",
+  "locationZipcode": "24523",
+  "lat": 37.333560739947885,
+  "lon": -79.52428483366253,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.290Z"
+}

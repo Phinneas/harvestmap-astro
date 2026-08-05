@@ -1,0 +1,20 @@
+{
+  "slug": "shared-ground-farmers-cooperative-804-margaret-street",
+  "name": "Shared Ground Farmers' Cooperative",
+  "source": "usda",
+  "directory": "csa",
+  "location": "804 Margaret Street, MN",
+  "locationCity": "804 Margaret Street",
+  "locationState": "MN",
+  "locationZipcode": "55106",
+  "lat": 44.9610393,
+  "lon": -93.0667066,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.169Z",
+  "crops": []
+}

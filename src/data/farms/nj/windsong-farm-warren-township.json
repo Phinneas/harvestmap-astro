@@ -1,0 +1,19 @@
+{
+  "slug": "windsong-farm-warren-township",
+  "name": "Windsong Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Warren Township, NJ",
+  "locationCity": "Warren Township",
+  "locationState": "NJ",
+  "locationZipcode": "07059",
+  "lat": 40.6208604,
+  "lon": -74.511172,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.105Z"
+}

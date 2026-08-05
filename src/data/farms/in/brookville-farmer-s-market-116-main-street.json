@@ -1,0 +1,19 @@
+{
+  "slug": "brookville-farmer-s-market-116-main-street",
+  "name": "Brookville Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "116 Main Street, IN",
+  "locationCity": "116 Main Street",
+  "locationState": "IN",
+  "locationZipcode": "47012",
+  "lat": 39.412804,
+  "lon": -85.012083,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.613Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.613Z"
+}

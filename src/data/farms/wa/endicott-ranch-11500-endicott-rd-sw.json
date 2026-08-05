@@ -1,0 +1,19 @@
+{
+  "slug": "endicott-ranch-11500-endicott-rd-sw",
+  "name": "Endicott Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11500 Endicott Rd SW, WA",
+  "locationCity": "11500 Endicott Rd SW",
+  "locationState": "WA",
+  "locationZipcode": "11500",
+  "lat": 46.92101199036512,
+  "lon": -123.0197450160141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.404Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.404Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "brighton-honey-106-norman-rd",
+  "name": "Brighton Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "106 Norman Rd, NY",
+  "locationCity": "106 Norman Rd",
+  "locationState": "NY",
+  "locationZipcode": "14623",
+  "lat": 43.1119107842035,
+  "lon": -77.6399334695376,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.605Z",
+  "crops": []
+}

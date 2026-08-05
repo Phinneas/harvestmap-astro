@@ -1,0 +1,19 @@
+{
+  "slug": "oklahoma-food-cooperative-1305-sw-2nd-st",
+  "name": "Oklahoma Food Cooperative",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1305 SW 2nd St., OK",
+  "locationCity": "1305 SW 2nd St.",
+  "locationState": "OK",
+  "locationZipcode": "73108",
+  "lat": 35.4636134,
+  "lon": -97.535039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:30.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:30.169Z"
+}

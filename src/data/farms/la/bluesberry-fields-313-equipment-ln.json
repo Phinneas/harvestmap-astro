@@ -1,0 +1,19 @@
+{
+  "slug": "bluesberry-fields-313-equipment-ln",
+  "name": "BluesBerry Fields",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "313 Equipment Ln, LA",
+  "locationCity": "313 Equipment Ln",
+  "locationState": "LA",
+  "locationZipcode": "70520",
+  "lat": 30.3400093812313,
+  "lon": -91.9997480361458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.019Z"
+}

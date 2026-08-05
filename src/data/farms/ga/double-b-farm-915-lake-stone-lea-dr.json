@@ -1,0 +1,19 @@
+{
+  "slug": "double-b-farm-915-lake-stone-lea-dr",
+  "name": "Double B Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "915 lake stone lea dr, GA",
+  "locationCity": "915 lake stone lea dr",
+  "locationState": "GA",
+  "locationZipcode": "30054",
+  "lat": 33.681277587861416,
+  "lon": -83.85916983888445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.457Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.457Z"
+}

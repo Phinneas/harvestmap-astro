@@ -1,0 +1,19 @@
+{
+  "slug": "littleton-farmers-market-38-cottage-street-littleton",
+  "name": "Littleton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "38 Cottage Street Littleton, NH",
+  "locationCity": "38 Cottage Street Littleton",
+  "locationState": "NH",
+  "locationZipcode": "03561",
+  "lat": 44.30470784916938,
+  "lon": -71.76978117803108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.154Z"
+}

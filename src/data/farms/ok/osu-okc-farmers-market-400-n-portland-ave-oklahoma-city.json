@@ -1,0 +1,19 @@
+{
+  "slug": "osu-okc-farmers-market-400-n-portland-ave-oklahoma-city",
+  "name": "OSU-OKC Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 N. Portland Ave. Oklahoma City, OK",
+  "locationCity": "400 N. Portland Ave. Oklahoma City",
+  "locationState": "OK",
+  "locationZipcode": "73107",
+  "lat": 35.47178378955144,
+  "lon": -97.58332808681021,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:29.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:29.366Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hodges-farm-705-highway-21-north",
+  "name": "Hodges Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "705 Highway 21 North, GA",
+  "locationCity": "705 Highway 21 North",
+  "locationState": "GA",
+  "locationZipcode": "30446",
+  "lat": 32.5217146749132,
+  "lon": -81.4510240666802,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.348Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.348Z"
+}

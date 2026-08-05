@@ -1,0 +1,19 @@
+{
+  "slug": "krop-s-crops-110-georgetown-pike",
+  "name": "Krop's Crops",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "110 Georgetown Pike, VA",
+  "locationCity": "110 Georgetown Pike",
+  "locationState": "VA",
+  "locationZipcode": "22066",
+  "lat": 38.9985679032797,
+  "lon": -77.2996532920855,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.230Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.230Z"
+}

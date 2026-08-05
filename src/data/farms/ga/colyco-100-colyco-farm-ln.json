@@ -1,0 +1,19 @@
+{
+  "slug": "colyco-100-colyco-farm-ln",
+  "name": "CoLyCo",
+  "source": "usda",
+  "directory": "csa",
+  "location": "100 CoLyCo Farm Ln, GA",
+  "locationCity": "100 CoLyCo Farm Ln",
+  "locationState": "GA",
+  "locationZipcode": "30707",
+  "lat": 34.8725913,
+  "lon": -85.2524636,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.439Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.439Z"
+}

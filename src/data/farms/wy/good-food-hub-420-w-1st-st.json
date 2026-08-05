@@ -1,0 +1,19 @@
+{
+  "slug": "good-food-hub-420-w-1st-st",
+  "name": "Good Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "420 W 1st St, WY",
+  "locationCity": "420 W 1st St",
+  "locationState": "WY",
+  "locationZipcode": "82601",
+  "lat": 42.85026527608292,
+  "lon": -106.33011850823188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:43.548Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:43.548Z"
+}

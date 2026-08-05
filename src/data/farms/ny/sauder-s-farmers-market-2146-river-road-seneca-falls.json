@@ -1,0 +1,19 @@
+{
+  "slug": "sauder-s-farmers-market-2146-river-road-seneca-falls",
+  "name": "Sauder's Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2146 River Road Seneca Falls, NY",
+  "locationCity": "2146 River Road Seneca Falls",
+  "locationState": "NY",
+  "locationZipcode": "13148",
+  "lat": 42.905499860502566,
+  "lon": -76.82266326445674,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "riverside-farm-80-burdickville-road",
+  "name": "Riverside Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "80 Burdickville Road, RI",
+  "locationCity": "80 Burdickville Road",
+  "locationState": "RI",
+  "locationZipcode": "02813",
+  "lat": 41.416975004327,
+  "lon": -71.7259609846985,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.062Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.062Z"
+}

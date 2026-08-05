@@ -1,0 +1,19 @@
+{
+  "slug": "st-charles-farmers-market-830-whitewater-ave-st-charles",
+  "name": "St. Charles Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "830 Whitewater Ave St. Charles, MN",
+  "locationCity": "830 Whitewater Ave St. Charles",
+  "locationState": "MN",
+  "locationZipcode": "55972",
+  "lat": 43.96967141197901,
+  "lon": -92.06490539995178,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.774Z"
+}

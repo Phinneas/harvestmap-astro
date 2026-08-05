@@ -1,0 +1,19 @@
+{
+  "slug": "nourish-food-hub-po-box-284",
+  "name": "Nourish Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "PO Box 284, CA",
+  "locationCity": "PO Box 284",
+  "locationState": "CA",
+  "locationZipcode": "96104",
+  "lat": 41.5272841,
+  "lon": -120.1719147,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

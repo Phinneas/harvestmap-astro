@@ -1,0 +1,19 @@
+{
+  "slug": "bailey-s-orchard-5-jefferson-road",
+  "name": "Bailey's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5 Jefferson Road, ME",
+  "locationCity": "5 Jefferson Road",
+  "locationState": "ME",
+  "locationZipcode": "04353",
+  "lat": 44.22107,
+  "lon": -69.58591,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.892Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.892Z"
+}

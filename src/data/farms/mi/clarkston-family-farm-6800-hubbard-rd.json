@@ -1,0 +1,19 @@
+{
+  "slug": "clarkston-family-farm-6800-hubbard-rd",
+  "name": "Clarkston Family Farm",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "6800 Hubbard Rd, MI",
+  "locationCity": "6800 Hubbard Rd",
+  "locationState": "MI",
+  "locationZipcode": "48348",
+  "lat": 42.762114015762734,
+  "lon": -83.42086897390935,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.245Z"
+}

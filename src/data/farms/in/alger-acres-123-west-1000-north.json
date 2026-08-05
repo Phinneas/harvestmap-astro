@@ -1,0 +1,19 @@
+{
+  "slug": "alger-acres-123-west-1000-north",
+  "name": "Alger Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "123 West 1000 North, IN",
+  "locationCity": "123 West 1000 North",
+  "locationState": "IN",
+  "locationZipcode": "46350",
+  "lat": 41.751958088718,
+  "lon": -86.7007349284702,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.435Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.435Z"
+}

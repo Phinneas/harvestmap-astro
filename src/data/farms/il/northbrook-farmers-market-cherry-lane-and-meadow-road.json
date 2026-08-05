@@ -1,0 +1,19 @@
+{
+  "slug": "northbrook-farmers-market-cherry-lane-and-meadow-road",
+  "name": "Northbrook Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Cherry Lane and Meadow Road, IL",
+  "locationCity": "Cherry Lane and Meadow Road",
+  "locationState": "IL",
+  "locationZipcode": "60062",
+  "lat": 42.1314024,
+  "lon": -87.828657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.929Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.929Z"
+}

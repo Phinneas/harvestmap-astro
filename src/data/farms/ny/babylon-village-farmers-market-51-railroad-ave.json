@@ -1,0 +1,19 @@
+{
+  "slug": "babylon-village-farmers-market-51-railroad-ave",
+  "name": "Babylon Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "51 Railroad Ave, NY",
+  "locationCity": "51 Railroad Ave",
+  "locationState": "NY",
+  "locationZipcode": "11702",
+  "lat": 40.7001709907519,
+  "lon": -73.32285312262938,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.017Z"
+}

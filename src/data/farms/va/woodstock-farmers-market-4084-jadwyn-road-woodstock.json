@@ -1,0 +1,19 @@
+{
+  "slug": "woodstock-farmers-market-4084-jadwyn-road-woodstock",
+  "name": "Woodstock Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4084 Jadwyn Road Woodstock, VA",
+  "locationCity": "4084 Jadwyn Road Woodstock",
+  "locationState": "VA",
+  "locationZipcode": "22664",
+  "lat": 38.913142675333866,
+  "lon": -78.53829610246456,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

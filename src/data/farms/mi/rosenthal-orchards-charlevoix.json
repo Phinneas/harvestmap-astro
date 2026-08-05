@@ -1,0 +1,19 @@
+{
+  "slug": "rosenthal-orchards-charlevoix",
+  "name": "Rosenthal Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Charlevoix, MI",
+  "locationCity": "Charlevoix",
+  "locationState": "MI",
+  "locationZipcode": "49720",
+  "lat": 45.302148,
+  "lon": -85.251982,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.739Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.739Z"
+}

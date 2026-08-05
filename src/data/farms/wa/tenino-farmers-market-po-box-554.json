@@ -1,0 +1,19 @@
+{
+  "slug": "tenino-farmers-market-po-box-554",
+  "name": "Tenino Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "po Box 554, WA",
+  "locationCity": "po Box 554",
+  "locationState": "WA",
+  "locationZipcode": "98589",
+  "lat": 46.853829,
+  "lon": -122.86037,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.749Z"
+}

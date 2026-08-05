@@ -1,0 +1,19 @@
+{
+  "slug": "cazenovia-farmers-market-59-albany-street-cazenovia",
+  "name": "Cazenovia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "59 Albany Street Cazenovia, NY",
+  "locationCity": "59 Albany Street Cazenovia",
+  "locationState": "NY",
+  "locationZipcode": "13035",
+  "lat": 42.92988221980356,
+  "lon": -75.85361623904309,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

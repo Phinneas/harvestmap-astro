@@ -1,0 +1,19 @@
+{
+  "slug": "lemhi-county-farmers-market-103-main-street-salmon",
+  "name": "Lemhi County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "103 Main Street Salmon, ID",
+  "locationCity": "103 Main Street Salmon",
+  "locationState": "ID",
+  "locationZipcode": "83467",
+  "lat": 45.177104210353846,
+  "lon": -113.89763659054694,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:36.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:36.237Z"
+}

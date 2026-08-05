@@ -1,0 +1,19 @@
+{
+  "slug": "apple-barn-orchard-2290-e-walnut",
+  "name": "Apple Barn Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2290 E Walnut, IL",
+  "locationCity": "2290 E Walnut",
+  "locationState": "IL",
+  "locationZipcode": "62629",
+  "lat": 39.67609202008512,
+  "lon": -89.67547596882818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.666Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.666Z"
+}

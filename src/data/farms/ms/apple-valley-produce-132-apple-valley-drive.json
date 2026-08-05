@@ -1,0 +1,19 @@
+{
+  "slug": "apple-valley-produce-132-apple-valley-drive",
+  "name": "Apple Valley Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "132 Apple Valley Drive, MS",
+  "locationCity": "132 Apple Valley Drive",
+  "locationState": "MS",
+  "locationZipcode": "39114",
+  "lat": 32.035084,
+  "lon": -89.840811,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:31.516Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:31.516Z"
+}

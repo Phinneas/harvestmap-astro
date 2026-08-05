@@ -1,0 +1,19 @@
+{
+  "slug": "verona-farmers-market-18-gov-center-ln",
+  "name": "Verona Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "18 Gov Center Ln, VA",
+  "locationCity": "18 Gov Center Ln",
+  "locationState": "VA",
+  "locationZipcode": "24482",
+  "lat": 38.193744,
+  "lon": -79.010219,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.118Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.118Z"
+}

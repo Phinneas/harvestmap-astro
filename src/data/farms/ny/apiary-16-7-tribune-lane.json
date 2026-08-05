@@ -1,0 +1,19 @@
+{
+  "slug": "apiary-16-7-tribune-lane",
+  "name": "Apiary 16",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7 Tribune Lane, NY",
+  "locationCity": "7 Tribune Lane",
+  "locationState": "NY",
+  "locationZipcode": "12571",
+  "lat": 41.9551523225173,
+  "lon": -73.7598117691278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.226Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.226Z"
+}

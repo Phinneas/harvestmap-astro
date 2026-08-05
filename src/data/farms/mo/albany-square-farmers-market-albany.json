@@ -1,0 +1,19 @@
+{
+  "slug": "albany-square-farmers-market-albany",
+  "name": "Albany Square Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Albany, MO",
+  "locationCity": "Albany",
+  "locationState": "MO",
+  "locationZipcode": "64402",
+  "lat": 40.247729,
+  "lon": -94.333605,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.455Z"
+}

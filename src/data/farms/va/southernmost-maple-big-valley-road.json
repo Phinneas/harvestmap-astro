@@ -1,0 +1,19 @@
+{
+  "slug": "southernmost-maple-big-valley-road",
+  "name": "Southernmost Maple",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Big Valley Road, VA",
+  "locationCity": "Big Valley Road",
+  "locationState": "VA",
+  "locationZipcode": "24484",
+  "lat": 38.3170863538256,
+  "lon": -79.6317791859927,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.265Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.265Z"
+}

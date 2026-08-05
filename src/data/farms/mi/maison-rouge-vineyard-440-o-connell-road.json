@@ -1,0 +1,19 @@
+{
+  "slug": "maison-rouge-vineyard-440-o-connell-road",
+  "name": "Maison Rouge Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "440 O Connell Road, MI",
+  "locationCity": "440 O Connell Road",
+  "locationState": "MI",
+  "locationZipcode": "48430",
+  "lat": 42.7356000024525,
+  "lon": -83.8028599618947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.587Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.587Z"
+}

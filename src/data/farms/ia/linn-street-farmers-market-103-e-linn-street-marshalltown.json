@@ -1,0 +1,19 @@
+{
+  "slug": "linn-street-farmers-market-103-e-linn-street-marshalltown",
+  "name": "Linn Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "103 E. Linn Street Marshalltown, IA",
+  "locationCity": "103 E. Linn Street Marshalltown",
+  "locationState": "IA",
+  "locationZipcode": "50158",
+  "lat": 42.046685924902846,
+  "lon": -92.91110897853292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

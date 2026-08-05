@@ -1,0 +1,19 @@
+{
+  "slug": "green-acres-farm-158-medina-highway",
+  "name": "Green Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "158 Medina Highway, TN",
+  "locationCity": "158 Medina Highway",
+  "locationState": "TN",
+  "locationZipcode": "37358",
+  "lat": 35.8675130064914,
+  "lon": -88.7476540211344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.333Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.333Z"
+}

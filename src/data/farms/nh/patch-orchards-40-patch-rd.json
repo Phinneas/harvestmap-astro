@@ -1,0 +1,19 @@
+{
+  "slug": "patch-orchards-40-patch-rd",
+  "name": "Patch Orchards",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "40 Patch Rd, NH",
+  "locationCity": "40 Patch Rd",
+  "locationState": "NH",
+  "locationZipcode": "03766",
+  "lat": 43.6164,
+  "lon": -72.2088942,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.803Z"
+}

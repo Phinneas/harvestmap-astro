@@ -1,0 +1,19 @@
+{
+  "slug": "mccollum-orchards-248-n-adam-street",
+  "name": "McCollum Orchards",
+  "source": "usda",
+  "directory": "csa",
+  "location": "248 N. Adam Street, NY",
+  "locationCity": "248 N. Adam Street",
+  "locationState": "NY",
+  "locationZipcode": "14094",
+  "lat": 43.1844135,
+  "lon": -78.6863849,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

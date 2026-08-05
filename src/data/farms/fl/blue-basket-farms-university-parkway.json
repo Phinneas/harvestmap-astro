@@ -1,0 +1,19 @@
+{
+  "slug": "blue-basket-farms-university-parkway",
+  "name": "Blue Basket Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "University Parkway, FL",
+  "locationCity": "University Parkway",
+  "locationState": "FL",
+  "locationZipcode": "32514",
+  "lat": 30.5347150000001,
+  "lon": -87.2212249999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.787Z"
+}

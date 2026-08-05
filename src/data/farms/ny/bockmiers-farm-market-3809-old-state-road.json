@@ -1,0 +1,19 @@
+{
+  "slug": "bockmiers-farm-market-3809-old-state-road",
+  "name": "Bockmiers Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3809 Old State Road, NY",
+  "locationCity": "3809 Old State Road",
+  "locationState": "NY",
+  "locationZipcode": "14706",
+  "lat": 42.09548424095635,
+  "lon": -78.50587266427738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.825Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.825Z"
+}

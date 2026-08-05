@@ -1,0 +1,19 @@
+{
+  "slug": "dutton-farm-stand-upper-river-road",
+  "name": "Dutton Farm Stand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Upper River Road, VT",
+  "locationCity": "Upper River Road",
+  "locationState": "VT",
+  "locationZipcode": "05345",
+  "lat": 42.9884979887812,
+  "lon": -72.6330300106821,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.032Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.032Z"
+}

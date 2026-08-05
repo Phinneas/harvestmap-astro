@@ -1,0 +1,19 @@
+{
+  "slug": "dellavita-garden-617-faulkner-avenue",
+  "name": "Dellavita Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "617 Faulkner Avenue, WV",
+  "locationCity": "617 Faulkner Avenue",
+  "locationState": "WV",
+  "locationZipcode": "25401",
+  "lat": 39.452420263296176,
+  "lon": -77.97480248751808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:34.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:34.347Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mill-city-farmers-market-winter-704-s-2nd-st",
+  "name": "Mill City Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "704 S 2nd St, MN",
+  "locationCity": "704 S 2nd St",
+  "locationState": "MN",
+  "locationZipcode": "55401",
+  "lat": 44.9786818,
+  "lon": -93.2573427,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

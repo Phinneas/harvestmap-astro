@@ -1,0 +1,19 @@
+{
+  "slug": "piedmont-farmer-s-market-harrisburg-6960-robinson-church-road-harrisburg",
+  "name": "Piedmont Farmer's Market/Harrisburg",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6960 Robinson Church Road Harrisburg, NC",
+  "locationCity": "6960 Robinson Church Road Harrisburg",
+  "locationState": "NC",
+  "locationZipcode": "28075",
+  "lat": 35.318115831893,
+  "lon": -80.65324447825685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

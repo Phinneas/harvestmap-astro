@@ -1,0 +1,19 @@
+{
+  "slug": "adams-county-winery-farm-winery-251-peach-tree-road",
+  "name": "Adams County Winery Farm Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "251 Peach Tree Road, PA",
+  "locationCity": "251 Peach Tree Road",
+  "locationState": "PA",
+  "locationZipcode": "17353",
+  "lat": 39.8648080135997,
+  "lon": -77.375069017231,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.146Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.146Z"
+}

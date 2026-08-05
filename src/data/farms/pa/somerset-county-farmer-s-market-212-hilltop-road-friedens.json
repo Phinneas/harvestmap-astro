@@ -1,0 +1,19 @@
+{
+  "slug": "somerset-county-farmer-s-market-212-hilltop-road-friedens",
+  "name": "Somerset County Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "212 Hilltop Road Friedens, PA",
+  "locationCity": "212 Hilltop Road Friedens",
+  "locationState": "PA",
+  "locationZipcode": "15541",
+  "lat": 40.05258986949435,
+  "lon": -78.98526481776321,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.068Z"
+}

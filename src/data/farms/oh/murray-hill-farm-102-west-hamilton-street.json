@@ -1,0 +1,19 @@
+{
+  "slug": "murray-hill-farm-102-west-hamilton-street",
+  "name": "Murray Hill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "102 West Hamilton Street, OH",
+  "locationCity": "102 West Hamilton Street",
+  "locationState": "OH",
+  "locationZipcode": "44074",
+  "lat": 41.27981651633971,
+  "lon": -82.22114068559424,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.464Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.464Z"
+}

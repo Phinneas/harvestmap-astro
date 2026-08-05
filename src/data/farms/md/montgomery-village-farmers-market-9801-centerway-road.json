@@ -1,0 +1,19 @@
+{
+  "slug": "montgomery-village-farmers-market-9801-centerway-road",
+  "name": "Montgomery Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9801 Centerway Road, MD",
+  "locationCity": "9801 Centerway Road",
+  "locationState": "MD",
+  "locationZipcode": "20886",
+  "lat": 39.17251222639596,
+  "lon": -77.20167884566071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

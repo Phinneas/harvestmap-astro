@@ -1,0 +1,19 @@
+{
+  "slug": "fisher-s-orchard-650-fisher-road",
+  "name": "Fisher's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "650 Fisher Road, SC",
+  "locationCity": "650 Fisher Road",
+  "locationState": "SC",
+  "locationZipcode": "29651",
+  "lat": 35.0297150039252,
+  "lon": -82.2335500094265,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.741Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.741Z"
+}

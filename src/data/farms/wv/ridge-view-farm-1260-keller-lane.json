@@ -1,0 +1,19 @@
+{
+  "slug": "ridge-view-farm-1260-keller-lane",
+  "name": "Ridge View Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1260 Keller Lane, WV",
+  "locationCity": "1260 Keller Lane",
+  "locationState": "WV",
+  "locationZipcode": "26187",
+  "lat": 39.345092,
+  "lon": -81.480821,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:39.129Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:39.129Z"
+}

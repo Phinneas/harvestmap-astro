@@ -1,0 +1,20 @@
+{
+  "slug": "clamme-s-pumpkin-patch-804-north-300-east",
+  "name": "Clamme's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "804 North 300 East, IN",
+  "locationCity": "804 North 300 East",
+  "locationState": "IN",
+  "locationZipcode": "47348",
+  "lat": 40.4632479885888,
+  "lon": -85.3140900308798,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.255Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.255Z",
+  "crops": []
+}

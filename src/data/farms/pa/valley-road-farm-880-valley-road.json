@@ -1,0 +1,20 @@
+{
+  "slug": "valley-road-farm-880-valley-road",
+  "name": "Valley Road Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "880 Valley Road, PA",
+  "locationCity": "880 Valley Road",
+  "locationState": "PA",
+  "locationZipcode": "18252",
+  "lat": 40.75600800139642,
+  "lon": -76.01231598109581,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.224Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.224Z",
+  "crops": []
+}

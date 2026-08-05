@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-8004-saxton-easton-road-st-joseph",
+  "name": "Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8004 Saxton-Easton Road St. Joseph, MO",
+  "locationCity": "8004 Saxton-Easton Road St. Joseph",
+  "locationState": "MO",
+  "locationZipcode": "64507",
+  "lat": 39.719167568420424,
+  "lon": -94.72121221701698,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.492Z"
+}

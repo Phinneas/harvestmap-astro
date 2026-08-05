@@ -1,0 +1,19 @@
+{
+  "slug": "three-sisters-vineyards-439-vineyard-way",
+  "name": "Three Sisters Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "439 Vineyard Way, GA",
+  "locationCity": "439 Vineyard Way",
+  "locationState": "GA",
+  "locationZipcode": "30533",
+  "lat": 34.6091390143191,
+  "lon": -83.8794220256989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.344Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.344Z"
+}

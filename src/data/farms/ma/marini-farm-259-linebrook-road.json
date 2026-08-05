@@ -1,0 +1,20 @@
+{
+  "slug": "marini-farm-259-linebrook-road",
+  "name": "Marini Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "259 Linebrook Road, MA",
+  "locationCity": "259 Linebrook Road",
+  "locationState": "MA",
+  "locationZipcode": "01938",
+  "lat": 42.6863637392811,
+  "lon": -70.8940501375562,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.530Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.530Z",
+  "crops": []
+}

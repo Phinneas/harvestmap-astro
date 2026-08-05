@@ -1,0 +1,20 @@
+{
+  "slug": "secor-farms-85-airmont-ave",
+  "name": "Secor Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "85 Airmont Ave, NJ",
+  "locationCity": "85 Airmont Ave",
+  "locationState": "NJ",
+  "locationZipcode": "07430",
+  "lat": 41.0908220977918,
+  "lon": -74.125307660897,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.532Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.532Z",
+  "crops": []
+}

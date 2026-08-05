@@ -1,0 +1,19 @@
+{
+  "slug": "swanson-meats-700-26th-avenue-s",
+  "name": "Swanson Meats",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "700 26th Avenue S., MN",
+  "locationCity": "700 26th Avenue S.",
+  "locationState": "MN",
+  "locationZipcode": "55406",
+  "lat": 44.966532710656,
+  "lon": -93.2346609784068,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.739Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.739Z"
+}

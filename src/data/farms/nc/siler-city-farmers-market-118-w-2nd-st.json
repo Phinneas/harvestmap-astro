@@ -1,0 +1,19 @@
+{
+  "slug": "siler-city-farmers-market-118-w-2nd-st",
+  "name": "Siler City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "118 W. 2nd St., NC",
+  "locationCity": "118 W. 2nd St.",
+  "locationState": "NC",
+  "locationZipcode": "27344",
+  "lat": 35.723672413794446,
+  "lon": -79.46419354787312,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

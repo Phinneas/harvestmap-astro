@@ -1,0 +1,19 @@
+{
+  "slug": "fowler-farms-fresh-produce-669-wright-road",
+  "name": "Fowler Farms Fresh Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "669 Wright Road, NC",
+  "locationCity": "669 Wright Road",
+  "locationState": "NC",
+  "locationZipcode": "28463",
+  "lat": 34.094577,
+  "lon": -78.808493,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.406Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "spieker-pumpkin-farm-state-highway-57",
+  "name": "Spieker Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "State Highway 57, WI",
+  "locationCity": "State Highway 57",
+  "locationState": "WI",
+  "locationZipcode": "53031",
+  "lat": 43.5821790125138,
+  "lon": -87.9395580049323,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.446Z"
+}

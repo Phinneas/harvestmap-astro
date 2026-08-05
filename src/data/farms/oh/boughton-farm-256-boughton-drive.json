@@ -1,0 +1,19 @@
+{
+  "slug": "boughton-farm-256-boughton-drive",
+  "name": "Boughton Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "256 Boughton Drive, OH",
+  "locationCity": "256 Boughton Drive",
+  "locationState": "OH",
+  "locationZipcode": "44320",
+  "lat": 41.1006252861275,
+  "lon": -81.6009697615694,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.875Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.875Z"
+}

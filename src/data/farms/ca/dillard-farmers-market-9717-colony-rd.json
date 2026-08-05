@@ -1,0 +1,19 @@
+{
+  "slug": "dillard-farmers-market-9717-colony-rd",
+  "name": "Dillard Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9717 Colony Rd, CA",
+  "locationCity": "9717 Colony Rd",
+  "locationState": "CA",
+  "locationZipcode": "95693",
+  "lat": 38.4037668,
+  "lon": -121.2507915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.409Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.409Z"
+}

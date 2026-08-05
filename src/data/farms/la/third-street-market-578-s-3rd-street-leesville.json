@@ -1,0 +1,19 @@
+{
+  "slug": "third-street-market-578-s-3rd-street-leesville",
+  "name": "Third Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "578 S. 3rd Street Leesville, LA",
+  "locationCity": "578 S. 3rd Street Leesville",
+  "locationState": "LA",
+  "locationZipcode": "71496",
+  "lat": 31.13980619316965,
+  "lon": -93.26113029905048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.709Z"
+}

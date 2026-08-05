@@ -1,0 +1,19 @@
+{
+  "slug": "petersen-family-farm-11887-south-4000-west",
+  "name": "Petersen Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11887 South 4000 West, UT",
+  "locationCity": "11887 South 4000 West",
+  "locationState": "UT",
+  "locationZipcode": "11887",
+  "lat": 40.5352029812221,
+  "lon": -111.985870037221,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.423Z"
+}

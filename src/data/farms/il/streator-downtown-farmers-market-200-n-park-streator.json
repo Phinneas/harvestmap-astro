@@ -1,0 +1,19 @@
+{
+  "slug": "streator-downtown-farmers-market-200-n-park-streator",
+  "name": "Streator Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 N Park Streator, IL",
+  "locationCity": "200 N Park Streator",
+  "locationState": "IL",
+  "locationZipcode": "61364",
+  "lat": 41.12209729842741,
+  "lon": -88.83420764041344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

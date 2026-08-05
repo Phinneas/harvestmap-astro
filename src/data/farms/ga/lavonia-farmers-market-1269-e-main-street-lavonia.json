@@ -1,0 +1,19 @@
+{
+  "slug": "lavonia-farmers-market-1269-e-main-street-lavonia",
+  "name": "Lavonia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1269 E. Main Street Lavonia, GA",
+  "locationCity": "1269 E. Main Street Lavonia",
+  "locationState": "GA",
+  "locationZipcode": "30553",
+  "lat": 34.437691842617625,
+  "lon": -83.1066567808627,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

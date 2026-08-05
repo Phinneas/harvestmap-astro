@@ -1,0 +1,19 @@
+{
+  "slug": "ripon-certified-farmers-market-1000-stouffer-st",
+  "name": "Ripon Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 Stouffer St., CA",
+  "locationCity": "1000 Stouffer St.",
+  "locationState": "CA",
+  "locationZipcode": "95366",
+  "lat": 37.74023489242476,
+  "lon": -121.11405554906638,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

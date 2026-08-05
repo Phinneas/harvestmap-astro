@@ -1,0 +1,19 @@
+{
+  "slug": "pinson-farmers-market-4509-center-point-rd",
+  "name": "Pinson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4509 Center Point Rd., AL",
+  "locationCity": "4509 Center Point Rd.",
+  "locationState": "AL",
+  "locationZipcode": "35126",
+  "lat": 33.68999598516543,
+  "lon": -86.68274924680543,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

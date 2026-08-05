@@ -1,0 +1,19 @@
+{
+  "slug": "spring-hill-farm-1050-broadmeadow-street",
+  "name": "Spring Hill Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1050 Broadmeadow Street, MA",
+  "locationCity": "1050 Broadmeadow Street",
+  "locationState": "MA",
+  "locationZipcode": "01752",
+  "lat": 42.3362604,
+  "lon": -71.493256,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.681Z"
+}

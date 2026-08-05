@@ -1,0 +1,19 @@
+{
+  "slug": "hand-picked-farm-csa-9-stacey-road",
+  "name": "Hand Picked Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9 Stacey Road, NJ",
+  "locationCity": "9 Stacey Road",
+  "locationState": "NJ",
+  "locationZipcode": "08822",
+  "lat": 40.485123,
+  "lon": -74.9091195,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.108Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.108Z"
+}

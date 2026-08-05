@@ -1,0 +1,19 @@
+{
+  "slug": "fragrant-forest-farms-204-s-main-st",
+  "name": "Fragrant Forest Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "204 S Main St, OK",
+  "locationCity": "204 S Main St",
+  "locationState": "OK",
+  "locationZipcode": "74467",
+  "lat": 35.95853999401469,
+  "lon": -95.3770894954987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:27.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:27.105Z"
+}

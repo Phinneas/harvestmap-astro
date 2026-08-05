@@ -1,0 +1,19 @@
+{
+  "slug": "lisa-beumer-23425-lake-rd",
+  "name": "Lisa Beumer",
+  "source": "usda",
+  "directory": "csa",
+  "location": "23425 lake Rd, MN",
+  "locationCity": "23425 lake Rd",
+  "locationState": "MN",
+  "locationZipcode": "23425",
+  "lat": 45.46395131175589,
+  "lon": -94.31338726278086,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.181Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.181Z"
+}

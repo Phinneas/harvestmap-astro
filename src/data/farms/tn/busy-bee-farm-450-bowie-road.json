@@ -1,0 +1,19 @@
+{
+  "slug": "busy-bee-farm-450-bowie-road",
+  "name": "Busy Bee Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "450 Bowie Road, TN",
+  "locationCity": "450 Bowie Road",
+  "locationState": "TN",
+  "locationZipcode": "37073",
+  "lat": 36.4330203726155,
+  "lon": -86.885666152908,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.170Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.170Z"
+}

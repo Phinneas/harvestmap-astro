@@ -1,0 +1,19 @@
+{
+  "slug": "miller-farm-silent-lane",
+  "name": "Miller Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Silent Lane, GA",
+  "locationCity": "Silent Lane",
+  "locationState": "GA",
+  "locationZipcode": "30705",
+  "lat": 33.1048170165647,
+  "lon": -84.7049209683691,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.359Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.359Z"
+}

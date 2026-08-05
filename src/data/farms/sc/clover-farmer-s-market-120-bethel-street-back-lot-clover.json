@@ -1,0 +1,19 @@
+{
+  "slug": "clover-farmer-s-market-120-bethel-street-back-lot-clover",
+  "name": "Clover Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 Bethel Street Back Lot Clover, SC",
+  "locationCity": "120 Bethel Street Back Lot Clover",
+  "locationState": "SC",
+  "locationZipcode": "29710",
+  "lat": 35.11011430585152,
+  "lon": -81.22513336042873,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.194Z"
+}

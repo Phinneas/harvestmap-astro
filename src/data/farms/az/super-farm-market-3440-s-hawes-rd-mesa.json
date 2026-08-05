@@ -1,0 +1,19 @@
+{
+  "slug": "super-farm-market-3440-s-hawes-rd-mesa",
+  "name": "Super Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3440 S. Hawes Rd. Mesa, AZ",
+  "locationCity": "3440 S. Hawes Rd. Mesa",
+  "locationState": "AZ",
+  "locationZipcode": "85212",
+  "lat": 33.35293257119352,
+  "lon": -111.65312854176844,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.031Z"
+}

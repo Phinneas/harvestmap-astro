@@ -1,0 +1,19 @@
+{
+  "slug": "crescent-farm-140-willow-avenue",
+  "name": "Crescent Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "140 Willow Avenue, MA",
+  "locationCity": "140 Willow Avenue",
+  "locationState": "MA",
+  "locationZipcode": "01835",
+  "lat": 42.7452591819434,
+  "lon": -71.0916913073006,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.476Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.476Z"
+}

@@ -9,25 +9,13 @@
   "locationZipcode": "",
   "lat": 42.5568705459167,
   "lon": -73.3048167531622,
-  "website": "https://www.iokavalleyfarm.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:29:19.704Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:29:34.253Z"
+      "lastSeen": "2026-08-05T18:42:22.644Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:29:19.704Z",
-  "crops": [
-    "Strawberries",
-    "Pumpkins",
-    "Squash",
-    "Christmas trees"
-  ],
-  "phone": "(413) 738-5915",
+  "usdaLastUpdated": "2026-08-05T18:42:22.644Z",
   "image": "/farm-images/ioka-valley-farm-3475-route-43.jpg",
   "imageAlt": "Ioka Valley Farm"
 }

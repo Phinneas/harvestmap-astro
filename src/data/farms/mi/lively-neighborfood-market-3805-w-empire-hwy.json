@@ -1,0 +1,19 @@
+{
+  "slug": "lively-neighborfood-market-3805-w-empire-hwy",
+  "name": "Lively NeighborFood Market",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3805 W Empire Hwy, MI",
+  "locationCity": "3805 W Empire Hwy",
+  "locationState": "MI",
+  "locationZipcode": "49630",
+  "lat": 44.805148013311054,
+  "lon": -85.93209102094737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.245Z"
+}

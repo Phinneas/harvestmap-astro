@@ -1,0 +1,19 @@
+{
+  "slug": "west-amwell-farmers-market-150-rocktown-lambertville-rd-lambertville",
+  "name": "West Amwell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 Rocktown-Lambertville Rd. Lambertville, NJ",
+  "locationCity": "150 Rocktown-Lambertville Rd. Lambertville",
+  "locationState": "NJ",
+  "locationZipcode": "08530",
+  "lat": 40.38365618997009,
+  "lon": -74.89610794734824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

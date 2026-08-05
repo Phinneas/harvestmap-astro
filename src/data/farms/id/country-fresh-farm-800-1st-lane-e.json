@@ -1,0 +1,19 @@
+{
+  "slug": "country-fresh-farm-800-1st-lane-e",
+  "name": "Country Fresh Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "800 1st Lane E., ID",
+  "locationCity": "800 1st Lane E.",
+  "locationState": "ID",
+  "locationZipcode": "83660",
+  "lat": 43.8875949021331,
+  "lon": -116.934039991784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.903Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.903Z"
+}

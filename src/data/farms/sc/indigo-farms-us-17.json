@@ -1,0 +1,19 @@
+{
+  "slug": "indigo-farms-us-17",
+  "name": "Indigo Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US 17, SC",
+  "locationCity": "US 17",
+  "locationState": "SC",
+  "locationZipcode": "29566",
+  "lat": 33.8764200000001,
+  "lon": -78.61432,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.991Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.991Z"
+}

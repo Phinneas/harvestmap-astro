@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-fond-du-lac-farmers-market-30-s-portland-street-fond-du-lac",
+  "name": "Downtown Fond du Lac Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30 S. Portland Street Fond du Lac, WI",
+  "locationCity": "30 S. Portland Street Fond du Lac",
+  "locationState": "WI",
+  "locationZipcode": "54935",
+  "lat": 43.77789857401882,
+  "lon": -88.44583086203122,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.857Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "snode-s-farm-market-6052-arrow-road-nw",
+  "name": "Snode's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6052 Arrow Road NW, OH",
+  "locationCity": "6052 Arrow Road NW",
+  "locationState": "OH",
+  "locationZipcode": "44657",
+  "lat": 40.66594000936763,
+  "lon": -81.11016501724262,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.374Z"
+}

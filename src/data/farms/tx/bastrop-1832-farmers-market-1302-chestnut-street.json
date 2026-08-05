@@ -1,0 +1,19 @@
+{
+  "slug": "bastrop-1832-farmers-market-1302-chestnut-street",
+  "name": "Bastrop 1832 Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1302 Chestnut Street, TX",
+  "locationCity": "1302 Chestnut Street",
+  "locationState": "TX",
+  "locationZipcode": "78602",
+  "lat": 30.111777,
+  "lon": -97.311627,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:55.999Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:55.999Z"
+}

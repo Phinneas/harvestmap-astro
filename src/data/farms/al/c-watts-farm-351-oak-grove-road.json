@@ -1,0 +1,20 @@
+{
+  "slug": "c-watts-farm-351-oak-grove-road",
+  "name": "C Watts Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "351 Oak Grove Road, AL",
+  "locationCity": "351 Oak Grove Road",
+  "locationState": "AL",
+  "locationZipcode": "36268",
+  "lat": 33.5147549880271,
+  "lon": -85.9980059722429,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.420Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.420Z",
+  "crops": []
+}

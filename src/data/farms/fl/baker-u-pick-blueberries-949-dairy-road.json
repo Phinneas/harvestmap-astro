@@ -1,0 +1,19 @@
+{
+  "slug": "baker-u-pick-blueberries-949-dairy-road",
+  "name": "Baker U-Pick Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "949 Dairy Road, FL",
+  "locationCity": "949 Dairy Road",
+  "locationState": "FL",
+  "locationZipcode": "32531",
+  "lat": 30.8075154601513,
+  "lon": -86.6757614810131,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.783Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.783Z"
+}

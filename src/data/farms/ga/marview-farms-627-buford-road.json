@@ -1,0 +1,20 @@
+{
+  "slug": "marview-farms-627-buford-road",
+  "name": "Marview Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "627 Buford Road, GA",
+  "locationCity": "627 Buford Road",
+  "locationState": "GA",
+  "locationZipcode": "31712",
+  "lat": 31.806579992085,
+  "lon": -83.7849699630332,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.251Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.251Z",
+  "crops": []
+}

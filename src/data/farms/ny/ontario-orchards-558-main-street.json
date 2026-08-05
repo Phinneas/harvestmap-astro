@@ -1,0 +1,19 @@
+{
+  "slug": "ontario-orchards-558-main-street",
+  "name": "Ontario Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "558 Main Street, NY",
+  "locationCity": "558 Main Street",
+  "locationState": "NY",
+  "locationZipcode": "13156",
+  "lat": 43.31597,
+  "lon": -76.703585,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.961Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.961Z"
+}

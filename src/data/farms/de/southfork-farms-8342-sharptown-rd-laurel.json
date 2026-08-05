@@ -1,0 +1,19 @@
+{
+  "slug": "southfork-farms-8342-sharptown-rd-laurel",
+  "name": "Southfork Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8342 Sharptown Rd. Laurel, DE",
+  "locationCity": "8342 Sharptown Rd. Laurel",
+  "locationState": "DE",
+  "locationZipcode": "19956",
+  "lat": 38.5322649909799,
+  "lon": -75.6031380387038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.190Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.190Z"
+}

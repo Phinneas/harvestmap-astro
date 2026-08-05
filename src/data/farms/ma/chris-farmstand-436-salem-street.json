@@ -1,0 +1,20 @@
+{
+  "slug": "chris-farmstand-436-salem-street",
+  "name": "Chris' Farmstand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "436 Salem Street, MA",
+  "locationCity": "436 Salem Street",
+  "locationState": "MA",
+  "locationZipcode": "01935",
+  "lat": 42.7558737726677,
+  "lon": -71.0596710122468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.495Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.495Z",
+  "crops": []
+}

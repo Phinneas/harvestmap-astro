@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-farms-681-shady-grove-road",
+  "name": "Jackson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "681 Shady Grove Road, FL",
+  "locationCity": "681 Shady Grove Road",
+  "locationState": "FL",
+  "locationZipcode": "32442",
+  "lat": 30.6566175836422,
+  "lon": -84.9901982911028,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.805Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "columbus-state-farmers-market-318-10th-avenue-columbus",
+  "name": "Columbus State Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "318 10th Avenue Columbus, GA",
+  "locationCity": "318 10th Avenue Columbus",
+  "locationState": "GA",
+  "locationZipcode": "31901",
+  "lat": 32.453101788671844,
+  "lon": -84.97979842287648,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

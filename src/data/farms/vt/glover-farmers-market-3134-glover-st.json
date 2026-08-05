@@ -1,0 +1,19 @@
+{
+  "slug": "glover-farmers-market-3134-glover-st",
+  "name": "Glover Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3134 Glover St, VT",
+  "locationCity": "3134 Glover St",
+  "locationState": "VT",
+  "locationZipcode": "05839",
+  "lat": 44.70439077510338,
+  "lon": -72.18856383140566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

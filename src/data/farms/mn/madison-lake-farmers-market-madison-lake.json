@@ -1,0 +1,19 @@
+{
+  "slug": "madison-lake-farmers-market-madison-lake",
+  "name": "Madison Lake Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Madison Lake, MN",
+  "locationCity": "Madison Lake",
+  "locationState": "MN",
+  "locationZipcode": "56063",
+  "lat": 44.2044116,
+  "lon": -93.815508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

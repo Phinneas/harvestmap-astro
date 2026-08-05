@@ -1,0 +1,19 @@
+{
+  "slug": "martin-produce-202-n-12th-st",
+  "name": "Martin Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "202 N 12th St, KS",
+  "locationCity": "202 N 12th St",
+  "locationState": "KS",
+  "locationZipcode": "67031",
+  "lat": 37.3914960154293,
+  "lon": -97.652827006603,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.149Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.149Z"
+}

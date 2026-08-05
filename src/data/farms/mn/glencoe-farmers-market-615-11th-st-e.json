@@ -1,0 +1,19 @@
+{
+  "slug": "glencoe-farmers-market-615-11th-st-e",
+  "name": "Glencoe Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "615 11th St E, MN",
+  "locationCity": "615 11th St E",
+  "locationState": "MN",
+  "locationZipcode": "55336",
+  "lat": 44.7702949,
+  "lon": -94.1540157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

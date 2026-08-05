@@ -1,0 +1,20 @@
+{
+  "slug": "sunny-cedars-farm-701-singleton-lane",
+  "name": "Sunny Cedars Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "701 Singleton Lane, SC",
+  "locationCity": "701 Singleton Lane",
+  "locationState": "SC",
+  "locationZipcode": "29154",
+  "lat": 33.897166999009,
+  "lon": -80.3610389588219,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.689Z",
+  "crops": []
+}

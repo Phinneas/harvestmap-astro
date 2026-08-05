@@ -1,0 +1,19 @@
+{
+  "slug": "doe-orchards-327-ayer-road",
+  "name": "Doe Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "327 Ayer Road, MA",
+  "locationCity": "327 Ayer Road",
+  "locationState": "MA",
+  "locationZipcode": "01451",
+  "lat": 42.543893597342,
+  "lon": -71.5753058304895,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.479Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.479Z"
+}

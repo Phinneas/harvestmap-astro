@@ -1,0 +1,19 @@
+{
+  "slug": "morrison-acres-pocahontas-road",
+  "name": "Morrison Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Pocahontas Road, TN",
+  "locationCity": "Pocahontas Road",
+  "locationState": "TN",
+  "locationZipcode": "37357",
+  "lat": 35.6368299972438,
+  "lon": -86.0515619749443,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.209Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.209Z"
+}

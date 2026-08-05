@@ -1,0 +1,19 @@
+{
+  "slug": "happy-grapes-005-salinas-road",
+  "name": "Happy Grapes",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "005 Salinas Road, CA",
+  "locationCity": "005 Salinas Road",
+  "locationState": "CA",
+  "locationZipcode": "93422",
+  "lat": 35.4460261154978,
+  "lon": -120.613372431887,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.823Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.823Z"
+}

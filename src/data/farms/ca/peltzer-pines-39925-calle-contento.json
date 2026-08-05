@@ -1,0 +1,19 @@
+{
+  "slug": "peltzer-pines-39925-calle-contento",
+  "name": "Peltzer Pines",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "39925 Calle Contento, CA",
+  "locationCity": "39925 Calle Contento",
+  "locationState": "CA",
+  "locationZipcode": "39925",
+  "lat": 33.5328060032487,
+  "lon": -117.074137971305,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.785Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.785Z"
+}

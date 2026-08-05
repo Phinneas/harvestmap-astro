@@ -1,0 +1,19 @@
+{
+  "slug": "bramble-ridge-orchard-2726-osborne-rd",
+  "name": "Bramble Ridge Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2726 Osborne Rd, KY",
+  "locationCity": "2726 Osborne Rd",
+  "locationState": "KY",
+  "locationZipcode": "40353",
+  "lat": 38.0590959955282,
+  "lon": -83.9017619769563,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.598Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.598Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "highlands-harvest-club-csa-1-alstede-farms-lane",
+  "name": "Highlands Harvest Club CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1 Alstede Farms Lane, NJ",
+  "locationCity": "1 Alstede Farms Lane",
+  "locationState": "NJ",
+  "locationZipcode": "07930",
+  "lat": 40.7782063,
+  "lon": -74.7117591,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.084Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.084Z"
+}

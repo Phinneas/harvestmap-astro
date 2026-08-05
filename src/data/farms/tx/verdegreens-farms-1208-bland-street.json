@@ -1,0 +1,19 @@
+{
+  "slug": "verdegreens-farms-1208-bland-street",
+  "name": "Verdegreens Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1208 Bland Street, TX",
+  "locationCity": "1208 Bland Street",
+  "locationState": "TX",
+  "locationZipcode": "77091",
+  "lat": 29.861408485966464,
+  "lon": -95.43130859519881,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.888Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.888Z"
+}

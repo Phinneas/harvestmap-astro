@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-john-s-produce-nursery-000-sw-oldsville-road",
+  "name": "Farmer John's Produce & Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 SW Oldsville Road, OR",
+  "locationCity": "000 SW Oldsville Road",
+  "locationState": "OR",
+  "locationZipcode": "97128",
+  "lat": 45.1422275346578,
+  "lon": -123.284449286052,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.822Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.822Z"
+}

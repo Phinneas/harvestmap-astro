@@ -1,0 +1,19 @@
+{
+  "slug": "jones-county-farmers-market-140-w-jones-street-trenton",
+  "name": "Jones County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "140 W Jones Street Trenton, NC",
+  "locationCity": "140 W Jones Street Trenton",
+  "locationState": "NC",
+  "locationZipcode": "28585",
+  "lat": 35.06326199944871,
+  "lon": -77.35263355129183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

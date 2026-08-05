@@ -1,0 +1,19 @@
+{
+  "slug": "west-valley-farmer-s-market-7200-w-nob-hill-blvd-yakima",
+  "name": "West Valley Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7200 W. Nob Hill Blvd. Yakima, WA",
+  "locationCity": "7200 W. Nob Hill Blvd. Yakima",
+  "locationState": "WA",
+  "locationZipcode": "98908",
+  "lat": 46.58572484722155,
+  "lon": -120.60457809921776,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

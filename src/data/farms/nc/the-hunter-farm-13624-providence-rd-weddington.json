@@ -1,0 +1,19 @@
+{
+  "slug": "the-hunter-farm-13624-providence-rd-weddington",
+  "name": "The Hunter Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13624 Providence Rd. Weddington, NC",
+  "locationCity": "13624 Providence Rd. Weddington",
+  "locationState": "NC",
+  "locationZipcode": "13624",
+  "lat": 35.0237478432356,
+  "lon": -80.7651022638963,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.787Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "paradise-farmers-market-200-west-1st-st-leon-public-library-leon",
+  "name": "Paradise Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 West 1st St. Leon Public Library Leon, IA",
+  "locationCity": "200 West 1st St. Leon Public Library Leon",
+  "locationState": "IA",
+  "locationZipcode": "50144",
+  "lat": 40.73950992003922,
+  "lon": -93.74828979412852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

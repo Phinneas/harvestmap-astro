@@ -1,0 +1,19 @@
+{
+  "slug": "easthampton-farmers-market-50-payson-ave",
+  "name": "Easthampton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50 Payson Ave, MA",
+  "locationCity": "50 Payson Ave",
+  "locationState": "MA",
+  "locationZipcode": "01027",
+  "lat": 42.265213,
+  "lon": -72.669332,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.790Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.790Z"
+}

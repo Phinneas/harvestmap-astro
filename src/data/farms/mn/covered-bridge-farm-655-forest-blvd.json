@@ -1,0 +1,19 @@
+{
+  "slug": "covered-bridge-farm-655-forest-blvd",
+  "name": "Covered Bridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "655 Forest Blvd., MN",
+  "locationCity": "655 Forest Blvd.",
+  "locationState": "MN",
+  "locationZipcode": "55025",
+  "lat": 45.3040025217228,
+  "lon": -92.9881905403259,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.771Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.771Z"
+}

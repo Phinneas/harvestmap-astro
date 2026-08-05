@@ -1,0 +1,19 @@
+{
+  "slug": "hoya-hub-food-pantry-1419-37th-street-nw",
+  "name": "Hoya Hub Food Pantry",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1419 37th Street NW, DC",
+  "locationCity": "1419 37th Street NW",
+  "locationState": "DC",
+  "locationZipcode": "20057",
+  "lat": 38.90831937031277,
+  "lon": -77.07131119308589,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:01.880Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:01.880Z"
+}

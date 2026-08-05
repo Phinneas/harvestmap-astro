@@ -1,0 +1,19 @@
+{
+  "slug": "redland-organics-bee-heaven-farm-csa-redland",
+  "name": "Redland Organics Bee Heaven Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Redland, FL",
+  "locationCity": "Redland",
+  "locationState": "FL",
+  "locationZipcode": "33031",
+  "lat": 25.5284426,
+  "lon": -80.4903347,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.805Z"
+}

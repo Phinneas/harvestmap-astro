@@ -1,0 +1,19 @@
+{
+  "slug": "oasis-acres-alpaca-3131-s-duck-lake-rd",
+  "name": "Oasis Acres Alpaca",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3131 S Duck Lake Rd, MI",
+  "locationCity": "3131 S Duck Lake Rd",
+  "locationState": "MI",
+  "locationZipcode": "48356",
+  "lat": 42.613629020105,
+  "lon": -83.5703759750213,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.653Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.653Z"
+}

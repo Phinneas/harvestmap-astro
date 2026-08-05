@@ -1,0 +1,20 @@
+{
+  "slug": "harbes-family-farm-1223-main-road",
+  "name": "Harbes Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1223 Main Road, NY",
+  "locationCity": "1223 Main Road",
+  "locationState": "NY",
+  "locationZipcode": "11947",
+  "lat": 40.9475374645309,
+  "lon": -72.5968847296186,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.223Z",
+  "crops": []
+}

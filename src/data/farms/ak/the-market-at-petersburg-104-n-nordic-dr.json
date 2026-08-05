@@ -1,0 +1,19 @@
+{
+  "slug": "the-market-at-petersburg-104-n-nordic-dr",
+  "name": "The Market at Petersburg",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "104 N Nordic Dr, AK",
+  "locationCity": "104 N Nordic Dr",
+  "locationState": "AK",
+  "locationZipcode": "99833",
+  "lat": 56.80981772232118,
+  "lon": -132.9587569030036,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

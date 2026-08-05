@@ -1,0 +1,19 @@
+{
+  "slug": "pacific-grove-farmers-market-central-ave-and-grand-ave",
+  "name": "Pacific Grove Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Central Ave. and Grand Ave., CA",
+  "locationCity": "Central Ave. and Grand Ave.",
+  "locationState": "CA",
+  "locationZipcode": "93950",
+  "lat": 36.62206001888126,
+  "lon": -121.91668002024139,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

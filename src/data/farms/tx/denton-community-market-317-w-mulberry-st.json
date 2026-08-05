@@ -1,0 +1,19 @@
+{
+  "slug": "denton-community-market-317-w-mulberry-st",
+  "name": "Denton Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "317 w Mulberry St, TX",
+  "locationCity": "317 w Mulberry St",
+  "locationState": "TX",
+  "locationZipcode": "76201",
+  "lat": 33.213317,
+  "lon": -97.136334,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.052Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.052Z"
+}

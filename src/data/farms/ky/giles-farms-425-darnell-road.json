@@ -1,0 +1,19 @@
+{
+  "slug": "giles-farms-425-darnell-road",
+  "name": "Giles Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "425 Darnell Road, KY",
+  "locationCity": "425 Darnell Road",
+  "locationState": "KY",
+  "locationZipcode": "42236",
+  "lat": 36.6947576415935,
+  "lon": -87.5436350959785,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.541Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "huckleberry-fresh-7-north-st-ne-apt-1",
+  "name": "HuckleBerry Fresh",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7 North St NE Apt 1, VA",
+  "locationCity": "7 North St NE Apt 1",
+  "locationState": "VA",
+  "locationZipcode": "20176",
+  "lat": 39.117075,
+  "lon": -77.5633669,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.215Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.215Z"
+}

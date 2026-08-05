@@ -1,0 +1,19 @@
+{
+  "slug": "green-earth-harvest-10s404-knoch-knolls-rd",
+  "name": "Green Earth Harvest",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10s404 Knoch Knolls Rd., IL",
+  "locationCity": "10s404 Knoch Knolls Rd.",
+  "locationState": "IL",
+  "locationZipcode": "60565",
+  "lat": 41.7176414,
+  "lon": -88.1432326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.480Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.480Z"
+}

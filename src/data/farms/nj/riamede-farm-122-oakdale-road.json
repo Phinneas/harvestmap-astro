@@ -1,0 +1,20 @@
+{
+  "slug": "riamede-farm-122-oakdale-road",
+  "name": "Riamede Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "122 Oakdale Road, NJ",
+  "locationCity": "122 Oakdale Road",
+  "locationState": "NJ",
+  "locationZipcode": "07930",
+  "lat": 40.7947789974487,
+  "lon": -74.6923880161216,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.731Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.731Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "small-city-farm-csa-1401-auten-road",
+  "name": "Small City Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1401 Auten Road, NC",
+  "locationCity": "1401 Auten Road",
+  "locationState": "NC",
+  "locationZipcode": "28216",
+  "lat": 35.2877809,
+  "lon": -80.885706,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.859Z"
+}

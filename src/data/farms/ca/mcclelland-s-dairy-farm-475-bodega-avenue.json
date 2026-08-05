@@ -1,0 +1,19 @@
+{
+  "slug": "mcclelland-s-dairy-farm-475-bodega-avenue",
+  "name": "McClelland's Dairy Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "475 Bodega Avenue, CA",
+  "locationCity": "475 Bodega Avenue",
+  "locationState": "CA",
+  "locationZipcode": "94952",
+  "lat": 38.2344288043337,
+  "lon": -122.654635014103,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.747Z"
+}

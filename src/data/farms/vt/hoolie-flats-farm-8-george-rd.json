@@ -1,0 +1,19 @@
+{
+  "slug": "hoolie-flats-farm-8-george-rd",
+  "name": "Hoolie Flats Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8 George Rd, VT",
+  "locationCity": "8 George Rd",
+  "locationState": "VT",
+  "locationZipcode": "05650",
+  "lat": 44.3444299997503,
+  "lon": -72.46500101520913,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.243Z"
+}

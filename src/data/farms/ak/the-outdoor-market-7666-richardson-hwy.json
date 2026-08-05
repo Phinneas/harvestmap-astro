@@ -1,0 +1,19 @@
+{
+  "slug": "the-outdoor-market-7666-richardson-hwy",
+  "name": "The Outdoor Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7666 Richardson Hwy, AK",
+  "locationCity": "7666 Richardson Hwy",
+  "locationState": "AK",
+  "locationZipcode": "99714",
+  "lat": 64.52179884646657,
+  "lon": -146.98455212052025,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

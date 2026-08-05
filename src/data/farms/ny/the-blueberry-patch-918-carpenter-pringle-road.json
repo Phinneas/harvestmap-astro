@@ -1,0 +1,19 @@
+{
+  "slug": "the-blueberry-patch-918-carpenter-pringle-road",
+  "name": "The Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "918 Carpenter Pringle Road, NY",
+  "locationCity": "918 Carpenter Pringle Road",
+  "locationState": "NY",
+  "locationZipcode": "14710",
+  "lat": 42.1263799558,
+  "lon": -79.4269742713512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.085Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.085Z"
+}

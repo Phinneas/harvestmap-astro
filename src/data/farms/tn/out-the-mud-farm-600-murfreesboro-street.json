@@ -1,0 +1,19 @@
+{
+  "slug": "out-the-mud-farm-600-murfreesboro-street",
+  "name": "Out The Mud Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "600 Murfreesboro Street, TN",
+  "locationCity": "600 Murfreesboro Street",
+  "locationState": "TN",
+  "locationZipcode": "37127",
+  "lat": 35.823789,
+  "lon": -86.317753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.800Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.800Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mount-vernon-farmers-market-1-roosevelt-sq-mount-vernon",
+  "name": "Mount Vernon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Roosevelt Sq Mount Vernon, NY",
+  "locationCity": "1 Roosevelt Sq Mount Vernon",
+  "locationState": "NY",
+  "locationZipcode": "10550",
+  "lat": 40.91272895408611,
+  "lon": -73.83737295609276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

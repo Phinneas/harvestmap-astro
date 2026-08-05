@@ -1,0 +1,19 @@
+{
+  "slug": "cypress-cattle-and-produce-980-r-m-ward-road",
+  "name": "Cypress Cattle and Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "980 R.M. Ward Road, FL",
+  "locationCity": "980 R.M. Ward Road",
+  "locationState": "FL",
+  "locationZipcode": "32455",
+  "lat": 30.7159195539266,
+  "lon": -85.8657249558498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.779Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.779Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "northside-blueberry-farm-952-mcmillan-rd",
+  "name": "Northside Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "952 McMillan Rd, VT",
+  "locationCity": "952 McMillan Rd",
+  "locationState": "VT",
+  "locationZipcode": "05342",
+  "lat": 42.742306991826,
+  "lon": -72.7950810328103,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.233Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cottonwood-creek-farm-mile-7-fairview-loop",
+  "name": "Cottonwood Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Mile 7 Fairview Loop, AK",
+  "locationCity": "Mile 7 Fairview Loop",
+  "locationState": "AK",
+  "locationZipcode": "99654",
+  "lat": 61.5909201,
+  "lon": -149.4133522,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:00.295Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:00.295Z"
+}

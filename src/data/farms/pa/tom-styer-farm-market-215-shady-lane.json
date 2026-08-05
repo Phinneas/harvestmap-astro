@@ -1,0 +1,19 @@
+{
+  "slug": "tom-styer-farm-market-215-shady-lane",
+  "name": "Tom Styer Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "215 Shady Lane, PA",
+  "locationCity": "215 Shady Lane",
+  "locationState": "PA",
+  "locationZipcode": "17756",
+  "lat": 41.21294401642538,
+  "lon": -76.77574097960057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.449Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.449Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "birdsboro-farmers-market-226-n-water-st",
+  "name": "Birdsboro Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "226 N Water St, PA",
+  "locationCity": "226 N Water St",
+  "locationState": "PA",
+  "locationZipcode": "19508",
+  "lat": 40.262329,
+  "lon": -75.810113,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.010Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.010Z"
+}

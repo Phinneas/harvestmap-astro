@@ -1,0 +1,19 @@
+{
+  "slug": "patroon-land-farm-132-ketcham-road",
+  "name": "Patroon Land Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "132 Ketcham Road, NY",
+  "locationCity": "132 Ketcham Road",
+  "locationState": "NY",
+  "locationZipcode": "12186",
+  "lat": 42.6582175,
+  "lon": -74.0382973,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "flyte-family-farm-340-cottonville-avenue",
+  "name": "Flyte Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "340 Cottonville Avenue, WI",
+  "locationCity": "340 Cottonville Avenue",
+  "locationState": "WI",
+  "locationZipcode": "54930",
+  "lat": 44.0580985132529,
+  "lon": -89.6527089309164,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.319Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.319Z"
+}

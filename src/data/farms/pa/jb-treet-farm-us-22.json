@@ -1,0 +1,19 @@
+{
+  "slug": "jb-treet-farm-us-22",
+  "name": "JB Treet Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US 22, PA",
+  "locationCity": "US 22",
+  "locationState": "PA",
+  "locationZipcode": "16611",
+  "lat": 40.5622477085728,
+  "lon": -78.1175305800122,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.131Z"
+}

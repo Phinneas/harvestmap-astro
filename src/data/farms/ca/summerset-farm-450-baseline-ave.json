@@ -1,0 +1,19 @@
+{
+  "slug": "summerset-farm-450-baseline-ave",
+  "name": "Summerset Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "450 Baseline Ave, CA",
+  "locationCity": "450 Baseline Ave",
+  "locationState": "CA",
+  "locationZipcode": "93460",
+  "lat": 34.6348231745713,
+  "lon": -120.046137389924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.775Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.775Z"
+}

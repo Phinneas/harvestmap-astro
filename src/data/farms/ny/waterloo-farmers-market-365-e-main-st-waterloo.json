@@ -1,0 +1,19 @@
+{
+  "slug": "waterloo-farmers-market-365-e-main-st-waterloo",
+  "name": "Waterloo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "365 E. Main St. Waterloo, NY",
+  "locationCity": "365 E. Main St. Waterloo",
+  "locationState": "NY",
+  "locationZipcode": "13165",
+  "lat": 42.901782398447985,
+  "lon": -76.84624689197119,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tahoe-food-hub-12116-chandelle-way-unit-d",
+  "name": "Tahoe Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "12116 Chandelle Way unit d, CA",
+  "locationCity": "12116 Chandelle Way unit d",
+  "locationState": "CA",
+  "locationZipcode": "12116",
+  "lat": 39.3202598,
+  "lon": -120.15067,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.240Z"
+}

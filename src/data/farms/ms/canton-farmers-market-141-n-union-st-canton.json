@@ -1,0 +1,19 @@
+{
+  "slug": "canton-farmers-market-141-n-union-st-canton",
+  "name": "Canton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "141 N Union St Canton, MS",
+  "locationCity": "141 N Union St Canton",
+  "locationState": "MS",
+  "locationZipcode": "39046",
+  "lat": 32.613138934231635,
+  "lon": -90.03635319721681,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

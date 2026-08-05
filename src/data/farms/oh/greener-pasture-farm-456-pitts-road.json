@@ -1,0 +1,19 @@
+{
+  "slug": "greener-pasture-farm-456-pitts-road",
+  "name": "Greener Pasture Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "456 Pitts Road, OH",
+  "locationCity": "456 Pitts Road",
+  "locationState": "OH",
+  "locationZipcode": "44090",
+  "lat": 41.1998751707275,
+  "lon": -82.2420469751868,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.762Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.762Z"
+}

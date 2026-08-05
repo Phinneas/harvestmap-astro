@@ -1,0 +1,20 @@
+{
+  "slug": "rainfield-farm-8531-north-650-east",
+  "name": "Rainfield Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8531 North 650 East, IN",
+  "locationCity": "8531 North 650 East",
+  "locationState": "IN",
+  "locationZipcode": "46552",
+  "lat": 41.7327829877533,
+  "lon": -86.56515898488702,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.449Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.449Z",
+  "crops": []
+}

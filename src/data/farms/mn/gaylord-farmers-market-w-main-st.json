@@ -1,0 +1,19 @@
+{
+  "slug": "gaylord-farmers-market-w-main-st",
+  "name": "Gaylord Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "W Main St, MN",
+  "locationCity": "W Main St",
+  "locationState": "MN",
+  "locationZipcode": "55334",
+  "lat": 44.5530825,
+  "lon": -94.2252106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

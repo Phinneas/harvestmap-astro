@@ -1,0 +1,19 @@
+{
+  "slug": "hollow-maple-farms-2182-230th-street",
+  "name": "Hollow Maple Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2182 230th Street, IA",
+  "locationCity": "2182 230th Street",
+  "locationState": "IA",
+  "locationZipcode": "52721",
+  "lat": 41.7550721,
+  "lon": -90.9392661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.417Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.417Z"
+}

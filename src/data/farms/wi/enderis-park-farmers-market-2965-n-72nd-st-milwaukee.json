@@ -1,0 +1,19 @@
+{
+  "slug": "enderis-park-farmers-market-2965-n-72nd-st-milwaukee",
+  "name": "Enderis Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2965 N 72nd St Milwaukee, WI",
+  "locationCity": "2965 N 72nd St Milwaukee",
+  "locationState": "WI",
+  "locationZipcode": "53210",
+  "lat": 43.07283572915841,
+  "lon": -88.00236848464846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.857Z"
+}

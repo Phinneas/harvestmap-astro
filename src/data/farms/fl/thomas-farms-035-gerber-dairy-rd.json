@@ -1,0 +1,19 @@
+{
+  "slug": "thomas-farms-035-gerber-dairy-rd",
+  "name": "Thomas Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "035 Gerber Dairy Rd, FL",
+  "locationCity": "035 Gerber Dairy Rd",
+  "locationState": "FL",
+  "locationZipcode": "33880",
+  "lat": 27.9346627985296,
+  "lon": -81.7499074251223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.829Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.829Z"
+}

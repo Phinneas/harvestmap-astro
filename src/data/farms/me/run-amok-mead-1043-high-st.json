@@ -1,0 +1,19 @@
+{
+  "slug": "run-amok-mead-1043-high-st",
+  "name": "Run Amok Mead",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1043 High St, ME",
+  "locationCity": "1043 High St",
+  "locationState": "ME",
+  "locationZipcode": "04345",
+  "lat": 44.22702190837973,
+  "lon": -69.85585245389211,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.053Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.053Z"
+}

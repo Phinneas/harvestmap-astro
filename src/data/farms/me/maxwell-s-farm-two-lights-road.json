@@ -1,0 +1,19 @@
+{
+  "slug": "maxwell-s-farm-two-lights-road",
+  "name": "Maxwell's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Two Lights Road, ME",
+  "locationCity": "Two Lights Road",
+  "locationState": "ME",
+  "locationZipcode": "04107",
+  "lat": 43.5696583837966,
+  "lon": -70.2432078010332,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.920Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.920Z"
+}

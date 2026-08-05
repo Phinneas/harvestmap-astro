@@ -1,0 +1,19 @@
+{
+  "slug": "holland-farmers-market-49-n-main-street-holland",
+  "name": "Holland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "49 N. Main Street Holland, NY",
+  "locationCity": "49 N. Main Street Holland",
+  "locationState": "NY",
+  "locationZipcode": "14080",
+  "lat": 42.641815452626304,
+  "lon": -78.54303115693111,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

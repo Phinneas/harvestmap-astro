@@ -1,0 +1,19 @@
+{
+  "slug": "clineland-farm-4-clineland-road",
+  "name": "Clineland Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4 Clineland Road, NC",
+  "locationCity": "4 Clineland Road",
+  "locationState": "NC",
+  "locationZipcode": "28021",
+  "lat": 35.3944163285396,
+  "lon": -81.4438321415636,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.838Z"
+}

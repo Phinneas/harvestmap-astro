@@ -1,0 +1,19 @@
+{
+  "slug": "packwood-farmers-market-105-main-st-e-packwood",
+  "name": "Packwood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 Main St. E Packwood, WA",
+  "locationCity": "105 Main St. E Packwood",
+  "locationState": "WA",
+  "locationZipcode": "98361",
+  "lat": 46.60644521881151,
+  "lon": -121.66981774036263,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.816Z"
+}

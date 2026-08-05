@@ -1,0 +1,19 @@
+{
+  "slug": "geisler-farms-5251-ne-94th-avenue",
+  "name": "Geisler Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5251 NE 94th Avenue, IA",
+  "locationCity": "5251 NE 94th Avenue",
+  "locationState": "IA",
+  "locationZipcode": "50035",
+  "lat": 41.7315650134029,
+  "lon": -93.5096029813912,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.685Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.685Z"
+}

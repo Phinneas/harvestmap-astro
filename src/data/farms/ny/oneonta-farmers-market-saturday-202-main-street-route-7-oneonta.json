@@ -1,0 +1,19 @@
+{
+  "slug": "oneonta-farmers-market-saturday-202-main-street-route-7-oneonta",
+  "name": "Oneonta Farmers Market (Saturday)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "202 Main Street (Route 7) Oneonta, NY",
+  "locationCity": "202 Main Street (Route 7) Oneonta",
+  "locationState": "NY",
+  "locationZipcode": "13820",
+  "lat": 42.45408894255463,
+  "lon": -75.0617591575394,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

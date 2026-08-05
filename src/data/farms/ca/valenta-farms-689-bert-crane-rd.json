@@ -1,0 +1,19 @@
+{
+  "slug": "valenta-farms-689-bert-crane-rd",
+  "name": "Valenta Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "689 Bert Crane Rd, CA",
+  "locationCity": "689 Bert Crane Rd",
+  "locationState": "CA",
+  "locationZipcode": "95301",
+  "lat": 37.2739115641806,
+  "lon": -120.633564056242,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.776Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.776Z"
+}

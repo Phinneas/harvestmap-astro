@@ -1,0 +1,20 @@
+{
+  "slug": "wilklow-orchards-341-pancake-hollow-road",
+  "name": "Wilklow Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "341 Pancake Hollow Road, NY",
+  "locationCity": "341 Pancake Hollow Road",
+  "locationState": "NY",
+  "locationZipcode": "12528",
+  "lat": 41.7260931393719,
+  "lon": -74.0104555683259,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.123Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.123Z",
+  "crops": []
+}

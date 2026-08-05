@@ -1,0 +1,19 @@
+{
+  "slug": "flyte-s-fieldstones-10770-state-highway-21",
+  "name": "Flyte's Fieldstones",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10770 State Highway 21, WI",
+  "locationCity": "10770 State Highway 21",
+  "locationState": "WI",
+  "locationZipcode": "10770",
+  "lat": 44.0217700200257,
+  "lon": -89.5693940487891,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.140Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.140Z"
+}

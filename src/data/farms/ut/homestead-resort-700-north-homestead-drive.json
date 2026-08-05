@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-resort-700-north-homestead-drive",
+  "name": "Homestead Resort",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "700 North Homestead Drive, UT",
+  "locationCity": "700 North Homestead Drive",
+  "locationState": "UT",
+  "locationZipcode": "84049",
+  "lat": 40.523395980952,
+  "lon": -111.485790019615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.412Z"
+}

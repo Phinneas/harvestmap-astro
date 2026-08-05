@@ -1,0 +1,19 @@
+{
+  "slug": "thomasville-farmers-market-21-east-guilford-street-thomasville",
+  "name": "Thomasville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "21 East Guilford Street Thomasville, NC",
+  "locationCity": "21 East Guilford Street Thomasville",
+  "locationState": "NC",
+  "locationZipcode": "27360",
+  "lat": 35.8850328862978,
+  "lon": -80.08103259217586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

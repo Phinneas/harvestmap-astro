@@ -1,0 +1,20 @@
+{
+  "slug": "rota-spring-farm-117-chace-hill-rd",
+  "name": "Rota Spring Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "117 Chace Hill Rd, MA",
+  "locationCity": "117 Chace Hill Rd",
+  "locationState": "MA",
+  "locationZipcode": "01564",
+  "lat": 42.4156040849237,
+  "lon": -71.7308148610083,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.562Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.562Z",
+  "crops": []
+}

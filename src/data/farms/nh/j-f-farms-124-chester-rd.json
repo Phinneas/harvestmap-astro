@@ -1,0 +1,20 @@
+{
+  "slug": "j-f-farms-124-chester-rd",
+  "name": "J & F Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "124 Chester Rd, NH",
+  "locationCity": "124 Chester Rd",
+  "locationState": "NH",
+  "locationZipcode": "03038",
+  "lat": 42.91984798057,
+  "lon": -71.2959779851586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.563Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.563Z",
+  "crops": []
+}

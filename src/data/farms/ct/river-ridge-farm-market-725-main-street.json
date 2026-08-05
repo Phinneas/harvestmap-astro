@@ -1,0 +1,19 @@
+{
+  "slug": "river-ridge-farm-market-725-main-street",
+  "name": "River Ridge Farm & Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "725 Main Street, CT",
+  "locationCity": "725 Main Street",
+  "locationState": "CT",
+  "locationZipcode": "06457",
+  "lat": 41.565576927534096,
+  "lon": -72.65413094901207,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.439Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.439Z"
+}

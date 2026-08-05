@@ -1,0 +1,19 @@
+{
+  "slug": "libertyville-farmers-market-413-n-milwaukee-ave-libertyville",
+  "name": "Libertyville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "413 N Milwaukee Ave Libertyville, IL",
+  "locationCity": "413 N Milwaukee Ave Libertyville",
+  "locationState": "IL",
+  "locationZipcode": "60048",
+  "lat": 42.286996466995824,
+  "lon": -87.95418151564677,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

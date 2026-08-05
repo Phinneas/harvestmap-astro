@@ -1,0 +1,19 @@
+{
+  "slug": "avery-farms-615-avery-lane",
+  "name": "Avery Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "615 Avery Lane, NC",
+  "locationCity": "615 Avery Lane",
+  "locationState": "NC",
+  "locationZipcode": "28664",
+  "lat": 36.0418254274734,
+  "lon": -82.0157516232992,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.828Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.828Z"
+}

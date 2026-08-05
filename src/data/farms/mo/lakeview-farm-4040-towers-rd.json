@@ -1,0 +1,19 @@
+{
+  "slug": "lakeview-farm-4040-towers-rd",
+  "name": "Lakeview Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4040 Towers Rd, MO",
+  "locationCity": "4040 Towers Rd",
+  "locationState": "MO",
+  "locationZipcode": "63304",
+  "lat": 38.7204759685781,
+  "lon": -90.5979468669508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.686Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.686Z"
+}

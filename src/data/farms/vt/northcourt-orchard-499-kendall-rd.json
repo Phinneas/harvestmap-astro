@@ -1,0 +1,19 @@
+{
+  "slug": "northcourt-orchard-499-kendall-rd",
+  "name": "Northcourt Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "499 Kendall Rd, VT",
+  "locationCity": "499 Kendall Rd",
+  "locationState": "VT",
+  "locationZipcode": "05450",
+  "lat": 44.9318230035397,
+  "lon": -72.8489999719192,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.964Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.964Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "big-lake-farmers-market-101-lakeshore-dr",
+  "name": "Big Lake Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Lakeshore Dr, MN",
+  "locationCity": "101 Lakeshore Dr",
+  "locationState": "MN",
+  "locationZipcode": "55309",
+  "lat": 45.3333566,
+  "lon": -93.7573396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

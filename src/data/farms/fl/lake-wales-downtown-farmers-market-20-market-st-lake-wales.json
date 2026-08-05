@@ -1,0 +1,19 @@
+{
+  "slug": "lake-wales-downtown-farmers-market-20-market-st-lake-wales",
+  "name": "Lake Wales Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 Market St. Lake Wales, FL",
+  "locationCity": "20 Market St. Lake Wales",
+  "locationState": "FL",
+  "locationZipcode": "33853",
+  "lat": 27.901408970507298,
+  "lon": -81.5881649547939,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

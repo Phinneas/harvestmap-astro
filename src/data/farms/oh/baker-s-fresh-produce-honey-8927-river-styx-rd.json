@@ -1,0 +1,19 @@
+{
+  "slug": "baker-s-fresh-produce-honey-8927-river-styx-rd",
+  "name": "Baker's Fresh Produce & Honey",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8927 River Styx Rd, OH",
+  "locationCity": "8927 River Styx Rd",
+  "locationState": "OH",
+  "locationZipcode": "44281",
+  "lat": 41.030275985147,
+  "lon": -81.78856097245057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.481Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.481Z"
+}

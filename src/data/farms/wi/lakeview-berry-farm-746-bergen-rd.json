@@ -1,0 +1,19 @@
+{
+  "slug": "lakeview-berry-farm-746-bergen-rd",
+  "name": "Lakeview Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "746 Bergen Rd, WI",
+  "locationCity": "746 Bergen Rd",
+  "locationState": "WI",
+  "locationZipcode": "54455",
+  "lat": 44.7110574476876,
+  "lon": -89.7721522547846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.160Z"
+}

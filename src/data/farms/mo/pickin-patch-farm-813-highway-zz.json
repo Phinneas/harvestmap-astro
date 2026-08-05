@@ -1,0 +1,19 @@
+{
+  "slug": "pickin-patch-farm-813-highway-zz",
+  "name": "Pickin' Patch Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "813 Highway Zz, MO",
+  "locationCity": "813 Highway Zz",
+  "locationState": "MO",
+  "locationZipcode": "65705",
+  "lat": 37.0034286975609,
+  "lon": -93.6561749435205,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.739Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.739Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "inspired-acres-34876-us-highway-169-south",
+  "name": "Inspired Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "34876 Us highway 169 South, MN",
+  "locationCity": "34876 Us highway 169 South",
+  "locationState": "MN",
+  "locationZipcode": "34876",
+  "lat": 44.44175750498575,
+  "lon": -93.94412013829213,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.855Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.855Z",
+  "crops": []
+}

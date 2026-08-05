@@ -1,0 +1,19 @@
+{
+  "slug": "sprout-mn-609-13th-ave-se",
+  "name": "Sprout MN",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "609 13th Ave SE, MN",
+  "locationCity": "609 13th Ave SE",
+  "locationState": "MN",
+  "locationZipcode": "56345",
+  "lat": 45.9805556,
+  "lon": -94.369444,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:13.501Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:13.501Z"
+}

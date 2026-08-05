@@ -1,0 +1,19 @@
+{
+  "slug": "kid-ranch-csa-farm-2146-e-beyer-rd",
+  "name": "Kid Ranch CSA Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2146 E. Beyer Rd., MI",
+  "locationCity": "2146 E. Beyer Rd.",
+  "locationState": "MI",
+  "locationZipcode": "49411",
+  "lat": 44.06448662935966,
+  "lon": -86.22580372086996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.105Z"
+}

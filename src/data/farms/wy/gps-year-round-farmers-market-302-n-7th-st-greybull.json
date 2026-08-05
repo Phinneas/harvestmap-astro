@@ -1,0 +1,19 @@
+{
+  "slug": "gps-year-round-farmers-market-302-n-7th-st-greybull",
+  "name": "GPS Year Round Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "302 N 7th St Greybull, WY",
+  "locationCity": "302 N 7th St Greybull",
+  "locationState": "WY",
+  "locationZipcode": "82426",
+  "lat": 44.49513190810204,
+  "lon": -108.05734384620513,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

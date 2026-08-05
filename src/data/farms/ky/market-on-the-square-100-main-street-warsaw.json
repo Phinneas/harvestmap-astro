@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-the-square-100-main-street-warsaw",
+  "name": "Market on the Square",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Main Street Warsaw, KY",
+  "locationCity": "100 Main Street Warsaw",
+  "locationState": "KY",
+  "locationZipcode": "41095",
+  "lat": 38.78300612105147,
+  "lon": -84.90323839149113,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

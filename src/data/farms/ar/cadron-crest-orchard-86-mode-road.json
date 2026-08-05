@@ -1,0 +1,20 @@
+{
+  "slug": "cadron-crest-orchard-86-mode-road",
+  "name": "Cadron Crest Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "86 Mode Road, AR",
+  "locationCity": "86 Mode Road",
+  "locationState": "AR",
+  "locationZipcode": "72061",
+  "lat": 35.3395669326836,
+  "lon": -92.3190153261269,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.929Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.929Z",
+  "crops": []
+}

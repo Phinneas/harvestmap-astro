@@ -1,0 +1,19 @@
+{
+  "slug": "puddleville-pastures-23020-s-bluegrass-lane",
+  "name": "Puddleville Pastures",
+  "source": "usda",
+  "directory": "csa",
+  "location": "23020 S. Bluegrass Lane, OR",
+  "locationCity": "23020 S. Bluegrass Lane",
+  "locationState": "OR",
+  "locationZipcode": "23020",
+  "lat": 45.30086675905662,
+  "lon": -122.39341392293267,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.968Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.968Z"
+}

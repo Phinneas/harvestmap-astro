@@ -1,0 +1,19 @@
+{
+  "slug": "old-baker-farm-1041-farmingdale-rd",
+  "name": "Old Baker Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1041 Farmingdale Rd, AL",
+  "locationCity": "1041 Farmingdale Rd",
+  "locationState": "AL",
+  "locationZipcode": "35078",
+  "lat": 33.3326449819527,
+  "lon": -86.4576179936796,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.362Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.362Z"
+}

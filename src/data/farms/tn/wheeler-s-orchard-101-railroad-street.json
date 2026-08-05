@@ -1,0 +1,19 @@
+{
+  "slug": "wheeler-s-orchard-101-railroad-street",
+  "name": "Wheeler's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Railroad Street, TN",
+  "locationCity": "101 Railroad Street",
+  "locationState": "TN",
+  "locationZipcode": "37327",
+  "lat": 35.3749250000001,
+  "lon": -85.39183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.245Z"
+}

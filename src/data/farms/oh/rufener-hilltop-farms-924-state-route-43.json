@@ -1,0 +1,20 @@
+{
+  "slug": "rufener-hilltop-farms-924-state-route-43",
+  "name": "Rufener Hilltop Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "924 State Route 43, OH",
+  "locationCity": "924 State Route 43",
+  "locationState": "OH",
+  "locationZipcode": "44260",
+  "lat": 41.0172930038614,
+  "lon": -81.3470449770554,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.886Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "heap-s-giant-pumpkins-4853-us-highway-52",
+  "name": "Heap's Giant Pumpkins",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4853 US Highway 52, IL",
+  "locationCity": "4853 US Highway 52",
+  "locationState": "IL",
+  "locationZipcode": "60447",
+  "lat": 41.5121740202942,
+  "lon": -88.3474029732623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.893Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.893Z"
+}

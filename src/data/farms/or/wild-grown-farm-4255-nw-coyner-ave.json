@@ -1,0 +1,19 @@
+{
+  "slug": "wild-grown-farm-4255-nw-coyner-ave",
+  "name": "Wild Grown Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4255 NW Coyner Ave., OR",
+  "locationCity": "4255 NW Coyner Ave.",
+  "locationState": "OR",
+  "locationZipcode": "97756",
+  "lat": 44.32031203728184,
+  "lon": -121.21717013475353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.976Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.976Z"
+}

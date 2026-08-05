@@ -1,0 +1,19 @@
+{
+  "slug": "queens-hospital-center-farmers-market-82-68-164th-st-jamaica",
+  "name": "Queens Hospital Center Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "82-68 164th St. Jamaica, NY",
+  "locationCity": "82-68 164th St. Jamaica",
+  "locationState": "NY",
+  "locationZipcode": "11432",
+  "lat": 40.71769529001168,
+  "lon": -73.8035461733148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

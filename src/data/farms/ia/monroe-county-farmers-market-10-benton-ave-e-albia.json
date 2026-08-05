@@ -1,0 +1,19 @@
+{
+  "slug": "monroe-county-farmers-market-10-benton-ave-e-albia",
+  "name": "Monroe County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Benton Ave E Albia, IA",
+  "locationCity": "10 Benton Ave E Albia",
+  "locationState": "IA",
+  "locationZipcode": "52531",
+  "lat": 41.02710581677295,
+  "lon": -92.80818258857947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

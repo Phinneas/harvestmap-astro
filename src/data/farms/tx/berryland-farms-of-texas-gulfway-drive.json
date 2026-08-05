@@ -1,0 +1,19 @@
+{
+  "slug": "berryland-farms-of-texas-gulfway-drive",
+  "name": "Berryland Farms of Texas",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Gulfway Drive, TX",
+  "locationCity": "Gulfway Drive",
+  "locationState": "TX",
+  "locationZipcode": "77665",
+  "lat": 29.8182100000001,
+  "lon": -94.38415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.383Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.383Z"
+}

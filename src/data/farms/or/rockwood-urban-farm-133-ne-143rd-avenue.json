@@ -1,0 +1,19 @@
+{
+  "slug": "rockwood-urban-farm-133-ne-143rd-avenue",
+  "name": "Rockwood Urban Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "133 NE 143rd Avenue, OR",
+  "locationCity": "133 NE 143rd Avenue",
+  "locationState": "OR",
+  "locationZipcode": "97230",
+  "lat": 45.523772,
+  "lon": -122.516105,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.948Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.948Z"
+}

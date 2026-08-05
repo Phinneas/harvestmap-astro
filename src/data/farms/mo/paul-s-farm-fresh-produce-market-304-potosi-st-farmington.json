@@ -1,0 +1,19 @@
+{
+  "slug": "paul-s-farm-fresh-produce-market-304-potosi-st-farmington",
+  "name": "Paul's Farm Fresh Produce Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "304 Potosi St. Farmington, MO",
+  "locationCity": "304 Potosi St. Farmington",
+  "locationState": "MO",
+  "locationZipcode": "63640",
+  "lat": 37.783511907939996,
+  "lon": -90.42867274963193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

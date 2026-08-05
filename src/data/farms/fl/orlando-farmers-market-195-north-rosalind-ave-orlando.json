@@ -1,0 +1,19 @@
+{
+  "slug": "orlando-farmers-market-195-north-rosalind-ave-orlando",
+  "name": "Orlando Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "195 North Rosalind Ave. Orlando, FL",
+  "locationCity": "195 North Rosalind Ave. Orlando",
+  "locationState": "FL",
+  "locationZipcode": "32801",
+  "lat": 28.5426339842455,
+  "lon": -81.37587613683259,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

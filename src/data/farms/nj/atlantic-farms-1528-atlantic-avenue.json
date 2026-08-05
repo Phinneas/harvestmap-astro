@@ -1,0 +1,19 @@
+{
+  "slug": "atlantic-farms-1528-atlantic-avenue",
+  "name": "Atlantic Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1528 Atlantic Avenue, NJ",
+  "locationCity": "1528 Atlantic Avenue",
+  "locationState": "NJ",
+  "locationZipcode": "08736",
+  "lat": 40.133766983698,
+  "lon": -74.0687859868951,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.569Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.569Z"
+}

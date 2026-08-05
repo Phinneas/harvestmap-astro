@@ -1,0 +1,19 @@
+{
+  "slug": "bees-n-trees-farm-240-quarry-rd",
+  "name": "Bees-N-Trees Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "240 Quarry Rd, PA",
+  "locationCity": "240 Quarry Rd",
+  "locationState": "PA",
+  "locationZipcode": "17036",
+  "lat": 40.2606000147111,
+  "lon": -76.7013260241138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.072Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.072Z"
+}

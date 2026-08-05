@@ -1,0 +1,19 @@
+{
+  "slug": "firestone-farms-18400-n-highway-99w",
+  "name": "Firestone Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "18400 N. highway 99w, OR",
+  "locationCity": "18400 N. highway 99w",
+  "locationState": "OR",
+  "locationZipcode": "18400",
+  "lat": 45.24424762019388,
+  "lon": -123.04922406177896,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.522Z"
+}

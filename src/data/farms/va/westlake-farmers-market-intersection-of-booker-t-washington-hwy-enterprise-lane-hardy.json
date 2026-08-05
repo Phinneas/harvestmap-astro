@@ -1,0 +1,19 @@
+{
+  "slug": "westlake-farmers-market-intersection-of-booker-t-washington-hwy-enterprise-lane-hardy",
+  "name": "Westlake Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Intersection of Booker T. Washington Hwy Enterprise Lane Hardy, VA",
+  "locationCity": "Intersection of Booker T. Washington Hwy Enterprise Lane Hardy",
+  "locationState": "VA",
+  "locationZipcode": "24101",
+  "lat": 37.12150898079571,
+  "lon": -79.7322117403245,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

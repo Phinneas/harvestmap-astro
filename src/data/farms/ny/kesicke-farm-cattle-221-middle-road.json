@@ -1,0 +1,20 @@
+{
+  "slug": "kesicke-farm-cattle-221-middle-road",
+  "name": "Kesicke Farm Cattle",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "221 Middle Road, NY",
+  "locationCity": "221 Middle Road",
+  "locationState": "NY",
+  "locationZipcode": "12572",
+  "lat": 41.9766013612862,
+  "lon": -73.8944448315978,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.923Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.923Z",
+  "crops": []
+}

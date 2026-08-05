@@ -1,0 +1,20 @@
+{
+  "slug": "blueberry-hill-u-pick-3122-white-hill-road",
+  "name": "Blueberry Hill U-pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3122 White Hill Road, NC",
+  "locationCity": "3122 White Hill Road",
+  "locationState": "NC",
+  "locationZipcode": "27332",
+  "lat": 35.38437159982713,
+  "lon": -79.2759419136103,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.904Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.904Z",
+  "crops": []
+}

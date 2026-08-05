@@ -1,0 +1,20 @@
+{
+  "slug": "the-nancy-place-1313-bald-mountain-road",
+  "name": "The Nancy Place",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1313 Bald Mountain Road, ME",
+  "locationCity": "1313 Bald Mountain Road",
+  "locationState": "ME",
+  "locationZipcode": "04472",
+  "lat": 44.6324142136762,
+  "lon": -68.6627067107068,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.789Z",
+  "crops": []
+}

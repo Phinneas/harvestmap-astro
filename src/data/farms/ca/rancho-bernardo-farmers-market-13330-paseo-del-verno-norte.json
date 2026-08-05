@@ -1,0 +1,19 @@
+{
+  "slug": "rancho-bernardo-farmers-market-13330-paseo-del-verno-norte",
+  "name": "Rancho Bernardo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13330 Paseo Del Verno Norte, CA",
+  "locationCity": "13330 Paseo Del Verno Norte",
+  "locationState": "CA",
+  "locationZipcode": "13330",
+  "lat": 33.03699959175889,
+  "lon": -117.04841392667582,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

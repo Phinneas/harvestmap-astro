@@ -1,0 +1,19 @@
+{
+  "slug": "lake-havasu-farmers-market-lake-havasu-city-az-86403",
+  "name": "Lake Havasu Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Lake Havasu City AZ 86403, AZ",
+  "locationCity": "Lake Havasu City AZ 86403",
+  "locationState": "AZ",
+  "locationZipcode": "86403",
+  "lat": 34.473817100000076,
+  "lon": -114.33551169999998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

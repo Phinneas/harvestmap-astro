@@ -1,0 +1,19 @@
+{
+  "slug": "cascadian-farm-56085-state-route-20",
+  "name": "Cascadian Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "56085 State Route 20, WA",
+  "locationCity": "56085 State Route 20",
+  "locationState": "WA",
+  "locationZipcode": "56085",
+  "lat": 48.5003650729647,
+  "lon": -121.526104518535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.132Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.132Z"
+}

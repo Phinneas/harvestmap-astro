@@ -1,0 +1,19 @@
+{
+  "slug": "homewood-farm-118-ackley-farm-rd",
+  "name": "Homewood Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "118 Ackley Farm Rd, ME",
+  "locationCity": "118 Ackley Farm Rd",
+  "locationState": "ME",
+  "locationZipcode": "04476",
+  "lat": 44.4667196620566,
+  "lon": -68.6475070513075,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.823Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.823Z"
+}

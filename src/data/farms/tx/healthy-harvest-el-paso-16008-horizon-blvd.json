@@ -1,0 +1,19 @@
+{
+  "slug": "healthy-harvest-el-paso-16008-horizon-blvd",
+  "name": "Healthy Harvest El Paso",
+  "source": "usda",
+  "directory": "csa",
+  "location": "16008 Horizon Blvd, TX",
+  "locationCity": "16008 Horizon Blvd",
+  "locationState": "TX",
+  "locationZipcode": "16008",
+  "lat": 31.6824818,
+  "lon": -106.1094768,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.850Z"
+}

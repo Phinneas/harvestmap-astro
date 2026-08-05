@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-rogers-farmers-market-railyard-park",
+  "name": "Downtown Rogers Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Railyard Park, AR",
+  "locationCity": "Railyard Park",
+  "locationState": "AR",
+  "locationZipcode": "72756",
+  "lat": 36.332762,
+  "lon": -94.116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.337Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.337Z"
+}

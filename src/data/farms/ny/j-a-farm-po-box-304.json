@@ -1,0 +1,19 @@
+{
+  "slug": "j-a-farm-po-box-304",
+  "name": "J&A Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO box 304, NY",
+  "locationCity": "PO box 304",
+  "locationState": "NY",
+  "locationZipcode": "10924",
+  "lat": 41.4020382,
+  "lon": -74.3243191,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

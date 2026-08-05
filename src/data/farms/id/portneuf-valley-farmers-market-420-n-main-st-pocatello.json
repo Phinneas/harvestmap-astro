@@ -1,0 +1,19 @@
+{
+  "slug": "portneuf-valley-farmers-market-420-n-main-st-pocatello",
+  "name": "Portneuf Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "420 N. Main St. Pocatello, ID",
+  "locationCity": "420 N. Main St. Pocatello",
+  "locationState": "ID",
+  "locationZipcode": "83204",
+  "lat": 42.864562925485316,
+  "lon": -112.45344549799901,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:36.238Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:36.238Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "apple-hill-farm-580-mountain-road",
+  "name": "Apple Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "580 Mountain Road, NH",
+  "locationCity": "580 Mountain Road",
+  "locationState": "NH",
+  "locationZipcode": "03301",
+  "lat": 43.2961790046171,
+  "lon": -71.555064037235,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.688Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.688Z",
+  "crops": []
+}

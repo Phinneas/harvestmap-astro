@@ -1,0 +1,19 @@
+{
+  "slug": "whiteaker-community-market-1180-w-4th-ave",
+  "name": "Whiteaker Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1180 W 4th Ave, OR",
+  "locationCity": "1180 W 4th Ave",
+  "locationState": "OR",
+  "locationZipcode": "97402",
+  "lat": 44.055441206389865,
+  "lon": -123.1105846399444,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.428Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.428Z"
+}

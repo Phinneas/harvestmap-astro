@@ -1,0 +1,19 @@
+{
+  "slug": "azalea-street-marketplace-800-mel-branch-mem-drive-deridder",
+  "name": "Azalea Street Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "800 Mel Branch Mem Drive DeRidder, LA",
+  "locationCity": "800 Mel Branch Mem Drive DeRidder",
+  "locationState": "LA",
+  "locationZipcode": "",
+  "lat": 30.85575444721708,
+  "lon": -93.29313722902434,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.707Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "west-valley-u-pick-901-zier-road",
+  "name": "West Valley U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "901 Zier Road, WA",
+  "locationCity": "901 Zier Road",
+  "locationState": "WA",
+  "locationZipcode": "98908",
+  "lat": 46.5747435233896,
+  "lon": -120.641809956209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.252Z"
+}

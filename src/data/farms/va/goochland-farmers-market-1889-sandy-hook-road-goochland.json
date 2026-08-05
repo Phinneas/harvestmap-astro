@@ -1,0 +1,19 @@
+{
+  "slug": "goochland-farmers-market-1889-sandy-hook-road-goochland",
+  "name": "Goochland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1889 Sandy Hook Road Goochland, VA",
+  "locationCity": "1889 Sandy Hook Road Goochland",
+  "locationState": "VA",
+  "locationZipcode": "23063",
+  "lat": 37.695548560628076,
+  "lon": -77.8875384868564,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

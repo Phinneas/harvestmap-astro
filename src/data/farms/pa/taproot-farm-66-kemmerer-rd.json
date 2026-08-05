@@ -1,0 +1,19 @@
+{
+  "slug": "taproot-farm-66-kemmerer-rd",
+  "name": "Taproot Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "66 Kemmerer Rd, PA",
+  "locationCity": "66 Kemmerer Rd",
+  "locationState": "PA",
+  "locationZipcode": "19555",
+  "lat": 40.481726,
+  "lon": -75.917259,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.551Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.551Z"
+}

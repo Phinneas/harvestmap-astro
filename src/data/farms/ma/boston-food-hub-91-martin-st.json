@@ -1,0 +1,19 @@
+{
+  "slug": "boston-food-hub-91-martin-st",
+  "name": "Boston Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "91 Martin St, MA",
+  "locationCity": "91 Martin St",
+  "locationState": "MA",
+  "locationZipcode": "01720",
+  "lat": 42.45550596735231,
+  "lon": -71.45946306710107,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.885Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.885Z"
+}

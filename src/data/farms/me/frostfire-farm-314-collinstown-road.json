@@ -1,0 +1,19 @@
+{
+  "slug": "frostfire-farm-314-collinstown-road",
+  "name": "Frostfire Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "314 Collinstown Road, ME",
+  "locationCity": "314 Collinstown Road",
+  "locationState": "ME",
+  "locationZipcode": "04862",
+  "lat": 44.2912447,
+  "lon": -69.3238198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.557Z"
+}

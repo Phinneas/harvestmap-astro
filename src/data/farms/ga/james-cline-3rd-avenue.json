@@ -1,0 +1,19 @@
+{
+  "slug": "james-cline-3rd-avenue",
+  "name": "James Cline",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3rd Avenue, GA",
+  "locationCity": "3rd Avenue",
+  "locationState": "GA",
+  "locationZipcode": "30628",
+  "lat": 34.0382720000001,
+  "lon": -83.2135092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.381Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.381Z"
+}

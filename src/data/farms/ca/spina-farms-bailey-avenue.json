@@ -1,0 +1,19 @@
+{
+  "slug": "spina-farms-bailey-avenue",
+  "name": "Spina Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bailey Avenue, CA",
+  "locationCity": "Bailey Avenue",
+  "locationState": "CA",
+  "locationZipcode": "95013",
+  "lat": 37.2010999951517,
+  "lon": -121.736459965695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.784Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.784Z"
+}

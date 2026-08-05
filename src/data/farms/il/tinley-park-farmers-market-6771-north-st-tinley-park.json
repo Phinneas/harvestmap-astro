@@ -1,0 +1,20 @@
+{
+  "slug": "tinley-park-farmers-market-6771-north-st-tinley-park",
+  "name": "Tinley Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6771 North St Tinley Park, IL",
+  "locationCity": "6771 North St Tinley Park",
+  "locationState": "IL",
+  "locationZipcode": "60477",
+  "lat": 41.576204277161736,
+  "lon": -87.78367015561682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z",
+  "crops": []
+}

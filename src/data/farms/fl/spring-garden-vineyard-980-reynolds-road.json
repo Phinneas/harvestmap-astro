@@ -1,0 +1,19 @@
+{
+  "slug": "spring-garden-vineyard-980-reynolds-road",
+  "name": "Spring Garden Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "980 Reynolds Road, FL",
+  "locationCity": "980 Reynolds Road",
+  "locationState": "FL",
+  "locationZipcode": "32130",
+  "lat": 29.1177610070993,
+  "lon": -81.3352519745637,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.867Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.867Z"
+}

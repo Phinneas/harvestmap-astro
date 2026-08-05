@@ -1,0 +1,19 @@
+{
+  "slug": "falls-church-farmers-market-300-park-avenue-falls-church",
+  "name": "Falls Church Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 Park Avenue Falls Church, VA",
+  "locationCity": "300 Park Avenue Falls Church",
+  "locationState": "VA",
+  "locationZipcode": "22046",
+  "lat": 38.88495648621212,
+  "lon": -77.17276286848666,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

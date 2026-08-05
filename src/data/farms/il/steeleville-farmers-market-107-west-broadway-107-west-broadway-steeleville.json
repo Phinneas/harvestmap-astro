@@ -1,0 +1,19 @@
+{
+  "slug": "steeleville-farmers-market-107-west-broadway-107-west-broadway-steeleville",
+  "name": "Steeleville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "107 West Broadway 107 West Broadway Steeleville, IL",
+  "locationCity": "107 West Broadway 107 West Broadway Steeleville",
+  "locationState": "IL",
+  "locationZipcode": "62288",
+  "lat": 38.007051368102026,
+  "lon": -89.65942983513551,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

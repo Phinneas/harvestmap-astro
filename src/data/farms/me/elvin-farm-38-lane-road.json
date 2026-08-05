@@ -1,0 +1,20 @@
+{
+  "slug": "elvin-farm-38-lane-road",
+  "name": "Elvin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "38 Lane Road, ME",
+  "locationCity": "38 Lane Road",
+  "locationState": "ME",
+  "locationZipcode": "04355",
+  "lat": 44.3885072015172,
+  "lon": -70.0044297194129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.816Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "underwood-family-farms-3370-sunset-valley-road",
+  "name": "Underwood Family Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3370 Sunset Valley Road, CA",
+  "locationCity": "3370 Sunset Valley Road",
+  "locationState": "CA",
+  "locationZipcode": "93021",
+  "lat": 34.2551464,
+  "lon": -118.8516925,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.056Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.056Z"
+}

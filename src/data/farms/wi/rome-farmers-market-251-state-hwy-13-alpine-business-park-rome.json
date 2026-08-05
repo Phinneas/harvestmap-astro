@@ -1,0 +1,19 @@
+{
+  "slug": "rome-farmers-market-251-state-hwy-13-alpine-business-park-rome",
+  "name": "Rome Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "251 State Hwy 13 (Alpine Business Park) Rome, WI",
+  "locationCity": "251 State Hwy 13 (Alpine Business Park) Rome",
+  "locationState": "WI",
+  "locationZipcode": "54457",
+  "lat": 44.20610434928896,
+  "lon": -89.8082445444099,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

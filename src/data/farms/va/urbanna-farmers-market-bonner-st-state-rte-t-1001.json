@@ -1,0 +1,19 @@
+{
+  "slug": "urbanna-farmers-market-bonner-st-state-rte-t-1001",
+  "name": "Urbanna Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Bonner St & State Rte T-1001, VA",
+  "locationCity": "Bonner St & State Rte T-1001",
+  "locationState": "VA",
+  "locationZipcode": "23175",
+  "lat": 37.638530192874164,
+  "lon": -76.57869224407945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

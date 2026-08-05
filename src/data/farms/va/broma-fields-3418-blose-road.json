@@ -1,0 +1,19 @@
+{
+  "slug": "broma-fields-3418-blose-road",
+  "name": "Broma Fields",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3418 Blose Road, VA",
+  "locationCity": "3418 Blose Road",
+  "locationState": "VA",
+  "locationZipcode": "22827",
+  "lat": 38.4463616,
+  "lon": -78.599345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.260Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.260Z"
+}

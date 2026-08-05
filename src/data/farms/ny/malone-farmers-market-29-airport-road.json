@@ -1,0 +1,19 @@
+{
+  "slug": "malone-farmers-market-29-airport-road",
+  "name": "Malone Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "29 Airport Road, NY",
+  "locationCity": "29 Airport Road",
+  "locationState": "NY",
+  "locationZipcode": "12953",
+  "lat": 44.84790703850639,
+  "lon": -74.32775817430783,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

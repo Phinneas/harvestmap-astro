@@ -1,0 +1,19 @@
+{
+  "slug": "city-center-farmers-market-oyster-point-703-mariners-row",
+  "name": "City Center Farmers Market Oyster Point",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "703 Mariners Row, VA",
+  "locationCity": "703 Mariners Row",
+  "locationState": "VA",
+  "locationZipcode": "23606",
+  "lat": 37.08580646252829,
+  "lon": -76.47439041686683,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

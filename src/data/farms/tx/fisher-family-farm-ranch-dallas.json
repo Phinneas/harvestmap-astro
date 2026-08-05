@@ -1,0 +1,19 @@
+{
+  "slug": "fisher-family-farm-ranch-dallas",
+  "name": "Fisher Family Farm & Ranch",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Dallas, TX",
+  "locationCity": "Dallas",
+  "locationState": "TX",
+  "locationZipcode": "75220",
+  "lat": 32.8621631,
+  "lon": -96.8726295,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.836Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.836Z"
+}

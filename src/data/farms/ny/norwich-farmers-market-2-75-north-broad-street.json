@@ -1,0 +1,19 @@
+{
+  "slug": "norwich-farmers-market-2-75-north-broad-street",
+  "name": "Norwich Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2-75 North Broad Street, NY",
+  "locationCity": "2-75 North Broad Street",
+  "locationState": "NY",
+  "locationZipcode": "13815",
+  "lat": 42.531632,
+  "lon": -75.523641,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.897Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.897Z"
+}

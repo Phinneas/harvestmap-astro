@@ -1,0 +1,20 @@
+{
+  "slug": "valley-home-farm-310-potts-rd",
+  "name": "Valley Home Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "310 Potts Rd, TN",
+  "locationCity": "310 Potts Rd",
+  "locationState": "TN",
+  "locationZipcode": "37183",
+  "lat": 35.5303709840078,
+  "lon": -86.3129379629683,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.241Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.241Z",
+  "crops": []
+}

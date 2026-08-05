@@ -1,0 +1,19 @@
+{
+  "slug": "enterprise-farm-csa-72-river-rd",
+  "name": "Enterprise Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "72 River Rd, MA",
+  "locationCity": "72 River Rd",
+  "locationState": "MA",
+  "locationZipcode": "01373",
+  "lat": 42.4321882,
+  "lon": -72.5893824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.252Z"
+}

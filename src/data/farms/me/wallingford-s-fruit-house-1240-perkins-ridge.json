@@ -9,22 +9,11 @@
   "locationZipcode": "",
   "lat": 44.1402232852486,
   "lon": -70.2917445126417,
-  "website": "https://wallingfordsorchard.com/u-pick.html",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:28:41.877Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:28:54.182Z"
+      "lastSeen": "2026-08-05T18:41:51.864Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:28:41.877Z",
-  "crops": [
-    "Raspberries",
-    "Apples",
-    "Pumpkins"
-  ],
-  "phone": "207-784-7958"
+  "usdaLastUpdated": "2026-08-05T18:41:51.864Z"
 }

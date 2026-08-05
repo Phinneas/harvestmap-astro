@@ -1,0 +1,19 @@
+{
+  "slug": "pipiles-farm-370-lockport-olcott-road",
+  "name": "Pipiles Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "370 Lockport-Olcott Road, NY",
+  "locationCity": "370 Lockport-Olcott Road",
+  "locationState": "NY",
+  "locationZipcode": "14094",
+  "lat": 43.2359223609619,
+  "lon": -78.684017341461,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.385Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.385Z"
+}

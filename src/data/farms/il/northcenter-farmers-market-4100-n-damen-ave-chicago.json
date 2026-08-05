@@ -1,0 +1,19 @@
+{
+  "slug": "northcenter-farmers-market-4100-n-damen-ave-chicago",
+  "name": "NorthCenter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4100 N. Damen Ave. Chicago, IL",
+  "locationCity": "4100 N. Damen Ave. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60618",
+  "lat": 41.95603867787171,
+  "lon": -87.67881928350603,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

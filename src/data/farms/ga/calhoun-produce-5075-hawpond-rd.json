@@ -1,0 +1,19 @@
+{
+  "slug": "calhoun-produce-5075-hawpond-rd",
+  "name": "Calhoun Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5075 Hawpond Rd, GA",
+  "locationCity": "5075 Hawpond Rd",
+  "locationState": "GA",
+  "locationZipcode": "31714",
+  "lat": 31.830373993995778,
+  "lon": -83.61168400552668,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:57.883Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:57.883Z"
+}

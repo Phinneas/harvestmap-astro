@@ -1,0 +1,19 @@
+{
+  "slug": "glenwood-downtown-market-9th-and-grand-glenwood-springs",
+  "name": "Glenwood Downtown Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9th and Grand Glenwood Springs, CO",
+  "locationCity": "9th and Grand Glenwood Springs",
+  "locationState": "CO",
+  "locationZipcode": "81601",
+  "lat": 39.54538998638532,
+  "lon": -107.32481002217382,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

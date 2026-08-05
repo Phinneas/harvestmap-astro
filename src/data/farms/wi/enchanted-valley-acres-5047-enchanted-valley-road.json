@@ -1,0 +1,19 @@
+{
+  "slug": "enchanted-valley-acres-5047-enchanted-valley-road",
+  "name": "Enchanted Valley Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5047 Enchanted Valley Road, WI",
+  "locationCity": "5047 Enchanted Valley Road",
+  "locationState": "WI",
+  "locationZipcode": "53528",
+  "lat": 43.1312430152349,
+  "lon": -89.614036031819,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.136Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.136Z"
+}

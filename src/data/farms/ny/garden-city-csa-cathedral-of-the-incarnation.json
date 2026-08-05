@@ -1,0 +1,19 @@
+{
+  "slug": "garden-city-csa-cathedral-of-the-incarnation",
+  "name": "Garden City CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Cathedral of the Incarnation, NY",
+  "locationCity": "Cathedral of the Incarnation",
+  "locationState": "NY",
+  "locationZipcode": "11530",
+  "lat": 40.7211724,
+  "lon": -73.6422577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.188Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.188Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "second-drop-farm-551-north-main-street",
+  "name": "Second Drop Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "551 North Main Street, MA",
+  "locationCity": "551 North Main Street",
+  "locationState": "MA",
+  "locationZipcode": "01237",
+  "lat": 42.5360886624717,
+  "lon": -73.2300123727089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.694Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.694Z",
+  "crops": []
+}

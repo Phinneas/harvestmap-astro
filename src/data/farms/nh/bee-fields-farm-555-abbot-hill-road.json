@@ -1,0 +1,19 @@
+{
+  "slug": "bee-fields-farm-555-abbot-hill-road",
+  "name": "Bee Fields Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "555 Abbot Hill Road, NH",
+  "locationCity": "555 Abbot Hill Road",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "lat": 42.8067982,
+  "lon": -71.7499869,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.523Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.523Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sandan-farm-harvest-road",
+  "name": "SanDan Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Harvest Road, NC",
+  "locationCity": "Harvest Road",
+  "locationState": "NC",
+  "locationZipcode": "27301",
+  "lat": 36.1124241561074,
+  "lon": -79.6746891059481,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.746Z"
+}

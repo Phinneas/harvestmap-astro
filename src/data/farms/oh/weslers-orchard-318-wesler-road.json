@@ -1,0 +1,19 @@
+{
+  "slug": "weslers-orchard-318-wesler-road",
+  "name": "Weslers Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "318 Wesler Road, OH",
+  "locationCity": "318 Wesler Road",
+  "locationState": "OH",
+  "locationZipcode": "45347",
+  "lat": 39.8681572126863,
+  "lon": -84.8049471677694,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.847Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.847Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "west-belmar-csa-pickup-location-for-circle-brook-farm-141-brighton-road",
+  "name": "West Belmar CSA- pickup location for Circle Brook Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "141 Brighton Road, NJ",
+  "locationCity": "141 Brighton Road",
+  "locationState": "NJ",
+  "locationZipcode": "07821",
+  "lat": 40.9884211,
+  "lon": -74.7638379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.116Z"
+}

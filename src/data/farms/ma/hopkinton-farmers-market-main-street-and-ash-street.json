@@ -1,0 +1,19 @@
+{
+  "slug": "hopkinton-farmers-market-main-street-and-ash-street",
+  "name": "Hopkinton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street and Ash Street, MA",
+  "locationCity": "Main Street and Ash Street",
+  "locationState": "MA",
+  "locationZipcode": "01748",
+  "lat": 42.229299,
+  "lon": -71.51777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.739Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.739Z"
+}

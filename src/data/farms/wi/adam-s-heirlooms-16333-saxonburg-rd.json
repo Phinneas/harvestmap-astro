@@ -1,0 +1,19 @@
+{
+  "slug": "adam-s-heirlooms-16333-saxonburg-rd",
+  "name": "Adam's Heirlooms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "16333 Saxonburg Rd, WI",
+  "locationCity": "16333 Saxonburg Rd",
+  "locationState": "WI",
+  "locationZipcode": "16333",
+  "lat": 44.296605710078325,
+  "lon": -87.61084331553934,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.025Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.025Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "giving-thanks-farm-4837-mickle-lane",
+  "name": "Giving Thanks Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4837 Mickle Lane, TN",
+  "locationCity": "4837 Mickle Lane",
+  "locationState": "TN",
+  "locationZipcode": "37043",
+  "lat": 36.4300191,
+  "lon": -87.2190818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.776Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.776Z"
+}

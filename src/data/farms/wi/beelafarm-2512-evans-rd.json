@@ -1,0 +1,19 @@
+{
+  "slug": "beelafarm-2512-evans-rd",
+  "name": "Beelafarm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2512 Evans Rd, WI",
+  "locationCity": "2512 Evans Rd",
+  "locationState": "WI",
+  "locationZipcode": "53558",
+  "lat": 42.9824939896271,
+  "lon": -89.31039396175667,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.465Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.465Z"
+}

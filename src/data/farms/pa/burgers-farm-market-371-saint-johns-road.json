@@ -1,0 +1,19 @@
+{
+  "slug": "burgers-farm-market-371-saint-johns-road",
+  "name": "Burgers Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "371 Saint Johns Road, PA",
+  "locationCity": "371 Saint Johns Road",
+  "locationState": "PA",
+  "locationZipcode": "18222",
+  "lat": 41.024635006219455,
+  "lon": -76.04600402342435,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

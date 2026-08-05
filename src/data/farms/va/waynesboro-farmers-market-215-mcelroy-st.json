@@ -1,0 +1,19 @@
+{
+  "slug": "waynesboro-farmers-market-215-mcelroy-st",
+  "name": "Waynesboro Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 McElroy St., VA",
+  "locationCity": "215 McElroy St.",
+  "locationState": "VA",
+  "locationZipcode": "22980",
+  "lat": 38.068559,
+  "lon": -78.885734,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.118Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.118Z"
+}

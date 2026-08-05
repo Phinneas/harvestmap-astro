@@ -1,0 +1,19 @@
+{
+  "slug": "woodbridge-wednesdays-farmers-market-400-rahway-avenue-woodbridge",
+  "name": "Woodbridge Wednesdays Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Rahway Avenue Woodbridge, NJ",
+  "locationCity": "400 Rahway Avenue Woodbridge",
+  "locationState": "NJ",
+  "locationZipcode": "07095",
+  "lat": 40.557557637668324,
+  "lon": -74.27627213036295,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

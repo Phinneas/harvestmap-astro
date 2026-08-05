@@ -1,0 +1,19 @@
+{
+  "slug": "alaskans-own-seafood-834-lincoln-st-rm-23",
+  "name": "Alaskans Own Seafood",
+  "source": "usda",
+  "directory": "csa",
+  "location": "834 Lincoln St. Rm 23, AK",
+  "locationCity": "834 Lincoln St. Rm 23",
+  "locationState": "AK",
+  "locationZipcode": "99835",
+  "lat": 57.0498164,
+  "lon": -135.3233014,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:00.278Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:00.278Z"
+}

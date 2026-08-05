@@ -1,0 +1,19 @@
+{
+  "slug": "ville-platte-farmers-market-11-east-main-street-ville-platte",
+  "name": "Ville Platte Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11 East Main Street Ville Platte, LA",
+  "locationCity": "11 East Main Street Ville Platte",
+  "locationState": "LA",
+  "locationZipcode": "70586",
+  "lat": 30.688432300984648,
+  "lon": -92.27430871679738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.709Z"
+}

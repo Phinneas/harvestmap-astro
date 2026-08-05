@@ -1,0 +1,19 @@
+{
+  "slug": "maple-lane-farms-1040-maple-lane",
+  "name": "Maple Lane Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1040 Maple Lane, TN",
+  "locationCity": "1040 Maple Lane",
+  "locationState": "TN",
+  "locationZipcode": "37742",
+  "lat": 35.6880780009963,
+  "lon": -84.1206400395001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.318Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.318Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "crown-center-farmer-s-market-2450-grand-blvd-kansas-city",
+  "name": "Crown Center Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2450 Grand Blvd Kansas City, MO",
+  "locationCity": "2450 Grand Blvd Kansas City",
+  "locationState": "MO",
+  "locationZipcode": "64108",
+  "lat": 39.08328454097417,
+  "lon": -94.5817863442829,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.492Z"
+}

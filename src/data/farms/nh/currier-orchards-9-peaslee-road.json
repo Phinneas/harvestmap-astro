@@ -1,0 +1,20 @@
+{
+  "slug": "currier-orchards-9-peaslee-road",
+  "name": "Currier Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9 Peaslee Road, NH",
+  "locationCity": "9 Peaslee Road",
+  "locationState": "NH",
+  "locationZipcode": "03054",
+  "lat": 42.8239960143454,
+  "lon": -71.5356939619108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.535Z",
+  "crops": []
+}

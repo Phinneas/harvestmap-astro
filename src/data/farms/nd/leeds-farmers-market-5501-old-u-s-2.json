@@ -1,0 +1,19 @@
+{
+  "slug": "leeds-farmers-market-5501-old-u-s-2",
+  "name": "Leeds Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5501 Old U.S. 2, ND",
+  "locationCity": "5501 Old U.S. 2",
+  "locationState": "ND",
+  "locationZipcode": "58346",
+  "lat": 48.2849687,
+  "lon": -99.4475846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:01.419Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:01.419Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mitchell-farm-3404-mitchell-road",
+  "name": "Mitchell Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3404 Mitchell Road, MI",
+  "locationCity": "3404 Mitchell Road",
+  "locationState": "MI",
+  "locationZipcode": "48442",
+  "lat": 42.849441,
+  "lon": -83.630219,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.154Z"
+}

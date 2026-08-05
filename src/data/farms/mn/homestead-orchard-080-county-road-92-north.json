@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-orchard-080-county-road-92-north",
+  "name": "Homestead Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "080 County Road 92 North, MN",
+  "locationCity": "080 County Road 92 North",
+  "locationState": "MN",
+  "locationZipcode": "55359",
+  "lat": 44.9792696867154,
+  "lon": -93.7319052411671,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.704Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.704Z"
+}

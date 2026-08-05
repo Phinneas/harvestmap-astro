@@ -1,0 +1,19 @@
+{
+  "slug": "bee-happy-farm-102-hester-rd",
+  "name": "Bee Happy Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "102 Hester Rd, NC",
+  "locationCity": "102 Hester Rd",
+  "locationState": "NC",
+  "locationZipcode": "27522",
+  "lat": 36.1704424433495,
+  "lon": -78.6886413681596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.644Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.644Z"
+}

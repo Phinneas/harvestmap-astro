@@ -1,0 +1,19 @@
+{
+  "slug": "sankanac-csa-1852-french-creek-road",
+  "name": "Sankanac CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1852 French Creek Road, PA",
+  "locationCity": "1852 French Creek Road",
+  "locationState": "PA",
+  "locationZipcode": "19460",
+  "lat": 40.1468571,
+  "lon": -75.6055428,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.569Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.569Z"
+}

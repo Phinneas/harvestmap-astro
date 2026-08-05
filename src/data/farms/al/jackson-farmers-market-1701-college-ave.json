@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-farmers-market-1701-college-ave",
+  "name": "Jackson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1701 College Ave., AL",
+  "locationCity": "1701 College Ave.",
+  "locationState": "AL",
+  "locationZipcode": "36545",
+  "lat": 31.52743260009885,
+  "lon": -87.89290973166062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

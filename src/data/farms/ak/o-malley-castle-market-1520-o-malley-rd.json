@@ -1,0 +1,19 @@
+{
+  "slug": "o-malley-castle-market-1520-o-malley-rd",
+  "name": "O'Malley Castle Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1520 O'Malley Rd, AK",
+  "locationCity": "1520 O'Malley Rd",
+  "locationState": "AK",
+  "locationZipcode": "99507",
+  "lat": 61.12297899732603,
+  "lon": -149.85460555432857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

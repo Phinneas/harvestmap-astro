@@ -1,0 +1,20 @@
+{
+  "slug": "scandia-patch-669-northwest-scandia-road",
+  "name": "Scandia Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "669 Northwest Scandia Road, WA",
+  "locationCity": "669 Northwest Scandia Road",
+  "locationState": "WA",
+  "locationZipcode": "98370",
+  "lat": 47.7152590070457,
+  "lon": -122.656693022073,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.207Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.207Z",
+  "crops": []
+}

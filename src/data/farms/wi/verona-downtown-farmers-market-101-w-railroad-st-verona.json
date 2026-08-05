@@ -1,0 +1,19 @@
+{
+  "slug": "verona-downtown-farmers-market-101-w-railroad-st-verona",
+  "name": "Verona Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 W. Railroad St. Verona, WI",
+  "locationCity": "101 W. Railroad St. Verona",
+  "locationState": "WI",
+  "locationZipcode": "53593",
+  "lat": 42.98788338787159,
+  "lon": -89.53357799834048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.859Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "scotts-orchard-163-scott-road",
+  "name": "Scotts Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "163 Scott Road, AL",
+  "locationCity": "163 Scott Road",
+  "locationState": "AL",
+  "locationZipcode": "35750",
+  "lat": 34.9203792222252,
+  "lon": -86.678124034553,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.619Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.619Z"
+}

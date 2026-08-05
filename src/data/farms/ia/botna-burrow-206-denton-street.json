@@ -1,0 +1,19 @@
+{
+  "slug": "botna-burrow-206-denton-street",
+  "name": "Botna Burrow",
+  "source": "usda",
+  "directory": "csa",
+  "location": "206 Denton Street, IA",
+  "locationCity": "206 Denton Street",
+  "locationState": "IA",
+  "locationZipcode": "51536",
+  "lat": 41.3922506,
+  "lon": -95.3611005,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.412Z"
+}

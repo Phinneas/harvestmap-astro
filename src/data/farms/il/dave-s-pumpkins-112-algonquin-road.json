@@ -1,0 +1,19 @@
+{
+  "slug": "dave-s-pumpkins-112-algonquin-road",
+  "name": "Dave's Pumpkins",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "112 Algonquin Road, IL",
+  "locationCity": "112 Algonquin Road",
+  "locationState": "IL",
+  "locationZipcode": "60142",
+  "lat": 42.1755044688803,
+  "lon": -88.407111534261,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.900Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.900Z"
+}

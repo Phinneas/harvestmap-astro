@@ -1,0 +1,19 @@
+{
+  "slug": "oceanport-farmer-s-market-2-pemberton-ave-oceanport",
+  "name": "Oceanport Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 Pemberton Ave Oceanport, NJ",
+  "locationCity": "2 Pemberton Ave Oceanport",
+  "locationState": "NJ",
+  "locationZipcode": "07757",
+  "lat": 40.313918203644725,
+  "lon": -74.02899871932,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

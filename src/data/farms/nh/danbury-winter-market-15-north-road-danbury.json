@@ -1,0 +1,19 @@
+{
+  "slug": "danbury-winter-market-15-north-road-danbury",
+  "name": "Danbury Winter Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 North Road Danbury, NH",
+  "locationCity": "15 North Road Danbury",
+  "locationState": "NH",
+  "locationZipcode": "03230",
+  "lat": 43.528449331623854,
+  "lon": -71.86225494540375,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.153Z"
+}

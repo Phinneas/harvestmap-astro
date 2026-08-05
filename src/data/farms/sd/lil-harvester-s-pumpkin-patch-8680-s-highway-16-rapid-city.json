@@ -1,0 +1,20 @@
+{
+  "slug": "lil-harvester-s-pumpkin-patch-8680-s-highway-16-rapid-city",
+  "name": "Lil Harvester's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8680 S Highway 16 Rapid City, SD",
+  "locationCity": "8680 S Highway 16 Rapid City",
+  "locationState": "SD",
+  "locationZipcode": "57702",
+  "lat": 43.9909870196092,
+  "lon": -103.26398496668,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:06.910Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:06.910Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cave-spring-farmers-market-6770-cave-spring-road-southwest",
+  "name": "CAVE SPRING FARMERS MARKET",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6770 Cave Spring Road Southwest, GA",
+  "locationCity": "6770 Cave Spring Road Southwest",
+  "locationState": "GA",
+  "locationZipcode": "30124",
+  "lat": 34.1332366,
+  "lon": -85.30863339999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.701Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.701Z"
+}

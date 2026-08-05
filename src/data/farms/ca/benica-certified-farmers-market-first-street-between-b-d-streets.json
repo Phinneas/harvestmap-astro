@@ -1,0 +1,19 @@
+{
+  "slug": "benica-certified-farmers-market-first-street-between-b-d-streets",
+  "name": "Benica Certified Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "First Street between B & D Streets, CA",
+  "locationCity": "First Street between B & D Streets",
+  "locationState": "CA",
+  "locationZipcode": "94510",
+  "lat": 38.046215,
+  "lon": -122.16118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.338Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.338Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "red-tail-farm-brooklyn-turnpike",
+  "name": "Red Tail Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brooklyn Turnpike, CT",
+  "locationCity": "Brooklyn Turnpike",
+  "locationState": "CT",
+  "locationZipcode": "06280",
+  "lat": 41.7111740316284,
+  "lon": -72.1292103842532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.983Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.983Z"
+}

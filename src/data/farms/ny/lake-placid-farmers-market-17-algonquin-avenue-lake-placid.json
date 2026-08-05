@@ -1,0 +1,19 @@
+{
+  "slug": "lake-placid-farmers-market-17-algonquin-avenue-lake-placid",
+  "name": "Lake Placid Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17 Algonquin Avenue Lake Placid, NY",
+  "locationCity": "17 Algonquin Avenue Lake Placid",
+  "locationState": "NY",
+  "locationZipcode": "12946",
+  "lat": 44.29166437270937,
+  "lon": -73.9999559040452,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

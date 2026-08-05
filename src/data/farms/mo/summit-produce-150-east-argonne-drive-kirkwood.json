@@ -1,0 +1,20 @@
+{
+  "slug": "summit-produce-150-east-argonne-drive-kirkwood",
+  "name": "Summit Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "150 East Argonne Drive Kirkwood, MO",
+  "locationCity": "150 East Argonne Drive Kirkwood",
+  "locationState": "MO",
+  "locationZipcode": "63122",
+  "lat": 38.5808939852663,
+  "lon": -90.4046729628018,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.750Z",
+  "crops": []
+}

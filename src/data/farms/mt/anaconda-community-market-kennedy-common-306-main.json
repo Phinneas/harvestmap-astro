@@ -1,0 +1,19 @@
+{
+  "slug": "anaconda-community-market-kennedy-common-306-main",
+  "name": "Anaconda Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Kennedy Common (306 Main), MT",
+  "locationCity": "Kennedy Common (306 Main)",
+  "locationState": "MT",
+  "locationZipcode": "59711",
+  "lat": 46.099059,
+  "lon": -113.1391,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:21.837Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:21.837Z"
+}

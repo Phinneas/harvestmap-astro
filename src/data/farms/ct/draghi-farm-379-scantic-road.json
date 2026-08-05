@@ -1,0 +1,20 @@
+{
+  "slug": "draghi-farm-379-scantic-road",
+  "name": "Draghi Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "379 Scantic Road, CT",
+  "locationCity": "379 Scantic Road",
+  "locationState": "CT",
+  "locationZipcode": "06088",
+  "lat": 41.8677552239353,
+  "lon": -72.6037569682131,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.938Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.938Z",
+  "crops": []
+}

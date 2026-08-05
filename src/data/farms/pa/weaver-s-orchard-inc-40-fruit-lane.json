@@ -1,0 +1,20 @@
+{
+  "slug": "weaver-s-orchard-inc-40-fruit-lane",
+  "name": "Weaver's Orchard, Inc.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "40 Fruit Lane, PA",
+  "locationCity": "40 Fruit Lane",
+  "locationState": "PA",
+  "locationZipcode": "19543",
+  "lat": 40.2126010042674,
+  "lon": -75.8988100084936,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.139Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.139Z",
+  "crops": []
+}

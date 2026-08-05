@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-tupelo-farmers-market-415-south-spring-tupelo",
+  "name": "Downtown Tupelo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "415 South Spring Tupelo, MS",
+  "locationCity": "415 South Spring Tupelo",
+  "locationState": "MS",
+  "locationZipcode": "38804",
+  "lat": 34.254653785527054,
+  "lon": -88.70440843102094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

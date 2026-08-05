@@ -1,0 +1,19 @@
+{
+  "slug": "edwards-orchard-055-roslin-road",
+  "name": "Edwards Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "055 Roslin Road, TN",
+  "locationCity": "055 Roslin Road",
+  "locationState": "TN",
+  "locationZipcode": "38556",
+  "lat": 36.253490583966,
+  "lon": -84.9388001275457,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.184Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.184Z"
+}

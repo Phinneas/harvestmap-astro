@@ -1,0 +1,19 @@
+{
+  "slug": "open-air-farmer-s-market-800-e-broussard-rd-lafayette",
+  "name": "Open Air Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "800 E. Broussard Rd. Lafayette, LA",
+  "locationCity": "800 E. Broussard Rd. Lafayette",
+  "locationState": "LA",
+  "locationZipcode": "70508",
+  "lat": 30.14079817483577,
+  "lon": -92.07328024488547,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "nash-farms-240-lake-joy-road",
+  "name": "Nash Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "240 Lake Joy Road, GA",
+  "locationCity": "240 Lake Joy Road",
+  "locationState": "GA",
+  "locationZipcode": "31069",
+  "lat": 32.4917209905068,
+  "lon": -83.6982859967734,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.347Z"
+}

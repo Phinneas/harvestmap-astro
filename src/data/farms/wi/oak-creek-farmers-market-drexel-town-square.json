@@ -1,0 +1,19 @@
+{
+  "slug": "oak-creek-farmers-market-drexel-town-square",
+  "name": "Oak Creek Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Drexel Town Square, WI",
+  "locationCity": "Drexel Town Square",
+  "locationState": "WI",
+  "locationZipcode": "53154",
+  "lat": 42.899242,
+  "lon": -87.917781,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.717Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.717Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "countryside-grocery-farmers-market-3355-taylor-road-clifton-springs",
+  "name": "Countryside Grocery & Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3355 Taylor Road Clifton Springs, NY",
+  "locationCity": "3355 Taylor Road Clifton Springs",
+  "locationState": "NY",
+  "locationZipcode": "14432",
+  "lat": 42.9388832628584,
+  "lon": -77.18075588506379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

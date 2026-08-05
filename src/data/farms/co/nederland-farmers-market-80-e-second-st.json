@@ -1,0 +1,19 @@
+{
+  "slug": "nederland-farmers-market-80-e-second-st",
+  "name": "Nederland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "80 E. Second St., CO",
+  "locationCity": "80 E. Second St.",
+  "locationState": "CO",
+  "locationZipcode": "80466",
+  "lat": 39.962418,
+  "lon": -105.50892,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.352Z"
+}

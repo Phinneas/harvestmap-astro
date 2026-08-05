@@ -1,0 +1,19 @@
+{
+  "slug": "hagen-vegetables-7223-marsh-road",
+  "name": "Hagen Vegetables",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7223 Marsh Road, WA",
+  "locationCity": "7223 Marsh Road",
+  "locationState": "WA",
+  "locationZipcode": "98296",
+  "lat": 47.8994929873848,
+  "lon": -122.133599986384,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.385Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.385Z"
+}

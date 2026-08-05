@@ -1,0 +1,20 @@
+{
+  "slug": "blue-jay-orchards-125-plumtrees-road",
+  "name": "Blue Jay Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "125 Plumtrees Road, CT",
+  "locationCity": "125 Plumtrees Road",
+  "locationState": "CT",
+  "locationZipcode": "06801",
+  "lat": 41.3955330063568,
+  "lon": -73.3792659888879,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.002Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.002Z",
+  "crops": []
+}

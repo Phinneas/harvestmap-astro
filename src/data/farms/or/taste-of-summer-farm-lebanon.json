@@ -1,0 +1,19 @@
+{
+  "slug": "taste-of-summer-farm-lebanon",
+  "name": "Taste of Summer Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Lebanon, OR",
+  "locationCity": "Lebanon",
+  "locationState": "OR",
+  "locationZipcode": "97322",
+  "lat": 44.5365119,
+  "lon": -122.9070339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.955Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.955Z"
+}

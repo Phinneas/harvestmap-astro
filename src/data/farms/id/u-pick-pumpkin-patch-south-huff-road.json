@@ -1,0 +1,19 @@
+{
+  "slug": "u-pick-pumpkin-patch-south-huff-road",
+  "name": "U-Pick Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "South Huff Road, ID",
+  "locationCity": "South Huff Road",
+  "locationState": "ID",
+  "locationZipcode": "83406",
+  "lat": 43.39184776915,
+  "lon": -111.975553071524,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.691Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.691Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cottle-farms-inc-airport-road",
+  "name": "Cottle Farms, Inc",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Airport Road, NC",
+  "locationCity": "Airport Road",
+  "locationState": "NC",
+  "locationZipcode": "28502",
+  "lat": 35.29163008248415,
+  "lon": -77.5820885851938,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.905Z"
+}

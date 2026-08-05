@@ -1,0 +1,19 @@
+{
+  "slug": "agles-fruit-596-northwood-hwy",
+  "name": "Agles Fruit",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "596 Northwood Hwy, MI",
+  "locationCity": "596 Northwood Hwy",
+  "locationState": "MI",
+  "locationZipcode": "49614",
+  "lat": 44.4260331776271,
+  "lon": -86.22257880184,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.713Z"
+}

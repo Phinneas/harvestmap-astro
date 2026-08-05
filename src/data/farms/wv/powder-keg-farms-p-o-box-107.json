@@ -1,0 +1,20 @@
+{
+  "slug": "powder-keg-farms-p-o-box-107",
+  "name": "Powder Keg Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "P.O. Box 107, WV",
+  "locationCity": "P.O. Box 107",
+  "locationState": "WV",
+  "locationZipcode": "26808",
+  "lat": 39.210278,
+  "lon": -78.4410536,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.993Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.993Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "heart-of-texas-farms-901-rosenthal-parkway",
+  "name": "Heart of Texas Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "901 Rosenthal Parkway, TX",
+  "locationCity": "901 Rosenthal Parkway",
+  "locationState": "TX",
+  "locationZipcode": "76655",
+  "lat": 31.377357290462,
+  "lon": -97.2032769035586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.577Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.577Z"
+}

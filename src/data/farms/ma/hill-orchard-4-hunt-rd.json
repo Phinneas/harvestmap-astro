@@ -1,0 +1,20 @@
+{
+  "slug": "hill-orchard-4-hunt-rd",
+  "name": "Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4 Hunt Rd, MA",
+  "locationCity": "4 Hunt Rd",
+  "locationState": "MA",
+  "locationZipcode": "01886",
+  "lat": 42.6005106291736,
+  "lon": -71.4083293505983,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.610Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.610Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "firefly-farm-csa-115-gillum-hollow-road",
+  "name": "Firefly Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "115 Gillum Hollow Road, TN",
+  "locationCity": "115 Gillum Hollow Road",
+  "locationState": "TN",
+  "locationZipcode": "37079",
+  "lat": 36.5104279,
+  "lon": -87.6751608,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.802Z"
+}

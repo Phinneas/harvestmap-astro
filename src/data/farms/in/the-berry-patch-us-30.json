@@ -1,0 +1,19 @@
+{
+  "slug": "the-berry-patch-us-30",
+  "name": "The Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US 30, IN",
+  "locationCity": "US 30",
+  "locationState": "IN",
+  "locationZipcode": "46582",
+  "lat": 41.26885196932123,
+  "lon": -85.94784562713616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.455Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.455Z"
+}

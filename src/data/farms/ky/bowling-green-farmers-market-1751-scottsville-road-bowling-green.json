@@ -1,0 +1,19 @@
+{
+  "slug": "bowling-green-farmers-market-1751-scottsville-road-bowling-green",
+  "name": "Bowling Green Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1751 Scottsville Road Bowling Green, KY",
+  "locationCity": "1751 Scottsville Road Bowling Green",
+  "locationState": "KY",
+  "locationZipcode": "42101",
+  "lat": 36.96791650375528,
+  "lon": -86.4330787632692,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blacksmith-acres-18n681-il-route-31",
+  "name": "Blacksmith Acres",
+  "source": "usda",
+  "directory": "csa",
+  "location": "18N681 IL Route 31, IL",
+  "locationCity": "18N681 IL Route 31",
+  "locationState": "IL",
+  "locationZipcode": "60118",
+  "lat": 42.13385998836432,
+  "lon": -88.29720425805878,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.486Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "davis-farms-860-se-kitzmiller-rd",
+  "name": "Davis Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "860 Se Kitzmiller Rd, OR",
+  "locationCity": "860 Se Kitzmiller Rd",
+  "locationState": "OR",
+  "locationZipcode": "97022",
+  "lat": 45.3245518958735,
+  "lon": -122.259648687525,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.043Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.043Z"
+}

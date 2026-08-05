@@ -1,0 +1,20 @@
+{
+  "slug": "naylor-farm-155-clear-spring-road",
+  "name": "Naylor Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "155 Clear Spring Road, PA",
+  "locationCity": "155 Clear Spring Road",
+  "locationState": "PA",
+  "locationZipcode": "17307",
+  "lat": 39.93472592107299,
+  "lon": -77.27151791991665,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.222Z",
+  "crops": []
+}

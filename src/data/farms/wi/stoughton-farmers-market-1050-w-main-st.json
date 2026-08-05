@@ -1,0 +1,19 @@
+{
+  "slug": "stoughton-farmers-market-1050-w-main-st",
+  "name": "Stoughton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1050 W. Main St., WI",
+  "locationCity": "1050 W. Main St.",
+  "locationState": "WI",
+  "locationZipcode": "53589",
+  "lat": 42.91676052850209,
+  "lon": -89.23342517418394,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

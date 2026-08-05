@@ -1,0 +1,19 @@
+{
+  "slug": "oak-park-farmers-market-460-lake-st-oak-park",
+  "name": "Oak Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "460 Lake St. Oak Park, IL",
+  "locationCity": "460 Lake St. Oak Park",
+  "locationState": "IL",
+  "locationZipcode": "60302",
+  "lat": 41.88838247363193,
+  "lon": -87.78645280303263,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

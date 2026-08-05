@@ -1,0 +1,19 @@
+{
+  "slug": "crescent-city-farmers-market-i-700-magazine-new-orleans",
+  "name": "Crescent City Farmers' Market I",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 Magazine New Orleans, LA",
+  "locationCity": "700 Magazine New Orleans",
+  "locationState": "LA",
+  "locationZipcode": "70130",
+  "lat": 29.94671193578336,
+  "lon": -90.06878474289756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

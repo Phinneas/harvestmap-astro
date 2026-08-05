@@ -1,0 +1,19 @@
+{
+  "slug": "hoffer-produce-802-n-carlin",
+  "name": "Hoffer Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "802 N Carlin, KS",
+  "locationCity": "802 N Carlin",
+  "locationState": "KS",
+  "locationZipcode": "67420",
+  "lat": 39.4667220113178,
+  "lon": -98.0971660269877,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.120Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.120Z"
+}

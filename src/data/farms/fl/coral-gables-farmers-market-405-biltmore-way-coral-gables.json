@@ -1,0 +1,19 @@
+{
+  "slug": "coral-gables-farmers-market-405-biltmore-way-coral-gables",
+  "name": "Coral Gables Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "405 Biltmore Way Coral Gables, FL",
+  "locationCity": "405 Biltmore Way Coral Gables",
+  "locationState": "FL",
+  "locationZipcode": "33134",
+  "lat": 25.748346614139063,
+  "lon": -80.26400482766374,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

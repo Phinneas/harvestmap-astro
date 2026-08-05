@@ -1,0 +1,19 @@
+{
+  "slug": "high-silo-farm-220-south-road",
+  "name": "High Silo Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "220 South Road, CT",
+  "locationCity": "220 South Road",
+  "locationState": "CT",
+  "locationZipcode": "06057",
+  "lat": 41.81496469854142,
+  "lon": -73.00735306600451,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.437Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.437Z"
+}

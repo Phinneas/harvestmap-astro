@@ -1,0 +1,19 @@
+{
+  "slug": "central-avenue-farmers-market-339-central-ave-albany",
+  "name": "Central Avenue Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "339 Central Ave Albany, NY",
+  "locationCity": "339 Central Ave Albany",
+  "locationState": "NY",
+  "locationZipcode": "12206",
+  "lat": 42.66564826851004,
+  "lon": -73.7734704372244,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

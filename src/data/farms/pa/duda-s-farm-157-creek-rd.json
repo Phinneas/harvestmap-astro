@@ -1,0 +1,20 @@
+{
+  "slug": "duda-s-farm-157-creek-rd",
+  "name": "Duda's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "157 Creek Rd, PA",
+  "locationCity": "157 Creek Rd",
+  "locationState": "PA",
+  "locationZipcode": "15417",
+  "lat": 39.9767699977275,
+  "lon": -79.8843970056085,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.083Z",
+  "crops": []
+}

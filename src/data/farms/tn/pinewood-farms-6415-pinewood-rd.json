@@ -1,0 +1,19 @@
+{
+  "slug": "pinewood-farms-6415-pinewood-rd",
+  "name": "Pinewood Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6415 Pinewood Rd, TN",
+  "locationCity": "6415 Pinewood Rd",
+  "locationState": "TN",
+  "locationZipcode": "37137",
+  "lat": 35.9193167,
+  "lon": -87.4574906,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.788Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.788Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "liepold-farms-14480-se-richey-rd",
+  "name": "Liepold Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "14480 SE Richey Rd, OR",
+  "locationCity": "14480 SE Richey Rd",
+  "locationState": "OR",
+  "locationZipcode": "14480",
+  "lat": 45.4183630204845,
+  "lon": -122.377632978548,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.913Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.913Z",
+  "crops": []
+}

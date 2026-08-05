@@ -1,0 +1,20 @@
+{
+  "slug": "morgans-farm-market-3821-cory-corners-road-marion",
+  "name": "Morgans Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3821 Cory Corners Road Marion, NY",
+  "locationCity": "3821 Cory Corners Road Marion",
+  "locationState": "NY",
+  "locationZipcode": "14505",
+  "lat": 43.14254550688681,
+  "lon": -77.22150746304993,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z",
+  "crops": []
+}

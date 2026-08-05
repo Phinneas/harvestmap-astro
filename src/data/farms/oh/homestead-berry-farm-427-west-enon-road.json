@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-berry-farm-427-west-enon-road",
+  "name": "Homestead Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "427 West Enon Road, OH",
+  "locationCity": "427 West Enon Road",
+  "locationState": "OH",
+  "locationZipcode": "45324",
+  "lat": 39.8332828472102,
+  "lon": -83.9557467758385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.804Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.804Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stuart-farmers-market-320-chestnut-street-stuart",
+  "name": "Stuart Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 Chestnut Street Stuart, VA",
+  "locationCity": "320 Chestnut Street Stuart",
+  "locationState": "VA",
+  "locationZipcode": "24171",
+  "lat": 36.638587208967245,
+  "lon": -80.26863186060224,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "princeton-zimmerman-farmers-market-winter-101-s-rum-river-dr",
+  "name": "Princeton - Zimmerman Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 S Rum River Dr, MN",
+  "locationCity": "101 S Rum River Dr",
+  "locationState": "MN",
+  "locationZipcode": "55371",
+  "lat": 45.5699049,
+  "lon": -93.5803125,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

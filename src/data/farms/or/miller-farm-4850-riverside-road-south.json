@@ -1,0 +1,20 @@
+{
+  "slug": "miller-farm-4850-riverside-road-south",
+  "name": "Miller Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4850 Riverside Road South, OR",
+  "locationCity": "4850 Riverside Road South",
+  "locationState": "OR",
+  "locationZipcode": "97392",
+  "lat": 44.8332914409645,
+  "lon": -123.13009144449,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.956Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.956Z",
+  "crops": []
+}

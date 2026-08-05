@@ -1,0 +1,19 @@
+{
+  "slug": "ou-tulsa-farmers-market-4502-e-41st-st-tulsa",
+  "name": "OU-Tulsa Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4502 E 41st ST Tulsa, OK",
+  "locationCity": "4502 E 41st ST Tulsa",
+  "locationState": "OK",
+  "locationZipcode": "74135",
+  "lat": 36.10432764863885,
+  "lon": -95.92677205530987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:29.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:29.366Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blosser-urban-garden-915-south-blosser",
+  "name": "Blosser Urban Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "915 South Blosser, CA",
+  "locationCity": "915 South Blosser",
+  "locationState": "CA",
+  "locationZipcode": "93458",
+  "lat": 34.942924252219,
+  "lon": -120.454371348235,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.072Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.072Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "clear-meadow-park-jarrettsville-pike",
+  "name": "Clear Meadow Park",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Jarrettsville Pike, MD",
+  "locationCity": "Jarrettsville Pike",
+  "locationState": "MD",
+  "locationZipcode": "21111",
+  "lat": 39.5560018058983,
+  "lon": -76.5252807844441,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.237Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dietz-mushroom-farm-sequim",
+  "name": "Dietz Mushroom Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sequim, WA",
+  "locationCity": "Sequim",
+  "locationState": "WA",
+  "locationZipcode": "98382",
+  "lat": 48.0814263,
+  "lon": -123.1090695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.403Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.403Z"
+}

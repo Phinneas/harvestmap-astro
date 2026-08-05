@@ -1,0 +1,19 @@
+{
+  "slug": "bronson-winter-farmers-market-601-john-street-kalamazoo",
+  "name": "Bronson Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "601 John Street Kalamazoo, MI",
+  "locationCity": "601 John Street Kalamazoo",
+  "locationState": "MI",
+  "locationZipcode": "49007",
+  "lat": 42.28613330484472,
+  "lon": -85.58133178416358,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

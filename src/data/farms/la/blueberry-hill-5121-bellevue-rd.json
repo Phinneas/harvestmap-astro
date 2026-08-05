@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-5121-bellevue-rd",
+  "name": "Blueberry Hill",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5121 Bellevue Rd, LA",
+  "locationCity": "5121 Bellevue Rd",
+  "locationState": "LA",
+  "locationZipcode": "71037",
+  "lat": 32.6453590125988,
+  "lon": -93.53351001326624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

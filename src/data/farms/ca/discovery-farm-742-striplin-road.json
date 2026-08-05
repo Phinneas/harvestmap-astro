@@ -1,0 +1,19 @@
+{
+  "slug": "discovery-farm-742-striplin-road",
+  "name": "Discovery Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "742 Striplin Road, CA",
+  "locationCity": "742 Striplin Road",
+  "locationState": "CA",
+  "locationZipcode": "95659",
+  "lat": 38.8669509901046,
+  "lon": -121.5870640248,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.785Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.785Z"
+}

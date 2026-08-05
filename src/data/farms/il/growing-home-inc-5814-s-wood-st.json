@@ -1,0 +1,20 @@
+{
+  "slug": "growing-home-inc-5814-s-wood-st",
+  "name": "Growing Home Inc",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5814 S Wood St, IL",
+  "locationCity": "5814 S Wood St",
+  "locationState": "IL",
+  "locationZipcode": "60636",
+  "lat": 41.7879075,
+  "lon": -87.670076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.478Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.478Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "howard-county-farmers-market-110-south-washington-nashville",
+  "name": "Howard County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 South Washington Nashville, AR",
+  "locationCity": "110 South Washington Nashville",
+  "locationState": "AR",
+  "locationZipcode": "71852",
+  "lat": 33.94345402222856,
+  "lon": -93.8439820025918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "winn-farmers-market-301-west-main-street-office-119-west-main-suite-4-winnfield",
+  "name": "Winn Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 West Main Street Office: 119 West Main Suite 4 Winnfield, LA",
+  "locationCity": "301 West Main Street Office: 119 West Main Suite 4 Winnfield",
+  "locationState": "LA",
+  "locationZipcode": "71483",
+  "lat": 31.926707958799547,
+  "lon": -92.64073120911637,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.709Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kgb-corner-market-2150-s-endeavor-st",
+  "name": "KGB Corner Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2150 S. Endeavor St., AK",
+  "locationCity": "2150 S. Endeavor St.",
+  "locationState": "AK",
+  "locationZipcode": "99654",
+  "lat": 61.561835182738015,
+  "lon": -149.48085447759024,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

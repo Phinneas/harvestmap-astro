@@ -1,0 +1,19 @@
+{
+  "slug": "haley-s-pumpkin-patch-265-haley-road",
+  "name": "Haley's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "265 Haley Road, TN",
+  "locationCity": "265 Haley Road",
+  "locationState": "TN",
+  "locationZipcode": "37184",
+  "lat": 36.1155020054968,
+  "lon": -86.0872269729558,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.299Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.299Z"
+}

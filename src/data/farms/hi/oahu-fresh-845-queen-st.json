@@ -1,0 +1,19 @@
+{
+  "slug": "oahu-fresh-845-queen-st",
+  "name": "Oahu Fresh",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "845 Queen St., HI",
+  "locationCity": "845 Queen St.",
+  "locationState": "HI",
+  "locationZipcode": "96813",
+  "lat": 21.2988892,
+  "lon": -157.85579,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:17.651Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:17.651Z"
+}

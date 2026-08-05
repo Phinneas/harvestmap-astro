@@ -1,0 +1,19 @@
+{
+  "slug": "noco-virtual-farmers-market-3307-south-college-avenue",
+  "name": "Noco Virtual Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3307 South College Avenue, CO",
+  "locationCity": "3307 South College Avenue",
+  "locationState": "CO",
+  "locationZipcode": "80524",
+  "lat": 40.58782498845264,
+  "lon": -105.07757903313151,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

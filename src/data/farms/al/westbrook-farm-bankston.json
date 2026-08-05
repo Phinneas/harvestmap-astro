@@ -1,0 +1,19 @@
+{
+  "slug": "westbrook-farm-bankston",
+  "name": "Westbrook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bankston, AL",
+  "locationCity": "Bankston",
+  "locationState": "AL",
+  "locationZipcode": "35542",
+  "lat": 33.708781,
+  "lon": -87.691997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.680Z"
+}

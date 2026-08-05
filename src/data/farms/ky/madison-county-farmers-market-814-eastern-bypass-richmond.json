@@ -1,0 +1,19 @@
+{
+  "slug": "madison-county-farmers-market-814-eastern-bypass-richmond",
+  "name": "Madison County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "814 Eastern Bypass Richmond, KY",
+  "locationCity": "814 Eastern Bypass Richmond",
+  "locationState": "KY",
+  "locationZipcode": "40475",
+  "lat": 37.73111891744428,
+  "lon": -84.28452499343098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

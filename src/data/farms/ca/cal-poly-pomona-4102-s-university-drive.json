@@ -1,0 +1,20 @@
+{
+  "slug": "cal-poly-pomona-4102-s-university-drive",
+  "name": "Cal Poly Pomona",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4102 S. University Drive, CA",
+  "locationCity": "4102 S. University Drive",
+  "locationState": "CA",
+  "locationZipcode": "91768",
+  "lat": 34.05360504795454,
+  "lon": -117.8221628044931,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.845Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.845Z",
+  "crops": []
+}

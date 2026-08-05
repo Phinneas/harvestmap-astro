@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-approach-5060-commercial-cir",
+  "name": "Fresh Approach",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5060 Commercial Cir, CA",
+  "locationCity": "5060 Commercial Cir",
+  "locationState": "CA",
+  "locationZipcode": "94520",
+  "lat": 38.017805986114695,
+  "lon": -122.03141796497229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

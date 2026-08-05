@@ -1,0 +1,19 @@
+{
+  "slug": "piedmont-farmers-market-concord-518-winecoff-school-road-concord",
+  "name": "Piedmont Farmers Market/Concord",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "518 Winecoff School Road Concord, NC",
+  "locationCity": "518 Winecoff School Road Concord",
+  "locationState": "NC",
+  "locationZipcode": "28027",
+  "lat": 35.445420110290385,
+  "lon": -80.62299005997437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

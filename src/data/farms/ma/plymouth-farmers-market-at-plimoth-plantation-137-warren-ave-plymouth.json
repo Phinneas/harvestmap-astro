@@ -1,0 +1,19 @@
+{
+  "slug": "plymouth-farmers-market-at-plimoth-plantation-137-warren-ave-plymouth",
+  "name": "Plymouth Farmers' Market at Plimoth Plantation",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "137 Warren Ave Plymouth, MA",
+  "locationCity": "137 Warren Ave Plymouth",
+  "locationState": "MA",
+  "locationZipcode": "02360",
+  "lat": 41.9425886996809,
+  "lon": -70.62425182388291,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.866Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.866Z"
+}

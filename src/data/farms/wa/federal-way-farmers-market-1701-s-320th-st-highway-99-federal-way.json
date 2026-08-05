@@ -1,0 +1,19 @@
+{
+  "slug": "federal-way-farmers-market-1701-s-320th-st-highway-99-federal-way",
+  "name": "Federal Way Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1701 S. 320th St / Highway 99 Federal Way, WA",
+  "locationCity": "1701 S. 320th St / Highway 99 Federal Way",
+  "locationState": "WA",
+  "locationZipcode": "98003",
+  "lat": 47.315140064185634,
+  "lon": -122.31200187559352,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.816Z"
+}

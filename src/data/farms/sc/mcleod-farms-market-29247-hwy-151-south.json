@@ -1,0 +1,19 @@
+{
+  "slug": "mcleod-farms-market-29247-hwy-151-south",
+  "name": "McLeod Farms Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "29247 Hwy 151 South, SC",
+  "locationCity": "29247 Hwy 151 South",
+  "locationState": "SC",
+  "locationZipcode": "29247",
+  "lat": 34.436374,
+  "lon": -80.192793,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.120Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.120Z"
+}

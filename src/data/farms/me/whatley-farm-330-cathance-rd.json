@@ -1,0 +1,19 @@
+{
+  "slug": "whatley-farm-330-cathance-rd",
+  "name": "Whatley Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "330 Cathance RD, ME",
+  "locationCity": "330 Cathance RD",
+  "locationState": "ME",
+  "locationZipcode": "",
+  "lat": 43.96914,
+  "lon": -69.939338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.553Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.553Z"
+}

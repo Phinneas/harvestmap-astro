@@ -1,0 +1,19 @@
+{
+  "slug": "stoneyridge-orchard-160-bixby-road",
+  "name": "Stoneyridge Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "160 Bixby Road, NY",
+  "locationCity": "160 Bixby Road",
+  "locationState": "NY",
+  "locationZipcode": "14838",
+  "lat": 42.1578840316077,
+  "lon": -76.6698746926477,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.073Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.073Z"
+}

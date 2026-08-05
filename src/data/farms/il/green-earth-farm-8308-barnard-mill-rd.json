@@ -1,0 +1,19 @@
+{
+  "slug": "green-earth-farm-8308-barnard-mill-rd",
+  "name": "Green Earth Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8308 Barnard Mill Rd., IL",
+  "locationCity": "8308 Barnard Mill Rd.",
+  "locationState": "IL",
+  "locationZipcode": "60071",
+  "lat": 42.429647,
+  "lon": -88.359075,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.477Z"
+}

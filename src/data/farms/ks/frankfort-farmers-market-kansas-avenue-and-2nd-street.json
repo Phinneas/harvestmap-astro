@@ -1,0 +1,19 @@
+{
+  "slug": "frankfort-farmers-market-kansas-avenue-and-2nd-street",
+  "name": "Frankfort Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Kansas Avenue and 2nd Street, KS",
+  "locationCity": "Kansas Avenue and 2nd Street",
+  "locationState": "KS",
+  "locationZipcode": "66427",
+  "lat": 39.70225001205796,
+  "lon": -96.41876996328065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

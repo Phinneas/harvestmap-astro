@@ -1,0 +1,19 @@
+{
+  "slug": "feed-sonoma-5400-old-redwood-hwy",
+  "name": "FEED Sonoma",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5400 Old Redwood Hwy, CA",
+  "locationCity": "5400 Old Redwood Hwy",
+  "locationState": "CA",
+  "locationZipcode": "94954",
+  "lat": 38.27938900714713,
+  "lon": -122.66726000358689,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

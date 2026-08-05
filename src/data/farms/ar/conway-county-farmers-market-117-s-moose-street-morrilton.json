@@ -1,0 +1,19 @@
+{
+  "slug": "conway-county-farmers-market-117-s-moose-street-morrilton",
+  "name": "Conway County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "117 S. Moose Street Morrilton, AR",
+  "locationCity": "117 S. Moose Street Morrilton",
+  "locationState": "AR",
+  "locationZipcode": "72110",
+  "lat": 35.15190373078819,
+  "lon": -92.74389118056459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

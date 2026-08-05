@@ -1,0 +1,19 @@
+{
+  "slug": "abv-farm-market-690-allegheny-road-mount-bethel",
+  "name": "ABV Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "690 Allegheny Road Mount Bethel, PA",
+  "locationCity": "690 Allegheny Road Mount Bethel",
+  "locationState": "PA",
+  "locationZipcode": "18343",
+  "lat": 40.87483118187429,
+  "lon": -75.10046327261942,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

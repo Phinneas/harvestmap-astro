@@ -1,0 +1,19 @@
+{
+  "slug": "hwy-9-10-produce-market-124-west-choctaw",
+  "name": "Hwy 9 10 Produce Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "124 West Choctaw, AR",
+  "locationCity": "124 West Choctaw",
+  "locationState": "AR",
+  "locationZipcode": "72125",
+  "lat": 35.04851390354458,
+  "lon": -92.79351499295667,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:30.948Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:30.948Z"
+}

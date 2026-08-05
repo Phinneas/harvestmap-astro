@@ -1,0 +1,19 @@
+{
+  "slug": "fergus-falls-farmers-market-121-s-union-ave",
+  "name": "Fergus Falls Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 S Union Ave, MN",
+  "locationCity": "121 S Union Ave",
+  "locationState": "MN",
+  "locationZipcode": "56537",
+  "lat": 46.2832793,
+  "lon": -96.0778111,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkin-patch-15-n-272-old-sutton-road",
+  "name": "Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15 N 272 Old Sutton Road, IL",
+  "locationCity": "15 N 272 Old Sutton Road",
+  "locationState": "IL",
+  "locationZipcode": "60010",
+  "lat": 42.0854270048837,
+  "lon": -88.1954030265079,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.932Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.932Z"
+}

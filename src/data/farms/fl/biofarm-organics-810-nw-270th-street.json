@@ -1,0 +1,19 @@
+{
+  "slug": "biofarm-organics-810-nw-270th-street",
+  "name": "Biofarm Organics",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "810 Nw 270th Street, FL",
+  "locationCity": "810 Nw 270th Street",
+  "locationState": "FL",
+  "locationZipcode": "34972",
+  "lat": 27.4927392178067,
+  "lon": -81.0233951544221,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.770Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.770Z"
+}

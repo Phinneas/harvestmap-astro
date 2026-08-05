@@ -1,0 +1,19 @@
+{
+  "slug": "lester-farm-2297-ethan-allen-highway-route-7",
+  "name": "Lester Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2297 Ethan Allen Highway (route 7), VT",
+  "locationCity": "2297 Ethan Allen Highway (route 7)",
+  "locationState": "VT",
+  "locationZipcode": "05472",
+  "lat": 44.079759001769,
+  "lon": -73.1765520075227,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.028Z"
+}

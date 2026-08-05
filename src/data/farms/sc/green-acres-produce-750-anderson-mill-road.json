@@ -1,0 +1,19 @@
+{
+  "slug": "green-acres-produce-750-anderson-mill-road",
+  "name": "Green Acres Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "750 Anderson Mill Road, SC",
+  "locationCity": "750 Anderson Mill Road",
+  "locationState": "SC",
+  "locationZipcode": "29369",
+  "lat": 34.8838704196299,
+  "lon": -82.0133488461948,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.746Z"
+}

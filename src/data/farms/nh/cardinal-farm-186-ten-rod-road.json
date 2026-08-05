@@ -1,0 +1,19 @@
+{
+  "slug": "cardinal-farm-186-ten-rod-road",
+  "name": "Cardinal Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "186 Ten Rod Road, NH",
+  "locationCity": "186 Ten Rod Road",
+  "locationState": "NH",
+  "locationZipcode": "03835",
+  "lat": 43.3416043907884,
+  "lon": -71.0458950107248,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.526Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.526Z"
+}

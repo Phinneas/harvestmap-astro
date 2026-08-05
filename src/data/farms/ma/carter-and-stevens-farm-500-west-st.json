@@ -1,0 +1,19 @@
+{
+  "slug": "carter-and-stevens-farm-500-west-st",
+  "name": "Carter and Stevens Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 West St, MA",
+  "locationCity": "500 West St",
+  "locationState": "MA",
+  "locationZipcode": "01005",
+  "lat": 42.4248930776608,
+  "lon": -72.1237729825656,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.618Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.618Z"
+}

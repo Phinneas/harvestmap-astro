@@ -1,0 +1,19 @@
+{
+  "slug": "agricultural-connections-20780-ne-high-desert-ln",
+  "name": "Agricultural Connections",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "20780 NE High Desert Ln, OR",
+  "locationCity": "20780 NE High Desert Ln",
+  "locationState": "OR",
+  "locationZipcode": "20780",
+  "lat": 44.0900930082845,
+  "lon": -121.28536898702633,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:04.362Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:04.362Z"
+}

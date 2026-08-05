@@ -1,0 +1,19 @@
+{
+  "slug": "eden-farmers-market-2912-legion-drive-eden",
+  "name": "Eden Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2912 Legion Drive Eden, NY",
+  "locationCity": "2912 Legion Drive Eden",
+  "locationState": "NY",
+  "locationZipcode": "14057",
+  "lat": 42.66215816566538,
+  "lon": -78.88969638865262,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

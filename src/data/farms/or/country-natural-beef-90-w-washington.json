@@ -1,0 +1,19 @@
+{
+  "slug": "country-natural-beef-90-w-washington",
+  "name": "Country Natural Beef",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "90 W. Washington, OR",
+  "locationCity": "90 W. Washington",
+  "locationState": "OR",
+  "locationZipcode": "97720",
+  "lat": 43.5892256,
+  "lon": -119.05529,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:04.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:04.347Z"
+}

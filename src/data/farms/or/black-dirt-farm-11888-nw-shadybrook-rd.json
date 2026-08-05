@@ -1,0 +1,19 @@
+{
+  "slug": "black-dirt-farm-11888-nw-shadybrook-rd",
+  "name": "Black Dirt Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "11888 NW Shadybrook rd, OR",
+  "locationCity": "11888 NW Shadybrook rd",
+  "locationState": "OR",
+  "locationZipcode": "11888",
+  "lat": 45.60679419692923,
+  "lon": -122.98565413941893,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.976Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.976Z"
+}

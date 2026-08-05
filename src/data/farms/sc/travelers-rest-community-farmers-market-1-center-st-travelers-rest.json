@@ -1,0 +1,19 @@
+{
+  "slug": "travelers-rest-community-farmers-market-1-center-st-travelers-rest",
+  "name": "Travelers Rest Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Center St. Travelers Rest, SC",
+  "locationCity": "1 Center St. Travelers Rest",
+  "locationState": "SC",
+  "locationZipcode": "29690",
+  "lat": 34.967800489289836,
+  "lon": -82.44331335970622,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

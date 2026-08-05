@@ -1,0 +1,19 @@
+{
+  "slug": "hood-river-winter-farmers-market-403-portway-ave",
+  "name": "Hood River Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "403 Portway Ave, OR",
+  "locationCity": "403 Portway Ave",
+  "locationState": "OR",
+  "locationZipcode": "97031",
+  "lat": 45.71483489240574,
+  "lon": -121.51851337312638,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.426Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.426Z"
+}

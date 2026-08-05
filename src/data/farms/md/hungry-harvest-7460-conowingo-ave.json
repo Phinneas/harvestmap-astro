@@ -1,0 +1,19 @@
+{
+  "slug": "hungry-harvest-7460-conowingo-ave",
+  "name": "Hungry Harvest",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "7460 CONOWINGO AVE, MD",
+  "locationCity": "7460 CONOWINGO AVE",
+  "locationState": "MD",
+  "locationZipcode": "20794",
+  "lat": 39.1653515,
+  "lon": -76.787563,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:12.405Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:12.405Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "heritage-orchard-lake-shore-drive",
+  "name": "Heritage Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lake Shore Drive, WI",
+  "locationCity": "Lake Shore Drive",
+  "locationState": "WI",
+  "locationZipcode": "53014",
+  "lat": 43.9948030067584,
+  "lon": -88.3159190361928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.237Z"
+}

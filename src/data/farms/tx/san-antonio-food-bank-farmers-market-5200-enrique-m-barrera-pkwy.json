@@ -1,0 +1,19 @@
+{
+  "slug": "san-antonio-food-bank-farmers-market-5200-enrique-m-barrera-pkwy",
+  "name": "San Antonio Food Bank Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5200 Enrique M. Barrera Pkwy, TX",
+  "locationCity": "5200 Enrique M. Barrera Pkwy",
+  "locationState": "TX",
+  "locationZipcode": "78227",
+  "lat": 29.418102,
+  "lon": -98.59179,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.049Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.049Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "capital-city-farmers-market-126-west-loockerman-street-loockerman-way-plaza",
+  "name": "Capital City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "126 West Loockerman Street (Loockerman Way Plaza), DE",
+  "locationCity": "126 West Loockerman Street (Loockerman Way Plaza)",
+  "locationState": "DE",
+  "locationZipcode": "19904",
+  "lat": 39.1576541,
+  "lon": -75.526229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:41.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:41.680Z"
+}

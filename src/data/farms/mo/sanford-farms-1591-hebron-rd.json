@@ -1,0 +1,19 @@
+{
+  "slug": "sanford-farms-1591-hebron-rd",
+  "name": "Sanford Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1591 Hebron Rd, MO",
+  "locationCity": "1591 Hebron Rd",
+  "locationState": "MO",
+  "locationZipcode": "64844",
+  "lat": 36.90647352154768,
+  "lon": -94.23316916644315,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:58.523Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:58.523Z"
+}

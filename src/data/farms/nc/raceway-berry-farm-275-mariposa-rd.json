@@ -1,0 +1,19 @@
+{
+  "slug": "raceway-berry-farm-275-mariposa-rd",
+  "name": "Raceway Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "275 Mariposa Rd, NC",
+  "locationCity": "275 Mariposa Rd",
+  "locationState": "NC",
+  "locationZipcode": "28164",
+  "lat": 35.3780880640178,
+  "lon": -81.0905949923211,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.742Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.742Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-corner-farmers-market-2200-walker-avenue",
+  "name": "The Corner Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2200 Walker Avenue, NC",
+  "locationCity": "2200 Walker Avenue",
+  "locationState": "NC",
+  "locationZipcode": "27403",
+  "lat": 36.069019,
+  "lon": -79.828293,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.268Z"
+}

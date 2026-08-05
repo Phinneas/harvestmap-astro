@@ -1,0 +1,19 @@
+{
+  "slug": "the-multi-farm-meat-csa-678-cochecton-tpke",
+  "name": "The Multi-Farm Meat CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "678 Cochecton Tpke, PA",
+  "locationCity": "678 Cochecton Tpke",
+  "locationState": "PA",
+  "locationZipcode": "18469",
+  "lat": 41.696445,
+  "lon": -75.166577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.558Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.558Z"
+}

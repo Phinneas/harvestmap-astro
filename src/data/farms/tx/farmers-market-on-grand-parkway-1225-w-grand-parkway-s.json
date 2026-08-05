@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-on-grand-parkway-1225-w-grand-parkway-s",
+  "name": "Farmers Market on Grand Parkway",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1225 W Grand Parkway S, TX",
+  "locationCity": "1225 W Grand Parkway S",
+  "locationState": "TX",
+  "locationZipcode": "77494",
+  "lat": 29.761952,
+  "lon": -95.775167,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.050Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.050Z"
+}

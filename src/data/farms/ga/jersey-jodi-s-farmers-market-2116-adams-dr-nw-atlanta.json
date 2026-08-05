@@ -1,0 +1,19 @@
+{
+  "slug": "jersey-jodi-s-farmers-market-2116-adams-dr-nw-atlanta",
+  "name": "Jersey Jodi's Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2116 Adams Dr. NW Atlanta, GA",
+  "locationCity": "2116 Adams Dr. NW Atlanta",
+  "locationState": "GA",
+  "locationZipcode": "30318",
+  "lat": 33.81311233616355,
+  "lon": -84.45478202806585,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

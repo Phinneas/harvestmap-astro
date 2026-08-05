@@ -1,0 +1,19 @@
+{
+  "slug": "triple-l-acres-4770-roundbottom-rd",
+  "name": "Triple L Acres",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4770 Roundbottom Rd, OH",
+  "locationCity": "4770 Roundbottom Rd",
+  "locationState": "OH",
+  "locationZipcode": "45208",
+  "lat": 39.1509394,
+  "lon": -84.3024491,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.435Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.435Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "harvest-barn-420-dutch-valley-drive-ne",
+  "name": "Harvest Barn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "420 Dutch Valley Drive NE, OH",
+  "locationCity": "420 Dutch Valley Drive NE",
+  "locationState": "OH",
+  "locationZipcode": "44681",
+  "lat": 40.506703001683,
+  "lon": -81.6125659838377,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.834Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.834Z",
+  "crops": []
+}

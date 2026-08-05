@@ -1,0 +1,19 @@
+{
+  "slug": "farmington-farmers-artisans-market-33113-grand-river-ave-farmington",
+  "name": "Farmington Farmers & Artisans Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "33113 Grand River Ave Farmington, MI",
+  "locationCity": "33113 Grand River Ave Farmington",
+  "locationState": "MI",
+  "locationZipcode": "33113",
+  "lat": 42.46368489062099,
+  "lon": -83.37358716595313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

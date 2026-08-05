@@ -1,0 +1,19 @@
+{
+  "slug": "cambridge-winter-farmers-market-5-callender-street-cambridge",
+  "name": "Cambridge Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5 Callender Street Cambridge, MA",
+  "locationCity": "5 Callender Street Cambridge",
+  "locationState": "MA",
+  "locationZipcode": "02139",
+  "lat": 42.365382144084705,
+  "lon": -71.11096025888477,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.864Z"
+}

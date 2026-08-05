@@ -1,0 +1,19 @@
+{
+  "slug": "running-strike-farms-5180-stucky-road",
+  "name": "Running Strike Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5180 Stucky Road, MT",
+  "locationCity": "5180 Stucky Road",
+  "locationState": "MT",
+  "locationZipcode": "59718",
+  "lat": 45.6560745,
+  "lon": -111.0801449,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:15.482Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:15.482Z"
+}

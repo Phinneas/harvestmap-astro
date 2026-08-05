@@ -1,0 +1,19 @@
+{
+  "slug": "satterfield-farms-140-edith-drive",
+  "name": "Satterfield Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "140 Edith Drive, SC",
+  "locationCity": "140 Edith Drive",
+  "locationState": "SC",
+  "locationZipcode": "29687",
+  "lat": 34.972519,
+  "lon": -82.316623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.138Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.138Z"
+}

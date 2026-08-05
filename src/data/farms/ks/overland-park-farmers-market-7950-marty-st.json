@@ -1,0 +1,19 @@
+{
+  "slug": "overland-park-farmers-market-7950-marty-st",
+  "name": "Overland Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7950 Marty St., KS",
+  "locationCity": "7950 Marty St.",
+  "locationState": "KS",
+  "locationZipcode": "66204",
+  "lat": 38.984933933541406,
+  "lon": -94.6700435729761,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

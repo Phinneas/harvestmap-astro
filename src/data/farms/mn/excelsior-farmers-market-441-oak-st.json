@@ -1,0 +1,19 @@
+{
+  "slug": "excelsior-farmers-market-441-oak-st",
+  "name": "Excelsior Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "441 Oak St, MN",
+  "locationCity": "441 Oak St",
+  "locationState": "MN",
+  "locationZipcode": "55331",
+  "lat": 44.8994407,
+  "lon": -93.5680628,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "puffenbarger-s-sugar-orchard-11-maple-sugar-road",
+  "name": "Puffenbarger’s Sugar Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11 Maple Sugar Road, VA",
+  "locationCity": "11 Maple Sugar Road",
+  "locationState": "VA",
+  "locationZipcode": "24413",
+  "lat": 38.461859015963,
+  "lon": -79.5843289790602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.264Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.264Z"
+}

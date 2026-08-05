@@ -1,0 +1,19 @@
+{
+  "slug": "slo-certified-farmers-market-3889-long-street-san-luis-obispo",
+  "name": "SLO Certified Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3889 Long Street San Luis Obispo, CA",
+  "locationCity": "3889 Long Street San Luis Obispo",
+  "locationState": "CA",
+  "locationZipcode": "93401",
+  "lat": 35.24722795013961,
+  "lon": -120.67107464521742,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.374Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "trinity-episcopal-farmers-market-5375-us-hwy-231",
+  "name": "Trinity Episcopal Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5375 US Hwy. 231, AL",
+  "locationCity": "5375 US Hwy. 231",
+  "locationState": "AL",
+  "locationZipcode": "36092",
+  "lat": 32.51837557302808,
+  "lon": -86.21117088681737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.020Z"
+}

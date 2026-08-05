@@ -1,0 +1,19 @@
+{
+  "slug": "ottawa-s-old-town-farmers-market-100-west-jackson-street-ottawa",
+  "name": "Ottawa's Old Town Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 West Jackson Street Ottawa, IL",
+  "locationCity": "100 West Jackson Street Ottawa",
+  "locationState": "IL",
+  "locationZipcode": "61350",
+  "lat": 41.34894252094059,
+  "lon": -88.8410928226121,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

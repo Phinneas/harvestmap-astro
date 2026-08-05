@@ -1,0 +1,19 @@
+{
+  "slug": "chevy-chase-farmers-market-5700-broad-branch-road-washington",
+  "name": "Chevy Chase Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5700 Broad Branch Road Washington, DC",
+  "locationCity": "5700 Broad Branch Road Washington",
+  "locationState": "DC",
+  "locationZipcode": "20015",
+  "lat": 38.965884789502,
+  "lon": -77.06844661103251,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:00.227Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:00.227Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "st-luke-s-farmers-market-1807-field-ave",
+  "name": "St. Luke's Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1807 Field Ave, MN",
+  "locationCity": "1807 Field Ave",
+  "locationState": "MN",
+  "locationZipcode": "55116",
+  "lat": 44.9028401,
+  "lon": -93.1765979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

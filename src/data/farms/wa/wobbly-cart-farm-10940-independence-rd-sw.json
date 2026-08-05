@@ -1,0 +1,19 @@
+{
+  "slug": "wobbly-cart-farm-10940-independence-rd-sw",
+  "name": "Wobbly Cart Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10940 Independence Rd SW, WA",
+  "locationCity": "10940 Independence Rd SW",
+  "locationState": "WA",
+  "locationZipcode": "10940",
+  "lat": 46.809148,
+  "lon": -123.113741,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.582Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.582Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mahopac-farmers-market-1085-route-6-mahopac",
+  "name": "Mahopac Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1085 Route 6 Mahopac, NY",
+  "locationCity": "1085 Route 6 Mahopac",
+  "locationState": "NY",
+  "locationZipcode": "10541",
+  "lat": 41.397620636031235,
+  "lon": -73.71642001276341,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

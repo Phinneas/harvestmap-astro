@@ -1,0 +1,20 @@
+{
+  "slug": "sherwood-farm-355-sport-hill-road",
+  "name": "Sherwood Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "355 Sport Hill Road, CT",
+  "locationCity": "355 Sport Hill Road",
+  "locationState": "CT",
+  "locationZipcode": "06612",
+  "lat": 41.2435779866034,
+  "lon": -73.27394896805,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.006Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.006Z",
+  "crops": []
+}

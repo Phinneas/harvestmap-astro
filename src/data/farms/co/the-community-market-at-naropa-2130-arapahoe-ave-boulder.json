@@ -1,0 +1,19 @@
+{
+  "slug": "the-community-market-at-naropa-2130-arapahoe-ave-boulder",
+  "name": "The Community Market at Naropa",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2130 Arapahoe Ave Boulder, CO",
+  "locationCity": "2130 Arapahoe Ave Boulder",
+  "locationState": "CO",
+  "locationZipcode": "80302",
+  "lat": 40.014482824615065,
+  "lon": -105.266888687603,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.367Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.367Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "palisades-winter-farmers-market-675-oak-tree-rd",
+  "name": "Palisades Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "675 Oak Tree Rd, NY",
+  "locationCity": "675 Oak Tree Rd",
+  "locationState": "NY",
+  "locationZipcode": "10964",
+  "lat": 41.0117588294075,
+  "lon": -73.91785000927064,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

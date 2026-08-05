@@ -1,0 +1,19 @@
+{
+  "slug": "wm-farmlink-1111-godfrey-ave-sw-s250",
+  "name": "WM FarmLink",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1111 Godfrey Ave SW S250, MI",
+  "locationCity": "1111 Godfrey Ave SW S250",
+  "locationState": "MI",
+  "locationZipcode": "49453",
+  "lat": 42.9427105,
+  "lon": -85.6853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.236Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.236Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "urbana-market-at-the-square-400-s-vine-street-urbana",
+  "name": "Urbana Market at the Square",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 S. Vine Street Urbana, IL",
+  "locationCity": "400 S. Vine Street Urbana",
+  "locationState": "IL",
+  "locationZipcode": "61801",
+  "lat": 39.96348385624713,
+  "lon": -88.3452125591753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wiley-church-farm-market-101-e-main-st-marlton",
+  "name": "Wiley Church Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 E Main St Marlton, NJ",
+  "locationCity": "101 E Main St Marlton",
+  "locationState": "NJ",
+  "locationZipcode": "08053",
+  "lat": 39.8881357056847,
+  "lon": -74.91173235398057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

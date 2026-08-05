@@ -1,0 +1,19 @@
+{
+  "slug": "coffman-apple-orchard-7182-us-highway-75",
+  "name": "Coffman Apple Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7182 US Highway 75, MN",
+  "locationCity": "7182 US Highway 75",
+  "locationState": "MN",
+  "locationZipcode": "56296",
+  "lat": 45.90288999765315,
+  "lon": -96.48926403209998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:15.276Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:15.276Z"
+}

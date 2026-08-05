@@ -1,0 +1,19 @@
+{
+  "slug": "canton-apples-25-barnes-road",
+  "name": "Canton Apples",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "25 & Barnes Road, NY",
+  "locationCity": "25 & Barnes Road",
+  "locationState": "NY",
+  "locationZipcode": "13617",
+  "lat": 44.5548071920602,
+  "lon": -75.1337591464783,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.620Z"
+}

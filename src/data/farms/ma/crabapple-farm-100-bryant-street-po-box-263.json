@@ -1,0 +1,19 @@
+{
+  "slug": "crabapple-farm-100-bryant-street-po-box-263",
+  "name": "Crabapple Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "100 Bryant Street PO Box 263, MA",
+  "locationCity": "100 Bryant Street PO Box 263",
+  "locationState": "MA",
+  "locationZipcode": "01012",
+  "lat": 42.3802332,
+  "lon": -72.8456399,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.252Z"
+}

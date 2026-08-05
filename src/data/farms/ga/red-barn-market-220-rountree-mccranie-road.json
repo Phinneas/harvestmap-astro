@@ -1,0 +1,19 @@
+{
+  "slug": "red-barn-market-220-rountree-mccranie-road",
+  "name": "Red Barn Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "220 Rountree Mccranie Road, GA",
+  "locationCity": "220 Rountree Mccranie Road",
+  "locationState": "GA",
+  "locationZipcode": "31620",
+  "lat": 31.157871649653213,
+  "lon": -83.50648266601517,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:57.884Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:57.884Z"
+}

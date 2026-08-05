@@ -1,0 +1,19 @@
+{
+  "slug": "harmony-hills-farm-park-road",
+  "name": "Harmony Hills Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Park Road, SC",
+  "locationCity": "Park Road",
+  "locationState": "SC",
+  "locationZipcode": "29072",
+  "lat": 34.0043209977468,
+  "lon": -81.2830789858862,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.928Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.928Z"
+}

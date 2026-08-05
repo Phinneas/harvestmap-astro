@@ -9,23 +9,11 @@
   "locationZipcode": "",
   "lat": 47.6387711268087,
   "lon": -121.904977516343,
-  "website": "https://www.facebook.com/RemlingerFarms",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:40:43.138Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:40:59.889Z"
+      "lastSeen": "2026-08-05T18:53:16.201Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:40:43.138Z",
-  "crops": [
-    "Strawberries",
-    "Raspberries",
-    "Pears",
-    "Pumpkins"
-  ],
-  "phone": "425-333-4135"
+  "usdaLastUpdated": "2026-08-05T18:53:16.201Z"
 }

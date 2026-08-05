@@ -1,0 +1,19 @@
+{
+  "slug": "lutheran-community-services-lcs-2809-baynard-blvd",
+  "name": "Lutheran Community Services (LCS)",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2809 Baynard Blvd, DE",
+  "locationCity": "2809 Baynard Blvd",
+  "locationState": "DE",
+  "locationZipcode": "19802",
+  "lat": 39.76475398976578,
+  "lon": -75.54033503660017,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:42.622Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:42.622Z"
+}

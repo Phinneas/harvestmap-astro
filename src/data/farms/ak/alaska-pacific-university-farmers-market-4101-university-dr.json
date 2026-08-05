@@ -1,0 +1,19 @@
+{
+  "slug": "alaska-pacific-university-farmers-market-4101-university-dr",
+  "name": "Alaska Pacific University Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4101 University Dr., AK",
+  "locationCity": "4101 University Dr.",
+  "locationState": "AK",
+  "locationZipcode": "99508",
+  "lat": 61.18834840755866,
+  "lon": -149.80606570598204,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

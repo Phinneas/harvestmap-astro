@@ -1,0 +1,19 @@
+{
+  "slug": "kerkhoven-farmers-market-pillsbury-park",
+  "name": "Kerkhoven Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Pillsbury Park, MN",
+  "locationCity": "Pillsbury Park",
+  "locationState": "MN",
+  "locationZipcode": "56252",
+  "lat": 45.1892302,
+  "lon": -95.3089499,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

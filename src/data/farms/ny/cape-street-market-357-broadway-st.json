@@ -1,0 +1,19 @@
+{
+  "slug": "cape-street-market-357-broadway-st",
+  "name": "Cape Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "357 Broadway St, NY",
+  "locationCity": "357 Broadway St",
+  "locationState": "NY",
+  "locationZipcode": "13618",
+  "lat": 44.12491864254093,
+  "lon": -76.3449830818663,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

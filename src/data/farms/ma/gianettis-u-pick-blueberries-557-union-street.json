@@ -1,0 +1,19 @@
+{
+  "slug": "gianettis-u-pick-blueberries-557-union-street",
+  "name": "Gianettis' U-Pick Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "557 Union Street, MA",
+  "locationCity": "557 Union Street",
+  "locationState": "MA",
+  "locationZipcode": "02038",
+  "lat": 42.0693156877855,
+  "lon": -71.4008229372095,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.488Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.488Z"
+}

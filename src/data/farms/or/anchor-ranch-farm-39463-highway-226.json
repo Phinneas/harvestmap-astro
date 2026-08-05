@@ -1,0 +1,19 @@
+{
+  "slug": "anchor-ranch-farm-39463-highway-226",
+  "name": "Anchor Ranch Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "39463 Highway 226, OR",
+  "locationCity": "39463 Highway 226",
+  "locationState": "OR",
+  "locationZipcode": "39463",
+  "lat": 44.71494532409821,
+  "lon": -122.8329274816592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.975Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.975Z"
+}

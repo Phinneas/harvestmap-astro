@@ -1,0 +1,19 @@
+{
+  "slug": "bookworm-farms-10-virginia-lane",
+  "name": "Bookworm Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10 Virginia Lane, WY",
+  "locationCity": "10 Virginia Lane",
+  "locationState": "WY",
+  "locationZipcode": "82834",
+  "lat": 44.3910959942225,
+  "lon": -106.741355968053,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:34.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:34.292Z"
+}

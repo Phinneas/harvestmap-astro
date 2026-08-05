@@ -1,0 +1,19 @@
+{
+  "slug": "hearst-ranch-750-hearst-castle-rd",
+  "name": "Hearst Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "750 Hearst Castle Rd, CA",
+  "locationCity": "750 Hearst Castle Rd",
+  "locationState": "CA",
+  "locationZipcode": "93452",
+  "lat": 35.6509630175545,
+  "lon": -121.186064975888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.809Z"
+}

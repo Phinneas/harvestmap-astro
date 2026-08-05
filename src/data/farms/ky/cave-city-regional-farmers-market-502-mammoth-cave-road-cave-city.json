@@ -1,0 +1,19 @@
+{
+  "slug": "cave-city-regional-farmers-market-502-mammoth-cave-road-cave-city",
+  "name": "Cave City Regional Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "502 Mammoth Cave Road Cave City, KY",
+  "locationCity": "502 Mammoth Cave Road Cave City",
+  "locationState": "KY",
+  "locationZipcode": "42127",
+  "lat": 37.13932159536871,
+  "lon": -85.97116828837125,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jacksonville-farmers-market-at-lincoln-square-901-w-morton-avenue-jacksonville",
+  "name": "Jacksonville Farmers Market at Lincoln Square",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "901 W. Morton Avenue Jacksonville, IL",
+  "locationCity": "901 W. Morton Avenue Jacksonville",
+  "locationState": "IL",
+  "locationZipcode": "62650",
+  "lat": 39.723225171202735,
+  "lon": -90.23979657482629,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

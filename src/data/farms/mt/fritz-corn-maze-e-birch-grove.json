@@ -1,0 +1,19 @@
+{
+  "slug": "fritz-corn-maze-e-birch-grove",
+  "name": "Fritz Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "E Birch Grove, MT",
+  "locationCity": "E Birch Grove",
+  "locationState": "MT",
+  "locationZipcode": "59901",
+  "lat": 48.2910484161198,
+  "lon": -114.249500090848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:09.739Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:09.739Z"
+}

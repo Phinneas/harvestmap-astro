@@ -1,0 +1,19 @@
+{
+  "slug": "homewood-farmers-market-martin-ave-and-chestnut-rd",
+  "name": "Homewood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Martin Ave and Chestnut Rd, IL",
+  "locationCity": "Martin Ave and Chestnut Rd",
+  "locationState": "IL",
+  "locationZipcode": "60430",
+  "lat": 41.562264,
+  "lon": -87.666231,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.930Z"
+}

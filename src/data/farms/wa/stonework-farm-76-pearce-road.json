@@ -1,0 +1,19 @@
+{
+  "slug": "stonework-farm-76-pearce-road",
+  "name": "Stonework Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "76 Pearce Road, WA",
+  "locationCity": "76 Pearce Road",
+  "locationState": "WA",
+  "locationZipcode": "98672",
+  "lat": 45.7805438,
+  "lon": -121.4330542,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.590Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.590Z"
+}

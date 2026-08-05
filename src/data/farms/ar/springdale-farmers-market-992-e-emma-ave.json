@@ -1,0 +1,19 @@
+{
+  "slug": "springdale-farmers-market-992-e-emma-ave",
+  "name": "Springdale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "992 E. Emma Ave., AR",
+  "locationCity": "992 E. Emma Ave.",
+  "locationState": "AR",
+  "locationZipcode": "72764",
+  "lat": 36.18745,
+  "lon": -94.11845,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.337Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.337Z"
+}

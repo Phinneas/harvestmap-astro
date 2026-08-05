@@ -1,0 +1,20 @@
+{
+  "slug": "burke-ridge-farms-95-wapping-wood-road",
+  "name": "Burke Ridge Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "95 Wapping Wood Road, CT",
+  "locationCity": "95 Wapping Wood Road",
+  "locationState": "CT",
+  "locationZipcode": "06029",
+  "lat": 41.8620600140942,
+  "lon": -72.5142369850139,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.009Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.009Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "2-d-acres-218-streeter-woods-road",
+  "name": "2 D Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "218 Streeter Woods Road, NH",
+  "locationCity": "218 Streeter Woods Road",
+  "locationState": "NH",
+  "locationZipcode": "03266",
+  "lat": 43.79465099600827,
+  "lon": -71.93248998929397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.931Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.931Z"
+}

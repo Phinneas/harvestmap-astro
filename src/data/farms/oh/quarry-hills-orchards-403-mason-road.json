@@ -1,0 +1,19 @@
+{
+  "slug": "quarry-hills-orchards-403-mason-road",
+  "name": "Quarry Hills Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "403 Mason Road, OH",
+  "locationCity": "403 Mason Road",
+  "locationState": "OH",
+  "locationZipcode": "44814",
+  "lat": 41.3340307031452,
+  "lon": -82.4816048019512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.859Z"
+}

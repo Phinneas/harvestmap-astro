@@ -1,0 +1,20 @@
+{
+  "slug": "plowshare-produce-12936-greenwood-rd",
+  "name": "Plowshare Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12936 Greenwood Rd, PA",
+  "locationCity": "12936 Greenwood Rd",
+  "locationState": "PA",
+  "locationZipcode": "12936",
+  "lat": 40.63720500126351,
+  "lon": -77.83993397738782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.214Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.214Z",
+  "crops": []
+}

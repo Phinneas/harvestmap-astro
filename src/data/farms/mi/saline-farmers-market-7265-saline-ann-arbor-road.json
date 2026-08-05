@@ -1,0 +1,19 @@
+{
+  "slug": "saline-farmers-market-7265-saline-ann-arbor-road",
+  "name": "Saline Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7265 Saline Ann Arbor Road, MI",
+  "locationCity": "7265 Saline Ann Arbor Road",
+  "locationState": "MI",
+  "locationZipcode": "48176",
+  "lat": 42.179728,
+  "lon": -83.785094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.180Z"
+}

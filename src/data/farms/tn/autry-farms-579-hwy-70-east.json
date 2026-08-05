@@ -1,0 +1,19 @@
+{
+  "slug": "autry-farms-579-hwy-70-east",
+  "name": "Autry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "579 Hwy. 70 East, TN",
+  "locationCity": "579 Hwy. 70 East",
+  "locationState": "TN",
+  "locationZipcode": "38012",
+  "lat": 35.5903572125982,
+  "lon": -89.2408680550138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.347Z"
+}

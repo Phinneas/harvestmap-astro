@@ -1,0 +1,19 @@
+{
+  "slug": "natick-winter-market-common-street",
+  "name": "Natick Winter Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Common Street, MA",
+  "locationCity": "Common Street",
+  "locationState": "MA",
+  "locationZipcode": "01760",
+  "lat": 42.290237,
+  "lon": -71.341206,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.751Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.751Z"
+}

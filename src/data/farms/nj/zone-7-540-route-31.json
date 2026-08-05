@@ -1,0 +1,19 @@
+{
+  "slug": "zone-7-540-route-31",
+  "name": "Zone 7",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "540 Route 31, NJ",
+  "locationCity": "540 Route 31",
+  "locationState": "NJ",
+  "locationZipcode": "08551",
+  "lat": 40.41880898197127,
+  "lon": -74.86374303459364,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.845Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.845Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "burr-oak-farms-121-220th-street",
+  "name": "Burr Oak Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "121 220th Street, IA",
+  "locationCity": "121 220th Street",
+  "locationState": "IA",
+  "locationZipcode": "50273",
+  "lat": 41.3304430289797,
+  "lon": -94.2138761016601,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.718Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.718Z"
+}

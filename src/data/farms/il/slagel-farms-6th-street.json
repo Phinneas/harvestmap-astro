@@ -1,0 +1,19 @@
+{
+  "slug": "slagel-farms-6th-street",
+  "name": "Slagel Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6th Street, IL",
+  "locationCity": "6th Street",
+  "locationState": "IL",
+  "locationZipcode": "61469",
+  "lat": 40.937355,
+  "lon": -90.9487999999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.881Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.881Z"
+}

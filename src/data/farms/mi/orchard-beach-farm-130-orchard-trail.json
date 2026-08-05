@@ -1,0 +1,19 @@
+{
+  "slug": "orchard-beach-farm-130-orchard-trail",
+  "name": "Orchard Beach Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "130 Orchard Trail, MI",
+  "locationCity": "130 Orchard Trail",
+  "locationState": "MI",
+  "locationZipcode": "49082",
+  "lat": 41.890472,
+  "lon": -84.912234,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.148Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.148Z"
+}

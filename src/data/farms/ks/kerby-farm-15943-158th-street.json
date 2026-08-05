@@ -1,0 +1,19 @@
+{
+  "slug": "kerby-farm-15943-158th-street",
+  "name": "Kerby Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15943 158th Street, KS",
+  "locationCity": "15943 158th Street",
+  "locationState": "KS",
+  "locationZipcode": "15943",
+  "lat": 39.0635380097961,
+  "lon": -94.9468380282385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.125Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.125Z"
+}

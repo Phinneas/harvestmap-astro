@@ -1,0 +1,19 @@
+{
+  "slug": "anita-farmers-market-e-main-street",
+  "name": "Anita Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "E. Main Street, IA",
+  "locationCity": "E. Main Street",
+  "locationState": "IA",
+  "locationZipcode": "50020",
+  "lat": 41.44736980916876,
+  "lon": -94.76061079756556,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

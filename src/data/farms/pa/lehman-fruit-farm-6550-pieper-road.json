@@ -1,0 +1,19 @@
+{
+  "slug": "lehman-fruit-farm-6550-pieper-road",
+  "name": "Lehman Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6550 Pieper Road, PA",
+  "locationCity": "6550 Pieper Road",
+  "locationState": "PA",
+  "locationZipcode": "16417",
+  "lat": 41.97446301205758,
+  "lon": -80.34782203861876,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

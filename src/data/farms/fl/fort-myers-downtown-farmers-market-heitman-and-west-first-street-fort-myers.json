@@ -1,0 +1,19 @@
+{
+  "slug": "fort-myers-downtown-farmers-market-heitman-and-west-first-street-fort-myers",
+  "name": "Fort Myers Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Heitman and West First Street Fort Myers, FL",
+  "locationCity": "Heitman and West First Street Fort Myers",
+  "locationState": "FL",
+  "locationZipcode": "33901",
+  "lat": 26.642769987994228,
+  "lon": -81.87271997419778,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

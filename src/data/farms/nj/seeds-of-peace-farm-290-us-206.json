@@ -1,0 +1,19 @@
+{
+  "slug": "seeds-of-peace-farm-290-us-206",
+  "name": "Seeds Of Peace Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "290 US-206, NJ",
+  "locationCity": "290 US-206",
+  "locationState": "NJ",
+  "locationZipcode": "07860",
+  "lat": 41.03235801605772,
+  "lon": -74.7661955828704,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.137Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.137Z"
+}

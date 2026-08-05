@@ -1,0 +1,19 @@
+{
+  "slug": "john-s-produce-693-kenton-rd",
+  "name": "John's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "693 Kenton Rd, DE",
+  "locationCity": "693 Kenton Rd",
+  "locationState": "DE",
+  "locationZipcode": "19904",
+  "lat": 39.162602284271,
+  "lon": -75.5577602404961,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.159Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.159Z"
+}

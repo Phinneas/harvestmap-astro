@@ -1,0 +1,19 @@
+{
+  "slug": "henry-s-farm-432-grimm-rd",
+  "name": "Henry's Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "432 Grimm Rd., IL",
+  "locationCity": "432 Grimm Rd.",
+  "locationState": "IL",
+  "locationZipcode": "61729",
+  "lat": 40.65014527675237,
+  "lon": -89.24634767195505,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.488Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.488Z"
+}

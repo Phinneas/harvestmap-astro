@@ -1,0 +1,19 @@
+{
+  "slug": "gold-barn-blueberries-985-quincy-street",
+  "name": "Gold Barn Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "985 Quincy Street, MI",
+  "locationCity": "985 Quincy Street",
+  "locationState": "MI",
+  "locationZipcode": "49424",
+  "lat": 42.8411899799673,
+  "lon": -86.1334872216376,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.573Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.573Z"
+}

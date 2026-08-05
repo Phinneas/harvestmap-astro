@@ -1,0 +1,19 @@
+{
+  "slug": "mora-area-farmers-market-500-clark-st",
+  "name": "Mora Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Clark St, MN",
+  "locationCity": "500 Clark St",
+  "locationState": "MN",
+  "locationZipcode": "55051",
+  "lat": 45.8718691,
+  "lon": -93.2915467,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

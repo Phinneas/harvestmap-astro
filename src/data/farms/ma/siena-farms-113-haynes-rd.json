@@ -1,0 +1,19 @@
+{
+  "slug": "siena-farms-113-haynes-rd",
+  "name": "Siena Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "113 Haynes Rd., MA",
+  "locationCity": "113 Haynes Rd.",
+  "locationState": "MA",
+  "locationZipcode": "01776",
+  "lat": 42.412465104094,
+  "lon": -71.41131255375748,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.290Z"
+}

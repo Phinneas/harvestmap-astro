@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-meadows-414-rowe-avenue",
+  "name": "Blueberry Meadows",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "414 Rowe Avenue, NY",
+  "locationCity": "414 Rowe Avenue",
+  "locationState": "NY",
+  "locationZipcode": "14788",
+  "lat": 42.0668127555492,
+  "lon": -78.3789786580395,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.263Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.263Z"
+}

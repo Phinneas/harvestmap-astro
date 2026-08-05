@@ -1,0 +1,19 @@
+{
+  "slug": "wayne-county-farmers-market-533-north-1st-street",
+  "name": "Wayne County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "533 North 1st Street, GA",
+  "locationCity": "533 North 1st Street",
+  "locationState": "GA",
+  "locationZipcode": "31545",
+  "lat": 31.609910763015733,
+  "lon": -81.8822066567881,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

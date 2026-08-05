@@ -1,0 +1,19 @@
+{
+  "slug": "sturgis-farmers-market-saturday-s-nottawa-st",
+  "name": "Sturgis Farmers Market - Saturday",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S Nottawa St, MI",
+  "locationCity": "S Nottawa St",
+  "locationState": "MI",
+  "locationZipcode": "49091",
+  "lat": 41.781398,
+  "lon": -85.4185251,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.276Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.276Z"
+}

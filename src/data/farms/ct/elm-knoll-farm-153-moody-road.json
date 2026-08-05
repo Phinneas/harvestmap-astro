@@ -1,0 +1,19 @@
+{
+  "slug": "elm-knoll-farm-153-moody-road",
+  "name": "Elm Knoll Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "153 Moody Road, CT",
+  "locationCity": "153 Moody Road",
+  "locationState": "CT",
+  "locationZipcode": "06082",
+  "lat": 42.0031318536595,
+  "lon": -72.5281257187762,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.898Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.898Z"
+}

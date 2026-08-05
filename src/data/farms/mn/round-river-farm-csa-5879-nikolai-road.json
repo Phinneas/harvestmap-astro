@@ -1,0 +1,19 @@
+{
+  "slug": "round-river-farm-csa-5879-nikolai-road",
+  "name": "Round River Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5879 Nikolai Road, MN",
+  "locationCity": "5879 Nikolai Road",
+  "locationState": "MN",
+  "locationZipcode": "55603",
+  "lat": 47.4025617,
+  "lon": -91.1691956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.174Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.174Z"
+}

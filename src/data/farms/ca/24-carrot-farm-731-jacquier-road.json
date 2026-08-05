@@ -1,0 +1,20 @@
+{
+  "slug": "24-carrot-farm-731-jacquier-road",
+  "name": "24 Carrot Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "731 Jacquier Road, CA",
+  "locationCity": "731 Jacquier Road",
+  "locationState": "CA",
+  "locationZipcode": "95667",
+  "lat": 38.7396648379938,
+  "lon": -120.757826429607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.716Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.716Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "berries-blue-776-county-road-42",
+  "name": "Berries Blue",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "776 County Road 42, NY",
+  "locationCity": "776 County Road 42",
+  "locationState": "NY",
+  "locationZipcode": "13155",
+  "lat": 42.63031391083743,
+  "lon": -75.77437872801646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.461Z"
+}

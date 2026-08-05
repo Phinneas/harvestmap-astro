@@ -1,0 +1,19 @@
+{
+  "slug": "colebrook-farmers-market-43-colby-street-colebrook",
+  "name": "Colebrook Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "43 Colby Street Colebrook, NH",
+  "locationCity": "43 Colby Street Colebrook",
+  "locationState": "NH",
+  "locationZipcode": "03576",
+  "lat": 44.89287008050835,
+  "lon": -71.50166378458098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.153Z"
+}

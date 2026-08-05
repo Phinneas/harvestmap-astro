@@ -1,0 +1,19 @@
+{
+  "slug": "bellamy-farms-4257-east-hwy-9",
+  "name": "Bellamy Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4257 East Hwy. 9, SC",
+  "locationCity": "4257 East Hwy. 9",
+  "locationState": "SC",
+  "locationZipcode": "29569",
+  "lat": 34.0094879800498,
+  "lon": -78.7684030080067,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.221Z"
+}

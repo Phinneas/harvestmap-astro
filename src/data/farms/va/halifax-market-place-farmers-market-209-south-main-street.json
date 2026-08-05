@@ -1,0 +1,19 @@
+{
+  "slug": "halifax-market-place-farmers-market-209-south-main-street",
+  "name": "Halifax Market Place & Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "209 South Main Street, VA",
+  "locationCity": "209 South Main Street",
+  "locationState": "VA",
+  "locationZipcode": "24558",
+  "lat": 36.76317,
+  "lon": -78.92836,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.087Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.087Z"
+}

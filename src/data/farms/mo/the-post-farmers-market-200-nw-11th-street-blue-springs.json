@@ -1,0 +1,19 @@
+{
+  "slug": "the-post-farmers-market-200-nw-11th-street-blue-springs",
+  "name": "The Post Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 NW 11th Street Blue Springs, MO",
+  "locationCity": "200 NW 11th Street Blue Springs",
+  "locationState": "MO",
+  "locationZipcode": "64015",
+  "lat": 39.018978169314785,
+  "lon": -94.27778633804863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

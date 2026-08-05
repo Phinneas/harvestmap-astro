@@ -1,0 +1,19 @@
+{
+  "slug": "parktown-food-hub-5123-revere-road",
+  "name": "Parktown Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5123 Revere Road, NC",
+  "locationCity": "5123 Revere Road",
+  "locationState": "NC",
+  "locationZipcode": "27713",
+  "lat": 35.89434687322674,
+  "lon": -78.90912133218214,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.329Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.329Z"
+}

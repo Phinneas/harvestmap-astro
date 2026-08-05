@@ -1,0 +1,20 @@
+{
+  "slug": "little-rascals-orchard-116-ayer-road",
+  "name": "Little Rascals Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "116 Ayer Road, MA",
+  "locationCity": "116 Ayer Road",
+  "locationState": "MA",
+  "locationZipcode": "01451",
+  "lat": 42.5164365361055,
+  "lon": -71.5819360835394,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.738Z",
+  "crops": []
+}

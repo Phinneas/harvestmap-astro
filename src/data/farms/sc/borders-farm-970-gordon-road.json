@@ -1,0 +1,19 @@
+{
+  "slug": "borders-farm-970-gordon-road",
+  "name": "Borders Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "970 Gordon Road, SC",
+  "locationCity": "970 Gordon Road",
+  "locationState": "SC",
+  "locationZipcode": "29732",
+  "lat": 34.9410293916632,
+  "lon": -81.1604790604095,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.727Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.727Z"
+}

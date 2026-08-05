@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkins-pines-ponds-1800-hurricane-hill-road",
+  "name": "Pumpkins, Pines, & Ponds",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1800 Hurricane Hill Road, TN",
+  "locationCity": "1800 Hurricane Hill Road",
+  "locationState": "TN",
+  "locationZipcode": "38063",
+  "lat": 35.7043729228719,
+  "lon": -89.5423355797103,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.254Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.254Z"
+}

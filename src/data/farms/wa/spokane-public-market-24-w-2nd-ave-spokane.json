@@ -1,0 +1,19 @@
+{
+  "slug": "spokane-public-market-24-w-2nd-ave-spokane",
+  "name": "Spokane Public Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24 W. 2nd Ave Spokane, WA",
+  "locationCity": "24 W. 2nd Ave Spokane",
+  "locationState": "WA",
+  "locationZipcode": "99201",
+  "lat": 47.65455553765865,
+  "lon": -117.41241480301451,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

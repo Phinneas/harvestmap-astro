@@ -1,0 +1,19 @@
+{
+  "slug": "kc-farm-school-farmers-market-4223-gibbs-road",
+  "name": "KC Farm School Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4223 Gibbs Road, KS",
+  "locationCity": "4223 Gibbs Road",
+  "locationState": "KS",
+  "locationZipcode": "66106",
+  "lat": 39.0586433593376,
+  "lon": -94.6774562465319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

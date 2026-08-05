@@ -1,0 +1,19 @@
+{
+  "slug": "dracula-s-domain-monmouth-road",
+  "name": "Dracula's Domain",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Monmouth Road, NJ",
+  "locationCity": "Monmouth Road",
+  "locationState": "NJ",
+  "locationZipcode": "08514",
+  "lat": 40.1507790562744,
+  "lon": -74.4374451749669,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.115Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.115Z"
+}

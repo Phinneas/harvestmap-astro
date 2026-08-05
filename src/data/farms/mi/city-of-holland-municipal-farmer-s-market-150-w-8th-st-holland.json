@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-holland-municipal-farmer-s-market-150-w-8th-st-holland",
+  "name": "City of Holland Municipal Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 W. 8th St. Holland, MI",
+  "locationCity": "150 W. 8th St. Holland",
+  "locationState": "MI",
+  "locationZipcode": "49423",
+  "lat": 42.79025044619937,
+  "lon": -86.11457425687378,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

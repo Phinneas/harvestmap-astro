@@ -1,0 +1,19 @@
+{
+  "slug": "community-fresh-farmers-market-2275-dartmouth-college-station",
+  "name": "Community Fresh Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2275 Dartmouth College Station, TX",
+  "locationCity": "2275 Dartmouth College Station",
+  "locationState": "TX",
+  "locationZipcode": "77840",
+  "lat": 30.615317419019718,
+  "lon": -96.30587346891285,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

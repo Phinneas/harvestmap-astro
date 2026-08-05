@@ -1,0 +1,19 @@
+{
+  "slug": "farm-to-table-csa-at-alsip-home-nursery-10255-wicker-ave",
+  "name": "Farm to Table CSA at Alsip Home & Nursery",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10255 Wicker Ave, IN",
+  "locationCity": "10255 Wicker Ave",
+  "locationState": "IN",
+  "locationZipcode": "10255",
+  "lat": 41.4325502,
+  "lon": -87.468349,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.545Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.545Z"
+}

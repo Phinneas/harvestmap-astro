@@ -1,0 +1,19 @@
+{
+  "slug": "spring-meadow-acres-262-cold-spring-road",
+  "name": "Spring Meadow Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "262 Cold Spring Road, PA",
+  "locationCity": "262 Cold Spring Road",
+  "locationState": "PA",
+  "locationZipcode": "17022",
+  "lat": 40.19125598491695,
+  "lon": -76.50523802102788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.223Z"
+}

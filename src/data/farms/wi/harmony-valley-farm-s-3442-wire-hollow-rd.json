@@ -1,0 +1,19 @@
+{
+  "slug": "harmony-valley-farm-s-3442-wire-hollow-rd",
+  "name": "Harmony Valley Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "S. 3442 Wire Hollow Rd., WI",
+  "locationCity": "S. 3442 Wire Hollow Rd.",
+  "locationState": "WI",
+  "locationZipcode": "54665",
+  "lat": 43.60715112307463,
+  "lon": -91.10087277659757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.011Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.011Z"
+}

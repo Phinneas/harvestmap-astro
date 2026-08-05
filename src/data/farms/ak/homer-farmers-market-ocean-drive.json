@@ -1,0 +1,19 @@
+{
+  "slug": "homer-farmers-market-ocean-drive",
+  "name": "Homer Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Ocean Drive, AK",
+  "locationCity": "Ocean Drive",
+  "locationState": "AK",
+  "locationZipcode": "99603",
+  "lat": 59.638109,
+  "lon": -151.51234,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.489Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.489Z"
+}

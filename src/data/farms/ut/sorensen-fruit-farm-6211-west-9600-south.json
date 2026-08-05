@@ -1,0 +1,19 @@
+{
+  "slug": "sorensen-fruit-farm-6211-west-9600-south",
+  "name": "Sorensen Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6211 West 9600 South, UT",
+  "locationCity": "6211 West 9600 South",
+  "locationState": "UT",
+  "locationZipcode": "84651",
+  "lat": 40.053259683797734,
+  "lon": -111.80217442652312,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:27.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:27.057Z"
+}

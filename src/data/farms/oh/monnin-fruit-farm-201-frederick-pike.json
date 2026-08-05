@@ -1,0 +1,19 @@
+{
+  "slug": "monnin-fruit-farm-201-frederick-pike",
+  "name": "Monnin Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "201 Frederick Pike, OH",
+  "locationCity": "201 Frederick Pike",
+  "locationState": "OH",
+  "locationZipcode": "45414",
+  "lat": 39.8418231580715,
+  "lon": -84.2408623576743,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.813Z"
+}

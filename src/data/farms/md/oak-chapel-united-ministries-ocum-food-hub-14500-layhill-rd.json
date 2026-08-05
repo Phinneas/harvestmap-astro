@@ -1,0 +1,19 @@
+{
+  "slug": "oak-chapel-united-ministries-ocum-food-hub-14500-layhill-rd",
+  "name": "Oak Chapel United Ministries (OCUM) Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "14500 Layhill Rd, MD",
+  "locationCity": "14500 Layhill Rd",
+  "locationState": "MD",
+  "locationZipcode": "14500",
+  "lat": 39.09485497935435,
+  "lon": -77.04550297793257,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:12.417Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:12.417Z"
+}

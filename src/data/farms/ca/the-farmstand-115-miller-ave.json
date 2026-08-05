@@ -1,0 +1,19 @@
+{
+  "slug": "the-farmstand-115-miller-ave",
+  "name": "The Farmstand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "115 Miller Ave., CA",
+  "locationCity": "115 Miller Ave.",
+  "locationState": "CA",
+  "locationZipcode": "92025",
+  "lat": 33.0955339458372,
+  "lon": -117.079164252493,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.788Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.788Z"
+}

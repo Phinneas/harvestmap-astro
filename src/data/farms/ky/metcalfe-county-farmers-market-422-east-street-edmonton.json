@@ -1,0 +1,19 @@
+{
+  "slug": "metcalfe-county-farmers-market-422-east-street-edmonton",
+  "name": "Metcalfe County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "422 East Street Edmonton, KY",
+  "locationCity": "422 East Street Edmonton",
+  "locationState": "KY",
+  "locationZipcode": "42129",
+  "lat": 36.9769780010202,
+  "lon": -85.61036355911176,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

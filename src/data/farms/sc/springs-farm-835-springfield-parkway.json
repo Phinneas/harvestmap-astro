@@ -1,0 +1,19 @@
+{
+  "slug": "springs-farm-835-springfield-parkway",
+  "name": "Springs Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "835 Springfield Parkway, SC",
+  "locationCity": "835 Springfield Parkway",
+  "locationState": "SC",
+  "locationZipcode": "29716",
+  "lat": 35.0223503669134,
+  "lon": -80.9199902569066,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.813Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "petaluma-bounty-55-shasta-ave",
+  "name": "Petaluma Bounty",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "55 Shasta Ave, CA",
+  "locationCity": "55 Shasta Ave",
+  "locationState": "CA",
+  "locationZipcode": "94952",
+  "lat": 38.242618,
+  "lon": -122.62843,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.950Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.950Z"
+}

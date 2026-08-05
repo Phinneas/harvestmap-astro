@@ -1,0 +1,19 @@
+{
+  "slug": "ark-city-farmer-and-art-market-701-n-summit-st",
+  "name": "Ark City Farmer and Art Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "701 N Summit St, AR",
+  "locationCity": "701 N Summit St",
+  "locationState": "AR",
+  "locationZipcode": "67005",
+  "lat": 37.069572330358476,
+  "lon": -97.03904250978441,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.365Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.365Z"
+}

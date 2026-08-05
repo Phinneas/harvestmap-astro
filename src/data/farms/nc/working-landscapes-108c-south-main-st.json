@@ -1,0 +1,19 @@
+{
+  "slug": "working-landscapes-108c-south-main-st",
+  "name": "Working Landscapes",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "108C South Main St, NC",
+  "locationCity": "108C South Main St",
+  "locationState": "NC",
+  "locationZipcode": "27589",
+  "lat": 36.39817582275633,
+  "lon": -78.15509496170799,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.329Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.329Z"
+}

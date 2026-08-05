@@ -1,0 +1,19 @@
+{
+  "slug": "sprout-battle-creek-503-military-st",
+  "name": "Sprout Battle Creek",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "503 Military St., MI",
+  "locationCity": "503 Military St.",
+  "locationState": "MI",
+  "locationZipcode": "49037",
+  "lat": 42.325313008541855,
+  "lon": -85.26662197209272,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.246Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tpb-farms-35003-morgan-trail",
+  "name": "TPB Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "35003 Morgan Trail, CO",
+  "locationCity": "35003 Morgan Trail",
+  "locationState": "CO",
+  "locationZipcode": "35003",
+  "lat": 39.3791415166944,
+  "lon": -104.63015706493992,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.594Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.594Z"
+}

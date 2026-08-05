@@ -1,0 +1,19 @@
+{
+  "slug": "orchard-market-8400-n-us-31",
+  "name": "Orchard Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8400 N. US 31, MI",
+  "locationCity": "8400 N. US 31",
+  "locationState": "MI",
+  "locationZipcode": "49411",
+  "lat": 44.10754098748208,
+  "lon": -86.26628998958799,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.233Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "swartzs-pumpkin-patch-232-north-high-street",
+  "name": "Swartzs Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "232 North High Street, PA",
+  "locationCity": "232 North High Street",
+  "locationState": "PA",
+  "locationZipcode": "17307",
+  "lat": 39.92702801242797,
+  "lon": -77.30285699353686,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.224Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.224Z",
+  "crops": []
+}

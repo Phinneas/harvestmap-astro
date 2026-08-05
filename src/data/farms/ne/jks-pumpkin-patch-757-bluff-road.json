@@ -1,0 +1,19 @@
+{
+  "slug": "jks-pumpkin-patch-757-bluff-road",
+  "name": "JKS Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "757 Bluff Road, NE",
+  "locationCity": "757 Bluff Road",
+  "locationState": "NE",
+  "locationZipcode": "68531",
+  "lat": 40.9150129980012,
+  "lon": -96.7100919767796,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.262Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.262Z"
+}

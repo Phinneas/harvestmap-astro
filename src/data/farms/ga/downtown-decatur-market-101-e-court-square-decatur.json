@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-decatur-market-101-e-court-square-decatur",
+  "name": "Downtown Decatur Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 E. Court Square Decatur, GA",
+  "locationCity": "101 E. Court Square Decatur",
+  "locationState": "GA",
+  "locationZipcode": "30030",
+  "lat": 33.774931292906096,
+  "lon": -84.29592926274914,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

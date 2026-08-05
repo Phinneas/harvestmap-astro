@@ -1,0 +1,19 @@
+{
+  "slug": "half-moon-bay-lavender-12511-san-mateo-rd",
+  "name": "Half Moon Bay Lavender",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12511 San Mateo Rd, CA",
+  "locationCity": "12511 San Mateo Rd",
+  "locationState": "CA",
+  "locationZipcode": "12511",
+  "lat": 37.4779589928118,
+  "lon": -122.411572980886,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.809Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bluebela-farm-650-ne-40th-street",
+  "name": "BlueBela Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "650 NE 40th Street, FL",
+  "locationCity": "650 NE 40th Street",
+  "locationState": "FL",
+  "locationZipcode": "32643",
+  "lat": 29.7986145269813,
+  "lon": -82.6727422452071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.787Z"
+}

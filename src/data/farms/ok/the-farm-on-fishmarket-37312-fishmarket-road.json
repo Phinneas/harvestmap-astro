@@ -1,0 +1,19 @@
+{
+  "slug": "the-farm-on-fishmarket-37312-fishmarket-road",
+  "name": "The Farm on Fishmarket",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "37312 Fishmarket Road, OK",
+  "locationCity": "37312 Fishmarket Road",
+  "locationState": "OK",
+  "locationZipcode": "37312",
+  "lat": 35.02376800171275,
+  "lon": -97.12858003430468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:31.821Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:31.821Z"
+}

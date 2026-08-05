@@ -1,0 +1,19 @@
+{
+  "slug": "windy-hills-farms-8380-highway-963",
+  "name": "Windy Hills Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8380 Highway 963, LA",
+  "locationCity": "8380 Highway 963",
+  "locationState": "LA",
+  "locationZipcode": "70730",
+  "lat": 30.8678520148936,
+  "lon": -91.08885704124759,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.106Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.106Z"
+}

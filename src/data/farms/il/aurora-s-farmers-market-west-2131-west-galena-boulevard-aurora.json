@@ -1,0 +1,19 @@
+{
+  "slug": "aurora-s-farmers-market-west-2131-west-galena-boulevard-aurora",
+  "name": "Aurora's Farmers Market West",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2131 West Galena Boulevard Aurora, IL",
+  "locationCity": "2131 West Galena Boulevard Aurora",
+  "locationState": "IL",
+  "locationZipcode": "60506",
+  "lat": 41.764860238763035,
+  "lon": -88.37109098712455,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

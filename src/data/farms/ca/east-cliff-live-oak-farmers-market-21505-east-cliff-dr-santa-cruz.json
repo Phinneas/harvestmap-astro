@@ -1,0 +1,19 @@
+{
+  "slug": "east-cliff-live-oak-farmers-market-21505-east-cliff-dr-santa-cruz",
+  "name": "East Cliff/Live Oak Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "21505 East Cliff Dr. Santa Cruz, CA",
+  "locationCity": "21505 East Cliff Dr. Santa Cruz",
+  "locationState": "CA",
+  "locationZipcode": "21505",
+  "lat": 36.96364771634017,
+  "lon": -121.99127097845943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

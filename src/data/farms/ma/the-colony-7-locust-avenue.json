@@ -1,0 +1,19 @@
+{
+  "slug": "the-colony-7-locust-avenue",
+  "name": "The Colony",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7 Locust Avenue, MA",
+  "locationCity": "7 Locust Avenue",
+  "locationState": "MA",
+  "locationZipcode": "01879",
+  "lat": 42.6832194359429,
+  "lon": -71.4436169115098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.470Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.470Z"
+}

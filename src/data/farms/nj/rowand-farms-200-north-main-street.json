@@ -1,0 +1,19 @@
+{
+  "slug": "rowand-farms-200-north-main-street",
+  "name": "Rowand Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 North Main Street, NJ",
+  "locationCity": "200 North Main Street",
+  "locationState": "NJ",
+  "locationZipcode": "08028",
+  "lat": 39.7076000000001,
+  "lon": -75.1110399999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.733Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.733Z"
+}

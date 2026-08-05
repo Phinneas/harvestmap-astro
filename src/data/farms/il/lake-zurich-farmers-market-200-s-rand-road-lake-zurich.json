@@ -1,0 +1,19 @@
+{
+  "slug": "lake-zurich-farmers-market-200-s-rand-road-lake-zurich",
+  "name": "Lake Zurich Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 S. Rand Road Lake Zurich, IL",
+  "locationCity": "200 S. Rand Road Lake Zurich",
+  "locationState": "IL",
+  "locationZipcode": "60047",
+  "lat": 42.19747148238773,
+  "lon": -88.11092506145668,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

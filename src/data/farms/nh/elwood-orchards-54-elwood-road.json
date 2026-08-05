@@ -1,0 +1,19 @@
+{
+  "slug": "elwood-orchards-54-elwood-road",
+  "name": "Elwood Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "54 Elwood Road, NH",
+  "locationCity": "54 Elwood Road",
+  "locationState": "NH",
+  "locationZipcode": "03053",
+  "lat": 42.8402980197409,
+  "lon": -71.4189860184765,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.695Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.695Z"
+}

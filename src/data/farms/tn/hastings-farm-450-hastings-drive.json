@@ -1,0 +1,19 @@
+{
+  "slug": "hastings-farm-450-hastings-drive",
+  "name": "Hastings Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "450 Hastings Drive, TN",
+  "locationCity": "450 Hastings Drive",
+  "locationState": "TN",
+  "locationZipcode": "37321",
+  "lat": 35.4638970016799,
+  "lon": -85.0204479904009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.344Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.344Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "arctic-harvest-deliveries-144-e-potter-dr-unit-a",
+  "name": "Arctic Harvest Deliveries",
+  "source": "usda",
+  "directory": "csa",
+  "location": "144 E Potter Dr Unit A, AK",
+  "locationCity": "144 E Potter Dr Unit A",
+  "locationState": "AK",
+  "locationZipcode": "99518",
+  "lat": 61.1683129291834,
+  "lon": -149.88180000795134,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:00.295Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:00.295Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "noka-homestead-13013-roepke-rd",
+  "name": "NOKA Homestead",
+  "source": "usda",
+  "directory": "csa",
+  "location": "13013 Roepke Rd, MI",
+  "locationCity": "13013 Roepke Rd",
+  "locationState": "MI",
+  "locationZipcode": "13013",
+  "lat": 42.42475393806805,
+  "lon": -84.08263196427498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.101Z"
+}

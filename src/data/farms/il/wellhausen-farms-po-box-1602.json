@@ -1,0 +1,19 @@
+{
+  "slug": "wellhausen-farms-po-box-1602",
+  "name": "Wellhausen Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 1602, IL",
+  "locationCity": "PO Box 1602",
+  "locationState": "IL",
+  "locationZipcode": "60187",
+  "lat": 41.8745267,
+  "lon": -88.1193763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.469Z"
+}

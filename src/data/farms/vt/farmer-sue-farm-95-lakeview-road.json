@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-sue-farm-95-lakeview-road",
+  "name": "Farmer Sue Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "95 Lakeview Road, VT",
+  "locationCity": "95 Lakeview Road",
+  "locationState": "VT",
+  "locationZipcode": "05486",
+  "lat": 44.626566998021,
+  "lon": -73.3257389875714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.233Z"
+}

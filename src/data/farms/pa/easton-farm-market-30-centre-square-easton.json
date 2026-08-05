@@ -1,0 +1,19 @@
+{
+  "slug": "easton-farm-market-30-centre-square-easton",
+  "name": "Easton Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "30 Centre Square Easton, PA",
+  "locationCity": "30 Centre Square Easton",
+  "locationState": "PA",
+  "locationZipcode": "18042",
+  "lat": 40.69070199536657,
+  "lon": -75.20985101126593,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "florida-fields-to-forks-1200-corey-road",
+  "name": "Florida Fields to Forks",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1200 Corey Road, FL",
+  "locationCity": "1200 Corey Road",
+  "locationState": "FL",
+  "locationZipcode": "32950",
+  "lat": 28.006461,
+  "lon": -80.590438,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.805Z"
+}

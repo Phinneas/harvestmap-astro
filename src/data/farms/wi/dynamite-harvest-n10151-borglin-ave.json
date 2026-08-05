@@ -1,0 +1,19 @@
+{
+  "slug": "dynamite-harvest-n10151-borglin-ave",
+  "name": "Dynamite Harvest",
+  "source": "usda",
+  "directory": "csa",
+  "location": "N10151 Borglin Ave, WI",
+  "locationCity": "N10151 Borglin Ave",
+  "locationState": "WI",
+  "locationZipcode": "54437",
+  "lat": 44.786484993429156,
+  "lon": -90.58835709029266,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.028Z"
+}

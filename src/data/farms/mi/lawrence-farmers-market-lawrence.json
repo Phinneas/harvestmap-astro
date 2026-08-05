@@ -1,0 +1,19 @@
+{
+  "slug": "lawrence-farmers-market-lawrence",
+  "name": "Lawrence Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Lawrence, MI",
+  "locationCity": "Lawrence",
+  "locationState": "MI",
+  "locationZipcode": "49064",
+  "lat": 42.219637,
+  "lon": -86.048868,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.183Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.183Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fir-point-farms-601-arndt-road",
+  "name": "Fir Point Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "601 Arndt Road, OR",
+  "locationCity": "601 Arndt Road",
+  "locationState": "OR",
+  "locationZipcode": "97002",
+  "lat": 45.2595899930501,
+  "lon": -122.803924383473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.962Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.962Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "autumn-hills-orchard-495-chicopee-row",
+  "name": "Autumn Hills Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "495 Chicopee Row, MA",
+  "locationCity": "495 Chicopee Row",
+  "locationState": "MA",
+  "locationZipcode": "01450",
+  "lat": 42.639123877808,
+  "lon": -71.5448521969583,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.454Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.454Z",
+  "crops": []
+}

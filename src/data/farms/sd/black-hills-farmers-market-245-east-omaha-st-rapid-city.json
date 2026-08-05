@@ -1,0 +1,19 @@
+{
+  "slug": "black-hills-farmers-market-245-east-omaha-st-rapid-city",
+  "name": "Black Hills Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "245 East Omaha St Rapid City, SD",
+  "locationCity": "245 East Omaha St Rapid City",
+  "locationState": "SD",
+  "locationZipcode": "57701",
+  "lat": 44.08143717473823,
+  "lon": -103.20879799647663,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:14.872Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:14.872Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "charles-town-farmers-market-100-block-of-south-samuel-street",
+  "name": "Charles Town Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 block of South Samuel Street, WV",
+  "locationCity": "100 block of South Samuel Street",
+  "locationState": "WV",
+  "locationZipcode": "25414",
+  "lat": 39.289073,
+  "lon": -77.858454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:36.627Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:36.627Z"
+}

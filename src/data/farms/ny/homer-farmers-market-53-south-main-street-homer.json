@@ -1,0 +1,19 @@
+{
+  "slug": "homer-farmers-market-53-south-main-street-homer",
+  "name": "Homer Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "53 South Main Street Homer, NY",
+  "locationCity": "53 South Main Street Homer",
+  "locationState": "NY",
+  "locationZipcode": "13077",
+  "lat": 42.63538995612541,
+  "lon": -76.17869233782311,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

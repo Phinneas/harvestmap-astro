@@ -1,0 +1,19 @@
+{
+  "slug": "beans-greens-farmstand-245-intervale-road-rt-11b",
+  "name": "Beans Greens Farmstand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "245 Intervale Road rt. 11b, NH",
+  "locationCity": "245 Intervale Road rt. 11b",
+  "locationState": "NH",
+  "locationZipcode": "03249",
+  "lat": 43.57243400233446,
+  "lon": -71.39534201072313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.964Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.964Z"
+}

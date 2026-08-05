@@ -1,0 +1,19 @@
+{
+  "slug": "sperry-honey-750-highway-46",
+  "name": "Sperry Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "750 Highway 46, ND",
+  "locationCity": "750 Highway 46",
+  "locationState": "ND",
+  "locationZipcode": "58051",
+  "lat": 46.6302500137269,
+  "lon": -96.89211071048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:54.860Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:54.860Z"
+}

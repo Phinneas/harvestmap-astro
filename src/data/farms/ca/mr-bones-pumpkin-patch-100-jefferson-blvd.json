@@ -1,0 +1,19 @@
+{
+  "slug": "mr-bones-pumpkin-patch-100-jefferson-blvd",
+  "name": "Mr. Bones Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 Jefferson Blvd, CA",
+  "locationCity": "100 Jefferson Blvd",
+  "locationState": "CA",
+  "locationZipcode": "90069",
+  "lat": 34.001248688822,
+  "lon": -118.39484562398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.748Z"
+}

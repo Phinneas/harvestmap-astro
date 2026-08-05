@@ -1,0 +1,19 @@
+{
+  "slug": "mcgrath-family-farm-csa-1012-west-ventura-blvd",
+  "name": "McGrath Family Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1012 West Ventura Blvd., CA",
+  "locationCity": "1012 West Ventura Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "93010",
+  "lat": 34.2212685,
+  "lon": -119.104878,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.039Z"
+}

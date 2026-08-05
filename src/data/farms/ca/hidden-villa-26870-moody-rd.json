@@ -1,0 +1,19 @@
+{
+  "slug": "hidden-villa-26870-moody-rd",
+  "name": "Hidden Villa",
+  "source": "usda",
+  "directory": "csa",
+  "location": "26870 moody rd, CA",
+  "locationCity": "26870 moody rd",
+  "locationState": "CA",
+  "locationZipcode": "26870",
+  "lat": 37.35112432732765,
+  "lon": -122.16103035125928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.073Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.073Z"
+}

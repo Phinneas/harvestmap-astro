@@ -1,0 +1,19 @@
+{
+  "slug": "wake-forest-farmers-market-150-south-white-st",
+  "name": "Wake Forest Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 South White St., NC",
+  "locationCity": "150 South White St.",
+  "locationState": "NC",
+  "locationZipcode": "27587",
+  "lat": 35.97805202627205,
+  "lon": -78.50975316248432,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

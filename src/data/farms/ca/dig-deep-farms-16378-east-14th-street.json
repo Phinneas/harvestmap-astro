@@ -1,0 +1,19 @@
+{
+  "slug": "dig-deep-farms-16378-east-14th-street",
+  "name": "Dig Deep Farms",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "16378 East 14th Street, CA",
+  "locationCity": "16378 East 14th Street",
+  "locationState": "CA",
+  "locationZipcode": "16378",
+  "lat": 37.695271986394786,
+  "lon": -122.11385398270276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "crawford-organics-549-w-main-st",
+  "name": "Crawford Organics",
+  "source": "usda",
+  "directory": "csa",
+  "location": "549 W Main St, PA",
+  "locationCity": "549 W Main St",
+  "locationState": "PA",
+  "locationZipcode": "17557",
+  "lat": 40.09777295407736,
+  "lon": -76.10361343068239,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.588Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.588Z"
+}

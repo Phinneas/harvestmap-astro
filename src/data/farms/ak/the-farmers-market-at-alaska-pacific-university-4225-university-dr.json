@@ -1,0 +1,19 @@
+{
+  "slug": "the-farmers-market-at-alaska-pacific-university-4225-university-dr",
+  "name": "The Farmers Market at Alaska Pacific University",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4225 University Dr, AK",
+  "locationCity": "4225 University Dr",
+  "locationState": "AK",
+  "locationZipcode": "99508",
+  "lat": 61.18929434157408,
+  "lon": -149.80389927039104,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

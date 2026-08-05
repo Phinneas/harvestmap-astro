@@ -1,0 +1,19 @@
+{
+  "slug": "sugar-grove-farmers-market-10-municipal-drive-sugar-grove",
+  "name": "Sugar Grove Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Municipal Drive Sugar Grove, IL",
+  "locationCity": "10 Municipal Drive Sugar Grove",
+  "locationState": "IL",
+  "locationZipcode": "60554",
+  "lat": 41.764421990031565,
+  "lon": -88.45463903083217,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

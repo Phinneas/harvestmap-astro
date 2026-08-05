@@ -1,0 +1,19 @@
+{
+  "slug": "eastie-farm-6-chelsea-terrace",
+  "name": "Eastie Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6 Chelsea Terrace, MA",
+  "locationCity": "6 Chelsea Terrace",
+  "locationState": "MA",
+  "locationZipcode": "02128",
+  "lat": 42.373659700329256,
+  "lon": -71.03520012974515,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.282Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.282Z"
+}

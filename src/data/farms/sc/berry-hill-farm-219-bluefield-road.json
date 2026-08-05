@@ -1,0 +1,19 @@
+{
+  "slug": "berry-hill-farm-219-bluefield-road",
+  "name": "Berry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "219 Bluefield Road, SC",
+  "locationCity": "219 Bluefield Road",
+  "locationState": "SC",
+  "locationZipcode": "29073",
+  "lat": 33.8907900051637,
+  "lon": -81.2128699855939,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.887Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.887Z"
+}

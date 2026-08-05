@@ -1,0 +1,19 @@
+{
+  "slug": "groundworks-organic-farm-8284-gumboro-rd",
+  "name": "Groundworks Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8284 Gumboro Rd, MD",
+  "locationCity": "8284 Gumboro Rd",
+  "locationState": "MD",
+  "locationZipcode": "21850",
+  "lat": 38.41798147112968,
+  "lon": -75.41084108660502,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.724Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.724Z"
+}

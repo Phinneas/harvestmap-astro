@@ -1,0 +1,19 @@
+{
+  "slug": "newport-farmer-s-market-424-heritage-blvd-newport",
+  "name": "Newport Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "424 Heritage Blvd. Newport, TN",
+  "locationCity": "424 Heritage Blvd. Newport",
+  "locationState": "TN",
+  "locationZipcode": "37821",
+  "lat": 35.94484205180432,
+  "lon": -83.19864433648205,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cape-riverfront-market-35-s-spanish-street",
+  "name": "Cape Riverfront Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "35 S Spanish Street, MO",
+  "locationCity": "35 S Spanish Street",
+  "locationState": "MO",
+  "locationZipcode": "63703",
+  "lat": 37.302782,
+  "lon": -89.519952,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.456Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.456Z"
+}

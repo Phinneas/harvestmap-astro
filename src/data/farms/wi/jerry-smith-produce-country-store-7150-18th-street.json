@@ -1,0 +1,19 @@
+{
+  "slug": "jerry-smith-produce-country-store-7150-18th-street",
+  "name": "Jerry Smith Produce Country Store",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7150 18th Street, WI",
+  "locationCity": "7150 18th Street",
+  "locationState": "WI",
+  "locationZipcode": "53144",
+  "lat": 42.62581898953104,
+  "lon": -87.89393999981412,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:17.537Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:17.537Z"
+}

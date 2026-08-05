@@ -1,0 +1,20 @@
+{
+  "slug": "kh-farm-200-west-tank-hollow-road",
+  "name": "KH Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 West Tank Hollow Road, TX",
+  "locationCity": "200 West Tank Hollow Road",
+  "locationState": "TX",
+  "locationZipcode": "78065",
+  "lat": 29.0502309887904,
+  "lon": -98.6549130355264,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.412Z",
+  "crops": []
+}

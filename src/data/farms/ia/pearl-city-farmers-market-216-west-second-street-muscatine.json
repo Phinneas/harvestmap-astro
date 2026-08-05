@@ -1,0 +1,19 @@
+{
+  "slug": "pearl-city-farmers-market-216-west-second-street-muscatine",
+  "name": "Pearl City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "216 West Second Street Muscatine, IA",
+  "locationCity": "216 West Second Street Muscatine",
+  "locationState": "IA",
+  "locationZipcode": "52761",
+  "lat": 41.42055653369886,
+  "lon": -91.04704105635876,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

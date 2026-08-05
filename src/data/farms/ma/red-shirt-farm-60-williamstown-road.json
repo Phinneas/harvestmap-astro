@@ -1,0 +1,19 @@
+{
+  "slug": "red-shirt-farm-60-williamstown-road",
+  "name": "Red Shirt Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "60 Williamstown Road, MA",
+  "locationCity": "60 Williamstown Road",
+  "locationState": "MA",
+  "locationZipcode": "01237",
+  "lat": 42.5415471,
+  "lon": -73.2314058,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.268Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kodiak-fresh-produce-450-n-400-w",
+  "name": "Kodiak Fresh Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "450 n 400 w, UT",
+  "locationCity": "450 n 400 w",
+  "locationState": "UT",
+  "locationZipcode": "84054",
+  "lat": 40.85120785555392,
+  "lon": -111.92015382085003,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:27.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:27.057Z"
+}

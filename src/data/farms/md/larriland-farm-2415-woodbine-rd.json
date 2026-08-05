@@ -1,0 +1,20 @@
+{
+  "slug": "larriland-farm-2415-woodbine-rd",
+  "name": "Larriland Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2415 Woodbine Rd, MD",
+  "locationCity": "2415 Woodbine Rd",
+  "locationState": "MD",
+  "locationZipcode": "21797",
+  "lat": 39.3148050034953,
+  "lon": -77.1035059993637,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.199Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.199Z",
+  "crops": []
+}

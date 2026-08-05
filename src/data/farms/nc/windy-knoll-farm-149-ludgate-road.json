@@ -1,0 +1,19 @@
+{
+  "slug": "windy-knoll-farm-149-ludgate-road",
+  "name": "Windy Knoll Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "149 Ludgate Road, NC",
+  "locationCity": "149 Ludgate Road",
+  "locationState": "NC",
+  "locationZipcode": "27249",
+  "lat": 36.159250918727,
+  "lon": -79.5612515888784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.770Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.770Z"
+}

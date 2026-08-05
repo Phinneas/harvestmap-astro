@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-marshfield-downtown-farmers-market-139-south-central-avenue-marshfield",
+  "name": "Main Street Marshfield Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "139 South Central Avenue Marshfield, WI",
+  "locationCity": "139 South Central Avenue Marshfield",
+  "locationState": "WI",
+  "locationZipcode": "54449",
+  "lat": 44.666259124462904,
+  "lon": -90.17391978956462,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

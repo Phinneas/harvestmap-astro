@@ -1,0 +1,19 @@
+{
+  "slug": "farmfed-co-op-108-s-washington-st",
+  "name": "FarmFED Co-op",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "108 S. Washington St., IL",
+  "locationCity": "108 S. Washington St.",
+  "locationState": "IL",
+  "locationZipcode": "62548",
+  "lat": 40.0092339888258,
+  "lon": -89.28554002627989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:51.763Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:51.763Z"
+}

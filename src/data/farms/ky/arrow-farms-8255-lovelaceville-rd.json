@@ -1,0 +1,19 @@
+{
+  "slug": "arrow-farms-8255-lovelaceville-rd",
+  "name": "Arrow Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8255 Lovelaceville Rd, KY",
+  "locationCity": "8255 Lovelaceville Rd",
+  "locationState": "KY",
+  "locationZipcode": "42001",
+  "lat": 37.00370102049955,
+  "lon": -88.78550996481698,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:19.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:19.406Z"
+}

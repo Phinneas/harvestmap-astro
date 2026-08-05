@@ -1,0 +1,19 @@
+{
+  "slug": "onamia-area-farmers-market-108-wall-st",
+  "name": "Onamia Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "108 Wall St, MN",
+  "locationCity": "108 Wall St",
+  "locationState": "MN",
+  "locationZipcode": "56359",
+  "lat": 46.0719151,
+  "lon": -93.6591812,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cabot-farmers-market-1122-south-second-street-cabot",
+  "name": "Cabot Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1122 South Second Street Cabot, AR",
+  "locationCity": "1122 South Second Street Cabot",
+  "locationState": "AR",
+  "locationZipcode": "72023",
+  "lat": 34.96608541807412,
+  "lon": -92.02584401120338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

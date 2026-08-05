@@ -1,0 +1,19 @@
+{
+  "slug": "cortelyou-greenmarket-1305-cortelyou-rd",
+  "name": "Cortelyou Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1305 Cortelyou Rd, NY",
+  "locationCity": "1305 Cortelyou Rd",
+  "locationState": "NY",
+  "locationZipcode": "11226",
+  "lat": 40.64048360189466,
+  "lon": -73.96607500022274,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

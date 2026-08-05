@@ -1,0 +1,19 @@
+{
+  "slug": "johnson-county-farmers-market-826-f-m-stafford-ave",
+  "name": "Johnson County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "826 F. M. Stafford Ave., KY",
+  "locationCity": "826 F. M. Stafford Ave.",
+  "locationState": "KY",
+  "locationZipcode": "41240",
+  "lat": 37.812048,
+  "lon": -82.8042,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.723Z"
+}

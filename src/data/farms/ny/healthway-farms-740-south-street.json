@@ -1,0 +1,19 @@
+{
+  "slug": "healthway-farms-740-south-street",
+  "name": "Healthway Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "740 South Street, NY",
+  "locationCity": "740 South Street",
+  "locationState": "NY",
+  "locationZipcode": "12528",
+  "lat": 41.6433196,
+  "lon": -74.0359565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

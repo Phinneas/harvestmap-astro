@@ -1,0 +1,19 @@
+{
+  "slug": "goods-from-the-woods-125-hwy-c",
+  "name": "Goods From The Woods",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "125 Hwy C, MO",
+  "locationCity": "125 Hwy C",
+  "locationState": "MO",
+  "locationZipcode": "65542",
+  "lat": 37.4993300436517,
+  "lon": -91.8495513648306,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.811Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.811Z"
+}

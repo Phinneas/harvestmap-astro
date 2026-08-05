@@ -1,0 +1,19 @@
+{
+  "slug": "havencroft-farm-17467-highway-66",
+  "name": "Havencroft Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "17467 Highway 66, AR",
+  "locationCity": "17467 Highway 66",
+  "locationState": "AR",
+  "locationZipcode": "17467",
+  "lat": 35.86628765606615,
+  "lon": -92.16095735885247,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.045Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.045Z"
+}

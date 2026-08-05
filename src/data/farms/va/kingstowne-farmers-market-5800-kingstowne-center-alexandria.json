@@ -1,0 +1,19 @@
+{
+  "slug": "kingstowne-farmers-market-5800-kingstowne-center-alexandria",
+  "name": "Kingstowne Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5800 Kingstowne Center Alexandria, VA",
+  "locationCity": "5800 Kingstowne Center Alexandria",
+  "locationState": "VA",
+  "locationZipcode": "22315",
+  "lat": 38.775264945746684,
+  "lon": -77.13492610851617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

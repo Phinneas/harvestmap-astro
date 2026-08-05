@@ -1,0 +1,19 @@
+{
+  "slug": "larry-s-produce-606-suisun-valley-road",
+  "name": "Larry's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "606 Suisun Valley Road, CA",
+  "locationCity": "606 Suisun Valley Road",
+  "locationState": "CA",
+  "locationZipcode": "94534",
+  "lat": 38.2918974214109,
+  "lon": -122.119388846071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.810Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.810Z"
+}

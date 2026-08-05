@@ -1,0 +1,20 @@
+{
+  "slug": "wood-duck-farm-143-pine-valley-road",
+  "name": "Wood Duck Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "143 Pine Valley Road, TX",
+  "locationCity": "143 Pine Valley Road",
+  "locationState": "TX",
+  "locationZipcode": "77328",
+  "lat": 30.3734560172881,
+  "lon": -95.1745020016909,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.471Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.471Z",
+  "crops": []
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "friendswood-farmers-market-1100-s-friendswood-dr",
+  "name": "Friendswood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1100 S Friendswood Dr., TX",
+  "locationCity": "1100 S Friendswood Dr.",
+  "locationState": "TX",
+  "locationZipcode": "77546",
+  "lat": 29.520767,
+  "lon": -95.191302,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.014Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.014Z",
+  "crops": []
+}

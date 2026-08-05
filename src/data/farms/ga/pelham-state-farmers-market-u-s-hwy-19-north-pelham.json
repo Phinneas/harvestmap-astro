@@ -1,0 +1,19 @@
+{
+  "slug": "pelham-state-farmers-market-u-s-hwy-19-north-pelham",
+  "name": "Pelham State Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "U.S. Hwy 19 North Pelham, GA",
+  "locationCity": "U.S. Hwy 19 North Pelham",
+  "locationState": "GA",
+  "locationZipcode": "31779",
+  "lat": 31.121129376127314,
+  "lon": -84.1397573998364,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

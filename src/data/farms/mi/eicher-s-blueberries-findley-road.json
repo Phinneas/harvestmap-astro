@@ -1,0 +1,19 @@
+{
+  "slug": "eicher-s-blueberries-findley-road",
+  "name": "Eicher's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Findley Road, MI",
+  "locationCity": "Findley Road",
+  "locationState": "MI",
+  "locationZipcode": "49030",
+  "lat": 41.8943699877217,
+  "lon": -85.3705030858089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.651Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.651Z"
+}

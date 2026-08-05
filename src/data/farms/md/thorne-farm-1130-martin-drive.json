@@ -1,0 +1,19 @@
+{
+  "slug": "thorne-farm-1130-martin-drive",
+  "name": "Thorne Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1130 Martin Drive, MD",
+  "locationCity": "1130 Martin Drive",
+  "locationState": "MD",
+  "locationZipcode": "21157",
+  "lat": 39.598136,
+  "lon": -76.956602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:14.273Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:14.273Z"
+}

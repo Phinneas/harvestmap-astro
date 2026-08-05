@@ -1,0 +1,19 @@
+{
+  "slug": "chamberlain-acres-farmers-market-824-broadway-st",
+  "name": "Chamberlain Acres Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "824 Broadway St, NY",
+  "locationCity": "824 Broadway St",
+  "locationState": "NY",
+  "locationZipcode": "14904",
+  "lat": 42.06598892493555,
+  "lon": -76.81581000262747,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

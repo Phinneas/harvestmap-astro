@@ -1,0 +1,19 @@
+{
+  "slug": "anderson-farm-1575-underwood-ave",
+  "name": "Anderson Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1575 Underwood Ave, IA",
+  "locationCity": "1575 Underwood Ave",
+  "locationState": "IA",
+  "locationZipcode": "52761",
+  "lat": 41.509551,
+  "lon": -90.927414,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:40.597Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:40.597Z"
+}

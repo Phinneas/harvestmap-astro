@@ -1,0 +1,19 @@
+{
+  "slug": "heartland-farms-111-osage-road",
+  "name": "Heartland Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "111 Osage Road, IA",
+  "locationCity": "111 Osage Road",
+  "locationState": "IA",
+  "locationZipcode": "50703",
+  "lat": 42.4832195538272,
+  "lon": -92.1996247101297,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.649Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.649Z"
+}

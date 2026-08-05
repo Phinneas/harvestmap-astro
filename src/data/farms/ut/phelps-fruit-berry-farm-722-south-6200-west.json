@@ -1,0 +1,19 @@
+{
+  "slug": "phelps-fruit-berry-farm-722-south-6200-west",
+  "name": "Phelps Fruit & Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "722 South 6200 West, UT",
+  "locationCity": "722 South 6200 West",
+  "locationState": "UT",
+  "locationZipcode": "84651",
+  "lat": 40.0630198063205,
+  "lon": -111.800345838943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.418Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.418Z"
+}

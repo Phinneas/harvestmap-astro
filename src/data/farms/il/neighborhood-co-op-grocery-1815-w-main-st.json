@@ -1,0 +1,19 @@
+{
+  "slug": "neighborhood-co-op-grocery-1815-w-main-st",
+  "name": "Neighborhood Co-op Grocery",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1815 W Main St, IL",
+  "locationCity": "1815 W Main St",
+  "locationState": "IL",
+  "locationZipcode": "62901",
+  "lat": 37.72870098600569,
+  "lon": -89.24006199894475,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:51.763Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:51.763Z"
+}

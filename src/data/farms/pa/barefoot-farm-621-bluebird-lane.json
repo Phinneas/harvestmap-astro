@@ -1,0 +1,19 @@
+{
+  "slug": "barefoot-farm-621-bluebird-lane",
+  "name": "Barefoot Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "621 Bluebird Lane, PA",
+  "locationCity": "621 Bluebird Lane",
+  "locationState": "PA",
+  "locationZipcode": "17315",
+  "lat": 40.0735866968776,
+  "lon": -76.8562599722558,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.070Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.070Z"
+}

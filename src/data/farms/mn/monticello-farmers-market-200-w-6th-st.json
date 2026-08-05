@@ -1,0 +1,19 @@
+{
+  "slug": "monticello-farmers-market-200-w-6th-st",
+  "name": "Monticello Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 W 6th St, MN",
+  "locationCity": "200 W 6th St",
+  "locationState": "MN",
+  "locationZipcode": "55362",
+  "lat": 45.3019381,
+  "lon": -93.7989597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

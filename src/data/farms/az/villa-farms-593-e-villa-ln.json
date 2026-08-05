@@ -1,0 +1,19 @@
+{
+  "slug": "villa-farms-593-e-villa-ln",
+  "name": "Villa Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "593 E Villa Ln, AZ",
+  "locationCity": "593 E Villa Ln",
+  "locationState": "AZ",
+  "locationZipcode": "85132",
+  "lat": 32.9702049926716,
+  "lon": -111.35682500962,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.787Z"
+}

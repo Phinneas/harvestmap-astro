@@ -1,0 +1,19 @@
+{
+  "slug": "bluff-falls-2801-cheshire-blvd",
+  "name": "Bluff Falls",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2801 Cheshire Blvd, MO",
+  "locationCity": "2801 Cheshire Blvd",
+  "locationState": "MO",
+  "locationZipcode": "63901",
+  "lat": 36.7324260048254,
+  "lon": -90.402551000194,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.777Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.777Z"
+}

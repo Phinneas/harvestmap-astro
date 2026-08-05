@@ -1,0 +1,19 @@
+{
+  "slug": "madge-farms-18-marcy-street",
+  "name": "Madge Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "18 Marcy Street, NJ",
+  "locationCity": "18 Marcy Street",
+  "locationState": "NJ",
+  "locationZipcode": "07728",
+  "lat": 40.2569750000001,
+  "lon": -74.2721299999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.220Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "nola-tilth-14000-dwyer-blvd",
+  "name": "Nola Tilth",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "14000 Dwyer Blvd., LA",
+  "locationCity": "14000 Dwyer Blvd.",
+  "locationState": "LA",
+  "locationZipcode": "14000",
+  "lat": 30.040159,
+  "lon": -89.918309,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.050Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.050Z"
+}

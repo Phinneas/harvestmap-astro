@@ -1,0 +1,20 @@
+{
+  "slug": "borner-farm-project-1266-walnut-st",
+  "name": "Borner Farm Project",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1266 Walnut St, WI",
+  "locationCity": "1266 Walnut St",
+  "locationState": "WI",
+  "locationZipcode": "54021",
+  "lat": 44.7519363,
+  "lon": -92.7898271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.002Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.002Z",
+  "crops": []
+}

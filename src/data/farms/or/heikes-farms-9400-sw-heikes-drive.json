@@ -1,0 +1,19 @@
+{
+  "slug": "heikes-farms-9400-sw-heikes-drive",
+  "name": "Heikes Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "9400 Sw Heikes Drive, OR",
+  "locationCity": "9400 Sw Heikes Drive",
+  "locationState": "OR",
+  "locationZipcode": "97123",
+  "lat": 45.44241300571821,
+  "lon": -122.95948499951487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.522Z"
+}

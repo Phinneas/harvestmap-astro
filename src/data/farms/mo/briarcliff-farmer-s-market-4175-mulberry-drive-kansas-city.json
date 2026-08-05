@@ -1,0 +1,19 @@
+{
+  "slug": "briarcliff-farmer-s-market-4175-mulberry-drive-kansas-city",
+  "name": "Briarcliff Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4175 mulberry drive kansas city, MO",
+  "locationCity": "4175 mulberry drive kansas city",
+  "locationState": "MO",
+  "locationZipcode": "64116",
+  "lat": 39.169925108598136,
+  "lon": -94.59928989894141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.492Z"
+}

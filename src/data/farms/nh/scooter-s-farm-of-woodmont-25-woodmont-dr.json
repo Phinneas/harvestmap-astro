@@ -1,0 +1,20 @@
+{
+  "slug": "scooter-s-farm-of-woodmont-25-woodmont-dr",
+  "name": "Scooter's Farm of Woodmont",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "25 Woodmont Dr., NH",
+  "locationCity": "25 Woodmont Dr.",
+  "locationState": "NH",
+  "locationZipcode": "03049",
+  "lat": 42.7741619957491,
+  "lon": -71.5910430213395,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.629Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.629Z",
+  "crops": []
+}

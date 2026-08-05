@@ -1,0 +1,19 @@
+{
+  "slug": "henry-produce-451-louisiana-street",
+  "name": "Henry Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "451 Louisiana Street, LA",
+  "locationCity": "451 Louisiana Street",
+  "locationState": "LA",
+  "locationZipcode": "71295",
+  "lat": 32.15361500724853,
+  "lon": -91.6805179844054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mad-brook-farm-46-high-street",
+  "name": "Mad Brook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "46 High Street, NH",
+  "locationCity": "46 High Street",
+  "locationState": "NH",
+  "locationZipcode": "03602",
+  "lat": 43.1508400000001,
+  "lon": -72.36497,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.715Z"
+}

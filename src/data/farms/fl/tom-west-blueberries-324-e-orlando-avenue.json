@@ -1,0 +1,20 @@
+{
+  "slug": "tom-west-blueberries-324-e-orlando-avenue",
+  "name": "Tom West Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "324 E. Orlando Avenue, FL",
+  "locationCity": "324 E. Orlando Avenue",
+  "locationState": "FL",
+  "locationZipcode": "34761",
+  "lat": 28.5645119792616,
+  "lon": -81.5397010098862,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.830Z",
+  "crops": []
+}

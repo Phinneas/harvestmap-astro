@@ -1,0 +1,19 @@
+{
+  "slug": "kensington-farmers-market-kensington-train-station-parking-lot",
+  "name": "Kensington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Kensington train station parking lot, MD",
+  "locationCity": "Kensington train station parking lot",
+  "locationState": "MD",
+  "locationZipcode": "20895",
+  "lat": 39.026476,
+  "lon": -77.073728,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.491Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.491Z"
+}

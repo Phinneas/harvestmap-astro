@@ -1,0 +1,19 @@
+{
+  "slug": "little-farmer-438-hwy-151",
+  "name": "Little Farmer",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "438 Hwy 151, WI",
+  "locationCity": "438 Hwy 151",
+  "locationState": "WI",
+  "locationZipcode": "53049",
+  "lat": 43.9145077853544,
+  "lon": -88.3129970323546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.245Z"
+}

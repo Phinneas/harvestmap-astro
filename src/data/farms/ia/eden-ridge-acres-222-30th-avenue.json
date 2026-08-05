@@ -1,0 +1,20 @@
+{
+  "slug": "eden-ridge-acres-222-30th-avenue",
+  "name": "Eden Ridge Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "222 30th Avenue, IA",
+  "locationCity": "222 30th Avenue",
+  "locationState": "IA",
+  "locationZipcode": "50229",
+  "lat": 41.3769856043467,
+  "lon": -93.7510552057949,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.640Z",
+  "crops": []
+}

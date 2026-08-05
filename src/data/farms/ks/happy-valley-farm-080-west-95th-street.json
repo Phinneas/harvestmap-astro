@@ -1,0 +1,19 @@
+{
+  "slug": "happy-valley-farm-080-west-95th-street",
+  "name": "Happy Valley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "080 West 95th Street, KS",
+  "locationCity": "080 West 95th Street",
+  "locationState": "KS",
+  "locationZipcode": "66018",
+  "lat": 38.9568126981058,
+  "lon": -95.0193961697425,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.081Z"
+}

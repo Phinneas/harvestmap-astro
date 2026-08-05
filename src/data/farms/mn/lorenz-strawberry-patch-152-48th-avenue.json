@@ -1,0 +1,19 @@
+{
+  "slug": "lorenz-strawberry-patch-152-48th-avenue",
+  "name": "Lorenz Strawberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "152 48th Avenue, MN",
+  "locationCity": "152 48th Avenue",
+  "locationState": "MN",
+  "locationZipcode": "56345",
+  "lat": 45.9552744632449,
+  "lon": -94.5613906470821,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.791Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.791Z"
+}

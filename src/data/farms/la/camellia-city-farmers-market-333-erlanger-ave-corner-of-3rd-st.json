@@ -1,0 +1,19 @@
+{
+  "slug": "camellia-city-farmers-market-333-erlanger-ave-corner-of-3rd-st",
+  "name": "Camellia City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "333 Erlanger Ave. (corner of 3rd. St.), LA",
+  "locationCity": "333 Erlanger Ave. (corner of 3rd. St.)",
+  "locationState": "LA",
+  "locationZipcode": "70458",
+  "lat": 30.275994,
+  "lon": -89.780754,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.664Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.664Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "forraht-farms-960-east-lemon-creek-rd",
+  "name": "Forraht Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "960 East Lemon Creek Rd, MI",
+  "locationCity": "960 East Lemon Creek Rd",
+  "locationState": "MI",
+  "locationZipcode": "49103",
+  "lat": 41.9557199869099,
+  "lon": -86.4360289771278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.571Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.571Z"
+}

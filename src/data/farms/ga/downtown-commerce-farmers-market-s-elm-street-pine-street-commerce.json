@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-commerce-farmers-market-s-elm-street-pine-street-commerce",
+  "name": "Downtown Commerce Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S. Elm Street & Pine Street Commerce, GA",
+  "locationCity": "S. Elm Street & Pine Street Commerce",
+  "locationState": "GA",
+  "locationZipcode": "30529",
+  "lat": 34.20239999620355,
+  "lon": -83.45648996692918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

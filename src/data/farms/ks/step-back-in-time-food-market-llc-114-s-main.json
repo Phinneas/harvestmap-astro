@@ -1,0 +1,19 @@
+{
+  "slug": "step-back-in-time-food-market-llc-114-s-main",
+  "name": "STEP BACK IN TIME FOOD MARKET LLC",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "114 S. Main, KS",
+  "locationCity": "114 S. Main",
+  "locationState": "KS",
+  "locationZipcode": "67649",
+  "lat": 39.11262966717645,
+  "lon": -98.69203082355457,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

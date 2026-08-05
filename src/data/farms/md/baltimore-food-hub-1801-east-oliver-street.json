@@ -1,0 +1,19 @@
+{
+  "slug": "baltimore-food-hub-1801-east-oliver-street",
+  "name": "Baltimore Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1801 East Oliver Street, MD",
+  "locationCity": "1801 East Oliver Street",
+  "locationState": "MD",
+  "locationZipcode": "21213",
+  "lat": 39.30724599366414,
+  "lon": -76.59167799008623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:12.417Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:12.417Z"
+}

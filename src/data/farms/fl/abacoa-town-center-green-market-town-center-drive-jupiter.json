@@ -1,0 +1,19 @@
+{
+  "slug": "abacoa-town-center-green-market-town-center-drive-jupiter",
+  "name": "Abacoa Town Center Green Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Town Center Drive Jupiter, FL",
+  "locationCity": "Town Center Drive Jupiter",
+  "locationState": "FL",
+  "locationZipcode": "33458",
+  "lat": 26.889722300597697,
+  "lon": -80.11462126032335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.574Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "becker-farms-3724-quaker-road",
+  "name": "Becker Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3724 Quaker Road, NY",
+  "locationCity": "3724 Quaker Road",
+  "locationState": "NY",
+  "locationZipcode": "14067",
+  "lat": 43.22487369329895,
+  "lon": -78.55832309394997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.461Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "twin-maple-orchards-15317-cleveland-avenue",
+  "name": "Twin Maple Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15317 Cleveland Avenue, MI",
+  "locationCity": "15317 Cleveland Avenue",
+  "locationState": "MI",
+  "locationZipcode": "15317",
+  "lat": 41.840579805528,
+  "lon": -86.4943216425348,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.675Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.675Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "harmony-homestead-farms-970511-s-3340-rd",
+  "name": "Harmony Homestead Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "970511 S. 3340 Rd, OK",
+  "locationCity": "970511 S. 3340 Rd",
+  "locationState": "OK",
+  "locationZipcode": "74881",
+  "lat": 35.600254,
+  "lon": -97.0570879,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:27.094Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:27.094Z"
+}

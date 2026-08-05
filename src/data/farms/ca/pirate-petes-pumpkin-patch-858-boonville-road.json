@@ -1,0 +1,19 @@
+{
+  "slug": "pirate-petes-pumpkin-patch-858-boonville-road",
+  "name": "Pirate Petes Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "858 Boonville Road, CA",
+  "locationCity": "858 Boonville Road",
+  "locationState": "CA",
+  "locationZipcode": "95482",
+  "lat": 39.0991683292454,
+  "lon": -123.207575991479,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.754Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.754Z"
+}

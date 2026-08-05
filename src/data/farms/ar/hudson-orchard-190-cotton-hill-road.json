@@ -1,0 +1,19 @@
+{
+  "slug": "hudson-orchard-190-cotton-hill-road",
+  "name": "Hudson Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "190 Cotton Hill Road, AR",
+  "locationCity": "190 Cotton Hill Road",
+  "locationState": "AR",
+  "locationZipcode": "72058",
+  "lat": 35.2951086476888,
+  "lon": -92.3086165694094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.009Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.009Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "east-denver-food-hub-5080-paris-st",
+  "name": "East Denver Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5080 Paris St, CO",
+  "locationCity": "5080 Paris St",
+  "locationState": "CO",
+  "locationZipcode": "80239",
+  "lat": 39.7897946,
+  "lon": -104.84833,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:03.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:03.293Z"
+}

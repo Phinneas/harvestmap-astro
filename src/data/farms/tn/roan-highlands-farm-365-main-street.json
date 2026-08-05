@@ -1,0 +1,19 @@
+{
+  "slug": "roan-highlands-farm-365-main-street",
+  "name": "Roan Highlands Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "365 Main Street, TN",
+  "locationCity": "365 Main Street",
+  "locationState": "TN",
+  "locationZipcode": "37687",
+  "lat": 36.195455,
+  "lon": -82.0704049999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.125Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.125Z"
+}

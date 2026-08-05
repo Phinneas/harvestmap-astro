@@ -1,0 +1,19 @@
+{
+  "slug": "riverside-unified-school-district-food-hub-6050-industrial-avenue",
+  "name": "Riverside Unified School District Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "6050 Industrial Avenue, CA",
+  "locationCity": "6050 Industrial Avenue",
+  "locationState": "CA",
+  "locationZipcode": "92504",
+  "lat": 33.964115019870974,
+  "lon": -117.43224799513456,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

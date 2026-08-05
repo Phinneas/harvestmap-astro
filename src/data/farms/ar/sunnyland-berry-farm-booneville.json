@@ -1,0 +1,19 @@
+{
+  "slug": "sunnyland-berry-farm-booneville",
+  "name": "Sunnyland Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Booneville, AR",
+  "locationCity": "Booneville",
+  "locationState": "AR",
+  "locationZipcode": "72927",
+  "lat": 35.141975,
+  "lon": -93.946512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.056Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.056Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cherry-creek-valley-international-farmers-market-710-s-ash-st-denver",
+  "name": "Cherry Creek Valley International Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "710 S. Ash St. Denver, CO",
+  "locationCity": "710 S. Ash St. Denver",
+  "locationState": "CO",
+  "locationZipcode": "80246",
+  "lat": 39.70371318055,
+  "lon": -104.93817456399742,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.365Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.365Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "east-view-orchard-355-union-ave",
+  "name": "East View Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "355 Union Ave, IA",
+  "locationCity": "355 Union Ave",
+  "locationState": "IA",
+  "locationZipcode": "50630",
+  "lat": 42.9649897818396,
+  "lon": -92.1406879212316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.689Z"
+}

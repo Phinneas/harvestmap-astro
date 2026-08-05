@@ -1,0 +1,20 @@
+{
+  "slug": "didier-farms-16678-w-aptakisic-road",
+  "name": "Didier Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16678 W. Aptakisic Road, IL",
+  "locationCity": "16678 W. Aptakisic Road",
+  "locationState": "IL",
+  "locationZipcode": "16678",
+  "lat": 42.1829603808853,
+  "lon": -87.9605572707767,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.895Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.895Z",
+  "crops": []
+}

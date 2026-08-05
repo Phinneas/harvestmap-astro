@@ -1,0 +1,19 @@
+{
+  "slug": "black-bus-farm-96870-highway-241",
+  "name": "Black Bus Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "96870 Highway 241, OR",
+  "locationCity": "96870 Highway 241",
+  "locationState": "OR",
+  "locationZipcode": "96870",
+  "lat": 43.38001601555385,
+  "lon": -124.0994959995614,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.061Z"
+}

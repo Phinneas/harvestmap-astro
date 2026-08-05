@@ -1,0 +1,19 @@
+{
+  "slug": "gnp3-farms-651-road-173",
+  "name": "GNP3 Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "651 Road 173, NE",
+  "locationCity": "651 Road 173",
+  "locationState": "NE",
+  "locationZipcode": "69129",
+  "lat": 41.0372898306803,
+  "lon": -102.411688665889,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.236Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.236Z"
+}

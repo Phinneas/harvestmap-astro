@@ -1,0 +1,19 @@
+{
+  "slug": "university-avenue-farmers-market-4000-university-avenue-waterloo",
+  "name": "University Avenue Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4000 University Avenue Waterloo, IA",
+  "locationCity": "4000 University Avenue Waterloo",
+  "locationState": "IA",
+  "locationZipcode": "50701",
+  "lat": 42.505357273702685,
+  "lon": -92.40481581294226,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-1823-sandy-ridge-road",
+  "name": "Blueberry Hill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1823 Sandy Ridge Road, NC",
+  "locationCity": "1823 Sandy Ridge Road",
+  "locationState": "NC",
+  "locationZipcode": "27235",
+  "lat": 36.0644640941473,
+  "lon": -80.03719968723003,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.904Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.904Z"
+}

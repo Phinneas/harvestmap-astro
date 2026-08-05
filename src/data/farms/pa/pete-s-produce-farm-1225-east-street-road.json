@@ -1,0 +1,19 @@
+{
+  "slug": "pete-s-produce-farm-1225-east-street-road",
+  "name": "Pete's Produce Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1225 East Street Road, PA",
+  "locationCity": "1225 East Street Road",
+  "locationState": "PA",
+  "locationZipcode": "19382",
+  "lat": 39.94318081994689,
+  "lon": -75.53503490776524,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

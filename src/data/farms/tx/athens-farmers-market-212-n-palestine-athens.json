@@ -1,0 +1,19 @@
+{
+  "slug": "athens-farmers-market-212-n-palestine-athens",
+  "name": "Athens Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "212 N Palestine Athens, TX",
+  "locationCity": "212 N Palestine Athens",
+  "locationState": "TX",
+  "locationZipcode": "75751",
+  "lat": 32.20653504683729,
+  "lon": -95.85374333327724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dries-orchard-1724-dornsife-mountain-rd",
+  "name": "Dries Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1724 Dornsife Mountain Rd., PA",
+  "locationCity": "1724 Dornsife Mountain Rd.",
+  "locationState": "PA",
+  "locationZipcode": "17801",
+  "lat": 40.78001301771963,
+  "lon": -76.7560799684171,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.219Z"
+}

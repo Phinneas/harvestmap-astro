@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-fresh-csa-2011-ga-hwy-120",
+  "name": "Farmers Fresh CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2011 Ga Hwy 120, GA",
+  "locationCity": "2011 Ga Hwy 120",
+  "locationState": "GA",
+  "locationZipcode": "30176",
+  "lat": 33.764813017921895,
+  "lon": -85.2336520074092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.454Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.454Z"
+}

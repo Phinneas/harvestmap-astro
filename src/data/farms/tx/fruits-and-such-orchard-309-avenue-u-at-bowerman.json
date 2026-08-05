@@ -1,0 +1,19 @@
+{
+  "slug": "fruits-and-such-orchard-309-avenue-u-at-bowerman",
+  "name": "Fruits and Such Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "309 Avenue U (at Bowerman), TX",
+  "locationCity": "309 Avenue U (at Bowerman)",
+  "locationState": "TX",
+  "locationZipcode": "77539",
+  "lat": 29.4650100122509,
+  "lon": -94.9839199869819,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.427Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.427Z"
+}

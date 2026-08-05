@@ -1,0 +1,19 @@
+{
+  "slug": "farm-garden-station-1321-almshouse-road",
+  "name": "Farm & Garden Station",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1321 Almshouse Road, PA",
+  "locationCity": "1321 Almshouse Road",
+  "locationState": "PA",
+  "locationZipcode": "18974",
+  "lat": 40.2356499807144,
+  "lon": -75.0573260220966,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.085Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.085Z"
+}

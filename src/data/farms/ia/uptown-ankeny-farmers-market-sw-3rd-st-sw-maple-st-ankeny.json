@@ -1,0 +1,19 @@
+{
+  "slug": "uptown-ankeny-farmers-market-sw-3rd-st-sw-maple-st-ankeny",
+  "name": "Uptown Ankeny Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "SW 3rd St. & SW Maple St. Ankeny, IA",
+  "locationCity": "SW 3rd St. & SW Maple St. Ankeny",
+  "locationState": "IA",
+  "locationZipcode": "50023",
+  "lat": 41.729619992771006,
+  "lon": -93.60858001448614,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

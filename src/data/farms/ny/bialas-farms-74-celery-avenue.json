@@ -1,0 +1,19 @@
+{
+  "slug": "bialas-farms-74-celery-avenue",
+  "name": "Bialas Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "74 Celery Avenue, NY",
+  "locationCity": "74 Celery Avenue",
+  "locationState": "NY",
+  "locationZipcode": "10958",
+  "lat": 41.3719,
+  "lon": -74.4159907,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

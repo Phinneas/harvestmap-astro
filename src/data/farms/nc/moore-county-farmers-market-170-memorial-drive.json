@@ -1,0 +1,19 @@
+{
+  "slug": "moore-county-farmers-market-170-memorial-drive",
+  "name": "Moore County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "170 Memorial Drive, NC",
+  "locationCity": "170 Memorial Drive",
+  "locationState": "NC",
+  "locationZipcode": "28374",
+  "lat": 35.20618962344225,
+  "lon": -79.4584391583596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

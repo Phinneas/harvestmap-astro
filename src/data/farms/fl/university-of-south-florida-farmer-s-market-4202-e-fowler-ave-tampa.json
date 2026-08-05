@@ -1,0 +1,19 @@
+{
+  "slug": "university-of-south-florida-farmer-s-market-4202-e-fowler-ave-tampa",
+  "name": "University of South Florida Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4202 E Fowler Ave Tampa, FL",
+  "locationCity": "4202 E Fowler Ave Tampa",
+  "locationState": "FL",
+  "locationZipcode": "33620",
+  "lat": 28.05446161225916,
+  "lon": -82.41437173930784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "muldoon-farmers-market-1301-muldoon-road",
+  "name": "Muldoon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1301 Muldoon Road, AK",
+  "locationCity": "1301 Muldoon Road",
+  "locationState": "AK",
+  "locationZipcode": "99504",
+  "lat": 61.208991,
+  "lon": -149.73118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.490Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.490Z"
+}

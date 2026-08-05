@@ -1,0 +1,19 @@
+{
+  "slug": "quaker-hill-farm-p-o-box-10",
+  "name": "Quaker Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "P.O. Box 10, MI",
+  "locationCity": "P.O. Box 10",
+  "locationState": "MI",
+  "locationZipcode": "48740",
+  "lat": 44.6591050000001,
+  "lon": -83.29381,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.646Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.646Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hayes-valley-farms-1341-matson-drive",
+  "name": "Hayes Valley Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1341 Matson Drive, VA",
+  "locationCity": "1341 Matson Drive",
+  "locationState": "VA",
+  "locationZipcode": "24354",
+  "lat": 36.810076,
+  "lon": -81.5117917,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.224Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.224Z"
+}

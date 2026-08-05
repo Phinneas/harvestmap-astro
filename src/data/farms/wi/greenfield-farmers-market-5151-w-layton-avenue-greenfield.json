@@ -1,0 +1,19 @@
+{
+  "slug": "greenfield-farmers-market-5151-w-layton-avenue-greenfield",
+  "name": "Greenfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5151 W Layton Avenue Greenfield, WI",
+  "locationCity": "5151 W Layton Avenue Greenfield",
+  "locationState": "WI",
+  "locationZipcode": "53220",
+  "lat": 42.959393307945646,
+  "lon": -87.97911145449477,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

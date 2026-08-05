@@ -1,0 +1,19 @@
+{
+  "slug": "oshkosh-farmers-market-108-w-new-york-ave-merrill-middle-school",
+  "name": "Oshkosh Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "108 W New York Ave - Merrill Middle School, WI",
+  "locationCity": "108 W New York Ave - Merrill Middle School",
+  "locationState": "WI",
+  "locationZipcode": "54901",
+  "lat": 44.03215482751355,
+  "lon": -88.53933763708295,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

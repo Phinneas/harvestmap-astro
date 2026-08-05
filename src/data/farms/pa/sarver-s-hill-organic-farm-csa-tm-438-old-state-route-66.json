@@ -1,0 +1,19 @@
+{
+  "slug": "sarver-s-hill-organic-farm-csa-tm-438-old-state-route-66",
+  "name": "Sarver's Hill Organic Farm & CSA tm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "438 Old State Route 66, PA",
+  "locationCity": "438 Old State Route 66",
+  "locationState": "PA",
+  "locationZipcode": "15601",
+  "lat": 40.3465719,
+  "lon": -79.5707877,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.546Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.546Z"
+}

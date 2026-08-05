@@ -1,0 +1,19 @@
+{
+  "slug": "osage-farm-030-hwy-441-north",
+  "name": "Osage Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "030 Hwy. 441 North, GA",
+  "locationCity": "030 Hwy. 441 North",
+  "locationState": "GA",
+  "locationZipcode": "30568",
+  "lat": 34.9462705333928,
+  "lon": -83.3873626979316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.372Z"
+}

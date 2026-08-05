@@ -1,0 +1,19 @@
+{
+  "slug": "west-erie-plaza-farmers-market-823-west-12th-street-erie",
+  "name": "West Erie Plaza Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "823 West 12th Street Erie, PA",
+  "locationCity": "823 West 12th Street Erie",
+  "locationState": "PA",
+  "locationZipcode": "16501",
+  "lat": 42.11706990449852,
+  "lon": -80.09862318467833,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.068Z"
+}

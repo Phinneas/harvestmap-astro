@@ -1,0 +1,19 @@
+{
+  "slug": "shafer-orchards-east-shafer-road",
+  "name": "Shafer Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "East Shafer Road, MI",
+  "locationCity": "East Shafer Road",
+  "locationState": "MI",
+  "locationZipcode": "49101",
+  "lat": 41.9356250026895,
+  "lon": -86.4520549664516,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.605Z"
+}

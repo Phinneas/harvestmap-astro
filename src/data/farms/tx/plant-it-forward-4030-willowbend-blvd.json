@@ -1,0 +1,19 @@
+{
+  "slug": "plant-it-forward-4030-willowbend-blvd",
+  "name": "Plant It Forward",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4030 Willowbend Blvd, TX",
+  "locationCity": "4030 Willowbend Blvd",
+  "locationState": "TX",
+  "locationZipcode": "77025",
+  "lat": 29.6650135,
+  "lon": -95.4433233,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.857Z"
+}

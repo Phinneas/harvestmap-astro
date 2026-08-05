@@ -1,0 +1,19 @@
+{
+  "slug": "lakeside-farmers-market-7517-n-pinehill-dr-richmond",
+  "name": "Lakeside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7517 N. Pinehill Dr. RICHMOND, VA",
+  "locationCity": "7517 N. Pinehill Dr. RICHMOND",
+  "locationState": "VA",
+  "locationZipcode": "23228",
+  "lat": 37.624909019821466,
+  "lon": -77.472695475566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

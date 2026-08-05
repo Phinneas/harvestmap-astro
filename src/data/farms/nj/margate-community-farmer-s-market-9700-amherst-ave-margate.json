@@ -1,0 +1,19 @@
+{
+  "slug": "margate-community-farmer-s-market-9700-amherst-ave-margate",
+  "name": "Margate Community Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9700 Amherst Ave Margate, NJ",
+  "locationCity": "9700 Amherst Ave Margate",
+  "locationState": "NJ",
+  "locationZipcode": "08402",
+  "lat": 39.3237560446673,
+  "lon": -74.52060182689621,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

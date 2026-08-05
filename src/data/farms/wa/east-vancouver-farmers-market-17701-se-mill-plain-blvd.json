@@ -1,0 +1,19 @@
+{
+  "slug": "east-vancouver-farmers-market-17701-se-mill-plain-blvd",
+  "name": "East Vancouver Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17701 SE Mill Plain Blvd., WA",
+  "locationCity": "17701 SE Mill Plain Blvd.",
+  "locationState": "WA",
+  "locationZipcode": "17701",
+  "lat": 45.615372,
+  "lon": -122.49377,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.745Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.745Z"
+}

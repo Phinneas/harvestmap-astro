@@ -1,0 +1,19 @@
+{
+  "slug": "rahal-farms-8200-bort-road",
+  "name": "Rahal Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8200 Bort Road, PA",
+  "locationCity": "8200 Bort Road",
+  "locationState": "PA",
+  "locationZipcode": "16428",
+  "lat": 42.219994017956765,
+  "lon": -79.78687096377223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.449Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.449Z"
+}

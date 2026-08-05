@@ -1,0 +1,19 @@
+{
+  "slug": "midtown-farmers-market-2225-e-lake-st",
+  "name": "Midtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2225 E Lake St, MN",
+  "locationCity": "2225 E Lake St",
+  "locationState": "MN",
+  "locationZipcode": "55407",
+  "lat": 44.9477072,
+  "lon": -93.2392721,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "101-market-8980-quantrelle-avenue-ne",
+  "name": "101 Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8980 Quantrelle Avenue NE, MN",
+  "locationCity": "8980 Quantrelle Avenue NE",
+  "locationState": "MN",
+  "locationZipcode": "55330",
+  "lat": 45.280557994395764,
+  "lon": -93.55791601983734,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:15.276Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:15.276Z"
+}

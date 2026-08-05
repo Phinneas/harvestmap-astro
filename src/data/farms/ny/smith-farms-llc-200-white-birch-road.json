@@ -1,0 +1,19 @@
+{
+  "slug": "smith-farms-llc-200-white-birch-road",
+  "name": "Smith Farms LLC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 White Birch Road, NY",
+  "locationCity": "200 White Birch Road",
+  "locationState": "NY",
+  "locationZipcode": "12534",
+  "lat": 42.19122861642771,
+  "lon": -73.82903894071445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.457Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.457Z"
+}

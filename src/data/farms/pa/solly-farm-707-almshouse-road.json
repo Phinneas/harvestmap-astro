@@ -1,0 +1,20 @@
+{
+  "slug": "solly-farm-707-almshouse-road",
+  "name": "Solly Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "707 Almshouse Road, PA",
+  "locationCity": "707 Almshouse Road",
+  "locationState": "PA",
+  "locationZipcode": "18974",
+  "lat": 40.2268559812693,
+  "lon": -75.0361649855208,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.117Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.117Z",
+  "crops": []
+}

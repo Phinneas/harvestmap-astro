@@ -1,0 +1,19 @@
+{
+  "slug": "dave-s-harvest-basket-485-apple-ave",
+  "name": "Dave's Harvest Basket",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "485 Apple Ave, MI",
+  "locationCity": "485 Apple Ave",
+  "locationState": "MI",
+  "locationZipcode": "49318",
+  "lat": 43.2347714286496,
+  "lon": -85.8355592589028,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.706Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.706Z"
+}

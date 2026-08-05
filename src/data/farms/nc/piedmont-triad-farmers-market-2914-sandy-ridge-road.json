@@ -1,0 +1,19 @@
+{
+  "slug": "piedmont-triad-farmers-market-2914-sandy-ridge-road",
+  "name": "Piedmont Triad Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2914 Sandy Ridge Road, NC",
+  "locationCity": "2914 Sandy Ridge Road",
+  "locationState": "NC",
+  "locationZipcode": "27235",
+  "lat": 36.087691,
+  "lon": -79.992657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.227Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.227Z"
+}

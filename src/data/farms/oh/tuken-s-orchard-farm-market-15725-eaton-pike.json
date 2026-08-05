@@ -1,0 +1,19 @@
+{
+  "slug": "tuken-s-orchard-farm-market-15725-eaton-pike",
+  "name": "Tuken's Orchard Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "15725 Eaton Pike, OH",
+  "locationCity": "15725 Eaton Pike",
+  "locationState": "OH",
+  "locationZipcode": "15725",
+  "lat": 39.74508698552154,
+  "lon": -84.4763410205377,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.376Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.376Z"
+}

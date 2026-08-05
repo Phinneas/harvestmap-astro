@@ -1,0 +1,19 @@
+{
+  "slug": "cournoyer-orchard-11279-eagle-road",
+  "name": "Cournoyer Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11279 Eagle Road, WI",
+  "locationCity": "11279 Eagle Road",
+  "locationState": "WI",
+  "locationZipcode": "11279",
+  "lat": 44.6549558867092,
+  "lon": -90.2791926930835,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.130Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.130Z"
+}

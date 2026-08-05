@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-fields-forever-291-moccasin-bend-road",
+  "name": "Blueberry Fields Forever",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "291 Moccasin Bend Road, AR",
+  "locationCity": "291 Moccasin Bend Road",
+  "locationState": "AR",
+  "locationZipcode": "72081",
+  "lat": 35.3123761226015,
+  "lon": -91.7181731815069,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.004Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.004Z"
+}

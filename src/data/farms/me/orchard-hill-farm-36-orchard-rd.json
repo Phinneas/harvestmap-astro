@@ -1,0 +1,20 @@
+{
+  "slug": "orchard-hill-farm-36-orchard-rd",
+  "name": "Orchard Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "36 Orchard Rd, ME",
+  "locationCity": "36 Orchard Rd",
+  "locationState": "ME",
+  "locationZipcode": "04021",
+  "lat": 43.8289393083327,
+  "lon": -70.299170543579,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.842Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.842Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tall-timbers-forest-farm-85-hodgson-rd",
+  "name": "Tall Timbers Forest Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "85 Hodgson Rd, WA",
+  "locationCity": "85 Hodgson Rd",
+  "locationState": "WA",
+  "locationZipcode": "98612",
+  "lat": 46.20464316392534,
+  "lon": -123.27914119850804,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.616Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mr-jack-o-lanterns-pumpkins-6407-sunset-blvd",
+  "name": "Mr. Jack O' Lanterns Pumpkins",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6407 Sunset Blvd, CA",
+  "locationCity": "6407 Sunset Blvd",
+  "locationState": "CA",
+  "locationZipcode": "90028",
+  "lat": 34.0983449966173,
+  "lon": -118.329124962133,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.813Z"
+}

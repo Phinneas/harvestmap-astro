@@ -1,0 +1,19 @@
+{
+  "slug": "dementedfx-530-main-st",
+  "name": "DementedFX",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "530 Main St, MA",
+  "locationCity": "530 Main St",
+  "locationState": "MA",
+  "locationZipcode": "01040",
+  "lat": 42.1966297997737,
+  "lon": -72.6103545614349,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.709Z"
+}

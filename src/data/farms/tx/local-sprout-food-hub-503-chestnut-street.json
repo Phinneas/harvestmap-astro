@@ -1,0 +1,19 @@
+{
+  "slug": "local-sprout-food-hub-503-chestnut-street",
+  "name": "Local Sprout Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "503 Chestnut Street, TX",
+  "locationCity": "503 Chestnut Street",
+  "locationState": "TX",
+  "locationZipcode": "78202",
+  "lat": 29.42669398590303,
+  "lon": -98.47946798358088,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:57.115Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:57.115Z"
+}

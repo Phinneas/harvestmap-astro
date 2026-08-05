@@ -1,0 +1,19 @@
+{
+  "slug": "gary-s-pumpkin-patch-5991-17th-street",
+  "name": "Gary's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5991 17th Street, KS",
+  "locationCity": "5991 17th Street",
+  "locationState": "KS",
+  "locationZipcode": "66429",
+  "lat": 39.0706480010741,
+  "lon": -95.5130550337551,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.080Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.080Z"
+}

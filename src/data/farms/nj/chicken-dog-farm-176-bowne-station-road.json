@@ -1,0 +1,20 @@
+{
+  "slug": "chicken-dog-farm-176-bowne-station-road",
+  "name": "Chicken Dog Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "176 Bowne Station Road, NJ",
+  "locationCity": "176 Bowne Station Road",
+  "locationState": "NJ",
+  "locationZipcode": "08559",
+  "lat": 40.4059319898514,
+  "lon": -74.9184859986037,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.112Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.112Z",
+  "crops": []
+}

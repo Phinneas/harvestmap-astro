@@ -1,0 +1,19 @@
+{
+  "slug": "slate-valley-farmers-market-27-quaker-street",
+  "name": "Slate Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "27 Quaker Street, NY",
+  "locationCity": "27 Quaker Street",
+  "locationState": "NY",
+  "locationZipcode": "12832",
+  "lat": 43.4046865,
+  "lon": -73.2661092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.063Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.063Z"
+}

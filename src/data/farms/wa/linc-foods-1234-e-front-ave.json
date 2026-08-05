@@ -1,0 +1,19 @@
+{
+  "slug": "linc-foods-1234-e-front-ave",
+  "name": "LINC Foods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1234 E. Front Ave, WA",
+  "locationCity": "1234 E. Front Ave",
+  "locationState": "WA",
+  "locationZipcode": "99202",
+  "lat": 47.6600366,
+  "lon": -117.39125,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:21.630Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:21.630Z"
+}

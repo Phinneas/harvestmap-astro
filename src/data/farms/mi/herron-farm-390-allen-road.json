@@ -1,0 +1,19 @@
+{
+  "slug": "herron-farm-390-allen-road",
+  "name": "Herron Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "390 Allen Road, MI",
+  "locationCity": "390 Allen Road",
+  "locationState": "MI",
+  "locationZipcode": "49753",
+  "lat": 44.9587278595971,
+  "lon": -83.7731296608049,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.702Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.702Z"
+}

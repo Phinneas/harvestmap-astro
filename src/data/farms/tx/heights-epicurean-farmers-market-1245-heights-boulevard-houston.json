@@ -1,0 +1,19 @@
+{
+  "slug": "heights-epicurean-farmers-market-1245-heights-boulevard-houston",
+  "name": "Heights Epicurean Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1245 Heights Boulevard Houston, TX",
+  "locationCity": "1245 Heights Boulevard Houston",
+  "locationState": "TX",
+  "locationZipcode": "77008",
+  "lat": 29.79337461813798,
+  "lon": -95.39774848300291,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

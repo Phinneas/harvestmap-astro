@@ -1,0 +1,19 @@
+{
+  "slug": "lenox-apple-orchard-475-richardson-hill-road",
+  "name": "Lenox apple orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "475 Richardson Hill Road, TN",
+  "locationCity": "475 Richardson Hill Road",
+  "locationState": "TN",
+  "locationZipcode": "38024",
+  "lat": 36.0948269935766,
+  "lon": -89.4891470156094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.344Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.344Z"
+}

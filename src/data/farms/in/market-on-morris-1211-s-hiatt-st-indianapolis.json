@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-morris-1211-s-hiatt-st-indianapolis",
+  "name": "Market on Morris",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1211 S Hiatt St Indianapolis, IN",
+  "locationCity": "1211 S Hiatt St Indianapolis",
+  "locationState": "IN",
+  "locationZipcode": "46221",
+  "lat": 39.750730483052706,
+  "lon": -86.19555154884732,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "tsali-notch-vineyard-harrison-road",
+  "name": "Tsali Notch Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Harrison Road, TN",
+  "locationCity": "Harrison Road",
+  "locationState": "TN",
+  "locationZipcode": "37345",
+  "lat": 35.5159880153444,
+  "lon": -84.4367119690574,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.318Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.318Z",
+  "crops": []
+}

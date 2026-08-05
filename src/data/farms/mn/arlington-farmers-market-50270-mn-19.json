@@ -1,0 +1,19 @@
+{
+  "slug": "arlington-farmers-market-50270-mn-19",
+  "name": "Arlington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50270 MN-19, MN",
+  "locationCity": "50270 MN-19",
+  "locationState": "MN",
+  "locationZipcode": "50270",
+  "lat": 44.5478059,
+  "lon": -94.2793732,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "north-branch-farm-120-stream-road",
+  "name": "North Branch Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "120 Stream Road, ME",
+  "locationCity": "120 Stream Road",
+  "locationState": "ME",
+  "locationZipcode": "04951",
+  "lat": 44.6104338879746,
+  "lon": -69.0067730234036,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.841Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.841Z",
+  "crops": []
+}

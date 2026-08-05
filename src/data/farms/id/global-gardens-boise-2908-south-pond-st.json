@@ -1,0 +1,19 @@
+{
+  "slug": "global-gardens-boise-2908-south-pond-st",
+  "name": "Global Gardens Boise",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2908 South Pond St, ID",
+  "locationCity": "2908 South Pond St",
+  "locationState": "ID",
+  "locationZipcode": "83709",
+  "lat": 43.5760691,
+  "lon": -116.24071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:37.119Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:37.119Z"
+}

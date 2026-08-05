@@ -1,0 +1,19 @@
+{
+  "slug": "whitefish-bay-farmer-s-market-325-e-silver-spring-dr",
+  "name": "Whitefish Bay Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "325 E Silver Spring Dr, WI",
+  "locationCity": "325 E Silver Spring Dr",
+  "locationState": "WI",
+  "locationZipcode": "53217",
+  "lat": 43.1183333,
+  "lon": -87.9057933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.862Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.862Z"
+}

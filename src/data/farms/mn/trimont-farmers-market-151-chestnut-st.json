@@ -1,0 +1,19 @@
+{
+  "slug": "trimont-farmers-market-151-chestnut-st",
+  "name": "Trimont Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "151 Chestnut St, MN",
+  "locationCity": "151 Chestnut St",
+  "locationState": "MN",
+  "locationZipcode": "56176",
+  "lat": 43.7592499,
+  "lon": -94.7178704,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

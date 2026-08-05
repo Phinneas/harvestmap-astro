@@ -1,0 +1,19 @@
+{
+  "slug": "curry-farm-548-robinson-drive",
+  "name": "Curry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "548 Robinson Drive, LA",
+  "locationCity": "548 Robinson Drive",
+  "locationState": "LA",
+  "locationZipcode": "71269",
+  "lat": 32.4588350124931,
+  "lon": -91.8474290016328,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.037Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.037Z"
+}

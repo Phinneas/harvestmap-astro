@@ -1,0 +1,19 @@
+{
+  "slug": "adams-ricci-farmers-market-100-east-penn-drive",
+  "name": "Adams-Ricci Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 East Penn Drive, PA",
+  "locationCity": "100 East Penn Drive",
+  "locationState": "PA",
+  "locationZipcode": "17025",
+  "lat": 40.273997,
+  "lon": -76.937407,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:18.995Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:18.995Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mule-barn-berries-223-ne-mule-barn-road",
+  "name": "Mule Barn Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "223 NE Mule Barn Road, MO",
+  "locationCity": "223 NE Mule Barn Road",
+  "locationState": "MO",
+  "locationZipcode": "64465",
+  "lat": 39.5608030071299,
+  "lon": -94.2997359923552,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.732Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.732Z"
+}

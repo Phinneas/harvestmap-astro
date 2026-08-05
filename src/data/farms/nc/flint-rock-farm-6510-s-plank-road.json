@@ -1,0 +1,19 @@
+{
+  "slug": "flint-rock-farm-6510-s-plank-road",
+  "name": "Flint Rock Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6510 S. Plank Road, NC",
+  "locationCity": "6510 S. Plank Road",
+  "locationState": "NC",
+  "locationZipcode": "28326",
+  "lat": 35.3435014399437,
+  "lon": -79.2652433362162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.853Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.853Z"
+}

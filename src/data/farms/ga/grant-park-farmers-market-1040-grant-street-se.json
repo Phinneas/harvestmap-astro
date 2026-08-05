@@ -1,0 +1,19 @@
+{
+  "slug": "grant-park-farmers-market-1040-grant-street-se",
+  "name": "Grant Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1040 Grant Street SE, GA",
+  "locationCity": "1040 Grant Street SE",
+  "locationState": "GA",
+  "locationZipcode": "30315",
+  "lat": 33.725504,
+  "lon": -84.376724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.690Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.690Z"
+}

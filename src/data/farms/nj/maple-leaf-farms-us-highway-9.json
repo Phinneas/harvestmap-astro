@@ -1,0 +1,19 @@
+{
+  "slug": "maple-leaf-farms-us-highway-9",
+  "name": "Maple Leaf Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US Highway 9, NJ",
+  "locationCity": "US Highway 9",
+  "locationState": "NJ",
+  "locationZipcode": "07726",
+  "lat": 40.3151350319631,
+  "lon": -74.304916592847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.680Z"
+}

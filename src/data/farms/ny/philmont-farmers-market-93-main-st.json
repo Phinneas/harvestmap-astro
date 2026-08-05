@@ -1,0 +1,19 @@
+{
+  "slug": "philmont-farmers-market-93-main-st",
+  "name": "Philmont Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "93 Main St., NY",
+  "locationCity": "93 Main St.",
+  "locationState": "NY",
+  "locationZipcode": "12565",
+  "lat": 42.248975961307295,
+  "lon": -73.64988058817521,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

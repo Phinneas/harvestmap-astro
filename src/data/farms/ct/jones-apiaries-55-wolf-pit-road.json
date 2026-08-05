@@ -1,0 +1,19 @@
+{
+  "slug": "jones-apiaries-55-wolf-pit-road",
+  "name": "Jones' Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "55 Wolf Pit Road, CT",
+  "locationCity": "55 Wolf Pit Road",
+  "locationState": "CT",
+  "locationZipcode": "06032",
+  "lat": 41.7227356618897,
+  "lon": -72.8042781876257,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.027Z"
+}

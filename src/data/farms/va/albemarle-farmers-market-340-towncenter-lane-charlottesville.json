@@ -1,0 +1,19 @@
+{
+  "slug": "albemarle-farmers-market-340-towncenter-lane-charlottesville",
+  "name": "Albemarle Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "340 Towncenter Lane Charlottesville, VA",
+  "locationCity": "340 Towncenter Lane Charlottesville",
+  "locationState": "VA",
+  "locationZipcode": "22911",
+  "lat": 38.12727505721097,
+  "lon": -78.44486460648874,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.290Z"
+}

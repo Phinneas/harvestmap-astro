@@ -1,0 +1,19 @@
+{
+  "slug": "berrywood-farm-865-thompson-farm-lane",
+  "name": "Berrywood Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "865 Thompson Farm Lane, MD",
+  "locationCity": "865 Thompson Farm Lane",
+  "locationState": "MD",
+  "locationZipcode": "20636",
+  "lat": 38.3470622795751,
+  "lon": -76.560678401485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.319Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.319Z"
+}

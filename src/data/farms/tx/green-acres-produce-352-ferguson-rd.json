@@ -1,0 +1,19 @@
+{
+  "slug": "green-acres-produce-352-ferguson-rd",
+  "name": "Green Acres Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "352 Ferguson Rd, TX",
+  "locationCity": "352 Ferguson Rd",
+  "locationState": "TX",
+  "locationZipcode": "75651",
+  "lat": 32.64221600845559,
+  "lon": -94.5381510139155,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.352Z"
+}

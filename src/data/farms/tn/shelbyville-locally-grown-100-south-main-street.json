@@ -1,0 +1,19 @@
+{
+  "slug": "shelbyville-locally-grown-100-south-main-street",
+  "name": "Shelbyville Locally Grown",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "100 South Main Street, TN",
+  "locationCity": "100 South Main Street",
+  "locationState": "TN",
+  "locationZipcode": "37160",
+  "lat": 35.482063980531905,
+  "lon": -86.46039600784908,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:36.623Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:36.623Z"
+}

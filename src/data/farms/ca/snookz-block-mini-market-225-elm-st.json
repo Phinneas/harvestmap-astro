@@ -1,0 +1,19 @@
+{
+  "slug": "snookz-block-mini-market-225-elm-st",
+  "name": "Snookz block mini market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "225 elm st, CA",
+  "locationCity": "225 elm st",
+  "locationState": "CA",
+  "locationZipcode": "93060",
+  "lat": 34.342681,
+  "lon": -119.08404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.362Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.362Z"
+}

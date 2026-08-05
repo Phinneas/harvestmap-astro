@@ -1,0 +1,19 @@
+{
+  "slug": "c-t-produce-stafford-fredericksburg-spotsylvania",
+  "name": "C&T Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Stafford--Fredericksburg -Spotsylvania, VA",
+  "locationCity": "Stafford--Fredericksburg -Spotsylvania",
+  "locationState": "VA",
+  "locationZipcode": "22405",
+  "lat": 38.245669456243064,
+  "lon": -77.52004839371011,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.248Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hog-s-back-farm-w8937-moritz-lane",
+  "name": "Hog's Back Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "W8937 Moritz Lane, WI",
+  "locationCity": "W8937 Moritz Lane",
+  "locationState": "WI",
+  "locationZipcode": "54721",
+  "lat": 44.6762069,
+  "lon": -92.0973419,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:11.983Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:11.983Z"
+}

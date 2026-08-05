@@ -1,0 +1,19 @@
+{
+  "slug": "mountain-harvest-farm-owl-creek-farm",
+  "name": "Mountain Harvest Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Owl Creek Farm, WV",
+  "locationCity": "Owl Creek Farm",
+  "locationState": "WV",
+  "locationZipcode": "26508",
+  "lat": 39.5388707,
+  "lon": -79.9731892,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:34.310Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:34.310Z"
+}

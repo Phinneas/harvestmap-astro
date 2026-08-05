@@ -1,0 +1,19 @@
+{
+  "slug": "oelwein-farmers-market-1st-street-sw-oelwein",
+  "name": "Oelwein Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st Street SW Oelwein, IA",
+  "locationCity": "1st Street SW Oelwein",
+  "locationState": "IA",
+  "locationZipcode": "50662",
+  "lat": 42.67718766098675,
+  "lon": -91.92570972255437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

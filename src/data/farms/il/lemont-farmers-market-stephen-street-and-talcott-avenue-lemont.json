@@ -1,0 +1,19 @@
+{
+  "slug": "lemont-farmers-market-stephen-street-and-talcott-avenue-lemont",
+  "name": "Lemont Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Stephen Street and Talcott Avenue Lemont, IL",
+  "locationCity": "Stephen Street and Talcott Avenue Lemont",
+  "locationState": "IL",
+  "locationZipcode": "60439",
+  "lat": 41.67511000375967,
+  "lon": -87.9988899771119,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

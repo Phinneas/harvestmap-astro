@@ -1,0 +1,19 @@
+{
+  "slug": "lakeshore-certified-farmers-market-7466-wofford-blvd-wofford-heights",
+  "name": "Lakeshore Certified Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7466 Wofford Blvd. Wofford Heights, CA",
+  "locationCity": "7466 Wofford Blvd. Wofford Heights",
+  "locationState": "CA",
+  "locationZipcode": "93285",
+  "lat": 35.70861394816457,
+  "lon": -118.44207158402699,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "arctic-organics-1305-north-smith-rd",
+  "name": "Arctic Organics",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1305 North Smith Rd, AK",
+  "locationCity": "1305 North Smith Rd",
+  "locationState": "AK",
+  "locationZipcode": "99645",
+  "lat": 61.5931024,
+  "lon": -149.0253064,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:00.278Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:00.278Z",
+  "crops": []
+}

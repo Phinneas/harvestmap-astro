@@ -1,0 +1,19 @@
+{
+  "slug": "city-market-20-e-5th-street-kansas-city",
+  "name": "City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 E.5th Street Kansas City, MO",
+  "locationCity": "20 E.5th Street Kansas City",
+  "locationState": "MO",
+  "locationZipcode": "64106",
+  "lat": 39.108460506000334,
+  "lon": -94.58212733793486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.492Z"
+}

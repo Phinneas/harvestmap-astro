@@ -1,0 +1,19 @@
+{
+  "slug": "mayfair-green-market-2911-grand-avenue-coconut-grove",
+  "name": "Mayfair Green Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2911 Grand Avenue Coconut Grove, FL",
+  "locationCity": "2911 Grand Avenue Coconut Grove",
+  "locationState": "FL",
+  "locationZipcode": "33133",
+  "lat": 25.728211445183458,
+  "lon": -80.24064432599278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

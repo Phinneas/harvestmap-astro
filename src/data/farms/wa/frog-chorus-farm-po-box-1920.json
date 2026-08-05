@@ -1,0 +1,20 @@
+{
+  "slug": "frog-chorus-farm-po-box-1920",
+  "name": "Frog Chorus Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Po Box 1920, WA",
+  "locationCity": "Po Box 1920",
+  "locationState": "WA",
+  "locationZipcode": "98291",
+  "lat": 47.9278014000001,
+  "lon": -122.0986931,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.286Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.286Z",
+  "crops": []
+}

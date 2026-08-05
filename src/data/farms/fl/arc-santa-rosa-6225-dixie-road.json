@@ -1,0 +1,19 @@
+{
+  "slug": "arc-santa-rosa-6225-dixie-road",
+  "name": "Arc Santa Rosa",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6225 Dixie Road, FL",
+  "locationCity": "6225 Dixie Road",
+  "locationState": "FL",
+  "locationZipcode": "32570",
+  "lat": 30.66668998481086,
+  "lon": -87.0619190144641,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.895Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.895Z"
+}

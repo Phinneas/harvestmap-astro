@@ -1,0 +1,19 @@
+{
+  "slug": "agrobliss-farms-333-lowell-larimer-road",
+  "name": "Agrobliss Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "333 Lowell Larimer Road, WA",
+  "locationCity": "333 Lowell Larimer Road",
+  "locationState": "WA",
+  "locationZipcode": "98208",
+  "lat": 47.903231755352,
+  "lon": -122.169436883382,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.111Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.111Z"
+}

@@ -2,30 +2,20 @@
   "slug": "james-cooley-383-hwy-167-n",
   "name": "James Cooley",
   "source": "usda",
-  "directory": "onfarmmarket",
+  "directory": "agritourism",
   "location": "383 Hwy 167 N, AR",
   "locationCity": "383 Hwy 167 N",
   "locationState": "AR",
   "locationZipcode": "72010",
-  "lat": 35.34678674881492,
-  "lon": -91.5646058915125,
+  "lat": 35.347313072944,
+  "lon": -91.5646103222082,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:23:14.352Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:23:18.745Z"
+      "lastSeen": "2026-08-05T18:36:24.033Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:23:14.352Z",
-  "crops": [
-    "Strawberries",
-    "Tomatoes",
-    "Peas"
-  ],
-  "phone": "501-724-5630",
-  "website": "https://pickyourown.farm/farm/james-cooley-5196/",
+  "usdaLastUpdated": "2026-08-05T18:36:24.033Z",
+  "crops": [],
   "tagline": "James Cooley"
 }

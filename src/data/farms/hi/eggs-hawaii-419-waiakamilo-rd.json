@@ -1,0 +1,19 @@
+{
+  "slug": "eggs-hawaii-419-waiakamilo-rd",
+  "name": "Eggs Hawaii",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "419 Waiakamilo Rd, HI",
+  "locationCity": "419 Waiakamilo Rd",
+  "locationState": "HI",
+  "locationZipcode": "96819",
+  "lat": 21.3215920148984,
+  "lon": -157.877644960712,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:08.951Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:08.951Z"
+}

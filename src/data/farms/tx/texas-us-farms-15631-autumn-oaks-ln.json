@@ -1,0 +1,20 @@
+{
+  "slug": "texas-us-farms-15631-autumn-oaks-ln",
+  "name": "Texas US Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15631 Autumn Oaks Ln, TX",
+  "locationCity": "15631 Autumn Oaks Ln",
+  "locationState": "TX",
+  "locationZipcode": "15631",
+  "lat": 30.6995612,
+  "lon": -96.1116903,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.852Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fairman-farm-snoopy-barn-at-515-knauss-rd",
+  "name": "Fairman Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Snoopy Barn At 515 Knauss Rd., PA",
+  "locationCity": "Snoopy Barn At 515 Knauss Rd.",
+  "locationState": "PA",
+  "locationZipcode": "18064",
+  "lat": 40.760277,
+  "lon": -75.350858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.372Z"
+}

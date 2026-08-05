@@ -1,0 +1,19 @@
+{
+  "slug": "urban-greens-241-worth-st",
+  "name": "Urban Greens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "241 Worth St., OH",
+  "locationCity": "241 Worth St.",
+  "locationState": "OH",
+  "locationZipcode": "45226",
+  "lat": 39.1163125,
+  "lon": -84.4421272,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.422Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.422Z"
+}

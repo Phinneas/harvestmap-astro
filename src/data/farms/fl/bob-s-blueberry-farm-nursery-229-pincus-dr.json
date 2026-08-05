@@ -1,0 +1,19 @@
+{
+  "slug": "bob-s-blueberry-farm-nursery-229-pincus-dr",
+  "name": "Bob's Blueberry Farm & Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "229 Pincus Dr, FL",
+  "locationCity": "229 Pincus Dr",
+  "locationState": "FL",
+  "locationZipcode": "34669",
+  "lat": 28.363165558895,
+  "lon": -82.62757936186,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.787Z"
+}

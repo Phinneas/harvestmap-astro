@@ -1,0 +1,19 @@
+{
+  "slug": "woodstock-farmers-market-fowler-street-and-main-street-woodstock",
+  "name": "Woodstock Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Fowler Street and Main Street Woodstock, GA",
+  "locationCity": "Fowler Street and Main Street Woodstock",
+  "locationState": "GA",
+  "locationZipcode": "30188",
+  "lat": 34.09858999964716,
+  "lon": -84.5202399811336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

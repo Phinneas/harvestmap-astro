@@ -1,0 +1,19 @@
+{
+  "slug": "cotant-s-farm-market-2500-s-m-37-hwy",
+  "name": "Cotant's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2500 S M-37 Hwy, MI",
+  "locationCity": "2500 S M-37 Hwy",
+  "locationState": "MI",
+  "locationZipcode": "49058",
+  "lat": 42.61600649490274,
+  "lon": -85.2731243848537,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.232Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.232Z"
+}

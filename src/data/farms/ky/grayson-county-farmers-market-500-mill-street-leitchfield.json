@@ -1,0 +1,19 @@
+{
+  "slug": "grayson-county-farmers-market-500-mill-street-leitchfield",
+  "name": "Grayson County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Mill Street Leitchfield, KY",
+  "locationCity": "500 Mill Street Leitchfield",
+  "locationState": "KY",
+  "locationZipcode": "42754",
+  "lat": 37.484500639345256,
+  "lon": -86.28753828468076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

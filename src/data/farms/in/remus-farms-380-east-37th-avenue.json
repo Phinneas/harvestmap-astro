@@ -1,0 +1,19 @@
+{
+  "slug": "remus-farms-380-east-37th-avenue",
+  "name": "Remus Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "380 East 37th Avenue, IN",
+  "locationCity": "380 East 37th Avenue",
+  "locationState": "IN",
+  "locationZipcode": "46342",
+  "lat": 41.5512817605857,
+  "lon": -87.3319653099648,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.355Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.355Z"
+}

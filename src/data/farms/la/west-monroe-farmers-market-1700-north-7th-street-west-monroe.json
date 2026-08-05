@@ -1,0 +1,19 @@
+{
+  "slug": "west-monroe-farmers-market-1700-north-7th-street-west-monroe",
+  "name": "West Monroe Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1700 North 7th Street West Monroe, LA",
+  "locationCity": "1700 North 7th Street West Monroe",
+  "locationState": "LA",
+  "locationZipcode": "71291",
+  "lat": 32.510494624508794,
+  "lon": -92.14462017361282,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.709Z"
+}

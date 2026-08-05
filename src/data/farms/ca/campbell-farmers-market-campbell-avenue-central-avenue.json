@@ -1,0 +1,19 @@
+{
+  "slug": "campbell-farmers-market-campbell-avenue-central-avenue",
+  "name": "Campbell Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Campbell Avenue & Central Avenue, CA",
+  "locationCity": "Campbell Avenue & Central Avenue",
+  "locationState": "CA",
+  "locationZipcode": "95008",
+  "lat": 37.280232,
+  "lon": -121.95435,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

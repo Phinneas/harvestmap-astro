@@ -1,0 +1,19 @@
+{
+  "slug": "glen-farmers-market-28011-state-hwy-47",
+  "name": "Glen Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "28011 State Hwy 47, MN",
+  "locationCity": "28011 State Hwy 47",
+  "locationState": "MN",
+  "locationZipcode": "28011",
+  "lat": 46.4182805,
+  "lon": -93.5154759,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "highland-food-hub-720-w-highland-ave",
+  "name": "Highland Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "720 W Highland Ave, AZ",
+  "locationCity": "720 W Highland Ave",
+  "locationState": "AZ",
+  "locationZipcode": "85013",
+  "lat": 33.50619413121892,
+  "lon": -112.08358358223158,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.843Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.843Z"
+}

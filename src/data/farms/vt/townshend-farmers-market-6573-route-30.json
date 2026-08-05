@@ -1,0 +1,20 @@
+{
+  "slug": "townshend-farmers-market-6573-route-30",
+  "name": "Townshend Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6573 Route 30, VT",
+  "locationCity": "6573 Route 30",
+  "locationState": "VT",
+  "locationZipcode": "05359",
+  "lat": 43.084256,
+  "lon": -72.711717,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.100Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.100Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shelterbelt-farm-200-creamery-road",
+  "name": "Shelterbelt Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "200 Creamery Road, NY",
+  "locationCity": "200 Creamery Road",
+  "locationState": "NY",
+  "locationZipcode": "14817",
+  "lat": 42.380125,
+  "lon": -76.35239,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.747Z"
+}

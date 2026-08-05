@@ -1,0 +1,19 @@
+{
+  "slug": "madison-city-farmers-market-1088-hughes-rd",
+  "name": "Madison City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1088 HUGHES RD, AL",
+  "locationCity": "1088 HUGHES RD",
+  "locationState": "AL",
+  "locationZipcode": "35758",
+  "lat": 34.733645079906076,
+  "lon": -86.74128090491676,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

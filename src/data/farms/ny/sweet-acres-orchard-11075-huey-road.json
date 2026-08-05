@@ -1,0 +1,19 @@
+{
+  "slug": "sweet-acres-orchard-11075-huey-road",
+  "name": "Sweet Acres Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11075 Huey Road, NY",
+  "locationCity": "11075 Huey Road",
+  "locationState": "NY",
+  "locationZipcode": "11075",
+  "lat": 42.8092941851393,
+  "lon": -75.2652929831398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.076Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.076Z"
+}

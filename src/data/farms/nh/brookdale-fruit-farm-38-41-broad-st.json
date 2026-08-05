@@ -1,0 +1,19 @@
+{
+  "slug": "brookdale-fruit-farm-38-41-broad-st",
+  "name": "Brookdale Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "38-41 Broad St., NH",
+  "locationCity": "38-41 Broad St.",
+  "locationState": "NH",
+  "locationZipcode": "03049",
+  "lat": 42.73964598902484,
+  "lon": -71.58145797978223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.801Z"
+}

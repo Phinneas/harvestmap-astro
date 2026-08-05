@@ -1,0 +1,20 @@
+{
+  "slug": "paulus-farm-market-1216-south-york-street-mechanicsburg",
+  "name": "Paulus Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1216 South York Street Mechanicsburg, PA",
+  "locationCity": "1216 South York Street Mechanicsburg",
+  "locationState": "PA",
+  "locationZipcode": "17055",
+  "lat": 40.196048414517975,
+  "lon": -77.00426490335737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "senk-farms-1369-keiser-avenue",
+  "name": "Senk Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1369 Keiser Avenue, CA",
+  "locationCity": "1369 Keiser Avenue",
+  "locationState": "CA",
+  "locationZipcode": "95404",
+  "lat": 38.35457899531096,
+  "lon": -122.68166598057452,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

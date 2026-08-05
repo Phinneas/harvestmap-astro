@@ -1,0 +1,19 @@
+{
+  "slug": "hopkins-farms-farm-to-table-program-195-hopkins-rd",
+  "name": "Hopkins Farms Farm to Table Program",
+  "source": "usda",
+  "directory": "csa",
+  "location": "195 Hopkins Rd., GA",
+  "locationCity": "195 Hopkins Rd.",
+  "locationState": "GA",
+  "locationZipcode": "39828",
+  "lat": 30.7615858,
+  "lon": -84.2900478,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.444Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.444Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-farm-5380-campbellsburg-road",
+  "name": "Blueberry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5380 Campbellsburg Road, KY",
+  "locationCity": "5380 Campbellsburg Road",
+  "locationState": "KY",
+  "locationZipcode": "40011",
+  "lat": 38.5016230160844,
+  "lon": -85.175728027325,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.605Z"
+}

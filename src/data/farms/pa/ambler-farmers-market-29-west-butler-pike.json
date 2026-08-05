@@ -1,0 +1,19 @@
+{
+  "slug": "ambler-farmers-market-29-west-butler-pike",
+  "name": "Ambler Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "29 West Butler Pike, PA",
+  "locationCity": "29 West Butler Pike",
+  "locationState": "PA",
+  "locationZipcode": "19002",
+  "lat": 40.153501,
+  "lon": -75.225298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.008Z"
+}

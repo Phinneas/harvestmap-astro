@@ -1,0 +1,19 @@
+{
+  "slug": "pike-county-farmers-market-245-w-main-st-petersburg",
+  "name": "Pike County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "245 W. Main St. Petersburg, IN",
+  "locationCity": "245 W. Main St. Petersburg",
+  "locationState": "IN",
+  "locationZipcode": "47567",
+  "lat": 38.4859464491623,
+  "lon": -87.28761828920565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

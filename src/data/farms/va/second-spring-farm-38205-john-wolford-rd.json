@@ -1,0 +1,19 @@
+{
+  "slug": "second-spring-farm-38205-john-wolford-rd",
+  "name": "Second Spring Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "38205 John Wolford Rd., VA",
+  "locationCity": "38205 John Wolford Rd.",
+  "locationState": "VA",
+  "locationZipcode": "38205",
+  "lat": 39.200410926342215,
+  "lon": -77.68445654664396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.247Z"
+}

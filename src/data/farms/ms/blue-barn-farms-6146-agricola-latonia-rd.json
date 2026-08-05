@@ -1,0 +1,19 @@
+{
+  "slug": "blue-barn-farms-6146-agricola-latonia-rd",
+  "name": "Blue Barn Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6146 Agricola Latonia Rd, MS",
+  "locationCity": "6146 Agricola Latonia Rd",
+  "locationState": "MS",
+  "locationZipcode": "39452",
+  "lat": 30.864468552347294,
+  "lon": -88.42172742329905,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:31.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:31.539Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "verdigre-farmers-market-319-s-main-street",
+  "name": "Verdigre Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "319 S. Main Street, NE",
+  "locationCity": "319 S. Main Street",
+  "locationState": "NE",
+  "locationZipcode": "68720",
+  "lat": 42.603693560720764,
+  "lon": -98.03511728221852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

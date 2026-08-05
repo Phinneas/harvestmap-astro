@@ -1,0 +1,19 @@
+{
+  "slug": "all-locally-grown-produce-llc-as-teenaspridecsa-20025-sw-270-st",
+  "name": "All Locally Grown Produce LLC  as TeenasPrideCSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "20025 SW 270 St., FL",
+  "locationCity": "20025 SW 270 St.",
+  "locationState": "FL",
+  "locationZipcode": "20025",
+  "lat": 25.5159431,
+  "lon": -80.5161476,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.805Z"
+}

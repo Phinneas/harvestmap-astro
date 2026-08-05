@@ -1,0 +1,19 @@
+{
+  "slug": "rick-hendrix-farm-706-hwy-9",
+  "name": "Rick Hendrix Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "706 Hwy. 9, SC",
+  "locationCity": "706 Hwy. 9",
+  "locationState": "SC",
+  "locationZipcode": "29728",
+  "lat": 34.7739272268286,
+  "lon": -80.3815323744928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.858Z"
+}

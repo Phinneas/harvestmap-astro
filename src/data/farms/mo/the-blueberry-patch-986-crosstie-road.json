@@ -1,0 +1,19 @@
+{
+  "slug": "the-blueberry-patch-986-crosstie-road",
+  "name": "The Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "986 Crosstie Road, MO",
+  "locationCity": "986 Crosstie Road",
+  "locationState": "MO",
+  "locationZipcode": "65746",
+  "lat": 37.1191639998551,
+  "lon": -92.7043159924002,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.819Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.819Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "griffin-park-45-griffin-road",
+  "name": "Griffin Park",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "45 Griffin Road, AR",
+  "locationCity": "45 Griffin Road",
+  "locationState": "AR",
+  "locationZipcode": "72542",
+  "lat": 36.3110505492944,
+  "lon": -91.5091862676242,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.979Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.979Z"
+}

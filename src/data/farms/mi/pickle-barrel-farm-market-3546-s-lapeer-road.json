@@ -1,0 +1,19 @@
+{
+  "slug": "pickle-barrel-farm-market-3546-s-lapeer-road",
+  "name": "Pickle Barrel Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3546 S. Lapeer Road, MI",
+  "locationCity": "3546 S. Lapeer Road",
+  "locationState": "MI",
+  "locationZipcode": "48455",
+  "lat": 42.954600985606476,
+  "lon": -83.31498399531235,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.233Z"
+}

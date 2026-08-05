@@ -1,0 +1,20 @@
+{
+  "slug": "lilac-city-harvest-13902-e-32nd-ave",
+  "name": "Lilac City Harvest",
+  "source": "usda",
+  "directory": "csa",
+  "location": "13902 E 32nd Ave, WA",
+  "locationCity": "13902 E 32nd Ave",
+  "locationState": "WA",
+  "locationZipcode": "13902",
+  "lat": 47.62646091525744,
+  "lon": -117.21671858672832,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.609Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.609Z",
+  "crops": []
+}

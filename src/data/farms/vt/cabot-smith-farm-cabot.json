@@ -1,0 +1,19 @@
+{
+  "slug": "cabot-smith-farm-cabot",
+  "name": "Cabot Smith Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cabot, VT",
+  "locationCity": "Cabot",
+  "locationState": "VT",
+  "locationZipcode": "05647",
+  "lat": 44.3922179957816,
+  "lon": -72.3030219936292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.975Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.975Z"
+}

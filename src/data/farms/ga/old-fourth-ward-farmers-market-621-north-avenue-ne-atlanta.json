@@ -1,0 +1,19 @@
+{
+  "slug": "old-fourth-ward-farmers-market-621-north-avenue-ne-atlanta",
+  "name": "Old Fourth Ward Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "621 North Avenue NE Atlanta, GA",
+  "locationCity": "621 North Avenue NE Atlanta",
+  "locationState": "GA",
+  "locationZipcode": "30306",
+  "lat": 33.77112372168247,
+  "lon": -84.3670035332271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

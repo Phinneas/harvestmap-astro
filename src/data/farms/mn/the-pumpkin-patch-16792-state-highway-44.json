@@ -1,0 +1,19 @@
+{
+  "slug": "the-pumpkin-patch-16792-state-highway-44",
+  "name": "The Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16792 State Highway 44, MN",
+  "locationCity": "16792 State Highway 44",
+  "locationState": "MN",
+  "locationZipcode": "16792",
+  "lat": 43.5755760006493,
+  "lon": -91.5854660289294,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.817Z"
+}

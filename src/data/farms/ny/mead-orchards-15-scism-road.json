@@ -1,0 +1,19 @@
+{
+  "slug": "mead-orchards-15-scism-road",
+  "name": "Mead Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15 Scism Road, NY",
+  "locationCity": "15 Scism Road",
+  "locationState": "NY",
+  "locationZipcode": "12583",
+  "lat": 42.0442432780025,
+  "lon": -73.8545313821428,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.312Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.312Z"
+}

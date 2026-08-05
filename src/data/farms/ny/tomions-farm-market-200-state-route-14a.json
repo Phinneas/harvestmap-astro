@@ -1,0 +1,19 @@
+{
+  "slug": "tomions-farm-market-200-state-route-14a",
+  "name": "Tomions Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "200 State Route 14A, NY",
+  "locationCity": "200 State Route 14A",
+  "locationState": "NY",
+  "locationZipcode": "14527",
+  "lat": 42.753351951368785,
+  "lon": -77.06851951641427,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.829Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.829Z"
+}

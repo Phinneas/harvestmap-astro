@@ -1,0 +1,19 @@
+{
+  "slug": "cartersville-farmers-market-10-north-public-square",
+  "name": "Cartersville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 North Public Square, GA",
+  "locationCity": "10 North Public Square",
+  "locationState": "GA",
+  "locationZipcode": "30120",
+  "lat": 34.166092273670344,
+  "lon": -84.79628878347376,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "nourse-farms-41-river-road",
+  "name": "Nourse Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "41 River Road, MA",
+  "locationCity": "41 River Road",
+  "locationState": "MA",
+  "locationZipcode": "01093",
+  "lat": 42.427147,
+  "lon": -72.590481,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.683Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.683Z"
+}

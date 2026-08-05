@@ -1,0 +1,19 @@
+{
+  "slug": "lovell-farmers-market-262-e-main-street-lovell",
+  "name": "Lovell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "262 E Main Street Lovell, WY",
+  "locationCity": "262 E Main Street Lovell",
+  "locationState": "WY",
+  "locationZipcode": "82131",
+  "lat": 44.83752007138151,
+  "lon": -108.38798791047772,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

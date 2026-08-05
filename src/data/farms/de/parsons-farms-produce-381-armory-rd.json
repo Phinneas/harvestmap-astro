@@ -1,0 +1,19 @@
+{
+  "slug": "parsons-farms-produce-381-armory-rd",
+  "name": "Parsons Farms Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "381 Armory Rd, DE",
+  "locationCity": "381 Armory Rd",
+  "locationState": "DE",
+  "locationZipcode": "19939",
+  "lat": 38.5416158822981,
+  "lon": -75.2225364616108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.169Z"
+}

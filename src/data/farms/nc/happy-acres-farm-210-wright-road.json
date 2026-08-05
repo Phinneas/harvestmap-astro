@@ -1,0 +1,20 @@
+{
+  "slug": "happy-acres-farm-210-wright-road",
+  "name": "Happy Acres Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "210 Wright Road, NC",
+  "locationCity": "210 Wright Road",
+  "locationState": "NC",
+  "locationZipcode": "27870",
+  "lat": 36.3950634125597,
+  "lon": -77.7750481561641,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.675Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.675Z",
+  "crops": []
+}

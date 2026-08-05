@@ -1,0 +1,19 @@
+{
+  "slug": "berwick-winter-farmers-market-11-sullivan-st",
+  "name": "Berwick Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11 Sullivan St., ME",
+  "locationCity": "11 Sullivan St.",
+  "locationState": "ME",
+  "locationZipcode": "03901",
+  "lat": 43.269956,
+  "lon": -70.86243,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:57.025Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:57.025Z"
+}

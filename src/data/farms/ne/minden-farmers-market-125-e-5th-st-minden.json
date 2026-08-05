@@ -1,0 +1,19 @@
+{
+  "slug": "minden-farmers-market-125-e-5th-st-minden",
+  "name": "Minden Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "125 E 5th St Minden, NE",
+  "locationCity": "125 E 5th St Minden",
+  "locationState": "NE",
+  "locationZipcode": "68959",
+  "lat": 40.49938845484256,
+  "lon": -98.9513998052816,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

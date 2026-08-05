@@ -1,0 +1,19 @@
+{
+  "slug": "kingston-new-york-farmers-market-328-wall-street-kingston",
+  "name": "Kingston, New York Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "328 Wall Street Kingston, NY",
+  "locationCity": "328 Wall Street Kingston",
+  "locationState": "NY",
+  "locationZipcode": "12401",
+  "lat": 41.934257294792395,
+  "lon": -74.01979133163951,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

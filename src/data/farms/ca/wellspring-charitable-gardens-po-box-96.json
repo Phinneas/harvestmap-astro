@@ -1,0 +1,19 @@
+{
+  "slug": "wellspring-charitable-gardens-po-box-96",
+  "name": "Wellspring Charitable Gardens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 96, CA",
+  "locationCity": "PO Box 96",
+  "locationState": "CA",
+  "locationZipcode": "95361",
+  "lat": 37.76445,
+  "lon": -120.8467199,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.071Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.071Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "brenckle-s-organic-farm-greenhouse-768-glen-eden-rd",
+  "name": "Brenckle's Organic Farm & Greenhouse",
+  "source": "usda",
+  "directory": "csa",
+  "location": "768 Glen Eden Rd., PA",
+  "locationCity": "768 Glen Eden Rd.",
+  "locationState": "PA",
+  "locationZipcode": "16063",
+  "lat": 40.7248315,
+  "lon": -80.1540238,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.558Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.558Z",
+  "crops": []
+}

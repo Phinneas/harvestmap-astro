@@ -1,0 +1,19 @@
+{
+  "slug": "apple-valley-orchard-8110-sims-road",
+  "name": "Apple Valley Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8110 Sims Road, WA",
+  "locationCity": "8110 Sims Road",
+  "locationState": "WA",
+  "locationZipcode": "98284",
+  "lat": 48.5274510078726,
+  "lon": -122.155653025096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.388Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.388Z"
+}

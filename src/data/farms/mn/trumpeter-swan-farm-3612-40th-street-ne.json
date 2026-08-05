@@ -1,0 +1,19 @@
+{
+  "slug": "trumpeter-swan-farm-3612-40th-street-ne",
+  "name": "Trumpeter Swan Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3612 40th Street NE, MN",
+  "locationCity": "3612 40th Street NE",
+  "locationState": "MN",
+  "locationZipcode": "55313",
+  "lat": 45.21025629025431,
+  "lon": -93.81491170908087,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.186Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.186Z"
+}

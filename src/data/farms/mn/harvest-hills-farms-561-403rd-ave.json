@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-hills-farms-561-403rd-ave",
+  "name": "Harvest Hills Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "561 403rd Ave, MN",
+  "locationCity": "561 403rd Ave",
+  "locationState": "MN",
+  "locationZipcode": "56048",
+  "lat": 44.1421671401071,
+  "lon": -93.6086224075748,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.757Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.757Z"
+}

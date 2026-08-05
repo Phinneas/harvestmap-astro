@@ -1,0 +1,19 @@
+{
+  "slug": "old-dairy-farm-4747-lee-street",
+  "name": "Old Dairy Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4747 Lee Street, LA",
+  "locationCity": "4747 Lee Street",
+  "locationState": "LA",
+  "locationZipcode": "70791",
+  "lat": 30.6503700000001,
+  "lon": -91.15452,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.198Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.198Z"
+}

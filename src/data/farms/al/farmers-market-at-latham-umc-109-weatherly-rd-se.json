@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-latham-umc-109-weatherly-rd-se",
+  "name": "Farmers Market at Latham UMC",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "109 WEATHERLY RD SE, AL",
+  "locationCity": "109 WEATHERLY RD SE",
+  "locationState": "AL",
+  "locationZipcode": "35803",
+  "lat": 34.646702540692466,
+  "lon": -86.56591489961613,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.018Z"
+}

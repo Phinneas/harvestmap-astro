@@ -1,0 +1,19 @@
+{
+  "slug": "working-h-farms-17-reckart-mill",
+  "name": "Working H Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "17 Reckart Mill, WV",
+  "locationCity": "17 Reckart Mill",
+  "locationState": "WV",
+  "locationZipcode": "26764",
+  "lat": 39.553567,
+  "lon": -79.528025,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:39.087Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:39.087Z"
+}

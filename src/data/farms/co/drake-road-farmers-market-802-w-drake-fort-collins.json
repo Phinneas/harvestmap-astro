@@ -1,0 +1,19 @@
+{
+  "slug": "drake-road-farmers-market-802-w-drake-fort-collins",
+  "name": "Drake Road Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "802 W. Drake Fort Collins, CO",
+  "locationCity": "802 W. Drake Fort Collins",
+  "locationState": "CO",
+  "locationZipcode": "80526",
+  "lat": 40.55267995116347,
+  "lon": -105.09061063352523,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

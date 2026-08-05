@@ -1,0 +1,19 @@
+{
+  "slug": "mccracken-farms-701-white-rd",
+  "name": "McCracken Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "701 White Rd, NY",
+  "locationCity": "701 White Rd",
+  "locationState": "NY",
+  "locationZipcode": "14420",
+  "lat": 43.1764206,
+  "lon": -77.9775592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

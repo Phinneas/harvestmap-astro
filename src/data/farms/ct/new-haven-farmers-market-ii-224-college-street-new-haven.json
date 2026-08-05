@@ -1,0 +1,19 @@
+{
+  "slug": "new-haven-farmers-market-ii-224-college-street-new-haven",
+  "name": "New Haven Farmers Market II",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "224 College Street New Haven, CT",
+  "locationCity": "224 College Street New Haven",
+  "locationState": "CT",
+  "locationZipcode": "06501",
+  "lat": 41.30622098637156,
+  "lon": -72.92947846101048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

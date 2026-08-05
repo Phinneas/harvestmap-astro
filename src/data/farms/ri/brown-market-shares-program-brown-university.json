@@ -1,0 +1,19 @@
+{
+  "slug": "brown-market-shares-program-brown-university",
+  "name": "Brown Market Shares Program",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Brown University, RI",
+  "locationCity": "Brown University",
+  "locationState": "RI",
+  "locationZipcode": "02912",
+  "lat": 41.8267718,
+  "lon": -71.402548,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:38.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:38.708Z"
+}

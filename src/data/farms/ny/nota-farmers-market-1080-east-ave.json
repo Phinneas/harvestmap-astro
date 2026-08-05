@@ -1,0 +1,19 @@
+{
+  "slug": "nota-farmers-market-1080-east-ave",
+  "name": "NOTA Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1080 East Ave, NY",
+  "locationCity": "1080 East Ave",
+  "locationState": "NY",
+  "locationZipcode": "14607",
+  "lat": 43.150477307096764,
+  "lon": -77.57573448907034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

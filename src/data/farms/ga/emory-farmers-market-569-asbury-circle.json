@@ -1,0 +1,19 @@
+{
+  "slug": "emory-farmers-market-569-asbury-circle",
+  "name": "Emory Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "569 Asbury Circle, GA",
+  "locationCity": "569 Asbury Circle",
+  "locationState": "GA",
+  "locationZipcode": "30322",
+  "lat": 33.794288769009746,
+  "lon": -84.32427795945135,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kingwood-farmers-market-2814-town-center-circle",
+  "name": "Kingwood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2814 Town Center Circle, TX",
+  "locationCity": "2814 Town Center Circle",
+  "locationState": "TX",
+  "locationZipcode": "77339",
+  "lat": 30.047327,
+  "lon": -95.184629,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.040Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.040Z"
+}

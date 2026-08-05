@@ -1,0 +1,19 @@
+{
+  "slug": "fifth-crow-farm-3800-cloverdale-rd",
+  "name": "Fifth Crow Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3800 Cloverdale Rd, CA",
+  "locationCity": "3800 Cloverdale Rd",
+  "locationState": "CA",
+  "locationZipcode": "94060",
+  "lat": 37.2321699,
+  "lon": -122.3563165,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.056Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.056Z"
+}

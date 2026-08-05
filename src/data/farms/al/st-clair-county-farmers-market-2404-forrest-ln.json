@@ -1,0 +1,19 @@
+{
+  "slug": "st-clair-county-farmers-market-2404-forrest-ln",
+  "name": "St. Clair County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2404 Forrest Ln., AL",
+  "locationCity": "2404 Forrest Ln.",
+  "locationState": "AL",
+  "locationZipcode": "35125",
+  "lat": 33.57557350744091,
+  "lon": -86.27102186768062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

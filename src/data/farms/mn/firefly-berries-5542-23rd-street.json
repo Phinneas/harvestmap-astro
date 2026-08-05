@@ -1,0 +1,19 @@
+{
+  "slug": "firefly-berries-5542-23rd-street",
+  "name": "Firefly Berries",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5542 23rd Street, MN",
+  "locationCity": "5542 23rd Street",
+  "locationState": "MN",
+  "locationZipcode": "55906",
+  "lat": 44.04455898983616,
+  "lon": -92.36753598431476,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:15.276Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:15.276Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "custom-kut-meat-inc-299-66th-avenue-northeast",
+  "name": "Custom Kut Meat Inc.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "299 66th Avenue Northeast, ND",
+  "locationCity": "299 66th Avenue Northeast",
+  "locationState": "ND",
+  "locationZipcode": "58421",
+  "lat": 47.4571494501716,
+  "lon": -99.1386414109347,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:54.799Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:54.799Z"
+}

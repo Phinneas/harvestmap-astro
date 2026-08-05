@@ -1,0 +1,19 @@
+{
+  "slug": "mccauleys-farm-9420-atlanta-dr",
+  "name": "McCauleys Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9420 Atlanta dr, FL",
+  "locationCity": "9420 Atlanta dr",
+  "locationState": "FL",
+  "locationZipcode": "34773",
+  "lat": 28.137989,
+  "lon": -81.056878,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.814Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.814Z"
+}

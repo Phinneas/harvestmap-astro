@@ -1,0 +1,20 @@
+{
+  "slug": "miller-farms-market-12101-orange-plank-rd",
+  "name": "Miller Farms Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "12101 Orange Plank Rd, VA",
+  "locationCity": "12101 Orange Plank Rd",
+  "locationState": "VA",
+  "locationZipcode": "12101",
+  "lat": 38.2765675,
+  "lon": -77.7534114,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.218Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.218Z",
+  "crops": []
+}

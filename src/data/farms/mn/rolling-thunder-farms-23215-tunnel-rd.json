@@ -1,0 +1,19 @@
+{
+  "slug": "rolling-thunder-farms-23215-tunnel-rd",
+  "name": "Rolling Thunder Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "23215 Tunnel Rd, MN",
+  "locationCity": "23215 Tunnel Rd",
+  "locationState": "MN",
+  "locationZipcode": "23215",
+  "lat": 45.8980246,
+  "lon": -93.0442949,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.173Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.173Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pikeville-farmers-market-130-adams-lane",
+  "name": "Pikeville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "130 Adams Lane, KY",
+  "locationCity": "130 Adams Lane",
+  "locationState": "KY",
+  "locationZipcode": "41501",
+  "lat": 37.485971,
+  "lon": -82.544326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.728Z"
+}

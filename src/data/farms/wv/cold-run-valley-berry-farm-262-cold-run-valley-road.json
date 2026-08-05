@@ -1,0 +1,19 @@
+{
+  "slug": "cold-run-valley-berry-farm-262-cold-run-valley-road",
+  "name": "Cold Run Valley Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "262 Cold Run Valley Road, WV",
+  "locationCity": "262 Cold Run Valley Road",
+  "locationState": "WV",
+  "locationZipcode": "25411",
+  "lat": 39.6126351988404,
+  "lon": -78.243574336672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.787Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "moberly-farmer-s-market-101-sturgeon-street-moberly",
+  "name": "Moberly Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Sturgeon Street Moberly, MO",
+  "locationCity": "101 Sturgeon Street Moberly",
+  "locationState": "MO",
+  "locationZipcode": "65270",
+  "lat": 39.41854410839648,
+  "lon": -92.43672083586891,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

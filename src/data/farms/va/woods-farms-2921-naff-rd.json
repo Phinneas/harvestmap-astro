@@ -1,0 +1,19 @@
+{
+  "slug": "woods-farms-2921-naff-rd",
+  "name": "Woods Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2921 Naff Rd, VA",
+  "locationCity": "2921 Naff Rd",
+  "locationState": "VA",
+  "locationZipcode": "24065",
+  "lat": 37.14981397946822,
+  "lon": -80.01344696619243,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.407Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.407Z"
+}

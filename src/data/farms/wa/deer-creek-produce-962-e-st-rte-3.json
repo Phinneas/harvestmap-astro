@@ -1,0 +1,19 @@
+{
+  "slug": "deer-creek-produce-962-e-st-rte-3",
+  "name": "Deer Creek Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "962 E St rte 3, WA",
+  "locationCity": "962 E St rte 3",
+  "locationState": "WA",
+  "locationZipcode": "98584",
+  "lat": 47.2184813517816,
+  "lon": -123.081049471992,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.138Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.138Z"
+}

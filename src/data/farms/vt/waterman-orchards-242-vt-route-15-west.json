@@ -1,0 +1,19 @@
+{
+  "slug": "waterman-orchards-242-vt-route-15-west",
+  "name": "Waterman Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "242 VT Route 15 West, VT",
+  "locationCity": "242 VT Route 15 West",
+  "locationState": "VT",
+  "locationZipcode": "05656",
+  "lat": 44.6404100044819,
+  "lon": -72.6958310011289,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.016Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.016Z"
+}

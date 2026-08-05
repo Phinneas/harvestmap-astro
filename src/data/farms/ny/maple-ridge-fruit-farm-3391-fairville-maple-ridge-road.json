@@ -1,0 +1,19 @@
+{
+  "slug": "maple-ridge-fruit-farm-3391-fairville-maple-ridge-road",
+  "name": "Maple Ridge Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3391 Fairville Maple Ridge Road, NY",
+  "locationCity": "3391 Fairville Maple Ridge Road",
+  "locationState": "NY",
+  "locationZipcode": "14513",
+  "lat": 43.1284250612969,
+  "lon": -77.0975447060063,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.382Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.382Z"
+}

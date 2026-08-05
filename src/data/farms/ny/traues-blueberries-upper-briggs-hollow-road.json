@@ -1,0 +1,19 @@
+{
+  "slug": "traues-blueberries-upper-briggs-hollow-road",
+  "name": "Traues Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Upper Briggs Hollow Road, NY",
+  "locationCity": "Upper Briggs Hollow Road",
+  "locationState": "NY",
+  "locationZipcode": "13827",
+  "lat": 42.0126793465018,
+  "lon": -76.3247761885562,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.333Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.333Z"
+}

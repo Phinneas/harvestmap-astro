@@ -1,0 +1,19 @@
+{
+  "slug": "pelican-rapids-mn-farmers-market-25-north-broadway-pelican-rapids",
+  "name": "Pelican Rapids, MN Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25 North Broadway Pelican Rapids, MN",
+  "locationCity": "25 North Broadway Pelican Rapids",
+  "locationState": "MN",
+  "locationZipcode": "56572",
+  "lat": 46.570505738392164,
+  "lon": -96.08355672300205,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.774Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "maryville-farmers-market-saturdays-founders-square",
+  "name": "Maryville Farmers Market - Saturdays",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Founders Square, TN",
+  "locationCity": "Founders Square",
+  "locationState": "TN",
+  "locationZipcode": "37801",
+  "lat": 35.756987,
+  "lon": -83.969504,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.291Z"
+}

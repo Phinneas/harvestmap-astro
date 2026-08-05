@@ -1,0 +1,19 @@
+{
+  "slug": "nelson-blueberry-farm-198-e-street",
+  "name": "Nelson Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "198 E Street, NC",
+  "locationCity": "198 E Street",
+  "locationState": "NC",
+  "locationZipcode": "28519",
+  "lat": 35.1201786713958,
+  "lon": -77.0162319240456,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.711Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.711Z"
+}

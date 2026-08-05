@@ -1,0 +1,19 @@
+{
+  "slug": "dude-s-ranch-32041-1st-street",
+  "name": "Dude's Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "32041 1st Street, CA",
+  "locationCity": "32041 1st Street",
+  "locationState": "CA",
+  "locationZipcode": "32041",
+  "lat": 34.4693743,
+  "lon": -118.2008022,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.794Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.794Z"
+}

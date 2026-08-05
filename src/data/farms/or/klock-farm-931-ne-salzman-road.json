@@ -1,0 +1,20 @@
+{
+  "slug": "klock-farm-931-ne-salzman-road",
+  "name": "Klock Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "931 NE Salzman Road, OR",
+  "locationCity": "931 NE Salzman Road",
+  "locationState": "OR",
+  "locationZipcode": "97019",
+  "lat": 45.5280620164834,
+  "lon": -122.252441040358,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.964Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.964Z",
+  "crops": []
+}

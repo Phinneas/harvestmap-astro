@@ -1,0 +1,19 @@
+{
+  "slug": "the-vandemark-farm-2401-s-vandemark-road",
+  "name": "The VanDemark Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2401 S. Vandemark Road, OH",
+  "locationCity": "2401 S. Vandemark Road",
+  "locationState": "OH",
+  "locationZipcode": "45365",
+  "lat": 40.2457710030702,
+  "lon": -84.1894319952416,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.844Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.844Z"
+}

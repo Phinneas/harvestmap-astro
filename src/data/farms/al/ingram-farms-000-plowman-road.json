@@ -1,0 +1,19 @@
+{
+  "slug": "ingram-farms-000-plowman-road",
+  "name": "Ingram Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 Plowman Road, AL",
+  "locationCity": "000 Plowman Road",
+  "locationState": "AL",
+  "locationZipcode": "35466",
+  "lat": 33.2659519479783,
+  "lon": -87.8316523732336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.634Z"
+}

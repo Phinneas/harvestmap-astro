@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-farmers-market-downtown-aledo-s-college-avenue-aledo",
+  "name": "Main Street Farmers Market Downtown Aledo",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S. College Avenue Aledo, IL",
+  "locationCity": "S. College Avenue Aledo",
+  "locationState": "IL",
+  "locationZipcode": "61231",
+  "lat": 41.194693259469055,
+  "lon": -90.74940924706947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

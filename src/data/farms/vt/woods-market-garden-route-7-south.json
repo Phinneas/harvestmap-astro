@@ -1,0 +1,19 @@
+{
+  "slug": "woods-market-garden-route-7-south",
+  "name": "Woods Market Garden",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Route 7 South, VT",
+  "locationCity": "Route 7 South",
+  "locationState": "VT",
+  "locationZipcode": "05733",
+  "lat": 43.796931154245435,
+  "lon": -73.08357299829615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:48.663Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:48.663Z"
+}

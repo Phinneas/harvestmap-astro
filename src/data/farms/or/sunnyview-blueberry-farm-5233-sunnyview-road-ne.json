@@ -1,0 +1,19 @@
+{
+  "slug": "sunnyview-blueberry-farm-5233-sunnyview-road-ne",
+  "name": "Sunnyview Blueberry Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5233 Sunnyview Road Ne, OR",
+  "locationCity": "5233 Sunnyview Road Ne",
+  "locationState": "OR",
+  "locationZipcode": "97305",
+  "lat": 44.955201011595875,
+  "lon": -122.95490596581013,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.522Z"
+}

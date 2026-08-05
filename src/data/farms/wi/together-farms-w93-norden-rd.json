@@ -1,0 +1,19 @@
+{
+  "slug": "together-farms-w93-norden-rd",
+  "name": "Together Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "W93 Norden Rd., WI",
+  "locationCity": "W93 Norden Rd.",
+  "locationState": "WI",
+  "locationZipcode": "54755",
+  "lat": 44.536613628518126,
+  "lon": -91.54760555901919,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.022Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.022Z"
+}

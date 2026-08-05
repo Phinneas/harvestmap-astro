@@ -1,0 +1,19 @@
+{
+  "slug": "moravia-farmers-market-130-main-street-moravia",
+  "name": "Moravia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "130 Main Street Moravia, NY",
+  "locationCity": "130 Main Street Moravia",
+  "locationState": "NY",
+  "locationZipcode": "13118",
+  "lat": 42.711338853243724,
+  "lon": -76.42141907264364,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

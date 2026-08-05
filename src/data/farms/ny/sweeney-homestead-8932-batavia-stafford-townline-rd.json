@@ -1,0 +1,19 @@
+{
+  "slug": "sweeney-homestead-8932-batavia-stafford-townline-rd",
+  "name": "Sweeney Homestead",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8932 Batavia Stafford Townline Rd, NY",
+  "locationCity": "8932 Batavia Stafford Townline Rd",
+  "locationState": "NY",
+  "locationZipcode": "14020",
+  "lat": 42.9833709,
+  "lon": -78.1337048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.158Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.158Z"
+}

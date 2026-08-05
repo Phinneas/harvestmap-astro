@@ -1,0 +1,19 @@
+{
+  "slug": "monroe-farmers-market-po-box-581-monroe",
+  "name": "Monroe Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "PO Box 581 Monroe, GA",
+  "locationCity": "PO Box 581 Monroe",
+  "locationState": "GA",
+  "locationZipcode": "30655",
+  "lat": 33.79269500000004,
+  "lon": -83.70967499999995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

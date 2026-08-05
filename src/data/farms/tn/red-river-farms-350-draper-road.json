@@ -1,0 +1,19 @@
+{
+  "slug": "red-river-farms-350-draper-road",
+  "name": "Red River Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "350 Draper Road, TN",
+  "locationCity": "350 Draper Road",
+  "locationState": "TN",
+  "locationZipcode": "37172",
+  "lat": 36.5829889028859,
+  "lon": -86.7489262562643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.223Z"
+}

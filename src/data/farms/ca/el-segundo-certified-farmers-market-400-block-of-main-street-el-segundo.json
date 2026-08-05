@@ -1,0 +1,19 @@
+{
+  "slug": "el-segundo-certified-farmers-market-400-block-of-main-street-el-segundo",
+  "name": "El Segundo Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 block of Main Street El Segundo, CA",
+  "locationCity": "400 block of Main Street El Segundo",
+  "locationState": "CA",
+  "locationZipcode": "90245",
+  "lat": 33.92094178165769,
+  "lon": -118.41592841780628,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

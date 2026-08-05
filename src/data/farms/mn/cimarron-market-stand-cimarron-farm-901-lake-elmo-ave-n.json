@@ -1,0 +1,19 @@
+{
+  "slug": "cimarron-market-stand-cimarron-farm-901-lake-elmo-ave-n",
+  "name": "Cimarron Market Stand (Cimarron Farm)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "901 Lake Elmo Ave N, MN",
+  "locationCity": "901 Lake Elmo Ave N",
+  "locationState": "MN",
+  "locationZipcode": "55042",
+  "lat": 44.9608282,
+  "lon": -92.8820297,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

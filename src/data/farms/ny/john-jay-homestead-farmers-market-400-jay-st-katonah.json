@@ -1,0 +1,19 @@
+{
+  "slug": "john-jay-homestead-farmers-market-400-jay-st-katonah",
+  "name": "John Jay Homestead Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Jay St Katonah, NY",
+  "locationCity": "400 Jay St Katonah",
+  "locationState": "NY",
+  "locationZipcode": "10536",
+  "lat": 41.24835882619902,
+  "lon": -73.66061483484454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

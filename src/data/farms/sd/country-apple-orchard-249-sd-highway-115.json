@@ -1,0 +1,19 @@
+{
+  "slug": "country-apple-orchard-249-sd-highway-115",
+  "name": "Country Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "249 SD Highway 115, SD",
+  "locationCity": "249 SD Highway 115",
+  "locationState": "SD",
+  "locationZipcode": "57032",
+  "lat": 43.4243700202364,
+  "lon": -96.7275099906733,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:07.385Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:07.385Z"
+}

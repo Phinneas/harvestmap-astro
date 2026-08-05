@@ -1,0 +1,19 @@
+{
+  "slug": "salamanca-farmers-market-768-broad-st",
+  "name": "Salamanca Farmers market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "768 Broad st, NY",
+  "locationCity": "768 Broad st",
+  "locationState": "NY",
+  "locationZipcode": "14779",
+  "lat": 42.164734,
+  "lon": -78.741263,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.835Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.835Z"
+}

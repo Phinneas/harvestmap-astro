@@ -1,0 +1,19 @@
+{
+  "slug": "franklin-county-farmers-market-202-green-ave-sw",
+  "name": "Franklin County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "202 Green Ave. SW, AL",
+  "locationCity": "202 Green Ave. SW",
+  "locationState": "AL",
+  "locationZipcode": "35653",
+  "lat": 34.50457141843047,
+  "lon": -87.73276939427625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

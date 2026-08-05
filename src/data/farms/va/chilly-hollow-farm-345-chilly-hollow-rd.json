@@ -1,0 +1,19 @@
+{
+  "slug": "chilly-hollow-farm-345-chilly-hollow-rd",
+  "name": "Chilly Hollow Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "345 chilly hollow rd, VA",
+  "locationCity": "345 chilly hollow rd",
+  "locationState": "VA",
+  "locationZipcode": "22611",
+  "lat": 39.13081296679135,
+  "lon": -77.92467451557735,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.250Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.250Z"
+}

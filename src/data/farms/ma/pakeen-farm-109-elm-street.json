@@ -1,0 +1,20 @@
+{
+  "slug": "pakeen-farm-109-elm-street",
+  "name": "Pakeen Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "109 Elm Street, MA",
+  "locationCity": "109 Elm Street",
+  "locationState": "MA",
+  "locationZipcode": "02021",
+  "lat": 42.200670126919,
+  "lon": -71.1371485475158,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.547Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.547Z",
+  "crops": []
+}

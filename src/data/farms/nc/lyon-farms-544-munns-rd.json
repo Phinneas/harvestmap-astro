@@ -1,0 +1,19 @@
+{
+  "slug": "lyon-farms-544-munns-rd",
+  "name": "Lyon Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "544 Munns Rd, NC",
+  "locationCity": "544 Munns Rd",
+  "locationState": "NC",
+  "locationZipcode": "27522",
+  "lat": 36.0849144606455,
+  "lon": -78.7337708339629,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.771Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.771Z"
+}

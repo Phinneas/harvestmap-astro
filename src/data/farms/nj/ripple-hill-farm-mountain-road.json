@@ -1,0 +1,19 @@
+{
+  "slug": "ripple-hill-farm-mountain-road",
+  "name": "Ripple Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mountain Road, NJ",
+  "locationCity": "Mountain Road",
+  "locationState": "NJ",
+  "locationZipcode": "07920",
+  "lat": 40.6324170067126,
+  "lon": -74.584621970814,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.731Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.731Z"
+}

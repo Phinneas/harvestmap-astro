@@ -1,0 +1,19 @@
+{
+  "slug": "wilson-s-farm-market-2838-forge-hill-road",
+  "name": "Wilson's Farm Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2838 Forge Hill Road, MD",
+  "locationCity": "2838 Forge Hill Road",
+  "locationState": "MD",
+  "locationZipcode": "21015",
+  "lat": 39.6088072,
+  "lon": -76.2989605,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.693Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.693Z"
+}

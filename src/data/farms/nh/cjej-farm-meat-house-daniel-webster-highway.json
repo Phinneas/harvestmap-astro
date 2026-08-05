@@ -1,0 +1,19 @@
+{
+  "slug": "cjej-farm-meat-house-daniel-webster-highway",
+  "name": "CJEJ Farm Meat House",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Daniel Webster Highway, NH",
+  "locationCity": "Daniel Webster Highway",
+  "locationState": "NH",
+  "locationZipcode": "03576",
+  "lat": 44.85744,
+  "lon": -71.54562,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.913Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.913Z"
+}

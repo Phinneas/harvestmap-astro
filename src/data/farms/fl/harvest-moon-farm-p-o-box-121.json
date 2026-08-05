@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-moon-farm-p-o-box-121",
+  "name": "Harvest moon farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "P.o. box 121, FL",
+  "locationCity": "P.o. box 121",
+  "locationState": "FL",
+  "locationZipcode": "34436",
+  "lat": 28.7499876,
+  "lon": -82.2967581,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.811Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.811Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "arlington-village-farmers-market-148-rec-park-road",
+  "name": "Arlington Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "148 Rec Park Road, VT",
+  "locationCity": "148 Rec Park Road",
+  "locationState": "VT",
+  "locationZipcode": "05250",
+  "lat": 43.08055299477678,
+  "lon": -73.15312601307087,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.355Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.355Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "deep-run-vineyards-798-good-day-rd",
+  "name": "Deep Run Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "798 Good Day Rd, ID",
+  "locationCity": "798 Good Day Rd",
+  "locationState": "ID",
+  "locationZipcode": "83641",
+  "lat": 43.3254781354036,
+  "lon": -116.598773763134,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.674Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.674Z"
+}

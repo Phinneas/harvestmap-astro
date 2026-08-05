@@ -1,0 +1,19 @@
+{
+  "slug": "massaro-farm-csa-41-ford-road",
+  "name": "Massaro Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "41 Ford Road, CT",
+  "locationCity": "41 Ford Road",
+  "locationState": "CT",
+  "locationZipcode": "06525",
+  "lat": 41.3376559,
+  "lon": -73.0416647,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.401Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.401Z"
+}

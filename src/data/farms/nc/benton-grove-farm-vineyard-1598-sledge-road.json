@@ -1,0 +1,19 @@
+{
+  "slug": "benton-grove-farm-vineyard-1598-sledge-road",
+  "name": "Benton Grove Farm Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1598 Sledge Road, NC",
+  "locationCity": "1598 Sledge Road",
+  "locationState": "NC",
+  "locationZipcode": "27549",
+  "lat": 35.9802543818859,
+  "lon": -78.2140677693366,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.871Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.871Z"
+}

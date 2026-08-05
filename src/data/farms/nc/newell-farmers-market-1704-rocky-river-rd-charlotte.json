@@ -1,0 +1,19 @@
+{
+  "slug": "newell-farmers-market-1704-rocky-river-rd-charlotte",
+  "name": "Newell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1704 Rocky River Rd Charlotte, NC",
+  "locationCity": "1704 Rocky River Rd Charlotte",
+  "locationState": "NC",
+  "locationZipcode": "28213",
+  "lat": 35.279027766397405,
+  "lon": -80.73424493198276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

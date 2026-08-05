@@ -1,0 +1,19 @@
+{
+  "slug": "food-farm-2612-county-rd-1",
+  "name": "Food Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2612 County Rd 1, MN",
+  "locationCity": "2612 County Rd 1",
+  "locationState": "MN",
+  "locationZipcode": "55797",
+  "lat": 46.5834062,
+  "lon": -92.3831105,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.169Z"
+}

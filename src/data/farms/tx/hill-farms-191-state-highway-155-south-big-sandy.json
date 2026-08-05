@@ -1,0 +1,19 @@
+{
+  "slug": "hill-farms-191-state-highway-155-south-big-sandy",
+  "name": "Hill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "191 State highway 155 South Big Sandy, TX",
+  "locationCity": "191 State highway 155 South Big Sandy",
+  "locationState": "TX",
+  "locationZipcode": "75755",
+  "lat": 32.5847715850154,
+  "lon": -95.1085237575666,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.407Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.407Z"
+}

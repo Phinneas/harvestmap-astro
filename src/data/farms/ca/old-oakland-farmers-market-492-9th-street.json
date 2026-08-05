@@ -1,0 +1,19 @@
+{
+  "slug": "old-oakland-farmers-market-492-9th-street",
+  "name": "Old Oakland Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "492 9th street, CA",
+  "locationCity": "492 9th street",
+  "locationState": "CA",
+  "locationZipcode": "94609",
+  "lat": 37.801382,
+  "lon": -122.27459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

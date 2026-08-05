@@ -1,0 +1,19 @@
+{
+  "slug": "greener-good-farmers-market-665-artesia-blvd-long-beach",
+  "name": "Greener Good Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "665 Artesia Blvd. Long Beach, CA",
+  "locationCity": "665 Artesia Blvd. Long Beach",
+  "locationState": "CA",
+  "locationZipcode": "90805",
+  "lat": 33.87444635286621,
+  "lon": -118.18503639271366,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "glover-s-blueberries-612-s-calhoun-road",
+  "name": "Glover's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "612 S. Calhoun Road, FL",
+  "locationCity": "612 S. Calhoun Road",
+  "locationState": "FL",
+  "locationZipcode": "33567",
+  "lat": 27.9435805507884,
+  "lon": -82.1662800396636,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.800Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.800Z"
+}

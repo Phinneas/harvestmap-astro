@@ -1,0 +1,19 @@
+{
+  "slug": "cambria-farmers-market-1000-main-street",
+  "name": "Cambria Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 Main Street, CA",
+  "locationCity": "1000 Main Street",
+  "locationState": "CA",
+  "locationZipcode": "93428",
+  "lat": 35.564323,
+  "lon": -121.09662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "buckwheat-farm-2700-holland-rd",
+  "name": "Buckwheat Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2700 Holland Rd, NC",
+  "locationCity": "2700 Holland Rd",
+  "locationState": "NC",
+  "locationZipcode": "27502",
+  "lat": 35.7136617487826,
+  "lon": -78.9006618125833,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.838Z"
+}

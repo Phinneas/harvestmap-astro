@@ -1,0 +1,19 @@
+{
+  "slug": "apple-orchard-farm-640-mariposa-road",
+  "name": "Apple Orchard Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "640 Mariposa Road, NC",
+  "locationCity": "640 Mariposa Road",
+  "locationState": "NC",
+  "locationZipcode": "28164",
+  "lat": 35.3848569,
+  "lon": -81.088517,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.402Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.402Z"
+}

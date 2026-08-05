@@ -1,0 +1,19 @@
+{
+  "slug": "red-bluff-tehama-county-farmers-market-100-main-st",
+  "name": "Red Bluff-Tehama County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 MAIN ST, CA",
+  "locationCity": "100 MAIN ST",
+  "locationState": "CA",
+  "locationZipcode": "96080",
+  "lat": 40.172161139530765,
+  "lon": -122.2303083283136,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

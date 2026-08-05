@@ -1,0 +1,19 @@
+{
+  "slug": "chesaning-farmers-market-625-broad-st-chesaning",
+  "name": "Chesaning Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "625 Broad St Chesaning, MI",
+  "locationCity": "625 Broad St Chesaning",
+  "locationState": "MI",
+  "locationZipcode": "48616",
+  "lat": 43.185957032270224,
+  "lon": -84.1208350771081,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

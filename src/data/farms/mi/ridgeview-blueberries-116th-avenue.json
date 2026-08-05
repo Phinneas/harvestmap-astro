@@ -1,0 +1,19 @@
+{
+  "slug": "ridgeview-blueberries-116th-avenue",
+  "name": "Ridgeview Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "116th Avenue, MI",
+  "locationCity": "116th Avenue",
+  "locationState": "MI",
+  "locationZipcode": "49078",
+  "lat": 42.5370400084821,
+  "lon": -85.6600500711817,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.646Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.646Z"
+}

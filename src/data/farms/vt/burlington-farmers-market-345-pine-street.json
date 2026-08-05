@@ -1,0 +1,19 @@
+{
+  "slug": "burlington-farmers-market-345-pine-street",
+  "name": "Burlington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "345 Pine Street, VT",
+  "locationCity": "345 Pine Street",
+  "locationState": "VT",
+  "locationZipcode": "05401",
+  "lat": 44.46973,
+  "lon": -73.215415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.144Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.144Z"
+}

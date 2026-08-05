@@ -1,0 +1,19 @@
+{
+  "slug": "myrtle-wycoff-greenmarket-325-wyckoff-ave",
+  "name": "Myrtle Wycoff Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "325 Wyckoff Ave, NY",
+  "locationCity": "325 Wyckoff Ave",
+  "locationState": "NY",
+  "locationZipcode": "11385",
+  "lat": 40.699829209155965,
+  "lon": -73.9115814279646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

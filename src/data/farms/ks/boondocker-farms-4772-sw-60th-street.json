@@ -1,0 +1,19 @@
+{
+  "slug": "boondocker-farms-4772-sw-60th-street",
+  "name": "Boondocker Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4772 SW 60th Street, KS",
+  "locationCity": "4772 SW 60th Street",
+  "locationState": "KS",
+  "locationZipcode": "67042",
+  "lat": 37.738005,
+  "lon": -96.932121,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:58.118Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:58.118Z"
+}

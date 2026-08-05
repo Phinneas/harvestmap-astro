@@ -1,0 +1,19 @@
+{
+  "slug": "tcb-hwy-64-blueberry-farm-15334-hwy-64",
+  "name": "TCB HWY 64 Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15334 Hwy 64, MO",
+  "locationCity": "15334 Hwy 64",
+  "locationState": "MO",
+  "locationZipcode": "15334",
+  "lat": 37.69199001029692,
+  "lon": -92.75552699005023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.899Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.899Z"
+}

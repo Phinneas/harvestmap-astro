@@ -1,0 +1,19 @@
+{
+  "slug": "toms-raspberries-w13702-highway-60",
+  "name": "Toms Raspberries",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "W13702 highway 60, WI",
+  "locationCity": "W13702 highway 60",
+  "locationState": "WI",
+  "locationZipcode": "53578",
+  "lat": 43.307907,
+  "lon": -89.680302,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:17.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:17.406Z"
+}

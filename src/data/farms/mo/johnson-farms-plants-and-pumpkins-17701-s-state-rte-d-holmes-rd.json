@@ -9,27 +9,11 @@
   "locationZipcode": "17701",
   "lat": 38.8058679964421,
   "lon": -94.5838929873816,
-  "website": "https://www.johnsonfarms.net",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:31:46.328Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:31:58.842Z"
+      "lastSeen": "2026-08-05T18:43:49.722Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:31:46.328Z",
-  "crops": [
-    "Apples",
-    "Pumpkins",
-    "Squash",
-    "Corn",
-    "Tomatoes",
-    "Peppers",
-    "Flowers",
-    "Sunflowers"
-  ],
-  "phone": "816-331-1067"
+  "usdaLastUpdated": "2026-08-05T18:43:49.722Z"
 }

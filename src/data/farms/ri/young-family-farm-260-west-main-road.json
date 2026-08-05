@@ -1,0 +1,20 @@
+{
+  "slug": "young-family-farm-260-west-main-road",
+  "name": "Young Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "260 West Main Road, RI",
+  "locationCity": "260 West Main Road",
+  "locationState": "RI",
+  "locationZipcode": "02837",
+  "lat": 41.5232939978704,
+  "lon": -71.1845840006995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.037Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.037Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "your-farm-2340-rte-5-north",
+  "name": "Your Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2340 Rte. 5 North, VT",
+  "locationCity": "2340 Rte. 5 North",
+  "locationState": "VT",
+  "locationZipcode": "05045",
+  "lat": 43.9289028,
+  "lon": -72.119909,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.091Z"
+}

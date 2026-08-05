@@ -1,0 +1,19 @@
+{
+  "slug": "bedford-farmers-market-924-16th-street-bedford",
+  "name": "Bedford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "924 16th Street Bedford, IN",
+  "locationCity": "924 16th Street Bedford",
+  "locationState": "IN",
+  "locationZipcode": "47421",
+  "lat": 38.86101246755645,
+  "lon": -86.4831411055744,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "girdwood-farmers-market-148-holmgren-pl",
+  "name": "Girdwood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "148 Holmgren Pl, AK",
+  "locationCity": "148 Holmgren Pl",
+  "locationState": "AK",
+  "locationZipcode": "99587",
+  "lat": 60.96321078337082,
+  "lon": -149.13625618838418,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

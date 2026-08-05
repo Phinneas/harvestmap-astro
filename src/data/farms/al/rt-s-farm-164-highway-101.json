@@ -1,0 +1,19 @@
+{
+  "slug": "rt-s-farm-164-highway-101",
+  "name": "RT's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "164 Highway 101, AL",
+  "locationCity": "164 Highway 101",
+  "locationState": "AL",
+  "locationZipcode": "35648",
+  "lat": 34.8165956250618,
+  "lon": -87.3826871796188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.549Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.549Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ziesenheim-fruit-farm-8760-west-lake-road",
+  "name": "Ziesenheim Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8760 West Lake Road, PA",
+  "locationCity": "8760 West Lake Road",
+  "locationState": "PA",
+  "locationZipcode": "16423",
+  "lat": 42.038606992940714,
+  "lon": -80.30192902325743,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.450Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.450Z"
+}

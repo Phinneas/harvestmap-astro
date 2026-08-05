@@ -1,0 +1,19 @@
+{
+  "slug": "wic-clinic-callaghan-farmers-market-4412-callaghan-rd",
+  "name": "WIC Clinic Callaghan Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4412 Callaghan Rd, TX",
+  "locationCity": "4412 Callaghan Rd",
+  "locationState": "TX",
+  "locationZipcode": "78228",
+  "lat": 29.472403,
+  "lon": -98.525142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.049Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.049Z"
+}

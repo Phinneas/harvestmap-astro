@@ -1,0 +1,19 @@
+{
+  "slug": "bp-farm-940-dry-valley-rd",
+  "name": "BP Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "940 Dry Valley Rd, AL",
+  "locationCity": "940 Dry Valley Rd",
+  "locationState": "AL",
+  "locationZipcode": "35096",
+  "lat": 33.5914320096334,
+  "lon": -86.0940899914569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.657Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.657Z"
+}

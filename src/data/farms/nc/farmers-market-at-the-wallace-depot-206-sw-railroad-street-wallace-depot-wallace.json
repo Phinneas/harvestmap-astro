@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-the-wallace-depot-206-sw-railroad-street-wallace-depot-wallace",
+  "name": "Farmers Market at the Wallace Depot",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "206 SW Railroad Street Wallace Depot Wallace, NC",
+  "locationCity": "206 SW Railroad Street Wallace Depot Wallace",
+  "locationState": "NC",
+  "locationZipcode": "28466",
+  "lat": 34.736235308740405,
+  "lon": -77.99679179158687,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

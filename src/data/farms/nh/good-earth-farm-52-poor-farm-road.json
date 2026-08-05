@@ -1,0 +1,19 @@
+{
+  "slug": "good-earth-farm-52-poor-farm-road",
+  "name": "Good Earth Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "52 Poor Farm Road, NH",
+  "locationCity": "52 Poor Farm Road",
+  "locationState": "NH",
+  "locationZipcode": "03281",
+  "lat": 43.02234168305171,
+  "lon": -71.74227099481145,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.629Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.629Z"
+}

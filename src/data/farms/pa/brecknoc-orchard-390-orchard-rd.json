@@ -1,0 +1,20 @@
+{
+  "slug": "brecknoc-orchard-390-orchard-rd",
+  "name": "Brecknoc Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "390 Orchard Rd, PA",
+  "locationCity": "390 Orchard Rd",
+  "locationState": "PA",
+  "locationZipcode": "19540",
+  "lat": 40.2254989930547,
+  "lon": -76.0357760060745,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.146Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.146Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "east-boston-farmers-on-line-market-winter-spring-250-sumner-street",
+  "name": "East Boston Farmers On-line Market - Winter/Spring",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "250 Sumner street, MA",
+  "locationCity": "250 Sumner street",
+  "locationState": "MA",
+  "locationZipcode": "02128",
+  "lat": 42.3313532,
+  "lon": -71.076514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.788Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.788Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "brown-family-farm-7526-160th-avenue",
+  "name": "Brown Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7526 160th Avenue, MN",
+  "locationCity": "7526 160th Avenue",
+  "locationState": "MN",
+  "locationZipcode": "56357",
+  "lat": 45.6570333967251,
+  "lon": -93.7380288698422,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.184Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.184Z"
+}

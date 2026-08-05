@@ -1,0 +1,19 @@
+{
+  "slug": "riverside-farms-241-riverson-road",
+  "name": "Riverside Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "241 Riverson Road, NC",
+  "locationCity": "241 Riverson Road",
+  "locationState": "NC",
+  "locationZipcode": "27025",
+  "lat": 36.3663921907388,
+  "lon": -79.9901608657046,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.802Z"
+}

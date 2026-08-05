@@ -1,0 +1,19 @@
+{
+  "slug": "dennison-farmers-market-city-park",
+  "name": "Dennison Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "City Park, MN",
+  "locationCity": "City Park",
+  "locationState": "MN",
+  "locationZipcode": "37579",
+  "lat": 44.4053181,
+  "lon": -93.03853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

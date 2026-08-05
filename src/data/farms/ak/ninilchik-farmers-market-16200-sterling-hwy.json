@@ -1,0 +1,19 @@
+{
+  "slug": "ninilchik-farmers-market-16200-sterling-hwy",
+  "name": "Ninilchik Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16200 Sterling Hwy, AK",
+  "locationCity": "16200 Sterling Hwy",
+  "locationState": "AK",
+  "locationZipcode": "16200",
+  "lat": 60.03673898523522,
+  "lon": -151.67576600409848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

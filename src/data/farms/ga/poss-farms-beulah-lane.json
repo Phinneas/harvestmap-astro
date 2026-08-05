@@ -1,0 +1,19 @@
+{
+  "slug": "poss-farms-beulah-lane",
+  "name": "Poss Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Beulah Lane, GA",
+  "locationCity": "Beulah Lane",
+  "locationState": "GA",
+  "locationZipcode": "30415",
+  "lat": 32.3654090354669,
+  "lon": -81.7061222950616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.360Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.360Z"
+}

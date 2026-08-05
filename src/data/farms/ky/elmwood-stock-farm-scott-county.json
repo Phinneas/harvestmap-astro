@@ -1,0 +1,19 @@
+{
+  "slug": "elmwood-stock-farm-scott-county",
+  "name": "Elmwood Stock Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Scott County, KY",
+  "locationCity": "Scott County",
+  "locationState": "KY",
+  "locationZipcode": "40324",
+  "lat": 38.218833,
+  "lon": -84.556329,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.119Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.119Z"
+}

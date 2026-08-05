@@ -1,0 +1,19 @@
+{
+  "slug": "andersonville-farmers-market-1500-w-catalpa-ave",
+  "name": "Andersonville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1500 W. Catalpa Ave., IL",
+  "locationCity": "1500 W. Catalpa Ave.",
+  "locationState": "IL",
+  "locationZipcode": "60640",
+  "lat": 41.981745,
+  "lon": -87.668602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.929Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.929Z"
+}

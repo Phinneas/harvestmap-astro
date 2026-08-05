@@ -1,0 +1,19 @@
+{
+  "slug": "goodeetens-produce-farm-2773-jefferson-ave",
+  "name": "GoodEetens Produce Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2773 Jefferson Ave., IA",
+  "locationCity": "2773 Jefferson Ave.",
+  "locationState": "IA",
+  "locationZipcode": "51234",
+  "lat": 43.239793,
+  "lon": -95.258313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.422Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.422Z"
+}

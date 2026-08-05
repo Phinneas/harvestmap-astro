@@ -1,0 +1,19 @@
+{
+  "slug": "j-j-bees-1-crestview-drive",
+  "name": "J&J Bees",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1 Crestview Drive, NH",
+  "locationCity": "1 Crestview Drive",
+  "locationState": "NH",
+  "locationZipcode": "03833",
+  "lat": 42.980963998931,
+  "lon": -70.9676160062512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.821Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.821Z"
+}

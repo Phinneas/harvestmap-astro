@@ -1,0 +1,19 @@
+{
+  "slug": "becks-cider-mill-5050-west-maple-rapids-road",
+  "name": "Becks Cider Mill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5050 West Maple Rapids Road, MI",
+  "locationCity": "5050 West Maple Rapids Road",
+  "locationState": "MI",
+  "locationZipcode": "48879",
+  "lat": 43.1044219648898,
+  "lon": -84.6217072197917,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.722Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.722Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "brookdale-orchard-997-route-49",
+  "name": "Brookdale Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "997 Route 49, NY",
+  "locationCity": "997 Route 49",
+  "locationState": "NY",
+  "locationZipcode": "13697",
+  "lat": 44.7435218197747,
+  "lon": -74.7405007545087,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.964Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.964Z"
+}

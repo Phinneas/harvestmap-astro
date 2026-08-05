@@ -1,0 +1,19 @@
+{
+  "slug": "monster-corn-maze-st-rt-am",
+  "name": "Monster Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "St. Rt. AM, MO",
+  "locationCity": "St. Rt. AM",
+  "locationState": "MO",
+  "locationZipcode": "65689",
+  "lat": 37.0267623659423,
+  "lon": -92.0746906190035,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.790Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.790Z"
+}

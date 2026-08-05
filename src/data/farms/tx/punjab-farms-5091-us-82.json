@@ -1,0 +1,19 @@
+{
+  "slug": "punjab-farms-5091-us-82",
+  "name": "Punjab Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5091 US-82, TX",
+  "locationCity": "5091 US-82",
+  "locationState": "TX",
+  "locationZipcode": "75452",
+  "lat": 33.60588713219203,
+  "lon": -96.25987778970985,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.712Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.712Z"
+}

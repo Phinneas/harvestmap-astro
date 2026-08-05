@@ -1,0 +1,19 @@
+{
+  "slug": "thanksgiving-farm-221-lindenwood",
+  "name": "Thanksgiving Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "221 Lindenwood, IL",
+  "locationCity": "221 Lindenwood",
+  "locationState": "IL",
+  "locationZipcode": "60506",
+  "lat": 41.7456092002109,
+  "lon": -88.36327536959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.893Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.893Z"
+}

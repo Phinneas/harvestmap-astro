@@ -1,0 +1,19 @@
+{
+  "slug": "peach-valley-farm-992-highway-281-north",
+  "name": "Peach Valley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "992 Highway 281 North, TX",
+  "locationCity": "992 Highway 281 North",
+  "locationState": "TX",
+  "locationZipcode": "78663",
+  "lat": 30.4393416767879,
+  "lon": -98.3412751662735,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.427Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.427Z"
+}

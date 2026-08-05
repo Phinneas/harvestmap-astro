@@ -1,0 +1,19 @@
+{
+  "slug": "cheeseman-farm-cheeseman-road",
+  "name": "Cheeseman Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Cheeseman Road, PA",
+  "locationCity": "Cheeseman Road",
+  "locationState": "PA",
+  "locationZipcode": "16051",
+  "lat": 40.9317100005838,
+  "lon": -80.1547340024983,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.142Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.142Z"
+}

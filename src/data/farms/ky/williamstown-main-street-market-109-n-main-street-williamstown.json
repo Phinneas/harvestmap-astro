@@ -1,0 +1,19 @@
+{
+  "slug": "williamstown-main-street-market-109-n-main-street-williamstown",
+  "name": "Williamstown Main Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "109 N. Main Street Williamstown, KY",
+  "locationCity": "109 N. Main Street Williamstown",
+  "locationState": "KY",
+  "locationZipcode": "41097",
+  "lat": 38.6373933051841,
+  "lon": -84.56056743642061,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

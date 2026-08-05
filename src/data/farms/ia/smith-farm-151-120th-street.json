@@ -1,0 +1,19 @@
+{
+  "slug": "smith-farm-151-120th-street",
+  "name": "Smith Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "151 120th Street, IA",
+  "locationCity": "151 120th Street",
+  "locationState": "IA",
+  "locationZipcode": "50447",
+  "lat": 42.9377894767457,
+  "lon": -93.794099094363,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.734Z"
+}

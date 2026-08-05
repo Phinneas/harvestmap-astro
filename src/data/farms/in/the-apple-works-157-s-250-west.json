@@ -1,0 +1,19 @@
+{
+  "slug": "the-apple-works-157-s-250-west",
+  "name": "The Apple Works",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "157 S. 250 West, IN",
+  "locationCity": "157 S. 250 West",
+  "locationState": "IN",
+  "locationZipcode": "46181",
+  "lat": 39.4135425477058,
+  "lon": -86.1486060072638,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.243Z"
+}

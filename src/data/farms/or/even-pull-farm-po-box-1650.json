@@ -1,0 +1,19 @@
+{
+  "slug": "even-pull-farm-po-box-1650",
+  "name": "Even Pull Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 1650, OR",
+  "locationCity": "PO Box 1650",
+  "locationState": "OR",
+  "locationZipcode": "97128",
+  "lat": 45.2107513,
+  "lon": -123.1944874,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.945Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.945Z"
+}

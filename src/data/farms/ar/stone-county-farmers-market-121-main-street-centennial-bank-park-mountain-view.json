@@ -1,0 +1,19 @@
+{
+  "slug": "stone-county-farmers-market-121-main-street-centennial-bank-park-mountain-view",
+  "name": "Stone County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 Main Street (Centennial Bank Park) Mountain View, AR",
+  "locationCity": "121 Main Street (Centennial Bank Park) Mountain View",
+  "locationState": "AR",
+  "locationZipcode": "72560",
+  "lat": 35.86834085112247,
+  "lon": -92.11712830292659,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

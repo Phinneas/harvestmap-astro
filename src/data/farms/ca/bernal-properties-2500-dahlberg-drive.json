@@ -1,0 +1,19 @@
+{
+  "slug": "bernal-properties-2500-dahlberg-drive",
+  "name": "Bernal Properties",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2500 Dahlberg Drive, CA",
+  "locationCity": "2500 Dahlberg Drive",
+  "locationState": "CA",
+  "locationZipcode": "95037",
+  "lat": 37.1146863,
+  "lon": -121.68309,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.935Z"
+}

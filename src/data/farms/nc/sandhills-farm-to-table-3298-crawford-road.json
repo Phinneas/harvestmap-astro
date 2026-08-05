@@ -1,0 +1,19 @@
+{
+  "slug": "sandhills-farm-to-table-3298-crawford-road",
+  "name": "Sandhills Farm to Table",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3298 Crawford Road, NC",
+  "locationCity": "3298 Crawford Road",
+  "locationState": "NC",
+  "locationZipcode": "28338",
+  "lat": 35.1425406,
+  "lon": -79.718923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.879Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.879Z"
+}

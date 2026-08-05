@@ -1,0 +1,19 @@
+{
+  "slug": "hinesville-farmers-market-commerce-street",
+  "name": "Hinesville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Commerce Street, GA",
+  "locationCity": "Commerce Street",
+  "locationState": "GA",
+  "locationZipcode": "31313",
+  "lat": 31.848750894157238,
+  "lon": -81.59512430983975,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "green-level-gourd-farm-3800-green-level-road-west",
+  "name": "Green Level Gourd Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3800 Green Level Road West, NC",
+  "locationCity": "3800 Green Level Road West",
+  "locationState": "NC",
+  "locationZipcode": "27523",
+  "lat": 35.7778070326585,
+  "lon": -78.9090687670352,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.812Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.812Z"
+}

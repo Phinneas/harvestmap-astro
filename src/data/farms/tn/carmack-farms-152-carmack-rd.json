@@ -1,0 +1,19 @@
+{
+  "slug": "carmack-farms-152-carmack-rd",
+  "name": "Carmack Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "152 Carmack Rd, TN",
+  "locationCity": "152 Carmack Rd",
+  "locationState": "TN",
+  "locationZipcode": "38063",
+  "lat": 35.8038200139086,
+  "lon": -89.4714470344928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.171Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.171Z"
+}

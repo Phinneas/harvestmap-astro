@@ -1,0 +1,19 @@
+{
+  "slug": "stilhaven-farms-po-box-431",
+  "name": "Stilhaven Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 431, IN",
+  "locationCity": "PO Box 431",
+  "locationState": "IN",
+  "locationZipcode": "46035",
+  "lat": 40.1950377,
+  "lon": -86.667227,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.525Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.525Z"
+}

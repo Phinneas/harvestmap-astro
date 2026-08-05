@@ -1,0 +1,19 @@
+{
+  "slug": "kaelin-farm-market-2547-brant-school-road",
+  "name": "Kaelin Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2547 Brant School Road, PA",
+  "locationCity": "2547 Brant School Road",
+  "locationState": "PA",
+  "locationZipcode": "15090",
+  "lat": 40.60688401135005,
+  "lon": -80.08871796545047,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

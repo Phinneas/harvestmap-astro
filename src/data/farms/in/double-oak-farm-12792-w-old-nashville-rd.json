@@ -1,0 +1,19 @@
+{
+  "slug": "double-oak-farm-12792-w-old-nashville-rd",
+  "name": "Double Oak Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "12792 W Old Nashville Rd, IN",
+  "locationCity": "12792 W Old Nashville Rd",
+  "locationState": "IN",
+  "locationZipcode": "12792",
+  "lat": 39.20187901668339,
+  "lon": -86.06053513756979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.555Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.555Z"
+}

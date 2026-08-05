@@ -1,0 +1,19 @@
+{
+  "slug": "beaver-dam-farmer-s-market-hwy-231-south",
+  "name": "Beaver Dam Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hwy 231 South, KY",
+  "locationCity": "Hwy 231 South",
+  "locationState": "KY",
+  "locationZipcode": "42320",
+  "lat": 37.407199,
+  "lon": -86.877647,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.724Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.724Z"
+}

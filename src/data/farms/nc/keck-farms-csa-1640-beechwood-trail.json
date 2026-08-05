@@ -1,0 +1,19 @@
+{
+  "slug": "keck-farms-csa-1640-beechwood-trail",
+  "name": "Keck Farms CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1640 Beechwood Trail, NC",
+  "locationCity": "1640 Beechwood Trail",
+  "locationState": "NC",
+  "locationZipcode": "27217",
+  "lat": 36.2172998,
+  "lon": -79.3465117,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.851Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.851Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hyde-park-farmers-market-12-white-oaks-rd",
+  "name": "Hyde Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12 White Oaks Rd, NY",
+  "locationCity": "12 White Oaks Rd",
+  "locationState": "NY",
+  "locationZipcode": "12538",
+  "lat": 41.78349405869819,
+  "lon": -73.9226244228781,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

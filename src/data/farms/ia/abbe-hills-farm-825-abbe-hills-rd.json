@@ -1,0 +1,19 @@
+{
+  "slug": "abbe-hills-farm-825-abbe-hills-rd",
+  "name": "Abbe Hills Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "825 Abbe Hills Rd, IA",
+  "locationCity": "825 Abbe Hills Rd",
+  "locationState": "IA",
+  "locationZipcode": "52314",
+  "lat": 41.949022,
+  "lon": -91.446325,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.412Z"
+}

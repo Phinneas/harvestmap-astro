@@ -1,0 +1,19 @@
+{
+  "slug": "dry-valley-vineyard-280-hwy-89",
+  "name": "Dry Valley Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "280 Hwy 89, AL",
+  "locationCity": "280 Hwy 89",
+  "locationState": "AL",
+  "locationZipcode": "35115",
+  "lat": 33.0729005101617,
+  "lon": -86.8045233281982,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.641Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.641Z"
+}

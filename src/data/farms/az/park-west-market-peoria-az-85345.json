@@ -1,0 +1,19 @@
+{
+  "slug": "park-west-market-peoria-az-85345",
+  "name": "Park West Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Peoria AZ 85345, AZ",
+  "locationCity": "Peoria AZ 85345",
+  "locationState": "AZ",
+  "locationZipcode": "85345",
+  "lat": 33.581480000000056,
+  "lon": -112.23544999999996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

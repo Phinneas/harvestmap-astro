@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-partners-and-maple-valley-farm-3330-west-maple-grove-rd",
+  "name": "Harvest Partners and Maple Valley Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3330 West Maple Grove Rd., IN",
+  "locationCity": "3330 West Maple Grove Rd.",
+  "locationState": "IN",
+  "locationZipcode": "47404",
+  "lat": 39.245965648091385,
+  "lon": -86.57834363476296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.559Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.559Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "corley-ranch-corley-ranch-road",
+  "name": "Corley Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Corley Ranch Road, NV",
+  "locationCity": "Corley Ranch Road",
+  "locationState": "NV",
+  "locationZipcode": "89460",
+  "lat": 38.9033960080256,
+  "lon": -119.700307007739,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:11.016Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:11.016Z"
+}

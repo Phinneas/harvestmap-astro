@@ -1,0 +1,19 @@
+{
+  "slug": "wrightstown-farmers-market-middletown-grange-576-penns-park-road",
+  "name": "Wrightstown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Middletown Grange 576 Penns Park Road, PA",
+  "locationCity": "Middletown Grange 576 Penns Park Road",
+  "locationState": "PA",
+  "locationZipcode": "18940",
+  "lat": 40.336871,
+  "lon": -75.106815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:18.989Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:18.989Z"
+}

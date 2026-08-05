@@ -1,0 +1,19 @@
+{
+  "slug": "lazy-valley-ranch-10919-lazy-valley-rd",
+  "name": "Lazy Valley Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10919 Lazy Valley Rd, CA",
+  "locationCity": "10919 Lazy Valley Rd",
+  "locationState": "CA",
+  "locationZipcode": "10919",
+  "lat": 39.19245599731451,
+  "lon": -121.1587429890217,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.848Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.848Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dart-s-tree-farm-7745-hill-road",
+  "name": "Dart's Tree Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7745 Hill Road, NY",
+  "locationCity": "7745 Hill Road",
+  "locationState": "NY",
+  "locationZipcode": "13355",
+  "lat": 42.829149,
+  "lon": -75.483456,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.791Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.791Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "sweatman-s-strawberries-198-sweatman-farm-road",
+  "name": "Sweatman's Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "198 Sweatman Farm Road, SC",
+  "locationCity": "198 Sweatman Farm Road",
+  "locationState": "SC",
+  "locationZipcode": "29477",
+  "lat": 33.1133479918881,
+  "lon": -80.6168519615274,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.818Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.818Z",
+  "crops": []
+}

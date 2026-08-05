@@ -1,0 +1,19 @@
+{
+  "slug": "crane-creek-market-205-s-commerce-crane",
+  "name": "Crane Creek Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 S. Commerce Crane, MO",
+  "locationCity": "205 S. Commerce Crane",
+  "locationState": "MO",
+  "locationZipcode": "65633",
+  "lat": 36.89815208435694,
+  "lon": -93.57542902697868,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.492Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "richland-hills-farmers-market-6980-baker-boulevard-richland-hills",
+  "name": "Richland Hills Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6980 Baker Boulevard Richland Hills, TX",
+  "locationCity": "6980 Baker Boulevard Richland Hills",
+  "locationState": "TX",
+  "locationZipcode": "76118",
+  "lat": 32.80910613539233,
+  "lon": -97.23213931658564,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

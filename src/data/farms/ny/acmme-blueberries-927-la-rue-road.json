@@ -1,0 +1,19 @@
+{
+  "slug": "acmme-blueberries-927-la-rue-road",
+  "name": "ACMME Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "927 La Rue Road, NY",
+  "locationCity": "927 La Rue Road",
+  "locationState": "NY",
+  "locationZipcode": "14432",
+  "lat": 42.9920172565579,
+  "lon": -77.1565576629511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.429Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.429Z"
+}

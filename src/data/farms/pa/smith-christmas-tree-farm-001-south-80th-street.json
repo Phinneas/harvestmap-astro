@@ -1,0 +1,19 @@
+{
+  "slug": "smith-christmas-tree-farm-001-south-80th-street",
+  "name": "Smith Christmas Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "001 South 80th Street, PA",
+  "locationCity": "001 South 80th Street",
+  "locationState": "PA",
+  "locationZipcode": "17111",
+  "lat": 40.2548114120287,
+  "lon": -76.7457298438779,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.117Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.117Z"
+}

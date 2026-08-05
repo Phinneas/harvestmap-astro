@@ -1,0 +1,19 @@
+{
+  "slug": "frostburg-farmers-market-20-s-water-street",
+  "name": "Frostburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 S Water Street, MD",
+  "locationCity": "20 S Water Street",
+  "locationState": "MD",
+  "locationZipcode": "21532",
+  "lat": 39.65734584974548,
+  "lon": -78.92946130424536,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

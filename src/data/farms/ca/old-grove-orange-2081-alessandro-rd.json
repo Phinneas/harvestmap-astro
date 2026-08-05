@@ -1,0 +1,19 @@
+{
+  "slug": "old-grove-orange-2081-alessandro-rd",
+  "name": "Old Grove Orange",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2081 Alessandro Rd, CA",
+  "locationCity": "2081 Alessandro Rd",
+  "locationState": "CA",
+  "locationZipcode": "92373",
+  "lat": 34.013850493366135,
+  "lon": -117.17970049115382,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

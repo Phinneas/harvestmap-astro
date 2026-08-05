@@ -1,0 +1,19 @@
+{
+  "slug": "forsyth-park-farmers-market-700-whitaker-street",
+  "name": "Forsyth Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 Whitaker Street, GA",
+  "locationCity": "700 Whitaker Street",
+  "locationState": "GA",
+  "locationZipcode": "31401",
+  "lat": 32.06842818494427,
+  "lon": -81.09703576249383,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

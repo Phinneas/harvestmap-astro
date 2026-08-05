@@ -1,0 +1,19 @@
+{
+  "slug": "eastside-neighborhood-farmers-market-826-euclid-ave",
+  "name": "Eastside Neighborhood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "826 Euclid Ave, NY",
+  "locationCity": "826 Euclid Ave",
+  "locationState": "NY",
+  "locationZipcode": "13210",
+  "lat": 43.03674997656394,
+  "lon": -76.11987573388298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "reisterstown-farmers-market-120-main-street",
+  "name": "Reisterstown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 Main Street, MD",
+  "locationCity": "120 Main Street",
+  "locationState": "MD",
+  "locationZipcode": "21136",
+  "lat": 39.465227,
+  "lon": -76.8297,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.501Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.501Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "meyer-s-farm-woodbury-road",
+  "name": "Meyer's Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Woodbury Road, NY",
+  "locationCity": "Woodbury Road",
+  "locationState": "NY",
+  "locationZipcode": "11797",
+  "lat": 40.8156216780415,
+  "lon": -73.46826691599078,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.828Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.828Z"
+}

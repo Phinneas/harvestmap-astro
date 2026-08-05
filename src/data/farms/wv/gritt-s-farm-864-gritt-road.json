@@ -1,0 +1,20 @@
+{
+  "slug": "gritt-s-farm-864-gritt-road",
+  "name": "Gritt's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "864 Gritt Road, WV",
+  "locationCity": "864 Gritt Road",
+  "locationState": "WV",
+  "locationZipcode": "25033",
+  "lat": 38.5947050147665,
+  "lon": -81.9352179588448,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.801Z",
+  "crops": []
+}

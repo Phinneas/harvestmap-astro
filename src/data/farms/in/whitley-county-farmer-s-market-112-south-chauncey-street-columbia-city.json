@@ -1,0 +1,19 @@
+{
+  "slug": "whitley-county-farmer-s-market-112-south-chauncey-street-columbia-city",
+  "name": "Whitley County Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 South Chauncey Street Columbia City, IN",
+  "locationCity": "112 South Chauncey Street Columbia City",
+  "locationState": "IN",
+  "locationZipcode": "46725",
+  "lat": 41.15682524467521,
+  "lon": -85.4898172604852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

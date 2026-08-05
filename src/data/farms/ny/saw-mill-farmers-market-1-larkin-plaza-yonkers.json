@@ -1,0 +1,19 @@
+{
+  "slug": "saw-mill-farmers-market-1-larkin-plaza-yonkers",
+  "name": "Saw Mill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Larkin Plaza Yonkers, NY",
+  "locationCity": "1 Larkin Plaza Yonkers",
+  "locationState": "NY",
+  "locationZipcode": "10701",
+  "lat": 40.935419428236905,
+  "lon": -73.89907086598383,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

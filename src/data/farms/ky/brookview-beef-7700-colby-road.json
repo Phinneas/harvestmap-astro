@@ -1,0 +1,19 @@
+{
+  "slug": "brookview-beef-7700-colby-road",
+  "name": "Brookview Beef",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7700 Colby Road, KY",
+  "locationCity": "7700 Colby Road",
+  "locationState": "KY",
+  "locationZipcode": "40391",
+  "lat": 38.00212,
+  "lon": -84.315719,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:19.342Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:19.342Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "osseo-farmers-market-boerboom-veterans-park",
+  "name": "Osseo Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Boerboom Veterans Park, MN",
+  "locationCity": "Boerboom Veterans Park",
+  "locationState": "MN",
+  "locationZipcode": "55369",
+  "lat": 45.1207031,
+  "lon": -93.4015747,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

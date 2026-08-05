@@ -1,0 +1,19 @@
+{
+  "slug": "jon-s-market-garden-1300-gresham-ave-n",
+  "name": "Jon's Market Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1300 Gresham Ave N, MN",
+  "locationCity": "1300 Gresham Ave N",
+  "locationState": "MN",
+  "locationZipcode": "55128",
+  "lat": 44.9682746,
+  "lon": -92.969135,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.169Z"
+}

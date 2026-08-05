@@ -1,0 +1,19 @@
+{
+  "slug": "kragnes-family-farms-csa-10600-60th-st-n",
+  "name": "Kragnes Family Farms CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10600 60th St. N, MN",
+  "locationCity": "10600 60th St. N",
+  "locationState": "MN",
+  "locationZipcode": "10600",
+  "lat": 47.0007088,
+  "lon": -96.6676379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.169Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "south-central-pa-harvest-hub-653-s-baltimore",
+  "name": "South Central PA Harvest Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "653 S Baltimore, PA",
+  "locationCity": "653 S Baltimore",
+  "locationState": "PA",
+  "locationZipcode": "17019",
+  "lat": 40.0937666,
+  "lon": -77.031053,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.776Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.776Z"
+}

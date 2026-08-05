@@ -1,0 +1,19 @@
+{
+  "slug": "flamingo-road-nursery-south-flamingo-road",
+  "name": "Flamingo Road Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "South Flamingo Road, FL",
+  "locationCity": "South Flamingo Road",
+  "locationState": "FL",
+  "locationZipcode": "33325",
+  "lat": 26.1122535231911,
+  "lon": -80.3138502129493,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.798Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.798Z"
+}

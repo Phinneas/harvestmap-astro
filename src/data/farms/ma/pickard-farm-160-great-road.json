@@ -1,0 +1,19 @@
+{
+  "slug": "pickard-farm-160-great-road",
+  "name": "Pickard Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "160 Great Road, MA",
+  "locationCity": "160 Great Road",
+  "locationState": "MA",
+  "locationZipcode": "01460",
+  "lat": 42.5366346596445,
+  "lon": -71.4555275121031,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.592Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.592Z"
+}

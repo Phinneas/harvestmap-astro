@@ -1,0 +1,19 @@
+{
+  "slug": "stone-county-farmers-market-735-hall-street-wiggins",
+  "name": "Stone County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "735 Hall Street Wiggins, MS",
+  "locationCity": "735 Hall Street Wiggins",
+  "locationState": "MS",
+  "locationZipcode": "39577",
+  "lat": 30.85116865011174,
+  "lon": -89.14232842129587,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

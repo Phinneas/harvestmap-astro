@@ -1,0 +1,19 @@
+{
+  "slug": "jefferson-farmers-market-203-s-walcott-st-jefferson",
+  "name": "Jefferson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "203 S Walcott St Jefferson, TX",
+  "locationCity": "203 S Walcott St Jefferson",
+  "locationState": "TX",
+  "locationZipcode": "75657",
+  "lat": 32.760204168483085,
+  "lon": -94.35495541210496,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

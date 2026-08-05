@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-picks-5625-w-howard-street",
+  "name": "Fresh Picks",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5625 W Howard Street, IL",
+  "locationCity": "5625 W Howard Street",
+  "locationState": "IL",
+  "locationZipcode": "60714",
+  "lat": 42.018634007321026,
+  "lon": -87.76816300478212,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.487Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.487Z"
+}

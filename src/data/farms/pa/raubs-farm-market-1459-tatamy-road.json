@@ -1,0 +1,19 @@
+{
+  "slug": "raubs-farm-market-1459-tatamy-road",
+  "name": "Raubs Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1459 Tatamy Road, PA",
+  "locationCity": "1459 Tatamy Road",
+  "locationState": "PA",
+  "locationZipcode": "18045",
+  "lat": 40.73150099289208,
+  "lon": -75.25522099586912,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.449Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.449Z"
+}

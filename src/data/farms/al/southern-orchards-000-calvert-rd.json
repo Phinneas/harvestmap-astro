@@ -1,0 +1,19 @@
+{
+  "slug": "southern-orchards-000-calvert-rd",
+  "name": "Southern Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 Calvert Rd, AL",
+  "locationCity": "000 Calvert Rd",
+  "locationState": "AL",
+  "locationZipcode": "36608",
+  "lat": 30.6610447208665,
+  "lon": -88.31378173039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.620Z"
+}

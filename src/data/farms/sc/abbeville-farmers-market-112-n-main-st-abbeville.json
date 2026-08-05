@@ -1,0 +1,19 @@
+{
+  "slug": "abbeville-farmers-market-112-n-main-st-abbeville",
+  "name": "Abbeville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 N. Main St Abbeville, SC",
+  "locationCity": "112 N. Main St Abbeville",
+  "locationState": "SC",
+  "locationZipcode": "29620",
+  "lat": 34.17820276835882,
+  "lon": -82.37945865512776,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.194Z"
+}

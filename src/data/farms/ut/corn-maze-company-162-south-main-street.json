@@ -1,0 +1,19 @@
+{
+  "slug": "corn-maze-company-162-south-main-street",
+  "name": "Corn Maze Company",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "162 South Main Street, UT",
+  "locationCity": "162 South Main Street",
+  "locationState": "UT",
+  "locationZipcode": "84657",
+  "lat": 38.8365539000001,
+  "lon": -111.9717914,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.640Z"
+}

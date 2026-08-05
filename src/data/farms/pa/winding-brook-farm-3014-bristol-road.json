@@ -1,0 +1,20 @@
+{
+  "slug": "winding-brook-farm-3014-bristol-road",
+  "name": "Winding Brook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3014 Bristol Road, PA",
+  "locationCity": "3014 Bristol Road",
+  "locationState": "PA",
+  "locationZipcode": "18976",
+  "lat": 40.2588969796239,
+  "lon": -75.15608504189,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.135Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.135Z",
+  "crops": []
+}

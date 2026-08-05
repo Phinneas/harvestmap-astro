@@ -1,0 +1,19 @@
+{
+  "slug": "shelterwood-farm-179-tuxward-road",
+  "name": "Shelterwood Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "179 Tuxward Road, DE",
+  "locationCity": "179 Tuxward Road",
+  "locationState": "DE",
+  "locationZipcode": "19953",
+  "lat": 39.110374995093,
+  "lon": -75.7011590319225,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.168Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.168Z"
+}

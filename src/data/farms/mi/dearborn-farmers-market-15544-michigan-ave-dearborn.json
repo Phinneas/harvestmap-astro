@@ -1,0 +1,19 @@
+{
+  "slug": "dearborn-farmers-market-15544-michigan-ave-dearborn",
+  "name": "Dearborn Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15544 Michigan Ave. Dearborn, MI",
+  "locationCity": "15544 Michigan Ave. Dearborn",
+  "locationState": "MI",
+  "locationZipcode": "15544",
+  "lat": 42.316540498159696,
+  "lon": -83.19555642197739,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "abc-blueberries-2301-alturas-babson-park-cutoff-road",
+  "name": "ABC Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2301 Alturas-babson Park Cutoff Road, FL",
+  "locationCity": "2301 Alturas-babson Park Cutoff Road",
+  "locationState": "FL",
+  "locationZipcode": "33859",
+  "lat": 27.83884891984793,
+  "lon": -81.61822288212825,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.895Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.895Z"
+}

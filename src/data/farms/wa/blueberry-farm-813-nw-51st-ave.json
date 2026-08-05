@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-farm-813-nw-51st-ave",
+  "name": "Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "813 Nw 51st Ave, WA",
+  "locationCity": "813 Nw 51st Ave",
+  "locationState": "WA",
+  "locationZipcode": "98642",
+  "lat": 45.8361983683073,
+  "lon": -122.72358884104,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.388Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.388Z"
+}

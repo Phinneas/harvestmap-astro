@@ -1,0 +1,19 @@
+{
+  "slug": "pa-s-pumpkin-patch-701-e-pacific-coast-hwy",
+  "name": "PA's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "701 E Pacific Coast Hwy, CA",
+  "locationCity": "701 E Pacific Coast Hwy",
+  "locationState": "CA",
+  "locationZipcode": "90803",
+  "lat": 33.7899273007017,
+  "lon": -118.183931078979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.789Z"
+}

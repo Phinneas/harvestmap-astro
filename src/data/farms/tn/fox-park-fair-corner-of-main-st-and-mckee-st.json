@@ -1,0 +1,19 @@
+{
+  "slug": "fox-park-fair-corner-of-main-st-and-mckee-st",
+  "name": "Fox Park Fair",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Corner of Main St and McKee St, TN",
+  "locationCity": "Corner of Main St and McKee St",
+  "locationState": "TN",
+  "locationZipcode": "37743",
+  "lat": 36.160545012057085,
+  "lon": -82.83245098909012,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:36.622Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:36.622Z"
+}

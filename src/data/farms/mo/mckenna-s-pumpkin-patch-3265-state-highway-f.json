@@ -1,0 +1,20 @@
+{
+  "slug": "mckenna-s-pumpkin-patch-3265-state-highway-f",
+  "name": "McKenna's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3265 State Highway F, MO",
+  "locationCity": "3265 State Highway F",
+  "locationState": "MO",
+  "locationZipcode": "65616",
+  "lat": 36.7238959934208,
+  "lon": -93.1880200343151,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.730Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.730Z",
+  "crops": []
+}

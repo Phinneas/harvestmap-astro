@@ -1,0 +1,20 @@
+{
+  "slug": "mount-carroll-farmers-market-116-e-market-street",
+  "name": "Mount Carroll Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "116 E Market Street, IL",
+  "locationCity": "116 E Market Street",
+  "locationState": "IL",
+  "locationZipcode": "61053",
+  "lat": 42.101295,
+  "lon": -89.978008,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.929Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.929Z",
+  "crops": []
+}

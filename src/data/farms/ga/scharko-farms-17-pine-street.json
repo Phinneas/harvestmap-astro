@@ -1,0 +1,19 @@
+{
+  "slug": "scharko-farms-17-pine-street",
+  "name": "Scharko Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "17  Pine Street., GA",
+  "locationCity": "17  Pine Street.",
+  "locationState": "GA",
+  "locationZipcode": "30213",
+  "lat": 33.562832997908274,
+  "lon": -84.57623302218329,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.459Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.459Z"
+}

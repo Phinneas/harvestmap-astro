@@ -1,0 +1,19 @@
+{
+  "slug": "roseville-farmers-market-2131-fairview-ave-n",
+  "name": "Roseville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2131 Fairview Ave N, MN",
+  "locationCity": "2131 Fairview Ave N",
+  "locationState": "MN",
+  "locationZipcode": "55113",
+  "lat": 45.0044153,
+  "lon": -93.1772108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

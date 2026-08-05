@@ -1,0 +1,19 @@
+{
+  "slug": "pounds-farms-7000-n-stuthard-street",
+  "name": "Pounds Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7000 N Stuthard Street, IN",
+  "locationCity": "7000 N Stuthard Street",
+  "locationState": "IN",
+  "locationZipcode": "47805",
+  "lat": 39.5511985,
+  "lon": -87.266893,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.583Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.583Z"
+}

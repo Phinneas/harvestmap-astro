@@ -1,0 +1,19 @@
+{
+  "slug": "lakelocation-10-wickliffe-circle",
+  "name": "LakeLocation",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10 Wickliffe Circle, CT",
+  "locationCity": "10 Wickliffe Circle",
+  "locationState": "CT",
+  "locationZipcode": "06606",
+  "lat": 41.2221840169384,
+  "lon": -73.2028000211356,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.978Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.978Z"
+}

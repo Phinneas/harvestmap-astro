@@ -1,0 +1,19 @@
+{
+  "slug": "bb-blueberries-15761-sw-oberst-lane",
+  "name": "BB Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15761 Sw Oberst Lane, OR",
+  "locationCity": "15761 Sw Oberst Lane",
+  "locationState": "OR",
+  "locationZipcode": "15761",
+  "lat": 45.33701300403897,
+  "lon": -122.8384039657369,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.061Z"
+}

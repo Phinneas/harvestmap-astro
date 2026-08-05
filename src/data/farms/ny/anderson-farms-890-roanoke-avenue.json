@@ -1,0 +1,19 @@
+{
+  "slug": "anderson-farms-890-roanoke-avenue",
+  "name": "Anderson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "890 Roanoke Avenue, NY",
+  "locationCity": "890 Roanoke Avenue",
+  "locationState": "NY",
+  "locationZipcode": "11901",
+  "lat": 40.9268248178655,
+  "lon": -72.6686728804692,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.427Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.427Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "figment-cottage-gardens-6288-belmont-cir",
+  "name": "Figment Cottage Gardens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6288 Belmont Cir, MD",
+  "locationCity": "6288 Belmont Cir",
+  "locationState": "MD",
+  "locationZipcode": "21771",
+  "lat": 39.39774871310115,
+  "lon": -77.1106476323263,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.715Z"
+}

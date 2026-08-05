@@ -1,0 +1,19 @@
+{
+  "slug": "boulder-family-farms-1005-cherryvale-rd",
+  "name": "Boulder Family Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1005 Cherryvale Rd, CO",
+  "locationCity": "1005 Cherryvale Rd",
+  "locationState": "CO",
+  "locationZipcode": "80303",
+  "lat": 40.005291979762404,
+  "lon": -105.21342302915333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:05.335Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:05.335Z"
+}

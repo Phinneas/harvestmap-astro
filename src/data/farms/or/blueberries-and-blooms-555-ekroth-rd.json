@@ -1,0 +1,19 @@
+{
+  "slug": "blueberries-and-blooms-555-ekroth-rd",
+  "name": "Blueberries and Blooms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "555 Ekroth Rd., OR",
+  "locationCity": "555 Ekroth Rd.",
+  "locationState": "OR",
+  "locationZipcode": "97107",
+  "lat": 45.5635337440655,
+  "lon": -123.87016786289,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.031Z"
+}

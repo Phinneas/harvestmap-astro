@@ -1,0 +1,19 @@
+{
+  "slug": "humpday-farmers-market-1237-e-main-st",
+  "name": "Humpday Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1237 E Main St, IL",
+  "locationCity": "1237 E Main St",
+  "locationState": "IL",
+  "locationZipcode": "62901",
+  "lat": 37.730073,
+  "lon": -89.193194,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.952Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.952Z"
+}

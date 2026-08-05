@@ -1,0 +1,19 @@
+{
+  "slug": "abode-farm-csa-5-abode-road",
+  "name": "Abode Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5 Abode Road, NY",
+  "locationCity": "5 Abode Road",
+  "locationState": "NY",
+  "locationZipcode": "12125",
+  "lat": 42.4433148,
+  "lon": -73.3789055,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.147Z"
+}

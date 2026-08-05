@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-summer-st-cloud",
+  "name": "Blueberry Summer",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "St Cloud, MN",
+  "locationCity": "St Cloud",
+  "locationState": "MN",
+  "locationZipcode": "56304",
+  "lat": 45.552453,
+  "lon": -94.122035,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.853Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.853Z"
+}

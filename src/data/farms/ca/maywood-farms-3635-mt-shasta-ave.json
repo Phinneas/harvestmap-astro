@@ -1,0 +1,19 @@
+{
+  "slug": "maywood-farms-3635-mt-shasta-ave",
+  "name": "Maywood Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3635 Mt. Shasta Ave., CA",
+  "locationCity": "3635 Mt. Shasta Ave.",
+  "locationState": "CA",
+  "locationZipcode": "96021",
+  "lat": 39.905095,
+  "lon": -122.2279,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.933Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.933Z"
+}

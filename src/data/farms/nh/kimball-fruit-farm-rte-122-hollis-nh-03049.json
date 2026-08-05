@@ -1,0 +1,19 @@
+{
+  "slug": "kimball-fruit-farm-rte-122-hollis-nh-03049",
+  "name": "Kimball Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Rte.122 Hollis NH 03049, NH",
+  "locationCity": "Rte.122 Hollis NH 03049",
+  "locationState": "NH",
+  "locationZipcode": "03049",
+  "lat": 42.78507095362637,
+  "lon": -71.6034472482664,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.802Z"
+}

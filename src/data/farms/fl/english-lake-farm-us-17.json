@@ -1,0 +1,19 @@
+{
+  "slug": "english-lake-farm-us-17",
+  "name": "English Lake Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US 17, FL",
+  "locationCity": "US 17",
+  "locationState": "FL",
+  "locationZipcode": "34267",
+  "lat": 27.0837985000001,
+  "lon": -81.9557108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.850Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "la-cour-family-farms-occidental-st-purdue-blvd",
+  "name": "La'Cour Family Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Occidental st & Purdue Blvd, CA",
+  "locationCity": "Occidental st & Purdue Blvd",
+  "locationState": "CA",
+  "locationZipcode": "93505",
+  "lat": 35.2008723943819,
+  "lon": -117.69339073735888,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.073Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.073Z"
+}

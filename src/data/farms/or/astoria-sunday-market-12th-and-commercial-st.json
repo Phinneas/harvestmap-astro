@@ -1,0 +1,19 @@
+{
+  "slug": "astoria-sunday-market-12th-and-commercial-st",
+  "name": "Astoria Sunday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12th and Commercial St., OR",
+  "locationCity": "12th and Commercial St.",
+  "locationState": "OR",
+  "locationZipcode": "97103",
+  "lat": 46.188719,
+  "lon": -123.83015,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.309Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.309Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "candella-s-farm-256-river-road",
+  "name": "Candella's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "256 River Road, NY",
+  "locationCity": "256 River Road",
+  "locationState": "NY",
+  "locationZipcode": "13403",
+  "lat": 43.1374114689658,
+  "lon": -75.2676357498195,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.620Z"
+}

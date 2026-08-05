@@ -1,0 +1,19 @@
+{
+  "slug": "abc-farmers-market-30355-n-3rd-st-athol",
+  "name": "ABC Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30355 N 3rd St Athol, ID",
+  "locationCity": "30355 N 3rd St Athol",
+  "locationState": "ID",
+  "locationZipcode": "30355",
+  "lat": 47.94723013733398,
+  "lon": -116.70675248129643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:36.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:36.237Z"
+}

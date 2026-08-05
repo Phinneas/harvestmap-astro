@@ -1,0 +1,19 @@
+{
+  "slug": "rohnert-park-farmers-market-500-city-center-dr",
+  "name": "Rohnert Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 City Center Dr, CA",
+  "locationCity": "500 City Center Dr",
+  "locationState": "CA",
+  "locationZipcode": "94928",
+  "lat": 38.349284,
+  "lon": -122.70394,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.363Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.363Z"
+}

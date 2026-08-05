@@ -1,0 +1,20 @@
+{
+  "slug": "quiet-brook-produce-417-quiet-brook-rd",
+  "name": "Quiet Brook Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "417 Quiet Brook Rd, SC",
+  "locationCity": "417 Quiet Brook Rd",
+  "locationState": "SC",
+  "locationZipcode": "29540",
+  "lat": 34.4326220007765,
+  "lon": -79.8941470030202,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.804Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.804Z",
+  "crops": []
+}

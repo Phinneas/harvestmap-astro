@@ -1,0 +1,19 @@
+{
+  "slug": "citrus-hills-farmers-market-240-w-fenway-dr-hernando",
+  "name": "Citrus Hills Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "240 W. Fenway Dr. Hernando, FL",
+  "locationCity": "240 W. Fenway Dr. Hernando",
+  "locationState": "FL",
+  "locationZipcode": "34442",
+  "lat": 28.891471198622448,
+  "lon": -82.4396616729325,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "larrys-berries-123-red-fox-lane",
+  "name": "Larrys Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "123 Red Fox Lane, OR",
+  "locationCity": "123 Red Fox Lane",
+  "locationState": "OR",
+  "locationZipcode": "97479",
+  "lat": 43.3939109898144,
+  "lon": -123.2618899844875,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.066Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.066Z"
+}

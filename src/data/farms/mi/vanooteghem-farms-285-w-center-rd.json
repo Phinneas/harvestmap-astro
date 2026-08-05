@@ -1,0 +1,19 @@
+{
+  "slug": "vanooteghem-farms-285-w-center-rd",
+  "name": "VanOoteghem Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "285 W. Center Rd, MI",
+  "locationCity": "285 W. Center Rd",
+  "locationState": "MI",
+  "locationZipcode": "48732",
+  "lat": 43.5938389,
+  "lon": -83.7912076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.096Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.096Z"
+}

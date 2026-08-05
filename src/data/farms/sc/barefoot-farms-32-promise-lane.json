@@ -1,0 +1,19 @@
+{
+  "slug": "barefoot-farms-32-promise-lane",
+  "name": "Barefoot Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "32 Promise Lane, SC",
+  "locationCity": "32 Promise Lane",
+  "locationState": "SC",
+  "locationZipcode": "29920",
+  "lat": 32.3996809881179,
+  "lon": -80.5700550417276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.720Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.720Z"
+}

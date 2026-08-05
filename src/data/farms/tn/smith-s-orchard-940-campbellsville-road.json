@@ -1,0 +1,19 @@
+{
+  "slug": "smith-s-orchard-940-campbellsville-road",
+  "name": "Smith's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "940 Campbellsville Road, TN",
+  "locationCity": "940 Campbellsville Road",
+  "locationState": "TN",
+  "locationZipcode": "38478",
+  "lat": 35.2236973092159,
+  "lon": -87.0827713665568,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.228Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.228Z"
+}

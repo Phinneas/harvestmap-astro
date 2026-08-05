@@ -1,0 +1,19 @@
+{
+  "slug": "cumc-pumpkin-patch-401-mooresville-road",
+  "name": "CUMC Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "401 Mooresville Road, NC",
+  "locationCity": "401 Mooresville Road",
+  "locationState": "NC",
+  "locationZipcode": "28147",
+  "lat": 35.6581089072819,
+  "lon": -80.493308794005,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.848Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.848Z"
+}

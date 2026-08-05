@@ -1,0 +1,19 @@
+{
+  "slug": "beaudoin-berry-farm-45-beaudoin-road",
+  "name": "Beaudoin Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "45 Beaudoin Road, ME",
+  "locationCity": "45 Beaudoin Road",
+  "locationState": "ME",
+  "locationZipcode": "04927",
+  "lat": 44.6873192634606,
+  "lon": -69.489288912501,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.919Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.919Z"
+}

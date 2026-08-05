@@ -1,0 +1,19 @@
+{
+  "slug": "powers-farm-market-161-marsh-road",
+  "name": "Powers Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "161 Marsh Road, NY",
+  "locationCity": "161 Marsh Road",
+  "locationState": "NY",
+  "locationZipcode": "14534",
+  "lat": 43.097697129984255,
+  "lon": -77.48433492029288,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.828Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.828Z"
+}

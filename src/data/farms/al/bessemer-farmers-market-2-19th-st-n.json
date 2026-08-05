@@ -1,0 +1,19 @@
+{
+  "slug": "bessemer-farmers-market-2-19th-st-n",
+  "name": "Bessemer Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 19TH ST N, AL",
+  "locationCity": "2 19TH ST N",
+  "locationState": "AL",
+  "locationZipcode": "35020",
+  "lat": 33.40078765761755,
+  "lon": -86.95035466411741,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "cross-county-farmer-s-market-705-e-union-avenue",
+  "name": "Cross County Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "705 E. Union Avenue, AR",
+  "locationCity": "705 E. Union Avenue",
+  "locationState": "AR",
+  "locationZipcode": "72396",
+  "lat": 35.223532,
+  "lon": -90.786483,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.337Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.337Z",
+  "crops": []
+}

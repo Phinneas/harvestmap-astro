@@ -1,0 +1,19 @@
+{
+  "slug": "goin-s-blueberry-lane-340-south-750-west",
+  "name": "Goin's Blueberry Lane",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "340 South 750 West, IN",
+  "locationCity": "340 South 750 West",
+  "locationState": "IN",
+  "locationZipcode": "46366",
+  "lat": 41.2371248961604,
+  "lon": -86.8430432430893,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.264Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.264Z"
+}

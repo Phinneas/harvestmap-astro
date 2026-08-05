@@ -1,0 +1,19 @@
+{
+  "slug": "dousman-area-farmers-market-118-s-main-dousman",
+  "name": "Dousman Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "118 S Main Dousman, WI",
+  "locationCity": "118 S Main Dousman",
+  "locationState": "WI",
+  "locationZipcode": "53118",
+  "lat": 43.01253420975908,
+  "lon": -88.47285682660336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.857Z"
+}

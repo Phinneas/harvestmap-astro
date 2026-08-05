@@ -1,0 +1,19 @@
+{
+  "slug": "river-street-farmers-market-518-river-street-ellijay",
+  "name": "River Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "518 River Street Ellijay, GA",
+  "locationCity": "518 River Street Ellijay",
+  "locationState": "GA",
+  "locationZipcode": "30540",
+  "lat": 34.69139249888426,
+  "lon": -84.47768315687661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hopestill-farm-117-mill-street",
+  "name": "Hopestill Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "117 Mill Street, MA",
+  "locationCity": "117 Mill Street",
+  "locationState": "MA",
+  "locationZipcode": "01770",
+  "lat": 42.20868632765891,
+  "lon": -71.386641595227,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.707Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "waukon-farmers-market-850-rossville-road",
+  "name": "Waukon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "850 Rossville Road, IA",
+  "locationCity": "850 Rossville Road",
+  "locationState": "IA",
+  "locationZipcode": "52172",
+  "lat": 43.260191,
+  "lon": -91.472878,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.552Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.552Z"
+}

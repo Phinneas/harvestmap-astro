@@ -1,0 +1,19 @@
+{
+  "slug": "regier-orchard-meadowlark-road",
+  "name": "Regier Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Meadowlark Road, KS",
+  "locationCity": "Meadowlark Road",
+  "locationState": "KS",
+  "locationZipcode": "67154",
+  "lat": 37.9635061591384,
+  "lon": -97.0974781105578,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.100Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.100Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "butte-farmers-market-uptown-butte",
+  "name": "Butte Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Uptown Butte, MT",
+  "locationCity": "Uptown Butte",
+  "locationState": "MT",
+  "locationZipcode": "59701",
+  "lat": 46.01269,
+  "lon": -112.5364,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:21.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:21.830Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ssm-farm-tusquittee-road",
+  "name": "SSM Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Tusquittee Road, NC",
+  "locationCity": "Tusquittee Road",
+  "locationState": "NC",
+  "locationZipcode": "28904",
+  "lat": 35.090523203675865,
+  "lon": -83.7066057729482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.461Z"
+}

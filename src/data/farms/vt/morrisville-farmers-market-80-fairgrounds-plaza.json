@@ -1,0 +1,19 @@
+{
+  "slug": "morrisville-farmers-market-80-fairgrounds-plaza",
+  "name": "Morrisville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "80 Fairgrounds Plaza, VT",
+  "locationCity": "80 Fairgrounds Plaza",
+  "locationState": "VT",
+  "locationZipcode": "05661",
+  "lat": 44.572735985076406,
+  "lon": -72.59677601633443,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

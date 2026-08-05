@@ -1,0 +1,19 @@
+{
+  "slug": "staples-farm-362-kelly-road",
+  "name": "Staples Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "362 Kelly Road, ME",
+  "locationCity": "362 Kelly Road",
+  "locationState": "ME",
+  "locationZipcode": "04497",
+  "lat": 45.743035999138,
+  "lon": -67.9425897262143,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.889Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.889Z"
+}

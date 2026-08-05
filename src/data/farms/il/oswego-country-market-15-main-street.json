@@ -1,0 +1,19 @@
+{
+  "slug": "oswego-country-market-15-main-street",
+  "name": "Oswego Country Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 Main Street, IL",
+  "locationCity": "15 Main Street",
+  "locationState": "IL",
+  "locationZipcode": "60543",
+  "lat": 41.684774,
+  "lon": -88.351584,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.953Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.953Z"
+}

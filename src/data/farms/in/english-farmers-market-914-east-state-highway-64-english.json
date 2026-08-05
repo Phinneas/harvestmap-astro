@@ -1,0 +1,19 @@
+{
+  "slug": "english-farmers-market-914-east-state-highway-64-english",
+  "name": "English Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "914 East State Highway 64 English, IN",
+  "locationCity": "914 East State Highway 64 English",
+  "locationState": "IN",
+  "locationZipcode": "47118",
+  "lat": 38.355395741786765,
+  "lon": -86.44356577665405,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

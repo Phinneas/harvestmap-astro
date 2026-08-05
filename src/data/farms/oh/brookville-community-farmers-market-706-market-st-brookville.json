@@ -1,0 +1,19 @@
+{
+  "slug": "brookville-community-farmers-market-706-market-st-brookville",
+  "name": "Brookville Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "706 Market St Brookville, OH",
+  "locationCity": "706 Market St Brookville",
+  "locationState": "OH",
+  "locationZipcode": "45309",
+  "lat": 39.84023371980815,
+  "lon": -84.41048075664445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.935Z"
+}

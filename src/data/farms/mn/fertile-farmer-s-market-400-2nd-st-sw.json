@@ -1,0 +1,19 @@
+{
+  "slug": "fertile-farmer-s-market-400-2nd-st-sw",
+  "name": "Fertile Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 2nd St SW, MN",
+  "locationCity": "400 2nd St SW",
+  "locationState": "MN",
+  "locationZipcode": "56540",
+  "lat": 47.5309263,
+  "lon": -96.2826607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

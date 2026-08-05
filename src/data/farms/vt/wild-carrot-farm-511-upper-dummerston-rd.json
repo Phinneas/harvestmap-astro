@@ -1,0 +1,19 @@
+{
+  "slug": "wild-carrot-farm-511-upper-dummerston-rd",
+  "name": "Wild Carrot Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "511 Upper Dummerston Rd, VT",
+  "locationCity": "511 Upper Dummerston Rd",
+  "locationState": "VT",
+  "locationZipcode": "05301",
+  "lat": 42.8753321,
+  "lon": -72.5832603,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.091Z"
+}

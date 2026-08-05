@@ -1,0 +1,19 @@
+{
+  "slug": "lorenz-produce-858-150th-street",
+  "name": "Lorenz Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "858 150th Street, IA",
+  "locationCity": "858 150th Street",
+  "locationState": "IA",
+  "locationZipcode": "50675",
+  "lat": 42.2250628609962,
+  "lon": -92.4093671152514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.746Z"
+}

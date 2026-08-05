@@ -1,0 +1,19 @@
+{
+  "slug": "shelley-s-fresh-produce-469-east-1200-north",
+  "name": "Shelley’s Fresh Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "469 East 1200 North, ID",
+  "locationCity": "469 East 1200 North",
+  "locationState": "ID",
+  "locationZipcode": "83274",
+  "lat": 43.36631999999999,
+  "lon": -112.1887832,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:39.487Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:39.487Z"
+}

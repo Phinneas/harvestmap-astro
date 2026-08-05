@@ -1,0 +1,19 @@
+{
+  "slug": "hidden-acres-farm-42-thornell-rd",
+  "name": "Hidden Acres Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "42 Thornell Rd., NH",
+  "locationCity": "42 Thornell Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03858",
+  "lat": 42.8639228,
+  "lon": -71.054062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.734Z"
+}

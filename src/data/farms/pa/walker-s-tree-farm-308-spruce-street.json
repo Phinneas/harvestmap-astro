@@ -1,0 +1,19 @@
+{
+  "slug": "walker-s-tree-farm-308-spruce-street",
+  "name": "Walker's Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "308 Spruce Street, PA",
+  "locationCity": "308 Spruce Street",
+  "locationState": "PA",
+  "locationZipcode": "18235",
+  "lat": 40.8525309808797,
+  "lon": -75.6937029937719,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.128Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.128Z"
+}

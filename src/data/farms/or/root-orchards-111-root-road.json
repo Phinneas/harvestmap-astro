@@ -1,0 +1,19 @@
+{
+  "slug": "root-orchards-111-root-road",
+  "name": "Root Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "111 Root Road, OR",
+  "locationCity": "111 Root Road",
+  "locationState": "OR",
+  "locationZipcode": "97040",
+  "lat": 45.6763442338876,
+  "lon": -121.356090037784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.875Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.875Z"
+}

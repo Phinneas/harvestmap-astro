@@ -1,0 +1,19 @@
+{
+  "slug": "valley-farm-market-18211-bennetts-valley-hwy",
+  "name": "Valley Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "18211 Bennetts Valley Hwy, PA",
+  "locationCity": "18211 Bennetts Valley Hwy",
+  "locationState": "PA",
+  "locationZipcode": "18211",
+  "lat": 41.264560991555726,
+  "lon": -78.49919597548396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.449Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.449Z"
+}

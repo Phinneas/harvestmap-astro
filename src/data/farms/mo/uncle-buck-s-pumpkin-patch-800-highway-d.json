@@ -1,0 +1,19 @@
+{
+  "slug": "uncle-buck-s-pumpkin-patch-800-highway-d",
+  "name": "Uncle Buck's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "800 Highway D, MO",
+  "locationCity": "800 Highway D",
+  "locationState": "MO",
+  "locationZipcode": "65459",
+  "lat": 37.9498589875561,
+  "lon": -92.0522898465125,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.755Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.755Z"
+}

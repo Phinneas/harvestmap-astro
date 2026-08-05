@@ -1,0 +1,19 @@
+{
+  "slug": "ridgecrest-farmers-market-balsam-st",
+  "name": "Ridgecrest Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Balsam St. &, CA",
+  "locationCity": "Balsam St. &",
+  "locationState": "CA",
+  "locationZipcode": "93555",
+  "lat": 35.62248998583411,
+  "lon": -117.67121999416091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

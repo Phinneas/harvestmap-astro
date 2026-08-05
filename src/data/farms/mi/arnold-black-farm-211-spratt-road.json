@@ -1,0 +1,19 @@
+{
+  "slug": "arnold-black-farm-211-spratt-road",
+  "name": "Arnold Black Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "211 Spratt Road, MI",
+  "locationCity": "211 Spratt Road",
+  "locationState": "MI",
+  "locationZipcode": "49753",
+  "lat": 44.9731996008621,
+  "lon": -83.7942552397792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.697Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.697Z"
+}

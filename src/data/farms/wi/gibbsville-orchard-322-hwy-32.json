@@ -1,0 +1,19 @@
+{
+  "slug": "gibbsville-orchard-322-hwy-32",
+  "name": "Gibbsville Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "322 Hwy 32, WI",
+  "locationCity": "322 Hwy 32",
+  "locationState": "WI",
+  "locationZipcode": "53085",
+  "lat": 43.7235252666579,
+  "lon": -87.8151549090052,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.336Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.336Z"
+}

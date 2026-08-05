@@ -1,0 +1,20 @@
+{
+  "slug": "mercier-orchards-8660-blue-ridge-dr",
+  "name": "Mercier Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8660 Blue Ridge Dr, GA",
+  "locationCity": "8660 Blue Ridge Dr",
+  "locationState": "GA",
+  "locationZipcode": "30513",
+  "lat": 34.8865199949995,
+  "lon": -84.3416160085898,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.349Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.349Z",
+  "crops": []
+}

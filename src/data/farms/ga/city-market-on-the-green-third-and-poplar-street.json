@@ -1,0 +1,19 @@
+{
+  "slug": "city-market-on-the-green-third-and-poplar-street",
+  "name": "City Market on the Green",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Third and Poplar Street, GA",
+  "locationCity": "Third and Poplar Street",
+  "locationState": "GA",
+  "locationZipcode": "31201",
+  "lat": 32.83430001830416,
+  "lon": -83.62884000112714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

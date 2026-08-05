@@ -1,0 +1,19 @@
+{
+  "slug": "red-wing-farmers-market-food-hub-212-levee-st",
+  "name": "Red Wing Farmers Market Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "212 Levee St, MN",
+  "locationCity": "212 Levee St",
+  "locationState": "MN",
+  "locationZipcode": "55066",
+  "lat": 44.565830830024126,
+  "lon": -92.55620680519293,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:13.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:13.505Z"
+}

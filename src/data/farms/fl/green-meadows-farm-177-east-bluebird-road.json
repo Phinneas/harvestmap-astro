@@ -1,0 +1,20 @@
+{
+  "slug": "green-meadows-farm-177-east-bluebird-road",
+  "name": "Green Meadows Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "177 East Bluebird Road, FL",
+  "locationCity": "177 East Bluebird Road",
+  "locationState": "FL",
+  "locationZipcode": "32344",
+  "lat": 30.5331389841312,
+  "lon": -83.926166977699,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.801Z",
+  "crops": []
+}

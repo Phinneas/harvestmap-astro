@@ -1,0 +1,19 @@
+{
+  "slug": "acre-view-farm-10-welton-road",
+  "name": "Acre View Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "10 Welton Road, CT",
+  "locationCity": "10 Welton Road",
+  "locationState": "CT",
+  "locationZipcode": "06783",
+  "lat": 41.55748218091342,
+  "lon": -73.26896132125043,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.082Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.082Z"
+}

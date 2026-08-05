@@ -1,0 +1,19 @@
+{
+  "slug": "goshen-county-farmers-market-2145-main-st-torrington",
+  "name": "Goshen County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2145 Main St Torrington, WY",
+  "locationCity": "2145 Main St Torrington",
+  "locationState": "WY",
+  "locationZipcode": "82240",
+  "lat": 42.065464653733194,
+  "lon": -104.18437412857749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shepherdsville-farmer-s-market-170-w-joe-b-hall-avenue",
+  "name": "Shepherdsville farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "170 W. Joe B. Hall Avenue, KY",
+  "locationCity": "170 W. Joe B. Hall Avenue",
+  "locationState": "KY",
+  "locationZipcode": "40165",
+  "lat": 37.988053,
+  "lon": -85.709198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.725Z"
+}

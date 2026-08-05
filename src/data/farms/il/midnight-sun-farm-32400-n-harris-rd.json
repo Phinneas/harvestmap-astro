@@ -1,0 +1,19 @@
+{
+  "slug": "midnight-sun-farm-32400-n-harris-rd",
+  "name": "Midnight Sun Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "32400 N. Harris Rd., IL",
+  "locationCity": "32400 N. Harris Rd.",
+  "locationState": "IL",
+  "locationZipcode": "32400",
+  "lat": 42.3076448,
+  "lon": -88.0140859,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.468Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.468Z"
+}

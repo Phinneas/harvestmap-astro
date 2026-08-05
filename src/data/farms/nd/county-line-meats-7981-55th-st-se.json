@@ -1,0 +1,19 @@
+{
+  "slug": "county-line-meats-7981-55th-st-se",
+  "name": "County Line Meats",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7981 55th st SE, ND",
+  "locationCity": "7981 55th st SE",
+  "locationState": "ND",
+  "locationZipcode": "58472",
+  "lat": 46.6167424091216,
+  "lon": -98.75135999114782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:58.051Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:58.051Z"
+}

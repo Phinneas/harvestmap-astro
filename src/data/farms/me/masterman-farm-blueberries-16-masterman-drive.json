@@ -1,0 +1,19 @@
+{
+  "slug": "masterman-farm-blueberries-16-masterman-drive",
+  "name": "Masterman Farm Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16 Masterman Drive, ME",
+  "locationCity": "16 Masterman Drive",
+  "locationState": "ME",
+  "locationZipcode": "04966",
+  "lat": 44.8100393567281,
+  "lon": -70.3215815733753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.942Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.942Z"
+}

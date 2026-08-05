@@ -1,0 +1,19 @@
+{
+  "slug": "hilltown-farmers-market-preston-hollow-2958-route-145-preston-hollow",
+  "name": "Hilltown Farmers' Market - Preston Hollow",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2958 Route 145 Preston Hollow, NY",
+  "locationCity": "2958 Route 145 Preston Hollow",
+  "locationState": "NY",
+  "locationZipcode": "12469",
+  "lat": 42.43974314628095,
+  "lon": -74.20357516081363,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

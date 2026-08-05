@@ -1,0 +1,19 @@
+{
+  "slug": "trexlertown-farmers-market-1151-mosser-rd-brienigsville",
+  "name": "Trexlertown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1151 Mosser Rd Brienigsville, PA",
+  "locationCity": "1151 Mosser Rd Brienigsville",
+  "locationState": "PA",
+  "locationZipcode": "18031",
+  "lat": 40.54635778956321,
+  "lon": -75.61200393024923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.068Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tierra-vegetable-airport-blvd",
+  "name": "Tierra Vegetable",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Airport Blvd., CA",
+  "locationCity": "Airport Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "95403",
+  "lat": 38.511120738059745,
+  "lon": -122.78426158643933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

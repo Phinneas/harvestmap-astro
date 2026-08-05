@@ -1,0 +1,19 @@
+{
+  "slug": "forest-lake-farmer-s-market-95-east-broadway-avenue",
+  "name": "Forest Lake Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "95 East Broadway Avenue, MN",
+  "locationCity": "95 East Broadway Avenue",
+  "locationState": "MN",
+  "locationZipcode": "55025",
+  "lat": 45.2790932,
+  "lon": -92.9846148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

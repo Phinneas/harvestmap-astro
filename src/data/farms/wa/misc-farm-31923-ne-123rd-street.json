@@ -1,0 +1,19 @@
+{
+  "slug": "misc-farm-31923-ne-123rd-street",
+  "name": "Misc. Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "31923 NE 123rd Street, WA",
+  "locationCity": "31923 NE 123rd Street",
+  "locationState": "WA",
+  "locationZipcode": "31923",
+  "lat": 47.706932,
+  "lon": -121.91173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.438Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.438Z"
+}

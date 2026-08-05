@@ -1,0 +1,20 @@
+{
+  "slug": "beans-greens-farm-245-intervale-road",
+  "name": "Beans & Greens Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "245 Intervale Road, NH",
+  "locationCity": "245 Intervale Road",
+  "locationState": "NH",
+  "locationZipcode": "03249",
+  "lat": 43.5724340023345,
+  "lon": -71.3953420107231,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.469Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.469Z",
+  "crops": []
+}

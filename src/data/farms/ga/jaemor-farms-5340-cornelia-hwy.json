@@ -1,0 +1,19 @@
+{
+  "slug": "jaemor-farms-5340-cornelia-hwy",
+  "name": "Jaemor Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5340 Cornelia Hwy, GA",
+  "locationCity": "5340 Cornelia Hwy",
+  "locationState": "GA",
+  "locationZipcode": "30530",
+  "lat": 34.4215549968283,
+  "lon": -83.6501789855073,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.356Z"
+}

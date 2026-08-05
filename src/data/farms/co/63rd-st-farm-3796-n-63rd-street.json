@@ -1,0 +1,19 @@
+{
+  "slug": "63rd-st-farm-3796-n-63rd-street",
+  "name": "63rd St. Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3796 N. 63rd Street, CO",
+  "locationCity": "3796 N. 63rd Street",
+  "locationState": "CO",
+  "locationZipcode": "80301",
+  "lat": 40.0862009,
+  "lon": -105.2064521,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.574Z"
+}

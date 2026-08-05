@@ -1,0 +1,19 @@
+{
+  "slug": "sparks-united-methodist-church-farmer-s-market-1231-pyramid-way",
+  "name": "Sparks United Methodist Church Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1231 Pyramid Way, NV",
+  "locationCity": "1231 Pyramid Way",
+  "locationState": "NV",
+  "locationZipcode": "89431",
+  "lat": 39.544248,
+  "lon": -119.75339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:24.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:24.180Z"
+}

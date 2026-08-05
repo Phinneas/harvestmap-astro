@@ -1,0 +1,19 @@
+{
+  "slug": "putnam-valley-farmers-market-337-peekskill-hollow-road-putnam-valley",
+  "name": "Putnam Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "337 Peekskill Hollow Road Putnam Valley, NY",
+  "locationCity": "337 Peekskill Hollow Road Putnam Valley",
+  "locationState": "NY",
+  "locationZipcode": "10579",
+  "lat": 41.35708643327017,
+  "lon": -73.83559879577655,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

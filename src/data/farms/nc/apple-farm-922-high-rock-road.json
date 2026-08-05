@@ -1,0 +1,19 @@
+{
+  "slug": "apple-farm-922-high-rock-road",
+  "name": "Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "922 High Rock Road, NC",
+  "locationCity": "922 High Rock Road",
+  "locationState": "NC",
+  "locationZipcode": "27249",
+  "lat": 36.2642113728479,
+  "lon": -79.5648839424883,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.891Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.891Z"
+}

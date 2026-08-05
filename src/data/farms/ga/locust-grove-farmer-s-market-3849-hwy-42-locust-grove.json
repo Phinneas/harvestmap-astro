@@ -1,0 +1,19 @@
+{
+  "slug": "locust-grove-farmer-s-market-3849-hwy-42-locust-grove",
+  "name": "Locust Grove Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3849 Hwy 42 Locust Grove, GA",
+  "locationCity": "3849 Hwy 42 Locust Grove",
+  "locationState": "GA",
+  "locationZipcode": "30248",
+  "lat": 33.34435857175338,
+  "lon": -84.10831622718162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

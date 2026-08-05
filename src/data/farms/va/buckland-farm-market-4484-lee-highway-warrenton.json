@@ -1,0 +1,19 @@
+{
+  "slug": "buckland-farm-market-4484-lee-highway-warrenton",
+  "name": "Buckland Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4484 Lee Highway Warrenton, VA",
+  "locationCity": "4484 Lee Highway Warrenton",
+  "locationState": "VA",
+  "locationZipcode": "20187",
+  "lat": 38.771526083310654,
+  "lon": -77.69772538034512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

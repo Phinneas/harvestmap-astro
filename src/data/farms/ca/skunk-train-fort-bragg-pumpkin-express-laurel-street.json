@@ -1,0 +1,19 @@
+{
+  "slug": "skunk-train-fort-bragg-pumpkin-express-laurel-street",
+  "name": "Skunk Train Fort Bragg Pumpkin Express",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Laurel Street, CA",
+  "locationCity": "Laurel Street",
+  "locationState": "CA",
+  "locationZipcode": "95437",
+  "lat": 39.4454800055574,
+  "lon": -123.800460163151,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.800Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.800Z"
+}

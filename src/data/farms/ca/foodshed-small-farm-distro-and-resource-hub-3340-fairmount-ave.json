@@ -1,0 +1,19 @@
+{
+  "slug": "foodshed-small-farm-distro-and-resource-hub-3340-fairmount-ave",
+  "name": "Foodshed Small Farm Distro and Resource Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3340 Fairmount Ave., CA",
+  "locationCity": "3340 Fairmount Ave.",
+  "locationState": "CA",
+  "locationZipcode": "92105",
+  "lat": 32.7410926,
+  "lon": -117.10121,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.240Z"
+}

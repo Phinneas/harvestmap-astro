@@ -1,0 +1,19 @@
+{
+  "slug": "belmont-farmers-market-5429-state-route-19n",
+  "name": "Belmont Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5429 State Route 19N, NY",
+  "locationCity": "5429 State Route 19N",
+  "locationState": "NY",
+  "locationZipcode": "14813",
+  "lat": 42.234077,
+  "lon": -78.053508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.835Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.835Z"
+}

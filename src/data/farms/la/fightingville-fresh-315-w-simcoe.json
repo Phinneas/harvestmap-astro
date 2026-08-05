@@ -1,0 +1,19 @@
+{
+  "slug": "fightingville-fresh-315-w-simcoe",
+  "name": "Fightingville Fresh",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "315 W Simcoe, LA",
+  "locationCity": "315 W Simcoe",
+  "locationState": "LA",
+  "locationZipcode": "70501",
+  "lat": 30.211573,
+  "lon": -92.031394,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.659Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.659Z"
+}

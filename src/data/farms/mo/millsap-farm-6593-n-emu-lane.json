@@ -1,0 +1,20 @@
+{
+  "slug": "millsap-farm-6593-n-emu-lane",
+  "name": "Millsap Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6593 N.Emu Lane, MO",
+  "locationCity": "6593 N.Emu Lane",
+  "locationState": "MO",
+  "locationZipcode": "65803",
+  "lat": 37.314532,
+  "lon": -93.268764,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:52.649Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:52.649Z",
+  "crops": []
+}

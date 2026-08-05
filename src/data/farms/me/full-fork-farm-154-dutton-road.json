@@ -1,0 +1,20 @@
+{
+  "slug": "full-fork-farm-154-dutton-road",
+  "name": "Full Fork Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "154 Dutton Road, ME",
+  "locationCity": "154 Dutton Road",
+  "locationState": "ME",
+  "locationZipcode": "04358",
+  "lat": 44.4824470460799,
+  "lon": -69.4790019884142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.818Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.818Z",
+  "crops": []
+}

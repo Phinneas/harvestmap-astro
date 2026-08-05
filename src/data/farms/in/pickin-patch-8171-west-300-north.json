@@ -1,0 +1,19 @@
+{
+  "slug": "pickin-patch-8171-west-300-north",
+  "name": "Pickin' Patch",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8171 West 300 North, IN",
+  "locationCity": "8171 West 300 North",
+  "locationState": "IN",
+  "locationZipcode": "46524",
+  "lat": 41.274057981220096,
+  "lon": -86.0016380185269,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.600Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.600Z"
+}

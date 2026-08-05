@@ -1,0 +1,20 @@
+{
+  "slug": "northeast-minneapolis-farmers-market-university-avenue-ne-and-7th-avenue-ne",
+  "name": "Northeast Minneapolis Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "University Avenue NE and 7th Avenue NE, MN",
+  "locationCity": "University Avenue NE and 7th Avenue NE",
+  "locationState": "MN",
+  "locationZipcode": "55413",
+  "lat": 44.995288,
+  "lon": -93.262339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.719Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.719Z",
+  "crops": []
+}

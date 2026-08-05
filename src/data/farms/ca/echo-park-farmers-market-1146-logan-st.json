@@ -1,0 +1,19 @@
+{
+  "slug": "echo-park-farmers-market-1146-logan-st",
+  "name": "Echo Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1146 Logan St, CA",
+  "locationCity": "1146 Logan St",
+  "locationState": "CA",
+  "locationZipcode": "90026",
+  "lat": 34.076409,
+  "lon": -118.25827,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

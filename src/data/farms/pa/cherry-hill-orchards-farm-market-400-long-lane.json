@@ -1,0 +1,19 @@
+{
+  "slug": "cherry-hill-orchards-farm-market-400-long-lane",
+  "name": "Cherry Hill Orchards Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "400 Long Lane, PA",
+  "locationCity": "400 Long Lane",
+  "locationState": "PA",
+  "locationZipcode": "17603",
+  "lat": 39.98002800158227,
+  "lon": -76.31114197723156,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

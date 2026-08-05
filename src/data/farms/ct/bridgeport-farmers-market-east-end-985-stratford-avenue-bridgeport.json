@@ -1,0 +1,19 @@
+{
+  "slug": "bridgeport-farmers-market-east-end-985-stratford-avenue-bridgeport",
+  "name": "Bridgeport Farmers Market - East End",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "985 Stratford Avenue Bridgeport, CT",
+  "locationCity": "985 Stratford Avenue Bridgeport",
+  "locationState": "CT",
+  "locationZipcode": "06601",
+  "lat": 41.17700548630109,
+  "lon": -73.1700776306839,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.615Z"
+}

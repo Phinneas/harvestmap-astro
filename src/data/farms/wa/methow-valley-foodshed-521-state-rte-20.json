@@ -1,0 +1,19 @@
+{
+  "slug": "methow-valley-foodshed-521-state-rte-20",
+  "name": "Methow Valley FoodShed",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "521 State Rte 20, WA",
+  "locationCity": "521 State Rte 20",
+  "locationState": "WA",
+  "locationZipcode": "98862",
+  "lat": 48.4744290323381,
+  "lon": -120.17838560435588,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:21.644Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:21.644Z"
+}

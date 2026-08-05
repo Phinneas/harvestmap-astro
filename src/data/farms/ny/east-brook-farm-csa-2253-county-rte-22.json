@@ -1,0 +1,19 @@
+{
+  "slug": "east-brook-farm-csa-2253-county-rte-22",
+  "name": "East Brook Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2253 County Rte 22, NY",
+  "locationCity": "2253 County Rte 22",
+  "locationState": "NY",
+  "locationZipcode": "13856",
+  "lat": 43.5157483,
+  "lon": -75.9862566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.159Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.159Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "crozet-farmers-market-1156-crozet-avenue-crozet",
+  "name": "Crozet Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1156 Crozet Avenue Crozet, VA",
+  "locationCity": "1156 Crozet Avenue Crozet",
+  "locationState": "VA",
+  "locationZipcode": "22932",
+  "lat": 38.06748550721566,
+  "lon": -78.70222960428511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

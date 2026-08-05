@@ -1,0 +1,19 @@
+{
+  "slug": "texarkana-blueberry-patch-000-tennessee-rd",
+  "name": "Texarkana Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 Tennessee Rd, AR",
+  "locationCity": "000 Tennessee Rd",
+  "locationState": "AR",
+  "locationZipcode": "71854",
+  "lat": 33.4120671495165,
+  "lon": -93.9330188529648,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.970Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.970Z"
+}

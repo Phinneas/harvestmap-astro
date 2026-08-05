@@ -1,0 +1,19 @@
+{
+  "slug": "arnold-s-farm-fresh-produce-1319-sacandaga-rd",
+  "name": "Arnold's Farm Fresh Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1319 Sacandaga Rd, NY",
+  "locationCity": "1319 Sacandaga Rd",
+  "locationState": "NY",
+  "locationZipcode": "12010",
+  "lat": 42.971771,
+  "lon": -74.029509,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.797Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.797Z"
+}

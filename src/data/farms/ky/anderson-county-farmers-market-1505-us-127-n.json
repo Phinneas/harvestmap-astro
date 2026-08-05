@@ -1,0 +1,19 @@
+{
+  "slug": "anderson-county-farmers-market-1505-us-127-n",
+  "name": "Anderson County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1505 US-127 N, KY",
+  "locationCity": "1505 US-127 N",
+  "locationState": "KY",
+  "locationZipcode": "40342",
+  "lat": 38.076447,
+  "lon": -84.917629,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.723Z"
+}

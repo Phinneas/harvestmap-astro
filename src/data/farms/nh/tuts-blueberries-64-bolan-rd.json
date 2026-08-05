@@ -1,0 +1,20 @@
+{
+  "slug": "tuts-blueberries-64-bolan-rd",
+  "name": "Tuts Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "64 Bolan Rd, NH",
+  "locationCity": "64 Bolan Rd",
+  "locationState": "NH",
+  "locationZipcode": "03851",
+  "lat": 43.452850982292,
+  "lon": -70.9776170416631,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.651Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.651Z",
+  "crops": []
+}

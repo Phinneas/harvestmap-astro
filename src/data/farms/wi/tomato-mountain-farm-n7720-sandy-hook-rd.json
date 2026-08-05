@@ -1,0 +1,19 @@
+{
+  "slug": "tomato-mountain-farm-n7720-sandy-hook-rd",
+  "name": "Tomato Mountain Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "N7720 Sandy Hook Rd, WI",
+  "locationCity": "N7720 Sandy Hook Rd",
+  "locationState": "WI",
+  "locationZipcode": "53521",
+  "lat": 42.785491,
+  "lon": -89.4661862,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.008Z"
+}

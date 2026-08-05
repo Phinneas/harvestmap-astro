@@ -1,0 +1,19 @@
+{
+  "slug": "longview-farm-175-quincey-rd",
+  "name": "Longview Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "175 Quincey Rd., NH",
+  "locationCity": "175 Quincey Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03264",
+  "lat": 43.7762900180073,
+  "lon": -71.7584100140996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.777Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.777Z"
+}

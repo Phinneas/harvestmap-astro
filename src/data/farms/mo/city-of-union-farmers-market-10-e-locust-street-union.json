@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-union-farmers-market-10-e-locust-street-union",
+  "name": "City of Union Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 E. Locust Street Union, MO",
+  "locationCity": "10 E. Locust Street Union",
+  "locationState": "MO",
+  "locationZipcode": "63084",
+  "lat": 38.4447744018938,
+  "lon": -91.0085225713011,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.492Z"
+}

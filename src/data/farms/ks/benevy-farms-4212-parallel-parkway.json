@@ -1,0 +1,19 @@
+{
+  "slug": "benevy-farms-4212-parallel-parkway",
+  "name": "Benevy Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4212 Parallel Parkway, KS",
+  "locationCity": "4212 Parallel Parkway",
+  "locationState": "KS",
+  "locationZipcode": "66104",
+  "lat": 39.128733,
+  "lon": -94.67881159999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:58.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:58.191Z"
+}

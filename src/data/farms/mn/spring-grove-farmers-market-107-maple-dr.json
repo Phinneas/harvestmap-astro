@@ -1,0 +1,19 @@
+{
+  "slug": "spring-grove-farmers-market-107-maple-dr",
+  "name": "Spring Grove Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "107 Maple Dr, MN",
+  "locationCity": "107 Maple Dr",
+  "locationState": "MN",
+  "locationZipcode": "55974",
+  "lat": 43.5614003,
+  "lon": -91.6359445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

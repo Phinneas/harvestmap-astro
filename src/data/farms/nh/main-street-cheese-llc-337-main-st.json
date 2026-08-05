@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-cheese-llc-337-main-st",
+  "name": "Main Street Cheese, LLC",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "337 Main St., NH",
+  "locationCity": "337 Main St.",
+  "locationState": "NH",
+  "locationZipcode": "03449",
+  "lat": 42.972817011804466,
+  "lon": -71.98433019183877,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.802Z"
+}

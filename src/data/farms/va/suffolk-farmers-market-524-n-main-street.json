@@ -1,0 +1,19 @@
+{
+  "slug": "suffolk-farmers-market-524-n-main-street",
+  "name": "Suffolk Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "524 N. Main Street, VA",
+  "locationCity": "524 N. Main Street",
+  "locationState": "VA",
+  "locationZipcode": "23434",
+  "lat": 36.737572,
+  "lon": -76.581989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.096Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.096Z"
+}

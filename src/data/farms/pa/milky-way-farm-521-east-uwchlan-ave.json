@@ -1,0 +1,19 @@
+{
+  "slug": "milky-way-farm-521-east-uwchlan-ave",
+  "name": "Milky Way Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "521 East Uwchlan Ave, PA",
+  "locationCity": "521 East Uwchlan Ave",
+  "locationState": "PA",
+  "locationZipcode": "19425",
+  "lat": 40.06804833657483,
+  "lon": -75.64916943928654,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.213Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.213Z"
+}

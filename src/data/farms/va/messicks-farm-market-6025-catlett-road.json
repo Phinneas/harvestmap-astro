@@ -1,0 +1,20 @@
+{
+  "slug": "messicks-farm-market-6025-catlett-road",
+  "name": "Messicks Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6025 Catlett Road, VA",
+  "locationCity": "6025 Catlett Road",
+  "locationState": "VA",
+  "locationZipcode": "22712",
+  "lat": 38.594749,
+  "lon": -77.750604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.217Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.217Z",
+  "crops": []
+}

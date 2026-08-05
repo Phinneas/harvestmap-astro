@@ -1,0 +1,19 @@
+{
+  "slug": "imlay-city-farmers-market-120-n-main",
+  "name": "Imlay City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 N Main, MI",
+  "locationCity": "120 N Main",
+  "locationState": "MI",
+  "locationZipcode": "48444",
+  "lat": 43.02429,
+  "lon": -83.074322,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.180Z"
+}

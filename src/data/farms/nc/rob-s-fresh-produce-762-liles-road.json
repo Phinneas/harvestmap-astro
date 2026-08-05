@@ -1,0 +1,19 @@
+{
+  "slug": "rob-s-fresh-produce-762-liles-road",
+  "name": "Rob's Fresh Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "762 Liles Road, NC",
+  "locationCity": "762 Liles Road",
+  "locationState": "NC",
+  "locationZipcode": "27807",
+  "lat": 35.8384166873843,
+  "lon": -78.0783649964629,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.744Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.744Z"
+}

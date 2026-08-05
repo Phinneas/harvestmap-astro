@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-harvest-365-llc-201-evans-lane",
+  "name": "Fresh Harvest 365, LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "201 Evans Lane, MO",
+  "locationCity": "201 Evans Lane",
+  "locationState": "MO",
+  "locationZipcode": "63121",
+  "lat": 38.72580229711059,
+  "lon": -90.30656605507554,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:52.657Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:52.657Z"
+}

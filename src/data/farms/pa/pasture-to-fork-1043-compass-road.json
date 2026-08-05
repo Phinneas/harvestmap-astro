@@ -1,0 +1,19 @@
+{
+  "slug": "pasture-to-fork-1043-compass-road",
+  "name": "Pasture to Fork",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1043 Compass Road, PA",
+  "locationCity": "1043 Compass Road",
+  "locationState": "PA",
+  "locationZipcode": "19344",
+  "lat": 40.078086545727245,
+  "lon": -75.9178982004141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

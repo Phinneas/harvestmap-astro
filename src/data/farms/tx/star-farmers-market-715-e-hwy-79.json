@@ -1,0 +1,20 @@
+{
+  "slug": "star-farmers-market-715-e-hwy-79",
+  "name": "Star Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "715 E Hwy 79, TX",
+  "locationCity": "715 E Hwy 79",
+  "locationState": "TX",
+  "locationZipcode": "76567",
+  "lat": 30.667593391664017,
+  "lon": -96.97202714290268,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z",
+  "crops": []
+}

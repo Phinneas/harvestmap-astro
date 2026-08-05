@@ -1,0 +1,19 @@
+{
+  "slug": "braham-farmers-market-121-main-st-s",
+  "name": "Braham Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 Main St S, MN",
+  "locationCity": "121 Main St S",
+  "locationState": "MN",
+  "locationZipcode": "55006",
+  "lat": 45.7244274,
+  "lon": -93.1704476,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

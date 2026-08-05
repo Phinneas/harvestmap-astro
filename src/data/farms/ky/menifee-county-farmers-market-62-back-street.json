@@ -1,0 +1,19 @@
+{
+  "slug": "menifee-county-farmers-market-62-back-street",
+  "name": "Menifee County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "62 Back Street, KY",
+  "locationCity": "62 Back Street",
+  "locationState": "KY",
+  "locationZipcode": "40322",
+  "lat": 37.951788,
+  "lon": -83.62783,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.728Z"
+}

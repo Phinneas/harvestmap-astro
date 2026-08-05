@@ -1,0 +1,19 @@
+{
+  "slug": "terry-heights-hillendale-market-1000-meadow-dr",
+  "name": "Terry Heights/Hillendale Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 Meadow Dr., AL",
+  "locationCity": "1000 Meadow Dr.",
+  "locationState": "AL",
+  "locationZipcode": "35816",
+  "lat": 34.73183153823647,
+  "lon": -86.61000441481143,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

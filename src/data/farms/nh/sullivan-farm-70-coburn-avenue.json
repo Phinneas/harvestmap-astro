@@ -1,0 +1,20 @@
+{
+  "slug": "sullivan-farm-70-coburn-avenue",
+  "name": "Sullivan Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "70 Coburn Avenue, NH",
+  "locationCity": "70 Coburn Avenue",
+  "locationState": "NH",
+  "locationZipcode": "03063",
+  "lat": 42.7650770185353,
+  "lon": -71.5220379976193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.673Z",
+  "crops": []
+}

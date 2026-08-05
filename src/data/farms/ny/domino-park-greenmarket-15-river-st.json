@@ -1,0 +1,19 @@
+{
+  "slug": "domino-park-greenmarket-15-river-st",
+  "name": "Domino Park Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 River St, NY",
+  "locationCity": "15 River St",
+  "locationState": "NY",
+  "locationZipcode": "11211",
+  "lat": 40.71656476327231,
+  "lon": -73.96644407525827,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

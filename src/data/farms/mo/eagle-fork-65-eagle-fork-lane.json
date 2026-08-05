@@ -1,0 +1,19 @@
+{
+  "slug": "eagle-fork-65-eagle-fork-lane",
+  "name": "Eagle Fork",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "65 Eagle Fork Lane, MO",
+  "locationCity": "65 Eagle Fork Lane",
+  "locationState": "MO",
+  "locationZipcode": "63362",
+  "lat": 38.8943940116532,
+  "lon": -90.9249879843206,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.707Z"
+}

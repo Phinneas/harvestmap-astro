@@ -1,0 +1,19 @@
+{
+  "slug": "the-pumpkin-barn-20800-highway-92",
+  "name": "The Pumpkin Barn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "20800 Highway 92, IA",
+  "locationCity": "20800 Highway 92",
+  "locationState": "IA",
+  "locationZipcode": "20800",
+  "lat": 41.2350579915731,
+  "lon": -95.7867949995151,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.693Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.693Z"
+}

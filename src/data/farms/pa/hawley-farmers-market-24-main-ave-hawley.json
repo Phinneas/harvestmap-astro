@@ -1,0 +1,19 @@
+{
+  "slug": "hawley-farmers-market-24-main-ave-hawley",
+  "name": "Hawley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24 Main Ave Hawley, PA",
+  "locationCity": "24 Main Ave Hawley",
+  "locationState": "PA",
+  "locationZipcode": "18428",
+  "lat": 41.48136231002876,
+  "lon": -75.18271667218507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

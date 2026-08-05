@@ -1,0 +1,19 @@
+{
+  "slug": "ramblin-sol-farm-79-arneytown-hornerstown-rd",
+  "name": "Ramblin' Sol Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "79 Arneytown Hornerstown Rd, NJ",
+  "locationCity": "79 Arneytown Hornerstown Rd",
+  "locationState": "NJ",
+  "locationZipcode": "08514",
+  "lat": 40.100938295992535,
+  "lon": -74.540147257289,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.168Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.168Z"
+}

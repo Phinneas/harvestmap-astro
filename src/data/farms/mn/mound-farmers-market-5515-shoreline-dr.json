@@ -1,0 +1,19 @@
+{
+  "slug": "mound-farmers-market-5515-shoreline-dr",
+  "name": "Mound Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5515 Shoreline Dr, MN",
+  "locationCity": "5515 Shoreline Dr",
+  "locationState": "MN",
+  "locationZipcode": "55364",
+  "lat": 44.9375826,
+  "lon": -93.6648026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

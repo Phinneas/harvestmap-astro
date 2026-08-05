@@ -1,0 +1,19 @@
+{
+  "slug": "burge-road-farm-3000-burge-rd",
+  "name": "Burge Road Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3000 Burge Rd, CA",
+  "locationCity": "3000 Burge Rd",
+  "locationState": "CA",
+  "locationZipcode": "95215",
+  "lat": 38.00152200181108,
+  "lon": -121.18823798428673,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

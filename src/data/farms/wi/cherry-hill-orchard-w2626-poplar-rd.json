@@ -1,0 +1,19 @@
+{
+  "slug": "cherry-hill-orchard-w2626-poplar-rd",
+  "name": "Cherry Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "W2626 Poplar Rd, WI",
+  "locationCity": "W2626 Poplar Rd",
+  "locationState": "WI",
+  "locationZipcode": "53057",
+  "lat": 43.7759969866723,
+  "lon": -88.2905740050089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.446Z"
+}

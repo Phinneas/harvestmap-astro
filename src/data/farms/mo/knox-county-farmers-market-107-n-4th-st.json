@@ -1,0 +1,19 @@
+{
+  "slug": "knox-county-farmers-market-107-n-4th-st",
+  "name": "Knox County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "107 N 4th St, MO",
+  "locationCity": "107 N 4th St",
+  "locationState": "MO",
+  "locationZipcode": "63537",
+  "lat": 40.167824,
+  "lon": -92.172403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.452Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.452Z"
+}

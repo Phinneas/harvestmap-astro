@@ -1,0 +1,19 @@
+{
+  "slug": "seneczko-pumpkin-patch-2819-north-2400th-avenue",
+  "name": "Seneczko Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2819 North 2400th Avenue, IL",
+  "locationCity": "2819 North 2400th Avenue",
+  "locationState": "IL",
+  "locationZipcode": "62339",
+  "lat": 40.1058679866166,
+  "lon": -90.966852992292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.834Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.834Z"
+}

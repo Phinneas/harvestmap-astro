@@ -1,0 +1,19 @@
+{
+  "slug": "ndsu-animal-science-department-1350-albrecht-blvd",
+  "name": "NDSU Animal Science Department",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1350 Albrecht Blvd, ND",
+  "locationCity": "1350 Albrecht Blvd",
+  "locationState": "ND",
+  "locationZipcode": "58102",
+  "lat": 46.8948020725021,
+  "lon": -96.8034983132051,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:54.920Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:54.920Z"
+}

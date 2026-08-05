@@ -1,0 +1,19 @@
+{
+  "slug": "dutchess-farm-87-north-rd",
+  "name": "Dutchess Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "87 North Rd, VT",
+  "locationCity": "87 North Rd",
+  "locationState": "VT",
+  "locationZipcode": "05735",
+  "lat": 43.6122678,
+  "lon": -73.1810898,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.091Z"
+}

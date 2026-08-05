@@ -1,0 +1,20 @@
+{
+  "slug": "hilltop-farms-6612-kennebec-road",
+  "name": "Hilltop Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6612 Kennebec Road, NC",
+  "locationCity": "6612 Kennebec Road",
+  "locationState": "NC",
+  "locationZipcode": "27592",
+  "lat": 35.60304485056692,
+  "lon": -78.7203084019573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.905Z",
+  "crops": []
+}

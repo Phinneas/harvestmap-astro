@@ -1,0 +1,19 @@
+{
+  "slug": "sutters-ridge-orchard-sutter-drive",
+  "name": "Sutters Ridge Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sutter Drive, WI",
+  "locationCity": "Sutter Drive",
+  "locationState": "WI",
+  "locationZipcode": "53572",
+  "lat": 42.9290948130867,
+  "lon": -89.7800715661914,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.212Z"
+}

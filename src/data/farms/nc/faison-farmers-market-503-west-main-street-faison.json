@@ -1,0 +1,19 @@
+{
+  "slug": "faison-farmers-market-503-west-main-street-faison",
+  "name": "Faison Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "503 West Main Street Faison, NC",
+  "locationCity": "503 West Main Street Faison",
+  "locationState": "NC",
+  "locationZipcode": "28341",
+  "lat": 35.11634248557257,
+  "lon": -78.13994684428766,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

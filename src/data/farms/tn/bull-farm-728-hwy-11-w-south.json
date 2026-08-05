@@ -1,0 +1,19 @@
+{
+  "slug": "bull-farm-728-hwy-11-w-south",
+  "name": "Bull Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "728 Hwy 11-W South, TN",
+  "locationCity": "728 Hwy 11-W South",
+  "locationState": "TN",
+  "locationZipcode": "37708",
+  "lat": 36.3414831955811,
+  "lon": -83.2784730016713,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.351Z"
+}

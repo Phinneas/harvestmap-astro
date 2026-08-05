@@ -1,0 +1,19 @@
+{
+  "slug": "sandusky-farmers-market-82-s-townline-rd-sandusky",
+  "name": "Sandusky Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "82 S. Townline Rd. Sandusky, MI",
+  "locationCity": "82 S. Townline Rd. Sandusky",
+  "locationState": "MI",
+  "locationZipcode": "48471",
+  "lat": 43.41749882144642,
+  "lon": -82.86904324829733,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "abma-s-farm-700-lawlins-road",
+  "name": "Abma's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "700 Lawlins Road, NJ",
+  "locationCity": "700 Lawlins Road",
+  "locationState": "NJ",
+  "locationZipcode": "07481",
+  "lat": 41.0177879971535,
+  "lon": -74.1826040177525,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.554Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.554Z",
+  "crops": []
+}

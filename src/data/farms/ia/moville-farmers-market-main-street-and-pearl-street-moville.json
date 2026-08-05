@@ -1,0 +1,19 @@
+{
+  "slug": "moville-farmers-market-main-street-and-pearl-street-moville",
+  "name": "Moville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street and Pearl Street Moville, IA",
+  "locationCity": "Main Street and Pearl Street Moville",
+  "locationState": "IA",
+  "locationZipcode": "51039",
+  "lat": 42.4888599908393,
+  "lon": -96.07373998317576,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

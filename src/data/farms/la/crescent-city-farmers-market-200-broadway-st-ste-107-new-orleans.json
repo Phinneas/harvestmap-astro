@@ -1,0 +1,19 @@
+{
+  "slug": "crescent-city-farmers-market-200-broadway-st-ste-107-new-orleans",
+  "name": "Crescent City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Broadway St Ste. 107 New Orleans, LA",
+  "locationCity": "200 Broadway St Ste. 107 New Orleans",
+  "locationState": "LA",
+  "locationZipcode": "70118",
+  "lat": 29.92975696174723,
+  "lon": -90.13272479655174,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "paso-robles-farmers-market-11th-st-and-spring-st",
+  "name": "Paso Robles Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11th St. and Spring St., CA",
+  "locationCity": "11th St. and Spring St.",
+  "locationState": "CA",
+  "locationZipcode": "93446",
+  "lat": 35.6256099816531,
+  "lon": -120.69130998137003,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

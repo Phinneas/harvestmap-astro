@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-farmers-market-210-main-street-sulphur-springs",
+  "name": "Main Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 Main Street Sulphur Springs, TX",
+  "locationCity": "210 Main Street Sulphur Springs",
+  "locationState": "TX",
+  "locationZipcode": "75482",
+  "lat": 33.1377073868218,
+  "lon": -95.60222843968828,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

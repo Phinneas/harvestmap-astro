@@ -1,0 +1,19 @@
+{
+  "slug": "ghent-farmers-market-730-spotswood-avenue-norfolk",
+  "name": "Ghent Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "730 Spotswood Avenue Norfolk, VA",
+  "locationCity": "730 Spotswood Avenue Norfolk",
+  "locationState": "VA",
+  "locationZipcode": "23517",
+  "lat": 36.868354008909506,
+  "lon": -76.29656141153022,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

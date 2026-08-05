@@ -1,0 +1,19 @@
+{
+  "slug": "couch-brook-farm-184-couch-brook-rd",
+  "name": "Couch Brook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "184 Couch Brook Rd, MA",
+  "locationCity": "184 Couch Brook Rd",
+  "locationState": "MA",
+  "locationZipcode": "01337",
+  "lat": 42.6996289392466,
+  "lon": -72.5792813918457,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.708Z"
+}

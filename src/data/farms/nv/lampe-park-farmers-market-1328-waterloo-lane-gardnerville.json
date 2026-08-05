@@ -1,0 +1,19 @@
+{
+  "slug": "lampe-park-farmers-market-1328-waterloo-lane-gardnerville",
+  "name": "Lampe Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1328 Waterloo Lane Gardnerville, NV",
+  "locationCity": "1328 Waterloo Lane Gardnerville",
+  "locationState": "NV",
+  "locationZipcode": "89410",
+  "lat": 38.938616667331885,
+  "lon": -119.73582843385618,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:24.364Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:24.364Z"
+}

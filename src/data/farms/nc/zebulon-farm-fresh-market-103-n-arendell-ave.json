@@ -1,0 +1,19 @@
+{
+  "slug": "zebulon-farm-fresh-market-103-n-arendell-ave",
+  "name": "Zebulon Farm Fresh Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "103 N Arendell Ave, NC",
+  "locationCity": "103 N Arendell Ave",
+  "locationState": "NC",
+  "locationZipcode": "27597",
+  "lat": 35.821835,
+  "lon": -78.314111,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.246Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bj-farm-9777-secor-road",
+  "name": "BJ Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9777 Secor Road, MI",
+  "locationCity": "9777 Secor Road",
+  "locationState": "MI",
+  "locationZipcode": "48182",
+  "lat": 41.7921119843573,
+  "lon": -83.6281940078494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.620Z"
+}

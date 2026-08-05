@@ -1,0 +1,19 @@
+{
+  "slug": "sr-farm-6464-montgomery-rd",
+  "name": "SR Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6464 Montgomery Rd, MI",
+  "locationCity": "6464 Montgomery Rd",
+  "locationState": "MI",
+  "locationZipcode": "49705",
+  "lat": 45.366881999823676,
+  "lon": -84.47098096109507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.233Z"
+}

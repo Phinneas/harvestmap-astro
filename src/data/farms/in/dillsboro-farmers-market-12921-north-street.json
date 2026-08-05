@@ -1,0 +1,19 @@
+{
+  "slug": "dillsboro-farmers-market-12921-north-street",
+  "name": "Dillsboro Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12921 North Street, IN",
+  "locationCity": "12921 North Street",
+  "locationState": "IN",
+  "locationZipcode": "12921",
+  "lat": 39.018037,
+  "lon": -85.059414,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.609Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.609Z"
+}

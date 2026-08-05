@@ -1,0 +1,19 @@
+{
+  "slug": "st-andre-orchard-443-rawlins-rd",
+  "name": "St. Andre Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "443 Rawlins Rd, KS",
+  "locationCity": "443 Rawlins Rd",
+  "locationState": "KS",
+  "locationZipcode": "66002",
+  "lat": 39.4246129296607,
+  "lon": -95.1422655111359,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.103Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.103Z"
+}

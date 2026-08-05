@@ -1,0 +1,19 @@
+{
+  "slug": "new-century-csa-7370-bell-station-road",
+  "name": "New Century CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7370 Bell Station Road, OH",
+  "locationCity": "7370 Bell Station Road",
+  "locationState": "OH",
+  "locationZipcode": "43113",
+  "lat": 39.656012081380936,
+  "lon": -82.88839893550072,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.481Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.481Z"
+}

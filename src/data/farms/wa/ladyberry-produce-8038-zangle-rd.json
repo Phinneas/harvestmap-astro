@@ -1,0 +1,19 @@
+{
+  "slug": "ladyberry-produce-8038-zangle-rd",
+  "name": "Ladyberry Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8038 Zangle Rd, WA",
+  "locationCity": "8038 Zangle Rd",
+  "locationState": "WA",
+  "locationZipcode": "98506",
+  "lat": 47.14807225724127,
+  "lon": -122.88095469720706,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.613Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.613Z"
+}

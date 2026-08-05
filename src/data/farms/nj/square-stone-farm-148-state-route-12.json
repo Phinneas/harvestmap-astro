@@ -1,0 +1,19 @@
+{
+  "slug": "square-stone-farm-148-state-route-12",
+  "name": "Square Stone Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "148 State Route 12, NJ",
+  "locationCity": "148 State Route 12",
+  "locationState": "NJ",
+  "locationZipcode": "08825",
+  "lat": 40.5227689715452,
+  "lon": -75.0477201683915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.746Z"
+}

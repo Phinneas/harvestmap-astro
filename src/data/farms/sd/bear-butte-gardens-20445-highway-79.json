@@ -1,0 +1,20 @@
+{
+  "slug": "bear-butte-gardens-20445-highway-79",
+  "name": "Bear Butte Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "20445 Highway 79, SD",
+  "locationCity": "20445 Highway 79",
+  "locationState": "SD",
+  "locationZipcode": "20445",
+  "lat": 44.4414850205376,
+  "lon": -103.431250035498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:07.322Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:07.322Z",
+  "crops": []
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "lakeview-orchard-94-old-cheshire-road",
+  "name": "Lakeview Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "94 Old Cheshire Road, MA",
+  "locationCity": "94 Old Cheshire Road",
+  "locationState": "MA",
+  "locationZipcode": "01237",
+  "lat": 42.5210362312016,
+  "lon": -73.2084010602945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.715Z",
+  "crops": []
+}

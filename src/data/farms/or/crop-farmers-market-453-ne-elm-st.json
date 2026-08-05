@@ -1,0 +1,19 @@
+{
+  "slug": "crop-farmers-market-453-ne-elm-st",
+  "name": "CROP Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "453 NE Elm St, OR",
+  "locationCity": "453 NE Elm St",
+  "locationState": "OR",
+  "locationZipcode": "97754",
+  "lat": 44.304229434745665,
+  "lon": -120.84222577140919,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.423Z"
+}

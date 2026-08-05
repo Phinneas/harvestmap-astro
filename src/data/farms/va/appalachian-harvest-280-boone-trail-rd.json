@@ -1,0 +1,19 @@
+{
+  "slug": "appalachian-harvest-280-boone-trail-rd",
+  "name": "Appalachian Harvest",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "280 Boone Trail Rd., VA",
+  "locationCity": "280 Boone Trail Rd.",
+  "locationState": "VA",
+  "locationZipcode": "24244",
+  "lat": 36.7133491,
+  "lon": -82.799166,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:05.036Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:05.036Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "battleview-orchards-91-wemrock-rd",
+  "name": "Battleview Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "91 Wemrock Rd, NJ",
+  "locationCity": "91 Wemrock Rd",
+  "locationState": "NJ",
+  "locationZipcode": "07728",
+  "lat": 40.2590520029231,
+  "lon": -74.3137799642579,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.601Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.601Z"
+}

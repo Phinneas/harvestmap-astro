@@ -1,0 +1,19 @@
+{
+  "slug": "fieldbrook-winery-4241-fieldbrook-rd",
+  "name": "Fieldbrook Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4241 Fieldbrook Rd, CA",
+  "locationCity": "4241 Fieldbrook Rd",
+  "locationState": "CA",
+  "locationZipcode": "95519",
+  "lat": 40.9587200130144,
+  "lon": -124.031856974602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.808Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.808Z"
+}

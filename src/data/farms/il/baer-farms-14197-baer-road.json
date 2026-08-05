@@ -1,0 +1,19 @@
+{
+  "slug": "baer-farms-14197-baer-road",
+  "name": "Baer Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "14197 Baer Road, IL",
+  "locationCity": "14197 Baer Road",
+  "locationState": "IL",
+  "locationZipcode": "14197",
+  "lat": 40.531733,
+  "lon": -89.4743529,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.479Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.479Z"
+}

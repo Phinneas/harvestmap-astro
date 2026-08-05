@@ -1,0 +1,19 @@
+{
+  "slug": "farm-fresh-571-austin-place",
+  "name": "FARM FRESH",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "571 AUSTIN PLACE, NY",
+  "locationCity": "571 AUSTIN PLACE",
+  "locationState": "NY",
+  "locationZipcode": "10455",
+  "lat": 40.8114459,
+  "lon": -73.901937,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.986Z"
+}

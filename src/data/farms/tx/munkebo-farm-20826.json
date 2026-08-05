@@ -1,0 +1,19 @@
+{
+  "slug": "munkebo-farm-20826",
+  "name": "Munkebo Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "20826, TX",
+  "locationCity": "20826",
+  "locationState": "TX",
+  "locationZipcode": "20826",
+  "lat": 30.3407629,
+  "lon": -97.5569456,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.843Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.843Z"
+}

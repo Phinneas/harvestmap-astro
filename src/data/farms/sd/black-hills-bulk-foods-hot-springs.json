@@ -1,0 +1,19 @@
+{
+  "slug": "black-hills-bulk-foods-hot-springs",
+  "name": "Black Hills Bulk Foods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Hot Springs, SD",
+  "locationCity": "Hot Springs",
+  "locationState": "SD",
+  "locationZipcode": "57747",
+  "lat": 43.4255454,
+  "lon": -103.4841457,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:15.925Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:15.925Z"
+}

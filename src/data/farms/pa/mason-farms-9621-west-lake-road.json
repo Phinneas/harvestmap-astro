@@ -1,0 +1,19 @@
+{
+  "slug": "mason-farms-9621-west-lake-road",
+  "name": "Mason Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9621 West Lake Road, PA",
+  "locationCity": "9621 West Lake Road",
+  "locationState": "PA",
+  "locationZipcode": "16506",
+  "lat": 42.0307371828741,
+  "lon": -80.3295863162095,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.101Z"
+}

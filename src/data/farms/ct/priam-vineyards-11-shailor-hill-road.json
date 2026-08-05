@@ -1,0 +1,19 @@
+{
+  "slug": "priam-vineyards-11-shailor-hill-road",
+  "name": "Priam Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11 Shailor Hill Road, CT",
+  "locationCity": "11 Shailor Hill Road",
+  "locationState": "CT",
+  "locationZipcode": "06415",
+  "lat": 41.5666200134748,
+  "lon": -72.4050340300449,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.942Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.942Z"
+}

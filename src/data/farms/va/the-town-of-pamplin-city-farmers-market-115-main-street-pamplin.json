@@ -1,0 +1,19 @@
+{
+  "slug": "the-town-of-pamplin-city-farmers-market-115-main-street-pamplin",
+  "name": "The Town of Pamplin City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 Main Street Pamplin, VA",
+  "locationCity": "115 Main Street Pamplin",
+  "locationState": "VA",
+  "locationZipcode": "23958",
+  "lat": 37.26190516268386,
+  "lon": -78.68133237313106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

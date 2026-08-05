@@ -1,0 +1,19 @@
+{
+  "slug": "mcarthur-farms-708-hwy-38-south",
+  "name": "McArthur Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "708 Hwy 38 South, SC",
+  "locationCity": "708 Hwy 38 South",
+  "locationState": "SC",
+  "locationZipcode": "29512",
+  "lat": 34.5943914946108,
+  "lon": -79.6773185287833,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.836Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.836Z"
+}

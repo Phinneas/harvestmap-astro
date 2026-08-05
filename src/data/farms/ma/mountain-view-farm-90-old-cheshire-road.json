@@ -1,0 +1,19 @@
+{
+  "slug": "mountain-view-farm-90-old-cheshire-road",
+  "name": "Mountain View Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "90 Old Cheshire Road, MA",
+  "locationCity": "90 Old Cheshire Road",
+  "locationState": "MA",
+  "locationZipcode": "01225",
+  "lat": 42.5178314597233,
+  "lon": -73.21342213665429,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.707Z"
+}

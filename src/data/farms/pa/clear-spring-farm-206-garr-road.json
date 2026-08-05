@@ -1,0 +1,20 @@
+{
+  "slug": "clear-spring-farm-206-garr-road",
+  "name": "Clear Spring Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "206 Garr Road, PA",
+  "locationCity": "206 Garr Road",
+  "locationState": "PA",
+  "locationZipcode": "18040",
+  "lat": 40.7717000137883,
+  "lon": -75.2180689644153,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.128Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.128Z",
+  "crops": []
+}

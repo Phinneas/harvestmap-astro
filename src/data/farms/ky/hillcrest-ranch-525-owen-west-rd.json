@@ -1,0 +1,19 @@
+{
+  "slug": "hillcrest-ranch-525-owen-west-rd",
+  "name": "Hillcrest Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "525 Owen West Rd, KY",
+  "locationCity": "525 Owen West Rd",
+  "locationState": "KY",
+  "locationZipcode": "42240",
+  "lat": 36.9484959505159,
+  "lon": -87.350526177464,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.660Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.660Z"
+}

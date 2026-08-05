@@ -1,0 +1,19 @@
+{
+  "slug": "park-west-place-stockton-farmers-market-10342-trinity-pkwy",
+  "name": "Park West Place Stockton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10342 Trinity Pkwy., CA",
+  "locationCity": "10342 Trinity Pkwy.",
+  "locationState": "CA",
+  "locationZipcode": "10342",
+  "lat": 38.04920789414144,
+  "lon": -121.37398274018378,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

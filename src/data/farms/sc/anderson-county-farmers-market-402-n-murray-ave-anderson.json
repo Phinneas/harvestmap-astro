@@ -1,0 +1,19 @@
+{
+  "slug": "anderson-county-farmers-market-402-n-murray-ave-anderson",
+  "name": "Anderson County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "402 N. Murray Ave. Anderson, SC",
+  "locationCity": "402 N. Murray Ave. Anderson",
+  "locationState": "SC",
+  "locationZipcode": "29621",
+  "lat": 34.50590366309491,
+  "lon": -82.65247594031095,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.194Z"
+}

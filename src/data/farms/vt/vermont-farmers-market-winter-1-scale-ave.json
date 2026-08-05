@@ -1,0 +1,19 @@
+{
+  "slug": "vermont-farmers-market-winter-1-scale-ave",
+  "name": "Vermont Farmers Market (Winter)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Scale Ave, VT",
+  "locationCity": "1 Scale Ave",
+  "locationState": "VT",
+  "locationZipcode": "05701",
+  "lat": 43.598345980237966,
+  "lon": -72.97432178464864,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

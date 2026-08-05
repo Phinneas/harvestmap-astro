@@ -1,0 +1,20 @@
+{
+  "slug": "marys-berries-57237-county-b",
+  "name": "Marys Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "57237 County B, WI",
+  "locationCity": "57237 County B",
+  "locationState": "WI",
+  "locationZipcode": "57237",
+  "lat": 43.40209202068024,
+  "lon": -91.01132996893084,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.472Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.472Z",
+  "crops": []
+}

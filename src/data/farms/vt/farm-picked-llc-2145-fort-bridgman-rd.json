@@ -1,0 +1,19 @@
+{
+  "slug": "farm-picked-llc-2145-fort-bridgman-rd",
+  "name": "Farm Picked LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2145 Fort Bridgman RD, VT",
+  "locationCity": "2145 Fort Bridgman RD",
+  "locationState": "VT",
+  "locationZipcode": "05354",
+  "lat": 42.771486659893526,
+  "lon": -72.51978764893477,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.139Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.139Z"
+}

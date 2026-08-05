@@ -1,0 +1,19 @@
+{
+  "slug": "bluffton-commons-farmers-market-corner-of-main-and-washington-streets-bluffton",
+  "name": "Bluffton Commons Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Main and Washington Streets Bluffton, IN",
+  "locationCity": "Corner of Main and Washington Streets Bluffton",
+  "locationState": "IN",
+  "locationZipcode": "46714",
+  "lat": 40.738719990820954,
+  "lon": -85.17147999497665,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "idaho-springs-chamber-of-commerce-farmers-market-po-box-1641-idaho-springs",
+  "name": "Idaho Springs Chamber Of Commerce Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "PO box 1641 Idaho Springs, CO",
+  "locationCity": "PO box 1641 Idaho Springs",
+  "locationState": "CO",
+  "locationZipcode": "80452",
+  "lat": 39.74205500000005,
+  "lon": -105.51443499999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

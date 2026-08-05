@@ -1,0 +1,19 @@
+{
+  "slug": "mount-lebanon-farmers-market-733-washington-road-733-washington-road-pittsburgh",
+  "name": "Mount Lebanon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "733 Washington Road 733 Washington Road Pittsburgh, PA",
+  "locationCity": "733 Washington Road 733 Washington Road Pittsburgh",
+  "locationState": "PA",
+  "locationZipcode": "15228",
+  "lat": 40.37959967337718,
+  "lon": -80.0450816272561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

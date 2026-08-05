@@ -1,0 +1,19 @@
+{
+  "slug": "magic-valley-corn-maze-4334-east-3700-north",
+  "name": "Magic Valley Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4334 East 3700 North, ID",
+  "locationCity": "4334 East 3700 North",
+  "locationState": "ID",
+  "locationZipcode": "83334",
+  "lat": 42.5330778383107,
+  "lon": -114.210646985959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.712Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.712Z"
+}

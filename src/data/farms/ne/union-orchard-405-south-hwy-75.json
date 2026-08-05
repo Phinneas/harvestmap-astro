@@ -1,0 +1,19 @@
+{
+  "slug": "union-orchard-405-south-hwy-75",
+  "name": "Union Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "405 South Hwy 75, NE",
+  "locationCity": "405 South Hwy 75",
+  "locationState": "NE",
+  "locationZipcode": "68455",
+  "lat": 40.8159666042304,
+  "lon": -95.9114829921468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.388Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.388Z"
+}

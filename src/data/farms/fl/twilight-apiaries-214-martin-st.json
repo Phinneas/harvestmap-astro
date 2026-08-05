@@ -1,0 +1,19 @@
+{
+  "slug": "twilight-apiaries-214-martin-st",
+  "name": "Twilight Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "214 Martin St, FL",
+  "locationCity": "214 Martin St",
+  "locationState": "FL",
+  "locationZipcode": "33852",
+  "lat": 27.2149489993299,
+  "lon": -81.3012350263545,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.878Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.878Z"
+}

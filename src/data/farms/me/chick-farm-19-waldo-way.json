@@ -1,0 +1,19 @@
+{
+  "slug": "chick-farm-19-waldo-way",
+  "name": "Chick Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "19 Waldo Way, ME",
+  "locationCity": "19 Waldo Way",
+  "locationState": "ME",
+  "locationZipcode": "04090",
+  "lat": 43.3778844,
+  "lon": -70.626626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:00.060Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:00.060Z"
+}

@@ -9,22 +9,11 @@
   "locationZipcode": "",
   "lat": 42.33360874575266,
   "lon": -72.9947827258123,
-  "website": "https://www.blueheavenblueberries.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:29:19.720Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:29:34.279Z"
+      "lastSeen": "2026-08-05T18:42:22.930Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:29:19.720Z",
-  "crops": [
-    "Blueberries",
-    "Raspberries",
-    "Peas"
-  ],
-  "phone": "413-623-5519"
+  "usdaLastUpdated": "2026-08-05T18:42:22.930Z"
 }

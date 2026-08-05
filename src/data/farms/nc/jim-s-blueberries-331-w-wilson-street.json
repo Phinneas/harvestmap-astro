@@ -1,0 +1,19 @@
+{
+  "slug": "jim-s-blueberries-331-w-wilson-street",
+  "name": "Jim's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "331 W. Wilson Street, NC",
+  "locationCity": "331 W. Wilson Street",
+  "locationState": "NC",
+  "locationZipcode": "27577",
+  "lat": 35.4972439843683,
+  "lon": -78.3686795171204,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.876Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.876Z"
+}

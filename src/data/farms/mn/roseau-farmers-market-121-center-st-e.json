@@ -1,0 +1,19 @@
+{
+  "slug": "roseau-farmers-market-121-center-st-e",
+  "name": "Roseau Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "121 Center St E, MN",
+  "locationCity": "121 Center St E",
+  "locationState": "MN",
+  "locationZipcode": "56751",
+  "lat": 48.8465647,
+  "lon": -95.7616273,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

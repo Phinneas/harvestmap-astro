@@ -1,0 +1,19 @@
+{
+  "slug": "iz-produce-200-navajo-road",
+  "name": "Iz Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "200 Navajo Road, LA",
+  "locationCity": "200 Navajo Road",
+  "locationState": "LA",
+  "locationZipcode": "70648",
+  "lat": 30.48668999713226,
+  "lon": -92.91338102562045,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

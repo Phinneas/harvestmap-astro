@@ -1,0 +1,19 @@
+{
+  "slug": "triple-b-farms-511-ryland-road",
+  "name": "Triple B Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "511 Ryland Road, NC",
+  "locationCity": "511 Ryland Road",
+  "locationState": "NC",
+  "locationZipcode": "27980",
+  "lat": 36.2775923099336,
+  "lon": -76.6218096198233,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.765Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.765Z"
+}

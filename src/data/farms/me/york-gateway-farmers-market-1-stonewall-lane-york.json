@@ -1,0 +1,19 @@
+{
+  "slug": "york-gateway-farmers-market-1-stonewall-lane-york",
+  "name": "York Gateway Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Stonewall Lane York, ME",
+  "locationCity": "1 Stonewall Lane York",
+  "locationState": "ME",
+  "locationZipcode": "03909",
+  "lat": 43.15392504579198,
+  "lon": -70.65813072317594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:57.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:57.069Z"
+}

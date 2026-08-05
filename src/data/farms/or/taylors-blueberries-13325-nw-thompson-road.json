@@ -1,0 +1,19 @@
+{
+  "slug": "taylors-blueberries-13325-nw-thompson-road",
+  "name": "Taylors Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13325 NW Thompson Road, OR",
+  "locationCity": "13325 NW Thompson Road",
+  "locationState": "OR",
+  "locationZipcode": "13325",
+  "lat": 45.5491650083797,
+  "lon": -122.8130089784102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.069Z"
+}

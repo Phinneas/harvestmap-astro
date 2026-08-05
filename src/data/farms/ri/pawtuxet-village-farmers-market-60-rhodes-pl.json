@@ -1,0 +1,19 @@
+{
+  "slug": "pawtuxet-village-farmers-market-60-rhodes-pl",
+  "name": "Pawtuxet Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "60 Rhodes Pl, RI",
+  "locationCity": "60 Rhodes Pl",
+  "locationState": "RI",
+  "locationZipcode": "02905",
+  "lat": 41.767977,
+  "lon": -71.391872,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.507Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "boulder-farmers-and-artisan-s-market-304-n-main-street",
+  "name": "Boulder Farmers and Artisan's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "304 N. Main Street, MT",
+  "locationCity": "304 N. Main Street",
+  "locationState": "MT",
+  "locationZipcode": "59632",
+  "lat": 46.239153,
+  "lon": -112.11759,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:21.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:21.830Z"
+}

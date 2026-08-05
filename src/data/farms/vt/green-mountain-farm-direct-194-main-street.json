@@ -1,0 +1,19 @@
+{
+  "slug": "green-mountain-farm-direct-194-main-street",
+  "name": "Green Mountain Farm Direct",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "194 Main Street, VT",
+  "locationCity": "194 Main Street",
+  "locationState": "VT",
+  "locationZipcode": "",
+  "lat": 44.9358792,
+  "lon": -72.209936,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:46.179Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:46.179Z"
+}

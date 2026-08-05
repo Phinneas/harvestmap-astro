@@ -1,0 +1,19 @@
+{
+  "slug": "bear-berries-449-junction-road",
+  "name": "Bear Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "449 Junction Road, NJ",
+  "locationCity": "449 Junction Road",
+  "locationState": "NJ",
+  "locationZipcode": "08015",
+  "lat": 39.9636431678666,
+  "lon": -74.5798955531289,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.581Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.581Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "upper-peninsula-food-exchange-502-w-washington-st",
+  "name": "Upper Peninsula Food Exchange",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "502 W. Washington St., MI",
+  "locationCity": "502 W. Washington St.",
+  "locationState": "MI",
+  "locationZipcode": "49855",
+  "lat": 46.545034,
+  "lon": -87.402735,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.229Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.229Z"
+}

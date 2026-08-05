@@ -1,0 +1,19 @@
+{
+  "slug": "anawan-farm-70-anawan-street",
+  "name": "Anawan Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "70 Anawan Street, MA",
+  "locationCity": "70 Anawan Street",
+  "locationState": "MA",
+  "locationZipcode": "02769",
+  "lat": 41.8962175,
+  "lon": -71.2280828,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.265Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.265Z"
+}

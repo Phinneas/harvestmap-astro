@@ -1,0 +1,19 @@
+{
+  "slug": "loam-agronomics-1300-harlem-rd",
+  "name": "Loam Agronomics",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1300 Harlem Rd, TX",
+  "locationCity": "1300 Harlem Rd",
+  "locationState": "TX",
+  "locationZipcode": "77406",
+  "lat": 29.6156586,
+  "lon": -95.7134879,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.850Z"
+}

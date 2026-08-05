@@ -1,0 +1,19 @@
+{
+  "slug": "old-capitol-farmers-market-4th-and-adams",
+  "name": "Old Capitol Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4th and Adams, IL",
+  "locationCity": "4th and Adams",
+  "locationState": "IL",
+  "locationZipcode": "62701",
+  "lat": 39.800581,
+  "lon": -89.650662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.951Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.951Z"
+}

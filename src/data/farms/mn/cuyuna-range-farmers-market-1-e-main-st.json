@@ -1,0 +1,19 @@
+{
+  "slug": "cuyuna-range-farmers-market-1-e-main-st",
+  "name": "Cuyuna Range Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 E Main St, MN",
+  "locationCity": "1 E Main St",
+  "locationState": "MN",
+  "locationZipcode": "56441",
+  "lat": 46.4827244,
+  "lon": -93.9520878,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

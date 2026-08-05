@@ -1,0 +1,19 @@
+{
+  "slug": "marshall-farmer-s-market-8382-west-main-street-marshall",
+  "name": "Marshall Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8382 West Main Street Marshall, VA",
+  "locationCity": "8382 West Main Street Marshall",
+  "locationState": "VA",
+  "locationZipcode": "20115",
+  "lat": 38.86418603012629,
+  "lon": -77.85895197286955,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

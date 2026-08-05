@@ -1,0 +1,19 @@
+{
+  "slug": "yellville-farmers-market-105-s-berry-st-yellville",
+  "name": "Yellville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 S Berry St Yellville, AR",
+  "locationCity": "105 S Berry St Yellville",
+  "locationState": "AR",
+  "locationZipcode": "72687",
+  "lat": 36.22471652952862,
+  "lon": -92.68152964651749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

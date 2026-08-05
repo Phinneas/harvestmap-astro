@@ -1,0 +1,19 @@
+{
+  "slug": "verd-s-fruit-market-1320-north-state-street",
+  "name": "Verd's Fruit Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1320 North State Street, UT",
+  "locationCity": "1320 North State Street",
+  "locationState": "UT",
+  "locationZipcode": "84057",
+  "lat": 40.32142555821753,
+  "lon": -111.70531491362738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:27.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:27.057Z"
+}

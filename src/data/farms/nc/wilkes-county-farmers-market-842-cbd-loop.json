@@ -1,0 +1,19 @@
+{
+  "slug": "wilkes-county-farmers-market-842-cbd-loop",
+  "name": "Wilkes County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "842 CBD Loop, NC",
+  "locationCity": "842 CBD Loop",
+  "locationState": "NC",
+  "locationZipcode": "28659",
+  "lat": 36.159075,
+  "lon": -81.1452,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.240Z"
+}

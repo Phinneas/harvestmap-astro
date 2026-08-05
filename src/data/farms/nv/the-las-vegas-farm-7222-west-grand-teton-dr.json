@@ -1,0 +1,19 @@
+{
+  "slug": "the-las-vegas-farm-7222-west-grand-teton-dr",
+  "name": "The Las Vegas Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7222 West Grand Teton Dr, NV",
+  "locationCity": "7222 West Grand Teton Dr",
+  "locationState": "NV",
+  "locationZipcode": "89131",
+  "lat": 36.30548701915214,
+  "lon": -115.25159396010059,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:30.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:30.605Z"
+}

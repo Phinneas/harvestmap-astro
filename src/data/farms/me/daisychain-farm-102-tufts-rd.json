@@ -1,0 +1,19 @@
+{
+  "slug": "daisychain-farm-102-tufts-rd",
+  "name": "Daisychain Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "102 Tufts Rd, ME",
+  "locationCity": "102 Tufts Rd",
+  "locationState": "ME",
+  "locationZipcode": "04915",
+  "lat": 44.4054600197847,
+  "lon": -69.0558234178721,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.896Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.896Z"
+}

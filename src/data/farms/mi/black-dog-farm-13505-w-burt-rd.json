@@ -1,0 +1,19 @@
+{
+  "slug": "black-dog-farm-13505-w-burt-rd",
+  "name": "Black Dog Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "13505 W. Burt Rd., MI",
+  "locationCity": "13505 W. Burt Rd.",
+  "locationState": "MI",
+  "locationZipcode": "13505",
+  "lat": 43.2305451,
+  "lon": -84.1484013,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.091Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "roscoe-village-farmers-market-2200-w-roscoe-chicago",
+  "name": "Roscoe Village Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2200 W Roscoe Chicago, IL",
+  "locationCity": "2200 W Roscoe Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60618",
+  "lat": 41.94316307620579,
+  "lon": -87.68339792465656,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

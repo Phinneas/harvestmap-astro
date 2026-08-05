@@ -1,0 +1,19 @@
+{
+  "slug": "fieldstone-gardens-55-quaker-lane",
+  "name": "FieldStone Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "55 Quaker Lane, ME",
+  "locationCity": "55 Quaker Lane",
+  "locationState": "ME",
+  "locationZipcode": "04989",
+  "lat": 44.4301956866077,
+  "lon": -69.6332375563836,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.817Z"
+}

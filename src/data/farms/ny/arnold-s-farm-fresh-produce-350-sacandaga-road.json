@@ -1,0 +1,19 @@
+{
+  "slug": "arnold-s-farm-fresh-produce-350-sacandaga-road",
+  "name": "Arnold's Farm Fresh Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "350 Sacandaga Road, NY",
+  "locationCity": "350 Sacandaga Road",
+  "locationState": "NY",
+  "locationZipcode": "12010",
+  "lat": 42.8397399224391,
+  "lon": -73.9740763428634,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.276Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.276Z"
+}

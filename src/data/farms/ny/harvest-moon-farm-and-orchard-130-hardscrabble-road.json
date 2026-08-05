@@ -1,0 +1,20 @@
+{
+  "slug": "harvest-moon-farm-and-orchard-130-hardscrabble-road",
+  "name": "Harvest Moon Farm and Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "130 Hardscrabble Road, NY",
+  "locationCity": "130 Hardscrabble Road",
+  "locationState": "NY",
+  "locationZipcode": "10560",
+  "lat": 41.3498844911111,
+  "lon": -73.6350275267079,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.903Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.903Z",
+  "crops": []
+}

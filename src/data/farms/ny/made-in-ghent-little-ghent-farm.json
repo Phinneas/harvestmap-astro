@@ -1,0 +1,19 @@
+{
+  "slug": "made-in-ghent-little-ghent-farm",
+  "name": "Made in Ghent",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Little Ghent Farm, NY",
+  "locationCity": "Little Ghent Farm",
+  "locationState": "NY",
+  "locationZipcode": "12075",
+  "lat": 42.330964,
+  "lon": -73.643255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.794Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.794Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "schiltgen-farms-manning-ave-south-30th-street-south",
+  "name": "Schiltgen Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Manning Ave South & 30th Street South, MN",
+  "locationCity": "Manning Ave South & 30th Street South",
+  "locationState": "MN",
+  "locationZipcode": "55001",
+  "lat": 44.9056099843726,
+  "lon": -92.8625400051766,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.799Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.799Z"
+}

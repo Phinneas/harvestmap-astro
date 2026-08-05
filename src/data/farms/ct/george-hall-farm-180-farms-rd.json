@@ -1,0 +1,19 @@
+{
+  "slug": "george-hall-farm-180-farms-rd",
+  "name": "George Hall Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "180 Farms Rd, CT",
+  "locationCity": "180 Farms Rd",
+  "locationState": "CT",
+  "locationZipcode": "06070",
+  "lat": 41.8775067,
+  "lon": -72.7924612,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.401Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.401Z"
+}

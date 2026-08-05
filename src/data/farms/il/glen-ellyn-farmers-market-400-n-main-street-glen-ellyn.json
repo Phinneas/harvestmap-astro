@@ -1,0 +1,19 @@
+{
+  "slug": "glen-ellyn-farmers-market-400-n-main-street-glen-ellyn",
+  "name": "Glen Ellyn Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 N. Main Street Glen Ellyn, IL",
+  "locationCity": "400 N. Main Street Glen Ellyn",
+  "locationState": "IL",
+  "locationZipcode": "60137",
+  "lat": 41.87416584690468,
+  "lon": -88.06668193280781,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

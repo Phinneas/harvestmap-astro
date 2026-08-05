@@ -1,0 +1,19 @@
+{
+  "slug": "bird-berry-farm-256-belding-road",
+  "name": "Bird Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "256 Belding Road, MI",
+  "locationCity": "256 Belding Road",
+  "locationState": "MI",
+  "locationZipcode": "48809",
+  "lat": 43.0729648878746,
+  "lon": -85.0791447321849,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.557Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "armory-farmers-market-85-parade-st",
+  "name": "Armory Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "85 Parade St, RI",
+  "locationCity": "85 Parade St",
+  "locationState": "RI",
+  "locationZipcode": "02909",
+  "lat": 41.814767,
+  "lon": -71.4316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.507Z"
+}

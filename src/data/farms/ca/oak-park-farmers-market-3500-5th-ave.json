@@ -1,0 +1,19 @@
+{
+  "slug": "oak-park-farmers-market-3500-5th-ave",
+  "name": "Oak Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3500 5th Ave, CA",
+  "locationCity": "3500 5th Ave",
+  "locationState": "CA",
+  "locationZipcode": "95817",
+  "lat": 38.5488249,
+  "lon": -121.4696615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.408Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.408Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sugar-feather-farm-1671-chandler-rd",
+  "name": "Sugar Feather Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1671 Chandler Rd, VT",
+  "locationCity": "1671 Chandler Rd",
+  "locationState": "VT",
+  "locationZipcode": "05663",
+  "lat": 44.17992400200103,
+  "lon": -72.64494899317853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.251Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.251Z"
+}

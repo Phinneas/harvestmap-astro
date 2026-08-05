@@ -1,0 +1,19 @@
+{
+  "slug": "aurora-farmers-market-170-main-street",
+  "name": "Aurora Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "170 Main Street, NY",
+  "locationCity": "170 Main Street",
+  "locationState": "NY",
+  "locationZipcode": "13026",
+  "lat": 42.744684,
+  "lon": -76.699995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.909Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.909Z"
+}

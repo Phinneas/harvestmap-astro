@@ -1,0 +1,19 @@
+{
+  "slug": "fox-vineyards-and-winery-225-highway-11-south",
+  "name": "Fox Vineyards and Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "225 highway 11 South, GA",
+  "locationCity": "225 highway 11 South",
+  "locationState": "GA",
+  "locationZipcode": "30025",
+  "lat": 33.5939319960745,
+  "lon": -83.7467280327094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.340Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.340Z"
+}

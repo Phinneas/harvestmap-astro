@@ -1,0 +1,19 @@
+{
+  "slug": "marr-pond-farm-471-flanders-hill-rd",
+  "name": "Marr Pond Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "471 Flanders Hill Rd, ME",
+  "locationCity": "471 Flanders Hill Rd",
+  "locationState": "ME",
+  "locationZipcode": "04479",
+  "lat": 45.15107572060097,
+  "lon": -69.3069819229855,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.570Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.570Z"
+}

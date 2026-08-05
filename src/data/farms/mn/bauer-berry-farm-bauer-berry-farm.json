@@ -1,0 +1,19 @@
+{
+  "slug": "bauer-berry-farm-bauer-berry-farm",
+  "name": "Bauer Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bauer Berry Farm, MN",
+  "locationCity": "Bauer Berry Farm",
+  "locationState": "MN",
+  "locationZipcode": "55316",
+  "lat": 45.1693622,
+  "lon": -93.3853406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.852Z"
+}

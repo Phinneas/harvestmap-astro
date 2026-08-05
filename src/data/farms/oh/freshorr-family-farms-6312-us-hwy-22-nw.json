@@ -1,0 +1,20 @@
+{
+  "slug": "freshorr-family-farms-6312-us-hwy-22-nw",
+  "name": "FreshORR Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6312 US HWY 22 NW, OH",
+  "locationCity": "6312 US HWY 22 NW",
+  "locationState": "OH",
+  "locationZipcode": "43150",
+  "lat": 39.77905200784051,
+  "lon": -82.36848901136243,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.923Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.923Z",
+  "crops": []
+}

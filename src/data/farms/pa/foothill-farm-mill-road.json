@@ -1,0 +1,19 @@
+{
+  "slug": "foothill-farm-mill-road",
+  "name": "Foothill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mill Road, PA",
+  "locationCity": "Mill Road",
+  "locationState": "PA",
+  "locationZipcode": "18235",
+  "lat": 40.7985140154131,
+  "lon": -75.8124869669846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.086Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.086Z"
+}

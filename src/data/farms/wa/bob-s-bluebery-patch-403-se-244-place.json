@@ -1,0 +1,20 @@
+{
+  "slug": "bob-s-bluebery-patch-403-se-244-place",
+  "name": "Bob's Bluebery Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "403 Se 244 Place, WA",
+  "locationCity": "403 Se 244 Place",
+  "locationState": "WA",
+  "locationZipcode": "98042",
+  "lat": 47.3830050572188,
+  "lon": -122.109620146499,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.127Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.127Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "storm-farms-010-bowen-rd",
+  "name": "Storm Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "010 Bowen Rd, TX",
+  "locationCity": "010 Bowen Rd",
+  "locationState": "TX",
+  "locationZipcode": "76016",
+  "lat": 32.6819399919457,
+  "lon": -97.1495699962366,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.575Z"
+}

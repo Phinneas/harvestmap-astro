@@ -1,0 +1,19 @@
+{
+  "slug": "uptown-farmers-market-1250-w-sunnyside-ave",
+  "name": "Uptown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1250 W Sunnyside Ave, IL",
+  "locationCity": "1250 W Sunnyside Ave",
+  "locationState": "IL",
+  "locationZipcode": "60640",
+  "lat": 41.9634666,
+  "lon": -87.6623056,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:51.006Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:51.006Z"
+}

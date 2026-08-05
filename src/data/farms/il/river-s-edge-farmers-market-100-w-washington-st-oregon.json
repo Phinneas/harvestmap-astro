@@ -1,0 +1,19 @@
+{
+  "slug": "river-s-edge-farmers-market-100-w-washington-st-oregon",
+  "name": "River's Edge Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 W. Washington St Oregon, IL",
+  "locationCity": "100 W. Washington St Oregon",
+  "locationState": "IL",
+  "locationZipcode": "61061",
+  "lat": 42.014529750884456,
+  "lon": -89.32882693990298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "texas-farmstay-463-starkey-rd",
+  "name": "Texas FarmStay",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "463 Starkey Rd, TX",
+  "locationCity": "463 Starkey Rd",
+  "locationState": "TX",
+  "locationZipcode": "76265",
+  "lat": 33.7470969854608,
+  "lon": -97.6376669936057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.357Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "market-fresh-produce-l-l-c-3927-wiggins-rd",
+  "name": "Market Fresh Produce L.L.C.",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3927 Wiggins Rd., NC",
+  "locationCity": "3927 Wiggins Rd.",
+  "locationState": "NC",
+  "locationZipcode": "27882",
+  "lat": 35.905481938228704,
+  "lon": -78.06925555601215,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.896Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.896Z"
+}

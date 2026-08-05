@@ -1,0 +1,19 @@
+{
+  "slug": "gardner-village-100-w-7800-s",
+  "name": "Gardner Village",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 W. 7800 S., UT",
+  "locationCity": "100 W. 7800 S.",
+  "locationState": "UT",
+  "locationZipcode": "84088",
+  "lat": 40.609480012492,
+  "lon": -111.967380299881,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.687Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.687Z"
+}

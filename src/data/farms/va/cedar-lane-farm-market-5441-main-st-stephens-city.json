@@ -1,0 +1,19 @@
+{
+  "slug": "cedar-lane-farm-market-5441-main-st-stephens-city",
+  "name": "Cedar Lane Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5441 Main St Stephens City, VA",
+  "locationCity": "5441 Main St Stephens City",
+  "locationState": "VA",
+  "locationZipcode": "22655",
+  "lat": 39.08230556473647,
+  "lon": -78.21907064054561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

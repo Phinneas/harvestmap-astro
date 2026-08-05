@@ -1,0 +1,20 @@
+{
+  "slug": "hamlin-hills-farm-477-dames-ferry-road",
+  "name": "Hamlin Hills Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "477 Dames Ferry Road, GA",
+  "locationCity": "477 Dames Ferry Road",
+  "locationState": "GA",
+  "locationZipcode": "31029",
+  "lat": 33.0283654543739,
+  "lon": -83.9072536911246,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.289Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.289Z",
+  "crops": []
+}

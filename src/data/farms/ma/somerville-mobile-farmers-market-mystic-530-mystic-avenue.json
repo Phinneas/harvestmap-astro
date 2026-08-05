@@ -1,0 +1,19 @@
+{
+  "slug": "somerville-mobile-farmers-market-mystic-530-mystic-avenue",
+  "name": "Somerville Mobile Farmers' Market - Mystic",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "530 Mystic Avenue, MA",
+  "locationCity": "530 Mystic Avenue",
+  "locationState": "MA",
+  "locationZipcode": "02145",
+  "lat": 42.396251,
+  "lon": -71.091856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.741Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.741Z"
+}

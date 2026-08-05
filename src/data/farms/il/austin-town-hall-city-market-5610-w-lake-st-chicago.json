@@ -1,0 +1,19 @@
+{
+  "slug": "austin-town-hall-city-market-5610-w-lake-st-chicago",
+  "name": "Austin Town Hall City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5610 W. Lake St. Chicago, IL",
+  "locationCity": "5610 W. Lake St. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60644",
+  "lat": 41.88776822750941,
+  "lon": -87.76630082416945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

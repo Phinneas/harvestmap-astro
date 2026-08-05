@@ -1,0 +1,20 @@
+{
+  "slug": "easy-pickins-orchard-4805",
+  "name": "Easy Pickins Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4805, CT",
+  "locationCity": "4805",
+  "locationState": "CT",
+  "locationZipcode": "06082",
+  "lat": 41.9773059859766,
+  "lon": -72.5055219850063,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.921Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.921Z",
+  "crops": []
+}

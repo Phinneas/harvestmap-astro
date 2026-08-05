@@ -1,0 +1,19 @@
+{
+  "slug": "hartland-farm-3205-hartland-lane",
+  "name": "Hartland Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3205 Hartland Lane, VA",
+  "locationCity": "3205 Hartland Lane",
+  "locationState": "VA",
+  "locationZipcode": "22643",
+  "lat": 38.90836999700795,
+  "lon": -78.00513299089164,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.404Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.404Z"
+}

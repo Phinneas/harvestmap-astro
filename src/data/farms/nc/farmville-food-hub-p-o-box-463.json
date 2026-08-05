@@ -1,0 +1,19 @@
+{
+  "slug": "farmville-food-hub-p-o-box-463",
+  "name": "Farmville Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "P.O. Box 463, NC",
+  "locationCity": "P.O. Box 463",
+  "locationState": "NC",
+  "locationZipcode": "27828",
+  "lat": 35.586702,
+  "lon": -77.589685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.329Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.329Z"
+}

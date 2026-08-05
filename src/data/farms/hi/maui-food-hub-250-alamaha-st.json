@@ -1,0 +1,19 @@
+{
+  "slug": "maui-food-hub-250-alamaha-st",
+  "name": "Maui Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "250 Alamaha St, HI",
+  "locationCity": "250 Alamaha St",
+  "locationState": "HI",
+  "locationZipcode": "96732",
+  "lat": 20.886334996151888,
+  "lon": -156.45905897787728,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:17.662Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:17.662Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-the-williamsville-mill-56-e-spring-st-williamsville",
+  "name": "Farmers' Market at the Williamsville Mill",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "56 E. Spring St. Williamsville, NY",
+  "locationCity": "56 E. Spring St. Williamsville",
+  "locationState": "NY",
+  "locationZipcode": "14221",
+  "lat": 42.963669947433985,
+  "lon": -78.74505941636508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

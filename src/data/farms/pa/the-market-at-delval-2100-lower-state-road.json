@@ -1,0 +1,19 @@
+{
+  "slug": "the-market-at-delval-2100-lower-state-road",
+  "name": "The Market at DelVal",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2100 Lower State Road, PA",
+  "locationCity": "2100 Lower State Road",
+  "locationState": "PA",
+  "locationZipcode": "18901",
+  "lat": 40.293591981890415,
+  "lon": -75.15098901239736,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.449Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.449Z"
+}

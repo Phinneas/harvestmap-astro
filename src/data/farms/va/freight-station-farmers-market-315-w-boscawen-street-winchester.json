@@ -1,0 +1,19 @@
+{
+  "slug": "freight-station-farmers-market-315-w-boscawen-street-winchester",
+  "name": "Freight Station Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "315 W. Boscawen Street Winchester, VA",
+  "locationCity": "315 W. Boscawen Street Winchester",
+  "locationState": "VA",
+  "locationZipcode": "22601",
+  "lat": 39.1852350804109,
+  "lon": -78.1707244922415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

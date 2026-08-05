@@ -1,0 +1,20 @@
+{
+  "slug": "felzke-farms-5563-west-herbison-road",
+  "name": "Felzke Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5563 West Herbison Road, MI",
+  "locationCity": "5563 West Herbison Road",
+  "locationState": "MI",
+  "locationZipcode": "48820",
+  "lat": 42.8273859912657,
+  "lon": -84.6329690351304,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.601Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.601Z",
+  "crops": []
+}

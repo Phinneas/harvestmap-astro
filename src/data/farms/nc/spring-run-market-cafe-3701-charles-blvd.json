@@ -1,0 +1,19 @@
+{
+  "slug": "spring-run-market-cafe-3701-charles-blvd",
+  "name": "Spring Run Market & Cafe",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3701 Charles Blvd, NC",
+  "locationCity": "3701 Charles Blvd",
+  "locationState": "NC",
+  "locationZipcode": "27858",
+  "lat": 35.566894627466546,
+  "lon": -77.35063814744818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

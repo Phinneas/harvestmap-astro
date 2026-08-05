@@ -1,0 +1,19 @@
+{
+  "slug": "eldora-farmers-market-corner-of-edgington-ave-and-14th-street",
+  "name": "Eldora Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Edgington Ave. and 14th Street, IA",
+  "locationCity": "Corner of Edgington Ave. and 14th Street",
+  "locationState": "IA",
+  "locationZipcode": "50627",
+  "lat": 42.36051,
+  "lon": -93.100656,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.554Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.554Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "greenfield-berry-farm-485-major-road",
+  "name": "Greenfield Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "485 Major Road, OH",
+  "locationCity": "485 Major Road",
+  "locationState": "OH",
+  "locationZipcode": "44264",
+  "lat": 41.2327612886937,
+  "lon": -81.588306547262,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.800Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.800Z"
+}

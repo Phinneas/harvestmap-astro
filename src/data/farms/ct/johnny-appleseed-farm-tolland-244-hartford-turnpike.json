@@ -1,0 +1,19 @@
+{
+  "slug": "johnny-appleseed-farm-tolland-244-hartford-turnpike",
+  "name": "Johnny Appleseed Farm Tolland",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "244 Hartford Turnpike, CT",
+  "locationCity": "244 Hartford Turnpike",
+  "locationState": "CT",
+  "locationZipcode": "06084",
+  "lat": 41.86318000399655,
+  "lon": -72.42488396932599,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

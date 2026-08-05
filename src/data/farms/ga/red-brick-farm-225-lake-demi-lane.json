@@ -1,0 +1,19 @@
+{
+  "slug": "red-brick-farm-225-lake-demi-lane",
+  "name": "Red Brick Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "225 Lake Demi Lane, GA",
+  "locationCity": "225 Lake Demi Lane",
+  "locationState": "GA",
+  "locationZipcode": "31533",
+  "lat": 31.5631559870966,
+  "lon": -82.8116070399115,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.312Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.312Z"
+}

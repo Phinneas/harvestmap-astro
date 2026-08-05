@@ -1,0 +1,19 @@
+{
+  "slug": "fowlerville-farmers-market-213-s-grand-ave-fowlerville",
+  "name": "Fowlerville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "213 S Grand Ave Fowlerville, MI",
+  "locationCity": "213 S Grand Ave Fowlerville",
+  "locationState": "MI",
+  "locationZipcode": "48836",
+  "lat": 42.65925669033317,
+  "lon": -84.07310598513503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

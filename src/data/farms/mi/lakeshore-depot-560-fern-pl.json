@@ -1,0 +1,19 @@
+{
+  "slug": "lakeshore-depot-560-fern-pl",
+  "name": "Lakeshore Depot",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "560 Fern Pl, MI",
+  "locationCity": "560 Fern Pl",
+  "locationState": "MI",
+  "locationZipcode": "49855",
+  "lat": 46.5478707814533,
+  "lon": -87.3809779127851,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.245Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "moores-produce-1-dahl-road",
+  "name": "Moores Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1 Dahl Road, PA",
+  "locationCity": "1 Dahl Road",
+  "locationState": "PA",
+  "locationZipcode": "17815",
+  "lat": 41.023053702054746,
+  "lon": -76.50329771811963,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

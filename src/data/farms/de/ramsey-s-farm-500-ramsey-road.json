@@ -1,0 +1,19 @@
+{
+  "slug": "ramsey-s-farm-500-ramsey-road",
+  "name": "Ramsey's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 Ramsey Road, DE",
+  "locationCity": "500 Ramsey Road",
+  "locationState": "DE",
+  "locationZipcode": "19803",
+  "lat": 39.8289026783218,
+  "lon": -75.5692502044396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.130Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.130Z"
+}

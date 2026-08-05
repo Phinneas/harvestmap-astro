@@ -1,0 +1,19 @@
+{
+  "slug": "krochmal-farms-1039-main-street",
+  "name": "Krochmal Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1039 Main Street, MA",
+  "locationCity": "1039 Main Street",
+  "locationState": "MA",
+  "locationZipcode": "01876",
+  "lat": 42.61159,
+  "lon": -71.23265,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.647Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.647Z"
+}

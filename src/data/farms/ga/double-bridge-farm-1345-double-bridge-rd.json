@@ -1,0 +1,19 @@
+{
+  "slug": "double-bridge-farm-1345-double-bridge-rd",
+  "name": "Double Bridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1345 Double Bridge Rd, GA",
+  "locationCity": "1345 Double Bridge Rd",
+  "locationState": "GA",
+  "locationZipcode": "30680",
+  "lat": 34.0299420030927,
+  "lon": -83.5880059672464,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.340Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.340Z"
+}

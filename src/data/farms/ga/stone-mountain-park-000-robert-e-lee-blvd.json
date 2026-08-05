@@ -1,0 +1,19 @@
+{
+  "slug": "stone-mountain-park-000-robert-e-lee-blvd",
+  "name": "Stone Mountain Park",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 Robert E. Lee Blvd, GA",
+  "locationCity": "000 Robert E. Lee Blvd",
+  "locationState": "GA",
+  "locationZipcode": "30083",
+  "lat": 33.8128633065678,
+  "lon": -84.155569023067,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.317Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.317Z"
+}

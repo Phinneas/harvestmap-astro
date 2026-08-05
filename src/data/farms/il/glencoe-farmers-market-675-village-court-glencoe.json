@@ -1,0 +1,19 @@
+{
+  "slug": "glencoe-farmers-market-675-village-court-glencoe",
+  "name": "Glencoe Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "675 Village Court Glencoe, IL",
+  "locationCity": "675 Village Court Glencoe",
+  "locationState": "IL",
+  "locationZipcode": "60022",
+  "lat": 42.13441513033563,
+  "lon": -87.75871177261105,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "northfield-farmers-market-61-depot-square",
+  "name": "Northfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "61 Depot Square, VT",
+  "locationCity": "61 Depot Square",
+  "locationState": "VT",
+  "locationZipcode": "05663",
+  "lat": 44.14878529259245,
+  "lon": -72.65707017241168,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

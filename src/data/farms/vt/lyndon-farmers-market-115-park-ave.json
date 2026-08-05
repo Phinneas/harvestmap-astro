@@ -1,0 +1,19 @@
+{
+  "slug": "lyndon-farmers-market-115-park-ave",
+  "name": "Lyndon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 Park Ave, VT",
+  "locationCity": "115 Park Ave",
+  "locationState": "VT",
+  "locationZipcode": "05851",
+  "lat": 44.53563821285494,
+  "lon": -72.00653747184099,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

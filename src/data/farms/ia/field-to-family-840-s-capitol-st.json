@@ -1,0 +1,19 @@
+{
+  "slug": "field-to-family-840-s-capitol-st",
+  "name": "Field to Family",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "840 S. Capitol St., IA",
+  "locationCity": "840 S. Capitol St.",
+  "locationState": "IA",
+  "locationZipcode": "52240",
+  "lat": 41.6518391,
+  "lon": -91.535957,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:37.777Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:37.777Z"
+}

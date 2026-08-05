@@ -1,0 +1,19 @@
+{
+  "slug": "canby-farmers-market-hwy-75-an-3rd-st-w",
+  "name": "Canby Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hwy 75 an 3rd St W, MN",
+  "locationCity": "Hwy 75 an 3rd St W",
+  "locationState": "MN",
+  "locationZipcode": "56220",
+  "lat": 44.710419,
+  "lon": -96.274319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

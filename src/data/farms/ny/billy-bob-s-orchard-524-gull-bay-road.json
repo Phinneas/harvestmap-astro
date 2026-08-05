@@ -1,0 +1,19 @@
+{
+  "slug": "billy-bob-s-orchard-524-gull-bay-road",
+  "name": "Billy Bob's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "524 Gull Bay Road, NY",
+  "locationCity": "524 Gull Bay Road",
+  "locationState": "NY",
+  "locationZipcode": "12861",
+  "lat": 43.7272778000001,
+  "lon": -73.4631626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.260Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.260Z"
+}

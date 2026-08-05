@@ -1,0 +1,19 @@
+{
+  "slug": "fredericksburg-farmers-market-mary-washington-healthcare-1001-sam-perry-blvd",
+  "name": "Fredericksburg Farmers Market - Mary Washington Healthcare",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1001 Sam Perry Blvd, VA",
+  "locationCity": "1001 Sam Perry Blvd",
+  "locationState": "VA",
+  "locationZipcode": "22401",
+  "lat": 38.3078125317114,
+  "lon": -77.48476243818286,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

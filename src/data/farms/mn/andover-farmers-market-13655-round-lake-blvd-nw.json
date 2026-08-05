@@ -1,0 +1,19 @@
+{
+  "slug": "andover-farmers-market-13655-round-lake-blvd-nw",
+  "name": "Andover Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13655 Round Lake Blvd NW, MN",
+  "locationCity": "13655 Round Lake Blvd NW",
+  "locationState": "MN",
+  "locationZipcode": "13655",
+  "lat": 45.2189137,
+  "lon": -93.3563232,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

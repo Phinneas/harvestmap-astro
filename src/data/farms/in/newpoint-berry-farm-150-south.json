@@ -1,0 +1,19 @@
+{
+  "slug": "newpoint-berry-farm-150-south",
+  "name": "Newpoint Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "150 South, IN",
+  "locationCity": "150 South",
+  "locationState": "IN",
+  "locationZipcode": "47240",
+  "lat": 39.308745013228,
+  "lon": -85.334075002621,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.285Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.285Z"
+}

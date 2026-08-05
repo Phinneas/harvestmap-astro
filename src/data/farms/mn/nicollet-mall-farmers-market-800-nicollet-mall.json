@@ -1,0 +1,19 @@
+{
+  "slug": "nicollet-mall-farmers-market-800-nicollet-mall",
+  "name": "Nicollet Mall Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "800 Nicollet Mall, MN",
+  "locationCity": "800 Nicollet Mall",
+  "locationState": "MN",
+  "locationZipcode": "55402",
+  "lat": 44.9755906,
+  "lon": -93.2738748,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

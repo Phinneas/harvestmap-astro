@@ -1,0 +1,19 @@
+{
+  "slug": "euclid-farmers-market-291-east-222-street-euclid",
+  "name": "Euclid Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "291 East 222 Street Euclid, OH",
+  "locationCity": "291 East 222 Street Euclid",
+  "locationState": "OH",
+  "locationZipcode": "44123",
+  "lat": 41.60688090941197,
+  "lon": -81.52683690721805,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.935Z"
+}

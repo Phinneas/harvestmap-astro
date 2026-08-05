@@ -1,0 +1,19 @@
+{
+  "slug": "foster-caviness-food-hub-5929-triangle-drive",
+  "name": "Foster-Caviness Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5929 Triangle Drive, NC",
+  "locationCity": "5929 Triangle Drive",
+  "locationState": "NC",
+  "locationZipcode": "27617",
+  "lat": 35.8937728,
+  "lon": -78.745008,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.305Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.305Z"
+}

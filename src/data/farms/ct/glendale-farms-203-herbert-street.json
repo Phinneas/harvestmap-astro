@@ -1,0 +1,19 @@
+{
+  "slug": "glendale-farms-203-herbert-street",
+  "name": "Glendale Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "203 Herbert Street, CT",
+  "locationCity": "203 Herbert Street",
+  "locationState": "CT",
+  "locationZipcode": "06460",
+  "lat": 41.2639090052172,
+  "lon": -73.0781870209976,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.999Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.999Z"
+}

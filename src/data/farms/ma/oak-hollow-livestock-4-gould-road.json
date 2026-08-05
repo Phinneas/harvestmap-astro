@@ -1,0 +1,19 @@
+{
+  "slug": "oak-hollow-livestock-4-gould-road",
+  "name": "Oak Hollow Livestock",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4 Gould Road, MA",
+  "locationCity": "4 Gould Road",
+  "locationState": "MA",
+  "locationZipcode": "01370",
+  "lat": 42.583724,
+  "lon": -72.710127,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.431Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.431Z"
+}

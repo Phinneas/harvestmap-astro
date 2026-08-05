@@ -1,0 +1,20 @@
+{
+  "slug": "lakeview-farms-8265-mexico-road",
+  "name": "Lakeview Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8265 Mexico Road, MO",
+  "locationCity": "8265 Mexico Road",
+  "locationState": "MO",
+  "locationZipcode": "63376",
+  "lat": 38.79108600727798,
+  "lon": -90.68570501668644,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.897Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.897Z",
+  "crops": []
+}

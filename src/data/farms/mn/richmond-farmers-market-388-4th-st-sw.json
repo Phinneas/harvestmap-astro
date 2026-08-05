@@ -1,0 +1,19 @@
+{
+  "slug": "richmond-farmers-market-388-4th-st-sw",
+  "name": "Richmond Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "388 4th St SW, MN",
+  "locationCity": "388 4th St SW",
+  "locationState": "MN",
+  "locationZipcode": "56368",
+  "lat": 45.4493323,
+  "lon": -94.5206882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

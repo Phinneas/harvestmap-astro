@@ -1,0 +1,19 @@
+{
+  "slug": "garden-of-eden-organics-1542-siver-tree-lane",
+  "name": "Garden of Eden Organics",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1542 Siver Tree Lane, CA",
+  "locationCity": "1542 Siver Tree Lane",
+  "locationState": "CA",
+  "locationZipcode": "92026",
+  "lat": 33.1943188,
+  "lon": -117.1214657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.052Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.052Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "warmbier-farms-5300-garfield-road",
+  "name": "Warmbier Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5300 Garfield Road, MI",
+  "locationCity": "5300 Garfield Road",
+  "locationState": "MI",
+  "locationZipcode": "48611",
+  "lat": 43.5877020161542,
+  "lon": -84.0909609776414,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.542Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.542Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "plainview-farmers-market-215-1st-ave-sw",
+  "name": "Plainview Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 1st Ave SW, MN",
+  "locationCity": "215 1st Ave SW",
+  "locationState": "MN",
+  "locationZipcode": "55964",
+  "lat": 44.1636742,
+  "lon": -92.1686815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

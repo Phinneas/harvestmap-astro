@@ -1,0 +1,19 @@
+{
+  "slug": "swartz-creek-farmers-market-8083-miller-rd-swartz-creek",
+  "name": "Swartz Creek Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8083 Miller Rd. Swartz Creek, MI",
+  "locationCity": "8083 Miller Rd. Swartz Creek",
+  "locationState": "MI",
+  "locationZipcode": "48473",
+  "lat": 42.957153945300824,
+  "lon": -83.8340402263146,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.249Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.249Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "may-s-farm-6361-ny-25a",
+  "name": "May's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6361 NY-25A, NY",
+  "locationCity": "6361 NY-25A",
+  "locationState": "NY",
+  "locationZipcode": "11792",
+  "lat": 40.9435398834495,
+  "lon": -72.8442082055119,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.263Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.263Z",
+  "crops": []
+}

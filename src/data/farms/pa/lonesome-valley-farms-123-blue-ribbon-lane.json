@@ -1,0 +1,19 @@
+{
+  "slug": "lonesome-valley-farms-123-blue-ribbon-lane",
+  "name": "Lonesome Valley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "123 Blue Ribbon Lane, PA",
+  "locationCity": "123 Blue Ribbon Lane",
+  "locationState": "PA",
+  "locationZipcode": "15601",
+  "lat": 40.2317304556698,
+  "lon": -79.490492713237,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.140Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.140Z"
+}

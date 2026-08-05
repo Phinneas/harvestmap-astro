@@ -1,0 +1,19 @@
+{
+  "slug": "lavender-fields-herb-farm-11300-winfrey-rd",
+  "name": "Lavender Fields Herb Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11300 Winfrey Rd, VA",
+  "locationCity": "11300 Winfrey Rd",
+  "locationState": "VA",
+  "locationZipcode": "11300",
+  "lat": 37.6806899894405,
+  "lon": -77.4769150081449,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.261Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.261Z"
+}

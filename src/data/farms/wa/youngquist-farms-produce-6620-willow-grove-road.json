@@ -1,0 +1,19 @@
+{
+  "slug": "youngquist-farms-produce-6620-willow-grove-road",
+  "name": "Youngquist Farms Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6620 Willow Grove Road, WA",
+  "locationCity": "6620 Willow Grove Road",
+  "locationState": "WA",
+  "locationZipcode": "98632",
+  "lat": 46.17266901124859,
+  "lon": -123.07005596490114,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.542Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.542Z"
+}

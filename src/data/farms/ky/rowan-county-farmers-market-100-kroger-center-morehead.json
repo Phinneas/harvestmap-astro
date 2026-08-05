@@ -1,0 +1,19 @@
+{
+  "slug": "rowan-county-farmers-market-100-kroger-center-morehead",
+  "name": "Rowan County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Kroger Center Morehead, KY",
+  "locationCity": "100 Kroger Center Morehead",
+  "locationState": "KY",
+  "locationZipcode": "40351",
+  "lat": 38.19414181920845,
+  "lon": -83.48116058224319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

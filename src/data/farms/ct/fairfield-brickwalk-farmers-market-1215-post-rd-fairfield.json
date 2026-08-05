@@ -1,0 +1,19 @@
+{
+  "slug": "fairfield-brickwalk-farmers-market-1215-post-rd-fairfield",
+  "name": "Fairfield Brickwalk Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1215 Post Rd. Fairfield, CT",
+  "locationCity": "1215 Post Rd. Fairfield",
+  "locationState": "CT",
+  "locationZipcode": "06824",
+  "lat": 41.143867586807325,
+  "lon": -73.25395185152873,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

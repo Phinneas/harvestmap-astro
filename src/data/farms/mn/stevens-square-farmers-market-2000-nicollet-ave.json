@@ -1,0 +1,19 @@
+{
+  "slug": "stevens-square-farmers-market-2000-nicollet-ave",
+  "name": "Stevens Square Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2000 Nicollet Ave, MN",
+  "locationCity": "2000 Nicollet Ave",
+  "locationState": "MN",
+  "locationZipcode": "55404",
+  "lat": 44.9625464,
+  "lon": -93.2780351,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

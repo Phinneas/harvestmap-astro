@@ -1,0 +1,19 @@
+{
+  "slug": "spring-park-market-400-s-main-st",
+  "name": "Spring Park Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 S MAIN ST, AL",
+  "locationCity": "400 S MAIN ST",
+  "locationState": "AL",
+  "locationZipcode": "35674",
+  "lat": 34.73108474980133,
+  "lon": -87.70358415488438,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

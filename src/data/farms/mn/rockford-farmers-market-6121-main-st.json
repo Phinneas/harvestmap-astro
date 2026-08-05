@@ -1,0 +1,19 @@
+{
+  "slug": "rockford-farmers-market-6121-main-st",
+  "name": "Rockford Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6121 Main St, MN",
+  "locationCity": "6121 Main St",
+  "locationState": "MN",
+  "locationZipcode": "55373",
+  "lat": 45.0891762,
+  "lon": -93.7340753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

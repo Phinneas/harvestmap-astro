@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-of-murray-calloway-county-3221-state-route-121-north-murray",
+  "name": "Farmers' Market of Murray - Calloway County",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3221 State Route 121 North Murray, KY",
+  "locationCity": "3221 State Route 121 North Murray",
+  "locationState": "KY",
+  "locationZipcode": "42071",
+  "lat": 36.63255124100337,
+  "lon": -88.3706227833639,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

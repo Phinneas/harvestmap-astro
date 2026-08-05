@@ -1,0 +1,19 @@
+{
+  "slug": "bonita-road-berry-farm-bonita-road",
+  "name": "Bonita Road Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bonita Road, OH",
+  "locationCity": "Bonita Road",
+  "locationState": "OH",
+  "locationZipcode": "44256",
+  "lat": 41.1185236099165,
+  "lon": -81.7756667889715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.787Z"
+}

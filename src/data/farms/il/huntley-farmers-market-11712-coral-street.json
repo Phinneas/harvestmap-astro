@@ -1,0 +1,19 @@
+{
+  "slug": "huntley-farmers-market-11712-coral-street",
+  "name": "Huntley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11712 Coral Street, IL",
+  "locationCity": "11712 Coral Street",
+  "locationState": "IL",
+  "locationZipcode": "11712",
+  "lat": 42.168577,
+  "lon": -88.424435,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.953Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.953Z"
+}

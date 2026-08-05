@@ -1,0 +1,19 @@
+{
+  "slug": "church-view-farm-64-box-2027",
+  "name": "Church View Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "64 Box 2027, WV",
+  "locationCity": "64 Box 2027",
+  "locationState": "WV",
+  "locationZipcode": "26757",
+  "lat": 39.3462250000001,
+  "lon": -78.75681,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.886Z"
+}

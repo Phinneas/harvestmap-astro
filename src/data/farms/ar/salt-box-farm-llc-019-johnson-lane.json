@@ -1,0 +1,20 @@
+{
+  "slug": "salt-box-farm-llc-019-johnson-lane",
+  "name": "Salt Box Farm LLC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "019 Johnson Lane, AR",
+  "locationCity": "019 Johnson Lane",
+  "locationState": "AR",
+  "locationZipcode": "72015",
+  "lat": 34.5492726904217,
+  "lon": -92.5877304303919,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.965Z",
+  "crops": []
+}

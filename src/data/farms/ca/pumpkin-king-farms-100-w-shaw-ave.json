@@ -1,0 +1,20 @@
+{
+  "slug": "pumpkin-king-farms-100-w-shaw-ave",
+  "name": "Pumpkin King Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 W. Shaw Ave, CA",
+  "locationCity": "100 W. Shaw Ave",
+  "locationState": "CA",
+  "locationZipcode": "93704",
+  "lat": 36.8097279811323,
+  "lon": -119.791678972445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.713Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.713Z",
+  "crops": []
+}

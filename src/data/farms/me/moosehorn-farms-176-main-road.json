@@ -1,0 +1,19 @@
+{
+  "slug": "moosehorn-farms-176-main-road",
+  "name": "Moosehorn Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "176 Main Road, ME",
+  "locationCity": "176 Main Road",
+  "locationState": "ME",
+  "locationZipcode": "04406",
+  "lat": 45.20831348237947,
+  "lon": -69.46410345151617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:00.121Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:00.121Z"
+}

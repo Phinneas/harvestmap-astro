@@ -1,0 +1,19 @@
+{
+  "slug": "green-hills-farmers-market-5933-s-salina-street-syracuse",
+  "name": "Green Hills Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5933 S. Salina Street Syracuse, NY",
+  "locationCity": "5933 S. Salina Street Syracuse",
+  "locationState": "NY",
+  "locationZipcode": "13205",
+  "lat": 42.98412453717874,
+  "lon": -76.14332074076009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

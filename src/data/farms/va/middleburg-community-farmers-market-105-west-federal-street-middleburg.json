@@ -1,0 +1,19 @@
+{
+  "slug": "middleburg-community-farmers-market-105-west-federal-street-middleburg",
+  "name": "Middleburg Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 West Federal Street Middleburg, VA",
+  "locationCity": "105 West Federal Street Middleburg",
+  "locationState": "VA",
+  "locationZipcode": "20117",
+  "lat": 38.96769841726629,
+  "lon": -77.73652011090296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

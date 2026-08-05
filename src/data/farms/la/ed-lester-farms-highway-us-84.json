@@ -1,0 +1,19 @@
+{
+  "slug": "ed-lester-farms-highway-us-84",
+  "name": "Ed Lester Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Highway US 84, LA",
+  "locationCity": "Highway US 84",
+  "locationState": "LA",
+  "locationZipcode": "71019",
+  "lat": 31.964497539859934,
+  "lon": -93.17318662474527,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

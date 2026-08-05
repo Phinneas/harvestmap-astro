@@ -1,0 +1,19 @@
+{
+  "slug": "long-beach-downtown-farmers-market-415-n-waite-court-long-beach",
+  "name": "Long Beach Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "415 N. Waite Court Long Beach, CA",
+  "locationCity": "415 N. Waite Court Long Beach",
+  "locationState": "CA",
+  "locationZipcode": "90802",
+  "lat": 33.771901952640206,
+  "lon": -118.19055425416754,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cheese-central-11-n-school-st",
+  "name": "Cheese Central",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "11 N. School St., CA",
+  "locationCity": "11 N. School St.",
+  "locationState": "CA",
+  "locationZipcode": "95240",
+  "lat": 38.13471698115333,
+  "lon": -121.27387102752638,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

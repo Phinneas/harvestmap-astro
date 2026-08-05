@@ -1,0 +1,19 @@
+{
+  "slug": "leland-farmers-market-river-street",
+  "name": "Leland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "River Street, MI",
+  "locationCity": "River Street",
+  "locationState": "MI",
+  "locationZipcode": "49654",
+  "lat": 45.022857,
+  "lon": -85.759459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.180Z"
+}

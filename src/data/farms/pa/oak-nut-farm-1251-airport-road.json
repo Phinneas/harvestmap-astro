@@ -1,0 +1,19 @@
+{
+  "slug": "oak-nut-farm-1251-airport-road",
+  "name": "Oak Nut Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1251 Airport Road, PA",
+  "locationCity": "1251 Airport Road",
+  "locationState": "PA",
+  "locationZipcode": "19507",
+  "lat": 40.479168533570686,
+  "lon": -76.31275339811702,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.596Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.596Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sullivan-fresh-monticello-farmers-market-10-jefferson-st",
+  "name": "Sullivan Fresh Monticello Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Jefferson St, NY",
+  "locationCity": "10 Jefferson St",
+  "locationState": "NY",
+  "locationZipcode": "12701",
+  "lat": 41.656849665104446,
+  "lon": -74.6929343219572,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shen-val-market-2180-fairfax-pike",
+  "name": "Shen-Val Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2180 Fairfax Pike, VA",
+  "locationCity": "2180 Fairfax Pike",
+  "locationState": "VA",
+  "locationZipcode": "22663",
+  "lat": 39.062002989958046,
+  "lon": -78.14330698835818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.405Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.405Z"
+}

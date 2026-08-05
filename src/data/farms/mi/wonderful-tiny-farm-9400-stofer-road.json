@@ -1,0 +1,19 @@
+{
+  "slug": "wonderful-tiny-farm-9400-stofer-road",
+  "name": "Wonderful Tiny Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9400 Stofer Road, MI",
+  "locationCity": "9400 Stofer Road",
+  "locationState": "MI",
+  "locationZipcode": "48118",
+  "lat": 42.374702744360405,
+  "lon": -84.01703586057621,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.110Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.110Z"
+}

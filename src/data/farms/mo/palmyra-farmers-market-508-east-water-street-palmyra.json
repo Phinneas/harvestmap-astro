@@ -1,0 +1,19 @@
+{
+  "slug": "palmyra-farmers-market-508-east-water-street-palmyra",
+  "name": "Palmyra Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "508 East Water Street Palmyra, MO",
+  "locationCity": "508 East Water Street Palmyra",
+  "locationState": "MO",
+  "locationZipcode": "63461",
+  "lat": 39.80053606467394,
+  "lon": -91.51832002328226,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

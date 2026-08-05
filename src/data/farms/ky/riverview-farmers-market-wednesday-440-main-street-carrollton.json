@@ -1,0 +1,19 @@
+{
+  "slug": "riverview-farmers-market-wednesday-440-main-street-carrollton",
+  "name": "Riverview Farmers' Market -Wednesday",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "440 Main Street Carrollton, KY",
+  "locationCity": "440 Main Street Carrollton",
+  "locationState": "KY",
+  "locationZipcode": "41008",
+  "lat": 38.682318389570014,
+  "lon": -85.18136699543442,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

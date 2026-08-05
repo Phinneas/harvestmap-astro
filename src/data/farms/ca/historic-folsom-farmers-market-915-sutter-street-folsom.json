@@ -1,0 +1,19 @@
+{
+  "slug": "historic-folsom-farmers-market-915-sutter-street-folsom",
+  "name": "Historic Folsom Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "915 Sutter Street Folsom, CA",
+  "locationCity": "915 Sutter Street Folsom",
+  "locationState": "CA",
+  "locationZipcode": "95630",
+  "lat": 38.67609265976986,
+  "lon": -121.17929917413308,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

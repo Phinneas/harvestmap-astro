@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-main-8420-main-street-woodstock",
+  "name": "Market on Main",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8420 Main Street Woodstock, GA",
+  "locationCity": "8420 Main Street Woodstock",
+  "locationState": "GA",
+  "locationZipcode": "30188",
+  "lat": 34.10323029993009,
+  "lon": -84.51864964799677,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

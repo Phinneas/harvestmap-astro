@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-s-market-at-long-meadow-ranch-738-main-street",
+  "name": "Farmer's Market at Long Meadow Ranch",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "738 Main Street, CA",
+  "locationCity": "738 Main Street",
+  "locationState": "CA",
+  "locationZipcode": "94574",
+  "lat": 38.501022,
+  "lon": -122.46333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.908Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.908Z"
+}

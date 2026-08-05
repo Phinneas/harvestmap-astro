@@ -1,0 +1,19 @@
+{
+  "slug": "alley-mill-produce-1734-alley-mill-road-clayton",
+  "name": "Alley Mill Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1734 Alley Mill Road Clayton, DE",
+  "locationCity": "1734 Alley Mill Road Clayton",
+  "locationState": "DE",
+  "locationZipcode": "19938",
+  "lat": 39.2964869827481,
+  "lon": -75.6661059966619,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.186Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.186Z"
+}

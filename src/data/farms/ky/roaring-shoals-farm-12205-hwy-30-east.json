@@ -1,0 +1,20 @@
+{
+  "slug": "roaring-shoals-farm-12205-hwy-30-east",
+  "name": "Roaring Shoals Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "12205 Hwy 30 East, KY",
+  "locationCity": "12205 Hwy 30 East",
+  "locationState": "KY",
+  "locationZipcode": "12205",
+  "lat": 37.5811203,
+  "lon": -83.2524198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.107Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.107Z",
+  "crops": []
+}

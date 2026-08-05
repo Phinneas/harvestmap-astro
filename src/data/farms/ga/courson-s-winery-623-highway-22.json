@@ -1,0 +1,19 @@
+{
+  "slug": "courson-s-winery-623-highway-22",
+  "name": "Courson's Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "623 Highway 22, GA",
+  "locationCity": "623 Highway 22",
+  "locationState": "GA",
+  "locationZipcode": "31087",
+  "lat": 33.1548308965262,
+  "lon": -83.088261075978,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.250Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.250Z"
+}

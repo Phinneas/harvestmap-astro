@@ -1,0 +1,19 @@
+{
+  "slug": "old-town-farmers-market-301-king-street-alexandria",
+  "name": "Old Town Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 King Street Alexandria, VA",
+  "locationCity": "301 King Street Alexandria",
+  "locationState": "VA",
+  "locationZipcode": "22314",
+  "lat": 38.804522936080666,
+  "lon": -77.04262805548994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

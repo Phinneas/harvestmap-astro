@@ -1,0 +1,19 @@
+{
+  "slug": "mcconnell-farms-177-old-dana-road",
+  "name": "McConnell Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "177 Old Dana Road, NC",
+  "locationCity": "177 Old Dana Road",
+  "locationState": "NC",
+  "locationZipcode": "28792",
+  "lat": 35.3307463626055,
+  "lon": -82.4083008721509,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.702Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.702Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "grandin-village-farmers-market-2080-westover-ave-sw",
+  "name": "Grandin Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2080 Westover Ave SW, VA",
+  "locationCity": "2080 Westover Ave SW",
+  "locationState": "VA",
+  "locationZipcode": "24015",
+  "lat": 37.265053,
+  "lon": -79.978064,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.101Z"
+}

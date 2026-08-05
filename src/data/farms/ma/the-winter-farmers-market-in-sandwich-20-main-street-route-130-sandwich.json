@@ -1,0 +1,19 @@
+{
+  "slug": "the-winter-farmers-market-in-sandwich-20-main-street-route-130-sandwich",
+  "name": "The Winter Farmers Market in Sandwich",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 Main Street (Route 130) Sandwich, MA",
+  "locationCity": "20 Main Street (Route 130) Sandwich",
+  "locationState": "MA",
+  "locationZipcode": "02563",
+  "lat": 41.76494063153056,
+  "lon": -70.5208657072512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.868Z"
+}

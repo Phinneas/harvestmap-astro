@@ -1,0 +1,19 @@
+{
+  "slug": "49er-farm-1930-highway-49",
+  "name": "49er Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1930 Highway 49, CA",
+  "locationCity": "1930 Highway 49",
+  "locationState": "CA",
+  "locationZipcode": "95614",
+  "lat": 38.915317990848365,
+  "lon": -121.04046786072627,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

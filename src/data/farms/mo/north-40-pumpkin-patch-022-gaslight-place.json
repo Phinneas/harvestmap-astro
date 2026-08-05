@@ -1,0 +1,19 @@
+{
+  "slug": "north-40-pumpkin-patch-022-gaslight-place",
+  "name": "North 40 Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "022 Gaslight Place, MO",
+  "locationCity": "022 Gaslight Place",
+  "locationState": "MO",
+  "locationZipcode": "63534",
+  "lat": 39.6421266617223,
+  "lon": -92.6293566476645,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.764Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.764Z"
+}

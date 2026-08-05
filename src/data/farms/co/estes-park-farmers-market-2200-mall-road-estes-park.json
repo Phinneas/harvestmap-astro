@@ -1,0 +1,19 @@
+{
+  "slug": "estes-park-farmers-market-2200-mall-road-estes-park",
+  "name": "Estes Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2200 Mall Road Estes Park, CO",
+  "locationCity": "2200 Mall Road Estes Park",
+  "locationState": "CO",
+  "locationZipcode": "80511",
+  "lat": 40.3732302963579,
+  "lon": -105.48318560985749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

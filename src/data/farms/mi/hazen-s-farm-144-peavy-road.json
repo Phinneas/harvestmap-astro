@@ -1,0 +1,19 @@
+{
+  "slug": "hazen-s-farm-144-peavy-road",
+  "name": "Hazen's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "144 Peavy Road, MI",
+  "locationCity": "144 Peavy Road",
+  "locationState": "MI",
+  "locationZipcode": "48843",
+  "lat": 42.5824346935831,
+  "lon": -83.942716097418,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.576Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.576Z"
+}

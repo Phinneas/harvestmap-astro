@@ -1,0 +1,19 @@
+{
+  "slug": "white-oak-farmers-market-3106-white-oak-dr-houston",
+  "name": "White Oak Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3106 White Oak Dr. Houston, TX",
+  "locationCity": "3106 White Oak Dr. Houston",
+  "locationState": "TX",
+  "locationZipcode": "77007",
+  "lat": 29.781581698970626,
+  "lon": -95.39128386717853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.201Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.201Z"
+}

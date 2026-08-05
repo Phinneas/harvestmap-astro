@@ -1,0 +1,19 @@
+{
+  "slug": "saugerties-farmers-market-115-main-street",
+  "name": "Saugerties Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 Main Street, NY",
+  "locationCity": "115 Main Street",
+  "locationState": "NY",
+  "locationZipcode": "12477",
+  "lat": 42.080345,
+  "lon": -73.946818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.838Z"
+}

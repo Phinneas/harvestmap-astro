@@ -1,0 +1,19 @@
+{
+  "slug": "norland-berries-farm-164-n-barnstead-road",
+  "name": "Norland Berries Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "164 N. Barnstead Road, NH",
+  "locationCity": "164 N. Barnstead Road",
+  "locationState": "NH",
+  "locationZipcode": "03225",
+  "lat": 43.3855530169725,
+  "lon": -71.232766029999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.587Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.587Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "griffin-organic-poultry-llc-hawthorne",
+  "name": "Griffin Organic Poultry, LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Hawthorne, FL",
+  "locationCity": "Hawthorne",
+  "locationState": "FL",
+  "locationZipcode": "23640",
+  "lat": 29.5919136,
+  "lon": -82.0873181,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.813Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "buttonwood-farm-473-shetucket-turnpike",
+  "name": "Buttonwood Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "473 Shetucket Turnpike, CT",
+  "locationCity": "473 Shetucket Turnpike",
+  "locationState": "CT",
+  "locationZipcode": "06351",
+  "lat": 41.5533201487638,
+  "lon": -71.8839254808192,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.996Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.996Z"
+}

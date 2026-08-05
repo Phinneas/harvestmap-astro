@@ -1,0 +1,19 @@
+{
+  "slug": "broadway-baptist-church-farmers-market-4000-brownsboro-road-louisville",
+  "name": "Broadway Baptist Church Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4000 Brownsboro Road Louisville, KY",
+  "locationCity": "4000 Brownsboro Road Louisville",
+  "locationState": "KY",
+  "locationZipcode": "40207",
+  "lat": 38.26644975544523,
+  "lon": -85.66348124510858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sunny-acres-739-county-road-39-nw",
+  "name": "Sunny Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "739 County Road 39 NW, MN",
+  "locationCity": "739 County Road 39 NW",
+  "locationState": "MN",
+  "locationZipcode": "55302",
+  "lat": 45.2895424943771,
+  "lon": -94.0614656493595,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.738Z"
+}

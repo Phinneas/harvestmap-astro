@@ -1,0 +1,19 @@
+{
+  "slug": "rosaly-s-farmstand-101-on-route-123",
+  "name": "Rosaly's Farmstand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 on Route 123, NH",
+  "locationCity": "101 on Route 123",
+  "locationState": "NH",
+  "locationZipcode": "03458",
+  "lat": 42.8568066799393,
+  "lon": -71.9328065882959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.723Z"
+}

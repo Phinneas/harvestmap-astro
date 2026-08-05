@@ -1,0 +1,19 @@
+{
+  "slug": "montgomery-state-farmers-market-1655-feder-dr",
+  "name": "Montgomery State Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1655 FEDER DR, AL",
+  "locationCity": "1655 FEDER DR",
+  "locationState": "AL",
+  "locationZipcode": "36107",
+  "lat": 32.40463181797426,
+  "lon": -86.26667727018108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

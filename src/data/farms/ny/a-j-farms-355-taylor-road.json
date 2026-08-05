@@ -1,0 +1,19 @@
+{
+  "slug": "a-j-farms-355-taylor-road",
+  "name": "A&J Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "355 Taylor Road, NY",
+  "locationCity": "355 Taylor Road",
+  "locationState": "NY",
+  "locationZipcode": "14432",
+  "lat": 42.9375926839258,
+  "lon": -77.17123033099,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.824Z"
+}

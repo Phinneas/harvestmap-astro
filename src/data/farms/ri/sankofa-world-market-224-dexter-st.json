@@ -1,0 +1,19 @@
+{
+  "slug": "sankofa-world-market-224-dexter-st",
+  "name": "Sankofa World Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "224 Dexter St, RI",
+  "locationCity": "224 Dexter St",
+  "locationState": "RI",
+  "locationZipcode": "02907",
+  "lat": 41.811066,
+  "lon": -71.42853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.507Z"
+}

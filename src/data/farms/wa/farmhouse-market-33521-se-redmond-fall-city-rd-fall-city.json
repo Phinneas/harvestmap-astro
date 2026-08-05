@@ -1,0 +1,19 @@
+{
+  "slug": "farmhouse-market-33521-se-redmond-fall-city-rd-fall-city",
+  "name": "Farmhouse Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "33521 SE Redmond Fall City Rd Fall City, WA",
+  "locationCity": "33521 SE Redmond Fall City Rd Fall City",
+  "locationState": "WA",
+  "locationZipcode": "33521",
+  "lat": 47.56853785734153,
+  "lon": -121.89245916983643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.816Z"
+}

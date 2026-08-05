@@ -1,0 +1,19 @@
+{
+  "slug": "dc-central-kitchen-2625-evarts-st-ne",
+  "name": "DC Central Kitchen",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2625 Evarts St. NE, DC",
+  "locationCity": "2625 Evarts St. NE",
+  "locationState": "DC",
+  "locationZipcode": "20018",
+  "lat": 38.9241885,
+  "lon": -76.968655,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:01.873Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:01.873Z"
+}

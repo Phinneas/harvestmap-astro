@@ -1,0 +1,19 @@
+{
+  "slug": "howards-farm-29820-120th-street",
+  "name": "Howards Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "29820 120th Street, IA",
+  "locationCity": "29820 120th Street",
+  "locationState": "IA",
+  "locationZipcode": "29820",
+  "lat": 42.52706898028359,
+  "lon": -92.63706496573847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.752Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.752Z"
+}

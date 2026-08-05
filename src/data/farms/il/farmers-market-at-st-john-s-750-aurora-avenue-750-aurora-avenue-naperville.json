@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-st-john-s-750-aurora-avenue-750-aurora-avenue-naperville",
+  "name": "Farmers Market at St. John's",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "750 Aurora Avenue 750 Aurora Avenue Naperville, IL",
+  "locationCity": "750 Aurora Avenue 750 Aurora Avenue Naperville",
+  "locationState": "IL",
+  "locationZipcode": "60540",
+  "lat": 41.76809995783808,
+  "lon": -88.1607088180063,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

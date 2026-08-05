@@ -1,0 +1,19 @@
+{
+  "slug": "evart-farmers-market-200-s-main-st",
+  "name": "Evart Farmers\\' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 S Main St, MI",
+  "locationCity": "200 S Main St",
+  "locationState": "MI",
+  "locationZipcode": "49631",
+  "lat": 43.9005752,
+  "lon": -85.2580971,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.280Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.280Z"
+}

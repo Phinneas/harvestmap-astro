@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-3rd-avenue-3rd-street-cedar-rapids",
+  "name": "Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3rd Avenue & 3rd Street Cedar Rapids, IA",
+  "locationCity": "3rd Avenue & 3rd Street Cedar Rapids",
+  "locationState": "IA",
+  "locationZipcode": "52403",
+  "lat": 41.97370998187628,
+  "lon": -91.67444001495579,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

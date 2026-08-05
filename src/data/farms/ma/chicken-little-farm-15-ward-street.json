@@ -1,0 +1,19 @@
+{
+  "slug": "chicken-little-farm-15-ward-street",
+  "name": "Chicken Little Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "15 Ward Street, MA",
+  "locationCity": "15 Ward Street",
+  "locationState": "MA",
+  "locationZipcode": "01938",
+  "lat": 42.673694,
+  "lon": -70.833784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.677Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.677Z"
+}

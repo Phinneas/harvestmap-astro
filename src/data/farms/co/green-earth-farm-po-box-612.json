@@ -1,0 +1,19 @@
+{
+  "slug": "green-earth-farm-po-box-612",
+  "name": "Green Earth Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 612, CO",
+  "locationCity": "PO Box 612",
+  "locationState": "CO",
+  "locationZipcode": "81149",
+  "lat": 38.0875,
+  "lon": -106.1419671,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.574Z"
+}

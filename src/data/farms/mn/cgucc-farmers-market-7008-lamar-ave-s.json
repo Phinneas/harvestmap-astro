@@ -1,0 +1,19 @@
+{
+  "slug": "cgucc-farmers-market-7008-lamar-ave-s",
+  "name": "Cgucc Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7008 Lamar Ave S, MN",
+  "locationCity": "7008 Lamar Ave S",
+  "locationState": "MN",
+  "locationZipcode": "55016",
+  "lat": 44.8477162,
+  "lon": -92.8811745,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

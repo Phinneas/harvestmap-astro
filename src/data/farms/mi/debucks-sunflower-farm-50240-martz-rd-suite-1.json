@@ -1,0 +1,19 @@
+{
+  "slug": "debucks-sunflower-farm-50240-martz-rd-suite-1",
+  "name": "DeBucks Sunflower Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "50240 Martz Rd Suite 1, MI",
+  "locationCity": "50240 Martz Rd Suite 1",
+  "locationState": "MI",
+  "locationZipcode": "50240",
+  "lat": 42.1855679909631,
+  "lon": -83.5299199649738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.651Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.651Z"
+}

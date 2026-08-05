@@ -1,0 +1,19 @@
+{
+  "slug": "delavan-fresh-market-104-walworth-ave-delavan",
+  "name": "Delavan Fresh Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "104 Walworth Ave Delavan, WI",
+  "locationCity": "104 Walworth Ave Delavan",
+  "locationState": "WI",
+  "locationZipcode": "53115",
+  "lat": 42.63302054995332,
+  "lon": -88.65062302038586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.857Z"
+}

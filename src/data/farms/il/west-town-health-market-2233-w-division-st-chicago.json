@@ -1,0 +1,19 @@
+{
+  "slug": "west-town-health-market-2233-w-division-st-chicago",
+  "name": "West Town Health Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2233 W Division St Chicago, IL",
+  "locationCity": "2233 W Division St Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60622",
+  "lat": 41.90307219562441,
+  "lon": -87.68377118595163,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

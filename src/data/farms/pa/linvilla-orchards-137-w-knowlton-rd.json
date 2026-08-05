@@ -1,0 +1,20 @@
+{
+  "slug": "linvilla-orchards-137-w-knowlton-rd",
+  "name": "Linvilla Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "137 W. Knowlton Rd., PA",
+  "locationCity": "137 W. Knowlton Rd.",
+  "locationState": "PA",
+  "locationZipcode": "19063",
+  "lat": 39.884061999565,
+  "lon": -75.4131989997873,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.100Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.100Z",
+  "crops": []
+}

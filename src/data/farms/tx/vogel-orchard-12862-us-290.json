@@ -1,0 +1,19 @@
+{
+  "slug": "vogel-orchard-12862-us-290",
+  "name": "Vogel Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "12862 US-290, TX",
+  "locationCity": "12862 US-290",
+  "locationState": "TX",
+  "locationZipcode": "12862",
+  "lat": 30.22542900881983,
+  "lon": -98.68560798405,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.352Z"
+}

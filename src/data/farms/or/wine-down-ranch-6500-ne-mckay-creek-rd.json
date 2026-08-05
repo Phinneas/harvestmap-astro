@@ -1,0 +1,19 @@
+{
+  "slug": "wine-down-ranch-6500-ne-mckay-creek-rd",
+  "name": "Wine Down Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6500 NE McKay Creek Rd, OR",
+  "locationCity": "6500 NE McKay Creek Rd",
+  "locationState": "OR",
+  "locationZipcode": "97754",
+  "lat": 44.43653600962671,
+  "lon": -120.764996968566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.060Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.060Z"
+}

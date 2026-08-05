@@ -1,0 +1,19 @@
+{
+  "slug": "center-square-farm-4418-highway-36-e",
+  "name": "Center Square Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4418 HIGHWAY 36 E, AL",
+  "locationCity": "4418 HIGHWAY 36 E",
+  "locationState": "AL",
+  "locationZipcode": "35670",
+  "lat": 34.45148782080574,
+  "lon": -86.74629409180316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:46.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:46.351Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "4b-pumpkin-farm-coal-port",
+  "name": "4B Pumpkin Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Coal Port, KY",
+  "locationCity": "Coal Port",
+  "locationState": "KY",
+  "locationZipcode": "40903",
+  "lat": 36.80700152266719,
+  "lon": -83.81187813541543,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:19.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:19.406Z"
+}

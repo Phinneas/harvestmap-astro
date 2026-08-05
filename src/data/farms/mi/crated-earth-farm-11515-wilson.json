@@ -1,0 +1,19 @@
+{
+  "slug": "crated-earth-farm-11515-wilson",
+  "name": "Crated Earth Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "11515 Wilson, MI",
+  "locationCity": "11515 Wilson",
+  "locationState": "MI",
+  "locationZipcode": "11515",
+  "lat": 42.2171623,
+  "lon": -83.4783161,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.096Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.096Z"
+}

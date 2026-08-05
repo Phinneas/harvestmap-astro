@@ -1,0 +1,19 @@
+{
+  "slug": "the-food-basket-inc-40-holomua-st",
+  "name": "The Food Basket Inc.",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "40 Holomua St., HI",
+  "locationCity": "40 Holomua St.",
+  "locationState": "HI",
+  "locationZipcode": "96720",
+  "lat": 19.7045486,
+  "lon": -155.06652,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:17.659Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:17.659Z"
+}

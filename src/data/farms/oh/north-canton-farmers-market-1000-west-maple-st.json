@@ -1,0 +1,19 @@
+{
+  "slug": "north-canton-farmers-market-1000-west-maple-st",
+  "name": "North Canton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 West Maple St, OH",
+  "locationCity": "1000 West Maple St",
+  "locationState": "OH",
+  "locationZipcode": "44720",
+  "lat": 40.875871,
+  "lon": -81.417769,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.878Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.878Z"
+}

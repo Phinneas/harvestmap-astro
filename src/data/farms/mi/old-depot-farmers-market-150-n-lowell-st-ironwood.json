@@ -1,0 +1,19 @@
+{
+  "slug": "old-depot-farmers-market-150-n-lowell-st-ironwood",
+  "name": "Old Depot Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 N. Lowell St. Ironwood, MI",
+  "locationCity": "150 N. Lowell St. Ironwood",
+  "locationState": "MI",
+  "locationZipcode": "49938",
+  "lat": 46.45487357192278,
+  "lon": -90.1711950320077,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

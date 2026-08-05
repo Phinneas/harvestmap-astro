@@ -1,0 +1,19 @@
+{
+  "slug": "twin-brook-farm-rr-r-1",
+  "name": "Twin Brook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "RR. R. 1, IL",
+  "locationCity": "RR. R. 1",
+  "locationState": "IL",
+  "locationZipcode": "61480",
+  "lat": 40.7434850000001,
+  "lon": -90.90881,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.901Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.901Z"
+}

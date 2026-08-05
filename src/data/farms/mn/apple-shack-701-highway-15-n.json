@@ -1,0 +1,19 @@
+{
+  "slug": "apple-shack-701-highway-15-n",
+  "name": "Apple Shack",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "701 Highway 15 N, MN",
+  "locationCity": "701 Highway 15 N",
+  "locationState": "MN",
+  "locationZipcode": "55350",
+  "lat": 44.8809774383121,
+  "lon": -94.3698324772732,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.670Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.670Z"
+}

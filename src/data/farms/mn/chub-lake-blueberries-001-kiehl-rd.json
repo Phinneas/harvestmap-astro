@@ -1,0 +1,19 @@
+{
+  "slug": "chub-lake-blueberries-001-kiehl-rd",
+  "name": "Chub Lake Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "001 Kiehl Rd, MN",
+  "locationCity": "001 Kiehl Rd",
+  "locationState": "MN",
+  "locationZipcode": "55718",
+  "lat": 46.622275973941,
+  "lon": -92.4802227318761,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.679Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.679Z"
+}

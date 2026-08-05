@@ -1,0 +1,19 @@
+{
+  "slug": "johnson-family-farms-3120-n-3200-w",
+  "name": "Johnson Family Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3120 N 3200 W, UT",
+  "locationCity": "3120 N 3200 W",
+  "locationState": "UT",
+  "locationZipcode": "84335",
+  "lat": 41.7892251,
+  "lon": -111.911401,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:20.012Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:20.012Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "hungry-world-farm-19183-plow-crk-rd",
+  "name": "Hungry World Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "19183 Plow Crk Rd, IL",
+  "locationCity": "19183 Plow Crk Rd",
+  "locationState": "IL",
+  "locationZipcode": "19183",
+  "lat": 41.285016,
+  "lon": -89.48812799999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.946Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.946Z",
+  "crops": []
+}

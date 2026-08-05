@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-browns-marketplace-farmers-market-4280-ny-434",
+  "name": "Farmer Browns Marketplace Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4280 NY-434, NY",
+  "locationCity": "4280 NY-434",
+  "locationState": "NY",
+  "locationZipcode": "13732",
+  "lat": 42.08443825162797,
+  "lon": -76.19123572463636,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "creeksong-farm-2901-w-brushy-fork-rd",
+  "name": "Creeksong Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2901 W Brushy Fork Rd, NC",
+  "locationCity": "2901 W Brushy Fork Rd",
+  "locationState": "NC",
+  "locationZipcode": "28698",
+  "lat": 36.403858711199774,
+  "lon": -81.73104921436452,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.903Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.903Z"
+}

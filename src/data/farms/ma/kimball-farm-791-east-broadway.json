@@ -1,0 +1,19 @@
+{
+  "slug": "kimball-farm-791-east-broadway",
+  "name": "Kimball Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "791 East Broadway, MA",
+  "locationCity": "791 East Broadway",
+  "locationState": "MA",
+  "locationZipcode": "01830",
+  "lat": 42.8069564014706,
+  "lon": -71.0078897099047,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.620Z"
+}

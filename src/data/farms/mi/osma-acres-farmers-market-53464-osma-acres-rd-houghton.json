@@ -1,0 +1,19 @@
+{
+  "slug": "osma-acres-farmers-market-53464-osma-acres-rd-houghton",
+  "name": "Osma Acres Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "53464 Osma Acres Rd Houghton, MI",
+  "locationCity": "53464 Osma Acres Rd Houghton",
+  "locationState": "MI",
+  "locationZipcode": "53464",
+  "lat": 47.19143941964445,
+  "lon": -88.64462036629509,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

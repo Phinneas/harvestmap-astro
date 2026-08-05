@@ -1,0 +1,19 @@
+{
+  "slug": "hydro-berry-farms-131-mcdowell-road",
+  "name": "Hydro-berry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "131 McDowell Road, NY",
+  "locationCity": "131 McDowell Road",
+  "locationState": "NY",
+  "locationZipcode": "14859",
+  "lat": 42.1090450007665,
+  "lon": -76.6222708532101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.262Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.262Z"
+}

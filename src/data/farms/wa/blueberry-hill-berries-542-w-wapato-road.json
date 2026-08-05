@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-berries-542-w-wapato-road",
+  "name": "Blueberry Hill Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "542 W. Wapato Road, WA",
+  "locationCity": "542 W. Wapato Road",
+  "locationState": "WA",
+  "locationZipcode": "98951",
+  "lat": 46.4479019042081,
+  "lon": -120.441657742607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.127Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.127Z"
+}

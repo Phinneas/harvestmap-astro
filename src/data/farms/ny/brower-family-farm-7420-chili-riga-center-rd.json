@@ -1,0 +1,19 @@
+{
+  "slug": "brower-family-farm-7420-chili-riga-center-rd",
+  "name": "Brower Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7420 CHILI RIGA CENTER RD, NY",
+  "locationCity": "7420 CHILI RIGA CENTER RD",
+  "locationState": "NY",
+  "locationZipcode": "14428",
+  "lat": 43.06935493977244,
+  "lon": -77.900257277256,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.181Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.181Z"
+}

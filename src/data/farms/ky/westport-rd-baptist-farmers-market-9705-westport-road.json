@@ -1,0 +1,19 @@
+{
+  "slug": "westport-rd-baptist-farmers-market-9705-westport-road",
+  "name": "Westport Rd Baptist Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9705 Westport Road, KY",
+  "locationCity": "9705 Westport Road",
+  "locationState": "KY",
+  "locationZipcode": "40241",
+  "lat": 38.288727,
+  "lon": -85.571695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.722Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.722Z"
+}

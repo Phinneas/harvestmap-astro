@@ -1,0 +1,19 @@
+{
+  "slug": "ambridge-farmers-market-624-park-road-ambridge",
+  "name": "Ambridge Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "624 Park Road Ambridge, PA",
+  "locationCity": "624 Park Road Ambridge",
+  "locationState": "PA",
+  "locationZipcode": "15003",
+  "lat": 40.586104786518426,
+  "lon": -80.22952925245691,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

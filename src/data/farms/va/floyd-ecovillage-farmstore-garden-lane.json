@@ -1,0 +1,19 @@
+{
+  "slug": "floyd-ecovillage-farmstore-garden-lane",
+  "name": "Floyd Ecovillage Farmstore",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Garden Lane, VA",
+  "locationCity": "Garden Lane",
+  "locationState": "VA",
+  "locationZipcode": "24091",
+  "lat": 36.910407,
+  "lon": -80.283322,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.276Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.276Z"
+}

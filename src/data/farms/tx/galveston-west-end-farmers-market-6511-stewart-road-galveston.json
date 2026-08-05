@@ -1,0 +1,19 @@
+{
+  "slug": "galveston-west-end-farmers-market-6511-stewart-road-galveston",
+  "name": "Galveston West End Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6511 Stewart Road Galveston, TX",
+  "locationCity": "6511 Stewart Road Galveston",
+  "locationState": "TX",
+  "locationZipcode": "77551",
+  "lat": 29.273948484179574,
+  "lon": -94.83483589000262,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

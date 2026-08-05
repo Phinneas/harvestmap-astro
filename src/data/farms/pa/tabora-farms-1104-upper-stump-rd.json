@@ -1,0 +1,19 @@
+{
+  "slug": "tabora-farms-1104-upper-stump-rd",
+  "name": "Tabora Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1104 Upper Stump Rd, PA",
+  "locationCity": "1104 Upper Stump Rd",
+  "locationState": "PA",
+  "locationZipcode": "18914",
+  "lat": 40.33687101692746,
+  "lon": -75.20838903971406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.216Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.216Z"
+}

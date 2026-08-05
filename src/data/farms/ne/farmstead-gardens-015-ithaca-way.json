@@ -1,0 +1,19 @@
+{
+  "slug": "farmstead-gardens-015-ithaca-way",
+  "name": "Farmstead Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "015 Ithaca Way, NE",
+  "locationCity": "015 Ithaca Way",
+  "locationState": "NE",
+  "locationZipcode": "68731",
+  "lat": 42.4440281453956,
+  "lon": -96.5248444594608,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.681Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.681Z"
+}

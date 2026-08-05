@@ -1,0 +1,19 @@
+{
+  "slug": "greenville-state-farmers-market-1354-rutherford-rd-greenville",
+  "name": "Greenville State Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1354 Rutherford Rd. Greenville, SC",
+  "locationCity": "1354 Rutherford Rd. Greenville",
+  "locationState": "SC",
+  "locationZipcode": "29609",
+  "lat": 34.88289628030338,
+  "lon": -82.38036301784139,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.194Z"
+}

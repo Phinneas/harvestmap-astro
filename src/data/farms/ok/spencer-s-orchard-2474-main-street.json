@@ -1,0 +1,19 @@
+{
+  "slug": "spencer-s-orchard-2474-main-street",
+  "name": "Spencer's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2474 Main Street, OK",
+  "locationCity": "2474 Main Street",
+  "locationState": "OK",
+  "locationZipcode": "73020",
+  "lat": 35.49418,
+  "lon": -97.27093,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.364Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.364Z"
+}

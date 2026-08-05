@@ -1,0 +1,19 @@
+{
+  "slug": "patridge-farm-583-county-rd",
+  "name": "Patridge Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "583 County Rd, NH",
+  "locationCity": "583 County Rd",
+  "locationState": "NH",
+  "locationZipcode": "03774",
+  "lat": 44.054930756825456,
+  "lon": -72.03638694809581,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.609Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.609Z"
+}

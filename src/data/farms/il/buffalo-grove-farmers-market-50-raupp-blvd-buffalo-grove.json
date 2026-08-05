@@ -1,0 +1,19 @@
+{
+  "slug": "buffalo-grove-farmers-market-50-raupp-blvd-buffalo-grove",
+  "name": "Buffalo Grove Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50 Raupp Blvd Buffalo Grove, IL",
+  "locationCity": "50 Raupp Blvd Buffalo Grove",
+  "locationState": "IL",
+  "locationZipcode": "60089",
+  "lat": 42.152445785213715,
+  "lon": -87.96722957957678,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

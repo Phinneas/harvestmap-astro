@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-tide-organics-304-pork-point-rd",
+  "name": "Harvest Tide Organics",
+  "source": "usda",
+  "directory": "csa",
+  "location": "304 Pork Point Rd, ME",
+  "locationCity": "304 Pork Point Rd",
+  "locationState": "ME",
+  "locationZipcode": "04008",
+  "lat": 44.02343173233021,
+  "lon": -69.82665114562337,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.574Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hoeffner-farms-405-goodwill-road",
+  "name": "Hoeffner Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "405 Goodwill Road, NY",
+  "locationCity": "405 Goodwill Road",
+  "locationState": "NY",
+  "locationZipcode": "12549",
+  "lat": 41.51516799419895,
+  "lon": -74.21734868279535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.827Z"
+}

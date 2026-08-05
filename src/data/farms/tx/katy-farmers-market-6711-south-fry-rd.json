@@ -1,0 +1,19 @@
+{
+  "slug": "katy-farmers-market-6711-south-fry-rd",
+  "name": "Katy Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6711 South Fry Rd, TX",
+  "locationCity": "6711 South Fry Rd",
+  "locationState": "TX",
+  "locationZipcode": "77494",
+  "lat": 29.714519865794184,
+  "lon": -95.7752498947753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

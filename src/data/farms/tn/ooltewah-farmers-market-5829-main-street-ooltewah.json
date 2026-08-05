@@ -1,0 +1,19 @@
+{
+  "slug": "ooltewah-farmers-market-5829-main-street-ooltewah",
+  "name": "Ooltewah Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5829 Main Street Ooltewah, TN",
+  "locationCity": "5829 Main Street Ooltewah",
+  "locationState": "TN",
+  "locationZipcode": "37363",
+  "lat": 35.07877465364981,
+  "lon": -85.0597801792741,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

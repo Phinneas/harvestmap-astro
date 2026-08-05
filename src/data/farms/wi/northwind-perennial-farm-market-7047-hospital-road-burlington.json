@@ -1,0 +1,19 @@
+{
+  "slug": "northwind-perennial-farm-market-7047-hospital-road-burlington",
+  "name": "Northwind Perennial Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7047 Hospital Road Burlington, WI",
+  "locationCity": "7047 Hospital Road Burlington",
+  "locationState": "WI",
+  "locationZipcode": "53105",
+  "lat": 42.65465878886808,
+  "lon": -88.4081309194157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

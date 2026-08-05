@@ -1,0 +1,19 @@
+{
+  "slug": "meltwater-farm-coach-road",
+  "name": "Meltwater Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Coach Road, NY",
+  "locationCity": "Coach Road",
+  "locationState": "NY",
+  "locationZipcode": "12809",
+  "lat": 43.23125297484104,
+  "lon": -73.47111870383898,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.188Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.188Z"
+}

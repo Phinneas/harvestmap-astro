@@ -1,0 +1,19 @@
+{
+  "slug": "chestnut-hill-farmers-market-7673-germantown-avenue",
+  "name": "Chestnut Hill Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7673 Germantown Avenue, PA",
+  "locationCity": "7673 Germantown Avenue",
+  "locationState": "PA",
+  "locationZipcode": "19118",
+  "lat": 40.06776,
+  "lon": -75.196931,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.008Z"
+}

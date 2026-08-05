@@ -1,0 +1,19 @@
+{
+  "slug": "sioux-city-farmers-market-100-pearl-street",
+  "name": "Sioux City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Pearl Street, IA",
+  "locationCity": "100 Pearl Street",
+  "locationState": "IA",
+  "locationZipcode": "51101",
+  "lat": 42.490552,
+  "lon": -96.408445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.554Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.554Z"
+}

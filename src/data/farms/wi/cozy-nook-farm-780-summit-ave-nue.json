@@ -1,0 +1,19 @@
+{
+  "slug": "cozy-nook-farm-780-summit-ave-nue",
+  "name": "Cozy Nook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "780 Summit Ave.nue, WI",
+  "locationCity": "780 Summit Ave.nue",
+  "locationState": "WI",
+  "locationZipcode": "53188",
+  "lat": 43.0194811852925,
+  "lon": -88.2427636681276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.244Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.244Z"
+}

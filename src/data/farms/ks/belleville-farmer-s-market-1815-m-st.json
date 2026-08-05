@@ -1,0 +1,19 @@
+{
+  "slug": "belleville-farmer-s-market-1815-m-st",
+  "name": "Belleville Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1815 M St., KS",
+  "locationCity": "1815 M St.",
+  "locationState": "KS",
+  "locationZipcode": "66935",
+  "lat": 39.822988,
+  "lon": -97.630924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.657Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.657Z"
+}

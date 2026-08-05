@@ -1,0 +1,19 @@
+{
+  "slug": "new-ark-apiaries-212-montclair-avenue",
+  "name": "New Ark Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "212 Montclair Avenue, NJ",
+  "locationCity": "212 Montclair Avenue",
+  "locationState": "NJ",
+  "locationZipcode": "07043",
+  "lat": 40.8303977772431,
+  "lon": -74.200448644799,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.686Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.686Z"
+}

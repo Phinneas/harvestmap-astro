@@ -1,0 +1,19 @@
+{
+  "slug": "ur-foods-farm-2844-us-hwy-24",
+  "name": "UR Foods Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2844 US Hwy 24, IL",
+  "locationCity": "2844 US Hwy 24",
+  "locationState": "IL",
+  "locationZipcode": "60966",
+  "lat": 40.776353,
+  "lon": -87.585997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.656Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.656Z"
+}

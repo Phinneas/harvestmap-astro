@@ -1,0 +1,19 @@
+{
+  "slug": "link-farm-525-link-road",
+  "name": "Link Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "525 Link Road, MD",
+  "locationCity": "525 Link Road",
+  "locationState": "MD",
+  "locationZipcode": "20905",
+  "lat": 39.1417927206314,
+  "lon": -76.9615089552913,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.314Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.314Z"
+}

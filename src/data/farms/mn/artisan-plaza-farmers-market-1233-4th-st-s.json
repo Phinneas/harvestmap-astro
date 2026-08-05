@@ -1,0 +1,19 @@
+{
+  "slug": "artisan-plaza-farmers-market-1233-4th-st-s",
+  "name": "Artisan Plaza Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1233 4th St S, MN",
+  "locationCity": "1233 4th St S",
+  "locationState": "MN",
+  "locationZipcode": "55009",
+  "lat": 44.4877894,
+  "lon": -92.9061659,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

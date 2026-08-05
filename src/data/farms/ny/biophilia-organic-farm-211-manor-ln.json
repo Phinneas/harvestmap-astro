@@ -1,0 +1,19 @@
+{
+  "slug": "biophilia-organic-farm-211-manor-ln",
+  "name": "Biophilia Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "211 Manor Ln, NY",
+  "locationCity": "211 Manor Ln",
+  "locationState": "NY",
+  "locationZipcode": "11901",
+  "lat": 40.95572033941548,
+  "lon": -72.58598825549055,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.183Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.183Z"
+}

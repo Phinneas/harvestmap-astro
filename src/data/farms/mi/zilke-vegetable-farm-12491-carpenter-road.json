@@ -1,0 +1,19 @@
+{
+  "slug": "zilke-vegetable-farm-12491-carpenter-road",
+  "name": "Zilke Vegetable Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "12491 Carpenter Road, MI",
+  "locationCity": "12491 Carpenter Road",
+  "locationState": "MI",
+  "locationZipcode": "12491",
+  "lat": 42.1055624,
+  "lon": -83.6764581,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.966Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.966Z"
+}

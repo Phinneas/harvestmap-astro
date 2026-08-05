@@ -1,0 +1,19 @@
+{
+  "slug": "hancock-community-education-farmers-market-11-east-main-st",
+  "name": "Hancock Community Education Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11 East Main St., NY",
+  "locationCity": "11 East Main St.",
+  "locationState": "NY",
+  "locationZipcode": "13783",
+  "lat": 41.95499088339282,
+  "lon": -75.28183016571538,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

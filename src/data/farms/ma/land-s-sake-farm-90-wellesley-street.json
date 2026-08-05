@@ -1,0 +1,20 @@
+{
+  "slug": "land-s-sake-farm-90-wellesley-street",
+  "name": "Land's Sake Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "90 Wellesley Street, MA",
+  "locationCity": "90 Wellesley Street",
+  "locationState": "MA",
+  "locationZipcode": "02493",
+  "lat": 42.3592338163216,
+  "lon": -71.2917660788129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.663Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.663Z",
+  "crops": []
+}

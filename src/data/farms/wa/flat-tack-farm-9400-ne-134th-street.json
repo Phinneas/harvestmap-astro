@@ -1,0 +1,19 @@
+{
+  "slug": "flat-tack-farm-9400-ne-134th-street",
+  "name": "Flat Tack Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9400 NE 134th Street, WA",
+  "locationCity": "9400 NE 134th Street",
+  "locationState": "WA",
+  "locationZipcode": "98662",
+  "lat": 45.7226853658085,
+  "lon": -122.57690266826046,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.617Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.617Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "beaver-falls-farmers-market-712-12th-street-beaver-falls",
+  "name": "Beaver Falls Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "712 12th Street Beaver Falls, PA",
+  "locationCity": "712 12th Street Beaver Falls",
+  "locationState": "PA",
+  "locationZipcode": "15010",
+  "lat": 40.75298056349601,
+  "lon": -80.31962860726344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

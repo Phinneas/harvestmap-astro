@@ -1,0 +1,19 @@
+{
+  "slug": "pleasant-hill-farm-ridge-road",
+  "name": "Pleasant Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ridge Road, NJ",
+  "locationCity": "Ridge Road",
+  "locationState": "NJ",
+  "locationZipcode": "08810",
+  "lat": 40.3754270171632,
+  "lon": -74.4761270352062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.703Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.703Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "freshfarm-ballston-market-901-n-taylor-st-arlington",
+  "name": "FRESHFARM Ballston Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "901 N Taylor St Arlington, VA",
+  "locationCity": "901 N Taylor St Arlington",
+  "locationState": "VA",
+  "locationZipcode": "22203",
+  "lat": 38.8812448,
+  "lon": -77.1143336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.156Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.156Z"
+}

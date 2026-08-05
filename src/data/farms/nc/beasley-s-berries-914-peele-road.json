@@ -1,0 +1,19 @@
+{
+  "slug": "beasley-s-berries-914-peele-road",
+  "name": "Beasley's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "914 Peele Road, NC",
+  "locationCity": "914 Peele Road",
+  "locationState": "NC",
+  "locationZipcode": "27520",
+  "lat": 35.6003348051726,
+  "lon": -78.4435790052843,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.643Z"
+}

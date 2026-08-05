@@ -1,0 +1,20 @@
+{
+  "slug": "south-farms-21-higbie-road",
+  "name": "South Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "21 Higbie Road, CT",
+  "locationCity": "21 Higbie Road",
+  "locationState": "CT",
+  "locationZipcode": "06763",
+  "lat": 41.6826750066516,
+  "lon": -73.1810459649102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.901Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.901Z",
+  "crops": []
+}

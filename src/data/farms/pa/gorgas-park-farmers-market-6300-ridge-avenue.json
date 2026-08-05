@@ -1,0 +1,19 @@
+{
+  "slug": "gorgas-park-farmers-market-6300-ridge-avenue",
+  "name": "Gorgas Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6300 Ridge Avenue, PA",
+  "locationCity": "6300 Ridge Avenue",
+  "locationState": "PA",
+  "locationZipcode": "19128",
+  "lat": 40.037308,
+  "lon": -75.221221,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.008Z"
+}

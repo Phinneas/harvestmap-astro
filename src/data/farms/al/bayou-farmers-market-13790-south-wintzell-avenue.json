@@ -1,0 +1,19 @@
+{
+  "slug": "bayou-farmers-market-13790-south-wintzell-avenue",
+  "name": "Bayou Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13790 South Wintzell Avenue, AL",
+  "locationCity": "13790 South Wintzell Avenue",
+  "locationState": "AL",
+  "locationZipcode": "13790",
+  "lat": 30.408651968094556,
+  "lon": -88.24769883547933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "swallowtail-farm-csa-17603-nw-276-lane",
+  "name": "Swallowtail Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "17603 nw 276 lane, FL",
+  "locationCity": "17603 nw 276 lane",
+  "locationState": "FL",
+  "locationZipcode": "17603",
+  "lat": 29.9059887,
+  "lon": -82.5292162,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.810Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.810Z"
+}

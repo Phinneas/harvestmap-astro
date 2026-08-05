@@ -1,0 +1,19 @@
+{
+  "slug": "grant-county-farmers-market-williamstown-1504-north-main-street-williamstown",
+  "name": "Grant County Farmers Market - Williamstown",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1504 North Main Street Williamstown, KY",
+  "locationCity": "1504 North Main Street Williamstown",
+  "locationState": "KY",
+  "locationZipcode": "41097",
+  "lat": 38.663364397803626,
+  "lon": -84.57685828939643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

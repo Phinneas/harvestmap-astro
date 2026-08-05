@@ -1,0 +1,19 @@
+{
+  "slug": "hudak-farm-599-st-albans-rd",
+  "name": "Hudak Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "599 St Albans Rd, VT",
+  "locationCity": "599 St Albans Rd",
+  "locationState": "VT",
+  "locationZipcode": "05488",
+  "lat": 44.84912999665789,
+  "lon": -73.08835602974908,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.243Z"
+}

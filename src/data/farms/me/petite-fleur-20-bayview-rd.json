@@ -1,0 +1,19 @@
+{
+  "slug": "petite-fleur-20-bayview-rd",
+  "name": "Petite Fleur",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "20 Bayview Rd, ME",
+  "locationCity": "20 Bayview Rd",
+  "locationState": "ME",
+  "locationZipcode": "04072",
+  "lat": 43.47953326230848,
+  "lon": -70.39682985767574,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.052Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.052Z"
+}

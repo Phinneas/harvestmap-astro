@@ -1,0 +1,19 @@
+{
+  "slug": "huguenot-robious-farmers-market-2051-huguenot-road",
+  "name": "Huguenot-Robious Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2051 Huguenot Road, VA",
+  "locationCity": "2051 Huguenot Road",
+  "locationState": "VA",
+  "locationZipcode": "23236",
+  "lat": 37.519516,
+  "lon": -77.610398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.101Z"
+}

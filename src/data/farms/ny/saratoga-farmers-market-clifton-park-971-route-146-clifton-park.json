@@ -1,0 +1,19 @@
+{
+  "slug": "saratoga-farmers-market-clifton-park-971-route-146-clifton-park",
+  "name": "Saratoga Farmers' Market - Clifton Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "971 Route 146 Clifton Park, NY",
+  "locationCity": "971 Route 146 Clifton Park",
+  "locationState": "NY",
+  "locationZipcode": "12065",
+  "lat": 42.8687397590076,
+  "lon": -73.80849122485041,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

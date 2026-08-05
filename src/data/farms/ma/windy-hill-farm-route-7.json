@@ -9,23 +9,13 @@
   "locationZipcode": "",
   "lat": 42.25743610517,
   "lon": -73.3254688388321,
-  "website": "https://windyhillfarminc.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:29:19.708Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:29:34.256Z"
+      "lastSeen": "2026-08-05T18:42:22.697Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:29:19.708Z",
-  "crops": [
-    "Blueberries",
-    "Apples"
-  ],
-  "phone": "(413) 298-3217",
+  "usdaLastUpdated": "2026-08-05T18:42:22.697Z",
   "image": "/farm-images/windy-hill-farm-route-7.jpg",
   "imageAlt": "Windy Hill Farm"
 }

@@ -1,0 +1,19 @@
+{
+  "slug": "bohemia-food-hub-106-s-10th-st",
+  "name": "Bohemia Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "106 S 10th St, OR",
+  "locationCity": "106 S 10th St",
+  "locationState": "OR",
+  "locationZipcode": "97424",
+  "lat": 43.796165983097694,
+  "lon": -123.05769601047862,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:04.362Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:04.362Z"
+}

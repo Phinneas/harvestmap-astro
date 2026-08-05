@@ -1,0 +1,19 @@
+{
+  "slug": "holladay-farmer-s-market-4800-s-highland-drive-salt-lake-city",
+  "name": "Holladay Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4800 S. Highland Drive Salt Lake City, UT",
+  "locationCity": "4800 S. Highland Drive Salt Lake City",
+  "locationState": "UT",
+  "locationZipcode": "84117",
+  "lat": 40.66531533573672,
+  "lon": -111.83921901061764,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:23.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:23.640Z"
+}

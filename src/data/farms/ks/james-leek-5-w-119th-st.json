@@ -1,0 +1,19 @@
+{
+  "slug": "james-leek-5-w-119th-st",
+  "name": "James Leek",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5 W 119th St, KS",
+  "locationCity": "5 W 119th St",
+  "locationState": "KS",
+  "locationZipcode": "66061",
+  "lat": 38.91285454794387,
+  "lon": -94.92492402527628,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:53.467Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:53.467Z"
+}

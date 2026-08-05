@@ -1,0 +1,19 @@
+{
+  "slug": "tom-s-pumpkin-farm-15281-panola-drive",
+  "name": "Tom's Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15281 Panola Drive, MN",
+  "locationCity": "15281 Panola Drive",
+  "locationState": "MN",
+  "locationZipcode": "15281",
+  "lat": 45.3084709892554,
+  "lon": -92.7954919882098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.728Z"
+}

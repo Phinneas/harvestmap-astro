@@ -1,0 +1,19 @@
+{
+  "slug": "lenny-s-farmers-market-110-n-hampton-street",
+  "name": "Lenny's Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 N. Hampton Street., GA",
+  "locationCity": "110 N. Hampton Street.",
+  "locationState": "GA",
+  "locationZipcode": "31709",
+  "lat": 32.0722723756917,
+  "lon": -84.236257542296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

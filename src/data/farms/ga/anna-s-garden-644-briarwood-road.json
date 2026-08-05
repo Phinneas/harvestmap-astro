@@ -1,0 +1,19 @@
+{
+  "slug": "anna-s-garden-644-briarwood-road",
+  "name": "Anna's Garden",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "644 Briarwood Road, GA",
+  "locationCity": "644 Briarwood Road",
+  "locationState": "GA",
+  "locationZipcode": "31001",
+  "lat": 31.9065634182149,
+  "lon": -83.3686917257379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.264Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.264Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-farm-769-bray-ford-road",
+  "name": "The Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "769 Bray Ford Road, NC",
+  "locationCity": "769 Bray Ford Road",
+  "locationState": "NC",
+  "locationZipcode": "27017",
+  "lat": 36.3341786089978,
+  "lon": -80.664537782159,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.792Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.792Z"
+}

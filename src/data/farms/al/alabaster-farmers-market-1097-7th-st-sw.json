@@ -1,0 +1,19 @@
+{
+  "slug": "alabaster-farmers-market-1097-7th-st-sw",
+  "name": "Alabaster Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1097 7th St. SW, AL",
+  "locationCity": "1097 7th St. SW",
+  "locationState": "AL",
+  "locationZipcode": "35007",
+  "lat": 33.23211599757528,
+  "lon": -86.8265460370232,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

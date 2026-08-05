@@ -1,0 +1,19 @@
+{
+  "slug": "la-chalupa-farmers-market-148-n-topping-ave-kansas-city",
+  "name": "La Chalupa Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "148 N Topping Ave. Kansas City, MO",
+  "locationCity": "148 N Topping Ave. Kansas City",
+  "locationState": "MO",
+  "locationZipcode": "64123",
+  "lat": 39.11178277846114,
+  "lon": -94.51408380607833,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

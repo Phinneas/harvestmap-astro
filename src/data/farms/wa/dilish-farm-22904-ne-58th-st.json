@@ -1,0 +1,19 @@
+{
+  "slug": "dilish-farm-22904-ne-58th-st",
+  "name": "Dilish Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "22904 NE 58th St, WA",
+  "locationCity": "22904 NE 58th St",
+  "locationState": "WA",
+  "locationZipcode": "22904",
+  "lat": 45.6665372595501,
+  "lon": -122.43778277302059,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.622Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.622Z"
+}

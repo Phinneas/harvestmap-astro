@@ -1,0 +1,19 @@
+{
+  "slug": "apple-family-farm-765-hwy-66-south",
+  "name": "Apple Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "765 Hwy 66 South, NC",
+  "locationCity": "765 Hwy 66 South",
+  "locationState": "NC",
+  "locationZipcode": "27284",
+  "lat": 36.1097635624544,
+  "lon": -80.0626860241726,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.640Z"
+}

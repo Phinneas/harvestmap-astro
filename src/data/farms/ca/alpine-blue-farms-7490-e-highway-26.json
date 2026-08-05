@@ -1,0 +1,19 @@
+{
+  "slug": "alpine-blue-farms-7490-e-highway-26",
+  "name": "Alpine Blue Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7490 E Highway 26, CA",
+  "locationCity": "7490 E Highway 26",
+  "locationState": "CA",
+  "locationZipcode": "95215",
+  "lat": 37.98381099849186,
+  "lon": -121.19671996738609,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

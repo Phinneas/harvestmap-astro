@@ -1,0 +1,19 @@
+{
+  "slug": "melvindale-dda-farmers-market-3100-oakwood-blvd-melvindale",
+  "name": "Melvindale DDA Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3100 Oakwood Blvd Melvindale, MI",
+  "locationCity": "3100 Oakwood Blvd Melvindale",
+  "locationState": "MI",
+  "locationZipcode": "48122",
+  "lat": 42.28238070884371,
+  "lon": -83.17575443722413,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shinglekill-falls-farmers-market-500-mountain-ave",
+  "name": "Shinglekill Falls Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Mountain Ave, NY",
+  "locationCity": "500 Mountain Ave",
+  "locationState": "NY",
+  "locationZipcode": "12470",
+  "lat": 42.28442235751385,
+  "lon": -74.00770661368198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

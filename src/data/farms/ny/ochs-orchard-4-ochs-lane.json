@@ -1,0 +1,20 @@
+{
+  "slug": "ochs-orchard-4-ochs-lane",
+  "name": "Ochs Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4 Ochs Lane, NY",
+  "locationCity": "4 Ochs Lane",
+  "locationState": "NY",
+  "locationZipcode": "10990",
+  "lat": 41.2316547293363,
+  "lon": -74.3692338812953,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.959Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.959Z",
+  "crops": []
+}

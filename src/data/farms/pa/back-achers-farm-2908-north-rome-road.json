@@ -1,0 +1,19 @@
+{
+  "slug": "back-achers-farm-2908-north-rome-road",
+  "name": "Back Achers Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2908 North Rome Road, PA",
+  "locationCity": "2908 North Rome Road",
+  "locationState": "PA",
+  "locationZipcode": "18837",
+  "lat": 41.8673448459559,
+  "lon": -76.3937492372439,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.591Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.591Z"
+}

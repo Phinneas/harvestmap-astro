@@ -1,0 +1,19 @@
+{
+  "slug": "donnelly-farmers-market-fw-gestrin-and-e-roseberry-rd",
+  "name": "Donnelly Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "FW Gestrin and E. Roseberry Rd, ID",
+  "locationCity": "FW Gestrin and E. Roseberry Rd",
+  "locationState": "ID",
+  "locationZipcode": "83615",
+  "lat": 44.730034,
+  "lon": -116.07672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:36.205Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:36.205Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "h-strawberry-farm-132-us-69-north",
+  "name": "H Strawberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "132 US-69 North, TX",
+  "locationCity": "132 US-69 North",
+  "locationState": "TX",
+  "locationZipcode": "75401",
+  "lat": 33.1770924681905,
+  "lon": -96.1313126149543,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.405Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.405Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "st-andrews-farmers-market-4811-high-street-portsmouth",
+  "name": "St. Andrews Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4811 High STreet Portsmouth, VA",
+  "locationCity": "4811 High STreet Portsmouth",
+  "locationState": "VA",
+  "locationZipcode": "23703",
+  "lat": 36.849688922900704,
+  "lon": -76.37611562893119,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

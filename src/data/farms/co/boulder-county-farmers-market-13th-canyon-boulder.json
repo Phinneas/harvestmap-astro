@@ -1,0 +1,19 @@
+{
+  "slug": "boulder-county-farmers-market-13th-canyon-boulder",
+  "name": "Boulder County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13th & Canyon Boulder, CO",
+  "locationCity": "13th & Canyon Boulder",
+  "locationState": "CO",
+  "locationZipcode": "80302",
+  "lat": 40.016090008437686,
+  "lon": -105.27795002110207,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.365Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.365Z"
+}

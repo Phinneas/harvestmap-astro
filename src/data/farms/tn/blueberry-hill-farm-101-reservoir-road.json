@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-farm-101-reservoir-road",
+  "name": "Blueberry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Reservoir Road, TN",
+  "locationCity": "101 Reservoir Road",
+  "locationState": "TN",
+  "locationZipcode": "37828",
+  "lat": 36.2047150014922,
+  "lon": -84.0626009758853,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.274Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.274Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "upper-merion-farmers-market-175-west-valley-forge-road-king-of-prussia",
+  "name": "Upper Merion Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "175 West Valley Forge Road King of Prussia, PA",
+  "locationCity": "175 West Valley Forge Road King of Prussia",
+  "locationState": "PA",
+  "locationZipcode": "19406",
+  "lat": 40.10263099736602,
+  "lon": -75.3727487924036,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.068Z"
+}

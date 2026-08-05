@@ -1,0 +1,19 @@
+{
+  "slug": "heinlein-s-berries-451-n-dehmel-rd",
+  "name": "Heinlein's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "451 N Dehmel Rd, MI",
+  "locationCity": "451 N Dehmel Rd",
+  "locationState": "MI",
+  "locationZipcode": "48601",
+  "lat": 43.4137530081969,
+  "lon": -83.7583549896993,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.576Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.576Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-john-csa-1541-lower-state-road",
+  "name": "Farmer John CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1541 Lower State Road, PA",
+  "locationCity": "1541 Lower State Road",
+  "locationState": "PA",
+  "locationZipcode": "18901",
+  "lat": 40.27338074067299,
+  "lon": -75.15993166489524,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.591Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.591Z"
+}

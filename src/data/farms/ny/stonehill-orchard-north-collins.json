@@ -1,0 +1,19 @@
+{
+  "slug": "stonehill-orchard-north-collins",
+  "name": "Stonehill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "North Collins, NY",
+  "locationCity": "North Collins",
+  "locationState": "NY",
+  "locationZipcode": "14111",
+  "lat": 42.5877298,
+  "lon": -78.9048319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.476Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.476Z"
+}

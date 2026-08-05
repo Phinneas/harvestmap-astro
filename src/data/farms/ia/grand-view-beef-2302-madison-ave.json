@@ -1,0 +1,19 @@
+{
+  "slug": "grand-view-beef-2302-madison-ave",
+  "name": "Grand View Beef",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2302 Madison Ave, IA",
+  "locationCity": "2302 Madison Ave",
+  "locationState": "IA",
+  "locationZipcode": "50525",
+  "lat": 42.7163960145397,
+  "lon": -93.7344770383716,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.751Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.751Z"
+}

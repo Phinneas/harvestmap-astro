@@ -1,0 +1,20 @@
+{
+  "slug": "the-farm-dobson-769-bray-ford-rd",
+  "name": "The Farm Dobson",
+  "source": "usda",
+  "directory": "csa",
+  "location": "769 Bray Ford Rd, NC",
+  "locationCity": "769 Bray Ford Rd",
+  "locationState": "NC",
+  "locationZipcode": "27017",
+  "lat": 36.3344105,
+  "lon": -80.6645117,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.880Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.880Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stillwater-medical-group-farmers-market-1500-curve-crest-blvd-stillwater",
+  "name": "Stillwater Medical Group Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1500 Curve Crest Blvd. Stillwater, MN",
+  "locationCity": "1500 Curve Crest Blvd. Stillwater",
+  "locationState": "MN",
+  "locationZipcode": "55082",
+  "lat": 45.04133943703472,
+  "lon": -92.82736330849829,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.774Z"
+}

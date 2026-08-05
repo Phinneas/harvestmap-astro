@@ -1,0 +1,19 @@
+{
+  "slug": "new-era-farmers-market-1820-ray-avenue",
+  "name": "New Era Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1820 Ray Avenue, MI",
+  "locationCity": "1820 Ray Avenue",
+  "locationState": "MI",
+  "locationZipcode": "49446",
+  "lat": 43.559633,
+  "lon": -86.347156,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.198Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.198Z"
+}

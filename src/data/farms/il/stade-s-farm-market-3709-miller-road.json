@@ -1,0 +1,19 @@
+{
+  "slug": "stade-s-farm-market-3709-miller-road",
+  "name": "Stade's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3709 Miller Road, IL",
+  "locationCity": "3709 Miller Road",
+  "locationState": "IL",
+  "locationZipcode": "60081",
+  "lat": 42.41481098924521,
+  "lon": -88.26318496291674,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.667Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.667Z"
+}

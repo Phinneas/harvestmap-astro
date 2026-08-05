@@ -1,0 +1,19 @@
+{
+  "slug": "lawrence-farmers-market-824-new-hampshire-st",
+  "name": "Lawrence Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "824 New Hampshire St., KS",
+  "locationCity": "824 New Hampshire St.",
+  "locationState": "KS",
+  "locationZipcode": "66044",
+  "lat": 38.968849199420134,
+  "lon": -95.23469821173988,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

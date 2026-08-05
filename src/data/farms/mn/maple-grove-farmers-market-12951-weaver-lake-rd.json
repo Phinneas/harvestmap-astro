@@ -1,0 +1,19 @@
+{
+  "slug": "maple-grove-farmers-market-12951-weaver-lake-rd",
+  "name": "Maple Grove Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12951 Weaver Lake Rd, MN",
+  "locationCity": "12951 Weaver Lake Rd",
+  "locationState": "MN",
+  "locationZipcode": "12951",
+  "lat": 45.1034454,
+  "lon": -93.4414074,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

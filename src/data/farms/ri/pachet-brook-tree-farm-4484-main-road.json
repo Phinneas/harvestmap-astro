@@ -1,0 +1,19 @@
+{
+  "slug": "pachet-brook-tree-farm-4484-main-road",
+  "name": "Pachet Brook Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4484 Main Road, RI",
+  "locationCity": "4484 Main Road",
+  "locationState": "RI",
+  "locationZipcode": "02878",
+  "lat": 41.5510320205013,
+  "lon": -71.1894630227189,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.050Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.050Z"
+}

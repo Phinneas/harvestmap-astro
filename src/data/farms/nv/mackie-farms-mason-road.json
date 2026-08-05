@@ -1,0 +1,19 @@
+{
+  "slug": "mackie-farms-mason-road",
+  "name": "Mackie Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Mason Road, NV",
+  "locationCity": "Mason Road",
+  "locationState": "NV",
+  "locationZipcode": "89408",
+  "lat": 39.5482889933271,
+  "lon": -119.065095958796,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:11.082Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:11.082Z"
+}

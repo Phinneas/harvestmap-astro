@@ -1,0 +1,19 @@
+{
+  "slug": "springfield-farmers-market-225-5th-st",
+  "name": "Springfield Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "225 5th St, OR",
+  "locationCity": "225 5th St",
+  "locationState": "OR",
+  "locationZipcode": "97477",
+  "lat": 44.04730889708557,
+  "lon": -123.01951354114986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.427Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.427Z"
+}

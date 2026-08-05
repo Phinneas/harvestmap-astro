@@ -1,0 +1,19 @@
+{
+  "slug": "old-city-acres-farm-food-hub-stony-creek-rd",
+  "name": "Old City Acres: Farm & Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Stony Creek Rd, MI",
+  "locationCity": "Stony Creek Rd",
+  "locationState": "MI",
+  "locationZipcode": "48198",
+  "lat": 42.155069369553125,
+  "lon": -83.65309200709736,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.245Z"
+}

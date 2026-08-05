@@ -1,0 +1,19 @@
+{
+  "slug": "clorley-farms-9069-route-89",
+  "name": "Clorley Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "9069 Route 89, PA",
+  "locationCity": "9069 Route 89",
+  "locationState": "PA",
+  "locationZipcode": "16428",
+  "lat": 42.16076698720491,
+  "lon": -79.82200396238919,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

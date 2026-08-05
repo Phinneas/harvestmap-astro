@@ -1,0 +1,19 @@
+{
+  "slug": "highland-market-737-william-ave",
+  "name": "Highland Market",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "737 William Ave, WV",
+  "locationCity": "737 William Ave",
+  "locationState": "WV",
+  "locationZipcode": "26260",
+  "lat": 39.1272711,
+  "lon": -79.469136,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:37.456Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:37.456Z"
+}

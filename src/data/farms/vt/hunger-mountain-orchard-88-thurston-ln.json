@@ -1,0 +1,19 @@
+{
+  "slug": "hunger-mountain-orchard-88-thurston-ln",
+  "name": "Hunger Mountain Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "88 Thurston Ln, VT",
+  "locationCity": "88 Thurston Ln",
+  "locationState": "VT",
+  "locationZipcode": "05677",
+  "lat": 44.38100900239357,
+  "lon": -72.69101299936464,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.243Z"
+}

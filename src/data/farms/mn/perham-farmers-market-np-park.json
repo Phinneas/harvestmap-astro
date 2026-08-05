@@ -1,0 +1,19 @@
+{
+  "slug": "perham-farmers-market-np-park",
+  "name": "Perham Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "NP Park, MN",
+  "locationCity": "NP Park",
+  "locationState": "MN",
+  "locationZipcode": "56573",
+  "lat": 46.5953437,
+  "lon": -95.5730088,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

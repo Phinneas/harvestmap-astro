@@ -1,0 +1,19 @@
+{
+  "slug": "ellendale-farmers-market-120-5th-ave",
+  "name": "Ellendale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 5th Ave, MN",
+  "locationCity": "120 5th Ave",
+  "locationState": "MN",
+  "locationZipcode": "56026",
+  "lat": 43.8732886,
+  "lon": -93.3007536,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

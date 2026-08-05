@@ -1,0 +1,19 @@
+{
+  "slug": "boyertown-farmers-market-100-south-walnut-street-boyertown",
+  "name": "Boyertown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 South Walnut Street Boyertown, PA",
+  "locationCity": "100 South Walnut Street Boyertown",
+  "locationState": "PA",
+  "locationZipcode": "19512",
+  "lat": 40.332517161143016,
+  "lon": -75.64068005858425,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

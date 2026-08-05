@@ -1,0 +1,19 @@
+{
+  "slug": "starvish-farm-pleasant-road",
+  "name": "Starvish Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Pleasant Road, CT",
+  "locationCity": "Pleasant Road",
+  "locationState": "CT",
+  "locationZipcode": "06082",
+  "lat": 41.9380027222514,
+  "lon": -72.6085858962104,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.954Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.954Z"
+}

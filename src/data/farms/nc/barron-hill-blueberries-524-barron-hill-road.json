@@ -1,0 +1,19 @@
+{
+  "slug": "barron-hill-blueberries-524-barron-hill-road",
+  "name": "Barron Hill Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "524 Barron Hill Road, NC",
+  "locationCity": "524 Barron Hill Road",
+  "locationState": "NC",
+  "locationZipcode": "27020",
+  "lat": 36.0581880456059,
+  "lon": -80.7993511436256,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.643Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.643Z"
+}

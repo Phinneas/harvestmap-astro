@@ -1,0 +1,19 @@
+{
+  "slug": "fordyce-farm-023-sunnyview-road-ne",
+  "name": "Fordyce Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "023 Sunnyview Road NE, OR",
+  "locationCity": "023 Sunnyview Road NE",
+  "locationState": "OR",
+  "locationZipcode": "97305",
+  "lat": 44.9567918329718,
+  "lon": -122.917483338606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.824Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "headwater-foods-inc-po-box-10148",
+  "name": "Headwater Foods, Inc",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "PO Box 10148, NY",
+  "locationCity": "PO Box 10148",
+  "locationState": "NY",
+  "locationZipcode": "10148",
+  "lat": 43.142994,
+  "lon": -77.544745,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.982Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.982Z"
+}

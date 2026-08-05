@@ -1,0 +1,19 @@
+{
+  "slug": "plainwell-farmers-market-554-allegan-st",
+  "name": "Plainwell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "554 Allegan St., MI",
+  "locationCity": "554 Allegan St.",
+  "locationState": "MI",
+  "locationZipcode": "49080",
+  "lat": 42.452003,
+  "lon": -85.650721,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.182Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.182Z"
+}

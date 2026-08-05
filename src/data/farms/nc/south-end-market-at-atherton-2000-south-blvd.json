@@ -1,0 +1,19 @@
+{
+  "slug": "south-end-market-at-atherton-2000-south-blvd",
+  "name": "South End Market at Atherton",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2000 South Blvd., NC",
+  "locationCity": "2000 South Blvd.",
+  "locationState": "NC",
+  "locationZipcode": "28203",
+  "lat": 35.20911,
+  "lon": -80.860801,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.268Z"
+}

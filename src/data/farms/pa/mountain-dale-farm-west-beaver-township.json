@@ -1,0 +1,19 @@
+{
+  "slug": "mountain-dale-farm-west-beaver-township",
+  "name": "Mountain Dale Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "West Beaver Township, PA",
+  "locationCity": "West Beaver Township",
+  "locationState": "PA",
+  "locationZipcode": "17841",
+  "lat": 40.7578479967815,
+  "lon": -77.3250859683962,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.145Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.145Z"
+}

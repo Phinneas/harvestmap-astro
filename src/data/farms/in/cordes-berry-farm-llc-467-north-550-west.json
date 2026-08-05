@@ -1,0 +1,20 @@
+{
+  "slug": "cordes-berry-farm-llc-467-north-550-west",
+  "name": "Cordes Berry Farm LLC",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "467 North 550 West, IN",
+  "locationCity": "467 North 550 West",
+  "locationState": "IN",
+  "locationZipcode": "46974",
+  "lat": 40.9210453014125,
+  "lon": -85.8990191070535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.256Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.256Z",
+  "crops": []
+}

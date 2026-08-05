@@ -1,0 +1,19 @@
+{
+  "slug": "piedmont-produce-601-morgan-mill-road",
+  "name": "Piedmont Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "601 Morgan Mill Road, NC",
+  "locationCity": "601 Morgan Mill Road",
+  "locationState": "NC",
+  "locationZipcode": "28110",
+  "lat": 34.9878908526864,
+  "lon": -80.5314032569064,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.807Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.807Z"
+}

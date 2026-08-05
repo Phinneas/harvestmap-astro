@@ -1,0 +1,19 @@
+{
+  "slug": "thornbrook-berries-528-dominion-rd",
+  "name": "Thornbrook Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "528 Dominion Rd, WV",
+  "locationCity": "528 Dominion Rd",
+  "locationState": "WV",
+  "locationZipcode": "25420",
+  "lat": 39.3679312260593,
+  "lon": -78.1002992775116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.784Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.784Z"
+}

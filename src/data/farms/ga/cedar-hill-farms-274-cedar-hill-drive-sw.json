@@ -1,0 +1,20 @@
+{
+  "slug": "cedar-hill-farms-274-cedar-hill-drive-sw",
+  "name": "Cedar Hill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "274 Cedar Hill Drive SW, GA",
+  "locationCity": "274 Cedar Hill Drive SW",
+  "locationState": "GA",
+  "locationZipcode": "30701",
+  "lat": 34.5022930086135,
+  "lon": -84.9712639883958,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.359Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.359Z",
+  "crops": []
+}

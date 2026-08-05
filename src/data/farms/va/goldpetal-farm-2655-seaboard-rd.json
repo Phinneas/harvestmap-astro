@@ -1,0 +1,19 @@
+{
+  "slug": "goldpetal-farm-2655-seaboard-rd",
+  "name": "Goldpetal Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2655 Seaboard Rd, VA",
+  "locationCity": "2655 Seaboard Rd",
+  "locationState": "VA",
+  "locationZipcode": "23456",
+  "lat": 36.7454550027593,
+  "lon": -76.0298520121862,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.269Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.269Z"
+}

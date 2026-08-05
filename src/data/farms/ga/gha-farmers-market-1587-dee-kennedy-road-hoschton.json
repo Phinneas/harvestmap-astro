@@ -1,0 +1,19 @@
+{
+  "slug": "gha-farmers-market-1587-dee-kennedy-road-hoschton",
+  "name": "GHA Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1587 Dee Kennedy Road Hoschton, GA",
+  "locationCity": "1587 Dee Kennedy Road Hoschton",
+  "locationState": "GA",
+  "locationZipcode": "30548",
+  "lat": 34.06491800465002,
+  "lon": -83.83648040920713,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

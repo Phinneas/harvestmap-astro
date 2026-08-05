@@ -1,0 +1,19 @@
+{
+  "slug": "finley-s-blueberry-farm-finley-rd",
+  "name": "Finley's Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Finley Rd, GA",
+  "locationCity": "Finley Rd",
+  "locationState": "GA",
+  "locationZipcode": "30577",
+  "lat": 34.6185905435858,
+  "lon": -83.3929961188867,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.390Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.390Z"
+}

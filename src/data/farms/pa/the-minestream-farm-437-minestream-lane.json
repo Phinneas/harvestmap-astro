@@ -1,0 +1,19 @@
+{
+  "slug": "the-minestream-farm-437-minestream-lane",
+  "name": "The Minestream Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "437 Minestream Lane, PA",
+  "locationCity": "437 Minestream Lane",
+  "locationState": "PA",
+  "locationZipcode": "17255",
+  "lat": 40.2191650471478,
+  "lon": -77.8355804781933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.121Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.121Z"
+}

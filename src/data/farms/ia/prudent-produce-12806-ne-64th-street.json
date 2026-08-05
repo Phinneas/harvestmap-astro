@@ -1,0 +1,20 @@
+{
+  "slug": "prudent-produce-12806-ne-64th-street",
+  "name": "Prudent Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "12806 NE 64th Street, IA",
+  "locationCity": "12806 NE 64th Street",
+  "locationState": "IA",
+  "locationZipcode": "12806",
+  "lat": 41.79582303007871,
+  "lon": -93.48459557326724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.426Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.426Z",
+  "crops": []
+}

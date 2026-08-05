@@ -1,0 +1,20 @@
+{
+  "slug": "kregel-s-pumpkin-patch-7705-w-159th-ave-lowell",
+  "name": "Kregel's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7705 W. 159th Ave. Lowell, IN",
+  "locationCity": "7705 W. 159th Ave. Lowell",
+  "locationState": "IN",
+  "locationZipcode": "46356",
+  "lat": 41.3284080016093,
+  "lon": -87.4263918248128,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.294Z",
+  "crops": []
+}

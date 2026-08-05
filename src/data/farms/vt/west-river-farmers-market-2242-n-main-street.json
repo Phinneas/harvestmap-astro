@@ -1,0 +1,19 @@
+{
+  "slug": "west-river-farmers-market-2242-n-main-street",
+  "name": "West River Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2242 N Main Street, VT",
+  "locationCity": "2242 N Main Street",
+  "locationState": "VT",
+  "locationZipcode": "05148",
+  "lat": 43.227245017526315,
+  "lon": -72.80918802731166,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

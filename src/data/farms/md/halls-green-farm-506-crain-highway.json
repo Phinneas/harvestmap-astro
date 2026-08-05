@@ -1,0 +1,19 @@
+{
+  "slug": "halls-green-farm-506-crain-highway",
+  "name": "Halls Green Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "506 Crain Highway, MD",
+  "locationCity": "506 Crain Highway",
+  "locationState": "MD",
+  "locationZipcode": "20774",
+  "lat": 38.89581147519002,
+  "lon": -76.72396435254105,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.332Z"
+}

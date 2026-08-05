@@ -1,0 +1,19 @@
+{
+  "slug": "walnut-winds-farm-csa-blairs",
+  "name": "Walnut Winds Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Blairs, VA",
+  "locationCity": "Blairs",
+  "locationState": "VA",
+  "locationZipcode": "24527",
+  "lat": 36.6798596,
+  "lon": -79.3730788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.222Z"
+}

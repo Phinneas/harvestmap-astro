@@ -1,0 +1,19 @@
+{
+  "slug": "damas-vinyeards-fiddletown",
+  "name": "DAMAS Vinyeards",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Fiddletown, CA",
+  "locationCity": "Fiddletown",
+  "locationState": "CA",
+  "locationZipcode": "95629",
+  "lat": 38.5039105,
+  "lon": -120.75656,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.915Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.915Z"
+}

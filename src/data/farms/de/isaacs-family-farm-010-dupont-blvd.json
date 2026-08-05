@@ -1,0 +1,19 @@
+{
+  "slug": "isaacs-family-farm-010-dupont-blvd",
+  "name": "Isaacs' Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "010 DuPont Blvd, DE",
+  "locationCity": "010 DuPont Blvd",
+  "locationState": "DE",
+  "locationZipcode": "19947",
+  "lat": 38.6816946350538,
+  "lon": -75.3955098974658,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.159Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.159Z"
+}

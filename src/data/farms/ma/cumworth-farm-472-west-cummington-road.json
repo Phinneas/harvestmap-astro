@@ -1,0 +1,19 @@
+{
+  "slug": "cumworth-farm-472-west-cummington-road",
+  "name": "Cumworth Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "472 West Cummington Road, MA",
+  "locationCity": "472 West Cummington Road",
+  "locationState": "MA",
+  "locationZipcode": "01026",
+  "lat": 42.444685307538464,
+  "lon": -72.938925303956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.706Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.706Z"
+}

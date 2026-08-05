@@ -1,0 +1,19 @@
+{
+  "slug": "hamburg-farmers-market-45-church-st",
+  "name": "Hamburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "45 Church St, NY",
+  "locationCity": "45 Church St",
+  "locationState": "NY",
+  "locationZipcode": "14075",
+  "lat": 42.724083934730295,
+  "lon": -78.84041355345047,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

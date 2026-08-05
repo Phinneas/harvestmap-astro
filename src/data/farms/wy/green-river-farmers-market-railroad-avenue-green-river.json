@@ -1,0 +1,19 @@
+{
+  "slug": "green-river-farmers-market-railroad-avenue-green-river",
+  "name": "Green River Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Railroad Avenue Green River, WY",
+  "locationCity": "Railroad Avenue Green River",
+  "locationState": "WY",
+  "locationZipcode": "82935",
+  "lat": 41.60169043574388,
+  "lon": -109.95986119680569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

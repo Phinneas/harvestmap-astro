@@ -1,0 +1,19 @@
+{
+  "slug": "keller-farmers-market-400-bear-creek-road-keller",
+  "name": "Keller Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 Bear Creek Road Keller, TX",
+  "locationCity": "400 Bear Creek Road Keller",
+  "locationState": "TX",
+  "locationZipcode": "76248",
+  "lat": 32.927060222413935,
+  "lon": -97.24815848370415,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

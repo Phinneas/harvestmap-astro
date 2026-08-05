@@ -1,0 +1,19 @@
+{
+  "slug": "jacobs-produce-695-scarboro-highway",
+  "name": "Jacobs Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "695 Scarboro Highway, GA",
+  "locationCity": "695 Scarboro Highway",
+  "locationState": "GA",
+  "locationZipcode": "30455",
+  "lat": 32.6639657363324,
+  "lon": -81.8195146506426,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.293Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "village-farms-lawrence-township",
+  "name": "Village Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lawrence Township, NJ",
+  "locationCity": "Lawrence Township",
+  "locationState": "NJ",
+  "locationZipcode": "08607",
+  "lat": 40.301090013376,
+  "lon": -74.7152970147856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.770Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.770Z"
+}

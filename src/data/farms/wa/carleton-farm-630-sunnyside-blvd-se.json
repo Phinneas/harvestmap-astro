@@ -1,0 +1,19 @@
+{
+  "slug": "carleton-farm-630-sunnyside-blvd-se",
+  "name": "Carleton Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "630 Sunnyside Blvd SE, WA",
+  "locationCity": "630 Sunnyside Blvd SE",
+  "locationState": "WA",
+  "locationZipcode": "98258",
+  "lat": 47.9898900110227,
+  "lon": -122.136278004449,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.131Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.131Z"
+}

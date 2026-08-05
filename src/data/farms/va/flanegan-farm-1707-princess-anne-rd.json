@@ -1,0 +1,20 @@
+{
+  "slug": "flanegan-farm-1707-princess-anne-rd",
+  "name": "Flanegan Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1707 Princess Anne Rd, VA",
+  "locationCity": "1707 Princess Anne Rd",
+  "locationState": "VA",
+  "locationZipcode": "23456",
+  "lat": 36.7145740178947,
+  "lon": -76.0212500002334,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.269Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.269Z",
+  "crops": []
+}

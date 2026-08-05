@@ -1,0 +1,19 @@
+{
+  "slug": "jefferson-st-farmers-market-423-jefferson-300-500-blocks-jefferson-st-burlington",
+  "name": "Jefferson St. Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "423 Jefferson 300-500 blocks Jefferson St. Burlington, IA",
+  "locationCity": "423 Jefferson 300-500 blocks Jefferson St. Burlington",
+  "locationState": "IA",
+  "locationZipcode": "52601",
+  "lat": 40.81074099094175,
+  "lon": -91.105250032202,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

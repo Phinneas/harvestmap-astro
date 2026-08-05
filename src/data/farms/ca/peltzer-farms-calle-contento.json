@@ -1,0 +1,19 @@
+{
+  "slug": "peltzer-farms-calle-contento",
+  "name": "Peltzer Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Calle Contento, CA",
+  "locationCity": "Calle Contento",
+  "locationState": "CA",
+  "locationZipcode": "95291",
+  "lat": 33.5328060032487,
+  "lon": -117.074137971305,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.799Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.799Z"
+}

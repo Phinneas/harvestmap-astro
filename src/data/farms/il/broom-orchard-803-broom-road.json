@@ -1,0 +1,20 @@
+{
+  "slug": "broom-orchard-803-broom-road",
+  "name": "Broom Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "803 Broom Road, IL",
+  "locationCity": "803 Broom Road",
+  "locationState": "IL",
+  "locationZipcode": "62626",
+  "lat": 39.2482543875831,
+  "lon": -89.9092259179886,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.852Z",
+  "crops": []
+}

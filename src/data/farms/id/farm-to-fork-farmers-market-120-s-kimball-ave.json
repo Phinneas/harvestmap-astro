@@ -1,0 +1,19 @@
+{
+  "slug": "farm-to-fork-farmers-market-120-s-kimball-ave",
+  "name": "Farm to Fork Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 S Kimball Ave, ID",
+  "locationCity": "120 S Kimball Ave",
+  "locationState": "ID",
+  "locationZipcode": "83605",
+  "lat": 43.666163,
+  "lon": -116.68885,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:36.217Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:36.217Z"
+}

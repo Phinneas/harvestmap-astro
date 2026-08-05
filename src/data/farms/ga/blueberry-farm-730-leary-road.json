@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-farm-730-leary-road",
+  "name": "Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "730 Leary Road, GA",
+  "locationCity": "730 Leary Road",
+  "locationState": "GA",
+  "locationZipcode": "31721",
+  "lat": 31.5039791196997,
+  "lon": -84.3206543311894,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.387Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.387Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mulberry-lane-farm-414-n-mulberry-street",
+  "name": "Mulberry Lane Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "414 N Mulberry Street, IL",
+  "locationCity": "414 N Mulberry Street",
+  "locationState": "IL",
+  "locationZipcode": "60948",
+  "lat": 40.5227050187638,
+  "lon": -88.0758709684368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.871Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.871Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hunter-s-creek-farmers-market-13502-town-loop-blvd-orlando",
+  "name": "Hunter's Creek Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13502 Town Loop Blvd Orlando, FL",
+  "locationCity": "13502 Town Loop Blvd Orlando",
+  "locationState": "FL",
+  "locationZipcode": "13502",
+  "lat": 28.36436104864935,
+  "lon": -81.43097546689822,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

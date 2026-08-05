@@ -1,0 +1,19 @@
+{
+  "slug": "miller-farms-raw-milk-13018-fm-471",
+  "name": "Miller Farms Raw Milk",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13018 FM 471, TX",
+  "locationCity": "13018 FM 471",
+  "locationState": "TX",
+  "locationZipcode": "13018",
+  "lat": 29.2967172801945,
+  "lon": -98.8444998668714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.564Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.564Z"
+}

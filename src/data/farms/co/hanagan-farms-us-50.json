@@ -1,0 +1,19 @@
+{
+  "slug": "hanagan-farms-us-50",
+  "name": "Hanagan Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US 50, CO",
+  "locationCity": "US 50",
+  "locationState": "CO",
+  "locationZipcode": "81077",
+  "lat": 38.0209600124606,
+  "lon": -103.637309988792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.207Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.207Z"
+}

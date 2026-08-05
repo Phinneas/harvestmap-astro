@@ -1,0 +1,19 @@
+{
+  "slug": "peebles-farms-101-highway-33",
+  "name": "Peebles Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Highway 33, AR",
+  "locationCity": "101 Highway 33",
+  "locationState": "AR",
+  "locationZipcode": "72006",
+  "lat": 35.2834491265097,
+  "lon": -91.3653312779823,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.016Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.016Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dry-ridge-farm-555-dry-ridge-road",
+  "name": "Dry Ridge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "555 Dry Ridge Road, TN",
+  "locationCity": "555 Dry Ridge Road",
+  "locationState": "TN",
+  "locationZipcode": "37774",
+  "lat": 35.7155094210871,
+  "lon": -84.3947694679427,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.346Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.346Z"
+}

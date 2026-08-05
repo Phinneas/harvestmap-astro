@@ -1,0 +1,19 @@
+{
+  "slug": "bassett-farmers-market-200-clark-st",
+  "name": "Bassett Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Clark St., NE",
+  "locationCity": "200 Clark St.",
+  "locationState": "NE",
+  "locationZipcode": "68714",
+  "lat": 42.582541,
+  "lon": -99.536625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.782Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.782Z"
+}

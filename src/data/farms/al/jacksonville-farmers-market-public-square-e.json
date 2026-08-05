@@ -1,0 +1,19 @@
+{
+  "slug": "jacksonville-farmers-market-public-square-e",
+  "name": "Jacksonville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Public Square E., AL",
+  "locationCity": "Public Square E.",
+  "locationState": "AL",
+  "locationZipcode": "36265",
+  "lat": 33.8138116587669,
+  "lon": -85.76095996692821,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

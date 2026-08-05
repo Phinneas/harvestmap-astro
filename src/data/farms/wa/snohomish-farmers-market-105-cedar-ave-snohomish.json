@@ -1,0 +1,19 @@
+{
+  "slug": "snohomish-farmers-market-105-cedar-ave-snohomish",
+  "name": "Snohomish Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 Cedar Ave Snohomish, WA",
+  "locationCity": "105 Cedar Ave Snohomish",
+  "locationState": "WA",
+  "locationZipcode": "98290",
+  "lat": 47.911694959068825,
+  "lon": -122.09161344987594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

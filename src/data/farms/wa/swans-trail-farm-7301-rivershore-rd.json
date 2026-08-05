@@ -9,22 +9,11 @@
   "locationZipcode": "",
   "lat": 47.93115600381566,
   "lon": -122.1661780132755,
-  "website": "https://www.swanstrailfarms.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:40:43.164Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:40:59.925Z"
+      "lastSeen": "2026-08-05T18:53:16.428Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:40:43.164Z",
-  "crops": [
-    "Strawberries",
-    "Apples",
-    "Pumpkins"
-  ],
-  "phone": "425-330-3084"
+  "usdaLastUpdated": "2026-08-05T18:53:16.428Z"
 }

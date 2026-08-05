@@ -1,0 +1,19 @@
+{
+  "slug": "quapaw-farmers-market-food-hub-326-main-st",
+  "name": "Quapaw Farmers Market & Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "326 Main St., OK",
+  "locationCity": "326 Main St.",
+  "locationState": "OK",
+  "locationZipcode": "74363",
+  "lat": 36.91544799093814,
+  "lon": -94.66696002271911,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:30.177Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:30.177Z"
+}

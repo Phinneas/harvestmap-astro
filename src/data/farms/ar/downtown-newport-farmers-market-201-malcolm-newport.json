@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-newport-farmers-market-201-malcolm-newport",
+  "name": "Downtown Newport Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 Malcolm Newport, AR",
+  "locationCity": "201 Malcolm Newport",
+  "locationState": "AR",
+  "locationZipcode": "72112",
+  "lat": 35.6063284565933,
+  "lon": -91.27636992295855,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

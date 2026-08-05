@@ -1,0 +1,19 @@
+{
+  "slug": "butler-county-farmers-market-227-helm-lane-morgantown",
+  "name": "Butler County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "227 Helm Lane Morgantown, KY",
+  "locationCity": "227 Helm Lane Morgantown",
+  "locationState": "KY",
+  "locationZipcode": "42261",
+  "lat": 37.226537157153324,
+  "lon": -86.69633900354405,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "leaning-7-farms-215-e-deer-run",
+  "name": "Leaning 7 Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "215 E Deer Run, NC",
+  "locationCity": "215 E Deer Run",
+  "locationState": "NC",
+  "locationZipcode": "27523",
+  "lat": 35.7332423,
+  "lon": -78.972946,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.882Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.882Z"
+}

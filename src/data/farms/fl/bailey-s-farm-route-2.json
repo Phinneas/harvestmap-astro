@@ -1,0 +1,19 @@
+{
+  "slug": "bailey-s-farm-route-2",
+  "name": "Bailey's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 2, FL",
+  "locationCity": "Route 2",
+  "locationState": "FL",
+  "locationZipcode": "32024",
+  "lat": 30.5805515396961,
+  "lon": -82.464346990407,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.890Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.890Z"
+}

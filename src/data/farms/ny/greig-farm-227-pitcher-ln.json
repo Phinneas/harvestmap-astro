@@ -1,0 +1,19 @@
+{
+  "slug": "greig-farm-227-pitcher-ln",
+  "name": "Greig Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "227 Pitcher Ln, NY",
+  "locationCity": "227 Pitcher Ln",
+  "locationState": "NY",
+  "locationZipcode": "12571",
+  "lat": 42.0277859289591,
+  "lon": -73.8549900645698,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.893Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.893Z"
+}

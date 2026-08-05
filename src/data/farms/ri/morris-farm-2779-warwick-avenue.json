@@ -1,0 +1,19 @@
+{
+  "slug": "morris-farm-2779-warwick-avenue",
+  "name": "Morris Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2779 Warwick Avenue, RI",
+  "locationCity": "2779 Warwick Avenue",
+  "locationState": "RI",
+  "locationZipcode": "02889",
+  "lat": 41.703574988853,
+  "lon": -71.3921350107492,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:30.936Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:30.936Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "glenora-farms-340-dundee-glenora-road",
+  "name": "Glenora Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "340 Dundee-Glenora Road, NY",
+  "locationCity": "340 Dundee-Glenora Road",
+  "locationState": "NY",
+  "locationZipcode": "14837",
+  "lat": 42.5008501356937,
+  "lon": -76.9314107750223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.382Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.382Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "knuj-farmers-market-saturday-200-n-german-st",
+  "name": "KNUJ Farmers' Market - Saturday",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 N German St, MN",
+  "locationCity": "200 N German St",
+  "locationState": "MN",
+  "locationZipcode": "56073",
+  "lat": 44.3166156,
+  "lon": -94.4590577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

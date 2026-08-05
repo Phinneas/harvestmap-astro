@@ -1,0 +1,19 @@
+{
+  "slug": "bruce-community-farmers-market-600-n-alvey-st-bruce",
+  "name": "Bruce Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 N Alvey St Bruce, WI",
+  "locationCity": "600 N Alvey St Bruce",
+  "locationState": "WI",
+  "locationZipcode": "54819",
+  "lat": 45.45523702393555,
+  "lon": -91.27474090953854,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.857Z"
+}

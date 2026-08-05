@@ -1,0 +1,20 @@
+{
+  "slug": "monadnock-berries-545-west-hill-rd",
+  "name": "Monadnock berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "545 West Hill Rd, NH",
+  "locationCity": "545 West Hill Rd",
+  "locationState": "NH",
+  "locationZipcode": "03465",
+  "lat": 42.8590389913223,
+  "lon": -72.2091569994619,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.583Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.583Z",
+  "crops": []
+}

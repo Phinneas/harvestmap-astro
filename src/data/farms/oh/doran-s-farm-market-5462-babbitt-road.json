@@ -1,0 +1,19 @@
+{
+  "slug": "doran-s-farm-market-5462-babbitt-road",
+  "name": "Doran's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5462 Babbitt Road, OH",
+  "locationCity": "5462 Babbitt Road",
+  "locationState": "OH",
+  "locationZipcode": "43054",
+  "lat": 40.06398701111971,
+  "lon": -82.77592896613103,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.371Z"
+}

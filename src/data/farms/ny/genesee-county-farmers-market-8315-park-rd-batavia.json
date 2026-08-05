@@ -1,0 +1,19 @@
+{
+  "slug": "genesee-county-farmers-market-8315-park-rd-batavia",
+  "name": "Genesee County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8315 Park Rd. Batavia, NY",
+  "locationCity": "8315 Park Rd. Batavia",
+  "locationState": "NY",
+  "locationZipcode": "14020",
+  "lat": 43.012052897368825,
+  "lon": -78.2024017141383,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

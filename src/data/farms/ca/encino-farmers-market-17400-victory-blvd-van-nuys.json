@@ -1,0 +1,19 @@
+{
+  "slug": "encino-farmers-market-17400-victory-blvd-van-nuys",
+  "name": "Encino Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "17400 Victory Blvd. Van Nuys, CA",
+  "locationCity": "17400 Victory Blvd. Van Nuys",
+  "locationState": "CA",
+  "locationZipcode": "17400",
+  "lat": 34.18661368116443,
+  "lon": -118.51264822211455,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

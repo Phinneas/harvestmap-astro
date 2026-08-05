@@ -1,0 +1,19 @@
+{
+  "slug": "delray-beach-northeast-1st-street",
+  "name": "Delray Beach",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Northeast 1st Street, FL",
+  "locationCity": "Northeast 1st Street",
+  "locationState": "FL",
+  "locationZipcode": "33444",
+  "lat": 26.4629440086256,
+  "lon": -80.0725480169396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.842Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.842Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-farms-of-illinois-1203-w-walnut-st",
+  "name": "The Farms of Illinois",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1203 W Walnut St, IL",
+  "locationCity": "1203 W Walnut St",
+  "locationState": "IL",
+  "locationZipcode": "62650",
+  "lat": 39.74487898859422,
+  "lon": -90.24856596731048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:51.763Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:51.763Z"
+}

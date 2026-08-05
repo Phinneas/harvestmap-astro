@@ -1,0 +1,19 @@
+{
+  "slug": "oak-hill-farms-324-smokey-road",
+  "name": "Oak Hill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "324 Smokey Road, VA",
+  "locationCity": "324 Smokey Road",
+  "locationState": "VA",
+  "locationZipcode": "23009",
+  "lat": 37.8276780019521,
+  "lon": -77.2510581590482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.223Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "appomattox-gallery-farmers-market-1850-church-street-appomattox",
+  "name": "Appomattox Gallery Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1850 Church Street Appomattox, VA",
+  "locationCity": "1850 Church Street Appomattox",
+  "locationState": "VA",
+  "locationZipcode": "24522",
+  "lat": 37.35276406819598,
+  "lon": -78.82745224501991,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.290Z"
+}

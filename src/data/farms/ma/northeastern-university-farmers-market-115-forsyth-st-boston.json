@@ -1,0 +1,19 @@
+{
+  "slug": "northeastern-university-farmers-market-115-forsyth-st-boston",
+  "name": "Northeastern University Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 Forsyth St. Boston, MA",
+  "locationCity": "115 Forsyth St. Boston",
+  "locationState": "MA",
+  "locationZipcode": "02115",
+  "lat": 42.33822353009791,
+  "lon": -71.0899496863672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.866Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.866Z"
+}

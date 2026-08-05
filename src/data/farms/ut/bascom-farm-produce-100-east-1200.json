@@ -1,0 +1,19 @@
+{
+  "slug": "bascom-farm-produce-100-east-1200",
+  "name": "Bascom Farm Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "100 East 1200, UT",
+  "locationCity": "100 East 1200",
+  "locationState": "UT",
+  "locationZipcode": "84057",
+  "lat": 40.27511815917282,
+  "lon": -111.692721686835,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:27.056Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:27.056Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "plymouth-farmers-market-garro-st",
+  "name": "Plymouth Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Garro St., IN",
+  "locationCity": "Garro St.",
+  "locationState": "IN",
+  "locationZipcode": "46563",
+  "lat": 41.34065,
+  "lon": -86.307641,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.585Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.585Z"
+}

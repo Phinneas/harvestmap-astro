@@ -1,0 +1,19 @@
+{
+  "slug": "two-sisters-garlic-23-clough-tavern-road",
+  "name": "Two Sisters Garlic",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "23 Clough Tavern Road, NH",
+  "locationCity": "23 Clough Tavern Road",
+  "locationState": "NH",
+  "locationZipcode": "03224",
+  "lat": 43.3473069795162,
+  "lon": -71.5771889926759,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.652Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.652Z"
+}

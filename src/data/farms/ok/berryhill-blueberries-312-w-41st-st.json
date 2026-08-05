@@ -1,0 +1,19 @@
+{
+  "slug": "berryhill-blueberries-312-w-41st-st",
+  "name": "Berryhill Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "312 W. 41st St, OK",
+  "locationCity": "312 W. 41st St",
+  "locationState": "OK",
+  "locationZipcode": "74107",
+  "lat": 36.1042526897642,
+  "lon": -95.9936409282648,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.339Z"
+}

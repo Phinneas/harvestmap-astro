@@ -1,0 +1,19 @@
+{
+  "slug": "cumberland-farmers-market-290-tuttle-road-cumberland",
+  "name": "Cumberland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "290 Tuttle Road Cumberland, ME",
+  "locationCity": "290 Tuttle Road Cumberland",
+  "locationState": "ME",
+  "locationZipcode": "04021",
+  "lat": 43.789329944292724,
+  "lon": -70.24421138029824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:57.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:57.069Z"
+}

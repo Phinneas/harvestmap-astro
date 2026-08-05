@@ -1,0 +1,19 @@
+{
+  "slug": "dundas-farmers-market-mill-park",
+  "name": "Dundas Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Mill Park, MN",
+  "locationCity": "Mill Park",
+  "locationState": "MN",
+  "locationZipcode": "55019",
+  "lat": 44.428263,
+  "lon": -93.2079421,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "alpine-blue-496-e-hwy-26",
+  "name": "Alpine Blue",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "496 E Hwy 26, CA",
+  "locationCity": "496 E Hwy 26",
+  "locationState": "CA",
+  "locationZipcode": "95215",
+  "lat": 37.989203758928,
+  "lon": -121.191186083432,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.719Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.719Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wabi-sabi-farm-10743-nw-142nd-street",
+  "name": "Wabi Sabi Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10743 NW 142nd Street, IA",
+  "locationCity": "10743 NW 142nd Street",
+  "locationState": "IA",
+  "locationZipcode": "10743",
+  "lat": 41.7609478,
+  "lon": -93.8146716,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.412Z"
+}

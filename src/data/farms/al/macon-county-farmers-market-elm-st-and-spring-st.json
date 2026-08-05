@@ -1,0 +1,19 @@
+{
+  "slug": "macon-county-farmers-market-elm-st-and-spring-st",
+  "name": "Macon County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Elm St. and Spring St., AL",
+  "locationCity": "Elm St. and Spring St.",
+  "locationState": "AL",
+  "locationZipcode": "36088",
+  "lat": 32.42548999955201,
+  "lon": -85.69364004102239,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

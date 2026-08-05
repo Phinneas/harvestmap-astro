@@ -1,0 +1,19 @@
+{
+  "slug": "yardley-farmers-market-buttonwood-drive",
+  "name": "Yardley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Buttonwood Drive, PA",
+  "locationCity": "Buttonwood Drive",
+  "locationState": "PA",
+  "locationZipcode": "19067",
+  "lat": 40.240829,
+  "lon": -74.839997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:18.993Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:18.993Z"
+}

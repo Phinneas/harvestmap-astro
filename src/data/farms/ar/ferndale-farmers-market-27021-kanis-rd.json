@@ -1,0 +1,19 @@
+{
+  "slug": "ferndale-farmers-market-27021-kanis-rd",
+  "name": "Ferndale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "27021 Kanis Rd, AR",
+  "locationCity": "27021 Kanis Rd",
+  "locationState": "AR",
+  "locationZipcode": "27021",
+  "lat": 34.776925,
+  "lon": -92.556803,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.392Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.392Z"
+}

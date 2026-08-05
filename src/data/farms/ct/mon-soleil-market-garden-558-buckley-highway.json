@@ -1,0 +1,19 @@
+{
+  "slug": "mon-soleil-market-garden-558-buckley-highway",
+  "name": "Mon Soleil Market Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "558 Buckley Highway, CT",
+  "locationCity": "558 Buckley Highway",
+  "locationState": "CT",
+  "locationZipcode": "06076",
+  "lat": 41.96613160984876,
+  "lon": -72.21729297759816,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.443Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.443Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "arnold-farm-66-box-20",
+  "name": "Arnold Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "66 Box 20, WV",
+  "locationCity": "66 Box 20",
+  "locationState": "WV",
+  "locationZipcode": "26757",
+  "lat": 39.3462250000001,
+  "lon": -78.75681,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.860Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.860Z"
+}

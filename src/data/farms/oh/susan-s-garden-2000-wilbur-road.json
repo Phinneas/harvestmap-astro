@@ -1,0 +1,20 @@
+{
+  "slug": "susan-s-garden-2000-wilbur-road",
+  "name": "Susan's Garden",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2000 Wilbur Road, OH",
+  "locationCity": "2000 Wilbur Road",
+  "locationState": "OH",
+  "locationZipcode": "44256",
+  "lat": 41.1681180173383,
+  "lon": -81.7588700082893,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.831Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.831Z",
+  "crops": []
+}

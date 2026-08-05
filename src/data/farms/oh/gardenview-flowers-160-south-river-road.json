@@ -1,0 +1,19 @@
+{
+  "slug": "gardenview-flowers-160-south-river-road",
+  "name": "GardenView Flowers",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "160 South River Road, OH",
+  "locationCity": "160 South River Road",
+  "locationState": "OH",
+  "locationZipcode": "43522",
+  "lat": 41.431508793858,
+  "lon": -83.8356043770271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.797Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.797Z"
+}

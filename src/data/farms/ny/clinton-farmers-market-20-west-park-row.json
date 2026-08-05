@@ -1,0 +1,19 @@
+{
+  "slug": "clinton-farmers-market-20-west-park-row",
+  "name": "Clinton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 West Park Row, NY",
+  "locationCity": "20 West Park Row",
+  "locationState": "NY",
+  "locationZipcode": "13323",
+  "lat": 43.048866,
+  "lon": -75.378462,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.899Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.899Z"
+}

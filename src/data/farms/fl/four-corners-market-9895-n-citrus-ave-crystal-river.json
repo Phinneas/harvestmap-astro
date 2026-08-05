@@ -1,0 +1,19 @@
+{
+  "slug": "four-corners-market-9895-n-citrus-ave-crystal-river",
+  "name": "Four Corners Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9895 N. Citrus Ave Crystal River, FL",
+  "locationCity": "9895 N. Citrus Ave Crystal River",
+  "locationState": "FL",
+  "locationZipcode": "34429",
+  "lat": 29.006324201453282,
+  "lon": -82.56938960848404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

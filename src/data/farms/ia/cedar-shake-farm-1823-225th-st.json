@@ -1,0 +1,20 @@
+{
+  "slug": "cedar-shake-farm-1823-225th-st",
+  "name": "Cedar Shake Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1823 225th St, IA",
+  "locationCity": "1823 225th St",
+  "locationState": "IA",
+  "locationZipcode": "50273",
+  "lat": 41.323033157672,
+  "lon": -94.084308488461,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.600Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.600Z",
+  "crops": []
+}

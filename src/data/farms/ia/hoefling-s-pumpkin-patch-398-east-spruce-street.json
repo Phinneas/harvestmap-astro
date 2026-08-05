@@ -1,0 +1,19 @@
+{
+  "slug": "hoefling-s-pumpkin-patch-398-east-spruce-street",
+  "name": "Hoefling's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "398 East Spruce Street, IA",
+  "locationCity": "398 East Spruce Street",
+  "locationState": "IA",
+  "locationZipcode": "51035",
+  "lat": 42.8234100000001,
+  "lon": -95.80465,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.679Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.679Z"
+}

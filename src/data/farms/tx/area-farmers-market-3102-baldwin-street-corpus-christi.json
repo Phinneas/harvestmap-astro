@@ -1,0 +1,19 @@
+{
+  "slug": "area-farmers-market-3102-baldwin-street-corpus-christi",
+  "name": "Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3102 Baldwin Street Corpus Christi, TX",
+  "locationCity": "3102 Baldwin Street Corpus Christi",
+  "locationState": "TX",
+  "locationZipcode": "78405",
+  "lat": 27.77628550695822,
+  "lon": -97.42580452389763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

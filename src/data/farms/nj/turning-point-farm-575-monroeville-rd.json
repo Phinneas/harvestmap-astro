@@ -1,0 +1,19 @@
+{
+  "slug": "turning-point-farm-575-monroeville-rd",
+  "name": "Turning Point Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "575 Monroeville Rd, NJ",
+  "locationCity": "575 Monroeville Rd",
+  "locationState": "NJ",
+  "locationZipcode": "08085",
+  "lat": 39.70506378682851,
+  "lon": -75.27208174730947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.120Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.120Z"
+}

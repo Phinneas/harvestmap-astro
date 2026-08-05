@@ -1,0 +1,19 @@
+{
+  "slug": "maxwell-street-market-800-s-desplaines-st-chicago",
+  "name": "Maxwell Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "800 S. Desplaines St. Chicago, IL",
+  "locationCity": "800 S. Desplaines St. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60607",
+  "lat": 41.871913985472226,
+  "lon": -87.64381532982534,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

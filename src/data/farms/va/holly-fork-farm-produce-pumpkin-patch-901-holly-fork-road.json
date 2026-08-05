@@ -1,0 +1,20 @@
+{
+  "slug": "holly-fork-farm-produce-pumpkin-patch-901-holly-fork-road",
+  "name": "Holly Fork Farm Produce & Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "901 Holly Fork Road, VA",
+  "locationCity": "901 Holly Fork Road",
+  "locationState": "VA",
+  "locationZipcode": "23011",
+  "lat": 37.4680413980382,
+  "lon": -76.7845255901392,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.141Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.141Z",
+  "crops": []
+}

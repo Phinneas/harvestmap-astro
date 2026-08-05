@@ -1,0 +1,19 @@
+{
+  "slug": "clinton-county-farmer-s-market-1111-s-jackson-st-frankfort",
+  "name": "Clinton County Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1111 S. Jackson St Frankfort, IN",
+  "locationCity": "1111 S. Jackson St Frankfort",
+  "locationState": "IN",
+  "locationZipcode": "46041",
+  "lat": 40.27150176332712,
+  "lon": -86.51055239764516,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

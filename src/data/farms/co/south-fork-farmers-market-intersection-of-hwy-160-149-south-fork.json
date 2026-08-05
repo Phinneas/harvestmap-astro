@@ -1,0 +1,19 @@
+{
+  "slug": "south-fork-farmers-market-intersection-of-hwy-160-149-south-fork",
+  "name": "South Fork Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Intersection of Hwy. 160 & 149 South Fork, CO",
+  "locationCity": "Intersection of Hwy. 160 & 149 South Fork",
+  "locationState": "CO",
+  "locationZipcode": "81154",
+  "lat": 37.67071289448492,
+  "lon": -106.63043897490363,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

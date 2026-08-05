@@ -1,0 +1,19 @@
+{
+  "slug": "hillsdale-flea-market-115-s-broad-hillsdale",
+  "name": "Hillsdale Flea Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 S. Broad Hillsdale, MI",
+  "locationCity": "115 S. Broad Hillsdale",
+  "locationState": "MI",
+  "locationZipcode": "49242",
+  "lat": 41.9152939086863,
+  "lon": -84.62825317774349,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

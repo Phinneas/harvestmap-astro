@@ -1,0 +1,19 @@
+{
+  "slug": "sunshine-family-farms-910-w-3000-n",
+  "name": "Sunshine Family Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "910 W 3000 N, UT",
+  "locationCity": "910 W 3000 N",
+  "locationState": "UT",
+  "locationZipcode": "84414",
+  "lat": 41.3125074,
+  "lon": -112.0001626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:20.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:20.021Z"
+}

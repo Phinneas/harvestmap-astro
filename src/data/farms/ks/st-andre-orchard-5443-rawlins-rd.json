@@ -1,0 +1,19 @@
+{
+  "slug": "st-andre-orchard-5443-rawlins-rd",
+  "name": "St. Andre Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5443 Rawlins Rd, KS",
+  "locationCity": "5443 Rawlins Rd",
+  "locationState": "KS",
+  "locationZipcode": "66002",
+  "lat": 39.51376900519887,
+  "lon": -95.14158702229224,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:58.168Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:58.168Z"
+}

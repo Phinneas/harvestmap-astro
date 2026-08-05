@@ -1,0 +1,19 @@
+{
+  "slug": "psp-farmer-s-market-emporium-1418-n-oliver-ave",
+  "name": "PSP Farmer's Market Emporium",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1418 N Oliver Ave, MN",
+  "locationCity": "1418 N Oliver Ave",
+  "locationState": "MN",
+  "locationZipcode": "55411",
+  "lat": 44.9936904,
+  "lon": -93.3066993,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

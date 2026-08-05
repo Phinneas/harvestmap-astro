@@ -1,0 +1,19 @@
+{
+  "slug": "schenk-homestead-farm-6848-seman-road",
+  "name": "Schenk Homestead Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6848 Seman Road, NY",
+  "locationCity": "6848 Seman Road",
+  "locationState": "NY",
+  "locationZipcode": "14512",
+  "lat": 42.662265977199326,
+  "lon": -77.39971097437652,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.184Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.184Z"
+}

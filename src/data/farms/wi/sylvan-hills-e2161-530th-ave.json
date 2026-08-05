@@ -1,0 +1,19 @@
+{
+  "slug": "sylvan-hills-e2161-530th-ave",
+  "name": "Sylvan Hills",
+  "source": "usda",
+  "directory": "csa",
+  "location": "E2161 530th Ave, WI",
+  "locationCity": "E2161 530th Ave",
+  "locationState": "WI",
+  "locationZipcode": "54751",
+  "lat": 44.870435,
+  "lon": -92.0527312,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:11.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:11.986Z"
+}

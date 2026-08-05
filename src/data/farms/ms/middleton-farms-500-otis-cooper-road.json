@@ -1,0 +1,19 @@
+{
+  "slug": "middleton-farms-500-otis-cooper-road",
+  "name": "Middleton Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 Otis Cooper Road, MS",
+  "locationCity": "500 Otis Cooper Road",
+  "locationState": "MS",
+  "locationZipcode": "39562",
+  "lat": 30.643618833569,
+  "lon": -88.445780029728,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.690Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.690Z"
+}

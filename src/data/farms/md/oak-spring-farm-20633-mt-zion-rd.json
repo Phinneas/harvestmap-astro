@@ -1,0 +1,19 @@
+{
+  "slug": "oak-spring-farm-20633-mt-zion-rd",
+  "name": "Oak Spring Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "20633 Mt. Zion Rd, MD",
+  "locationCity": "20633 Mt. Zion Rd",
+  "locationState": "MD",
+  "locationZipcode": "20633",
+  "lat": 39.6916002,
+  "lon": -76.685553,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.696Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.696Z"
+}

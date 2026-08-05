@@ -1,0 +1,19 @@
+{
+  "slug": "happy-acres-farm-2-taber-road",
+  "name": "Happy Acres Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2 Taber Road, CT",
+  "locationCity": "2 Taber Road",
+  "locationState": "CT",
+  "locationZipcode": "06784",
+  "lat": 41.61264001466921,
+  "lon": -73.50634896825363,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

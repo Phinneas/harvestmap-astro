@@ -1,0 +1,19 @@
+{
+  "slug": "forgies-fruit-farm-lewisburg",
+  "name": "Forgies Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Lewisburg, TN",
+  "locationCity": "Lewisburg",
+  "locationState": "TN",
+  "locationZipcode": "37091",
+  "lat": 35.4589673,
+  "lon": -86.7845594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.376Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.376Z"
+}

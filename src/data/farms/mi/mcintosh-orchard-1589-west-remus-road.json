@@ -1,0 +1,19 @@
+{
+  "slug": "mcintosh-orchard-1589-west-remus-road",
+  "name": "McIntosh Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1589 West Remus Road, MI",
+  "locationCity": "1589 West Remus Road",
+  "locationState": "MI",
+  "locationZipcode": "48858",
+  "lat": 43.5973989980283,
+  "lon": -84.8821819596375,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.668Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.668Z"
+}

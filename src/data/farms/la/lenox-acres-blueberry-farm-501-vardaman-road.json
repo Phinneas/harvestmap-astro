@@ -1,0 +1,19 @@
+{
+  "slug": "lenox-acres-blueberry-farm-501-vardaman-road",
+  "name": "Lenox Acres Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "501 Vardaman Road, LA",
+  "locationCity": "501 Vardaman Road",
+  "locationState": "LA",
+  "locationZipcode": "71047",
+  "lat": 32.2716147969843,
+  "lon": -93.8806351984017,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.073Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.073Z"
+}

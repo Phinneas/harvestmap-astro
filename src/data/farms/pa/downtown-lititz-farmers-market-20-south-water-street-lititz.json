@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-lititz-farmers-market-20-south-water-street-lititz",
+  "name": "Downtown Lititz Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 South Water Street Lititz, PA",
+  "locationCity": "20 South Water Street Lititz",
+  "locationState": "PA",
+  "locationZipcode": "17543",
+  "lat": 40.1571673161523,
+  "lon": -76.3019570695785,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

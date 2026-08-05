@@ -1,0 +1,19 @@
+{
+  "slug": "raphael-garden-9200-fair-oaks-blvd",
+  "name": "Raphael Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9200 Fair Oaks Blvd., CA",
+  "locationCity": "9200 Fair Oaks Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "95628",
+  "lat": 38.6356773,
+  "lon": -121.2887209,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.039Z"
+}

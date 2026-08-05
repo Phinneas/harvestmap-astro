@@ -1,0 +1,19 @@
+{
+  "slug": "ironwood-farm-103-county-route-9",
+  "name": "Ironwood Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "103 County Route 9, NY",
+  "locationCity": "103 County Route 9",
+  "locationState": "NY",
+  "locationZipcode": "12075",
+  "lat": 42.7350969,
+  "lon": -73.7622459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.162Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.162Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "peoria-riverfront-market-200-block-of-water-steet",
+  "name": "Peoria RiverFront Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Block of Water Steet, IL",
+  "locationCity": "200 Block of Water Steet",
+  "locationState": "IL",
+  "locationZipcode": "61602",
+  "lat": 40.68807275878987,
+  "lon": -89.59046405126105,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

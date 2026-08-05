@@ -1,0 +1,19 @@
+{
+  "slug": "the-minestream-farm-12437-mine-stream-lane",
+  "name": "The Minestream Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "12437 Mine Stream Lane, PA",
+  "locationCity": "12437 Mine Stream Lane",
+  "locationState": "PA",
+  "locationZipcode": "12437",
+  "lat": 40.21957101776243,
+  "lon": -77.84110300142369,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.449Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.449Z"
+}

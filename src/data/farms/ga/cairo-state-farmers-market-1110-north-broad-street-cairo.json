@@ -1,0 +1,19 @@
+{
+  "slug": "cairo-state-farmers-market-1110-north-broad-street-cairo",
+  "name": "Cairo State Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1110 North Broad Street Cairo, GA",
+  "locationCity": "1110 North Broad Street Cairo",
+  "locationState": "GA",
+  "locationZipcode": "39828",
+  "lat": 30.88842963141917,
+  "lon": -84.20803969493058,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

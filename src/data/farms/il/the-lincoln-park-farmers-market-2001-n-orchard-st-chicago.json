@@ -1,0 +1,19 @@
+{
+  "slug": "the-lincoln-park-farmers-market-2001-n-orchard-st-chicago",
+  "name": "The Lincoln Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2001 N. Orchard St. Chicago, IL",
+  "locationCity": "2001 N. Orchard St. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60614",
+  "lat": 41.91835924706681,
+  "lon": -87.64609570762397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

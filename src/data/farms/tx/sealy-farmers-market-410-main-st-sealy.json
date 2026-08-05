@@ -1,0 +1,19 @@
+{
+  "slug": "sealy-farmers-market-410-main-st-sealy",
+  "name": "Sealy Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "410 Main St. Sealy, TX",
+  "locationCity": "410 Main St. Sealy",
+  "locationState": "TX",
+  "locationZipcode": "77474",
+  "lat": 29.781100346444155,
+  "lon": -96.15668438231532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "faubourg-pumpkin-patch-043-faubourg-rd",
+  "name": "Faubourg Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "043 Faubourg Rd, LA",
+  "locationCity": "043 Faubourg Rd",
+  "locationState": "LA",
+  "locationZipcode": "70586",
+  "lat": 30.7039483180722,
+  "lon": -92.2022860236866,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.118Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.118Z"
+}

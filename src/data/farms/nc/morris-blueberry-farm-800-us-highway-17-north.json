@@ -1,0 +1,19 @@
+{
+  "slug": "morris-blueberry-farm-800-us-highway-17-north",
+  "name": "Morris Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "800 Us Highway 17 North, NC",
+  "locationCity": "800 Us Highway 17 North",
+  "locationState": "NC",
+  "locationZipcode": "28560",
+  "lat": 35.1248512433577,
+  "lon": -77.021782925474,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.705Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.705Z"
+}

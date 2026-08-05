@@ -1,0 +1,19 @@
+{
+  "slug": "3rd-day-farm-3234-s-lachance-rd",
+  "name": "3rd Day Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3234 S. LaChance Rd, MI",
+  "locationCity": "3234 S. LaChance Rd",
+  "locationState": "MI",
+  "locationZipcode": "49651",
+  "lat": 44.2019039,
+  "lon": -85.2948935,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.095Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.095Z"
+}

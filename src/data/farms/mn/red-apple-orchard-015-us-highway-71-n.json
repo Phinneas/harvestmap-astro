@@ -1,0 +1,19 @@
+{
+  "slug": "red-apple-orchard-015-us-highway-71-n",
+  "name": "Red Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "015 US Highway 71 N., MN",
+  "locationCity": "015 US Highway 71 N.",
+  "locationState": "MN",
+  "locationZipcode": "56143",
+  "lat": 43.6167862464879,
+  "lon": -94.9892413359214,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.813Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "henry-county-farmers-market-eminence-4800-n-main-eminence",
+  "name": "Henry County Farmers Market - Eminence",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4800 N. Main Eminence, KY",
+  "locationCity": "4800 N. Main Eminence",
+  "locationState": "KY",
+  "locationZipcode": "40019",
+  "lat": 38.370975876642774,
+  "lon": -85.17980658288279,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

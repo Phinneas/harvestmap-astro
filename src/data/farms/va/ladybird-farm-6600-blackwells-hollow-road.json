@@ -1,0 +1,19 @@
+{
+  "slug": "ladybird-farm-6600-blackwells-hollow-road",
+  "name": "Ladybird Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6600 Blackwells Hollow Road, VA",
+  "locationCity": "6600 Blackwells Hollow Road",
+  "locationState": "VA",
+  "locationZipcode": "22932",
+  "lat": 38.21912303949665,
+  "lon": -78.64986873168958,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.251Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.251Z"
+}

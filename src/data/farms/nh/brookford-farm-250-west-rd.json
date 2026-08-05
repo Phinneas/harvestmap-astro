@@ -1,0 +1,19 @@
+{
+  "slug": "brookford-farm-250-west-rd",
+  "name": "Brookford Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "250 West Rd., NH",
+  "locationCity": "250 West Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03224",
+  "lat": 43.31999199153856,
+  "lon": -71.60555201191714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.801Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.801Z"
+}

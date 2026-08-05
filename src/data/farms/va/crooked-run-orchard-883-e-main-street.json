@@ -1,0 +1,19 @@
+{
+  "slug": "crooked-run-orchard-883-e-main-street",
+  "name": "Crooked Run Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "883 E. Main Street, VA",
+  "locationCity": "883 E. Main Street",
+  "locationState": "VA",
+  "locationZipcode": "20132",
+  "lat": 39.1363860171651,
+  "lon": -77.7008745143319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.119Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.119Z"
+}

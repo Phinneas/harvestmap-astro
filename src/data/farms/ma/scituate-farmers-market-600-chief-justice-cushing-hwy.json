@@ -1,0 +1,19 @@
+{
+  "slug": "scituate-farmers-market-600-chief-justice-cushing-hwy",
+  "name": "Scituate Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 Chief Justice Cushing Hwy, MA",
+  "locationCity": "600 Chief Justice Cushing Hwy",
+  "locationState": "MA",
+  "locationZipcode": "02066",
+  "lat": 42.19847,
+  "lon": -70.769256,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.789Z"
+}

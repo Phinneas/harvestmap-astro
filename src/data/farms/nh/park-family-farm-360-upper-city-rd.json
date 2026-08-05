@@ -1,0 +1,20 @@
+{
+  "slug": "park-family-farm-360-upper-city-rd",
+  "name": "Park Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "360 Upper City Rd., NH",
+  "locationCity": "360 Upper City Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03263",
+  "lat": 43.3436329818068,
+  "lon": -71.3593999908117,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.601Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.601Z",
+  "crops": []
+}

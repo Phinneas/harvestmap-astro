@@ -1,0 +1,19 @@
+{
+  "slug": "austin-city-market-5900-w-chicago-ave-chicago",
+  "name": "Austin City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5900 W Chicago Ave. Chicago, IL",
+  "locationCity": "5900 W Chicago Ave. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60644",
+  "lat": 41.89475800571368,
+  "lon": -87.77251639854902,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

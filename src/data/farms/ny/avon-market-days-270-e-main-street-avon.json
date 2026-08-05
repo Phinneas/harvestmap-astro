@@ -1,0 +1,19 @@
+{
+  "slug": "avon-market-days-270-e-main-street-avon",
+  "name": "Avon Market Days",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "270 E. Main Street Avon, NY",
+  "locationCity": "270 E. Main Street Avon",
+  "locationState": "NY",
+  "locationZipcode": "14414",
+  "lat": 42.910333694158176,
+  "lon": -77.73491853292799,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.017Z"
+}

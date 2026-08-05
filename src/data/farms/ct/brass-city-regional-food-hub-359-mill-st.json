@@ -1,0 +1,19 @@
+{
+  "slug": "brass-city-regional-food-hub-359-mill-st",
+  "name": "Brass City Regional Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "359 Mill St, CT",
+  "locationCity": "359 Mill St",
+  "locationState": "CT",
+  "locationZipcode": "06706",
+  "lat": 41.54721498561429,
+  "lon": -73.03595002416333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:20.509Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:20.509Z"
+}

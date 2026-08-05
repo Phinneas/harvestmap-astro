@@ -1,0 +1,19 @@
+{
+  "slug": "port-washington-farmers-market-52-main-street-port-washington",
+  "name": "Port Washington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "52 Main Street Port Washington, NY",
+  "locationCity": "52 Main Street Port Washington",
+  "locationState": "NY",
+  "locationZipcode": "11050",
+  "lat": 40.8307078745137,
+  "lon": -73.68718506333023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

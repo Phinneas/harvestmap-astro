@@ -1,0 +1,19 @@
+{
+  "slug": "newman-family-farms-995-eastside-road",
+  "name": "Newman Family Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "995 Eastside Road, OR",
+  "locationCity": "995 Eastside Road",
+  "locationState": "OR",
+  "locationZipcode": "97031",
+  "lat": 45.6924600134103,
+  "lon": -121.493303972061,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.047Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.047Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-acres-424-dry-bridge-road",
+  "name": "Blueberry Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "424 Dry Bridge Road, NY",
+  "locationCity": "424 Dry Bridge Road",
+  "locationState": "NY",
+  "locationZipcode": "12912",
+  "lat": 44.4655473690785,
+  "lon": -73.6280394502115,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.290Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bailey-cove-farmers-market-12200-bailey-cove-rd",
+  "name": "Bailey Cove Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12200 Bailey Cove Rd., AL",
+  "locationCity": "12200 Bailey Cove Rd.",
+  "locationState": "AL",
+  "locationZipcode": "12200",
+  "lat": 34.63096168337203,
+  "lon": -86.53813168776126,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

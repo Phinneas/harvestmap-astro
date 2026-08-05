@@ -1,0 +1,19 @@
+{
+  "slug": "mauldin-farms-city-lake-road",
+  "name": "Mauldin Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "City Lake Road, SC",
+  "locationCity": "City Lake Road",
+  "locationState": "SC",
+  "locationZipcode": "29671",
+  "lat": 34.91646845408922,
+  "lon": -82.72986492907683,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.222Z"
+}

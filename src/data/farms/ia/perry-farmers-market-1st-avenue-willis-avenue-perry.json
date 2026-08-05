@@ -1,0 +1,19 @@
+{
+  "slug": "perry-farmers-market-1st-avenue-willis-avenue-perry",
+  "name": "Perry Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1st Avenue & Willis Avenue Perry, IA",
+  "locationCity": "1st Avenue & Willis Avenue Perry",
+  "locationState": "IA",
+  "locationZipcode": "50220",
+  "lat": 41.838469985797275,
+  "lon": -94.10657997899995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

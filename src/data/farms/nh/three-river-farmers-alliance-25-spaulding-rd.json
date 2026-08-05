@@ -1,0 +1,19 @@
+{
+  "slug": "three-river-farmers-alliance-25-spaulding-rd",
+  "name": "Three River Farmers Alliance",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "25 Spaulding Rd, NH",
+  "locationCity": "25 Spaulding Rd",
+  "locationState": "NH",
+  "locationZipcode": "03044",
+  "lat": 42.98903828150195,
+  "lon": -71.1370932102761,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.986Z"
+}

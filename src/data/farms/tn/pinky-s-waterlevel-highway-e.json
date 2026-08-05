@@ -1,0 +1,19 @@
+{
+  "slug": "pinky-s-waterlevel-highway-e",
+  "name": "Pinky's",
+  "source": "usda",
+  "directory": "csa",
+  "location": "waterlevel highway E, TN",
+  "locationCity": "waterlevel highway E",
+  "locationState": "TN",
+  "locationZipcode": "37323",
+  "lat": 35.136132083308766,
+  "lon": -84.7712548103435,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.830Z"
+}

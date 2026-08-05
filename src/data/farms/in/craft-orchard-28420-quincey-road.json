@@ -1,0 +1,19 @@
+{
+  "slug": "craft-orchard-28420-quincey-road",
+  "name": "Craft Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "28420 Quincey Road, IN",
+  "locationCity": "28420 Quincey Road",
+  "locationState": "IN",
+  "locationZipcode": "28420",
+  "lat": 41.51675524781731,
+  "lon": -86.41426859870647,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.599Z"
+}

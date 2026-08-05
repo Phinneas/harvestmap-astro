@@ -1,0 +1,19 @@
+{
+  "slug": "titus-farms-3765-meridian-rd",
+  "name": "Titus Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3765 Meridian Rd, MI",
+  "locationCity": "3765 Meridian Rd",
+  "locationState": "MI",
+  "locationZipcode": "49251",
+  "lat": 42.4732719,
+  "lon": -84.3559153,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.978Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.978Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mt-washington-whole-foods-market-1330-smith-avenue-baltimore",
+  "name": "Mt Washington Whole Foods Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1330 Smith Avenue Baltimore, MD",
+  "locationCity": "1330 Smith Avenue Baltimore",
+  "locationState": "MD",
+  "locationZipcode": "21209",
+  "lat": 39.36786032674021,
+  "lon": -76.64954386102355,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

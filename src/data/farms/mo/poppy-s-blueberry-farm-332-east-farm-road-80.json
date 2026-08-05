@@ -1,0 +1,19 @@
+{
+  "slug": "poppy-s-blueberry-farm-332-east-farm-road-80",
+  "name": "Poppy's Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "332 East Farm Road 80, MO",
+  "locationCity": "332 East Farm Road 80",
+  "locationState": "MO",
+  "locationZipcode": "65803",
+  "lat": 37.2973103649465,
+  "lon": -93.2888388032061,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.850Z"
+}

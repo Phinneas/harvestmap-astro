@@ -1,0 +1,19 @@
+{
+  "slug": "arbutus-hill-farm-150-arbutus-hill-rd",
+  "name": "Arbutus Hill Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "150 Arbutus Hill Rd, NH",
+  "locationCity": "150 Arbutus Hill Rd",
+  "locationState": "NH",
+  "locationZipcode": "03253",
+  "lat": 43.606107,
+  "lon": -71.577164,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.704Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.704Z"
+}

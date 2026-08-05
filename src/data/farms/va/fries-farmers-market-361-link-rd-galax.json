@@ -1,0 +1,19 @@
+{
+  "slug": "fries-farmers-market-361-link-rd-galax",
+  "name": "Fries Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "361 Link Rd. GALAX, VA",
+  "locationCity": "361 Link Rd. GALAX",
+  "locationState": "VA",
+  "locationZipcode": "24333",
+  "lat": 36.6195626059411,
+  "lon": -80.97941540475382,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "east-point-farmers-market-2757-east-point-st",
+  "name": "East Point Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2757 East Point St., GA",
+  "locationCity": "2757 East Point St.",
+  "locationState": "GA",
+  "locationZipcode": "30344",
+  "lat": 33.679488,
+  "lon": -84.442141,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.679Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.679Z"
+}

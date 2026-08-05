@@ -1,0 +1,19 @@
+{
+  "slug": "huntsville-downtown-farmers-market-1230-12th-street-huntsville",
+  "name": "Huntsville Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1230 12th Street Huntsville, TX",
+  "locationCity": "1230 12th Street Huntsville",
+  "locationState": "TX",
+  "locationZipcode": "77340",
+  "lat": 30.722982400529204,
+  "lon": -95.55192636720388,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

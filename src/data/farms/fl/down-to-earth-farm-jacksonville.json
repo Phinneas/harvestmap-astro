@@ -1,0 +1,19 @@
+{
+  "slug": "down-to-earth-farm-jacksonville",
+  "name": "Down to Earth Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Jacksonville, FL",
+  "locationCity": "Jacksonville",
+  "locationState": "FL",
+  "locationZipcode": "32220",
+  "lat": 30.3424249,
+  "lon": -81.8442934,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.805Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.805Z"
+}

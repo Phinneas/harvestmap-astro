@@ -1,0 +1,19 @@
+{
+  "slug": "new-road-natural-farm-000-new-road",
+  "name": "New Road Natural Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 New Road, IN",
+  "locationCity": "000 New Road",
+  "locationState": "IN",
+  "locationZipcode": "46614",
+  "lat": 41.5639875568641,
+  "lon": -86.3165331329626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.285Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.285Z"
+}

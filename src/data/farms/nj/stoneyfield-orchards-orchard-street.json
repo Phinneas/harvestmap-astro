@@ -1,0 +1,20 @@
+{
+  "slug": "stoneyfield-orchards-orchard-street",
+  "name": "Stoneyfield Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Orchard Street, NJ",
+  "locationCity": "Orchard Street",
+  "locationState": "NJ",
+  "locationZipcode": "07823",
+  "lat": 40.8331730174055,
+  "lon": -75.0575880403899,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.747Z",
+  "crops": []
+}

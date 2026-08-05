@@ -1,0 +1,19 @@
+{
+  "slug": "green-forest-farmers-market-105-phillis-ave-green-forest",
+  "name": "Green Forest Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 Phillis Ave. Green Forest, AR",
+  "locationCity": "105 Phillis Ave. Green Forest",
+  "locationState": "AR",
+  "locationZipcode": "72638",
+  "lat": 36.335269817362395,
+  "lon": -93.43375136728788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dogwood-farmers-market-299-robertson-avenue-tallapoosa",
+  "name": "Dogwood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "299 Robertson Avenue Tallapoosa, GA",
+  "locationCity": "299 Robertson Avenue Tallapoosa",
+  "locationState": "GA",
+  "locationZipcode": "30176",
+  "lat": 33.755635849808,
+  "lon": -85.29118186982048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

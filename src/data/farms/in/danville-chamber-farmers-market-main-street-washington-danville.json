@@ -1,0 +1,19 @@
+{
+  "slug": "danville-chamber-farmers-market-main-street-washington-danville",
+  "name": "Danville Chamber Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street & Washington Danville, IN",
+  "locationCity": "Main Street & Washington Danville",
+  "locationState": "IN",
+  "locationZipcode": "46122",
+  "lat": 39.76076998736744,
+  "lon": -86.52392002126385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

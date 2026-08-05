@@ -1,0 +1,19 @@
+{
+  "slug": "patuxent-nursery-410-north-crain-highway",
+  "name": "Patuxent Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "410 North Crain Highway, MD",
+  "locationCity": "410 North Crain Highway",
+  "locationState": "MD",
+  "locationZipcode": "20716",
+  "lat": 38.8991829527075,
+  "lon": -76.7181897079947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.199Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.199Z"
+}

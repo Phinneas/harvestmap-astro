@@ -1,0 +1,19 @@
+{
+  "slug": "hampstead-farmers-market-1400-panther-drive",
+  "name": "Hampstead Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1400 Panther Drive, MD",
+  "locationCity": "1400 Panther Drive",
+  "locationState": "MD",
+  "locationZipcode": "21074",
+  "lat": 39.60898059930714,
+  "lon": -76.8607694764283,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

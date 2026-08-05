@@ -1,0 +1,19 @@
+{
+  "slug": "hill-high-farms-the-pumpkin-patch-9933-barley-lane",
+  "name": "Hill High Farms - \"The Pumpkin Patch\"",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9933 Barley Lane, VA",
+  "locationCity": "9933 Barley Lane",
+  "locationState": "VA",
+  "locationZipcode": "22602",
+  "lat": 39.1252565105085,
+  "lon": -78.2713726360311,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.222Z"
+}

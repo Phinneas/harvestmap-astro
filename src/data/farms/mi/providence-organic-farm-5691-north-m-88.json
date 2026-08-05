@@ -1,0 +1,19 @@
+{
+  "slug": "providence-organic-farm-5691-north-m-88",
+  "name": "Providence Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5691 North M-88, MI",
+  "locationCity": "5691 North M-88",
+  "locationState": "MI",
+  "locationZipcode": "49622",
+  "lat": 45.105881,
+  "lon": -85.3319635,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.966Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.966Z"
+}

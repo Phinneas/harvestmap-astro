@@ -1,0 +1,19 @@
+{
+  "slug": "carver-hill-orchard-101-brookside-ave",
+  "name": "Carver Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Brookside Ave, MA",
+  "locationCity": "101 Brookside Ave",
+  "locationState": "MA",
+  "locationZipcode": "01775",
+  "lat": 42.4307395808542,
+  "lon": -71.5038121358975,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.472Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.472Z"
+}

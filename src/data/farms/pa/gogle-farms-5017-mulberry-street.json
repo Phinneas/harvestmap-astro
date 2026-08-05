@@ -1,0 +1,19 @@
+{
+  "slug": "gogle-farms-5017-mulberry-street",
+  "name": "Gogle Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5017 Mulberry Street, PA",
+  "locationCity": "5017 Mulberry Street",
+  "locationState": "PA",
+  "locationZipcode": "18037",
+  "lat": 40.69939801036352,
+  "lon": -75.55309598127059,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.220Z"
+}

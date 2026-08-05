@@ -1,0 +1,19 @@
+{
+  "slug": "snell-family-farm-1000-river-road",
+  "name": "Snell Family Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1000 River Road, ME",
+  "locationCity": "1000 River Road",
+  "locationState": "ME",
+  "locationZipcode": "04093",
+  "lat": 43.619659,
+  "lon": -70.542567,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:00.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:00.091Z"
+}

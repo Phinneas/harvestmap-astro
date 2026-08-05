@@ -1,0 +1,19 @@
+{
+  "slug": "talladega-farmers-market-210-south-st-e",
+  "name": "Talladega Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 South St. E., AL",
+  "locationCity": "210 South St. E.",
+  "locationState": "AL",
+  "locationZipcode": "35161",
+  "lat": 33.433537992385,
+  "lon": -86.09837901131175,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

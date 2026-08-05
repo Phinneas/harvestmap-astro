@@ -1,0 +1,19 @@
+{
+  "slug": "bee-better-apiary-frederick",
+  "name": "Bee Better Apiary",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Frederick, MD",
+  "locationCity": "Frederick",
+  "locationState": "MD",
+  "locationZipcode": "21702",
+  "lat": 39.45153,
+  "lon": -77.4136099999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.229Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.229Z"
+}

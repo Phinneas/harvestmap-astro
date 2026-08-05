@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-at-ancestor-square-2-w-saint-george-blvd-st-george",
+  "name": "Downtown Farmers Market at Ancestor Square",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 W Saint George Blvd St. George, UT",
+  "locationCity": "2 W Saint George Blvd St. George",
+  "locationState": "UT",
+  "locationZipcode": "84770",
+  "lat": 37.10996455405947,
+  "lon": -113.58346039110606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:23.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:23.640Z"
+}

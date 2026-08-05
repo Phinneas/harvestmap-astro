@@ -1,0 +1,19 @@
+{
+  "slug": "holmes-farms-607-hwy-66",
+  "name": "Holmes Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "607 Hwy 66, SC",
+  "locationCity": "607 Hwy 66",
+  "locationState": "SC",
+  "locationZipcode": "29569",
+  "lat": 33.9174679726451,
+  "lon": -78.9107953878002,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.962Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.962Z"
+}

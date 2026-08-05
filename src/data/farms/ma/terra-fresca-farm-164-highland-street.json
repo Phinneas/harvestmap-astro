@@ -1,0 +1,19 @@
+{
+  "slug": "terra-fresca-farm-164-highland-street",
+  "name": "Terra Fresca Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "164 Highland Street, MA",
+  "locationCity": "164 Highland Street",
+  "locationState": "MA",
+  "locationZipcode": "02346",
+  "lat": 41.80516684046256,
+  "lon": -70.84632911293131,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.276Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.276Z"
+}

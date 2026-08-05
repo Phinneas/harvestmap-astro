@@ -1,0 +1,19 @@
+{
+  "slug": "lampson-blueberries-54846-day-road",
+  "name": "Lampson Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "54846 Day Road, OR",
+  "locationCity": "54846 Day Road",
+  "locationState": "OR",
+  "locationZipcode": "54846",
+  "lat": 45.9030640531403,
+  "lon": -118.347575051266,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.965Z"
+}

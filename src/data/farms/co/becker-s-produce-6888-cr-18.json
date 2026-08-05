@@ -1,0 +1,19 @@
+{
+  "slug": "becker-s-produce-6888-cr-18",
+  "name": "Becker's Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6888 CR 18, CO",
+  "locationCity": "6888 CR 18",
+  "locationState": "CO",
+  "locationZipcode": "80741",
+  "lat": 40.55063800446254,
+  "lon": -103.45745496612855,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:05.335Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:05.335Z"
+}

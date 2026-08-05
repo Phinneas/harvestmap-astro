@@ -1,0 +1,19 @@
+{
+  "slug": "milton-s-local-3811-castlewood-rd",
+  "name": "Milton's Local",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3811 Castlewood Rd., VA",
+  "locationCity": "3811 Castlewood Rd.",
+  "locationState": "VA",
+  "locationZipcode": "23234",
+  "lat": 37.4715856,
+  "lon": -77.448056,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:05.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:05.028Z"
+}

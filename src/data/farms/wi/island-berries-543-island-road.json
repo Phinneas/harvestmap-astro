@@ -1,0 +1,19 @@
+{
+  "slug": "island-berries-543-island-road",
+  "name": "Island Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "543 Island Road, WI",
+  "locationCity": "543 Island Road",
+  "locationState": "WI",
+  "locationZipcode": "54929",
+  "lat": 44.5971060133869,
+  "lon": -88.8487312073522,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.422Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.422Z"
+}

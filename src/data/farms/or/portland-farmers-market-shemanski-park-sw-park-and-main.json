@@ -1,0 +1,19 @@
+{
+  "slug": "portland-farmers-market-shemanski-park-sw-park-and-main",
+  "name": "Portland Farmers Market - Shemanski Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "SW Park and Main, OR",
+  "locationCity": "SW Park and Main",
+  "locationState": "OR",
+  "locationZipcode": "97205",
+  "lat": 45.517125,
+  "lon": -122.68223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.261Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.261Z"
+}

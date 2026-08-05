@@ -1,0 +1,19 @@
+{
+  "slug": "gnp3-farms-1651-road-173",
+  "name": "GNP3 Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1651 Road 173, NE",
+  "locationCity": "1651 Road 173",
+  "locationState": "NE",
+  "locationZipcode": "69129",
+  "lat": 41.11326801642463,
+  "lon": -102.39448002651076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:57.251Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:57.251Z"
+}

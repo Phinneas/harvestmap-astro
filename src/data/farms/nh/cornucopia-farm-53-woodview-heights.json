@@ -1,0 +1,19 @@
+{
+  "slug": "cornucopia-farm-53-woodview-heights",
+  "name": "Cornucopia Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "53 Woodview Heights, NH",
+  "locationCity": "53 Woodview Heights",
+  "locationState": "NH",
+  "locationZipcode": "03221",
+  "lat": 43.263441,
+  "lon": -71.977336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.735Z"
+}

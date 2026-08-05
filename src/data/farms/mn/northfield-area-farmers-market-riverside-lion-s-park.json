@@ -1,0 +1,19 @@
+{
+  "slug": "northfield-area-farmers-market-riverside-lion-s-park",
+  "name": "Northfield Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Riverside Lion's Park, MN",
+  "locationCity": "Riverside Lion's Park",
+  "locationState": "MN",
+  "locationZipcode": "55057",
+  "lat": 44.45215,
+  "lon": -93.166657,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

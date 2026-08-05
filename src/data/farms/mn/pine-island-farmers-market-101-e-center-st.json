@@ -1,0 +1,19 @@
+{
+  "slug": "pine-island-farmers-market-101-e-center-st",
+  "name": "Pine Island Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 E Center St, MN",
+  "locationCity": "101 E Center St",
+  "locationState": "MN",
+  "locationZipcode": "55963",
+  "lat": 44.2031959,
+  "lon": -92.6441899,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

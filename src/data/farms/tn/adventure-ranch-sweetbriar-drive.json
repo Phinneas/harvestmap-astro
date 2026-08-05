@@ -1,0 +1,19 @@
+{
+  "slug": "adventure-ranch-sweetbriar-drive",
+  "name": "Adventure Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sweetbriar Drive, TN",
+  "locationCity": "Sweetbriar Drive",
+  "locationState": "TN",
+  "locationZipcode": "37877",
+  "lat": 36.1580259986958,
+  "lon": -83.4252579898691,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.139Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.139Z"
+}

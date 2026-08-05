@@ -1,0 +1,19 @@
+{
+  "slug": "sumter-county-farmers-market-700-west-liberty-street-sumter",
+  "name": "Sumter County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "700 West Liberty Street Sumter, SC",
+  "locationCity": "700 West Liberty Street Sumter",
+  "locationState": "SC",
+  "locationZipcode": "29153",
+  "lat": 33.91965922654975,
+  "lon": -80.36431842338372,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

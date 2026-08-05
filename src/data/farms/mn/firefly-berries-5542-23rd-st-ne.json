@@ -1,0 +1,19 @@
+{
+  "slug": "firefly-berries-5542-23rd-st-ne",
+  "name": "Firefly Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5542 23rd St NE, MN",
+  "locationCity": "5542 23rd St NE",
+  "locationState": "MN",
+  "locationZipcode": "55906",
+  "lat": 44.0464989882299,
+  "lon": -92.4524372140775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.722Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.722Z"
+}

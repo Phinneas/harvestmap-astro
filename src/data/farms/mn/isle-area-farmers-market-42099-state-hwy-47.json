@@ -1,0 +1,19 @@
+{
+  "slug": "isle-area-farmers-market-42099-state-hwy-47",
+  "name": "Isle Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "42099 State Hwy 47, MN",
+  "locationCity": "42099 State Hwy 47",
+  "locationState": "MN",
+  "locationZipcode": "42099",
+  "lat": 46.1561426,
+  "lon": -93.4632246,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

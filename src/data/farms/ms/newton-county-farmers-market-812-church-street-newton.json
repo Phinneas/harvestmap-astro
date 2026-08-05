@@ -1,0 +1,19 @@
+{
+  "slug": "newton-county-farmers-market-812-church-street-newton",
+  "name": "Newton County farmers market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "812 Church Street Newton, MS",
+  "locationCity": "812 Church Street Newton",
+  "locationState": "MS",
+  "locationZipcode": "39345",
+  "lat": 32.324005280085416,
+  "lon": -89.17353541841207,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

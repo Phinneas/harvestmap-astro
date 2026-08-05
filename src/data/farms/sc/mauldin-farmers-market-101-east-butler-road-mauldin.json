@@ -1,0 +1,19 @@
+{
+  "slug": "mauldin-farmers-market-101-east-butler-road-mauldin",
+  "name": "Mauldin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 East Butler Road Mauldin, SC",
+  "locationCity": "101 East Butler Road Mauldin",
+  "locationState": "SC",
+  "locationZipcode": "29662",
+  "lat": 34.77880159204161,
+  "lon": -82.30595336664197,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mccomb-farmers-market-112-railroad-blvd-downtown-parking-garage-mccomb",
+  "name": "McComb Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 railroad blvd Downtown Parking garage McComb, MS",
+  "locationCity": "112 railroad blvd Downtown Parking garage McComb",
+  "locationState": "MS",
+  "locationZipcode": "39648",
+  "lat": 31.24424292747224,
+  "lon": -90.45142776871135,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

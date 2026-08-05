@@ -1,0 +1,19 @@
+{
+  "slug": "sunny-farms-25230-hwy24",
+  "name": "Sunny Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "25230 Hwy24, KS",
+  "locationCity": "25230 Hwy24",
+  "locationState": "KS",
+  "locationZipcode": "25230",
+  "lat": 39.21618902087965,
+  "lon": -96.12788003689045,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:58.168Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:58.168Z"
+}

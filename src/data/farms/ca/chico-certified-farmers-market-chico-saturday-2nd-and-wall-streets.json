@@ -1,0 +1,19 @@
+{
+  "slug": "chico-certified-farmers-market-chico-saturday-2nd-and-wall-streets",
+  "name": "Chico Certified Farmers Market - Chico Saturday",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2nd and Wall Streets, CA",
+  "locationCity": "2nd and Wall Streets",
+  "locationState": "CA",
+  "locationZipcode": "95927",
+  "lat": 39.730823,
+  "lon": -121.83832,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.351Z"
+}

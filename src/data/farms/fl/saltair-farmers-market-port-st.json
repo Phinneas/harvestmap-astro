@@ -1,0 +1,19 @@
+{
+  "slug": "saltair-farmers-market-port-st",
+  "name": "SaltAir Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Port St., FL",
+  "locationCity": "Port St.",
+  "locationState": "FL",
+  "locationZipcode": "32456",
+  "lat": 29.815015000000074,
+  "lon": -85.30058999999994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

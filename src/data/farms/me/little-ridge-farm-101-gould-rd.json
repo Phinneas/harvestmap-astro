@@ -1,0 +1,19 @@
+{
+  "slug": "little-ridge-farm-101-gould-rd",
+  "name": "Little Ridge Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "101 Gould Rd, ME",
+  "locationCity": "101 Gould Rd",
+  "locationState": "ME",
+  "locationZipcode": "04252",
+  "lat": 44.0237415,
+  "lon": -70.0495591,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.553Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.553Z"
+}

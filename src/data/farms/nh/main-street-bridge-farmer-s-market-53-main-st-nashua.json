@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-bridge-farmer-s-market-53-main-st-nashua",
+  "name": "Main Street Bridge Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "53 Main St. Nashua, NH",
+  "locationCity": "53 Main St. Nashua",
+  "locationState": "NH",
+  "locationZipcode": "03060",
+  "lat": 42.763541052776915,
+  "lon": -71.4665378609661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.154Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-topeka-farmers-market-12th-and-harrison",
+  "name": "Downtown Topeka Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12th and Harrison, KS",
+  "locationCity": "12th and Harrison",
+  "locationState": "KS",
+  "locationZipcode": "66612",
+  "lat": 39.04416001357333,
+  "lon": -95.6812400164461,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

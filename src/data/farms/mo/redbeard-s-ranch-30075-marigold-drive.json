@@ -1,0 +1,19 @@
+{
+  "slug": "redbeard-s-ranch-30075-marigold-drive",
+  "name": "Redbeard's Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "30075 Marigold Drive, MO",
+  "locationCity": "30075 Marigold Drive",
+  "locationState": "MO",
+  "locationZipcode": "30075",
+  "lat": 37.7818389831957,
+  "lon": -92.8650959827309,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.772Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.772Z"
+}

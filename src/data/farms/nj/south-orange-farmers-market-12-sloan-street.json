@@ -1,0 +1,19 @@
+{
+  "slug": "south-orange-farmers-market-12-sloan-street",
+  "name": "South Orange Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12 Sloan Street, NJ",
+  "locationCity": "12 Sloan Street",
+  "locationState": "NJ",
+  "locationZipcode": "07079",
+  "lat": 40.7881258,
+  "lon": -74.248205,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:21.854Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:21.854Z"
+}

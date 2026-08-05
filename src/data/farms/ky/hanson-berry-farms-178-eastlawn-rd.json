@@ -1,0 +1,19 @@
+{
+  "slug": "hanson-berry-farms-178-eastlawn-rd",
+  "name": "Hanson Berry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "178 Eastlawn Rd, KY",
+  "locationCity": "178 Eastlawn Rd",
+  "locationState": "KY",
+  "locationZipcode": "42431",
+  "lat": 37.4143380068087,
+  "lon": -87.4319670119387,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.651Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.651Z"
+}

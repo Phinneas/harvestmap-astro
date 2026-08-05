@@ -1,0 +1,19 @@
+{
+  "slug": "cl-farms-farmers-market-2042-n-2653rd-road-marseilles",
+  "name": "CL Farms Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2042 N 2653rd Road Marseilles, IL",
+  "locationCity": "2042 N 2653rd Road Marseilles",
+  "locationState": "IL",
+  "locationZipcode": "61341",
+  "lat": 41.32221717921479,
+  "lon": -88.77575350456398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

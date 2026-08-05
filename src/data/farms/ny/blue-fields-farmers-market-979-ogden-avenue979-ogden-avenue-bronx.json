@@ -1,0 +1,19 @@
+{
+  "slug": "blue-fields-farmers-market-979-ogden-avenue979-ogden-avenue-bronx",
+  "name": "Blue Fields Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "979 Ogden Avenue979 Ogden Avenue Bronx, NY",
+  "locationCity": "979 Ogden Avenue979 Ogden Avenue Bronx",
+  "locationState": "NY",
+  "locationZipcode": "10452",
+  "lat": 40.8322381911859,
+  "lon": -73.92977501775876,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

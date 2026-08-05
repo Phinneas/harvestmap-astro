@@ -1,0 +1,19 @@
+{
+  "slug": "teddie-s-berries-344-123rd-avenue-sw",
+  "name": "Teddie's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "344 123rd Avenue SW, WA",
+  "locationCity": "344 123rd Avenue SW",
+  "locationState": "WA",
+  "locationZipcode": "98512",
+  "lat": 46.9090899903835,
+  "lon": -123.017917560358,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.242Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "donaldson-farms-292-allen-road",
+  "name": "Donaldson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "292 Allen Road, NJ",
+  "locationCity": "292 Allen Road",
+  "locationState": "NJ",
+  "locationZipcode": "07840",
+  "lat": 40.8307194603242,
+  "lon": -74.8427320247015,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.618Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.618Z"
+}

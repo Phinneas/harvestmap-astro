@@ -1,0 +1,20 @@
+{
+  "slug": "arkenberg-farms-645-se-tecumseh-rd",
+  "name": "Arkenberg Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "645 Se Tecumseh Rd, KS",
+  "locationCity": "645 Se Tecumseh Rd",
+  "locationState": "KS",
+  "locationZipcode": "66542",
+  "lat": 39.0420639929557,
+  "lon": -95.58395202066,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.061Z",
+  "crops": []
+}

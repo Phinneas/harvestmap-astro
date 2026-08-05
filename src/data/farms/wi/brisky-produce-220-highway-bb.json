@@ -1,0 +1,19 @@
+{
+  "slug": "brisky-produce-220-highway-bb",
+  "name": "Brisky Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "220 Highway Bb, WI",
+  "locationCity": "220 Highway Bb",
+  "locationState": "WI",
+  "locationZipcode": "53925",
+  "lat": 43.325311717218,
+  "lon": -88.9114353598054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.122Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.122Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bartlett-s-farm-33-bartlett-farm-road",
+  "name": "Bartlett's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "33 Bartlett Farm Road, MA",
+  "locationCity": "33 Bartlett Farm Road",
+  "locationState": "MA",
+  "locationZipcode": "02554",
+  "lat": 41.2568571843471,
+  "lon": -70.1335896505665,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.458Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.458Z"
+}

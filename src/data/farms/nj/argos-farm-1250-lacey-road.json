@@ -2,19 +2,18 @@
   "slug": "argos-farm-1250-lacey-road",
   "name": "ARGOS FARM",
   "source": "usda",
-  "directory": "agritourism",
+  "directory": "onfarmmarket",
   "location": "1250 Lacey Road, NJ",
   "locationCity": "1250 Lacey Road",
   "locationState": "NJ",
-  "locationZipcode": "08731",
-  "lat": 39.8640199889727,
-  "lon": -74.2348579756147,
+  "locationZipcode": "",
+  "lat": 39.868775,
+  "lon": -74.235929,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:33:30.222Z"
+      "lastSeen": "2026-08-05T18:46:24.718Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:33:30.222Z",
-  "website": "https://www.argosfarm.com/"
+  "usdaLastUpdated": "2026-08-05T18:46:24.718Z"
 }

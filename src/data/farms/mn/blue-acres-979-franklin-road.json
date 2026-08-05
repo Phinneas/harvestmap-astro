@@ -1,0 +1,19 @@
+{
+  "slug": "blue-acres-979-franklin-road",
+  "name": "Blue Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "979 Franklin Road, MN",
+  "locationCity": "979 Franklin Road",
+  "locationState": "MN",
+  "locationZipcode": "55320",
+  "lat": 45.4308329006749,
+  "lon": -94.0795735050585,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.786Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.786Z"
+}

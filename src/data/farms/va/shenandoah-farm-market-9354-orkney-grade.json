@@ -1,0 +1,19 @@
+{
+  "slug": "shenandoah-farm-market-9354-orkney-grade",
+  "name": "Shenandoah Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "9354 Orkney Grade, VA",
+  "locationCity": "9354 Orkney Grade",
+  "locationState": "VA",
+  "locationZipcode": "22842",
+  "lat": 38.76240401471145,
+  "lon": -78.6914609925316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.406Z"
+}

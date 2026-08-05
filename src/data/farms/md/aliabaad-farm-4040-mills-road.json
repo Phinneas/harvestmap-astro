@@ -1,0 +1,19 @@
+{
+  "slug": "aliabaad-farm-4040-mills-road",
+  "name": "Aliabaad Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4040 Mills Road, MD",
+  "locationCity": "4040 Mills Road",
+  "locationState": "MD",
+  "locationZipcode": "21782",
+  "lat": 39.4267459,
+  "lon": -77.7257369,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.689Z"
+}

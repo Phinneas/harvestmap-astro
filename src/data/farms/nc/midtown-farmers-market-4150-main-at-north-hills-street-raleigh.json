@@ -1,0 +1,19 @@
+{
+  "slug": "midtown-farmers-market-4150-main-at-north-hills-street-raleigh",
+  "name": "Midtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4150 Main at North Hills Street Raleigh, NC",
+  "locationCity": "4150 Main at North Hills Street Raleigh",
+  "locationState": "NC",
+  "locationZipcode": "27609",
+  "lat": 35.836791387817165,
+  "lon": -78.64315967449518,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

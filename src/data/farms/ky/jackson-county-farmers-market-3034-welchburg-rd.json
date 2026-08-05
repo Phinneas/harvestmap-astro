@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-county-farmers-market-3034-welchburg-rd",
+  "name": "Jackson County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3034 Welchburg Rd., KY",
+  "locationCity": "3034 Welchburg Rd.",
+  "locationState": "KY",
+  "locationZipcode": "40486",
+  "lat": 37.330559,
+  "lon": -83.922703,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.725Z"
+}

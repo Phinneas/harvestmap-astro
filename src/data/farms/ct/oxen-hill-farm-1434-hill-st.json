@@ -1,0 +1,19 @@
+{
+  "slug": "oxen-hill-farm-1434-hill-st",
+  "name": "Oxen Hill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1434 Hill ST, CT",
+  "locationCity": "1434 Hill ST",
+  "locationState": "CT",
+  "locationZipcode": "06078",
+  "lat": 42.01867281553274,
+  "lon": -72.6758135076034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.444Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.444Z"
+}

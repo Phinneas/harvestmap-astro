@@ -1,0 +1,19 @@
+{
+  "slug": "portage-park-farmers-market-4100-n-long-avenue-chicago",
+  "name": "Portage Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4100 N. Long Avenue Chicago, IL",
+  "locationCity": "4100 N. Long Avenue Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60641",
+  "lat": 41.95513872008454,
+  "lon": -87.76214396610335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

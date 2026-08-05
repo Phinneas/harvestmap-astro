@@ -1,0 +1,19 @@
+{
+  "slug": "buckingham-farms-931-orange-river-blvd",
+  "name": "Buckingham Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "931 Orange River Blvd., FL",
+  "locationCity": "931 Orange River Blvd.",
+  "locationState": "FL",
+  "locationZipcode": "33905",
+  "lat": 26.6817468228641,
+  "lon": -81.8011744368018,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.789Z"
+}

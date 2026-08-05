@@ -1,0 +1,19 @@
+{
+  "slug": "wayside-inn-farmers-market-7783-main-street",
+  "name": "WaySide Inn Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7783 Main Street, VA",
+  "locationCity": "7783 Main Street",
+  "locationState": "VA",
+  "locationZipcode": "22645",
+  "lat": 39.030360349911824,
+  "lon": -78.27669889607986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

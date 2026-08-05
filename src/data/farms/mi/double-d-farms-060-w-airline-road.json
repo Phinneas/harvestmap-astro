@@ -1,0 +1,19 @@
+{
+  "slug": "double-d-farms-060-w-airline-road",
+  "name": "Double D Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "060 W Airline Road, MI",
+  "locationCity": "060 W Airline Road",
+  "locationState": "MI",
+  "locationZipcode": "48893",
+  "lat": 43.6902400169942,
+  "lon": -85.0253345041261,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.568Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.568Z"
+}

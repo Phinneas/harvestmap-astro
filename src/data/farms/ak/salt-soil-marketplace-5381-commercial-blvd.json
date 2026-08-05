@@ -1,0 +1,19 @@
+{
+  "slug": "salt-soil-marketplace-5381-commercial-blvd",
+  "name": "Salt & Soil Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5381 Commercial Blvd, AK",
+  "locationCity": "5381 Commercial Blvd",
+  "locationState": "AK",
+  "locationZipcode": "99801",
+  "lat": 58.35779582070651,
+  "lon": -134.48722609177707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

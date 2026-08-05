@@ -1,0 +1,19 @@
+{
+  "slug": "meredith-farm-local-food-csa-2820-gardners-road",
+  "name": "Meredith Farm Local Food CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2820 Gardners Road, VA",
+  "locationCity": "2820 Gardners Road",
+  "locationState": "VA",
+  "locationZipcode": "23117",
+  "lat": 37.87913963565563,
+  "lon": -77.85349028085055,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.250Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.250Z"
+}

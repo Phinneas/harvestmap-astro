@@ -1,0 +1,19 @@
+{
+  "slug": "ridgeway-farmers-market-299-hughitt-street",
+  "name": "Ridgeway Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "299 Hughitt Street, WI",
+  "locationCity": "299 Hughitt Street",
+  "locationState": "WI",
+  "locationZipcode": "53582",
+  "lat": 42.998521,
+  "lon": -89.993242,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.718Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.718Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "portland-farmers-market-portland-state-university-sw-park-and-montgomery",
+  "name": "Portland Farmers Market - Portland State University",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "SW Park and Montgomery, OR",
+  "locationCity": "SW Park and Montgomery",
+  "locationState": "OR",
+  "locationZipcode": "97201",
+  "lat": 45.512348,
+  "lon": -122.68483,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.261Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.261Z"
+}

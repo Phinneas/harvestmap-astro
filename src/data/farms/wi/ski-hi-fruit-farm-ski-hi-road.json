@@ -1,0 +1,19 @@
+{
+  "slug": "ski-hi-fruit-farm-ski-hi-road",
+  "name": "Ski-Hi Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ski Hi Road, WI",
+  "locationCity": "Ski Hi Road",
+  "locationState": "WI",
+  "locationZipcode": "53913",
+  "lat": 43.4200260075445,
+  "lon": -89.7606459921336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.445Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.445Z"
+}

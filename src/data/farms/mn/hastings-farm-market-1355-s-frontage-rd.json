@@ -1,0 +1,19 @@
+{
+  "slug": "hastings-farm-market-1355-s-frontage-rd",
+  "name": "Hastings Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1355 S Frontage Rd, MN",
+  "locationCity": "1355 S Frontage Rd",
+  "locationState": "MN",
+  "locationZipcode": "55033",
+  "lat": 44.7371534,
+  "lon": -92.879106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

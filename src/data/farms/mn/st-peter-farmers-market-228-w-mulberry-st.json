@@ -1,0 +1,19 @@
+{
+  "slug": "st-peter-farmers-market-228-w-mulberry-st",
+  "name": "St. Peter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "228 W Mulberry St, MN",
+  "locationCity": "228 W Mulberry St",
+  "locationState": "MN",
+  "locationZipcode": "56082",
+  "lat": 44.3226797,
+  "lon": -93.9599838,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

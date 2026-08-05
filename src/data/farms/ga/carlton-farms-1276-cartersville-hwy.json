@@ -1,0 +1,19 @@
+{
+  "slug": "carlton-farms-1276-cartersville-hwy",
+  "name": "Carlton Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1276 Cartersville Hwy, GA",
+  "locationCity": "1276 Cartersville Hwy",
+  "locationState": "GA",
+  "locationZipcode": "30153",
+  "lat": 34.0288420040295,
+  "lon": -85.0153869972636,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.331Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.331Z"
+}

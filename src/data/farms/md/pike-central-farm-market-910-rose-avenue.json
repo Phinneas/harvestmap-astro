@@ -1,0 +1,19 @@
+{
+  "slug": "pike-central-farm-market-910-rose-avenue",
+  "name": "Pike Central Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "910 Rose Avenue, MD",
+  "locationCity": "910 Rose Avenue",
+  "locationState": "MD",
+  "locationZipcode": "20852",
+  "lat": 39.049352,
+  "lon": -77.117929,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.489Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.489Z"
+}

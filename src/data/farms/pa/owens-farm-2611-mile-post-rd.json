@@ -1,0 +1,20 @@
+{
+  "slug": "owens-farm-2611-mile-post-rd",
+  "name": "Owens Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2611 Mile Post Rd, PA",
+  "locationCity": "2611 Mile Post Rd",
+  "locationState": "PA",
+  "locationZipcode": "17801",
+  "lat": 40.9100269809878,
+  "lon": -76.7046070362928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.059Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.059Z",
+  "crops": []
+}

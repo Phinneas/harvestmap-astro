@@ -1,0 +1,19 @@
+{
+  "slug": "milton-farmers-market-13005-bethany-road-alpharetta",
+  "name": "Milton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13005 Bethany Road Alpharetta, GA",
+  "locationCity": "13005 Bethany Road Alpharetta",
+  "locationState": "GA",
+  "locationZipcode": "13005",
+  "lat": 34.098831818248165,
+  "lon": -84.32611868970206,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

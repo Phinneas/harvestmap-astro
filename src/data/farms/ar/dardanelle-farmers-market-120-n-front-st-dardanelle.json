@@ -1,0 +1,19 @@
+{
+  "slug": "dardanelle-farmers-market-120-n-front-st-dardanelle",
+  "name": "Dardanelle Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 N Front St. Dardanelle, AR",
+  "locationCity": "120 N Front St. Dardanelle",
+  "locationState": "AR",
+  "locationZipcode": "72834",
+  "lat": 35.22063656206551,
+  "lon": -93.1533021269643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "simmons-farm-170-simmons-road",
+  "name": "Simmons Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "170 Simmons Road, PA",
+  "locationCity": "170 Simmons Road",
+  "locationState": "PA",
+  "locationZipcode": "15317",
+  "lat": 40.2682,
+  "lon": -80.083087,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.345Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.345Z"
+}

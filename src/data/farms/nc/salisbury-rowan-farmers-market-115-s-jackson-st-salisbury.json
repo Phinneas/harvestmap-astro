@@ -1,0 +1,19 @@
+{
+  "slug": "salisbury-rowan-farmers-market-115-s-jackson-st-salisbury",
+  "name": "Salisbury Rowan Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 S. Jackson St. Salisbury, NC",
+  "locationCity": "115 S. Jackson St. Salisbury",
+  "locationState": "NC",
+  "locationZipcode": "28144",
+  "lat": 35.66903319851567,
+  "lon": -80.47224866184942,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

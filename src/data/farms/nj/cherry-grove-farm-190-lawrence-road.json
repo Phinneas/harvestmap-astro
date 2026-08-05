@@ -1,0 +1,19 @@
+{
+  "slug": "cherry-grove-farm-190-lawrence-road",
+  "name": "Cherry Grove Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "190 Lawrence Road, NJ",
+  "locationCity": "190 Lawrence Road",
+  "locationState": "NJ",
+  "locationZipcode": "08648",
+  "lat": 40.2474131673316,
+  "lon": -74.7424292852562,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.111Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.111Z"
+}

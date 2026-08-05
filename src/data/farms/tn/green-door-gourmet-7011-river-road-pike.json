@@ -2,20 +2,20 @@
   "slug": "green-door-gourmet-7011-river-road-pike",
   "name": "Green Door Gourmet",
   "source": "usda",
-  "directory": "onfarmmarket",
+  "directory": "csa",
   "location": "7011 River Road Pike, TN",
   "locationCity": "7011 River Road Pike",
   "locationState": "TN",
-  "locationZipcode": "",
-  "lat": 36.140628,
-  "lon": -86.936748,
+  "locationZipcode": "37209",
+  "lat": 36.1405853,
+  "lon": -86.9367847,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:39:04.921Z"
+      "lastSeen": "2026-08-05T18:51:28.790Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:39:04.921Z",
-  "website": "https://www.greendoorgourmet.com/",
+  "usdaLastUpdated": "2026-08-05T18:51:28.790Z",
+  "crops": [],
   "tagline": "The Best of Farm Fresh"
 }

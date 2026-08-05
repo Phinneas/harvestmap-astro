@@ -1,0 +1,19 @@
+{
+  "slug": "midway-umc-pumpkin-patch-930-midway-rd",
+  "name": "Midway UMC Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "930 Midway Rd, GA",
+  "locationCity": "930 Midway Rd",
+  "locationState": "GA",
+  "locationZipcode": "30135",
+  "lat": 33.7488550045494,
+  "lon": -84.698422520105,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.333Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.333Z"
+}

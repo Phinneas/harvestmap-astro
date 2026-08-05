@@ -1,0 +1,19 @@
+{
+  "slug": "white-oak-farm-700-brownstown-road",
+  "name": "White Oak Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "700 Brownstown Road, WV",
+  "locationCity": "700 Brownstown Road",
+  "locationState": "WV",
+  "locationZipcode": "24966",
+  "lat": 37.9984198788501,
+  "lon": -80.3503663426381,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.850Z"
+}

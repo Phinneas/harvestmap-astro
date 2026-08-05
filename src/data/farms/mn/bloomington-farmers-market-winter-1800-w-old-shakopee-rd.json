@@ -1,0 +1,19 @@
+{
+  "slug": "bloomington-farmers-market-winter-1800-w-old-shakopee-rd",
+  "name": "Bloomington Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1800 W Old Shakopee Rd, MN",
+  "locationCity": "1800 W Old Shakopee Rd",
+  "locationState": "MN",
+  "locationZipcode": "55431",
+  "lat": 44.8258883,
+  "lon": -93.3022283,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

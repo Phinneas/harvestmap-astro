@@ -1,0 +1,19 @@
+{
+  "slug": "maas-farms-2270-dewey-road",
+  "name": "Maas Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2270 Dewey Road, PA",
+  "locationCity": "2270 Dewey Road",
+  "locationState": "PA",
+  "locationZipcode": "16428",
+  "lat": 42.2357669995333,
+  "lon": -79.79340398674523,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "union-county-farmers-market-805-skyway-drive-monroe",
+  "name": "Union County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "805 Skyway Drive Monroe, NC",
+  "locationCity": "805 Skyway Drive Monroe",
+  "locationState": "NC",
+  "locationZipcode": "28110",
+  "lat": 34.9880269066923,
+  "lon": -80.54944473225191,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "vanderhelm-farms-678-albers-rd",
+  "name": "VanderHelm Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "678 Albers Rd, CA",
+  "locationCity": "678 Albers Rd",
+  "locationState": "CA",
+  "locationZipcode": "95357",
+  "lat": 37.6502556558036,
+  "lon": -120.847837841856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.780Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.780Z"
+}

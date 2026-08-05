@@ -1,0 +1,19 @@
+{
+  "slug": "rahal-farms-200-bort-road",
+  "name": "Rahal Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 Bort Road, PA",
+  "locationCity": "200 Bort Road",
+  "locationState": "PA",
+  "locationZipcode": "16428",
+  "lat": 42.2248287958088,
+  "lon": -79.7850580316343,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.111Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.111Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farm-of-peace-csa-1212-haven-ln",
+  "name": "Farm of Peace CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1212 Haven Ln, PA",
+  "locationCity": "1212 Haven Ln",
+  "locationState": "PA",
+  "locationZipcode": "17267",
+  "lat": 39.807281,
+  "lon": -78.216729,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.568Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.568Z"
+}

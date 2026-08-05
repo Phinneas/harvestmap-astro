@@ -1,0 +1,19 @@
+{
+  "slug": "cook-county-farmers-market-10-broadway-ave",
+  "name": "Cook County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Broadway Ave, MN",
+  "locationCity": "10 Broadway Ave",
+  "locationState": "MN",
+  "locationZipcode": "55604",
+  "lat": 47.7498294,
+  "lon": -90.3327636,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

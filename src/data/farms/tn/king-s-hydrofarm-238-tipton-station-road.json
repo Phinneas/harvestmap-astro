@@ -1,0 +1,19 @@
+{
+  "slug": "king-s-hydrofarm-238-tipton-station-road",
+  "name": "King's Hydrofarm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "238 Tipton Station Road, TN",
+  "locationCity": "238 Tipton Station Road",
+  "locationState": "TN",
+  "locationZipcode": "37920",
+  "lat": 35.8972030067338,
+  "lon": -83.8301400392457,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.307Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.307Z"
+}

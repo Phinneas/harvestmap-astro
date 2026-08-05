@@ -1,0 +1,19 @@
+{
+  "slug": "champlain-orchards-597-route-74-west",
+  "name": "Champlain Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "597 Route 74 West, VT",
+  "locationCity": "597 Route 74 West",
+  "locationState": "VT",
+  "locationZipcode": "05770",
+  "lat": 43.8860158203547,
+  "lon": -73.3235389420065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.896Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.896Z"
+}

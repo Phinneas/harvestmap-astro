@@ -1,0 +1,19 @@
+{
+  "slug": "ylni-farmer-s-market-302-east-berry-street-fort-wayne",
+  "name": "YLNI Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "302 East Berry Street Fort Wayne, IN",
+  "locationCity": "302 East Berry Street Fort Wayne",
+  "locationState": "IN",
+  "locationZipcode": "46802",
+  "lat": 41.07977996376968,
+  "lon": -85.1363951204689,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

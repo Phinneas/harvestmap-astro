@@ -1,0 +1,19 @@
+{
+  "slug": "pauls-produce-21045-hwy-55-e",
+  "name": "Pauls Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "21045 HWY 55 e, NC",
+  "locationCity": "21045 HWY 55 e",
+  "locationState": "NC",
+  "locationZipcode": "21045",
+  "lat": 35.08152954051343,
+  "lon": -76.71482331897822,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.461Z"
+}

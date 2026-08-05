@@ -1,0 +1,19 @@
+{
+  "slug": "new-canaan-farmers-market-64-maple-street-new-canaan",
+  "name": "New Canaan Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "64 Maple Street New Canaan, CT",
+  "locationCity": "64 Maple Street New Canaan",
+  "locationState": "CT",
+  "locationZipcode": "06840",
+  "lat": 41.144576124084544,
+  "lon": -73.49359306847397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

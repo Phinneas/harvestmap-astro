@@ -1,0 +1,19 @@
+{
+  "slug": "richmond-farmers-market-286-bridge-st",
+  "name": "Richmond Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "286 Bridge St, VT",
+  "locationCity": "286 Bridge St",
+  "locationState": "VT",
+  "locationZipcode": "05477",
+  "lat": 44.402469614681735,
+  "lon": -72.99592125118316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

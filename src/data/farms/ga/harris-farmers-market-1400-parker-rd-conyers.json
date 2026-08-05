@@ -1,0 +1,19 @@
+{
+  "slug": "harris-farmers-market-1400-parker-rd-conyers",
+  "name": "Harris Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1400 Parker Rd Conyers, GA",
+  "locationCity": "1400 Parker Rd Conyers",
+  "locationState": "GA",
+  "locationZipcode": "30084",
+  "lat": 33.65252900107416,
+  "lon": -84.01913502440748,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rancho-zaragoza-320-walnut-blvd",
+  "name": "Rancho Zaragoza",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "320 Walnut Blvd, CA",
+  "locationCity": "320 Walnut Blvd",
+  "locationState": "CA",
+  "locationZipcode": "94513",
+  "lat": 37.8792597566554,
+  "lon": -121.696788769359,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.757Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.757Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "johnson-s-farm-produce-718-west-hwy-30",
+  "name": "Johnson's Farm Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "718 West HWY 30, IN",
+  "locationCity": "718 West HWY 30",
+  "locationState": "IN",
+  "locationZipcode": "46383",
+  "lat": 41.460042416164164,
+  "lon": -87.06984563843824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.599Z"
+}

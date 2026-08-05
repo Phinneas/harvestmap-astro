@@ -1,0 +1,19 @@
+{
+  "slug": "guilderland-farmers-market-6147-state-farm-rd-guilderland",
+  "name": "Guilderland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6147 state farm rd Guilderland, NY",
+  "locationCity": "6147 state farm rd Guilderland",
+  "locationState": "NY",
+  "locationZipcode": "12084",
+  "lat": 42.69580405989847,
+  "lon": -73.8895905009987,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "warren-farms-vineyard-800-arcan-circle",
+  "name": "Warren Farms Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "800 Arcan Circle, NC",
+  "locationCity": "800 Arcan Circle",
+  "locationState": "NC",
+  "locationZipcode": "28562",
+  "lat": 35.0860189297637,
+  "lon": -77.0671738018595,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.889Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.889Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "finnell-farms-840-buffalo-road",
+  "name": "Finnell Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "840 Buffalo Road, PA",
+  "locationCity": "840 Buffalo Road",
+  "locationState": "PA",
+  "locationZipcode": "16421",
+  "lat": 42.1738779164324,
+  "lon": -79.9434870297626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.085Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.085Z"
+}

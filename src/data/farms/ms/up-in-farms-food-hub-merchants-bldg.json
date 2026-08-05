@@ -1,0 +1,19 @@
+{
+  "slug": "up-in-farms-food-hub-merchants-bldg",
+  "name": "Up in Farms Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Merchants Bldg, MS",
+  "locationCity": "Merchants Bldg",
+  "locationState": "MS",
+  "locationZipcode": "39216",
+  "lat": 32.3271613,
+  "lon": -90.18259,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.910Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.910Z"
+}

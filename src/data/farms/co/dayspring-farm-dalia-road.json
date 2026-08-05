@@ -1,0 +1,19 @@
+{
+  "slug": "dayspring-farm-dalia-road",
+  "name": "Dayspring Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dalia Road, CO",
+  "locationCity": "Dalia Road",
+  "locationState": "CO",
+  "locationZipcode": "81425",
+  "lat": 38.6168727598232,
+  "lon": -107.963845901174,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.267Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.267Z"
+}

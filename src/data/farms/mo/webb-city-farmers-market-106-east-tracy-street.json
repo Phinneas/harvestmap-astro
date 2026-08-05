@@ -1,0 +1,19 @@
+{
+  "slug": "webb-city-farmers-market-106-east-tracy-street",
+  "name": "Webb City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 East Tracy Street, MO",
+  "locationCity": "106 East Tracy Street",
+  "locationState": "MO",
+  "locationZipcode": "64870",
+  "lat": 37.140206,
+  "lon": -94.462592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.453Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.453Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "four-town-farm-130-george-street",
+  "name": "Four Town Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "130 George Street, RI",
+  "locationCity": "130 George Street",
+  "locationState": "RI",
+  "locationZipcode": "02806",
+  "lat": 41.7759062870293,
+  "lon": -71.3138267450565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:30.844Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:30.844Z"
+}

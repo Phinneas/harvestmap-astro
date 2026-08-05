@@ -1,0 +1,20 @@
+{
+  "slug": "walnut-drive-gardens-562-randolph-road",
+  "name": "Walnut Drive Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "562 Randolph Road, OH",
+  "locationCity": "562 Randolph Road",
+  "locationState": "OH",
+  "locationZipcode": "44260",
+  "lat": 41.0454719984184,
+  "lon": -81.3719910296481,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.818Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.818Z",
+  "crops": []
+}

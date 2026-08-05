@@ -1,0 +1,19 @@
+{
+  "slug": "fisher-s-produce-po-box-427",
+  "name": "Fisher's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "PO Box 427, NC",
+  "locationCity": "PO Box 427",
+  "locationState": "NC",
+  "locationZipcode": "27809",
+  "lat": 36.0491825,
+  "lon": -77.7527577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.894Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.894Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hernando-farmers-market-2535-highway-51-south",
+  "name": "Hernando Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2535 Highway 51 South, MS",
+  "locationCity": "2535 Highway 51 South",
+  "locationState": "MS",
+  "locationZipcode": "38632",
+  "lat": 34.823026,
+  "lon": -89.994281,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.104Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.104Z"
+}

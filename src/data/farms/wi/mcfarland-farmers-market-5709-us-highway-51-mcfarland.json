@@ -1,0 +1,19 @@
+{
+  "slug": "mcfarland-farmers-market-5709-us-highway-51-mcfarland",
+  "name": "McFarland Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5709 US Highway 51 McFarland, WI",
+  "locationCity": "5709 US Highway 51 McFarland",
+  "locationState": "WI",
+  "locationZipcode": "53589",
+  "lat": 43.01860807448778,
+  "lon": -89.30022615542146,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

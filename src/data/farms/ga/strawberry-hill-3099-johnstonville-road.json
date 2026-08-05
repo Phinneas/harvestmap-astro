@@ -1,0 +1,19 @@
+{
+  "slug": "strawberry-hill-3099-johnstonville-road",
+  "name": "Strawberry Hill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3099 Johnstonville Road, GA",
+  "locationCity": "3099 Johnstonville Road",
+  "locationState": "GA",
+  "locationZipcode": "31029",
+  "lat": 33.1153092620737,
+  "lon": -83.993123130071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.391Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.391Z"
+}

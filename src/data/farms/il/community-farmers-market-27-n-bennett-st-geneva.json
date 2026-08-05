@@ -1,0 +1,19 @@
+{
+  "slug": "community-farmers-market-27-n-bennett-st-geneva",
+  "name": "Community Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "27 N. Bennett St. Geneva, IL",
+  "locationCity": "27 N. Bennett St. Geneva",
+  "locationState": "IL",
+  "locationZipcode": "60134",
+  "lat": 41.887308778005625,
+  "lon": -88.30034806677428,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

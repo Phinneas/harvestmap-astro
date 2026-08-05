@@ -1,0 +1,19 @@
+{
+  "slug": "at-the-farm-roadside-farmers-market-8880-highway-5-east",
+  "name": "At the Farm - Roadside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8880 Highway 5 East, MN",
+  "locationCity": "8880 Highway 5 East",
+  "locationState": "MN",
+  "locationZipcode": "55387",
+  "lat": 44.85908097982989,
+  "lon": -93.74645811191495,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.773Z"
+}

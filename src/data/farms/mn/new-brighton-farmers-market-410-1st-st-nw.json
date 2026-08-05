@@ -1,0 +1,19 @@
+{
+  "slug": "new-brighton-farmers-market-410-1st-st-nw",
+  "name": "New Brighton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "410 1st St NW, MN",
+  "locationCity": "410 1st St NW",
+  "locationState": "MN",
+  "locationZipcode": "55112",
+  "lat": 45.0514263,
+  "lon": -93.1920361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

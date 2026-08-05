@@ -1,0 +1,19 @@
+{
+  "slug": "cm-farms-200-john-broussard-rd",
+  "name": "Cm Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "200 John Broussard Rd, LA",
+  "locationCity": "200 John Broussard Rd",
+  "locationState": "LA",
+  "locationZipcode": "70637",
+  "lat": 30.703111356173935,
+  "lon": -93.02892297179234,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

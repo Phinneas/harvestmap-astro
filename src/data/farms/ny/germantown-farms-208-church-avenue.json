@@ -1,0 +1,19 @@
+{
+  "slug": "germantown-farms-208-church-avenue",
+  "name": "Germantown Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "208 Church Avenue, NY",
+  "locationCity": "208 Church Avenue",
+  "locationState": "NY",
+  "locationZipcode": "12526",
+  "lat": 42.11912472831045,
+  "lon": -73.882202810553,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.468Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.468Z"
+}

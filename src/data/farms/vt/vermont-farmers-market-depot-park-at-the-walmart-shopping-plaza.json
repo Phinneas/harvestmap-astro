@@ -1,0 +1,19 @@
+{
+  "slug": "vermont-farmers-market-depot-park-at-the-walmart-shopping-plaza",
+  "name": "Vermont Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Depot Park (at the Walmart Shopping Plaza), VT",
+  "locationCity": "Depot Park (at the Walmart Shopping Plaza)",
+  "locationState": "VT",
+  "locationZipcode": "05701",
+  "lat": 43.605826,
+  "lon": -72.980071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.132Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.132Z"
+}

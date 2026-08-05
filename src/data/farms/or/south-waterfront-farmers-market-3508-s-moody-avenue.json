@@ -1,0 +1,19 @@
+{
+  "slug": "south-waterfront-farmers-market-3508-s-moody-avenue",
+  "name": "South Waterfront Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3508 S Moody Avenue, OR",
+  "locationCity": "3508 S Moody Avenue",
+  "locationState": "OR",
+  "locationZipcode": "97239",
+  "lat": 45.496936,
+  "lon": -122.67104,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.304Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.304Z"
+}

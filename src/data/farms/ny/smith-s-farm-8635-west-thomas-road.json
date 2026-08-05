@@ -1,0 +1,19 @@
+{
+  "slug": "smith-s-farm-8635-west-thomas-road",
+  "name": "Smith's Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8635 West Thomas Road, NY",
+  "locationCity": "8635 West Thomas Road",
+  "locationState": "NY",
+  "locationZipcode": "13440",
+  "lat": 43.279942294247434,
+  "lon": -75.515026131419,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.829Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.829Z"
+}

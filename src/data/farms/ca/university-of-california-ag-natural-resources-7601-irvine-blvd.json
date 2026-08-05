@@ -1,0 +1,19 @@
+{
+  "slug": "university-of-california-ag-natural-resources-7601-irvine-blvd",
+  "name": "University of California Ag Natural Resources",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7601 Irvine Blvd, CA",
+  "locationCity": "7601 Irvine Blvd",
+  "locationState": "CA",
+  "locationZipcode": "92618",
+  "lat": 33.68841034496205,
+  "lon": -117.723453611589,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.850Z"
+}

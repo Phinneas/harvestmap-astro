@@ -1,0 +1,19 @@
+{
+  "slug": "petersham-friday-market-petersham",
+  "name": "Petersham Friday Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Petersham, MA",
+  "locationCity": "Petersham",
+  "locationState": "MA",
+  "locationZipcode": "01366",
+  "lat": 42.488744,
+  "lon": -72.186669,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.741Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.741Z"
+}

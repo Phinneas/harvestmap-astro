@@ -1,0 +1,19 @@
+{
+  "slug": "ramos-farm-404-brooks-lane",
+  "name": "Ramos Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "404 Brooks Lane, TX",
+  "locationCity": "404 Brooks Lane",
+  "locationState": "TX",
+  "locationZipcode": "78065",
+  "lat": 29.0707539948964,
+  "lon": -98.7104940222159,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.653Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.653Z"
+}

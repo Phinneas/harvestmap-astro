@@ -1,0 +1,19 @@
+{
+  "slug": "henderson-produce-740-nc-71-hwy-north",
+  "name": "Henderson Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "740 NC 71 Hwy North, NC",
+  "locationCity": "740 NC 71 Hwy North",
+  "locationState": "NC",
+  "locationZipcode": "28364",
+  "lat": 34.7592804134457,
+  "lon": -79.3396350198187,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.838Z"
+}

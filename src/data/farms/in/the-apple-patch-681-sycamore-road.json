@@ -1,0 +1,19 @@
+{
+  "slug": "the-apple-patch-681-sycamore-road",
+  "name": "The Apple Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "681 Sycamore Road, IN",
+  "locationCity": "681 Sycamore Road",
+  "locationState": "IN",
+  "locationZipcode": "46554",
+  "lat": 41.5417125409546,
+  "lon": -86.4077774600918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.389Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.389Z"
+}

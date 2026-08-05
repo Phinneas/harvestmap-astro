@@ -1,0 +1,19 @@
+{
+  "slug": "triple-a-farms-8322-hwy-99",
+  "name": "Triple A Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8322 Hwy 99, TN",
+  "locationCity": "8322 Hwy 99",
+  "locationState": "TN",
+  "locationZipcode": "37153",
+  "lat": 35.763157,
+  "lon": -86.521768,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.791Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.791Z"
+}

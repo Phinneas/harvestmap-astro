@@ -1,0 +1,19 @@
+{
+  "slug": "ort-farms-25-bartley-road",
+  "name": "Ort Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "25 Bartley Road, NJ",
+  "locationCity": "25 Bartley Road",
+  "locationState": "NJ",
+  "locationZipcode": "07853",
+  "lat": 40.78769201449478,
+  "lon": -74.75643397064714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:24.780Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:24.780Z"
+}

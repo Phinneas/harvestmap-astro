@@ -1,0 +1,19 @@
+{
+  "slug": "hellers-farm-48-hover-avenue",
+  "name": "Hellers Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "48 Hover Avenue, NY",
+  "locationCity": "48 Hover Avenue",
+  "locationState": "NY",
+  "locationZipcode": "12526",
+  "lat": 42.158253380171146,
+  "lon": -73.86712385055941,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.827Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.827Z"
+}

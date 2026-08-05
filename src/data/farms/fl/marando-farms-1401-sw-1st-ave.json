@@ -1,0 +1,19 @@
+{
+  "slug": "marando-farms-1401-sw-1st-ave",
+  "name": "Marando Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1401 SW 1st Ave., FL",
+  "locationCity": "1401 SW 1st Ave.",
+  "locationState": "FL",
+  "locationZipcode": "33315",
+  "lat": 26.10422499762113,
+  "lon": -80.14384498826408,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:37.837Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:37.837Z"
+}

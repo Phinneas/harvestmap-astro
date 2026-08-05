@@ -1,0 +1,19 @@
+{
+  "slug": "maria-s-vineyard-940-fortner-street",
+  "name": "Maria's Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "940 Fortner Street, AL",
+  "locationCity": "940 Fortner Street",
+  "locationState": "AL",
+  "locationZipcode": "36305",
+  "lat": 31.2153563004673,
+  "lon": -85.4074312912635,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.613Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.613Z"
+}

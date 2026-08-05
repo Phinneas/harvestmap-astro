@@ -1,0 +1,20 @@
+{
+  "slug": "rose-orchards-33-route-139",
+  "name": "Rose Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "33 Route 139, CT",
+  "locationCity": "33 Route 139",
+  "locationState": "CT",
+  "locationZipcode": "06471",
+  "lat": 41.3070915370615,
+  "lon": -72.7706054412295,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.945Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.945Z",
+  "crops": []
+}

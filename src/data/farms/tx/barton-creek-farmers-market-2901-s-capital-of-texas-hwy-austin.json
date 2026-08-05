@@ -1,0 +1,19 @@
+{
+  "slug": "barton-creek-farmers-market-2901-s-capital-of-texas-hwy-austin",
+  "name": "Barton Creek Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2901 S Capital of Texas Hwy Austin, TX",
+  "locationCity": "2901 S Capital of Texas Hwy Austin",
+  "locationState": "TX",
+  "locationZipcode": "78746",
+  "lat": 30.256018536514816,
+  "lon": -97.81051995446995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "spring-creek-meats-21010-county-highway-r",
+  "name": "Spring Creek Meats",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "21010 County Highway R, WI",
+  "locationCity": "21010 County Highway R",
+  "locationState": "WI",
+  "locationZipcode": "21010",
+  "lat": 45.135569,
+  "lon": -91.253864,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:17.439Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:17.439Z"
+}

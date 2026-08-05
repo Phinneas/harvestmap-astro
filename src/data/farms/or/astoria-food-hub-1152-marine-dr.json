@@ -1,0 +1,19 @@
+{
+  "slug": "astoria-food-hub-1152-marine-dr",
+  "name": "Astoria Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1152 Marine Dr, OR",
+  "locationCity": "1152 Marine Dr",
+  "locationState": "OR",
+  "locationZipcode": "97103",
+  "lat": 46.18999398601707,
+  "lon": -123.83104199721993,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:04.362Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:04.362Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "love-apple-farm-1421-state-route-9h",
+  "name": "Love Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1421 State Route 9H, NY",
+  "locationCity": "1421 State Route 9H",
+  "locationState": "NY",
+  "locationZipcode": "12075",
+  "lat": 42.3110937384474,
+  "lon": -73.7023111589729,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.935Z",
+  "crops": []
+}

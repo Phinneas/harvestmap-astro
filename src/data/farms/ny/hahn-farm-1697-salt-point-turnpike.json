@@ -1,0 +1,19 @@
+{
+  "slug": "hahn-farm-1697-salt-point-turnpike",
+  "name": "Hahn Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1697 Salt Point Turnpike, NY",
+  "locationCity": "1697 Salt Point Turnpike",
+  "locationState": "NY",
+  "locationZipcode": "12578",
+  "lat": 41.7977251353663,
+  "lon": -73.8082481053696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.223Z"
+}

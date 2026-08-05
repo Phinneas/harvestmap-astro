@@ -1,0 +1,19 @@
+{
+  "slug": "mcdowell-county-farms-po-box-68",
+  "name": "McDowell County Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 68, WV",
+  "locationCity": "PO Box 68",
+  "locationState": "WV",
+  "locationZipcode": "24815",
+  "lat": 37.268725,
+  "lon": -81.6667753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:34.318Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:34.318Z"
+}

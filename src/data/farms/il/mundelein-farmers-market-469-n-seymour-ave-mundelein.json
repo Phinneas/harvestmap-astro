@@ -1,0 +1,19 @@
+{
+  "slug": "mundelein-farmers-market-469-n-seymour-ave-mundelein",
+  "name": "Mundelein Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "469 N.Seymour Ave. Mundelein, IL",
+  "locationCity": "469 N.Seymour Ave. Mundelein",
+  "locationState": "IL",
+  "locationZipcode": "60060",
+  "lat": 42.26996853515331,
+  "lon": -88.00253171000352,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

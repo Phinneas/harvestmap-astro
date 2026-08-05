@@ -1,0 +1,19 @@
+{
+  "slug": "food-share-of-ventura-county-4156-southbank-rd",
+  "name": "Food Share of Ventura County",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "4156 Southbank Rd, CA",
+  "locationCity": "4156 Southbank Rd",
+  "locationState": "CA",
+  "locationZipcode": "93036",
+  "lat": 34.25546398118858,
+  "lon": -119.16170602625316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

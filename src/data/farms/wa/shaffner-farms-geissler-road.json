@@ -1,0 +1,19 @@
+{
+  "slug": "shaffner-farms-geissler-road",
+  "name": "Shaffner Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Geissler Road, WA",
+  "locationCity": "Geissler Road",
+  "locationState": "WA",
+  "locationZipcode": "98573",
+  "lat": 47.0073839821887,
+  "lon": -123.667009996095,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.334Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.334Z"
+}

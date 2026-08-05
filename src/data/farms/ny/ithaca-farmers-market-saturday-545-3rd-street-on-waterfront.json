@@ -1,0 +1,19 @@
+{
+  "slug": "ithaca-farmers-market-saturday-545-3rd-street-on-waterfront",
+  "name": "Ithaca Farmers Market (Saturday)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "545 3rd Street on waterfront, NY",
+  "locationCity": "545 3rd Street on waterfront",
+  "locationState": "NY",
+  "locationZipcode": "14850",
+  "lat": 42.449922422126946,
+  "lon": -76.50817160752592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

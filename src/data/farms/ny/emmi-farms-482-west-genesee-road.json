@@ -1,0 +1,19 @@
+{
+  "slug": "emmi-farms-482-west-genesee-road",
+  "name": "Emmi Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "482 West Genesee Road, NY",
+  "locationCity": "482 West Genesee Road",
+  "locationState": "NY",
+  "locationZipcode": "13027",
+  "lat": 43.1603935237381,
+  "lon": -76.4664764824091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.221Z"
+}

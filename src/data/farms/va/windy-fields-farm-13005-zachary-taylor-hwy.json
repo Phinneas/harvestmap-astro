@@ -1,0 +1,19 @@
+{
+  "slug": "windy-fields-farm-13005-zachary-taylor-hwy",
+  "name": "Windy Fields Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "13005 Zachary Taylor Hwy, VA",
+  "locationCity": "13005 Zachary Taylor Hwy",
+  "locationState": "VA",
+  "locationZipcode": "13005",
+  "lat": 38.22899972937489,
+  "lon": -77.94797327273896,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.244Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.244Z"
+}

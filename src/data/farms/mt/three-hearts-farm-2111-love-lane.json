@@ -1,0 +1,19 @@
+{
+  "slug": "three-hearts-farm-2111-love-lane",
+  "name": "Three Hearts Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2111 Love Lane, MT",
+  "locationCity": "2111 Love Lane",
+  "locationState": "MT",
+  "locationZipcode": "59718",
+  "lat": 45.7224984,
+  "lon": -111.1466523,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:15.491Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:15.491Z"
+}

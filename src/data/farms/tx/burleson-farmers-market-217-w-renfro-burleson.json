@@ -1,0 +1,19 @@
+{
+  "slug": "burleson-farmers-market-217-w-renfro-burleson",
+  "name": "Burleson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "217 W Renfro Burleson, TX",
+  "locationCity": "217 W Renfro Burleson",
+  "locationState": "TX",
+  "locationZipcode": "76028",
+  "lat": 32.54287434106497,
+  "lon": -97.32390964137781,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

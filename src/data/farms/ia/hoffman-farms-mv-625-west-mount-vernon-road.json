@@ -1,0 +1,19 @@
+{
+  "slug": "hoffman-farms-mv-625-west-mount-vernon-road",
+  "name": "Hoffman Farms MV",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "625 West Mount Vernon Road, IA",
+  "locationCity": "625 West Mount Vernon Road",
+  "locationState": "IA",
+  "locationZipcode": "52314",
+  "lat": 41.93596300293504,
+  "lon": -91.43416999440369,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:40.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:40.605Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jones-farm-produce-325-river-road-ne",
+  "name": "Jones Farm Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "325 River Road Ne, OR",
+  "locationCity": "325 River Road Ne",
+  "locationState": "OR",
+  "locationZipcode": "97303",
+  "lat": 45.0460379398712,
+  "lon": -122.990241106056,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.918Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.918Z"
+}

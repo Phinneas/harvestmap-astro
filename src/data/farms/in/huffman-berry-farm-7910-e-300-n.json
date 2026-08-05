@@ -1,0 +1,19 @@
+{
+  "slug": "huffman-berry-farm-7910-e-300-n",
+  "name": "Huffman Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7910 E 300 N, IN",
+  "locationCity": "7910 E 300 N",
+  "locationState": "IN",
+  "locationZipcode": "47905",
+  "lat": 40.46153300928955,
+  "lon": -86.75400100031588,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.453Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.453Z"
+}

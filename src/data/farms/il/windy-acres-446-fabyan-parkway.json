@@ -1,0 +1,19 @@
+{
+  "slug": "windy-acres-446-fabyan-parkway",
+  "name": "Windy Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "446 Fabyan Parkway, IL",
+  "locationCity": "446 Fabyan Parkway",
+  "locationState": "IL",
+  "locationZipcode": "60134",
+  "lat": 41.864930019651,
+  "lon": -88.3681631360814,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.924Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.924Z"
+}

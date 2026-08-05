@@ -1,0 +1,19 @@
+{
+  "slug": "sunflower-farm-lisbon-woodbine",
+  "name": "Sunflower Farm Lisbon",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Woodbine, MD",
+  "locationCity": "Woodbine",
+  "locationState": "MD",
+  "locationZipcode": "21797",
+  "lat": 39.3358650000001,
+  "lon": -77.07413,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.233Z"
+}

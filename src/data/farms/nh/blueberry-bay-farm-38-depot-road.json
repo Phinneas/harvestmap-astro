@@ -9,24 +9,12 @@
   "locationZipcode": "03885",
   "lat": 43.0477859978787,
   "lon": -70.8945900159397,
-  "website": "https://www.blueberrybayfarm.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:33:12.466Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:33:23.059Z"
+      "lastSeen": "2026-08-05T18:45:47.701Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:33:12.466Z",
-  "crops": [
-    "Blueberries",
-    "Pumpkins",
-    "Squash",
-    "Herbs",
-    "Flowers"
-  ],
-  "phone": "603-580-1612"
+  "usdaLastUpdated": "2026-08-05T18:45:47.701Z",
+  "crops": []
 }

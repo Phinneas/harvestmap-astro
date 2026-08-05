@@ -1,0 +1,19 @@
+{
+  "slug": "scotts-orchard-2163-scott-road",
+  "name": "Scotts Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2163 Scott Road, AL",
+  "locationCity": "2163 Scott Road",
+  "locationState": "AL",
+  "locationZipcode": "35750",
+  "lat": 34.98851899755584,
+  "lon": -86.6766419851578,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:51.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:51.809Z"
+}

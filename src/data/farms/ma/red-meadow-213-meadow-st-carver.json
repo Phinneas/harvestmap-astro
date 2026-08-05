@@ -1,0 +1,19 @@
+{
+  "slug": "red-meadow-213-meadow-st-carver",
+  "name": "Red Meadow",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "213 Meadow St. Carver, MA",
+  "locationCity": "213 Meadow St. Carver",
+  "locationState": "MA",
+  "locationZipcode": "02330",
+  "lat": 41.84790205762158,
+  "lon": -70.78729696142827,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.906Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.906Z"
+}

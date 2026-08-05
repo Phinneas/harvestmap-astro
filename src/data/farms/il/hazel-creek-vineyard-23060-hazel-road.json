@@ -1,0 +1,19 @@
+{
+  "slug": "hazel-creek-vineyard-23060-hazel-road",
+  "name": "Hazel Creek Vineyard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "23060 Hazel Road, IL",
+  "locationCity": "23060 Hazel Road",
+  "locationState": "IL",
+  "locationZipcode": "23060",
+  "lat": 41.816303,
+  "lon": -89.815149,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.635Z"
+}

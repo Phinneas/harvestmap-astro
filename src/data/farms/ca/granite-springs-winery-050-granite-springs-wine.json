@@ -1,0 +1,19 @@
+{
+  "slug": "granite-springs-winery-050-granite-springs-wine",
+  "name": "Granite Springs Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "050 Granite Springs Wine, CA",
+  "locationCity": "050 Granite Springs Wine",
+  "locationState": "CA",
+  "locationZipcode": "95684",
+  "lat": 38.6031476144568,
+  "lon": -120.677335416643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.823Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.823Z"
+}

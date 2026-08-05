@@ -1,0 +1,19 @@
+{
+  "slug": "fawn-crossing-farms-4584-fawn-crossing",
+  "name": "Fawn Crossing Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4584 Fawn Crossing, VA",
+  "locationCity": "4584 Fawn Crossing",
+  "locationState": "VA",
+  "locationZipcode": "22812",
+  "lat": 38.40117500089164,
+  "lon": -78.98679802147056,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.367Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.367Z"
+}

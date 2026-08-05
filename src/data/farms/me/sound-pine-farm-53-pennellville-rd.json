@@ -1,0 +1,19 @@
+{
+  "slug": "sound-pine-farm-53-pennellville-rd",
+  "name": "Sound Pine Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "53 Pennellville Rd, ME",
+  "locationCity": "53 Pennellville Rd",
+  "locationState": "ME",
+  "locationZipcode": "04011",
+  "lat": 43.8707677,
+  "lon": -69.9565858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.564Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.564Z"
+}

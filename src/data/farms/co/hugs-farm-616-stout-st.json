@@ -1,0 +1,19 @@
+{
+  "slug": "hugs-farm-616-stout-st",
+  "name": "Hugs Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "616 Stout St, CO",
+  "locationCity": "616 Stout St",
+  "locationState": "CO",
+  "locationZipcode": "81089",
+  "lat": 37.6300888,
+  "lon": -104.79355,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:05.315Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:05.315Z"
+}

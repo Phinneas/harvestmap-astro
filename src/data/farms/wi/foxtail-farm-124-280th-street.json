@@ -1,0 +1,19 @@
+{
+  "slug": "foxtail-farm-124-280th-street",
+  "name": "Foxtail Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "124 280th Street, WI",
+  "locationCity": "124 280th Street",
+  "locationState": "WI",
+  "locationZipcode": "54020",
+  "lat": 45.2258732,
+  "lon": -92.7319347,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:11.982Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:11.982Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "parker-gardens-325-terrill-rd",
+  "name": "Parker Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "325 Terrill Rd, NJ",
+  "locationCity": "325 Terrill Rd",
+  "locationState": "NJ",
+  "locationZipcode": "07076",
+  "lat": 40.6443050180768,
+  "lon": -74.4080420091786,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.056Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.056Z"
+}

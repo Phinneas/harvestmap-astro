@@ -1,0 +1,19 @@
+{
+  "slug": "rebop-farm-1320-sunset-lake-road",
+  "name": "Rebop Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1320 Sunset Lake Road, VT",
+  "locationCity": "1320 Sunset Lake Road",
+  "locationState": "VT",
+  "locationZipcode": "05301",
+  "lat": 42.89070770744732,
+  "lon": -72.65517047264389,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.145Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.145Z"
+}

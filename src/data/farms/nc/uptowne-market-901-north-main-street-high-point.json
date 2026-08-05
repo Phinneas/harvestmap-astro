@@ -1,0 +1,19 @@
+{
+  "slug": "uptowne-market-901-north-main-street-high-point",
+  "name": "Uptowne Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "901 North Main Street High Point, NC",
+  "locationCity": "901 North Main Street High Point",
+  "locationState": "NC",
+  "locationZipcode": "27261",
+  "lat": 35.96579012135667,
+  "lon": -80.01262822202548,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

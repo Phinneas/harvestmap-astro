@@ -1,0 +1,19 @@
+{
+  "slug": "new-albany-farmers-market-112-fairgrounds-circle-new-albany",
+  "name": "New Albany Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 Fairgrounds Circle New Albany, MS",
+  "locationCity": "112 Fairgrounds Circle New Albany",
+  "locationState": "MS",
+  "locationZipcode": "38652",
+  "lat": 34.51261728861937,
+  "lon": -89.0329479752956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

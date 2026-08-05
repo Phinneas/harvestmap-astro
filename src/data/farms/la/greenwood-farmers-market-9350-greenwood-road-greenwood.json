@@ -1,0 +1,19 @@
+{
+  "slug": "greenwood-farmers-market-9350-greenwood-road-greenwood",
+  "name": "Greenwood Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9350 Greenwood Road Greenwood, LA",
+  "locationCity": "9350 Greenwood Road Greenwood",
+  "locationState": "LA",
+  "locationZipcode": "71033",
+  "lat": 32.44354828217612,
+  "lon": -93.97234454449473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "redemption-springs-2414-patapsco-rd",
+  "name": "Redemption Springs",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2414 Patapsco Rd, MD",
+  "locationCity": "2414 Patapsco Rd",
+  "locationState": "MD",
+  "locationZipcode": "21048",
+  "lat": 39.54281079095918,
+  "lon": -76.91048619193514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.721Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.721Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "burt-s-farm-801-highway-52",
+  "name": "Burt's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "801 Highway 52, GA",
+  "locationCity": "801 Highway 52",
+  "locationState": "GA",
+  "locationZipcode": "30534",
+  "lat": 34.536092692502,
+  "lon": -84.1964183027516,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.353Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.353Z"
+}

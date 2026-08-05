@@ -1,0 +1,20 @@
+{
+  "slug": "t-and-t-farms-698-hwy-338",
+  "name": "T and T Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "698 Hwy 338, GA",
+  "locationCity": "698 Hwy 338",
+  "locationState": "GA",
+  "locationZipcode": "31021",
+  "lat": 32.5778289942899,
+  "lon": -83.0214009634319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.325Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.325Z",
+  "crops": []
+}

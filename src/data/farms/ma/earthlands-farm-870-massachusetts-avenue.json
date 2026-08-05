@@ -1,0 +1,19 @@
+{
+  "slug": "earthlands-farm-870-massachusetts-avenue",
+  "name": "Earthlands Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "870 Massachusetts Avenue, MA",
+  "locationCity": "870 Massachusetts Avenue",
+  "locationState": "MA",
+  "locationZipcode": "02420",
+  "lat": 42.4315059,
+  "lon": -71.2081835,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.273Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.273Z"
+}

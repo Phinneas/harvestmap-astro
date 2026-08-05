@@ -1,0 +1,19 @@
+{
+  "slug": "hickoryworks-inc-3615-peoga-road",
+  "name": "Hickoryworks Inc.",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3615 Peoga Road, IN",
+  "locationCity": "3615 Peoga Road",
+  "locationState": "IN",
+  "locationZipcode": "46181",
+  "lat": 39.333861008907604,
+  "lon": -86.18496298146665,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:10.552Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:10.552Z"
+}

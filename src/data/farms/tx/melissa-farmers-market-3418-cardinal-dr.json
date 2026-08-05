@@ -1,0 +1,19 @@
+{
+  "slug": "melissa-farmers-market-3418-cardinal-dr",
+  "name": "Melissa Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3418 Cardinal Dr, TX",
+  "locationCity": "3418 Cardinal Dr",
+  "locationState": "TX",
+  "locationZipcode": "75454",
+  "lat": 33.29460779999999,
+  "lon": -96.5744023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.222Z"
+}

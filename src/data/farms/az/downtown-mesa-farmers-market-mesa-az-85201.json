@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-mesa-farmers-market-mesa-az-85201",
+  "name": "Downtown Mesa Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Mesa AZ 85201, AZ",
+  "locationCity": "Mesa AZ 85201",
+  "locationState": "AZ",
+  "locationZipcode": "85201",
+  "lat": 33.42158500000005,
+  "lon": -111.83534499999996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

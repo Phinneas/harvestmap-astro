@@ -1,0 +1,19 @@
+{
+  "slug": "hilger-s-friendly-market-13210-us-30-west-fort-wayne",
+  "name": "Hilger's Friendly Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13210 US 30 West Fort Wayne, IN",
+  "locationCity": "13210 US 30 West Fort Wayne",
+  "locationState": "IN",
+  "locationZipcode": "13210",
+  "lat": 41.12573143760674,
+  "lon": -85.31518652996411,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

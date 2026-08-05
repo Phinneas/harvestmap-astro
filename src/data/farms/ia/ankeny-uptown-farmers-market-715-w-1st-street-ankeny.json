@@ -1,0 +1,19 @@
+{
+  "slug": "ankeny-uptown-farmers-market-715-w-1st-street-ankeny",
+  "name": "Ankeny Uptown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "715 W 1st Street Ankeny, IA",
+  "locationCity": "715 W 1st Street Ankeny",
+  "locationState": "IA",
+  "locationZipcode": "50023",
+  "lat": 41.731899935984615,
+  "lon": -93.6089566209245,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

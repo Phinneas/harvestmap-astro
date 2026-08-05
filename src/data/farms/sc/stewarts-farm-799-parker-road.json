@@ -1,0 +1,19 @@
+{
+  "slug": "stewarts-farm-799-parker-road",
+  "name": "Stewarts Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "799 Parker Road, SC",
+  "locationCity": "799 Parker Road",
+  "locationState": "SC",
+  "locationZipcode": "29335",
+  "lat": 34.6532772664623,
+  "lon": -81.9596718746431,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.909Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.909Z"
+}

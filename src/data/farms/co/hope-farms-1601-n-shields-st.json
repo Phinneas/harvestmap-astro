@@ -1,0 +1,19 @@
+{
+  "slug": "hope-farms-1601-n-shields-st",
+  "name": "Hope Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1601 N Shields St., CO",
+  "locationCity": "1601 N Shields St.",
+  "locationState": "CO",
+  "locationZipcode": "80524",
+  "lat": 40.60899834642606,
+  "lon": -105.09691641903339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.591Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.591Z"
+}

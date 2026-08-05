@@ -1,0 +1,19 @@
+{
+  "slug": "elver-park-farmers-market-1250-mckenna-blvd-madison",
+  "name": "Elver Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1250 McKenna Blvd. Madison, WI",
+  "locationCity": "1250 McKenna Blvd. Madison",
+  "locationState": "WI",
+  "locationZipcode": "53719",
+  "lat": 43.0410130919547,
+  "lon": -89.50498495943863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.857Z"
+}

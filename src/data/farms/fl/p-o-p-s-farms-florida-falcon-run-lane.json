@@ -1,0 +1,19 @@
+{
+  "slug": "p-o-p-s-farms-florida-falcon-run-lane",
+  "name": "P.O.P.S. Farms Florida",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Falcon Run Lane, FL",
+  "locationCity": "Falcon Run Lane",
+  "locationState": "FL",
+  "locationZipcode": "32068",
+  "lat": 30.095078107046938,
+  "lon": -81.88108216214624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.821Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.821Z"
+}

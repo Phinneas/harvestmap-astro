@@ -1,0 +1,19 @@
+{
+  "slug": "farmivore-1012-w-ventura-blvd",
+  "name": "Farmivore",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1012 W Ventura Blvd, CA",
+  "locationCity": "1012 W Ventura Blvd",
+  "locationState": "CA",
+  "locationZipcode": "93010",
+  "lat": 34.22096423531574,
+  "lon": -119.09682808823345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

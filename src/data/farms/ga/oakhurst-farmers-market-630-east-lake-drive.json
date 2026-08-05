@@ -1,0 +1,19 @@
+{
+  "slug": "oakhurst-farmers-market-630-east-lake-drive",
+  "name": "Oakhurst Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "630 East Lake Drive, GA",
+  "locationCity": "630 East Lake Drive",
+  "locationState": "GA",
+  "locationZipcode": "30030",
+  "lat": 33.760143,
+  "lon": -84.304799,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.685Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.685Z"
+}

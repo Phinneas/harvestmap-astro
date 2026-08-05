@@ -1,0 +1,19 @@
+{
+  "slug": "beardstown-farmers-market-206-washington-beardstown",
+  "name": "Beardstown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "206 Washington Beardstown, IL",
+  "locationCity": "206 Washington Beardstown",
+  "locationState": "IL",
+  "locationZipcode": "62618",
+  "lat": 40.016839653193905,
+  "lon": -90.43519775974256,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

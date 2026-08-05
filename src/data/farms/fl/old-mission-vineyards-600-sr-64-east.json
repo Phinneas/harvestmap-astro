@@ -1,0 +1,19 @@
+{
+  "slug": "old-mission-vineyards-600-sr-64-east",
+  "name": "Old Mission Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "600 SR 64 East, FL",
+  "locationCity": "600 SR 64 East",
+  "locationState": "FL",
+  "locationZipcode": "34212",
+  "lat": 27.4938433625103,
+  "lon": -82.557694682163,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.884Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.884Z"
+}

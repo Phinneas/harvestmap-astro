@@ -1,0 +1,19 @@
+{
+  "slug": "circle-s-farms-9015-london-groveport-road",
+  "name": "Circle S Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "9015 London Groveport Road, OH",
+  "locationCity": "9015 London Groveport Road",
+  "locationState": "OH",
+  "locationZipcode": "43123",
+  "lat": 39.85922600136104,
+  "lon": -83.24545895831913,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.371Z"
+}

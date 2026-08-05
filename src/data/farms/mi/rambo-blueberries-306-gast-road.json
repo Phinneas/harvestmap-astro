@@ -1,0 +1,19 @@
+{
+  "slug": "rambo-blueberries-306-gast-road",
+  "name": "Rambo Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "306 Gast Road, MI",
+  "locationCity": "306 Gast Road",
+  "locationState": "MI",
+  "locationZipcode": "49106",
+  "lat": 41.933902854541,
+  "lon": -86.5430505671384,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.671Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.671Z"
+}

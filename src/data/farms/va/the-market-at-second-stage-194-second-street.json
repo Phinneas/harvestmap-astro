@@ -1,0 +1,19 @@
+{
+  "slug": "the-market-at-second-stage-194-second-street",
+  "name": "The Market at Second Stage",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "194 Second Street, VA",
+  "locationCity": "194 Second Street",
+  "locationState": "VA",
+  "locationZipcode": "24521",
+  "lat": 37.5851412,
+  "lon": -79.0514134,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.304Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.304Z"
+}

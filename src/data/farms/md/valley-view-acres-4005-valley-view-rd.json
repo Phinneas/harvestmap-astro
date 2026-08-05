@@ -1,0 +1,19 @@
+{
+  "slug": "valley-view-acres-4005-valley-view-rd",
+  "name": "Valley View Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4005 Valley View Rd, MD",
+  "locationCity": "4005 Valley View Rd",
+  "locationState": "MD",
+  "locationZipcode": "21769",
+  "lat": 39.4555509879513,
+  "lon": -77.5239829986934,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.227Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.227Z"
+}

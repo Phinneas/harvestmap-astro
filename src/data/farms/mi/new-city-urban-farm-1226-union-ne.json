@@ -1,0 +1,19 @@
+{
+  "slug": "new-city-urban-farm-1226-union-ne",
+  "name": "New City Urban Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1226 Union NE, MI",
+  "locationCity": "1226 Union NE",
+  "locationState": "MI",
+  "locationZipcode": "49505",
+  "lat": 42.9853479,
+  "lon": -85.6541229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.966Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.966Z"
+}

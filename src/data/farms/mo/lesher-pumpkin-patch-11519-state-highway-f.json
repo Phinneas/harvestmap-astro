@@ -1,0 +1,19 @@
+{
+  "slug": "lesher-pumpkin-patch-11519-state-highway-f",
+  "name": "Lesher Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11519 State highway F, MO",
+  "locationCity": "11519 State highway F",
+  "locationState": "MO",
+  "locationZipcode": "11519",
+  "lat": 40.5623220003035,
+  "lon": -95.4544439890675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.682Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.682Z"
+}

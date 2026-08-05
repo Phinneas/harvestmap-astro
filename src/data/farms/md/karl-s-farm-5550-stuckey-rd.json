@@ -1,0 +1,19 @@
+{
+  "slug": "karl-s-farm-5550-stuckey-rd",
+  "name": "Karl's Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5550 Stuckey Rd, MD",
+  "locationCity": "5550 Stuckey Rd",
+  "locationState": "MD",
+  "locationZipcode": "20640",
+  "lat": 38.543296,
+  "lon": -77.119757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.689Z"
+}

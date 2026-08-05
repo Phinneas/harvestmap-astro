@@ -1,0 +1,19 @@
+{
+  "slug": "wake-farms-1441-monroe-st",
+  "name": "Wake Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1441 Monroe St, CA",
+  "locationCity": "1441 Monroe St",
+  "locationState": "CA",
+  "locationZipcode": "92504",
+  "lat": 33.8913969806821,
+  "lon": -117.4012799642055,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.850Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.850Z"
+}

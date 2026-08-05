@@ -1,0 +1,19 @@
+{
+  "slug": "a-berry-acres-479th-avenue",
+  "name": "A Berry Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "479th Avenue, SD",
+  "locationCity": "479th Avenue",
+  "locationState": "SD",
+  "locationZipcode": "57013",
+  "lat": 43.3402360059974,
+  "lon": -96.6309600214618,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:06.770Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:06.770Z"
+}

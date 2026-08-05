@@ -1,0 +1,19 @@
+{
+  "slug": "elizabethtown-farmers-market-7590-court-street",
+  "name": "Elizabethtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7590 Court Street, NY",
+  "locationCity": "7590 Court Street",
+  "locationState": "NY",
+  "locationZipcode": "12932",
+  "lat": 44.21593542591851,
+  "lon": -73.59113715821714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

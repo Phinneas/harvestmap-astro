@@ -1,0 +1,19 @@
+{
+  "slug": "pipestone-farmers-market-207-main-st-e",
+  "name": "Pipestone Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "207 Main St E, MN",
+  "locationCity": "207 Main St E",
+  "locationState": "MN",
+  "locationZipcode": "56164",
+  "lat": 44.0011832,
+  "lon": -96.3160445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

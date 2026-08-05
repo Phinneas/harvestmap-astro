@@ -1,0 +1,19 @@
+{
+  "slug": "lakewood-village-farmers-market-6434-e-mockingbird-lane",
+  "name": "Lakewood Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6434 E Mockingbird Lane, TX",
+  "locationCity": "6434 E Mockingbird Lane",
+  "locationState": "TX",
+  "locationZipcode": "75218",
+  "lat": 32.835725,
+  "lon": -96.751083,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.053Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.053Z"
+}

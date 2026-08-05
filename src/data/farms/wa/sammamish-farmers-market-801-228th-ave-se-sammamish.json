@@ -1,0 +1,19 @@
+{
+  "slug": "sammamish-farmers-market-801-228th-ave-se-sammamish",
+  "name": "Sammamish Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "801 228th Ave SE Sammamish, WA",
+  "locationCity": "801 228th Ave SE Sammamish",
+  "locationState": "WA",
+  "locationZipcode": "98075",
+  "lat": 47.60157267194528,
+  "lon": -122.03551759651907,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

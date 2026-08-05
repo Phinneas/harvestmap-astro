@@ -1,0 +1,19 @@
+{
+  "slug": "grunt-s-bee-farm-1053-avenue-g",
+  "name": "Grunt’s Bee Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1053 Avenue G, TX",
+  "locationCity": "1053 Avenue G",
+  "locationState": "TX",
+  "locationZipcode": "79311",
+  "lat": 33.8338850000001,
+  "lon": -101.84675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.405Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.405Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "diamond-lake-orchard-116-eagle-point",
+  "name": "Diamond Lake Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "116 Eagle Point, MI",
+  "locationCity": "116 Eagle Point",
+  "locationState": "MI",
+  "locationZipcode": "49031",
+  "lat": 41.8882320139448,
+  "lon": -85.972359128189,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.659Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.659Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-hyde-park-farmer-s-market-5400-south-lake-park-avenue-chicago",
+  "name": "The Hyde Park Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5400 South Lake Park Avenue Chicago, IL",
+  "locationCity": "5400 South Lake Park Avenue Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60615",
+  "lat": 41.797966216639374,
+  "lon": -87.58725117970725,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

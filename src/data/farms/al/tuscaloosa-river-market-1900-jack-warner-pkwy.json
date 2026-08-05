@@ -1,0 +1,19 @@
+{
+  "slug": "tuscaloosa-river-market-1900-jack-warner-pkwy",
+  "name": "Tuscaloosa River Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1900 Jack Warner Pkwy., AL",
+  "locationCity": "1900 Jack Warner Pkwy.",
+  "locationState": "AL",
+  "locationZipcode": "35401",
+  "lat": 33.21663600542426,
+  "lon": -87.56242097707577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.020Z"
+}

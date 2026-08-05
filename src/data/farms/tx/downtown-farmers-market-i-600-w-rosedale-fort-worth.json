@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-farmers-market-i-600-w-rosedale-fort-worth",
+  "name": "Downtown Farmers Market I",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 W. Rosedale Fort Worth, TX",
+  "locationCity": "600 W. Rosedale Fort Worth",
+  "locationState": "TX",
+  "locationZipcode": "76141",
+  "lat": 32.73315592084475,
+  "lon": -97.3308176322838,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

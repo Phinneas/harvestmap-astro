@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-217-belden-corners-road",
+  "name": "Blueberry Hill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "217 Belden Corners Road, NY",
+  "locationCity": "217 Belden Corners Road",
+  "locationState": "NY",
+  "locationZipcode": "13329",
+  "lat": 43.0884706887549,
+  "lon": -74.7100522914342,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.926Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.926Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "brookside-berry-farm-82-main-street",
+  "name": "Brookside Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "82 Main Street, NY",
+  "locationCity": "82 Main Street",
+  "locationState": "NY",
+  "locationZipcode": "13068",
+  "lat": 42.5098837412538,
+  "lon": -76.3552877348618,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.292Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lazy-acres-vineyard-858-e-shawnee-rd",
+  "name": "Lazy Acres Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "858 E Shawnee Rd, MI",
+  "locationCity": "858 E Shawnee Rd",
+  "locationState": "MI",
+  "locationZipcode": "49103",
+  "lat": 41.9429434119623,
+  "lon": -86.4369520419904,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.582Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.582Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "potter-valley-farmer-s-market-10270-main-st",
+  "name": "Potter Valley Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10270 MAIN ST, CA",
+  "locationCity": "10270 MAIN ST",
+  "locationState": "CA",
+  "locationZipcode": "10270",
+  "lat": 39.321830932123206,
+  "lon": -123.10928661828719,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

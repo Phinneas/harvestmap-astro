@@ -1,0 +1,19 @@
+{
+  "slug": "quail-acres-farm-2302-chase-st",
+  "name": "Quail Acres Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2302 Chase St, NE",
+  "locationCity": "2302 Chase St",
+  "locationState": "NE",
+  "locationZipcode": "68355",
+  "lat": 40.067832,
+  "lon": -95.6039112,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:48.515Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:48.515Z"
+}

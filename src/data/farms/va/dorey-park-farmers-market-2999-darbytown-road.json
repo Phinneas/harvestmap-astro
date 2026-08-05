@@ -1,0 +1,19 @@
+{
+  "slug": "dorey-park-farmers-market-2999-darbytown-road",
+  "name": "Dorey Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2999 Darbytown Road, VA",
+  "locationCity": "2999 Darbytown Road",
+  "locationState": "VA",
+  "locationZipcode": "23231",
+  "lat": 37.5380571,
+  "lon": -77.405887,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.156Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.156Z"
+}

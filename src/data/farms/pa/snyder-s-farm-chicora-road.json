@@ -1,0 +1,19 @@
+{
+  "slug": "snyder-s-farm-chicora-road",
+  "name": "Snyder's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Chicora Road, PA",
+  "locationCity": "Chicora Road",
+  "locationState": "PA",
+  "locationZipcode": "16025",
+  "lat": 40.9587581936308,
+  "lon": -79.7337740500197,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.117Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.117Z"
+}

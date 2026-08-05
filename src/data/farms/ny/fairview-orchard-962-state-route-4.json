@@ -1,0 +1,19 @@
+{
+  "slug": "fairview-orchard-962-state-route-4",
+  "name": "Fairview Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "962 State Route 4, NY",
+  "locationCity": "962 State Route 4",
+  "locationState": "NY",
+  "locationZipcode": "12887",
+  "lat": 43.5066102791245,
+  "lon": -73.4197646193436,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.430Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.430Z"
+}

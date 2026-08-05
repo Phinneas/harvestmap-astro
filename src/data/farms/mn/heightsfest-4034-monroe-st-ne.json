@@ -1,0 +1,19 @@
+{
+  "slug": "heightsfest-4034-monroe-st-ne",
+  "name": "HeightsFEST",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4034 Monroe St NE, MN",
+  "locationCity": "4034 Monroe St NE",
+  "locationState": "MN",
+  "locationZipcode": "55421",
+  "lat": 45.0419594,
+  "lon": -93.2527201,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

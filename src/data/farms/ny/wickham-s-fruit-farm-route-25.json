@@ -1,0 +1,19 @@
+{
+  "slug": "wickham-s-fruit-farm-route-25",
+  "name": "Wickham's Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Route 25, NY",
+  "locationCity": "Route 25",
+  "locationState": "NY",
+  "locationZipcode": "11935",
+  "lat": 41.03239444132129,
+  "lon": -72.46446863828054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.830Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "moonrose-farm-88-mason-street",
+  "name": "Moonrose Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "88 Mason Street, MA",
+  "locationCity": "88 Mason Street",
+  "locationState": "MA",
+  "locationZipcode": "02769",
+  "lat": 41.78920522415507,
+  "lon": -71.27533905733159,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.280Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.280Z"
+}

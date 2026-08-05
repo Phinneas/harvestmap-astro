@@ -1,0 +1,19 @@
+{
+  "slug": "cotati-community-farmers-market-old-redwood-hwy-and-w-sierra",
+  "name": "Cotati Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Old Redwood Hwy and W Sierra, CA",
+  "locationCity": "Old Redwood Hwy and W Sierra",
+  "locationState": "CA",
+  "locationZipcode": "94931",
+  "lat": 38.326544,
+  "lon": -122.70729,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.363Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.363Z"
+}

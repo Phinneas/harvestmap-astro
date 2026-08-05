@@ -1,0 +1,19 @@
+{
+  "slug": "hester-s-produce-bridge-street",
+  "name": "Hester's Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Bridge Street, OH",
+  "locationCity": "Bridge Street",
+  "locationState": "OH",
+  "locationZipcode": "45601",
+  "lat": 39.354685682945075,
+  "lon": -82.97640696384224,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.372Z"
+}

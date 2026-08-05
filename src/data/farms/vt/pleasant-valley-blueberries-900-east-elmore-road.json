@@ -1,0 +1,19 @@
+{
+  "slug": "pleasant-valley-blueberries-900-east-elmore-road",
+  "name": "Pleasant Valley Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "900 East Elmore Road, VT",
+  "locationCity": "900 East Elmore Road",
+  "locationState": "VT",
+  "locationZipcode": "05680",
+  "lat": 44.533087703791,
+  "lon": -72.4572715347449,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.978Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.978Z"
+}

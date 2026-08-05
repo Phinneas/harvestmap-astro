@@ -1,0 +1,19 @@
+{
+  "slug": "canton-farmers-market-5-park-street",
+  "name": "Canton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5 Park Street, NY",
+  "locationCity": "5 Park Street",
+  "locationState": "NY",
+  "locationZipcode": "13617",
+  "lat": 44.5953267,
+  "lon": -75.1689911,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.921Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.921Z"
+}

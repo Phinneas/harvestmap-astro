@@ -1,0 +1,19 @@
+{
+  "slug": "litchfield-community-farmers-market-central-park",
+  "name": "Litchfield Community Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Central Park, MN",
+  "locationCity": "Central Park",
+  "locationState": "MN",
+  "locationZipcode": "55355",
+  "lat": 45.1292628,
+  "lon": -94.5274801,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

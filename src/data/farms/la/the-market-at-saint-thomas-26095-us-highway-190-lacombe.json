@@ -1,0 +1,19 @@
+{
+  "slug": "the-market-at-saint-thomas-26095-us-highway-190-lacombe",
+  "name": "The Market at Saint Thomas",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "26095 US Highway 190 Lacombe, LA",
+  "locationCity": "26095 US Highway 190 Lacombe",
+  "locationState": "LA",
+  "locationZipcode": "26095",
+  "lat": 30.324769758062196,
+  "lon": -89.97142260418897,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.709Z"
+}

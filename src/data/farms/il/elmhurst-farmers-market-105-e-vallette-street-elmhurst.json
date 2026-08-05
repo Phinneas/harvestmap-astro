@@ -1,0 +1,19 @@
+{
+  "slug": "elmhurst-farmers-market-105-e-vallette-street-elmhurst",
+  "name": "Elmhurst Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 E. Vallette Street Elmhurst, IL",
+  "locationCity": "105 E. Vallette Street Elmhurst",
+  "locationState": "IL",
+  "locationZipcode": "60126",
+  "lat": 41.8835961302098,
+  "lon": -87.93836112794473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

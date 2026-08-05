@@ -1,0 +1,19 @@
+{
+  "slug": "jakes-apple-shack-375th-avenue-northeast",
+  "name": "Jakes Apple Shack",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "375th Avenue Northeast, MN",
+  "locationCity": "375th Avenue Northeast",
+  "locationState": "MN",
+  "locationZipcode": "55080",
+  "lat": 45.6499110002303,
+  "lon": -93.253841024476,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.755Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.755Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "forsyth-farmers-market-78-n-jackson-st-forsyth",
+  "name": "Forsyth Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "78 N Jackson St. Forsyth, GA",
+  "locationCity": "78 N Jackson St. Forsyth",
+  "locationState": "GA",
+  "locationZipcode": "31029",
+  "lat": 33.03607743562117,
+  "lon": -83.93939188808922,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

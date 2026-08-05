@@ -1,0 +1,19 @@
+{
+  "slug": "golden-nugget-green-market-1850-river-rd-lambertville",
+  "name": "Golden Nugget Green Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1850 River Rd. Lambertville, NJ",
+  "locationCity": "1850 River Rd. Lambertville",
+  "locationState": "NJ",
+  "locationZipcode": "08530",
+  "lat": 40.341805901700006,
+  "lon": -74.93975098213473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.023Z"
+}

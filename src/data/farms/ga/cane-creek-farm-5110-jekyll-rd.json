@@ -1,0 +1,19 @@
+{
+  "slug": "cane-creek-farm-5110-jekyll-rd",
+  "name": "Cane Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5110 Jekyll Rd, GA",
+  "locationCity": "5110 Jekyll Rd",
+  "locationState": "GA",
+  "locationZipcode": "30040",
+  "lat": 34.216169,
+  "lon": -84.24899,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.439Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.439Z"
+}

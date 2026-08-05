@@ -1,0 +1,19 @@
+{
+  "slug": "sandhill-family-farms-560-harris-road",
+  "name": "Sandhill Family Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "560 Harris Road, IL",
+  "locationCity": "560 Harris Road",
+  "locationState": "IL",
+  "locationZipcode": "60030",
+  "lat": 42.3329532,
+  "lon": -88.0157849,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.477Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "nappe-farms-280-se-orient-dr",
+  "name": "Nappe Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "280 Se Orient Dr., OR",
+  "locationCity": "280 Se Orient Dr.",
+  "locationState": "OR",
+  "locationZipcode": "97009",
+  "lat": 45.4332207224606,
+  "lon": -122.329928798479,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.857Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.857Z"
+}

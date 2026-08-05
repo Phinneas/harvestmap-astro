@@ -1,0 +1,19 @@
+{
+  "slug": "pleasant-union-farm-500-pleasant-union-road",
+  "name": "Pleasant Union Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 Pleasant Union Road, GA",
+  "locationCity": "500 Pleasant Union Road",
+  "locationState": "GA",
+  "locationZipcode": "30114",
+  "lat": 34.3682889230374,
+  "lon": -84.4901731978661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.309Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.309Z"
+}

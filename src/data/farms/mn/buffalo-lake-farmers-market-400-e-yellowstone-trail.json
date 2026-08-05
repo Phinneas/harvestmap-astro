@@ -1,0 +1,19 @@
+{
+  "slug": "buffalo-lake-farmers-market-400-e-yellowstone-trail",
+  "name": "Buffalo Lake Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 E Yellowstone Trail, MN",
+  "locationCity": "400 E Yellowstone Trail",
+  "locationState": "MN",
+  "locationZipcode": "55314",
+  "lat": 44.7366244,
+  "lon": -94.6128787,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

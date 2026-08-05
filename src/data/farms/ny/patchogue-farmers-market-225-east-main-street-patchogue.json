@@ -1,0 +1,19 @@
+{
+  "slug": "patchogue-farmers-market-225-east-main-street-patchogue",
+  "name": "Patchogue Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "225 East Main Street Patchogue, NY",
+  "locationCity": "225 East Main Street Patchogue",
+  "locationState": "NY",
+  "locationZipcode": "11772",
+  "lat": 40.76588080132649,
+  "lon": -73.00907811505884,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

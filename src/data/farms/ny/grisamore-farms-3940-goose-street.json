@@ -1,0 +1,19 @@
+{
+  "slug": "grisamore-farms-3940-goose-street",
+  "name": "Grisamore Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3940 Goose Street, NY",
+  "locationCity": "3940 Goose Street",
+  "locationState": "NY",
+  "locationZipcode": "13092",
+  "lat": 42.654492505807,
+  "lon": -76.4871420701173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.893Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.893Z"
+}

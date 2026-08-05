@@ -1,0 +1,19 @@
+{
+  "slug": "weymouth-farmers-market-1-wildcat-way",
+  "name": "Weymouth Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Wildcat Way, MA",
+  "locationCity": "1 Wildcat Way",
+  "locationState": "MA",
+  "locationZipcode": "02190",
+  "lat": 42.181987,
+  "lon": -70.941897,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.772Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.772Z"
+}

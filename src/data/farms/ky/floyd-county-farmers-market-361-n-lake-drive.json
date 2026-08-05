@@ -1,0 +1,19 @@
+{
+  "slug": "floyd-county-farmers-market-361-n-lake-drive",
+  "name": "Floyd County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "361 N. Lake Drive, KY",
+  "locationCity": "361 N. Lake Drive",
+  "locationState": "KY",
+  "locationZipcode": "41653",
+  "lat": 37.670674,
+  "lon": -82.775995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.724Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.724Z"
+}

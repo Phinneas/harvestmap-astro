@@ -1,0 +1,19 @@
+{
+  "slug": "super-acres-722-river-road",
+  "name": "Super Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "722 River Road, NH",
+  "locationCity": "722 River Road",
+  "locationState": "NH",
+  "locationZipcode": "03768",
+  "lat": 43.8653160137428,
+  "lon": -72.16791099504,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.639Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.639Z"
+}

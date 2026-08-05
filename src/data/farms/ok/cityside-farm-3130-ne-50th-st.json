@@ -1,0 +1,19 @@
+{
+  "slug": "cityside-farm-3130-ne-50th-st",
+  "name": "Cityside.Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3130 NE 50th St, OK",
+  "locationCity": "3130 NE 50th St",
+  "locationState": "OK",
+  "locationZipcode": "73121",
+  "lat": 35.522175147904434,
+  "lon": -97.45535954781009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:27.107Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:27.107Z"
+}

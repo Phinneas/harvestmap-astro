@@ -1,0 +1,19 @@
+{
+  "slug": "eastchase-farmers-market-7274-eastchase-pkwy",
+  "name": "Eastchase Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7274 Eastchase Pkwy., AL",
+  "locationCity": "7274 Eastchase Pkwy.",
+  "locationState": "AL",
+  "locationZipcode": "36117",
+  "lat": 32.360231797744994,
+  "lon": -86.16727182074413,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.018Z"
+}

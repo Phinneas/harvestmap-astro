@@ -1,0 +1,19 @@
+{
+  "slug": "german-coast-farmers-market-13786-river-road",
+  "name": "German Coast Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "13786 River Road, LA",
+  "locationCity": "13786 River Road",
+  "locationState": "LA",
+  "locationZipcode": "13786",
+  "lat": 29.952811874530802,
+  "lon": -90.38485221031043,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

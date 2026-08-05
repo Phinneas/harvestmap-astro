@@ -1,0 +1,19 @@
+{
+  "slug": "eastside-farmers-market-3200-delaware-avenue-des-moines",
+  "name": "Eastside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3200 Delaware Avenue Des Moines, IA",
+  "locationCity": "3200 Delaware Avenue Des Moines",
+  "locationState": "IA",
+  "locationZipcode": "50313",
+  "lat": 41.627190351036646,
+  "lon": -93.5813315078735,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

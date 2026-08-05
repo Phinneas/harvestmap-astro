@@ -1,0 +1,19 @@
+{
+  "slug": "gatlinburg-farmers-market-849-glades-road-gatlinburg",
+  "name": "Gatlinburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "849 Glades Road Gatlinburg, TN",
+  "locationCity": "849 Glades Road Gatlinburg",
+  "locationState": "TN",
+  "locationZipcode": "37738",
+  "lat": 35.74653021327449,
+  "lon": -83.45045855645935,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "paola-farmers-market-park-square",
+  "name": "Paola Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Park Square, KS",
+  "locationCity": "Park Square",
+  "locationState": "KS",
+  "locationZipcode": "66071",
+  "lat": 38.572307,
+  "lon": -94.878291,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.670Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.670Z"
+}

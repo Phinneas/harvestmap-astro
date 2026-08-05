@@ -1,0 +1,19 @@
+{
+  "slug": "astor-apiaries-405-24th-avenue",
+  "name": "Astor Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "405 24th Avenue, NY",
+  "locationCity": "405 24th Avenue",
+  "locationState": "NY",
+  "locationZipcode": "11102",
+  "lat": 40.7744725024364,
+  "lon": -73.9184823770939,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.228Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.228Z"
+}

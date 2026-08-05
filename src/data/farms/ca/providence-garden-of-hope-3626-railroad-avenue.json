@@ -1,0 +1,19 @@
+{
+  "slug": "providence-garden-of-hope-3626-railroad-avenue",
+  "name": "Providence Garden of Hope",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3626 Railroad Avenue, CA",
+  "locationCity": "3626 Railroad Avenue",
+  "locationState": "CA",
+  "locationZipcode": "96001",
+  "lat": 40.5627936,
+  "lon": -122.389766,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.066Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.066Z"
+}

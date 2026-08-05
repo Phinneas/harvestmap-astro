@@ -1,0 +1,19 @@
+{
+  "slug": "champlain-valley-apiaries-504-washington-st-ext",
+  "name": "Champlain Valley Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "504 Washington St Ext, VT",
+  "locationCity": "504 Washington St Ext",
+  "locationState": "VT",
+  "locationZipcode": "05753",
+  "lat": 44.02124300786352,
+  "lon": -73.15347402969071,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.241Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.241Z"
+}

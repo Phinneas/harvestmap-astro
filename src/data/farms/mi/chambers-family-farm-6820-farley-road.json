@@ -1,0 +1,20 @@
+{
+  "slug": "chambers-family-farm-6820-farley-road",
+  "name": "Chambers Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6820 Farley Road, MI",
+  "locationCity": "6820 Farley Road",
+  "locationState": "MI",
+  "locationZipcode": "48169",
+  "lat": 42.4993480148256,
+  "lon": -83.9156210347617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.630Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.630Z",
+  "crops": []
+}

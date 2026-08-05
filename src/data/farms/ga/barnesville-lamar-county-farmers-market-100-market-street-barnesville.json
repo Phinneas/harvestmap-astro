@@ -1,0 +1,19 @@
+{
+  "slug": "barnesville-lamar-county-farmers-market-100-market-street-barnesville",
+  "name": "Barnesville/Lamar County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Market Street Barnesville, GA",
+  "locationCity": "100 Market Street Barnesville",
+  "locationState": "GA",
+  "locationZipcode": "30204",
+  "lat": 33.05376900984514,
+  "lon": -84.15737221812935,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

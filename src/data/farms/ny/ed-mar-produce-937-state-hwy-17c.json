@@ -1,0 +1,19 @@
+{
+  "slug": "ed-mar-produce-937-state-hwy-17c",
+  "name": "Ed-Mar Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "937 State Hwy 17C, NY",
+  "locationCity": "937 State Hwy 17C",
+  "locationState": "NY",
+  "locationZipcode": "13845",
+  "lat": 42.055523859913,
+  "lon": -76.348702520338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.429Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.429Z"
+}

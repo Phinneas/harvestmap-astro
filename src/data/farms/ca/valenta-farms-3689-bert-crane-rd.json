@@ -1,0 +1,19 @@
+{
+  "slug": "valenta-farms-3689-bert-crane-rd",
+  "name": "Valenta Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3689 Bert Crane Rd, CA",
+  "locationCity": "3689 Bert Crane Rd",
+  "locationState": "CA",
+  "locationZipcode": "95301",
+  "lat": 37.34101001049439,
+  "lon": -120.63297696441086,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

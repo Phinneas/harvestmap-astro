@@ -1,0 +1,19 @@
+{
+  "slug": "harrison-county-farmers-market-railroad-avenue-cynthiana",
+  "name": "Harrison County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Railroad Avenue Cynthiana, KY",
+  "locationCity": "Railroad Avenue Cynthiana",
+  "locationState": "KY",
+  "locationZipcode": "41031",
+  "lat": 38.38674294878577,
+  "lon": -84.2956713378706,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

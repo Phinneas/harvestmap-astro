@@ -1,0 +1,19 @@
+{
+  "slug": "nokomis-farmers-market-301-e-state-st-nokomis",
+  "name": "Nokomis Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 E State St. Nokomis, IL",
+  "locationCity": "301 E State St. Nokomis",
+  "locationState": "IL",
+  "locationZipcode": "62075",
+  "lat": 39.30254587385385,
+  "lon": -89.28326057155664,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

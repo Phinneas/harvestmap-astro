@@ -1,0 +1,19 @@
+{
+  "slug": "wild-hill-maple-366-carney-cassidy-road",
+  "name": "Wild Hill Maple",
+  "source": "usda",
+  "directory": "csa",
+  "location": "366 Carney Cassidy Road, NY",
+  "locationCity": "366 Carney Cassidy Road",
+  "locationState": "NY",
+  "locationZipcode": "12865",
+  "lat": 43.13181390666023,
+  "lon": -73.40691570816884,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.183Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.183Z"
+}

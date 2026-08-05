@@ -1,0 +1,19 @@
+{
+  "slug": "st-landry-farmers-market-828-east-landry-street-opelousas",
+  "name": "St. Landry Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "828 East Landry Street Opelousas, LA",
+  "locationCity": "828 East Landry Street Opelousas",
+  "locationState": "LA",
+  "locationZipcode": "70570",
+  "lat": 30.531968200221744,
+  "lon": -92.07445391458675,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.709Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-plaza-farmers-market-375-jackson-st",
+  "name": "Jackson Plaza Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "375 Jackson St, MN",
+  "locationCity": "375 Jackson St",
+  "locationState": "MN",
+  "locationZipcode": "55101",
+  "lat": 44.9482958,
+  "lon": -93.0901449,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

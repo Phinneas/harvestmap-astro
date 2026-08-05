@@ -1,0 +1,19 @@
+{
+  "slug": "seeded-earth-3184-new-era-rd",
+  "name": "Seeded Earth",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3184 New Era Rd., IA",
+  "locationCity": "3184 New Era Rd.",
+  "locationState": "IA",
+  "locationZipcode": "52761",
+  "lat": 41.464874144394344,
+  "lon": -90.94318450938127,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.432Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.432Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "flossmoor-farmers-market-1000-sterling-avenue-flossmoor",
+  "name": "Flossmoor Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 Sterling Avenue Flossmoor, IL",
+  "locationCity": "1000 Sterling Avenue Flossmoor",
+  "locationState": "IL",
+  "locationZipcode": "60422",
+  "lat": 41.54381963978892,
+  "lon": -87.6785874232499,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

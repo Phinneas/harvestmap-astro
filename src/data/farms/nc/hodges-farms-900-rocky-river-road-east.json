@@ -1,0 +1,19 @@
+{
+  "slug": "hodges-farms-900-rocky-river-road-east",
+  "name": "Hodges Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "900 Rocky River Road East, NC",
+  "locationCity": "900 Rocky River Road East",
+  "locationState": "NC",
+  "locationZipcode": "28215",
+  "lat": 35.2766991879033,
+  "lon": -80.6909723158276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.837Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.837Z"
+}

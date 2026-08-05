@@ -1,0 +1,19 @@
+{
+  "slug": "hubbard-prarie-farmers-market-12141-county-6",
+  "name": "Hubbard Prarie Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12141 County 6, MN",
+  "locationCity": "12141 County 6",
+  "locationState": "MN",
+  "locationZipcode": "12141",
+  "lat": 46.8366351,
+  "lon": -95.0109317,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

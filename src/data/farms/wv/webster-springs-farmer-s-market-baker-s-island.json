@@ -1,0 +1,19 @@
+{
+  "slug": "webster-springs-farmer-s-market-baker-s-island",
+  "name": "Webster Springs Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Baker's Island, WV",
+  "locationCity": "Baker's Island",
+  "locationState": "WV",
+  "locationZipcode": "26288",
+  "lat": 38.47842,
+  "lon": -80.415459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:36.619Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:36.619Z"
+}

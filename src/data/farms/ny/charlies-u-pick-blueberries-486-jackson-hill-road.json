@@ -1,0 +1,19 @@
+{
+  "slug": "charlies-u-pick-blueberries-486-jackson-hill-road",
+  "name": "Charlies U-Pick blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "486 Jackson Hill Road, NY",
+  "locationCity": "486 Jackson Hill Road",
+  "locationState": "NY",
+  "locationZipcode": "13746",
+  "lat": 42.2867060882443,
+  "lon": -75.7610894719889,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.126Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.126Z"
+}

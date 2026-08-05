@@ -1,0 +1,19 @@
+{
+  "slug": "antigo-farmers-market-inc-420-field-street",
+  "name": "Antigo Farmers Market, Inc.",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "420 Field Street, WI",
+  "locationCity": "420 Field Street",
+  "locationState": "WI",
+  "locationZipcode": "54409",
+  "lat": 45.138703,
+  "lon": -89.14985,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.715Z"
+}

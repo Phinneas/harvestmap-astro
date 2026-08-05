@@ -1,0 +1,19 @@
+{
+  "slug": "ramona-certified-farmers-market-1855-main-st",
+  "name": "Ramona Certified Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1855 MAIN ST, CA",
+  "locationCity": "1855 MAIN ST",
+  "locationState": "CA",
+  "locationZipcode": "92065",
+  "lat": 33.03430335663786,
+  "lon": -116.88166671742304,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

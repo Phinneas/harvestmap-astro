@@ -1,0 +1,20 @@
+{
+  "slug": "flathead-fresh-orchard-310-sweet-cherry-lane",
+  "name": "Flathead Fresh Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "310 Sweet Cherry Lane, MT",
+  "locationCity": "310 Sweet Cherry Lane",
+  "locationState": "MT",
+  "locationZipcode": "59860",
+  "lat": 47.7461800154979,
+  "lon": -114.081975316211,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:09.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:09.824Z",
+  "crops": []
+}

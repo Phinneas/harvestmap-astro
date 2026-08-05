@@ -1,0 +1,19 @@
+{
+  "slug": "twin-oak-farms-557-state-rte-414",
+  "name": "Twin Oak Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "557 State Rte 414, NY",
+  "locationCity": "557 State Rte 414",
+  "locationState": "NY",
+  "locationZipcode": "14841",
+  "lat": 42.5205493578327,
+  "lon": -76.8737107596957,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.410Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.410Z"
+}

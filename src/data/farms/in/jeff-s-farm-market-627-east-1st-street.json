@@ -1,0 +1,19 @@
+{
+  "slug": "jeff-s-farm-market-627-east-1st-street",
+  "name": "Jeff's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "627 east 1st Street, IN",
+  "locationCity": "627 east 1st Street",
+  "locationState": "IN",
+  "locationZipcode": "46792",
+  "lat": 40.6761559986864,
+  "lon": -85.41837197049445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.599Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "reedy-fork-farmer-s-market-3600-reedy-fork-parkway-greensboro",
+  "name": "Reedy Fork Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3600 Reedy Fork Parkway Greensboro, NC",
+  "locationCity": "3600 Reedy Fork Parkway Greensboro",
+  "locationState": "NC",
+  "locationZipcode": "27405",
+  "lat": 36.1713428169793,
+  "lon": -79.70925248551183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "osamequin-farm-83-walnut-street",
+  "name": "Osamequin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "83 Walnut Street, MA",
+  "locationCity": "83 Walnut Street",
+  "locationState": "MA",
+  "locationZipcode": "02771",
+  "lat": 41.8471182239461,
+  "lon": -71.3069450349114,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.839Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.839Z"
+}

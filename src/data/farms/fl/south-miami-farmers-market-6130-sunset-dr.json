@@ -1,0 +1,19 @@
+{
+  "slug": "south-miami-farmers-market-6130-sunset-dr",
+  "name": "South Miami Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6130 Sunset Dr, FL",
+  "locationCity": "6130 Sunset Dr",
+  "locationState": "FL",
+  "locationZipcode": "33143",
+  "lat": 25.704072,
+  "lon": -80.291066,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.541Z"
+}

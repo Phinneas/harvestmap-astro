@@ -1,0 +1,19 @@
+{
+  "slug": "allen-brothers-farms-6023-us-route-5",
+  "name": "Allen Brothers Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6023 US Route 5, VT",
+  "locationCity": "6023 US Route 5",
+  "locationState": "VT",
+  "locationZipcode": "05158",
+  "lat": 43.09664101018413,
+  "lon": -72.4442739935798,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:48.660Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:48.660Z"
+}

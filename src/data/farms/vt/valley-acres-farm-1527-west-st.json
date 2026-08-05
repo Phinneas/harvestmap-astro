@@ -1,0 +1,19 @@
+{
+  "slug": "valley-acres-farm-1527-west-st",
+  "name": "Valley Acres Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1527 WEST ST, VT",
+  "locationCity": "1527 WEST ST",
+  "locationState": "VT",
+  "locationZipcode": "05765",
+  "lat": 43.62966220063606,
+  "lon": -73.03848270002682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.148Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.148Z"
+}

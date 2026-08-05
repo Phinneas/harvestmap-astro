@@ -1,0 +1,19 @@
+{
+  "slug": "jenkins-orchards-355-yancey-road",
+  "name": "Jenkins' Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "355 Yancey Road, VA",
+  "locationCity": "355 Yancey Road",
+  "locationState": "VA",
+  "locationZipcode": "22749",
+  "lat": 38.6120159917567,
+  "lon": -78.2094709659971,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.165Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.165Z"
+}

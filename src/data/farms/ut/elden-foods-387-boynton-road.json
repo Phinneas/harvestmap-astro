@@ -1,0 +1,19 @@
+{
+  "slug": "elden-foods-387-boynton-road",
+  "name": "Elden Foods",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "387 Boynton Road, UT",
+  "locationCity": "387 Boynton Road",
+  "locationState": "UT",
+  "locationZipcode": "84037",
+  "lat": 41.0511130192555,
+  "lon": -111.930076988381,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.550Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.550Z"
+}

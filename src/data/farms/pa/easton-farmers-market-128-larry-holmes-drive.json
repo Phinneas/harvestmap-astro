@@ -1,0 +1,19 @@
+{
+  "slug": "easton-farmers-market-128-larry-holmes-drive",
+  "name": "Easton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "128 Larry Holmes Drive, PA",
+  "locationCity": "128 Larry Holmes Drive",
+  "locationState": "PA",
+  "locationZipcode": "18042",
+  "lat": 40.689778,
+  "lon": -75.206274,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:18.990Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:18.990Z"
+}

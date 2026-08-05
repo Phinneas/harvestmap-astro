@@ -1,0 +1,19 @@
+{
+  "slug": "rensselaer-farmers-market-110-w-harrison-st",
+  "name": "Rensselaer Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 W Harrison St., IN",
+  "locationCity": "110 W Harrison St.",
+  "locationState": "IN",
+  "locationZipcode": "47978",
+  "lat": 40.9356403,
+  "lon": -87.150106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.599Z"
+}

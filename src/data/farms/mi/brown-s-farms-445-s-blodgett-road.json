@@ -1,0 +1,19 @@
+{
+  "slug": "brown-s-farms-445-s-blodgett-road",
+  "name": "Brown's Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "445 S. Blodgett Road, MI",
+  "locationCity": "445 S. Blodgett Road",
+  "locationState": "MI",
+  "locationZipcode": "49651",
+  "lat": 44.3012150204977,
+  "lon": -85.2756765143188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.704Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.704Z"
+}

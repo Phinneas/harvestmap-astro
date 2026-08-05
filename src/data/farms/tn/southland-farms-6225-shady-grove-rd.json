@@ -1,0 +1,19 @@
+{
+  "slug": "southland-farms-6225-shady-grove-rd",
+  "name": "Southland Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6225 Shady Grove rd., TN",
+  "locationCity": "6225 Shady Grove rd.",
+  "locationState": "TN",
+  "locationZipcode": "37357",
+  "lat": 35.6233197,
+  "lon": -86.0038054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.784Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.784Z"
+}

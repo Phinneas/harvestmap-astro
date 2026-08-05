@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-gardens-central-avenue",
+  "name": "Homestead Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Central Avenue, MD",
+  "locationCity": "Central Avenue",
+  "locationState": "MD",
+  "locationZipcode": "21035",
+  "lat": 38.9239540085774,
+  "lon": -76.6231920181882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.240Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.240Z"
+}

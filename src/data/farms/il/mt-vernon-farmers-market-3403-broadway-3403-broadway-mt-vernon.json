@@ -1,0 +1,19 @@
+{
+  "slug": "mt-vernon-farmers-market-3403-broadway-3403-broadway-mt-vernon",
+  "name": "Mt. Vernon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3403 Broadway 3403 Broadway Mt. Vernon, IL",
+  "locationCity": "3403 Broadway 3403 Broadway Mt. Vernon",
+  "locationState": "IL",
+  "locationZipcode": "62864",
+  "lat": 38.314337097161,
+  "lon": -88.9367659483769,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

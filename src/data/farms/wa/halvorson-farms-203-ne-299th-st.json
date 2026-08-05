@@ -1,0 +1,19 @@
+{
+  "slug": "halvorson-farms-203-ne-299th-st",
+  "name": "Halvorson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "203 Ne 299th St, WA",
+  "locationCity": "203 Ne 299th St",
+  "locationState": "WA",
+  "locationZipcode": "98675",
+  "lat": 45.8391875365325,
+  "lon": -122.404372496312,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.085Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.085Z"
+}

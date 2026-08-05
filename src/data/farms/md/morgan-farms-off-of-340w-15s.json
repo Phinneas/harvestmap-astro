@@ -1,0 +1,19 @@
+{
+  "slug": "morgan-farms-off-of-340w-15s",
+  "name": "Morgan Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Off of 340W/15S, MD",
+  "locationCity": "Off of 340W/15S",
+  "locationState": "MD",
+  "locationZipcode": "21703",
+  "lat": 39.39139946600711,
+  "lon": -77.44974164638607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.717Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.717Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "dietzler-apiary-555-us-2",
+  "name": "Dietzler Apiary",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "555 US 2, ND",
+  "locationCity": "555 US 2",
+  "locationState": "ND",
+  "locationZipcode": "58251",
+  "lat": 47.9948230124986,
+  "lon": -97.6262889791402,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:54.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:54.930Z"
+}

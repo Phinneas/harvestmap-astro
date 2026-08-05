@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-moon-marketplace-38480-louisiana-highway-42-prairieville",
+  "name": "Harvest moon marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "38480 Louisiana highway 42 Prairieville, LA",
+  "locationCity": "38480 Louisiana highway 42 Prairieville",
+  "locationState": "LA",
+  "locationZipcode": "38480",
+  "lat": 30.320545935407416,
+  "lon": -90.9615355708724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

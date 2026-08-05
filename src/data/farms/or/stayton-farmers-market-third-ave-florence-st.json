@@ -1,0 +1,19 @@
+{
+  "slug": "stayton-farmers-market-third-ave-florence-st",
+  "name": "Stayton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Third Ave & Florence St, OR",
+  "locationCity": "Third Ave & Florence St",
+  "locationState": "OR",
+  "locationZipcode": "97383",
+  "lat": 44.796453,
+  "lon": -122.79192,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.297Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.297Z"
+}

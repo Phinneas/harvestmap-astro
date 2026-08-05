@@ -1,0 +1,19 @@
+{
+  "slug": "foothills-food-hub-263-barnes-rd-suite-j",
+  "name": "Foothills Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "263 Barnes Rd Suite J, NC",
+  "locationCity": "263 Barnes Rd Suite J",
+  "locationState": "NC",
+  "locationZipcode": "28752",
+  "lat": 35.65463793727319,
+  "lon": -81.96989473047196,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.329Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.329Z"
+}

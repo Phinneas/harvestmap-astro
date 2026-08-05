@@ -1,0 +1,19 @@
+{
+  "slug": "enchanted-mountain-farmers-market-1900-constitution-ave-olean",
+  "name": "Enchanted Mountain Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1900 Constitution Ave. Olean, NY",
+  "locationCity": "1900 Constitution Ave. Olean",
+  "locationState": "NY",
+  "locationZipcode": "14760",
+  "lat": 42.08308845974471,
+  "lon": -78.45224852122979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

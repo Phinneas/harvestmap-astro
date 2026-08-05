@@ -1,0 +1,19 @@
+{
+  "slug": "ridge-ferry-park-farmers-market-363-riverside-parkway-ne",
+  "name": "Ridge Ferry Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "363 Riverside Parkway NE, GA",
+  "locationCity": "363 Riverside Parkway NE",
+  "locationState": "GA",
+  "locationZipcode": "30161",
+  "lat": 34.260076326002476,
+  "lon": -85.16879423871592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

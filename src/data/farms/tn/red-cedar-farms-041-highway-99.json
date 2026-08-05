@@ -1,0 +1,19 @@
+{
+  "slug": "red-cedar-farms-041-highway-99",
+  "name": "Red Cedar Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "041 highway 99, TN",
+  "locationCity": "041 highway 99",
+  "locationState": "TN",
+  "locationZipcode": "37034",
+  "lat": 35.6266476906074,
+  "lon": -86.6933747898473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.229Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.229Z"
+}

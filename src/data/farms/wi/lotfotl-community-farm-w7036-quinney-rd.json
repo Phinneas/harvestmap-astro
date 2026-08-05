@@ -1,0 +1,19 @@
+{
+  "slug": "lotfotl-community-farm-w7036-quinney-rd",
+  "name": "LotFotL Community Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "W7036 QUINNEY RD, WI",
+  "locationCity": "W7036 QUINNEY RD",
+  "locationState": "WI",
+  "locationZipcode": "53121",
+  "lat": 42.694753,
+  "lon": -88.647116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:11.987Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:11.987Z"
+}

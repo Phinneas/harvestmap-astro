@@ -1,0 +1,19 @@
+{
+  "slug": "hometown-harvest-4635-wedgewood-blvd",
+  "name": "Hometown Harvest",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "4635 Wedgewood Blvd, MD",
+  "locationCity": "4635 Wedgewood Blvd",
+  "locationState": "MD",
+  "locationZipcode": "21703",
+  "lat": 39.3668544,
+  "lon": -77.429389,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:12.402Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:12.402Z"
+}

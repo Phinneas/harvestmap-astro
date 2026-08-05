@@ -1,0 +1,19 @@
+{
+  "slug": "hyde-farms-7545-highway-411s",
+  "name": "Hyde Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7545 Highway 411s, TN",
+  "locationCity": "7545 Highway 411s",
+  "locationState": "TN",
+  "locationZipcode": "37742",
+  "lat": 35.62303401325971,
+  "lon": -84.18588896476938,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:36.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:36.634Z"
+}

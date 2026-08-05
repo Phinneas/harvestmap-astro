@@ -1,0 +1,19 @@
+{
+  "slug": "fruitshare-com-9798-75th-ave-north",
+  "name": "FruitShare.com",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9798 75th Ave North, MN",
+  "locationCity": "9798 75th Ave North",
+  "locationState": "MN",
+  "locationZipcode": "55082",
+  "lat": 45.061463,
+  "lon": -92.907636,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.169Z"
+}

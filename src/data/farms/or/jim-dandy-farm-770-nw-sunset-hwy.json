@@ -1,0 +1,19 @@
+{
+  "slug": "jim-dandy-farm-770-nw-sunset-hwy",
+  "name": "Jim Dandy Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "770 NW Sunset Hwy, OR",
+  "locationCity": "770 NW Sunset Hwy",
+  "locationState": "OR",
+  "locationZipcode": "97106",
+  "lat": 45.6779264150181,
+  "lon": -123.187628366942,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.840Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.840Z"
+}

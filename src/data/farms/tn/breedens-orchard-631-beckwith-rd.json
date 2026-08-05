@@ -1,0 +1,19 @@
+{
+  "slug": "breedens-orchard-631-beckwith-rd",
+  "name": "Breedens Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "631 Beckwith Rd, TN",
+  "locationCity": "631 Beckwith Rd",
+  "locationState": "TN",
+  "locationZipcode": "37122",
+  "lat": 36.225541013398,
+  "lon": -86.4699659619806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.169Z"
+}

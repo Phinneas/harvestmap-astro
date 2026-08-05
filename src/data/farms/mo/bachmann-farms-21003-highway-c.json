@@ -1,0 +1,19 @@
+{
+  "slug": "bachmann-farms-21003-highway-c",
+  "name": "Bachmann Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "21003 Highway C, MO",
+  "locationCity": "21003 Highway C",
+  "locationState": "MO",
+  "locationZipcode": "21003",
+  "lat": 37.7391569911219,
+  "lon": -89.72650197787513,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:58.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:58.522Z"
+}

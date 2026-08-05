@@ -1,0 +1,19 @@
+{
+  "slug": "fern-creek-farmers-market-6104-bardstown-road-louisville",
+  "name": "Fern Creek Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6104 Bardstown Road Louisville, KY",
+  "locationCity": "6104 Bardstown Road Louisville",
+  "locationState": "KY",
+  "locationZipcode": "40291",
+  "lat": 38.15677156983016,
+  "lon": -85.59055953547875,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

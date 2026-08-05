@@ -1,0 +1,20 @@
+{
+  "slug": "rossview-farm-84-district-5-road",
+  "name": "Rossview Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "84 District  5 Road, NH",
+  "locationCity": "84 District  5 Road",
+  "locationState": "NH",
+  "locationZipcode": "03303",
+  "lat": 43.2187870066701,
+  "lon": -71.6146779766375,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.623Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.623Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "algoma-sunday-farmers-market-clark-st-and-lake-st",
+  "name": "Algoma Sunday Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Clark St. and Lake St., WI",
+  "locationCity": "Clark St. and Lake St.",
+  "locationState": "WI",
+  "locationZipcode": "54201",
+  "lat": 44.607438,
+  "lon": -87.435983,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.753Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.753Z"
+}

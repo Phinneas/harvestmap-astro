@@ -1,0 +1,19 @@
+{
+  "slug": "triple-j-farms-400-zachary-ridge-road",
+  "name": "Triple J Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "400 Zachary Ridge Road, TN",
+  "locationCity": "400 Zachary Ridge Road",
+  "locationState": "TN",
+  "locationZipcode": "37848",
+  "lat": 36.2540559965438,
+  "lon": -83.6798019724338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.220Z"
+}

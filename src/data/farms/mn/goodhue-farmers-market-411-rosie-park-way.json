@@ -1,0 +1,19 @@
+{
+  "slug": "goodhue-farmers-market-411-rosie-park-way",
+  "name": "Goodhue Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "411 Rosie Park Way, MN",
+  "locationCity": "411 Rosie Park Way",
+  "locationState": "MN",
+  "locationZipcode": "55027",
+  "lat": 44.403334,
+  "lon": -92.624672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.726Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.726Z"
+}

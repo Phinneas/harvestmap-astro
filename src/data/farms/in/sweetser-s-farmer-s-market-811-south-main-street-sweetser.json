@@ -1,0 +1,19 @@
+{
+  "slug": "sweetser-s-farmer-s-market-811-south-main-street-sweetser",
+  "name": "Sweetser's Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "811 South Main Street Sweetser, IN",
+  "locationCity": "811 South Main Street Sweetser",
+  "locationState": "IN",
+  "locationZipcode": "46987",
+  "lat": 40.560792619718725,
+  "lon": -85.76902277045458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

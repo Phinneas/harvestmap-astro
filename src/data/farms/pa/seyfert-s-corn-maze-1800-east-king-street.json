@@ -1,0 +1,19 @@
+{
+  "slug": "seyfert-s-corn-maze-1800-east-king-street",
+  "name": "Seyfert's Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1800 East King Street, PA",
+  "locationCity": "1800 East King Street",
+  "locationState": "PA",
+  "locationZipcode": "17042",
+  "lat": 40.3428139958264,
+  "lon": -76.3766029646511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.060Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.060Z"
+}

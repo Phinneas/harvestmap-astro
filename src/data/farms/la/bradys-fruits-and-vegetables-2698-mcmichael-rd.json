@@ -1,0 +1,19 @@
+{
+  "slug": "bradys-fruits-and-vegetables-2698-mcmichael-rd",
+  "name": "Bradys Fruits And Vegetables",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2698 Mcmichael Rd, LA",
+  "locationCity": "2698 Mcmichael Rd",
+  "locationState": "LA",
+  "locationZipcode": "70611",
+  "lat": 30.31850698418846,
+  "lon": -93.25604797958212,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

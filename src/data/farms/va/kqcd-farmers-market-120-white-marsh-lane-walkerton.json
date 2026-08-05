@@ -1,0 +1,19 @@
+{
+  "slug": "kqcd-farmers-market-120-white-marsh-lane-walkerton",
+  "name": "KQCD Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "120 White Marsh Lane Walkerton, VA",
+  "locationCity": "120 White Marsh Lane Walkerton",
+  "locationState": "VA",
+  "locationZipcode": "23177",
+  "lat": 37.72592202152221,
+  "lon": -77.02272132737811,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

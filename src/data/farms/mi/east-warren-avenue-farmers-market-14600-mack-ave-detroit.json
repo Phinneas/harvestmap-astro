@@ -1,0 +1,19 @@
+{
+  "slug": "east-warren-avenue-farmers-market-14600-mack-ave-detroit",
+  "name": "East Warren Avenue Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14600 Mack Ave Detroit, MI",
+  "locationCity": "14600 Mack Ave Detroit",
+  "locationState": "MI",
+  "locationZipcode": "14600",
+  "lat": 42.386821256765636,
+  "lon": -82.95067494514292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

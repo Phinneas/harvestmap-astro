@@ -1,0 +1,19 @@
+{
+  "slug": "hardwick-s-vineyard-610-ham-road",
+  "name": "Hardwick's Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "610 Ham Road, NC",
+  "locationCity": "610 Ham Road",
+  "locationState": "NC",
+  "locationZipcode": "28337",
+  "lat": 34.6458000757945,
+  "lon": -78.4655500941284,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.886Z"
+}

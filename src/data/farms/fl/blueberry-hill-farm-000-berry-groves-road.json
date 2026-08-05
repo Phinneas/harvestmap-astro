@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-farm-000-berry-groves-road",
+  "name": "Blueberry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 Berry Groves Road, FL",
+  "locationCity": "000 Berry Groves Road",
+  "locationState": "FL",
+  "locationZipcode": "34714",
+  "lat": 28.4236719064515,
+  "lon": -81.8501745361086,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.787Z"
+}

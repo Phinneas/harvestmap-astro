@@ -1,0 +1,19 @@
+{
+  "slug": "gardner-farms-3192-highway-42-s",
+  "name": "Gardner Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3192 Highway 42 S, GA",
+  "locationCity": "3192 Highway 42 S",
+  "locationState": "GA",
+  "locationZipcode": "30248",
+  "lat": 33.36246599134172,
+  "lon": -84.12168199388388,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.404Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.404Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "alutiiq-grown-foodhub-115-mill-bay-rd",
+  "name": "Alutiiq Grown Foodhub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "115 Mill Bay Rd, AK",
+  "locationCity": "115 Mill Bay Rd",
+  "locationState": "AK",
+  "locationZipcode": "99615",
+  "lat": 57.7892300103741,
+  "lon": -152.4047190008707,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:03.298Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:03.298Z"
+}

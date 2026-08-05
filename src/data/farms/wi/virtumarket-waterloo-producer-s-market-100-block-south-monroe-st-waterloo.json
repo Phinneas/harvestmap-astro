@@ -1,0 +1,19 @@
+{
+  "slug": "virtumarket-waterloo-producer-s-market-100-block-south-monroe-st-waterloo",
+  "name": "VirtuMarket Waterloo Producer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Block South Monroe St Waterloo, WI",
+  "locationCity": "100 Block South Monroe St Waterloo",
+  "locationState": "WI",
+  "locationZipcode": "53594",
+  "lat": 43.18305928210442,
+  "lon": -88.99042783970454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.859Z"
+}

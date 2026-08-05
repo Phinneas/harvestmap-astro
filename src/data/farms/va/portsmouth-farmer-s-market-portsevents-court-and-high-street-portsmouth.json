@@ -1,0 +1,19 @@
+{
+  "slug": "portsmouth-farmer-s-market-portsevents-court-and-high-street-portsmouth",
+  "name": "Portsmouth Farmer's Market - PortsEvents",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Court and High Street Portsmouth, VA",
+  "locationCity": "Court and High Street Portsmouth",
+  "locationState": "VA",
+  "locationZipcode": "23704",
+  "lat": 36.835319985093236,
+  "lon": -76.30085998042527,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

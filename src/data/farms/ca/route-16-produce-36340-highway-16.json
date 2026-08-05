@@ -1,0 +1,19 @@
+{
+  "slug": "route-16-produce-36340-highway-16",
+  "name": "Route 16 Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "36340 Highway 16, CA",
+  "locationCity": "36340 Highway 16",
+  "locationState": "CA",
+  "locationZipcode": "36340",
+  "lat": 38.67806819671674,
+  "lon": -121.83421206745982,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

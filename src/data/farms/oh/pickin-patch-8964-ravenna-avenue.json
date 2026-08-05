@@ -1,0 +1,19 @@
+{
+  "slug": "pickin-patch-8964-ravenna-avenue",
+  "name": "Pickin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8964 Ravenna Avenue, OH",
+  "locationCity": "8964 Ravenna Avenue",
+  "locationState": "OH",
+  "locationZipcode": "44641",
+  "lat": 40.9013497996417,
+  "lon": -81.2551848415397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.920Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.920Z"
+}

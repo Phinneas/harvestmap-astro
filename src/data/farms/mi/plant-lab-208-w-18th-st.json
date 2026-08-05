@@ -1,0 +1,19 @@
+{
+  "slug": "plant-lab-208-w-18th-st",
+  "name": "Plant Lab",
+  "source": "usda",
+  "directory": "csa",
+  "location": "208 W 18th St, MI",
+  "locationCity": "208 W 18th St",
+  "locationState": "MI",
+  "locationZipcode": "49423",
+  "lat": 42.78093314859129,
+  "lon": -86.11666044505158,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.101Z"
+}

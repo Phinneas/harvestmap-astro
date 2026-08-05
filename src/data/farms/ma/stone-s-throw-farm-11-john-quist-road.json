@@ -1,0 +1,19 @@
+{
+  "slug": "stone-s-throw-farm-11-john-quist-road",
+  "name": "Stone's Throw Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "11 John Quist Road, MA",
+  "locationCity": "11 John Quist Road",
+  "locationState": "MA",
+  "locationZipcode": "",
+  "lat": 42.5702439,
+  "lon": -72.393609,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.252Z"
+}

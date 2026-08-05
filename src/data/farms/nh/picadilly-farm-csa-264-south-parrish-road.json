@@ -1,0 +1,19 @@
+{
+  "slug": "picadilly-farm-csa-264-south-parrish-road",
+  "name": "Picadilly Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "264 South Parrish Road, NH",
+  "locationCity": "264 South Parrish Road",
+  "locationState": "NH",
+  "locationZipcode": "03470",
+  "lat": 42.7384394,
+  "lon": -72.4498315,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.553Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.553Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "verhage-farms-247-3rd-street",
+  "name": "Verhage Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "247 3rd Street, MI",
+  "locationCity": "247 3rd Street",
+  "locationState": "MI",
+  "locationZipcode": "49065",
+  "lat": 42.1679126000001,
+  "lon": -85.8478157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.675Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.675Z"
+}

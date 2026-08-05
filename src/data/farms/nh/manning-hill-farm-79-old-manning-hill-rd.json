@@ -1,0 +1,19 @@
+{
+  "slug": "manning-hill-farm-79-old-manning-hill-rd",
+  "name": "Manning Hill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "79 Old Manning Hill Rd., NH",
+  "locationCity": "79 Old Manning Hill Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03470",
+  "lat": 42.734646351418746,
+  "lon": -72.40846323427208,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.612Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.612Z"
+}

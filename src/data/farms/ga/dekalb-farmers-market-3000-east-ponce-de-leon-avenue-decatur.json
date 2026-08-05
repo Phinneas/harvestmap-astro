@@ -1,0 +1,19 @@
+{
+  "slug": "dekalb-farmers-market-3000-east-ponce-de-leon-avenue-decatur",
+  "name": "DeKalb Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3000 East Ponce De leon Avenue Decatur, GA",
+  "locationCity": "3000 East Ponce De leon Avenue Decatur",
+  "locationState": "GA",
+  "locationZipcode": "30030",
+  "lat": 33.78422966042084,
+  "lon": -84.27175431401308,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

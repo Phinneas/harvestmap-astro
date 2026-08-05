@@ -1,0 +1,19 @@
+{
+  "slug": "twelve-stones-ranch-produce-and-gotcha-goat-farm-1-hi-lo-lane",
+  "name": "Twelve Stones Ranch Produce and Gotcha Goat Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1 Hi Lo Lane, TX",
+  "locationCity": "1 Hi Lo Lane",
+  "locationState": "TX",
+  "locationZipcode": "77303",
+  "lat": 30.3551355,
+  "lon": -95.463324,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.844Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.844Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "casco-farmers-market-940-meadow-road-casco",
+  "name": "Casco Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "940 Meadow Road Casco, ME",
+  "locationCity": "940 Meadow Road Casco",
+  "locationState": "ME",
+  "locationZipcode": "04015",
+  "lat": 44.00338707815158,
+  "lon": -70.52168523310598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:57.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:57.069Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cherry-time-1875-walnut-blvd",
+  "name": "Cherry Time",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1875 Walnut Blvd, CA",
+  "locationCity": "1875 Walnut Blvd",
+  "locationState": "CA",
+  "locationZipcode": "94513",
+  "lat": 37.9020183298742,
+  "lon": -121.696388313976,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.730Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.730Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cullipher-farm-market-1444-princess-anne-road-va-beach",
+  "name": "Cullipher Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1444 Princess Anne Road Va. Beach, VA",
+  "locationCity": "1444 Princess Anne Road Va. Beach",
+  "locationState": "VA",
+  "locationZipcode": "23456",
+  "lat": 36.68481584477347,
+  "lon": -76.02382715950678,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

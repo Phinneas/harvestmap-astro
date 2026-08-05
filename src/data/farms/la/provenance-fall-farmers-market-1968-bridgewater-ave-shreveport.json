@@ -1,0 +1,19 @@
+{
+  "slug": "provenance-fall-farmers-market-1968-bridgewater-ave-shreveport",
+  "name": "Provenance Fall Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1968 Bridgewater Ave Shreveport, LA",
+  "locationCity": "1968 Bridgewater Ave Shreveport",
+  "locationState": "LA",
+  "locationZipcode": "71106",
+  "lat": 32.35802156620386,
+  "lon": -93.72411227598589,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.709Z"
+}

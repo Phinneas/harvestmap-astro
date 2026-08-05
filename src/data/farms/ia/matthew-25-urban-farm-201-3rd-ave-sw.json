@@ -1,0 +1,19 @@
+{
+  "slug": "matthew-25-urban-farm-201-3rd-ave-sw",
+  "name": "Matthew 25 Urban Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "201 3rd Ave SW, IA",
+  "locationCity": "201 3rd Ave SW",
+  "locationState": "IA",
+  "locationZipcode": "52403",
+  "lat": 41.9738535,
+  "lon": -91.6732981,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.412Z"
+}

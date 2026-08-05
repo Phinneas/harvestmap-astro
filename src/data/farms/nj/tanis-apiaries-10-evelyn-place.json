@@ -1,0 +1,19 @@
+{
+  "slug": "tanis-apiaries-10-evelyn-place",
+  "name": "Tanis Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10 Evelyn Place, NJ",
+  "locationCity": "10 Evelyn Place",
+  "locationState": "NJ",
+  "locationZipcode": "07444",
+  "lat": 40.965169007408,
+  "lon": -74.3049760322575,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.197Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.197Z"
+}

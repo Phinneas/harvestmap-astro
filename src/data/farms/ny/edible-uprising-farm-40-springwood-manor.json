@@ -1,0 +1,19 @@
+{
+  "slug": "edible-uprising-farm-40-springwood-manor",
+  "name": "Edible Uprising Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "40 Springwood Manor, NY",
+  "locationCity": "40 Springwood Manor",
+  "locationState": "NY",
+  "locationZipcode": "12180",
+  "lat": 42.7083596,
+  "lon": -73.6882596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.160Z"
+}

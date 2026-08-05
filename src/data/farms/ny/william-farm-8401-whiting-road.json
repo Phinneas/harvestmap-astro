@@ -1,0 +1,19 @@
+{
+  "slug": "william-farm-8401-whiting-road",
+  "name": "William Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8401 Whiting Road, NY",
+  "locationCity": "8401 Whiting Road",
+  "locationState": "NY",
+  "locationZipcode": "13039",
+  "lat": 43.1777000069514,
+  "lon": -76.0695200395163,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.423Z"
+}

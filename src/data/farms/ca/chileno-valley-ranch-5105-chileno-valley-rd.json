@@ -1,0 +1,19 @@
+{
+  "slug": "chileno-valley-ranch-5105-chileno-valley-rd",
+  "name": "Chileno Valley Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5105 Chileno Valley Rd, CA",
+  "locationCity": "5105 Chileno Valley Rd",
+  "locationState": "CA",
+  "locationZipcode": "94952",
+  "lat": 38.2084569838869,
+  "lon": -122.792772968669,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.730Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.730Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "vest-berries-and-produce-170-mush-run-road",
+  "name": "Vest Berries and Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "170 Mush Run Road, OH",
+  "locationCity": "170 Mush Run Road",
+  "locationState": "OH",
+  "locationZipcode": "45778",
+  "lat": 39.3373772828199,
+  "lon": -81.9462073550516,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.838Z",
+  "crops": []
+}

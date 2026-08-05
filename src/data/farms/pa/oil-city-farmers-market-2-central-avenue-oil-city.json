@@ -1,0 +1,19 @@
+{
+  "slug": "oil-city-farmers-market-2-central-avenue-oil-city",
+  "name": "Oil City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2 Central Avenue Oil City, PA",
+  "locationCity": "2 Central Avenue Oil City",
+  "locationState": "PA",
+  "locationZipcode": "16301",
+  "lat": 41.429188005657146,
+  "lon": -79.71121197234365,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

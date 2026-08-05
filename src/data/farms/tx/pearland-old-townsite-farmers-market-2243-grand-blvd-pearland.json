@@ -1,0 +1,19 @@
+{
+  "slug": "pearland-old-townsite-farmers-market-2243-grand-blvd-pearland",
+  "name": "Pearland Old Townsite Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2243 Grand Blvd. Pearland, TX",
+  "locationCity": "2243 Grand Blvd. Pearland",
+  "locationState": "TX",
+  "locationZipcode": "77581",
+  "lat": 29.567009291154697,
+  "lon": -95.28392626054547,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

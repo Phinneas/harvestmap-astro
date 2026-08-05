@@ -1,0 +1,19 @@
+{
+  "slug": "warbington-farms-555-crow-rd",
+  "name": "Warbington Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "555 Crow Rd, GA",
+  "locationCity": "555 Crow Rd",
+  "locationState": "GA",
+  "locationZipcode": "30041",
+  "lat": 34.2681023225103,
+  "lon": -84.0288653199568,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.322Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.322Z"
+}

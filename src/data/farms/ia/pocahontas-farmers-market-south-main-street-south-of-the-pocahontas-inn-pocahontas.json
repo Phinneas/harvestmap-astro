@@ -1,0 +1,19 @@
+{
+  "slug": "pocahontas-farmers-market-south-main-street-south-of-the-pocahontas-inn-pocahontas",
+  "name": "Pocahontas Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "South Main Street (south of the Pocahontas Inn) Pocahontas, IA",
+  "locationCity": "South Main Street (south of the Pocahontas Inn) Pocahontas",
+  "locationState": "IA",
+  "locationZipcode": "50574",
+  "lat": 42.727406168225976,
+  "lon": -94.6686486751615,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

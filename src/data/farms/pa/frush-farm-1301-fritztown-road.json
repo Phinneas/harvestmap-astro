@@ -1,0 +1,19 @@
+{
+  "slug": "frush-farm-1301-fritztown-road",
+  "name": "Frush Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1301 Fritztown Road, PA",
+  "locationCity": "1301 Fritztown Road",
+  "locationState": "PA",
+  "locationZipcode": "17569",
+  "lat": 40.2815139946907,
+  "lon": -76.0835179854573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.149Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.150Z"
+}

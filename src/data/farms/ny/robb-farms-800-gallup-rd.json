@@ -1,0 +1,20 @@
+{
+  "slug": "robb-farms-800-gallup-rd",
+  "name": "Robb Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "800 Gallup Rd, NY",
+  "locationCity": "800 Gallup Rd",
+  "locationState": "NY",
+  "locationZipcode": "14559",
+  "lat": 43.1970585152493,
+  "lon": -77.8739116144711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.013Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.013Z",
+  "crops": []
+}

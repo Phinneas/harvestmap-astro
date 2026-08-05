@@ -1,0 +1,19 @@
+{
+  "slug": "quail-hill-orchard-537-gould-hill-road",
+  "name": "Quail Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "537 Gould Hill Road, VA",
+  "locationCity": "537 Gould Hill Road",
+  "locationState": "VA",
+  "locationZipcode": "23069",
+  "lat": 37.6935723667541,
+  "lon": -77.2865628753704,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.177Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.177Z"
+}

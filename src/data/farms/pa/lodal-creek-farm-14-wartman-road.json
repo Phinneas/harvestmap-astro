@@ -1,0 +1,20 @@
+{
+  "slug": "lodal-creek-farm-14-wartman-road",
+  "name": "Lodal Creek Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "14 Wartman Road, PA",
+  "locationCity": "14 Wartman Road",
+  "locationState": "PA",
+  "locationZipcode": "19426",
+  "lat": 40.22477098285444,
+  "lon": -75.45671901454065,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.221Z",
+  "crops": []
+}

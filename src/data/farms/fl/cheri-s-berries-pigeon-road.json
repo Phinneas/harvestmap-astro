@@ -1,0 +1,19 @@
+{
+  "slug": "cheri-s-berries-pigeon-road",
+  "name": "Cheri's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Pigeon Road, FL",
+  "locationCity": "Pigeon Road",
+  "locationState": "FL",
+  "locationZipcode": "34669",
+  "lat": 28.3629049978569,
+  "lon": -82.622665541125,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.890Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.890Z"
+}

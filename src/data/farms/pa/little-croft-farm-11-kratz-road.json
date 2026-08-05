@@ -1,0 +1,19 @@
+{
+  "slug": "little-croft-farm-11-kratz-road",
+  "name": "Little Croft Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "11 Kratz Road, PA",
+  "locationCity": "11 Kratz Road",
+  "locationState": "PA",
+  "locationZipcode": "18074",
+  "lat": 40.313704910714186,
+  "lon": -75.4712175724107,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.606Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.606Z"
+}

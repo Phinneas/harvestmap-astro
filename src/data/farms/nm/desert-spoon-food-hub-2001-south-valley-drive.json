@@ -1,0 +1,19 @@
+{
+  "slug": "desert-spoon-food-hub-2001-south-valley-drive",
+  "name": "Desert Spoon Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2001 South Valley Drive, NM",
+  "locationCity": "2001 South Valley Drive",
+  "locationState": "NM",
+  "locationZipcode": "88005",
+  "lat": 32.2872374,
+  "lon": -106.77536,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:00.060Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:00.060Z"
+}

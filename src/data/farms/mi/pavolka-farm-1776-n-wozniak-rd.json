@@ -1,0 +1,19 @@
+{
+  "slug": "pavolka-farm-1776-n-wozniak-rd",
+  "name": "Pavolka Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1776 N Wozniak Rd, MI",
+  "locationCity": "1776 N Wozniak Rd",
+  "locationState": "MI",
+  "locationZipcode": "46360",
+  "lat": 41.6333550082675,
+  "lon": -86.8511930233106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.696Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.696Z"
+}

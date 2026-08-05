@@ -1,0 +1,19 @@
+{
+  "slug": "golden-triangle-farmers-market-1112-broadway-denver",
+  "name": "Golden Triangle Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1112 Broadway Denver, CO",
+  "locationCity": "1112 Broadway Denver",
+  "locationState": "CO",
+  "locationZipcode": "80203",
+  "lat": 39.734113732523916,
+  "lon": -104.9874017794336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

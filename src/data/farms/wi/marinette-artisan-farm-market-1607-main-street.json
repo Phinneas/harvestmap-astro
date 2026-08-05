@@ -1,0 +1,19 @@
+{
+  "slug": "marinette-artisan-farm-market-1607-main-street",
+  "name": "Marinette Artisan & Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1607 Main Street, WI",
+  "locationCity": "1607 Main Street",
+  "locationState": "WI",
+  "locationZipcode": "54143",
+  "lat": 45.098174,
+  "lon": -87.628231,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.751Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.751Z"
+}

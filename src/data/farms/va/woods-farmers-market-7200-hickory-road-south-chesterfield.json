@@ -1,0 +1,19 @@
+{
+  "slug": "woods-farmers-market-7200-hickory-road-south-chesterfield",
+  "name": "Woods Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7200 Hickory Road South Chesterfield, VA",
+  "locationCity": "7200 Hickory Road South Chesterfield",
+  "locationState": "VA",
+  "locationZipcode": "23803",
+  "lat": 37.26388261957602,
+  "lon": -77.49402268630601,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

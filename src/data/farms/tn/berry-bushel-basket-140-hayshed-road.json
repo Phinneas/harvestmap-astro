@@ -1,0 +1,19 @@
+{
+  "slug": "berry-bushel-basket-140-hayshed-road",
+  "name": "Berry Bushel Basket",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "140 Hayshed Road, TN",
+  "locationCity": "140 Hayshed Road",
+  "locationState": "TN",
+  "locationZipcode": "37055",
+  "lat": 36.1725410893016,
+  "lon": -87.4053039642527,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.163Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.163Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bp-farms-6300-rea-rd",
+  "name": "BP Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6300 Rea Rd, MI",
+  "locationCity": "6300 Rea Rd",
+  "locationState": "MI",
+  "locationZipcode": "48131",
+  "lat": 41.986419,
+  "lon": -83.722228,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.174Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.174Z"
+}

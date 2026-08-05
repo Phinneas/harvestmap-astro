@@ -1,0 +1,19 @@
+{
+  "slug": "forest-lakes-farmers-market-1650-ashwood-blvd",
+  "name": "Forest Lakes Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1650 Ashwood Blvd., VA",
+  "locationCity": "1650 Ashwood Blvd.",
+  "locationState": "VA",
+  "locationZipcode": "22911",
+  "lat": 38.1087,
+  "lon": -78.44106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.088Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.088Z"
+}

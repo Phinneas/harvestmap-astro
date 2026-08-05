@@ -1,0 +1,19 @@
+{
+  "slug": "green-acres-farm-market-8865-highway-53",
+  "name": "Green Acres Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8865 highway 53, GA",
+  "locationCity": "8865 highway 53",
+  "locationState": "GA",
+  "locationZipcode": "30517",
+  "lat": 34.14436101640777,
+  "lon": -83.79764096988255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:57.883Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:57.883Z"
+}

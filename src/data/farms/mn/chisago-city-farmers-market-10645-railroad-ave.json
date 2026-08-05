@@ -1,0 +1,19 @@
+{
+  "slug": "chisago-city-farmers-market-10645-railroad-ave",
+  "name": "Chisago City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10645 Railroad Ave, MN",
+  "locationCity": "10645 Railroad Ave",
+  "locationState": "MN",
+  "locationZipcode": "10645",
+  "lat": 45.3724036,
+  "lon": -92.8903231,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

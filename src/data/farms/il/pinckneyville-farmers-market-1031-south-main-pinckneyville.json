@@ -1,0 +1,19 @@
+{
+  "slug": "pinckneyville-farmers-market-1031-south-main-pinckneyville",
+  "name": "Pinckneyville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1031 South Main Pinckneyville, IL",
+  "locationCity": "1031 South Main Pinckneyville",
+  "locationState": "IL",
+  "locationZipcode": "62274",
+  "lat": 38.07168555758314,
+  "lon": -89.38196189446772,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

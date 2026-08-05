@@ -1,0 +1,19 @@
+{
+  "slug": "leel-farm-745-turnpike-road",
+  "name": "Leel Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "745 Turnpike Road, NH",
+  "locationCity": "745 Turnpike Road",
+  "locationState": "NH",
+  "locationZipcode": "03071",
+  "lat": 42.76047,
+  "lon": -71.872,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.894Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.894Z"
+}

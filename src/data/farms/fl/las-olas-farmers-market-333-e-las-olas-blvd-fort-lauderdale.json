@@ -1,0 +1,19 @@
+{
+  "slug": "las-olas-farmers-market-333-e-las-olas-blvd-fort-lauderdale",
+  "name": "Las Olas Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "333 E. Las Olas Blvd. Fort Lauderdale, FL",
+  "locationCity": "333 E. Las Olas Blvd. Fort Lauderdale",
+  "locationState": "FL",
+  "locationZipcode": "33301",
+  "lat": 26.11916254488177,
+  "lon": -80.14000320923031,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

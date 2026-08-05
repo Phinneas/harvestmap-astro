@@ -1,0 +1,20 @@
+{
+  "slug": "the-farm-in-harmony-brainards-road",
+  "name": "The Farm In Harmony",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brainards Road, NJ",
+  "locationCity": "Brainards Road",
+  "locationState": "NJ",
+  "locationZipcode": "08865",
+  "lat": 40.7546819843141,
+  "lon": -75.1510480209957,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.547Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.547Z",
+  "crops": []
+}

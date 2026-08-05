@@ -1,0 +1,19 @@
+{
+  "slug": "kilgore-family-farm-4945-horn-road",
+  "name": "Kilgore Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4945 Horn Road, PA",
+  "locationCity": "4945 Horn Road",
+  "locationState": "PA",
+  "locationZipcode": "17406",
+  "lat": 40.008523245346055,
+  "lon": -76.60603585494964,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.595Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.595Z"
+}

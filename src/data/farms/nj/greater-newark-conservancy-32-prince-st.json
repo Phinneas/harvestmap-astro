@@ -1,0 +1,19 @@
+{
+  "slug": "greater-newark-conservancy-32-prince-st",
+  "name": "Greater Newark Conservancy",
+  "source": "usda",
+  "directory": "csa",
+  "location": "32 Prince St, NJ",
+  "locationCity": "32 Prince St",
+  "locationState": "NJ",
+  "locationZipcode": "07103",
+  "lat": 40.7359925,
+  "lon": -74.1851427,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.106Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.106Z"
+}

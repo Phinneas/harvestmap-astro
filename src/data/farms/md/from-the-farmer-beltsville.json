@@ -1,0 +1,19 @@
+{
+  "slug": "from-the-farmer-beltsville",
+  "name": "From the Farmer",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Beltsville, MD",
+  "locationCity": "Beltsville",
+  "locationState": "MD",
+  "locationZipcode": "20705",
+  "lat": 39.0348317,
+  "lon": -76.907473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:12.404Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:12.404Z"
+}

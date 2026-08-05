@@ -1,0 +1,19 @@
+{
+  "slug": "cold-spring-farmers-market-44-chestnut-street-cold-spring",
+  "name": "Cold Spring Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "44 Chestnut Street Cold Spring, NY",
+  "locationCity": "44 Chestnut Street Cold Spring",
+  "locationState": "NY",
+  "locationZipcode": "10516",
+  "lat": 41.41872445495529,
+  "lon": -73.95267856462101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "good-dirt-farm-140-briar-ln",
+  "name": "Good Dirt Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "140 Briar Ln, PA",
+  "locationCity": "140 Briar Ln",
+  "locationState": "PA",
+  "locationZipcode": "15627",
+  "lat": 40.33755041208934,
+  "lon": -79.32996445304246,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.605Z"
+}

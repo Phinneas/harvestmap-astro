@@ -1,0 +1,19 @@
+{
+  "slug": "tuesday-eastside-farmers-market-953-jenifer-st-madison",
+  "name": "Tuesday Eastside Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "953 Jenifer St. Madison, WI",
+  "locationCity": "953 Jenifer St. Madison",
+  "locationState": "WI",
+  "locationZipcode": "53703",
+  "lat": 43.079500902410594,
+  "lon": -89.36786197135231,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

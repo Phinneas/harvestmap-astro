@@ -1,0 +1,19 @@
+{
+  "slug": "mercer-park-farmers-market-2701-bradford-drive-iowa-city",
+  "name": "Mercer Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2701 Bradford Drive Iowa City, IA",
+  "locationCity": "2701 Bradford Drive Iowa City",
+  "locationState": "IA",
+  "locationZipcode": "52240",
+  "lat": 41.64629372856975,
+  "lon": -91.50085394544612,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

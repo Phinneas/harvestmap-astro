@@ -1,0 +1,20 @@
+{
+  "slug": "apple-ridge-orchards-101-jessup-road",
+  "name": "Apple Ridge Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Jessup Road, NY",
+  "locationCity": "101 Jessup Road",
+  "locationState": "NY",
+  "locationZipcode": "10990",
+  "lat": 41.2907256612141,
+  "lon": -74.3832361658649,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.227Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.227Z",
+  "crops": []
+}

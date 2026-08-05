@@ -1,0 +1,19 @@
+{
+  "slug": "ballard-farmers-market-5300-ballard-ave-nw",
+  "name": "Ballard Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5300 Ballard AVE NW, WA",
+  "locationCity": "5300 Ballard AVE NW",
+  "locationState": "WA",
+  "locationZipcode": "98107",
+  "lat": 47.667512,
+  "lon": -122.3845,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.746Z"
+}

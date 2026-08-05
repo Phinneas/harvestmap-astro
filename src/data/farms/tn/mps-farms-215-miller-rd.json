@@ -1,0 +1,19 @@
+{
+  "slug": "mps-farms-215-miller-rd",
+  "name": "MPS Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "215 Miller Rd, TN",
+  "locationCity": "215 Miller Rd",
+  "locationState": "TN",
+  "locationZipcode": "37033",
+  "lat": 35.8182368492567,
+  "lon": -87.6529667425852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.209Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.209Z"
+}

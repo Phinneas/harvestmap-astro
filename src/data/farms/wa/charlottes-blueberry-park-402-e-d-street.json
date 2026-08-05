@@ -1,0 +1,19 @@
+{
+  "slug": "charlottes-blueberry-park-402-e-d-street",
+  "name": "Charlottes Blueberry Park",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "402 E. D Street, WA",
+  "locationCity": "402 E. D Street",
+  "locationState": "WA",
+  "locationZipcode": "98404",
+  "lat": 47.2593328068485,
+  "lon": -122.434049298235,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.290Z"
+}

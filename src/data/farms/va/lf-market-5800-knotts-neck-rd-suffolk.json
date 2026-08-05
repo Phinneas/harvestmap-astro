@@ -1,0 +1,19 @@
+{
+  "slug": "lf-market-5800-knotts-neck-rd-suffolk",
+  "name": "LF Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5800 Knotts Neck Rd Suffolk, VA",
+  "locationCity": "5800 Knotts Neck Rd Suffolk",
+  "locationState": "VA",
+  "locationZipcode": "23435",
+  "lat": 36.86350081358393,
+  "lon": -76.46500715120679,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

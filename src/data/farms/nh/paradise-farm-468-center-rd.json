@@ -1,0 +1,20 @@
+{
+  "slug": "paradise-farm-468-center-rd",
+  "name": "Paradise Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "468 Center Rd., NH",
+  "locationCity": "468 Center Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03082",
+  "lat": 42.8747410200884,
+  "lon": -71.7277609984054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.789Z",
+  "crops": []
+}

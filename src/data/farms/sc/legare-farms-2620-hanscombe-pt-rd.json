@@ -2,20 +2,19 @@
   "slug": "legare-farms-2620-hanscombe-pt-rd",
   "name": "Legare Farms",
   "source": "usda",
-  "directory": "agritourism",
-  "location": "2620 Hanscombe Pt Rd., SC",
-  "locationCity": "2620 Hanscombe Pt Rd.",
+  "directory": "csa",
+  "location": "2620 Hanscombe Pt. Rd., SC",
+  "locationCity": "2620 Hanscombe Pt. Rd.",
   "locationState": "SC",
   "locationZipcode": "29455",
-  "lat": 32.6786953847272,
-  "lon": -80.0209789105359,
+  "lat": 32.6787785,
+  "lon": -80.0257993,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:38:13.634Z"
+      "lastSeen": "2026-08-05T18:50:52.949Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:38:13.634Z",
-  "website": "https://agriculture.sc.gov/agritourism-farm/legare-farms/",
+  "usdaLastUpdated": "2026-08-05T18:50:52.949Z",
   "tagline": "Legare Farms"
 }

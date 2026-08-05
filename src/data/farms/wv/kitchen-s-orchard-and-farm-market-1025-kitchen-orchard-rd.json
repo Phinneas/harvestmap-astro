@@ -1,0 +1,19 @@
+{
+  "slug": "kitchen-s-orchard-and-farm-market-1025-kitchen-orchard-rd",
+  "name": "Kitchen's Orchard and Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1025 Kitchen Orchard Rd, WV",
+  "locationCity": "1025 Kitchen Orchard Rd",
+  "locationState": "WV",
+  "locationZipcode": "25443",
+  "lat": 39.58382850663061,
+  "lon": -77.91629876707852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:39.183Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:39.183Z"
+}

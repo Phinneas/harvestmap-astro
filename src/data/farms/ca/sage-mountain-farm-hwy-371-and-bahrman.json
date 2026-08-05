@@ -1,0 +1,19 @@
+{
+  "slug": "sage-mountain-farm-hwy-371-and-bahrman",
+  "name": "Sage Mountain Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Hwy 371 and Bahrman, CA",
+  "locationCity": "Hwy 371 and Bahrman",
+  "locationState": "CA",
+  "locationZipcode": "92539",
+  "lat": 33.55514700224397,
+  "lon": -116.68343399496909,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.073Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.073Z"
+}

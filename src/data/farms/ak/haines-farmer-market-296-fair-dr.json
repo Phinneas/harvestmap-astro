@@ -1,0 +1,19 @@
+{
+  "slug": "haines-farmer-market-296-fair-dr",
+  "name": "Haines Farmer Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "296 Fair Dr, AK",
+  "locationCity": "296 Fair Dr",
+  "locationState": "AK",
+  "locationZipcode": "99827",
+  "lat": 59.23290865635691,
+  "lon": -135.4657023147525,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

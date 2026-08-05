@@ -1,0 +1,19 @@
+{
+  "slug": "knapp-enterprises-3-farmers-inn-road",
+  "name": "Knapp Enterprises",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3 Farmers Inn Road, NY",
+  "locationCity": "3 Farmers Inn Road",
+  "locationState": "NY",
+  "locationZipcode": "12090",
+  "lat": 42.8788888048748,
+  "lon": -73.2854289902772,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.223Z"
+}

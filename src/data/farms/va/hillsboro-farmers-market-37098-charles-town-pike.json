@@ -1,0 +1,19 @@
+{
+  "slug": "hillsboro-farmers-market-37098-charles-town-pike",
+  "name": "Hillsboro Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "37098 Charles Town Pike, VA",
+  "locationCity": "37098 Charles Town Pike",
+  "locationState": "VA",
+  "locationZipcode": "37098",
+  "lat": 39.19837310600629,
+  "lon": -77.72209340784713,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

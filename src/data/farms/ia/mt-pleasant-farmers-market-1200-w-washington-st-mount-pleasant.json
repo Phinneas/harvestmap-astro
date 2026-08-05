@@ -1,0 +1,19 @@
+{
+  "slug": "mt-pleasant-farmers-market-1200-w-washington-st-mount-pleasant",
+  "name": "Mt. Pleasant Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1200 W. Washington St. Mount Pleasant, IA",
+  "locationCity": "1200 W. Washington St. Mount Pleasant",
+  "locationState": "IA",
+  "locationZipcode": "52641",
+  "lat": 40.96660298680671,
+  "lon": -91.56729345501148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

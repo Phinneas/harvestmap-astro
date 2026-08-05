@@ -1,0 +1,19 @@
+{
+  "slug": "natural-harvest-farm-844-sherman-farm-rd",
+  "name": "Natural Harvest Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "844 Sherman Farm Rd, RI",
+  "locationCity": "844 Sherman Farm Rd",
+  "locationState": "RI",
+  "locationZipcode": "02830",
+  "lat": 41.9902453,
+  "lon": -71.6841833,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:33.952Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:33.952Z"
+}

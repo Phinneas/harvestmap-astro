@@ -1,0 +1,19 @@
+{
+  "slug": "rutiz-farms-075-the-pike",
+  "name": "Rutiz Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "075 The Pike, CA",
+  "locationCity": "075 The Pike",
+  "locationState": "CA",
+  "locationZipcode": "93420",
+  "lat": 35.1064886208414,
+  "lon": -120.600829820858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.815Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.815Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farm2family-brunswick-farmers-market-10600-bubbling-wells-rd-grass-valley",
+  "name": "Farm2Family Brunswick Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10600 Bubbling Wells Rd Grass Valley, CA",
+  "locationCity": "10600 Bubbling Wells Rd Grass Valley",
+  "locationState": "CA",
+  "locationZipcode": "10600",
+  "lat": 39.23228285527557,
+  "lon": -121.02780966797413,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

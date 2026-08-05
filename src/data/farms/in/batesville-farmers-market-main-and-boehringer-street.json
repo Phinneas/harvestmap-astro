@@ -1,0 +1,19 @@
+{
+  "slug": "batesville-farmers-market-main-and-boehringer-street",
+  "name": "Batesville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main and Boehringer Street, IN",
+  "locationCity": "Main and Boehringer Street",
+  "locationState": "IN",
+  "locationZipcode": "47006",
+  "lat": 39.298852,
+  "lon": -85.221859,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.609Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.609Z"
+}

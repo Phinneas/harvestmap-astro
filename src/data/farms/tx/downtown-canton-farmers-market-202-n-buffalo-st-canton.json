@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-canton-farmers-market-202-n-buffalo-st-canton",
+  "name": "Downtown Canton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "202 N. Buffalo St. Canton, TX",
+  "locationCity": "202 N. Buffalo St. Canton",
+  "locationState": "TX",
+  "locationZipcode": "75103",
+  "lat": 32.557253077145276,
+  "lon": -95.86335351113783,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

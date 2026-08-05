@@ -1,0 +1,19 @@
+{
+  "slug": "birds-and-bees-farm-219-west-main-st",
+  "name": "Birds and Bees Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "219 West Main St, NJ",
+  "locationCity": "219 West Main St",
+  "locationState": "NJ",
+  "locationZipcode": "08022",
+  "lat": 40.0725641489612,
+  "lon": -74.7283109187396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.623Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.623Z"
+}

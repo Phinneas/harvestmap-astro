@@ -1,0 +1,19 @@
+{
+  "slug": "grand-army-farm-1900-grand-army-rd",
+  "name": "Grand army farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1900 Grand Army Rd, MO",
+  "locationCity": "1900 Grand Army Rd",
+  "locationState": "MO",
+  "locationZipcode": "63055",
+  "lat": 38.53147399077727,
+  "lon": -90.81471801307738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.879Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.879Z"
+}

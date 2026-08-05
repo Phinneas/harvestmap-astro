@@ -1,0 +1,19 @@
+{
+  "slug": "lake-leelanau-farmers-market-112-w-front-street-lake-leelanau",
+  "name": "Lake Leelanau Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "112 W Front Street Lake Leelanau, MI",
+  "locationCity": "112 W Front Street Lake Leelanau",
+  "locationState": "MI",
+  "locationZipcode": "49654",
+  "lat": 48.02303476751337,
+  "lon": -98.12249377473294,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

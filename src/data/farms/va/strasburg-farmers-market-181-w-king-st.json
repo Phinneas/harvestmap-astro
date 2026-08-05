@@ -1,0 +1,19 @@
+{
+  "slug": "strasburg-farmers-market-181-w-king-st",
+  "name": "Strasburg Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "181 W King St, VA",
+  "locationCity": "181 W King St",
+  "locationState": "VA",
+  "locationZipcode": "22657",
+  "lat": 38.98964335406826,
+  "lon": -78.36315318320044,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

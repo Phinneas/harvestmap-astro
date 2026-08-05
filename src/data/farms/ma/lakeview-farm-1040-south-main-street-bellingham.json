@@ -1,0 +1,19 @@
+{
+  "slug": "lakeview-farm-1040-south-main-street-bellingham",
+  "name": "Lakeview Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1040 South Main Street Bellingham, MA",
+  "locationCity": "1040 South Main Street Bellingham",
+  "locationState": "MA",
+  "locationZipcode": "02019",
+  "lat": 42.0710403481829,
+  "lon": -71.4764226747101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.650Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.650Z"
+}

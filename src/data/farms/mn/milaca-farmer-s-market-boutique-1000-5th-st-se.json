@@ -1,0 +1,19 @@
+{
+  "slug": "milaca-farmer-s-market-boutique-1000-5th-st-se",
+  "name": "Milaca Farmer's Market & Boutique",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 5th St SE, MN",
+  "locationCity": "1000 5th St SE",
+  "locationState": "MN",
+  "locationZipcode": "56353",
+  "lat": 45.7586712,
+  "lon": -93.6312023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

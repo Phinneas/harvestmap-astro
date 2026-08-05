@@ -1,0 +1,19 @@
+{
+  "slug": "peachtree-city-farmers-market-215-northlake-dr-peachtree-city",
+  "name": "Peachtree City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 Northlake Dr. Peachtree City, GA",
+  "locationCity": "215 Northlake Dr. Peachtree City",
+  "locationState": "GA",
+  "locationZipcode": "30269",
+  "lat": 33.40422878458018,
+  "lon": -84.58429225070357,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "leap-mobile-market-2750-hoover-st-nw-roanoke",
+  "name": "LEAP Mobile Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2750 Hoover St. NW Roanoke, VA",
+  "locationCity": "2750 Hoover St. NW Roanoke",
+  "locationState": "VA",
+  "locationZipcode": "24017",
+  "lat": 37.29242580750908,
+  "lon": -79.97855222817887,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

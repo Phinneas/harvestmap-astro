@@ -1,0 +1,19 @@
+{
+  "slug": "new-cassel-farmers-market-212-garden-st-westbury",
+  "name": "New Cassel Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "212 Garden St. Westbury, NY",
+  "locationCity": "212 Garden St. Westbury",
+  "locationState": "NY",
+  "locationZipcode": "11590",
+  "lat": 40.76213772383133,
+  "lon": -73.56766742597746,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

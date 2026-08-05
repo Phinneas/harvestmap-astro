@@ -1,0 +1,20 @@
+{
+  "slug": "plaskos-farm-670-daniels-farm-road",
+  "name": "Plaskos Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "670 Daniels Farm Road, CT",
+  "locationCity": "670 Daniels Farm Road",
+  "locationState": "CT",
+  "locationZipcode": "06611",
+  "lat": 41.2677060073557,
+  "lon": -73.1993660392237,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.043Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.043Z",
+  "crops": []
+}

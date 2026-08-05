@@ -1,0 +1,20 @@
+{
+  "slug": "legacy-farms-7494-highway-41",
+  "name": "Legacy Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7494 Highway 41, NC",
+  "locationCity": "7494 Highway 41",
+  "locationState": "NC",
+  "locationZipcode": "28466",
+  "lat": 34.7574598504032,
+  "lon": -78.0943792211331,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.813Z",
+  "crops": []
+}

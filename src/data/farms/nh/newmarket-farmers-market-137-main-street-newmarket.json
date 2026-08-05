@@ -1,0 +1,19 @@
+{
+  "slug": "newmarket-farmers-market-137-main-street-newmarket",
+  "name": "Newmarket Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "137 Main Street Newmarket, NH",
+  "locationCity": "137 Main Street Newmarket",
+  "locationState": "NH",
+  "locationZipcode": "03857",
+  "lat": 43.078937834984124,
+  "lon": -70.93629550247749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.154Z"
+}

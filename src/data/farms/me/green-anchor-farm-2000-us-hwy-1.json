@@ -1,0 +1,19 @@
+{
+  "slug": "green-anchor-farm-2000-us-hwy-1",
+  "name": "Green Anchor Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2000 US Hwy 1, ME",
+  "locationCity": "2000 US Hwy 1",
+  "locationState": "ME",
+  "locationZipcode": "04471",
+  "lat": 46.070086,
+  "lon": -67.850248,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:00.093Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:00.093Z"
+}

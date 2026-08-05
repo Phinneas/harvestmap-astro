@@ -1,0 +1,19 @@
+{
+  "slug": "kittery-community-market-10-shapleigh-road",
+  "name": "Kittery Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Shapleigh Road, ME",
+  "locationCity": "10 Shapleigh Road",
+  "locationState": "ME",
+  "locationZipcode": "03904",
+  "lat": 43.090021,
+  "lon": -70.736542,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:56.994Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:56.994Z"
+}

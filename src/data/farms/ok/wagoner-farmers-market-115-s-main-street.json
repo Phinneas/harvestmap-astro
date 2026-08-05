@@ -1,0 +1,19 @@
+{
+  "slug": "wagoner-farmers-market-115-s-main-street",
+  "name": "Wagoner Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 S Main Street, OK",
+  "locationCity": "115 S Main Street",
+  "locationState": "OK",
+  "locationZipcode": "74467",
+  "lat": 35.963528,
+  "lon": -95.379596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:29.319Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:29.319Z"
+}

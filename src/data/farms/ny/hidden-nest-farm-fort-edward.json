@@ -1,0 +1,19 @@
+{
+  "slug": "hidden-nest-farm-fort-edward",
+  "name": "Hidden Nest Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Fort Edward, NY",
+  "locationCity": "Fort Edward",
+  "locationState": "NY",
+  "locationZipcode": "12828",
+  "lat": 43.281767,
+  "lon": -73.519735,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.748Z"
+}

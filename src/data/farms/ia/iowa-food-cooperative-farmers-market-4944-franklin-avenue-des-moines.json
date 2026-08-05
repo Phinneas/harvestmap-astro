@@ -1,0 +1,19 @@
+{
+  "slug": "iowa-food-cooperative-farmers-market-4944-franklin-avenue-des-moines",
+  "name": "Iowa Food Cooperative Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4944 Franklin Avenue Des Moines, IA",
+  "locationCity": "4944 Franklin Avenue Des Moines",
+  "locationState": "IA",
+  "locationZipcode": "50310",
+  "lat": 41.6112477072635,
+  "lon": -93.6843409759317,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

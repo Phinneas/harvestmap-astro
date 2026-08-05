@@ -1,0 +1,20 @@
+{
+  "slug": "dizzy-lizzie-s-farm-3823-sanderson-road",
+  "name": "Dizzy Lizzie's Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3823 Sanderson Road, NY",
+  "locationCity": "3823 Sanderson Road",
+  "locationState": "NY",
+  "locationZipcode": "13061",
+  "lat": 42.8395654,
+  "lon": -75.7441219,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.154Z",
+  "crops": []
+}

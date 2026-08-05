@@ -1,0 +1,19 @@
+{
+  "slug": "cherry-hill-farms-15228-chicken-dinner-rd",
+  "name": "Cherry Hill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15228 Chicken Dinner Rd, ID",
+  "locationCity": "15228 Chicken Dinner Rd",
+  "locationState": "ID",
+  "locationZipcode": "15228",
+  "lat": 43.58915090031605,
+  "lon": -116.772410835834,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.909Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.909Z"
+}

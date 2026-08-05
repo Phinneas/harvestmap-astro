@@ -1,0 +1,19 @@
+{
+  "slug": "chesapeake-farm-to-table-16813-yeoho-road",
+  "name": "Chesapeake Farm to Table",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "16813 Yeoho Road, MD",
+  "locationCity": "16813 Yeoho Road",
+  "locationState": "MD",
+  "locationZipcode": "16813",
+  "lat": 39.584856,
+  "lon": -76.738673,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:12.405Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:12.405Z"
+}

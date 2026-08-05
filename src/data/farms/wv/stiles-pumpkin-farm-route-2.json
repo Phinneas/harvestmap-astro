@@ -1,0 +1,19 @@
+{
+  "slug": "stiles-pumpkin-farm-route-2",
+  "name": "Stiles Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 2, WV",
+  "locationCity": "Route 2",
+  "locationState": "WV",
+  "locationZipcode": "25414",
+  "lat": 39.1736309971538,
+  "lon": -77.8910790094599,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.984Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.984Z"
+}

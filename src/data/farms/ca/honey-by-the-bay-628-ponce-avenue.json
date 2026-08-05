@@ -1,0 +1,20 @@
+{
+  "slug": "honey-by-the-bay-628-ponce-avenue",
+  "name": "Honey by the Bay",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "628 Ponce Avenue, CA",
+  "locationCity": "628 Ponce Avenue",
+  "locationState": "CA",
+  "locationZipcode": "94002",
+  "lat": 37.5149948348372,
+  "lon": -122.301120309617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.756Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.756Z",
+  "crops": []
+}

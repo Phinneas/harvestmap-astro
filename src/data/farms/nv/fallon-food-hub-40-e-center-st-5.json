@@ -1,0 +1,19 @@
+{
+  "slug": "fallon-food-hub-40-e-center-st-5",
+  "name": "Fallon Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "40 E Center St #5, NV",
+  "locationCity": "40 E Center St #5",
+  "locationState": "NV",
+  "locationZipcode": "89406",
+  "lat": 39.472773,
+  "lon": -118.77632,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:26.531Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:26.531Z"
+}

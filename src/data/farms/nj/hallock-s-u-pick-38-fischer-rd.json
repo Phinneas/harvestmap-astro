@@ -1,0 +1,20 @@
+{
+  "slug": "hallock-s-u-pick-38-fischer-rd",
+  "name": "Hallock's U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "38 Fischer Rd, NJ",
+  "locationCity": "38 Fischer Rd",
+  "locationState": "NJ",
+  "locationZipcode": "08533",
+  "lat": 40.0737559935421,
+  "lon": -74.4919610370379,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.198Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.198Z",
+  "crops": []
+}

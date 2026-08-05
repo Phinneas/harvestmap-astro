@@ -1,0 +1,19 @@
+{
+  "slug": "world-peas-csa-corner-of-crosby-and-newhall-street",
+  "name": "World PEAS CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Corner of Crosby and Newhall Street, MA",
+  "locationCity": "Corner of Crosby and Newhall Street",
+  "locationState": "MA",
+  "locationZipcode": "01852",
+  "lat": 42.6318563,
+  "lon": -71.305437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.258Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.258Z"
+}

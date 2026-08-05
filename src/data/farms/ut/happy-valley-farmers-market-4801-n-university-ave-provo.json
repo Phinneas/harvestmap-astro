@@ -1,0 +1,19 @@
+{
+  "slug": "happy-valley-farmers-market-4801-n-university-ave-provo",
+  "name": "Happy Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4801 N University Ave Provo, UT",
+  "locationCity": "4801 N University Ave Provo",
+  "locationState": "UT",
+  "locationZipcode": "84064",
+  "lat": 40.29785965669672,
+  "lon": -111.65701780851352,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:23.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:23.640Z"
+}

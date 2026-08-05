@@ -1,0 +1,19 @@
+{
+  "slug": "santa-clara-farmers-market-jackson-street-at-homestead-road",
+  "name": "Santa Clara Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Jackson Street at Homestead Road, CA",
+  "locationCity": "Jackson Street at Homestead Road",
+  "locationState": "CA",
+  "locationZipcode": "95050",
+  "lat": 37.364613,
+  "lon": -121.96793,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

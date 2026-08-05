@@ -1,0 +1,19 @@
+{
+  "slug": "east-lansing-farmers-market-280-valley-court-east-lansing",
+  "name": "East Lansing Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "280 Valley Court East Lansing, MI",
+  "locationCity": "280 Valley Court East Lansing",
+  "locationState": "MI",
+  "locationZipcode": "48823",
+  "lat": 42.73679268837451,
+  "lon": -84.48656754172846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkin-acres-000-e-1100-n",
+  "name": "Pumpkin Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 E. 1100 N, IN",
+  "locationCity": "000 E. 1100 N",
+  "locationState": "IN",
+  "locationZipcode": "47338",
+  "lat": 40.3492938103497,
+  "lon": -85.3212449180492,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.422Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.422Z"
+}

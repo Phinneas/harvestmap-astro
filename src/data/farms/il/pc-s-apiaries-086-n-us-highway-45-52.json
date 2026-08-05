@@ -1,0 +1,19 @@
+{
+  "slug": "pc-s-apiaries-086-n-us-highway-45-52",
+  "name": "PC's Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "086 N Us Highway 45 52, IL",
+  "locationCity": "086 N Us Highway 45 52",
+  "locationState": "IL",
+  "locationZipcode": "60922",
+  "lat": 41.0221947463145,
+  "lon": -87.8679111600294,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.930Z"
+}

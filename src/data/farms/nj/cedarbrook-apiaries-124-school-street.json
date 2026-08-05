@@ -1,0 +1,19 @@
+{
+  "slug": "cedarbrook-apiaries-124-school-street",
+  "name": "Cedarbrook Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "124 School Street, NJ",
+  "locationCity": "124 School Street",
+  "locationState": "NJ",
+  "locationZipcode": "08037",
+  "lat": 39.6980049971947,
+  "lon": -74.8904030187476,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.283Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.283Z"
+}

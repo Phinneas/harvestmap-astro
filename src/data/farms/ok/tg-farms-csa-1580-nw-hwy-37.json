@@ -1,0 +1,19 @@
+{
+  "slug": "tg-farms-csa-1580-nw-hwy-37",
+  "name": "TG Farms CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1580 NW Hwy 37, OK",
+  "locationCity": "1580 NW Hwy 37",
+  "locationState": "OK",
+  "locationZipcode": "73065",
+  "lat": 35.2900932,
+  "lon": -97.616505,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:27.093Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:27.093Z"
+}

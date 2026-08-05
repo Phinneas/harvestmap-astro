@@ -1,0 +1,19 @@
+{
+  "slug": "wemrock-orchards-300-wemrock-road",
+  "name": "Wemrock Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "300 Wemrock Road, NJ",
+  "locationCity": "300 Wemrock Road",
+  "locationState": "NJ",
+  "locationZipcode": "07728",
+  "lat": 40.2559589968324,
+  "lon": -74.3164969581722,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.539Z"
+}

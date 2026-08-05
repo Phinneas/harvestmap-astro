@@ -1,0 +1,19 @@
+{
+  "slug": "cedar-field-farm-26565-sherwood-rd",
+  "name": "Cedar Field Farm",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "26565 Sherwood Rd, MI",
+  "locationCity": "26565 Sherwood Rd",
+  "locationState": "MI",
+  "locationZipcode": "26565",
+  "lat": 42.106284993750165,
+  "lon": -83.52081998415329,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.245Z"
+}

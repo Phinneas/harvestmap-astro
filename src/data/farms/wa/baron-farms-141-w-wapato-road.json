@@ -1,0 +1,19 @@
+{
+  "slug": "baron-farms-141-w-wapato-road",
+  "name": "Baron Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "141 W. Wapato Road, WA",
+  "locationCity": "141 W. Wapato Road",
+  "locationState": "WA",
+  "locationZipcode": "98951",
+  "lat": 46.4479625198717,
+  "lon": -120.433180875243,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.309Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.309Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-county-farmers-market-1296south-main-st",
+  "name": "Jackson County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1296South Main St., KY",
+  "locationCity": "1296South Main St.",
+  "locationState": "KY",
+  "locationZipcode": "40447",
+  "lat": 37.430289,
+  "lon": -83.988324,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.725Z"
+}

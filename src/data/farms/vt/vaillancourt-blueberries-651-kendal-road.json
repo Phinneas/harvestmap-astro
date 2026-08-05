@@ -1,0 +1,19 @@
+{
+  "slug": "vaillancourt-blueberries-651-kendal-road",
+  "name": "Vaillancourt Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "651 Kendal Road, VT",
+  "locationCity": "651 Kendal Road",
+  "locationState": "VT",
+  "locationZipcode": "05450",
+  "lat": 44.9319250113014,
+  "lon": -72.848093972005,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.015Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.015Z"
+}

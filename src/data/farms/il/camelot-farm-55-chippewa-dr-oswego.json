@@ -1,0 +1,19 @@
+{
+  "slug": "camelot-farm-55-chippewa-dr-oswego",
+  "name": "Camelot Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "55 Chippewa Dr Oswego, IL",
+  "locationCity": "55 Chippewa Dr Oswego",
+  "locationState": "IL",
+  "locationZipcode": "60543",
+  "lat": 41.6332550121626,
+  "lon": -88.3601889798232,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.853Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.853Z"
+}

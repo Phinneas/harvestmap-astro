@@ -1,0 +1,19 @@
+{
+  "slug": "holcomb-farm-111-simsbury-road",
+  "name": "Holcomb Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "111 Simsbury Road, CT",
+  "locationCity": "111 Simsbury Road",
+  "locationState": "CT",
+  "locationZipcode": "06090",
+  "lat": 41.94906062222348,
+  "lon": -72.8377709120722,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

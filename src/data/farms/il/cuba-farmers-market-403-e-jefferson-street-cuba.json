@@ -1,0 +1,19 @@
+{
+  "slug": "cuba-farmers-market-403-e-jefferson-street-cuba",
+  "name": "Cuba Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "403 E. Jefferson Street Cuba, IL",
+  "locationCity": "403 E. Jefferson Street Cuba",
+  "locationState": "IL",
+  "locationZipcode": "61427",
+  "lat": 40.4922104932649,
+  "lon": -90.19471752820542,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

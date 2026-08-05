@@ -1,0 +1,19 @@
+{
+  "slug": "belvedere-plantation-410-belvedere-drive",
+  "name": "Belvedere Plantation",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "410 Belvedere Drive, VA",
+  "locationCity": "410 Belvedere Drive",
+  "locationState": "VA",
+  "locationZipcode": "22408",
+  "lat": 38.2425664893674,
+  "lon": -77.3848263600339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.241Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.241Z"
+}

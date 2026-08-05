@@ -1,0 +1,19 @@
+{
+  "slug": "frank-piazza-fruit-farm-12580-east-main-road",
+  "name": "Frank Piazza Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "12580 East Main Road, PA",
+  "locationCity": "12580 East Main Road",
+  "locationState": "PA",
+  "locationZipcode": "12580",
+  "lat": 42.243474997693426,
+  "lon": -79.76371696207845,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rockbridge-farmers-alliance-118-moores-creek-rd",
+  "name": "Rockbridge Farmers Alliance",
+  "source": "usda",
+  "directory": "csa",
+  "location": "118 Moores Creek Rd, VA",
+  "locationCity": "118 Moores Creek Rd",
+  "locationState": "VA",
+  "locationZipcode": "24450",
+  "lat": 37.7365627,
+  "lon": -79.6008345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.218Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.218Z"
+}

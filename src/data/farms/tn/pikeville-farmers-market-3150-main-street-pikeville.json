@@ -1,0 +1,19 @@
+{
+  "slug": "pikeville-farmers-market-3150-main-street-pikeville",
+  "name": "Pikeville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3150 Main Street Pikeville, TN",
+  "locationCity": "3150 Main Street Pikeville",
+  "locationState": "TN",
+  "locationZipcode": "37367",
+  "lat": 35.60565179429034,
+  "lon": -85.18916514122641,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

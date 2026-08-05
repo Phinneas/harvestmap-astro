@@ -1,0 +1,19 @@
+{
+  "slug": "lawton-farmers-market-920-sw-sheridan-rd-lawton",
+  "name": "Lawton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "920 SW Sheridan Rd Lawton, OK",
+  "locationCity": "920 SW Sheridan Rd Lawton",
+  "locationState": "OK",
+  "locationZipcode": "73505",
+  "lat": 34.618682304448946,
+  "lon": -98.42238990015548,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:29.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:29.366Z"
+}

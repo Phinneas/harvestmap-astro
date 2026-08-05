@@ -1,0 +1,19 @@
+{
+  "slug": "temescal-urban-village-farmers-market-5300-claremont-ave",
+  "name": "Temescal Urban Village Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5300 Claremont Ave., CA",
+  "locationCity": "5300 Claremont Ave.",
+  "locationState": "CA",
+  "locationZipcode": "94618",
+  "lat": 37.839774,
+  "lon": -122.25973,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

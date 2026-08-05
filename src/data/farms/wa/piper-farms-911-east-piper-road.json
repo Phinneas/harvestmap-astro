@@ -1,0 +1,19 @@
+{
+  "slug": "piper-farms-911-east-piper-road",
+  "name": "Piper Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "911 East Piper Road, WA",
+  "locationCity": "911 East Piper Road",
+  "locationState": "WA",
+  "locationZipcode": "99217",
+  "lat": 47.7512800054398,
+  "lon": -117.223895004589,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.191Z"
+}

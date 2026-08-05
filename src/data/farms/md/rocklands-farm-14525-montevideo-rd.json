@@ -1,0 +1,19 @@
+{
+  "slug": "rocklands-farm-14525-montevideo-rd",
+  "name": "Rocklands Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "14525 Montevideo Rd, MD",
+  "locationCity": "14525 Montevideo Rd",
+  "locationState": "MD",
+  "locationZipcode": "14525",
+  "lat": 39.0939148,
+  "lon": -77.3467138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.689Z"
+}

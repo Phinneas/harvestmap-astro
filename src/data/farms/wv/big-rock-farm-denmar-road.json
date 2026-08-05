@@ -1,0 +1,19 @@
+{
+  "slug": "big-rock-farm-denmar-road",
+  "name": "Big Rock Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Denmar Road, WV",
+  "locationCity": "Denmar Road",
+  "locationState": "WV",
+  "locationZipcode": "24946",
+  "lat": 38.0822227739553,
+  "lon": -80.2278256311752,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.978Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.978Z"
+}

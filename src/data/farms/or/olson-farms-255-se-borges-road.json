@@ -1,0 +1,19 @@
+{
+  "slug": "olson-farms-255-se-borges-road",
+  "name": "Olson Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "255 SE Borges Road, OR",
+  "locationCity": "255 SE Borges Road",
+  "locationState": "OR",
+  "locationZipcode": "97089",
+  "lat": 45.4467987646986,
+  "lon": -122.437466035756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.972Z"
+}

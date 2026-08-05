@@ -1,0 +1,19 @@
+{
+  "slug": "st-james-farmers-market-st-james-community-center",
+  "name": "St. James Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "St. James Community Center, MN",
+  "locationCity": "St. James Community Center",
+  "locationState": "MN",
+  "locationZipcode": "56081",
+  "lat": 43.982252,
+  "lon": -94.629433,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blackbird-farms-5213-roosevelt-street",
+  "name": "Blackbird Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5213 Roosevelt Street, MI",
+  "locationCity": "5213 Roosevelt Street",
+  "locationState": "MI",
+  "locationZipcode": "49404",
+  "lat": 43.09019562000884,
+  "lon": -85.91699605151871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.099Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.099Z"
+}

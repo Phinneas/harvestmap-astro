@@ -1,0 +1,19 @@
+{
+  "slug": "the-apple-farm-640-victor-holcomb-road",
+  "name": "The Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "640 Victor-Holcomb Road, NY",
+  "locationCity": "640 Victor-Holcomb Road",
+  "locationState": "NY",
+  "locationZipcode": "14564",
+  "lat": 42.9360831888607,
+  "lon": -77.4117816145186,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.077Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.077Z"
+}

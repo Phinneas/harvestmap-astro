@@ -1,0 +1,19 @@
+{
+  "slug": "harding-hill-farm-524-stagecoach-rd",
+  "name": "Harding Hill Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "524 Stagecoach Rd., NH",
+  "locationCity": "524 Stagecoach Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03782",
+  "lat": 43.35515902068241,
+  "lon": -72.11397504066768,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.802Z"
+}

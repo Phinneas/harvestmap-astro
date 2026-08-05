@@ -1,0 +1,19 @@
+{
+  "slug": "south-madison-community-market-2300-s-park-st-madison",
+  "name": "South Madison Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2300 S. Park St. Madison, WI",
+  "locationCity": "2300 S. Park St. Madison",
+  "locationState": "WI",
+  "locationZipcode": "53713",
+  "lat": 43.041085716717575,
+  "lon": -89.39402902322506,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

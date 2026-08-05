@@ -1,0 +1,19 @@
+{
+  "slug": "saline-farmers-market-s-ann-arbor-street",
+  "name": "Saline Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S. Ann Arbor Street, MI",
+  "locationCity": "S. Ann Arbor Street",
+  "locationState": "MI",
+  "locationZipcode": "48176",
+  "lat": 42.165956,
+  "lon": -83.781146,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.180Z"
+}

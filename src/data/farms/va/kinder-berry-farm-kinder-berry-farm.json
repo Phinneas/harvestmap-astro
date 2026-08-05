@@ -1,0 +1,19 @@
+{
+  "slug": "kinder-berry-farm-kinder-berry-farm",
+  "name": "Kinder Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Kinder Berry Farm, VA",
+  "locationCity": "Kinder Berry Farm",
+  "locationState": "VA",
+  "locationZipcode": "24522",
+  "lat": 37.24884578588487,
+  "lon": -78.83901163997055,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.381Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.381Z"
+}

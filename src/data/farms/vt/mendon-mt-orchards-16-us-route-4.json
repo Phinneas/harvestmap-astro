@@ -1,0 +1,19 @@
+{
+  "slug": "mendon-mt-orchards-16-us-route-4",
+  "name": "Mendon Mt Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16 US Route 4, VT",
+  "locationCity": "16 US Route 4",
+  "locationState": "VT",
+  "locationZipcode": "05701",
+  "lat": 43.6399939180348,
+  "lon": -72.9327614932042,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.124Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.124Z"
+}

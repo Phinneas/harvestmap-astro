@@ -1,0 +1,19 @@
+{
+  "slug": "new-leaf-csa-111-dutton-farm-rd",
+  "name": "New Leaf CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "111 Dutton Farm Rd, VT",
+  "locationCity": "111 Dutton Farm Rd",
+  "locationState": "VT",
+  "locationZipcode": "05301",
+  "lat": 42.9102938,
+  "lon": -72.5772645,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.091Z"
+}

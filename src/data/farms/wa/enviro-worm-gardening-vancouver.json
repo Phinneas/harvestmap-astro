@@ -1,0 +1,19 @@
+{
+  "slug": "enviro-worm-gardening-vancouver",
+  "name": "Enviro Worm Gardening",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Vancouver, WA",
+  "locationCity": "Vancouver",
+  "locationState": "WA",
+  "locationZipcode": "98682",
+  "lat": 45.675495,
+  "lon": -122.53292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.456Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.456Z"
+}

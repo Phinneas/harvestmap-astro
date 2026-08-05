@@ -1,0 +1,19 @@
+{
+  "slug": "rancho-seco-meats-wheeler-rd-pearsall-rd",
+  "name": "Rancho Seco Meats",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Wheeler Rd & Pearsall Rd, TX",
+  "locationCity": "Wheeler Rd & Pearsall Rd",
+  "locationState": "TX",
+  "locationZipcode": "78002",
+  "lat": 29.2649199856748,
+  "lon": -98.7342299794472,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.589Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.589Z"
+}

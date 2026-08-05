@@ -1,0 +1,19 @@
+{
+  "slug": "orinda-famers-market-28-orinda-way",
+  "name": "Orinda Famers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "28 Orinda Way, CA",
+  "locationCity": "28 Orinda Way",
+  "locationState": "CA",
+  "locationZipcode": "94563",
+  "lat": 37.882764,
+  "lon": -122.17454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.363Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.363Z"
+}

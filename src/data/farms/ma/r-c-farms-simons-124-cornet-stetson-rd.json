@@ -1,0 +1,20 @@
+{
+  "slug": "r-c-farms-simons-124-cornet-stetson-rd",
+  "name": "R & C Farms- Simons",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "124 Cornet Stetson Rd, MA",
+  "locationCity": "124 Cornet Stetson Rd",
+  "locationState": "MA",
+  "locationZipcode": "02040",
+  "lat": 42.1723131007386,
+  "lon": -70.7583189619511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.679Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.679Z",
+  "crops": []
+}

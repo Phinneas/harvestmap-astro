@@ -1,0 +1,19 @@
+{
+  "slug": "orr-farms-1-2-mile-s-rabb-road",
+  "name": "Orr Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1 2 Mile S Rabb Road, TX",
+  "locationCity": "1 2 Mile S Rabb Road",
+  "locationState": "TX",
+  "locationZipcode": "78559",
+  "lat": 26.1644753942259,
+  "lon": -97.8364359680792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.625Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.625Z"
+}

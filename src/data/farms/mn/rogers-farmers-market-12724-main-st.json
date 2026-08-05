@@ -1,0 +1,19 @@
+{
+  "slug": "rogers-farmers-market-12724-main-st",
+  "name": "Rogers Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12724 Main St, MN",
+  "locationCity": "12724 Main St",
+  "locationState": "MN",
+  "locationZipcode": "12724",
+  "lat": 45.1869598,
+  "lon": -93.5519124,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "charlie-brown-farms-8317-pearblossom-highway",
+  "name": "Charlie Brown Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8317 Pearblossom Highway, CA",
+  "locationCity": "8317 Pearblossom Highway",
+  "locationState": "CA",
+  "locationZipcode": "93543",
+  "lat": 34.5214060109674,
+  "lon": -117.98082603978963,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

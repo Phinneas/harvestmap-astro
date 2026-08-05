@@ -1,0 +1,19 @@
+{
+  "slug": "bob-s-aronia-field-101-ne-72nd-place",
+  "name": "Bob's Aronia Field",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 Ne 72nd Place, IA",
+  "locationCity": "101 Ne 72nd Place",
+  "locationState": "IA",
+  "locationZipcode": "50023",
+  "lat": 41.6920899793934,
+  "lon": -93.616546007626,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.732Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.732Z"
+}

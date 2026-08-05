@@ -1,0 +1,19 @@
+{
+  "slug": "one-of-em-farms-4950-highway-101-s",
+  "name": "One of em Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4950 Highway 101 S, OR",
+  "locationCity": "4950 Highway 101 S",
+  "locationState": "OR",
+  "locationZipcode": "97141",
+  "lat": 45.42002729067118,
+  "lon": -123.82449915811148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.522Z"
+}

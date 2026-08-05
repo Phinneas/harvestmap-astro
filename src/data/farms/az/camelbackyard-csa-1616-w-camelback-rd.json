@@ -1,0 +1,19 @@
+{
+  "slug": "camelbackyard-csa-1616-w-camelback-rd",
+  "name": "CamelBackyard CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1616 W Camelback Rd, AZ",
+  "locationCity": "1616 W Camelback Rd",
+  "locationState": "AZ",
+  "locationZipcode": "85015",
+  "lat": 33.5099687,
+  "lon": -112.0942818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:13.378Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:13.378Z"
+}

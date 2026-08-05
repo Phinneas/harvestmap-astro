@@ -1,0 +1,19 @@
+{
+  "slug": "ray-french-orchard-955-harvest-lane-pr-ne",
+  "name": "Ray French Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "955 Harvest Lane Pr. Ne., WA",
+  "locationCity": "955 Harvest Lane Pr. Ne.",
+  "locationState": "WA",
+  "locationZipcode": "99352",
+  "lat": 46.2540899805045,
+  "lon": -119.334048013824,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.147Z"
+}

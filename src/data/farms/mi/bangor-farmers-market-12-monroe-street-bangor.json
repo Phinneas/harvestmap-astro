@@ -1,0 +1,19 @@
+{
+  "slug": "bangor-farmers-market-12-monroe-street-bangor",
+  "name": "Bangor Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12 Monroe Street Bangor, MI",
+  "locationCity": "12 Monroe Street Bangor",
+  "locationState": "MI",
+  "locationZipcode": "49013",
+  "lat": 42.31253863609787,
+  "lon": -86.10963374362538,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

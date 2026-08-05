@@ -1,0 +1,19 @@
+{
+  "slug": "empire-farmers-market-10234-front-street",
+  "name": "Empire Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10234 Front Street, MI",
+  "locationCity": "10234 Front Street",
+  "locationState": "MI",
+  "locationZipcode": "10234",
+  "lat": 44.811224,
+  "lon": -86.063056,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.180Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "burke-farmers-market-5671-roberts-pkwy-burke",
+  "name": "Burke Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5671 Roberts Pkwy. Burke, VA",
+  "locationCity": "5671 Roberts Pkwy. Burke",
+  "locationState": "VA",
+  "locationZipcode": "22015",
+  "lat": 38.79754044384565,
+  "lon": -77.30227626801181,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

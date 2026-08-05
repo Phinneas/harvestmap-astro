@@ -1,0 +1,19 @@
+{
+  "slug": "goodie-farm-39216-vineland-st",
+  "name": "Goodie Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "39216 Vineland St, CA",
+  "locationCity": "39216 Vineland St",
+  "locationState": "CA",
+  "locationZipcode": "39216",
+  "lat": 33.97243917685968,
+  "lon": -116.97761105870546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.086Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.086Z"
+}

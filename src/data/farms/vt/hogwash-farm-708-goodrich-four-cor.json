@@ -1,0 +1,19 @@
+{
+  "slug": "hogwash-farm-708-goodrich-four-cor",
+  "name": "Hogwash Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "708 Goodrich Four Cor, VT",
+  "locationCity": "708 Goodrich Four Cor",
+  "locationState": "VT",
+  "locationZipcode": "05055",
+  "lat": 43.7550703,
+  "lon": -72.2792574,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.100Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.100Z"
+}

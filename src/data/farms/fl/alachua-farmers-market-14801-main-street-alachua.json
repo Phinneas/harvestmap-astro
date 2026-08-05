@@ -1,0 +1,19 @@
+{
+  "slug": "alachua-farmers-market-14801-main-street-alachua",
+  "name": "Alachua Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14801 Main Street Alachua, FL",
+  "locationCity": "14801 Main Street Alachua",
+  "locationState": "FL",
+  "locationZipcode": "14801",
+  "lat": 29.790725267553626,
+  "lon": -82.49566620554452,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.574Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "woodbine-farm-market-5199-john-marshall-hwy-strasburg",
+  "name": "Woodbine Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5199 John Marshall Hwy Strasburg, VA",
+  "locationCity": "5199 John Marshall Hwy Strasburg",
+  "locationState": "VA",
+  "locationZipcode": "22657",
+  "lat": 39.05174501387933,
+  "lon": -78.37073547740765,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

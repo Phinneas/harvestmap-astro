@@ -1,0 +1,19 @@
+{
+  "slug": "pete-s-greens-good-eats-csa-266-s-craftsbury-rd",
+  "name": "Pete's Greens Good Eats CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "266 S. Craftsbury Rd, VT",
+  "locationCity": "266 S. Craftsbury Rd",
+  "locationState": "VT",
+  "locationZipcode": "05826",
+  "lat": 44.6331378,
+  "lon": -72.3700602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.098Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.098Z"
+}

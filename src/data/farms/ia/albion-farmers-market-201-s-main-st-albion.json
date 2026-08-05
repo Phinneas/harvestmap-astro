@@ -1,0 +1,19 @@
+{
+  "slug": "albion-farmers-market-201-s-main-st-albion",
+  "name": "Albion Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 S. Main St. Albion, IA",
+  "locationCity": "201 S. Main St. Albion",
+  "locationState": "IA",
+  "locationZipcode": "50005",
+  "lat": 42.11026848918053,
+  "lon": -92.99006214666498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

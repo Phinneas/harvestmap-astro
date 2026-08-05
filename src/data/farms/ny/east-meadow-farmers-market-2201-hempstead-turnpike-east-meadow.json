@@ -1,0 +1,19 @@
+{
+  "slug": "east-meadow-farmers-market-2201-hempstead-turnpike-east-meadow",
+  "name": "East Meadow Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2201 Hempstead Turnpike East Meadow, NY",
+  "locationCity": "2201 Hempstead Turnpike East Meadow",
+  "locationState": "NY",
+  "locationZipcode": "11554",
+  "lat": 40.72530633589014,
+  "lon": -73.55427250203039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

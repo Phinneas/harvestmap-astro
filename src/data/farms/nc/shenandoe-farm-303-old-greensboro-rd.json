@@ -1,0 +1,19 @@
+{
+  "slug": "shenandoe-farm-303-old-greensboro-rd",
+  "name": "Shenandoe Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "303 Old Greensboro Rd, NC",
+  "locationCity": "303 Old Greensboro Rd",
+  "locationState": "NC",
+  "locationZipcode": "27516",
+  "lat": 35.9057817469048,
+  "lon": -79.109757700995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.840Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.840Z"
+}

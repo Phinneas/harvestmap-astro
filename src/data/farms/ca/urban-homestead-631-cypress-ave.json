@@ -1,0 +1,19 @@
+{
+  "slug": "urban-homestead-631-cypress-ave",
+  "name": "Urban Homestead",
+  "source": "usda",
+  "directory": "csa",
+  "location": "631 Cypress Ave, CA",
+  "locationCity": "631 Cypress Ave",
+  "locationState": "CA",
+  "locationZipcode": "91103",
+  "lat": 34.15556309472562,
+  "lon": -118.15632129933513,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.077Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.077Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "isu-student-organic-farm-1009-agronomy-hall",
+  "name": "ISU Student Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1009 Agronomy Hall, IA",
+  "locationCity": "1009 Agronomy Hall",
+  "locationState": "IA",
+  "locationZipcode": "50011",
+  "lat": 42.0283477,
+  "lon": -93.6423456,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.412Z"
+}

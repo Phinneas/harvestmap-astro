@@ -1,0 +1,19 @@
+{
+  "slug": "columbia-pike-farmers-market-2611-columbia-pike-arlington",
+  "name": "Columbia Pike Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2611 Columbia Pike Arlington, VA",
+  "locationCity": "2611 Columbia Pike Arlington",
+  "locationState": "VA",
+  "locationZipcode": "22204",
+  "lat": 38.863014960926954,
+  "lon": -77.08524825797666,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

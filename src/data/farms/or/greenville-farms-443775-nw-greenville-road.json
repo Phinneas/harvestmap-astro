@@ -1,0 +1,19 @@
+{
+  "slug": "greenville-farms-443775-nw-greenville-road",
+  "name": "Greenville Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "443775 NW Greenville Road, OR",
+  "locationCity": "443775 NW Greenville Road",
+  "locationState": "OR",
+  "locationZipcode": "97116",
+  "lat": 45.5927516729725,
+  "lon": -123.1164994460952,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.065Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.065Z"
+}

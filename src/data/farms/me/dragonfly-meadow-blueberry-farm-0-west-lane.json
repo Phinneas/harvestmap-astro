@@ -1,0 +1,19 @@
+{
+  "slug": "dragonfly-meadow-blueberry-farm-0-west-lane",
+  "name": "Dragonfly Meadow Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "0 West Lane, ME",
+  "locationCity": "0 West Lane",
+  "locationState": "ME",
+  "locationZipcode": "04046",
+  "lat": 43.4230193066511,
+  "lon": -70.5272321444514,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.815Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.815Z"
+}

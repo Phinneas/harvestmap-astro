@@ -1,0 +1,19 @@
+{
+  "slug": "arizona-pumpkin-patch-glendale-255-w-bell-rd",
+  "name": "Arizona Pumpkin Patch Glendale",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "255 W Bell Rd, AZ",
+  "locationCity": "255 W Bell Rd",
+  "locationState": "AZ",
+  "locationZipcode": "85308",
+  "lat": 33.6382672768934,
+  "lon": -112.236970007007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.753Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.753Z"
+}

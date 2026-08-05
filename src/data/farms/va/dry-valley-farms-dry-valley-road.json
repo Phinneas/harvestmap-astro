@@ -1,0 +1,20 @@
+{
+  "slug": "dry-valley-farms-dry-valley-road",
+  "name": "Dry Valley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dry Valley Road, VA",
+  "locationCity": "Dry Valley Road",
+  "locationState": "VA",
+  "locationZipcode": "24141",
+  "lat": 37.069259847725,
+  "lon": -80.5421915417976,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.122Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.122Z",
+  "crops": []
+}

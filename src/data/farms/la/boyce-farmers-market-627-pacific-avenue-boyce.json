@@ -1,0 +1,19 @@
+{
+  "slug": "boyce-farmers-market-627-pacific-avenue-boyce",
+  "name": "Boyce Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "627 Pacific Avenue Boyce, LA",
+  "locationCity": "627 Pacific Avenue Boyce",
+  "locationState": "LA",
+  "locationZipcode": "71409",
+  "lat": 31.38756780391047,
+  "lon": -92.67207273646525,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

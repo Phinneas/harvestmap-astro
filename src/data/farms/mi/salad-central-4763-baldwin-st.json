@@ -1,0 +1,19 @@
+{
+  "slug": "salad-central-4763-baldwin-st",
+  "name": "Salad Central",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4763 Baldwin St, MI",
+  "locationCity": "4763 Baldwin St",
+  "locationState": "MI",
+  "locationZipcode": "49426",
+  "lat": 42.90706,
+  "lon": -85.900775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.187Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.187Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "quincy-farmers-market-500-hampshire-street-washington-park-quincy",
+  "name": "Quincy Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Hampshire Street Washington Park Quincy, IL",
+  "locationCity": "500 Hampshire Street Washington Park Quincy",
+  "locationState": "IL",
+  "locationZipcode": "62301",
+  "lat": 39.93321485853813,
+  "lon": -91.40772874402961,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

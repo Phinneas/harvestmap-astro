@@ -1,0 +1,20 @@
+{
+  "slug": "galliher-farm-183-garwood-rd",
+  "name": "Galliher Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "183 Garwood Rd, NC",
+  "locationCity": "183 Garwood Rd",
+  "locationState": "NC",
+  "locationZipcode": "27028",
+  "lat": 35.8854471360731,
+  "lon": -80.5052259659885,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.663Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.663Z",
+  "crops": []
+}

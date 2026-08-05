@@ -1,0 +1,19 @@
+{
+  "slug": "may-farms-millfair-road",
+  "name": "May Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Millfair Road, PA",
+  "locationCity": "Millfair Road",
+  "locationState": "PA",
+  "locationZipcode": "16426",
+  "lat": 42.0209396372588,
+  "lon": -80.1714685218762,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.057Z"
+}

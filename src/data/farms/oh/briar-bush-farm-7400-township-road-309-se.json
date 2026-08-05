@@ -1,0 +1,19 @@
+{
+  "slug": "briar-bush-farm-7400-township-road-309-se",
+  "name": "Briar Bush Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7400 Township Road 309 SE, OH",
+  "locationCity": "7400 Township Road 309 SE",
+  "locationState": "OH",
+  "locationZipcode": "43730",
+  "lat": 39.60693846904064,
+  "lon": -82.11675422364695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.484Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.484Z"
+}

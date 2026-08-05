@@ -1,0 +1,19 @@
+{
+  "slug": "twin-brook-farms-678-cochecton-tpke",
+  "name": "Twin Brook Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "678 Cochecton Tpke, PA",
+  "locationCity": "678 Cochecton Tpke",
+  "locationState": "PA",
+  "locationZipcode": "18469",
+  "lat": 41.698768,
+  "lon": -75.168551,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.355Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.355Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "walker-county-farmers-market-n-airport-rd",
+  "name": "Walker County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "N. Airport Rd., AL",
+  "locationCity": "N. Airport Rd.",
+  "locationState": "AL",
+  "locationZipcode": "35501",
+  "lat": 33.874455267925484,
+  "lon": -87.26772882100857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.020Z"
+}

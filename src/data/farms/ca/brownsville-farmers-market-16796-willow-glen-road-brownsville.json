@@ -1,0 +1,19 @@
+{
+  "slug": "brownsville-farmers-market-16796-willow-glen-road-brownsville",
+  "name": "Brownsville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16796 Willow Glen Road Brownsville, CA",
+  "locationCity": "16796 Willow Glen Road Brownsville",
+  "locationState": "CA",
+  "locationZipcode": "16796",
+  "lat": 39.456827177924076,
+  "lon": -121.28227669929234,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.372Z"
+}

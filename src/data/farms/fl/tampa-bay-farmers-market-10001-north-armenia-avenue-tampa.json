@@ -1,0 +1,19 @@
+{
+  "slug": "tampa-bay-farmers-market-10001-north-armenia-avenue-tampa",
+  "name": "Tampa Bay Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10001 North Armenia Avenue Tampa, FL",
+  "locationCity": "10001 North Armenia Avenue Tampa",
+  "locationState": "FL",
+  "locationZipcode": "10001",
+  "lat": 28.040456778733887,
+  "lon": -82.4798077551521,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

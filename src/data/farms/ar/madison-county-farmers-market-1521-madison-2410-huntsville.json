@@ -1,0 +1,19 @@
+{
+  "slug": "madison-county-farmers-market-1521-madison-2410-huntsville",
+  "name": "Madison County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1521 Madison 2410 Huntsville, AR",
+  "locationCity": "1521 Madison 2410 Huntsville",
+  "locationState": "AR",
+  "locationZipcode": "72740",
+  "lat": 36.06522349311586,
+  "lon": -93.65724267848806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.350Z"
+}

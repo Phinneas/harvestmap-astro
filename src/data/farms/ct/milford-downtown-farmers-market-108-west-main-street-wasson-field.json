@@ -1,0 +1,19 @@
+{
+  "slug": "milford-downtown-farmers-market-108-west-main-street-wasson-field",
+  "name": "MILFORD - DOWNTOWN FARMERS MARKET",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "108 West Main Street (Wasson Field), CT",
+  "locationCity": "108 West Main Street (Wasson Field)",
+  "locationState": "CT",
+  "locationZipcode": "06460",
+  "lat": 41.226598,
+  "lon": -73.062096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.581Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.581Z"
+}

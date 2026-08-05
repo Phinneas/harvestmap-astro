@@ -1,0 +1,19 @@
+{
+  "slug": "iron-farm-farmers-market-1745-fm-2276-kilgore",
+  "name": "Iron Farm Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1745 FM 2276 Kilgore, TX",
+  "locationCity": "1745 FM 2276 Kilgore",
+  "locationState": "TX",
+  "locationZipcode": "75662",
+  "lat": 32.397295514325734,
+  "lon": -94.80692437507044,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "orleans-farmers-market-21-old-colony-way-orleans",
+  "name": "Orleans Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "21 Old Colony Way Orleans, MA",
+  "locationCity": "21 Old Colony Way Orleans",
+  "locationState": "MA",
+  "locationZipcode": "02653",
+  "lat": 41.78679846735066,
+  "lon": -69.99516678265469,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.866Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.866Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-bee-hive-farmers-market-901-government-st",
+  "name": "The Bee Hive Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "901 GOVERNMENT ST, AL",
+  "locationCity": "901 GOVERNMENT ST",
+  "locationState": "AL",
+  "locationZipcode": "36604",
+  "lat": 30.68618564298845,
+  "lon": -88.0538571303594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

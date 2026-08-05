@@ -1,0 +1,19 @@
+{
+  "slug": "swartz-s-locally-grown-csa-20510-wallace-road",
+  "name": "Swartz's Locally Grown CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "20510 Wallace Road, KS",
+  "locationCity": "20510 Wallace Road",
+  "locationState": "KS",
+  "locationZipcode": "20510",
+  "lat": 37.6691795,
+  "lon": -95.1227975,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:53.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:53.447Z"
+}

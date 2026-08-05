@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-defuniak-farmer-s-market-baldwin-avenue-between-7th-and-8th-st",
+  "name": "Main Street DeFuniak Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Baldwin Avenue between 7th and 8th St., FL",
+  "locationCity": "Baldwin Avenue between 7th and 8th St.",
+  "locationState": "FL",
+  "locationZipcode": "32435",
+  "lat": 30.720266,
+  "lon": -86.1137,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.557Z"
+}

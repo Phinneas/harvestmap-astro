@@ -1,0 +1,19 @@
+{
+  "slug": "braeswood-farmers-market-5401-south-braeswood",
+  "name": "Braeswood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5401 south braeswood, TX",
+  "locationCity": "5401 south braeswood",
+  "locationState": "TX",
+  "locationZipcode": "77096",
+  "lat": 29.676944,
+  "lon": -95.477537,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.044Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.044Z"
+}

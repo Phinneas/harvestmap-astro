@@ -1,0 +1,19 @@
+{
+  "slug": "cross-g-farm-001-84th-street",
+  "name": "Cross G Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "001 84th Street, OK",
+  "locationCity": "001 84th Street",
+  "locationState": "OK",
+  "locationZipcode": "73051",
+  "lat": 35.137585902246,
+  "lon": -97.3177982525812,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.274Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.274Z"
+}

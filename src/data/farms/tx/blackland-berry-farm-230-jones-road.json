@@ -1,0 +1,19 @@
+{
+  "slug": "blackland-berry-farm-230-jones-road",
+  "name": "Blackland Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "230 Jones Road, TX",
+  "locationCity": "230 Jones Road",
+  "locationState": "TX",
+  "locationZipcode": "75189",
+  "lat": 32.8889200197947,
+  "lon": -96.3431579882014,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.384Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.384Z"
+}

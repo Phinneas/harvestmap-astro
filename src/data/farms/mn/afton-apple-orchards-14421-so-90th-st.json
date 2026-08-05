@@ -1,0 +1,19 @@
+{
+  "slug": "afton-apple-orchards-14421-so-90th-st",
+  "name": "Afton Apple Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "14421 So. 90th St., MN",
+  "locationCity": "14421 So. 90th St.",
+  "locationState": "MN",
+  "locationZipcode": "14421",
+  "lat": 44.817136984699,
+  "lon": -92.8132330406519,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.647Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.647Z"
+}

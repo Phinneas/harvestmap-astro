@@ -1,0 +1,19 @@
+{
+  "slug": "carlton-farm-produce-3486-pioneer-tr",
+  "name": "Carlton Farm Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3486 Pioneer Tr., OH",
+  "locationCity": "3486 Pioneer Tr.",
+  "locationState": "OH",
+  "locationZipcode": "44255",
+  "lat": 41.292584,
+  "lon": -81.267049,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.269Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.269Z"
+}

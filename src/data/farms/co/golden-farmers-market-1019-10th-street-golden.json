@@ -1,0 +1,19 @@
+{
+  "slug": "golden-farmers-market-1019-10th-street-golden",
+  "name": "Golden Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1019 10th Street Golden, CO",
+  "locationCity": "1019 10th Street Golden",
+  "locationState": "CO",
+  "locationZipcode": "80401",
+  "lat": 39.756784742116466,
+  "lon": -105.22464754357487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

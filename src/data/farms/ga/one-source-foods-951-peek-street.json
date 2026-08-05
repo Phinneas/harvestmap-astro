@@ -1,0 +1,19 @@
+{
+  "slug": "one-source-foods-951-peek-street",
+  "name": "One Source Foods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "951 Peek Street, GA",
+  "locationCity": "951 Peek Street",
+  "locationState": "GA",
+  "locationZipcode": "30012",
+  "lat": 33.669011,
+  "lon": -84.020026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:55.626Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:55.626Z"
+}

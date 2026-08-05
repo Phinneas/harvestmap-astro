@@ -1,0 +1,19 @@
+{
+  "slug": "saucier-farmers-market-25950-old-hwy-49-saucier",
+  "name": "Saucier Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25950 Old Hwy 49 Saucier, MS",
+  "locationCity": "25950 Old Hwy 49 Saucier",
+  "locationState": "MS",
+  "locationZipcode": "25950",
+  "lat": 30.66326505923424,
+  "lon": -89.1388039299488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

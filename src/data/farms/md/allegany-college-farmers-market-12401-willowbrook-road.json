@@ -1,0 +1,19 @@
+{
+  "slug": "allegany-college-farmers-market-12401-willowbrook-road",
+  "name": "Allegany College Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12401 Willowbrook Road, MD",
+  "locationCity": "12401 Willowbrook Road",
+  "locationState": "MD",
+  "locationZipcode": "12401",
+  "lat": 39.65165477465548,
+  "lon": -78.73593232642062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.535Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.535Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "coleman-farms-295-coleman-rd",
+  "name": "Coleman Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "295 Coleman Rd, MI",
+  "locationCity": "295 Coleman Rd",
+  "locationState": "MI",
+  "locationZipcode": "49648",
+  "lat": 44.9977241609803,
+  "lon": -85.354758355875,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.699Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.699Z"
+}

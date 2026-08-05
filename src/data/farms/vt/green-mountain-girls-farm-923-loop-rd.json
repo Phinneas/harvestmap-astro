@@ -1,0 +1,20 @@
+{
+  "slug": "green-mountain-girls-farm-923-loop-rd",
+  "name": "Green Mountain Girls Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "923 Loop Rd, VT",
+  "locationCity": "923 Loop Rd",
+  "locationState": "VT",
+  "locationZipcode": "05663",
+  "lat": 44.10311299567255,
+  "lon": -72.62164101592342,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.242Z",
+  "crops": []
+}

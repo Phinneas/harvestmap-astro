@@ -1,0 +1,19 @@
+{
+  "slug": "mounts-botanical-garden-north-military-trail",
+  "name": "Mounts Botanical Garden",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "North Military Trail, FL",
+  "locationCity": "North Military Trail",
+  "locationState": "FL",
+  "locationZipcode": "33416",
+  "lat": 26.6852649798082,
+  "lon": -80.1129480358739,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.864Z"
+}

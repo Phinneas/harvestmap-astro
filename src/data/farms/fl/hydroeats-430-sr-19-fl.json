@@ -1,0 +1,19 @@
+{
+  "slug": "hydroeats-430-sr-19-fl",
+  "name": "Hydroeats",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "430 SR 19 FL, FL",
+  "locationCity": "430 SR 19 FL",
+  "locationState": "FL",
+  "locationZipcode": "34736",
+  "lat": 28.5636572819852,
+  "lon": -81.8556452237747,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.804Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.804Z"
+}

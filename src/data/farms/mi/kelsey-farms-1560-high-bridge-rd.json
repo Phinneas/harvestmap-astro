@@ -1,0 +1,19 @@
+{
+  "slug": "kelsey-farms-1560-high-bridge-rd",
+  "name": "Kelsey Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1560 High Bridge Rd, MI",
+  "locationCity": "1560 High Bridge Rd",
+  "locationState": "MI",
+  "locationZipcode": "49107",
+  "lat": 41.80601701690165,
+  "lon": -86.40923496634198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.233Z"
+}

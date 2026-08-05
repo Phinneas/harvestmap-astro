@@ -1,0 +1,20 @@
+{
+  "slug": "pine-bluff-farms-183-pond-road",
+  "name": "Pine Bluff Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "183 Pond Road, ME",
+  "locationCity": "183 Pond Road",
+  "locationState": "ME",
+  "locationZipcode": "04352",
+  "lat": 44.51267482923,
+  "lon": -69.9893108615602,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.845Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.845Z",
+  "crops": []
+}

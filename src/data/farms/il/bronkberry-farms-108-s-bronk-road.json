@@ -1,0 +1,20 @@
+{
+  "slug": "bronkberry-farms-108-s-bronk-road",
+  "name": "Bronkberry Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "108 S. Bronk Road, IL",
+  "locationCity": "108 S. Bronk Road",
+  "locationState": "IL",
+  "locationZipcode": "60586",
+  "lat": 41.5552614533622,
+  "lon": -88.1903293532195,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.915Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.915Z",
+  "crops": []
+}

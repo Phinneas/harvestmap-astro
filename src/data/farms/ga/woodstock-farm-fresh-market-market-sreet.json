@@ -1,0 +1,19 @@
+{
+  "slug": "woodstock-farm-fresh-market-market-sreet",
+  "name": "Woodstock Farm Fresh Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Market Sreet, GA",
+  "locationCity": "Market Sreet",
+  "locationState": "GA",
+  "locationZipcode": "30188",
+  "lat": 34.09886130162251,
+  "lon": -84.5215365674646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

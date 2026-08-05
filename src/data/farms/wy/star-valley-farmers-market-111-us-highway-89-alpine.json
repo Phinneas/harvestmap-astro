@@ -1,0 +1,19 @@
+{
+  "slug": "star-valley-farmers-market-111-us-highway-89-alpine",
+  "name": "Star Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 US Highway 89 Alpine, WY",
+  "locationCity": "111 US Highway 89 Alpine",
+  "locationState": "WY",
+  "locationZipcode": "83125",
+  "lat": 43.16245249468756,
+  "lon": -111.02028587265792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

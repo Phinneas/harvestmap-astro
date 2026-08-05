@@ -1,0 +1,19 @@
+{
+  "slug": "broadway-market-farmers-market-999-broadway-999-broadway-buffalo",
+  "name": "Broadway Market Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "999 Broadway 999 Broadway Buffalo, NY",
+  "locationCity": "999 Broadway 999 Broadway Buffalo",
+  "locationState": "NY",
+  "locationZipcode": "14212",
+  "lat": 42.89344566793577,
+  "lon": -78.83717721822798,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "country-corners-farm-288-brewster-road",
+  "name": "Country Corners Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "288 Brewster Road, CT",
+  "locationCity": "288 Brewster Road",
+  "locationState": "CT",
+  "locationZipcode": "06351",
+  "lat": 41.5775809863478,
+  "lon": -71.9521889704988,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.965Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.965Z"
+}

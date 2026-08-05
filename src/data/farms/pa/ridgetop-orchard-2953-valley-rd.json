@@ -1,0 +1,19 @@
+{
+  "slug": "ridgetop-orchard-2953-valley-rd",
+  "name": "Ridgetop Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2953 Valley Rd, PA",
+  "locationCity": "2953 Valley Rd",
+  "locationState": "PA",
+  "locationZipcode": "15539",
+  "lat": 40.12377600656998,
+  "lon": -78.58654697359844,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.223Z"
+}

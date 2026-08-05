@@ -1,0 +1,19 @@
+{
+  "slug": "fountain-inn-farmers-market-102-depot-street-fountain-inn",
+  "name": "Fountain Inn Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 Depot Street Fountain Inn, SC",
+  "locationCity": "102 Depot Street Fountain Inn",
+  "locationState": "SC",
+  "locationZipcode": "29644",
+  "lat": 34.69303270112462,
+  "lon": -82.20003203175676,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.194Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mission-market-5635-johnson-drive",
+  "name": "Mission Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5635 Johnson Drive, KS",
+  "locationCity": "5635 Johnson Drive",
+  "locationState": "KS",
+  "locationZipcode": "66202",
+  "lat": 39.022219550964,
+  "lon": -94.65065229998018,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

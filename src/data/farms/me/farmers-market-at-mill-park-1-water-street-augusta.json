@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-mill-park-1-water-street-augusta",
+  "name": "Farmers' Market at Mill Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Water Street Augusta, ME",
+  "locationCity": "1 Water Street Augusta",
+  "locationState": "ME",
+  "locationZipcode": "04330",
+  "lat": 44.32016369363547,
+  "lon": -69.77355856694054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:57.069Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:57.069Z"
+}

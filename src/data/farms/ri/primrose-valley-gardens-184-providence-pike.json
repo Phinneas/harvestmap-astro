@@ -1,0 +1,19 @@
+{
+  "slug": "primrose-valley-gardens-184-providence-pike",
+  "name": "Primrose Valley Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "184 Providence Pike, RI",
+  "locationCity": "184 Providence Pike",
+  "locationState": "RI",
+  "locationZipcode": "02896",
+  "lat": 41.9912497936105,
+  "lon": -71.5730413519647,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:30.983Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:30.983Z"
+}

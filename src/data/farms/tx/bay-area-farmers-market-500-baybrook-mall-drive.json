@@ -1,0 +1,19 @@
+{
+  "slug": "bay-area-farmers-market-500-baybrook-mall-drive",
+  "name": "Bay Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Baybrook Mall Drive, TX",
+  "locationCity": "500 Baybrook Mall Drive",
+  "locationState": "TX",
+  "locationZipcode": "77546",
+  "lat": 29.548702,
+  "lon": -95.150682,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.221Z"
+}

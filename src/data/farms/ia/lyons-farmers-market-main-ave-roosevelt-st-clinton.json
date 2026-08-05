@@ -1,0 +1,19 @@
+{
+  "slug": "lyons-farmers-market-main-ave-roosevelt-st-clinton",
+  "name": "Lyons Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Ave. & Roosevelt St. Clinton, IA",
+  "locationCity": "Main Ave. & Roosevelt St. Clinton",
+  "locationState": "IA",
+  "locationZipcode": "52732",
+  "lat": 41.87242000450959,
+  "lon": -90.17858000946165,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

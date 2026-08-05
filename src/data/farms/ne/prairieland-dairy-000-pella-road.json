@@ -1,0 +1,19 @@
+{
+  "slug": "prairieland-dairy-000-pella-road",
+  "name": "Prairieland Dairy",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 Pella Road, NE",
+  "locationCity": "000 Pella Road",
+  "locationState": "NE",
+  "locationZipcode": "68358",
+  "lat": 40.5526395250506,
+  "lon": -96.6125148531118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.504Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.504Z"
+}

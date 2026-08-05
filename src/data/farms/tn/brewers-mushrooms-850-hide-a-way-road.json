@@ -2,20 +2,19 @@
   "slug": "brewers-mushrooms-850-hide-a-way-road",
   "name": "Brewers Mushrooms",
   "source": "usda",
-  "directory": "agritourism",
-  "location": "850 Hide a way Road, TN",
-  "locationCity": "850 Hide a way Road",
+  "directory": "onfarmmarket",
+  "location": "850 Hide A Way Road, TN",
+  "locationCity": "850 Hide A Way Road",
   "locationState": "TN",
   "locationZipcode": "37725",
-  "lat": 36.0011730138218,
-  "lon": -83.5424509940401,
+  "lat": 35.999641,
+  "lon": -83.538797,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:38:57.723Z"
+      "lastSeen": "2026-08-05T18:51:36.501Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:38:57.723Z",
-  "website": "https://www.listcompany.org/Brewers_Mushrooms_Info.html",
+  "usdaLastUpdated": "2026-08-05T18:51:36.501Z",
   "tagline": "Brewers Mushrooms , United States , Agriculture"
 }

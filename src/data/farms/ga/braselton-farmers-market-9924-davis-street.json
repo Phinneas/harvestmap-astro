@@ -1,0 +1,19 @@
+{
+  "slug": "braselton-farmers-market-9924-davis-street",
+  "name": "Braselton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9924 Davis Street, GA",
+  "locationCity": "9924 Davis Street",
+  "locationState": "GA",
+  "locationZipcode": "30519",
+  "lat": 34.10924642578234,
+  "lon": -83.76145384580737,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

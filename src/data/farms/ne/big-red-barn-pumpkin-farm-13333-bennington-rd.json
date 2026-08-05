@@ -1,0 +1,19 @@
+{
+  "slug": "big-red-barn-pumpkin-farm-13333-bennington-rd",
+  "name": "Big Red Barn & Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13333 Bennington Rd, NE",
+  "locationCity": "13333 Bennington Rd",
+  "locationState": "NE",
+  "locationZipcode": "13333",
+  "lat": 41.3643019932156,
+  "lon": -96.1210330278245,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.440Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.440Z"
+}

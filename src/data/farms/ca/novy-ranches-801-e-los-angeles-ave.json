@@ -1,0 +1,19 @@
+{
+  "slug": "novy-ranches-801-e-los-angeles-ave",
+  "name": "Novy Ranches",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "801 E Los Angeles Ave, CA",
+  "locationCity": "801 E Los Angeles Ave",
+  "locationState": "CA",
+  "locationZipcode": "93065",
+  "lat": 34.2719870173707,
+  "lon": -118.782458016082,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.749Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "seneca-orchards-881-orleans-road",
+  "name": "Seneca Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "881 Orleans Road, NY",
+  "locationCity": "881 Orleans Road",
+  "locationState": "NY",
+  "locationZipcode": "14432",
+  "lat": 42.9009188896524,
+  "lon": -77.0988855526384,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.039Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "herriman-farmers-market-5355-w-herriman-main-st",
+  "name": "Herriman Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5355 W. Herriman Main St., UT",
+  "locationCity": "5355 W. Herriman Main St.",
+  "locationState": "UT",
+  "locationZipcode": "84096",
+  "lat": 40.515537,
+  "lon": -112.01503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:23.434Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:23.434Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "milk-lady-shady-grove-farmers-market-9601-medical-center-drive",
+  "name": "Milk Lady Shady Grove Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9601 Medical Center Drive, MD",
+  "locationCity": "9601 Medical Center Drive",
+  "locationState": "MD",
+  "locationZipcode": "20850",
+  "lat": 39.104422,
+  "lon": -77.199488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.492Z"
+}

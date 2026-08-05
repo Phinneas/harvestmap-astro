@@ -1,0 +1,19 @@
+{
+  "slug": "demarest-farm-244-werimus-road",
+  "name": "Demarest Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "244 Werimus Road, NJ",
+  "locationCity": "244 Werimus Road",
+  "locationState": "NJ",
+  "locationZipcode": "07642",
+  "lat": 41.0078429947644,
+  "lon": -74.0707539739417,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.617Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.617Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-dave-s-main-farm-437-parker-rd",
+  "name": "Farmer Dave's Main Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "437 Parker Rd., MA",
+  "locationCity": "437 Parker Rd.",
+  "locationState": "MA",
+  "locationZipcode": "01826",
+  "lat": 42.6793212642331,
+  "lon": -71.2618084863116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.477Z"
+}

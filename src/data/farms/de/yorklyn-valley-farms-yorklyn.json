@@ -1,0 +1,19 @@
+{
+  "slug": "yorklyn-valley-farms-yorklyn",
+  "name": "Yorklyn Valley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Yorklyn, DE",
+  "locationCity": "Yorklyn",
+  "locationState": "DE",
+  "locationZipcode": "19736",
+  "lat": 39.809005197,
+  "lon": -75.674719759,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:37.242Z"
+}

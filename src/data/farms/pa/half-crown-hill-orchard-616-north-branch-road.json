@@ -1,0 +1,20 @@
+{
+  "slug": "half-crown-hill-orchard-616-north-branch-road",
+  "name": "Half Crown Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "616 North Branch Road, PA",
+  "locationCity": "616 North Branch Road",
+  "locationState": "PA",
+  "locationZipcode": "15057",
+  "lat": 40.4059399945689,
+  "lon": -80.2364390344529,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.092Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.092Z",
+  "crops": []
+}

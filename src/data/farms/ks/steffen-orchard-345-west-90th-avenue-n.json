@@ -1,0 +1,19 @@
+{
+  "slug": "steffen-orchard-345-west-90th-avenue-n",
+  "name": "Steffen Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "345 West 90th Avenue N, KS",
+  "locationCity": "345 West 90th Avenue N",
+  "locationState": "KS",
+  "locationZipcode": "67031",
+  "lat": 37.3882900158473,
+  "lon": -97.5207191653329,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.095Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.095Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sfc-farmers-market-east-5315-ed-bluestein-blvd-austin",
+  "name": "SFC Farmers' Market East",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5315 Ed Bluestein Blvd Austin, TX",
+  "locationCity": "5315 Ed Bluestein Blvd Austin",
+  "locationState": "TX",
+  "locationZipcode": "78723",
+  "lat": 30.291032915722596,
+  "lon": -97.66382920132357,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

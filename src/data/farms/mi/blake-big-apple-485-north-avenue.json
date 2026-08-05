@@ -1,0 +1,19 @@
+{
+  "slug": "blake-big-apple-485-north-avenue",
+  "name": "Blake Big Apple",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "485 North Avenue, MI",
+  "locationCity": "485 North Avenue",
+  "locationState": "MI",
+  "locationZipcode": "48005",
+  "lat": 42.9094514793151,
+  "lon": -82.8833464921647,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.557Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.557Z"
+}

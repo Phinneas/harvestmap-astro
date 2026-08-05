@@ -1,0 +1,19 @@
+{
+  "slug": "st-matthews-farmers-market-4100-shelbyville-rd",
+  "name": "St. Matthews Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4100 Shelbyville Rd, KY",
+  "locationCity": "4100 Shelbyville Rd",
+  "locationState": "KY",
+  "locationZipcode": "40207",
+  "lat": 38.251785,
+  "lon": -85.646194,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.728Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.728Z"
+}

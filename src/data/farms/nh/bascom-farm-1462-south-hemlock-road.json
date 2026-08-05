@@ -1,0 +1,19 @@
+{
+  "slug": "bascom-farm-1462-south-hemlock-road",
+  "name": "Bascom Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1462 South Hemlock Road, NH",
+  "locationCity": "1462 South Hemlock Road",
+  "locationState": "NH",
+  "locationZipcode": "03603",
+  "lat": 43.2016852000736,
+  "lon": -72.36994227039159,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.615Z"
+}

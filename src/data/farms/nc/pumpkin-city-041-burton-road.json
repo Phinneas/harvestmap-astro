@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkin-city-041-burton-road",
+  "name": "Pumpkin City",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "041 Burton Road, NC",
+  "locationCity": "041 Burton Road",
+  "locationState": "NC",
+  "locationZipcode": "27360",
+  "lat": 35.9388754305818,
+  "lon": -80.0954804606309,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.740Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.740Z"
+}

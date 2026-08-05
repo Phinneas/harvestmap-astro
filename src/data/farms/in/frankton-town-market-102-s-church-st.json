@@ -1,0 +1,19 @@
+{
+  "slug": "frankton-town-market-102-s-church-st",
+  "name": "Frankton Town Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 S Church St, IN",
+  "locationCity": "102 S Church St",
+  "locationState": "IN",
+  "locationZipcode": "46044",
+  "lat": 40.222745,
+  "lon": -85.779261,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.613Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.613Z"
+}

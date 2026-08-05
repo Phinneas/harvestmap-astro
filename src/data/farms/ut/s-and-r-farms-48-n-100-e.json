@@ -1,0 +1,19 @@
+{
+  "slug": "s-and-r-farms-48-n-100-e",
+  "name": "S And R Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "48 N 100 E, UT",
+  "locationCity": "48 N 100 E",
+  "locationState": "UT",
+  "locationZipcode": "84043",
+  "lat": 40.45383712297951,
+  "lon": -111.77601744037868,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:27.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:27.057Z"
+}

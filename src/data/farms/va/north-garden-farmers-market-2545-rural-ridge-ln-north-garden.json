@@ -1,0 +1,19 @@
+{
+  "slug": "north-garden-farmers-market-2545-rural-ridge-ln-north-garden",
+  "name": "North Garden Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2545 Rural Ridge Ln North Garden, VA",
+  "locationCity": "2545 Rural Ridge Ln North Garden",
+  "locationState": "VA",
+  "locationZipcode": "22959",
+  "lat": 37.96771361604371,
+  "lon": -78.65086648301643,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

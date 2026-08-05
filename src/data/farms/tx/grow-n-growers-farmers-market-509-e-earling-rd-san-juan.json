@@ -1,0 +1,19 @@
+{
+  "slug": "grow-n-growers-farmers-market-509-e-earling-rd-san-juan",
+  "name": "Grow'n Growers Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "509 E. Earling Rd. San Juan, TX",
+  "locationCity": "509 E. Earling Rd. San Juan",
+  "locationState": "TX",
+  "locationZipcode": "78589",
+  "lat": 26.228548257789527,
+  "lon": -98.14339874350532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "nelson-s-strawberries-360-n-main-street",
+  "name": "Nelson's Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "360 N. Main Street, NC",
+  "locationCity": "360 N. Main Street",
+  "locationState": "NC",
+  "locationZipcode": "27284",
+  "lat": 36.1252281435286,
+  "lon": -80.069859182332,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.840Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.840Z"
+}

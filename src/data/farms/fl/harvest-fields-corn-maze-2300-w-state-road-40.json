@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-fields-corn-maze-2300-w-state-road-40",
+  "name": "Harvest Fields Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2300 W State Road 40, FL",
+  "locationCity": "2300 W State Road 40",
+  "locationState": "FL",
+  "locationZipcode": "32174",
+  "lat": 29.2540247808075,
+  "lon": -81.1485048572593,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.802Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "aliff-acres-3030-purdue-road",
+  "name": "Aliff Acres",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3030 Purdue Road, FL",
+  "locationCity": "3030 Purdue Road",
+  "locationState": "FL",
+  "locationZipcode": "32568",
+  "lat": 30.923979,
+  "lon": -87.3907438,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.813Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.813Z"
+}

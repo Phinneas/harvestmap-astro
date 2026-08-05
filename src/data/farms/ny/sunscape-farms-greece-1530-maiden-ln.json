@@ -1,0 +1,19 @@
+{
+  "slug": "sunscape-farms-greece-1530-maiden-ln",
+  "name": "Sunscape Farms Greece",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1530 Maiden Ln, NY",
+  "locationCity": "1530 Maiden Ln",
+  "locationState": "NY",
+  "locationZipcode": "14626",
+  "lat": 43.223719301074475,
+  "lon": -77.68395609551393,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.187Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.187Z"
+}

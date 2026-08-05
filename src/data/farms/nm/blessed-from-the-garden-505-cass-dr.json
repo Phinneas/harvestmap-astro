@@ -1,0 +1,20 @@
+{
+  "slug": "blessed-from-the-garden-505-cass-dr",
+  "name": "Blessed From The Garden",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "505 Cass Dr, NM",
+  "locationCity": "505 Cass Dr",
+  "locationState": "NM",
+  "locationZipcode": "88220",
+  "lat": 32.3808300040573,
+  "lon": -104.218960005892,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:54.609Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:54.609Z",
+  "crops": []
+}

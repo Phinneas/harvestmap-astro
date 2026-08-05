@@ -1,0 +1,19 @@
+{
+  "slug": "stokoe-farms-656-south-road",
+  "name": "Stokoe Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "656 South Road, NY",
+  "locationCity": "656 South Road",
+  "locationState": "NY",
+  "locationZipcode": "14546",
+  "lat": 42.992039,
+  "lon": -77.773829,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.747Z"
+}

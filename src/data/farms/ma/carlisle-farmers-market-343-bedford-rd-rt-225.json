@@ -1,0 +1,19 @@
+{
+  "slug": "carlisle-farmers-market-343-bedford-rd-rt-225",
+  "name": "Carlisle Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "343 Bedford Rd (Rt. 225), MA",
+  "locationCity": "343 Bedford Rd (Rt. 225)",
+  "locationState": "MA",
+  "locationZipcode": "01741",
+  "lat": 42.52496896221525,
+  "lon": -71.33863327675571,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.864Z"
+}

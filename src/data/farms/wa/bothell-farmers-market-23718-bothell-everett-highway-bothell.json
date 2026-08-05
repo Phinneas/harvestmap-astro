@@ -1,0 +1,19 @@
+{
+  "slug": "bothell-farmers-market-23718-bothell-everett-highway-bothell",
+  "name": "Bothell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "23718 Bothell Everett Highway Bothell, WA",
+  "locationCity": "23718 Bothell Everett Highway Bothell",
+  "locationState": "WA",
+  "locationZipcode": "23718",
+  "lat": 47.782431943209914,
+  "lon": -122.2205686218613,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.816Z"
+}

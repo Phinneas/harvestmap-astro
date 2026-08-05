@@ -1,0 +1,19 @@
+{
+  "slug": "miller-beach-farmers-market-215-n-grand-blvd-gary",
+  "name": "Miller Beach Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 N. Grand Blvd. Gary, IN",
+  "locationCity": "215 N. Grand Blvd. Gary",
+  "locationState": "IN",
+  "locationZipcode": "46403",
+  "lat": 41.6085854264145,
+  "lon": -87.26115347557247,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

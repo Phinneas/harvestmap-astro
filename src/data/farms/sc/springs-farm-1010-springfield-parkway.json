@@ -1,0 +1,19 @@
+{
+  "slug": "springs-farm-1010-springfield-parkway",
+  "name": "Springs Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1010 Springfield Parkway, SC",
+  "locationCity": "1010 Springfield Parkway",
+  "locationState": "SC",
+  "locationZipcode": "29716",
+  "lat": 35.0404714,
+  "lon": -80.91458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.118Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.118Z"
+}

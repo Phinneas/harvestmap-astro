@@ -1,0 +1,19 @@
+{
+  "slug": "southfield-farmers-market-21755-greenfield-road-southfield",
+  "name": "Southfield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "21755 Greenfield Road Southfield, MI",
+  "locationCity": "21755 Greenfield Road Southfield",
+  "locationState": "MI",
+  "locationZipcode": "21755",
+  "lat": 42.452548494674325,
+  "lon": -83.20098941977035,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "milan-farmers-market-12571-20-wilcox-circle-red-hook",
+  "name": "Milan Farmers Market 12571",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "20 Wilcox Circle Red Hook, NY",
+  "locationCity": "20 Wilcox Circle Red Hook",
+  "locationState": "NY",
+  "locationZipcode": "12571",
+  "lat": 41.954677721783604,
+  "lon": -73.76570552083334,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.026Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.026Z"
+}

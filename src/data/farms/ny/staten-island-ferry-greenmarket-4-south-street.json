@@ -1,0 +1,19 @@
+{
+  "slug": "staten-island-ferry-greenmarket-4-south-street",
+  "name": "Staten Island Ferry Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4 South Street, NY",
+  "locationCity": "4 South Street",
+  "locationState": "NY",
+  "locationZipcode": "10004",
+  "lat": 40.701591454968,
+  "lon": -74.01212856837083,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "oneida-apple-orchard-976-west-mason-street",
+  "name": "Oneida Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "976 West Mason Street, WI",
+  "locationCity": "976 West Mason Street",
+  "locationState": "WI",
+  "locationZipcode": "54155",
+  "lat": 44.5093988450569,
+  "lon": -88.1652812347902,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.178Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.178Z"
+}

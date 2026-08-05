@@ -1,0 +1,19 @@
+{
+  "slug": "woonsocket-farmers-market-450-clinton-st",
+  "name": "Woonsocket Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "450 Clinton St, RI",
+  "locationCity": "450 Clinton St",
+  "locationState": "RI",
+  "locationZipcode": "02895",
+  "lat": 42.007654,
+  "lon": -71.504321,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.507Z"
+}

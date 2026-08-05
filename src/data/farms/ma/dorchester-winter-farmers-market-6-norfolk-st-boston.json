@@ -1,0 +1,19 @@
+{
+  "slug": "dorchester-winter-farmers-market-6-norfolk-st-boston",
+  "name": "Dorchester Winter Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6 Norfolk St Boston, MA",
+  "locationCity": "6 Norfolk St Boston",
+  "locationState": "MA",
+  "locationZipcode": "02124",
+  "lat": 42.289712017078244,
+  "lon": -71.07256725915532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.864Z"
+}

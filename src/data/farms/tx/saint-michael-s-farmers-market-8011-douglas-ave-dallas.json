@@ -1,0 +1,19 @@
+{
+  "slug": "saint-michael-s-farmers-market-8011-douglas-ave-dallas",
+  "name": "Saint Michael's Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8011 Douglas Ave. Dallas, TX",
+  "locationCity": "8011 Douglas Ave. Dallas",
+  "locationState": "TX",
+  "locationZipcode": "75225",
+  "lat": 32.8605127597938,
+  "lon": -96.80858687449768,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

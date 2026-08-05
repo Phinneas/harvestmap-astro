@@ -1,0 +1,19 @@
+{
+  "slug": "urbana-farmers-market-102-capitol-ave",
+  "name": "Urbana Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 Capitol Ave, IA",
+  "locationCity": "102 Capitol Ave",
+  "locationState": "IA",
+  "locationZipcode": "52345",
+  "lat": 42.223981,
+  "lon": -91.873662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.566Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.566Z"
+}

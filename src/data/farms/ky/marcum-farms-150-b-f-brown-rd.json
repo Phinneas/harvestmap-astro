@@ -1,0 +1,20 @@
+{
+  "slug": "marcum-farms-150-b-f-brown-rd",
+  "name": "Marcum Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "150 B F Brown Rd, KY",
+  "locationCity": "150 B F Brown Rd",
+  "locationState": "KY",
+  "locationZipcode": "42757",
+  "lat": 37.4936139991012,
+  "lon": -85.7248560086474,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.542Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.542Z",
+  "crops": []
+}

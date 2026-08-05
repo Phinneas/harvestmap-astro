@@ -1,0 +1,19 @@
+{
+  "slug": "pinewood-springs-farm-4320-bowen-rd-sw",
+  "name": "Pinewood Springs Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4320 BOWEN RD SW, GA",
+  "locationCity": "4320 BOWEN RD SW",
+  "locationState": "GA",
+  "locationZipcode": "30281",
+  "lat": 33.56695919929396,
+  "lon": -84.12907139590432,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.451Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.451Z"
+}

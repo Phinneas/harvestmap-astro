@@ -1,0 +1,19 @@
+{
+  "slug": "fleming-county-farmers-market-1384-elizaville-rd",
+  "name": "Fleming County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1384 Elizaville Rd, KY",
+  "locationCity": "1384 Elizaville Rd",
+  "locationState": "KY",
+  "locationZipcode": "41041",
+  "lat": 38.421407,
+  "lon": -83.759523,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.719Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.719Z"
+}

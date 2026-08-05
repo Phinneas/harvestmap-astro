@@ -1,0 +1,19 @@
+{
+  "slug": "kd-farms-2583-state-highway-47",
+  "name": "KD Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2583 State Highway 47, NM",
+  "locationCity": "2583 State Highway 47",
+  "locationState": "NM",
+  "locationZipcode": "87002",
+  "lat": 34.68895899815902,
+  "lon": -106.73248104133293,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:01.955Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:01.955Z"
+}

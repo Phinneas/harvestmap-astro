@@ -1,0 +1,19 @@
+{
+  "slug": "martha-s-blueberries-870-jernigan-drive",
+  "name": "Martha's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "870 Jernigan Drive, TN",
+  "locationCity": "870 Jernigan Drive",
+  "locationState": "TN",
+  "locationZipcode": "38068",
+  "lat": 35.2307905898427,
+  "lon": -89.3382132612436,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.206Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.206Z"
+}

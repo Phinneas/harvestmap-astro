@@ -1,0 +1,19 @@
+{
+  "slug": "martha-s-u-pick-15701-sw-177th-ave",
+  "name": "Martha's U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15701 SW 177th Ave, FL",
+  "locationCity": "15701 SW 177th Ave",
+  "locationState": "FL",
+  "locationZipcode": "15701",
+  "lat": 25.6214545323808,
+  "lon": -80.479324520932,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.876Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.876Z"
+}

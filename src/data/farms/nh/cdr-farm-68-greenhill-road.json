@@ -1,0 +1,19 @@
+{
+  "slug": "cdr-farm-68-greenhill-road",
+  "name": "CDR farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "68 Greenhill Road, NH",
+  "locationCity": "68 Greenhill Road",
+  "locationState": "NH",
+  "locationZipcode": "03825",
+  "lat": 43.2419210175248,
+  "lon": -70.9946140325603,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.891Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.891Z"
+}

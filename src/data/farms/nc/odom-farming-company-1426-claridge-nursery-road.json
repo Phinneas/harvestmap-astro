@@ -1,0 +1,19 @@
+{
+  "slug": "odom-farming-company-1426-claridge-nursery-road",
+  "name": "Odom Farming Company",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1426 Claridge Nursery Road, NC",
+  "locationCity": "1426 Claridge Nursery Road",
+  "locationState": "NC",
+  "locationZipcode": "27530",
+  "lat": 35.4422189693163,
+  "lon": -78.0406269142593,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.718Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.718Z"
+}

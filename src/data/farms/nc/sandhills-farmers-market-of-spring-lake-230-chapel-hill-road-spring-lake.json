@@ -1,0 +1,19 @@
+{
+  "slug": "sandhills-farmers-market-of-spring-lake-230-chapel-hill-road-spring-lake",
+  "name": "Sandhills Farmers Market of Spring Lake",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "230 Chapel Hill Road Spring Lake, NC",
+  "locationCity": "230 Chapel Hill Road Spring Lake",
+  "locationState": "NC",
+  "locationZipcode": "28314",
+  "lat": 35.18359504621333,
+  "lon": -78.97920543153795,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

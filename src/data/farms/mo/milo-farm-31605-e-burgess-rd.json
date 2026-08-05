@@ -1,0 +1,19 @@
+{
+  "slug": "milo-farm-31605-e-burgess-rd",
+  "name": "Milo Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "31605 E Burgess Rd, MO",
+  "locationCity": "31605 E Burgess Rd",
+  "locationState": "MO",
+  "locationZipcode": "31605",
+  "lat": 39.08814798998094,
+  "lon": -94.20902401870536,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.880Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.880Z"
+}

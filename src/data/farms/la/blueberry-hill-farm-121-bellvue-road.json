@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-farm-121-bellvue-road",
+  "name": "Blueberry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "121 Bellvue Road, LA",
+  "locationCity": "121 Bellvue Road",
+  "locationState": "LA",
+  "locationZipcode": "71037",
+  "lat": 32.6673254033609,
+  "lon": -93.5289775631315,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.018Z"
+}

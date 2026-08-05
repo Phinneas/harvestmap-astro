@@ -1,0 +1,19 @@
+{
+  "slug": "evergreen-park-farmers-market-9001-s-kedzie-ave-evergreen-park",
+  "name": "Evergreen Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9001 S Kedzie Ave. Evergreen Park, IL",
+  "locationCity": "9001 S Kedzie Ave. Evergreen Park",
+  "locationState": "IL",
+  "locationZipcode": "60805",
+  "lat": 41.72968604168954,
+  "lon": -87.70208392516604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

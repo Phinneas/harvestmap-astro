@@ -1,0 +1,19 @@
+{
+  "slug": "east-texas-farmers-market-1836-s-jackson-jacksonville",
+  "name": "East Texas Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1836 S. Jackson Jacksonville, TX",
+  "locationCity": "1836 S. Jackson Jacksonville",
+  "locationState": "TX",
+  "locationZipcode": "75766",
+  "lat": 31.947586027949118,
+  "lon": -95.26051843234907,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

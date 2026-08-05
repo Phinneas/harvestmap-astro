@@ -1,0 +1,19 @@
+{
+  "slug": "carver-farmers-market-108-main-st",
+  "name": "Carver Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "108 Main St., MA",
+  "locationCity": "108 Main St.",
+  "locationState": "MA",
+  "locationZipcode": "02330",
+  "lat": 41.888852,
+  "lon": -70.769182,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.741Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.741Z"
+}

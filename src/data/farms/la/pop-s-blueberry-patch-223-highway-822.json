@@ -1,0 +1,19 @@
+{
+  "slug": "pop-s-blueberry-patch-223-highway-822",
+  "name": "Pop's Blueberry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "223 Highway 822, LA",
+  "locationCity": "223 Highway 822",
+  "locationState": "LA",
+  "locationZipcode": "71235",
+  "lat": 32.6574499294469,
+  "lon": -92.5879721452814,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.092Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.092Z"
+}

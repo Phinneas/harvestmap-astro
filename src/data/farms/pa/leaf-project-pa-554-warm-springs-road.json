@@ -1,0 +1,19 @@
+{
+  "slug": "leaf-project-pa-554-warm-springs-road",
+  "name": "LEAF Project PA",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "554 Warm Springs Road, PA",
+  "locationCity": "554 Warm Springs Road",
+  "locationState": "PA",
+  "locationZipcode": "17040",
+  "lat": 40.33051401392115,
+  "lon": -77.24330801388403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.212Z"
+}

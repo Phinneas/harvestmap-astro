@@ -1,0 +1,19 @@
+{
+  "slug": "troy-community-farm-3601-memorial-dr",
+  "name": "Troy Community Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3601 Memorial Dr., WI",
+  "locationCity": "3601 Memorial Dr.",
+  "locationState": "WI",
+  "locationZipcode": "53704",
+  "lat": 43.1316654,
+  "lon": -89.4033404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.002Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.002Z"
+}

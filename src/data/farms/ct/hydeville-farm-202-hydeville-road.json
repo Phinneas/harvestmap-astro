@@ -1,0 +1,19 @@
+{
+  "slug": "hydeville-farm-202-hydeville-road",
+  "name": "Hydeville Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "202 Hydeville Road, CT",
+  "locationCity": "202 Hydeville Road",
+  "locationState": "CT",
+  "locationZipcode": "06076",
+  "lat": 42.0075999861619,
+  "lon": -72.2748749760328,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.928Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.928Z"
+}

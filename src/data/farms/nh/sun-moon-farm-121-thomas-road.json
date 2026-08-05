@@ -1,0 +1,19 @@
+{
+  "slug": "sun-moon-farm-121-thomas-road",
+  "name": "Sun Moon Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "121 Thomas Road, NH",
+  "locationCity": "121 Thomas Road",
+  "locationState": "NH",
+  "locationZipcode": "03461",
+  "lat": 42.74771700408253,
+  "lon": -72.04613792691434,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.629Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.629Z"
+}

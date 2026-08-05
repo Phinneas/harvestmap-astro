@@ -1,0 +1,19 @@
+{
+  "slug": "jenkins-818-chandler-mountain-road",
+  "name": "Jenkins",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "818 Chandler Mountain Road, AL",
+  "locationCity": "818 Chandler Mountain Road",
+  "locationState": "AL",
+  "locationZipcode": "35987",
+  "lat": 33.9311615030752,
+  "lon": -86.2181185241758,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.655Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.655Z"
+}

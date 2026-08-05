@@ -1,0 +1,19 @@
+{
+  "slug": "hunter-park-gardenhouse-1619-e-kalamazoo-st",
+  "name": "Hunter Park GardenHouse",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1619 E. Kalamazoo St., MI",
+  "locationCity": "1619 E. Kalamazoo St.",
+  "locationState": "MI",
+  "locationZipcode": "48912",
+  "lat": 42.730138,
+  "lon": -84.5265022,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.978Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.978Z"
+}

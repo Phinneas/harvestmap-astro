@@ -1,0 +1,19 @@
+{
+  "slug": "18th-street-farmers-market-825-18th-street-charleston",
+  "name": "18th Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "825 18th Street Charleston, IL",
+  "locationCity": "825 18th Street Charleston",
+  "locationState": "IL",
+  "locationZipcode": "61920",
+  "lat": 39.491467254398785,
+  "lon": -88.16354096451768,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

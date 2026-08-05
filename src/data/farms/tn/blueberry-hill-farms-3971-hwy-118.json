@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-farms-3971-hwy-118",
+  "name": "Blueberry Hill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3971 Hwy 118, TN",
+  "locationCity": "3971 Hwy 118",
+  "locationState": "TN",
+  "locationZipcode": "38225",
+  "lat": 36.38820701576221,
+  "lon": -88.72202299941425,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.374Z"
+}

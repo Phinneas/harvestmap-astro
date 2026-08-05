@@ -1,0 +1,19 @@
+{
+  "slug": "hartford-s-north-end-farmers-market-80-coventry-st-hartford",
+  "name": "Hartford's North End Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "80 Coventry St Hartford, CT",
+  "locationCity": "80 Coventry St Hartford",
+  "locationState": "CT",
+  "locationZipcode": "06112",
+  "lat": 41.798003140668285,
+  "lon": -72.69004073656777,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "calhoun-farmers-market-315-main-st-calhoun",
+  "name": "Calhoun Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "315 Main St Calhoun, KY",
+  "locationCity": "315 Main St Calhoun",
+  "locationState": "KY",
+  "locationZipcode": "42327",
+  "lat": 37.61559119971953,
+  "lon": -87.39636536532564,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

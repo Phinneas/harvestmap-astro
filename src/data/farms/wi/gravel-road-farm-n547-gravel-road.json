@@ -1,0 +1,19 @@
+{
+  "slug": "gravel-road-farm-n547-gravel-road",
+  "name": "Gravel Road Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "N547 Gravel Road, WI",
+  "locationCity": "N547 Gravel Road",
+  "locationState": "WI",
+  "locationZipcode": "54981",
+  "lat": 44.2589704,
+  "lon": -89.0631104,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:11.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:11.986Z"
+}

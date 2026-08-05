@@ -1,0 +1,19 @@
+{
+  "slug": "kaiser-san-francisco-farmers-market-2425-geary-blvd-san-francisco",
+  "name": "Kaiser San Francisco Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2425 Geary Blvd San Francisco, CA",
+  "locationCity": "2425 Geary Blvd San Francisco",
+  "locationState": "CA",
+  "locationZipcode": "94118",
+  "lat": 37.78274729287704,
+  "lon": -122.4432385821198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "warner-farmers-market-5-east-main-street-warner",
+  "name": "Warner Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5 East Main Street Warner, NH",
+  "locationCity": "5 East Main Street Warner",
+  "locationState": "NH",
+  "locationZipcode": "03278",
+  "lat": 43.2805725859795,
+  "lon": -71.81583756515565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.154Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "poplar-head-farmers-market-126-museum-ave",
+  "name": "Poplar Head Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "126 MUSEUM AVE, AL",
+  "locationCity": "126 MUSEUM AVE",
+  "locationState": "AL",
+  "locationZipcode": "36303",
+  "lat": 31.223890064195864,
+  "lon": -85.38919601216594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

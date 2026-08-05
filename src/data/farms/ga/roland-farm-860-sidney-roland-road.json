@@ -1,0 +1,19 @@
+{
+  "slug": "roland-farm-860-sidney-roland-road",
+  "name": "Roland Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "860 Sidney Roland Road, GA",
+  "locationCity": "860 Sidney Roland Road",
+  "locationState": "GA",
+  "locationZipcode": "30535",
+  "lat": 34.6108949811249,
+  "lon": -83.6458120139529,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.388Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.388Z"
+}

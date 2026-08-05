@@ -1,0 +1,19 @@
+{
+  "slug": "reston-farmers-market-1609-washington-plaza",
+  "name": "Reston Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1609 Washington Plaza, VA",
+  "locationCity": "1609 Washington Plaza",
+  "locationState": "VA",
+  "locationZipcode": "20190",
+  "lat": 38.969077271860584,
+  "lon": -77.34089725527024,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

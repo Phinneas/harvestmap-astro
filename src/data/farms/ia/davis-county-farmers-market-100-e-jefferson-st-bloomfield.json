@@ -1,0 +1,19 @@
+{
+  "slug": "davis-county-farmers-market-100-e-jefferson-st-bloomfield",
+  "name": "Davis County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 E. Jefferson St. Bloomfield, IA",
+  "locationCity": "100 E. Jefferson St. Bloomfield",
+  "locationState": "IA",
+  "locationZipcode": "52537",
+  "lat": 40.75170095226981,
+  "lon": -92.4151535761145,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

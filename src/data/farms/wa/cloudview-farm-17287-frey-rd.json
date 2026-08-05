@@ -1,0 +1,19 @@
+{
+  "slug": "cloudview-farm-17287-frey-rd",
+  "name": "Cloudview Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "17287 Frey Rd, WA",
+  "locationCity": "17287 Frey Rd",
+  "locationState": "WA",
+  "locationZipcode": "17287",
+  "lat": 47.34409404329216,
+  "lon": -119.54539686420253,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.622Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.622Z"
+}

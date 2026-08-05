@@ -1,0 +1,19 @@
+{
+  "slug": "buttercup-family-farm-4310-oak-veiw-drive",
+  "name": "Buttercup Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4310 Oak Veiw Drive, CA",
+  "locationCity": "4310 Oak Veiw Drive",
+  "locationState": "CA",
+  "locationZipcode": "95664",
+  "lat": 38.84385,
+  "lon": -121.0294496,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.065Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.065Z"
+}

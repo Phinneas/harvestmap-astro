@@ -1,0 +1,19 @@
+{
+  "slug": "pollard-ranch-13225-nw-skyline-boulevard",
+  "name": "Pollard Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13225 NW Skyline Boulevard, OR",
+  "locationCity": "13225 NW Skyline Boulevard",
+  "locationState": "OR",
+  "locationZipcode": "13225",
+  "lat": 45.6187519876374,
+  "lon": -122.874747981725,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.784Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.784Z"
+}

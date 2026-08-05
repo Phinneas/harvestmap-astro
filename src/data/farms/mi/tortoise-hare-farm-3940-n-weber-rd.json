@@ -1,0 +1,19 @@
+{
+  "slug": "tortoise-hare-farm-3940-n-weber-rd",
+  "name": "Tortoise & Hare Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3940 N. Weber Rd., MI",
+  "locationCity": "3940 N. Weber Rd.",
+  "locationState": "MI",
+  "locationZipcode": "49445",
+  "lat": 43.32910450330428,
+  "lon": -86.3161840226111,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.102Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.102Z"
+}

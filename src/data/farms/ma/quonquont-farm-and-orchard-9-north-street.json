@@ -1,0 +1,20 @@
+{
+  "slug": "quonquont-farm-and-orchard-9-north-street",
+  "name": "Quonquont Farm and Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9 North Street, MA",
+  "locationCity": "9 North Street",
+  "locationState": "MA",
+  "locationZipcode": "01093",
+  "lat": 42.4453574104446,
+  "lon": -72.637342835142,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.558Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.558Z",
+  "crops": []
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "deans-farm-market-4231-nc-hwy-42-west-wilson",
+  "name": "Deans Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4231 NC Hwy 42 West Wilson, NC",
+  "locationCity": "4231 NC Hwy 42 West Wilson",
+  "locationState": "NC",
+  "locationZipcode": "27893",
+  "lat": 35.718110287742185,
+  "lon": -77.98980258296496,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z",
+  "crops": []
+}

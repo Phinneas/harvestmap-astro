@@ -1,0 +1,19 @@
+{
+  "slug": "huffman-hawbaker-farms-3914-n-800-e",
+  "name": "Huffman & Hawbaker Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3914 N 800 E, IN",
+  "locationCity": "3914 N 800 E",
+  "locationState": "IN",
+  "locationZipcode": "47905",
+  "lat": 40.4746879872282,
+  "lon": -86.7522680418344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.397Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.397Z"
+}

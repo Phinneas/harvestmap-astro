@@ -1,0 +1,19 @@
+{
+  "slug": "west-racine-farmers-market-3100-washington-ave-racine",
+  "name": "West Racine Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3100 Washington Ave Racine, WI",
+  "locationCity": "3100 Washington Ave Racine",
+  "locationState": "WI",
+  "locationZipcode": "53406",
+  "lat": 42.71871287400214,
+  "lon": -87.81628470034454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.859Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.859Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "blue-shire-farms-3496-lemon-northcutt-rd",
+  "name": "Blue Shire Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3496 LEMON NORTHCUTT RD, KY",
+  "locationCity": "3496 LEMON NORTHCUTT RD",
+  "locationState": "KY",
+  "locationZipcode": "41035",
+  "lat": 38.73160869289731,
+  "lon": -84.53819535883991,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.114Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.114Z"
+}

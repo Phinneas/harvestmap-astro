@@ -1,0 +1,19 @@
+{
+  "slug": "us-potato-board-4949-s-syracuse-st",
+  "name": "US Potato Board",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "4949 S. Syracuse St., CO",
+  "locationCity": "4949 S. Syracuse St.",
+  "locationState": "CO",
+  "locationZipcode": "80237",
+  "lat": 39.6259984,
+  "lon": -104.90024,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:03.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:03.291Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "copper-hill-farm-3550-mountain-rd",
+  "name": "Copper Hill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3550 Mountain Rd., VA",
+  "locationCity": "3550 Mountain Rd.",
+  "locationState": "VA",
+  "locationZipcode": "20169",
+  "lat": 38.8800918,
+  "lon": -77.676921,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.207Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.207Z"
+}

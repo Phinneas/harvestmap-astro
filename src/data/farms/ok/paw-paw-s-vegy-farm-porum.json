@@ -1,0 +1,19 @@
+{
+  "slug": "paw-paw-s-vegy-farm-porum",
+  "name": "Paw Paw's Vegy Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Porum, OK",
+  "locationCity": "Porum",
+  "locationState": "OK",
+  "locationZipcode": "74455",
+  "lat": 35.3607300000001,
+  "lon": -95.263072,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.316Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.316Z"
+}

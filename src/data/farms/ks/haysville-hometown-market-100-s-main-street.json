@@ -1,0 +1,19 @@
+{
+  "slug": "haysville-hometown-market-100-s-main-street",
+  "name": "Haysville Hometown Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 S. Main Street, KS",
+  "locationCity": "100 S. Main Street",
+  "locationState": "KS",
+  "locationZipcode": "67060",
+  "lat": 37.56415239049802,
+  "lon": -97.35109084833418,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

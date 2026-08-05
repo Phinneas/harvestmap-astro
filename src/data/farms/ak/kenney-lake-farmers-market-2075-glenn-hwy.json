@@ -1,0 +1,19 @@
+{
+  "slug": "kenney-lake-farmers-market-2075-glenn-hwy",
+  "name": "Kenney Lake Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2075 Glenn Hwy, AK",
+  "locationCity": "2075 Glenn Hwy",
+  "locationState": "AK",
+  "locationZipcode": "99645",
+  "lat": 61.57988499457943,
+  "lon": -149.12889396265564,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

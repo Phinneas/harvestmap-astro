@@ -1,0 +1,20 @@
+{
+  "slug": "walpole-farmers-market-944-main-street-rear-parking-lot-walpole",
+  "name": "Walpole Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "944 Main Street (rear Parking Lot) Walpole, MA",
+  "locationCity": "944 Main Street (rear Parking Lot) Walpole",
+  "locationState": "MA",
+  "locationZipcode": "02081",
+  "lat": 42.146553355098185,
+  "lon": -71.25247511504463,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.868Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.868Z",
+  "crops": []
+}

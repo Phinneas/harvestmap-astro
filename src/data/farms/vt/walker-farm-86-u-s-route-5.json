@@ -1,0 +1,19 @@
+{
+  "slug": "walker-farm-86-u-s-route-5",
+  "name": "Walker Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "86 U.S. Route 5, VT",
+  "locationCity": "86 U.S. Route 5",
+  "locationState": "VT",
+  "locationZipcode": "05346",
+  "lat": 43.0230435819368,
+  "lon": -72.4690425377344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.039Z"
+}

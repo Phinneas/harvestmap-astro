@@ -1,0 +1,19 @@
+{
+  "slug": "a-and-b-country-chicken-rr1",
+  "name": "A and B Country Chicken",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "RR1, NE",
+  "locationCity": "RR1",
+  "locationState": "NE",
+  "locationZipcode": "68376",
+  "lat": 40.1670100000001,
+  "lon": -95.9448086,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.824Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.824Z"
+}

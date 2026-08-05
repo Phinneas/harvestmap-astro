@@ -1,0 +1,19 @@
+{
+  "slug": "littletree-orchards-345-shaffer-road",
+  "name": "Littletree Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "345 Shaffer Road, NY",
+  "locationCity": "345 Shaffer Road",
+  "locationState": "NY",
+  "locationZipcode": "14867",
+  "lat": 42.3509112151111,
+  "lon": -76.5667469411002,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.302Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.302Z"
+}

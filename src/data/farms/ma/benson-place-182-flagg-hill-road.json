@@ -1,0 +1,19 @@
+{
+  "slug": "benson-place-182-flagg-hill-road",
+  "name": "Benson Place",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "182 Flagg Hill Road, MA",
+  "locationCity": "182 Flagg Hill Road",
+  "locationState": "MA",
+  "locationZipcode": "01346",
+  "lat": 42.6524954860343,
+  "lon": -72.8027610354138,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.698Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.698Z"
+}

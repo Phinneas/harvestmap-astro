@@ -1,0 +1,19 @@
+{
+  "slug": "ptc-farmers-market-csa-215-north-lake-drive",
+  "name": "PTC Farmers Market CSA",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 North Lake Drive, GA",
+  "locationCity": "215 North Lake Drive",
+  "locationState": "GA",
+  "locationZipcode": "30269",
+  "lat": 33.40422878458018,
+  "lon": -84.58429225070357,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

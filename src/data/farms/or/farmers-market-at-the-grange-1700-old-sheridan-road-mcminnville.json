@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-the-grange-1700-old-sheridan-road-mcminnville",
+  "name": "Farmers Market at the Grange",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1700 Old Sheridan Road McMinnville, OR",
+  "locationCity": "1700 Old Sheridan Road McMinnville",
+  "locationState": "OR",
+  "locationZipcode": "97128",
+  "lat": 45.19313062271323,
+  "lon": -123.2192545924271,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.423Z"
+}

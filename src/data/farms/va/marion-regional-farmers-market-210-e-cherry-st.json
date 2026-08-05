@@ -1,0 +1,19 @@
+{
+  "slug": "marion-regional-farmers-market-210-e-cherry-st",
+  "name": "Marion Regional Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 E Cherry St, VA",
+  "locationCity": "210 E Cherry St",
+  "locationState": "VA",
+  "locationZipcode": "24354",
+  "lat": 36.83093419140096,
+  "lon": -81.52116652814962,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

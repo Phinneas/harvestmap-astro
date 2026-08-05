@@ -1,0 +1,19 @@
+{
+  "slug": "battlefield-farmers-market-10052-highway-27-north",
+  "name": "Battlefield Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10052 Highway 27 North, GA",
+  "locationCity": "10052 Highway 27 North",
+  "locationState": "GA",
+  "locationZipcode": "10052",
+  "lat": 34.84936336504761,
+  "lon": -85.25082179968804,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kensington-metropark-s-farmers-market-2440-w-buno-rd-milford",
+  "name": "Kensington Metropark's Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2440 W Buno Rd Milford, MI",
+  "locationCity": "2440 W Buno Rd Milford",
+  "locationState": "MI",
+  "locationZipcode": "48380",
+  "lat": 42.54962780276733,
+  "lon": -83.64263451309081,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

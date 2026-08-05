@@ -1,0 +1,19 @@
+{
+  "slug": "shawn-s-pumpkin-patch-3443-s-sepulveda-blvd",
+  "name": "Shawn's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3443 S Sepulveda Blvd, CA",
+  "locationCity": "3443 S Sepulveda Blvd",
+  "locationState": "CA",
+  "locationZipcode": "90034",
+  "lat": 34.0194989899264,
+  "lon": -118.423259015392,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.771Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.771Z"
+}

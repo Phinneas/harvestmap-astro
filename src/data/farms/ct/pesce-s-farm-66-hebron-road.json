@@ -1,0 +1,20 @@
+{
+  "slug": "pesce-s-farm-66-hebron-road",
+  "name": "Pesce's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "66 Hebron Road, CT",
+  "locationCity": "66 Hebron Road",
+  "locationState": "CT",
+  "locationZipcode": "06043",
+  "lat": 41.7609470206131,
+  "lon": -72.4306559993097,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.940Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.940Z",
+  "crops": []
+}

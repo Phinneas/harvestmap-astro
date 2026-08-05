@@ -1,0 +1,19 @@
+{
+  "slug": "minnetonka-farmers-market-winter-14600-minnetonka-blvd",
+  "name": "Minnetonka Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14600 Minnetonka Blvd, MN",
+  "locationCity": "14600 Minnetonka Blvd",
+  "locationState": "MN",
+  "locationZipcode": "14600",
+  "lat": 44.9400508,
+  "lon": -93.4660244,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

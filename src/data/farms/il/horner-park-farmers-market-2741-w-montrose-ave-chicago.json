@@ -1,0 +1,19 @@
+{
+  "slug": "horner-park-farmers-market-2741-w-montrose-ave-chicago",
+  "name": "Horner Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2741 W. Montrose Ave. Chicago, IL",
+  "locationCity": "2741 W. Montrose Ave. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60618",
+  "lat": 41.961249707048665,
+  "lon": -87.69777424536106,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

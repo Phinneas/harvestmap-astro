@@ -1,0 +1,19 @@
+{
+  "slug": "lovettsville-farmers-market-16-s-berlin-pike-lovettsville",
+  "name": "Lovettsville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "16 S. Berlin Pike Lovettsville, VA",
+  "locationCity": "16 S. Berlin Pike Lovettsville",
+  "locationState": "VA",
+  "locationZipcode": "20180",
+  "lat": 39.27010466692549,
+  "lon": -77.64201418293337,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

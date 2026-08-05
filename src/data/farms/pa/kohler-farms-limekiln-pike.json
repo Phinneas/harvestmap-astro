@@ -1,0 +1,19 @@
+{
+  "slug": "kohler-farms-limekiln-pike",
+  "name": "Kohler Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Limekiln Pike, PA",
+  "locationCity": "Limekiln Pike",
+  "locationState": "PA",
+  "locationZipcode": "19002",
+  "lat": 40.2304829984114,
+  "lon": -75.1880869805757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.141Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.141Z"
+}

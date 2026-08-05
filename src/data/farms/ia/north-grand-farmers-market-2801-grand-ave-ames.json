@@ -1,0 +1,19 @@
+{
+  "slug": "north-grand-farmers-market-2801-grand-ave-ames",
+  "name": "North Grand Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2801 Grand Ave. Ames, IA",
+  "locationCity": "2801 Grand Ave. Ames",
+  "locationState": "IA",
+  "locationZipcode": "50010",
+  "lat": 42.05056843419597,
+  "lon": -93.62066113717485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

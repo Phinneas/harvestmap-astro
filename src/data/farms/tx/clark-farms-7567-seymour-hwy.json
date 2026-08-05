@@ -1,0 +1,19 @@
+{
+  "slug": "clark-farms-7567-seymour-hwy",
+  "name": "Clark Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7567 Seymour Hwy, TX",
+  "locationCity": "7567 Seymour Hwy",
+  "locationState": "TX",
+  "locationZipcode": "76310",
+  "lat": 33.8612230093503,
+  "lon": -98.6246950172934,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.521Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.521Z"
+}

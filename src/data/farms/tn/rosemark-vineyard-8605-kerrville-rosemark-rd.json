@@ -1,0 +1,20 @@
+{
+  "slug": "rosemark-vineyard-8605-kerrville-rosemark-rd",
+  "name": "rosemark vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8605 kerrville-rosemark rd., TN",
+  "locationCity": "8605 kerrville-rosemark rd.",
+  "locationState": "TN",
+  "locationZipcode": "38053",
+  "lat": 35.3622839857648,
+  "lon": -89.7758400392606,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.353Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.353Z",
+  "crops": []
+}

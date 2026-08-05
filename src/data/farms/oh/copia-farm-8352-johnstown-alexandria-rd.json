@@ -1,0 +1,19 @@
+{
+  "slug": "copia-farm-8352-johnstown-alexandria-rd",
+  "name": "Copia Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8352 Johnstown-Alexandria Rd., OH",
+  "locationCity": "8352 Johnstown-Alexandria Rd.",
+  "locationState": "OH",
+  "locationZipcode": "43031",
+  "lat": 40.17322445762028,
+  "lon": -82.71501893304057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.475Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.475Z"
+}

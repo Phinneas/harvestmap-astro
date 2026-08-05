@@ -1,0 +1,19 @@
+{
+  "slug": "guthrie-center-farmers-market-s-4th-street-guthrie-center",
+  "name": "Guthrie Center Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "S. 4th Street Guthrie Center, IA",
+  "locationCity": "S. 4th Street Guthrie Center",
+  "locationState": "IA",
+  "locationZipcode": "50115",
+  "lat": 41.675964994891906,
+  "lon": -94.50346786921048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

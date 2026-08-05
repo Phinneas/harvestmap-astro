@@ -1,0 +1,19 @@
+{
+  "slug": "apple-creek-farm-538-millay-rd",
+  "name": "Apple Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "538 Millay Rd, ME",
+  "locationCity": "538 Millay Rd",
+  "locationState": "ME",
+  "locationZipcode": "04008",
+  "lat": 44.049768175021626,
+  "lon": -69.91561096623336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.573Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.573Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "three-nunns-farm-550-walnut-blvd",
+  "name": "Three Nunns Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "550 Walnut Blvd, CA",
+  "locationCity": "550 Walnut Blvd",
+  "locationState": "CA",
+  "locationZipcode": "94513",
+  "lat": 37.8834706279791,
+  "lon": -121.696456058787,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.778Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.778Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "real-food-ct-171-huntingtown-road",
+  "name": "Real Food CT",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "171 Huntingtown Road, CT",
+  "locationCity": "171 Huntingtown Road",
+  "locationState": "CT",
+  "locationZipcode": "06470",
+  "lat": 41.345138625545914,
+  "lon": -73.2925836153327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:20.509Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:20.509Z"
+}

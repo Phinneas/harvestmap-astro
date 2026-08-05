@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-boy-eggs-118-west-front-street",
+  "name": "Farmer Boy Eggs",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "118 West Front Street, MT",
+  "locationCity": "118 West Front Street",
+  "locationState": "MT",
+  "locationZipcode": "59832",
+  "lat": 46.6688500000001,
+  "lon": -113.150695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:09.788Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:09.788Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "town-of-hillsville-farmers-market-405-n-main-st",
+  "name": "Town of Hillsville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "405 N Main St, VA",
+  "locationCity": "405 N Main St",
+  "locationState": "VA",
+  "locationZipcode": "24343",
+  "lat": 36.765828130099955,
+  "lon": -80.73671533822964,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

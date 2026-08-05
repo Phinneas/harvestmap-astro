@@ -1,0 +1,19 @@
+{
+  "slug": "witsend-farm-482-garden-road",
+  "name": "Witsend Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "482 Garden Road, NJ",
+  "locationCity": "482 Garden Road",
+  "locationState": "NJ",
+  "locationZipcode": "08318",
+  "lat": 39.5347940034861,
+  "lon": -75.1225799765077,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.163Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.163Z"
+}

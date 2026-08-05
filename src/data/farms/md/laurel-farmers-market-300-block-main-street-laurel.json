@@ -1,0 +1,19 @@
+{
+  "slug": "laurel-farmers-market-300-block-main-street-laurel",
+  "name": "Laurel Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 block Main Street Laurel, MD",
+  "locationCity": "300 block Main Street Laurel",
+  "locationState": "MD",
+  "locationZipcode": "20707",
+  "lat": 39.10401796610318,
+  "lon": -76.84368636022893,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

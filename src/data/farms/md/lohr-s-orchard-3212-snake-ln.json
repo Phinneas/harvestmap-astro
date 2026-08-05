@@ -1,0 +1,19 @@
+{
+  "slug": "lohr-s-orchard-3212-snake-ln",
+  "name": "Lohr's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3212 Snake Ln, MD",
+  "locationCity": "3212 Snake Ln",
+  "locationState": "MD",
+  "locationZipcode": "21028",
+  "lat": 39.5401479860489,
+  "lon": -76.2409939971943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.242Z"
+}

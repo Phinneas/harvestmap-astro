@@ -1,0 +1,19 @@
+{
+  "slug": "sampson-farmers-market-215-lisbon-street-clinton",
+  "name": "Sampson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 Lisbon Street Clinton, NC",
+  "locationCity": "215 Lisbon Street Clinton",
+  "locationState": "NC",
+  "locationZipcode": "28328",
+  "lat": 34.99778835365208,
+  "lon": -78.32288971961084,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "madrona-farmers-market-1126-martin-luther-king-jr-way",
+  "name": "Madrona Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1126 Martin Luther King Jr Way, WA",
+  "locationCity": "1126 Martin Luther King Jr Way",
+  "locationState": "WA",
+  "locationZipcode": "98122",
+  "lat": 47.612616,
+  "lon": -122.29575,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.746Z"
+}

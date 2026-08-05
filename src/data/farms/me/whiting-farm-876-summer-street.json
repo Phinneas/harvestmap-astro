@@ -1,0 +1,19 @@
+{
+  "slug": "whiting-farm-876-summer-street",
+  "name": "Whiting Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "876 Summer Street, ME",
+  "locationCity": "876 Summer Street",
+  "locationState": "ME",
+  "locationZipcode": "04210",
+  "lat": 44.121527,
+  "lon": -70.25366,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:00.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:00.101Z"
+}

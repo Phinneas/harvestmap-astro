@@ -1,0 +1,19 @@
+{
+  "slug": "cook-farms-3020-plyler-mill-rd",
+  "name": "Cook Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3020 Plyler Mill Rd, NC",
+  "locationCity": "3020 Plyler Mill Rd",
+  "locationState": "NC",
+  "locationZipcode": "28112",
+  "lat": 34.9180431174664,
+  "lon": -80.57835882556549,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.461Z"
+}

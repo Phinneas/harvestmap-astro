@@ -1,0 +1,19 @@
+{
+  "slug": "wnc-farmers-market-570-brevard-road",
+  "name": "WNC Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "570 Brevard Road, NC",
+  "locationCity": "570 Brevard Road",
+  "locationState": "NC",
+  "locationZipcode": "28806",
+  "lat": 35.555133,
+  "lon": -82.598648,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.246Z"
+}

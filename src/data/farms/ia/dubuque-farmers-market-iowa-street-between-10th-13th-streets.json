@@ -1,0 +1,19 @@
+{
+  "slug": "dubuque-farmers-market-iowa-street-between-10th-13th-streets",
+  "name": "Dubuque Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Iowa Street between 10th & 13th Streets, IA",
+  "locationCity": "Iowa Street between 10th & 13th Streets",
+  "locationState": "IA",
+  "locationZipcode": "52001",
+  "lat": 42.504521,
+  "lon": -90.667851,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.553Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.553Z"
+}

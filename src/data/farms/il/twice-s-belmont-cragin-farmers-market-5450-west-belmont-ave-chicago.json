@@ -1,0 +1,19 @@
+{
+  "slug": "twice-s-belmont-cragin-farmers-market-5450-west-belmont-ave-chicago",
+  "name": "Twice's Belmont Cragin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5450 West Belmont Ave Chicago, IL",
+  "locationCity": "5450 West Belmont Ave Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60641",
+  "lat": 41.93862196022918,
+  "lon": -87.7634550384815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

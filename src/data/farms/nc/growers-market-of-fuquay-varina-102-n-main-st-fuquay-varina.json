@@ -1,0 +1,19 @@
+{
+  "slug": "growers-market-of-fuquay-varina-102-n-main-st-fuquay-varina",
+  "name": "Growers Market of Fuquay-Varina",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 N. Main St. Fuquay-Varina, NC",
+  "locationCity": "102 N. Main St. Fuquay-Varina",
+  "locationState": "NC",
+  "locationZipcode": "27526",
+  "lat": 35.58401485088546,
+  "lon": -78.79980494380506,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "buhler-farmers-market-214-main-st-buhler",
+  "name": "Buhler Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "214 Main St Buhler, KS",
+  "locationCity": "214 Main St Buhler",
+  "locationState": "KS",
+  "locationZipcode": "67522",
+  "lat": 38.13439711269424,
+  "lon": -97.7705973706945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

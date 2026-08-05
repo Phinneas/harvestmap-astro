@@ -1,0 +1,19 @@
+{
+  "slug": "say-hay-farms-34743-cr-22",
+  "name": "Say Hay Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "34743 CR 22, CA",
+  "locationCity": "34743 CR 22",
+  "locationState": "CA",
+  "locationZipcode": "34743",
+  "lat": 38.6749174,
+  "lon": -121.8625431,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.049Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.049Z"
+}

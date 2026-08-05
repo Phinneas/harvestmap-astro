@@ -1,0 +1,19 @@
+{
+  "slug": "sunday-market-on-main-street-4138-main-st",
+  "name": "Sunday Market on Main Street",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4138 Main St, CO",
+  "locationCity": "4138 Main St",
+  "locationState": "CO",
+  "locationZipcode": "80547",
+  "lat": 40.52928394735328,
+  "lon": -104.9822920632046,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

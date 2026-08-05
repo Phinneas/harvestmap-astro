@@ -1,0 +1,19 @@
+{
+  "slug": "woody-acres-1530-harris-road",
+  "name": "Woody Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1530 Harris Road, NY",
+  "locationCity": "1530 Harris Road",
+  "locationState": "NY",
+  "locationZipcode": "14526",
+  "lat": 43.1710638865694,
+  "lon": -77.4115200701223,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.220Z"
+}

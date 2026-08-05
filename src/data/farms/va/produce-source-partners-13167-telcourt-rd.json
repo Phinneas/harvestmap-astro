@@ -1,0 +1,19 @@
+{
+  "slug": "produce-source-partners-13167-telcourt-rd",
+  "name": "Produce Source Partners",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "13167 Telcourt Rd, VA",
+  "locationCity": "13167 Telcourt Rd",
+  "locationState": "VA",
+  "locationZipcode": "13167",
+  "lat": 37.7643636,
+  "lon": -77.458898,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:05.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:05.039Z"
+}

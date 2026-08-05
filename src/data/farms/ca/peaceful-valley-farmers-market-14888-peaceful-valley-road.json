@@ -1,0 +1,19 @@
+{
+  "slug": "peaceful-valley-farmers-market-14888-peaceful-valley-road",
+  "name": "Peaceful Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14888 Peaceful Valley Road, CA",
+  "locationCity": "14888 Peaceful Valley Road",
+  "locationState": "CA",
+  "locationZipcode": "14888",
+  "lat": 37.974304,
+  "lon": -120.33807,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.364Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.364Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "watsons-sunnyslope-farm-13243-sunnyslope-rd",
+  "name": "Watsons Sunnyslope Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "13243 Sunnyslope Rd, ID",
+  "locationCity": "13243 Sunnyslope Rd",
+  "locationState": "ID",
+  "locationZipcode": "13243",
+  "lat": 43.56236534966653,
+  "lon": -116.79235178655408,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:39.495Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:39.495Z"
+}

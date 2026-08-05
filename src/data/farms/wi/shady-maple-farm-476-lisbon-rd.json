@@ -1,0 +1,19 @@
+{
+  "slug": "shady-maple-farm-476-lisbon-rd",
+  "name": "Shady Maple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "476 Lisbon Rd, WI",
+  "locationCity": "476 Lisbon Rd",
+  "locationState": "WI",
+  "locationZipcode": "53089",
+  "lat": 43.11231924552,
+  "lon": -88.2570097631055,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.203Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.203Z"
+}

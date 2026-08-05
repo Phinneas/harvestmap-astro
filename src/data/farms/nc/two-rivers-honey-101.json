@@ -1,0 +1,19 @@
+{
+  "slug": "two-rivers-honey-101",
+  "name": "Two Rivers Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101, NC",
+  "locationCity": "101",
+  "locationState": "NC",
+  "locationZipcode": "28560",
+  "lat": 35.1089940569246,
+  "lon": -77.0355015611649,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.738Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.738Z"
+}

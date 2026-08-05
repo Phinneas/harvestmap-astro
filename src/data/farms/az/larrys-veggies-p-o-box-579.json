@@ -1,0 +1,19 @@
+{
+  "slug": "larrys-veggies-p-o-box-579",
+  "name": "Larrys Veggies",
+  "source": "usda",
+  "directory": "csa",
+  "location": "P O Box 579, AZ",
+  "locationCity": "P O Box 579",
+  "locationState": "AZ",
+  "locationZipcode": "85653",
+  "lat": 32.4360906,
+  "lon": -111.2315133,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:13.392Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:13.392Z"
+}

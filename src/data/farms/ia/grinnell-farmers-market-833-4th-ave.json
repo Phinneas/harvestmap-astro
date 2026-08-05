@@ -1,0 +1,19 @@
+{
+  "slug": "grinnell-farmers-market-833-4th-ave",
+  "name": "Grinnell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "833 4th Ave, IA",
+  "locationCity": "833 4th Ave",
+  "locationState": "IA",
+  "locationZipcode": "50112",
+  "lat": 41.743189,
+  "lon": -92.724057,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.616Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "grapes-u-pick-3823-rancho-rd",
+  "name": "Grapes U Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3823 Rancho Rd, FL",
+  "locationCity": "3823 Rancho Rd",
+  "locationState": "FL",
+  "locationZipcode": "32221",
+  "lat": 30.26128301874795,
+  "lon": -81.82814199562564,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.897Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.897Z"
+}

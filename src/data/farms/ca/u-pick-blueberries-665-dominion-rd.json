@@ -1,0 +1,19 @@
+{
+  "slug": "u-pick-blueberries-665-dominion-rd",
+  "name": "U-Pick Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "665 Dominion Rd, CA",
+  "locationCity": "665 Dominion Rd",
+  "locationState": "CA",
+  "locationZipcode": "93454",
+  "lat": 34.8624299826038,
+  "lon": -120.347752790504,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.779Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.779Z"
+}

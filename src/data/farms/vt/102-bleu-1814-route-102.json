@@ -1,0 +1,19 @@
+{
+  "slug": "102-bleu-1814-route-102",
+  "name": "102 Bleu",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1814 Route 102, VT",
+  "locationCity": "1814 Route 102",
+  "locationState": "VT",
+  "locationZipcode": "05905",
+  "lat": 44.52168198047283,
+  "lon": -71.59472602959477,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.253Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.253Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "old-town-market-118-caldwell-street-rock-hill",
+  "name": "Old Town Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "118 Caldwell Street Rock Hill, SC",
+  "locationCity": "118 Caldwell Street Rock Hill",
+  "locationState": "SC",
+  "locationZipcode": "29730",
+  "lat": 34.92530230464583,
+  "lon": -81.02572608657688,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

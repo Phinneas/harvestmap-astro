@@ -1,0 +1,19 @@
+{
+  "slug": "hilliard-farm-market-5445-scioto-darby-road",
+  "name": "Hilliard Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5445 Scioto Darby Road, OH",
+  "locationCity": "5445 Scioto Darby Road",
+  "locationState": "OH",
+  "locationZipcode": "43026",
+  "lat": 40.028724009184515,
+  "lon": -83.16193496955648,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.372Z"
+}

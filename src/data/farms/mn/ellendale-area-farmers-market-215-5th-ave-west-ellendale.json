@@ -1,0 +1,19 @@
+{
+  "slug": "ellendale-area-farmers-market-215-5th-ave-west-ellendale",
+  "name": "Ellendale Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "215 5th Ave West Ellendale, MN",
+  "locationCity": "215 5th Ave West Ellendale",
+  "locationState": "MN",
+  "locationZipcode": "56026",
+  "lat": 43.8729890860928,
+  "lon": -93.3011522308236,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.774Z"
+}

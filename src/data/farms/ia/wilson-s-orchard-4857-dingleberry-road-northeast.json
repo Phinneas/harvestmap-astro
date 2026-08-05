@@ -1,0 +1,19 @@
+{
+  "slug": "wilson-s-orchard-4857-dingleberry-road-northeast",
+  "name": "Wilson's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4857 Dingleberry Road Northeast, IA",
+  "locationCity": "4857 Dingleberry Road Northeast",
+  "locationState": "IA",
+  "locationZipcode": "52240",
+  "lat": 41.7202330991784,
+  "lon": -91.4579093903528,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.666Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.666Z"
+}

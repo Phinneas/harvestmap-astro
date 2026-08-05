@@ -1,0 +1,19 @@
+{
+  "slug": "east-texas-state-fair-farmers-market-2112-w-front-street-tyler",
+  "name": "East Texas State Fair Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2112 W. Front Street Tyler, TX",
+  "locationCity": "2112 W. Front Street Tyler",
+  "locationState": "TX",
+  "locationZipcode": "75702",
+  "lat": 32.34648120377961,
+  "lon": -95.32446441273927,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.197Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.197Z"
+}

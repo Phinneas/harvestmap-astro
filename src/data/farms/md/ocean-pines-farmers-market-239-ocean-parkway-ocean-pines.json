@@ -1,0 +1,19 @@
+{
+  "slug": "ocean-pines-farmers-market-239-ocean-parkway-ocean-pines",
+  "name": "Ocean Pines Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "239 Ocean Parkway Ocean Pines, MD",
+  "locationCity": "239 Ocean Parkway Ocean Pines",
+  "locationState": "MD",
+  "locationZipcode": "21811",
+  "lat": 38.397646064734744,
+  "lon": -75.160019529916,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "douglass-farmers-market-1000-west-paterson-street-kalamazoo",
+  "name": "Douglass Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 West Paterson Street Kalamazoo, MI",
+  "locationCity": "1000 West Paterson Street Kalamazoo",
+  "locationState": "MI",
+  "locationZipcode": "49007",
+  "lat": 42.30339467419903,
+  "lon": -85.5977555037222,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

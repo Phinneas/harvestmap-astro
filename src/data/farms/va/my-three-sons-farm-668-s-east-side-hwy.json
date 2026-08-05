@@ -1,0 +1,19 @@
+{
+  "slug": "my-three-sons-farm-668-s-east-side-hwy",
+  "name": "My Three Sons Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "668 S East Side Hwy, VA",
+  "locationCity": "668 S East Side Hwy",
+  "locationState": "VA",
+  "locationZipcode": "22827",
+  "lat": 38.3949294794994,
+  "lon": -78.6198243060322,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.350Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.350Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "edenberry-farm-036-stone-drive",
+  "name": "Edenberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "036 Stone Drive, CA",
+  "locationCity": "036 Stone Drive",
+  "locationState": "CA",
+  "locationZipcode": "95453",
+  "lat": 39.0143998873563,
+  "lon": -122.875570160511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.734Z",
+  "crops": []
+}

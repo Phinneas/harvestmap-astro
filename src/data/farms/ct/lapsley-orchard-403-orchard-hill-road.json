@@ -1,0 +1,20 @@
+{
+  "slug": "lapsley-orchard-403-orchard-hill-road",
+  "name": "Lapsley Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "403 Orchard Hill Road, CT",
+  "locationCity": "403 Orchard Hill Road",
+  "locationState": "CT",
+  "locationZipcode": "06259",
+  "lat": 41.8300960035203,
+  "lon": -71.957106968368,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.931Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.931Z",
+  "crops": []
+}

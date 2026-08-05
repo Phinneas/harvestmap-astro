@@ -1,0 +1,19 @@
+{
+  "slug": "elsie-farmers-market-122-s-ovid-st-elsie",
+  "name": "Elsie Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "122 S Ovid St Elsie, MI",
+  "locationCity": "122 S Ovid St Elsie",
+  "locationState": "MI",
+  "locationZipcode": "48831",
+  "lat": 43.088996913193775,
+  "lon": -84.38721678956595,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

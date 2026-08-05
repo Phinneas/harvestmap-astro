@@ -1,0 +1,19 @@
+{
+  "slug": "eagle-rock-farmers-market-2035-colorado-blvd-eagle-rock",
+  "name": "Eagle Rock Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2035 Colorado Blvd. Eagle Rock, CA",
+  "locationCity": "2035 Colorado Blvd. Eagle Rock",
+  "locationState": "CA",
+  "locationZipcode": "90041",
+  "lat": 34.13929239909807,
+  "lon": -118.2109069304236,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

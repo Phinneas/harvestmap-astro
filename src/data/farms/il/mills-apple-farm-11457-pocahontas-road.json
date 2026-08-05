@@ -1,0 +1,20 @@
+{
+  "slug": "mills-apple-farm-11457-pocahontas-road",
+  "name": "Mills Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11457 Pocahontas Road, IL",
+  "locationCity": "11457 Pocahontas Road",
+  "locationState": "IL",
+  "locationZipcode": "11457",
+  "lat": 38.8164260093199,
+  "lon": -89.7328500122451,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.870Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.870Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "carrollton-farmers-market-carrollton-uptown-square",
+  "name": "Carrollton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Carrollton Uptown Square, MO",
+  "locationCity": "Carrollton Uptown Square",
+  "locationState": "MO",
+  "locationZipcode": "64633",
+  "lat": 39.358097,
+  "lon": -93.496941,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.428Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.428Z"
+}

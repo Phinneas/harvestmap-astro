@@ -1,0 +1,19 @@
+{
+  "slug": "savage-farmers-market-4800-123rd-st-w",
+  "name": "Savage Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4800 123rd St W, MN",
+  "locationCity": "4800 123rd St W",
+  "locationState": "MN",
+  "locationZipcode": "55378",
+  "lat": 44.7786633,
+  "lon": -93.3404064,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

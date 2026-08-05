@@ -1,0 +1,20 @@
+{
+  "slug": "prospect-hill-orchards-340-clark-s-lane",
+  "name": "Prospect Hill Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "340 Clark's Lane, NY",
+  "locationCity": "340 Clark's Lane",
+  "locationState": "NY",
+  "locationZipcode": "12547",
+  "lat": 41.655369875881,
+  "lon": -73.9759029602385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.009Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.009Z",
+  "crops": []
+}

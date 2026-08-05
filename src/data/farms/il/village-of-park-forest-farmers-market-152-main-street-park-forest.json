@@ -1,0 +1,19 @@
+{
+  "slug": "village-of-park-forest-farmers-market-152-main-street-park-forest",
+  "name": "Village of Park Forest Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "152 Main Street Park Forest, IL",
+  "locationCity": "152 Main Street Park Forest",
+  "locationState": "IL",
+  "locationZipcode": "60466",
+  "lat": 41.48395527584862,
+  "lon": -87.67685426777965,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

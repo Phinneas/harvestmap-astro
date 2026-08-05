@@ -1,0 +1,19 @@
+{
+  "slug": "mt-dearborn-farm-duck-pond-road",
+  "name": "Mt. Dearborn Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Duck Pond Road, NH",
+  "locationCity": "Duck Pond Road",
+  "locationState": "NH",
+  "locationZipcode": "03281",
+  "lat": 43.08923,
+  "lon": -71.729,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.913Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.913Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "triple-r-ranch-hwy-35",
+  "name": "Triple R Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hwy 35, MS",
+  "locationCity": "Hwy 35",
+  "locationState": "MS",
+  "locationZipcode": "38917",
+  "lat": 33.5835162471164,
+  "lon": -89.9794277527487,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.866Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.866Z"
+}

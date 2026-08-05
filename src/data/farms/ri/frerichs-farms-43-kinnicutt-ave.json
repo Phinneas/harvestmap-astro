@@ -1,0 +1,19 @@
+{
+  "slug": "frerichs-farms-43-kinnicutt-ave",
+  "name": "Frerichs Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "43 Kinnicutt Ave, RI",
+  "locationCity": "43 Kinnicutt Ave",
+  "locationState": "RI",
+  "locationZipcode": "02885",
+  "lat": 41.7367860170718,
+  "lon": -71.2596710171828,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.059Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.059Z"
+}

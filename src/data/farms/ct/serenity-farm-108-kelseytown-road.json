@@ -1,0 +1,19 @@
+{
+  "slug": "serenity-farm-108-kelseytown-road",
+  "name": "Serenity Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "108 Kelseytown Road, CT",
+  "locationCity": "108 Kelseytown Road",
+  "locationState": "CT",
+  "locationZipcode": "06413",
+  "lat": 41.3278459950014,
+  "lon": -72.5154739862846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.983Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.983Z"
+}

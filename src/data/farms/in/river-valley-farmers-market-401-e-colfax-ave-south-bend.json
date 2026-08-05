@@ -1,0 +1,19 @@
+{
+  "slug": "river-valley-farmers-market-401-e-colfax-ave-south-bend",
+  "name": "River Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "401 E Colfax Ave South Bend, IN",
+  "locationCity": "401 E Colfax Ave South Bend",
+  "locationState": "IN",
+  "locationZipcode": "46617",
+  "lat": 41.677769958444415,
+  "lon": -86.24705434943098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

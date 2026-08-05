@@ -1,0 +1,19 @@
+{
+  "slug": "sunrise-berry-farm-450-south-4200-road",
+  "name": "Sunrise Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "450 South 4200 Road, OK",
+  "locationCity": "450 South 4200 Road",
+  "locationState": "OK",
+  "locationZipcode": "74017",
+  "lat": 36.4710744881765,
+  "lon": -95.525307058941,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.307Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.307Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "anderson-orchard-369-east-greencastle-road",
+  "name": "Anderson Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "369 East Greencastle Road, IN",
+  "locationCity": "369 East Greencastle Road",
+  "locationState": "IN",
+  "locationZipcode": "46158",
+  "lat": 39.6154820172188,
+  "lon": -86.4210800204524,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.242Z"
+}

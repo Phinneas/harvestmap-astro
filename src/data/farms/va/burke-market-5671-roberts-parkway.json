@@ -1,0 +1,19 @@
+{
+  "slug": "burke-market-5671-roberts-parkway",
+  "name": "Burke Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5671 Roberts Parkway, VA",
+  "locationCity": "5671 Roberts Parkway",
+  "locationState": "VA",
+  "locationZipcode": "22015",
+  "lat": 38.797388564786274,
+  "lon": -77.30212166983503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.404Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.404Z"
+}

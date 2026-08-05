@@ -1,0 +1,19 @@
+{
+  "slug": "tlm-hillside-farm-14066-wayne-hwy",
+  "name": "TLM Hillside Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "14066 Wayne Hwy, PA",
+  "locationCity": "14066 Wayne Hwy",
+  "locationState": "PA",
+  "locationZipcode": "14066",
+  "lat": 39.73907,
+  "lon": -77.59577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.374Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.374Z"
+}

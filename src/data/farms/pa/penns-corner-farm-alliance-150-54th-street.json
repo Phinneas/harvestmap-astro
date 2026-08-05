@@ -1,0 +1,19 @@
+{
+  "slug": "penns-corner-farm-alliance-150-54th-street",
+  "name": "Penns Corner Farm Alliance",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "150 54th Street, PA",
+  "locationCity": "150 54th Street",
+  "locationState": "PA",
+  "locationZipcode": "15201",
+  "lat": 40.4832131,
+  "lon": -79.952364,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.776Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.776Z"
+}

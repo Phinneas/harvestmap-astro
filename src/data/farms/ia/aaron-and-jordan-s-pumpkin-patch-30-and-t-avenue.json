@@ -1,0 +1,19 @@
+{
+  "slug": "aaron-and-jordan-s-pumpkin-patch-30-and-t-avenue",
+  "name": "Aaron and Jordan's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "30 And T Avenue, IA",
+  "locationCity": "30 And T Avenue",
+  "locationState": "IA",
+  "locationZipcode": "50036",
+  "lat": 42.2052985334545,
+  "lon": -93.7955286993882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.698Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.698Z"
+}

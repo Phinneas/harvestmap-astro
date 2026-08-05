@@ -1,0 +1,19 @@
+{
+  "slug": "hamilton-farmers-market-3-broad-street",
+  "name": "Hamilton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3 Broad Street, NY",
+  "locationCity": "3 Broad Street",
+  "locationState": "NY",
+  "locationZipcode": "13346",
+  "lat": 42.82690295341981,
+  "lon": -75.5434816433544,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

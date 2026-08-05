@@ -1,0 +1,19 @@
+{
+  "slug": "truckin-tomato-10511-wetmore-road",
+  "name": "Truckin' Tomato",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "10511 Wetmore Road, TX",
+  "locationCity": "10511 Wetmore Road",
+  "locationState": "TX",
+  "locationZipcode": "10511",
+  "lat": 29.5371364,
+  "lon": -98.45135,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:57.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:57.091Z"
+}

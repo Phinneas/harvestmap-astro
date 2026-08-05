@@ -1,0 +1,19 @@
+{
+  "slug": "freshfarm-mosaic-sunday-2920-district-ave",
+  "name": "FRESHFARM Mosaic (Sunday)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2920 District Ave, VA",
+  "locationCity": "2920 District Ave",
+  "locationState": "VA",
+  "locationZipcode": "22031",
+  "lat": 38.8714011,
+  "lon": -77.2307258,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.157Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.157Z"
+}

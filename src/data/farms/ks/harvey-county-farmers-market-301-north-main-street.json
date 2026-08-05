@@ -1,0 +1,19 @@
+{
+  "slug": "harvey-county-farmers-market-301-north-main-street",
+  "name": "Harvey County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 North Main Street, KS",
+  "locationCity": "301 North Main Street",
+  "locationState": "KS",
+  "locationZipcode": "67114",
+  "lat": 38.045178802352744,
+  "lon": -97.34508305667585,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

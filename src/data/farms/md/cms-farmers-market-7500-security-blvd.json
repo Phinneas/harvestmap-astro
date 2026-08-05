@@ -1,0 +1,19 @@
+{
+  "slug": "cms-farmers-market-7500-security-blvd",
+  "name": "CMS Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7500 Security Blvd., MD",
+  "locationCity": "7500 Security Blvd.",
+  "locationState": "MD",
+  "locationZipcode": "21244",
+  "lat": 39.316055,
+  "lon": -76.764414,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.474Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.474Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bob-lynd-s-fruit-farm-708-worthington-road-nw",
+  "name": "Bob Lynd's Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "708 Worthington Road NW, OH",
+  "locationCity": "708 Worthington Road NW",
+  "locationState": "OH",
+  "locationZipcode": "43062",
+  "lat": 40.0771081745185,
+  "lon": -82.700422236442,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.842Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.842Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "indian-lake-community-farmers-market-144-john-rust-rd",
+  "name": "Indian Lake Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "144 JOHN RUST RD, NY",
+  "locationCity": "144 JOHN RUST RD",
+  "locationState": "NY",
+  "locationZipcode": "12842",
+  "lat": 43.782397,
+  "lon": -74.270529,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.897Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.897Z"
+}

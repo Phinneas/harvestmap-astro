@@ -1,0 +1,19 @@
+{
+  "slug": "kent-fort-farm-135-eastern-lane",
+  "name": "Kent Fort Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "135 Eastern Lane, MD",
+  "locationCity": "135 Eastern Lane",
+  "locationState": "MD",
+  "locationZipcode": "21666",
+  "lat": 38.8453509932595,
+  "lon": -76.3662570139236,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.147Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.147Z"
+}

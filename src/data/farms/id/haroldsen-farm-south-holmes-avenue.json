@@ -1,0 +1,19 @@
+{
+  "slug": "haroldsen-farm-south-holmes-avenue",
+  "name": "Haroldsen Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "South Holmes Avenue, ID",
+  "locationCity": "South Holmes Avenue",
+  "locationState": "ID",
+  "locationZipcode": "83401",
+  "lat": 43.49762,
+  "lon": -112.02384,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.907Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.907Z"
+}

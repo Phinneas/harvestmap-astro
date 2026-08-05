@@ -1,0 +1,19 @@
+{
+  "slug": "good-fortune-farm-18001-horsehead-road",
+  "name": "Good Fortune Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "18001 Horsehead Road, MD",
+  "locationCity": "18001 Horsehead Road",
+  "locationState": "MD",
+  "locationZipcode": "18001",
+  "lat": 38.64324855555,
+  "lon": -76.77317804506662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.726Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.726Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sun-foods-farmers-market-544-university-ave-w",
+  "name": "Sun Foods Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "544 University Ave W, MN",
+  "locationCity": "544 University Ave W",
+  "locationState": "MN",
+  "locationZipcode": "55103",
+  "lat": 44.9548471,
+  "lon": -93.1239456,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

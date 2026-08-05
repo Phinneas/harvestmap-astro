@@ -1,0 +1,19 @@
+{
+  "slug": "hilltop-blueberry-farm-328-osborne-road-rr1-box-123",
+  "name": "Hilltop Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "328 Osborne Road (RR1 Box 123), PA",
+  "locationCity": "328 Osborne Road (RR1 Box 123)",
+  "locationState": "PA",
+  "locationZipcode": "18834",
+  "lat": 41.8090441010826,
+  "lon": -75.7340120925739,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.064Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.064Z"
+}

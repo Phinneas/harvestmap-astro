@@ -1,0 +1,19 @@
+{
+  "slug": "farmhouse-delivery-720-bastrop-hwy",
+  "name": "Farmhouse Delivery",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "720 Bastrop Hwy, TX",
+  "locationCity": "720 Bastrop Hwy",
+  "locationState": "TX",
+  "locationZipcode": "78741",
+  "lat": 30.2334446,
+  "lon": -97.686098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:57.087Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:57.087Z"
+}

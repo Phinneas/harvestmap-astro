@@ -1,0 +1,19 @@
+{
+  "slug": "tosa-farmers-market-7720-harwood-ave",
+  "name": "Tosa Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7720 Harwood Ave, WI",
+  "locationCity": "7720 Harwood Ave",
+  "locationState": "WI",
+  "locationZipcode": "53213",
+  "lat": 43.048733,
+  "lon": -88.008791,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.752Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.752Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "neu-root-farm-5725-short-rd",
+  "name": "Neu Root Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5725 Short Rd, WI",
+  "locationCity": "5725 Short Rd",
+  "locationState": "WI",
+  "locationZipcode": "53402",
+  "lat": 42.7951155,
+  "lon": -87.8539085,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.002Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.002Z"
+}

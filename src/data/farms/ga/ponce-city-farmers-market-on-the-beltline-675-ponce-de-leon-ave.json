@@ -1,0 +1,19 @@
+{
+  "slug": "ponce-city-farmers-market-on-the-beltline-675-ponce-de-leon-ave",
+  "name": "Ponce City Farmers Market on the BeltLine",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "675 Ponce de Leon Ave, GA",
+  "locationCity": "675 Ponce de Leon Ave",
+  "locationState": "GA",
+  "locationZipcode": "30315",
+  "lat": 33.772425,
+  "lon": -84.364611,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.690Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.690Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "beriswill-farms-2200-station-road",
+  "name": "Beriswill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2200 Station Road, OH",
+  "locationCity": "2200 Station Road",
+  "locationState": "OH",
+  "locationZipcode": "44280",
+  "lat": 41.2142500007591,
+  "lon": -81.9591130045984,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.854Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.854Z"
+}

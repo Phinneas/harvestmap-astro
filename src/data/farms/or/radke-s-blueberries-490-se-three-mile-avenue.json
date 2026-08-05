@@ -1,0 +1,20 @@
+{
+  "slug": "radke-s-blueberries-490-se-three-mile-avenue",
+  "name": "Radke's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "490 SE Three Mile Avenue, OR",
+  "locationCity": "490 SE Three Mile Avenue",
+  "locationState": "OR",
+  "locationZipcode": "97333",
+  "lat": 44.5123789899574,
+  "lon": -123.262249987229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.873Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.873Z",
+  "crops": []
+}

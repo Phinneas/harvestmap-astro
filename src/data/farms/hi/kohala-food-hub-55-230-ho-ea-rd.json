@@ -1,0 +1,19 @@
+{
+  "slug": "kohala-food-hub-55-230-ho-ea-rd",
+  "name": "Kohala Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "55-230 Ho'ea Rd, HI",
+  "locationCity": "55-230 Ho'ea Rd",
+  "locationState": "HI",
+  "locationZipcode": "96719",
+  "lat": 20.2555996,
+  "lon": -155.82907,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:17.659Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:17.659Z"
+}

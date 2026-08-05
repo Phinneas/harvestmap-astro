@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-holler-950-tavares-road",
+  "name": "Harvest Holler",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "950 Tavares Road, FL",
+  "locationCity": "950 Tavares Road",
+  "locationState": "FL",
+  "locationZipcode": "33868",
+  "lat": 28.1902649897105,
+  "lon": -81.8405410097169,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.834Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.834Z"
+}

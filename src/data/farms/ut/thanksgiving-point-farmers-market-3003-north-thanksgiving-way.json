@@ -1,0 +1,19 @@
+{
+  "slug": "thanksgiving-point-farmers-market-3003-north-thanksgiving-way",
+  "name": "Thanksgiving Point Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3003 North Thanksgiving Way, UT",
+  "locationCity": "3003 North Thanksgiving Way",
+  "locationState": "UT",
+  "locationZipcode": "84043",
+  "lat": 40.29094876987683,
+  "lon": -112.04381549643554,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:23.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:23.640Z"
+}

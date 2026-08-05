@@ -1,0 +1,19 @@
+{
+  "slug": "bob-s-blueberry-hill-farm-830-meridian-rd",
+  "name": "Bob's Blueberry Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "830 Meridian Rd., OR",
+  "locationCity": "830 Meridian Rd.",
+  "locationState": "OR",
+  "locationZipcode": "97355",
+  "lat": 44.6020298474519,
+  "lon": -122.743474116503,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.810Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.810Z"
+}

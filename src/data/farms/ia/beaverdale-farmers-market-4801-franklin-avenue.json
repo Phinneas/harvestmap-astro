@@ -1,0 +1,19 @@
+{
+  "slug": "beaverdale-farmers-market-4801-franklin-avenue",
+  "name": "Beaverdale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4801 Franklin Avenue, IA",
+  "locationCity": "4801 Franklin Avenue",
+  "locationState": "IA",
+  "locationZipcode": "50310",
+  "lat": 41.612479,
+  "lon": -93.68471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.619Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.619Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "crooked-row-farm-5999-winchester-rd",
+  "name": "Crooked Row Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5999 Winchester Rd, KY",
+  "locationCity": "5999 Winchester Rd",
+  "locationState": "KY",
+  "locationZipcode": "40509",
+  "lat": 38.0305205,
+  "lon": -84.3008954,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.097Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.097Z"
+}

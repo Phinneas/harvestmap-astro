@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkin-station-chula-vista-900-otay-lakes-road",
+  "name": "Pumpkin Station - Chula Vista",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "900 Otay Lakes Road, CA",
+  "locationCity": "900 Otay Lakes Road",
+  "locationState": "CA",
+  "locationZipcode": "91910",
+  "lat": 32.6405280188846,
+  "lon": -116.998359028715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.784Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.784Z"
+}

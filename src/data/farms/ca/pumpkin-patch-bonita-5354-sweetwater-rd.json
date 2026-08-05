@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkin-patch-bonita-5354-sweetwater-rd",
+  "name": "Pumpkin Patch Bonita",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5354 Sweetwater Rd, CA",
+  "locationCity": "5354 Sweetwater Rd",
+  "locationState": "CA",
+  "locationZipcode": "91902",
+  "lat": 32.6775348729053,
+  "lon": -117.018567506006,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.817Z"
+}

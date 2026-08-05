@@ -1,0 +1,19 @@
+{
+  "slug": "benson-farmers-market-1410-kansas-ave",
+  "name": "Benson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1410 Kansas Ave, MN",
+  "locationCity": "1410 Kansas Ave",
+  "locationState": "MN",
+  "locationZipcode": "56215",
+  "lat": 45.3141367,
+  "lon": -95.602278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "holt-farmers-market-2150-cedar-street-holt",
+  "name": "Holt Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2150 Cedar Street Holt, MI",
+  "locationCity": "2150 Cedar Street Holt",
+  "locationState": "MI",
+  "locationZipcode": "",
+  "lat": 42.64492904299853,
+  "lon": -84.52033735836302,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "davis-farm-13948-highway-15",
+  "name": "Davis Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "13948 Highway 15, MO",
+  "locationCity": "13948 Highway 15",
+  "locationState": "MO",
+  "locationZipcode": "13948",
+  "lat": 39.394888,
+  "lon": -91.99736,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:58.503Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:58.503Z"
+}

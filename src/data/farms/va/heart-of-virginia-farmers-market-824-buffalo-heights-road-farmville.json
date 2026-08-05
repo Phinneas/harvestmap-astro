@@ -1,0 +1,19 @@
+{
+  "slug": "heart-of-virginia-farmers-market-824-buffalo-heights-road-farmville",
+  "name": "Heart of Virginia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "824 Buffalo Heights Road Farmville, VA",
+  "locationCity": "824 Buffalo Heights Road Farmville",
+  "locationState": "VA",
+  "locationZipcode": "23901",
+  "lat": 37.29923385139043,
+  "lon": -78.43521972254344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.292Z"
+}

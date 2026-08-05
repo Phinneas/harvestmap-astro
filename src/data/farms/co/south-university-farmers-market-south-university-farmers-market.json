@@ -1,0 +1,19 @@
+{
+  "slug": "south-university-farmers-market-south-university-farmers-market",
+  "name": "South University Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "South University Farmers Market, CO",
+  "locationCity": "South University Farmers Market",
+  "locationState": "CO",
+  "locationZipcode": "80212",
+  "lat": 39.61048099659871,
+  "lon": -104.9607890308652,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

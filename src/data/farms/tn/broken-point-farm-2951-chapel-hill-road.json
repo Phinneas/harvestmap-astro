@@ -1,0 +1,19 @@
+{
+  "slug": "broken-point-farm-2951-chapel-hill-road",
+  "name": "Broken Point Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2951 Chapel Hill Road, TN",
+  "locationCity": "2951 Chapel Hill Road",
+  "locationState": "TN",
+  "locationZipcode": "37040",
+  "lat": 36.436081010120034,
+  "lon": -87.31520998632313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:36.622Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:36.622Z"
+}

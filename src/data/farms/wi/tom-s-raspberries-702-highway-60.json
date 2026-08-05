@@ -1,0 +1,19 @@
+{
+  "slug": "tom-s-raspberries-702-highway-60",
+  "name": "Tom's Raspberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "702 highway 60, WI",
+  "locationCity": "702 highway 60",
+  "locationState": "WI",
+  "locationZipcode": "53578",
+  "lat": 43.2928590198057,
+  "lon": -89.7226396891324,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.146Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.146Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fulton-farmers-market-9349-schmid-way-portland",
+  "name": "Fulton Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9349 Schmid Way Portland, MO",
+  "locationCity": "9349 Schmid Way Portland",
+  "locationState": "MO",
+  "locationZipcode": "65067",
+  "lat": 38.71223429487931,
+  "lon": -91.75774011986235,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

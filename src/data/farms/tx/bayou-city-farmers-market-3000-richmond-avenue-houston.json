@@ -1,0 +1,19 @@
+{
+  "slug": "bayou-city-farmers-market-3000-richmond-avenue-houston",
+  "name": "Bayou City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3000 Richmond Avenue Houston, TX",
+  "locationCity": "3000 Richmond Avenue Houston",
+  "locationState": "TX",
+  "locationZipcode": "77098",
+  "lat": 29.734041270204738,
+  "lon": -95.42331833181808,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

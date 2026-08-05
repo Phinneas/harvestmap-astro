@@ -1,0 +1,19 @@
+{
+  "slug": "rancho-piccolo-organic-farm-1120-commerce-ave-7",
+  "name": "Rancho Piccolo Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1120 Commerce Ave #7, CA",
+  "locationCity": "1120 Commerce Ave #7",
+  "locationState": "CA",
+  "locationZipcode": "95301",
+  "lat": 37.3427924,
+  "lon": -120.6114385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.058Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.058Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-berkeley-1947-center-st",
+  "name": "Downtown Berkeley",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1947 Center St., CA",
+  "locationCity": "1947 Center St.",
+  "locationState": "CA",
+  "locationZipcode": "94704",
+  "lat": 37.869819,
+  "lon": -122.2716,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.351Z"
+}

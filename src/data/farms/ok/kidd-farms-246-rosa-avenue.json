@@ -1,0 +1,19 @@
+{
+  "slug": "kidd-farms-246-rosa-avenue",
+  "name": "Kidd Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "246 Rosa Avenue, OK",
+  "locationCity": "246 Rosa Avenue",
+  "locationState": "OK",
+  "locationZipcode": "73520",
+  "lat": 34.241245,
+  "lon": -97.9684999999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.344Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.344Z"
+}

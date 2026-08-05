@@ -1,0 +1,19 @@
+{
+  "slug": "griffins-gardens-208-morgan-lane-road",
+  "name": "Griffins Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "208 Morgan Lane Road, MS",
+  "locationCity": "208 Morgan Lane Road",
+  "locationState": "MS",
+  "locationZipcode": "39503",
+  "lat": 30.5276858240521,
+  "lon": -89.1723676019871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:24.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:24.017Z"
+}

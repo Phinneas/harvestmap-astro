@@ -1,0 +1,19 @@
+{
+  "slug": "pinecrest-farm-1-pinecrest-rd",
+  "name": "Pinecrest Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1 Pinecrest Rd, RI",
+  "locationCity": "1 Pinecrest Rd",
+  "locationState": "RI",
+  "locationZipcode": "02812",
+  "lat": 41.4710079792286,
+  "lon": -71.652541966947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.136Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.136Z"
+}

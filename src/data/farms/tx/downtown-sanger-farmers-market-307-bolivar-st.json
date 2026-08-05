@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-sanger-farmers-market-307-bolivar-st",
+  "name": "Downtown Sanger Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "307 Bolivar St, TX",
+  "locationCity": "307 Bolivar St",
+  "locationState": "TX",
+  "locationZipcode": "76266",
+  "lat": 33.36251439999999,
+  "lon": -97.17254559999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.223Z"
+}

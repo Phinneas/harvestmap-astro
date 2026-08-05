@@ -1,0 +1,19 @@
+{
+  "slug": "north-prairie-farmers-market-minot-corner-of-3rd-ave-sw-and-broadway",
+  "name": "North Prairie Farmers Market - Minot",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of 3rd Ave SW and Broadway, ND",
+  "locationCity": "Corner of 3rd Ave SW and Broadway",
+  "locationState": "ND",
+  "locationZipcode": "58701",
+  "lat": 48.233564,
+  "lon": -101.29559,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:01.265Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:01.265Z"
+}

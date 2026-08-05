@@ -1,0 +1,19 @@
+{
+  "slug": "fenton-community-farmers-market-200-gravois-fenton",
+  "name": "Fenton Community & Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Gravois Fenton, MO",
+  "locationCity": "200 Gravois Fenton",
+  "locationState": "MO",
+  "locationZipcode": "63026",
+  "lat": 38.51125539092403,
+  "lon": -90.43493803084108,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.493Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.493Z"
+}

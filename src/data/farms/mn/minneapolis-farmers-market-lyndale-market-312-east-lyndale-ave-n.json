@@ -1,0 +1,19 @@
+{
+  "slug": "minneapolis-farmers-market-lyndale-market-312-east-lyndale-ave-n",
+  "name": "Minneapolis Farmers' Market - Lyndale Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "312 East Lyndale Ave N, MN",
+  "locationCity": "312 East Lyndale Ave N",
+  "locationState": "MN",
+  "locationZipcode": "55405",
+  "lat": 44.9812533,
+  "lon": -93.2858585,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

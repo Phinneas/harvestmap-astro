@@ -2,20 +2,19 @@
   "slug": "hilltop-greenhouse-and-farm-83204-300th-street",
   "name": "Hilltop Greenhouse and Farm",
   "source": "usda",
-  "directory": "csa",
+  "directory": "onfarmmarket",
   "location": "83204 300th Street, MN",
   "locationCity": "83204 300th Street",
   "locationState": "MN",
   "locationZipcode": "83204",
-  "lat": 43.789883,
-  "lon": -93.20921,
+  "lat": 43.78997811758437,
+  "lon": -93.20572188116115,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:30:55.496Z"
+      "lastSeen": "2026-08-05T18:43:15.276Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:30:55.496Z",
-  "website": "https://hilltopgreenhouse.com/",
+  "usdaLastUpdated": "2026-08-05T18:43:15.276Z",
   "tagline": "Hilltop Greenhouse and Farms and CSA Austin, Albert Lea, Owatonna with Flowers and Vegetables"
 }

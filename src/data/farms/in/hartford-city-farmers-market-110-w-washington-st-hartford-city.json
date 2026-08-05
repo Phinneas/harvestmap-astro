@@ -1,0 +1,19 @@
+{
+  "slug": "hartford-city-farmers-market-110-w-washington-st-hartford-city",
+  "name": "Hartford City Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 W. Washington St. Hartford City, IN",
+  "locationCity": "110 W. Washington St. Hartford City",
+  "locationState": "IN",
+  "locationZipcode": "47348",
+  "lat": 40.45127046242041,
+  "lon": -85.36761104857091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

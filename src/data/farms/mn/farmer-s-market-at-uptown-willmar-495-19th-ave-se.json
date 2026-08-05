@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-s-market-at-uptown-willmar-495-19th-ave-se",
+  "name": "Farmer's Market at Uptown Willmar",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "495 19th Ave SE, MN",
+  "locationCity": "495 19th Ave SE",
+  "locationState": "MN",
+  "locationZipcode": "56201",
+  "lat": 45.1041605,
+  "lon": -95.0382663,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

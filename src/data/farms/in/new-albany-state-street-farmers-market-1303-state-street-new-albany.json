@@ -1,0 +1,19 @@
+{
+  "slug": "new-albany-state-street-farmers-market-1303-state-street-new-albany",
+  "name": "New Albany State Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1303 State Street New Albany, IN",
+  "locationCity": "1303 State Street New Albany",
+  "locationState": "IN",
+  "locationZipcode": "47150",
+  "lat": 38.29578398925659,
+  "lon": -85.83020604671859,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

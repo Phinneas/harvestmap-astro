@@ -1,0 +1,20 @@
+{
+  "slug": "cauble-creek-vineyard-700-auble-farm-road",
+  "name": "Cauble Creek Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "700 auble Farm Road, NC",
+  "locationCity": "700 auble Farm Road",
+  "locationState": "NC",
+  "locationZipcode": "28147",
+  "lat": 35.662865110516,
+  "lon": -80.5746028947526,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.653Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.653Z",
+  "crops": []
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "old-homestead-farm-361-hartman-bridge-road",
+  "name": "Old Homestead Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "361 Hartman Bridge Road, PA",
+  "locationCity": "361 Hartman Bridge Road",
+  "locationState": "PA",
+  "locationZipcode": "17572",
+  "lat": 39.99453114049921,
+  "lon": -76.18207141480363,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.222Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.222Z",
+  "crops": []
+}

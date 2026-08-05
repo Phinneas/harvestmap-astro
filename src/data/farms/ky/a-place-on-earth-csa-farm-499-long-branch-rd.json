@@ -1,0 +1,19 @@
+{
+  "slug": "a-place-on-earth-csa-farm-499-long-branch-rd",
+  "name": "A Place on Earth CSA Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "499 Long Branch Rd, KY",
+  "locationCity": "499 Long Branch Rd",
+  "locationState": "KY",
+  "locationZipcode": "40075",
+  "lat": 38.5565226,
+  "lon": -85.1498624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.097Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.097Z"
+}

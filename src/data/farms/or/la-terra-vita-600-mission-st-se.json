@@ -1,0 +1,19 @@
+{
+  "slug": "la-terra-vita-600-mission-st-se",
+  "name": "La Terra Vita",
+  "source": "usda",
+  "directory": "csa",
+  "location": "600 mission st se, OR",
+  "locationCity": "600 mission st se",
+  "locationState": "OR",
+  "locationZipcode": "97302",
+  "lat": 44.93133743988878,
+  "lon": -123.03929228477148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.974Z"
+}

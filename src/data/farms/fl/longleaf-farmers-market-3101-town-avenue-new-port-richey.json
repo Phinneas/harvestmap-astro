@@ -1,0 +1,19 @@
+{
+  "slug": "longleaf-farmers-market-3101-town-avenue-new-port-richey",
+  "name": "Longleaf Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3101 Town Avenue New Port Richey, FL",
+  "locationCity": "3101 Town Avenue New Port Richey",
+  "locationState": "FL",
+  "locationZipcode": "34655",
+  "lat": 28.205146767367353,
+  "lon": -82.64424456879857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

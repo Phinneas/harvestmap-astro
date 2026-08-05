@@ -1,0 +1,19 @@
+{
+  "slug": "carrboro-farmers-market-301-w-main-st",
+  "name": "Carrboro Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 W Main St, NC",
+  "locationCity": "301 W Main St",
+  "locationState": "NC",
+  "locationZipcode": "27510",
+  "lat": 35.910781,
+  "lon": -79.077607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.268Z"
+}

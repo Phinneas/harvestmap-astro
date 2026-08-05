@@ -1,0 +1,19 @@
+{
+  "slug": "highland-orchards-farm-and-market-1000-marshallton-thorndale-road",
+  "name": "Highland Orchards Farm and Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1000 Marshallton Thorndale Road, PA",
+  "locationCity": "1000 Marshallton Thorndale Road",
+  "locationState": "PA",
+  "locationZipcode": "19380",
+  "lat": 39.96064610777452,
+  "lon": -75.69763385490404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

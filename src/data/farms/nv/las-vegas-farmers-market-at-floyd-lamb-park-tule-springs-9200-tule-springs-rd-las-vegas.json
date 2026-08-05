@@ -1,0 +1,19 @@
+{
+  "slug": "las-vegas-farmers-market-at-floyd-lamb-park-tule-springs-9200-tule-springs-rd-las-vegas",
+  "name": "Las Vegas Farmers Market at Floyd Lamb Park / Tule Springs",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9200 Tule Springs Rd. Las Vegas, NV",
+  "locationCity": "9200 Tule Springs Rd. Las Vegas",
+  "locationState": "NV",
+  "locationZipcode": "89131",
+  "lat": 36.325950241698116,
+  "lon": -115.2649435756572,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:24.364Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:24.364Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "neversink-farm-635-claryville-road",
+  "name": "Neversink Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "635 Claryville Road, NY",
+  "locationCity": "635 Claryville Road",
+  "locationState": "NY",
+  "locationZipcode": "12725",
+  "lat": 41.8971930546207,
+  "lon": -74.5832319998104,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.956Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.956Z",
+  "crops": []
+}

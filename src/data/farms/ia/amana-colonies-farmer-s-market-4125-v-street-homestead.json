@@ -1,0 +1,19 @@
+{
+  "slug": "amana-colonies-farmer-s-market-4125-v-street-homestead",
+  "name": "Amana Colonies Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4125 V Street homestead, IA",
+  "locationCity": "4125 V Street homestead",
+  "locationState": "IA",
+  "locationZipcode": "52236",
+  "lat": 41.761249155264096,
+  "lon": -91.87733737549361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

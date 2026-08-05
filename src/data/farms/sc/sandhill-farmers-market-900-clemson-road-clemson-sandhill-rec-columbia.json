@@ -1,0 +1,19 @@
+{
+  "slug": "sandhill-farmers-market-900-clemson-road-clemson-sandhill-rec-columbia",
+  "name": "Sandhill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "900 Clemson Road Clemson Sandhill REC Columbia, SC",
+  "locationCity": "900 Clemson Road Clemson Sandhill REC Columbia",
+  "locationState": "SC",
+  "locationZipcode": "29229",
+  "lat": 34.129909528224665,
+  "lon": -80.87223072551699,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

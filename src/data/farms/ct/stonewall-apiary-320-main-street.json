@@ -1,0 +1,19 @@
+{
+  "slug": "stonewall-apiary-320-main-street",
+  "name": "Stonewall Apiary",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "320 Main Street, CT",
+  "locationCity": "320 Main Street",
+  "locationState": "CT",
+  "locationZipcode": "06350",
+  "lat": 41.6440180044826,
+  "lon": -72.0657189991631,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.997Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.997Z"
+}

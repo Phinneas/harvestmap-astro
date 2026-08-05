@@ -1,0 +1,19 @@
+{
+  "slug": "peterson-gardens-285-s-church-street",
+  "name": "Peterson Gardens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "285 S. Church Street, NJ",
+  "locationCity": "285 S. Church Street",
+  "locationState": "NJ",
+  "locationZipcode": "08057",
+  "lat": 39.95850775854592,
+  "lon": -74.94700089793047,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.178Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.178Z"
+}

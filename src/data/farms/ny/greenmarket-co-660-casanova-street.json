@@ -1,0 +1,19 @@
+{
+  "slug": "greenmarket-co-660-casanova-street",
+  "name": "Greenmarket Co.",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "660 Casanova Street, NY",
+  "locationCity": "660 Casanova Street",
+  "locationState": "NY",
+  "locationZipcode": "10474",
+  "lat": 40.813503,
+  "lon": -73.889799,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.988Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.988Z"
+}

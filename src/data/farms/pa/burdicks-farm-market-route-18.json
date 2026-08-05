@@ -1,0 +1,19 @@
+{
+  "slug": "burdicks-farm-market-route-18",
+  "name": "Burdicks Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Route 18, PA",
+  "locationCity": "Route 18",
+  "locationState": "PA",
+  "locationZipcode": "16417",
+  "lat": 41.976069824992955,
+  "lon": -80.3376705493804,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

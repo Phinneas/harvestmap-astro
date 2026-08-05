@@ -1,0 +1,19 @@
+{
+  "slug": "plough-stars-project-75-capen-st",
+  "name": "Plough & Stars Project",
+  "source": "usda",
+  "directory": "csa",
+  "location": "75 Capen St., MA",
+  "locationCity": "75 Capen St.",
+  "locationState": "MA",
+  "locationZipcode": "02155",
+  "lat": 42.4125952,
+  "lon": -71.1261212,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.258Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.258Z"
+}

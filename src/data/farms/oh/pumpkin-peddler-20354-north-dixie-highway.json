@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkin-peddler-20354-north-dixie-highway",
+  "name": "Pumpkin Peddler",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "20354 North Dixie Highway, OH",
+  "locationCity": "20354 North Dixie Highway",
+  "locationState": "OH",
+  "locationZipcode": "20354",
+  "lat": 41.4495089843169,
+  "lon": -83.6463399900339,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.765Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.765Z"
+}

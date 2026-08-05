@@ -1,0 +1,19 @@
+{
+  "slug": "leominster-marketplace-25-west-street-leominster",
+  "name": "Leominster Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "25 West Street Leominster, MA",
+  "locationCity": "25 West Street Leominster",
+  "locationState": "MA",
+  "locationZipcode": "01453",
+  "lat": 42.52684466099357,
+  "lon": -71.76168660493829,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.865Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.865Z"
+}

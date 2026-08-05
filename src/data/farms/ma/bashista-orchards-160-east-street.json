@@ -1,0 +1,20 @@
+{
+  "slug": "bashista-orchards-160-east-street",
+  "name": "Bashista Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "160 East Street, MA",
+  "locationCity": "160 East Street",
+  "locationState": "MA",
+  "locationZipcode": "01073",
+  "lat": 42.2138979855058,
+  "lon": -72.7001277323347,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.458Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.458Z",
+  "crops": []
+}

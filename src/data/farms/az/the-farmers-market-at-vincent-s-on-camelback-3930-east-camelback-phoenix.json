@@ -1,0 +1,19 @@
+{
+  "slug": "the-farmers-market-at-vincent-s-on-camelback-3930-east-camelback-phoenix",
+  "name": "The Farmers Market at Vincent's on Camelback",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3930 East Camelback Phoenix, AZ",
+  "locationCity": "3930 East Camelback Phoenix",
+  "locationState": "AZ",
+  "locationZipcode": "85018",
+  "lat": 33.50987666059853,
+  "lon": -111.99787823709885,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.031Z"
+}

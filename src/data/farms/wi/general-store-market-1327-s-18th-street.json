@@ -1,0 +1,19 @@
+{
+  "slug": "general-store-market-1327-s-18th-street",
+  "name": "General Store Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1327 S. 18th Street, WI",
+  "locationCity": "1327 S. 18th Street",
+  "locationState": "WI",
+  "locationZipcode": "54812",
+  "lat": 45.402192,
+  "lon": -91.844351,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.752Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.752Z"
+}

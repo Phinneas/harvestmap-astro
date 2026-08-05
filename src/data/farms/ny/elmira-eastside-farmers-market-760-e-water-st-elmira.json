@@ -1,0 +1,19 @@
+{
+  "slug": "elmira-eastside-farmers-market-760-e-water-st-elmira",
+  "name": "Elmira Eastside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "760 E Water St. Elmira, NY",
+  "locationCity": "760 E Water St. Elmira",
+  "locationState": "NY",
+  "locationZipcode": "14901",
+  "lat": 42.08959699671074,
+  "lon": -76.79052932254332,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

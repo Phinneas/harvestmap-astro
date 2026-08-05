@@ -1,0 +1,19 @@
+{
+  "slug": "hingham-farmers-market-96-otis-street-hingham",
+  "name": "Hingham Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "96 Otis Street Hingham, MA",
+  "locationCity": "96 Otis Street Hingham",
+  "locationState": "MA",
+  "locationZipcode": "02043",
+  "lat": 42.24820213066933,
+  "lon": -70.88968018173593,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.864Z"
+}

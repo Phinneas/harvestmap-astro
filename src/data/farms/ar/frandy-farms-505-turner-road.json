@@ -2,29 +2,20 @@
   "slug": "frandy-farms-505-turner-road",
   "name": "Frandy Farms",
   "source": "usda",
-  "directory": "onfarmmarket",
+  "directory": "agritourism",
   "location": "505 Turner Road, AR",
   "locationCity": "505 Turner Road",
   "locationState": "AR",
   "locationZipcode": "72137",
   "lat": 35.3557634937371,
-  "lon": -92.02723867819982,
+  "lon": -92.0272386781998,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:23:14.352Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:23:18.744Z"
+      "lastSeen": "2026-08-05T18:36:24.035Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:23:14.352Z",
-  "crops": [
-    "Strawberries",
-    "Blackberries"
-  ],
-  "phone": "501-556-4230",
-  "website": "https://pickyourown.farm/farm/frandy-farms-5193/",
+  "usdaLastUpdated": "2026-08-05T18:36:24.035Z",
+  "crops": [],
   "tagline": "Frandy Farms"
 }

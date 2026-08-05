@@ -1,0 +1,19 @@
+{
+  "slug": "talbot-park-farmers-market-6400-newport-ave",
+  "name": "Talbot Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6400 Newport Ave, VA",
+  "locationCity": "6400 Newport Ave",
+  "locationState": "VA",
+  "locationZipcode": "23505",
+  "lat": 36.90078613487333,
+  "lon": -76.28309586232058,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

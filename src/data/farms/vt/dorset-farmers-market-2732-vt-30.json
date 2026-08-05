@@ -1,0 +1,19 @@
+{
+  "slug": "dorset-farmers-market-2732-vt-30",
+  "name": "Dorset Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2732 VT-30, VT",
+  "locationCity": "2732 VT-30",
+  "locationState": "VT",
+  "locationZipcode": "05251",
+  "lat": 43.24725798482413,
+  "lon": -73.09191599166576,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

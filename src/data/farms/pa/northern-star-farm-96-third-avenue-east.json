@@ -1,0 +1,20 @@
+{
+  "slug": "northern-star-farm-96-third-avenue-east",
+  "name": "Northern Star Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "96 Third Avenue East, PA",
+  "locationCity": "96 Third Avenue East",
+  "locationState": "PA",
+  "locationZipcode": "19426",
+  "lat": 40.1997759799472,
+  "lon": -75.461854019883,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.129Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.129Z",
+  "crops": []
+}

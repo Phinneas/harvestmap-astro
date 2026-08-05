@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-home-youth-market-70-e-129th-st-new-york",
+  "name": "Harvest Home Youth Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "70 E.129th St. New York, NY",
+  "locationCity": "70 E.129th St. New York",
+  "locationState": "NY",
+  "locationZipcode": "10029",
+  "lat": 40.80791584023381,
+  "lon": -73.93794075050664,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rochester-farmers-market-winter-35-fairgrounds-ave-se",
+  "name": "Rochester Farmers' Market - Winter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "35 Fairgrounds Ave SE, MN",
+  "locationCity": "35 Fairgrounds Ave SE",
+  "locationState": "MN",
+  "locationZipcode": "55904",
+  "lat": 44.0032545,
+  "lon": -92.4603373,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

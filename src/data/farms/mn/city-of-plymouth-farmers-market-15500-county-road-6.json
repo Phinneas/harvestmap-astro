@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-plymouth-farmers-market-15500-county-road-6",
+  "name": "City of Plymouth Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15500 County Road 6, MN",
+  "locationCity": "15500 County Road 6",
+  "locationState": "MN",
+  "locationZipcode": "15500",
+  "lat": 44.997274,
+  "lon": -93.473419,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.716Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.716Z"
+}

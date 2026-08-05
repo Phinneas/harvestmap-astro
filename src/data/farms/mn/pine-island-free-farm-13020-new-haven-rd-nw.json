@@ -1,0 +1,19 @@
+{
+  "slug": "pine-island-free-farm-13020-new-haven-rd-nw",
+  "name": "Pine Island Free Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "13020 New Haven Rd NW, MN",
+  "locationCity": "13020 New Haven Rd NW",
+  "locationState": "MN",
+  "locationZipcode": "13020",
+  "lat": 44.189991212538445,
+  "lon": -92.6212725381466,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.184Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.184Z"
+}

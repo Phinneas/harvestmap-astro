@@ -1,0 +1,19 @@
+{
+  "slug": "perkins-fresh-produce-10565-east-1000-north",
+  "name": "Perkins Fresh Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "10565 East 1000 North, IN",
+  "locationCity": "10565 East 1000 North",
+  "locationState": "IN",
+  "locationZipcode": "10565",
+  "lat": 41.496347017351695,
+  "lon": -85.2204550361356,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.600Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.600Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shelby-county-farmers-market-hwys-44-and-59",
+  "name": "Shelby County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Hwys 44 and 59, IA",
+  "locationCity": "Hwys 44 and 59",
+  "locationState": "IA",
+  "locationZipcode": "51537",
+  "lat": 41.645926,
+  "lon": -95.338882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.552Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.552Z"
+}

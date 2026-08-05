@@ -1,0 +1,19 @@
+{
+  "slug": "huhn-strawberry-farm-262-south-tallman-road",
+  "name": "Huhn Strawberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "262 South Tallman Road, MI",
+  "locationCity": "262 South Tallman Road",
+  "locationState": "MI",
+  "locationZipcode": "48822",
+  "lat": 42.8498953297541,
+  "lon": -84.7592600084651,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.579Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.579Z"
+}

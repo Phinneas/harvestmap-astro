@@ -1,0 +1,19 @@
+{
+  "slug": "z-food-farm-3501-princeton-pike",
+  "name": "Z Food Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3501 Princeton Pike, NJ",
+  "locationCity": "3501 Princeton Pike",
+  "locationState": "NJ",
+  "locationZipcode": "08648",
+  "lat": 40.300823,
+  "lon": -74.711237,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.066Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.066Z"
+}

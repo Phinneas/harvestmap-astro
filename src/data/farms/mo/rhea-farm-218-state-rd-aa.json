@@ -1,0 +1,19 @@
+{
+  "slug": "rhea-farm-218-state-rd-aa",
+  "name": "Rhea Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "218 State Rd AA, MO",
+  "locationCity": "218 State Rd AA",
+  "locationState": "MO",
+  "locationZipcode": "65648",
+  "lat": 37.4438556589902,
+  "lon": -93.0687907448985,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.747Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "broadway-berries-812-south-sunset-drive",
+  "name": "Broadway Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "812 South Sunset Drive, VA",
+  "locationCity": "812 South Sunset Drive",
+  "locationState": "VA",
+  "locationZipcode": "22815",
+  "lat": 38.5992795678538,
+  "lon": -78.8233353374408,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.255Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.255Z"
+}

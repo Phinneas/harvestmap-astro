@@ -1,0 +1,19 @@
+{
+  "slug": "brock-s-pumpkin-patch-589-rudy-road",
+  "name": "Brock's Pumpkin patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "589 Rudy Road, OH",
+  "locationCity": "589 Rudy Road",
+  "locationState": "OH",
+  "locationZipcode": "45371",
+  "lat": 39.9642160552188,
+  "lon": -84.117040789422,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.848Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.848Z"
+}

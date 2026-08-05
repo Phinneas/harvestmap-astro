@@ -1,0 +1,19 @@
+{
+  "slug": "gaslight-square-farmer-s-market-3619-e-indian-school-road-phoenix",
+  "name": "Gaslight Square Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3619 E. Indian School Road Phoenix, AZ",
+  "locationCity": "3619 E. Indian School Road Phoenix",
+  "locationState": "AZ",
+  "locationZipcode": "85018",
+  "lat": 33.495171755299985,
+  "lon": -112.00350853076546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

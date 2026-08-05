@@ -1,0 +1,19 @@
+{
+  "slug": "weatherly-produce-north-platte",
+  "name": "Weatherly Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "North Platte, NE",
+  "locationCity": "North Platte",
+  "locationState": "NE",
+  "locationZipcode": "69101",
+  "lat": 41.128264,
+  "lon": -100.77148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.872Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.872Z"
+}

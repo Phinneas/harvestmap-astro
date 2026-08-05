@@ -1,0 +1,19 @@
+{
+  "slug": "fall-harvest-orchard-fall-harvest-orchard-parking",
+  "name": "Fall Harvest Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Fall Harvest Orchard Parking, MN",
+  "locationCity": "Fall Harvest Orchard Parking",
+  "locationState": "MN",
+  "locationZipcode": "55363",
+  "lat": 45.0233970140216,
+  "lon": -93.876596984396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.765Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.765Z"
+}

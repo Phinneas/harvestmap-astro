@@ -1,0 +1,19 @@
+{
+  "slug": "hafs-road-orchard-hafs-road",
+  "name": "Hafs Road Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hafs Road, WI",
+  "locationCity": "Hafs Road",
+  "locationState": "WI",
+  "locationZipcode": "53128",
+  "lat": 42.5623699941497,
+  "lon": -88.3398300075623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.251Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.251Z"
+}

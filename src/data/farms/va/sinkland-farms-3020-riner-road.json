@@ -1,0 +1,19 @@
+{
+  "slug": "sinkland-farms-3020-riner-road",
+  "name": "Sinkland Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3020 Riner Road, VA",
+  "locationCity": "3020 Riner Road",
+  "locationState": "VA",
+  "locationZipcode": "24073",
+  "lat": 37.0932290084163,
+  "lon": -80.447844965592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.081Z"
+}

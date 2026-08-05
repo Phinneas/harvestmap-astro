@@ -1,0 +1,19 @@
+{
+  "slug": "meritus-medical-center-farmers-market-11110-medical-campus-road",
+  "name": "Meritus Medical Center Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11110 Medical Campus Road, MD",
+  "locationCity": "11110 Medical Campus Road",
+  "locationState": "MD",
+  "locationZipcode": "11110",
+  "lat": 39.621460905752265,
+  "lon": -77.67884504242281,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

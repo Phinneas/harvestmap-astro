@@ -1,0 +1,19 @@
+{
+  "slug": "bemidji-area-farmers-market-200-paul-bunyan-dr-s",
+  "name": "Bemidji Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Paul Bunyan Dr S, MN",
+  "locationCity": "200 Paul Bunyan Dr S",
+  "locationState": "MN",
+  "locationZipcode": "56601",
+  "lat": 47.4674951,
+  "lon": -94.8775128,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "little-acre-farmstead-3410-skippack-pike",
+  "name": "Little Acre Farmstead",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3410 Skippack Pike, PA",
+  "locationCity": "3410 Skippack Pike",
+  "locationState": "PA",
+  "locationZipcode": "19423",
+  "lat": 40.2123070090135,
+  "lon": -75.3708169960281,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.057Z",
+  "crops": []
+}

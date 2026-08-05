@@ -1,0 +1,19 @@
+{
+  "slug": "earthbound-farm-s-farm-stand-7250-carmel-valley-road",
+  "name": "Earthbound Farm's Farm Stand",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7250 Carmel Valley Road, CA",
+  "locationCity": "7250 Carmel Valley Road",
+  "locationState": "CA",
+  "locationZipcode": "93923",
+  "lat": 36.5331229970479,
+  "lon": -121.848605974507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.788Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.788Z"
+}

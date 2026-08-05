@@ -1,0 +1,19 @@
+{
+  "slug": "bizeau-farm-667-pearl-rd",
+  "name": "Bizeau Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "667 Pearl Rd, ID",
+  "locationCity": "667 Pearl Rd",
+  "locationState": "ID",
+  "locationZipcode": "83660",
+  "lat": 43.8122736271421,
+  "lon": -116.792956053,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.883Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.883Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bryn-mawr-farmers-market-775-lancaster-avenue",
+  "name": "Bryn Mawr Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "775 Lancaster Avenue, PA",
+  "locationCity": "775 Lancaster Avenue",
+  "locationState": "PA",
+  "locationZipcode": "19010",
+  "lat": 40.021168,
+  "lon": -75.317067,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.008Z"
+}

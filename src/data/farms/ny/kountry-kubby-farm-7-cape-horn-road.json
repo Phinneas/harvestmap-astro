@@ -1,0 +1,20 @@
+{
+  "slug": "kountry-kubby-farm-7-cape-horn-road",
+  "name": "Kountry Kubby Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7 Cape Horn Road, NY",
+  "locationCity": "7 Cape Horn Road",
+  "locationState": "NY",
+  "locationZipcode": "12455",
+  "lat": 42.2056283998329,
+  "lon": -74.6205067423268,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.206Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.206Z",
+  "crops": []
+}

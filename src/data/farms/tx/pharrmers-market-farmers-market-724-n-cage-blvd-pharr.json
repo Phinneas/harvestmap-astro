@@ -1,0 +1,19 @@
+{
+  "slug": "pharrmers-market-farmers-market-724-n-cage-blvd-pharr",
+  "name": "Pharrmers Market/ Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "724 N. Cage Blvd Pharr, TX",
+  "locationCity": "724 N. Cage Blvd Pharr",
+  "locationState": "TX",
+  "locationZipcode": "78577",
+  "lat": 26.18844488049803,
+  "lon": -98.18512443875136,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

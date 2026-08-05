@@ -1,0 +1,19 @@
+{
+  "slug": "mckinney-small-fruit-mckinney-fruit-drive",
+  "name": "McKinney Small Fruit",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "McKinney Fruit Drive, NC",
+  "locationCity": "McKinney Fruit Drive",
+  "locationState": "NC",
+  "locationZipcode": "28732",
+  "lat": 35.4220261137364,
+  "lon": -82.5693795261469,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.838Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.838Z"
+}

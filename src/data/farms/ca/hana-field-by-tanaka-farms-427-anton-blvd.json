@@ -1,0 +1,19 @@
+{
+  "slug": "hana-field-by-tanaka-farms-427-anton-blvd",
+  "name": "Hana Field by Tanaka Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "427 Anton Blvd, CA",
+  "locationCity": "427 Anton Blvd",
+  "locationState": "CA",
+  "locationZipcode": "92626",
+  "lat": 33.6924153408869,
+  "lon": -117.872250039638,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.816Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.816Z"
+}

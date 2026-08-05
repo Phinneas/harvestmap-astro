@@ -1,0 +1,19 @@
+{
+  "slug": "inver-grove-heights-farmers-market-8055-barbara-ave",
+  "name": "Inver Grove Heights Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8055 Barbara Ave, MN",
+  "locationCity": "8055 Barbara Ave",
+  "locationState": "MN",
+  "locationZipcode": "55077",
+  "lat": 44.8322239,
+  "lon": -93.0640405,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

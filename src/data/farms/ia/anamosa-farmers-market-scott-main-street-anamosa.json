@@ -1,0 +1,19 @@
+{
+  "slug": "anamosa-farmers-market-scott-main-street-anamosa",
+  "name": "Anamosa Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Scott & Main Street Anamosa, IA",
+  "locationCity": "Scott & Main Street Anamosa",
+  "locationState": "IA",
+  "locationZipcode": "52205",
+  "lat": 42.10826999606019,
+  "lon": -91.27949999239273,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

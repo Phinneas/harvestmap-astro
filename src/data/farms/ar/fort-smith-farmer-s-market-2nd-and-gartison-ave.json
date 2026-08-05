@@ -1,0 +1,19 @@
+{
+  "slug": "fort-smith-farmer-s-market-2nd-and-gartison-ave",
+  "name": "Fort Smith Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2nd and Gartison Ave, AR",
+  "locationCity": "2nd and Gartison Ave",
+  "locationState": "AR",
+  "locationZipcode": "72901",
+  "lat": 35.534732,
+  "lon": -94.80361,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.339Z"
+}

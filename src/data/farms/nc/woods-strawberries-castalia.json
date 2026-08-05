@@ -1,0 +1,19 @@
+{
+  "slug": "woods-strawberries-castalia",
+  "name": "Woods Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Castalia, NC",
+  "locationCity": "Castalia",
+  "locationState": "NC",
+  "locationZipcode": "27816",
+  "lat": 36.0815137,
+  "lon": -78.0788965,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.911Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.911Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-downers-grove-market-5001-main-street-downers-grove",
+  "name": "Downtown Downers Grove Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5001 Main Street Downers Grove, IL",
+  "locationCity": "5001 Main Street Downers Grove",
+  "locationState": "IL",
+  "locationZipcode": "60515",
+  "lat": 41.79650090120865,
+  "lon": -88.01048351894377,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "all-local-farmers-market-1-620-gervais-street-columbia",
+  "name": "All-Local Farmers Market-1",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "620 Gervais Street Columbia, SC",
+  "locationCity": "620 Gervais Street Columbia",
+  "locationState": "SC",
+  "locationZipcode": "29225",
+  "lat": 33.998307039465374,
+  "lon": -81.04313911681348,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.194Z"
+}

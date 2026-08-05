@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-the-district-2240-village-walk-dr-henderson",
+  "name": "Farmers Market at The District",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2240 Village Walk Dr. Henderson, NV",
+  "locationCity": "2240 Village Walk Dr. Henderson",
+  "locationState": "NV",
+  "locationZipcode": "89052",
+  "lat": 36.02137065266692,
+  "lon": -115.08710467675145,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:24.364Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:24.364Z"
+}

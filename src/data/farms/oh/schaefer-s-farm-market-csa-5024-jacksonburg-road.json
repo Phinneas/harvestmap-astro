@@ -1,0 +1,19 @@
+{
+  "slug": "schaefer-s-farm-market-csa-5024-jacksonburg-road",
+  "name": "Schaefer's Farm Market & CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5024 Jacksonburg Road, OH",
+  "locationCity": "5024 Jacksonburg Road",
+  "locationState": "OH",
+  "locationZipcode": "45067",
+  "lat": 39.51386183477652,
+  "lon": -84.50340970629054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.483Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.483Z"
+}

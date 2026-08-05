@@ -1,0 +1,19 @@
+{
+  "slug": "new-haven-farmers-market-956-park-ave-new-haven",
+  "name": "New Haven Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "956 Park Ave. New Haven, IN",
+  "locationCity": "956 Park Ave. New Haven",
+  "locationState": "IN",
+  "locationZipcode": "46774",
+  "lat": 41.06917068115949,
+  "lon": -85.01635015650366,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "walker-s-farm-2721-walker-road",
+  "name": "Walker's Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2721 Walker Road, NC",
+  "locationCity": "2721 Walker Road",
+  "locationState": "NC",
+  "locationZipcode": "27278",
+  "lat": 36.12824777892243,
+  "lon": -79.0656461655468,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.461Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "puffenbargers-farm-beef-2476-maple-sugar-road",
+  "name": "Puffenbargers Farm Beef",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2476 Maple Sugar Road, VA",
+  "locationCity": "2476 Maple Sugar Road",
+  "locationState": "VA",
+  "locationZipcode": "24413",
+  "lat": 38.4360611,
+  "lon": -79.613586,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.251Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.251Z"
+}

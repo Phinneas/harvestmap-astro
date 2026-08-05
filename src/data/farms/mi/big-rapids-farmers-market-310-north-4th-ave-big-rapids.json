@@ -1,0 +1,19 @@
+{
+  "slug": "big-rapids-farmers-market-310-north-4th-ave-big-rapids",
+  "name": "Big Rapids Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "310 North 4th Ave Big Rapids, MI",
+  "locationCity": "310 North 4th Ave Big Rapids",
+  "locationState": "MI",
+  "locationZipcode": "49307",
+  "lat": 43.69838336249518,
+  "lon": -85.46994875326867,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

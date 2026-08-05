@@ -1,0 +1,19 @@
+{
+  "slug": "weston-mo-farmer-s-market-201-welt-street-weston",
+  "name": "Weston MO Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 Welt Street Weston, MO",
+  "locationCity": "201 Welt Street Weston",
+  "locationState": "MO",
+  "locationZipcode": "64098",
+  "lat": 39.402921328348825,
+  "lon": -94.89714635990522,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.494Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.494Z"
+}

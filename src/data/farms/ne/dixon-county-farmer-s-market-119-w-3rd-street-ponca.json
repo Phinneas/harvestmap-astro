@@ -1,0 +1,19 @@
+{
+  "slug": "dixon-county-farmer-s-market-119-w-3rd-street-ponca",
+  "name": "Dixon County Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "119 W 3rd Street Ponca, NE",
+  "locationCity": "119 W 3rd Street Ponca",
+  "locationState": "NE",
+  "locationZipcode": "68770",
+  "lat": 42.56242162636665,
+  "lon": -96.70529022390406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "roscommon-village-farmers-market-211-n-main-street-roscommon",
+  "name": "Roscommon Village Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "211 N. Main Street Roscommon, MI",
+  "locationCity": "211 N. Main Street Roscommon",
+  "locationState": "MI",
+  "locationZipcode": "48653",
+  "lat": 44.500070532166355,
+  "lon": -84.59284686321075,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

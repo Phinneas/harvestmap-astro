@@ -1,0 +1,19 @@
+{
+  "slug": "hopkins-county-farmers-market-127-e-north-street-madisonville",
+  "name": "Hopkins County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "127 E. North Street Madisonville, KY",
+  "locationCity": "127 E. North Street Madisonville",
+  "locationState": "KY",
+  "locationZipcode": "42431",
+  "lat": 37.33526118932385,
+  "lon": -87.49464631449145,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bangor-farmers-market-corner-of-franklin-and-harlow-streets",
+  "name": "Bangor Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Franklin and Harlow Streets, ME",
+  "locationCity": "Corner of Franklin and Harlow Streets",
+  "locationState": "ME",
+  "locationZipcode": "04401",
+  "lat": 44.8039587,
+  "lon": -68.771649,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:56.999Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:56.999Z"
+}

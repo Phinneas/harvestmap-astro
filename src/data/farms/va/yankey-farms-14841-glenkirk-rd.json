@@ -1,0 +1,19 @@
+{
+  "slug": "yankey-farms-14841-glenkirk-rd",
+  "name": "Yankey Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "14841 Glenkirk Rd, VA",
+  "locationCity": "14841 Glenkirk Rd",
+  "locationState": "VA",
+  "locationZipcode": "14841",
+  "lat": 38.7561987,
+  "lon": -77.6330736,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.208Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.208Z"
+}

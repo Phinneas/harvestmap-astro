@@ -1,0 +1,19 @@
+{
+  "slug": "p-d-flower-farm-7504-east-1000-north",
+  "name": "P&D Flower Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7504 East 1000 North, IN",
+  "locationCity": "7504 East 1000 North",
+  "locationState": "IN",
+  "locationZipcode": "46259",
+  "lat": 39.6236200070119,
+  "lon": -85.9618842404444,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.406Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "woodstock-farmers-market-101-n-johnson-st-woodstock",
+  "name": "Woodstock Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 N. Johnson St. Woodstock, IL",
+  "locationCity": "101 N. Johnson St. Woodstock",
+  "locationState": "IL",
+  "locationZipcode": "60098",
+  "lat": 42.31473398140825,
+  "lon": -88.4479773313956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.974Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.974Z"
+}

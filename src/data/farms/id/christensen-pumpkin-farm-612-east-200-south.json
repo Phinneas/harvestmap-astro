@@ -1,0 +1,19 @@
+{
+  "slug": "christensen-pumpkin-farm-612-east-200-south",
+  "name": "Christensen Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "612 East 200 South, ID",
+  "locationCity": "612 East 200 South",
+  "locationState": "ID",
+  "locationZipcode": "83318",
+  "lat": 42.5038089894242,
+  "lon": -113.67480902638,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.671Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.671Z"
+}

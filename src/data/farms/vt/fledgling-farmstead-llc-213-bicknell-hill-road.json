@@ -1,0 +1,19 @@
+{
+  "slug": "fledgling-farmstead-llc-213-bicknell-hill-road",
+  "name": "Fledgling Farmstead LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "213 Bicknell Hill Road, VT",
+  "locationCity": "213 Bicknell Hill Road",
+  "locationState": "VT",
+  "locationZipcode": "05077",
+  "lat": 43.93488396608032,
+  "lon": -72.43816953731616,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.141Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.141Z"
+}

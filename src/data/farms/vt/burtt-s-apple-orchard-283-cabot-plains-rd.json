@@ -1,0 +1,20 @@
+{
+  "slug": "burtt-s-apple-orchard-283-cabot-plains-rd",
+  "name": "Burtt's Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "283 Cabot Plains Rd, VT",
+  "locationCity": "283 Cabot Plains Rd",
+  "locationState": "VT",
+  "locationZipcode": "05647",
+  "lat": 44.4215020185437,
+  "lon": -72.2921130304654,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.892Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.892Z",
+  "crops": []
+}

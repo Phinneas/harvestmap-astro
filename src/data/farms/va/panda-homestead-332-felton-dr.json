@@ -1,0 +1,20 @@
+{
+  "slug": "panda-homestead-332-felton-dr",
+  "name": "PandA Homestead",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "332 Felton Dr, VA",
+  "locationCity": "332 Felton Dr",
+  "locationState": "VA",
+  "locationZipcode": "23829",
+  "lat": 36.703305092971,
+  "lon": -77.2450196022247,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.168Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.168Z",
+  "crops": []
+}

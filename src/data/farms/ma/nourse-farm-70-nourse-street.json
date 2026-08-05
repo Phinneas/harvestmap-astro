@@ -1,0 +1,19 @@
+{
+  "slug": "nourse-farm-70-nourse-street",
+  "name": "Nourse Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "70 Nourse Street, MA",
+  "locationCity": "70 Nourse Street",
+  "locationState": "MA",
+  "locationZipcode": "01581",
+  "lat": 42.2505264413778,
+  "lon": -71.6489186378424,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.737Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.737Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-pumpkin-patch-300-east-yorba-linda-boulevard",
+  "name": "The Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "300 East Yorba Linda Boulevard, CA",
+  "locationCity": "300 East Yorba Linda Boulevard",
+  "locationState": "CA",
+  "locationZipcode": "92870",
+  "lat": 33.888702995092,
+  "lon": -117.859369999664,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.788Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.788Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "cox-farm-6059-s-seneca",
+  "name": "Cox Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6059 S. Seneca, KS",
+  "locationCity": "6059 S. Seneca",
+  "locationState": "KS",
+  "locationZipcode": "67060",
+  "lat": 37.5844830077069,
+  "lon": -97.3532680130346,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.118Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.118Z",
+  "crops": []
+}

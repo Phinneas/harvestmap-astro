@@ -1,0 +1,19 @@
+{
+  "slug": "portola-valley-farmers-market-765-portola-rd",
+  "name": "Portola Valley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "765 Portola Rd., CA",
+  "locationCity": "765 Portola Rd.",
+  "locationState": "CA",
+  "locationZipcode": "94028",
+  "lat": 37.38168320673927,
+  "lon": -122.22757054022269,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

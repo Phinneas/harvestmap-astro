@@ -1,0 +1,19 @@
+{
+  "slug": "sigmon-farms-307-rummel-cemetery-road",
+  "name": "Sigmon Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "307 Rummel Cemetery Road, KY",
+  "locationCity": "307 Rummel Cemetery Road",
+  "locationState": "KY",
+  "locationZipcode": "40456",
+  "lat": 37.4378973468325,
+  "lon": -84.3386347318984,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.599Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "thermopolis-farmers-market-broadway-and-6th-st-thermopolis",
+  "name": "Thermopolis Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Broadway and 6th St Thermopolis, WY",
+  "locationCity": "Broadway and 6th St Thermopolis",
+  "locationState": "WY",
+  "locationZipcode": "82443",
+  "lat": 43.646160007289694,
+  "lon": -108.21197001645899,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

@@ -2,28 +2,20 @@
   "slug": "darrel-hall-124-concord-lane",
   "name": "Darrel Hall",
   "source": "usda",
-  "directory": "onfarmmarket",
+  "directory": "agritourism",
   "location": "124 Concord Lane, AR",
   "locationCity": "124 Concord Lane",
   "locationState": "AR",
   "locationZipcode": "72012",
   "lat": 35.1233619009719,
-  "lon": -91.93689609502297,
+  "lon": -91.936896095023,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:23:14.352Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:23:18.744Z"
+      "lastSeen": "2026-08-05T18:36:24.027Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:23:14.352Z",
-  "crops": [
-    "Grapes"
-  ],
-  "phone": "501-882-3949",
-  "website": "https://pickyourown.farm/farm/darrel-hall-5169/",
+  "usdaLastUpdated": "2026-08-05T18:36:24.027Z",
+  "crops": [],
   "tagline": "Darrel Hall"
 }

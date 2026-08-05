@@ -1,0 +1,19 @@
+{
+  "slug": "middleton-farms-2630-north-lewis-road",
+  "name": "Middleton Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2630 North Lewis Road, MI",
+  "locationCity": "2630 North Lewis Road",
+  "locationState": "MI",
+  "locationZipcode": "48618",
+  "lat": 43.68802597917991,
+  "lon": -84.56740696195858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.233Z"
+}

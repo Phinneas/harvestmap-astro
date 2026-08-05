@@ -1,0 +1,19 @@
+{
+  "slug": "ripley-county-farmers-market-osgood-524-beech-st-osgood",
+  "name": "Ripley County Farmers' Market (Osgood)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "524 Beech St. Osgood, IN",
+  "locationCity": "524 Beech St. Osgood",
+  "locationState": "IN",
+  "locationZipcode": "47037",
+  "lat": 39.1312846163138,
+  "lon": -85.296082433813,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

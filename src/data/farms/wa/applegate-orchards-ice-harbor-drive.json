@@ -1,0 +1,19 @@
+{
+  "slug": "applegate-orchards-ice-harbor-drive",
+  "name": "Applegate Orchards",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Ice Harbor Drive, WA",
+  "locationCity": "Ice Harbor Drive",
+  "locationState": "WA",
+  "locationZipcode": "99323",
+  "lat": 46.211751101637134,
+  "lon": -118.98837447636558,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.541Z"
+}

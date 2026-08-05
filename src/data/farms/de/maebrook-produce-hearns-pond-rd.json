@@ -1,0 +1,19 @@
+{
+  "slug": "maebrook-produce-hearns-pond-rd",
+  "name": "Maebrook Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Hearns Pond Rd, DE",
+  "locationCity": "Hearns Pond Rd",
+  "locationState": "DE",
+  "locationZipcode": "19973",
+  "lat": 38.683435,
+  "lon": -75.614455,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:44.160Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:44.160Z"
+}

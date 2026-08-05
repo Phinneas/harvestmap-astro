@@ -1,0 +1,19 @@
+{
+  "slug": "elgin-farmers-market-elgin",
+  "name": "Elgin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Elgin, TX",
+  "locationCity": "Elgin",
+  "locationState": "TX",
+  "locationZipcode": "78621",
+  "lat": 30.346425,
+  "lon": -97.370756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.039Z"
+}

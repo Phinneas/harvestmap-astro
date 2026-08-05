@@ -1,0 +1,19 @@
+{
+  "slug": "peacham-farmers-market-555-bayley-hazen-road",
+  "name": "Peacham Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "555 Bayley Hazen Road, VT",
+  "locationCity": "555 Bayley Hazen Road",
+  "locationState": "VT",
+  "locationZipcode": "05862",
+  "lat": 44.327445,
+  "lon": -72.170037,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.107Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.107Z"
+}

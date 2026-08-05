@@ -1,0 +1,19 @@
+{
+  "slug": "oasis-gardens-and-nursery-18600-ne-63rd-st",
+  "name": "OASIS Gardens and Nursery",
+  "source": "usda",
+  "directory": "csa",
+  "location": "18600 NE 63rd St, OK",
+  "locationCity": "18600 NE 63rd St",
+  "locationState": "OK",
+  "locationZipcode": "18600",
+  "lat": 35.53522100464218,
+  "lon": -97.19998001921921,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:27.102Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:27.102Z"
+}

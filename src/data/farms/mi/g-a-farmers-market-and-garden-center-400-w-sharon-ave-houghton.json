@@ -1,0 +1,19 @@
+{
+  "slug": "g-a-farmers-market-and-garden-center-400-w-sharon-ave-houghton",
+  "name": "G&A Farmers Market and Garden Center",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 W Sharon Ave Houghton, MI",
+  "locationCity": "400 W Sharon Ave Houghton",
+  "locationState": "MI",
+  "locationZipcode": "49931",
+  "lat": 47.112381682803694,
+  "lon": -88.57745488133058,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "glendale-farm-590-rte-414",
+  "name": "Glendale Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "590 Rte. 414, NY",
+  "locationCity": "590 Rte. 414",
+  "locationState": "NY",
+  "locationZipcode": "14818",
+  "lat": 42.3860011854208,
+  "lon": -76.8559601689179,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.411Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.411Z"
+}

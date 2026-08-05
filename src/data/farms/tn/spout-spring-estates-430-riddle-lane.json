@@ -1,0 +1,19 @@
+{
+  "slug": "spout-spring-estates-430-riddle-lane",
+  "name": "Spout Spring Estates",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "430 Riddle Lane, TN",
+  "locationCity": "430 Riddle Lane",
+  "locationState": "TN",
+  "locationZipcode": "37709",
+  "lat": 36.1702670139122,
+  "lon": -83.6550649645063,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.292Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.292Z"
+}

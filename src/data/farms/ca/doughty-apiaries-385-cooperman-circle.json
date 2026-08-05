@@ -1,0 +1,19 @@
+{
+  "slug": "doughty-apiaries-385-cooperman-circle",
+  "name": "Doughty Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "385 Cooperman Circle, CA",
+  "locationCity": "385 Cooperman Circle",
+  "locationState": "CA",
+  "locationZipcode": "92592",
+  "lat": 33.5105582107982,
+  "lon": -117.063294833187,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.830Z"
+}

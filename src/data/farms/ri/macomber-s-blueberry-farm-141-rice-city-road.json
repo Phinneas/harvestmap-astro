@@ -1,0 +1,19 @@
+{
+  "slug": "macomber-s-blueberry-farm-141-rice-city-road",
+  "name": "Macomber's Blueberry farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "141 Rice City Road, RI",
+  "locationCity": "141 Rice City Road",
+  "locationState": "RI",
+  "locationZipcode": "02827",
+  "lat": 41.7083869975565,
+  "lon": -71.7492559700037,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:30.945Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:30.945Z"
+}

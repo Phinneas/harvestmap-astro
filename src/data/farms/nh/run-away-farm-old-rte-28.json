@@ -1,0 +1,19 @@
+{
+  "slug": "run-away-farm-old-rte-28",
+  "name": "Run Away Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Old Rte 28, NH",
+  "locationCity": "Old Rte 28",
+  "locationState": "NH",
+  "locationZipcode": "03864",
+  "lat": 43.6935,
+  "lon": -71.1146699999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.918Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.918Z"
+}

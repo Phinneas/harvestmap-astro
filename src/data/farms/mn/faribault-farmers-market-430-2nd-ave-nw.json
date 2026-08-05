@@ -1,0 +1,19 @@
+{
+  "slug": "faribault-farmers-market-430-2nd-ave-nw",
+  "name": "Faribault Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "430 2nd Ave NW, MN",
+  "locationCity": "430 2nd Ave NW",
+  "locationState": "MN",
+  "locationZipcode": "55021",
+  "lat": 44.2954678,
+  "lon": -93.2724299,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.748Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.748Z"
+}

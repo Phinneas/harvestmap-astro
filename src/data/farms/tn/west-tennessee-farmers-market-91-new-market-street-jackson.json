@@ -1,0 +1,19 @@
+{
+  "slug": "west-tennessee-farmers-market-91-new-market-street-jackson",
+  "name": "West Tennessee Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "91 New Market Street Jackson, TN",
+  "locationCity": "91 New Market Street Jackson",
+  "locationState": "TN",
+  "locationZipcode": "38301",
+  "lat": 35.57928517411938,
+  "lon": -88.8184943615869,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-middle-2130-middle-road",
+  "name": "Market on Middle",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2130 Middle Road, PA",
+  "locationCity": "2130 Middle Road",
+  "locationState": "PA",
+  "locationZipcode": "15116",
+  "lat": 40.54858100160425,
+  "lon": -79.93499402885092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.448Z"
+}

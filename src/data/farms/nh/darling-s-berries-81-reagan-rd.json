@@ -1,0 +1,20 @@
+{
+  "slug": "darling-s-berries-81-reagan-rd",
+  "name": "Darling's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "81 Reagan Rd, NH",
+  "locationCity": "81 Reagan Rd",
+  "locationState": "NH",
+  "locationZipcode": "03741",
+  "lat": 43.6551850119863,
+  "lon": -72.0076619982755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.897Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.897Z",
+  "crops": []
+}

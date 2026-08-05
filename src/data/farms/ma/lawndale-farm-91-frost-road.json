@@ -1,0 +1,19 @@
+{
+  "slug": "lawndale-farm-91-frost-road",
+  "name": "Lawndale Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "91 Frost Road, MA",
+  "locationCity": "91 Frost Road",
+  "locationState": "MA",
+  "locationZipcode": "01879",
+  "lat": 42.6857161534418,
+  "lon": -71.4093144756785,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.674Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.674Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ravenridge-blueberries-314-sutherland-road",
+  "name": "Ravenridge Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "314 Sutherland Road, NC",
+  "locationCity": "314 Sutherland Road",
+  "locationState": "NC",
+  "locationZipcode": "28615",
+  "lat": 36.3912779355381,
+  "lon": -81.6933737330573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.826Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.826Z"
+}

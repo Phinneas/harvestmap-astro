@@ -1,0 +1,20 @@
+{
+  "slug": "leppin-ranch-102-papago-blvd",
+  "name": "Leppin Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "102 Papago Blvd., AZ",
+  "locationCity": "102 Papago Blvd.",
+  "locationState": "AZ",
+  "locationZipcode": "86047",
+  "lat": 35.0509653915889,
+  "lon": -110.717180897816,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.821Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.821Z",
+  "crops": []
+}

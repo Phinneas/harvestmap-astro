@@ -1,0 +1,19 @@
+{
+  "slug": "northeast-washington-new-farmers-market-corner-of-main-and-astor",
+  "name": "Northeast Washington (NEW) Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Main and Astor, WA",
+  "locationCity": "Corner of Main and Astor",
+  "locationState": "WA",
+  "locationZipcode": "99114",
+  "lat": 48.543279,
+  "lon": -117.90522,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.701Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.701Z"
+}

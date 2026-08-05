@@ -1,0 +1,19 @@
+{
+  "slug": "saginaw-va-farmers-market-1500-weiss-st-saginaw",
+  "name": "Saginaw VA Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1500 Weiss St Saginaw, MI",
+  "locationCity": "1500 Weiss St Saginaw",
+  "locationState": "MI",
+  "locationZipcode": "48602",
+  "lat": 43.4436837950841,
+  "lon": -83.96086405102002,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.248Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.248Z"
+}

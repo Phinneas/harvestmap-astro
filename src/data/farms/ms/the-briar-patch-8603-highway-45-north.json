@@ -1,0 +1,19 @@
+{
+  "slug": "the-briar-patch-8603-highway-45-north",
+  "name": "The Briar Patch",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8603 Highway 45 North, MS",
+  "locationCity": "8603 Highway 45 North",
+  "locationState": "MS",
+  "locationZipcode": "39705",
+  "lat": 33.61683500167766,
+  "lon": -88.42032502797447,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:31.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:31.539Z"
+}

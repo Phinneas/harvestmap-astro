@@ -1,0 +1,19 @@
+{
+  "slug": "earth-to-urban-local-food-hub-1235-sw-2nd-st",
+  "name": "Earth to Urban Local Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1235 SW 2ND ST, OK",
+  "locationCity": "1235 SW 2ND ST",
+  "locationState": "OK",
+  "locationZipcode": "73108",
+  "lat": 35.463579,
+  "lon": -97.534074,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:30.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:30.169Z"
+}

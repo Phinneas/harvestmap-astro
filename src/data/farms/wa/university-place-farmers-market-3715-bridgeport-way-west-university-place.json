@@ -1,0 +1,19 @@
+{
+  "slug": "university-place-farmers-market-3715-bridgeport-way-west-university-place",
+  "name": "University Place Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3715 Bridgeport Way West University Place, WA",
+  "locationCity": "3715 Bridgeport Way West University Place",
+  "locationState": "WA",
+  "locationZipcode": "98464",
+  "lat": 47.22422588584095,
+  "lon": -122.53706449123968,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.817Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.817Z"
+}

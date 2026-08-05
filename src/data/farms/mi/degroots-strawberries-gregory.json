@@ -1,0 +1,19 @@
+{
+  "slug": "degroots-strawberries-gregory",
+  "name": "Degroots Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Gregory, MI",
+  "locationCity": "Gregory",
+  "locationState": "MI",
+  "locationZipcode": "48137",
+  "lat": 42.4585963,
+  "lon": -84.0786034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.735Z"
+}

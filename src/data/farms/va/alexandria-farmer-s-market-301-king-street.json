@@ -1,0 +1,19 @@
+{
+  "slug": "alexandria-farmer-s-market-301-king-street",
+  "name": "Alexandria Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 King Street, VA",
+  "locationCity": "301 King Street",
+  "locationState": "VA",
+  "locationZipcode": "22314",
+  "lat": 38.804522936080666,
+  "lon": -77.04262805548994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.290Z"
+}

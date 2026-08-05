@@ -1,0 +1,19 @@
+{
+  "slug": "north-mankato-farmers-market-1920-lee-blvd",
+  "name": "North Mankato Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1920 Lee Blvd, MN",
+  "locationCity": "1920 Lee Blvd",
+  "locationState": "MN",
+  "locationZipcode": "56003",
+  "lat": 44.1740221,
+  "lon": -94.0479303,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

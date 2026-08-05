@@ -1,0 +1,19 @@
+{
+  "slug": "lone-maple-farm-001-hawleyton-road",
+  "name": "Lone Maple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "001 Hawleyton Road, NY",
+  "locationCity": "001 Hawleyton Road",
+  "locationState": "NY",
+  "locationZipcode": "13903",
+  "lat": 42.0318725381162,
+  "lon": -75.9203816838434,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.935Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.935Z"
+}

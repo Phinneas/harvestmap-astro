@@ -1,0 +1,19 @@
+{
+  "slug": "duluth-downtown-farmers-market-1324-e-3rd-st",
+  "name": "Duluth Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1324 E 3rd St, MN",
+  "locationCity": "1324 E 3rd St",
+  "locationState": "MN",
+  "locationZipcode": "55805",
+  "lat": 46.801893,
+  "lon": -92.0839292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

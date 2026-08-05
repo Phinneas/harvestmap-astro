@@ -1,0 +1,20 @@
+{
+  "slug": "good-local-markets-white-rock-farmers-market-1450-old-gate-lane",
+  "name": "Good Local Markets White Rock Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1450 Old Gate Lane, TX",
+  "locationCity": "1450 Old Gate Lane",
+  "locationState": "TX",
+  "locationZipcode": "75218",
+  "lat": 32.8248108,
+  "lon": -96.70341979999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.053Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.053Z",
+  "crops": []
+}

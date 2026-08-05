@@ -1,0 +1,19 @@
+{
+  "slug": "hilltop-apiaries-41-a-quarry-road",
+  "name": "Hilltop Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "41-A Quarry Road, CT",
+  "locationCity": "41-A Quarry Road",
+  "locationState": "CT",
+  "locationZipcode": "06070",
+  "lat": 41.8914879960434,
+  "lon": -72.7771770361705,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.999Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.999Z"
+}

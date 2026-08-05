@@ -1,0 +1,19 @@
+{
+  "slug": "stony-point-csa-5-clubhouse-lane",
+  "name": "Stony Point CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5 Clubhouse Lane, NY",
+  "locationCity": "5 Clubhouse Lane",
+  "locationState": "NY",
+  "locationZipcode": "10980",
+  "lat": 41.224101922113505,
+  "lon": -74.02845369373841,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.173Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.173Z"
+}

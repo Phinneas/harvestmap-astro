@@ -1,0 +1,19 @@
+{
+  "slug": "bybee-nims-farm-42900-southeast-92nd-street",
+  "name": "Bybee-Nims Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "42900 Southeast 92nd Street, WA",
+  "locationCity": "42900 Southeast 92nd Street",
+  "locationState": "WA",
+  "locationZipcode": "42900",
+  "lat": 47.5185709854209,
+  "lon": -121.766555021408,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.312Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.312Z"
+}

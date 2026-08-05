@@ -1,0 +1,19 @@
+{
+  "slug": "minnesota-fresh-farm-241-highway-65",
+  "name": "Minnesota Fresh Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "241 Highway 65, MN",
+  "locationCity": "241 Highway 65",
+  "locationState": "MN",
+  "locationZipcode": "55011",
+  "lat": 45.3365050904915,
+  "lon": -93.2364048717765,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.718Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.718Z"
+}

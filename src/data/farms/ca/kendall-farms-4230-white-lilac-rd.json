@@ -1,0 +1,19 @@
+{
+  "slug": "kendall-farms-4230-white-lilac-rd",
+  "name": "Kendall Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4230 White Lilac Rd, CA",
+  "locationCity": "4230 White Lilac Rd",
+  "locationState": "CA",
+  "locationZipcode": "92028",
+  "lat": 33.3923559,
+  "lon": -117.16462,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.915Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.915Z"
+}

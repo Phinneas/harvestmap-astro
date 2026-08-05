@@ -1,0 +1,19 @@
+{
+  "slug": "crow-valley-farm-hopkinton-road",
+  "name": "Crow Valley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hopkinton Road, NH",
+  "locationCity": "Hopkinton Road",
+  "locationState": "NH",
+  "locationZipcode": "03229",
+  "lat": 43.1967775933384,
+  "lon": -71.5780330282316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.712Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.712Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bar-w-ranch-146-harris-bridge-road",
+  "name": "Bar W Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "146 Harris Bridge Road, SC",
+  "locationCity": "146 Harris Bridge Road",
+  "locationState": "SC",
+  "locationZipcode": "29388",
+  "lat": 34.7131544759823,
+  "lon": -82.0213215498653,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.721Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.721Z"
+}

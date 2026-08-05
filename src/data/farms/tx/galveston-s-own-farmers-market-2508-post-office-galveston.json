@@ -1,0 +1,19 @@
+{
+  "slug": "galveston-s-own-farmers-market-2508-post-office-galveston",
+  "name": "Galveston's Own Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2508 Post Office Galveston, TX",
+  "locationCity": "2508 Post Office Galveston",
+  "locationState": "TX",
+  "locationZipcode": "77550",
+  "lat": 29.3038960043182,
+  "lon": -94.79601679086541,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "reeves-farms-rt-370",
+  "name": "Reeves Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rt. 370, NY",
+  "locationCity": "Rt. 370",
+  "locationState": "NY",
+  "locationZipcode": "13027",
+  "lat": 43.1690259138661,
+  "lon": -76.396613515451,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.011Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.011Z"
+}

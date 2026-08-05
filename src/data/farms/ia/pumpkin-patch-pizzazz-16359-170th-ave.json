@@ -1,0 +1,19 @@
+{
+  "slug": "pumpkin-patch-pizzazz-16359-170th-ave",
+  "name": "Pumpkin Patch Pizzazz",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "16359 170th Ave, IA",
+  "locationCity": "16359 170th Ave",
+  "locationState": "IA",
+  "locationZipcode": "16359",
+  "lat": 42.1704910007168,
+  "lon": -91.2106470163961,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.618Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.618Z"
+}

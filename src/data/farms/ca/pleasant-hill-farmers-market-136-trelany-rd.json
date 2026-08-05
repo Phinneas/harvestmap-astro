@@ -1,0 +1,19 @@
+{
+  "slug": "pleasant-hill-farmers-market-136-trelany-rd",
+  "name": "Pleasant Hill Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "136 Trelany Rd., CA",
+  "locationCity": "136 Trelany Rd.",
+  "locationState": "CA",
+  "locationZipcode": "94523",
+  "lat": 37.946889302061926,
+  "lon": -122.06339910114471,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

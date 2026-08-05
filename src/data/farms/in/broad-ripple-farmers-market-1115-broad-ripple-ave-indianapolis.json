@@ -1,0 +1,19 @@
+{
+  "slug": "broad-ripple-farmers-market-1115-broad-ripple-ave-indianapolis",
+  "name": "Broad Ripple Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1115 Broad Ripple Ave. Indianapolis, IN",
+  "locationCity": "1115 Broad Ripple Ave. Indianapolis",
+  "locationState": "IN",
+  "locationZipcode": "46220",
+  "lat": 39.869604327419516,
+  "lon": -86.13843190096303,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

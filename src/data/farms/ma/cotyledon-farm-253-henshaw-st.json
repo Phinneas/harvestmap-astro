@@ -1,0 +1,19 @@
+{
+  "slug": "cotyledon-farm-253-henshaw-st",
+  "name": "Cotyledon Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "253 Henshaw St, MA",
+  "locationCity": "253 Henshaw St",
+  "locationState": "MA",
+  "locationZipcode": "01524",
+  "lat": 42.2237403,
+  "lon": -71.8886087,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.268Z"
+}

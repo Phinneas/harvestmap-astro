@@ -1,0 +1,19 @@
+{
+  "slug": "fafo-farms-tx-1140-co-rd-106",
+  "name": "FAFO Farms TX",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1140 Co Rd 106, TX",
+  "locationCity": "1140 Co Rd 106",
+  "locationState": "TX",
+  "locationZipcode": "76566",
+  "lat": 31.509409002731275,
+  "lon": -97.90969302780447,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.351Z"
+}

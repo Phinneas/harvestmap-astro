@@ -1,0 +1,19 @@
+{
+  "slug": "sandhills-farmers-market-1-village-green-rd-west-pinehurst",
+  "name": "Sandhills Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Village Green Rd West Pinehurst, NC",
+  "locationCity": "1 Village Green Rd West Pinehurst",
+  "locationState": "NC",
+  "locationZipcode": "28374",
+  "lat": 35.19489402495936,
+  "lon": -79.46889205791311,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

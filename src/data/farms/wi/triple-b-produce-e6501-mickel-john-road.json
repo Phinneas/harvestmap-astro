@@ -1,0 +1,19 @@
+{
+  "slug": "triple-b-produce-e6501-mickel-john-road",
+  "name": "Triple B Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "E6501 Mickel John Road, WI",
+  "locationCity": "E6501 Mickel John Road",
+  "locationState": "WI",
+  "locationZipcode": "54961",
+  "lat": 44.42040365395155,
+  "lon": -88.90040230420436,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.019Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bluejack-ridge-ranch-172-burrus-boulevard",
+  "name": "BlueJack Ridge Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "172 Burrus Boulevard, MS",
+  "locationCity": "172 Burrus Boulevard",
+  "locationState": "MS",
+  "locationZipcode": "39470",
+  "lat": 30.9115427160753,
+  "lon": -89.5462812683941,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.912Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.912Z"
+}

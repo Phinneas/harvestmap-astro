@@ -1,0 +1,19 @@
+{
+  "slug": "post-apples-csa-8893-gulf-road",
+  "name": "Post Apples CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8893 Gulf Road, PA",
+  "locationCity": "8893 Gulf Road",
+  "locationState": "PA",
+  "locationZipcode": "16428",
+  "lat": 42.19300927696423,
+  "lon": -79.78063457635261,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.609Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.609Z"
+}

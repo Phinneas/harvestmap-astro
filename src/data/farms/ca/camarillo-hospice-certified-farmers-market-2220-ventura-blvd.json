@@ -1,0 +1,19 @@
+{
+  "slug": "camarillo-hospice-certified-farmers-market-2220-ventura-blvd",
+  "name": "Camarillo Hospice Certified Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2220 Ventura Blvd., CA",
+  "locationCity": "2220 Ventura Blvd.",
+  "locationState": "CA",
+  "locationZipcode": "93010",
+  "lat": 34.216518,
+  "lon": -119.04157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.351Z"
+}

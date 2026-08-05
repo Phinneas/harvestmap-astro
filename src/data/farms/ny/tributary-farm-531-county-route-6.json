@@ -1,0 +1,19 @@
+{
+  "slug": "tributary-farm-531-county-route-6",
+  "name": "Tributary Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "531 County Route 6, NY",
+  "locationCity": "531 County Route 6",
+  "locationState": "NY",
+  "locationZipcode": "12440",
+  "lat": 41.80139129599621,
+  "lon": -74.17713256281667,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.173Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.173Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "boston-hill-farm-1370-turnpike-st",
+  "name": "Boston Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1370 Turnpike St, MA",
+  "locationCity": "1370 Turnpike St",
+  "locationState": "MA",
+  "locationZipcode": "01845",
+  "lat": 42.6464372559667,
+  "lon": -71.0885917633253,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.441Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.441Z"
+}

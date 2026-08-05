@@ -1,0 +1,19 @@
+{
+  "slug": "suttons-bay-farmers-market-intersection-of-m22-m204",
+  "name": "Suttons Bay Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Intersection of M22 & M204, MI",
+  "locationCity": "Intersection of M22 & M204",
+  "locationState": "MI",
+  "locationZipcode": "49682",
+  "lat": 44.980186,
+  "lon": -85.647075,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.180Z"
+}

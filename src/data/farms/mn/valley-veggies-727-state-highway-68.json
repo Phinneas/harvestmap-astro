@@ -1,0 +1,19 @@
+{
+  "slug": "valley-veggies-727-state-highway-68",
+  "name": "Valley Veggies",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "727 State Highway 68, MN",
+  "locationCity": "727 State Highway 68",
+  "locationState": "MN",
+  "locationZipcode": "56055",
+  "lat": 44.1940481213585,
+  "lon": -94.2069400368723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.749Z"
+}

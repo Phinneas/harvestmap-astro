@@ -1,0 +1,20 @@
+{
+  "slug": "paulus-mount-airy-orchards-522-east-mount-airy-road",
+  "name": "Paulus Mount Airy Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "522 East Mount Airy Road, PA",
+  "locationCity": "522 East Mount Airy Road",
+  "locationState": "PA",
+  "locationZipcode": "17019",
+  "lat": 40.1246079942792,
+  "lon": -76.9387519810995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.108Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.108Z",
+  "crops": []
+}

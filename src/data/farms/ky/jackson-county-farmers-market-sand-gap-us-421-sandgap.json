@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-county-farmers-market-sand-gap-us-421-sandgap",
+  "name": "Jackson County Farmers Market - Sand Gap",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "US 421 Sandgap, KY",
+  "locationCity": "US 421 Sandgap",
+  "locationState": "KY",
+  "locationZipcode": "40481",
+  "lat": 37.4850270867385,
+  "lon": -84.08666211875999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

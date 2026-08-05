@@ -1,0 +1,19 @@
+{
+  "slug": "globe-miami-farmers-market-globe-az-85501",
+  "name": "Globe-Miami Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Globe AZ 85501, AZ",
+  "locationCity": "Globe AZ 85501",
+  "locationState": "AZ",
+  "locationZipcode": "85501",
+  "lat": 33.39628000000005,
+  "lon": -110.78204999999997,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

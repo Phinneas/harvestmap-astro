@@ -1,0 +1,19 @@
+{
+  "slug": "broadview-farm-37-march-road",
+  "name": "Broadview Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "37 March Road, NH",
+  "locationCity": "37 March Road",
+  "locationState": "NH",
+  "locationZipcode": "",
+  "lat": 43.478446,
+  "lon": -71.593585,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.711Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.711Z"
+}

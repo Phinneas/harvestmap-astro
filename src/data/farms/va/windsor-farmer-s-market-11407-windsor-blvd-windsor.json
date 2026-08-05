@@ -1,0 +1,19 @@
+{
+  "slug": "windsor-farmer-s-market-11407-windsor-blvd-windsor",
+  "name": "Windsor Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11407 Windsor Blvd Windsor, VA",
+  "locationCity": "11407 Windsor Blvd Windsor",
+  "locationState": "VA",
+  "locationZipcode": "11407",
+  "lat": 36.804108041958855,
+  "lon": -76.72708934272625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

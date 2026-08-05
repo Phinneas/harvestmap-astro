@@ -1,0 +1,20 @@
+{
+  "slug": "hart-apiaries-738-highway-47",
+  "name": "Hart Apiaries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "738 Highway 47, MO",
+  "locationCity": "738 Highway 47",
+  "locationState": "MO",
+  "locationZipcode": "63060",
+  "lat": 38.2383398395624,
+  "lon": -90.8701161025718,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.807Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.807Z",
+  "crops": []
+}

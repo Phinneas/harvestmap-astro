@@ -1,0 +1,19 @@
+{
+  "slug": "ashley-farms-83-clark-lane",
+  "name": "Ashley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "83 Clark Lane, NJ",
+  "locationCity": "83 Clark Lane",
+  "locationState": "NJ",
+  "locationZipcode": "07836",
+  "lat": 40.8441950105336,
+  "lon": -74.6885630184266,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.089Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:16.089Z"
+}

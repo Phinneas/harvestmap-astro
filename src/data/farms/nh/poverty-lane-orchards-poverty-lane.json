@@ -1,0 +1,20 @@
+{
+  "slug": "poverty-lane-orchards-poverty-lane",
+  "name": "Poverty Lane Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Poverty Lane, NH",
+  "locationCity": "Poverty Lane",
+  "locationState": "NH",
+  "locationZipcode": "03766",
+  "lat": 43.6067361341303,
+  "lon": -72.2881016133397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.790Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.790Z",
+  "crops": []
+}

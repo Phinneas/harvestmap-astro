@@ -1,0 +1,19 @@
+{
+  "slug": "apple-hut-1654-west-walters-road",
+  "name": "Apple Hut",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1654 West Walters Road, WI",
+  "locationCity": "1654 West Walters Road",
+  "locationState": "WI",
+  "locationZipcode": "53511",
+  "lat": 42.5654899899687,
+  "lon": -89.058407968403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.216Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.216Z"
+}

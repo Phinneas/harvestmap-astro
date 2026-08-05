@@ -1,0 +1,19 @@
+{
+  "slug": "valley-roots-food-hub-5401-terry-street",
+  "name": "Valley Roots Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5401 Terry Street, CO",
+  "locationCity": "5401 Terry Street",
+  "locationState": "CO",
+  "locationZipcode": "81146",
+  "lat": 37.6529292,
+  "lon": -105.87582,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:03.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:03.293Z"
+}

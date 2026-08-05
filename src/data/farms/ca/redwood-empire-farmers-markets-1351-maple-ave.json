@@ -1,0 +1,19 @@
+{
+  "slug": "redwood-empire-farmers-markets-1351-maple-ave",
+  "name": "Redwood Empire Farmers' Markets",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1351 MAPLE AVE, CA",
+  "locationCity": "1351 MAPLE AVE",
+  "locationState": "CA",
+  "locationZipcode": "95404",
+  "lat": 38.43373558297642,
+  "lon": -122.69996846399796,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.369Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.369Z"
+}

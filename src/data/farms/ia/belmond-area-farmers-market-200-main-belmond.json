@@ -1,0 +1,19 @@
+{
+  "slug": "belmond-area-farmers-market-200-main-belmond",
+  "name": "Belmond Area Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Main Belmond, IA",
+  "locationCity": "200 Main Belmond",
+  "locationState": "IA",
+  "locationZipcode": "50421",
+  "lat": 42.84584391135495,
+  "lon": -93.6154101880439,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

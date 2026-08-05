@@ -1,0 +1,19 @@
+{
+  "slug": "mckinney-s-produce-88-noe-lane",
+  "name": "McKinney's Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "88 Noe Lane, KY",
+  "locationCity": "88 Noe Lane",
+  "locationState": "KY",
+  "locationZipcode": "42276",
+  "lat": 36.796247994897996,
+  "lon": -86.86476500093228,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:19.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:19.406Z"
+}

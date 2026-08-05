@@ -1,0 +1,19 @@
+{
+  "slug": "the-north-georgia-farmers-market-555-monroe-sreet",
+  "name": "The North Georgia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "555 Monroe Sreet, GA",
+  "locationCity": "555 Monroe Sreet",
+  "locationState": "GA",
+  "locationZipcode": "30523",
+  "lat": 34.615651272107065,
+  "lon": -83.52665902060531,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

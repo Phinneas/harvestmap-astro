@@ -1,0 +1,19 @@
+{
+  "slug": "3m-farm-210-liberation-lane",
+  "name": "3M Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "210 Liberation Lane, FL",
+  "locationCity": "210 Liberation Lane",
+  "locationState": "FL",
+  "locationZipcode": "32308",
+  "lat": 30.4946649945879,
+  "lon": -84.2006946366986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.878Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.878Z"
+}

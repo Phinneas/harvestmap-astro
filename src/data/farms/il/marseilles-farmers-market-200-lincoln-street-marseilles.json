@@ -1,0 +1,19 @@
+{
+  "slug": "marseilles-farmers-market-200-lincoln-street-marseilles",
+  "name": "Marseilles Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 Lincoln Street Marseilles, IL",
+  "locationCity": "200 Lincoln Street Marseilles",
+  "locationState": "IL",
+  "locationZipcode": "61341",
+  "lat": 41.32803339329089,
+  "lon": -88.70687638835547,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

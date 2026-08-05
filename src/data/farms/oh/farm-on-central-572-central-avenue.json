@@ -1,0 +1,20 @@
+{
+  "slug": "farm-on-central-572-central-avenue",
+  "name": "Farm on Central",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "572 Central Avenue, OH",
+  "locationCity": "572 Central Avenue",
+  "locationState": "OH",
+  "locationZipcode": "45005",
+  "lat": 39.58103000632536,
+  "lon": -84.31552800550848,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.930Z",
+  "crops": []
+}

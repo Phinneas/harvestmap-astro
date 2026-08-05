@@ -1,0 +1,19 @@
+{
+  "slug": "green-acres-345-rock-rd",
+  "name": "Green Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "345 Rock Rd., TN",
+  "locationCity": "345 Rock Rd.",
+  "locationState": "TN",
+  "locationZipcode": "37355",
+  "lat": 35.5431856613663,
+  "lon": -85.9869173141164,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.286Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.286Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mullinix-corn-maze-carrs-mill-rd",
+  "name": "Mullinix Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Carrs Mill Rd, MD",
+  "locationCity": "Carrs Mill Rd",
+  "locationState": "MD",
+  "locationZipcode": "21738",
+  "lat": 39.302982453192,
+  "lon": -77.0233733304593,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.223Z"
+}

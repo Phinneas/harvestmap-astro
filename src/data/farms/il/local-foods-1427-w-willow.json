@@ -1,0 +1,19 @@
+{
+  "slug": "local-foods-1427-w-willow",
+  "name": "Local Foods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1427 W. Willow, IL",
+  "locationCity": "1427 W. Willow",
+  "locationState": "IL",
+  "locationZipcode": "60642",
+  "lat": 41.9140065,
+  "lon": -87.663121,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:51.753Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:51.753Z"
+}

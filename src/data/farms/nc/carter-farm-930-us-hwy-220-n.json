@@ -1,0 +1,19 @@
+{
+  "slug": "carter-farm-930-us-hwy-220-n",
+  "name": "Carter Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "930 US Hwy 220 N, NC",
+  "locationCity": "930 US Hwy 220 N",
+  "locationState": "NC",
+  "locationZipcode": "28338",
+  "lat": 35.0473852789314,
+  "lon": -79.7696795718537,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.840Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.840Z"
+}

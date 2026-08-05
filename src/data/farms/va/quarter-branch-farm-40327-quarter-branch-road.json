@@ -1,0 +1,19 @@
+{
+  "slug": "quarter-branch-farm-40327-quarter-branch-road",
+  "name": "Quarter Branch Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "40327 Quarter Branch Road, VA",
+  "locationCity": "40327 Quarter Branch Road",
+  "locationState": "VA",
+  "locationZipcode": "40327",
+  "lat": 39.280677,
+  "lon": -77.6088831,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.208Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.208Z"
+}

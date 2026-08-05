@@ -1,0 +1,19 @@
+{
+  "slug": "lee-s-orchard-ash-tree-lane",
+  "name": "Lee's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Ash Tree Lane, VA",
+  "locationCity": "Ash Tree Lane",
+  "locationState": "VA",
+  "locationZipcode": "22747",
+  "lat": 38.7254189926784,
+  "lon": -78.1240599593725,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.149Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.149Z"
+}

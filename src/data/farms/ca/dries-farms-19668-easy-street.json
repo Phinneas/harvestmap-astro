@@ -1,0 +1,19 @@
+{
+  "slug": "dries-farms-19668-easy-street",
+  "name": "Dries Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "19668 Easy Street, CA",
+  "locationCity": "19668 Easy Street",
+  "locationState": "CA",
+  "locationZipcode": "19668",
+  "lat": 35.1052349081469,
+  "lon": -118.530525725715,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.734Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.734Z"
+}

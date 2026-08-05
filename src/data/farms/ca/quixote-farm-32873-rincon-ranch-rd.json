@@ -1,0 +1,19 @@
+{
+  "slug": "quixote-farm-32873-rincon-ranch-rd",
+  "name": "Quixote Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "32873 Rincon Ranch Rd, CA",
+  "locationCity": "32873 Rincon Ranch Rd",
+  "locationState": "CA",
+  "locationZipcode": "32873",
+  "lat": 33.31207998251173,
+  "lon": -116.9505960107551,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.843Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.843Z"
+}

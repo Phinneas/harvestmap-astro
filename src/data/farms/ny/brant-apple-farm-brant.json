@@ -1,0 +1,19 @@
+{
+  "slug": "brant-apple-farm-brant",
+  "name": "Brant Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Brant, NY",
+  "locationCity": "Brant",
+  "locationState": "NY",
+  "locationZipcode": "14027",
+  "lat": 42.5894856,
+  "lon": -79.0176015,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.463Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.463Z"
+}

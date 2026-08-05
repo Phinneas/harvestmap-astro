@@ -1,0 +1,19 @@
+{
+  "slug": "adamsville-farmers-market-3633-gray-ave",
+  "name": "Adamsville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3633 Gray Ave., AL",
+  "locationCity": "3633 Gray Ave.",
+  "locationState": "AL",
+  "locationZipcode": "35005",
+  "lat": 33.58846769217967,
+  "lon": -86.93594713162886,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

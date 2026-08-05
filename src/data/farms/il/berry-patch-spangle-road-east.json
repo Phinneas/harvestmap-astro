@@ -1,0 +1,19 @@
+{
+  "slug": "berry-patch-spangle-road-east",
+  "name": "Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Spangle Road East, IL",
+  "locationCity": "Spangle Road East",
+  "locationState": "IL",
+  "locationZipcode": "62088",
+  "lat": 38.976492993057,
+  "lon": -89.7508110058265,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.946Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.946Z"
+}

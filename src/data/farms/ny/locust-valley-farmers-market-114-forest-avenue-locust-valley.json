@@ -1,0 +1,19 @@
+{
+  "slug": "locust-valley-farmers-market-114-forest-avenue-locust-valley",
+  "name": "Locust Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "114 Forest Avenue Locust Valley, NY",
+  "locationCity": "114 Forest Avenue Locust Valley",
+  "locationState": "NY",
+  "locationZipcode": "11560",
+  "lat": 40.87551514524564,
+  "lon": -73.60071360148292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

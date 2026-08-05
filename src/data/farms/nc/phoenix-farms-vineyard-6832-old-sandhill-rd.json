@@ -1,0 +1,19 @@
+{
+  "slug": "phoenix-farms-vineyard-6832-old-sandhill-rd",
+  "name": "Phoenix Farms Vineyard",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6832 Old Sandhill Rd, NC",
+  "locationCity": "6832 Old Sandhill Rd",
+  "locationState": "NC",
+  "locationZipcode": "27821",
+  "lat": 35.30348267187527,
+  "lon": -76.87093358341183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.907Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.907Z"
+}

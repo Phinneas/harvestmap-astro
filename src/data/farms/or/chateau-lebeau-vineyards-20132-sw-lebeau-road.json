@@ -1,0 +1,20 @@
+{
+  "slug": "chateau-lebeau-vineyards-20132-sw-lebeau-road",
+  "name": "Chateau Lebeau Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "20132 Sw Lebeau Road, OR",
+  "locationCity": "20132 Sw Lebeau Road",
+  "locationState": "OR",
+  "locationZipcode": "20132",
+  "lat": 45.38038901769573,
+  "lon": -122.8842640402188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.062Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.062Z",
+  "crops": []
+}

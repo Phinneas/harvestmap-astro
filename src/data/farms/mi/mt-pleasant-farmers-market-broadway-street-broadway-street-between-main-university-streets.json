@@ -1,0 +1,19 @@
+{
+  "slug": "mt-pleasant-farmers-market-broadway-street-broadway-street-between-main-university-streets",
+  "name": "Mt. Pleasant Farmers' Market - Broadway Street",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Broadway Street between Main & University Streets, MI",
+  "locationCity": "Broadway Street between Main & University Streets",
+  "locationState": "MI",
+  "locationZipcode": "48858",
+  "lat": 43.604433,
+  "lon": -84.776052,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.191Z"
+}

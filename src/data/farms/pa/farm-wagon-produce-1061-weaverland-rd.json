@@ -1,0 +1,19 @@
+{
+  "slug": "farm-wagon-produce-1061-weaverland-rd",
+  "name": "Farm Wagon Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1061 Weaverland Rd, PA",
+  "locationCity": "1061 Weaverland Rd",
+  "locationState": "PA",
+  "locationZipcode": "17519",
+  "lat": 40.12627201160709,
+  "lon": -76.05388804155118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.219Z"
+}

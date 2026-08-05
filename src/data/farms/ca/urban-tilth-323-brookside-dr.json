@@ -1,0 +1,20 @@
+{
+  "slug": "urban-tilth-323-brookside-dr",
+  "name": "Urban Tilth",
+  "source": "usda",
+  "directory": "csa",
+  "location": "323 Brookside Dr., CA",
+  "locationCity": "323 Brookside Dr.",
+  "locationState": "CA",
+  "locationZipcode": "94801",
+  "lat": 37.966673568806925,
+  "lon": -122.3663512721501,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.070Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.070Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hillview-farms-223-meyersville-rd-gillette",
+  "name": "Hillview Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "223 Meyersville Rd Gillette, NJ",
+  "locationCity": "223 Meyersville Rd Gillette",
+  "locationState": "NJ",
+  "locationZipcode": "07933",
+  "lat": 40.6929840104156,
+  "lon": -74.4525430418796,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.689Z"
+}

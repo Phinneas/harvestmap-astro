@@ -1,0 +1,19 @@
+{
+  "slug": "central-pennsylvania-food-bank-3908-corey-road",
+  "name": "Central Pennsylvania Food Bank",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3908 Corey Road, PA",
+  "locationCity": "3908 Corey Road",
+  "locationState": "PA",
+  "locationZipcode": "17109",
+  "lat": 40.27406399151033,
+  "lon": -76.82246296518596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.782Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.782Z"
+}

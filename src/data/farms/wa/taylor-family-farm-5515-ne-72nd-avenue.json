@@ -1,0 +1,19 @@
+{
+  "slug": "taylor-family-farm-5515-ne-72nd-avenue",
+  "name": "Taylor Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5515 NE 72nd Avenue, WA",
+  "locationCity": "5515 NE 72nd Avenue",
+  "locationState": "WA",
+  "locationZipcode": "98661",
+  "lat": 45.66248012504656,
+  "lon": -122.59874850632565,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:18.610Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:18.610Z"
+}

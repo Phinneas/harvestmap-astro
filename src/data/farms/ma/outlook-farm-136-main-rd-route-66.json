@@ -1,0 +1,19 @@
+{
+  "slug": "outlook-farm-136-main-rd-route-66",
+  "name": "Outlook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "136 Main Rd Route 66, MA",
+  "locationCity": "136 Main Rd Route 66",
+  "locationState": "MA",
+  "locationZipcode": "01027",
+  "lat": 42.2874085458689,
+  "lon": -72.7615876611781,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.540Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.540Z"
+}

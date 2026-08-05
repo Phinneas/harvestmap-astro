@@ -1,0 +1,19 @@
+{
+  "slug": "bridgeport-farmer-s-market-904-s-main-bridgeport",
+  "name": "Bridgeport Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "904 S Main Bridgeport, NE",
+  "locationCity": "904 S Main Bridgeport",
+  "locationState": "NE",
+  "locationZipcode": "69336",
+  "lat": 41.66604991472756,
+  "lon": -103.09953242992476,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.904Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.904Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rolling-acres-farm-59624-chicago-rd",
+  "name": "Rolling Acres Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "59624 Chicago Rd., IA",
+  "locationCity": "59624 Chicago Rd.",
+  "locationState": "IA",
+  "locationZipcode": "59624",
+  "lat": 41.4770817,
+  "lon": -95.0491459,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.412Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.412Z"
+}

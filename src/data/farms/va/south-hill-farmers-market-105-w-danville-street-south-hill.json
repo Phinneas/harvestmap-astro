@@ -1,0 +1,19 @@
+{
+  "slug": "south-hill-farmers-market-105-w-danville-street-south-hill",
+  "name": "South Hill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 W. Danville Street South Hill, VA",
+  "locationCity": "105 W. Danville Street South Hill",
+  "locationState": "VA",
+  "locationZipcode": "23970",
+  "lat": 36.724415162592784,
+  "lon": -78.13017774702537,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "berry-ranch-988-highway-20-26",
+  "name": "Berry Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "988 Highway 20/26, ID",
+  "locationCity": "988 Highway 20/26",
+  "locationState": "ID",
+  "locationZipcode": "83686",
+  "lat": 43.6629573047341,
+  "lon": -116.405490763437,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.881Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.881Z"
+}

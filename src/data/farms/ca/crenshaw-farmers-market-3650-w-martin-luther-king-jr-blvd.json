@@ -1,0 +1,19 @@
+{
+  "slug": "crenshaw-farmers-market-3650-w-martin-luther-king-jr-blvd",
+  "name": "Crenshaw Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3650 W Martin Luther King Jr Blvd, CA",
+  "locationCity": "3650 W Martin Luther King Jr Blvd",
+  "locationState": "CA",
+  "locationZipcode": "90008",
+  "lat": 34.008706,
+  "lon": -118.33542,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

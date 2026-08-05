@@ -1,0 +1,19 @@
+{
+  "slug": "nelson-s-apple-farm-3010-douglas-avenue",
+  "name": "Nelson’s Apple Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3010 Douglas Avenue, MN",
+  "locationCity": "3010 Douglas Avenue",
+  "locationState": "MN",
+  "locationZipcode": "55088",
+  "lat": 44.5435380025504,
+  "lon": -93.3590869667749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.775Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.775Z"
+}

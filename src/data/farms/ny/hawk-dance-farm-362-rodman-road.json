@@ -1,0 +1,19 @@
+{
+  "slug": "hawk-dance-farm-362-rodman-road",
+  "name": "Hawk Dance Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "362 Rodman Road, NY",
+  "locationCity": "362 Rodman Road",
+  "locationState": "NY",
+  "locationZipcode": "12529",
+  "lat": 42.2099356,
+  "lon": -73.5646119,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.152Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.152Z"
+}

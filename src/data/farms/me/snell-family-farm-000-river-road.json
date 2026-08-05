@@ -1,0 +1,19 @@
+{
+  "slug": "snell-family-farm-000-river-road",
+  "name": "Snell Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "000 River Road, ME",
+  "locationCity": "000 River Road",
+  "locationState": "ME",
+  "locationZipcode": "04093",
+  "lat": 43.6344478893571,
+  "lon": -70.5718477296028,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.881Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.881Z"
+}

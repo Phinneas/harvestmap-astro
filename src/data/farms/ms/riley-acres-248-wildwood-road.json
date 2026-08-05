@@ -1,0 +1,19 @@
+{
+  "slug": "riley-acres-248-wildwood-road",
+  "name": "Riley Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "248 Wildwood Road, MS",
+  "locationCity": "248 Wildwood Road",
+  "locationState": "MS",
+  "locationZipcode": "38635",
+  "lat": 34.7939730935573,
+  "lon": -89.551062205229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:24.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:24.018Z"
+}

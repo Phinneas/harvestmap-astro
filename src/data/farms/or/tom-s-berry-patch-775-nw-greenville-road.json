@@ -1,0 +1,19 @@
+{
+  "slug": "tom-s-berry-patch-775-nw-greenville-road",
+  "name": "Tom's Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "775 NW Greenville Road, OR",
+  "locationCity": "775 NW Greenville Road",
+  "locationState": "OR",
+  "locationZipcode": "97116",
+  "lat": 45.59274907752,
+  "lon": -123.116548054222,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.898Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.898Z"
+}

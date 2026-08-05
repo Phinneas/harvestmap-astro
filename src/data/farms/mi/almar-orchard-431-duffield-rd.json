@@ -1,0 +1,20 @@
+{
+  "slug": "almar-orchard-431-duffield-rd",
+  "name": "Almar Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "431 Duffield Rd, MI",
+  "locationCity": "431 Duffield Rd",
+  "locationState": "MI",
+  "locationZipcode": "48433",
+  "lat": 43.0887895935964,
+  "lon": -83.9120800096039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.631Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.631Z",
+  "crops": []
+}

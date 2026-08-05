@@ -1,0 +1,19 @@
+{
+  "slug": "off-beet-farm-3796-63rd-st",
+  "name": "Off Beet Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3796 63rd St, CO",
+  "locationCity": "3796 63rd St",
+  "locationState": "CO",
+  "locationZipcode": "80301",
+  "lat": 40.04326954486001,
+  "lon": -105.20629740562583,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.595Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.595Z"
+}

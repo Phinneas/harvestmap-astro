@@ -1,0 +1,19 @@
+{
+  "slug": "riverton-lander-winter-farmers-market-main-and-broadway-riverton",
+  "name": "Riverton/Lander Winter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main and Broadway Riverton, WY",
+  "locationCity": "Main and Broadway Riverton",
+  "locationState": "WY",
+  "locationZipcode": "82501",
+  "lat": 43.02465001727671,
+  "lon": -108.3863199727546,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

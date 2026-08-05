@@ -1,0 +1,19 @@
+{
+  "slug": "greenwood-orchards-rt-4-174-auburn-road",
+  "name": "Greenwood Orchards",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Rt. 4 - 174 Auburn Road, ME",
+  "locationCity": "Rt. 4 - 174 Auburn Road",
+  "locationState": "ME",
+  "locationZipcode": "04282",
+  "lat": 44.194885447712096,
+  "lon": -70.2418756253281,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:00.121Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:00.121Z"
+}

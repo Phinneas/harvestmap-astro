@@ -1,0 +1,19 @@
+{
+  "slug": "bennington-farmers-market-150-veterans-memorial-drive",
+  "name": "Bennington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "150 Veterans Memorial Drive, VT",
+  "locationCity": "150 Veterans Memorial Drive",
+  "locationState": "VT",
+  "locationZipcode": "05201",
+  "lat": 42.887879311885975,
+  "lon": -73.19790384112413,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.355Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.355Z"
+}

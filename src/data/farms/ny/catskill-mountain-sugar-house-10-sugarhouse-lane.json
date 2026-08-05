@@ -1,0 +1,19 @@
+{
+  "slug": "catskill-mountain-sugar-house-10-sugarhouse-lane",
+  "name": "Catskill Mountain Sugar House",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10 Sugarhouse Lane, NY",
+  "locationCity": "10 Sugarhouse Lane",
+  "locationState": "NY",
+  "locationZipcode": "12740",
+  "lat": 41.8781089698328,
+  "lon": -74.5249392159865,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.210Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.210Z"
+}

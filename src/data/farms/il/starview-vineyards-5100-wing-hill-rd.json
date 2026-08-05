@@ -1,0 +1,19 @@
+{
+  "slug": "starview-vineyards-5100-wing-hill-rd",
+  "name": "StarView Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5100 Wing Hill Rd, IL",
+  "locationCity": "5100 Wing Hill Rd",
+  "locationState": "IL",
+  "locationZipcode": "62920",
+  "lat": 37.52898500185879,
+  "lon": -89.1663989839919,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.950Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.950Z"
+}

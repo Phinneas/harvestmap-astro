@@ -1,0 +1,19 @@
+{
+  "slug": "tractor-food-and-farms-po-box-1507",
+  "name": "TRACTOR Food and Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 1507, NC",
+  "locationCity": "PO Box 1507",
+  "locationState": "NC",
+  "locationZipcode": "28714",
+  "lat": 35.9173357,
+  "lon": -82.300961,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.879Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.879Z"
+}

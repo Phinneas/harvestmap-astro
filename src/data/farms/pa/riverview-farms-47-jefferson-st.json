@@ -1,0 +1,19 @@
+{
+  "slug": "riverview-farms-47-jefferson-st",
+  "name": "Riverview Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "47 Jefferson St., PA",
+  "locationCity": "47 Jefferson St.",
+  "locationState": "PA",
+  "locationZipcode": "16351",
+  "lat": 41.6849289,
+  "lon": -79.395038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.370Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.370Z"
+}

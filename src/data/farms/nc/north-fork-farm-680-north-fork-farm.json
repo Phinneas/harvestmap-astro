@@ -1,0 +1,19 @@
+{
+  "slug": "north-fork-farm-680-north-fork-farm",
+  "name": "North Fork Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "680 North Fork Farm, NC",
+  "locationCity": "680 North Fork Farm",
+  "locationState": "NC",
+  "locationZipcode": "28698",
+  "lat": 36.323594,
+  "lon": -81.774524,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.851Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.851Z"
+}

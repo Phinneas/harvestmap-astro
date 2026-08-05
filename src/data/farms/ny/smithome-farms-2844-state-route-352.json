@@ -1,0 +1,20 @@
+{
+  "slug": "smithome-farms-2844-state-route-352",
+  "name": "Smithome Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2844 State Route 352, NY",
+  "locationCity": "2844 State Route 352",
+  "locationState": "NY",
+  "locationZipcode": "14903",
+  "lat": 42.1198660238273,
+  "lon": -76.9268796019847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.212Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.212Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "central-brooklyn-csa-1256-dean-street",
+  "name": "Central Brooklyn CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1256 Dean Street, NY",
+  "locationCity": "1256 Dean Street",
+  "locationState": "NY",
+  "locationZipcode": "11216",
+  "lat": 40.67664742966957,
+  "lon": -73.94768768639662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.177Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.177Z"
+}

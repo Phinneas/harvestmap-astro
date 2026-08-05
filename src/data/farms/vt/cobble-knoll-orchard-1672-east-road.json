@@ -1,0 +1,19 @@
+{
+  "slug": "cobble-knoll-orchard-1672-east-road",
+  "name": "Cobble Knoll Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1672 East Road, VT",
+  "locationCity": "1672 East Road",
+  "locationState": "VT",
+  "locationZipcode": "05743",
+  "lat": 43.689837015089495,
+  "lon": -73.26885000489133,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:48.660Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:48.660Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "hillside-springs-farm-32-comerford-rd",
+  "name": "Hillside Springs Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "32 Comerford Rd, NH",
+  "locationCity": "32 Comerford Rd",
+  "locationState": "NH",
+  "locationZipcode": "03467",
+  "lat": 42.961649424316846,
+  "lon": -72.4271861516637,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.614Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.614Z"
+}

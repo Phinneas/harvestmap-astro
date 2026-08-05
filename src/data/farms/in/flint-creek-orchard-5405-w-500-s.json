@@ -1,0 +1,19 @@
+{
+  "slug": "flint-creek-orchard-5405-w-500-s",
+  "name": "Flint Creek Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5405 W 500 S, IN",
+  "locationCity": "5405 W 500 S",
+  "locationState": "IN",
+  "locationZipcode": "47992",
+  "lat": 40.3445749917741,
+  "lon": -87.0076140048949,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.453Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.453Z"
+}

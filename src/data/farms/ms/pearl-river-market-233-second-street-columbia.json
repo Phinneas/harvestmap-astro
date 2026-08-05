@@ -1,0 +1,19 @@
+{
+  "slug": "pearl-river-market-233-second-street-columbia",
+  "name": "Pearl River Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "233 Second Street Columbia, MS",
+  "locationCity": "233 Second Street Columbia",
+  "locationState": "MS",
+  "locationZipcode": "39429",
+  "lat": 31.25191199450334,
+  "lon": -89.8367283091122,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

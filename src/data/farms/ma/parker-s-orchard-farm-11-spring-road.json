@@ -1,0 +1,20 @@
+{
+  "slug": "parker-s-orchard-farm-11-spring-road",
+  "name": "Parker's Orchard Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11 Spring Road, MA",
+  "locationCity": "11 Spring Road",
+  "locationState": "MA",
+  "locationZipcode": "01581",
+  "lat": 42.2406167687106,
+  "lon": -71.5998285969718,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.548Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.548Z",
+  "crops": []
+}

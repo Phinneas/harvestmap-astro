@@ -1,0 +1,20 @@
+{
+  "slug": "ambrose-farms-991-bear-creek-road",
+  "name": "Ambrose Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "991 Bear Creek Road, PA",
+  "locationCity": "991 Bear Creek Road",
+  "locationState": "PA",
+  "locationZipcode": "16023",
+  "lat": 40.7867500143064,
+  "lon": -79.7474409824924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.068Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "tempe-farmer-s-market-tempe-az-85281",
+  "name": "Tempe Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Tempe AZ 85281, AZ",
+  "locationCity": "Tempe AZ 85281",
+  "locationState": "AZ",
+  "locationZipcode": "85281",
+  "lat": 33.42316000000005,
+  "lon": -111.94552439999995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.031Z"
+}

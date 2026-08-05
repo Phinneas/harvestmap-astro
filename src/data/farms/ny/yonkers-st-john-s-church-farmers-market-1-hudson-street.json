@@ -1,0 +1,19 @@
+{
+  "slug": "yonkers-st-john-s-church-farmers-market-1-hudson-street",
+  "name": "Yonkers/St. John's Church Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Hudson Street, NY",
+  "locationCity": "1 Hudson Street",
+  "locationState": "NY",
+  "locationZipcode": "10701",
+  "lat": 40.93324526598161,
+  "lon": -73.89872841526598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

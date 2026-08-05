@@ -1,0 +1,19 @@
+{
+  "slug": "russell-county-farmers-market-1500-14th-st",
+  "name": "Russell County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1500 14th St., AL",
+  "locationCity": "1500 14th St.",
+  "locationState": "AL",
+  "locationZipcode": "36868",
+  "lat": 32.473070725396866,
+  "lon": -85.03838754339773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

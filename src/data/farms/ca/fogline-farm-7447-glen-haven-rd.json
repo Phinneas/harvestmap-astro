@@ -1,0 +1,19 @@
+{
+  "slug": "fogline-farm-7447-glen-haven-rd",
+  "name": "Fogline Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "7447 Glen Haven Rd, CA",
+  "locationCity": "7447 Glen Haven Rd",
+  "locationState": "CA",
+  "locationZipcode": "95073",
+  "lat": 37.024414,
+  "lon": -121.9342672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.039Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.039Z"
+}

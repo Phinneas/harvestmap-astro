@@ -1,0 +1,19 @@
+{
+  "slug": "salem-farmers-market-32-derby-square",
+  "name": "Salem Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "32 Derby Square, MA",
+  "locationCity": "32 Derby Square",
+  "locationState": "MA",
+  "locationZipcode": "01970",
+  "lat": 42.520767,
+  "lon": -70.894541,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.789Z"
+}

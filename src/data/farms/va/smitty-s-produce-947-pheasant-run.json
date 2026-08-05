@@ -1,0 +1,19 @@
+{
+  "slug": "smitty-s-produce-947-pheasant-run",
+  "name": "Smitty's Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "947 Pheasant Run, VA",
+  "locationCity": "947 Pheasant Run",
+  "locationState": "VA",
+  "locationZipcode": "23188",
+  "lat": 37.32066599993067,
+  "lon": -76.75714396720619,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.406Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "nordland-farms-produce-131-east-main-street",
+  "name": "Nordland Farms Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "131 East Main Street, PA",
+  "locationCity": "131 East Main Street",
+  "locationState": "PA",
+  "locationZipcode": "16405",
+  "lat": 41.9472120199107,
+  "lon": -79.572099027956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.104Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.104Z",
+  "crops": []
+}

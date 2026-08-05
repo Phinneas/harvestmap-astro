@@ -1,0 +1,20 @@
+{
+  "slug": "ferris-farm-produce-inc-83-ferris-road",
+  "name": "Ferris Farm Produce, Inc.",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "83 Ferris Road, PA",
+  "locationCity": "83 Ferris Road",
+  "locationState": "PA",
+  "locationZipcode": "16142",
+  "lat": 41.1330420156629,
+  "lon": -80.3174060398328,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.085Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.085Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "the-pavilion-farmers-market-2620-willow-point-way",
+  "name": "The Pavilion Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2620 Willow Point Way, TN",
+  "locationCity": "2620 Willow Point Way",
+  "locationState": "TN",
+  "locationZipcode": "37931",
+  "lat": 35.9602511,
+  "lon": -84.1375614,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.538Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.538Z"
+}

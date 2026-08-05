@@ -1,0 +1,19 @@
+{
+  "slug": "ridgeview-farm-488-kinsman-rd",
+  "name": "Ridgeview Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "488 Kinsman Rd, OH",
+  "locationCity": "488 Kinsman Rd",
+  "locationState": "OH",
+  "locationZipcode": "44062",
+  "lat": 41.4588674934477,
+  "lon": -81.0101188135262,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.886Z"
+}

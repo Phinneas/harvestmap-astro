@@ -1,0 +1,19 @@
+{
+  "slug": "montana-co-op-401-main-street",
+  "name": "Montana Co-op",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "401 Main Street, MT",
+  "locationCity": "401 Main Street",
+  "locationState": "MT",
+  "locationZipcode": "59860",
+  "lat": 47.6921422,
+  "lon": -114.16277,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:23.719Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:23.719Z"
+}

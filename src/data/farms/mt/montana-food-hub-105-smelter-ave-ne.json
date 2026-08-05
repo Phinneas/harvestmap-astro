@@ -1,0 +1,19 @@
+{
+  "slug": "montana-food-hub-105-smelter-ave-ne",
+  "name": "Montana Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "105 Smelter Ave NE, MT",
+  "locationCity": "105 Smelter Ave NE",
+  "locationState": "MT",
+  "locationZipcode": "59404",
+  "lat": 47.525430734979665,
+  "lon": -111.30932296221579,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:23.762Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:23.762Z"
+}

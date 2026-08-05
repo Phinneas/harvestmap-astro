@@ -1,0 +1,19 @@
+{
+  "slug": "wadena-farmers-market-aldrich-ave-100-aldrich-ave-se",
+  "name": "Wadena Farmers' Market - Aldrich Ave",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Aldrich Ave SE, MN",
+  "locationCity": "100 Aldrich Ave SE",
+  "locationState": "MN",
+  "locationZipcode": "56482",
+  "lat": 46.4406844,
+  "lon": -95.1355115,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

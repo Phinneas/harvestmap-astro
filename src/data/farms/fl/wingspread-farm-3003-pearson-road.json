@@ -1,0 +1,19 @@
+{
+  "slug": "wingspread-farm-3003-pearson-road",
+  "name": "Wingspread Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3003 Pearson Road, FL",
+  "locationCity": "3003 Pearson Road",
+  "locationState": "FL",
+  "locationZipcode": "33596",
+  "lat": 27.900748,
+  "lon": -82.226861,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:37.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:37.830Z"
+}

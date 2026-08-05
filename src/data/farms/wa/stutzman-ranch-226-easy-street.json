@@ -1,0 +1,19 @@
+{
+  "slug": "stutzman-ranch-226-easy-street",
+  "name": "Stutzman Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "226 Easy Street, WA",
+  "locationCity": "226 Easy Street",
+  "locationState": "WA",
+  "locationZipcode": "98801",
+  "lat": 47.4729846200442,
+  "lon": -120.336662340902,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.237Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.237Z"
+}

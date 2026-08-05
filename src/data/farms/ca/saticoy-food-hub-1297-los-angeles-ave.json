@@ -1,0 +1,19 @@
+{
+  "slug": "saticoy-food-hub-1297-los-angeles-ave",
+  "name": "Saticoy Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1297 Los Angeles Ave, CA",
+  "locationCity": "1297 Los Angeles Ave",
+  "locationState": "CA",
+  "locationZipcode": "93004",
+  "lat": 34.28323900992201,
+  "lon": -119.148402018076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "valdosta-state-farmers-market-1500-s-patterson-sreet",
+  "name": "Valdosta State Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1500 S. Patterson Sreet., GA",
+  "locationCity": "1500 S. Patterson Sreet.",
+  "locationState": "GA",
+  "locationZipcode": "31601",
+  "lat": 30.813671022156356,
+  "lon": -83.26432943221519,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

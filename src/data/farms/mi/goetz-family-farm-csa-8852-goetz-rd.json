@@ -1,0 +1,19 @@
+{
+  "slug": "goetz-family-farm-csa-8852-goetz-rd",
+  "name": "Goetz Family Farm CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8852 Goetz Rd, MI",
+  "locationCity": "8852 Goetz Rd",
+  "locationState": "MI",
+  "locationZipcode": "49276",
+  "lat": 41.821349990470964,
+  "lon": -83.75981897290788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.104Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.104Z"
+}

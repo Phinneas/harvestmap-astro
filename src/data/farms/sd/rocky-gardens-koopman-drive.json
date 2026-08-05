@@ -1,0 +1,19 @@
+{
+  "slug": "rocky-gardens-koopman-drive",
+  "name": "Rocky Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Koopman Drive, SD",
+  "locationCity": "Koopman Drive",
+  "locationState": "SD",
+  "locationZipcode": "57252",
+  "lat": 45.2431749995999,
+  "lon": -96.5642500047406,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:07.732Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:07.732Z"
+}

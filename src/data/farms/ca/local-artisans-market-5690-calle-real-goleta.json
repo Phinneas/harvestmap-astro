@@ -1,0 +1,19 @@
+{
+  "slug": "local-artisans-market-5690-calle-real-goleta",
+  "name": "Local Artisans Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5690 Calle Real Goleta, CA",
+  "locationCity": "5690 Calle Real Goleta",
+  "locationState": "CA",
+  "locationZipcode": "93117",
+  "lat": 34.44116991847988,
+  "lon": -119.82268379430913,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

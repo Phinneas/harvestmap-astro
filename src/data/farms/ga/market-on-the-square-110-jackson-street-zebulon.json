@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-the-square-110-jackson-street-zebulon",
+  "name": "Market on the Square",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 Jackson Street Zebulon, GA",
+  "locationCity": "110 Jackson Street Zebulon",
+  "locationState": "GA",
+  "locationZipcode": "30295",
+  "lat": 33.10390685192844,
+  "lon": -84.3366454980696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

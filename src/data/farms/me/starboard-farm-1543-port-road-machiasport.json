@@ -1,0 +1,19 @@
+{
+  "slug": "starboard-farm-1543-port-road-machiasport",
+  "name": "Starboard Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1543 Port Road Machiasport, ME",
+  "locationCity": "1543 Port Road Machiasport",
+  "locationState": "ME",
+  "locationZipcode": "04655",
+  "lat": 44.62519599953901,
+  "lon": -67.39417556529384,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.053Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:52.053Z"
+}

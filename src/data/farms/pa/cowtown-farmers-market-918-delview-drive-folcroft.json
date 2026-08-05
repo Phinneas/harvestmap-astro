@@ -1,0 +1,19 @@
+{
+  "slug": "cowtown-farmers-market-918-delview-drive-folcroft",
+  "name": "Cowtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "918 Delview Drive Folcroft, PA",
+  "locationCity": "918 Delview Drive Folcroft",
+  "locationState": "PA",
+  "locationZipcode": "19032",
+  "lat": 39.88826862947021,
+  "lon": -75.28363293020345,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

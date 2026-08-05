@@ -1,0 +1,20 @@
+{
+  "slug": "fields-farm-61915-pettigrew-rd",
+  "name": "Fields Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "61915 Pettigrew Rd, OR",
+  "locationCity": "61915 Pettigrew Rd",
+  "locationState": "OR",
+  "locationZipcode": "61915",
+  "lat": 44.0484867,
+  "lon": -121.2687939,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.930Z",
+  "crops": []
+}

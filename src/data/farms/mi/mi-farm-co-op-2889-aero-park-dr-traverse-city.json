@@ -1,0 +1,19 @@
+{
+  "slug": "mi-farm-co-op-2889-aero-park-dr-traverse-city",
+  "name": "MI Farm Co-op",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2889 Aero-Park Dr. Traverse City, MI",
+  "locationCity": "2889 Aero-Park Dr. Traverse City",
+  "locationState": "MI",
+  "locationZipcode": "49686",
+  "lat": 44.74415047315142,
+  "lon": -85.56256249806032,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.245Z"
+}

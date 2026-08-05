@@ -1,0 +1,19 @@
+{
+  "slug": "hillcrest-of-orchard-44100-state-highway-171",
+  "name": "Hillcrest of Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "44100 State Highway 171, WI",
+  "locationCity": "44100 State Highway 171",
+  "locationState": "WI",
+  "locationZipcode": "44100",
+  "lat": 43.3269599933769,
+  "lon": -90.741550033326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.242Z"
+}

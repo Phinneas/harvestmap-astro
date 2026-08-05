@@ -1,0 +1,19 @@
+{
+  "slug": "the-berry-patch-226-state-hwy-75-south",
+  "name": "The Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "226 State Hwy 75 South, TX",
+  "locationCity": "226 State Hwy 75 South",
+  "locationState": "TX",
+  "locationZipcode": "75840",
+  "lat": 31.6828270171223,
+  "lon": -96.1631680168971,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.572Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.572Z"
+}

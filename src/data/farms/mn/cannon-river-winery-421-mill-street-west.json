@@ -1,0 +1,19 @@
+{
+  "slug": "cannon-river-winery-421-mill-street-west",
+  "name": "Cannon River Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "421 Mill Street West, MN",
+  "locationCity": "421 Mill Street West",
+  "locationState": "MN",
+  "locationZipcode": "55009",
+  "lat": 44.5076600203792,
+  "lon": -92.9065790273745,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.682Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.682Z"
+}

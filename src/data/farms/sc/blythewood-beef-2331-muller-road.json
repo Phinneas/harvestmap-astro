@@ -1,0 +1,19 @@
+{
+  "slug": "blythewood-beef-2331-muller-road",
+  "name": "Blythewood Beef",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2331 Muller Road, SC",
+  "locationCity": "2331 Muller Road",
+  "locationState": "SC",
+  "locationZipcode": "29016",
+  "lat": 34.218253,
+  "lon": -81.063775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.138Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.138Z"
+}

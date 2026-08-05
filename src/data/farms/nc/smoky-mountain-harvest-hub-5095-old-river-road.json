@@ -1,0 +1,19 @@
+{
+  "slug": "smoky-mountain-harvest-hub-5095-old-river-road",
+  "name": "Smoky Mountain Harvest Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5095 Old River Road, NC",
+  "locationCity": "5095 Old River Road",
+  "locationState": "NC",
+  "locationZipcode": "28786",
+  "lat": 35.479109904486265,
+  "lon": -82.88938087545772,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.329Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.329Z"
+}

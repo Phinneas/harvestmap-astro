@@ -1,0 +1,19 @@
+{
+  "slug": "civic-center-farmers-market-100-n-5th-ave-w",
+  "name": "Civic Center Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 N 5th Ave W, MN",
+  "locationCity": "100 N 5th Ave W",
+  "locationState": "MN",
+  "locationZipcode": "55802",
+  "lat": 46.7834827,
+  "lon": -92.1065971,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "second-street-farmer-s-market-219-second-street-amherst",
+  "name": "Second Street Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "219 Second Street Amherst, VA",
+  "locationCity": "219 Second Street Amherst",
+  "locationState": "VA",
+  "locationZipcode": "24521",
+  "lat": 37.58374952936119,
+  "lon": -79.04923801101137,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "appel-farms-5909-elm-springs-road",
+  "name": "Appel Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5909 Elm Springs Road, AR",
+  "locationCity": "5909 Elm Springs Road",
+  "locationState": "AR",
+  "locationZipcode": "72762",
+  "lat": 36.193514,
+  "lon": -94.195752,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:30.927Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:30.927Z"
+}

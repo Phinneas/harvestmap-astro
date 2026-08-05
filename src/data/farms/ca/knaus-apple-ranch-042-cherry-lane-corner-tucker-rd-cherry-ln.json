@@ -1,0 +1,20 @@
+{
+  "slug": "knaus-apple-ranch-042-cherry-lane-corner-tucker-rd-cherry-ln",
+  "name": "Knaus Apple Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "042 Cherry Lane (corner Tucker Rd & Cherry Ln), CA",
+  "locationCity": "042 Cherry Lane (corner Tucker Rd & Cherry Ln)",
+  "locationState": "CA",
+  "locationZipcode": "93561",
+  "lat": 35.1205999800566,
+  "lon": -118.467759964274,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.810Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.810Z",
+  "crops": []
+}

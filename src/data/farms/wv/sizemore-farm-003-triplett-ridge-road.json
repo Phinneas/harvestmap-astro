@@ -1,0 +1,19 @@
+{
+  "slug": "sizemore-farm-003-triplett-ridge-road",
+  "name": "Sizemore Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "003 Triplett Ridge Road, WV",
+  "locationCity": "003 Triplett Ridge Road",
+  "locationState": "WV",
+  "locationZipcode": "25043",
+  "lat": 38.4630577676899,
+  "lon": -81.0743709461293,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.833Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.833Z"
+}

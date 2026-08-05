@@ -1,0 +1,19 @@
+{
+  "slug": "ward-vegetables-23380-16-mile-rd",
+  "name": "Ward Vegetables",
+  "source": "usda",
+  "directory": "csa",
+  "location": "23380 16 Mile Rd., MI",
+  "locationCity": "23380 16 Mile Rd.",
+  "locationState": "MI",
+  "locationZipcode": "23380",
+  "lat": 43.700946096191615,
+  "lon": -85.55139294152679,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.099Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.099Z"
+}

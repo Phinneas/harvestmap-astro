@@ -1,0 +1,19 @@
+{
+  "slug": "kerber-s-dairy-dennis-circle",
+  "name": "Kerber's Dairy",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dennis Circle, PA",
+  "locationCity": "Dennis Circle",
+  "locationState": "PA",
+  "locationZipcode": "15642",
+  "lat": 40.3113189946447,
+  "lon": -79.7394550404229,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.166Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.166Z"
+}

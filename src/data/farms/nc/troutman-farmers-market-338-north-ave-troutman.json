@@ -1,0 +1,19 @@
+{
+  "slug": "troutman-farmers-market-338-north-ave-troutman",
+  "name": "Troutman Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "338 North Ave Troutman, NC",
+  "locationCity": "338 North Ave Troutman",
+  "locationState": "NC",
+  "locationZipcode": "28166",
+  "lat": 35.70622766494537,
+  "lon": -80.89068288917301,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

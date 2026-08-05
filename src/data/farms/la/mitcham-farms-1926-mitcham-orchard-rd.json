@@ -1,0 +1,20 @@
+{
+  "slug": "mitcham-farms-1926-mitcham-orchard-rd",
+  "name": "Mitcham Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1926 Mitcham Orchard Rd., LA",
+  "locationCity": "1926 Mitcham Orchard Rd.",
+  "locationState": "LA",
+  "locationZipcode": "71270",
+  "lat": 32.56566299710687,
+  "lon": -92.68458700398197,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z",
+  "crops": []
+}

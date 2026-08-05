@@ -1,0 +1,20 @@
+{
+  "slug": "lewin-farms-812-sound-ave",
+  "name": "Lewin Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "812 Sound Ave, NY",
+  "locationCity": "812 Sound Ave",
+  "locationState": "NY",
+  "locationZipcode": "11933",
+  "lat": 40.9476700243297,
+  "lon": -72.8105292156388,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.973Z",
+  "crops": []
+}

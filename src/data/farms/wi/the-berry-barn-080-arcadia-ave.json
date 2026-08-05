@@ -1,0 +1,19 @@
+{
+  "slug": "the-berry-barn-080-arcadia-ave",
+  "name": "The Berry Barn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "080 Arcadia Ave, WI",
+  "locationCity": "080 Arcadia Ave",
+  "locationState": "WI",
+  "locationZipcode": "54666",
+  "lat": 44.1391066309925,
+  "lon": -90.5911460870015,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.309Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.309Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mount-pleasant-farms-2201-mount-pleasant-road",
+  "name": "Mount Pleasant Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2201 Mount Pleasant Road, VA",
+  "locationCity": "2201 Mount Pleasant Road",
+  "locationState": "VA",
+  "locationZipcode": "23322",
+  "lat": 36.713688,
+  "lon": -76.141122,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.265Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.265Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "new-earth-farm-11000-nw-jackson-quarry-rd",
+  "name": "New Earth Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "11000 NW Jackson Quarry Rd, OR",
+  "locationCity": "11000 NW Jackson Quarry Rd",
+  "locationState": "OR",
+  "locationZipcode": "11000",
+  "lat": 45.599028,
+  "lon": -122.93925,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.442Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.442Z"
+}

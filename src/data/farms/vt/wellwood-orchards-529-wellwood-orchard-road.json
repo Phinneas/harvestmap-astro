@@ -1,0 +1,19 @@
+{
+  "slug": "wellwood-orchards-529-wellwood-orchard-road",
+  "name": "Wellwood Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "529 Wellwood Orchard Road, VT",
+  "locationCity": "529 Wellwood Orchard Road",
+  "locationState": "VT",
+  "locationZipcode": "05156",
+  "lat": 43.3523460120672,
+  "lon": -72.4777270073433,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.024Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.024Z"
+}

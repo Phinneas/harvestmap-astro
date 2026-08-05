@@ -1,0 +1,19 @@
+{
+  "slug": "berry-patch-569-yorkridge-road",
+  "name": "Berry Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "569 Yorkridge Road, IN",
+  "locationCity": "569 Yorkridge Road",
+  "locationState": "IN",
+  "locationZipcode": "47022",
+  "lat": 39.1965624555373,
+  "lon": -84.9538131672174,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.436Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.436Z"
+}

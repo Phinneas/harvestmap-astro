@@ -1,0 +1,19 @@
+{
+  "slug": "avila-valley-barn-6775-avila-valley-drive",
+  "name": "Avila Valley Barn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6775 Avila Valley Drive, CA",
+  "locationCity": "6775 Avila Valley Drive",
+  "locationState": "CA",
+  "locationZipcode": "93402",
+  "lat": 35.1898852458713,
+  "lon": -120.708938374545,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.790Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.790Z"
+}

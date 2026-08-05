@@ -1,0 +1,19 @@
+{
+  "slug": "little-farmers-market-4-camper-park-rd-dahlonega",
+  "name": "Little Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4 Camper Park Rd Dahlonega, GA",
+  "locationCity": "4 Camper Park Rd Dahlonega",
+  "locationState": "GA",
+  "locationZipcode": "30533",
+  "lat": 34.56319090948414,
+  "lon": -83.96957010032443,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

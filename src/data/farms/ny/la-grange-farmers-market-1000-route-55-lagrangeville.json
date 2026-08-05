@@ -1,0 +1,19 @@
+{
+  "slug": "la-grange-farmers-market-1000-route-55-lagrangeville",
+  "name": "La Grange Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 Route 55 Lagrangeville, NY",
+  "locationCity": "1000 Route 55 Lagrangeville",
+  "locationState": "NY",
+  "locationZipcode": "12540",
+  "lat": 41.67210399152839,
+  "lon": -73.80775345436967,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

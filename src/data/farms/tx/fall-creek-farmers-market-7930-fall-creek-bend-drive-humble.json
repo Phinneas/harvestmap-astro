@@ -1,0 +1,19 @@
+{
+  "slug": "fall-creek-farmers-market-7930-fall-creek-bend-drive-humble",
+  "name": "Fall Creek Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7930 Fall Creek Bend Drive Humble, TX",
+  "locationCity": "7930 Fall Creek Bend Drive Humble",
+  "locationState": "TX",
+  "locationZipcode": "77396",
+  "lat": 29.93317984148721,
+  "lon": -95.27317004072268,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.199Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.199Z"
+}

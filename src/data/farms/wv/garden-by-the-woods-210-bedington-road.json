@@ -1,0 +1,19 @@
+{
+  "slug": "garden-by-the-woods-210-bedington-road",
+  "name": "Garden by the Woods",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "210 Bedington Road, WV",
+  "locationCity": "210 Bedington Road",
+  "locationState": "WV",
+  "locationZipcode": "25402",
+  "lat": 39.5248351481423,
+  "lon": -77.9153265504714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.908Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.908Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "thornfield-330th-ave",
+  "name": "Thornfield",
+  "source": "usda",
+  "directory": "csa",
+  "location": "330th Ave, WI",
+  "locationCity": "330th Ave",
+  "locationState": "WI",
+  "locationZipcode": "54751",
+  "lat": 44.79935785359069,
+  "lon": -91.86126163605037,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:12.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:12.020Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "missoulamaze-1010-clements-road",
+  "name": "MissoulaMaze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1010 Clements Road, MT",
+  "locationCity": "1010 Clements Road",
+  "locationState": "MT",
+  "locationZipcode": "59802",
+  "lat": 46.8616987936486,
+  "lon": -114.080394401252,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:09.758Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:09.758Z"
+}

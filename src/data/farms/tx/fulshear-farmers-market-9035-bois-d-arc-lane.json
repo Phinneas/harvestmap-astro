@@ -1,0 +1,19 @@
+{
+  "slug": "fulshear-farmers-market-9035-bois-d-arc-lane",
+  "name": "Fulshear Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9035 Bois d\\'Arc Lane, TX",
+  "locationCity": "9035 Bois d\\'Arc Lane",
+  "locationState": "TX",
+  "locationZipcode": "77406",
+  "lat": 29.690226,
+  "lon": -95.888475,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.054Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.054Z"
+}

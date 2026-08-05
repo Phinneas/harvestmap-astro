@@ -1,0 +1,19 @@
+{
+  "slug": "bensons-pond-6-pine-st",
+  "name": "Bensons Pond",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6 Pine St, MA",
+  "locationCity": "6 Pine St",
+  "locationState": "MA",
+  "locationZipcode": "02346",
+  "lat": 41.8300595396657,
+  "lon": -70.7745974990773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.886Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.886Z"
+}

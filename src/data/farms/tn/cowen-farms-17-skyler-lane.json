@@ -1,0 +1,19 @@
+{
+  "slug": "cowen-farms-17-skyler-lane",
+  "name": "Cowen Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "17 Skyler Lane, TN",
+  "locationCity": "17 Skyler Lane",
+  "locationState": "TN",
+  "locationZipcode": "38316",
+  "lat": 36.0519549837578,
+  "lon": -88.8295449637014,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.178Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.178Z"
+}

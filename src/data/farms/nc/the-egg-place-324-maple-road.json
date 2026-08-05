@@ -1,0 +1,19 @@
+{
+  "slug": "the-egg-place-324-maple-road",
+  "name": "The Egg Place",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "324 Maple Road, NC",
+  "locationCity": "324 Maple Road",
+  "locationState": "NC",
+  "locationZipcode": "27956",
+  "lat": 36.4053076908017,
+  "lon": -76.0207660291441,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.631Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.631Z"
+}

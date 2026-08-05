@@ -1,0 +1,19 @@
+{
+  "slug": "southport-farmers-market-2810-e-southport-road-indianapolis",
+  "name": "Southport Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2810 E Southport Road Indianapolis, IN",
+  "locationCity": "2810 E Southport Road Indianapolis",
+  "locationState": "IN",
+  "locationZipcode": "46227",
+  "lat": 39.665104785575444,
+  "lon": -86.11555713513405,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.635Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.635Z"
+}

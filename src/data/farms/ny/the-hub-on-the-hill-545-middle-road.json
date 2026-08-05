@@ -1,0 +1,19 @@
+{
+  "slug": "the-hub-on-the-hill-545-middle-road",
+  "name": "The Hub on the Hill",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "545 Middle Road, NY",
+  "locationCity": "545 Middle Road",
+  "locationState": "NY",
+  "locationZipcode": "12936",
+  "lat": 44.3074311,
+  "lon": -73.382001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.988Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.988Z"
+}

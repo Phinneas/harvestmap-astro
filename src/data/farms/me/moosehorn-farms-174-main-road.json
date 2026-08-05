@@ -1,0 +1,19 @@
+{
+  "slug": "moosehorn-farms-174-main-road",
+  "name": "Moosehorn Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "174 Main Road, ME",
+  "locationCity": "174 Main Road",
+  "locationState": "ME",
+  "locationZipcode": "04406",
+  "lat": 45.2163171368427,
+  "lon": -69.471921960863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.942Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.942Z"
+}

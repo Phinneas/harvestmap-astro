@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-orchard-890-279th-st",
+  "name": "Homestead Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "890 279th St, SD",
+  "locationCity": "890 279th St",
+  "locationState": "SD",
+  "locationZipcode": "57053",
+  "lat": 43.3440170520749,
+  "lon": -97.0827199852661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:07.407Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:07.407Z"
+}

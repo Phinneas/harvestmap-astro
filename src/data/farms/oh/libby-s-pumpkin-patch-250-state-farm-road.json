@@ -1,0 +1,19 @@
+{
+  "slug": "libby-s-pumpkin-patch-250-state-farm-road",
+  "name": "Libby's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "250 State Farm Road, OH",
+  "locationCity": "250 State Farm Road",
+  "locationState": "OH",
+  "locationZipcode": "45710",
+  "lat": 39.1884473042466,
+  "lon": -82.2002952515946,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.852Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.852Z"
+}

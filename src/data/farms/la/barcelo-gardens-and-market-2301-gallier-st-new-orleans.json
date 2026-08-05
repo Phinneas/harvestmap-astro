@@ -1,0 +1,19 @@
+{
+  "slug": "barcelo-gardens-and-market-2301-gallier-st-new-orleans",
+  "name": "Barcelo Gardens and Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2301 Gallier St. New Orleans, LA",
+  "locationCity": "2301 Gallier St. New Orleans",
+  "locationState": "LA",
+  "locationZipcode": "70117",
+  "lat": 29.97903416740828,
+  "lon": -90.03588606507901,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.707Z"
+}

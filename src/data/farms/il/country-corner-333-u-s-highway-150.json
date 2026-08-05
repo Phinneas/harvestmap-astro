@@ -1,0 +1,19 @@
+{
+  "slug": "country-corner-333-u-s-highway-150",
+  "name": "Country Corner",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "333 U. S. highway 150, IL",
+  "locationCity": "333 U. S. highway 150",
+  "locationState": "IL",
+  "locationZipcode": "61413",
+  "lat": 41.1886960158695,
+  "lon": -90.3799511003388,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.855Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.855Z"
+}

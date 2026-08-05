@@ -1,0 +1,19 @@
+{
+  "slug": "mink-meadow-farm-174-etna-road",
+  "name": "Mink Meadow Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "174 Etna Road, NH",
+  "locationCity": "174 Etna Road",
+  "locationState": "NH",
+  "locationZipcode": "03750",
+  "lat": 43.69846677114185,
+  "lon": -72.21455888460137,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.615Z"
+}

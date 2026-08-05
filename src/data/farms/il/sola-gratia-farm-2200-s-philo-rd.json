@@ -1,0 +1,19 @@
+{
+  "slug": "sola-gratia-farm-2200-s-philo-rd",
+  "name": "Sola Gratia Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2200 S. Philo Rd., IL",
+  "locationCity": "2200 S. Philo Rd.",
+  "locationState": "IL",
+  "locationZipcode": "61802",
+  "lat": 40.08850495800772,
+  "lon": -88.18985110530157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.485Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.485Z"
+}

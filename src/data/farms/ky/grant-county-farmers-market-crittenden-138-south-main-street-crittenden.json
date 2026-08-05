@@ -1,0 +1,19 @@
+{
+  "slug": "grant-county-farmers-market-crittenden-138-south-main-street-crittenden",
+  "name": "Grant County Farmers Market - Crittenden",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "138 South Main Street Crittenden, KY",
+  "locationCity": "138 South Main Street Crittenden",
+  "locationState": "KY",
+  "locationZipcode": "41030",
+  "lat": 38.775734662964275,
+  "lon": -84.60504098838395,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

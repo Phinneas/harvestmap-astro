@@ -1,0 +1,19 @@
+{
+  "slug": "twin-brook-farm-304-lainhart-road",
+  "name": "Twin Brook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "304 Lainhart Road, NY",
+  "locationCity": "304 Lainhart Road",
+  "locationState": "NY",
+  "locationZipcode": "13827",
+  "lat": 42.1462440407585,
+  "lon": -76.1952106171265,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.380Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.380Z"
+}

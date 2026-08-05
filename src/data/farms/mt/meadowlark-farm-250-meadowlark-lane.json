@@ -1,0 +1,19 @@
+{
+  "slug": "meadowlark-farm-250-meadowlark-lane",
+  "name": "Meadowlark Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "250 Meadowlark Lane, MT",
+  "locationCity": "250 Meadowlark Lane",
+  "locationState": "MT",
+  "locationZipcode": "59840",
+  "lat": 46.2107617017863,
+  "lon": -114.138969152299,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:09.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:09.750Z"
+}

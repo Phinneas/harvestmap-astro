@@ -1,0 +1,19 @@
+{
+  "slug": "green-junction-farmstead-3449-front-st",
+  "name": "Green Junction Farmstead",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3449 Front St, CO",
+  "locationCity": "3449 Front St",
+  "locationState": "CO",
+  "locationZipcode": "81520",
+  "lat": 39.095872584309376,
+  "lon": -108.41403833982257,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.595Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.595Z"
+}

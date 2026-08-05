@@ -1,0 +1,19 @@
+{
+  "slug": "gruene-pumpkin-patch-629-e-common-st",
+  "name": "Gruene Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "629 E. Common St, TX",
+  "locationCity": "629 E. Common St",
+  "locationState": "TX",
+  "locationZipcode": "78132",
+  "lat": 29.7127660211193,
+  "lon": -98.1143356110017,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.560Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.560Z"
+}

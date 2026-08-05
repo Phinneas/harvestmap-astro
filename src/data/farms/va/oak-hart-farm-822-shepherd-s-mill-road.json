@@ -1,0 +1,19 @@
+{
+  "slug": "oak-hart-farm-822-shepherd-s-mill-road",
+  "name": "Oak Hart Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "822 Shepherd's Mill Road, VA",
+  "locationCity": "822 Shepherd's Mill Road",
+  "locationState": "VA",
+  "locationZipcode": "22611",
+  "lat": 39.14029843133889,
+  "lon": -77.90711752972896,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.255Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.255Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "desoto-community-farmers-market-101-w-main-st-desoto",
+  "name": "Desoto Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 W. Main St. Desoto, IL",
+  "locationCity": "101 W. Main St. Desoto",
+  "locationState": "IL",
+  "locationZipcode": "62924",
+  "lat": 37.81634053350579,
+  "lon": -89.22840893844733,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

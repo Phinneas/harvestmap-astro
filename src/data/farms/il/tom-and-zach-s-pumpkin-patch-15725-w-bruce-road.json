@@ -1,0 +1,20 @@
+{
+  "slug": "tom-and-zach-s-pumpkin-patch-15725-w-bruce-road",
+  "name": "Tom and Zach's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "15725 W Bruce Road, IL",
+  "locationCity": "15725 W Bruce Road",
+  "locationState": "IL",
+  "locationZipcode": "15725",
+  "lat": 41.568467007749,
+  "lon": -88.000056989491,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.892Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.892Z",
+  "crops": []
+}

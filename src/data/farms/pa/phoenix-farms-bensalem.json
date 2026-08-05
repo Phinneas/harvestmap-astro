@@ -1,0 +1,19 @@
+{
+  "slug": "phoenix-farms-bensalem",
+  "name": "Phoenix Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Bensalem, PA",
+  "locationCity": "Bensalem",
+  "locationState": "PA",
+  "locationZipcode": "19020",
+  "lat": 40.1186944,
+  "lon": -74.9304596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.563Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.563Z"
+}

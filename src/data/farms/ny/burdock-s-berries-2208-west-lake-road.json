@@ -1,0 +1,19 @@
+{
+  "slug": "burdock-s-berries-2208-west-lake-road",
+  "name": "Burdock's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2208 West Lake Road, NY",
+  "locationCity": "2208 West Lake Road",
+  "locationState": "NY",
+  "locationZipcode": "13110",
+  "lat": 42.8775460658956,
+  "lon": -76.3217408099779,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.256Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.256Z"
+}

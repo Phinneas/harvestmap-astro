@@ -1,0 +1,19 @@
+{
+  "slug": "the-louisville-farmers-market-7900-shelbyville-road-louisville",
+  "name": "The Louisville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7900 Shelbyville Road Louisville, KY",
+  "locationCity": "7900 Shelbyville Road Louisville",
+  "locationState": "KY",
+  "locationZipcode": "40222",
+  "lat": 38.24881693634365,
+  "lon": -85.60661929060399,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

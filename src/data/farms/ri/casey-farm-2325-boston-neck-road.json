@@ -1,0 +1,19 @@
+{
+  "slug": "casey-farm-2325-boston-neck-road",
+  "name": "Casey Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2325 Boston Neck Road, RI",
+  "locationCity": "2325 Boston Neck Road",
+  "locationState": "RI",
+  "locationZipcode": "02874",
+  "lat": 41.51241554483417,
+  "lon": -71.42315249490699,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:33.963Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:33.963Z"
+}

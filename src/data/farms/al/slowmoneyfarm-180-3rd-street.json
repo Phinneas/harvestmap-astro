@@ -1,0 +1,19 @@
+{
+  "slug": "slowmoneyfarm-180-3rd-street",
+  "name": "SlowMoneyFarm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "180 3rd street, AL",
+  "locationCity": "180 3rd street",
+  "locationState": "AL",
+  "locationZipcode": "35578",
+  "lat": 33.9891202,
+  "lon": -87.4869118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:46.321Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:46.321Z"
+}

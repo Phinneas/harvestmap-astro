@@ -1,0 +1,19 @@
+{
+  "slug": "high-plains-food-cooperative-7900-e-union-ave-ste-200",
+  "name": "High Plains Food Cooperative",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "7900 E Union Ave.   Ste 200, CO",
+  "locationCity": "7900 E Union Ave.   Ste 200",
+  "locationState": "CO",
+  "locationZipcode": "80237",
+  "lat": 39.6277464,
+  "lon": -104.89604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:03.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:03.290Z"
+}

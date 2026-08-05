@@ -1,0 +1,19 @@
+{
+  "slug": "lakeville-ucc-farmers-market-5687-big-tree-rd",
+  "name": "Lakeville UCC Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5687 Big Tree Rd, NY",
+  "locationCity": "5687 Big Tree Rd",
+  "locationState": "NY",
+  "locationZipcode": "14127",
+  "lat": 42.76481190931356,
+  "lon": -78.77321121724685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

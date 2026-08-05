@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-fifth-40-east-5th-street",
+  "name": "Market on Fifth",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "40 East 5th Street, FL",
+  "locationCity": "40 East 5th Street",
+  "locationState": "FL",
+  "locationZipcode": "32703",
+  "lat": 28.6716958,
+  "lon": -81.5102137,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.617Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.617Z"
+}

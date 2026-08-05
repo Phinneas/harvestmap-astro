@@ -1,0 +1,19 @@
+{
+  "slug": "yellow-hen-farm-450-jenkins-road",
+  "name": "Yellow Hen Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "450 Jenkins Road, GA",
+  "locationCity": "450 Jenkins Road",
+  "locationState": "GA",
+  "locationZipcode": "30014",
+  "lat": 33.62825039943134,
+  "lon": -83.7877233344073,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.452Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.452Z"
+}

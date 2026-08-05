@@ -1,0 +1,19 @@
+{
+  "slug": "modoc-gardens-629-w-us-highway-36",
+  "name": "Modoc Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "629 W. Us Highway 36, IN",
+  "locationCity": "629 W. Us Highway 36",
+  "locationState": "IN",
+  "locationZipcode": "47358",
+  "lat": 40.0485427204858,
+  "lon": -84.9894839125724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.283Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.283Z"
+}

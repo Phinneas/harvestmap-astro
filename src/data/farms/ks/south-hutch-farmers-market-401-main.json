@@ -1,0 +1,19 @@
+{
+  "slug": "south-hutch-farmers-market-401-main",
+  "name": "South Hutch Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "401 Main, KS",
+  "locationCity": "401 Main",
+  "locationState": "KS",
+  "locationZipcode": "67505",
+  "lat": 38.02296269519591,
+  "lon": -97.94026272741038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

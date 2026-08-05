@@ -1,0 +1,19 @@
+{
+  "slug": "rocky-meadow-farm-201-udall-road",
+  "name": "Rocky Meadow Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "201 Udall Road, NH",
+  "locationCity": "201 Udall Road",
+  "locationState": "NH",
+  "locationZipcode": "03043",
+  "lat": 42.978013,
+  "lon": -71.844788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.682Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.682Z"
+}

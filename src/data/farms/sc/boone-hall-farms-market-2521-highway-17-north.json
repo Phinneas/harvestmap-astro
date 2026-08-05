@@ -1,0 +1,19 @@
+{
+  "slug": "boone-hall-farms-market-2521-highway-17-north",
+  "name": "Boone Hall Farms Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2521 Highway 17 North, SC",
+  "locationCity": "2521 Highway 17 North",
+  "locationState": "SC",
+  "locationZipcode": "29466",
+  "lat": 32.850893001468336,
+  "lon": -79.80519137336184,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.221Z"
+}

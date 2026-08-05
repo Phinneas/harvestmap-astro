@@ -1,0 +1,19 @@
+{
+  "slug": "farmington-farmers-market-923-8th-st",
+  "name": "Farmington Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "923 8th St, MN",
+  "locationCity": "923 8th St",
+  "locationState": "MN",
+  "locationZipcode": "55024",
+  "lat": 44.6321293,
+  "lon": -93.1357402,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

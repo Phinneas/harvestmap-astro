@@ -1,0 +1,19 @@
+{
+  "slug": "bean-hill-farm-200-bean-hill-road",
+  "name": "Bean Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "200 Bean Hill Road, NH",
+  "locationCity": "200 Bean Hill Road",
+  "locationState": "NH",
+  "locationZipcode": "03276",
+  "lat": 43.4168289990243,
+  "lon": -71.578434962583,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.462Z"
+}

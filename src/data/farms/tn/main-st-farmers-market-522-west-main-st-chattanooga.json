@@ -1,0 +1,19 @@
+{
+  "slug": "main-st-farmers-market-522-west-main-st-chattanooga",
+  "name": "Main St Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "522 West Main St Chattanooga, TN",
+  "locationCity": "522 West Main St Chattanooga",
+  "locationState": "TN",
+  "locationZipcode": "37408",
+  "lat": 35.03872763983528,
+  "lon": -85.31426454738784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

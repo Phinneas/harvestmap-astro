@@ -1,0 +1,19 @@
+{
+  "slug": "rillito-park-farmers-market-tucson-az-85705",
+  "name": "Rillito Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Tucson AZ 85705, AZ",
+  "locationCity": "Tucson AZ 85705",
+  "locationState": "AZ",
+  "locationZipcode": "85705",
+  "lat": 32.23322500000006,
+  "lon": -110.96870499999994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kuchta-farms-pumpkin-patch-4480-state-route-82",
+  "name": "Kuchta Farms Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4480 State Route 82, OH",
+  "locationCity": "4480 State Route 82",
+  "locationState": "OH",
+  "locationZipcode": "44444",
+  "lat": 41.2310070177685,
+  "lon": -80.9581639808408,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.808Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.808Z"
+}

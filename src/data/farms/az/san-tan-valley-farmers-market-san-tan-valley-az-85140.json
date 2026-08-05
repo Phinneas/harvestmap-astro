@@ -1,0 +1,19 @@
+{
+  "slug": "san-tan-valley-farmers-market-san-tan-valley-az-85140",
+  "name": "San Tan Valley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "San Tan Valley AZ 85140, AZ",
+  "locationCity": "San Tan Valley AZ 85140",
+  "locationState": "AZ",
+  "locationZipcode": "85140",
+  "lat": 33.24929000000003,
+  "lon": -111.55720499999995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.028Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "egg-harbor-natural-gardens-7592-heritage-lake-rd",
+  "name": "Egg Harbor Natural Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7592 Heritage Lake Rd, WI",
+  "locationCity": "7592 Heritage Lake Rd",
+  "locationState": "WI",
+  "locationZipcode": "54209",
+  "lat": 45.0392740150165,
+  "lon": -87.25484402256778,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.452Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.452Z",
+  "crops": []
+}

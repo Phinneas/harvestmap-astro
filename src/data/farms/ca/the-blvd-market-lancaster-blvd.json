@@ -1,0 +1,19 @@
+{
+  "slug": "the-blvd-market-lancaster-blvd",
+  "name": "The BLVD Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Lancaster BLVD, CA",
+  "locationCity": "Lancaster BLVD",
+  "locationState": "CA",
+  "locationZipcode": "93534",
+  "lat": 34.69773,
+  "lon": -118.14251,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

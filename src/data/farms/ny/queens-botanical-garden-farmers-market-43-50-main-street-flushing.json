@@ -1,0 +1,19 @@
+{
+  "slug": "queens-botanical-garden-farmers-market-43-50-main-street-flushing",
+  "name": "Queens Botanical Garden Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "43-50 Main Street Flushing, NY",
+  "locationCity": "43-50 Main Street Flushing",
+  "locationState": "NY",
+  "locationZipcode": "11358",
+  "lat": 40.75190913302386,
+  "lon": -73.82640759009273,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

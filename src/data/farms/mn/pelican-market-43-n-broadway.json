@@ -1,0 +1,19 @@
+{
+  "slug": "pelican-market-43-n-broadway",
+  "name": "Pelican Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "43 N Broadway, MN",
+  "locationCity": "43 N Broadway",
+  "locationState": "MN",
+  "locationZipcode": "56572",
+  "lat": 46.5707015,
+  "lon": -96.0831288,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

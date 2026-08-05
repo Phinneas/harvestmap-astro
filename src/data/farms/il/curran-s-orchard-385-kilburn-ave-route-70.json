@@ -1,0 +1,19 @@
+{
+  "slug": "curran-s-orchard-385-kilburn-ave-route-70",
+  "name": "Curran's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "385 Kilburn Ave. (Route 70), IL",
+  "locationCity": "385 Kilburn Ave. (Route 70)",
+  "locationState": "IL",
+  "locationZipcode": "61101",
+  "lat": 42.2761835019702,
+  "lon": -89.1008396466329,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.855Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.855Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "peek-a-blue-berry-farm-555-oregon-road",
+  "name": "Peek-A-Blue Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "555 Oregon Road, NY",
+  "locationCity": "555 Oregon Road",
+  "locationState": "NY",
+  "locationZipcode": "14810",
+  "lat": 42.2555744951357,
+  "lon": -77.4264620950376,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.267Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.267Z"
+}

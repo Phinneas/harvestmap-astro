@@ -1,0 +1,19 @@
+{
+  "slug": "a-b-blueberry-farm-265-doney-drive",
+  "name": "A & B Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "265 Doney Drive, PA",
+  "locationCity": "265 Doney Drive",
+  "locationState": "PA",
+  "locationZipcode": "18071",
+  "lat": 40.859598014904,
+  "lon": -75.5680549962297,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.171Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.171Z"
+}

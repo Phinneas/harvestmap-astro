@@ -1,0 +1,19 @@
+{
+  "slug": "red-wing-area-farmers-market-212-levee-st",
+  "name": "Red Wing Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "212 Levee St, MN",
+  "locationCity": "212 Levee St",
+  "locationState": "MN",
+  "locationZipcode": "55066",
+  "lat": 44.5661923,
+  "lon": -92.5370475,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

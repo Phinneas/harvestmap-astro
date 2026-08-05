@@ -1,0 +1,19 @@
+{
+  "slug": "big-muddy-hogs-300-adams-street",
+  "name": "Big Muddy Hogs",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "300 Adams street, IL",
+  "locationCity": "300 Adams street",
+  "locationState": "IL",
+  "locationZipcode": "62949",
+  "lat": 37.842598,
+  "lon": -89.141034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.658Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.658Z"
+}

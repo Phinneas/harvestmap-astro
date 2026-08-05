@@ -1,0 +1,19 @@
+{
+  "slug": "green-farm-008-north-ridge-road",
+  "name": "Green Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "008 North Ridge Road, OH",
+  "locationCity": "008 North Ridge Road",
+  "locationState": "OH",
+  "locationZipcode": "44057",
+  "lat": 41.8028186449473,
+  "lon": -81.0544928359661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.845Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.845Z"
+}

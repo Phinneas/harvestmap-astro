@@ -1,0 +1,19 @@
+{
+  "slug": "dorr-farms-5225-dorr-acres",
+  "name": "Dorr Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5225 Dorr Acres, SC",
+  "locationCity": "5225 Dorr Acres",
+  "locationState": "SC",
+  "locationZipcode": "29051",
+  "lat": 33.86942000774174,
+  "lon": -80.19135504038601,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:59.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:59.221Z"
+}

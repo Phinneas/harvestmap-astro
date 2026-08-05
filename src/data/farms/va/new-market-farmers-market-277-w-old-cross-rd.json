@@ -1,0 +1,19 @@
+{
+  "slug": "new-market-farmers-market-277-w-old-cross-rd",
+  "name": "New Market Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "277 W Old Cross Rd, VA",
+  "locationCity": "277 W Old Cross Rd",
+  "locationState": "VA",
+  "locationZipcode": "22844",
+  "lat": 38.648385602411075,
+  "lon": -78.67959683819473,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

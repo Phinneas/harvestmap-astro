@@ -1,0 +1,19 @@
+{
+  "slug": "rc-acres-2675-east-350-north",
+  "name": "RC Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2675 East 350 North, ID",
+  "locationCity": "2675 East 350 North",
+  "locationState": "ID",
+  "locationZipcode": "83445",
+  "lat": 43.9338801252608,
+  "lon": -111.623088018998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.725Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "delhi-farmers-market-97-main-street",
+  "name": "Delhi Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "97 Main Street, NY",
+  "locationCity": "97 Main Street",
+  "locationState": "NY",
+  "locationZipcode": "13753",
+  "lat": 42.27720060931417,
+  "lon": -74.91704355157762,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

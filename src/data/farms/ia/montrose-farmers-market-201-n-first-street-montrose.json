@@ -1,0 +1,19 @@
+{
+  "slug": "montrose-farmers-market-201-n-first-street-montrose",
+  "name": "Montrose Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 N. First Street Montrose, IA",
+  "locationCity": "201 N. First Street Montrose",
+  "locationState": "IA",
+  "locationZipcode": "52639",
+  "lat": 40.5307482705415,
+  "lon": -91.41303559358532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

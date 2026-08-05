@@ -1,0 +1,20 @@
+{
+  "slug": "wytheville-farmers-market-210-w-spring-street",
+  "name": "Wytheville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "210 W. Spring Street, VA",
+  "locationCity": "210 W. Spring Street",
+  "locationState": "VA",
+  "locationZipcode": "24368",
+  "lat": 36.9486397,
+  "lon": -81.083367,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.101Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fancy-farms-838-fancy-farms-road",
+  "name": "Fancy Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "838 Fancy Farms Road, FL",
+  "locationCity": "838 Fancy Farms Road",
+  "locationState": "FL",
+  "locationZipcode": "33566",
+  "lat": 27.9928382313466,
+  "lon": -82.0597700857577,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.797Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.797Z"
+}

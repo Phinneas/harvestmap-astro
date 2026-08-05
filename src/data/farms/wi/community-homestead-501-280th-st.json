@@ -1,0 +1,19 @@
+{
+  "slug": "community-homestead-501-280th-st",
+  "name": "Community Homestead",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "501 280th St, WI",
+  "locationCity": "501 280th St",
+  "locationState": "WI",
+  "locationZipcode": "54020",
+  "lat": 45.28215600423616,
+  "lon": -92.73374401625885,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.450Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.450Z"
+}

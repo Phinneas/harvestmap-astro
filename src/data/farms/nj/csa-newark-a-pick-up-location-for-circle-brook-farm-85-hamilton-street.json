@@ -1,0 +1,19 @@
+{
+  "slug": "csa-newark-a-pick-up-location-for-circle-brook-farm-85-hamilton-street",
+  "name": "CSA Newark: A pick-up location for Circle Brook Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "85 Hamilton Street, NJ",
+  "locationCity": "85 Hamilton Street",
+  "locationState": "NJ",
+  "locationZipcode": "07105",
+  "lat": 40.730954,
+  "lon": -74.1646977,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.116Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "librock-beef-5288-gasport-rd",
+  "name": "Librock Beef",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5288 Gasport Rd, NY",
+  "locationCity": "5288 Gasport Rd",
+  "locationState": "NY",
+  "locationZipcode": "14067",
+  "lat": 43.156431,
+  "lon": -78.5778,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.794Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.794Z"
+}

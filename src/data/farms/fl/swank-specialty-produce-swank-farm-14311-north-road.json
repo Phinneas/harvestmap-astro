@@ -1,0 +1,19 @@
+{
+  "slug": "swank-specialty-produce-swank-farm-14311-north-road",
+  "name": "Swank Specialty Produce, Swank Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "14311 North Road, FL",
+  "locationCity": "14311 North Road",
+  "locationState": "FL",
+  "locationZipcode": "14311",
+  "lat": 26.73737053607468,
+  "lon": -80.26869854902323,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.818Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.818Z"
+}

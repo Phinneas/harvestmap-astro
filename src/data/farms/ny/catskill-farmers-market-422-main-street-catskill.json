@@ -1,0 +1,19 @@
+{
+  "slug": "catskill-farmers-market-422-main-street-catskill",
+  "name": "Catskill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "422 Main Street Catskill, NY",
+  "locationCity": "422 Main Street Catskill",
+  "locationState": "NY",
+  "locationZipcode": "12414",
+  "lat": 42.22043371932871,
+  "lon": -73.86598660754915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

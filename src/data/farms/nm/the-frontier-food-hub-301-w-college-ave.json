@@ -1,0 +1,19 @@
+{
+  "slug": "the-frontier-food-hub-301-w-college-ave",
+  "name": "The Frontier Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "301 W College Ave, NM",
+  "locationCity": "301 W College Ave",
+  "locationState": "NM",
+  "locationZipcode": "88061",
+  "lat": 32.77434698900876,
+  "lon": -108.27784599190477,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:00.124Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:00.124Z"
+}

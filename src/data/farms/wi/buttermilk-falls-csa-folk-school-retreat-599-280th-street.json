@@ -9,13 +9,14 @@
   "locationZipcode": "54020",
   "lat": 45.2944569919698,
   "lon": -92.7395290381925,
+  "website": "https://www.localharvest.org/buttermilk-falls-csa-M62417",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:41:29.989Z"
+      "lastSeen": "2026-08-05T18:52:09.123Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:41:29.989Z",
-  "website": "https://www.localharvest.org/buttermilk-falls-csa-M62417",
+  "usdaLastUpdated": "2026-08-05T18:52:09.123Z",
+  "crops": [],
   "tagline": "Buttermilk Falls CSA"
 }

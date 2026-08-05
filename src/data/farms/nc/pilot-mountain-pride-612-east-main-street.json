@@ -1,0 +1,19 @@
+{
+  "slug": "pilot-mountain-pride-612-east-main-street",
+  "name": "Pilot Mountain Pride",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "612 East Main Street, NC",
+  "locationCity": "612 East Main Street",
+  "locationState": "NC",
+  "locationZipcode": "27041",
+  "lat": 36.3824408,
+  "lon": -80.456727,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:40.303Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:40.303Z"
+}

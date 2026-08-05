@@ -1,0 +1,19 @@
+{
+  "slug": "talley-farms-3031-lopez-drive",
+  "name": "Talley Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3031 Lopez Drive, CA",
+  "locationCity": "3031 Lopez Drive",
+  "locationState": "CA",
+  "locationZipcode": "93420",
+  "lat": 35.179216011976465,
+  "lon": -120.5240320044216,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

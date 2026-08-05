@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-elk-river-farmers-market-716-main-st-nw",
+  "name": "City of Elk River Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "716 Main St NW, MN",
+  "locationCity": "716 Main St NW",
+  "locationState": "MN",
+  "locationZipcode": "55330",
+  "lat": 45.3034883,
+  "lon": -93.5680793,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

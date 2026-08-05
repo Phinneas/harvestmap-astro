@@ -1,0 +1,19 @@
+{
+  "slug": "wil-farm-002-highway-19",
+  "name": "Wil farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "002 Highway 19, MO",
+  "locationCity": "002 Highway 19",
+  "locationState": "MO",
+  "locationZipcode": "65041",
+  "lat": 38.707025525842,
+  "lon": -91.4377185393371,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.794Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.794Z"
+}

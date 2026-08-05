@@ -1,0 +1,19 @@
+{
+  "slug": "pat-leiden-farm-227-leiden-lane",
+  "name": "Pat Leiden Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "227 Leiden Lane, PA",
+  "locationCity": "227 Leiden Lane",
+  "locationState": "PA",
+  "locationZipcode": "16668",
+  "lat": 40.7035740002541,
+  "lon": -78.6378990386789,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.156Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.156Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cleveland-food-hub-7501-carnegie",
+  "name": "Cleveland Food HUb",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "7501 carnegie, OH",
+  "locationCity": "7501 carnegie",
+  "locationState": "OH",
+  "locationZipcode": "44115",
+  "lat": 41.5016692,
+  "lon": -81.636407,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:16.650Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:16.650Z"
+}

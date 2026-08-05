@@ -1,0 +1,19 @@
+{
+  "slug": "dawson-springs-main-street-farmers-market-railroad-avenue",
+  "name": "Dawson Springs Main Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Railroad Avenue, KY",
+  "locationCity": "Railroad Avenue",
+  "locationState": "KY",
+  "locationZipcode": "42408",
+  "lat": 37.17520111530115,
+  "lon": -87.67929760627027,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

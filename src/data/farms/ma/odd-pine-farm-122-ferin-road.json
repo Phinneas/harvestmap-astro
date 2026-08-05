@@ -1,0 +1,20 @@
+{
+  "slug": "odd-pine-farm-122-ferin-road",
+  "name": "Odd Pine Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "122 Ferin Road, MA",
+  "locationCity": "122 Ferin Road",
+  "locationState": "MA",
+  "locationZipcode": "01430",
+  "lat": 42.6995652367825,
+  "lon": -71.9333826619822,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.537Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.537Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "park-city-farmers-market-4000-canyons-resort-drive-park-city",
+  "name": "Park City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4000 Canyons Resort Drive Park City, UT",
+  "locationCity": "4000 Canyons Resort Drive Park City",
+  "locationState": "UT",
+  "locationZipcode": "84098",
+  "lat": 40.68637169279494,
+  "lon": -111.55081781280462,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:23.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:23.640Z"
+}

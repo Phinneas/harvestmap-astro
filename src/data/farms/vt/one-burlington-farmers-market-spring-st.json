@@ -1,0 +1,19 @@
+{
+  "slug": "one-burlington-farmers-market-spring-st",
+  "name": "ONE Burlington Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Spring St, VT",
+  "locationCity": "Spring St",
+  "locationState": "VT",
+  "locationZipcode": "05401",
+  "lat": 44.487312445097274,
+  "lon": -73.21370039587494,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

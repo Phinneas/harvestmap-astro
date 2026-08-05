@@ -1,0 +1,20 @@
+{
+  "slug": "renston-garden-market-4024-highway-903-south",
+  "name": "Renston Garden Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4024 Highway 903 South, NC",
+  "locationCity": "4024 Highway 903 South",
+  "locationState": "NC",
+  "locationZipcode": "28590",
+  "lat": 35.507746,
+  "lon": -77.4607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.402Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:42.402Z",
+  "crops": []
+}

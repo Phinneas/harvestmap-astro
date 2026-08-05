@@ -1,0 +1,19 @@
+{
+  "slug": "the-big-apple-orchard-117-highway-30-w",
+  "name": "The Big Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "117 Highway 30 W, IA",
+  "locationCity": "117 Highway 30 W",
+  "locationState": "IA",
+  "locationZipcode": "52314",
+  "lat": 41.9160872946921,
+  "lon": -91.4210650145174,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.693Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.693Z"
+}

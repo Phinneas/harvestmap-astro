@@ -1,0 +1,20 @@
+{
+  "slug": "veggies-galore-more-501-n-barnstead-rd",
+  "name": "Veggies Galore & More",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "501 N Barnstead Rd, NH",
+  "locationCity": "501 N Barnstead Rd",
+  "locationState": "NH",
+  "locationZipcode": "03225",
+  "lat": 43.3712539930694,
+  "lon": -71.2118420336451,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.654Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.654Z",
+  "crops": []
+}

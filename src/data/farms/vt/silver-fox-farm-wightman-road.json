@@ -1,0 +1,19 @@
+{
+  "slug": "silver-fox-farm-wightman-road",
+  "name": "Silver Fox Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Wightman Road, VT",
+  "locationCity": "Wightman Road",
+  "locationState": "VT",
+  "locationZipcode": "05873",
+  "lat": 44.4110450373287,
+  "lon": -72.1863618593328,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.137Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.137Z"
+}

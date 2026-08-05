@@ -1,0 +1,19 @@
+{
+  "slug": "genuine-local-5-winona-rd",
+  "name": "Genuine Local",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5 Winona Rd, NH",
+  "locationCity": "5 Winona Rd",
+  "locationState": "NH",
+  "locationZipcode": "03253",
+  "lat": 43.64031601866722,
+  "lon": -71.5300400329428,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.986Z"
+}

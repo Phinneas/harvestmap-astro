@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-tyme-pumpkin-patch-201-north-fremont-street",
+  "name": "Harvest Tyme Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "201 North Fremont Street, IN",
+  "locationCity": "201 North Fremont Street",
+  "locationState": "IN",
+  "locationZipcode": "46356",
+  "lat": 41.2932900000001,
+  "lon": -87.419225,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.362Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.362Z"
+}

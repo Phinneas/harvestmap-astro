@@ -1,0 +1,19 @@
+{
+  "slug": "vergennes-farmers-market-179-main-street",
+  "name": "Vergennes Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "179 Main Street, VT",
+  "locationCity": "179 Main Street",
+  "locationState": "VT",
+  "locationZipcode": "05491",
+  "lat": 44.1680050882313,
+  "lon": -73.25174761947915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "acorn-food-hub-616-exchange-st",
+  "name": "ACORN Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "616 Exchange St, VT",
+  "locationCity": "616 Exchange St",
+  "locationState": "VT",
+  "locationZipcode": "05753",
+  "lat": 44.02715899703426,
+  "lon": -73.17000196928625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:46.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:46.196Z"
+}

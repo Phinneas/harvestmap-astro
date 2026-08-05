@@ -1,0 +1,19 @@
+{
+  "slug": "little-hope-farm-singley-drive",
+  "name": "Little Hope Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Singley Drive, GA",
+  "locationCity": "Singley Drive",
+  "locationState": "GA",
+  "locationZipcode": "30234",
+  "lat": 33.3386030063678,
+  "lon": -84.0656649805911,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.380Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.380Z"
+}

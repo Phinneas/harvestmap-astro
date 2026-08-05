@@ -1,0 +1,19 @@
+{
+  "slug": "lafayette-farmers-market-390-s-public-rd-lafayette",
+  "name": "Lafayette Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "390 S. Public Rd Lafayette, CO",
+  "locationCity": "390 S. Public Rd Lafayette",
+  "locationState": "CO",
+  "locationZipcode": "80026",
+  "lat": 39.99539642593819,
+  "lon": -105.09044961130529,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

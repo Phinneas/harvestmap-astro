@@ -1,0 +1,19 @@
+{
+  "slug": "sm-apples-orchard-1197-willeys-lake-rd",
+  "name": "Sm'Apples Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1197 Willeys Lake Rd, WA",
+  "locationCity": "1197 Willeys Lake Rd",
+  "locationState": "WA",
+  "locationZipcode": "98248",
+  "lat": 48.918203,
+  "lon": -122.54732,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.468Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.468Z"
+}

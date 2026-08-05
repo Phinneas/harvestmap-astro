@@ -1,0 +1,19 @@
+{
+  "slug": "old-homestead-farm-22864-190th",
+  "name": "Old Homestead Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "22864  190th, MN",
+  "locationCity": "22864  190th",
+  "locationState": "MN",
+  "locationZipcode": "22864",
+  "lat": 44.8930051945583,
+  "lon": -94.4589439567453,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.184Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.184Z"
+}

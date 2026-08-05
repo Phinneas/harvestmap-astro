@@ -1,0 +1,19 @@
+{
+  "slug": "parkrose-farmers-market-12003-ne-shaver-st",
+  "name": "Parkrose Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12003 NE Shaver ST, OR",
+  "locationCity": "12003 NE Shaver ST",
+  "locationState": "OR",
+  "locationZipcode": "12003",
+  "lat": 45.551758151232164,
+  "lon": -122.53930115535039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.427Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.427Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farm-fresh-rhode-island-10-sims-avenue",
+  "name": "Farm Fresh Rhode Island",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "10 Sims Avenue, RI",
+  "locationCity": "10 Sims Avenue",
+  "locationState": "RI",
+  "locationZipcode": "02909",
+  "lat": 41.82519463118923,
+  "lon": -71.4330398934716,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:38.720Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:38.720Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-oakdale-farmers-market-1584-hadley-ave-n",
+  "name": "City of Oakdale Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1584 Hadley Ave N, MN",
+  "locationCity": "1584 Hadley Ave N",
+  "locationState": "MN",
+  "locationZipcode": "55128",
+  "lat": 44.9711561,
+  "lon": -92.9654973,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

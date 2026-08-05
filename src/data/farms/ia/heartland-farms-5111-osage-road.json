@@ -1,0 +1,19 @@
+{
+  "slug": "heartland-farms-5111-osage-road",
+  "name": "Heartland Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5111 Osage Road, IA",
+  "locationCity": "5111 Osage Road",
+  "locationState": "IA",
+  "locationZipcode": "50703",
+  "lat": 42.48378198243853,
+  "lon": -92.23668399836714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:40.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:40.605Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "frazier-farms-brooksville",
+  "name": "Frazier Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Brooksville, FL",
+  "locationCity": "Brooksville",
+  "locationState": "FL",
+  "locationZipcode": "34601",
+  "lat": 28.556498,
+  "lon": -82.378966,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:37.837Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:37.837Z"
+}

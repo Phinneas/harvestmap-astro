@@ -1,0 +1,19 @@
+{
+  "slug": "harvestville-farm-1977-highway-2",
+  "name": "Harvestville Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1977 Highway 2, IA",
+  "locationCity": "1977 Highway 2",
+  "locationState": "IA",
+  "locationZipcode": "52625",
+  "lat": 40.6394850046558,
+  "lon": -91.5308870149454,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.648Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.648Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "briarledge-honey-south-bay-road",
+  "name": "Briarledge Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "South Bay Road, NY",
+  "locationCity": "South Bay Road",
+  "locationState": "NY",
+  "locationZipcode": "13212",
+  "lat": 43.1325200000001,
+  "lon": -76.1279,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.439Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.439Z"
+}

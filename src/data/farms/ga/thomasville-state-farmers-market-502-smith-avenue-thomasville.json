@@ -1,0 +1,19 @@
+{
+  "slug": "thomasville-state-farmers-market-502-smith-avenue-thomasville",
+  "name": "Thomasville State Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "502 Smith Avenue Thomasville, GA",
+  "locationCity": "502 Smith Avenue Thomasville",
+  "locationState": "GA",
+  "locationZipcode": "31792",
+  "lat": 30.835533656966145,
+  "lon": -83.9716253149923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

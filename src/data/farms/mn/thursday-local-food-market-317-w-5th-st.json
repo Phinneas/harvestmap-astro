@@ -1,0 +1,19 @@
+{
+  "slug": "thursday-local-food-market-317-w-5th-st",
+  "name": "Thursday Local Food Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "317 W 5th St, MN",
+  "locationCity": "317 W 5th St",
+  "locationState": "MN",
+  "locationZipcode": "55604",
+  "lat": 47.7563097,
+  "lon": -90.3380485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

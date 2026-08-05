@@ -1,0 +1,19 @@
+{
+  "slug": "ferry-plaza-farmers-market-1-ferry-building",
+  "name": "Ferry Plaza Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Ferry Building, CA",
+  "locationCity": "1 Ferry Building",
+  "locationState": "CA",
+  "locationZipcode": "94111",
+  "lat": 37.795162,
+  "lon": -122.39352,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.352Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "lee-turkey-farm-hickory-corner-road",
+  "name": "Lee Turkey Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hickory Corner Road, NJ",
+  "locationCity": "Hickory Corner Road",
+  "locationState": "NJ",
+  "locationZipcode": "08520",
+  "lat": 40.2664119844634,
+  "lon": -74.5655440048154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.664Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.664Z",
+  "crops": []
+}

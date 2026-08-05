@@ -1,0 +1,19 @@
+{
+  "slug": "little-elm-farmers-market-2700-eldorado-parkway-little-elm",
+  "name": "Little Elm Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2700 Eldorado Parkway Little Elm, TX",
+  "locationCity": "2700 Eldorado Parkway Little Elm",
+  "locationState": "TX",
+  "locationZipcode": "75068",
+  "lat": 33.17827557840761,
+  "lon": -96.89061428099352,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

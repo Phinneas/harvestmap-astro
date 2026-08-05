@@ -1,0 +1,20 @@
+{
+  "slug": "pringles-orchard-2697-pringle-rd",
+  "name": "Pringles Orchard",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2697 Pringle Rd, OH",
+  "locationCity": "2697 Pringle Rd",
+  "locationState": "OH",
+  "locationZipcode": "45122",
+  "lat": 39.20914155859927,
+  "lon": -84.08674588617251,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.480Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.480Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rochester-farmers-market-and-exchange-50-s-main-st",
+  "name": "Rochester Farmers Market and Exchange",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "50 S Main St, VT",
+  "locationCity": "50 S Main St",
+  "locationState": "VT",
+  "locationZipcode": "05767",
+  "lat": 43.87380454133802,
+  "lon": -72.8082236987774,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.357Z"
+}

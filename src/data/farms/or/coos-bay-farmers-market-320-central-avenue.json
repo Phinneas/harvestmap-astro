@@ -1,0 +1,19 @@
+{
+  "slug": "coos-bay-farmers-market-320-central-avenue",
+  "name": "Coos Bay Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 Central Avenue, OR",
+  "locationCity": "320 Central Avenue",
+  "locationState": "OR",
+  "locationZipcode": "97420",
+  "lat": 43.36794079367676,
+  "lon": -124.21534948209344,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.423Z"
+}

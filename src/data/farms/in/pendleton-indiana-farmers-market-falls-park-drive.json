@@ -1,0 +1,19 @@
+{
+  "slug": "pendleton-indiana-farmers-market-falls-park-drive",
+  "name": "Pendleton Indiana Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Falls Park Drive, IN",
+  "locationCity": "Falls Park Drive",
+  "locationState": "IN",
+  "locationZipcode": "46064",
+  "lat": 40.005635,
+  "lon": -85.744734,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.615Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "smith-s-farm-635-west-thomas-road",
+  "name": "Smith's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "635 West Thomas Road, NY",
+  "locationCity": "635 West Thomas Road",
+  "locationState": "NY",
+  "locationZipcode": "13440",
+  "lat": 43.223074894968,
+  "lon": -75.4662564468879,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.417Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.417Z"
+}

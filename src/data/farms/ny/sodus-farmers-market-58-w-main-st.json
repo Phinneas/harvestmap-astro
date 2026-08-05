@@ -1,0 +1,19 @@
+{
+  "slug": "sodus-farmers-market-58-w-main-st",
+  "name": "Sodus Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "58 W Main St, NY",
+  "locationCity": "58 W Main St",
+  "locationState": "NY",
+  "locationZipcode": "14551",
+  "lat": 43.23612125801391,
+  "lon": -77.06594377846764,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

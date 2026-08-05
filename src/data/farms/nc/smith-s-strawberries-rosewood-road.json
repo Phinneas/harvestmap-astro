@@ -1,0 +1,19 @@
+{
+  "slug": "smith-s-strawberries-rosewood-road",
+  "name": "Smith's Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rosewood Road, NC",
+  "locationCity": "Rosewood Road",
+  "locationState": "NC",
+  "locationZipcode": "27530",
+  "lat": 35.4160159334117,
+  "lon": -78.0888537043389,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.894Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.894Z"
+}

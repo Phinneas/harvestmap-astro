@@ -1,0 +1,19 @@
+{
+  "slug": "connecticut-farm-to-table-cooperative-140-beffa-road",
+  "name": "Connecticut Farm to Table Cooperative",
+  "source": "usda",
+  "directory": "csa",
+  "location": "140 Beffa Road, CT",
+  "locationCity": "140 Beffa Road",
+  "locationState": "CT",
+  "locationZipcode": "06076",
+  "lat": 42.0254208,
+  "lon": -72.2266246,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.401Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.401Z"
+}

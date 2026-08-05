@@ -1,0 +1,20 @@
+{
+  "slug": "perry-hill-orchards-35-perry-hill-road",
+  "name": "Perry Hill Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "35 Perry Hill Road, MA",
+  "locationCity": "35 Perry Hill Road",
+  "locationState": "MA",
+  "locationZipcode": "02743",
+  "lat": 41.7096188439567,
+  "lon": -70.884573390188,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.549Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.549Z",
+  "crops": []
+}

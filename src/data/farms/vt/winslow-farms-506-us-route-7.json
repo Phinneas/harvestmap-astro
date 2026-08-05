@@ -1,0 +1,20 @@
+{
+  "slug": "winslow-farms-506-us-route-7",
+  "name": "Winslow Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "506 US Route 7, VT",
+  "locationCity": "506 US Route 7",
+  "locationState": "VT",
+  "locationZipcode": "05763",
+  "lat": 43.6736490035773,
+  "lon": -72.9889699597792,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.025Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.025Z",
+  "crops": []
+}

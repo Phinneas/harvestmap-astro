@@ -1,0 +1,19 @@
+{
+  "slug": "montpelier-farms-1720-north-crain-highway",
+  "name": "Montpelier Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1720 North Crain Highway, MD",
+  "locationCity": "1720 North Crain Highway",
+  "locationState": "MD",
+  "locationZipcode": "20774",
+  "lat": 38.8650110012463,
+  "lon": -76.7230345899784,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.142Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.142Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "nowthen-farmers-market-8188-199th-ave-nw",
+  "name": "Nowthen Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "8188 199th Ave NW, MN",
+  "locationCity": "8188 199th Ave NW",
+  "locationState": "MN",
+  "locationZipcode": "55330",
+  "lat": 45.3311974,
+  "lon": -93.4753474,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

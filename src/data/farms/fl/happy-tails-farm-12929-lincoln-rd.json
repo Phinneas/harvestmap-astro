@@ -1,0 +1,19 @@
+{
+  "slug": "happy-tails-farm-12929-lincoln-rd",
+  "name": "Happy Tails Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "12929 Lincoln Rd, FL",
+  "locationCity": "12929 Lincoln Rd",
+  "locationState": "FL",
+  "locationZipcode": "12929",
+  "lat": 27.800887198094685,
+  "lon": -82.341632555398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.822Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.822Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wyndhaven-farm-70-taft-road",
+  "name": "Wyndhaven Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "70 Taft Road, MA",
+  "locationCity": "70 Taft Road",
+  "locationState": "MA",
+  "locationZipcode": "01564",
+  "lat": 42.44633327352179,
+  "lon": -71.77447351244021,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.707Z"
+}

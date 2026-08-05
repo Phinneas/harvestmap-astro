@@ -1,0 +1,19 @@
+{
+  "slug": "luxemburg-farmer-s-market-100-center-dr-luxemburg",
+  "name": "Luxemburg Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Center Dr Luxemburg, WI",
+  "locationCity": "100 Center Dr Luxemburg",
+  "locationState": "WI",
+  "locationZipcode": "54217",
+  "lat": 44.54524179230226,
+  "lon": -87.70674398709552,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

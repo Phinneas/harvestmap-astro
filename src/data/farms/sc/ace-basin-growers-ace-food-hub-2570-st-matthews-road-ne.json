@@ -1,0 +1,19 @@
+{
+  "slug": "ace-basin-growers-ace-food-hub-2570-st-matthews-road-ne",
+  "name": "ACE Basin Growers / ACE Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2570 St Matthews Road NE, SC",
+  "locationCity": "2570 St Matthews Road NE",
+  "locationState": "SC",
+  "locationZipcode": "29118",
+  "lat": 33.53253899772304,
+  "lon": -80.84338395895594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:57.023Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:57.023Z"
+}

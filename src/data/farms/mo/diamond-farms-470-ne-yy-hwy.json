@@ -1,0 +1,19 @@
+{
+  "slug": "diamond-farms-470-ne-yy-hwy",
+  "name": "Diamond Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "470 Ne Yy Hwy, MO",
+  "locationCity": "470 Ne Yy Hwy",
+  "locationState": "MO",
+  "locationZipcode": "64020",
+  "lat": 38.9311940031737,
+  "lon": -93.6548639618116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.706Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.706Z"
+}

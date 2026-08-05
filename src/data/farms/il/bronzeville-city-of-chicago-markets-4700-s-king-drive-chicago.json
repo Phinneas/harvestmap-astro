@@ -1,0 +1,19 @@
+{
+  "slug": "bronzeville-city-of-chicago-markets-4700-s-king-drive-chicago",
+  "name": "Bronzeville (City of Chicago Markets)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4700 S King Drive Chicago, IL",
+  "locationCity": "4700 S King Drive Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60615",
+  "lat": 41.80932200863668,
+  "lon": -87.61691589707672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

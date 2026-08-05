@@ -1,0 +1,19 @@
+{
+  "slug": "smith-tomato-4575-loop-rd",
+  "name": "Smith Tomato",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4575 Loop Rd, AL",
+  "locationCity": "4575 Loop Rd",
+  "locationState": "AL",
+  "locationZipcode": "35987",
+  "lat": 33.91765375387965,
+  "lon": -86.29819157441311,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:51.809Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:51.809Z"
+}

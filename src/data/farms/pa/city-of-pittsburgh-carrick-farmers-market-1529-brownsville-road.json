@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-pittsburgh-carrick-farmers-market-1529-brownsville-road",
+  "name": "City of Pittsburgh Carrick Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1529 Brownsville Road, PA",
+  "locationCity": "1529 Brownsville Road",
+  "locationState": "PA",
+  "locationZipcode": "15210",
+  "lat": 40.400201,
+  "lon": -79.988803,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:18.992Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:18.992Z"
+}

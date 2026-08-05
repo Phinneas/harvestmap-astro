@@ -1,0 +1,19 @@
+{
+  "slug": "overbrook-farmers-market-maple-market-st",
+  "name": "Overbrook Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Maple & Market St, KS",
+  "locationCity": "Maple & Market St",
+  "locationState": "KS",
+  "locationZipcode": "66524",
+  "lat": 38.777419,
+  "lon": -95.556782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.668Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.668Z"
+}

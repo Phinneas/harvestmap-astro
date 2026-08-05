@@ -1,0 +1,19 @@
+{
+  "slug": "clarion-river-organics-csa-824-whitmer-rd",
+  "name": "Clarion River Organics CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "824 Whitmer Rd, PA",
+  "locationCity": "824 Whitmer Rd",
+  "locationState": "PA",
+  "locationZipcode": "16255",
+  "lat": 41.1338763,
+  "lon": -79.5390491,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.560Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.560Z"
+}

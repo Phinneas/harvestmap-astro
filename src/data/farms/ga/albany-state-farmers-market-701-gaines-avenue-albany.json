@@ -1,0 +1,19 @@
+{
+  "slug": "albany-state-farmers-market-701-gaines-avenue-albany",
+  "name": "Albany State Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "701 Gaines Avenue Albany, GA",
+  "locationCity": "701 Gaines Avenue Albany",
+  "locationState": "GA",
+  "locationZipcode": "31706",
+  "lat": 31.550319169851857,
+  "lon": -84.16829612708526,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "raccoon-forks-farm-28770-el-paso-ave",
+  "name": "Raccoon Forks Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "28770 El Paso Ave, IA",
+  "locationCity": "28770 El Paso Ave",
+  "locationState": "IA",
+  "locationZipcode": "28770",
+  "lat": 41.6186848,
+  "lon": -94.1925601,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.422Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.422Z"
+}

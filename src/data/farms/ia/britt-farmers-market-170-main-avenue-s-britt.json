@@ -1,0 +1,19 @@
+{
+  "slug": "britt-farmers-market-170-main-avenue-s-britt",
+  "name": "Britt Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "170 Main Avenue S Britt, IA",
+  "locationCity": "170 Main Avenue S Britt",
+  "locationState": "IA",
+  "locationZipcode": "50423",
+  "lat": 43.09540352701528,
+  "lon": -93.80180133145569,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "milford-farmers-market-66-dilla-st-milford-water-company-milford",
+  "name": "Milford Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "66 Dilla St (Milford Water Company) Milford, MA",
+  "locationCity": "66 Dilla St (Milford Water Company) Milford",
+  "locationState": "MA",
+  "locationZipcode": "01757",
+  "lat": 42.16129136889304,
+  "lon": -71.5131719182778,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.865Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.865Z"
+}

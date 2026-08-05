@@ -1,0 +1,19 @@
+{
+  "slug": "beiersdorfer-farm-21874-kuebel-road",
+  "name": "Beiersdorfer Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "21874 Kuebel Road, IN",
+  "locationCity": "21874 Kuebel Road",
+  "locationState": "IN",
+  "locationZipcode": "21874",
+  "lat": 39.18664101007704,
+  "lon": -84.95675902113167,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:12.599Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:12.599Z"
+}

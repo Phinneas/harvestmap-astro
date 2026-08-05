@@ -1,0 +1,19 @@
+{
+  "slug": "lavande-9665-loop-road",
+  "name": "Lavande",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9665 Loop Road, TX",
+  "locationCity": "9665 Loop Road",
+  "locationState": "TX",
+  "locationZipcode": "77418",
+  "lat": 30.05563998131809,
+  "lon": -96.20171496467745,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.710Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.710Z"
+}

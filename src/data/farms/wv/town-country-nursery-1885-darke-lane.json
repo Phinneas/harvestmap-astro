@@ -1,0 +1,19 @@
+{
+  "slug": "town-country-nursery-1885-darke-lane",
+  "name": "Town & Country Nursery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1885 Darke Lane, WV",
+  "locationCity": "1885 Darke Lane",
+  "locationState": "WV",
+  "locationZipcode": "25430",
+  "lat": 39.3305970119921,
+  "lon": -77.9190120370681,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.866Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.866Z"
+}

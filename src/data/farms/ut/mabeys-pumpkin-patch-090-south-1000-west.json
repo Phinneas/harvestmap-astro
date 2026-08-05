@@ -1,0 +1,19 @@
+{
+  "slug": "mabeys-pumpkin-patch-090-south-1000-west",
+  "name": "Mabeys Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "090 South 1000 West, UT",
+  "locationCity": "090 South 1000 West",
+  "locationState": "UT",
+  "locationZipcode": "84095",
+  "lat": 40.5664434789938,
+  "lon": -111.91964998465,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.584Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.584Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "phil-s-farm-803-ridge-rd",
+  "name": "Phil's Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "803 Ridge Rd., ME",
+  "locationCity": "803 Ridge Rd.",
+  "locationState": "ME",
+  "locationZipcode": "04008",
+  "lat": 44.06152671424038,
+  "lon": -69.87439436550089,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:54.571Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:54.571Z"
+}

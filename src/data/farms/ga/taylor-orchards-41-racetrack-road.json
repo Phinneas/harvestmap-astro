@@ -1,0 +1,20 @@
+{
+  "slug": "taylor-orchards-41-racetrack-road",
+  "name": "Taylor Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "41 Racetrack Road, GA",
+  "locationCity": "41 Racetrack Road",
+  "locationState": "GA",
+  "locationZipcode": "31076",
+  "lat": 32.5576799887035,
+  "lon": -84.1081039812919,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.319Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.319Z",
+  "crops": []
+}

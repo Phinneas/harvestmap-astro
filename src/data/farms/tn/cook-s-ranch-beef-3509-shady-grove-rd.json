@@ -1,0 +1,19 @@
+{
+  "slug": "cook-s-ranch-beef-3509-shady-grove-rd",
+  "name": "Cook's Ranch Beef",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3509 Shady Grove Rd., TN",
+  "locationCity": "3509 Shady Grove Rd.",
+  "locationState": "TN",
+  "locationZipcode": "37043",
+  "lat": 36.476291,
+  "lon": -87.200488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:36.484Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:36.484Z"
+}

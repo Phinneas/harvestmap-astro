@@ -1,0 +1,19 @@
+{
+  "slug": "shoreline-farmers-market-15415-westminster-way",
+  "name": "Shoreline Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15415 Westminster Way, WA",
+  "locationCity": "15415 Westminster Way",
+  "locationState": "WA",
+  "locationZipcode": "15415",
+  "lat": 47.741553,
+  "lon": -122.34945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.725Z"
+}

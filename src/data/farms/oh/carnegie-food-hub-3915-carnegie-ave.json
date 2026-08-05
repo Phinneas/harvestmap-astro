@@ -1,0 +1,19 @@
+{
+  "slug": "carnegie-food-hub-3915-carnegie-ave",
+  "name": "Carnegie Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3915 Carnegie Ave, OH",
+  "locationCity": "3915 Carnegie Ave",
+  "locationState": "OH",
+  "locationZipcode": "44115",
+  "lat": 41.50129401660584,
+  "lon": -81.65784896428596,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:16.655Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:16.655Z"
+}

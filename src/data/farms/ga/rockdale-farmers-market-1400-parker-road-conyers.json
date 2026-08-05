@@ -1,0 +1,19 @@
+{
+  "slug": "rockdale-farmers-market-1400-parker-road-conyers",
+  "name": "Rockdale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1400 Parker Road Conyers, GA",
+  "locationCity": "1400 Parker Road Conyers",
+  "locationState": "GA",
+  "locationZipcode": "30094",
+  "lat": 33.6533213654903,
+  "lon": -84.02037267668813,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

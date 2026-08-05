@@ -1,0 +1,19 @@
+{
+  "slug": "holloway-farms-470-commerce-road",
+  "name": "Holloway Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "470 Commerce Road, GA",
+  "locationCity": "470 Commerce Road",
+  "locationState": "GA",
+  "locationZipcode": "31764",
+  "lat": 31.9608099860888,
+  "lon": -84.1113999970776,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.272Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.272Z"
+}

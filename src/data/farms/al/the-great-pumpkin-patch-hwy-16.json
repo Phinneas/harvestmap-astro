@@ -1,0 +1,19 @@
+{
+  "slug": "the-great-pumpkin-patch-hwy-16",
+  "name": "The Great Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hwy 16, AL",
+  "locationCity": "Hwy 16",
+  "locationState": "AL",
+  "locationZipcode": "35079",
+  "lat": 33.8385608007223,
+  "lon": -86.9127942063009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.534Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.534Z"
+}

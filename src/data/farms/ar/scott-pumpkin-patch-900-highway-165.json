@@ -1,0 +1,19 @@
+{
+  "slug": "scott-pumpkin-patch-900-highway-165",
+  "name": "Scott Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "900 Highway 165, AR",
+  "locationCity": "900 Highway 165",
+  "locationState": "AR",
+  "locationZipcode": "72142",
+  "lat": 34.6780073255709,
+  "lon": -92.081620089252,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.981Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.981Z"
+}

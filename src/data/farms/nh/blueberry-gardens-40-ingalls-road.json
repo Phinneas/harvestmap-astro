@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-gardens-40-ingalls-road",
+  "name": "Blueberry Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "40 Ingalls Road, NH",
+  "locationCity": "40 Ingalls Road",
+  "locationState": "NH",
+  "locationZipcode": "03263",
+  "lat": 43.3112779973593,
+  "lon": -71.3608170353625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.780Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.780Z"
+}

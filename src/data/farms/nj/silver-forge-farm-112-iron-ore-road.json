@@ -1,0 +1,19 @@
+{
+  "slug": "silver-forge-farm-112-iron-ore-road",
+  "name": "Silver Forge Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "112 Iron Ore Road, NJ",
+  "locationCity": "112 Iron Ore Road",
+  "locationState": "NJ",
+  "locationZipcode": "07726",
+  "lat": 40.277959,
+  "lon": -74.3809917,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.113Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.113Z"
+}

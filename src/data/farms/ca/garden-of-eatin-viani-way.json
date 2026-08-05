@@ -1,0 +1,19 @@
+{
+  "slug": "garden-of-eatin-viani-way",
+  "name": "Garden of Eatin",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Viani Way, CA",
+  "locationCity": "Viani Way",
+  "locationState": "CA",
+  "locationZipcode": "95670",
+  "lat": 38.608944968871874,
+  "lon": -121.29047103254312,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

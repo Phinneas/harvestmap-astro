@@ -1,0 +1,19 @@
+{
+  "slug": "somerset-farmers-market-craft-520-main-street-somerset",
+  "name": "Somerset Farmers Market & Craft",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "520 Main Street Somerset, WI",
+  "locationCity": "520 Main Street Somerset",
+  "locationState": "WI",
+  "locationZipcode": "54025",
+  "lat": 45.123127199598315,
+  "lon": -92.68371549133187,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

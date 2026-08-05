@@ -1,0 +1,19 @@
+{
+  "slug": "garrett-growers-cooperative-inc-oakland",
+  "name": "Garrett Growers Cooperative, Inc.",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Oakland, MD",
+  "locationCity": "Oakland",
+  "locationState": "MD",
+  "locationZipcode": "21550",
+  "lat": 39.4078747,
+  "lon": -79.406711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:12.406Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:12.406Z"
+}

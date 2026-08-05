@@ -1,0 +1,19 @@
+{
+  "slug": "circle-garden-farm-6060-holladay-road",
+  "name": "Circle Garden Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6060 Holladay Road, OH",
+  "locationCity": "6060 Holladay Road",
+  "locationState": "OH",
+  "locationZipcode": "45133",
+  "lat": 39.17897001801941,
+  "lon": -83.64347002638665,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.464Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.464Z"
+}

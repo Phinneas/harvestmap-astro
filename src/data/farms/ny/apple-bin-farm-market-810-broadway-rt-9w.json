@@ -1,0 +1,19 @@
+{
+  "slug": "apple-bin-farm-market-810-broadway-rt-9w",
+  "name": "Apple Bin Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "810 Broadway Rt. 9W, NY",
+  "locationCity": "810 Broadway Rt. 9W",
+  "locationState": "NY",
+  "locationZipcode": "12487",
+  "lat": 41.8467297,
+  "lon": -73.969526,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.797Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.797Z"
+}

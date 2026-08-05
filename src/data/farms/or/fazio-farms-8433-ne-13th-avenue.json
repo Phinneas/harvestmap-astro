@@ -1,0 +1,19 @@
+{
+  "slug": "fazio-farms-8433-ne-13th-avenue",
+  "name": "Fazio Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8433 NE 13th Avenue, OR",
+  "locationCity": "8433 NE 13th Avenue",
+  "locationState": "OR",
+  "locationZipcode": "97211",
+  "lat": 45.583716009549676,
+  "lon": -122.65258203384121,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.522Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rustic-rose-farmers-market-720-n-broadway-ave",
+  "name": "Rustic Rose Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "720 N Broadway Ave, MN",
+  "locationCity": "720 N Broadway Ave",
+  "locationState": "MN",
+  "locationZipcode": "55975",
+  "lat": 43.6969391,
+  "lon": -92.3975995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

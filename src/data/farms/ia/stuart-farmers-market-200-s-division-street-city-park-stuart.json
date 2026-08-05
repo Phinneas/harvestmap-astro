@@ -1,0 +1,19 @@
+{
+  "slug": "stuart-farmers-market-200-s-division-street-city-park-stuart",
+  "name": "Stuart Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 S. Division Street - City Park Stuart, IA",
+  "locationCity": "200 S. Division Street - City Park Stuart",
+  "locationState": "IA",
+  "locationZipcode": "50250",
+  "lat": 41.50498681048517,
+  "lon": -94.31835377590725,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "spur-apiary-998-experiment-station-road",
+  "name": "Spur Apiary",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "998 Experiment Station Road, TX",
+  "locationCity": "998 Experiment Station Road",
+  "locationState": "TX",
+  "locationZipcode": "79370",
+  "lat": 33.4789523003199,
+  "lon": -100.866902010507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.451Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.451Z"
+}

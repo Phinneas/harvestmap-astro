@@ -1,0 +1,19 @@
+{
+  "slug": "green-acres-dairy-449-south-4700-west",
+  "name": "Green Acres Dairy",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "449 South 4700 West, UT",
+  "locationCity": "449 South 4700 West",
+  "locationState": "UT",
+  "locationZipcode": "84404",
+  "lat": 41.256081984032,
+  "lon": -112.092896966307,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.565Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.565Z"
+}

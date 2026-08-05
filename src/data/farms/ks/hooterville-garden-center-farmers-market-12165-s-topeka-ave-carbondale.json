@@ -1,0 +1,19 @@
+{
+  "slug": "hooterville-garden-center-farmers-market-12165-s-topeka-ave-carbondale",
+  "name": "Hooterville Garden Center Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12165 s topeka ave carbondale, KS",
+  "locationCity": "12165 s topeka ave carbondale",
+  "locationState": "KS",
+  "locationZipcode": "12165",
+  "lat": 38.847370000702284,
+  "lon": -95.68706451770338,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

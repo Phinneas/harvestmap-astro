@@ -1,0 +1,19 @@
+{
+  "slug": "pepper-place-market-2829-2nd-ave-s",
+  "name": "Pepper Place Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2829 2nd Ave. S., AL",
+  "locationCity": "2829 2nd Ave. S.",
+  "locationState": "AL",
+  "locationZipcode": "35233",
+  "lat": 33.51633014130214,
+  "lon": -86.79183512997331,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

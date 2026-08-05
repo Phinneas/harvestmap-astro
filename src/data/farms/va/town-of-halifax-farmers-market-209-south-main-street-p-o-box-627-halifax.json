@@ -1,0 +1,19 @@
+{
+  "slug": "town-of-halifax-farmers-market-209-south-main-street-p-o-box-627-halifax",
+  "name": "Town of Halifax Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "209 South Main Street P.O. Box 627 Halifax, VA",
+  "locationCity": "209 South Main Street P.O. Box 627 Halifax",
+  "locationState": "VA",
+  "locationZipcode": "24558",
+  "lat": 36.76321784171909,
+  "lon": -78.92838639585176,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

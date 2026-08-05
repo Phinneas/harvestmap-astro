@@ -1,0 +1,19 @@
+{
+  "slug": "cedar-circle-farm-225-pavillion-road",
+  "name": "Cedar Circle Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "225 Pavillion Road, VT",
+  "locationCity": "225 Pavillion Road",
+  "locationState": "VT",
+  "locationZipcode": "05043",
+  "lat": 43.8063580001734,
+  "lon": -72.1889159605787,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.896Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.896Z"
+}

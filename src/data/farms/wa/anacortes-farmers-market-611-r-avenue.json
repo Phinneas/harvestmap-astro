@@ -1,0 +1,19 @@
+{
+  "slug": "anacortes-farmers-market-611-r-avenue",
+  "name": "Anacortes Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "611 R Avenue, WA",
+  "locationCity": "611 R Avenue",
+  "locationState": "WA",
+  "locationZipcode": "98221",
+  "lat": 48.516974,
+  "lon": -122.60918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.695Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.695Z"
+}

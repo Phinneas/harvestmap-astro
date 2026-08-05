@@ -1,0 +1,19 @@
+{
+  "slug": "storm-lake-farmers-market-600-block-of-erie-on-courthouse-square-storm-lake",
+  "name": "Storm Lake Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 block of Erie on Courthouse Square Storm Lake, IA",
+  "locationCity": "600 block of Erie on Courthouse Square Storm Lake",
+  "locationState": "IA",
+  "locationZipcode": "50588",
+  "lat": 42.64450815547774,
+  "lon": -95.19968172935499,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

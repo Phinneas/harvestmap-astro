@@ -1,0 +1,19 @@
+{
+  "slug": "farm-cart-food-hub-5103-carpinteria-ave",
+  "name": "Farm Cart Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "5103 Carpinteria Ave, CA",
+  "locationCity": "5103 Carpinteria Ave",
+  "locationState": "CA",
+  "locationZipcode": "93013",
+  "lat": 34.39756100270783,
+  "lon": -119.51714398316906,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

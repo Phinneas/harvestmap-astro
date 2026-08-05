@@ -1,0 +1,19 @@
+{
+  "slug": "apple-haven-farm-main-street",
+  "name": "Apple Haven Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Main Street, OR",
+  "locationCity": "Main Street",
+  "locationState": "OR",
+  "locationZipcode": "97371",
+  "lat": 44.9302300000001,
+  "lon": -123.228455,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.049Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.049Z"
+}

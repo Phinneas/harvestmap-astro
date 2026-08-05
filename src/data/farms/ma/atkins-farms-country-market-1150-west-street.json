@@ -1,0 +1,19 @@
+{
+  "slug": "atkins-farms-country-market-1150-west-street",
+  "name": "Atkins Farms Country Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1150 West Street, MA",
+  "locationCity": "1150 West Street",
+  "locationState": "MA",
+  "locationZipcode": "01002",
+  "lat": 42.319161,
+  "lon": -72.529185,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:30.682Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:30.682Z"
+}

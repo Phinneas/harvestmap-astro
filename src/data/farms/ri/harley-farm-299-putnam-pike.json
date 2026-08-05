@@ -1,0 +1,19 @@
+{
+  "slug": "harley-farm-299-putnam-pike",
+  "name": "Harley Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "299 Putnam Pike, RI",
+  "locationCity": "299 Putnam Pike",
+  "locationState": "RI",
+  "locationZipcode": "02814",
+  "lat": 41.891160373517,
+  "lon": -71.6038106014134,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.220Z"
+}

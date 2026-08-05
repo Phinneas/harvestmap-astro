@@ -1,0 +1,19 @@
+{
+  "slug": "lucas-farmers-market-665-country-club-road-lucas",
+  "name": "Lucas Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "665 Country Club Road Lucas, TX",
+  "locationCity": "665 Country Club Road Lucas",
+  "locationState": "TX",
+  "locationZipcode": "75002",
+  "lat": 33.09333021087677,
+  "lon": -96.59337662908933,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

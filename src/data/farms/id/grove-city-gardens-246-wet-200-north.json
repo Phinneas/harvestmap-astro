@@ -1,0 +1,19 @@
+{
+  "slug": "grove-city-gardens-246-wet-200-north",
+  "name": "Grove City Gardens",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "246 Wet 200 North, ID",
+  "locationCity": "246 Wet 200 North",
+  "locationState": "ID",
+  "locationZipcode": "83221",
+  "lat": 43.226575010096,
+  "lon": -112.345420994025,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.682Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.682Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "old-town-farmers-market-2nd-st-upton",
+  "name": "Old Town Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2nd St Upton, WY",
+  "locationCity": "2nd St Upton",
+  "locationState": "WY",
+  "locationZipcode": "82730",
+  "lat": 44.091343198510465,
+  "lon": -104.61373306613598,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

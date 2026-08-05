@@ -1,0 +1,19 @@
+{
+  "slug": "otsiningo-park-farmers-market-1-bevier-st-binghamton",
+  "name": "Otsiningo Park Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 Bevier St Binghamton, NY",
+  "locationCity": "1 Bevier St Binghamton",
+  "locationState": "NY",
+  "locationZipcode": "13905",
+  "lat": 42.118627022092674,
+  "lon": -75.90125715750408,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

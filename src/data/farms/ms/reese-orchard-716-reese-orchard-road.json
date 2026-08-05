@@ -1,0 +1,19 @@
+{
+  "slug": "reese-orchard-716-reese-orchard-road",
+  "name": "Reese Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "716 Reese Orchard Road, MS",
+  "locationCity": "716 Reese Orchard Road",
+  "locationState": "MS",
+  "locationZipcode": "39759",
+  "lat": 33.4170321090043,
+  "lon": -88.7118815012576,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.833Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:23.833Z"
+}

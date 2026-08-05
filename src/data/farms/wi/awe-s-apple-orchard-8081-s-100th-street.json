@@ -1,0 +1,19 @@
+{
+  "slug": "awe-s-apple-orchard-8081-s-100th-street",
+  "name": "Awe's Apple Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8081 S. 100th Street, WI",
+  "locationCity": "8081 S. 100th Street",
+  "locationState": "WI",
+  "locationZipcode": "53132",
+  "lat": 42.89785499819453,
+  "lon": -88.04093796202956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:17.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:17.536Z"
+}

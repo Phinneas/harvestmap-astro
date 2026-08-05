@@ -1,0 +1,19 @@
+{
+  "slug": "hudson-hives-7-beechnut-lane",
+  "name": "Hudson Hives",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7 Beechnut Lane, MA",
+  "locationCity": "7 Beechnut Lane",
+  "locationState": "MA",
+  "locationZipcode": "01749",
+  "lat": 42.378382609402,
+  "lon": -71.5086454765446,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.509Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.509Z"
+}

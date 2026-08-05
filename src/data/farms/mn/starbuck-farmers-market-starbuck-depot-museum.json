@@ -1,0 +1,19 @@
+{
+  "slug": "starbuck-farmers-market-starbuck-depot-museum",
+  "name": "Starbuck Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Starbuck Depot Museum, MN",
+  "locationCity": "Starbuck Depot Museum",
+  "locationState": "MN",
+  "locationZipcode": "56381",
+  "lat": 45.611393,
+  "lon": -95.530839,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "clagett-farm-11904-old-marlboro-pike",
+  "name": "Clagett Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "11904 Old Marlboro Pike, MD",
+  "locationCity": "11904 Old Marlboro Pike",
+  "locationState": "MD",
+  "locationZipcode": "11904",
+  "lat": 38.819357035131816,
+  "lon": -76.7994813792405,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.724Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.724Z"
+}

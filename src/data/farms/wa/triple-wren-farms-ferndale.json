@@ -1,0 +1,19 @@
+{
+  "slug": "triple-wren-farms-ferndale",
+  "name": "Triple Wren Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Ferndale, WA",
+  "locationCity": "Ferndale",
+  "locationState": "WA",
+  "locationZipcode": "98248",
+  "lat": 48.921481,
+  "lon": -122.55156,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.448Z"
+}

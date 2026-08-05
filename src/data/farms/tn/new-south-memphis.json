@@ -1,0 +1,19 @@
+{
+  "slug": "new-south-memphis",
+  "name": "New South",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Memphis, TN",
+  "locationCity": "Memphis",
+  "locationState": "TN",
+  "locationZipcode": "38101",
+  "lat": 35.1303035,
+  "lon": -90.05541,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:33.551Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:33.551Z"
+}

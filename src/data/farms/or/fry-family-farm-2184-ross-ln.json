@@ -1,0 +1,19 @@
+{
+  "slug": "fry-family-farm-2184-ross-ln",
+  "name": "Fry Family Farm",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2184 Ross Ln, OR",
+  "locationCity": "2184 Ross Ln",
+  "locationState": "OR",
+  "locationZipcode": "97501",
+  "lat": 42.34565500744881,
+  "lon": -122.92452098006592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:04.362Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:04.362Z"
+}

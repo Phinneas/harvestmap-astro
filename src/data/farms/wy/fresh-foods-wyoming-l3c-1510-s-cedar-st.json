@@ -1,0 +1,19 @@
+{
+  "slug": "fresh-foods-wyoming-l3c-1510-s-cedar-st",
+  "name": "Fresh Foods Wyoming L3C",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1510 S Cedar St, WY",
+  "locationCity": "1510 S Cedar St",
+  "locationState": "WY",
+  "locationZipcode": "82601",
+  "lat": 42.8352234,
+  "lon": -106.3360547,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.170Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.170Z"
+}

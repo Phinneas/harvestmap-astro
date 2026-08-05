@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-annex-of-minneapolis-200-east-lyndale-ave-n",
+  "name": "Farmers' Market Annex of Minneapolis",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 East Lyndale Ave N, MN",
+  "locationCity": "200 East Lyndale Ave N",
+  "locationState": "MN",
+  "locationZipcode": "55405",
+  "lat": 44.9800444,
+  "lon": -93.2862283,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mcneill-farms-948-lemon-springs-road",
+  "name": "McNeill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "948 Lemon Springs Road, NC",
+  "locationCity": "948 Lemon Springs Road",
+  "locationState": "NC",
+  "locationZipcode": "27332",
+  "lat": 35.3894144982258,
+  "lon": -79.1943635820059,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.725Z"
+}

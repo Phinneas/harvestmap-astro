@@ -1,0 +1,19 @@
+{
+  "slug": "celadon-hill-2740-greene-rd",
+  "name": "Celadon Hill",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2740 Greene Rd, MD",
+  "locationCity": "2740 Greene Rd",
+  "locationState": "MD",
+  "locationZipcode": "21013",
+  "lat": 39.53529871978577,
+  "lon": -76.49260909133247,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.716Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.716Z"
+}

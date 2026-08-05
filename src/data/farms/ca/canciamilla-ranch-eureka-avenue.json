@@ -1,0 +1,19 @@
+{
+  "slug": "canciamilla-ranch-eureka-avenue",
+  "name": "Canciamilla Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Eureka Avenue, CA",
+  "locationCity": "Eureka Avenue",
+  "locationState": "CA",
+  "locationZipcode": "94513",
+  "lat": 37.916099009065,
+  "lon": -121.708256034976,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.802Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "altadena-farmers-market-600-w-palm-street-altadena",
+  "name": "Altadena Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "600 W. Palm Street Altadena, CA",
+  "locationCity": "600 W. Palm Street Altadena",
+  "locationState": "CA",
+  "locationZipcode": "91001",
+  "lat": 34.20023918081426,
+  "lon": -118.157638766146,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.372Z"
+}

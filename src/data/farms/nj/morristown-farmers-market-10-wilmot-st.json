@@ -1,0 +1,19 @@
+{
+  "slug": "morristown-farmers-market-10-wilmot-st",
+  "name": "Morristown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10 Wilmot St, NJ",
+  "locationCity": "10 Wilmot St",
+  "locationState": "NJ",
+  "locationZipcode": "07960",
+  "lat": 40.7963935,
+  "lon": -74.4774283,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:22.081Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:22.081Z"
+}

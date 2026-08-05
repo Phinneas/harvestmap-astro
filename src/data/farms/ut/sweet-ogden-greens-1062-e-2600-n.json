@@ -1,0 +1,19 @@
+{
+  "slug": "sweet-ogden-greens-1062-e-2600-n",
+  "name": "Sweet Ogden Greens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1062 E 2600 N, UT",
+  "locationCity": "1062 E 2600 N",
+  "locationState": "UT",
+  "locationZipcode": "84414",
+  "lat": 41.306463382815224,
+  "lon": -111.94699292627489,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:20.063Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:20.063Z"
+}

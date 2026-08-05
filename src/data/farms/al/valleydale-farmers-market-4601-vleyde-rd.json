@@ -1,0 +1,19 @@
+{
+  "slug": "valleydale-farmers-market-4601-vleyde-rd",
+  "name": "Valleydale Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4601 VLEYDE RD, AL",
+  "locationCity": "4601 VLEYDE RD",
+  "locationState": "AL",
+  "locationZipcode": "35242",
+  "lat": 33.384203226723635,
+  "lon": -86.73423092022026,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.020Z"
+}

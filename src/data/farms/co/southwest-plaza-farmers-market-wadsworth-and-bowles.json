@@ -1,0 +1,19 @@
+{
+  "slug": "southwest-plaza-farmers-market-wadsworth-and-bowles",
+  "name": "Southwest Plaza Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Wadsworth and Bowles, CO",
+  "locationCity": "Wadsworth and Bowles",
+  "locationState": "CO",
+  "locationZipcode": "80123",
+  "lat": 39.611904,
+  "lon": -105.09573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.343Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.343Z"
+}

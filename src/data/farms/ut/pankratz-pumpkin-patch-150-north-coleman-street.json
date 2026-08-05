@@ -1,0 +1,19 @@
+{
+  "slug": "pankratz-pumpkin-patch-150-north-coleman-street",
+  "name": "Pankratz Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "150 North Coleman Street, UT",
+  "locationCity": "150 North Coleman Street",
+  "locationState": "UT",
+  "locationZipcode": "84074",
+  "lat": 40.5334694469466,
+  "lon": -112.314143232541,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.678Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.678Z"
+}

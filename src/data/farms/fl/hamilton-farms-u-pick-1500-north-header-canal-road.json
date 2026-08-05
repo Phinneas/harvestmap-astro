@@ -1,0 +1,19 @@
+{
+  "slug": "hamilton-farms-u-pick-1500-north-header-canal-road",
+  "name": "Hamilton Farms U-pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1500 North Header Canal Road, FL",
+  "locationCity": "1500 North Header Canal Road",
+  "locationState": "FL",
+  "locationZipcode": "34945",
+  "lat": 27.46671697938196,
+  "lon": -80.49345802538724,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.898Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.898Z"
+}

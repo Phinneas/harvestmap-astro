@@ -1,0 +1,19 @@
+{
+  "slug": "basehore-farms-080-creekview-road",
+  "name": "Basehore Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "080 Creekview Road, PA",
+  "locationCity": "080 Creekview Road",
+  "locationState": "PA",
+  "locationZipcode": "17050",
+  "lat": 40.2643085695222,
+  "lon": -76.9885322405702,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.070Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.070Z"
+}

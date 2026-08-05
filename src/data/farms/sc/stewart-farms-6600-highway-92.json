@@ -1,0 +1,20 @@
+{
+  "slug": "stewart-farms-6600-highway-92",
+  "name": "Stewart Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6600 Highway 92, SC",
+  "locationCity": "6600 Highway 92",
+  "locationState": "SC",
+  "locationZipcode": "29335",
+  "lat": 34.6371730019511,
+  "lon": -82.0143449688397,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.909Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.909Z",
+  "crops": []
+}

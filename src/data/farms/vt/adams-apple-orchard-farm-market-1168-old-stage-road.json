@@ -1,0 +1,19 @@
+{
+  "slug": "adams-apple-orchard-farm-market-1168-old-stage-road",
+  "name": "Adams Apple Orchard Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1168 Old Stage Road, VT",
+  "locationCity": "1168 Old Stage Road",
+  "locationState": "VT",
+  "locationZipcode": "05495",
+  "lat": 44.455725999761256,
+  "lon": -73.07157202301154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:48.660Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:48.660Z"
+}

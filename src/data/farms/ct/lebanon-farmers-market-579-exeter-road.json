@@ -1,0 +1,19 @@
+{
+  "slug": "lebanon-farmers-market-579-exeter-road",
+  "name": "Lebanon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "579 Exeter Road, CT",
+  "locationCity": "579 Exeter Road",
+  "locationState": "CT",
+  "locationZipcode": "06249",
+  "lat": 41.635781,
+  "lon": -72.212877,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.585Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.585Z"
+}

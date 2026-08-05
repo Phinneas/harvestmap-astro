@@ -1,0 +1,19 @@
+{
+  "slug": "philomath-farmers-market-1050-applegate-st",
+  "name": "Philomath Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1050 Applegate St, OR",
+  "locationCity": "1050 Applegate St",
+  "locationState": "OR",
+  "locationZipcode": "97370",
+  "lat": 44.5386202,
+  "lon": -123.3712607,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.454Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.454Z"
+}

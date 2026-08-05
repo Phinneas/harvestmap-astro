@@ -1,0 +1,19 @@
+{
+  "slug": "albany-farmers-market-624-w-oglethorpe-blvd-albany",
+  "name": "Albany Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "624 W. Oglethorpe Blvd. Albany, GA",
+  "locationCity": "624 W. Oglethorpe Blvd. Albany",
+  "locationState": "GA",
+  "locationZipcode": "31702",
+  "lat": 31.575284344769635,
+  "lon": -84.16273947283011,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

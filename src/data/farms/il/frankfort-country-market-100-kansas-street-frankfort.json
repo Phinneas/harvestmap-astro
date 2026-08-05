@@ -1,0 +1,19 @@
+{
+  "slug": "frankfort-country-market-100-kansas-street-frankfort",
+  "name": "Frankfort Country Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Kansas Street Frankfort, IL",
+  "locationCity": "100 Kansas Street Frankfort",
+  "locationState": "IL",
+  "locationZipcode": "60423",
+  "lat": 41.49846413599099,
+  "lon": -87.85122225808024,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

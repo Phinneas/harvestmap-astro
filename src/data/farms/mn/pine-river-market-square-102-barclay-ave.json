@@ -1,0 +1,19 @@
+{
+  "slug": "pine-river-market-square-102-barclay-ave",
+  "name": "Pine River Market Square",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "102 Barclay Ave, MN",
+  "locationCity": "102 Barclay Ave",
+  "locationState": "MN",
+  "locationZipcode": "56474",
+  "lat": 46.7162447,
+  "lon": -94.4024287,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

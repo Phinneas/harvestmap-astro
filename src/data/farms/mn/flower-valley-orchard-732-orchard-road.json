@@ -1,0 +1,19 @@
+{
+  "slug": "flower-valley-orchard-732-orchard-road",
+  "name": "Flower Valley Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "732 Orchard Road, MN",
+  "locationCity": "732 Orchard Road",
+  "locationState": "MN",
+  "locationZipcode": "55066",
+  "lat": 44.5177644770324,
+  "lon": -92.457793233773,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.794Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.794Z"
+}

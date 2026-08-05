@@ -1,0 +1,19 @@
+{
+  "slug": "liberal-ks-farmers-market-1195-n-kansas-ave",
+  "name": "Liberal KS Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1195 N. Kansas Ave, KS",
+  "locationCity": "1195 N. Kansas Ave",
+  "locationState": "KS",
+  "locationZipcode": "67901",
+  "lat": 37.05119450613985,
+  "lon": -100.9223085170128,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

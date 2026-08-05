@@ -1,0 +1,19 @@
+{
+  "slug": "tholhill-farm-493-catatonk-hill-road",
+  "name": "Tholhill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "493 Catatonk Hill Road, NY",
+  "locationCity": "493 Catatonk Hill Road",
+  "locationState": "NY",
+  "locationZipcode": "13743",
+  "lat": 42.1624640292313,
+  "lon": -76.3514111546573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.080Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.080Z"
+}

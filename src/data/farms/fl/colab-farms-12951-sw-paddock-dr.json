@@ -1,0 +1,19 @@
+{
+  "slug": "colab-farms-12951-sw-paddock-dr",
+  "name": "CoLab Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "12951 SW Paddock Dr, FL",
+  "locationCity": "12951 SW Paddock Dr",
+  "locationState": "FL",
+  "locationZipcode": "12951",
+  "lat": 27.047453,
+  "lon": -80.477947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:37.831Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:37.831Z"
+}

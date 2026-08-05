@@ -1,0 +1,19 @@
+{
+  "slug": "fourth-street-live-farmers-market-411-s-4th-st-louisville",
+  "name": "Fourth Street Live! Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "411 S 4th St Louisville, KY",
+  "locationCity": "411 S 4th St Louisville",
+  "locationState": "KY",
+  "locationZipcode": "40202",
+  "lat": 38.2527461674903,
+  "lon": -85.75719746887755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

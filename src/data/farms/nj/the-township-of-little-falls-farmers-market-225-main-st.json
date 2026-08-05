@@ -1,0 +1,19 @@
+{
+  "slug": "the-township-of-little-falls-farmers-market-225-main-st",
+  "name": "The Township of Little Falls Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "225 Main St, NJ",
+  "locationCity": "225 Main St",
+  "locationState": "NJ",
+  "locationZipcode": "07424",
+  "lat": 40.882225,
+  "lon": -74.234683,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:21.845Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:21.845Z"
+}

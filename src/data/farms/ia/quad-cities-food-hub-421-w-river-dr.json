@@ -1,0 +1,19 @@
+{
+  "slug": "quad-cities-food-hub-421-w-river-dr",
+  "name": "Quad Cities Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "421 W. River Dr., IA",
+  "locationCity": "421 W. River Dr.",
+  "locationState": "IA",
+  "locationZipcode": "52801",
+  "lat": 41.52001902066172,
+  "lon": -90.57959498398918,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:37.782Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:37.782Z"
+}

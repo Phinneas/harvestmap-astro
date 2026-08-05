@@ -1,0 +1,19 @@
+{
+  "slug": "meade-county-farmers-market-1041-old-ekron-rd",
+  "name": "Meade County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1041 Old Ekron Rd, KY",
+  "locationCity": "1041 Old Ekron Rd",
+  "locationState": "KY",
+  "locationZipcode": "40108",
+  "lat": 37.988637,
+  "lon": -86.166136,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.723Z"
+}

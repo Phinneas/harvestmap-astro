@@ -1,0 +1,19 @@
+{
+  "slug": "lander-valley-farmers-market-tuesday-1445-main-lander",
+  "name": "Lander Valley Farmers Market - Tuesday",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1445 Main Lander, WY",
+  "locationCity": "1445 Main Lander",
+  "locationState": "WY",
+  "locationZipcode": "82520",
+  "lat": 42.840628979187755,
+  "lon": -108.74771000293443,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

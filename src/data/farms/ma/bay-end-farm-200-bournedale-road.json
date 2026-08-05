@@ -1,0 +1,19 @@
+{
+  "slug": "bay-end-farm-200-bournedale-road",
+  "name": "Bay End Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "200 Bournedale Road, MA",
+  "locationCity": "200 Bournedale Road",
+  "locationState": "MA",
+  "locationZipcode": "02532",
+  "lat": 41.768595549170215,
+  "lon": -70.59621513383287,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.288Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.288Z"
+}

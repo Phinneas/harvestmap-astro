@@ -1,0 +1,19 @@
+{
+  "slug": "belmont-pumpkin-farm-155-belmont-lane",
+  "name": "Belmont Pumpkin Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "155 Belmont Lane, VA",
+  "locationCity": "155 Belmont Lane",
+  "locationState": "VA",
+  "locationZipcode": "23128",
+  "lat": 37.4375689902518,
+  "lon": -76.4044459706193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.103Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.103Z"
+}

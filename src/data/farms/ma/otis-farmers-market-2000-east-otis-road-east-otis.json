@@ -1,0 +1,19 @@
+{
+  "slug": "otis-farmers-market-2000-east-otis-road-east-otis",
+  "name": "Otis Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2000 East Otis Road East Otis, MA",
+  "locationCity": "2000 East Otis Road East Otis",
+  "locationState": "MA",
+  "locationZipcode": "01029",
+  "lat": 42.172283288916766,
+  "lon": -73.0322401735857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.866Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.866Z"
+}

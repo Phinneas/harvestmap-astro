@@ -1,0 +1,19 @@
+{
+  "slug": "redman-farms-8689-bakers-ln",
+  "name": "Redman Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8689 Bakers Ln, MD",
+  "locationCity": "8689 Bakers Ln",
+  "locationState": "MD",
+  "locationZipcode": "21620",
+  "lat": 39.21493198686042,
+  "lon": -76.14364104165865,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:14.361Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:14.361Z"
+}

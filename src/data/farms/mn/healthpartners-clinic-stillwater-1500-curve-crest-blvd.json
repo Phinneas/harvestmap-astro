@@ -1,0 +1,19 @@
+{
+  "slug": "healthpartners-clinic-stillwater-1500-curve-crest-blvd",
+  "name": "HealthPartners Clinic Stillwater",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1500 Curve Crest Blvd, MN",
+  "locationCity": "1500 Curve Crest Blvd",
+  "locationState": "MN",
+  "locationZipcode": "55082",
+  "lat": 45.0419041,
+  "lon": -92.8296023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

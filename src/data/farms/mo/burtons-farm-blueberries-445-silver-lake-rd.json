@@ -1,0 +1,19 @@
+{
+  "slug": "burtons-farm-blueberries-445-silver-lake-rd",
+  "name": "Burtons Farm Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "445 Silver Lake Rd, MO",
+  "locationCity": "445 Silver Lake Rd",
+  "locationState": "MO",
+  "locationZipcode": "65610",
+  "lat": 36.9682259983235,
+  "lon": -93.4931300270805,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.698Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.698Z"
+}

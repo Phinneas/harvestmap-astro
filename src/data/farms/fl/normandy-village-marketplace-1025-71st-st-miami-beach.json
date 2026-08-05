@@ -1,0 +1,19 @@
+{
+  "slug": "normandy-village-marketplace-1025-71st-st-miami-beach",
+  "name": "Normandy Village Marketplace",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1025 71st St. Miami Beach, FL",
+  "locationCity": "1025 71st St. Miami Beach",
+  "locationState": "FL",
+  "locationZipcode": "33141",
+  "lat": 25.855190629160383,
+  "lon": -80.12898792610156,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

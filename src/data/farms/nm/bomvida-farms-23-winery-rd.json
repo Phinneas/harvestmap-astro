@@ -1,0 +1,19 @@
+{
+  "slug": "bomvida-farms-23-winery-rd",
+  "name": "Bomvida Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "23 Winery Rd, NM",
+  "locationCity": "23 Winery Rd",
+  "locationState": "NM",
+  "locationZipcode": "87006",
+  "lat": 34.522685,
+  "lon": -106.80763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:01.904Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:01.904Z"
+}

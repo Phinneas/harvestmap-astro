@@ -1,0 +1,19 @@
+{
+  "slug": "harvested-here-food-hub-2009-curtain-pole-road",
+  "name": "Harvested Here Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2009 Curtain Pole Road, TN",
+  "locationCity": "2009 Curtain Pole Road",
+  "locationState": "TN",
+  "locationZipcode": "37406",
+  "lat": 35.0624504,
+  "lon": -85.275319,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:33.534Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:33.534Z"
+}

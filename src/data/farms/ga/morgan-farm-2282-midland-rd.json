@@ -1,0 +1,19 @@
+{
+  "slug": "morgan-farm-2282-midland-rd",
+  "name": "Morgan Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2282 Midland Rd, GA",
+  "locationCity": "2282 Midland Rd",
+  "locationState": "GA",
+  "locationZipcode": "31312",
+  "lat": 32.24353899818078,
+  "lon": -81.34244901190625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.405Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.405Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-on-the-square-105-merchant-street",
+  "name": "Farmers Market on the Square",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 Merchant Street, KY",
+  "locationCity": "105 Merchant Street",
+  "locationState": "KY",
+  "locationZipcode": "42728",
+  "lat": 37.103437,
+  "lon": -85.307537,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.723Z"
+}

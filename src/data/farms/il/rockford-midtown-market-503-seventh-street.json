@@ -1,0 +1,19 @@
+{
+  "slug": "rockford-midtown-market-503-seventh-street",
+  "name": "Rockford Midtown Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "503 Seventh Street, IL",
+  "locationCity": "503 Seventh Street",
+  "locationState": "IL",
+  "locationZipcode": "61104",
+  "lat": 42.262526,
+  "lon": -89.08098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.950Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.950Z"
+}

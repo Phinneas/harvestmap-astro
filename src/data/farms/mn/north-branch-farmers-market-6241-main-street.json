@@ -1,0 +1,20 @@
+{
+  "slug": "north-branch-farmers-market-6241-main-street",
+  "name": "North Branch Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6241 Main Street, MN",
+  "locationCity": "6241 Main Street",
+  "locationState": "MN",
+  "locationZipcode": "55056",
+  "lat": 45.510887,
+  "lon": -92.982014,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.742Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.742Z",
+  "crops": []
+}

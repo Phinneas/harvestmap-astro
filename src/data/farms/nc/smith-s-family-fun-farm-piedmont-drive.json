@@ -1,0 +1,19 @@
+{
+  "slug": "smith-s-family-fun-farm-piedmont-drive",
+  "name": "Smith's Family Fun Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Piedmont Drive, NC",
+  "locationCity": "Piedmont Drive",
+  "locationState": "NC",
+  "locationZipcode": "27278",
+  "lat": 36.0803500000001,
+  "lon": -79.1011549999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.735Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.735Z"
+}

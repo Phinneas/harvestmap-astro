@@ -1,0 +1,19 @@
+{
+  "slug": "hee-haw-farms-700-south-4500-west",
+  "name": "Hee Haw Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "700 South 4500 West, UT",
+  "locationCity": "700 South 4500 West",
+  "locationState": "UT",
+  "locationZipcode": "84062",
+  "lat": 40.3552372809178,
+  "lon": -111.771824461313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.666Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.666Z"
+}

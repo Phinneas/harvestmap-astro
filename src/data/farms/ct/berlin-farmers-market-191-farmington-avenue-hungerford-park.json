@@ -1,0 +1,19 @@
+{
+  "slug": "berlin-farmers-market-191-farmington-avenue-hungerford-park",
+  "name": "Berlin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "191 Farmington Avenue Hungerford Park, CT",
+  "locationCity": "191 Farmington Avenue Hungerford Park",
+  "locationState": "CT",
+  "locationZipcode": "06037",
+  "lat": 41.64294343047201,
+  "lon": -72.78461695228474,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.615Z"
+}

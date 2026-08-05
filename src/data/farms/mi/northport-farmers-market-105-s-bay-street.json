@@ -1,0 +1,19 @@
+{
+  "slug": "northport-farmers-market-105-s-bay-street",
+  "name": "Northport Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 S. Bay Street, MI",
+  "locationCity": "105 S. Bay Street",
+  "locationState": "MI",
+  "locationZipcode": "49670",
+  "lat": 45.129668,
+  "lon": -85.614175,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.180Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.180Z"
+}

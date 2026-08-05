@@ -1,0 +1,19 @@
+{
+  "slug": "ralston-farm-325-hopewell-amwell-rd",
+  "name": "Ralston Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "325 Hopewell Amwell Rd, NJ",
+  "locationCity": "325 Hopewell Amwell Rd",
+  "locationState": "NJ",
+  "locationZipcode": "08525",
+  "lat": 40.4035775,
+  "lon": -74.7483143,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.066Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.066Z"
+}

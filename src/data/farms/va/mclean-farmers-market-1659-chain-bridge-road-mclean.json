@@ -1,0 +1,19 @@
+{
+  "slug": "mclean-farmers-market-1659-chain-bridge-road-mclean",
+  "name": "McLean Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1659 Chain Bridge Road McLean, VA",
+  "locationCity": "1659 Chain Bridge Road McLean",
+  "locationState": "VA",
+  "locationZipcode": "22101",
+  "lat": 38.92962301660138,
+  "lon": -77.18814765724119,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.293Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.293Z"
+}

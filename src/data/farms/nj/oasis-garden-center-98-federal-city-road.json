@@ -1,0 +1,20 @@
+{
+  "slug": "oasis-garden-center-98-federal-city-road",
+  "name": "Oasis Garden Center",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "98 Federal City Road, NJ",
+  "locationCity": "98 Federal City Road",
+  "locationState": "NJ",
+  "locationZipcode": "08648",
+  "lat": 40.2860999853751,
+  "lon": -74.7624619839538,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.703Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.703Z",
+  "crops": []
+}

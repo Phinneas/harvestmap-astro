@@ -1,0 +1,19 @@
+{
+  "slug": "bush-n-vine-farm-1650-filbert-hwy",
+  "name": "Bush-N-Vine Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1650 Filbert Hwy, SC",
+  "locationCity": "1650 Filbert Hwy",
+  "locationState": "SC",
+  "locationZipcode": "29745",
+  "lat": 35.03542798340108,
+  "lon": -81.25383067003165,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:52.969Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:52.969Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "chapel-hill-farmers-market-201-south-estes-dr",
+  "name": "Chapel Hill Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 South Estes Dr., NC",
+  "locationCity": "201 South Estes Dr.",
+  "locationState": "NC",
+  "locationZipcode": "27514",
+  "lat": 35.926340309931064,
+  "lon": -79.02788279976612,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "waits-farm-3712-old-braswell-road",
+  "name": "Waits Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3712 Old Braswell Road, GA",
+  "locationCity": "3712 Old Braswell Road",
+  "locationState": "GA",
+  "locationZipcode": "30650",
+  "lat": 33.8833576834357,
+  "lon": -83.7601154020163,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.359Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.359Z"
+}

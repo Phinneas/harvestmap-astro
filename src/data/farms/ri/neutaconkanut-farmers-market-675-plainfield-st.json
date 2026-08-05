@@ -1,0 +1,19 @@
+{
+  "slug": "neutaconkanut-farmers-market-675-plainfield-st",
+  "name": "Neutaconkanut Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "675 Plainfield St, RI",
+  "locationCity": "675 Plainfield St",
+  "locationState": "RI",
+  "locationZipcode": "02909",
+  "lat": 41.8118,
+  "lon": -71.461775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.507Z"
+}

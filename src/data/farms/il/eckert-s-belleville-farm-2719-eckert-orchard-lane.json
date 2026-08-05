@@ -1,0 +1,19 @@
+{
+  "slug": "eckert-s-belleville-farm-2719-eckert-orchard-lane",
+  "name": "Eckert’s Belleville Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2719 Eckert Orchard Lane, IL",
+  "locationCity": "2719 Eckert Orchard Lane",
+  "locationState": "IL",
+  "locationZipcode": "62260",
+  "lat": 38.5102627984323,
+  "lon": -90.1267230870492,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.904Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.904Z"
+}

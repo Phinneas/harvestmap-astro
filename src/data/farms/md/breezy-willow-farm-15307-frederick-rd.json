@@ -1,0 +1,19 @@
+{
+  "slug": "breezy-willow-farm-15307-frederick-rd",
+  "name": "Breezy Willow Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "15307 Frederick Rd, MD",
+  "locationCity": "15307 Frederick Rd",
+  "locationState": "MD",
+  "locationZipcode": "15307",
+  "lat": 39.32908403655938,
+  "lon": -77.04650394480979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.723Z"
+}

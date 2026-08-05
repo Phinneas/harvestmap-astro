@@ -1,0 +1,19 @@
+{
+  "slug": "tanglebloom-flowers-21-harris-hill-rd",
+  "name": "Tanglebloom Flowers",
+  "source": "usda",
+  "directory": "csa",
+  "location": "21 Harris Hill Rd., VT",
+  "locationCity": "21 Harris Hill Rd.",
+  "locationState": "VT",
+  "locationZipcode": "05345",
+  "lat": 42.9909389,
+  "lon": -72.6320947,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.101Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.101Z"
+}

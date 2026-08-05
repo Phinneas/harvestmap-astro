@@ -1,0 +1,19 @@
+{
+  "slug": "west-side-farmers-market-63-george-st-w",
+  "name": "West Side Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "63 George St W, MN",
+  "locationCity": "63 George St W",
+  "locationState": "MN",
+  "locationZipcode": "55107",
+  "lat": 44.9298253,
+  "lon": -93.0878937,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

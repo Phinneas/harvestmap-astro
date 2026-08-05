@@ -1,0 +1,19 @@
+{
+  "slug": "woodville-farmers-market-1110-dogwood-road-n-woodville",
+  "name": "Woodville Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1110 Dogwood Road N. Woodville, GA",
+  "locationCity": "1110 Dogwood Road N. Woodville",
+  "locationState": "GA",
+  "locationZipcode": "30669",
+  "lat": 33.67407796230712,
+  "lon": -83.10657737101637,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

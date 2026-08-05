@@ -1,0 +1,19 @@
+{
+  "slug": "bethlehem-farmers-market-intersection-of-new-and-morton-streets",
+  "name": "Bethlehem Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Intersection of New and Morton Streets, PA",
+  "locationCity": "Intersection of New and Morton Streets",
+  "locationState": "PA",
+  "locationZipcode": "18015",
+  "lat": 40.6098058,
+  "lon": -75.378402,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:18.992Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:18.992Z"
+}

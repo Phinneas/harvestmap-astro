@@ -1,0 +1,19 @@
+{
+  "slug": "garden-of-eve-organic-farm-4558-sound-ave",
+  "name": "Garden of Eve Organic Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4558 Sound Ave, NY",
+  "locationCity": "4558 Sound Ave",
+  "locationState": "NY",
+  "locationZipcode": "11901",
+  "lat": 40.968536,
+  "lon": -72.6482398,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.159Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.159Z"
+}

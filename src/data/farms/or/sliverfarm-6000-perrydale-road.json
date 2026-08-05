@@ -1,0 +1,19 @@
+{
+  "slug": "sliverfarm-6000-perrydale-road",
+  "name": "Sliverfarm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6000 Perrydale Road, OR",
+  "locationCity": "6000 Perrydale Road",
+  "locationState": "OR",
+  "locationZipcode": "97338",
+  "lat": 45.02112400951847,
+  "lon": -123.26638000238052,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.522Z"
+}

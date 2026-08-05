@@ -1,0 +1,19 @@
+{
+  "slug": "stony-creek-farm-1210-wilbur-avenue",
+  "name": "Stony Creek Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1210 Wilbur Avenue, MA",
+  "locationCity": "1210 Wilbur Avenue",
+  "locationState": "MA",
+  "locationZipcode": "02777",
+  "lat": 41.7319051091242,
+  "lon": -71.2345621880305,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.680Z"
+}

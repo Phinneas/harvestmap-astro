@@ -1,0 +1,19 @@
+{
+  "slug": "gateway-farm-10665-joy-rd",
+  "name": "Gateway Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "10665 Joy rd., MI",
+  "locationCity": "10665 Joy rd.",
+  "locationState": "MI",
+  "locationZipcode": "10665",
+  "lat": 42.34907613181176,
+  "lon": -83.55246116485927,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:41.103Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:41.103Z"
+}

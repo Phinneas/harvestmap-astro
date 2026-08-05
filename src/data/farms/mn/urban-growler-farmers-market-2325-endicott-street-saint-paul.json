@@ -1,0 +1,19 @@
+{
+  "slug": "urban-growler-farmers-market-2325-endicott-street-saint-paul",
+  "name": "Urban Growler Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2325 Endicott Street Saint Paul, MN",
+  "locationCity": "2325 Endicott Street Saint Paul",
+  "locationState": "MN",
+  "locationZipcode": "55114",
+  "lat": 44.96993335340309,
+  "lon": -93.19312755233928,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.774Z"
+}

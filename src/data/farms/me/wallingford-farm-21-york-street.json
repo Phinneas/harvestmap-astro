@@ -1,0 +1,19 @@
+{
+  "slug": "wallingford-farm-21-york-street",
+  "name": "Wallingford Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "21 York Street, ME",
+  "locationCity": "21 York Street",
+  "locationState": "ME",
+  "locationZipcode": "04043",
+  "lat": 43.3826102145867,
+  "lon": -70.546295368367,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.887Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.887Z"
+}

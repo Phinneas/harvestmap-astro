@@ -1,0 +1,19 @@
+{
+  "slug": "new-york-mills-farmers-market-24-n-main-ave",
+  "name": "New York Mills Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24 N Main Ave, NY",
+  "locationCity": "24 N Main Ave",
+  "locationState": "NY",
+  "locationZipcode": "56567",
+  "lat": 46.5186765,
+  "lon": -95.3756154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.924Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.924Z"
+}

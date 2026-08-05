@@ -1,0 +1,19 @@
+{
+  "slug": "fredonia-farmers-market-9-11-church-street-fredonia",
+  "name": "Fredonia Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9-11 Church Street Fredonia, NY",
+  "locationCity": "9-11 Church Street Fredonia",
+  "locationState": "NY",
+  "locationZipcode": "14063",
+  "lat": 42.44050158299115,
+  "lon": -79.33241837305806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.019Z"
+}

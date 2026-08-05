@@ -1,0 +1,20 @@
+{
+  "slug": "black-wolf-acres-2739-hohammer-rd",
+  "name": "Black Wolf Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2739 Hohammer Rd, TN",
+  "locationCity": "2739 Hohammer Rd",
+  "locationState": "TN",
+  "locationZipcode": "38341",
+  "lat": 35.8183860014278,
+  "lon": -88.1249230392859,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.275Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.275Z",
+  "crops": []
+}

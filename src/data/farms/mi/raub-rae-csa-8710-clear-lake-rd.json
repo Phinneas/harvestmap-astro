@@ -1,0 +1,19 @@
+{
+  "slug": "raub-rae-csa-8710-clear-lake-rd",
+  "name": "Raub-Rae CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8710 Clear Lake Rd, MI",
+  "locationCity": "8710 Clear Lake Rd",
+  "locationState": "MI",
+  "locationZipcode": "48416",
+  "lat": 43.1537892,
+  "lon": -83.0062543,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.979Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.980Z"
+}

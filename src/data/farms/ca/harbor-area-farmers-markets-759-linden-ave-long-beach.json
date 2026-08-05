@@ -1,0 +1,19 @@
+{
+  "slug": "harbor-area-farmers-markets-759-linden-ave-long-beach",
+  "name": "Harbor Area Farmers' Markets",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "759 Linden Ave Long Beach, CA",
+  "locationCity": "759 Linden Ave Long Beach",
+  "locationState": "CA",
+  "locationZipcode": "90813",
+  "lat": 33.776182409088236,
+  "lon": -118.1863574920847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

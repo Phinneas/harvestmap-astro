@@ -1,0 +1,19 @@
+{
+  "slug": "castle-rock-farmers-market-414-wilcox-st-castle-rock",
+  "name": "Castle Rock Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "414 Wilcox St Castle Rock, CO",
+  "locationCity": "414 Wilcox St Castle Rock",
+  "locationState": "CO",
+  "locationZipcode": "80104",
+  "lat": 39.37352014065999,
+  "lon": -104.85999010828043,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.365Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.365Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lenoir-downtown-farmers-market-1001-harper-ave-nw-lenoir",
+  "name": "Lenoir Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1001 Harper Ave NW Lenoir, NC",
+  "locationCity": "1001 Harper Ave NW Lenoir",
+  "locationState": "NC",
+  "locationZipcode": "28645",
+  "lat": 35.913178755521294,
+  "lon": -81.54081878288241,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

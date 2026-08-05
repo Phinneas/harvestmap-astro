@@ -1,0 +1,19 @@
+{
+  "slug": "red-rivier-farmers-market-212-8th-st-s",
+  "name": "Red Rivier Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "212 8th St S, MN",
+  "locationCity": "212 8th St S",
+  "locationState": "MN",
+  "locationZipcode": "56560",
+  "lat": 46.8722711,
+  "lon": -96.7675662,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

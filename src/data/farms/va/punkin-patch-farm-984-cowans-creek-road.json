@@ -1,0 +1,20 @@
+{
+  "slug": "punkin-patch-farm-984-cowans-creek-road",
+  "name": "Punkin Patch Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "984 Cowans Creek Road, VA",
+  "locationCity": "984 Cowans Creek Road",
+  "locationState": "VA",
+  "locationZipcode": "24271",
+  "lat": 36.8004710072654,
+  "lon": -82.3844879690485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.091Z",
+  "crops": []
+}

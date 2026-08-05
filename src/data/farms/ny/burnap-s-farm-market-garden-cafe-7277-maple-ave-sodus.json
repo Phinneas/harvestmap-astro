@@ -1,0 +1,19 @@
+{
+  "slug": "burnap-s-farm-market-garden-cafe-7277-maple-ave-sodus",
+  "name": "Burnap's Farm Market & Garden Cafe",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7277 Maple Ave Sodus, NY",
+  "locationCity": "7277 Maple Ave Sodus",
+  "locationState": "NY",
+  "locationZipcode": "14551",
+  "lat": 43.26340556521529,
+  "lon": -77.06384441513923,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

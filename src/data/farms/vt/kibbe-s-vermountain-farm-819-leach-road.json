@@ -1,0 +1,19 @@
+{
+  "slug": "kibbe-s-vermountain-farm-819-leach-road",
+  "name": "Kibbe's Vermountain Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "819 Leach Road, VT",
+  "locationCity": "819 Leach Road",
+  "locationState": "VT",
+  "locationZipcode": "05101",
+  "lat": 43.1627479908814,
+  "lon": -72.5273199624043,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.226Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.226Z"
+}

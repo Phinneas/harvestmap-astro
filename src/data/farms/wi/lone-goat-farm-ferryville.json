@@ -1,0 +1,19 @@
+{
+  "slug": "lone-goat-farm-ferryville",
+  "name": "Lone Goat Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Ferryville, WI",
+  "locationCity": "Ferryville",
+  "locationState": "WI",
+  "locationZipcode": "54628",
+  "lat": 43.3505324,
+  "lon": -91.1020738,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:11.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:11.986Z"
+}

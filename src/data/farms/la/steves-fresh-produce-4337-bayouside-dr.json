@@ -1,0 +1,19 @@
+{
+  "slug": "steves-fresh-produce-4337-bayouside-dr",
+  "name": "Steves Fresh Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "4337 Bayouside Dr, LA",
+  "locationCity": "4337 Bayouside Dr",
+  "locationState": "LA",
+  "locationZipcode": "70363",
+  "lat": 29.53284299445005,
+  "lon": -90.6045400307535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:37.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:37.105Z"
+}

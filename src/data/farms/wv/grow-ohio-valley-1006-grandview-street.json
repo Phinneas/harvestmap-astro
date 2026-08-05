@@ -1,0 +1,20 @@
+{
+  "slug": "grow-ohio-valley-1006-grandview-street",
+  "name": "Grow Ohio Valley",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1006 Grandview Street, WV",
+  "locationCity": "1006 Grandview Street",
+  "locationState": "WV",
+  "locationZipcode": "26003",
+  "lat": 40.0699877,
+  "lon": -80.7177385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:34.320Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:34.320Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rajzer-s-farm-market-76301-m-51-hwy",
+  "name": "Rajzer's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "76301 M-51 Hwy., MI",
+  "locationCity": "76301 M-51 Hwy.",
+  "locationState": "MI",
+  "locationZipcode": "76301",
+  "lat": 42.14047699800716,
+  "lon": -85.96467600481803,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.233Z"
+}

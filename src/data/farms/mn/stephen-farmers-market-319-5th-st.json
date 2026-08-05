@@ -1,0 +1,19 @@
+{
+  "slug": "stephen-farmers-market-319-5th-st",
+  "name": "Stephen Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "319 5th St, MN",
+  "locationCity": "319 5th St",
+  "locationState": "MN",
+  "locationZipcode": "56757",
+  "lat": 48.450402,
+  "lon": -96.8715748,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

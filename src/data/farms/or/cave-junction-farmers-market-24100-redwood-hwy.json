@@ -1,0 +1,19 @@
+{
+  "slug": "cave-junction-farmers-market-24100-redwood-hwy",
+  "name": "Cave Junction Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24100 Redwood Hwy, OR",
+  "locationCity": "24100 Redwood Hwy",
+  "locationState": "OR",
+  "locationZipcode": "24100",
+  "lat": 42.19916642249579,
+  "lon": -123.65120394681252,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.423Z"
+}

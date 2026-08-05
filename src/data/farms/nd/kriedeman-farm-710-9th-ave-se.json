@@ -1,0 +1,19 @@
+{
+  "slug": "kriedeman-farm-710-9th-ave-se",
+  "name": "Kriedeman Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "710 9TH AVE SE, ND",
+  "locationCity": "710 9TH AVE SE",
+  "locationState": "ND",
+  "locationZipcode": "58401",
+  "lat": 46.90172900301485,
+  "lon": -98.69641678347085,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:58.052Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:58.052Z"
+}

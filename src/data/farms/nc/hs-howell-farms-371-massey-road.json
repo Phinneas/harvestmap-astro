@@ -1,0 +1,19 @@
+{
+  "slug": "hs-howell-farms-371-massey-road",
+  "name": "HS Howell Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "371 Massey Road, NC",
+  "locationCity": "371 Massey Road",
+  "locationState": "NC",
+  "locationZipcode": "27597",
+  "lat": 35.8318252342924,
+  "lon": -78.2188441211179,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.680Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.680Z"
+}

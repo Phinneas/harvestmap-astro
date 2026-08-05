@@ -1,0 +1,19 @@
+{
+  "slug": "crow-farm-192-route-6a",
+  "name": "Crow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "192 Route 6A, MA",
+  "locationCity": "192 Route 6A",
+  "locationState": "MA",
+  "locationZipcode": "02563",
+  "lat": 41.7486904569663,
+  "lon": -70.4857268140119,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.477Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.477Z"
+}

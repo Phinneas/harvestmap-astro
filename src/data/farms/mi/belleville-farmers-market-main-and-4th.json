@@ -1,0 +1,19 @@
+{
+  "slug": "belleville-farmers-market-main-and-4th",
+  "name": "Belleville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main and 4th, MI",
+  "locationCity": "Main and 4th",
+  "locationState": "MI",
+  "locationZipcode": "48111",
+  "lat": 42.201917,
+  "lon": -83.482812,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.192Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.192Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "maple-hill-orchard-105-north-maple-street",
+  "name": "Maple Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "105 North Maple Street, WI",
+  "locationCity": "105 North Maple Street",
+  "locationState": "WI",
+  "locationZipcode": "53951",
+  "lat": 43.4608900000001,
+  "lon": -89.86672,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.385Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.385Z"
+}

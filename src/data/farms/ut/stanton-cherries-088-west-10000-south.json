@@ -1,0 +1,19 @@
+{
+  "slug": "stanton-cherries-088-west-10000-south",
+  "name": "Stanton Cherries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "088 West 10000 South, UT",
+  "locationCity": "088 West 10000 South",
+  "locationState": "UT",
+  "locationZipcode": "10000",
+  "lat": 40.0486599887016,
+  "lon": -111.751810001094,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.612Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.612Z"
+}

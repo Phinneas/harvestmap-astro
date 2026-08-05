@@ -1,0 +1,19 @@
+{
+  "slug": "city-market-1150-s-gay-st",
+  "name": "City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1150 S GAY ST, AL",
+  "locationCity": "1150 S GAY ST",
+  "locationState": "AL",
+  "locationZipcode": "36830",
+  "lat": 32.585280524069276,
+  "lon": -85.47512729701911,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

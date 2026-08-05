@@ -1,0 +1,19 @@
+{
+  "slug": "hull-o-farms-10-cochrane-road",
+  "name": "Hull-O Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10 Cochrane Road, NY",
+  "locationCity": "10 Cochrane Road",
+  "locationState": "NY",
+  "locationZipcode": "12422",
+  "lat": 42.3873277345613,
+  "lon": -74.1778774625519,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.223Z"
+}

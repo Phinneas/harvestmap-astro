@@ -1,0 +1,19 @@
+{
+  "slug": "cullipher-farm-1444-princess-anne-rd",
+  "name": "Cullipher Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1444 Princess Anne Rd, VA",
+  "locationCity": "1444 Princess Anne Rd",
+  "locationState": "VA",
+  "locationZipcode": "23456",
+  "lat": 36.6865096,
+  "lon": -76.0239433,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.207Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.207Z"
+}

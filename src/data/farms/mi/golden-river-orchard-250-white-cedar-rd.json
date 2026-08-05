@@ -1,0 +1,20 @@
+{
+  "slug": "golden-river-orchard-250-white-cedar-rd",
+  "name": "Golden River Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "250 White Cedar Rd., MI",
+  "locationCity": "250 White Cedar Rd.",
+  "locationState": "MI",
+  "locationZipcode": "49721",
+  "lat": 45.5373431805869,
+  "lon": -84.4467095635721,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.620Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.620Z",
+  "crops": []
+}

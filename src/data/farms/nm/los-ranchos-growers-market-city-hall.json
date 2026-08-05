@@ -1,0 +1,19 @@
+{
+  "slug": "los-ranchos-growers-market-city-hall",
+  "name": "Los Ranchos Growers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "City Hall, NM",
+  "locationCity": "City Hall",
+  "locationState": "NM",
+  "locationZipcode": "87107",
+  "lat": 35.158683,
+  "lon": -106.65491,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:58.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:58.749Z"
+}

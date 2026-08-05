@@ -1,0 +1,19 @@
+{
+  "slug": "elsesser-blueberry-acres-derry-hill-road",
+  "name": "Elsesser Blueberry Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Derry Hill Road, NH",
+  "locationCity": "Derry Hill Road",
+  "locationState": "NH",
+  "locationZipcode": "03601",
+  "lat": 43.2052759320538,
+  "lon": -72.3101831805679,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.520Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.520Z"
+}

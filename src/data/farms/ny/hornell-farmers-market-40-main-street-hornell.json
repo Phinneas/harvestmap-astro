@@ -1,0 +1,19 @@
+{
+  "slug": "hornell-farmers-market-40-main-street-hornell",
+  "name": "Hornell Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "40 Main Street Hornell, NY",
+  "locationCity": "40 Main Street Hornell",
+  "locationState": "NY",
+  "locationZipcode": "14843",
+  "lat": 42.32819291581621,
+  "lon": -77.66316356791457,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

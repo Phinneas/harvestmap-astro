@@ -1,0 +1,19 @@
+{
+  "slug": "crystal-city-farmers-market-105-baily-rd-crystal-city",
+  "name": "Crystal City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 Baily Rd Crystal City, MO",
+  "locationCity": "105 Baily Rd Crystal City",
+  "locationState": "MO",
+  "locationZipcode": "63019",
+  "lat": 38.21868166200969,
+  "lon": -90.37871429895874,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:55.492Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:55.492Z"
+}

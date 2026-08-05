@@ -1,0 +1,19 @@
+{
+  "slug": "willard-farms-116-willard-road",
+  "name": "Willard Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "116 Willard Road, NY",
+  "locationCity": "116 Willard Road",
+  "locationState": "NY",
+  "locationZipcode": "14534",
+  "lat": 43.061235725442515,
+  "lon": -77.54295275432195,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.830Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.830Z"
+}

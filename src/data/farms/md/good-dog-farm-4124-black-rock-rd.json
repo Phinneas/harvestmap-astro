@@ -1,0 +1,19 @@
+{
+  "slug": "good-dog-farm-4124-black-rock-rd",
+  "name": "Good Dog Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4124 Black Rock Rd, MD",
+  "locationCity": "4124 Black Rock Rd",
+  "locationState": "MD",
+  "locationZipcode": "21155",
+  "lat": 39.583509750470284,
+  "lon": -76.79524692557531,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.723Z"
+}

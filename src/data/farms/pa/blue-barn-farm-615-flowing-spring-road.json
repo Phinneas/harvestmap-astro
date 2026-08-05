@@ -1,0 +1,20 @@
+{
+  "slug": "blue-barn-farm-615-flowing-spring-road",
+  "name": "Blue Barn Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "615 Flowing Spring Road, PA",
+  "locationCity": "615 Flowing Spring Road",
+  "locationState": "PA",
+  "locationZipcode": "16693",
+  "lat": 40.46406698434802,
+  "lon": -78.27419903980298,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.217Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.217Z",
+  "crops": []
+}

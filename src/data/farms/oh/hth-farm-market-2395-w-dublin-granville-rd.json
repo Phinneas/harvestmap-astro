@@ -1,0 +1,19 @@
+{
+  "slug": "hth-farm-market-2395-w-dublin-granville-rd",
+  "name": "HTH Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2395 W. Dublin Granville Rd, OH",
+  "locationCity": "2395 W. Dublin Granville Rd",
+  "locationState": "OH",
+  "locationZipcode": "43235",
+  "lat": 40.090242371498405,
+  "lon": -83.05417701778273,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.372Z"
+}

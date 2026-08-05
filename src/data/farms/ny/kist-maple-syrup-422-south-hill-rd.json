@@ -1,0 +1,19 @@
+{
+  "slug": "kist-maple-syrup-422-south-hill-rd",
+  "name": "Kist Maple Syrup",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "422 South Hill Rd, NY",
+  "locationCity": "422 South Hill Rd",
+  "locationState": "NY",
+  "locationZipcode": "14025",
+  "lat": 42.6186196115728,
+  "lon": -78.6842622115612,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.925Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.925Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pharr-farms-480-argonne-road",
+  "name": "Pharr Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "480 Argonne Road, GA",
+  "locationCity": "480 Argonne Road",
+  "locationState": "GA",
+  "locationZipcode": "30680",
+  "lat": 33.9608889929768,
+  "lon": -83.6833399737642,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.308Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.308Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "heavenly-haven-farm-859-genesis-road",
+  "name": "Heavenly Haven Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "859 Genesis Road, KY",
+  "locationCity": "859 Genesis Road",
+  "locationState": "KY",
+  "locationZipcode": "42728",
+  "lat": 37.2630426365376,
+  "lon": -85.2340292571623,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.595Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.595Z",
+  "crops": []
+}

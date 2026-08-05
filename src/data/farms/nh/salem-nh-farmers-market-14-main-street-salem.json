@@ -1,0 +1,19 @@
+{
+  "slug": "salem-nh-farmers-market-14-main-street-salem",
+  "name": "Salem NH Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14 Main Street Salem, NH",
+  "locationCity": "14 Main Street Salem",
+  "locationState": "NH",
+  "locationZipcode": "03079",
+  "lat": 42.78239579803794,
+  "lon": -71.2351044405956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.154Z"
+}

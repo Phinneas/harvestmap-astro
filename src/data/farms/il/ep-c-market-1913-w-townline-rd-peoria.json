@@ -1,0 +1,19 @@
+{
+  "slug": "ep-c-market-1913-w-townline-rd-peoria",
+  "name": "EP!C Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1913 W. Townline Rd. Peoria, IL",
+  "locationCity": "1913 W. Townline Rd. Peoria",
+  "locationState": "IL",
+  "locationZipcode": "61615",
+  "lat": 40.79795627767901,
+  "lon": -89.6228277608829,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

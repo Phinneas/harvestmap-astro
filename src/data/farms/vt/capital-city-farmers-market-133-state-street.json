@@ -1,0 +1,19 @@
+{
+  "slug": "capital-city-farmers-market-133-state-street",
+  "name": "Capital City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "133 State Street, VT",
+  "locationCity": "133 State Street",
+  "locationState": "VT",
+  "locationZipcode": "05602",
+  "lat": 44.25683822565139,
+  "lon": -72.56793766916206,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.355Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.355Z"
+}

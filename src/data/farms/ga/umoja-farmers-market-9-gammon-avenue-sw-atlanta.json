@@ -1,0 +1,19 @@
+{
+  "slug": "umoja-farmers-market-9-gammon-avenue-sw-atlanta",
+  "name": "UMOJA Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9 Gammon Avenue SW Atlanta, GA",
+  "locationCity": "9 Gammon Avenue SW Atlanta",
+  "locationState": "GA",
+  "locationZipcode": "30315",
+  "lat": 33.71836972782344,
+  "lon": -84.38571927359278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

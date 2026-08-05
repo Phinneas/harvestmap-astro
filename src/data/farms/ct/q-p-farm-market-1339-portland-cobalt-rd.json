@@ -1,0 +1,19 @@
+{
+  "slug": "q-p-farm-market-1339-portland-cobalt-rd",
+  "name": "Q-P Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1339 Portland Cobalt Rd., CT",
+  "locationCity": "1339 Portland Cobalt Rd.",
+  "locationState": "CT",
+  "locationZipcode": "06480",
+  "lat": 41.56550909733845,
+  "lon": -72.59166783306883,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:22.083Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:22.083Z"
+}

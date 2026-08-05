@@ -1,0 +1,19 @@
+{
+  "slug": "pugh-farms-poultry-quaker-rd",
+  "name": "Pugh Farms Poultry",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Quaker Rd, NY",
+  "locationCity": "Quaker Rd",
+  "locationState": "NY",
+  "locationZipcode": "12550",
+  "lat": 41.5870772,
+  "lon": -74.091326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.268Z"
+}

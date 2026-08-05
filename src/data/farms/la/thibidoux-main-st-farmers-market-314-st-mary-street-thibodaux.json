@@ -1,0 +1,19 @@
+{
+  "slug": "thibidoux-main-st-farmers-market-314-st-mary-street-thibodaux",
+  "name": "Thibidoux Main St Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "314 St. Mary Street Thibodaux, LA",
+  "locationCity": "314 St. Mary Street Thibodaux",
+  "locationState": "LA",
+  "locationZipcode": "70301",
+  "lat": 29.79583261491582,
+  "lon": -90.82445654722419,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.709Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.709Z"
+}

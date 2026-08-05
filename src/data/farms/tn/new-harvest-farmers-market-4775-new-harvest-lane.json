@@ -1,0 +1,19 @@
+{
+  "slug": "new-harvest-farmers-market-4775-new-harvest-lane",
+  "name": "New Harvest Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4775 New Harvest Lane, TN",
+  "locationCity": "4775 New Harvest Lane",
+  "locationState": "TN",
+  "locationZipcode": "37918",
+  "lat": 36.039471,
+  "lon": -83.883624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.300Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.300Z"
+}

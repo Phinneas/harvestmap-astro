@@ -1,0 +1,19 @@
+{
+  "slug": "phoenix-farms-3276-1st-avenue",
+  "name": "Phoenix Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3276 1st Avenue, PA",
+  "locationCity": "3276 1st Avenue",
+  "locationState": "PA",
+  "locationZipcode": "19020",
+  "lat": 40.1372516416375,
+  "lon": -74.9406599651815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.063Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.063Z"
+}

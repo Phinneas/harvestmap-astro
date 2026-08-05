@@ -1,0 +1,19 @@
+{
+  "slug": "hmongtown-marketplace-farmers-market-217-como-ave",
+  "name": "Hmongtown Marketplace Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "217 Como Ave, MN",
+  "locationCity": "217 Como Ave",
+  "locationState": "MN",
+  "locationZipcode": "55103",
+  "lat": 44.9612,
+  "lon": -93.1093696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.749Z"
+}

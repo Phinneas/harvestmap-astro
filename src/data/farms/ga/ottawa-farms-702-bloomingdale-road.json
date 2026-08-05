@@ -1,0 +1,19 @@
+{
+  "slug": "ottawa-farms-702-bloomingdale-road",
+  "name": "Ottawa Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "702 Bloomingdale Road, GA",
+  "locationCity": "702 Bloomingdale Road",
+  "locationState": "GA",
+  "locationZipcode": "31302",
+  "lat": 32.1176700117614,
+  "lon": -81.3070600299663,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.305Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.305Z"
+}

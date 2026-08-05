@@ -1,0 +1,19 @@
+{
+  "slug": "wildside-winery-500-troy-pike",
+  "name": "Wildside Winery",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "500 Troy Pike, KY",
+  "locationCity": "500 Troy Pike",
+  "locationState": "KY",
+  "locationZipcode": "40383",
+  "lat": 37.9555749178963,
+  "lon": -84.7197989126711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.591Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.591Z"
+}

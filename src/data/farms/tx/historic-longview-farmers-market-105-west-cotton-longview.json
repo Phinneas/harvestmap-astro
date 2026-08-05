@@ -1,0 +1,19 @@
+{
+  "slug": "historic-longview-farmers-market-105-west-cotton-longview",
+  "name": "Historic Longview Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 West Cotton Longview, TX",
+  "locationCity": "105 West Cotton Longview",
+  "locationState": "TX",
+  "locationZipcode": "75601",
+  "lat": 32.49412236064781,
+  "lon": -94.74094969693091,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

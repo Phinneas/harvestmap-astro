@@ -1,0 +1,19 @@
+{
+  "slug": "adamson-farms-u-pick-451-n-1000-e",
+  "name": "Adamson Farms U-Pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "451 N 1000 E, ID",
+  "locationCity": "451 N 1000 E",
+  "locationState": "ID",
+  "locationZipcode": "83274",
+  "lat": 43.3438494680257,
+  "lon": -112.205419686486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.641Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.641Z"
+}

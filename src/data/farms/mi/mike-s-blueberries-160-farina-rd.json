@@ -1,0 +1,19 @@
+{
+  "slug": "mike-s-blueberries-160-farina-rd",
+  "name": "Mike's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "160 Farina Rd, MI",
+  "locationCity": "160 Farina Rd",
+  "locationState": "MI",
+  "locationZipcode": "49117",
+  "lat": 41.7845749979767,
+  "lon": -86.7240100059304,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.588Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.588Z"
+}

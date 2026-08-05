@@ -9,25 +9,13 @@
   "locationZipcode": "05486",
   "lat": 44.6342319970178,
   "lon": -73.3031120399493,
-  "website": "https://www.hackettsorchard.com",
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:39:58.267Z"
-    },
-    {
-      "source": "pickyourown.org",
-      "lastSeen": "2026-07-28T19:40:07.068Z"
+      "lastSeen": "2026-08-05T18:52:38.927Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:39:58.267Z",
-  "crops": [
-    "Strawberries",
-    "Raspberries",
-    "Apples",
-    "Pumpkins"
-  ],
-  "phone": "802-372-5555",
+  "usdaLastUpdated": "2026-08-05T18:52:38.927Z",
   "image": "/farm-images/hackett-s-orchard-86-south-street.jpg",
   "imageAlt": "Hackett's Orchard"
 }

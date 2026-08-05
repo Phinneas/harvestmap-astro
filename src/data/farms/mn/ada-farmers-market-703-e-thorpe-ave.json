@@ -1,0 +1,19 @@
+{
+  "slug": "ada-farmers-market-703-e-thorpe-ave",
+  "name": "Ada Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "703 E Thorpe Ave, MN",
+  "locationCity": "703 E Thorpe Ave",
+  "locationState": "MN",
+  "locationZipcode": "56510",
+  "lat": 47.2967113,
+  "lon": -96.5024518,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.746Z"
+}

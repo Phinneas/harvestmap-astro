@@ -1,0 +1,19 @@
+{
+  "slug": "usda-farmers-market-at-beltsville-5601-sunnyside-avenue-beltsville",
+  "name": "USDA Farmers Market at Beltsville",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5601 Sunnyside Avenue Beltsville, MD",
+  "locationCity": "5601 Sunnyside Avenue Beltsville",
+  "locationState": "MD",
+  "locationZipcode": "20705",
+  "lat": 39.02323123302605,
+  "lon": -76.91124495792273,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.536Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.536Z"
+}

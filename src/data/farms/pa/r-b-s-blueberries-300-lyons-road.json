@@ -1,0 +1,19 @@
+{
+  "slug": "r-b-s-blueberries-300-lyons-road",
+  "name": "R&B's Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "300 Lyons Road, PA",
+  "locationCity": "300 Lyons Road",
+  "locationState": "PA",
+  "locationZipcode": "16438",
+  "lat": 41.9575740223358,
+  "lon": -79.7985693985313,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.193Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.193Z"
+}

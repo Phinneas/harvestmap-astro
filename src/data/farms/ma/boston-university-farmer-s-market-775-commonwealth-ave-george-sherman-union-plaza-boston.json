@@ -1,0 +1,19 @@
+{
+  "slug": "boston-university-farmer-s-market-775-commonwealth-ave-george-sherman-union-plaza-boston",
+  "name": "Boston University Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "775 Commonwealth Ave. (George Sherman Union Plaza) Boston, MA",
+  "locationCity": "775 Commonwealth Ave. (George Sherman Union Plaza) Boston",
+  "locationState": "MA",
+  "locationZipcode": "02215",
+  "lat": 42.35055551915941,
+  "lon": -71.11012725027072,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.864Z"
+}

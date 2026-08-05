@@ -1,0 +1,19 @@
+{
+  "slug": "lincoln-park-farmers-market-1661-fort-street",
+  "name": "Lincoln Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1661 Fort Street, MI",
+  "locationCity": "1661 Fort Street",
+  "locationState": "MI",
+  "locationZipcode": "48146",
+  "lat": 42.25165700000001,
+  "lon": -83.175189,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.200Z"
+}

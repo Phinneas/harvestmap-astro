@@ -1,0 +1,19 @@
+{
+  "slug": "hobart-main-street-farmers-market-106-w-4th-hobart",
+  "name": "Hobart Main Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "106 W 4th Hobart, OK",
+  "locationCity": "106 W 4th Hobart",
+  "locationState": "OK",
+  "locationZipcode": "73651",
+  "lat": 35.02447683686794,
+  "lon": -99.093340778326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:29.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:29.366Z"
+}

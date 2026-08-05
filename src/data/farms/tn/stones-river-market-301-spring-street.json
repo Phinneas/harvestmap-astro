@@ -1,0 +1,19 @@
+{
+  "slug": "stones-river-market-301-spring-street",
+  "name": "Stones River Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 Spring Street, TN",
+  "locationCity": "301 Spring Street",
+  "locationState": "TN",
+  "locationZipcode": "37130",
+  "lat": 35.852209,
+  "lon": -86.416062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.290Z"
+}

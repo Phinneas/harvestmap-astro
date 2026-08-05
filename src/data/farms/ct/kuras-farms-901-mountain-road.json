@@ -1,0 +1,19 @@
+{
+  "slug": "kuras-farms-901-mountain-road",
+  "name": "Kuras Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "901 Mountain Road, CT",
+  "locationCity": "901 Mountain Road",
+  "locationState": "CT",
+  "locationZipcode": "06093",
+  "lat": 41.9848742310539,
+  "lon": -72.6848356055922,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.930Z"
+}

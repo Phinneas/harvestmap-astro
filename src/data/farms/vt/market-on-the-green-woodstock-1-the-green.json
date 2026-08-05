@@ -1,0 +1,19 @@
+{
+  "slug": "market-on-the-green-woodstock-1-the-green",
+  "name": "Market On The Green (Woodstock)",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1 The Green, VT",
+  "locationCity": "1 The Green",
+  "locationState": "VT",
+  "locationZipcode": "05091",
+  "lat": 43.62514401954837,
+  "lon": -72.51870001317873,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

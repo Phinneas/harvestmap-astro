@@ -1,0 +1,19 @@
+{
+  "slug": "adams-farms-200-pebble-trail",
+  "name": "Adams Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "200 Pebble Trail, AR",
+  "locationCity": "200 Pebble Trail",
+  "locationState": "AR",
+  "locationZipcode": "72521",
+  "lat": 35.93387752116372,
+  "lon": -91.60812474396458,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:30.948Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:30.948Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "st-francis-farmers-market-1455-st-francis-ave",
+  "name": "St. Francis Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1455 St Francis Ave, MN",
+  "locationCity": "1455 St Francis Ave",
+  "locationState": "MN",
+  "locationZipcode": "55379",
+  "lat": 44.7710759,
+  "lon": -93.50287,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

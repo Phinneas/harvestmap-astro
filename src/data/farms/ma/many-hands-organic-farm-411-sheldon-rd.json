@@ -1,0 +1,20 @@
+{
+  "slug": "many-hands-organic-farm-411-sheldon-rd",
+  "name": "Many Hands Organic Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "411 Sheldon Rd, MA",
+  "locationCity": "411 Sheldon Rd",
+  "locationState": "MA",
+  "locationZipcode": "01005",
+  "lat": 42.42170912792054,
+  "lon": -72.15746915534021,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.900Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.900Z",
+  "crops": []
+}

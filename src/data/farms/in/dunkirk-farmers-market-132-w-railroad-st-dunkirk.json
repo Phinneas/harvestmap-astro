@@ -1,0 +1,19 @@
+{
+  "slug": "dunkirk-farmers-market-132-w-railroad-st-dunkirk",
+  "name": "Dunkirk Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "132 W. Railroad St. Dunkirk, IN",
+  "locationCity": "132 W. Railroad St. Dunkirk",
+  "locationState": "IN",
+  "locationZipcode": "47336",
+  "lat": 40.37481631279759,
+  "lon": -85.20941616015087,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.634Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.634Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "shelton-ct-farmers-market-100-canal-st-shelton",
+  "name": "Shelton CT Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Canal St. Shelton, CT",
+  "locationCity": "100 Canal St. Shelton",
+  "locationState": "CT",
+  "locationZipcode": "06484",
+  "lat": 41.3178990819013,
+  "lon": -73.09296498658412,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

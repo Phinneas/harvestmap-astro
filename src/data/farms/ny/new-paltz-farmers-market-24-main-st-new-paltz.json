@@ -1,0 +1,19 @@
+{
+  "slug": "new-paltz-farmers-market-24-main-st-new-paltz",
+  "name": "New Paltz Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "24 Main St. New Paltz, NY",
+  "locationCity": "24 Main St. New Paltz",
+  "locationState": "NY",
+  "locationZipcode": "12561",
+  "lat": 41.74713624053019,
+  "lon": -74.08797238863154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

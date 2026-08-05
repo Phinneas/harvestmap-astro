@@ -1,0 +1,19 @@
+{
+  "slug": "far-reach-ranch-1255-s-dora-blvd",
+  "name": "Far Reach Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1255 S Dora Blvd, FL",
+  "locationCity": "1255 S Dora Blvd",
+  "locationState": "FL",
+  "locationZipcode": "32778",
+  "lat": 28.7764380074928,
+  "lon": -81.7403539650796,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.831Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.831Z"
+}

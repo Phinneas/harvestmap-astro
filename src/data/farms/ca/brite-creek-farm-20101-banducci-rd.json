@@ -1,0 +1,19 @@
+{
+  "slug": "brite-creek-farm-20101-banducci-rd",
+  "name": "Brite Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "20101 Banducci Rd, CA",
+  "locationCity": "20101 Banducci Rd",
+  "locationState": "CA",
+  "locationZipcode": "20101",
+  "lat": 35.110916954051206,
+  "lon": -118.52630236117463,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:39.073Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:39.073Z"
+}

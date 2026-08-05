@@ -1,0 +1,19 @@
+{
+  "slug": "broadview-farms-u-pick-3488-damascus-rd",
+  "name": "Broadview Farms U-pick",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3488 Damascus rd, GA",
+  "locationCity": "3488 Damascus rd",
+  "locationState": "GA",
+  "locationZipcode": "30511",
+  "lat": 34.43909899072679,
+  "lon": -83.42114398415254,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.402Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.402Z"
+}

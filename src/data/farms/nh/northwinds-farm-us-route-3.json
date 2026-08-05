@@ -1,0 +1,19 @@
+{
+  "slug": "northwinds-farm-us-route-3",
+  "name": "Northwinds Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US Route 3, NH",
+  "locationCity": "US Route 3",
+  "locationState": "NH",
+  "locationZipcode": "03590",
+  "lat": 44.75287,
+  "lon": -71.62614,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.930Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.930Z"
+}

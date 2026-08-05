@@ -1,0 +1,19 @@
+{
+  "slug": "aurora-s-farmers-market-east-701-s-eola-road-aurora",
+  "name": "Aurora's Farmers Market East",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "701 S. Eola Road Aurora, IL",
+  "locationCity": "701 S. Eola Road Aurora",
+  "locationState": "IL",
+  "locationZipcode": "60504",
+  "lat": 41.742931720022014,
+  "lon": -88.24848372830962,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.971Z"
+}

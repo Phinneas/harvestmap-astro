@@ -1,0 +1,19 @@
+{
+  "slug": "common-thread-csa-3424-lake-moraine-road",
+  "name": "Common Thread CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3424 Lake Moraine Road, NY",
+  "locationCity": "3424 Lake Moraine Road",
+  "locationState": "NY",
+  "locationZipcode": "13402",
+  "lat": 42.87614381540388,
+  "lon": -75.50597971095982,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.192Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.192Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "dougherty-orchard-n-dougherty-rd",
+  "name": "Dougherty Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "N Dougherty Rd, IN",
+  "locationCity": "N Dougherty Rd",
+  "locationState": "IN",
+  "locationZipcode": "47327",
+  "lat": 39.8418000148233,
+  "lon": -85.0937295874039,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.258Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.258Z",
+  "crops": []
+}

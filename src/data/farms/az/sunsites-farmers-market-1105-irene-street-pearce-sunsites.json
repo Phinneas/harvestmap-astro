@@ -1,0 +1,19 @@
+{
+  "slug": "sunsites-farmers-market-1105-irene-street-pearce-sunsites",
+  "name": "Sunsites Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1105 Irene Street Pearce/Sunsites, AZ",
+  "locationCity": "1105 Irene Street Pearce/Sunsites",
+  "locationState": "AZ",
+  "locationZipcode": "85625",
+  "lat": 31.939675020284913,
+  "lon": -109.83740080834143,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.031Z"
+}

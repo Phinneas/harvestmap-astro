@@ -1,0 +1,20 @@
+{
+  "slug": "moss-hill-farm-13230-freemanville-road",
+  "name": "Moss Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "13230 Freemanville Road, GA",
+  "locationCity": "13230 Freemanville Road",
+  "locationState": "GA",
+  "locationZipcode": "13230",
+  "lat": 34.10406501689184,
+  "lon": -84.33561599083971,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.399Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.399Z",
+  "crops": []
+}

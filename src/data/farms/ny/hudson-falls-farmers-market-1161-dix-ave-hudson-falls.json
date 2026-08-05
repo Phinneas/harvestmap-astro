@@ -1,0 +1,19 @@
+{
+  "slug": "hudson-falls-farmers-market-1161-dix-ave-hudson-falls",
+  "name": "Hudson Falls Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1161 Dix Ave Hudson Falls, NY",
+  "locationCity": "1161 Dix Ave Hudson Falls",
+  "locationState": "NY",
+  "locationZipcode": "12839",
+  "lat": 43.31951649552195,
+  "lon": -73.58276492202482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.020Z"
+}

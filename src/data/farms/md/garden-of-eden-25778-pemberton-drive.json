@@ -1,0 +1,19 @@
+{
+  "slug": "garden-of-eden-25778-pemberton-drive",
+  "name": "Garden of Eden",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "25778 Pemberton Drive, MD",
+  "locationCity": "25778 Pemberton Drive",
+  "locationState": "MD",
+  "locationZipcode": "25778",
+  "lat": 38.35323706609787,
+  "lon": -75.7191944681285,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.332Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.332Z"
+}

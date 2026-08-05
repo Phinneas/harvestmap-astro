@@ -1,0 +1,19 @@
+{
+  "slug": "roseland-city-market-200-w-109th-st-chicago",
+  "name": "Roseland City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 W. 109th St. Chicago, IL",
+  "locationCity": "200 W. 109th St. Chicago",
+  "locationState": "IL",
+  "locationZipcode": "60628",
+  "lat": 41.69616899606577,
+  "lon": -87.62873883307404,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "waveland-farmers-market-etc-301-coleman-avenue-waveland",
+  "name": "Waveland Farmers Market, Etc.",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 Coleman Avenue Waveland, MS",
+  "locationCity": "301 Coleman Avenue Waveland",
+  "locationState": "MS",
+  "locationZipcode": "39576",
+  "lat": 30.285086931041675,
+  "lon": -89.37237842301118,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "rockcastle-farmers-market-livingston-9200-main-street-livingston",
+  "name": "Rockcastle Farmers Market - Livingston",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9200 Main Street Livingston, KY",
+  "locationCity": "9200 Main Street Livingston",
+  "locationState": "KY",
+  "locationZipcode": "40445",
+  "lat": 37.29804262312217,
+  "lon": -84.21521465019924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

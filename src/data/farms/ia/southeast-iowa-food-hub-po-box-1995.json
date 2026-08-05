@@ -1,0 +1,19 @@
+{
+  "slug": "southeast-iowa-food-hub-po-box-1995",
+  "name": "Southeast Iowa Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "PO Box 1995, IA",
+  "locationCity": "PO Box 1995",
+  "locationState": "IA",
+  "locationZipcode": "52556",
+  "lat": 41.012065,
+  "lon": -91.966278,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:37.782Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:37.782Z"
+}

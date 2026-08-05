@@ -1,0 +1,19 @@
+{
+  "slug": "brassie-s-farm-market-1427-s-lincoln-ave",
+  "name": "Brassie's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1427 S Lincoln Ave, NJ",
+  "locationCity": "1427 S Lincoln Ave",
+  "locationState": "NJ",
+  "locationZipcode": "08361",
+  "lat": 39.46173301872878,
+  "lon": -74.97947599505049,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:24.779Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:24.779Z"
+}

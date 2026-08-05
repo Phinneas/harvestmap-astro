@@ -1,0 +1,19 @@
+{
+  "slug": "cross-farms-llc-9933-pitts-rd",
+  "name": "Cross Farms LLC",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9933 Pitts Rd, MD",
+  "locationCity": "9933 Pitts Rd",
+  "locationState": "MD",
+  "locationZipcode": "21811",
+  "lat": 38.39588002389315,
+  "lon": -75.2215787380147,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.726Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.726Z"
+}

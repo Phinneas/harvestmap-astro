@@ -1,0 +1,19 @@
+{
+  "slug": "zarnstorff-10939-zarnstorf-road",
+  "name": "Zarnstorff",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10939 Zarnstorf Road, IL",
+  "locationCity": "10939 Zarnstorf Road",
+  "locationState": "IL",
+  "locationZipcode": "10939",
+  "lat": 42.4838472983417,
+  "lon": -88.2378341013765,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.931Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.931Z"
+}

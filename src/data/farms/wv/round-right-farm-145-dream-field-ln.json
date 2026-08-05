@@ -1,0 +1,19 @@
+{
+  "slug": "round-right-farm-145-dream-field-ln",
+  "name": "Round Right Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "145 Dream Field Ln, WV",
+  "locationCity": "145 Dream Field Ln",
+  "locationState": "WV",
+  "locationZipcode": "26764",
+  "lat": 39.5192045,
+  "lon": -79.4860564,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:34.310Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:34.310Z"
+}

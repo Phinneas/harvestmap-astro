@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-john-s-plot-18a-stonlea-lane",
+  "name": "Farmer John's Plot",
+  "source": "usda",
+  "directory": "csa",
+  "location": "18A Stonlea Lane, NH",
+  "locationCity": "18A Stonlea Lane",
+  "locationState": "NH",
+  "locationZipcode": "03444",
+  "lat": 42.9125605,
+  "lon": -72.0829199,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.539Z"
+}

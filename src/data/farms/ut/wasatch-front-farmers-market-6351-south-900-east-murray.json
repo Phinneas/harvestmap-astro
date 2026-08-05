@@ -1,0 +1,19 @@
+{
+  "slug": "wasatch-front-farmers-market-6351-south-900-east-murray",
+  "name": "Wasatch Front Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6351 South 900 East Murray, UT",
+  "locationCity": "6351 South 900 East Murray",
+  "locationState": "UT",
+  "locationZipcode": "84121",
+  "lat": 40.63531737003637,
+  "lon": -111.86592795073518,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:23.640Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:23.640Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "centerville-farmers-market-751-east-maple-st-centerville",
+  "name": "Centerville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "751 East Maple St Centerville, IA",
+  "locationCity": "751 East Maple St Centerville",
+  "locationState": "IA",
+  "locationZipcode": "52544",
+  "lat": 40.73251129710981,
+  "lon": -92.867461342129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

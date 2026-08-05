@@ -1,0 +1,19 @@
+{
+  "slug": "foxfire-farm-2107-south-fork-ridge-rd",
+  "name": "Foxfire Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2107 South Fork Ridge Rd, KY",
+  "locationCity": "2107 South Fork Ridge Rd",
+  "locationState": "KY",
+  "locationZipcode": "42539",
+  "lat": 37.20480957404003,
+  "lon": -84.91506902729863,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:14.120Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:14.120Z"
+}

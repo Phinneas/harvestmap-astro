@@ -1,0 +1,19 @@
+{
+  "slug": "fred-s-fresh-sweet-corn-3450-north-opfer-lentz-road",
+  "name": "Fred's Fresh Sweet Corn",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3450 North Opfer-lentz Road, OH",
+  "locationCity": "3450 North Opfer-lentz Road",
+  "locationState": "OH",
+  "locationZipcode": "43445",
+  "lat": 41.56611001657606,
+  "lon": -83.32054396314572,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.337Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.337Z"
+}

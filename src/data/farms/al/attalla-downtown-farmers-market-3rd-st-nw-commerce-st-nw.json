@@ -1,0 +1,19 @@
+{
+  "slug": "attalla-downtown-farmers-market-3rd-st-nw-commerce-st-nw",
+  "name": "Attalla Downtown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3rd St. NW & Commerce St. NW, AL",
+  "locationCity": "3rd St. NW & Commerce St. NW",
+  "locationState": "AL",
+  "locationZipcode": "35954",
+  "lat": 34.01879538076524,
+  "lon": -86.09234710878906,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

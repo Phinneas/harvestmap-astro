@@ -1,0 +1,19 @@
+{
+  "slug": "biglieri-farms-farm-market-17815-e-hwy-88",
+  "name": "Biglieri Farms Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "17815 E. Hwy 88, CA",
+  "locationCity": "17815 E. Hwy 88",
+  "locationState": "CA",
+  "locationZipcode": "17815",
+  "lat": 38.18583303178157,
+  "lon": -121.09800209092407,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

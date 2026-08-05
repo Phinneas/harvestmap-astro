@@ -1,0 +1,20 @@
+{
+  "slug": "wakulla-berries-252-wakulla-springs-road",
+  "name": "Wakulla Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "252 Wakulla Springs Road, FL",
+  "locationCity": "252 Wakulla Springs Road",
+  "locationState": "FL",
+  "locationZipcode": "32327",
+  "lat": 30.29267098302611,
+  "lon": -84.31289097495046,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.900Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.900Z",
+  "crops": []
+}

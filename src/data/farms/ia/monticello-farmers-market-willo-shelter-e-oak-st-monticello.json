@@ -1,0 +1,19 @@
+{
+  "slug": "monticello-farmers-market-willo-shelter-e-oak-st-monticello",
+  "name": "Monticello Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Willo Shelter E. Oak St. Monticello, IA",
+  "locationCity": "Willo Shelter E. Oak St. Monticello",
+  "locationState": "IA",
+  "locationZipcode": "52310",
+  "lat": 42.232552811327906,
+  "lon": -91.17963223619871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

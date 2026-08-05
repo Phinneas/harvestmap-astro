@@ -1,0 +1,19 @@
+{
+  "slug": "rosedale-blueberry-farm-169-laurel-avenue",
+  "name": "Rosedale Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "169 Laurel Avenue, NJ",
+  "locationCity": "169 Laurel Avenue",
+  "locationState": "NJ",
+  "locationZipcode": "08037",
+  "lat": 39.6517000112923,
+  "lon": -74.8382310358985,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.717Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.717Z"
+}

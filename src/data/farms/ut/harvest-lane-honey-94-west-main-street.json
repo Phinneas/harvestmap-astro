@@ -1,0 +1,19 @@
+{
+  "slug": "harvest-lane-honey-94-west-main-street",
+  "name": "Harvest Lane Honey",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "94 West Main Street, UT",
+  "locationCity": "94 West Main Street",
+  "locationState": "UT",
+  "locationZipcode": "84029",
+  "lat": 40.59993,
+  "lon": -112.46676,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.688Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.688Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "duquoin-farmers-market-keyes-park-du-quoin",
+  "name": "DuQuoin Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Keyes Park Du Quoin, IL",
+  "locationCity": "Keyes Park Du Quoin",
+  "locationState": "IL",
+  "locationZipcode": "62832",
+  "lat": 38.0167799992565,
+  "lon": -89.22766896701023,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

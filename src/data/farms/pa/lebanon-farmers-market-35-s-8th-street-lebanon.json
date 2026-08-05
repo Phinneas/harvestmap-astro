@@ -1,0 +1,19 @@
+{
+  "slug": "lebanon-farmers-market-35-s-8th-street-lebanon",
+  "name": "Lebanon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "35 S. 8th Street Lebanon, PA",
+  "locationCity": "35 S. 8th Street Lebanon",
+  "locationState": "PA",
+  "locationZipcode": "17042",
+  "lat": 40.338571210928656,
+  "lon": -76.42444744833952,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

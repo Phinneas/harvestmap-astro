@@ -1,0 +1,19 @@
+{
+  "slug": "core-orchards-detroit-100-mack-ave",
+  "name": "Core Orchards Detroit",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "100 Mack Ave, MI",
+  "locationCity": "100 Mack Ave",
+  "locationState": "MI",
+  "locationZipcode": "48230",
+  "lat": 42.3883928830539,
+  "lon": -82.9414593118299,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.566Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.566Z"
+}

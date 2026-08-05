@@ -1,0 +1,19 @@
+{
+  "slug": "kenmore-farmers-market-2919-delaware-avenue-buffalo",
+  "name": "Kenmore Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2919 Delaware Avenue Buffalo, NY",
+  "locationCity": "2919 Delaware Avenue Buffalo",
+  "locationState": "NY",
+  "locationZipcode": "14223",
+  "lat": 42.96386790112419,
+  "lon": -78.87015604362048,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

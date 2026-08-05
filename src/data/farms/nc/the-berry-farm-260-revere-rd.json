@@ -1,0 +1,19 @@
+{
+  "slug": "the-berry-farm-260-revere-rd",
+  "name": "The Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "260 Revere Rd, NC",
+  "locationCity": "260 Revere Rd",
+  "locationState": "NC",
+  "locationZipcode": "28753",
+  "lat": 35.9216538784168,
+  "lon": -82.7277015446764,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.761Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.761Z"
+}

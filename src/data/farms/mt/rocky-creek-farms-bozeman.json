@@ -1,0 +1,19 @@
+{
+  "slug": "rocky-creek-farms-bozeman",
+  "name": "Rocky Creek Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Bozeman, MT",
+  "locationCity": "Bozeman",
+  "locationState": "MT",
+  "locationZipcode": "59715",
+  "lat": 45.6763,
+  "lon": -111.045945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:09.806Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:09.806Z"
+}

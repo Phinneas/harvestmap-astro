@@ -1,0 +1,19 @@
+{
+  "slug": "orbaker-fruit-farm-451-lake-road",
+  "name": "Orbaker Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "451 Lake Road, NY",
+  "locationCity": "451 Lake Road",
+  "locationState": "NY",
+  "locationZipcode": "14589",
+  "lat": 43.2702544069711,
+  "lon": -77.3583923117846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.961Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.961Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kaiser-redwood-city-farmers-market-1150-veterans-boulevard-redwood-city",
+  "name": "Kaiser Redwood City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1150 Veterans Boulevard Redwood City, CA",
+  "locationCity": "1150 Veterans Boulevard Redwood City",
+  "locationState": "CA",
+  "locationZipcode": "94063",
+  "lat": 37.489579994910166,
+  "lon": -122.22319603579528,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

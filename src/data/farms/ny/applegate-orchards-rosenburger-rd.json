@@ -1,0 +1,19 @@
+{
+  "slug": "applegate-orchards-rosenburger-rd",
+  "name": "Applegate Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rosenburger Rd, NY",
+  "locationCity": "Rosenburger Rd",
+  "locationState": "NY",
+  "locationZipcode": "13827",
+  "lat": 42.02505360160055,
+  "lon": -76.21699042092409,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.461Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.461Z"
+}

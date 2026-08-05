@@ -1,0 +1,19 @@
+{
+  "slug": "gadsden-farmers-market-albert-rains-blvd-90-walnut-st",
+  "name": "Gadsden Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Albert Rains Blvd. @ 90 Walnut St., AL",
+  "locationCity": "Albert Rains Blvd. @ 90 Walnut St.",
+  "locationState": "AL",
+  "locationZipcode": "35902",
+  "lat": 34.014035000000035,
+  "lon": -86.00880499999994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

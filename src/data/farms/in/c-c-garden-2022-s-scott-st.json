@@ -1,0 +1,19 @@
+{
+  "slug": "c-c-garden-2022-s-scott-st",
+  "name": "C & C Garden",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2022 S Scott St, IN",
+  "locationCity": "2022 S Scott St",
+  "locationState": "IN",
+  "locationZipcode": "46613",
+  "lat": 41.657676,
+  "lon": -86.26681,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.613Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.613Z"
+}

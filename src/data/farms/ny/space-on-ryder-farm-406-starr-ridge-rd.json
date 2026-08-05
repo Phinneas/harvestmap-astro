@@ -1,0 +1,19 @@
+{
+  "slug": "space-on-ryder-farm-406-starr-ridge-rd",
+  "name": "SPACE on Ryder Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "406 Starr Ridge Rd, NY",
+  "locationCity": "406 Starr Ridge Rd",
+  "locationState": "NY",
+  "locationZipcode": "10509",
+  "lat": 41.36517911747339,
+  "lon": -73.59471417665236,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.186Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.186Z"
+}

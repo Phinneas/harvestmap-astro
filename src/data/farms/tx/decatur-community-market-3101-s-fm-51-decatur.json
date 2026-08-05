@@ -1,0 +1,19 @@
+{
+  "slug": "decatur-community-market-3101-s-fm-51-decatur",
+  "name": "Decatur Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3101 s fm 51 Decatur, TX",
+  "locationCity": "3101 s fm 51 Decatur",
+  "locationState": "TX",
+  "locationZipcode": "76234",
+  "lat": 33.19942132212113,
+  "lon": -97.60480820881988,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.196Z"
+}

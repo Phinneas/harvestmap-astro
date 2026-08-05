@@ -1,0 +1,19 @@
+{
+  "slug": "mount-pleasant-farm-2201-mt-pleasant-rd",
+  "name": "Mount Pleasant Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2201 Mt Pleasant Rd, VA",
+  "locationCity": "2201 Mt Pleasant Rd",
+  "locationState": "VA",
+  "locationZipcode": "23322",
+  "lat": 36.7114469812771,
+  "lon": -76.1419079993581,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.291Z"
+}

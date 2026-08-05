@@ -1,0 +1,19 @@
+{
+  "slug": "culver-city-farmers-market-main-street-in-culver-city",
+  "name": "Culver City Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main Street in Culver City, CA",
+  "locationCity": "Main Street in Culver City",
+  "locationState": "CA",
+  "locationZipcode": "90232",
+  "lat": 34.024936,
+  "lon": -118.39464,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.354Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.354Z"
+}

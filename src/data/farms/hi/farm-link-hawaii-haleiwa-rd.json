@@ -1,0 +1,19 @@
+{
+  "slug": "farm-link-hawaii-haleiwa-rd",
+  "name": "Farm Link Hawaii",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "Haleiwa Rd, HI",
+  "locationCity": "Haleiwa Rd",
+  "locationState": "HI",
+  "locationZipcode": "96791",
+  "lat": 21.5765979,
+  "lon": -158.11688,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:17.659Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:17.659Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "the-last-44-farm-270-dream-lane",
+  "name": "The Last 44 Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "270 Dream Lane, PA",
+  "locationCity": "270 Dream Lane",
+  "locationState": "PA",
+  "locationZipcode": "16601",
+  "lat": 40.5044174,
+  "lon": -78.4511102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.209Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.209Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mike-bees-901-oak-lane",
+  "name": "Mike Bees",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "901 Oak Lane, MN",
+  "locationCity": "901 Oak Lane",
+  "locationState": "MN",
+  "locationZipcode": "55014",
+  "lat": 45.1897150115993,
+  "lon": -93.0967209921669,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.840Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.840Z"
+}

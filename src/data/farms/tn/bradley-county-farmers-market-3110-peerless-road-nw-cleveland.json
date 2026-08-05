@@ -1,0 +1,19 @@
+{
+  "slug": "bradley-county-farmers-market-3110-peerless-road-nw-cleveland",
+  "name": "Bradley County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3110 Peerless Road NW Cleveland, TN",
+  "locationCity": "3110 Peerless Road NW Cleveland",
+  "locationState": "TN",
+  "locationZipcode": "37312",
+  "lat": 35.19193589884994,
+  "lon": -84.87285457066257,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:32.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:32.486Z"
+}

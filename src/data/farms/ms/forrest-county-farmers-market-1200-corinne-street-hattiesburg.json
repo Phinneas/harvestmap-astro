@@ -1,0 +1,19 @@
+{
+  "slug": "forrest-county-farmers-market-1200-corinne-street-hattiesburg",
+  "name": "Forrest County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1200 Corinne Street Hattiesburg, MS",
+  "locationCity": "1200 Corinne Street Hattiesburg",
+  "locationState": "MS",
+  "locationZipcode": "39401",
+  "lat": 31.316811320318617,
+  "lon": -89.30374694240922,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

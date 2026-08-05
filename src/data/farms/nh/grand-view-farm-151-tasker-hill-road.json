@@ -1,0 +1,19 @@
+{
+  "slug": "grand-view-farm-151-tasker-hill-road",
+  "name": "Grand View Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "151 Tasker Hill Road, NH",
+  "locationCity": "151 Tasker Hill Road",
+  "locationState": "NH",
+  "locationZipcode": "03818",
+  "lat": 43.96991,
+  "lon": -71.117469,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.685Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.685Z"
+}

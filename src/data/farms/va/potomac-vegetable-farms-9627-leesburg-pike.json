@@ -1,0 +1,19 @@
+{
+  "slug": "potomac-vegetable-farms-9627-leesburg-pike",
+  "name": "Potomac Vegetable Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9627 Leesburg Pike, VA",
+  "locationCity": "9627 Leesburg Pike",
+  "locationState": "VA",
+  "locationZipcode": "22182",
+  "lat": 38.9604102,
+  "lon": -77.2786519,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.220Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.220Z"
+}

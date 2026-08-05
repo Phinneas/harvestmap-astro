@@ -1,0 +1,19 @@
+{
+  "slug": "north-square-farmers-market-100-spring-st",
+  "name": "North Square Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Spring St, PA",
+  "locationCity": "100 Spring St",
+  "locationState": "PA",
+  "locationZipcode": "17201",
+  "lat": 39.938459,
+  "lon": -77.662435,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:18.990Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:18.990Z"
+}

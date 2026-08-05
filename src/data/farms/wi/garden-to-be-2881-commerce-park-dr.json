@@ -1,0 +1,19 @@
+{
+  "slug": "garden-to-be-2881-commerce-park-dr",
+  "name": "Garden To Be",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2881 Commerce Park Dr, WI",
+  "locationCity": "2881 Commerce Park Dr",
+  "locationState": "WI",
+  "locationZipcode": "53719",
+  "lat": 43.01066300971931,
+  "lon": -89.46746596576062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:15.615Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:15.615Z"
+}

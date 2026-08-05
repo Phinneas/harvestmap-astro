@@ -1,0 +1,19 @@
+{
+  "slug": "phoenix-fruit-farm-249-sabin-street",
+  "name": "Phoenix Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "249 Sabin Street, MA",
+  "locationCity": "249 Sabin Street",
+  "locationState": "MA",
+  "locationZipcode": "01007",
+  "lat": 42.2609223901578,
+  "lon": -72.3621020896184,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.549Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.549Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "three-springs-farm-1367-hwy-82a",
+  "name": "Three Springs Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1367 Hwy. 82A, OK",
+  "locationCity": "1367 Hwy. 82A",
+  "locationState": "OK",
+  "locationZipcode": "74359",
+  "lat": 36.1555599,
+  "lon": -94.8724498,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:27.088Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:27.088Z"
+}

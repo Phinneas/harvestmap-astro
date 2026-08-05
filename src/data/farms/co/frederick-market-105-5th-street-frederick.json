@@ -1,0 +1,19 @@
+{
+  "slug": "frederick-market-105-5th-street-frederick",
+  "name": "Frederick Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "105 5th Street Frederick, CO",
+  "locationCity": "105 5th Street Frederick",
+  "locationState": "CO",
+  "locationZipcode": "80530",
+  "lat": 40.0986509096072,
+  "lon": -104.94121736972573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

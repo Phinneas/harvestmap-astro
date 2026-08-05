@@ -1,0 +1,19 @@
+{
+  "slug": "johnston-farms-1046-heuslein-road",
+  "name": "Johnston Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1046 Heuslein Road, WA",
+  "locationCity": "1046 Heuslein Road",
+  "locationState": "WA",
+  "locationZipcode": "98362",
+  "lat": 48.1042759996393,
+  "lon": -123.2503190186109,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.541Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.541Z"
+}

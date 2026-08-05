@@ -1,0 +1,19 @@
+{
+  "slug": "main-plaza-farmers-market-115-main-ave-san-antonio",
+  "name": "Main Plaza Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 Main Ave San Antonio, TX",
+  "locationCity": "115 Main Ave San Antonio",
+  "locationState": "TX",
+  "locationZipcode": "78205",
+  "lat": 29.42479260873008,
+  "lon": -98.49313309546156,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

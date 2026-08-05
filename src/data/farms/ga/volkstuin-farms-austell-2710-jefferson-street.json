@@ -1,0 +1,19 @@
+{
+  "slug": "volkstuin-farms-austell-2710-jefferson-street",
+  "name": "Volkstuin Farms Austell",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2710 Jefferson Street, GA",
+  "locationCity": "2710 Jefferson Street",
+  "locationState": "GA",
+  "locationZipcode": "30168",
+  "lat": 33.8124369,
+  "lon": -84.6326858,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.448Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.448Z"
+}

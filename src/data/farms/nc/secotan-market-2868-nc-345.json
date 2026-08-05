@@ -1,0 +1,19 @@
+{
+  "slug": "secotan-market-2868-nc-345",
+  "name": "Secotan Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2868 NC-345, NC",
+  "locationCity": "2868 NC-345",
+  "locationState": "NC",
+  "locationZipcode": "27981",
+  "lat": 35.854615,
+  "lon": -75.645391,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.268Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.268Z"
+}

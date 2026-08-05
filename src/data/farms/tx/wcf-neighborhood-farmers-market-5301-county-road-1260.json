@@ -1,0 +1,19 @@
+{
+  "slug": "wcf-neighborhood-farmers-market-5301-county-road-1260",
+  "name": "WCF Neighborhood Farmers Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5301 County Road 1260, TX",
+  "locationCity": "5301 County Road 1260",
+  "locationState": "TX",
+  "locationZipcode": "79407",
+  "lat": 33.544297,
+  "lon": -102.03007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.274Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.274Z"
+}

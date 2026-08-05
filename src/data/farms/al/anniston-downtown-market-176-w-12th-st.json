@@ -1,0 +1,19 @@
+{
+  "slug": "anniston-downtown-market-176-w-12th-st",
+  "name": "Anniston Downtown Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "176 W. 12th St., AL",
+  "locationCity": "176 W. 12th St.",
+  "locationState": "AL",
+  "locationZipcode": "36201",
+  "lat": 33.659726359471726,
+  "lon": -85.83260555395283,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

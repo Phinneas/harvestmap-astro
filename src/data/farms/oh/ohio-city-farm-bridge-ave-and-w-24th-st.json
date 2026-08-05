@@ -1,0 +1,19 @@
+{
+  "slug": "ohio-city-farm-bridge-ave-and-w-24th-st",
+  "name": "Ohio City Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Bridge Ave. and W 24th St., OH",
+  "locationCity": "Bridge Ave. and W 24th St.",
+  "locationState": "OH",
+  "locationZipcode": "44113",
+  "lat": 41.48663800744649,
+  "lon": -81.70360895884392,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.463Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.463Z"
+}

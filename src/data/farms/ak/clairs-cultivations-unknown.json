@@ -1,0 +1,19 @@
+{
+  "slug": "clairs-cultivations-unknown",
+  "name": "Clairs Cultivations",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "unknown, AK",
+  "locationCity": "unknown",
+  "locationState": "AK",
+  "locationZipcode": "99712",
+  "lat": 64.9273066,
+  "lon": -147.515594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:58.112Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:58.112Z"
+}

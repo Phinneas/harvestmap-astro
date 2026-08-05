@@ -1,0 +1,19 @@
+{
+  "slug": "naperville-farmers-market-200-e-5th-ave-naperville",
+  "name": "Naperville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 E 5th Ave Naperville, IL",
+  "locationCity": "200 E 5th Ave Naperville",
+  "locationState": "IL",
+  "locationZipcode": "60540",
+  "lat": 41.78091027881513,
+  "lon": -88.14317025528241,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pasadena-pumpkin-patch-900-north-lake-avenue",
+  "name": "Pasadena Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "900 North Lake Avenue, CA",
+  "locationCity": "900 North Lake Avenue",
+  "locationState": "CA",
+  "locationZipcode": "91104",
+  "lat": 34.1606299971047,
+  "lon": -118.131924009943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.752Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.752Z"
+}

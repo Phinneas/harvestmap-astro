@@ -1,0 +1,19 @@
+{
+  "slug": "wadsworth-blueberries-330-wadsworth-road",
+  "name": "Wadsworth Blueberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "330 Wadsworth Road, AL",
+  "locationCity": "330 Wadsworth Road",
+  "locationState": "AL",
+  "locationZipcode": "35054",
+  "lat": 33.5342380094967,
+  "lon": -86.298406005976,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.518Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.518Z"
+}

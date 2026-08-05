@@ -1,0 +1,19 @@
+{
+  "slug": "johnson-farm-113-higgins-avenue",
+  "name": "Johnson Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "113 Higgins Avenue, CA",
+  "locationCity": "113 Higgins Avenue",
+  "locationState": "CA",
+  "locationZipcode": "95948",
+  "lat": 39.3315149980278,
+  "lon": -121.677990994266,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.742Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.742Z"
+}

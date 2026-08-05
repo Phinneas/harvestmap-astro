@@ -1,0 +1,19 @@
+{
+  "slug": "minnesota-fresh-farm-20241-highway-65",
+  "name": "Minnesota Fresh Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "20241 Highway 65, MN",
+  "locationCity": "20241 Highway 65",
+  "locationState": "MN",
+  "locationZipcode": "20241",
+  "lat": 45.334493,
+  "lon": -93.23538,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:15.233Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:15.233Z"
+}

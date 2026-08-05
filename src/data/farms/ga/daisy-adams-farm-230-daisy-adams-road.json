@@ -1,0 +1,20 @@
+{
+  "slug": "daisy-adams-farm-230-daisy-adams-road",
+  "name": "Daisy Adams Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "230 Daisy Adams Road, GA",
+  "locationCity": "230 Daisy Adams Road",
+  "locationState": "GA",
+  "locationZipcode": "31014",
+  "lat": 32.411112018121,
+  "lon": -83.3313540198521,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.339Z",
+  "crops": []
+}

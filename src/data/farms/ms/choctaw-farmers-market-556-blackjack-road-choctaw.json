@@ -1,0 +1,19 @@
+{
+  "slug": "choctaw-farmers-market-556-blackjack-road-choctaw",
+  "name": "Choctaw Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "556 Blackjack Road Choctaw, MS",
+  "locationCity": "556 Blackjack Road Choctaw",
+  "locationState": "MS",
+  "locationZipcode": "39350",
+  "lat": 32.80686133660578,
+  "lon": -89.24183996688485,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

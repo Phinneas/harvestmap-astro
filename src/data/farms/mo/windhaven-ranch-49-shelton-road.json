@@ -1,0 +1,20 @@
+{
+  "slug": "windhaven-ranch-49-shelton-road",
+  "name": "Windhaven Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "49 Shelton Road, MO",
+  "locationCity": "49 Shelton Road",
+  "locationState": "MO",
+  "locationZipcode": "63333",
+  "lat": 39.0028169886222,
+  "lon": -91.3111619610857,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.778Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.778Z",
+  "crops": []
+}

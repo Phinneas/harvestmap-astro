@@ -1,0 +1,19 @@
+{
+  "slug": "hr-farms-457-brown-road",
+  "name": "HR Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "457 Brown Road, TX",
+  "locationCity": "457 Brown Road",
+  "locationState": "TX",
+  "locationZipcode": "78065",
+  "lat": 29.0138940749781,
+  "lon": -98.7604277891061,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.656Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.656Z"
+}

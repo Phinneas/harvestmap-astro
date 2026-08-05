@@ -1,0 +1,19 @@
+{
+  "slug": "dooley-creek-farm-349-dooley-lane",
+  "name": "Dooley Creek Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "349 Dooley Lane, CO",
+  "locationCity": "349 Dooley Lane",
+  "locationState": "CO",
+  "locationZipcode": "81623",
+  "lat": 39.27061757970165,
+  "lon": -107.22363240421919,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.592Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.592Z"
+}

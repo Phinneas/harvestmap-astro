@@ -1,0 +1,19 @@
+{
+  "slug": "franks-farm-market-5880-sterrettania-road",
+  "name": "Franks Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "5880 Sterrettania Road, PA",
+  "locationCity": "5880 Sterrettania Road",
+  "locationState": "PA",
+  "locationZipcode": "16415",
+  "lat": 42.04418200629027,
+  "lon": -80.1745980233767,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.446Z"
+}

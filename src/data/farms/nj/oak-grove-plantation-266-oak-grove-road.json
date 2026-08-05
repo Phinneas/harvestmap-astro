@@ -1,0 +1,19 @@
+{
+  "slug": "oak-grove-plantation-266-oak-grove-road",
+  "name": "Oak Grove Plantation",
+  "source": "usda",
+  "directory": "csa",
+  "location": "266 Oak Grove Road, NJ",
+  "locationCity": "266 Oak Grove Road",
+  "locationState": "NJ",
+  "locationZipcode": "08867",
+  "lat": 40.5372833695902,
+  "lon": -74.95471300322316,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:19.167Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:19.167Z"
+}

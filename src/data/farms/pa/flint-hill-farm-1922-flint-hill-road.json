@@ -1,0 +1,19 @@
+{
+  "slug": "flint-hill-farm-1922-flint-hill-road",
+  "name": "Flint Hill Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1922 Flint Hill Road, PA",
+  "locationCity": "1922 Flint Hill Road",
+  "locationState": "PA",
+  "locationZipcode": "18036",
+  "lat": 40.5298469870025,
+  "lon": -75.3475619924011,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.149Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.149Z"
+}

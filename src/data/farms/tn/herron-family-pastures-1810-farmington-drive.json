@@ -1,0 +1,20 @@
+{
+  "slug": "herron-family-pastures-1810-farmington-drive",
+  "name": "Herron Family Pastures",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1810 Farmington Drive, TN",
+  "locationCity": "1810 Farmington Drive",
+  "locationState": "TN",
+  "locationZipcode": "37069",
+  "lat": 35.9840152,
+  "lon": -86.8761524,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.790Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.790Z",
+  "crops": []
+}

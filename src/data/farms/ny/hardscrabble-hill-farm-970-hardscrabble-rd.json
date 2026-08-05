@@ -1,0 +1,19 @@
+{
+  "slug": "hardscrabble-hill-farm-970-hardscrabble-rd",
+  "name": "Hardscrabble Hill Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "970 Hardscrabble Rd, NY",
+  "locationCity": "970 Hardscrabble Rd",
+  "locationState": "NY",
+  "locationZipcode": "13318",
+  "lat": 42.90849590809481,
+  "lon": -75.2611700516479,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.166Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.166Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "oxford-city-market-2650-west-oxford-loop-oxford",
+  "name": "Oxford City Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2650 West Oxford Loop Oxford, MS",
+  "locationCity": "2650 West Oxford Loop Oxford",
+  "locationState": "MS",
+  "locationZipcode": "38655",
+  "lat": 34.36182012390962,
+  "lon": -89.56993270905153,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

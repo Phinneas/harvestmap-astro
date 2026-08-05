@@ -1,0 +1,19 @@
+{
+  "slug": "lake-forest-open-air-market-695-n-western-ave-lake-forest",
+  "name": "Lake Forest Open Air Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "695 N. Western Ave. Lake Forest, IL",
+  "locationCity": "695 N. Western Ave. Lake Forest",
+  "locationState": "IL",
+  "locationZipcode": "60045",
+  "lat": 42.25321470420026,
+  "lon": -87.84025850740154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

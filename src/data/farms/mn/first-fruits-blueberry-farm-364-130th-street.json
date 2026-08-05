@@ -1,0 +1,20 @@
+{
+  "slug": "first-fruits-blueberry-farm-364-130th-street",
+  "name": "First Fruits Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "364 130th Street, MN",
+  "locationCity": "364 130th Street",
+  "locationState": "MN",
+  "locationZipcode": "56464",
+  "lat": 46.7617499834849,
+  "lon": -95.1747559694685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.692Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.692Z",
+  "crops": []
+}

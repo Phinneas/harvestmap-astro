@@ -1,0 +1,19 @@
+{
+  "slug": "anderson-vineyards-221-riddle-rd",
+  "name": "Anderson Vineyards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "221 Riddle Rd, SC",
+  "locationCity": "221 Riddle Rd",
+  "locationState": "SC",
+  "locationZipcode": "29374",
+  "lat": 34.8163440194057,
+  "lon": -81.8710809768509,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.934Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.934Z"
+}

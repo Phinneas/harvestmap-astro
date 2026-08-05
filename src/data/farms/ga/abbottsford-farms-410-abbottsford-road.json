@@ -1,0 +1,19 @@
+{
+  "slug": "abbottsford-farms-410-abbottsford-road",
+  "name": "Abbottsford Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "410 Abbottsford Road, GA",
+  "locationCity": "410 Abbottsford Road",
+  "locationState": "GA",
+  "locationZipcode": "30240",
+  "lat": 33.031015993576,
+  "lon": -85.1849030261789,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.263Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.263Z"
+}

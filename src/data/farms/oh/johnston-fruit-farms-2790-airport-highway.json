@@ -1,0 +1,19 @@
+{
+  "slug": "johnston-fruit-farms-2790-airport-highway",
+  "name": "Johnston Fruit Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2790 Airport Highway, OH",
+  "locationCity": "2790 Airport Highway",
+  "locationState": "OH",
+  "locationZipcode": "43558",
+  "lat": 41.59117431245501,
+  "lon": -83.81831215698688,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.373Z"
+}

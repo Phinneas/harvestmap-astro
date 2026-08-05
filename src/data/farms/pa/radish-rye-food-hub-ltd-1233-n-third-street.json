@@ -1,0 +1,19 @@
+{
+  "slug": "radish-rye-food-hub-ltd-1233-n-third-street",
+  "name": "Radish & Rye Food Hub, Ltd",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1233 N Third Street, PA",
+  "locationCity": "1233 N Third Street",
+  "locationState": "PA",
+  "locationZipcode": "17102",
+  "lat": 40.2697906,
+  "lon": -76.888535,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.775Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.775Z"
+}

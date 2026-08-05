@@ -1,0 +1,19 @@
+{
+  "slug": "candor-farmers-market-101-owego-rd",
+  "name": "Candor Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 Owego Rd, NY",
+  "locationCity": "101 Owego Rd",
+  "locationState": "NY",
+  "locationZipcode": "13743",
+  "lat": 42.22971520117049,
+  "lon": -76.33332041252237,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

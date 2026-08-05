@@ -1,0 +1,19 @@
+{
+  "slug": "fernley-farmers-market-465-e-main-street-big-r-parking-lot-fernley",
+  "name": "Fernley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "465 E. Main Street - Big R parking lot Fernley, NV",
+  "locationCity": "465 E. Main Street - Big R parking lot Fernley",
+  "locationState": "NV",
+  "locationZipcode": "89408",
+  "lat": 39.6072484119479,
+  "lon": -119.242348174917,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:24.364Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:24.364Z"
+}

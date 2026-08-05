@@ -1,0 +1,19 @@
+{
+  "slug": "soul-food-project-2436-sheldon-st",
+  "name": "Soul Food Project",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2436 Sheldon St, IN",
+  "locationCity": "2436 Sheldon St",
+  "locationState": "IN",
+  "locationZipcode": "46218",
+  "lat": 39.80256014494344,
+  "lon": -86.13354847120752,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.559Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.559Z"
+}

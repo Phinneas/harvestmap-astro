@@ -1,0 +1,19 @@
+{
+  "slug": "philips-family-farm-735-chicago-road",
+  "name": "Philips Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "735 Chicago Road, IL",
+  "locationCity": "735 Chicago Road",
+  "locationState": "IL",
+  "locationZipcode": "60511",
+  "lat": 41.7128790207802,
+  "lon": -88.608363326321,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.875Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.875Z"
+}

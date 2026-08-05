@@ -1,0 +1,19 @@
+{
+  "slug": "brown-university-farmers-market-201-thayer-st",
+  "name": "Brown University Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201 Thayer St, RI",
+  "locationCity": "201 Thayer St",
+  "locationState": "RI",
+  "locationZipcode": "02906",
+  "lat": 41.826418,
+  "lon": -71.400031,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:37.507Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:37.507Z"
+}

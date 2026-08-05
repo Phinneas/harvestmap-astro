@@ -1,0 +1,20 @@
+{
+  "slug": "shade-tree-farm-county-road-288",
+  "name": "Shade Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "County Road 288, AL",
+  "locationCity": "County Road 288",
+  "locationState": "AL",
+  "locationZipcode": "36877",
+  "lat": 32.5529979833183,
+  "lon": -85.1399150049034,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.655Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.655Z",
+  "crops": []
+}

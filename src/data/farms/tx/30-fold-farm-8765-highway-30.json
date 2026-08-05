@@ -1,0 +1,19 @@
+{
+  "slug": "30-fold-farm-8765-highway-30",
+  "name": "30 Fold Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8765 Highway 30, TX",
+  "locationCity": "8765 Highway 30",
+  "locationState": "TX",
+  "locationZipcode": "77830",
+  "lat": 30.59569300180101,
+  "lon": -96.05590823854129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:52.917Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:52.917Z"
+}

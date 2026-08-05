@@ -1,0 +1,19 @@
+{
+  "slug": "yellow-green-farmers-market-1940-north-30th-road",
+  "name": "Yellow Green Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1940 North 30th Road, FL",
+  "locationCity": "1940 North 30th Road",
+  "locationState": "FL",
+  "locationZipcode": "33021",
+  "lat": 26.03026,
+  "lon": -80.169243,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.538Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.538Z"
+}

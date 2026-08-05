@@ -1,0 +1,19 @@
+{
+  "slug": "ottumwa-farmers-market-331-e-main-st-ottumwa",
+  "name": "Ottumwa Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "331 E. Main St. Ottumwa, IA",
+  "locationCity": "331 E. Main St. Ottumwa",
+  "locationState": "IA",
+  "locationZipcode": "52501",
+  "lat": 41.01593175412367,
+  "lon": -92.4099761661666,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.673Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.673Z"
+}

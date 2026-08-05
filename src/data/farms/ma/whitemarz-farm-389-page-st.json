@@ -1,0 +1,19 @@
+{
+  "slug": "whitemarz-farm-389-page-st",
+  "name": "Whitemarz Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "389 page st, MA",
+  "locationCity": "389 page st",
+  "locationState": "MA",
+  "locationZipcode": "01462",
+  "lat": 42.583303713511356,
+  "lon": -71.69151689470351,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.278Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.278Z"
+}

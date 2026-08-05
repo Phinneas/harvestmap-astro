@@ -1,0 +1,19 @@
+{
+  "slug": "l-and-t-farms-005-liberty-lane",
+  "name": "L and T Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "005 Liberty Lane, CA",
+  "locationCity": "005 Liberty Lane",
+  "locationState": "CA",
+  "locationZipcode": "95928",
+  "lat": 39.7111250180449,
+  "lon": -121.862598918282,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.744Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.744Z"
+}

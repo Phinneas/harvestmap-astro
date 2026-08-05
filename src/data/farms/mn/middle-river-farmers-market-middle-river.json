@@ -1,0 +1,19 @@
+{
+  "slug": "middle-river-farmers-market-middle-river",
+  "name": "Middle River Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Middle River, MN",
+  "locationCity": "Middle River",
+  "locationState": "MN",
+  "locationZipcode": "56737",
+  "lat": 48.4341394,
+  "lon": -96.1641892,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

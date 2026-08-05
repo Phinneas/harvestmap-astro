@@ -1,0 +1,20 @@
+{
+  "slug": "waianae-farmers-market-86-120-farrington-highway",
+  "name": "Waianae Farmers Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "86-120 Farrington Highway, HI",
+  "locationCity": "86-120 Farrington Highway",
+  "locationState": "HI",
+  "locationZipcode": "96792",
+  "lat": 21.4348349,
+  "lon": -158.1842001,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:12.617Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:12.617Z",
+  "crops": []
+}

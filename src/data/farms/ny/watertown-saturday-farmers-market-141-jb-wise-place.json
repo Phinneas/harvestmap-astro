@@ -1,0 +1,19 @@
+{
+  "slug": "watertown-saturday-farmers-market-141-jb-wise-place",
+  "name": "Watertown Saturday Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "141 JB Wise Place, NY",
+  "locationCity": "141 JB Wise Place",
+  "locationState": "NY",
+  "locationZipcode": "13601",
+  "lat": 43.975311497020904,
+  "lon": -75.90971021418346,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.029Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.029Z"
+}

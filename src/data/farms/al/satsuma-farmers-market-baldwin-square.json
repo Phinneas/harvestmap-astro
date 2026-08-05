@@ -1,0 +1,19 @@
+{
+  "slug": "satsuma-farmers-market-baldwin-square",
+  "name": "Satsuma Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Baldwin Square, AL",
+  "locationCity": "Baldwin Square",
+  "locationState": "AL",
+  "locationZipcode": "36572",
+  "lat": 30.85194000000007,
+  "lon": -88.05603999999994,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

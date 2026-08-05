@@ -1,0 +1,19 @@
+{
+  "slug": "mast-farms-2745-main-street",
+  "name": "Mast Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2745 Main Street, PA",
+  "locationCity": "2745 Main Street",
+  "locationState": "PA",
+  "locationZipcode": "19543",
+  "lat": 40.1549659902952,
+  "lon": -75.9093710388566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.152Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.152Z"
+}

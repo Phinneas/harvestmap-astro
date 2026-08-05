@@ -1,0 +1,19 @@
+{
+  "slug": "union-street-farmers-market-111-east-university-avenue-gainesville",
+  "name": "Union Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 East University Avenue Gainesville, FL",
+  "locationCity": "111 East University Avenue Gainesville",
+  "locationState": "FL",
+  "locationZipcode": "32601",
+  "lat": 29.65195085814133,
+  "lon": -82.32382694749192,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sabol-farm-market-7401-rt-18",
+  "name": "Sabol Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "7401 Rt.18, PA",
+  "locationCity": "7401 Rt.18",
+  "locationState": "PA",
+  "locationZipcode": "16417",
+  "lat": 41.96899392856472,
+  "lon": -80.33915727301277,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.449Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.449Z"
+}

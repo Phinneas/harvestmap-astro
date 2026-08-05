@@ -1,0 +1,19 @@
+{
+  "slug": "monroe-farmers-market-10th-st-and-16th-ave",
+  "name": "Monroe Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10th St and 16th Ave, WI",
+  "locationCity": "10th St and 16th Ave",
+  "locationState": "WI",
+  "locationZipcode": "53566",
+  "lat": 42.601889,
+  "lon": -89.639224,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.710Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.710Z"
+}

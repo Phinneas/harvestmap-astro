@@ -1,0 +1,19 @@
+{
+  "slug": "sunapee-farmers-market-68-72-main-street-sunapee",
+  "name": "Sunapee Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "68-72 Main Street Sunapee, NH",
+  "locationCity": "68-72 Main Street Sunapee",
+  "locationState": "NH",
+  "locationZipcode": "03782",
+  "lat": 43.38651343172346,
+  "lon": -72.0836890079148,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.154Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.154Z"
+}

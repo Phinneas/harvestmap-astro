@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-covington-301-4th-st",
+  "name": "Farmers Market - Covington",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "301 4th St, IN",
+  "locationCity": "301 4th St",
+  "locationState": "IN",
+  "locationZipcode": "47932",
+  "lat": 40.13712,
+  "lon": -87.39697,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:09.614Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:09.614Z"
+}

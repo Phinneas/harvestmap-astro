@@ -1,0 +1,19 @@
+{
+  "slug": "mountain-view-blueberry-farm-230-mountain-view-road",
+  "name": "Mountain View Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "230 Mountain View Road, SC",
+  "locationCity": "230 Mountain View Road",
+  "locationState": "SC",
+  "locationZipcode": "29006",
+  "lat": 33.7931040246499,
+  "lon": -81.5436210897757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.787Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.787Z"
+}

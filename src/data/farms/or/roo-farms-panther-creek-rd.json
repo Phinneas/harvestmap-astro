@@ -1,0 +1,19 @@
+{
+  "slug": "roo-farms-panther-creek-rd",
+  "name": "Roo Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Panther Creek Rd., OR",
+  "locationCity": "Panther Creek Rd.",
+  "locationState": "OR",
+  "locationZipcode": "97111",
+  "lat": 45.29675996822218,
+  "lon": -123.30783318867866,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.976Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.976Z"
+}

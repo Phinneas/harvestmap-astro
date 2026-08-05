@@ -1,0 +1,19 @@
+{
+  "slug": "sayre-farms-295-pleasant-ave",
+  "name": "SAYRE FARMS",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "295 Pleasant Ave, CA",
+  "locationCity": "295 Pleasant Ave",
+  "locationState": "CA",
+  "locationZipcode": "95403",
+  "lat": 38.543404,
+  "lon": -122.78399,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.942Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.942Z"
+}

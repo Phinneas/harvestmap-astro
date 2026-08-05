@@ -1,0 +1,19 @@
+{
+  "slug": "jbar-farms-kings-lane",
+  "name": "JBAR Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Kings Lane, ID",
+  "locationCity": "Kings Lane",
+  "locationState": "ID",
+  "locationZipcode": "83617",
+  "lat": 43.8465760062986,
+  "lon": -116.542226488958,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.906Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:28.906Z"
+}

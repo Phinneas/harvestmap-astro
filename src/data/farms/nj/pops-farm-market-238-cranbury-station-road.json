@@ -1,0 +1,19 @@
+{
+  "slug": "pops-farm-market-238-cranbury-station-road",
+  "name": "Pops Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "238 Cranbury Station Road, NJ",
+  "locationCity": "238 Cranbury Station Road",
+  "locationState": "NJ",
+  "locationZipcode": "08831",
+  "lat": 40.30201198081579,
+  "lon": -74.48161399666296,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:24.780Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:24.780Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "double-j-blueberry-farm-351-e-200-road",
+  "name": "Double J Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "351 E 200 Road, OK",
+  "locationCity": "351 E 200 Road",
+  "locationState": "OK",
+  "locationZipcode": "74343",
+  "lat": 36.7284964925522,
+  "lon": -94.8415992968489,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.347Z"
+}

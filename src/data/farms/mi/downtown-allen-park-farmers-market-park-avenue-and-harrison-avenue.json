@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-allen-park-farmers-market-park-avenue-and-harrison-avenue",
+  "name": "Downtown Allen Park Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Park Avenue and Harrison Avenue, MI",
+  "locationCity": "Park Avenue and Harrison Avenue",
+  "locationState": "MI",
+  "locationZipcode": "48101",
+  "lat": 42.254801,
+  "lon": -83.208989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.181Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.181Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "northern-light-farm-2048-agate-ln-nw",
+  "name": "Northern Light Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "2048 Agate Ln NW, MN",
+  "locationCity": "2048 Agate Ln NW",
+  "locationState": "MN",
+  "locationZipcode": "56678",
+  "lat": 47.4905649,
+  "lon": -95.1216845,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.174Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.174Z"
+}

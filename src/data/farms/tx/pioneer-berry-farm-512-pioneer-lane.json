@@ -1,0 +1,19 @@
+{
+  "slug": "pioneer-berry-farm-512-pioneer-lane",
+  "name": "Pioneer Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "512 Pioneer Lane, TX",
+  "locationCity": "512 Pioneer Lane",
+  "locationState": "TX",
+  "locationZipcode": "77328",
+  "lat": 30.3313818122271,
+  "lon": -95.2603236405226,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.564Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.564Z"
+}

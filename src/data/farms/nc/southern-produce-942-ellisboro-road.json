@@ -1,0 +1,19 @@
+{
+  "slug": "southern-produce-942-ellisboro-road",
+  "name": "Southern Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "942 Ellisboro Road, NC",
+  "locationCity": "942 Ellisboro Road",
+  "locationState": "NC",
+  "locationZipcode": "27357",
+  "lat": 36.3533958185141,
+  "lon": -79.9634864364196,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.777Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.777Z"
+}

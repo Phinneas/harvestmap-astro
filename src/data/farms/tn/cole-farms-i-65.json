@@ -1,0 +1,19 @@
+{
+  "slug": "cole-farms-i-65",
+  "name": "Cole Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "I-65, TN",
+  "locationCity": "I-65",
+  "locationState": "TN",
+  "locationZipcode": "37048",
+  "lat": 36.4932059000001,
+  "lon": -86.6370426999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.357Z"
+}

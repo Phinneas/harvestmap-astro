@@ -1,0 +1,19 @@
+{
+  "slug": "turkey-river-farm-23719-hazel-road",
+  "name": "Turkey River Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "23719 Hazel Road, IA",
+  "locationCity": "23719 Hazel Road",
+  "locationState": "IA",
+  "locationZipcode": "23719",
+  "lat": 42.78573786503904,
+  "lon": -91.33418445071867,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.426Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.426Z"
+}

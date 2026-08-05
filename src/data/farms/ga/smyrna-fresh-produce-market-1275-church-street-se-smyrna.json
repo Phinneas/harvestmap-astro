@@ -1,0 +1,19 @@
+{
+  "slug": "smyrna-fresh-produce-market-1275-church-street-se-smyrna",
+  "name": "Smyrna Fresh Produce Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1275 Church Street SE Smyrna, GA",
+  "locationCity": "1275 Church Street SE Smyrna",
+  "locationState": "GA",
+  "locationZipcode": "30080",
+  "lat": 33.88158363778526,
+  "lon": -84.51805659801381,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

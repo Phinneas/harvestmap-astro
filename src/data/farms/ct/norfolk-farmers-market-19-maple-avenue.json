@@ -1,0 +1,19 @@
+{
+  "slug": "norfolk-farmers-market-19-maple-avenue",
+  "name": "NORFOLK FARMERS MARKET",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "19 Maple Avenue, CT",
+  "locationCity": "19 Maple Avenue",
+  "locationState": "CT",
+  "locationZipcode": "06058",
+  "lat": 41.990739,
+  "lon": -73.197873,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.583Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.583Z"
+}

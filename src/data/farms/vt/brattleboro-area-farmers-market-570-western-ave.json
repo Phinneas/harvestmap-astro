@@ -1,0 +1,19 @@
+{
+  "slug": "brattleboro-area-farmers-market-570-western-ave",
+  "name": "Brattleboro Area Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "570 Western Ave, VT",
+  "locationCity": "570 Western Ave",
+  "locationState": "VT",
+  "locationZipcode": "05301",
+  "lat": 42.84984299580094,
+  "lon": -72.58735500862232,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.355Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.355Z"
+}

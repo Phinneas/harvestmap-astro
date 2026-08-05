@@ -1,0 +1,19 @@
+{
+  "slug": "central-sarasota-farmers-market-4748-s-beneva-rd-sarasota",
+  "name": "Central Sarasota Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4748 S Beneva Rd Sarasota, FL",
+  "locationCity": "4748 S Beneva Rd Sarasota",
+  "locationState": "FL",
+  "locationZipcode": "34233",
+  "lat": 27.28498972736178,
+  "lon": -82.49756602836854,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.574Z"
+}

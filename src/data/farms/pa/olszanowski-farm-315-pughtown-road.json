@@ -1,0 +1,19 @@
+{
+  "slug": "olszanowski-farm-315-pughtown-road",
+  "name": "Olszanowski Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "315 Pughtown road, PA",
+  "locationCity": "315 Pughtown road",
+  "locationState": "PA",
+  "locationZipcode": "19475",
+  "lat": 40.1473372430295,
+  "lon": -75.6111610287852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.105Z"
+}

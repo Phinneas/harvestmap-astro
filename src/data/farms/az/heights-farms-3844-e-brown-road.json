@@ -1,0 +1,19 @@
+{
+  "slug": "heights-farms-3844-e-brown-road",
+  "name": "Heights Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3844 E. Brown Road, AZ",
+  "locationCity": "3844 E. Brown Road",
+  "locationState": "AZ",
+  "locationZipcode": "85205",
+  "lat": 33.437353071192874,
+  "lon": -111.74913902838749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:18.721Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:18.721Z"
+}

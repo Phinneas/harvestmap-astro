@@ -1,0 +1,20 @@
+{
+  "slug": "red-mill-farms-1442-red-mill-rd",
+  "name": "Red Mill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1442 Red Mill Rd, KY",
+  "locationCity": "1442 Red Mill Rd",
+  "locationState": "KY",
+  "locationZipcode": "42701",
+  "lat": 37.6474230120179,
+  "lon": -85.7947549623413,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.502Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.502Z",
+  "crops": []
+}

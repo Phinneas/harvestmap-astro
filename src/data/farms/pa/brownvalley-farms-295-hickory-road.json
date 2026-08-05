@@ -1,0 +1,20 @@
+{
+  "slug": "brownvalley-farms-295-hickory-road",
+  "name": "Brownvalley Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "295 Hickory Road, PA",
+  "locationCity": "295 Hickory Road",
+  "locationState": "PA",
+  "locationZipcode": "17340",
+  "lat": 39.77861501731846,
+  "lon": -77.14892702975726,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.218Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.218Z",
+  "crops": []
+}

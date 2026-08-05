@@ -1,0 +1,19 @@
+{
+  "slug": "mendo-lake-food-hub-2005-north-state-street",
+  "name": "Mendo-Lake Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2005 North State Street, CA",
+  "locationCity": "2005 North State Street",
+  "locationState": "CA",
+  "locationZipcode": "95482",
+  "lat": 39.17633198163301,
+  "lon": -123.20900696479202,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

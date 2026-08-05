@@ -1,0 +1,19 @@
+{
+  "slug": "laramie-local-community-market-5th-st-and-ord-st-laramie",
+  "name": "Laramie Local Community Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5th St and Ord St Laramie, WY",
+  "locationCity": "5th St and Ord St Laramie",
+  "locationState": "WY",
+  "locationZipcode": "82070",
+  "lat": 41.30427000639227,
+  "lon": -105.5916900213769,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.425Z"
+}

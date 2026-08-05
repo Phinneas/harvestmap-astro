@@ -1,0 +1,19 @@
+{
+  "slug": "wild-farm-5100-ross-road",
+  "name": "Wild Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "5100 Ross Road, OH",
+  "locationCity": "5100 Ross Road",
+  "locationState": "OH",
+  "locationZipcode": "45371",
+  "lat": 39.91174998223397,
+  "lon": -84.12219840293852,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:13.462Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:13.462Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-the-depot-101-e-depot-street",
+  "name": "Farmers Market at the Depot",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "101 E. Depot Street, KY",
+  "locationCity": "101 E. Depot Street",
+  "locationState": "KY",
+  "locationZipcode": "40069",
+  "lat": 37.683658,
+  "lon": -85.217676,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.725Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.725Z"
+}

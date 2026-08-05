@@ -1,0 +1,19 @@
+{
+  "slug": "shacktown-farmers-market-2816-shacktown-road-yadkinville",
+  "name": "Shacktown Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2816 Shacktown Road Yadkinville, NC",
+  "locationCity": "2816 Shacktown Road Yadkinville",
+  "locationState": "NC",
+  "locationZipcode": "27055",
+  "lat": 36.11630924319987,
+  "lon": -80.58747364298723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

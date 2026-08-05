@@ -1,0 +1,19 @@
+{
+  "slug": "county-line-orchard-9200-kings-highway",
+  "name": "County Line Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "9200 Kings Highway, PA",
+  "locationCity": "9200 Kings Highway",
+  "locationState": "PA",
+  "locationZipcode": "19529",
+  "lat": 40.64675500646547,
+  "lon": -75.84805004105347,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.219Z"
+}

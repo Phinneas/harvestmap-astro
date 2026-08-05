@@ -1,0 +1,19 @@
+{
+  "slug": "martha-s-vineyard-route-2",
+  "name": "Martha's Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Route 2, NC",
+  "locationCity": "Route 2",
+  "locationState": "NC",
+  "locationZipcode": "27883",
+  "lat": 35.605065,
+  "lon": -77.8195949999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.894Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.894Z"
+}

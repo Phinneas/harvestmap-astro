@@ -1,0 +1,19 @@
+{
+  "slug": "macedon-farmers-market-32-main-street-macedon",
+  "name": "Macedon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "32 Main Street Macedon, NY",
+  "locationCity": "32 Main Street Macedon",
+  "locationState": "NY",
+  "locationZipcode": "14502",
+  "lat": 43.066623183432874,
+  "lon": -77.30646663089529,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.021Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.021Z"
+}

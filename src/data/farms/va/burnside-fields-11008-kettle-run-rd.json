@@ -1,0 +1,19 @@
+{
+  "slug": "burnside-fields-11008-kettle-run-rd",
+  "name": "Burnside Fields",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "11008 Kettle Run Rd, VA",
+  "locationCity": "11008 Kettle Run Rd",
+  "locationState": "VA",
+  "locationZipcode": "11008",
+  "lat": 38.7180671834937,
+  "lon": -77.5830337580214,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.277Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.277Z"
+}

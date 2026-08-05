@@ -1,0 +1,19 @@
+{
+  "slug": "mt-carmel-farmers-market-219-n-market-st-mount-carmel",
+  "name": "Mt. Carmel Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "219 N Market St Mount Carmel, IL",
+  "locationCity": "219 N Market St Mount Carmel",
+  "locationState": "IL",
+  "locationZipcode": "62863",
+  "lat": 38.40737458111553,
+  "lon": -87.75969798141433,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

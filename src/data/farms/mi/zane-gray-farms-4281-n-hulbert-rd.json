@@ -1,0 +1,19 @@
+{
+  "slug": "zane-gray-farms-4281-n-hulbert-rd",
+  "name": "Zane Gray Farms",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "4281 N Hulbert Rd, MI",
+  "locationCity": "4281 N Hulbert Rd",
+  "locationState": "MI",
+  "locationZipcode": "49643",
+  "lat": 44.694586016561175,
+  "lon": -85.89396802982967,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.246Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.246Z"
+}

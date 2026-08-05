@@ -1,0 +1,19 @@
+{
+  "slug": "mercer-county-farmers-market-900-s-college-st-harrodsburg",
+  "name": "Mercer County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "900 S College St Harrodsburg, KY",
+  "locationCity": "900 S College St Harrodsburg",
+  "locationState": "KY",
+  "locationZipcode": "40330",
+  "lat": 37.747003478472685,
+  "lon": -84.84257283041325,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

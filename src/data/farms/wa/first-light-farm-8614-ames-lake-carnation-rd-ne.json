@@ -1,0 +1,19 @@
+{
+  "slug": "first-light-farm-8614-ames-lake-carnation-rd-ne",
+  "name": "First Light Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "8614 Ames Lake-Carnation Rd NE, WA",
+  "locationCity": "8614 Ames Lake-Carnation Rd NE",
+  "locationState": "WA",
+  "locationZipcode": "98014",
+  "lat": 47.6775568,
+  "lon": -121.96195,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.456Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:23.456Z"
+}

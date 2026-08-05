@@ -1,0 +1,19 @@
+{
+  "slug": "broadway-va-farmers-market-161-s-main-st-broadway",
+  "name": "Broadway VA Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "161 S Main St Broadway, VA",
+  "locationCity": "161 S Main St Broadway",
+  "locationState": "VA",
+  "locationZipcode": "22815",
+  "lat": 38.61251612466546,
+  "lon": -78.79962614694782,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

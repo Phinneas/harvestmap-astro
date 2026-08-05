@@ -1,0 +1,19 @@
+{
+  "slug": "beaver-brook-farm-645-summer-street",
+  "name": "Beaver Brook Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "645 Summer Street, MA",
+  "locationCity": "645 Summer Street",
+  "locationState": "MA",
+  "locationZipcode": "02333",
+  "lat": 42.0568794580441,
+  "lon": -70.9738735998859,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.486Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.486Z"
+}

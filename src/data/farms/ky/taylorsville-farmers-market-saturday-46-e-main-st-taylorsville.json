@@ -1,0 +1,19 @@
+{
+  "slug": "taylorsville-farmers-market-saturday-46-e-main-st-taylorsville",
+  "name": "Taylorsville Farmers Market - Saturday",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "46 E. Main St Taylorsville, KY",
+  "locationCity": "46 E. Main St Taylorsville",
+  "locationState": "KY",
+  "locationZipcode": "40071",
+  "lat": 38.03078739205788,
+  "lon": -85.34663069134008,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "spenard-farmers-market-2555-spenard-rd",
+  "name": "Spenard Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2555 Spenard Rd, AK",
+  "locationCity": "2555 Spenard Rd",
+  "locationState": "AK",
+  "locationZipcode": "99503",
+  "lat": 61.199182244261856,
+  "lon": -149.9057439001804,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

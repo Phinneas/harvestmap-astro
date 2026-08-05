@@ -1,0 +1,20 @@
+{
+  "slug": "wea-creek-orchard-5618-s-200-e",
+  "name": "Wea Creek Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5618 S 200 E, IN",
+  "locationCity": "5618 S 200 E",
+  "locationState": "IN",
+  "locationZipcode": "47909",
+  "lat": 40.33638101086783,
+  "lon": -86.86246098338741,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.450Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.450Z",
+  "crops": []
+}

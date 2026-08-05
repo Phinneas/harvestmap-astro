@@ -1,0 +1,19 @@
+{
+  "slug": "bob-white-acres-879-e-mill-hill-road",
+  "name": "Bob White Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "879 E. Mill Hill Road, PA",
+  "locationCity": "879 E. Mill Hill Road",
+  "locationState": "PA",
+  "locationZipcode": "18036",
+  "lat": 40.4505197607266,
+  "lon": -75.4637674459757,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.156Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.156Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "gold-country-food-hub-195-elm-ave",
+  "name": "Gold Country Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "195 Elm Ave., CA",
+  "locationCity": "195 Elm Ave.",
+  "locationState": "CA",
+  "locationZipcode": "95603",
+  "lat": 38.90213000536994,
+  "lon": -121.06684497607259,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.242Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.242Z"
+}

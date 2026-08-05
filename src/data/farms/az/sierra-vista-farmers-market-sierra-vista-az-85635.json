@@ -1,0 +1,19 @@
+{
+  "slug": "sierra-vista-farmers-market-sierra-vista-az-85635",
+  "name": "Sierra Vista Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Sierra Vista AZ 85635, AZ",
+  "locationCity": "Sierra Vista AZ 85635",
+  "locationState": "AZ",
+  "locationZipcode": "85635",
+  "lat": 31.555985000000078,
+  "lon": -110.29628499999995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:16.031Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:16.031Z"
+}

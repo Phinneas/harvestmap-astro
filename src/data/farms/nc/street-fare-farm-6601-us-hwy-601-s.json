@@ -1,0 +1,19 @@
+{
+  "slug": "street-fare-farm-6601-us-hwy-601-s",
+  "name": "Street Fare Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6601 US Hwy 601 S, NC",
+  "locationCity": "6601 US Hwy 601 S",
+  "locationState": "NC",
+  "locationZipcode": "28025",
+  "lat": 35.325791777728966,
+  "lon": -80.51349454583297,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.908Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.908Z"
+}

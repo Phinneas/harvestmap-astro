@@ -1,0 +1,19 @@
+{
+  "slug": "stamping-ground-farmers-market-3374-main-street-stamping-ground",
+  "name": "Stamping Ground Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3374 Main Street Stamping Ground, KY",
+  "locationCity": "3374 Main Street Stamping Ground",
+  "locationState": "KY",
+  "locationZipcode": "40379",
+  "lat": 38.27187303829137,
+  "lon": -84.68692741940788,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

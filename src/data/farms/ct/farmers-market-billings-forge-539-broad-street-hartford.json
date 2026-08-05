@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-billings-forge-539-broad-street-hartford",
+  "name": "Farmers' Market @ Billings Forge",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "539 Broad Street Hartford, CT",
+  "locationCity": "539 Broad Street Hartford",
+  "locationState": "CT",
+  "locationZipcode": "06106",
+  "lat": 41.762163819678726,
+  "lon": -72.68679319452673,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

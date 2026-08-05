@@ -1,0 +1,19 @@
+{
+  "slug": "beans-and-greens-farm-245-intervaqle-rd",
+  "name": "Beans and Greens Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "245 Intervaqle Rd., NH",
+  "locationCity": "245 Intervaqle Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03249",
+  "lat": 43.572192,
+  "lon": -71.3956116,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:50.554Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:50.554Z"
+}

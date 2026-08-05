@@ -1,0 +1,19 @@
+{
+  "slug": "gumlog-enterprise-162-hardy-road",
+  "name": "Gumlog Enterprise",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "162 Hardy Road, GA",
+  "locationCity": "162 Hardy Road",
+  "locationState": "GA",
+  "locationZipcode": "30557",
+  "lat": 34.5489320133575,
+  "lon": -83.1451490349812,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.358Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.358Z"
+}

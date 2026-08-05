@@ -1,0 +1,19 @@
+{
+  "slug": "taplin-hill-sugarworks-131-taplin-rd",
+  "name": "Taplin Hill Sugarworks",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "131 Taplin Rd, VT",
+  "locationCity": "131 Taplin Rd",
+  "locationState": "VT",
+  "locationZipcode": "05641",
+  "lat": 44.1763950112166,
+  "lon": -72.4495809955753,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.001Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.001Z"
+}

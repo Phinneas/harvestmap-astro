@@ -1,0 +1,19 @@
+{
+  "slug": "hawkfield-manor-149-victor-chandler-rd",
+  "name": "Hawkfield Manor",
+  "source": "usda",
+  "directory": "csa",
+  "location": "149 Victor Chandler Rd, NC",
+  "locationCity": "149 Victor Chandler Rd",
+  "locationState": "NC",
+  "locationZipcode": "27583",
+  "lat": 36.3253126928235,
+  "lon": -78.91354856962037,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:35.906Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:35.906Z"
+}

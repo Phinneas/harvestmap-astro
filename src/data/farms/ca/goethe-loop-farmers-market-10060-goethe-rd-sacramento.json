@@ -1,0 +1,19 @@
+{
+  "slug": "goethe-loop-farmers-market-10060-goethe-rd-sacramento",
+  "name": "Goethe Loop Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10060 Goethe Rd Sacramento, CA",
+  "locationCity": "10060 Goethe Rd Sacramento",
+  "locationState": "CA",
+  "locationZipcode": "10060",
+  "lat": 38.55051896621041,
+  "lon": -121.33301562313288,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

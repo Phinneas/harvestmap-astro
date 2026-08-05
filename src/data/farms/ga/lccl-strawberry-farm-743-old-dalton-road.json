@@ -1,0 +1,19 @@
+{
+  "slug": "lccl-strawberry-farm-743-old-dalton-road",
+  "name": "LCCL Strawberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "743 Old Dalton Road, GA",
+  "locationCity": "743 Old Dalton Road",
+  "locationState": "GA",
+  "locationZipcode": "30165",
+  "lat": 34.3222110040124,
+  "lon": -85.1642029942778,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.359Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.359Z"
+}

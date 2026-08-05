@@ -1,0 +1,19 @@
+{
+  "slug": "weaver-berryland-farm-2252-hiway-16-west",
+  "name": "Weaver Berryland Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2252 Hiway 16 West, GA",
+  "locationCity": "2252 Hiway 16 West",
+  "locationState": "GA",
+  "locationZipcode": "30233",
+  "lat": 33.27227000765143,
+  "lon": -84.059392970083,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.407Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.407Z"
+}

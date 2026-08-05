@@ -1,0 +1,19 @@
+{
+  "slug": "chocolates-and-tomatoes-farm-19722-teakwood-cir",
+  "name": "Chocolates and Tomatoes Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "19722 Teakwood Cir, MD",
+  "locationCity": "19722 Teakwood Cir",
+  "locationState": "MD",
+  "locationZipcode": "19722",
+  "lat": 39.1794019,
+  "lon": -77.2810412,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.696Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.696Z"
+}

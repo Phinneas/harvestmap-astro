@@ -1,0 +1,19 @@
+{
+  "slug": "j-and-e-family-farm-1100-chestnut-st",
+  "name": "J and E Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1100 Chestnut St, CA",
+  "locationCity": "1100 Chestnut St",
+  "locationState": "CA",
+  "locationZipcode": "94513",
+  "lat": 37.93362498187163,
+  "lon": -121.6756739847714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.848Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.848Z"
+}

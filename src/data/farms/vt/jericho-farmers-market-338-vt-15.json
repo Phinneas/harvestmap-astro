@@ -1,0 +1,19 @@
+{
+  "slug": "jericho-farmers-market-338-vt-15",
+  "name": "Jericho Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "338 VT-15, VT",
+  "locationCity": "338 VT-15",
+  "locationState": "VT",
+  "locationZipcode": "05465",
+  "lat": 44.517902097638846,
+  "lon": -72.94803817823613,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.356Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.356Z"
+}

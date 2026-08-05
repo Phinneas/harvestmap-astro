@@ -1,0 +1,19 @@
+{
+  "slug": "milky-way-farm-521-e-uwchlan-ave-rte-113",
+  "name": "Milky Way Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "521 E. Uwchlan Ave. (Rte. 113), PA",
+  "locationCity": "521 E. Uwchlan Ave. (Rte. 113)",
+  "locationState": "PA",
+  "locationZipcode": "19425",
+  "lat": 40.0708377082231,
+  "lon": -75.6499827353517,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.085Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.085Z"
+}

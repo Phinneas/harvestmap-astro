@@ -1,0 +1,19 @@
+{
+  "slug": "t-berries-345-county-road-9",
+  "name": "T Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "345 County Road 9, MN",
+  "locationCity": "345 County Road 9",
+  "locationState": "MN",
+  "locationZipcode": "56310",
+  "lat": 45.6129234546124,
+  "lon": -94.4496087203806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.739Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.739Z"
+}

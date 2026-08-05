@@ -1,0 +1,19 @@
+{
+  "slug": "lilburn-farmers-market-1400-killian-hill-rd",
+  "name": "Lilburn Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1400 Killian Hill Rd, GA",
+  "locationCity": "1400 Killian Hill Rd",
+  "locationState": "GA",
+  "locationZipcode": "30047",
+  "lat": 33.859588,
+  "lon": -84.081093,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.701Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.701Z"
+}

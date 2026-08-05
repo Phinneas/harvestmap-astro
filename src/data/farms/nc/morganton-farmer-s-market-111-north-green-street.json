@@ -1,0 +1,19 @@
+{
+  "slug": "morganton-farmer-s-market-111-north-green-street",
+  "name": "Morganton Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "111 North Green Street, NC",
+  "locationCity": "111 North Green Street",
+  "locationState": "NC",
+  "locationZipcode": "28655",
+  "lat": 35.7466269,
+  "lon": -81.688488,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.231Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.231Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "webster-s-blueberry-farm-221-highway-34-east",
+  "name": "Webster's Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "221 highway 34 East, SC",
+  "locationCity": "221 highway 34 East",
+  "locationState": "SC",
+  "locationZipcode": "29516",
+  "lat": 34.3967986455909,
+  "lon": -79.5817476831434,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.933Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.933Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-market-95-e-oak-st",
+  "name": "Main Street Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "95 E. Oak St., AL",
+  "locationCity": "95 E. Oak St.",
+  "locationState": "AL",
+  "locationZipcode": "36203",
+  "lat": 33.61584501509361,
+  "lon": -85.83367800611708,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "jefferies-orchard-1016-jeffries-rd",
+  "name": "Jefferies Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1016 Jeffries Rd, IL",
+  "locationCity": "1016 Jeffries Rd",
+  "locationState": "IL",
+  "locationZipcode": "62707",
+  "lat": 39.8879977168923,
+  "lon": -89.6730816546529,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.865Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.865Z"
+}

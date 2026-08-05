@@ -1,0 +1,20 @@
+{
+  "slug": "robertson-family-farm-390-mountain-view-rd",
+  "name": "Robertson Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "390 Mountain View Rd, NC",
+  "locationCity": "390 Mountain View Rd",
+  "locationState": "NC",
+  "locationZipcode": "27021",
+  "lat": 36.29519865209944,
+  "lon": -80.33486680143274,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.909Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.909Z",
+  "crops": []
+}

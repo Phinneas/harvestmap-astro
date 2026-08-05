@@ -1,0 +1,19 @@
+{
+  "slug": "fairview-farmers-market-60-w-fairview-ave",
+  "name": "Fairview Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "60 W.Fairview Ave., AL",
+  "locationCity": "60 W.Fairview Ave.",
+  "locationState": "AL",
+  "locationZipcode": "36105",
+  "lat": 32.35174774175345,
+  "lon": -86.31003418164,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.018Z"
+}

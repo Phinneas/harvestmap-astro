@@ -1,0 +1,19 @@
+{
+  "slug": "blueberries-of-indiana-320-west-1000-north",
+  "name": "Blueberries of Indiana",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "320 West 1000 North, IN",
+  "locationCity": "320 West 1000 North",
+  "locationState": "IN",
+  "locationZipcode": "46350",
+  "lat": 41.7519627046661,
+  "lon": -86.7069560997053,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.249Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.249Z"
+}

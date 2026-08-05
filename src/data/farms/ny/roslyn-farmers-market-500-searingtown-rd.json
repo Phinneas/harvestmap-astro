@@ -1,0 +1,19 @@
+{
+  "slug": "roslyn-farmers-market-500-searingtown-rd",
+  "name": "Roslyn Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 Searingtown Rd, NY",
+  "locationCity": "500 Searingtown Rd",
+  "locationState": "NY",
+  "locationZipcode": "11576",
+  "lat": 40.795645971537816,
+  "lon": -73.66860918634242,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

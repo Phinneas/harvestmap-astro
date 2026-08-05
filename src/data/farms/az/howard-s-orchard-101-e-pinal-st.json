@@ -1,0 +1,19 @@
+{
+  "slug": "howard-s-orchard-101-e-pinal-st",
+  "name": "Howard's Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "101 E Pinal St, AZ",
+  "locationCity": "101 E Pinal St",
+  "locationState": "AZ",
+  "locationZipcode": "85739",
+  "lat": 32.503580000486,
+  "lon": -110.906599736755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.772Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:10.772Z"
+}

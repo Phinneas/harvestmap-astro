@@ -1,0 +1,20 @@
+{
+  "slug": "schroeder-farm-83-route-103",
+  "name": "Schroeder Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "83 Route 103, NH",
+  "locationCity": "83 Route 103",
+  "locationState": "NH",
+  "locationZipcode": "03272",
+  "lat": 43.3220424,
+  "lon": -72.0390217999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.689Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.689Z",
+  "crops": []
+}

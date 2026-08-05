@@ -1,0 +1,19 @@
+{
+  "slug": "pompano-state-farmers-market-1255-west-atlantic-boulevard-pompano-beach",
+  "name": "Pompano State Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1255 West Atlantic Boulevard Pompano Beach, FL",
+  "locationCity": "1255 West Atlantic Boulevard Pompano Beach",
+  "locationState": "FL",
+  "locationZipcode": "33069",
+  "lat": 26.231547540130716,
+  "lon": -80.14097653598617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

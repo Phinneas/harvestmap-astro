@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-hays-market-110-e-10th-st",
+  "name": "Downtown Hays Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "110 E 10th St, KS",
+  "locationCity": "110 E 10th St",
+  "locationState": "KS",
+  "locationZipcode": "67601",
+  "lat": 38.87154633001018,
+  "lon": -99.33046283786952,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

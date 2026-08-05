@@ -1,0 +1,19 @@
+{
+  "slug": "frog-eye-blueberry-farm-600-frog-eye-road",
+  "name": "Frog Eye Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "600 Frog Eye Road, MD",
+  "locationCity": "600 Frog Eye Road",
+  "locationState": "MD",
+  "locationZipcode": "21758",
+  "lat": 39.3609979763329,
+  "lon": -77.6851293413604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.140Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.140Z"
+}

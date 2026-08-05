@@ -1,0 +1,19 @@
+{
+  "slug": "smith-hollow-farm-5920-smith-hollow-rd",
+  "name": "Smith Hollow Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5920 Smith Hollow Rd, NC",
+  "locationCity": "5920 Smith Hollow Rd",
+  "locationState": "NC",
+  "locationZipcode": "27284",
+  "lat": 36.0961839817912,
+  "lon": -80.1135228667937,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.819Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.819Z"
+}

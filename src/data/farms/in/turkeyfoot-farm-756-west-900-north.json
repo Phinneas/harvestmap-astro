@@ -1,0 +1,19 @@
+{
+  "slug": "turkeyfoot-farm-756-west-900-north",
+  "name": "TurkeyFoot Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "756 West 900 North, IN",
+  "locationCity": "756 West 900 North",
+  "locationState": "IN",
+  "locationZipcode": "46350",
+  "lat": 41.73726839559956,
+  "lon": -86.71369980401998,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.556Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.556Z"
+}

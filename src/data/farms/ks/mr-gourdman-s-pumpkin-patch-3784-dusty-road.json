@@ -1,0 +1,19 @@
+{
+  "slug": "mr-gourdman-s-pumpkin-patch-3784-dusty-road",
+  "name": "Mr. Gourdman's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3784 Dusty Road, KS",
+  "locationCity": "3784 Dusty Road",
+  "locationState": "KS",
+  "locationZipcode": "67037",
+  "lat": 37.6237321773516,
+  "lon": -97.1790157455038,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.090Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:51.090Z"
+}

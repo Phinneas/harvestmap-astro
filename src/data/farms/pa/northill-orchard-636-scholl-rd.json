@@ -1,0 +1,20 @@
+{
+  "slug": "northill-orchard-636-scholl-rd",
+  "name": "Northill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "636 Scholl Rd, PA",
+  "locationCity": "636 Scholl Rd",
+  "locationState": "PA",
+  "locationZipcode": "17889",
+  "lat": 40.8584159989182,
+  "lon": -77.0112439603597,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.104Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.104Z",
+  "crops": []
+}

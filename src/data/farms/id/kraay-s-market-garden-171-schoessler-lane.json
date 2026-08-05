@@ -1,0 +1,19 @@
+{
+  "slug": "kraay-s-market-garden-171-schoessler-lane",
+  "name": "Kraay's Market & Garden",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "171 Schoessler Lane, ID",
+  "locationCity": "171 Schoessler Lane",
+  "locationState": "ID",
+  "locationZipcode": "83313",
+  "lat": 43.3436283,
+  "lon": -114.2483,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:37.119Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:37.119Z"
+}

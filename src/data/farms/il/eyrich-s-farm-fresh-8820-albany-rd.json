@@ -1,0 +1,19 @@
+{
+  "slug": "eyrich-s-farm-fresh-8820-albany-rd",
+  "name": "Eyrich's Farm Fresh",
+  "source": "usda",
+  "directory": "csa",
+  "location": "8820 ALBANY RD, IL",
+  "locationCity": "8820 ALBANY RD",
+  "locationState": "IL",
+  "locationZipcode": "61250",
+  "lat": 41.7136519,
+  "lon": -90.1289704,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.476Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.476Z"
+}

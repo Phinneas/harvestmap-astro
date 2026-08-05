@@ -1,0 +1,19 @@
+{
+  "slug": "cadiz-farmers-market-63-main-street-cadiz",
+  "name": "Cadiz Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "63 Main Street Cadiz, KY",
+  "locationCity": "63 Main Street Cadiz",
+  "locationState": "KY",
+  "locationZipcode": "42211",
+  "lat": 36.86108457523208,
+  "lon": -87.83835093302825,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

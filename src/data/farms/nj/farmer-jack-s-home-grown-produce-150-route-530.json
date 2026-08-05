@@ -1,0 +1,19 @@
+{
+  "slug": "farmer-jack-s-home-grown-produce-150-route-530",
+  "name": "Farmer Jack's Home Grown Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "150 Route 530, NJ",
+  "locationCity": "150 Route 530",
+  "locationState": "NJ",
+  "locationZipcode": "08088",
+  "lat": 39.966324008985566,
+  "lon": -74.71799900509323,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:24.780Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:24.780Z"
+}

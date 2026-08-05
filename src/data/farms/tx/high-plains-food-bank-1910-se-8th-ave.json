@@ -1,0 +1,19 @@
+{
+  "slug": "high-plains-food-bank-1910-se-8th-ave",
+  "name": "High Plains Food Bank",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1910 SE 8th Ave, TX",
+  "locationCity": "1910 SE 8th Ave",
+  "locationState": "TX",
+  "locationZipcode": "79102",
+  "lat": 35.20226901173697,
+  "lon": -101.81517501446194,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:57.115Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:57.115Z"
+}

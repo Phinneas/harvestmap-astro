@@ -1,0 +1,19 @@
+{
+  "slug": "laurel-glen-farm-247-waverly-road",
+  "name": "Laurel Glen Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "247 Waverly Road, CT",
+  "locationCity": "247 Waverly Road",
+  "locationState": "CT",
+  "locationZipcode": "",
+  "lat": 41.2896806,
+  "lon": -73.1668366,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.401Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.401Z"
+}

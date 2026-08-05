@@ -1,0 +1,19 @@
+{
+  "slug": "barrio-food-hub-2707-boston-ave",
+  "name": "Barrio Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "2707 Boston Ave, CA",
+  "locationCity": "2707 Boston Ave",
+  "locationState": "CA",
+  "locationZipcode": "92113",
+  "lat": 32.693511998603825,
+  "lon": -117.13567203708723,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

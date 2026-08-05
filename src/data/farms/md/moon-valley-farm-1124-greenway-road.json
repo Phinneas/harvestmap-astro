@@ -1,0 +1,19 @@
+{
+  "slug": "moon-valley-farm-1124-greenway-road",
+  "name": "Moon Valley Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1124 Greenway Road, MD",
+  "locationCity": "1124 Greenway Road",
+  "locationState": "MD",
+  "locationZipcode": "21030",
+  "lat": 39.4552873,
+  "lon": -76.6873573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.699Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.699Z"
+}

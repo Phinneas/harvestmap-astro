@@ -1,0 +1,19 @@
+{
+  "slug": "simon-kenton-farmers-market-11132-madison-pike-independence",
+  "name": "Simon Kenton Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "11132 Madison Pike Independence, KY",
+  "locationCity": "11132 Madison Pike Independence",
+  "locationState": "KY",
+  "locationZipcode": "11132",
+  "lat": 38.92435233422688,
+  "lon": -84.5434563334393,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cny-maple-189-williams-street-north-of-thruway",
+  "name": "CNY Maple",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "189 Williams Street North of Thruway, NY",
+  "locationCity": "189 Williams Street North of Thruway",
+  "locationState": "NY",
+  "locationZipcode": "13421",
+  "lat": 43.0982290938616,
+  "lon": -75.6515797592193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.294Z"
+}

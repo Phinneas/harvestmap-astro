@@ -1,0 +1,19 @@
+{
+  "slug": "flint-fresh-food-hub-3325-e-court-st",
+  "name": "Flint Fresh Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3325 E Court St., MI",
+  "locationCity": "3325 E Court St.",
+  "locationState": "MI",
+  "locationZipcode": "48506",
+  "lat": 43.018884986182144,
+  "lon": -83.64370698278942,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.245Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "st-john-s-farmers-market-701-n-lake-ave-twin-lakes",
+  "name": "St. John's Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "701 N. Lake Ave Twin Lakes, WI",
+  "locationCity": "701 N. Lake Ave Twin Lakes",
+  "locationState": "WI",
+  "locationZipcode": "53181",
+  "lat": 42.53835113734729,
+  "lon": -88.24655894520527,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:14.858Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:14.858Z"
+}

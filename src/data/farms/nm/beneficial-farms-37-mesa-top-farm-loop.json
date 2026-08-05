@@ -1,0 +1,19 @@
+{
+  "slug": "beneficial-farms-37-mesa-top-farm-loop",
+  "name": "Beneficial Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "37 Mesa Top Farm Loop, NM",
+  "locationCity": "37 Mesa Top Farm Loop",
+  "locationState": "NM",
+  "locationZipcode": "87508",
+  "lat": 35.4535095,
+  "lon": -105.7945177,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:56.539Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:56.539Z"
+}

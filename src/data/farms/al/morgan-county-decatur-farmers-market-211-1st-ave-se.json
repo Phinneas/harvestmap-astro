@@ -1,0 +1,19 @@
+{
+  "slug": "morgan-county-decatur-farmers-market-211-1st-ave-se",
+  "name": "Morgan County/Decatur Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "211 1st Ave. SE, AL",
+  "locationCity": "211 1st Ave. SE",
+  "locationState": "AL",
+  "locationZipcode": "35601",
+  "lat": 34.603391112298105,
+  "lon": -86.98655075159861,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.019Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.019Z"
+}

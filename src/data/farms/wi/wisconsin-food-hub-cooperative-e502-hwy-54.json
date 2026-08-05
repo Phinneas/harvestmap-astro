@@ -1,0 +1,19 @@
+{
+  "slug": "wisconsin-food-hub-cooperative-e502-hwy-54",
+  "name": "Wisconsin Food Hub Cooperative",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "E502 Hwy 54, WI",
+  "locationCity": "E502 Hwy 54",
+  "locationState": "WI",
+  "locationZipcode": "54981",
+  "lat": 44.35367,
+  "lon": -89.202183,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:15.600Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:15.600Z"
+}

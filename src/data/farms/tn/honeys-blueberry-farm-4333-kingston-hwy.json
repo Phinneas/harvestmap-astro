@@ -2,20 +2,19 @@
   "slug": "honeys-blueberry-farm-4333-kingston-hwy",
   "name": "Honeys Blueberry Farm",
   "source": "usda",
-  "directory": "agritourism",
+  "directory": "onfarmmarket",
   "location": "4333 Kingston Hwy, TN",
   "locationCity": "4333 Kingston Hwy",
   "locationState": "TN",
   "locationZipcode": "37774",
-  "lat": 35.8411209917819,
-  "lon": -84.3812879754143,
+  "lat": 35.838957,
+  "lon": -84.381906,
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-07-28T19:38:57.707Z"
+      "lastSeen": "2026-08-05T18:51:36.470Z"
     }
   ],
-  "usdaLastUpdated": "2026-07-28T19:38:57.707Z",
-  "website": "https://sites.google.com/view/honeysblueberryfarm/home",
+  "usdaLastUpdated": "2026-08-05T18:51:36.470Z",
   "tagline": "Honey's Blueberry Farm"
 }

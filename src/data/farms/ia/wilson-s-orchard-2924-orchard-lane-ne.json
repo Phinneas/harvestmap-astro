@@ -1,0 +1,19 @@
+{
+  "slug": "wilson-s-orchard-2924-orchard-lane-ne",
+  "name": "Wilson's Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2924 Orchard Lane NE, IA",
+  "locationCity": "2924 Orchard Lane NE",
+  "locationState": "IA",
+  "locationZipcode": "52240",
+  "lat": 41.718164626195346,
+  "lon": -91.46278637390877,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:40.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:40.605Z"
+}

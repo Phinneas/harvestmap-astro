@@ -1,0 +1,19 @@
+{
+  "slug": "smith-blueberry-farm-584-greedy-hwy",
+  "name": "Smith Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "584 Greedy Hwy, NC",
+  "locationCity": "584 Greedy Hwy",
+  "locationState": "NC",
+  "locationZipcode": "28602",
+  "lat": 35.6394408492071,
+  "lon": -81.4087248587709,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.757Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.757Z"
+}

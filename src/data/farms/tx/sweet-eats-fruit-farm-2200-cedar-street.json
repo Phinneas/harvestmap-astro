@@ -1,0 +1,19 @@
+{
+  "slug": "sweet-eats-fruit-farm-2200-cedar-street",
+  "name": "Sweet Eats Fruit Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2200 Cedar Street, TX",
+  "locationCity": "2200 Cedar Street",
+  "locationState": "TX",
+  "locationZipcode": "78602",
+  "lat": 30.118779013920005,
+  "lon": -97.30175400958478,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:59.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:59.352Z"
+}

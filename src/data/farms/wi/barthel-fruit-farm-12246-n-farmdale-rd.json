@@ -1,0 +1,19 @@
+{
+  "slug": "barthel-fruit-farm-12246-n-farmdale-rd",
+  "name": "Barthel Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12246 N Farmdale Rd, WI",
+  "locationCity": "12246 N Farmdale Rd",
+  "locationState": "WI",
+  "locationZipcode": "12246",
+  "lat": 43.2420620011362,
+  "lon": -88.0284739881887,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.245Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.245Z"
+}

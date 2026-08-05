@@ -1,0 +1,19 @@
+{
+  "slug": "fairfax-community-farmers-market-142-bolinas-road",
+  "name": "Fairfax Community Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "142 Bolinas Road, CA",
+  "locationCity": "142 Bolinas Road",
+  "locationState": "CA",
+  "locationZipcode": "94930",
+  "lat": 37.9853196,
+  "lon": -122.5905814,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.363Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.363Z"
+}

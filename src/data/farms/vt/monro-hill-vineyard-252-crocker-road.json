@@ -1,0 +1,19 @@
+{
+  "slug": "monro-hill-vineyard-252-crocker-road",
+  "name": "Monro Hill Vineyard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "252 Crocker Road, VT",
+  "locationCity": "252 Crocker Road",
+  "locationState": "VT",
+  "locationZipcode": "05061",
+  "lat": 43.9069560995239,
+  "lon": -72.6003075620651,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.095Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.095Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "west-grove-farmers-market-294-west-harmony-road-west-grove",
+  "name": "West Grove Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "294 West Harmony Road West Grove, PA",
+  "locationCity": "294 West Harmony Road West Grove",
+  "locationState": "PA",
+  "locationZipcode": "19390",
+  "lat": 39.82438585467565,
+  "lon": -75.83179994297801,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.068Z"
+}

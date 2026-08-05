@@ -1,0 +1,19 @@
+{
+  "slug": "gateway-farmers-market-602-east-jefferson-ave",
+  "name": "Gateway Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "602 East Jefferson Ave, AR",
+  "locationCity": "602 East Jefferson Ave",
+  "locationState": "AR",
+  "locationZipcode": "71854",
+  "lat": 33.430713,
+  "lon": -94.029739,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:28.339Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:28.339Z"
+}

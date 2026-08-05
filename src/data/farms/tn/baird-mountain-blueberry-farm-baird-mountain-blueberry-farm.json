@@ -1,0 +1,19 @@
+{
+  "slug": "baird-mountain-blueberry-farm-baird-mountain-blueberry-farm",
+  "name": "Baird Mountain Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Baird Mountain Blueberry Farm, TN",
+  "locationCity": "Baird Mountain Blueberry Farm",
+  "locationState": "TN",
+  "locationZipcode": "37334",
+  "lat": 35.1325389,
+  "lon": -86.5666117,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.373Z"
+}

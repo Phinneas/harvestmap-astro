@@ -1,0 +1,19 @@
+{
+  "slug": "st-cloud-harvest-market-113-waite-ave-n",
+  "name": "St. Cloud Harvest Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "113 Waite Ave N, MN",
+  "locationCity": "113 Waite Ave N",
+  "locationState": "MN",
+  "locationZipcode": "56387",
+  "lat": 45.551317,
+  "lon": -94.2155763,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kodiak-harvest-food-cooperative-1420-selig-st-kodiak",
+  "name": "Kodiak Harvest Food Cooperative",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "1420 Selig St. Kodiak, AK",
+  "locationCity": "1420 Selig St. Kodiak",
+  "locationState": "AK",
+  "locationZipcode": "99615",
+  "lat": 57.79876199448424,
+  "lon": -152.3863550053846,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:03.298Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:03.298Z"
+}

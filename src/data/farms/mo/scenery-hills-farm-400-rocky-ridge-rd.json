@@ -1,0 +1,19 @@
+{
+  "slug": "scenery-hills-farm-400-rocky-ridge-rd",
+  "name": "Scenery Hills Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "400 Rocky Ridge Rd, MO",
+  "locationCity": "400 Rocky Ridge Rd",
+  "locationState": "MO",
+  "locationZipcode": "65444",
+  "lat": 37.3422395032242,
+  "lon": -92.2014263563595,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.746Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.746Z"
+}

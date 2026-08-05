@@ -1,0 +1,20 @@
+{
+  "slug": "brookings-harbor-farmers-market-15786-us-101",
+  "name": "Brookings Harbor Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15786 US-101, OR",
+  "locationCity": "15786 US-101",
+  "locationState": "OR",
+  "locationZipcode": "15786",
+  "lat": 42.03750472860518,
+  "lon": -124.24442521084164,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.423Z",
+  "crops": []
+}

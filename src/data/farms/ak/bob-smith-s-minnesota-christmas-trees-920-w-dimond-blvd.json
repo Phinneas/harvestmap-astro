@@ -1,0 +1,19 @@
+{
+  "slug": "bob-smith-s-minnesota-christmas-trees-920-w-dimond-blvd",
+  "name": "Bob Smith's Minnesota Christmas Trees",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "920 W Dimond Blvd, AK",
+  "locationCity": "920 W Dimond Blvd",
+  "locationState": "AK",
+  "locationZipcode": "99507",
+  "lat": 61.1429986595842,
+  "lon": -149.897484644268,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:58.001Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:58.001Z"
+}

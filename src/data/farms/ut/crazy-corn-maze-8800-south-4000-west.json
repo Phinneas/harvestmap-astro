@@ -1,0 +1,19 @@
+{
+  "slug": "crazy-corn-maze-8800-south-4000-west",
+  "name": "Crazy Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "8800 South 4000 West, UT",
+  "locationCity": "8800 South 4000 West",
+  "locationState": "UT",
+  "locationZipcode": "84088",
+  "lat": 40.5914829688754,
+  "lon": -111.986495425646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:16.650Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:16.650Z"
+}

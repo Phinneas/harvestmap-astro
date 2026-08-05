@@ -1,0 +1,19 @@
+{
+  "slug": "the-pickin-patch-nod-road",
+  "name": "The Pickin' Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Nod Road, CT",
+  "locationCity": "Nod Road",
+  "locationState": "CT",
+  "locationZipcode": "06001",
+  "lat": 41.8140366495301,
+  "lon": -72.8149596378871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.953Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.953Z"
+}

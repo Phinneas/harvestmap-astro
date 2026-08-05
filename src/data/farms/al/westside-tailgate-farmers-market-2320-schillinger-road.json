@@ -1,0 +1,19 @@
+{
+  "slug": "westside-tailgate-farmers-market-2320-schillinger-road",
+  "name": "Westside Tailgate Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2320 Schillinger Road, AL",
+  "locationCity": "2320 Schillinger Road",
+  "locationState": "AL",
+  "locationZipcode": "36608",
+  "lat": 30.642528559799796,
+  "lon": -88.22463485658695,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.020Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.020Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "allen-county-farmers-market-1138-old-gallatin-road-scottsville",
+  "name": "Allen County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1138 Old Gallatin Road Scottsville, KY",
+  "locationCity": "1138 Old Gallatin Road Scottsville",
+  "locationState": "KY",
+  "locationZipcode": "42120",
+  "lat": 36.744170061569704,
+  "lon": -86.2034455400851,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.773Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.773Z"
+}

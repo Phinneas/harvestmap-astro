@@ -1,0 +1,19 @@
+{
+  "slug": "virgil-produce-880-41st-lane",
+  "name": "Virgil Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "880 41st Lane, CO",
+  "locationCity": "880 41st Lane",
+  "locationState": "CO",
+  "locationZipcode": "81006",
+  "lat": 38.24936498806318,
+  "lon": -104.41339199636755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:05.335Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:05.335Z"
+}

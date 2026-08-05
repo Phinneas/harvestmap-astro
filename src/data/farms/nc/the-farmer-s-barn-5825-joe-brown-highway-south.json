@@ -1,0 +1,20 @@
+{
+  "slug": "the-farmer-s-barn-5825-joe-brown-highway-south",
+  "name": "The Farmer's Barn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5825 Joe Brown Highway South, NC",
+  "locationCity": "5825 Joe Brown Highway South",
+  "locationState": "NC",
+  "locationZipcode": "28431",
+  "lat": 34.2498483994276,
+  "lon": -78.8158003235309,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.762Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.762Z",
+  "crops": []
+}

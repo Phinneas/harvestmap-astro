@@ -1,0 +1,19 @@
+{
+  "slug": "morningside-farmers-market-1411-n-morningside-drive-ne",
+  "name": "Morningside Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1411 N. Morningside Drive NE, GA",
+  "locationCity": "1411 N. Morningside Drive NE",
+  "locationState": "GA",
+  "locationZipcode": "30306",
+  "lat": 33.793194,
+  "lon": -84.356113,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.701Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.701Z"
+}

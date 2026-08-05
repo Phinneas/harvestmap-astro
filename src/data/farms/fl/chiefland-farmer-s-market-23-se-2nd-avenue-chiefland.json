@@ -1,0 +1,19 @@
+{
+  "slug": "chiefland-farmer-s-market-23-se-2nd-avenue-chiefland",
+  "name": "Chiefland Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "23 SE 2nd Avenue Chiefland, FL",
+  "locationCity": "23 SE 2nd Avenue Chiefland",
+  "locationState": "FL",
+  "locationZipcode": "32626",
+  "lat": 29.477014975285083,
+  "lon": -82.85934044156859,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:34.575Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:34.575Z"
+}

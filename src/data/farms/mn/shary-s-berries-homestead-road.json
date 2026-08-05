@@ -1,0 +1,19 @@
+{
+  "slug": "shary-s-berries-homestead-road",
+  "name": "Shary's Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Homestead Road, MN",
+  "locationCity": "Homestead Road",
+  "locationState": "MN",
+  "locationZipcode": "55616",
+  "lat": 46.9696840656123,
+  "lon": -91.8469900413635,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.843Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.843Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "marion-farmers-market-2200-31st-st",
+  "name": "Marion Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2200 31st St, IA",
+  "locationCity": "2200 31st St",
+  "locationState": "IA",
+  "locationZipcode": "52302",
+  "lat": 42.044309,
+  "lon": -91.580645,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.619Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.619Z"
+}

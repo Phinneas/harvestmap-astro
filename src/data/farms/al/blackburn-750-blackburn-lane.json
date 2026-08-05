@@ -1,0 +1,19 @@
+{
+  "slug": "blackburn-750-blackburn-lane",
+  "name": "Blackburn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "750 Blackburn Lane, AL",
+  "locationCity": "750 Blackburn Lane",
+  "locationState": "AL",
+  "locationZipcode": "35180",
+  "lat": 33.8057630154331,
+  "lon": -86.8379060303969,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.653Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:43.653Z"
+}

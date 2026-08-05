@@ -1,0 +1,20 @@
+{
+  "slug": "hazen-s-blueberry-farm-1144-peavy-rd",
+  "name": "Hazen's Blueberry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1144 Peavy Rd, MI",
+  "locationCity": "1144 Peavy Rd",
+  "locationState": "MI",
+  "locationZipcode": "48843",
+  "lat": 42.5887949916482,
+  "lon": -83.9532059915146,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.663Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.663Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mcneill-strawberries-471-clifton-mcneill-road",
+  "name": "McNeill Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "471 Clifton McNeill Road, NC",
+  "locationCity": "471 Clifton McNeill Road",
+  "locationState": "NC",
+  "locationZipcode": "28348",
+  "lat": 34.9155864406617,
+  "lon": -78.8976713974736,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.879Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.879Z"
+}

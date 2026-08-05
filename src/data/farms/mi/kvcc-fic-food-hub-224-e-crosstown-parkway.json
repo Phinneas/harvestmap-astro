@@ -1,0 +1,19 @@
+{
+  "slug": "kvcc-fic-food-hub-224-e-crosstown-parkway",
+  "name": "KVCC FIC Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "224 E Crosstown Parkway, MI",
+  "locationCity": "224 E Crosstown Parkway",
+  "locationState": "MI",
+  "locationZipcode": "49001",
+  "lat": 42.2808544,
+  "lon": -85.579661,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:44.229Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:44.229Z"
+}

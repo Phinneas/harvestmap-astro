@@ -1,0 +1,19 @@
+{
+  "slug": "hwy-202-farmer-s-market-21802-state-highway-202-tehachapi",
+  "name": "Hwy 202 Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "21802 State Highway 202 Tehachapi, CA",
+  "locationCity": "21802 State Highway 202 Tehachapi",
+  "locationState": "CA",
+  "locationZipcode": "21802",
+  "lat": 35.111421777908284,
+  "lon": -118.51645495584582,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

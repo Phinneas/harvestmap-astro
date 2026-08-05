@@ -1,0 +1,19 @@
+{
+  "slug": "hopkins-gap-produce-4001-hopkins-gap-road",
+  "name": "Hopkins Gap Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "4001 Hopkins Gap Road, VA",
+  "locationCity": "4001 Hopkins Gap Road",
+  "locationState": "VA",
+  "locationZipcode": "22802",
+  "lat": 38.5241810266892,
+  "lon": -78.9695345307177,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.255Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.255Z"
+}

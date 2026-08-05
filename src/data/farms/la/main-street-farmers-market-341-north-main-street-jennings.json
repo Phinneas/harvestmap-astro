@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-farmers-market-341-north-main-street-jennings",
+  "name": "Main Street Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "341 North Main Street Jennings, LA",
+  "locationCity": "341 North Main Street Jennings",
+  "locationState": "LA",
+  "locationZipcode": "70546",
+  "lat": 30.222990296421788,
+  "lon": -92.6579913463561,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

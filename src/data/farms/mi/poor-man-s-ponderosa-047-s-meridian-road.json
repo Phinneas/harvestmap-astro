@@ -1,0 +1,19 @@
+{
+  "slug": "poor-man-s-ponderosa-047-s-meridian-road",
+  "name": "Poor Man's Ponderosa",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "047 S. Meridian Road, MI",
+  "locationCity": "047 S. Meridian Road",
+  "locationState": "MI",
+  "locationZipcode": "48848",
+  "lat": 42.9431599811386,
+  "lon": -84.3657100407247,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.666Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.666Z"
+}

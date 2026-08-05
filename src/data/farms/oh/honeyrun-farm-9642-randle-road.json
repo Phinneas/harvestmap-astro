@@ -1,0 +1,19 @@
+{
+  "slug": "honeyrun-farm-9642-randle-road",
+  "name": "Honeyrun Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "9642 Randle Road, OH",
+  "locationCity": "9642 Randle Road",
+  "locationState": "OH",
+  "locationZipcode": "43164",
+  "lat": 39.6525,
+  "lon": -83.129594,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.224Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.224Z"
+}

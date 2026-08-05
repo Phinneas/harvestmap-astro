@@ -1,0 +1,19 @@
+{
+  "slug": "adragone-aeroponics-3140-conestoga-road",
+  "name": "Adragone Aeroponics",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3140 Conestoga Road, PA",
+  "locationCity": "3140 Conestoga Road",
+  "locationState": "PA",
+  "locationZipcode": "19343",
+  "lat": 40.1200185,
+  "lon": -75.7044652,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.571Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.571Z"
+}

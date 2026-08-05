@@ -1,0 +1,20 @@
+{
+  "slug": "cal-lily-flower-farm-2628-50th-street-ne",
+  "name": "Cal Lily Flower Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2628 50th Street NE, MN",
+  "locationCity": "2628 50th Street NE",
+  "locationState": "MN",
+  "locationZipcode": "55313",
+  "lat": 45.22721099445002,
+  "lon": -93.8357010082508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.853Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.853Z",
+  "crops": []
+}

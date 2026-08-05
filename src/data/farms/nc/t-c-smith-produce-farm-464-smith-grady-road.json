@@ -1,0 +1,20 @@
+{
+  "slug": "t-c-smith-produce-farm-464-smith-grady-road",
+  "name": "T.C. Smith Produce Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "464 Smith-Grady Road, NC",
+  "locationCity": "464 Smith-Grady Road",
+  "locationState": "NC",
+  "locationZipcode": "28578",
+  "lat": 35.1849218668346,
+  "lon": -77.7716061276251,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.761Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.761Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "easley-s-farms-and-nursery-618-e-7th-street",
+  "name": "Easley's Farms and Nursery",
+  "source": "usda",
+  "directory": "csa",
+  "location": "618 E 7th Street, IN",
+  "locationCity": "618 E 7th Street",
+  "locationState": "IN",
+  "locationZipcode": "46173",
+  "lat": 39.6146985,
+  "lon": -85.4369328,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:06.534Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:06.534Z"
+}

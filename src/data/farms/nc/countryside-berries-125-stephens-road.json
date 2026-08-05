@@ -1,0 +1,19 @@
+{
+  "slug": "countryside-berries-125-stephens-road",
+  "name": "Countryside Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "125 Stephens Road, NC",
+  "locationCity": "125 Stephens Road",
+  "locationState": "NC",
+  "locationZipcode": "28655",
+  "lat": 35.7577285988991,
+  "lon": -81.7349592045578,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.655Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.655Z"
+}

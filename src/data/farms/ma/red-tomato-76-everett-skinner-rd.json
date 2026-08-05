@@ -1,0 +1,19 @@
+{
+  "slug": "red-tomato-76-everett-skinner-rd",
+  "name": "Red Tomato",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "76 Everett Skinner Rd, MA",
+  "locationCity": "76 Everett Skinner Rd",
+  "locationState": "MA",
+  "locationZipcode": "02762",
+  "lat": 42.0185892,
+  "lon": -71.325861,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:28.880Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:28.880Z"
+}

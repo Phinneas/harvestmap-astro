@@ -1,0 +1,19 @@
+{
+  "slug": "maas-farms-road",
+  "name": "Maas Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Road, PA",
+  "locationCity": "Road",
+  "locationState": "PA",
+  "locationZipcode": "16428",
+  "lat": 42.1958505,
+  "lon": -79.827818,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.221Z"
+}

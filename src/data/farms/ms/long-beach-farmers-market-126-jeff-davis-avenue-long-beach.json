@@ -1,0 +1,19 @@
+{
+  "slug": "long-beach-farmers-market-126-jeff-davis-avenue-long-beach",
+  "name": "Long Beach Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "126 Jeff Davis Avenue Long Beach, MS",
+  "locationCity": "126 Jeff Davis Avenue Long Beach",
+  "locationState": "MS",
+  "locationZipcode": "39560",
+  "lat": 30.350039826818172,
+  "lon": -89.15109496694396,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:29.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:29.175Z"
+}

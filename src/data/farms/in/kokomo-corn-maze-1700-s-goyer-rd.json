@@ -1,0 +1,19 @@
+{
+  "slug": "kokomo-corn-maze-1700-s-goyer-rd",
+  "name": "Kokomo Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1700 S Goyer Rd, IN",
+  "locationCity": "1700 S Goyer Rd",
+  "locationState": "IN",
+  "locationZipcode": "46902",
+  "lat": 40.4672329968154,
+  "lon": -86.0960940206871,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.273Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.273Z"
+}

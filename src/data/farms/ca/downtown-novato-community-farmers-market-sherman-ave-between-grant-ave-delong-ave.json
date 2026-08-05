@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-novato-community-farmers-market-sherman-ave-between-grant-ave-delong-ave",
+  "name": "Downtown Novato Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Sherman Ave between Grant Ave & DeLong Ave, CA",
+  "locationCity": "Sherman Ave between Grant Ave & DeLong Ave",
+  "locationState": "CA",
+  "locationZipcode": "94947",
+  "lat": 38.107536,
+  "lon": -122.578749,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.409Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.409Z"
+}

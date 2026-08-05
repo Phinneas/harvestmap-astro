@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-hill-524-flat-top-egeria-road",
+  "name": "Blueberry Hill",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "524 Flat Top Egeria Road, WV",
+  "locationCity": "524 Flat Top Egeria Road",
+  "locationState": "WV",
+  "locationZipcode": "25841",
+  "lat": 37.5751947413647,
+  "lon": -81.1800898501712,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.908Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.908Z"
+}

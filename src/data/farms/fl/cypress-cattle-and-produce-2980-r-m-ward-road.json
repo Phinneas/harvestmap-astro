@@ -1,0 +1,19 @@
+{
+  "slug": "cypress-cattle-and-produce-2980-r-m-ward-road",
+  "name": "Cypress Cattle and Produce",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2980 R.M. Ward Road, FL",
+  "locationCity": "2980 R.M. Ward Road",
+  "locationState": "FL",
+  "locationZipcode": "32455",
+  "lat": 30.703488,
+  "lon": -85.875196,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:37.819Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:37.819Z"
+}

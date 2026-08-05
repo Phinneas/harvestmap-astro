@@ -1,0 +1,19 @@
+{
+  "slug": "sweet-briar-farm-348-peach-orchard-rd",
+  "name": "Sweet Briar Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "348 Peach Orchard Rd, FL",
+  "locationCity": "348 Peach Orchard Rd",
+  "locationState": "FL",
+  "locationZipcode": "34614",
+  "lat": 28.5921426206442,
+  "lon": -82.4724193918326,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.776Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.776Z"
+}

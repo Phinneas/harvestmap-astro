@@ -1,0 +1,19 @@
+{
+  "slug": "sailor-orchard-2139-mesa-road",
+  "name": "Sailor Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2139 Mesa Road, OK",
+  "locationCity": "2139 Mesa Road",
+  "locationState": "OK",
+  "locationZipcode": "73089",
+  "lat": 35.23506,
+  "lon": -97.73671,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.363Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:25.363Z"
+}

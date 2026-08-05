@@ -1,0 +1,19 @@
+{
+  "slug": "golden-acres-900-hwy-81-s",
+  "name": "Golden Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "900 Hwy 81 S, SC",
+  "locationCity": "900 Hwy 81 S",
+  "locationState": "SC",
+  "locationZipcode": "29684",
+  "lat": 34.3929793573377,
+  "lon": -82.6919368627733,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.744Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:49.744Z"
+}

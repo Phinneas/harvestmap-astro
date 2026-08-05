@@ -1,0 +1,19 @@
+{
+  "slug": "northville-farmers-market-162-south-main-st-northville",
+  "name": "Northville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "162 South Main St Northville, NY",
+  "locationCity": "162 South Main St Northville",
+  "locationState": "NY",
+  "locationZipcode": "12134",
+  "lat": 43.22520014349202,
+  "lon": -74.17157129955265,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

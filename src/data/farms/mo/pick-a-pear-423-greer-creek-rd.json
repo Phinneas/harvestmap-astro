@@ -1,0 +1,19 @@
+{
+  "slug": "pick-a-pear-423-greer-creek-rd",
+  "name": "Pick a Pear",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "423 Greer Creek Rd, MO",
+  "locationCity": "423 Greer Creek Rd",
+  "locationState": "MO",
+  "locationZipcode": "65706",
+  "lat": 37.3946098876652,
+  "lon": -92.9520251683541,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.756Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.756Z"
+}

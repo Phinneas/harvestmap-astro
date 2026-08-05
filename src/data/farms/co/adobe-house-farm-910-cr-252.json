@@ -1,0 +1,19 @@
+{
+  "slug": "adobe-house-farm-910-cr-252",
+  "name": "Adobe House Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "910 CR 252, CO",
+  "locationCity": "910 CR 252",
+  "locationState": "CO",
+  "locationZipcode": "81301",
+  "lat": 37.3844867,
+  "lon": -107.8360576,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:59.574Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:59.574Z"
+}

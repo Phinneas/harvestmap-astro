@@ -1,0 +1,20 @@
+{
+  "slug": "midway-farms-6980-nw-highway-20",
+  "name": "Midway Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "6980 NW Highway 20, OR",
+  "locationCity": "6980 NW Highway 20",
+  "locationState": "OR",
+  "locationZipcode": "97321",
+  "lat": 44.63689999870812,
+  "lon": -123.1785529959847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:06.522Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:06.522Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "laporte-farms-700-129th-street",
+  "name": "Laporte Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "700 129th Street, FL",
+  "locationCity": "700 129th Street",
+  "locationState": "FL",
+  "locationZipcode": "32958",
+  "lat": 27.8307432337111,
+  "lon": -80.4769204429965,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.834Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.834Z"
+}

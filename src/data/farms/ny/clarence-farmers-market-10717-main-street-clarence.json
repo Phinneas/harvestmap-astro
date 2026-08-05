@@ -1,0 +1,19 @@
+{
+  "slug": "clarence-farmers-market-10717-main-street-clarence",
+  "name": "Clarence Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "10717 Main Street Clarence, NY",
+  "locationCity": "10717 Main Street Clarence",
+  "locationState": "NY",
+  "locationZipcode": "10717",
+  "lat": 42.98086919298722,
+  "lon": -78.58827675411403,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

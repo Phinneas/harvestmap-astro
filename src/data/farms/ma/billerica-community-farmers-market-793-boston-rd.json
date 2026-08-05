@@ -1,0 +1,19 @@
+{
+  "slug": "billerica-community-farmers-market-793-boston-rd",
+  "name": "Billerica Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "793 Boston Rd, MA",
+  "locationCity": "793 Boston Rd",
+  "locationState": "MA",
+  "locationZipcode": "01821",
+  "lat": 42.5294469,
+  "lon": -71.22857789999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.964Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.964Z"
+}

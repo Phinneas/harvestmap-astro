@@ -1,0 +1,19 @@
+{
+  "slug": "browns-fresh-produce-304-brown-st",
+  "name": "Browns Fresh Produce",
+  "source": "usda",
+  "directory": "csa",
+  "location": "304 Brown St., IL",
+  "locationCity": "304 Brown St.",
+  "locationState": "IL",
+  "locationZipcode": "61701",
+  "lat": 40.4813573,
+  "lon": -89.0161755,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:48.468Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:48.468Z"
+}

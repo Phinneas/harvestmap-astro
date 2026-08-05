@@ -1,0 +1,19 @@
+{
+  "slug": "peak-season-csa-17017-peninsula-drive",
+  "name": "Peak Season CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "17017 Peninsula Drive, MI",
+  "locationCity": "17017 Peninsula Drive",
+  "locationState": "MI",
+  "locationZipcode": "17017",
+  "lat": 44.9358806,
+  "lon": -85.5159484,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.966Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.966Z"
+}

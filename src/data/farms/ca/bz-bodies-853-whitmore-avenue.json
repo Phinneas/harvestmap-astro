@@ -1,0 +1,19 @@
+{
+  "slug": "bz-bodies-853-whitmore-avenue",
+  "name": "BZ Bodies",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "853 Whitmore Avenue, CA",
+  "locationCity": "853 Whitmore Avenue",
+  "locationState": "CA",
+  "locationZipcode": "93619",
+  "lat": 36.8201849651353,
+  "lon": -119.654318447495,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.814Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.814Z"
+}

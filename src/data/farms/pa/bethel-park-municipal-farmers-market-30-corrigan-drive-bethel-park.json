@@ -1,0 +1,19 @@
+{
+  "slug": "bethel-park-municipal-farmers-market-30-corrigan-drive-bethel-park",
+  "name": "Bethel Park Municipal Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30 Corrigan Drive Bethel Park, PA",
+  "locationCity": "30 Corrigan Drive Bethel Park",
+  "locationState": "PA",
+  "locationZipcode": "15102",
+  "lat": 40.33004530852042,
+  "lon": -80.02148557604593,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

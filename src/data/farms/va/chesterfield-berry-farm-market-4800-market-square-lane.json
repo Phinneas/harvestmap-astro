@@ -1,0 +1,20 @@
+{
+  "slug": "chesterfield-berry-farm-market-4800-market-square-lane",
+  "name": "Chesterfield Berry Farm Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4800 Market Square Lane, VA",
+  "locationCity": "4800 Market Square Lane",
+  "locationState": "VA",
+  "locationZipcode": "23112",
+  "lat": 37.4239435,
+  "lon": -77.6380915,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.207Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.207Z",
+  "crops": []
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "fenton-s-produce-323-pratt-road",
+  "name": "Fenton's Produce",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "323 Pratt Road, NY",
+  "locationCity": "323 Pratt Road",
+  "locationState": "NY",
+  "locationZipcode": "14020",
+  "lat": 43.0124356110881,
+  "lon": -78.2829082034206,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.295Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.295Z"
+}

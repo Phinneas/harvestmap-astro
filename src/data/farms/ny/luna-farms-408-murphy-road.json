@@ -1,0 +1,19 @@
+{
+  "slug": "luna-farms-408-murphy-road",
+  "name": "Luna Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "408 Murphy Road, NY",
+  "locationCity": "408 Murphy Road",
+  "locationState": "NY",
+  "locationZipcode": "14108",
+  "lat": 43.2461701514386,
+  "lon": -78.6678111555281,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.303Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.303Z"
+}

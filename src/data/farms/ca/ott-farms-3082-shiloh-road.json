@@ -1,0 +1,19 @@
+{
+  "slug": "ott-farms-3082-shiloh-road",
+  "name": "Ott Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "3082 Shiloh Road, CA",
+  "locationCity": "3082 Shiloh Road",
+  "locationState": "CA",
+  "locationZipcode": "95358",
+  "lat": 37.59282524837578,
+  "lon": -121.13448860301624,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.958Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.958Z"
+}

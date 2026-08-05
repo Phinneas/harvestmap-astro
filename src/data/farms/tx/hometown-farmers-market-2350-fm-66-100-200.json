@@ -1,0 +1,19 @@
+{
+  "slug": "hometown-farmers-market-2350-fm-66-100-200",
+  "name": "Hometown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2350 FM 66 100 200, TX",
+  "locationCity": "2350 FM 66 100 200",
+  "locationState": "TX",
+  "locationZipcode": "75167",
+  "lat": 32.3647635,
+  "lon": -96.88775629999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.221Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.221Z"
+}

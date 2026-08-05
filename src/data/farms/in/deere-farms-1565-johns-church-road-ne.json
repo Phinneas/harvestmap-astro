@@ -1,0 +1,19 @@
+{
+  "slug": "deere-farms-1565-johns-church-road-ne",
+  "name": "Deere Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "1565 Johns Church Road Ne, IN",
+  "locationCity": "1565 Johns Church Road Ne",
+  "locationState": "IN",
+  "locationZipcode": "47136",
+  "lat": 38.2228177503707,
+  "lon": -85.9694701197131,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.257Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.257Z"
+}

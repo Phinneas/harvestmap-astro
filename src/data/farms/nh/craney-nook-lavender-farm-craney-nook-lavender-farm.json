@@ -1,0 +1,19 @@
+{
+  "slug": "craney-nook-lavender-farm-craney-nook-lavender-farm",
+  "name": "Craney Nook Lavender Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Craney Nook Lavender Farm, NH",
+  "locationCity": "Craney Nook Lavender Farm",
+  "locationState": "NH",
+  "locationZipcode": "03242",
+  "lat": 43.1713961,
+  "lon": -71.8206512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.969Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.969Z"
+}

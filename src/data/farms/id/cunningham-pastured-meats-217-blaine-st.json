@@ -1,0 +1,19 @@
+{
+  "slug": "cunningham-pastured-meats-217-blaine-st",
+  "name": "Cunningham Pastured Meats",
+  "source": "usda",
+  "directory": "csa",
+  "location": "217 Blaine St., ID",
+  "locationCity": "217 Blaine St.",
+  "locationState": "ID",
+  "locationZipcode": "83605",
+  "lat": 43.66897269788615,
+  "lon": -116.69425276885474,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:32.496Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:32.496Z"
+}

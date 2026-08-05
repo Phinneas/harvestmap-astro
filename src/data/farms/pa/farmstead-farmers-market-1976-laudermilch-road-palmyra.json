@@ -1,0 +1,19 @@
+{
+  "slug": "farmstead-farmers-market-1976-laudermilch-road-palmyra",
+  "name": "Farmstead Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1976 Laudermilch Road Palmyra, PA",
+  "locationCity": "1976 Laudermilch Road Palmyra",
+  "locationState": "PA",
+  "locationZipcode": "17078",
+  "lat": 40.36998753573572,
+  "lon": -76.65019221091568,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

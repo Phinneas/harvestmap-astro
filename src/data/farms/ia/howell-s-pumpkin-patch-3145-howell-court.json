@@ -1,0 +1,19 @@
+{
+  "slug": "howell-s-pumpkin-patch-3145-howell-court",
+  "name": "Howell's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3145 Howell Court, IA",
+  "locationCity": "3145 Howell Court",
+  "locationState": "IA",
+  "locationZipcode": "50061",
+  "lat": 41.459062007004,
+  "lon": -93.8331990101529,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.688Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.688Z"
+}

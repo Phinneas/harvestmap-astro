@@ -1,0 +1,19 @@
+{
+  "slug": "rivermede-farm-market-1925-rt-73",
+  "name": "Rivermede Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1925 Rt. 73, NY",
+  "locationCity": "1925 Rt. 73",
+  "locationState": "NY",
+  "locationZipcode": "12943",
+  "lat": 44.19936,
+  "lon": -73.786625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.797Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.797Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "sheils-farm-rt-34b",
+  "name": "Sheils Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Rt 34B, NY",
+  "locationCity": "Rt 34B",
+  "locationState": "NY",
+  "locationZipcode": "13081",
+  "lat": 42.6664599603337,
+  "lon": -76.6172310401812,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.040Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.040Z"
+}

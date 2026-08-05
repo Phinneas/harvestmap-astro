@@ -1,0 +1,19 @@
+{
+  "slug": "south-side-farmers-market-509-cedar-avenue-scranton",
+  "name": "South Side Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "509 Cedar Avenue Scranton, PA",
+  "locationCity": "509 Cedar Avenue Scranton",
+  "locationState": "PA",
+  "locationZipcode": "18505",
+  "lat": 41.40106503006951,
+  "lon": -75.66604680867482,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.068Z"
+}

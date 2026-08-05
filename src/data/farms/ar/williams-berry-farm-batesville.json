@@ -1,0 +1,19 @@
+{
+  "slug": "williams-berry-farm-batesville",
+  "name": "Williams Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Batesville, AR",
+  "locationCity": "Batesville",
+  "locationState": "AR",
+  "locationZipcode": "72501",
+  "lat": 35.7720745,
+  "lon": -91.639573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.057Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:24.057Z"
+}

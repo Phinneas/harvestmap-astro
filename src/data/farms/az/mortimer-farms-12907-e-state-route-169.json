@@ -1,0 +1,19 @@
+{
+  "slug": "mortimer-farms-12907-e-state-route-169",
+  "name": "Mortimer Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "12907 E State Route 169, AZ",
+  "locationCity": "12907 E State Route 169",
+  "locationState": "AZ",
+  "locationZipcode": "12907",
+  "lat": 34.52919393057432,
+  "lon": -112.23898440238041,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:18.721Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:18.721Z"
+}

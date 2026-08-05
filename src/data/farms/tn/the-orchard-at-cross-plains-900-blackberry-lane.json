@@ -1,0 +1,19 @@
+{
+  "slug": "the-orchard-at-cross-plains-900-blackberry-lane",
+  "name": "The Orchard at Cross Plains",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "900 Blackberry Lane, TN",
+  "locationCity": "900 Blackberry Lane",
+  "locationState": "TN",
+  "locationZipcode": "37049",
+  "lat": 36.5477625443787,
+  "lon": -86.7480844759769,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.354Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.354Z"
+}

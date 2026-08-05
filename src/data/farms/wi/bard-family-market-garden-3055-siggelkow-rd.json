@@ -1,0 +1,19 @@
+{
+  "slug": "bard-family-market-garden-3055-siggelkow-rd",
+  "name": "Bard Family Market Garden",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3055 Siggelkow Rd, WI",
+  "locationCity": "3055 Siggelkow Rd",
+  "locationState": "WI",
+  "locationZipcode": "53589",
+  "lat": 43.0272709,
+  "lon": -89.2414306,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:11.986Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:11.986Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "stockton-community-kitchen-international-food-hub-110-n-el-dorado-street",
+  "name": "Stockton Community Kitchen International Food Hub",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "110 N. El Dorado Street, CA",
+  "locationCity": "110 N. El Dorado Street",
+  "locationState": "CA",
+  "locationZipcode": "95202",
+  "lat": 37.954143000745276,
+  "lon": -121.28950000800634,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:42.243Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:42.243Z"
+}

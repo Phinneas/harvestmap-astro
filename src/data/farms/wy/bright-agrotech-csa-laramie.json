@@ -1,0 +1,19 @@
+{
+  "slug": "bright-agrotech-csa-laramie",
+  "name": "Bright Agrotech CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "Laramie, WY",
+  "locationCity": "Laramie",
+  "locationState": "WY",
+  "locationZipcode": "82072",
+  "lat": 41.3113669,
+  "lon": -105.5911007,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.150Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.150Z"
+}

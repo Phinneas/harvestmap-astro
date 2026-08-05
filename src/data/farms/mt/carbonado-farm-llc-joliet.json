@@ -1,0 +1,19 @@
+{
+  "slug": "carbonado-farm-llc-joliet",
+  "name": "Carbonado Farm LLC",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Joliet, MT",
+  "locationCity": "Joliet",
+  "locationState": "MT",
+  "locationZipcode": "59041",
+  "lat": 45.46455,
+  "lon": -109.009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:27.105Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:27.105Z"
+}

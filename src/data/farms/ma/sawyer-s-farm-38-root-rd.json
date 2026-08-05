@@ -1,0 +1,20 @@
+{
+  "slug": "sawyer-s-farm-38-root-rd",
+  "name": "Sawyer's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "38 Root Rd, MA",
+  "locationCity": "38 Root Rd",
+  "locationState": "MA",
+  "locationZipcode": "01452",
+  "lat": 42.4975284293748,
+  "lon": -72.0649405718152,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.564Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.564Z",
+  "crops": []
+}

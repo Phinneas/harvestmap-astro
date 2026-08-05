@@ -1,0 +1,19 @@
+{
+  "slug": "atlantic-farmers-market-1200-7th-street-e-atlantic",
+  "name": "Atlantic Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1200 7th Street E. Atlantic, IA",
+  "locationCity": "1200 7th Street E. Atlantic",
+  "locationState": "IA",
+  "locationZipcode": "50022",
+  "lat": 41.393387808764636,
+  "lon": -95.03640098175283,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

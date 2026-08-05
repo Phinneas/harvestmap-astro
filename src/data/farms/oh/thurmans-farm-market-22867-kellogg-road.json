@@ -1,0 +1,19 @@
+{
+  "slug": "thurmans-farm-market-22867-kellogg-road",
+  "name": "Thurmans' Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "22867 Kellogg Road, OH",
+  "locationCity": "22867 Kellogg Road",
+  "locationState": "OH",
+  "locationZipcode": "22867",
+  "lat": 41.415294,
+  "lon": -83.842096,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.277Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.277Z"
+}

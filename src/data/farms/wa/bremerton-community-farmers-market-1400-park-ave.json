@@ -1,0 +1,19 @@
+{
+  "slug": "bremerton-community-farmers-market-1400-park-ave",
+  "name": "Bremerton Community Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1400 Park Ave, WA",
+  "locationCity": "1400 Park Ave",
+  "locationState": "WA",
+  "locationZipcode": "98337",
+  "lat": 47.574253,
+  "lon": -122.62886,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:20.720Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:20.720Z"
+}

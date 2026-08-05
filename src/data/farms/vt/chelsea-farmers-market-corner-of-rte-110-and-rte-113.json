@@ -1,0 +1,19 @@
+{
+  "slug": "chelsea-farmers-market-corner-of-rte-110-and-rte-113",
+  "name": "Chelsea Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Corner of Rte 110 and Rte 113, VT",
+  "locationCity": "Corner of Rte 110 and Rte 113",
+  "locationState": "VT",
+  "locationZipcode": "05038",
+  "lat": 43.98878,
+  "lon": -72.44747,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:45.092Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:45.092Z"
+}

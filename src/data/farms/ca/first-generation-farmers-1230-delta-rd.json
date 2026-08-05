@@ -1,0 +1,19 @@
+{
+  "slug": "first-generation-farmers-1230-delta-rd",
+  "name": "First Generation Farmers",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1230 Delta Rd, CA",
+  "locationCity": "1230 Delta Rd",
+  "locationState": "CA",
+  "locationZipcode": "94548",
+  "lat": 37.969019,
+  "lon": -121.67104,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.944Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.944Z"
+}

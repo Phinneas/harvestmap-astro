@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-at-the-cibolo-33-herff-road-boerne",
+  "name": "Farmers Market at the Cibolo",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "33 Herff Road Boerne, TX",
+  "locationCity": "33 Herff Road Boerne",
+  "locationState": "TX",
+  "locationZipcode": "78006",
+  "lat": 29.786802021522014,
+  "lon": -98.71777220049619,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.199Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.199Z"
+}

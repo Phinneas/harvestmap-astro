@@ -1,0 +1,19 @@
+{
+  "slug": "farmers-market-ogden-historic-25th-street-and-grant-avenue",
+  "name": "Farmers Market Ogden",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Historic 25th Street and Grant Avenue, UT",
+  "locationCity": "Historic 25th Street and Grant Avenue",
+  "locationState": "UT",
+  "locationZipcode": "84401",
+  "lat": 41.220677,
+  "lon": -111.97327,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:23.453Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:23.453Z"
+}

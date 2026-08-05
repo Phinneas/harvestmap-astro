@@ -1,0 +1,19 @@
+{
+  "slug": "south-st-paul-farmers-market-12th-ave-n",
+  "name": "South St. Paul Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "12th Ave N, MN",
+  "locationCity": "12th Ave N",
+  "locationState": "MN",
+  "locationZipcode": "55075",
+  "lat": 44.8965986,
+  "lon": -93.0487486,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.750Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.750Z"
+}

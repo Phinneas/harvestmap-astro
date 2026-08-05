@@ -1,0 +1,19 @@
+{
+  "slug": "south-elm-urban-market-340-south-elm-street-greensboro",
+  "name": "South Elm Urban Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "340 South Elm Street Greensboro, NC",
+  "locationCity": "340 South Elm Street Greensboro",
+  "locationState": "NC",
+  "locationZipcode": "27401",
+  "lat": 36.06886776026818,
+  "lon": -79.79057667842353,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.327Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.327Z"
+}

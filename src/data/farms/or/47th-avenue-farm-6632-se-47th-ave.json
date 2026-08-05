@@ -1,0 +1,19 @@
+{
+  "slug": "47th-avenue-farm-6632-se-47th-ave",
+  "name": "47th Avenue Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6632 SE 47th Ave., OR",
+  "locationCity": "6632 SE 47th Ave.",
+  "locationState": "OR",
+  "locationZipcode": "97206",
+  "lat": 45.47477109146993,
+  "lon": -122.61421705717882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:59.971Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:59.971Z"
+}

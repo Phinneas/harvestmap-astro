@@ -1,0 +1,19 @@
+{
+  "slug": "local-kerrville-farmers-market-945-barnett-street-kerrville",
+  "name": "Local Kerrville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "945 Barnett Street Kerrville, TX",
+  "locationCity": "945 Barnett Street Kerrville",
+  "locationState": "TX",
+  "locationZipcode": "78028",
+  "lat": 30.047486645273228,
+  "lon": -99.13333866580541,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

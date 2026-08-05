@@ -1,0 +1,19 @@
+{
+  "slug": "glencoe-201-w-chastain-blvd-west",
+  "name": "GLENCOE",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "201  W CHASTAIN BLVD. WEST, AL",
+  "locationCity": "201  W CHASTAIN BLVD. WEST",
+  "locationState": "AL",
+  "locationZipcode": "35905",
+  "lat": 33.957828,
+  "lon": -85.934714,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:48.978Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:48.978Z"
+}

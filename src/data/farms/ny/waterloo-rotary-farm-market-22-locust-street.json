@@ -1,0 +1,19 @@
+{
+  "slug": "waterloo-rotary-farm-market-22-locust-street",
+  "name": "Waterloo Rotary Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "22 Locust Street, NY",
+  "locationCity": "22 Locust Street",
+  "locationState": "NY",
+  "locationZipcode": "13165",
+  "lat": 42.903737,
+  "lon": -76.865814,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.903Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.903Z"
+}

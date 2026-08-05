@@ -1,0 +1,19 @@
+{
+  "slug": "giles-farm-shearer-road",
+  "name": "Giles Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Shearer Road, OR",
+  "locationCity": "Shearer Road",
+  "locationState": "OR",
+  "locationZipcode": "97116",
+  "lat": 45.6063909407058,
+  "lon": -123.205045594945,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.051Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.051Z"
+}

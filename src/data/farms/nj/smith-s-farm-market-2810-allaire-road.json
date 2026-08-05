@@ -1,0 +1,19 @@
+{
+  "slug": "smith-s-farm-market-2810-allaire-road",
+  "name": "Smith's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2810 Allaire Road, NJ",
+  "locationCity": "2810 Allaire Road",
+  "locationState": "NJ",
+  "locationZipcode": "07719",
+  "lat": 40.15253301716993,
+  "lon": -74.07351597867604,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:24.780Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:24.780Z"
+}

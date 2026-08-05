@@ -1,0 +1,19 @@
+{
+  "slug": "puffenbargers-sugar-orchard-17-maple-syrup-lane",
+  "name": "Puffenbargers Sugar Orchard",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "17 Maple Syrup Lane, VA",
+  "locationCity": "17 Maple Syrup Lane",
+  "locationState": "VA",
+  "locationZipcode": "24413",
+  "lat": 38.459176,
+  "lon": -79.557554,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:07.191Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:07.191Z"
+}

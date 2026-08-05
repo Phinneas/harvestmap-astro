@@ -1,0 +1,19 @@
+{
+  "slug": "pastorino-farms-12391-san-mateo-road-highway-92",
+  "name": "Pastorino Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "12391 San Mateo Road (Highway 92), CA",
+  "locationCity": "12391 San Mateo Road (Highway 92)",
+  "locationState": "CA",
+  "locationZipcode": "12391",
+  "lat": 37.478622001353,
+  "lon": -122.407228975746,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.784Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.784Z"
+}

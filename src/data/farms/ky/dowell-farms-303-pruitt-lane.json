@@ -1,0 +1,20 @@
+{
+  "slug": "dowell-farms-303-pruitt-lane",
+  "name": "Dowell Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "303 Pruitt Lane, KY",
+  "locationCity": "303 Pruitt Lane",
+  "locationState": "KY",
+  "locationZipcode": "42164",
+  "lat": 36.7971729798229,
+  "lon": -86.1807020409874,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.537Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.537Z",
+  "crops": []
+}

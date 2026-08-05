@@ -1,0 +1,19 @@
+{
+  "slug": "grange-fruit-farm-724-grange-ave",
+  "name": "Grange Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "724 Grange Ave, MI",
+  "locationCity": "724 Grange Ave",
+  "locationState": "MI",
+  "locationZipcode": "49341",
+  "lat": 43.1472447488635,
+  "lon": -85.6259794252197,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.573Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.573Z"
+}

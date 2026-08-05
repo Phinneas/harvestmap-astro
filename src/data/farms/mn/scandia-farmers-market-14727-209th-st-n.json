@@ -1,0 +1,19 @@
+{
+  "slug": "scandia-farmers-market-14727-209th-st-n",
+  "name": "Scandia Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "14727 209th St N, MN",
+  "locationCity": "14727 209th St N",
+  "locationState": "MN",
+  "locationZipcode": "14727",
+  "lat": 45.250624,
+  "lon": -92.80663,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:12.747Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:12.747Z"
+}

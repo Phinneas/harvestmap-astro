@@ -1,0 +1,19 @@
+{
+  "slug": "cave-hill-farms-001-jacob-burner-road",
+  "name": "Cave Hill Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "001 Jacob Burner Road, VA",
+  "locationCity": "001 Jacob Burner Road",
+  "locationState": "VA",
+  "locationZipcode": "22840",
+  "lat": 38.3660100075187,
+  "lon": -78.7227610099566,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.116Z"
+}

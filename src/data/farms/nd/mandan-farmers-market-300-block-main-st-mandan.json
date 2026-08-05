@@ -1,0 +1,19 @@
+{
+  "slug": "mandan-farmers-market-300-block-main-st-mandan",
+  "name": "Mandan Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "300 block Main St Mandan, ND",
+  "locationCity": "300 block Main St Mandan",
+  "locationState": "ND",
+  "locationZipcode": "58554",
+  "lat": 46.82601980924271,
+  "lon": -100.89275363466926,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:01.377Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:01.377Z"
+}

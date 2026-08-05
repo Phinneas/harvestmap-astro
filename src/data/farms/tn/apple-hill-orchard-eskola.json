@@ -1,0 +1,19 @@
+{
+  "slug": "apple-hill-orchard-eskola",
+  "name": "Apple Hill Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Eskola, TN",
+  "locationCity": "Eskola",
+  "locationState": "TN",
+  "locationZipcode": "37881",
+  "lat": 36.4112859037798,
+  "lon": -83.2464677980009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.151Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.151Z"
+}

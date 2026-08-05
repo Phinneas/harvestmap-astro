@@ -1,0 +1,19 @@
+{
+  "slug": "the-general-store-116-fayette-street",
+  "name": "The General Store",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "116 Fayette Street, NY",
+  "locationCity": "116 Fayette Street",
+  "locationState": "NY",
+  "locationZipcode": "13104",
+  "lat": 43.0023400000001,
+  "lon": -75.9804,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.371Z"
+}

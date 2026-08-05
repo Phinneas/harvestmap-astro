@@ -1,0 +1,19 @@
+{
+  "slug": "connecticut-valley-farmers-market-i-18-hartford-avenue-granby",
+  "name": "Connecticut Valley Farmers Market I",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "18 Hartford Avenue Granby, CT",
+  "locationCity": "18 Hartford Avenue Granby",
+  "locationState": "CT",
+  "locationZipcode": "06035",
+  "lat": 41.952709131917906,
+  "lon": -72.78858703863851,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

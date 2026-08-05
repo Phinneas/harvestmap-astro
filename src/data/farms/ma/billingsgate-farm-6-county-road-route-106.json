@@ -1,0 +1,20 @@
+{
+  "slug": "billingsgate-farm-6-county-road-route-106",
+  "name": "Billingsgate Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "6 County Road Route 106, MA",
+  "locationCity": "6 County Road Route 106",
+  "locationState": "MA",
+  "locationZipcode": "02367",
+  "lat": 41.9924307960376,
+  "lon": -70.8195312528202,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.707Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.707Z",
+  "crops": []
+}

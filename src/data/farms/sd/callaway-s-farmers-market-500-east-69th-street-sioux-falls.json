@@ -1,0 +1,19 @@
+{
+  "slug": "callaway-s-farmers-market-500-east-69th-street-sioux-falls",
+  "name": "Callaway's Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 East 69th Street Sioux Falls, SD",
+  "locationCity": "500 East 69th Street Sioux Falls",
+  "locationState": "SD",
+  "locationZipcode": "57108",
+  "lat": 43.489592697225504,
+  "lon": -96.73326210096177,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:14.872Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:14.872Z"
+}

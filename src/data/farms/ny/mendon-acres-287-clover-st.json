@@ -1,0 +1,19 @@
+{
+  "slug": "mendon-acres-287-clover-st",
+  "name": "Mendon Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "287 Clover St, NY",
+  "locationCity": "287 Clover St",
+  "locationState": "NY",
+  "locationZipcode": "14472",
+  "lat": 43.0074981964785,
+  "lon": -77.5794201352959,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.378Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:09.378Z"
+}

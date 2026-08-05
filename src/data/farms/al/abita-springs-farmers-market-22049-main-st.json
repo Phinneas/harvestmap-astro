@@ -1,0 +1,19 @@
+{
+  "slug": "abita-springs-farmers-market-22049-main-st",
+  "name": "Abita Springs Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "22049 Main St., AL",
+  "locationCity": "22049 Main St.",
+  "locationState": "AL",
+  "locationZipcode": "22049",
+  "lat": 30.479314194622727,
+  "lon": -90.03899626663289,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:49.017Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:35:49.017Z"
+}

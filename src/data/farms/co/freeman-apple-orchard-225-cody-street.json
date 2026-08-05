@@ -1,0 +1,19 @@
+{
+  "slug": "freeman-apple-orchard-225-cody-street",
+  "name": "Freeman Apple Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "225 Cody Street, CO",
+  "locationCity": "225 Cody Street",
+  "locationState": "CO",
+  "locationZipcode": "80215",
+  "lat": 39.7124635893198,
+  "lon": -105.092175648009,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:57.264Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:57.264Z"
+}

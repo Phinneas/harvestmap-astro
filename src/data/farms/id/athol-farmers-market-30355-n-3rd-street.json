@@ -1,0 +1,19 @@
+{
+  "slug": "athol-farmers-market-30355-n-3rd-street",
+  "name": "Athol Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "30355 N 3rd Street, ID",
+  "locationCity": "30355 N 3rd Street",
+  "locationState": "ID",
+  "locationZipcode": "30355",
+  "lat": 47.944594,
+  "lon": -116.7079,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:36.217Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:36.217Z"
+}

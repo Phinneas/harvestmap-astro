@@ -1,0 +1,19 @@
+{
+  "slug": "still-waters-farm-891-treeline-lane",
+  "name": "Still Waters Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "891 Treeline Lane, MO",
+  "locationCity": "891 Treeline Lane",
+  "locationState": "MO",
+  "locationZipcode": "65556",
+  "lat": 37.75587328649,
+  "lon": -92.4630099686156,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.749Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.749Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "south-berkeley-farmers-market-adeline-at-63rd-street",
+  "name": "South Berkeley Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Adeline at 63rd Street, CA",
+  "locationCity": "Adeline at 63rd Street",
+  "locationState": "CA",
+  "locationZipcode": "94703",
+  "lat": 37.847765,
+  "lon": -122.27193,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.351Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.351Z"
+}

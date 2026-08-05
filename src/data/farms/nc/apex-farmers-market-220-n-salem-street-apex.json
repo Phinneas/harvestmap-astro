@@ -1,0 +1,19 @@
+{
+  "slug": "apex-farmers-market-220-n-salem-street-apex",
+  "name": "Apex Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "220 N. Salem Street Apex, NC",
+  "locationCity": "220 N. Salem Street Apex",
+  "locationState": "NC",
+  "locationZipcode": "27502",
+  "lat": 35.732155364297114,
+  "lon": -78.85057526573287,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.325Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.325Z"
+}

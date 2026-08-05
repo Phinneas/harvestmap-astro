@@ -1,0 +1,19 @@
+{
+  "slug": "firth-s-fruit-farm-26-intervale-road",
+  "name": "Firth's Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "26 Intervale Road, ME",
+  "locationCity": "26 Intervale Road",
+  "locationState": "ME",
+  "locationZipcode": "04955",
+  "lat": 44.6183679879729,
+  "lon": -70.0376964034688,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.917Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:51.917Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "easley-farmers-market-205-n-1st-st-easley",
+  "name": "Easley Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "205 N. 1st St. Easley, SC",
+  "locationCity": "205 N. 1st St. Easley",
+  "locationState": "SC",
+  "locationZipcode": "29640",
+  "lat": 34.8309441610452,
+  "lon": -82.60493212162045,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.194Z"
+}

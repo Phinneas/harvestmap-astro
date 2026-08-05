@@ -1,0 +1,19 @@
+{
+  "slug": "irrigon-farmers-market-500-ne-main-ave",
+  "name": "Irrigon Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "500 NE Main Ave, OR",
+  "locationCity": "500 NE Main Ave",
+  "locationState": "OR",
+  "locationZipcode": "97844",
+  "lat": 45.895249086151274,
+  "lon": -119.49451422430725,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.426Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.426Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "needle-lane-farms-6376-tipton-hwy",
+  "name": "Needle-Lane Farms",
+  "source": "usda",
+  "directory": "csa",
+  "location": "6376 Tipton Hwy, MI",
+  "locationCity": "6376 Tipton Hwy",
+  "locationState": "MI",
+  "locationZipcode": "49287",
+  "lat": 41.973639,
+  "lon": -84.0679,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:40.966Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:40.966Z"
+}

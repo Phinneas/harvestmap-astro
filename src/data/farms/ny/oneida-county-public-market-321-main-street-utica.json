@@ -1,0 +1,20 @@
+{
+  "slug": "oneida-county-public-market-321-main-street-utica",
+  "name": "Oneida County Public Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "321 Main Street Utica, NY",
+  "locationCity": "321 Main Street Utica",
+  "locationState": "NY",
+  "locationZipcode": "13501",
+  "lat": 43.10389442516073,
+  "lon": -75.22381452221418,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z",
+  "crops": []
+}

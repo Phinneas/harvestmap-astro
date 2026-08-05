@@ -1,0 +1,19 @@
+{
+  "slug": "farren-farms-us-231",
+  "name": "Farren Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "US 231, FL",
+  "locationCity": "US 231",
+  "locationState": "FL",
+  "locationZipcode": "32431",
+  "lat": 30.8091716153499,
+  "lon": -85.376144202105,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.890Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:24.890Z"
+}

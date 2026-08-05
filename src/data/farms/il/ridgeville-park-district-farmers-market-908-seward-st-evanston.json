@@ -1,0 +1,19 @@
+{
+  "slug": "ridgeville-park-district-farmers-market-908-seward-st-evanston",
+  "name": "Ridgeville Park District Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "908 Seward St. Evanston, IL",
+  "locationCity": "908 Seward St. Evanston",
+  "locationState": "IL",
+  "locationZipcode": "60202",
+  "lat": 42.02880599352024,
+  "lon": -87.68496528585173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

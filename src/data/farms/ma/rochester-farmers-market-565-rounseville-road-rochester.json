@@ -1,0 +1,19 @@
+{
+  "slug": "rochester-farmers-market-565-rounseville-road-rochester",
+  "name": "Rochester Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "565 Rounseville Road Rochester, MA",
+  "locationCity": "565 Rounseville Road Rochester",
+  "locationState": "MA",
+  "locationZipcode": "02770",
+  "lat": 41.73242283814472,
+  "lon": -70.82217694279932,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:27.867Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:27.867Z"
+}

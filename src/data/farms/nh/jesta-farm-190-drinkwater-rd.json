@@ -1,0 +1,19 @@
+{
+  "slug": "jesta-farm-190-drinkwater-rd",
+  "name": "Jesta Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "190 Drinkwater Rd., NH",
+  "locationCity": "190 Drinkwater Rd.",
+  "locationState": "NH",
+  "locationZipcode": "03844",
+  "lat": 42.93534000075206,
+  "lon": -70.91792498292305,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.802Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:55.802Z"
+}

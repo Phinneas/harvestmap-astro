@@ -1,0 +1,19 @@
+{
+  "slug": "elk-grove-farmers-market-1260-leeds-lane-elk-grove-village",
+  "name": "Elk Grove Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1260 Leeds Lane Elk Grove Village, IL",
+  "locationCity": "1260 Leeds Lane Elk Grove Village",
+  "locationState": "IL",
+  "locationZipcode": "60007",
+  "lat": 41.99431028272797,
+  "lon": -88.01351057125902,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.972Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.972Z"
+}

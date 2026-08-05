@@ -1,0 +1,19 @@
+{
+  "slug": "ward-s-pumpkin-patch-552-rte-17-north",
+  "name": "Ward's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "552 Rte 17 North, NJ",
+  "locationCity": "552 Rte 17 North",
+  "locationState": "NJ",
+  "locationZipcode": "07450",
+  "lat": 40.9905750169375,
+  "lon": -74.094205030284,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.812Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.812Z"
+}

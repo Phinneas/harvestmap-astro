@@ -1,0 +1,19 @@
+{
+  "slug": "out-to-pasture-beef-e13240-e-hillsdale-dr",
+  "name": "Out to Pasture Beef",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "E13240 E Hillsdale Dr, WI",
+  "locationCity": "E13240 E Hillsdale Dr",
+  "locationState": "WI",
+  "locationZipcode": "54742",
+  "lat": 44.690853,
+  "lon": -91.261903,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:17.395Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:17.395Z"
+}

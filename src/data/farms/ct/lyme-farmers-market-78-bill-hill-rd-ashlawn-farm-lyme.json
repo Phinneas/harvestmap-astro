@@ -1,0 +1,19 @@
+{
+  "slug": "lyme-farmers-market-78-bill-hill-rd-ashlawn-farm-lyme",
+  "name": "Lyme Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "78 Bill Hill Rd (Ashlawn Farm) Lyme, CT",
+  "locationCity": "78 Bill Hill Rd (Ashlawn Farm) Lyme",
+  "locationState": "CT",
+  "locationZipcode": "06371",
+  "lat": 41.361875215834786,
+  "lon": -72.33472299907292,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

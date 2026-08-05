@@ -1,0 +1,19 @@
+{
+  "slug": "blueberry-lane-farms-13240-blueberry-lane",
+  "name": "Blueberry Lane Farms",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "13240 Blueberry Lane, MI",
+  "locationCity": "13240 Blueberry Lane",
+  "locationState": "MI",
+  "locationZipcode": "13240",
+  "lat": 43.198361,
+  "lon": -83.470335,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.148Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:46.148Z"
+}

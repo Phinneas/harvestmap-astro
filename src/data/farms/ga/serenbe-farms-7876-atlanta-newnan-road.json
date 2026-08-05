@@ -1,0 +1,19 @@
+{
+  "slug": "serenbe-farms-7876-atlanta-newnan-road",
+  "name": "Serenbe Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "7876 Atlanta-Newnan Road, GA",
+  "locationCity": "7876 Atlanta-Newnan Road",
+  "locationState": "GA",
+  "locationZipcode": "30268",
+  "lat": 33.5409459225412,
+  "lon": -84.7250449945976,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.363Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.363Z"
+}

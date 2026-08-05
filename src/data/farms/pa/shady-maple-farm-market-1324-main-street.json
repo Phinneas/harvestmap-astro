@@ -1,0 +1,19 @@
+{
+  "slug": "shady-maple-farm-market-1324-main-street",
+  "name": "Shady Maple Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "1324 Main Street, PA",
+  "locationCity": "1324 Main Street",
+  "locationState": "PA",
+  "locationZipcode": "17519",
+  "lat": 40.12069599242912,
+  "lon": -76.03239097447711,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.449Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.449Z"
+}

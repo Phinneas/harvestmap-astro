@@ -1,0 +1,19 @@
+{
+  "slug": "morgan-orchard-2037-neff-orchard-road",
+  "name": "Morgan Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2037 Neff Orchard Road, WV",
+  "locationCity": "2037 Neff Orchard Road",
+  "locationState": "WV",
+  "locationZipcode": "24976",
+  "lat": 37.676539970559,
+  "lon": -80.5044237762914,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:31.861Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:31.861Z"
+}

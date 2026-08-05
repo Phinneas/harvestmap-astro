@@ -1,0 +1,19 @@
+{
+  "slug": "overlook-farm-market-route-9w",
+  "name": "Overlook Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "Route 9W, NY",
+  "locationCity": "Route 9W",
+  "locationState": "NY",
+  "locationZipcode": "12550",
+  "lat": 41.57752211792195,
+  "lon": -73.99048813552129,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.828Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:17.828Z"
+}

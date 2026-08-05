@@ -1,0 +1,20 @@
+{
+  "slug": "pearson-farm-5575-zenith-mill-rd",
+  "name": "Pearson Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5575 Zenith Mill Rd, GA",
+  "locationCity": "5575 Zenith Mill Rd",
+  "locationState": "GA",
+  "locationZipcode": "31030",
+  "lat": 32.6119572408369,
+  "lon": -83.9708727322652,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.349Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.349Z",
+  "crops": []
+}

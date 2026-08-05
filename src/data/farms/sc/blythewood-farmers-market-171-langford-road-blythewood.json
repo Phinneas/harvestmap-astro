@@ -1,0 +1,20 @@
+{
+  "slug": "blythewood-farmers-market-171-langford-road-blythewood",
+  "name": "Blythewood Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "171 Langford Road Blythewood, SC",
+  "locationCity": "171 Langford Road Blythewood",
+  "locationState": "SC",
+  "locationZipcode": "29016",
+  "lat": 34.214482634235445,
+  "lon": -80.97112052681392,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.194Z",
+  "crops": []
+}

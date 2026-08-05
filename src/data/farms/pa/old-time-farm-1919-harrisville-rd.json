@@ -1,0 +1,20 @@
+{
+  "slug": "old-time-farm-1919-harrisville-rd",
+  "name": "Old Time Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1919 Harrisville Rd, PA",
+  "locationCity": "1919 Harrisville Rd",
+  "locationState": "PA",
+  "locationZipcode": "16153",
+  "lat": 41.2895447,
+  "lon": -80.046143,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:16.577Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:16.577Z",
+  "crops": []
+}

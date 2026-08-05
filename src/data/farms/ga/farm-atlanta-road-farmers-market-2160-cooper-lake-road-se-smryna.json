@@ -1,0 +1,19 @@
+{
+  "slug": "farm-atlanta-road-farmers-market-2160-cooper-lake-road-se-smryna",
+  "name": "FARM Atlanta Road Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2160 Cooper Lake Road SE Smryna, GA",
+  "locationCity": "2160 Cooper Lake Road SE Smryna",
+  "locationState": "GA",
+  "locationZipcode": "30080",
+  "lat": 33.854418102601464,
+  "lon": -84.49772954210249,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

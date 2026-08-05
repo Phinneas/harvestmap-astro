@@ -1,0 +1,19 @@
+{
+  "slug": "south-sumter-farmers-market-327-manning-avenue-sumter",
+  "name": "South Sumter Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "327 Manning Avenue Sumter, SC",
+  "locationCity": "327 Manning Avenue Sumter",
+  "locationState": "SC",
+  "locationZipcode": "29151",
+  "lat": 33.91034479501787,
+  "lon": -80.34116150125787,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

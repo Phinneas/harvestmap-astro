@@ -1,0 +1,19 @@
+{
+  "slug": "prescott-farm-226-gus-perdue-rd",
+  "name": "Prescott Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "226 Gus Perdue Rd, GA",
+  "locationCity": "226 Gus Perdue Rd",
+  "locationState": "GA",
+  "locationZipcode": "30833",
+  "lat": 33.2386357508548,
+  "lon": -82.3650090583995,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.310Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:48.310Z"
+}

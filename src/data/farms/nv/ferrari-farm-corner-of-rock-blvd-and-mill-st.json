@@ -1,0 +1,19 @@
+{
+  "slug": "ferrari-farm-corner-of-rock-blvd-and-mill-st",
+  "name": "Ferrari Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Corner of Rock Blvd and Mill St, NV",
+  "locationCity": "Corner of Rock Blvd and Mill St",
+  "locationState": "NV",
+  "locationZipcode": "89506",
+  "lat": 39.5159400019403,
+  "lon": -119.761739987769,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:11.179Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:11.179Z"
+}

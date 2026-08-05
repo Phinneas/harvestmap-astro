@@ -1,0 +1,19 @@
+{
+  "slug": "schartner-farms-211-west-berlin-road",
+  "name": "Schartner Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "211 West Berlin Road, MA",
+  "locationCity": "211 West Berlin Road",
+  "locationState": "MA",
+  "locationZipcode": "01740",
+  "lat": 42.415501909524,
+  "lon": -71.6359210720453,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.636Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.636Z"
+}

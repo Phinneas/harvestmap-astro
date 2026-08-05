@@ -1,0 +1,19 @@
+{
+  "slug": "brookfield-ct-farmers-market-100-pocono-rd",
+  "name": "Brookfield CT Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 Pocono Rd, CT",
+  "locationCity": "100 Pocono Rd",
+  "locationState": "CT",
+  "locationZipcode": "06804",
+  "lat": 41.46625590000001,
+  "lon": -73.39887279999999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.652Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.652Z"
+}

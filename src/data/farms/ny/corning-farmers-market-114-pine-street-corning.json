@@ -1,0 +1,19 @@
+{
+  "slug": "corning-farmers-market-114-pine-street-corning",
+  "name": "Corning Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "114 Pine Street Corning, NY",
+  "locationCity": "114 Pine Street Corning",
+  "locationState": "NY",
+  "locationZipcode": "14830",
+  "lat": 42.142038994881595,
+  "lon": -77.05493821595422,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

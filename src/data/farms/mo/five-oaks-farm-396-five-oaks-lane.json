@@ -1,0 +1,19 @@
+{
+  "slug": "five-oaks-farm-396-five-oaks-lane",
+  "name": "Five Oaks Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "396 Five Oaks Lane, MO",
+  "locationCity": "396 Five Oaks Lane",
+  "locationState": "MO",
+  "locationZipcode": "64037",
+  "lat": 39.0308093669251,
+  "lon": -93.7327921851092,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.711Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.711Z"
+}

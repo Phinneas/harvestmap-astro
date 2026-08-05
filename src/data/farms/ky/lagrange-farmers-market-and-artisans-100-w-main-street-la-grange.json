@@ -1,0 +1,19 @@
+{
+  "slug": "lagrange-farmers-market-and-artisans-100-w-main-street-la-grange",
+  "name": "LaGrange Farmers' Market and Artisans",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "100 W. Main Street La Grange, KY",
+  "locationCity": "100 W. Main Street La Grange",
+  "locationState": "KY",
+  "locationZipcode": "40031",
+  "lat": 38.40752495895631,
+  "lon": -85.37889092005221,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.774Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.774Z"
+}

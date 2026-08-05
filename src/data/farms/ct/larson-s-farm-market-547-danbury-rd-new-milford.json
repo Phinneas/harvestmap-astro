@@ -1,0 +1,19 @@
+{
+  "slug": "larson-s-farm-market-547-danbury-rd-new-milford",
+  "name": "Larson's Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "547 Danbury Rd New Milford, CT",
+  "locationCity": "547 Danbury Rd New Milford",
+  "locationState": "CT",
+  "locationZipcode": "06776",
+  "lat": 41.50869105948317,
+  "lon": -73.42014087438226,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:19.616Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:19.616Z"
+}

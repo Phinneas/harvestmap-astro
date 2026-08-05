@@ -1,0 +1,19 @@
+{
+  "slug": "narrowsburg-farmers-market-7-erie-avenue",
+  "name": "Narrowsburg Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7 Erie Avenue, NY",
+  "locationCity": "7 Erie Avenue",
+  "locationState": "NY",
+  "locationZipcode": "12764",
+  "lat": 41.596136,
+  "lon": -75.05512,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.903Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.903Z"
+}

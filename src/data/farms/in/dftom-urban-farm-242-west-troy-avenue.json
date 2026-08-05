@@ -1,0 +1,19 @@
+{
+  "slug": "dftom-urban-farm-242-west-troy-avenue",
+  "name": "dfTOM Urban Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "242 West Troy Avenue, IN",
+  "locationCity": "242 West Troy Avenue",
+  "locationState": "IN",
+  "locationZipcode": "46225",
+  "lat": 39.722744016779,
+  "lon": -86.163079005742,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.257Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.257Z"
+}

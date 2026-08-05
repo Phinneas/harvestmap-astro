@@ -1,0 +1,19 @@
+{
+  "slug": "davenport-farmers-market-north-park-mall-east-entrance",
+  "name": "Davenport Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "North Park Mall east entrance, IA",
+  "locationCity": "North Park Mall east entrance",
+  "locationState": "IA",
+  "locationZipcode": "52804",
+  "lat": 41.562863,
+  "lon": -90.571154,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.555Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.555Z"
+}

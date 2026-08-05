@@ -1,0 +1,19 @@
+{
+  "slug": "connors-farm-corn-maze-30-valley-road-rte-35",
+  "name": "Connors Farm Corn Maze",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "30 Valley Road (rte. 35), MA",
+  "locationCity": "30 Valley Road (rte. 35)",
+  "locationState": "MA",
+  "locationZipcode": "01923",
+  "lat": 42.608382828817,
+  "lon": -70.9352510473389,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.623Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:22.623Z"
+}

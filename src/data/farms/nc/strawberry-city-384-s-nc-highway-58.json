@@ -1,0 +1,19 @@
+{
+  "slug": "strawberry-city-384-s-nc-highway-58",
+  "name": "Strawberry City",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "384 S NC Highway 58, NC",
+  "locationCity": "384 S NC Highway 58",
+  "locationState": "NC",
+  "locationZipcode": "27856",
+  "lat": 35.9699744714376,
+  "lon": -77.9623921242385,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.839Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.839Z"
+}

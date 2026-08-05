@@ -1,0 +1,19 @@
+{
+  "slug": "windy-hill-family-farm-100-windy-hill-farm-lane",
+  "name": "Windy Hill Family Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "100 windy hill farm lane, MD",
+  "locationCity": "100 windy hill farm lane",
+  "locationState": "MD",
+  "locationZipcode": "21617",
+  "lat": 39.0691422,
+  "lon": -76.0979625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.702Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.702Z"
+}

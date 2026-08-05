@@ -1,0 +1,19 @@
+{
+  "slug": "marin-coast-ranch-shoreline-highway",
+  "name": "Marin Coast Ranch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Shoreline Highway, CA",
+  "locationCity": "Shoreline Highway",
+  "locationState": "CA",
+  "locationZipcode": "94971",
+  "lat": 38.2477500000001,
+  "lon": -122.9047,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.803Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:36.803Z"
+}

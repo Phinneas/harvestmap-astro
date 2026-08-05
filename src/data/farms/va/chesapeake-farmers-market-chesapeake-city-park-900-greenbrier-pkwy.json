@@ -1,0 +1,19 @@
+{
+  "slug": "chesapeake-farmers-market-chesapeake-city-park-900-greenbrier-pkwy",
+  "name": "Chesapeake Farmers' Market - Chesapeake City Park",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "900 Greenbrier Pkwy, VA",
+  "locationCity": "900 Greenbrier Pkwy",
+  "locationState": "VA",
+  "locationZipcode": "23320",
+  "lat": 36.75316137608312,
+  "lon": -76.22488423267255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

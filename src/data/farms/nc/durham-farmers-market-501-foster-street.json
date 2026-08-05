@@ -1,0 +1,19 @@
+{
+  "slug": "durham-farmers-market-501-foster-street",
+  "name": "Durham Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "501 Foster Street, NC",
+  "locationCity": "501 Foster Street",
+  "locationState": "NC",
+  "locationZipcode": "27701",
+  "lat": 36.000559,
+  "lon": -78.901856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.202Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.202Z"
+}

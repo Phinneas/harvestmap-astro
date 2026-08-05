@@ -1,0 +1,19 @@
+{
+  "slug": "main-street-farmers-market-401-main-street",
+  "name": "Main Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "401 Main Street, CA",
+  "locationCity": "401 Main Street",
+  "locationState": "CA",
+  "locationZipcode": "95667",
+  "lat": 38.730544,
+  "lon": -120.79696,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.347Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.347Z"
+}

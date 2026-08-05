@@ -1,0 +1,19 @@
+{
+  "slug": "crooked-pines-farm-hwy-190",
+  "name": "Crooked Pines Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Hwy 190, LA",
+  "locationCity": "Hwy 190",
+  "locationState": "LA",
+  "locationZipcode": "70657",
+  "lat": 30.5145917473876,
+  "lon": -93.176224676574,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.161Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:26.161Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kroul-farms-237-state-highway-1",
+  "name": "Kroul Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "237 State Highway 1, IA",
+  "locationCity": "237 State Highway 1",
+  "locationState": "IA",
+  "locationZipcode": "52240",
+  "lat": 41.8770409896397,
+  "lon": -91.4708320197979,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:28.655Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:28.655Z"
+}

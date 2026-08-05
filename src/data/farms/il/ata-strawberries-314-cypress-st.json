@@ -1,0 +1,19 @@
+{
+  "slug": "ata-strawberries-314-cypress-st",
+  "name": "ATA Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "314 Cypress St, IL",
+  "locationCity": "314 Cypress St",
+  "locationState": "IL",
+  "locationZipcode": "62231",
+  "lat": 38.5642349946146,
+  "lon": -89.3967879979856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.901Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.901Z"
+}

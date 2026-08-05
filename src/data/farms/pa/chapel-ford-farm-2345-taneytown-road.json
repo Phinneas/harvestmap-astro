@@ -1,0 +1,19 @@
+{
+  "slug": "chapel-ford-farm-2345-taneytown-road",
+  "name": "Chapel Ford Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2345 Taneytown Road, PA",
+  "locationCity": "2345 Taneytown Road",
+  "locationState": "PA",
+  "locationZipcode": "17325",
+  "lat": 39.754261,
+  "lon": -77.230185,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.386Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:21.386Z"
+}

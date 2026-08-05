@@ -1,0 +1,19 @@
+{
+  "slug": "bethesda-central-farm-market-7600-arlington-road",
+  "name": "Bethesda Central Farm Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "7600 Arlington Road, MD",
+  "locationCity": "7600 Arlington Road",
+  "locationState": "MD",
+  "locationZipcode": "20814",
+  "lat": 38.986761,
+  "lon": -77.09989,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:11.489Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:11.489Z"
+}

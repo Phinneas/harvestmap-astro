@@ -1,0 +1,19 @@
+{
+  "slug": "bellevue-farmers-market-34-n-balph-ave-bellevue",
+  "name": "Bellevue Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "34 N Balph Ave Bellevue, PA",
+  "locationCity": "34 N Balph Ave Bellevue",
+  "locationState": "PA",
+  "locationZipcode": "15202",
+  "lat": 40.49598839668271,
+  "lon": -80.0552544173685,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.067Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.067Z"
+}

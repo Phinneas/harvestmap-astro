@@ -1,0 +1,19 @@
+{
+  "slug": "farm-king-farmers-market-609-s-gear-west-burlington",
+  "name": "Farm King Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "609 S Gear West Burlington, IA",
+  "locationCity": "609 S Gear West Burlington",
+  "locationState": "IA",
+  "locationZipcode": "52655",
+  "lat": 40.819482980677606,
+  "lon": -91.17239301613178,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:36.672Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:36.672Z"
+}

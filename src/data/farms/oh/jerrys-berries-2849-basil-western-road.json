@@ -1,0 +1,19 @@
+{
+  "slug": "jerrys-berries-2849-basil-western-road",
+  "name": "Jerrys Berries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "2849 Basil Western Road, OH",
+  "locationCity": "2849 Basil Western Road",
+  "locationState": "OH",
+  "locationZipcode": "43105",
+  "lat": 39.84231798436602,
+  "lon": -82.64208195854076,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.931Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:10.931Z"
+}

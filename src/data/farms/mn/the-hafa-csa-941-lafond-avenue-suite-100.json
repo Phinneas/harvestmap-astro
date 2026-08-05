@@ -1,0 +1,19 @@
+{
+  "slug": "the-hafa-csa-941-lafond-avenue-suite-100",
+  "name": "The HAFA CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "941 Lafond Avenue Suite 100, MN",
+  "locationCity": "941 Lafond Avenue Suite 100",
+  "locationState": "MN",
+  "locationZipcode": "55104",
+  "lat": 44.9609713,
+  "lon": -93.1399137,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.175Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.175Z"
+}

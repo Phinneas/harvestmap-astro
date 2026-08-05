@@ -1,0 +1,19 @@
+{
+  "slug": "austin-farms-789-new-hope-road",
+  "name": "Austin Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "789 New Hope Road, TN",
+  "locationCity": "789 New Hope Road",
+  "locationState": "TN",
+  "locationZipcode": "38339",
+  "lat": 35.0726706196684,
+  "lon": -88.5270544021124,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.352Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.352Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "norman-s-farm-market-east-west-hwy-jones-mill-rd",
+  "name": "Norman's Farm Market",
+  "source": "usda",
+  "directory": "csa",
+  "location": "East-West Hwy & Jones Mill Rd, MD",
+  "locationCity": "East-West Hwy & Jones Mill Rd",
+  "locationState": "MD",
+  "locationZipcode": "20815",
+  "lat": 38.993208016731415,
+  "lon": -77.06351803478948,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:08.726Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:08.726Z"
+}

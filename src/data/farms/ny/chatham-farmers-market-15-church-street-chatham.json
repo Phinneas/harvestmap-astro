@@ -1,0 +1,19 @@
+{
+  "slug": "chatham-farmers-market-15-church-street-chatham",
+  "name": "Chatham Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "15 Church Street Chatham, NY",
+  "locationCity": "15 Church Street Chatham",
+  "locationState": "NY",
+  "locationZipcode": "12037",
+  "lat": 42.35680924170663,
+  "lon": -73.60188254330158,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.018Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.018Z"
+}

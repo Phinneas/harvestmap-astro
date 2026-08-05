@@ -1,0 +1,19 @@
+{
+  "slug": "strojny-orchard-wi-32",
+  "name": "Strojny Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "WI 32, WI",
+  "locationCity": "WI 32",
+  "locationState": "WI",
+  "locationZipcode": "53013",
+  "lat": 43.6192291791587,
+  "lon": -87.8295488019384,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.446Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.446Z"
+}

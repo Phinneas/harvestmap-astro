@@ -1,0 +1,19 @@
+{
+  "slug": "homestead-orchard-802-charles-road",
+  "name": "Homestead Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "802 Charles Road, IL",
+  "locationCity": "802 Charles Road",
+  "locationState": "IL",
+  "locationZipcode": "60098",
+  "lat": 42.3604382217413,
+  "lon": -88.4518753942466,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.864Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.864Z"
+}

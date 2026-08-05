@@ -1,0 +1,19 @@
+{
+  "slug": "lewis-orchards-18901-peach-tree-rd",
+  "name": "Lewis Orchards",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "18901 Peach Tree Rd, MD",
+  "locationCity": "18901 Peach Tree Rd",
+  "locationState": "MD",
+  "locationZipcode": "18901",
+  "lat": 39.1656290037398,
+  "lon": -77.3885900328814,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:06.241Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:06.241Z"
+}

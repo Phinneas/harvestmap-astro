@@ -1,0 +1,19 @@
+{
+  "slug": "bachmann-farms-003-highway-c",
+  "name": "Bachmann Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "003 highway C, MO",
+  "locationCity": "003 highway C",
+  "locationState": "MO",
+  "locationZipcode": "63775",
+  "lat": 37.7987402317505,
+  "lon": -89.7228064457847,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.764Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.764Z"
+}

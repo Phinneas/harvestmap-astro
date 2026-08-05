@@ -1,0 +1,19 @@
+{
+  "slug": "chicago-park-district-s-pumpkin-patch-humboldt-park",
+  "name": "Chicago Park District's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Humboldt Park, IL",
+  "locationCity": "Humboldt Park",
+  "locationState": "IL",
+  "locationZipcode": "60622",
+  "lat": 41.9067895718828,
+  "lon": -87.7013952589441,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.896Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:45.896Z"
+}

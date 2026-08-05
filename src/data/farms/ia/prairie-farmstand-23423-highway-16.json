@@ -1,0 +1,19 @@
+{
+  "slug": "prairie-farmstand-23423-highway-16",
+  "name": "Prairie Farmstand",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "23423 Highway 16, IA",
+  "locationCity": "23423 Highway 16",
+  "locationState": "IA",
+  "locationZipcode": "23423",
+  "lat": 40.80986001100851,
+  "lon": -91.92222198095276,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:40.605Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:40.605Z"
+}

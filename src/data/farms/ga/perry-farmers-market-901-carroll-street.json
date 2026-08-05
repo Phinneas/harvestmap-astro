@@ -1,0 +1,19 @@
+{
+  "slug": "perry-farmers-market-901-carroll-street",
+  "name": "Perry Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "901 Carroll Street, GA",
+  "locationCity": "901 Carroll Street",
+  "locationState": "GA",
+  "locationZipcode": "31069",
+  "lat": 32.45832631012287,
+  "lon": -83.73350220256927,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

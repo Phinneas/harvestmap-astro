@@ -1,0 +1,19 @@
+{
+  "slug": "whistlepig-farm-14055-broken-horn-rd",
+  "name": "Whistlepig Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "14055 Broken Horn Rd, ID",
+  "locationCity": "14055 Broken Horn Rd",
+  "locationState": "ID",
+  "locationZipcode": "14055",
+  "lat": 43.731687983373035,
+  "lon": -116.26927569334828,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:32.502Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:32.502Z"
+}

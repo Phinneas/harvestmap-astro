@@ -1,0 +1,19 @@
+{
+  "slug": "creamery-bridge-farm-2534-hill-west-road",
+  "name": "Creamery Bridge Farm",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2534 Hill West Road, VT",
+  "locationCity": "2534 Hill West Road",
+  "locationState": "VT",
+  "locationZipcode": "05471",
+  "lat": 44.866276,
+  "lon": -72.644756,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:48.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:48.423Z"
+}

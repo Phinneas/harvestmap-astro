@@ -1,0 +1,19 @@
+{
+  "slug": "crickets-cove-organics-319-main-street",
+  "name": "Crickets Cove Organics",
+  "source": "usda",
+  "directory": "csa",
+  "location": "319 Main street, VA",
+  "locationCity": "319 Main street",
+  "locationState": "VA",
+  "locationZipcode": "23944",
+  "lat": 36.9627811,
+  "lon": -78.131522,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:01.219Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:01.219Z"
+}

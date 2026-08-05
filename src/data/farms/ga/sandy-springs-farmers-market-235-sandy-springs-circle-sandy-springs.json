@@ -1,0 +1,19 @@
+{
+  "slug": "sandy-springs-farmers-market-235-sandy-springs-circle-sandy-springs",
+  "name": "Sandy Springs Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "235 Sandy Springs Circle Sandy Springs, GA",
+  "locationCity": "235 Sandy Springs Circle Sandy Springs",
+  "locationState": "GA",
+  "locationZipcode": "30328",
+  "lat": 33.92461745866127,
+  "lon": -84.38269992831508,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.715Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.715Z"
+}

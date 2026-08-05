@@ -1,0 +1,19 @@
+{
+  "slug": "metro-denver-farmers-market-wheat-ridge-4252-wadsworth-blvd-wheat-ridge",
+  "name": "Metro Denver Farmers' Market-Wheat Ridge",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4252 Wadsworth Blvd Wheat Ridge, CO",
+  "locationCity": "4252 Wadsworth Blvd Wheat Ridge",
+  "locationState": "CO",
+  "locationZipcode": "80033",
+  "lat": 39.77531514206816,
+  "lon": -105.08138945983042,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.366Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.366Z"
+}

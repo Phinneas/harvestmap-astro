@@ -1,0 +1,19 @@
+{
+  "slug": "lake-oswego-farmers-market-millennium-plaza-park",
+  "name": "Lake Oswego Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Millennium Plaza Park, OR",
+  "locationCity": "Millennium Plaza Park",
+  "locationState": "OR",
+  "locationZipcode": "97034",
+  "lat": 45.417855,
+  "lon": -122.66477,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.253Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.253Z"
+}

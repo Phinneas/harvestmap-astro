@@ -1,0 +1,19 @@
+{
+  "slug": "mrs-smith-s-farm-111-north-front-street",
+  "name": "Mrs Smith's Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "111 North Front Street, TX",
+  "locationCity": "111 North Front Street",
+  "locationState": "TX",
+  "locationZipcode": "79240",
+  "lat": 34.9017262675223,
+  "lon": -100.770857650413,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.629Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:49.629Z"
+}

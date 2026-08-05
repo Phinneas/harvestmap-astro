@@ -1,0 +1,19 @@
+{
+  "slug": "alta-vista-orchard-medford",
+  "name": "Alta Vista Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Medford, OR",
+  "locationCity": "Medford",
+  "locationState": "OR",
+  "locationZipcode": "97501",
+  "lat": 42.3175736,
+  "lon": -122.8799625,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.061Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:57.061Z"
+}

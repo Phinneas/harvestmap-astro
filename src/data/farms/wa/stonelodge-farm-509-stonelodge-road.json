@@ -1,0 +1,19 @@
+{
+  "slug": "stonelodge-farm-509-stonelodge-road",
+  "name": "Stonelodge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "509 Stonelodge Road, WA",
+  "locationCity": "509 Stonelodge Road",
+  "locationState": "WA",
+  "locationZipcode": "99026",
+  "lat": 47.8601644330113,
+  "lon": -117.652453594054,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.257Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.257Z"
+}

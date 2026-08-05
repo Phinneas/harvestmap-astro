@@ -1,0 +1,19 @@
+{
+  "slug": "sweetland-orchard-205-fairlawn-ave",
+  "name": "Sweetland Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "205 Fairlawn Ave, MN",
+  "locationCity": "205 Fairlawn Ave",
+  "locationState": "MN",
+  "locationZipcode": "55088",
+  "lat": 44.5744151378604,
+  "lon": -93.4609423398772,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.739Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.739Z"
+}

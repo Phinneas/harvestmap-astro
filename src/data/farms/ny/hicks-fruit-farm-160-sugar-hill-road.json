@@ -1,0 +1,20 @@
+{
+  "slug": "hicks-fruit-farm-160-sugar-hill-road",
+  "name": "Hicks Fruit Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "160 Sugar Hill Road, NY",
+  "locationCity": "160 Sugar Hill Road",
+  "locationState": "NY",
+  "locationZipcode": "12148",
+  "lat": 42.8184117389929,
+  "lon": -73.8400738564507,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.908Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:08.908Z",
+  "crops": []
+}

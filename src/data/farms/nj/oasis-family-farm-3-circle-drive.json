@@ -1,0 +1,19 @@
+{
+  "slug": "oasis-family-farm-3-circle-drive",
+  "name": "Oasis Family Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "3 Circle Drive, NJ",
+  "locationCity": "3 Circle Drive",
+  "locationState": "NJ",
+  "locationZipcode": "08691",
+  "lat": 40.1887479937583,
+  "lon": -74.602030010243,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.687Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:15.687Z"
+}

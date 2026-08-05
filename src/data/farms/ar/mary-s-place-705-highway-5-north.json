@@ -1,0 +1,19 @@
+{
+  "slug": "mary-s-place-705-highway-5-north",
+  "name": "Mary's Place",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "705 Highway 5 North, AR",
+  "locationCity": "705 Highway 5 North",
+  "locationState": "AR",
+  "locationZipcode": "72022",
+  "lat": 34.6033344179236,
+  "lon": -92.5473365532191,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:23.980Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:23.980Z"
+}

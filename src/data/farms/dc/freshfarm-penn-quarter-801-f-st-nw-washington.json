@@ -1,0 +1,20 @@
+{
+  "slug": "freshfarm-penn-quarter-801-f-st-nw-washington",
+  "name": "FRESHFARM Penn Quarter",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "801 F St NW Washington, DC",
+  "locationCity": "801 F St NW Washington",
+  "locationState": "DC",
+  "locationZipcode": "20004",
+  "lat": 38.8974361,
+  "lon": -77.0251511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:00.196Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:00.196Z",
+  "crops": []
+}

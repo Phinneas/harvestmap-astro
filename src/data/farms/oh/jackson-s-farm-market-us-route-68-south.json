@@ -1,0 +1,19 @@
+{
+  "slug": "jackson-s-farm-market-us-route-68-south",
+  "name": "Jackson's Farm Market",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "US Route 68 South, OH",
+  "locationCity": "US Route 68 South",
+  "locationState": "OH",
+  "locationZipcode": "45385",
+  "lat": 39.61290181869061,
+  "lon": -83.88603757677336,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:18.372Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:18.372Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "yeager-s-tree-farm-399-jones-street",
+  "name": "Yeager's Tree Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "399 Jones Street, PA",
+  "locationCity": "399 Jones Street",
+  "locationState": "PA",
+  "locationZipcode": "19460",
+  "lat": 40.1279400000001,
+  "lon": -75.516445,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.126Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:14.126Z"
+}

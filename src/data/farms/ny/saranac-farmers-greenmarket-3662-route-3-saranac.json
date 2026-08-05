@@ -1,0 +1,19 @@
+{
+  "slug": "saranac-farmers-greenmarket-3662-route-3-saranac",
+  "name": "Saranac Farmers' Greenmarket",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "3662 Route 3 Saranac, NY",
+  "locationCity": "3662 Route 3 Saranac",
+  "locationState": "NY",
+  "locationZipcode": "12981",
+  "lat": 44.63978155582887,
+  "lon": -73.75146378446497,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.028Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.028Z"
+}

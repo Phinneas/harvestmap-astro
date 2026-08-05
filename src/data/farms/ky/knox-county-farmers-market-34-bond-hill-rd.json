@@ -1,0 +1,19 @@
+{
+  "slug": "knox-county-farmers-market-34-bond-hill-rd",
+  "name": "Knox County Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "34 Bond Hill Rd, KY",
+  "locationCity": "34 Bond Hill Rd",
+  "locationState": "KY",
+  "locationZipcode": "40906",
+  "lat": 36.849364,
+  "lon": -83.867633,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.723Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.723Z"
+}

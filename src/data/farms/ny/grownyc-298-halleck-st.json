@@ -1,0 +1,19 @@
+{
+  "slug": "grownyc-298-halleck-st",
+  "name": "GrowNYC",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "298 Halleck St, NY",
+  "locationCity": "298 Halleck St",
+  "locationState": "NY",
+  "locationZipcode": "10474",
+  "lat": 40.806716252494,
+  "lon": -73.87695045856617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:16.011Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:16.011Z"
+}

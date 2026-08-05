@@ -1,0 +1,19 @@
+{
+  "slug": "mead-lane-farm-p-o-box-222",
+  "name": "Mead Lane Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "P.O. Box 222, VT",
+  "locationCity": "P.O. Box 222",
+  "locationState": "VT",
+  "locationZipcode": "05740",
+  "lat": 43.970317149,
+  "lon": -73.0857977599999,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.084Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:39.084Z"
+}

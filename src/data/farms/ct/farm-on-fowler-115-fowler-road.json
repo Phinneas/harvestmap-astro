@@ -1,0 +1,19 @@
+{
+  "slug": "farm-on-fowler-115-fowler-road",
+  "name": "Farm on Fowler",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "115 Fowler Road, CT",
+  "locationCity": "115 Fowler Road",
+  "locationState": "CT",
+  "locationZipcode": "06359",
+  "lat": 41.4844629873915,
+  "lon": -71.8522999863384,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.980Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:14.980Z"
+}

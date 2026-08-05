@@ -1,0 +1,19 @@
+{
+  "slug": "blue-bird-farm-4-chinook-ln",
+  "name": "Blue Bird Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "4 Chinook Ln, ID",
+  "locationCity": "4 Chinook Ln",
+  "locationState": "ID",
+  "locationZipcode": "83544",
+  "lat": 46.4833746,
+  "lon": -116.2337622,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:32.502Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:32.502Z"
+}

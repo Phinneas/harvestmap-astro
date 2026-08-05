@@ -1,0 +1,19 @@
+{
+  "slug": "haymaker-farmers-market-1435-e-main-st-kent",
+  "name": "Haymaker Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1435 E Main St Kent, OH",
+  "locationCity": "1435 E Main St Kent",
+  "locationState": "OH",
+  "locationZipcode": "44240",
+  "lat": 41.155218,
+  "lon": -81.337712,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:15.873Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:15.873Z"
+}

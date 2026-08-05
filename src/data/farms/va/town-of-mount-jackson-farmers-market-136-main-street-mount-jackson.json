@@ -1,0 +1,19 @@
+{
+  "slug": "town-of-mount-jackson-farmers-market-136-main-street-mount-jackson",
+  "name": "Town of Mount Jackson Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "136 Main Street Mount Jackson, VA",
+  "locationCity": "136 Main Street Mount Jackson",
+  "locationState": "VA",
+  "locationZipcode": "22842",
+  "lat": 38.74822443088696,
+  "lon": -78.64149604987078,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

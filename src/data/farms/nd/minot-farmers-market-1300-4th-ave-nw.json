@@ -1,0 +1,19 @@
+{
+  "slug": "minot-farmers-market-1300-4th-ave-nw",
+  "name": "Minot Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1300 4th Ave NW, ND",
+  "locationCity": "1300 4th Ave NW",
+  "locationState": "ND",
+  "locationZipcode": "58703",
+  "lat": 48.2405464,
+  "lon": -101.3138511,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:01.422Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:01.422Z"
+}

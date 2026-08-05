@@ -1,0 +1,19 @@
+{
+  "slug": "oriental-farmers-market-310-hodges-st-oriental",
+  "name": "Oriental Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "310 Hodges St. Oriental, NC",
+  "locationCity": "310 Hodges St. Oriental",
+  "locationState": "NC",
+  "locationZipcode": "28571",
+  "lat": 35.02494443556189,
+  "lon": -76.69496876124956,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:39.326Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:39.326Z"
+}

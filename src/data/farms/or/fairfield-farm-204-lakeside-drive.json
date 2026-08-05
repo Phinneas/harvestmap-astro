@@ -1,0 +1,19 @@
+{
+  "slug": "fairfield-farm-204-lakeside-drive",
+  "name": "Fairfield Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "204 Lakeside Drive, OR",
+  "locationCity": "204 Lakeside Drive",
+  "locationState": "OR",
+  "locationZipcode": "97333",
+  "lat": 44.4214281085787,
+  "lon": -123.253925356842,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.821Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:56.821Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "merriam-farmers-market-5740-merriam-dr",
+  "name": "Merriam Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "5740 Merriam Dr., KS",
+  "locationCity": "5740 Merriam Dr.",
+  "locationState": "KS",
+  "locationZipcode": "66203",
+  "lat": 39.02480879047721,
+  "lon": -94.69405041238592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

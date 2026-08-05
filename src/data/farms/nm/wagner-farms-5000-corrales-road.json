@@ -1,0 +1,20 @@
+{
+  "slug": "wagner-farms-5000-corrales-road",
+  "name": "Wagner Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5000 Corrales Road, NM",
+  "locationCity": "5000 Corrales Road",
+  "locationState": "NM",
+  "locationZipcode": "87048",
+  "lat": 35.2317490033953,
+  "lon": -106.611344016442,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:54.494Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:46:54.494Z",
+  "crops": []
+}

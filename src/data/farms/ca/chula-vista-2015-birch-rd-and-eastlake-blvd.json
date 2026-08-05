@@ -1,0 +1,19 @@
+{
+  "slug": "chula-vista-2015-birch-rd-and-eastlake-blvd",
+  "name": "Chula Vista",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "2015 Birch Rd and Eastlake Blvd, CA",
+  "locationCity": "2015 Birch Rd and Eastlake Blvd",
+  "locationState": "CA",
+  "locationZipcode": "91915",
+  "lat": 32.62146099126966,
+  "lon": -116.96301204010985,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

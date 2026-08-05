@@ -1,0 +1,19 @@
+{
+  "slug": "sweet-eats-farm-csa-395-route-102",
+  "name": "Sweet Eats Farm & CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "395 Route 102, VT",
+  "locationCity": "395 Route 102",
+  "locationState": "VT",
+  "locationZipcode": "05905",
+  "lat": 44.6505495,
+  "lon": -71.5797414,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.116Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.116Z"
+}

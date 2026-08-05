@@ -1,0 +1,19 @@
+{
+  "slug": "2600-bull-street-farmers-market-2600-bull-street-columbia",
+  "name": "2600 Bull Street Farmers market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2600 Bull Street Columbia, SC",
+  "locationCity": "2600 Bull Street Columbia",
+  "locationState": "SC",
+  "locationZipcode": "29201",
+  "lat": 34.02251420455827,
+  "lon": -81.03745797429646,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.194Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.194Z"
+}

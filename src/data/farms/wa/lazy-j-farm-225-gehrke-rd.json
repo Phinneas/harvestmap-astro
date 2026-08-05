@@ -1,0 +1,19 @@
+{
+  "slug": "lazy-j-farm-225-gehrke-rd",
+  "name": "Lazy J Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "225 Gehrke Rd, WA",
+  "locationCity": "225 Gehrke Rd",
+  "locationState": "WA",
+  "locationZipcode": "98362",
+  "lat": 48.1114050178376,
+  "lon": -123.278442985973,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.206Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.206Z"
+}

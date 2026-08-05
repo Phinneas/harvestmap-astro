@@ -1,0 +1,19 @@
+{
+  "slug": "owl-forest-farm-3442-mobraten-drive",
+  "name": "Owl Forest Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3442 Mobraten Drive, MN",
+  "locationCity": "3442 Mobraten Drive",
+  "locationState": "MN",
+  "locationZipcode": "55751",
+  "lat": 47.365981,
+  "lon": -92.63806,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:10.169Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:10.169Z"
+}

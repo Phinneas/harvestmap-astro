@@ -1,0 +1,19 @@
+{
+  "slug": "north-albany-farmer-s-market-6980-nw-hwy-20",
+  "name": "North Albany Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "6980 nw hwy 20, OR",
+  "locationCity": "6980 nw hwy 20",
+  "locationState": "OR",
+  "locationZipcode": "97321",
+  "lat": 44.63664,
+  "lon": -123.17882,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:03.280Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:48:03.280Z"
+}

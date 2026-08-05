@@ -1,0 +1,19 @@
+{
+  "slug": "nenana-farmers-market-main-st",
+  "name": "Nenana Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St, AK",
+  "locationCity": "Main St",
+  "locationState": "AK",
+  "locationZipcode": "99760",
+  "lat": 64.56106214023903,
+  "lon": -149.0997525427417,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:02.505Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:02.505Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "orangeburg-county-farmers-market-350-magnolia-st",
+  "name": "Orangeburg County Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "350 Magnolia St, SC",
+  "locationCity": "350 Magnolia St",
+  "locationState": "SC",
+  "locationZipcode": "29115",
+  "lat": 33.480585045007665,
+  "lon": -80.85324713027157,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.195Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.195Z"
+}

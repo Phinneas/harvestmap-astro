@@ -1,0 +1,19 @@
+{
+  "slug": "baba-s-oasis-csa-3216-pershing-ave",
+  "name": "Baba's Oasis CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "3216 Pershing Ave, TN",
+  "locationCity": "3216 Pershing Ave",
+  "locationState": "TN",
+  "locationZipcode": "38112",
+  "lat": 35.1539721,
+  "lon": -89.9536815,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.789Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.789Z"
+}

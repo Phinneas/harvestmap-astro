@@ -1,0 +1,19 @@
+{
+  "slug": "steele-farms-5525-w-300-n",
+  "name": "Steele Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "5525 W. 300 N., IN",
+  "locationCity": "5525 W. 300 N.",
+  "locationState": "IN",
+  "locationZipcode": "46733",
+  "lat": 40.7870150081753,
+  "lon": -85.0424830080208,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.223Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:03.223Z"
+}

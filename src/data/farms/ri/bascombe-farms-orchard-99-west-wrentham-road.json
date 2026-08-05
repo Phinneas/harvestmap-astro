@@ -1,0 +1,19 @@
+{
+  "slug": "bascombe-farms-orchard-99-west-wrentham-road",
+  "name": "Bascombe Farms Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "99 West Wrentham Road, RI",
+  "locationCity": "99 West Wrentham Road",
+  "locationState": "RI",
+  "locationZipcode": "02864",
+  "lat": 41.9877780005279,
+  "lon": -71.45970496882671,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.290Z"
+}

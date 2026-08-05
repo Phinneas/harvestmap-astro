@@ -1,0 +1,19 @@
+{
+  "slug": "peter-s-pumpkin-patch-181-state-highway-55",
+  "name": "Peter's Pumpkin Patch",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "181 State Highway 55, WI",
+  "locationCity": "181 State Highway 55",
+  "locationState": "WI",
+  "locationZipcode": "54130",
+  "lat": 44.2898154321167,
+  "lon": -88.2611541874081,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.254Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.254Z"
+}

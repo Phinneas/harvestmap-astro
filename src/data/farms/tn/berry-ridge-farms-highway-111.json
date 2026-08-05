@@ -1,0 +1,19 @@
+{
+  "slug": "berry-ridge-farms-highway-111",
+  "name": "Berry Ridge Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Highway 111, TN",
+  "locationCity": "Highway 111",
+  "locationState": "TN",
+  "locationZipcode": "38570",
+  "lat": 36.421268398662,
+  "lon": -85.2834188015592,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.357Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.357Z"
+}

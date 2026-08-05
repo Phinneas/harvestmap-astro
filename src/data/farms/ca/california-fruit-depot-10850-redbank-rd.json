@@ -1,0 +1,19 @@
+{
+  "slug": "california-fruit-depot-10850-redbank-rd",
+  "name": "California Fruit Depot",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "10850 Redbank Rd, CA",
+  "locationCity": "10850 Redbank Rd",
+  "locationState": "CA",
+  "locationZipcode": "10850",
+  "lat": 35.34032901532032,
+  "lon": -118.88399597205408,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:43.957Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:43.957Z"
+}

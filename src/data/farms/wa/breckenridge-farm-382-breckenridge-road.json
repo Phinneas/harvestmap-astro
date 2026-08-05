@@ -1,0 +1,19 @@
+{
+  "slug": "breckenridge-farm-382-breckenridge-road",
+  "name": "BreckenRidge Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "382 Breckenridge Road, WA",
+  "locationCity": "382 Breckenridge Road",
+  "locationState": "WA",
+  "locationZipcode": "98247",
+  "lat": 48.928937038298,
+  "lon": -122.301952804573,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.371Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.371Z"
+}

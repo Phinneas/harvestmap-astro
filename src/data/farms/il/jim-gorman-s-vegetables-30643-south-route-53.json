@@ -1,0 +1,19 @@
+{
+  "slug": "jim-gorman-s-vegetables-30643-south-route-53",
+  "name": "Jim Gorman's Vegetables",
+  "source": "usda",
+  "directory": "onfarmmarket",
+  "location": "30643 South Route 53, IL",
+  "locationCity": "30643 South Route 53",
+  "locationState": "IL",
+  "locationZipcode": "30643",
+  "lat": 41.32876222083752,
+  "lon": -88.13222166529495,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:53.667Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:53.667Z"
+}

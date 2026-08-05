@@ -1,0 +1,19 @@
+{
+  "slug": "greenworks-114-old-goldmine-rd",
+  "name": "Greenworks",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "114 Old Goldmine Rd, NC",
+  "locationCity": "114 Old Goldmine Rd",
+  "locationState": "NC",
+  "locationZipcode": "28103",
+  "lat": 35.0428724649803,
+  "lon": -80.3382013804521,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.834Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.834Z"
+}

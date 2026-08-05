@@ -1,0 +1,19 @@
+{
+  "slug": "the-home-gardener-918-dublin-rd",
+  "name": "The Home Gardener",
+  "source": "usda",
+  "directory": "csa",
+  "location": "918 Dublin Rd, FL",
+  "locationCity": "918 Dublin Rd",
+  "locationState": "FL",
+  "locationZipcode": "32428",
+  "lat": 30.759633,
+  "lon": -85.581405,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:29.808Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:29.808Z"
+}

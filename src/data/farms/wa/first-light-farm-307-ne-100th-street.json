@@ -1,0 +1,19 @@
+{
+  "slug": "first-light-farm-307-ne-100th-street",
+  "name": "First Light Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "307 NE 100th Street, WA",
+  "locationCity": "307 NE 100th Street",
+  "locationState": "WA",
+  "locationZipcode": "98014",
+  "lat": 47.6850172499726,
+  "lon": -121.973844567301,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.146Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.146Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "omaha-s-bancroft-street-farmers-market-2702-s-10th-st-omaha",
+  "name": "Omaha's Bancroft Street Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "2702 S 10th St Omaha, NE",
+  "locationCity": "2702 S 10th St Omaha",
+  "locationState": "NE",
+  "locationZipcode": "68108",
+  "lat": 41.23394678040142,
+  "lon": -95.92949613437617,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:52.905Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:52.905Z"
+}

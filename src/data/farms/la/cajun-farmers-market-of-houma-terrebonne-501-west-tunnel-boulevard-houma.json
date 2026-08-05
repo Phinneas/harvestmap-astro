@@ -1,0 +1,19 @@
+{
+  "slug": "cajun-farmers-market-of-houma-terrebonne-501-west-tunnel-boulevard-houma",
+  "name": "Cajun Farmers' Market of Houma Terrebonne",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "501 West Tunnel Boulevard Houma, LA",
+  "locationCity": "501 West Tunnel Boulevard Houma",
+  "locationState": "LA",
+  "locationZipcode": "70360",
+  "lat": 29.590667244352257,
+  "lon": -90.72952896547356,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:33.708Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:33.708Z"
+}

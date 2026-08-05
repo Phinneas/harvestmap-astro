@@ -1,0 +1,20 @@
+{
+  "slug": "strite-s-orchard-farm-market-and-bakery-1000-strites-road-harrisburg",
+  "name": "Strite's Orchard Farm Market and Bakery",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1000 Strites Road Harrisburg, PA",
+  "locationCity": "1000 Strites Road Harrisburg",
+  "locationState": "PA",
+  "locationZipcode": "17111",
+  "lat": 40.24937097600803,
+  "lon": -76.76776559940572,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:19.068Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:19.068Z",
+  "crops": []
+}

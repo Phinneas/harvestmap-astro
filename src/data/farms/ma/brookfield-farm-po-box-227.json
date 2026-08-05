@@ -1,0 +1,19 @@
+{
+  "slug": "brookfield-farm-po-box-227",
+  "name": "Brookfield Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "PO Box 227, MA",
+  "locationCity": "PO Box 227",
+  "locationState": "MA",
+  "locationZipcode": "01004",
+  "lat": 42.3761193,
+  "lon": -72.5324102,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:25.252Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:25.252Z"
+}

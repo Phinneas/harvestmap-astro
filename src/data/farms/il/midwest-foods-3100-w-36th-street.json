@@ -1,0 +1,19 @@
+{
+  "slug": "midwest-foods-3100-w-36th-street",
+  "name": "Midwest Foods",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "3100 W. 36th Street, IL",
+  "locationCity": "3100 W. 36th Street",
+  "locationState": "IL",
+  "locationZipcode": "60632",
+  "lat": 41.82867598339388,
+  "lon": -87.7023349738225,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:51.765Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:51.765Z"
+}

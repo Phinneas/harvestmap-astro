@@ -1,0 +1,19 @@
+{
+  "slug": "north-myrtle-beach-farmers-market-925-first-avenue-south",
+  "name": "North Myrtle Beach Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "925 First Avenue South, SC",
+  "locationCity": "925 First Avenue South",
+  "locationState": "SC",
+  "locationZipcode": "29582",
+  "lat": 33.827655,
+  "lon": -78.683173,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:56.047Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:56.047Z"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "myfarmstand-com-31-frog-hollow-road",
+  "name": "myFarmstand.com",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "31 Frog Hollow Road, CT",
+  "locationCity": "31 Frog Hollow Road",
+  "locationState": "CT",
+  "locationZipcode": "06029",
+  "lat": 41.9028919944087,
+  "lon": -72.4863320367813,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.008Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:15.008Z",
+  "crops": []
+}

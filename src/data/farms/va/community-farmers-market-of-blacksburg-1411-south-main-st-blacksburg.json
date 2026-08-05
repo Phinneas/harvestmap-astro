@@ -1,0 +1,19 @@
+{
+  "slug": "community-farmers-market-of-blacksburg-1411-south-main-st-blacksburg",
+  "name": "Community Farmers' Market of Blacksburg",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "1411 South Main St. Blacksburg, VA",
+  "locationCity": "1411 South Main St. Blacksburg",
+  "locationState": "VA",
+  "locationZipcode": "24060",
+  "lat": 37.21484949409462,
+  "lon": -80.40050257945775,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.291Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.291Z"
+}

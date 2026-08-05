@@ -1,0 +1,19 @@
+{
+  "slug": "crooked-river-farm-413-highway-c",
+  "name": "Crooked River Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "413 Highway C, MO",
+  "locationCity": "413 Highway C",
+  "locationState": "MO",
+  "locationZipcode": "64062",
+  "lat": 39.4402954046806,
+  "lon": -94.2106275715943,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.736Z"
+}

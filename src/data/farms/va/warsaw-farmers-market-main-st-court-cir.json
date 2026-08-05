@@ -1,0 +1,19 @@
+{
+  "slug": "warsaw-farmers-market-main-st-court-cir",
+  "name": "Warsaw Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "Main St & Court Cir, VA",
+  "locationCity": "Main St & Court Cir",
+  "locationState": "VA",
+  "locationZipcode": "22572",
+  "lat": 37.958530005048274,
+  "lon": -76.75790001487262,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:04.294Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:04.294Z"
+}

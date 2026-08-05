@@ -1,0 +1,19 @@
+{
+  "slug": "maryville-farmers-market-200-n-donk-st-maryville",
+  "name": "Maryville Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "200 N. Donk St. Maryville, IL",
+  "locationCity": "200 N. Donk St. Maryville",
+  "locationState": "IL",
+  "locationZipcode": "62062",
+  "lat": 38.72454051991969,
+  "lon": -89.95550471665435,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.973Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.973Z"
+}

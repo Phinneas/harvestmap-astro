@@ -1,0 +1,19 @@
+{
+  "slug": "hillside-farms-330-733-road",
+  "name": "Hillside Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "330 733 Road, NE",
+  "locationCity": "330 733 Road",
+  "locationState": "NE",
+  "locationZipcode": "68443",
+  "lat": 40.4505499920112,
+  "lon": -96.1996499990111,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.556Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:44:42.556Z"
+}

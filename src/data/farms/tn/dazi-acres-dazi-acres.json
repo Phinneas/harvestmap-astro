@@ -1,0 +1,20 @@
+{
+  "slug": "dazi-acres-dazi-acres",
+  "name": "Dazi Acres",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Dazi Acres, TN",
+  "locationCity": "Dazi Acres",
+  "locationState": "TN",
+  "locationZipcode": "37367",
+  "lat": 35.58305500000006,
+  "lon": -85.10362899999996,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.375Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:24.375Z",
+  "crops": []
+}

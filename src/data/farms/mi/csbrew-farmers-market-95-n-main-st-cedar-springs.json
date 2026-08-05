@@ -1,0 +1,19 @@
+{
+  "slug": "csbrew-farmers-market-95-n-main-st-cedar-springs",
+  "name": "CSBrew Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "95 N. Main St. Cedar Springs, MI",
+  "locationCity": "95 N. Main St. Cedar Springs",
+  "locationState": "MI",
+  "locationZipcode": "49319",
+  "lat": 43.225302243255896,
+  "lon": -85.55119947601986,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:43.247Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:43.247Z"
+}

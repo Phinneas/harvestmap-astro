@@ -1,0 +1,19 @@
+{
+  "slug": "mt-washington-farmer-s-market-320-n-bardstown-rd",
+  "name": "Mt.Washington Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "320 N.Bardstown rd, KY",
+  "locationCity": "320 N.Bardstown rd",
+  "locationState": "KY",
+  "locationZipcode": "40047",
+  "lat": 37.9700281,
+  "lon": -85.695776,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:16.732Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:16.732Z"
+}

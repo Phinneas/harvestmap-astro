@@ -1,0 +1,19 @@
+{
+  "slug": "green-city-market-west-loop-115-s-sangamon-st",
+  "name": "Green City Market West Loop",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "115 S. Sangamon St, IL",
+  "locationCity": "115 S. Sangamon St",
+  "locationState": "IL",
+  "locationZipcode": "60607",
+  "lat": 41.880039,
+  "lon": -87.650439,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:50.950Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:50.950Z"
+}

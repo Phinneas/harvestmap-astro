@@ -1,0 +1,19 @@
+{
+  "slug": "bloomsbury-farm-9398-del-thomas-road",
+  "name": "Bloomsbury Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "9398 Del Thomas Road, TN",
+  "locationCity": "9398 Del Thomas Road",
+  "locationState": "TN",
+  "locationZipcode": "37167",
+  "lat": 35.91912235408981,
+  "lon": -86.61767445812825,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:28.828Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:28.828Z"
+}

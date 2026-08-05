@@ -1,0 +1,19 @@
+{
+  "slug": "geremia-gardens-1720-west-street",
+  "name": "Geremia Gardens",
+  "source": "usda",
+  "directory": "csa",
+  "location": "1720 West street, CT",
+  "locationCity": "1720 West street",
+  "locationState": "CT",
+  "locationZipcode": "06489",
+  "lat": 41.6347004,
+  "lon": -72.9006066,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:17.415Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:17.415Z"
+}

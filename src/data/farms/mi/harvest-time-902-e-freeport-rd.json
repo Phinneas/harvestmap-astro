@@ -1,0 +1,20 @@
+{
+  "slug": "harvest-time-902-e-freeport-rd",
+  "name": "Harvest Time",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "902 E Freeport Rd, MI",
+  "locationCity": "902 E Freeport Rd",
+  "locationState": "MI",
+  "locationZipcode": "49325",
+  "lat": 42.7606690175648,
+  "lon": -85.2721739771181,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.652Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:42:38.652Z",
+  "crops": []
+}

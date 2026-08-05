@@ -1,0 +1,19 @@
+{
+  "slug": "south-hutchinson-farmers-market-401-n-main-streeet-south-hutchinson",
+  "name": "South Hutchinson Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "401 N. Main Streeet South Hutchinson, KS",
+  "locationCity": "401 N. Main Streeet South Hutchinson",
+  "locationState": "KS",
+  "locationZipcode": "67501",
+  "lat": 38.05734925217414,
+  "lon": -97.93185797455537,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:55.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:55.700Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "saturday-market-at-steele-4350-thomas-drive",
+  "name": "Saturday Market at Steele",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "4350 Thomas Drive, CA",
+  "locationCity": "4350 Thomas Drive",
+  "locationState": "CA",
+  "locationZipcode": "95435",
+  "lat": 38.992994,
+  "lon": -122.87531,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.358Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.358Z"
+}

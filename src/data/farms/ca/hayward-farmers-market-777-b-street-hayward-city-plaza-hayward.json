@@ -1,0 +1,19 @@
+{
+  "slug": "hayward-farmers-market-777-b-street-hayward-city-plaza-hayward",
+  "name": "Hayward Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "777 B Street (Hayward City Plaza) Hayward, CA",
+  "locationCity": "777 B Street (Hayward City Plaza) Hayward",
+  "locationState": "CA",
+  "locationZipcode": "94540",
+  "lat": 37.67130614404075,
+  "lon": -122.08562081427239,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:41.373Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:36:41.373Z"
+}

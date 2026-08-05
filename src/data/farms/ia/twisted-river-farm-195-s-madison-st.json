@@ -1,0 +1,19 @@
+{
+  "slug": "twisted-river-farm-195-s-madison-st",
+  "name": "Twisted River Farm",
+  "source": "usda",
+  "directory": "csa",
+  "location": "195 S Madison St, IA",
+  "locationCity": "195 S Madison St",
+  "locationState": "IA",
+  "locationZipcode": "50461",
+  "lat": 43.31905212873548,
+  "lon": -92.87561510357801,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:32.425Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:40:32.425Z"
+}

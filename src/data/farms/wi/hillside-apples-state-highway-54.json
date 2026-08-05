@@ -1,0 +1,19 @@
+{
+  "slug": "hillside-apples-state-highway-54",
+  "name": "Hillside Apples",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "State Highway 54, WI",
+  "locationCity": "State Highway 54",
+  "locationState": "WI",
+  "locationZipcode": "54205",
+  "lat": 44.5556819972376,
+  "lon": -87.6556740084922,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:09.256Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:09.256Z"
+}

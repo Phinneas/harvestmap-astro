@@ -1,0 +1,19 @@
+{
+  "slug": "the-scott-farm-orchard-707-kipling-rd",
+  "name": "The Scott Farm Orchard",
+  "source": "usda",
+  "directory": "csa",
+  "location": "707 Kipling Rd, VT",
+  "locationCity": "707 Kipling Rd",
+  "locationState": "VT",
+  "locationZipcode": "05301",
+  "lat": 42.9041095,
+  "lon": -72.5683817,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.091Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.091Z"
+}

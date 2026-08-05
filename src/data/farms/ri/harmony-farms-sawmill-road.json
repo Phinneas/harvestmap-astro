@@ -1,0 +1,19 @@
+{
+  "slug": "harmony-farms-sawmill-road",
+  "name": "Harmony Farms",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Sawmill Road, RI",
+  "locationCity": "Sawmill Road",
+  "locationState": "RI",
+  "locationZipcode": "02857",
+  "lat": 41.8668309933817,
+  "lon": -71.6068930326062,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.138Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:50:31.138Z"
+}

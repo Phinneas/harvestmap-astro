@@ -1,0 +1,19 @@
+{
+  "slug": "maple-lane-farm-center-road",
+  "name": "Maple Lane Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Center Road, NH",
+  "locationCity": "Center Road",
+  "locationState": "NH",
+  "locationZipcode": "03082",
+  "lat": 42.9073094466725,
+  "lon": -71.7665823388044,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.700Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:47.700Z"
+}

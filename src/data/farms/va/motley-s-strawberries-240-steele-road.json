@@ -1,0 +1,19 @@
+{
+  "slug": "motley-s-strawberries-240-steele-road",
+  "name": "Motley's Strawberries",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "240 Steele Road, VA",
+  "locationCity": "240 Steele Road",
+  "locationState": "VA",
+  "locationZipcode": "24557",
+  "lat": 36.9572350182371,
+  "lon": -79.3722700138447,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.143Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:58.143Z"
+}

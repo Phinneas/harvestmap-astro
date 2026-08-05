@@ -1,0 +1,19 @@
+{
+  "slug": "city-of-forsyth-farmers-market-9-north-jackson-street",
+  "name": "City of Forsyth Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "9 North Jackson Street, GA",
+  "locationCity": "9 North Jackson Street",
+  "locationState": "GA",
+  "locationZipcode": "31029",
+  "lat": 33.035766257806124,
+  "lon": -83.93938440554601,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:54.714Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:54.714Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "bob-s-corn-elliott-road",
+  "name": "Bob's Corn",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "Elliott Road, WA",
+  "locationCity": "Elliott Road",
+  "locationState": "WA",
+  "locationZipcode": "98296",
+  "lat": 47.8410759837558,
+  "lon": -122.084191014098,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.312Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:53:16.312Z"
+}

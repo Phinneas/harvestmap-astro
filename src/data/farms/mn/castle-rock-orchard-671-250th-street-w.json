@@ -1,0 +1,20 @@
+{
+  "slug": "castle-rock-orchard-671-250th-street-w",
+  "name": "Castle Rock Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "671 250th Street W., MN",
+  "locationCity": "671 250th Street W.",
+  "locationState": "MN",
+  "locationZipcode": "55024",
+  "lat": 44.5871308138685,
+  "lon": -93.1408700270532,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.683Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:07.683Z",
+  "crops": []
+}

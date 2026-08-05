@@ -1,0 +1,19 @@
+{
+  "slug": "newburgh-farmers-market-97-broadway",
+  "name": "Newburgh Farmers' Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "97 Broadway, NY",
+  "locationCity": "97 Broadway",
+  "locationState": "NY",
+  "locationZipcode": "12550",
+  "lat": 41.49981,
+  "lon": -74.011014,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:14.911Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:14.912Z"
+}

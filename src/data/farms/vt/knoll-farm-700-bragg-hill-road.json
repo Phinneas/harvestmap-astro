@@ -1,0 +1,20 @@
+{
+  "slug": "knoll-farm-700-bragg-hill-road",
+  "name": "Knoll Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "700 Bragg Hill Road, VT",
+  "locationCity": "700 Bragg Hill Road",
+  "locationState": "VT",
+  "locationZipcode": "05673",
+  "lat": 44.1892329855772,
+  "lon": -72.846695032365,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.948Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:38.948Z",
+  "crops": []
+}

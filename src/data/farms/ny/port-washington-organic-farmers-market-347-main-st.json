@@ -1,0 +1,19 @@
+{
+  "slug": "port-washington-organic-farmers-market-347-main-st",
+  "name": "Port Washington Organic Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "347 Main St, NY",
+  "locationCity": "347 Main St",
+  "locationState": "NY",
+  "locationZipcode": "11050",
+  "lat": 40.83227714703051,
+  "lon": -73.70117860376752,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:15.027Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:15.027Z"
+}

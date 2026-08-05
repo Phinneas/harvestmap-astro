@@ -1,0 +1,20 @@
+{
+  "slug": "green-river-farm-millspring-10103-highway-108-east",
+  "name": "Green River Farm Millspring",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "10103 Highway 108 East, NC",
+  "locationCity": "10103 Highway 108 East",
+  "locationState": "NC",
+  "locationZipcode": "10103",
+  "lat": 35.3251355491884,
+  "lon": -82.07766862991204,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.907Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:32.907Z",
+  "crops": []
+}

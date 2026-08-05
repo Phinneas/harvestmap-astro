@@ -1,0 +1,19 @@
+{
+  "slug": "hollis-hills-bayside-csa-210-10-union-turnpike",
+  "name": "Hollis Hills Bayside CSA",
+  "source": "usda",
+  "directory": "csa",
+  "location": "210-10 Union Turnpike, NY",
+  "locationCity": "210-10 Union Turnpike",
+  "locationState": "NY",
+  "locationZipcode": "11364",
+  "lat": 40.73323072434087,
+  "lon": -73.76034913294033,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:12.192Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:47:12.192Z"
+}

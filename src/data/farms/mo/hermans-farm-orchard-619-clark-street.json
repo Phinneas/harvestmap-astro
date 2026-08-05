@@ -1,0 +1,19 @@
+{
+  "slug": "hermans-farm-orchard-619-clark-street",
+  "name": "Hermans Farm Orchard",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "619 Clark Street, MO",
+  "locationCity": "619 Clark Street",
+  "locationState": "MO",
+  "locationZipcode": "63301",
+  "lat": 38.7872664775713,
+  "lon": -90.4873433808856,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.736Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:43:49.736Z"
+}

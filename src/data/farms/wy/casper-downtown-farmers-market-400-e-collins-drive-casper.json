@@ -1,0 +1,19 @@
+{
+  "slug": "casper-downtown-farmers-market-400-e-collins-drive-casper",
+  "name": "Casper Downtown Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "400 E. Collins Drive Casper, WY",
+  "locationCity": "400 E. Collins Drive Casper",
+  "locationState": "WY",
+  "locationZipcode": "82601",
+  "lat": 42.847563513213125,
+  "lon": -106.3201838410198,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:42.423Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:52:42.423Z"
+}

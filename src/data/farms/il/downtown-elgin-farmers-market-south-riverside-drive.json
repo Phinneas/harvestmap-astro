@@ -1,0 +1,19 @@
+{
+  "slug": "downtown-elgin-farmers-market-south-riverside-drive",
+  "name": "Downtown Elgin Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "South Riverside Drive, IL",
+  "locationCity": "South Riverside Drive",
+  "locationState": "IL",
+  "locationZipcode": "60120",
+  "lat": 42.0363576,
+  "lon": -88.2846924,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:51.007Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:39:51.007Z"
+}

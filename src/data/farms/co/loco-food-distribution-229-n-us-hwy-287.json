@@ -1,0 +1,19 @@
+{
+  "slug": "loco-food-distribution-229-n-us-hwy-287",
+  "name": "LoCo Food Distribution",
+  "source": "usda",
+  "directory": "foodhub",
+  "location": "229 N US HWY 287, CO",
+  "locationCity": "229 N US HWY 287",
+  "locationState": "CO",
+  "locationZipcode": "80524",
+  "lat": 40.6180146,
+  "lon": -105.0804,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:03.290Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:03.290Z"
+}

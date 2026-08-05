@@ -1,0 +1,19 @@
+{
+  "slug": "barnstead-farmer-s-market-96-maple-st-center-barnstead",
+  "name": "Barnstead Farmer's Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "96 Maple St. Center Barnstead, NH",
+  "locationCity": "96 Maple St. Center Barnstead",
+  "locationState": "NH",
+  "locationZipcode": "03225",
+  "lat": 43.34835500979464,
+  "lon": -71.26294362534333,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:53.153Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:45:53.153Z"
+}

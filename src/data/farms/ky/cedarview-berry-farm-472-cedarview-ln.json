@@ -1,0 +1,19 @@
+{
+  "slug": "cedarview-berry-farm-472-cedarview-ln",
+  "name": "Cedarview Berry Farm",
+  "source": "usda",
+  "directory": "agritourism",
+  "location": "472 Cedarview Ln, KY",
+  "locationCity": "472 Cedarview Ln",
+  "locationState": "KY",
+  "locationZipcode": "41144",
+  "lat": 38.5258320060213,
+  "lon": -82.9575769617025,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.659Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:41:11.659Z"
+}

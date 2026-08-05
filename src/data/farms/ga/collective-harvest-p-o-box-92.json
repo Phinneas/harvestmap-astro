@@ -1,0 +1,19 @@
+{
+  "slug": "collective-harvest-p-o-box-92",
+  "name": "Collective Harvest",
+  "source": "usda",
+  "directory": "csa",
+  "location": "P.O. Box 92, GA",
+  "locationCity": "P.O. Box 92",
+  "locationState": "GA",
+  "locationZipcode": "30683",
+  "lat": 33.9670589,
+  "lon": -83.2782101,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:51.447Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:38:51.447Z"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "martindale-market-413-main-street-martindale",
+  "name": "Martindale Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "413 Main Street Martindale, TX",
+  "locationCity": "413 Main Street Martindale",
+  "locationState": "TX",
+  "locationZipcode": "78655",
+  "lat": 29.76085760116842,
+  "lon": -97.77791323681751,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:56.200Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:51:56.200Z"
+}

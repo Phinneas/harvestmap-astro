@@ -1,0 +1,19 @@
+{
+  "slug": "westcliffe-farmers-market-315-main-street-westcliffe",
+  "name": "Westcliffe Farmers Market",
+  "source": "usda",
+  "directory": "farmersmarket",
+  "location": "315 Main Street Westcliffe, CO",
+  "locationCity": "315 Main Street Westcliffe",
+  "locationState": "CO",
+  "locationZipcode": "81252",
+  "lat": 38.13599691393431,
+  "lon": -105.46712002579255,
+  "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:02.367Z"
+    }
+  ],
+  "usdaLastUpdated": "2026-08-05T18:37:02.367Z"
+}
