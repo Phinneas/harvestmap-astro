@@ -45,13 +45,13 @@ const related = augmented
   .slice(0, 3);
 
 const isEnriched = farm.isEnriched;
+const hasCalendar = calendar.length > 0;
+const hasDescription = farm.description && farm.description.length > 0;
+const hasPractices = farm.practices && farm.practices.length > 0;
 
 // Thin content check: noindex pages with no enrichment data to avoid SERP penalties
 const hasRichContent = isEnriched || produce.length > 0 || hasDescription || hasPractices ||
   (farm.image && farm.image !== '/images/farm-placeholder.svg') || !!farm.website;
-const hasCalendar = calendar.length > 0;
-const hasDescription = farm.description && farm.description.length > 0;
-const hasPractices = farm.practices && farm.practices.length > 0;
 
 const typeLabels: Record<string, string> = {
   agritourism: 'Agritourism', farmersmarket: "Farmers' Market", csa: 'CSA',
