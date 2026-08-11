@@ -46,6 +46,10 @@ if (!farmData) return new Response('Not found', { status: 404 });
 
 const farm = augmentFarm(farmData);
 
+// Edge cache: 1hr fresh, 24hr stale-while-revalidate. Farm data changes monthly;
+// the refresh script purges Cloudflare cache after updating.
+Astro.response.headers.set('Cache-Control', 'public, max-age=3600, stale-while-revalidate=86400');
+
 // Related farms: same state, overlapping seasons (no need to load all 27k farms)
 const augmentedState = stateFarms.map(augmentFarm);
 const related = augmentedState
