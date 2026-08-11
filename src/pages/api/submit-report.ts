@@ -1,13 +1,21 @@
-// Cloudflare Pages Function — handles submission forms
-// Supports two types: "ripe-report" (default) and "new-farm"
-// Writes submissions to KV namespace bound as SUBMISSIONS_KV.
-// Rate-limits by IP using KV with a 60s window.
+export const prerender = false;
+import type { APIRoute } from 'astro';
 
-const RATE_LIMIT_WINDOW = 60; // seconds
+const RATE_LIMIT_WINDOW = 60;
 const MAX_SUBMISSIONS_PER_WINDOW = 3;
 
-export async function onRequestPost({ request, env }) {
-  if (!env.SUBMISSIONS_KV) {
+function json(data: any, status = 200) {
+  return new Response(JSON.stringify(data), {
+    status,
+    headers: { 'Content-Type': 'application/json' },
+  });
+}
+
+export const POST: APIRoute = async ({ request, locals }) => {
+  const runtime = (locals as any).runtime;
+  const kv = runtime?.env?.SUBMISSIONS_KV;
+
+  if (!kv) {
     return json({ error: 'Submission storage not configured' }, 503);
   }
 
@@ -20,7 +28,6 @@ export async function onRequestPost({ request, env }) {
 
   const type = data.type === 'new-farm' ? 'new-farm' : 'ripe-report';
 
-  // Validate required fields — different per type
   if (type === 'ripe-report') {
     if (!data.farmSlug || typeof data.farmSlug !== 'string') {
       return json({ error: 'Missing farm slug' }, 400);
@@ -42,7 +49,7 @@ export async function onRequestPost({ request, env }) {
   const rateKey = `rate:${ip}`;
   let rateCount = 0;
   try {
-    const existing = await env.SUBMISSIONS_KV.get(rateKey);
+    const existing = await kv.get(rateKey);
     rateCount = existing ? parseInt(existing, 10) : 0;
   } catch {}
 
@@ -50,14 +57,12 @@ export async function onRequestPost({ request, env }) {
     return json({ error: 'Too many submissions. Please wait a minute.' }, 429);
   }
 
-  // Increment rate limit counter
   try {
-    await env.SUBMISSIONS_KV.put(rateKey, String(rateCount + 1), {
+    await kv.put(rateKey, String(rateCount + 1), {
       expirationTtl: RATE_LIMIT_WINDOW,
     });
   } catch {}
 
-  // Create submission record
   const id = crypto.randomUUID();
   const submission = {
     id,
@@ -78,28 +83,19 @@ export async function onRequestPost({ request, env }) {
     status: 'pending',
   };
 
-  // Store submission
   try {
-    await env.SUBMISSIONS_KV.put(`sub:${id}`, JSON.stringify(submission));
-    // Also add to pending index
+    await kv.put(`sub:${id}`, JSON.stringify(submission));
     const pendingKey = 'index:pending';
-    let pending = [];
+    let pending: string[] = [];
     try {
-      const existing = await env.SUBMISSIONS_KV.get(pendingKey);
+      const existing = await kv.get(pendingKey);
       pending = existing ? JSON.parse(existing) : [];
     } catch {}
     pending.push(id);
-    await env.SUBMISSIONS_KV.put(pendingKey, JSON.stringify(pending));
+    await kv.put(pendingKey, JSON.stringify(pending));
   } catch (e) {
     return json({ error: 'Failed to store submission' }, 500);
   }
 
   return json({ ok: true, id }, 201);
-}
-
-function json(data, status = 200) {
-  return new Response(JSON.stringify(data), {
-    status,
-    headers: { 'Content-Type': 'application/json' },
-  });
-}
+};

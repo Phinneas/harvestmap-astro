@@ -1,21 +1,10 @@
-// Cloudflare Pages Function — Finder API
-// Searches all 7,025 farms by location, crop, radius, and state.
-// Reads the static farm index from /api/farm-index.json via env.ASSETS.
-//
-// Query params:
-//   lat, lon    — coordinates for radius search
-//   radius      — search radius in miles (default 50)
-//   crop        — filter by crop name (case-insensitive substring)
-//   state       — filter by state code (e.g. "CA")
-//   category    — filter by directory type (agritourism, farmersmarket, csa, foodhub, onfarmmarket)
-//   inSeason    — "true" to filter to farms currently in season
-//   limit       — max results (default 50, max 200)
-//   offset      — pagination offset
+export const prerender = false;
+import type { APIRoute } from 'astro';
 
 const EARTH_RADIUS_MILES = 3959;
 
-function haversineMiles(lat1, lon1, lat2, lon2) {
-  const toRad = (deg) => (deg * Math.PI) / 180;
+function haversineMiles(lat1: number, lon1: number, lat2: number, lon2: number): number {
+  const toRad = (deg: number) => (deg * Math.PI) / 180;
   const dLat = toRad(lat2 - lat1);
   const dLon = toRad(lon2 - lon1);
   const a =
@@ -24,7 +13,7 @@ function haversineMiles(lat1, lon1, lat2, lon2) {
   return EARTH_RADIUS_MILES * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
 
-export async function onRequestGet({ request, env }) {
+export const GET: APIRoute = async ({ request, locals }) => {
   const url = new URL(request.url);
   const params = url.searchParams;
 
@@ -43,9 +32,10 @@ export async function onRequestGet({ request, env }) {
   // Fetch the static farm index
   let farms;
   try {
+    const runtime = (locals as any).runtime;
     const indexUrl = new URL('/api/farm-index.json', url.origin);
-    const res = env.ASSETS
-      ? await env.ASSETS.fetch(indexUrl)
+    const res = runtime?.env?.ASSETS
+      ? await runtime.env.ASSETS.fetch(indexUrl)
       : await fetch(indexUrl);
     farms = await res.json();
   } catch (e) {
@@ -57,39 +47,34 @@ export async function onRequestGet({ request, env }) {
 
   // Filter
   let results = farms;
-
-  // Exclude permanently closed farms from search results
-  results = results.filter((f) => !f.pc);
+  results = results.filter((f: any) => !f.pc);
 
   if (state) {
-    results = results.filter((f) => f.st === state);
+    results = results.filter((f: any) => f.st === state);
   }
-
   if (category) {
-    results = results.filter((f) => f.d === category);
+    results = results.filter((f: any) => f.d === category);
   }
-
   if (crop) {
-    results = results.filter((f) =>
-      (f.cr || []).some((c) => c.toLowerCase().includes(crop))
+    results = results.filter((f: any) =>
+      (f.cr || []).some((c: string) => c.toLowerCase().includes(crop))
     );
   }
-
   if (inSeasonOnly) {
-    results = results.filter((f) => f.sn === true);
+    results = results.filter((f: any) => f.sn === true);
   }
 
   if (hasLocation) {
     results = results
-      .filter((f) => f.lat != null && f.lon != null)
-      .map((f) => ({
+      .filter((f: any) => f.lat != null && f.lon != null)
+      .map((f: any) => ({
         ...f,
         distance: haversineMiles(lat, lon, f.lat, f.lon),
       }))
-      .filter((f) => f.distance <= radius)
-      .sort((a, b) => a.distance - b.distance);
+      .filter((f: any) => f.distance <= radius)
+      .sort((a: any, b: any) => a.distance - b.distance);
   } else {
-    results = results.sort((a, b) => a.n.localeCompare(b.n));
+    results = results.sort((a: any, b: any) => a.n.localeCompare(b.n));
   }
 
   const total = results.length;
@@ -100,7 +85,7 @@ export async function onRequestGet({ request, env }) {
       total,
       offset,
       limit,
-      farms: paged.map((f) => ({
+      farms: paged.map((f: any) => ({
         slug: f.s,
         name: f.n,
         city: f.c,
@@ -122,4 +107,4 @@ export async function onRequestGet({ request, env }) {
       },
     }
   );
-}
+};

@@ -4,3 +4,4 @@ Disallow: /admin/
 Disallow: /api/
 
 Sitemap: https://harvestmap.example/sitemap-index.xml
+Sitemap: https://harvestmap.example/sitemap-farms.xml

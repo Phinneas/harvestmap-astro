@@ -1,27 +1,73 @@
 ---
+export const prerender = false;
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SeasonBadge from '../../components/SeasonBadge.astro';
 import Button from '../../components/Button.astro';
 import FarmCard from '../../components/FarmCard.astro';
 import PathLine from '../../components/illustrations/PathLine.astro';
 import Leaf from '../../components/illustrations/Leaf.astro';
-import { loadAllFarms, augmentFarm } from '../../lib/farm-loader';
-import type { Farm, Season } from '../../lib/types';
+import { augmentFarm } from '../../lib/augment';
+import type { Farm } from '../../lib/types';
 
-export function getStaticPaths() {
-  // Every farm gets a dedicated page — farms are destination experiences,
-  // not commodity locations. Build takes ~3 min for 5,800+ pages but
-  // only runs monthly via GitHub Action; CDN serves pages instantly.
-  const farms = loadAllFarms();
-  return farms.map((farm) => ({ params: { slug: farm.slug } }));
-}
-
-const allFarms = loadAllFarms();
-const augmented = allFarms.map(augmentFarm);
+// --- SSR data loading ---
+// Farm data is served as static JSON files in /farm-data/.
+// The index maps slug → state code, and each state file has all farms for that state.
 
 const { slug } = Astro.params;
-const farm = augmented.find((f) => f.slug === slug);
-if (!farm) throw new Error(`Farm not found: ${slug}`);
+if (!slug) return new Response('Not found', { status: 404 });
+
+// Cache the slug→state index in module scope (persists across requests on same isolate)
+type FarmIndex = Record<string, string>;
+let _farmIndex: FarmIndex | null = null;
+
+async function getFarmIndex(): Promise<FarmIndex> {
+  if (_farmIndex) return _farmIndex;
+  const runtime = (Astro as any).locals.runtime;
+  if (!runtime?.env?.ASSETS) throw new Error('ASSETS binding not available');
+  const res = await runtime.env.ASSETS.fetch(new URL('/farm-data/index.json', Astro.url));
+  _farmIndex = await res.json();
+  return _farmIndex;
+}
+
+async function getStateFarms(stateCode: string): Promise<Farm[]> {
+  const runtime = (Astro as any).locals.runtime;
+  const res = await runtime.env.ASSETS.fetch(new URL(`/farm-data/${stateCode.toLowerCase()}.json`, Astro.url));
+  return await res.json();
+}
+
+// Load farm data
+const index = await getFarmIndex();
+const stateCode = index[slug];
+if (!stateCode) return new Response('Not found', { status: 404 });
+
+const stateFarms: Farm[] = await getStateFarms(stateCode);
+const farmData = stateFarms.find((f) => f.slug === slug);
+if (!farmData) return new Response('Not found', { status: 404 });
+
+const farm = augmentFarm(farmData);
+
+// Related farms: same state, overlapping seasons (no need to load all 27k farms)
+const augmentedState = stateFarms.map(augmentFarm);
+const related = augmentedState
+  .filter((f) => f.slug !== farm.slug)
+  .filter((f) => {
+    const fSeasons = f.seasons && f.seasons.length > 0 ? f.seasons : f.derivedSeasons;
+    const farmSeasons = farm.seasons && farm.seasons.length > 0 ? farm.seasons : farm.derivedSeasons;
+    return farmSeasons.some((s: string) => fSeasons.includes(s as any));
+  })
+  .slice(0, 3);
+
+// Gallery: use enriched farms from same state, or placeholder
+const enrichedStateFarms = augmentedState.filter((f) => f.image && f.image !== '/images/farm-placeholder.svg');
+const galleryPool = enrichedStateFarms.length > 0
+  ? enrichedStateFarms.map((f) => f.image!)
+  : ['/images/farm-placeholder.svg'];
+const farmIdx = augmentedState.findIndex((f) => f.slug === farm.slug);
+const gallery = [
+  galleryPool[(farmIdx + 1) % galleryPool.length],
+  galleryPool[(farmIdx + 2) % galleryPool.length],
+  galleryPool[(farmIdx + 3) % galleryPool.length],
+];
 
 const peakLabels: Record<string, string> = { spring: 'Spring', summer: 'Summer', autumn: 'Autumn', winter: 'Winter', year: 'Year-round' };
 
@@ -34,15 +80,6 @@ const image = farm.image || '/images/farm-placeholder.svg';
 const imageAlt = farm.imageAlt || farm.name;
 const tagline = farm.tagline || (produce.length > 0 ? `U-pick: ${produce.slice(0, 3).join(', ')}` : 'Farm listing');
 const region = farm.region || farm.directory;
-
-const idx = augmented.findIndex((f) => f.slug === farm.slug);
-const enrichedFarms = augmented.filter((f) => f.image && f.image !== '/images/farm-placeholder.svg');
-const pool = enrichedFarms.length > 0 ? enrichedFarms.map((f) => f.image!) : augmented.map((f) => '/images/farm-placeholder.svg');
-const gallery = [pool[(idx + 1) % pool.length], pool[(idx + 2) % pool.length], pool[(idx + 3) % pool.length]];
-
-const related = augmented
-  .filter((f) => f.slug !== farm.slug && seasons.some((s) => (f.seasons || f.derivedSeasons).includes(s)))
-  .slice(0, 3);
 
 const isEnriched = farm.isEnriched;
 const hasCalendar = calendar.length > 0;
