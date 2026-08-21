@@ -3,7 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Button from '../components/Button.astro';
 import SeasonBadge from '../components/SeasonBadge.astro';
 import SearchBar from '../components/SearchBar.astro';
-import FarmCard from '../components/FarmCard.astro';
+import FarmRow from '../components/FarmRow.astro';
 import EmptyState from '../components/EmptyState.astro';
 import SeasonalBanner from '../components/SeasonalBanner.astro';
 import Basket from '../components/illustrations/Basket.astro';
@@ -167,9 +167,9 @@ const principles = [
         <div class="panel" style="max-width: 560px;"><SearchBar id="sg-search" /></div>
       </div>
       <div>
-        <div class="section-head"><span class="eyebrow">Farm card · Scattered Seed</span><h2>Cards sit like hand-dropped seeds</h2><p class="lead">Each card takes a small, capped rotation; hover straightens and lifts it, and the season badge pins over the top edge. Rotation switches off on mobile.</p></div>
-        <div class="seed-grid">
-          {farms.slice(0, 3).map((f) => <FarmCard farm={f} />)}
+        <div class="section-head"><span class="eyebrow">Farm row · Directory list</span><h2>Listings read like a directory</h2><p class="lead">Farms are listed as rows — name, location, type, the crops they grow, and what's in season — no per-farm photos needed. Hover lifts a row; everything stacks cleanly on mobile.</p></div>
+        <div class="farm-list">
+          {farms.slice(0, 3).map((f) => <FarmRow farm={f} />)}
         </div>
       </div>
     </div>

@@ -33,7 +33,7 @@ harvestmap/
 │   │   └── BaseLayout.astro    # <head>, font loading, no-flash theme, nav + footer
 │   ├── components/
 │   │   ├── Nav.astro  Footer.astro  Button.astro  SeasonBadge.astro
-│   │   ├── FarmCard.astro  SearchBar.astro  SeasonalBanner.astro  EmptyState.astro
+│   │   ├── FarmRow.astro  SearchBar.astro  SeasonalBanner.astro  EmptyState.astro
 │   │   └── illustrations/      # 10 inline-SVG illustrations (6 static + 4 animated)
 │   ├── data/
 │   │   └── farms.json          # sample farm content

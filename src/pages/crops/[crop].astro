@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import FarmCard from '../../components/FarmCard.astro';
+import FarmRow from '../../components/FarmRow.astro';
 import SeasonBadge from '../../components/SeasonBadge.astro';
 import Leaf from '../../components/illustrations/Leaf.astro';
 import Button from '../../components/Button.astro';
@@ -80,8 +80,8 @@ const slug = cropName.toLowerCase().replace(/[^a-z0-9]+/g, '-');
           </h2>
           <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">{inSeasonFarms.length} farms with {cropName.toLowerCase()} currently in season.</p>
         </div>
-        <div class="seed-grid stagger">
-          {inSeasonFarms.slice(0, 12).map((f) => <FarmCard farm={f} />)}
+        <div class="farm-list">
+          {inSeasonFarms.slice(0, 12).map((f) => <FarmRow farm={f} />)}
         </div>
       </section>
     )}
@@ -92,8 +92,8 @@ const slug = cropName.toLowerCase().replace(/[^a-z0-9]+/g, '-');
           <h2 style="font-size: var(--fs-h3);">All {cropName.toLowerCase()} farms</h2>
           <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">Across {statesWithCrop.join(', ')}</p>
         </div>
-        <div class="seed-grid stagger">
-          {farmsWithCrop.slice(0, 24).map((f) => <FarmCard farm={f} />)}
+        <div class="farm-list">
+          {farmsWithCrop.slice(0, 24).map((f) => <FarmRow farm={f} />)}
         </div>
         {farmsWithCrop.length > 24 && (
           <p style="text-align: center; margin-top: var(--space-4); color: var(--text-muted);">

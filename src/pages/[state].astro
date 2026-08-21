@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import FarmCard from '../components/FarmCard.astro';
+import FarmRow from '../components/FarmRow.astro';
 import SeasonBadge from '../components/SeasonBadge.astro';
 import Button from '../components/Button.astro';
 import Leaf from '../components/illustrations/Leaf.astro';
@@ -20,17 +20,20 @@ export function getStaticPaths() {
 
 const { stateCode, stateName, totalCount, enrichedCount } = Astro.props;
 const stateFarms = loadFarmsByState(stateCode).map(augmentFarm);
-const enrichedFarms = stateFarms.filter((f) => f.isEnriched || (f.produce || f.crops || []).length > 0);
-const usdaOnlyFarms = stateFarms.filter((f) => !f.isEnriched && (f.produce || f.crops || []).length === 0);
 
-const directoryLabels: Record<string, string> = {
-  agritourism: 'Agritourism',
-  csa: 'CSA',
-  farmersmarket: "Farmers Market",
-  foodhub: 'Food Hub',
-  onfarmmarket: 'On-Farm Market',
-  editorial: 'Editorial',
-};
+// One unified directory list: enriched / with-crops first, then USDA-only, closed last.
+const openFarms = stateFarms.filter((f) => !f.permanentlyClosed);
+const closedFarms = stateFarms.filter((f) => f.permanentlyClosed);
+const sortedFarms = [
+  ...openFarms.sort((a, b) => {
+    const aRich = (a.isEnriched ? 2 : 0) + ((a.produce || a.crops || []).length > 0 ? 1 : 0);
+    const bRich = (b.isEnriched ? 2 : 0) + ((b.produce || b.crops || []).length > 0 ? 1 : 0);
+    if (aRich !== bRich) return bRich - aRich;
+    return a.name.localeCompare(b.name);
+  }),
+  ...closedFarms,
+];
+
 
 // What's in season right now in this state
 const inSeasonFarms = stateFarms.filter((f) => f.derivedInSeasonNow);
@@ -90,53 +93,14 @@ const topCrops = Object.entries(cropCounts).sort((a, b) => b[1] - a[1]).slice(0,
       </section>
     )}
 
-    {enrichedFarms.length > 0 && (
-      <section style="margin-bottom: var(--space-7);">
-        <div class="section-head" style="margin-bottom: var(--space-4);">
-          <h2 style="font-size: var(--fs-h3);">With crop data</h2>
-          <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">These farms have detailed seasonality, crops, and visit info.</p>
-        </div>
-        <div class="seed-grid stagger">
-          {enrichedFarms.map((f) => <FarmCard farm={f} />)}
-        </div>
-      </section>
-    )}
-
-    {usdaOnlyFarms.length > 0 && (
+    {sortedFarms.length > 0 && (
       <section>
         <div class="section-head" style="margin-bottom: var(--space-4);">
           <h2 style="font-size: var(--fs-h3);">All {stateName} farms</h2>
-          <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">From USDA Local Food Directories. Crop data not yet enriched.</p>
+          <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">{totalCount} listings · {enrichedCount} with crop and seasonality data. Farms with crop data are listed first.</p>
         </div>
-        <div class="farm-table">
-          <table style="width: 100%; border-collapse: collapse; font-size: var(--fs-small);">
-            <thead>
-              <tr style="text-align: left; border-bottom: 2px solid var(--line);">
-                <th style="padding: var(--space-2) var(--space-3);">Farm</th>
-                <th style="padding: var(--space-2) var(--space-3);">Location</th>
-                <th style="padding: var(--space-2) var(--space-3);">Type</th>
-                <th style="padding: var(--space-2) var(--space-3);">Website</th>
-              </tr>
-            </thead>
-            <tbody>
-              {usdaOnlyFarms.map((f) => (
-                <tr style="border-bottom: 1px solid var(--line);">
-                  <td style="padding: var(--space-2) var(--space-3); font-weight: 600;">{f.name}</td>
-                  <td style="padding: var(--space-2) var(--space-3); color: var(--text-muted);">{f.location}</td>
-                  <td style="padding: var(--space-2) var(--space-3);">
-                    <span class="tag" style="font-size: var(--fs-xs);">{directoryLabels[f.directory] || f.directory}</span>
-                  </td>
-                  <td style="padding: var(--space-2) var(--space-3);">
-                    {f.website ? (
-                      <a href={f.website} rel="noopener" style="color: var(--clay-deep);">Visit →</a>
-                    ) : (
-                      <span style="color: var(--text-muted);">—</span>
-                    )}
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+        <div class="farm-list">
+          {sortedFarms.map((f) => <FarmRow farm={f} />)}
         </div>
       </section>
     )}
@@ -157,17 +121,3 @@ const topCrops = Object.entries(cropCounts).sort((a, b) => b[1] - a[1]).slice(0,
     ],
   })} />
 </BaseLayout>
-
-<style>
-  .farm-table {
-    overflow-x: auto;
-    border-radius: var(--radius-md);
-    border: 1px solid var(--line);
-  }
-  .farm-table table {
-    min-width: 500px;
-  }
-  .farm-table tr:hover {
-    background: color-mix(in srgb, var(--honey) 6%, var(--surface));
-  }
-</style>

@@ -57,22 +57,6 @@ const statesSorted = [...states].sort((a, b) => b.count - a.count);
 // Recent guides
 const guides = (await getCollection('guides')).sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()).slice(0, 3);
 
-// Farms with coordinates for the Finder map (enriched only for performance)
-const farmsWithCoords = enrichedFarms
-  .filter((f) => f.lat && f.lon)
-  .slice(0, 200)
-  .map((f) => ({
-    slug: f.slug,
-    name: f.name,
-    city: f.locationCity,
-    state: f.locationState,
-    lat: f.lat!,
-    lon: f.lon!,
-    crops: (f.produce || f.crops || []).slice(0, 5),
-    inSeason: f.derivedInSeasonNow,
-    peak: f.peak || f.derivedPeak,
-  }));
-
 // Crop image URLs (Unsplash, from redesign data)
 const CROP_IMAGES: Record<string, string> = {
   Strawberries: 'https://images.unsplash.com/photo-1464983086-557d8c4b3b89?w=400&q=70',
@@ -145,7 +129,7 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
           </p>
           <div class="cluster" style="gap: var(--space-4);">
             <Button variant="primary" size="lg" id="hero-locate">Use my location</Button>
-            <Button variant="secondary" size="lg" href="#finder">Enter a town or ZIP</Button>
+            <Button variant="secondary" size="lg" href="/u-pick-farms">Enter a town or ZIP</Button>
           </div>
           <p class="honesty-note" style="margin: 0; text-align: left;">
             {totalListings.toLocaleString()} directory listings · {total.toLocaleString()} with crop data. Season is estimated from growing zone, not confirmed by the farms. Always call ahead.
@@ -175,14 +159,14 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
         </div>
         <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: var(--space-5);">
           {topCrops.map((crop, i) => (
-            <div class="ripe-card" data-crop={crop.name}>
+            <a class="ripe-card" href={`/u-pick-farms?crop=${encodeURIComponent(crop.name)}`} data-crop={crop.name}>
               <img src={CROP_IMAGES[crop.name] || CROP_IMAGES.default} alt={crop.name} loading="lazy" />
               <div class="ripe-card__overlay">
                 <h3>{crop.name}</h3>
                 <span class="count">{crop.picking} farms picking now</span>
               </div>
               {i === 0 && <span class="ripe-card__sticker">At peak</span>}
-            </div>
+            </a>
           ))}
         </div>
         <p class="honesty-note">Crop availability is estimated from hardiness zones and crop calendars. Confirm with the farm before visiting.</p>
@@ -190,47 +174,29 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
     </section>
   )}
 
-  <!-- Finder -->
+  <!-- Finder entry → canonical u-pick locator -->
   <section class="section" id="finder">
     <div class="container">
       <div class="section-head">
         <span class="eyebrow" style="color: var(--moss);">&#128269; Find a farm</span>
-        <h2>Search {totalListings.toLocaleString()} farms by location or crop</h2>
-        <p class="lead">Enter a town, ZIP code, or crop to find farms near you. Filter by type to narrow your search.</p>
+        <h2>Find u-pick farms near you</h2>
+        <p class="lead">Enter your ZIP code to see pick-your-own farms within driving distance. The full locator has a map, crop and type filters, and seasonal availability.</p>
       </div>
 
-      <!-- Location + filter bar -->
-      <div class="finder-bar" style="margin-bottom: var(--space-5);">
-        <input type="text" id="finder-location" placeholder="Town or ZIP code" aria-label="Location (town or ZIP code)" />
-        <select id="finder-crop" aria-label="Filter by crop">
-          <option value="">All crops</option>
-          {Object.keys(cropCounts).sort().map((c) => <option value={c}>{c}</option>)}
-        </select>
-        <select id="finder-category" aria-label="Filter by farm type">
-          <option value="">All types</option>
-          <option value="agritourism">Farms & agritourism</option>
-          <option value="farmersmarket">Farmers markets</option>
-          <option value="onfarmmarket">On-farm markets</option>
-          <option value="csa">CSA programs</option>
-          <option value="foodhub">Food hubs</option>
-        </select>
-        <select id="finder-radius" aria-label="Search radius in miles">
+      <form class="finder-entry" id="finder-entry" action="/u-pick-farms" method="get" autocomplete="on">
+        <input type="text" name="zip" inputmode="numeric" pattern="[0-9]{5}" maxlength="5" placeholder="Your ZIP code" aria-label="Your ZIP code" id="finder-zip" />
+        <select name="radius" aria-label="Search radius in miles" id="finder-radius">
           <option value="25">25 miles</option>
           <option value="50" selected>50 miles</option>
           <option value="100">100 miles</option>
-          <option value="500">500 miles</option>
+          <option value="250">250 miles</option>
         </select>
-        <button class="chip" id="finder-picking" aria-pressed="false" aria-label="Filter to farms currently picking">Picking now</button>
-        <button class="btn btn--primary" id="finder-search" style="background: var(--honey); color: var(--ink);" aria-label="Search for farms">Search</button>
-      </div>
+        <button class="btn btn--primary" type="submit" style="background: var(--honey); color: var(--ink);">Find u-pick farms</button>
+      </form>
 
-      <!-- Map + results -->
-      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-5);" class="finder-layout">
-        <div class="finder-map" id="finder-map" role="img" aria-label="Map showing farm locations"></div>
-        <div class="stack stack-3">
-          <div class="finder-results" id="finder-results"></div>
-          <p class="honesty-note" style="margin: 0;">Showing farms with crop data. <a href="#states">Browse all {totalListings.toLocaleString()} farms by state</a>.</p>
-        </div>
+      <div class="cluster" style="margin-top: var(--space-4); gap: var(--space-3);">
+        <Button variant="ghost" href="/u-pick-farms">Open the full u-pick locator &rarr;</Button>
+        <Button variant="ghost" href="#states">Browse all {totalListings.toLocaleString()} farms by state</Button>
       </div>
     </div>
   </section>
@@ -260,7 +226,7 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
                   <li><span>{c.name}</span><span class="mo">{c.months}</span></li>
                 ))}
               </ul>
-              <Button variant="ghost" href="#finder">{countFor(s)} farms in {seasonLabels[s].toLowerCase()} →</Button>
+              <Button variant="ghost" href="/u-pick-farms">{countFor(s)} farms in {seasonLabels[s].toLowerCase()} →</Button>
             </article>
           );
         })}
@@ -339,199 +305,24 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
     </div>
   </section>
 
-  <!-- Leaflet CSS + JS via CDN -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-
-  <!-- Farm data for Finder (JSON island) — must be before the script that reads it -->
-  <script type="application/json" id="farm-data" set:html={JSON.stringify(farmsWithCoords)} />
-
-  <!-- Homepage interactivity -->
+  <!-- Hero "Use my location" → canonical u-pick locator -->
   <script is:inline>
-    // Farm data for the Finder (injected from server)
-    window.__FARMS__ = JSON.parse(document.getElementById('farm-data').textContent);
-
     (function () {
-      // --- Hero "Use my location" ---
       var heroLocate = document.getElementById('hero-locate');
-      if (heroLocate) {
-        heroLocate.addEventListener('click', function () {
-          if (!navigator.geolocation) return;
-          heroLocate.textContent = 'Locating...';
-          navigator.geolocation.getCurrentPosition(function (pos) {
-            document.getElementById('finder-location').value = pos.coords.lat.toFixed(2) + ',' + pos.coords.lon.toFixed(2);
-            runSearch();
-            document.getElementById('finder').scrollIntoView({ behavior: 'smooth' });
-            heroLocate.textContent = 'Use my location';
-          }, function () {
-            heroLocate.textContent = 'Location denied';
-            setTimeout(function () { heroLocate.textContent = 'Use my location'; }, 2000);
-          });
-        });
-      }
-
-      // --- Ripe This Week crop cards → filter Finder ---
-      document.querySelectorAll('.ripe-card').forEach(function (card) {
-        card.addEventListener('click', function () {
-          var crop = card.getAttribute('data-crop');
-          var cropSelect = document.getElementById('finder-crop');
-          if (cropSelect) cropSelect.value = crop;
-          runSearch();
-          document.getElementById('finder').scrollIntoView({ behavior: 'smooth' });
+      if (!heroLocate) return;
+      heroLocate.addEventListener('click', function () {
+        if (!navigator.geolocation) { window.location.href = '/u-pick-farms'; return; }
+        heroLocate.textContent = 'Locating…';
+        navigator.geolocation.getCurrentPosition(function (pos) {
+          var lat = pos.coords.latitude.toFixed(4);
+          var lon = pos.coords.longitude.toFixed(4);
+          window.location.href = '/u-pick-farms?lat=' + lat + '&lon=' + lon + '&radius=50';
+        }, function () {
+          heroLocate.textContent = 'Location denied';
+          setTimeout(function () { heroLocate.textContent = 'Use my location'; }, 2000);
+          window.location.href = '/u-pick-farms';
         });
       });
-
-      // --- Finder search ---
-      var searchBtn = document.getElementById('finder-search');
-      var pickingToggle = document.getElementById('finder-picking');
-      var resultsEl = document.getElementById('finder-results');
-
-      if (searchBtn) searchBtn.addEventListener('click', runSearch);
-      var locInput = document.getElementById('finder-location');
-      if (locInput) locInput.addEventListener('keydown', function (e) { if (e.key === 'Enter') runSearch(); });
-      var cropSelect = document.getElementById('finder-crop');
-      if (cropSelect) cropSelect.addEventListener('change', runSearch);
-      var categorySelect = document.getElementById('finder-category');
-      if (categorySelect) categorySelect.addEventListener('change', runSearch);
-      var radiusSelect = document.getElementById('finder-radius');
-      if (radiusSelect) radiusSelect.addEventListener('change', runSearch);
-      if (pickingToggle) pickingToggle.addEventListener('click', function () {
-        var on = this.getAttribute('aria-pressed') === 'true';
-        this.setAttribute('aria-pressed', String(!on));
-        runSearch();
-      });
-
-      function haversineMi(aLat, aLon, bLat, bLon) {
-        var R = 3958.8, dLat = (bLat - aLat) * Math.PI / 180, dLon = (bLon - aLon) * Math.PI / 180;
-        var h = Math.sin(dLat/2)**2 + Math.cos(aLat*Math.PI/180) * Math.cos(bLat*Math.PI/180) * Math.sin(dLon/2)**2;
-        return R * 2 * Math.atan2(Math.sqrt(h), Math.sqrt(1-h));
-      }
-
-      var searchTimer;
-      function runSearch() {
-        clearTimeout(searchTimer);
-        searchTimer = setTimeout(doSearch, 200);
-      }
-
-      async function doSearch() {
-        var crop = document.getElementById('finder-crop').value;
-        var category = document.getElementById('finder-category').value;
-        var picking = pickingToggle && pickingToggle.getAttribute('aria-pressed') === 'true';
-        var locVal = (locInput || {}).value || '';
-        var radius = parseInt(document.getElementById('finder-radius').value, 10) || 50;
-
-        // Parse lat,lon from location input
-        var lat, lon;
-        if (locVal && locVal.indexOf(',') !== -1) {
-          var parts = locVal.split(',');
-          lat = parseFloat(parts[0]); lon = parseFloat(parts[1]);
-        }
-
-        // Build API query
-        var params = new URLSearchParams();
-        if (lat && lon) { params.set('lat', lat); params.set('lon', lon); params.set('radius', radius); }
-        if (crop) params.set('crop', crop);
-        if (category) params.set('category', category);
-        if (picking) params.set('inSeason', 'true');
-        params.set('limit', '50');
-
-        // Show loading state
-        if (resultsEl) resultsEl.innerHTML = '<p style="color: var(--text-muted);">Searching...</p>';
-
-        try {
-          var res = await fetch('/api/finder?' + params.toString());
-          if (res.ok) {
-            var data = await res.json();
-            var farms = data.farms || [];
-            renderResults(farms.slice(0, 12));
-            renderMap(farms.slice(0, 50), lat, lon, radius);
-            return;
-          }
-        } catch (e) {
-          // API not available (local dev) — fall back to client-side
-        }
-
-        // Fallback: filter the inline JSON island
-        var localFarms = window.__FARMS__ || [];
-        var filtered = localFarms.filter(function (f) {
-          if (crop && f.crops.indexOf(crop) === -1) return false;
-          if (picking && !f.inSeason) return false;
-          return true;
-        });
-
-        if (lat && lon) {
-          filtered = filtered.map(function (f) {
-            return Object.assign({}, f, { distance: haversineMi(lat, lon, f.lat, f.lon) });
-          }).filter(function (f) { return f.distance <= radius; })
-            .sort(function (a, b) { return a.distance - b.distance; });
-        }
-
-        renderResults(filtered.slice(0, 12));
-        renderMap(filtered.slice(0, 50), lat, lon, radius);
-      }
-
-      function renderResults(farms) {
-        if (!resultsEl) return;
-        if (farms.length === 0) {
-          resultsEl.innerHTML = '<p style="color: var(--text-muted);">No farms found. Try widening your radius or changing crops.</p>';
-          return;
-        }
-        resultsEl.innerHTML = farms.map(function (f) {
-          var cropList = f.crops || [];
-          var badges = cropList.slice(0, 3).map(function (c) {
-            return '<span class="badge" style="font-size:0.65rem;padding:2px 6px;">' + c + '</span>';
-          }).join('');
-          var dist = f.distance ? '<span class="finder-result-card__meta">' + Math.round(f.distance) + ' mi away</span>' : '';
-          var href = f.url || ('/farms/' + f.slug);
-          return '<a href="' + href + '" class="finder-result-card">' +
-            '<img src="https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=200&q=60" alt="" loading="lazy" />' +
-            '<div class="finder-result-card__body">' +
-              '<span class="finder-result-card__name">' + f.name + '</span>' +
-              '<span class="finder-result-card__meta">' + (f.city || '') + ', ' + f.state + '</span>' +
-              dist +
-              '<div class="finder-result-card__badges">' + badges + '</div>' +
-            '</div>' +
-          '</a>';
-        }).join('');
-      }
-
-      // --- Leaflet map ---
-      var map, markerLayer;
-      function renderMap(farms, userLat, userLon, radius) {
-        if (typeof L === 'undefined') return;
-        if (!map) {
-          map = L.map('finder-map', { scrollWheelZoom: false }).setView([39.5, -98.5], 4);
-          L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-            attribution: '&copy; OpenStreetMap &copy; CARTO', maxZoom: 18,
-          }).addTo(map);
-          markerLayer = L.layerGroup().addTo(map);
-        }
-        markerLayer.clearLayers();
-
-        farms.forEach(function (f) {
-          var color = f.inSeason ? '#5f8f4e' : '#c4632c';
-          L.circleMarker([f.lat, f.lon], { radius: 6, color: color, fillColor: color, fillOpacity: 0.6, weight: 1 })
-            .bindPopup('<a href="/farms/' + f.slug + '">' + f.name + '</a><br>' + (f.city || '') + ', ' + f.state)
-            .addTo(markerLayer);
-        });
-
-        if (userLat && userLon) {
-          L.circleMarker([userLat, userLon], { radius: 8, color: '#2e4f3e', fillColor: '#2e4f3e', fillOpacity: 1 }).addTo(markerLayer);
-          L.circle([userLat, userLon], { radius: radius * 1609.34, color: '#2e4f3e', fillOpacity: 0.05, weight: 1 }).addTo(markerLayer);
-          map.setView([userLat, userLon], Math.min(12, Math.max(7, 12 - Math.log2(radius / 10))));
-        } else if (farms.length > 0) {
-          var bounds = L.latLngBounds(farms.map(function (f) { return [f.lat, f.lon]; }));
-          map.fitBounds(bounds, { padding: [30, 30] });
-        }
-      }
-
-      // Load Leaflet JS if map container exists
-      var mapEl = document.getElementById('finder-map');
-      if (mapEl) {
-        var s = document.createElement('script');
-        s.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
-        s.onload = function () { runSearch(); };
-        document.head.appendChild(s);
-      }
     })();
   </script>
 

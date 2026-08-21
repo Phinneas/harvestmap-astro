@@ -1,0 +1,409 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Leaf from '../components/illustrations/Leaf.astro';
+import { loadAllAugmentedFarms, getStatesWithFarms } from '../lib/farm-loader';
+
+// Precompute the crop list for the filter dropdown at build time.
+const allFarms = loadAllAugmentedFarms();
+const cropCounts: Record<string, number> = {};
+for (const f of allFarms) {
+  for (const c of (f.produce || f.crops || [])) {
+    cropCounts[c] = (cropCounts[c] || 0) + 1;
+  }
+}
+const crops = Object.keys(cropCounts).sort((a, b) => cropCounts[b] - cropCounts[a] - a.localeCompare(b));
+const states = getStatesWithFarms();
+const totalListings = allFarms.length;
+---
+<BaseLayout active="farms" title="U-Pick Farms Near You · HarvestMap" description="Find u-pick farms near you. Enter your ZIP code to see pick-your-own farms, orchards, and farm stands within driving distance.">
+  <div class="container" style="padding-top: var(--space-6);">
+    <div class="section-head" style="margin-bottom: var(--space-5);">
+      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> U-pick locator</span>
+      <h1 class="squiggle squiggle-harvest">Find u-pick farms near you</h1>
+      <p class="lead">Enter your ZIP code to see pick-your-own farms, orchards, and farm stands within driving distance. {totalListings.toLocaleString()} listings across {states.length} states.</p>
+    </div>
+
+    <!-- Search bar -->
+    <div class="locator-bar" id="locator-bar">
+      <div class="locator-field locator-field--zip">
+        <label for="loc-zip" class="locator-label">ZIP code</label>
+        <input id="loc-zip" type="text" inputmode="numeric" pattern="[0-9]{5}" maxlength="5" placeholder="e.g. 98290" autocomplete="postal-code" aria-label="Your ZIP code" />
+      </div>
+      <div class="locator-field">
+        <label for="loc-radius" class="locator-label">Within</label>
+        <select id="loc-radius" aria-label="Search radius in miles">
+          <option value="25">25 miles</option>
+          <option value="50" selected>50 miles</option>
+          <option value="100">100 miles</option>
+          <option value="250">250 miles</option>
+        </select>
+      </div>
+      <div class="locator-field">
+        <label for="loc-crop" class="locator-label">Crop</label>
+        <select id="loc-crop" aria-label="Filter by crop">
+          <option value="">All crops</option>
+          {crops.map((c) => <option value={c}>{c}</option>)}
+        </select>
+      </div>
+      <div class="locator-field">
+        <label for="loc-type" class="locator-label">Type</label>
+        <select id="loc-type" aria-label="Filter by farm type">
+          <option value="agritourism" selected>U-pick farms</option>
+          <option value="">All types</option>
+          <option value="farmersmarket">Farmers' market</option>
+          <option value="onfarmmarket">On-farm market</option>
+          <option value="csa">CSA</option>
+          <option value="foodhub">Food hub</option>
+        </select>
+      </div>
+      <button class="chip" id="loc-picking" aria-pressed="false" aria-label="Only show farms picking right now">Picking now</button>
+      <button class="btn btn--primary" id="loc-search" style="background: var(--honey); color: var(--ink);">Find farms</button>
+      <button class="btn btn--ghost" id="loc-locate" aria-label="Use my location">Use my location</button>
+    </div>
+
+    <p class="locator-status" id="loc-status" role="status" aria-live="polite">Enter a ZIP code to find u-pick farms near you.</p>
+
+    <!-- Results -->
+    <div class="locator-layout" id="locator-layout">
+      <div class="locator-map" id="loc-map" role="img" aria-label="Map showing nearby farm locations"></div>
+      <div class="locator-results-wrap">
+        <div class="locator-results" id="loc-results"></div>
+      </div>
+    </div>
+
+    <p class="honesty-note" style="margin-top: var(--space-5);">
+      Seasonal availability is estimated from growing zones, not confirmed by every farm. Distances are straight-line (as the crow flies). Always call ahead before visiting.
+    </p>
+  </div>
+
+  <link rel="canonical" href="/u-pick-farms" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: '/' },
+      { '@type': 'ListItem', position: 2, name: 'U-pick farms', item: '/u-pick-farms' },
+    ],
+  })} />
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+  <script is:inline>
+    (function () {
+      var zipInput = document.getElementById('loc-zip');
+      var radiusSel = document.getElementById('loc-radius');
+      var cropSel = document.getElementById('loc-crop');
+      var typeSel = document.getElementById('loc-type');
+      var pickingToggle = document.getElementById('loc-picking');
+      var searchBtn = document.getElementById('loc-search');
+      var locateBtn = document.getElementById('loc-locate');
+      var statusEl = document.getElementById('loc-status');
+      var resultsEl = document.getElementById('loc-results');
+      var mapEl = document.getElementById('loc-map');
+
+      var zipCentroids = null;     // cached dataset
+      var userLat = null, userLon = null;  // set by geolocation (bypasses ZIP)
+      var map = null, markerLayer = null;
+
+      var TYPE_LABELS = {
+        agritourism: 'Agritourism',
+        farmersmarket: "Farmers' Market",
+        csa: 'CSA',
+        foodhub: 'Food Hub',
+        onfarmmarket: 'On-Farm Market',
+        editorial: 'Featured',
+      };
+      var PEAK_LABELS = { spring: 'Spring', summer: 'Summer', autumn: 'Autumn', winter: 'Winter', year: 'Year-round' };
+
+      // --- URL state ---
+      function readParams() {
+        var p = new URLSearchParams(window.location.search);
+        if (p.get('zip')) zipInput.value = p.get('zip');
+        if (p.get('radius')) radiusSel.value = p.get('radius');
+        if (p.get('crop')) cropSel.value = p.get('crop');
+        if (p.get('category')) typeSel.value = p.get('category');
+        if (p.get('inSeason') === 'true') pickingToggle.setAttribute('aria-pressed', 'true');
+        return p.get('zip') || p.get('lat');
+      }
+      function writeParams(extra) {
+        var params = new URLSearchParams();
+        if (userLat != null && userLon != null) {
+          params.set('lat', userLat.toFixed(4));
+          params.set('lon', userLon.toFixed(4));
+        } else if (zipInput.value) {
+          params.set('zip', zipInput.value);
+        }
+        params.set('radius', radiusSel.value);
+        if (cropSel.value) params.set('crop', cropSel.value);
+        if (typeSel.value) params.set('category', typeSel.value);
+        if (pickingToggle.getAttribute('aria-pressed') === 'true') params.set('inSeason', 'true');
+        var qs = params.toString();
+        var url = qs ? '/u-pick-farms?' + qs : '/u-pick-farms';
+        window.history.replaceState({}, '', url);
+      }
+
+      // --- ZIP lookup ---
+      async function loadCentroids() {
+        if (zipCentroids) return zipCentroids;
+        var res = await fetch('/data/zip-centroids.json');
+        if (!res.ok) throw new Error('ZIP dataset unavailable');
+        zipCentroids = await res.json();
+        return zipCentroids;
+      }
+
+      function resolveZip(zip) {
+        var c = zipCentroids ? zipCentroids[zip] : null;
+        if (!c) return null;
+        return { lat: c[0], lon: c[1] };
+      }
+
+      // --- Search ---
+      async function runSearch() {
+        var radius = parseInt(radiusSel.value, 10) || 50;
+        var crop = cropSel.value;
+        var category = typeSel.value;
+        var picking = pickingToggle.getAttribute('aria-pressed') === 'true';
+
+        var lat, lon, zipLabel;
+        if (userLat != null && userLon != null) {
+          lat = userLat; lon = userLon;
+          zipLabel = 'your location';
+        } else {
+          var zip = (zipInput.value || '').trim();
+          if (!/^\d{5}$/.test(zip)) {
+            setStatus('Enter a 5-digit ZIP code to find farms near you.', true);
+            clearResults();
+            return;
+          }
+          try { await loadCentroids(); } catch (e) {
+            setStatus('Couldn\u2019t load the ZIP lookup. Please try again.', true);
+            return;
+          }
+          var coords = resolveZip(zip);
+          if (!coords) {
+            setStatus('We don\u2019t recognize that ZIP code. Double-check it and try again.', true);
+            clearResults();
+            return;
+          }
+          lat = coords.lat; lon = coords.lon;
+          zipLabel = zip;
+        }
+
+        writeParams();
+        setStatus('Searching ' + (category || 'all farm types') + ' within ' + radius + ' mi of ' + zipLabel + '\u2026');
+
+        var params = new URLSearchParams();
+        params.set('lat', lat); params.set('lon', lon); params.set('radius', radius);
+        if (crop) params.set('crop', crop);
+        if (category) params.set('category', category);
+        if (picking) params.set('inSeason', 'true');
+        params.set('limit', '50');
+
+        try {
+          var res = await fetch('/api/finder?' + params.toString());
+          if (!res.ok) throw new Error('Finder error ' + res.status);
+          var data = await res.json();
+          var farms = data.farms || [];
+          renderResults(farms, radius, zipLabel, category);
+          renderMap(farms, lat, lon, radius);
+        } catch (e) {
+          setStatus('Search isn\u2019t available right now. Please try again shortly.', true);
+          clearResults();
+        }
+      }
+
+      function renderResults(farms, radius, label, category) {
+        var typeWord = category === 'agritourism' ? 'u-pick farm' : (category ? TYPE_LABELS[category] : 'farm');
+        if (farms.length === 0) {
+          setStatus('No ' + typeWord + 's within ' + radius + ' mi of ' + label + '. Try widening the radius or changing the type filter.');
+          resultsEl.innerHTML = '<p style="color: var(--text-muted);">No farms found. Try a larger radius, a different crop, or switch to "All types".</p>';
+          return;
+        }
+        setStatus(farms.length + ' ' + typeWord + (farms.length === 1 ? '' : 's') + ' within ' + radius + ' mi of ' + label + ', closest first.');
+        resultsEl.innerHTML = farms.map(function (f) {
+          return rowHtml(f);
+        }).join('');
+      }
+
+      function rowHtml(f) {
+        var crops = f.crops || [];
+        var cropTags = crops.slice(0, 4).map(function (c) {
+          return '<span class="tag">' + escapeHtml(c) + '</span>';
+        }).join('');
+        if (crops.length > 4) cropTags += '<span class="tag tag--muted">+' + (crops.length - 4) + '</span>';
+
+        var typeBadge = '';
+        if (f.directory && f.directory !== 'agritourism' && f.directory !== 'editorial' && TYPE_LABELS[f.directory]) {
+          typeBadge = '<span class="type-badge type-badge--' + f.directory + '">' + TYPE_LABELS[f.directory] + '</span>';
+        }
+        var closedTag = f.closed ? '<span class="tag" style="background:var(--ember-15);color:var(--ember);border-color:var(--ember);">Closed</span>' : '';
+
+        var season = '';
+        if (f.inSeason && f.peak) {
+          season = '<span class="badge badge--' + f.peak + '"><span class="badge__dot" aria-hidden="true"></span>In season now</span>';
+        } else if (f.peak && PEAK_LABELS[f.peak]) {
+          season = '<span class="badge badge--' + f.peak + '"><span class="badge__dot" aria-hidden="true"></span>' + PEAK_LABELS[f.peak] + ' peak</span>';
+        }
+
+        var dist = (typeof f.distance === 'number')
+          ? '<span class="farm-row__dist">' + f.distance + ' mi</span>'
+          : '';
+
+        var locText = escapeHtml([f.city, f.state].filter(Boolean).join(', '));
+
+        return '<a class="farm-row" href="' + (f.url || '/farms/' + f.slug) + '">' +
+          '<div class="farm-row__main">' +
+            '<div class="farm-row__head">' +
+              '<h3 class="farm-row__title">' + escapeHtml(f.name) + '</h3>' +
+              typeBadge + closedTag +
+            '</div>' +
+            '<span class="card__loc farm-row__loc">' +
+              '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21c5-3 8-7 8-11a8 8 0 1 0-16 0c0 4 3 8 8 11Z"/><circle cx="12" cy="10" r="2.6"/></svg>' +
+              locText +
+            '</span>' +
+            (cropTags ? '<div class="card__tags farm-row__crops">' + cropTags + '</div>' : '') +
+          '</div>' +
+          '<div class="farm-row__side">' +
+            dist +
+            season +
+            '<span class="farm-row__action" aria-hidden="true">View \u2192</span>' +
+          '</div>' +
+        '</a>';
+      }
+
+      function escapeHtml(s) {
+        return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+          return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+        });
+      }
+
+      function clearResults() {
+        resultsEl.innerHTML = '';
+        if (map && markerLayer) markerLayer.clearLayers();
+      }
+
+      function setStatus(msg, isError) {
+        statusEl.textContent = msg;
+        statusEl.style.color = isError ? 'var(--ember)' : 'var(--text-muted)';
+      }
+
+      // --- Leaflet map ---
+      function ensureMap() {
+        if (typeof L === 'undefined' || !mapEl) return false;
+        if (!map) {
+          map = L.map('loc-map', { scrollWheelZoom: false }).setView([39.5, -98.5], 4);
+          L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; OpenStreetMap &copy; CARTO', maxZoom: 18,
+          }).addTo(map);
+          markerLayer = L.layerGroup().addTo(map);
+        }
+        return true;
+      }
+      function renderMap(farms, lat, lon, radius) {
+        if (!ensureMap()) { loadLeafletThen(function () { renderMap(farms, lat, lon, radius); }); return; }
+        markerLayer.clearLayers();
+        farms.forEach(function (f) {
+          if (f.lat == null || f.lon == null) return;
+          var color = f.inSeason ? '#5f8f4e' : '#c4632c';
+          L.circleMarker([f.lat, f.lon], { radius: 6, color: color, fillColor: color, fillOpacity: 0.6, weight: 1 })
+            .bindPopup('<a href="' + (f.url || '/farms/' + f.slug) + '">' + escapeHtml(f.name) + '</a><br>' + escapeHtml([f.city, f.state].filter(Boolean).join(', ')) + (typeof f.distance === 'number' ? '<br>' + f.distance + ' mi away' : ''))
+            .addTo(markerLayer);
+        });
+        L.circleMarker([lat, lon], { radius: 8, color: '#2e4f3e', fillColor: '#2e4f3e', fillOpacity: 1 }).addTo(markerLayer);
+        L.circle([lat, lon], { radius: radius * 1609.34, color: '#2e4f3e', fillOpacity: 0.05, weight: 1 }).addTo(markerLayer);
+        if (farms.length > 0) {
+          var bounds = L.latLngBounds(farms.filter(function (f) { return f.lat != null; }).map(function (f) { return [f.lat, f.lon]; }));
+          bounds.extend([lat, lon]);
+          map.fitBounds(bounds, { padding: [30, 30], maxZoom: 12 });
+        } else {
+          map.setView([lat, lon], Math.min(11, Math.max(7, 12 - Math.log2(radius / 10))));
+        }
+      }
+      function loadLeafletThen(cb) {
+        if (typeof L !== 'undefined') { cb(); return; }
+        var s = document.createElement('script');
+        s.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+        s.onload = cb;
+        document.head.appendChild(s);
+      }
+
+      // --- Events ---
+      searchBtn.addEventListener('click', function () { userLat = null; userLon = null; runSearch(); });
+      zipInput.addEventListener('keydown', function (e) { if (e.key === 'Enter') { userLat = null; userLon = null; runSearch(); } });
+      [radiusSel, cropSel, typeSel].forEach(function (el) { el.addEventListener('change', runSearch); });
+      pickingToggle.addEventListener('click', function () {
+        var on = this.getAttribute('aria-pressed') === 'true';
+        this.setAttribute('aria-pressed', String(!on));
+        runSearch();
+      });
+      locateBtn.addEventListener('click', function () {
+        if (!navigator.geolocation) { setStatus('Geolocation isn\u2019t available on this device.', true); return; }
+        locateBtn.textContent = 'Locating\u2026';
+        navigator.geolocation.getCurrentPosition(function (pos) {
+          userLat = pos.coords.latitude; userLon = pos.coords.longitude;
+          zipInput.value = '';
+          runSearch();
+          locateBtn.textContent = 'Use my location';
+        }, function () {
+          setStatus('Couldn\u2019t get your location. Enter a ZIP code instead.', true);
+          locateBtn.textContent = 'Use my location';
+        });
+      });
+
+      // Auto-run if the URL has search params.
+      var hasParams = readParams();
+      // Try to load Leaflet up front so the map is ready when results arrive.
+      loadLeafletThen(function () {});
+      if (hasParams) {
+        // If a lat/lon was shared (not a zip), set userLat/Lon from params.
+        var p = new URLSearchParams(window.location.search);
+        if (p.get('lat') && p.get('lon') && !p.get('zip')) {
+          userLat = parseFloat(p.get('lat'));
+          userLon = parseFloat(p.get('lon'));
+          zipInput.value = '';
+        }
+        runSearch();
+      }
+    })();
+  </script>
+</BaseLayout>
+
+<style>
+  .locator-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    align-items: flex-end;
+    margin-bottom: var(--space-4);
+    padding: var(--space-4);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sm);
+  }
+  .locator-field { display: flex; flex-direction: column; gap: 4px; }
+  .locator-field--zip { min-width: 130px; }
+  .locator-label { font-size: var(--fs-label); text-transform: uppercase; letter-spacing: 0.07em; color: var(--text-muted); font-weight: 600; }
+  .locator-bar input,
+  .locator-bar select {
+    font: inherit;
+    padding: 0.55em 0.7em;
+    border: 1px solid var(--line-strong);
+    border-radius: var(--radius-md);
+    background: var(--surface);
+    color: var(--text);
+  }
+  .locator-bar input:focus,
+  .locator-bar select:focus { outline: none; border-color: var(--clay); box-shadow: 0 0 0 3px var(--clay-16); }
+  .locator-status { margin: 0 0 var(--space-4); font-size: var(--fs-small); color: var(--text-muted); }
+  .locator-layout { display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-5); align-items: stretch; }
+  .locator-map { min-height: 420px; height: 60vh; border-radius: var(--radius-lg); overflow: hidden; border: 1px solid var(--line); background: var(--surface-sunk); }
+  .locator-results-wrap { max-height: 70vh; overflow-y: auto; padding-right: 2px; }
+  .locator-results { display: flex; flex-direction: column; gap: var(--space-2); }
+  @media (max-width: 860px) {
+    .locator-layout { grid-template-columns: 1fr; }
+    .locator-map { height: 320px; min-height: 320px; }
+    .locator-results-wrap { max-height: none; }
+  }
+</style>
