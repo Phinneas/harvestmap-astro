@@ -14,6 +14,7 @@ for (const f of allFarms) {
 const crops = Object.keys(cropCounts).sort((a, b) => cropCounts[b] - cropCounts[a] - a.localeCompare(b));
 const states = getStatesWithFarms();
 const totalListings = allFarms.length;
+const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
 ---
 <BaseLayout active="farms" title="U-Pick Farms Near You · HarvestMap" description="Find u-pick farms near you. Enter your ZIP code to see pick-your-own farms, orchards, and farm stands within driving distance.">
   <div class="container" style="padding-top: var(--space-6);">
@@ -48,17 +49,36 @@ const totalListings = allFarms.length;
       <div class="locator-field">
         <label for="loc-type" class="locator-label">Type</label>
         <select id="loc-type" aria-label="Filter by farm type">
-          <option value="agritourism" selected>U-pick farms</option>
-          <option value="">All types</option>
+          <option value="" selected>All types</option>
+          <option value="pumpkin-patch">Pumpkin patch</option>
+          <option value="corn-maze">Corn maze</option>
+          <option value="apple-orchard">Apple orchard</option>
+          <option value="orchard">Orchard</option>
+          <option value="farm-tour">Farm tour</option>
+          <option value="farm-stand">Farm stand</option>
+          <option value="u-pick">U-pick farm</option>
+          <option value="berry-farm">Berry farm</option>
+          <option value="winery">Winery</option>
           <option value="farmersmarket">Farmers' market</option>
           <option value="onfarmmarket">On-farm market</option>
           <option value="csa">CSA</option>
-          <option value="foodhub">Food hub</option>
         </select>
       </div>
       <button class="chip" id="loc-picking" aria-pressed="false" aria-label="Only show farms picking right now">Picking now</button>
       <button class="btn btn--primary" id="loc-search" style="background: var(--honey); color: var(--ink);">Find farms</button>
       <button class="btn btn--ghost" id="loc-locate" aria-label="Use my location">Use my location</button>
+    </div>
+
+    <!-- Structured attribute filters ("the moat") -->
+    <div class="filters" id="loc-filters" style="margin-bottom: var(--space-4);">
+      <span class="locator-label" style="align-self: center;">Filters:</span>
+      <button class="chip" data-filter="cornMaze" aria-pressed="false">🌽 Corn maze</button>
+      <button class="chip" data-filter="brewery" aria-pressed="false">🍺 Brewery / cidery</button>
+      <button class="chip" data-filter="free" aria-pressed="false">🎟️ Free admission</button>
+      <button class="chip" data-filter="night" aria-pressed="false">🌙 Night hours</button>
+      <button class="chip" data-filter="dogs" aria-pressed="false">🐕 Dog friendly</button>
+      <button class="chip" data-filter="accessible" aria-pressed="false">♿ Accessible</button>
+      <button class="chip" data-filter="openWeekend" aria-pressed="false">📅 Open weekends</button>
     </div>
 
     <p class="locator-status" id="loc-status" role="status" aria-live="polite">Enter a ZIP code to find u-pick farms near you.</p>
@@ -89,7 +109,7 @@ const totalListings = allFarms.length;
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
-  <script is:inline>
+  <script is:inline define:vars={{ mapboxToken }}>
     (function () {
       var zipInput = document.getElementById('loc-zip');
       var radiusSel = document.getElementById('loc-radius');
@@ -101,22 +121,39 @@ const totalListings = allFarms.length;
       var statusEl = document.getElementById('loc-status');
       var resultsEl = document.getElementById('loc-results');
       var mapEl = document.getElementById('loc-map');
+      var filterChips = document.querySelectorAll('#loc-filters .chip');
 
       var zipCentroids = null;     // cached dataset
       var userLat = null, userLon = null;  // set by geolocation (bypasses ZIP)
       var map = null, markerLayer = null;
 
       var TYPE_LABELS = {
-        agritourism: 'Agritourism',
+        'pumpkin-patch': 'Pumpkin patch',
+        'corn-maze': 'Corn maze',
+        'apple-orchard': 'Apple orchard',
+        'orchard': 'Orchard',
+        'farm-tour': 'Farm tour',
+        'farm-stand': 'Farm stand',
+        'u-pick': 'U-pick farm',
+        'berry-farm': 'Berry farm',
+        'winery': 'Winery',
+        'christmas-tree': 'Christmas tree farm',
         farmersmarket: "Farmers' Market",
         csa: 'CSA',
-        foodhub: 'Food Hub',
-        onfarmmarket: 'On-Farm Market',
-        editorial: 'Featured',
+        onfarmmarket: 'On-farm market',
       };
+      var DIRECTORY_TYPES = { farmersmarket: 1, csa: 1, onfarmmarket: 1 };
       var PEAK_LABELS = { spring: 'Spring', summer: 'Summer', autumn: 'Autumn', winter: 'Winter', year: 'Year-round' };
 
       // --- URL state ---
+      function activeFilters() {
+        var out = {};
+        filterChips.forEach(function (c) {
+          if (c.getAttribute('aria-pressed') === 'true') out[c.dataset.filter] = true;
+        });
+        return out;
+      }
+
       function readParams() {
         var p = new URLSearchParams(window.location.search);
         if (p.get('zip')) zipInput.value = p.get('zip');
@@ -124,6 +161,9 @@ const totalListings = allFarms.length;
         if (p.get('crop')) cropSel.value = p.get('crop');
         if (p.get('category')) typeSel.value = p.get('category');
         if (p.get('inSeason') === 'true') pickingToggle.setAttribute('aria-pressed', 'true');
+        filterChips.forEach(function (c) {
+          if (p.get(c.dataset.filter) === 'true') c.setAttribute('aria-pressed', 'true');
+        });
         return p.get('zip') || p.get('lat');
       }
       function writeParams(extra) {
@@ -138,6 +178,7 @@ const totalListings = allFarms.length;
         if (cropSel.value) params.set('crop', cropSel.value);
         if (typeSel.value) params.set('category', typeSel.value);
         if (pickingToggle.getAttribute('aria-pressed') === 'true') params.set('inSeason', 'true');
+        Object.keys(activeFilters()).forEach(function (k) { params.set(k, 'true'); });
         var qs = params.toString();
         var url = qs ? '/u-pick-farms?' + qs : '/u-pick-farms';
         window.history.replaceState({}, '', url);
@@ -198,6 +239,7 @@ const totalListings = allFarms.length;
         if (crop) params.set('crop', crop);
         if (category) params.set('category', category);
         if (picking) params.set('inSeason', 'true');
+        Object.keys(activeFilters()).forEach(function (k) { params.set(k, 'true'); });
         params.set('limit', '50');
 
         try {
@@ -214,7 +256,7 @@ const totalListings = allFarms.length;
       }
 
       function renderResults(farms, radius, label, category) {
-        var typeWord = category === 'agritourism' ? 'u-pick farm' : (category ? TYPE_LABELS[category] : 'farm');
+        var typeWord = category ? (TYPE_LABELS[category] || 'farm') : 'farm';
         if (farms.length === 0) {
           setStatus('No ' + typeWord + 's within ' + radius + ' mi of ' + label + '. Try widening the radius or changing the type filter.');
           resultsEl.innerHTML = '<p style="color: var(--text-muted);">No farms found. Try a larger radius, a different crop, or switch to "All types".</p>';
@@ -226,6 +268,16 @@ const totalListings = allFarms.length;
         }).join('');
       }
 
+      var FEATURE_DEFS = [
+        ['hasCornMaze', '🌽 Corn maze'],
+        ['hasBrewery', '🍺 Brewery / cidery'],
+        ['freeAdmission', '🎟️ Free'],
+        ['nightHours', '🌙 Night hours'],
+        ['dogFriendly', '🐕 Dog friendly'],
+        ['accessible', '♿ Accessible'],
+        ['openThisWeekend', '📅 Open weekends'],
+      ];
+
       function rowHtml(f) {
         var crops = f.crops || [];
         var cropTags = crops.slice(0, 4).map(function (c) {
@@ -233,9 +285,19 @@ const totalListings = allFarms.length;
         }).join('');
         if (crops.length > 4) cropTags += '<span class="tag tag--muted">+' + (crops.length - 4) + '</span>';
 
+        var ft = f.features || {};
+        var featurePills = FEATURE_DEFS
+          .filter(function (d) { return ft[d[0]] === true; })
+          .slice(0, 4)
+          .map(function (d) { return '<span class="feature-pill">' + d[1] + '</span>'; })
+          .join('');
+        if (featurePills) featurePills = '<div class="feature-list farm-row__crops">' + featurePills + '</div>';
+
         var typeBadge = '';
-        if (f.directory && f.directory !== 'agritourism' && f.directory !== 'editorial' && TYPE_LABELS[f.directory]) {
-          typeBadge = '<span class="type-badge type-badge--' + f.directory + '">' + TYPE_LABELS[f.directory] + '</span>';
+        var at = f.activity || f.directory;
+        if (at && at !== 'farm' && at !== 'agritourism' && at !== 'editorial' && TYPE_LABELS[at]) {
+          var typeCss = DIRECTORY_TYPES[at] ? at : 'activity';
+          typeBadge = '<span class="type-badge type-badge--' + typeCss + '">' + TYPE_LABELS[at] + '</span>';
         }
         var closedTag = f.closed ? '<span class="tag" style="background:var(--ember-15);color:var(--ember);border-color:var(--ember);">Closed</span>' : '';
 
@@ -263,6 +325,7 @@ const totalListings = allFarms.length;
               locText +
             '</span>' +
             (cropTags ? '<div class="card__tags farm-row__crops">' + cropTags + '</div>' : '') +
+            featurePills +
           '</div>' +
           '<div class="farm-row__side">' +
             dist +
@@ -293,8 +356,11 @@ const totalListings = allFarms.length;
         if (typeof L === 'undefined' || !mapEl) return false;
         if (!map) {
           map = L.map('loc-map', { scrollWheelZoom: false }).setView([39.5, -98.5], 4);
-          L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-            attribution: '&copy; OpenStreetMap &copy; CARTO', maxZoom: 18,
+          L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v12/tiles/{z}/{x}/{y}?access_token=' + mapboxToken, {
+            tileSize: 512,
+            zoomOffset: -1,
+            attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+            maxZoom: 18,
           }).addTo(map);
           markerLayer = L.layerGroup().addTo(map);
         }
@@ -336,6 +402,13 @@ const totalListings = allFarms.length;
         var on = this.getAttribute('aria-pressed') === 'true';
         this.setAttribute('aria-pressed', String(!on));
         runSearch();
+      });
+      filterChips.forEach(function (chip) {
+        chip.addEventListener('click', function () {
+          var on = this.getAttribute('aria-pressed') === 'true';
+          this.setAttribute('aria-pressed', String(!on));
+          runSearch();
+        });
       });
       locateBtn.addEventListener('click', function () {
         if (!navigator.geolocation) { setStatus('Geolocation isn\u2019t available on this device.', true); return; }

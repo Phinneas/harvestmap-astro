@@ -144,6 +144,17 @@ const US_STATES = [
       </div>
 
       <div class="stack stack-2">
+        <label for="farm-stand" class="eyebrow">Hours <span style="color: var(--text-muted); font-weight: normal;">(optional)</span></label>
+        <input
+          id="farm-stand"
+          type="text"
+          name="stand"
+          placeholder="e.g. U-pick Wed–Sun, 9am–6pm"
+          style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text);"
+        />
+      </div>
+
+      <div class="stack stack-2">
         <label for="farmer-name" class="eyebrow">Your name <span style="color: var(--clay-deep);">*</span></label>
         <input
           id="farmer-name"
@@ -179,6 +190,26 @@ const US_STATES = [
           style="width: 100%; padding: var(--space-3); border-radius: var(--radius-sm); border: 1px solid var(--line); background: var(--surface); color: var(--text); resize: vertical;"
         ></textarea>
       </div>
+
+      <!-- Structured attributes ("the moat") -->
+      <fieldset class="panel" style="border: none; padding: var(--space-4);">
+        <legend class="eyebrow" style="margin-bottom: var(--space-3); display: block;">Which apply? <span style="color: var(--text-muted); font-weight: normal;">(helps pickers filter for you)</span></legend>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: var(--space-2);">
+          {[
+            ['freeAdmission', 'Free admission'],
+            ['hasCornMaze', 'Corn maze'],
+            ['hasBrewery', 'Brewery / cidery'],
+            ['nightHours', 'Night hours'],
+            ['dogFriendly', 'Dog friendly'],
+            ['accessible', 'Wheelchair accessible'],
+          ].map(([value, label]) => (
+            <label style="display: flex; align-items: center; gap: var(--space-2); padding: var(--space-2); border-radius: var(--radius-sm); cursor: pointer; border: 1px solid var(--line);">
+              <input type="checkbox" name="features" value={value} style="accent-color: var(--moss);" />
+              <span style="font-size: var(--fs-small);">{label}</span>
+            </label>
+          ))}
+        </div>
+      </fieldset>
 
       <!-- Submit -->
       <div style="display: flex; gap: var(--space-3); align-items: center;">
@@ -234,6 +265,8 @@ const US_STATES = [
         crops: crops,
         farmWebsite: formData.get('farmWebsite') || '',
         farmPhone: formData.get('farmPhone') || '',
+        stand: formData.get('stand') || '',
+        features: formData.getAll('features'),
         description: formData.get('description') || '',
         reporterName: formData.get('reporterName') || '',
         reporterEmail: formData.get('reporterEmail') || '',

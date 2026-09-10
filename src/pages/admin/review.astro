@@ -40,6 +40,15 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
     var list = document.getElementById('submissions-list');
     var empty = document.getElementById('empty-state');
 
+    var FEATURE_LABELS = {
+      freeAdmission: 'Free admission',
+      hasCornMaze: 'Corn maze',
+      hasBrewery: 'Brewery / cidery',
+      nightHours: 'Night hours',
+      dogFriendly: 'Dog friendly',
+      accessible: 'Wheelchair accessible',
+    };
+
     // Check for saved token
     var savedToken = localStorage.getItem('harvestmap_admin_token');
     if (savedToken) {
@@ -122,8 +131,13 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
         if (isNewFarm) {
           if (s.farmWebsite) extraHtml += '<p style="font-size: var(--fs-small); margin: var(--space-1) 0;">Website: <a href="' + escapeHtml(s.farmWebsite) + '" rel="noopener" style="color: var(--clay-deep);">' + escapeHtml(s.farmWebsite) + '</a></p>';
           if (s.farmPhone) extraHtml += '<p style="font-size: var(--fs-small); margin: var(--space-1) 0;">Phone: ' + escapeHtml(s.farmPhone) + '</p>';
+          if (s.stand) extraHtml += '<p style="font-size: var(--fs-small); margin: var(--space-1) 0;">Hours: ' + escapeHtml(s.stand) + '</p>';
           if (s.description) extraHtml += '<div class="prose" style="font-size: var(--fs-small);"><p>' + escapeHtml(s.description) + '</p></div>';
         }
+        var featureHtml = (s.features || []).map(function (f) {
+          return '<span class="code-pill">' + escapeHtml(FEATURE_LABELS[f] || f) + '</span>';
+        }).join(' ');
+        if (featureHtml) extraHtml += '<div class="cluster" style="gap: var(--space-2); flex-wrap: wrap; margin: var(--space-1) 0;">' + featureHtml + '</div>';
         if (s.notes) extraHtml += '<div class="prose" style="font-size: var(--fs-small);"><p>' + escapeHtml(s.notes) + '</p></div>';
 
         card.innerHTML =

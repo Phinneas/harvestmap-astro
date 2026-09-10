@@ -10,6 +10,7 @@ import {
   getFarmSeasons,
   getFarmPeak,
 } from './seasonality';
+import { deriveFarmFeatures } from './features';
 
 export function augmentFarm(farm: Farm): Farm & {
   derivedCalendar: ReturnType<typeof getSeasonalityForFarm>;
@@ -17,6 +18,7 @@ export function augmentFarm(farm: Farm): Farm & {
   derivedPeak?: ReturnType<typeof getFarmPeak>;
   derivedInSeasonNow: boolean;
   isEnriched: boolean;
+  features: ReturnType<typeof deriveFarmFeatures>;
 } {
   const derivedCalendar =
     farm.calendar && farm.calendar.length > 0
@@ -38,5 +40,6 @@ export function augmentFarm(farm: Farm): Farm & {
     derivedPeak,
     derivedInSeasonNow,
     isEnriched,
+    features: deriveFarmFeatures(farm),
   };
 }

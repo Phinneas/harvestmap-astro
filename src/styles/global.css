@@ -407,6 +407,22 @@ ul[role="list"] { list-style: none; padding: 0; }
 }
 
 /* --------------------------------------------------------------------------
+   8c. COMPONENTS — Structured listing attributes ("the moat")
+   -------------------------------------------------------------------------- */
+.feature-list { display: flex; flex-wrap: wrap; gap: var(--space-2); }
+.feature-pill {
+  display: inline-flex; align-items: center; gap: 0.35em;
+  font-size: var(--fs-label); font-weight: 600; color: var(--text-muted);
+  background: var(--surface-sunk); border: 1px solid var(--line);
+  padding: 0.28em 0.7em; border-radius: var(--radius-pill); white-space: nowrap;
+}
+.feature-pill--open {
+  color: var(--moss);
+  background: color-mix(in srgb, var(--moss) 14%, var(--surface));
+  border-color: color-mix(in srgb, var(--moss) 40%, var(--line));
+}
+
+/* --------------------------------------------------------------------------
    9. COMPONENTS — Search bar
    -------------------------------------------------------------------------- */
 .search {
@@ -1129,8 +1145,8 @@ ul[role="list"] { list-style: none; padding: 0; }
 }
 .type-badge--farmersmarket { background: color-mix(in srgb, var(--moss) 20%, var(--surface)); color: var(--moss); }
 .type-badge--csa { background: color-mix(in srgb, var(--clay) 15%, var(--surface)); color: var(--clay); }
-.type-badge--foodhub { background: color-mix(in srgb, var(--berry) 15%, var(--surface)); color: var(--berry); }
 .type-badge--onfarmmarket { background: color-mix(in srgb, var(--honey) 20%, var(--surface)); color: color-mix(in srgb, var(--honey) 70%, var(--ink)); }
+.type-badge--activity { background: color-mix(in srgb, var(--clay) 15%, var(--surface)); color: var(--clay); }
   width: 100%; aspect-ratio: 4/3;
   background: linear-gradient(135deg, var(--moss), var(--pine));
   display: flex; align-items: center; justify-content: center;

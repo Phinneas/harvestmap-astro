@@ -5,6 +5,8 @@ import {
   getFarmSeasons,
   getFarmPeak,
 } from './seasonality';
+import { deriveFarmFeatures } from './features';
+import { isServedFarm } from './indexing';
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 
@@ -24,7 +26,9 @@ function loadFarmData(): Farm[] {
       } else if (entry.name.endsWith('.json')) {
         try {
           const data = JSON.parse(readFileSync(fullPath, 'utf-8'));
-          farms.push(data);
+          // Drop excluded directories (food hubs) at load time so they never
+          // appear on any page, the finder, or the sitemap.
+          if (isServedFarm(data)) farms.push(data);
         } catch {
           // Skip malformed JSON
         }
@@ -121,6 +125,7 @@ export function augmentFarm(farm: Farm): Farm & {
   derivedPeak?: ReturnType<typeof getFarmPeak>;
   derivedInSeasonNow: boolean;
   isEnriched: boolean;
+  features: ReturnType<typeof deriveFarmFeatures>;
 } {
   const derivedCalendar =
     farm.calendar && farm.calendar.length > 0
@@ -142,6 +147,7 @@ export function augmentFarm(farm: Farm): Farm & {
     derivedPeak,
     derivedInSeasonNow,
     isEnriched,
+    features: deriveFarmFeatures(farm),
   };
 }
 

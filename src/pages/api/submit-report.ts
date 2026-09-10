@@ -76,6 +76,8 @@ export const POST: APIRoute = async ({ request, locals }) => {
     description: typeof data.description === 'string' ? data.description.slice(0, 2000) : '',
     farmWebsite: typeof data.farmWebsite === 'string' ? data.farmWebsite.slice(0, 500) : '',
     farmPhone: typeof data.farmPhone === 'string' ? data.farmPhone.slice(0, 50) : '',
+    stand: typeof data.stand === 'string' ? data.stand.slice(0, 200) : '',
+    features: Array.isArray(data.features) ? data.features.filter((f: any) => typeof f === 'string').slice(0, 20) : [],
     reporterName: typeof data.reporterName === 'string' ? data.reporterName.slice(0, 100) : '',
     reporterEmail: typeof data.reporterEmail === 'string' ? data.reporterEmail.slice(0, 200) : '',
     submittedAt: data.submittedAt || new Date().toISOString(),

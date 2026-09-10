@@ -43,6 +43,13 @@ interface Farm {
   region?: string;
   source?: string;
   lastConfirmedAt?: string;
+  freeAdmission?: boolean;
+  hasCornMaze?: boolean;
+  hasBrewery?: boolean;
+  nightHours?: boolean;
+  dogFriendly?: boolean;
+  accessible?: boolean;
+  openingHours?: any[];
   [key: string]: any;
 }
 
@@ -57,7 +64,8 @@ function loadFarmData(): Farm[] {
       } else if (entry.name.endsWith('.json')) {
         try {
           const data = JSON.parse(readFileSync(fullPath, 'utf-8'));
-          if (data.slug) farms.push(data);
+          // Exclude food hubs (B2B wholesale intent) from the served data.
+          if (data.slug && data.directory !== 'foodhub') farms.push(data);
         } catch {
           // Skip malformed JSON
         }

@@ -67,4 +67,4 @@ For drying: Thompson Seedless grapes dry into raisins in the California sun or i
 
 ## Find a vineyard
 
-California has over 180 agritourism farms in our directory. [Browse California farms](/ca) to find a u-pick grape vineyard near you.
+California has over 180 u-pick farms and orchards in our directory. [Browse California farms](/ca) to find a u-pick grape vineyard near you.

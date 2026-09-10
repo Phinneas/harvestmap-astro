@@ -10,6 +10,15 @@ const guides = defineCollection({
     description: z.string(),
     publishDate: z.coerce.date(),
     relatedState: z.string().optional(),
+    type: z.enum(['guide', 'outing']).default('guide'),
+    stops: z.array(z.object({
+      name: z.string(),
+      kind: z.enum(['u-pick', 'pumpkin-patch', 'farm-stand', 'market', 'orchard', 'cider-mill', 'corn-maze']),
+      timing: z.string(),
+      note: z.string(),
+    })).optional(),
+    bestWindow: z.string().optional(),
+    states: z.array(z.string()).optional(),
   }),
 });
 

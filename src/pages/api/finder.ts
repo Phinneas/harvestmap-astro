@@ -24,6 +24,14 @@ export const GET: APIRoute = async ({ request, locals }) => {
   const state = (params.get('state') || '').toUpperCase().trim();
   const category = (params.get('category') || '').toLowerCase().trim();
   const inSeasonOnly = params.get('inSeason') === 'true';
+  // Structured attribute filters ("the moat")
+  const cornMaze = params.get('cornMaze') === 'true';
+  const brewery = params.get('brewery') === 'true';
+  const free = params.get('free') === 'true';
+  const night = params.get('night') === 'true';
+  const dogs = params.get('dogs') === 'true';
+  const accessible = params.get('accessible') === 'true';
+  const openWeekend = params.get('openWeekend') === 'true';
   const limit = Math.min(parseInt(params.get('limit') || '50', 10), 200);
   const offset = parseInt(params.get('offset') || '0', 10);
 
@@ -53,7 +61,7 @@ export const GET: APIRoute = async ({ request, locals }) => {
     results = results.filter((f: any) => f.st === state);
   }
   if (category) {
-    results = results.filter((f: any) => f.d === category);
+    results = results.filter((f: any) => f.at === category);
   }
   if (crop) {
     results = results.filter((f: any) =>
@@ -63,6 +71,13 @@ export const GET: APIRoute = async ({ request, locals }) => {
   if (inSeasonOnly) {
     results = results.filter((f: any) => f.sn === true);
   }
+  if (cornMaze) results = results.filter((f: any) => f.cm === true);
+  if (brewery) results = results.filter((f: any) => f.br === true);
+  if (free) results = results.filter((f: any) => f.fr === true);
+  if (night) results = results.filter((f: any) => f.nt === true);
+  if (dogs) results = results.filter((f: any) => f.dg === true);
+  if (accessible) results = results.filter((f: any) => f.ac === true);
+  if (openWeekend) results = results.filter((f: any) => f.owk === true);
 
   if (hasLocation) {
     results = results
@@ -91,12 +106,22 @@ export const GET: APIRoute = async ({ request, locals }) => {
         city: f.c,
         state: f.st,
         directory: f.d,
+        activity: f.at,
         lat: f.lat,
         lon: f.lon,
         crops: f.cr,
         inSeason: f.sn,
         peak: f.pk,
         closed: f.pc,
+        features: {
+          hasCornMaze: f.cm,
+          hasBrewery: f.br,
+          freeAdmission: f.fr,
+          nightHours: f.nt,
+          dogFriendly: f.dg,
+          accessible: f.ac,
+          openThisWeekend: f.owk,
+        },
         distance: hasLocation ? Math.round(f.distance * 10) / 10 : undefined,
         url: `/farms/${f.s}`,
       })),

@@ -7,7 +7,12 @@ import FarmRow from '../../components/FarmRow.astro';
 import PathLine from '../../components/illustrations/PathLine.astro';
 import Leaf from '../../components/illustrations/Leaf.astro';
 import { augmentFarm } from '../../lib/augment';
+import { activeFeatureList, hasAnyFeature } from '../../lib/features';
+import { listingTypeLabel, listingTypeCss } from '../../lib/activity';
+import { isIndexable } from '../../lib/indexing';
 import type { Farm } from '../../lib/types';
+
+const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
 
 // --- SSR data loading ---
 // Farm data is served as static JSON files in /farm-data/.
@@ -94,19 +99,21 @@ const hasCalendar = calendar.length > 0;
 const hasDescription = farm.description && farm.description.length > 0;
 const hasPractices = farm.practices && farm.practices.length > 0;
 
-// Thin content check: noindex pages with no enrichment data to avoid SERP penalties
-const hasRichContent = isEnriched || produce.length > 0 || hasDescription || hasPractices ||
-  hasRealImage || !!farm.website;
+// Structured listing attributes (free admission, corn maze, brewery, etc.)
+const features = farm.features;
+const featureList = activeFeatureList(features);
+const hasFeatures = hasAnyFeature(features);
 
-const typeLabels: Record<string, string> = {
-  agritourism: 'Agritourism', farmersmarket: "Farmers' Market", csa: 'CSA',
-  foodhub: 'Food Hub', onfarmmarket: 'On-Farm Market', editorial: 'Featured',
-};
-const typeLabel = typeLabels[farm.directory] || '';
-const showTypeBadge = farm.directory !== 'agritourism' && farm.directory !== 'editorial';
+// Thin-content floor: noindex listings that are just name + address with less
+// than 2 of {hours, crops/products, phone, website}. Editorial farms always index.
+const indexable = isIndexable(farm);
+
+const typeLabel = listingTypeLabel(farm);
+const typeCss = listingTypeCss(farm);
+const showTypeBadge = typeLabel !== 'Farm';
 const hasEstablished = farm.established !== undefined;
 ---
-<BaseLayout active="farms" title={`${farm.name} · HarvestMap`} description={tagline} noindex={!hasRichContent}>
+<BaseLayout active="farms" title={`${farm.name} · HarvestMap`} description={tagline} noindex={!indexable}>
   <div class="container" style="padding-top: var(--space-6);">
     <a href="/#finder" class="btn btn--ghost" style="margin-bottom: var(--space-4);">&larr; All farms</a>
 
@@ -115,7 +122,7 @@ const hasEstablished = farm.established !== undefined;
       <header class="detail-hero">
         <img src={image} alt={imageAlt} width="1400" height="800" />
         <div class="detail-hero__content">
-          <span class="eyebrow" style="color: var(--honey);">{region}{showTypeBadge && <span class={`type-badge type-badge--${farm.directory}`}>{typeLabel}</span>}</span>
+          <span class="eyebrow" style="color: var(--honey);">{region}{showTypeBadge && <span class={`type-badge type-badge--${typeCss}`}>{typeLabel}</span>}</span>
           <h1 class="squiggle squiggle-ember">{farm.name}</h1>
           <div class="cluster">
             {seasons.map((s) => <SeasonBadge season={s} label={s === peak ? `${peakLabels[s]} peak` : peakLabels[s]} />)}
@@ -131,7 +138,7 @@ const hasEstablished = farm.established !== undefined;
     ) : (
       <header class="detail-hero detail-hero--plain">
         <div class="detail-hero__content detail-hero__content--plain">
-          <span class="eyebrow" style="color: var(--clay);">{region}{showTypeBadge && <span class={`type-badge type-badge--${farm.directory}`}>{typeLabel}</span>}</span>
+          <span class="eyebrow" style="color: var(--clay);">{region}{showTypeBadge && <span class={`type-badge type-badge--${typeCss}`}>{typeLabel}</span>}</span>
           <h1 class="squiggle squiggle-ember" style="color: var(--ink);">{farm.name}</h1>
           <div class="cluster">
             {seasons.map((s) => <SeasonBadge season={s} label={s === peak ? `${peakLabels[s]} peak` : peakLabels[s]} />)}
@@ -239,6 +246,15 @@ const hasEstablished = farm.established !== undefined;
             {farm.stand && (
               <li><span class="cal__name">Hours</span><span class="cal__months" style="text-align:right;max-width:60%;">{farm.stand}</span></li>
             )}
+            {(features.openToday || features.openThisWeekend) && (
+              <li>
+                <span class="cal__name">Open</span>
+                <span class="cal__months" style="text-align:right; display:inline-flex; gap: var(--space-1);">
+                  {features.openToday && <span class="feature-pill feature-pill--open">Today</span>}
+                  {features.openThisWeekend && <span class="feature-pill feature-pill--open">This weekend</span>}
+                </span>
+              </li>
+            )}
             <li><span class="cal__name">Region</span><span class="cal__months">{region}</span></li>
             {farm.website && (
               <li><span class="cal__name">Website</span><span class="cal__months"><a href={farm.website} rel="noopener" style="color: var(--clay-deep);">Visit →</a></span></li>
@@ -260,6 +276,25 @@ const hasEstablished = farm.established !== undefined;
             <Button variant="ghost" block href={`/report?farm=${farm.slug}&name=${encodeURIComponent(farm.name)}`}>Report what's ripe</Button>
           </div>
         </div>
+
+        {/* Structured listing attributes — the "moat" fields */}
+        {hasFeatures && (
+          <div class="panel">
+            <span class="eyebrow" style="margin-bottom: var(--space-3); display:block;">Good to know</span>
+            <div class="feature-list">
+              {featureList.map((f) => (
+                <span class="feature-pill" title={features.inferred ? 'Inferred from the listing' : undefined}>
+                  <span aria-hidden="true">{f.icon}</span>{f.label}
+                </span>
+              ))}
+            </div>
+            {features.inferred && (
+              <p style="font-size: var(--fs-xs); color: var(--text-muted); margin: var(--space-2) 0 0;">
+                Attributes marked here may be inferred from the listing. Always confirm with the farm.
+              </p>
+            )}
+          </div>
+        )}
 
         {/* Practices — only for enriched farms */}
         {hasPractices && (
@@ -324,6 +359,19 @@ const hasEstablished = farm.established !== undefined;
     '@type': 'Offer',
     itemOffered: { '@type': 'Product', name: crop },
   })) } : {}),
+  ...(featureList.length > 0 ? { amenityFeature: featureList
+    .filter((f) => f.key !== 'openToday' && f.key !== 'openThisWeekend')
+    .map((f) => ({ '@type': 'LocationFeatureSpecification', name: f.label, value: true })) } : {}),
+  ...(features.freeAdmission ? { isAccessibleForFree: true, publicAccess: true } : {}),
+  ...(features.dogFriendly ? { petsAllowed: true } : {}),
+  ...(farm.openingHours && farm.openingHours.length > 0 ? {
+    openingHoursSpecification: farm.openingHours.map((h) => ({
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: h.day,
+      ...(h.opens ? { opens: h.opens } : {}),
+      ...(h.closes ? { closes: h.closes } : {}),
+    })),
+  } : {}),
 })} />
 
 <!-- Breadcrumb structured data -->
@@ -339,7 +387,7 @@ const hasEstablished = farm.established !== undefined;
 
 <!-- Leaflet map for farm location -->
 {farm.lat && farm.lon && (
-  <script is:inline>
+  <script is:inline define:vars={{ mapboxToken }}>
     (function () {
       var mapEl = document.getElementById('farm-map');
       if (!mapEl) return;
@@ -351,8 +399,11 @@ const hasEstablished = farm.established !== undefined;
           return;
         }
         var map = L.map('farm-map', { scrollWheelZoom: false }).setView([lat, lon], 13);
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-          attribution: '&copy; OpenStreetMap &copy; CARTO', maxZoom: 18,
+        L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v12/tiles/{z}/{x}/{y}?access_token=' + mapboxToken, {
+          tileSize: 512,
+          zoomOffset: -1,
+          attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+          maxZoom: 18,
         }).addTo(map);
         L.marker([lat, lon]).addTo(map);
       }

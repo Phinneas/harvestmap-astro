@@ -31,6 +31,10 @@ const EDITORIAL_FIELDS = [
   'produce', 'inSeasonNow', 'established', 'stand', 'practices',
   'description', 'calendar',
   'website', 'phone', 'email', 'permanentlyClosed',
+  // Structured listing attributes ("the moat") — preserved so the monthly
+  // USDA re-import doesn't wipe hand-collected/derived amenity data.
+  'freeAdmission', 'hasCornMaze', 'hasBrewery', 'nightHours',
+  'dogFriendly', 'accessible', 'openingHours',
 ] as const;
 
 const OUTPUT_DIR = join(process.cwd(), 'src/data/farms');

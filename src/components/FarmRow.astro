@@ -1,12 +1,15 @@
 ---
 import SeasonBadge from './SeasonBadge.astro';
-import type { Farm, Season } from '../lib/types';
+import { activeFeatureList } from '../lib/features';
+import { listingTypeLabel, listingTypeCss } from '../lib/activity';
+import type { Farm, FarmFeatures, Season } from '../lib/types';
 
 interface AugmentedFarm extends Farm {
   derivedSeasons: Season[];
   derivedPeak?: Season;
   derivedInSeasonNow: boolean;
   isEnriched: boolean;
+  features: FarmFeatures;
 }
 
 interface Props { farm: AugmentedFarm; }
@@ -19,22 +22,24 @@ const inSeasonNow = farm.inSeasonNow !== undefined ? farm.inSeasonNow : farm.der
 const produce = farm.produce || farm.crops || [];
 const region = farm.region || farm.directory;
 
-const typeLabels: Record<string, string> = {
-  agritourism: 'Agritourism',
-  farmersmarket: "Farmers' Market",
-  csa: 'CSA',
-  foodhub: 'Food Hub',
-  onfarmmarket: 'On-Farm Market',
-  editorial: 'Featured',
-};
-const typeLabel = typeLabels[farm.directory] || '';
-const showTypeBadge = farm.directory !== 'agritourism' && farm.directory !== 'editorial';
+const typeLabel = listingTypeLabel(farm);
+const typeCss = listingTypeCss(farm);
+// Hide only the neutral "Farm" fallback (no signal). Directories and
+// derived activities always get a badge.
+const showTypeBadge = typeLabel !== 'Farm';
+
+// Structured amenities only (skip temporal "open today/this weekend" — those
+// are stale on prerendered list pages and belong on the SSR detail page).
+const amenityKeys = new Set(['freeAdmission', 'hasCornMaze', 'hasBrewery', 'nightHours', 'dogFriendly', 'accessible']);
+const amenities = activeFeatureList(farm.features)
+  .filter((f) => amenityKeys.has(f.key))
+  .slice(0, 4);
 ---
 <a class="farm-row" href={`/farms/${farm.slug}`} data-seasons={seasons.join(' ')} data-name={farm.name.toLowerCase()} data-produce={produce.join(' ').toLowerCase()}>
   <div class="farm-row__main">
     <div class="farm-row__head">
       <h3 class="farm-row__title">{farm.name}</h3>
-      {showTypeBadge && <span class={`type-badge type-badge--${farm.directory}`}>{typeLabel}</span>}
+      {showTypeBadge && <span class={`type-badge type-badge--${typeCss}`}>{typeLabel}</span>}
       {farm.permanentlyClosed && <span class="tag" style="background:var(--ember-15);color:var(--ember);border-color:var(--ember);">Closed</span>}
     </div>
     <span class="card__loc farm-row__loc">
@@ -47,6 +52,13 @@ const showTypeBadge = farm.directory !== 'agritourism' && farm.directory !== 'ed
       <div class="card__tags farm-row__crops">
         {produce.slice(0, 4).map((p) => <span class="tag">{p}</span>)}
         {produce.length > 4 && <span class="tag tag--muted">+{produce.length - 4}</span>}
+      </div>
+    )}
+    {amenities.length > 0 && (
+      <div class="feature-list farm-row__crops">
+        {amenities.map((f) => (
+          <span class="feature-pill"><span aria-hidden="true">{f.icon}</span>{f.label}</span>
+        ))}
       </div>
     )}
   </div>

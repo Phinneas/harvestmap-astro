@@ -17,36 +17,96 @@ export async function getStaticPaths() {
 const { guide } = Astro.props;
 const { Content } = await render(guide);
 
+const isOuting = guide.data.type === 'outing';
 const stateLink = guide.data.relatedState
   ? `/${guide.data.relatedState.toLowerCase()}`
   : null;
+
+const stopIcons: Record<string, string> = {
+  'u-pick': '🍎',
+  'pumpkin-patch': '🎃',
+  'farm-stand': '🧺',
+  'market': '🌽',
+  'orchard': '🌳',
+  'cider-mill': '🍎',
+  'corn-maze': '🌾',
+};
+
+const stateLinks = guide.data.states
+  ? guide.data.states.map((s: string) => ({ abbr: s, href: `/${s.toLowerCase()}` }))
+  : stateLink ? [{ abbr: guide.data.relatedState!, href: stateLink }] : [];
 ---
-<BaseLayout active="guides" title={`${guide.data.title} · HarvestMap`} description={guide.data.description}>
-  <div class="container" style="padding-top: var(--space-6); max-width: 72ch;">
+<BaseLayout
+  active="guides"
+  title={`${guide.data.title} · HarvestMap`}
+  description={guide.data.description}
+>
+  <div class="container" style={`padding-top: var(--space-6); max-width: ${isOuting ? '80ch' : '72ch'};`}>
     <a href="/guides" class="btn btn--ghost" style="margin-bottom: var(--space-4);">← All guides</a>
 
     <header style="margin-bottom: var(--space-6);">
       <div class="cluster" style="margin-bottom: var(--space-3);">
         <SeasonBadge season={guide.data.season} />
-        <span class="tag">{guide.data.crop}</span>
+        {isOuting ? (
+          <span class="tag">Fall outing</span>
+        ) : (
+          <span class="tag">{guide.data.crop}</span>
+        )}
         <span class="tag">{guide.data.region}</span>
       </div>
-      <h1 class="squiggle squiggle-berry">{guide.data.title}</h1>
+      <h1 class={`squiggle ${isOuting ? 'squiggle-ember' : 'squiggle-berry'}`}>{guide.data.title}</h1>
       <p class="lead" style="margin-top: var(--space-3);">{guide.data.description}</p>
     </header>
+
+    {isOuting && guide.data.bestWindow && (
+      <div style="background: var(--clay-08); border: 1px solid var(--clay-16); border-radius: 12px; padding: var(--space-4) var(--space-5); margin-bottom: var(--space-6); display: flex; align-items: center; gap: var(--space-3); flex-wrap: wrap;">
+        <span style="font-weight: 600; color: var(--clay-deep); font-size: var(--fs-small); text-transform: uppercase; letter-spacing: 0.05em;">Best window</span>
+        <span style="color: var(--text); font-size: var(--fs-body);">{guide.data.bestWindow}</span>
+      </div>
+    )}
+
+    {isOuting && guide.data.stops && guide.data.stops.length > 0 && (
+      <div style="margin-bottom: var(--space-7);">
+        <h2 style="font-size: var(--fs-h3); font-family: var(--font-display); margin-bottom: var(--space-5);">Your day, stop by stop</h2>
+        <div style="display: flex; flex-direction: column; gap: var(--space-4);">
+          {guide.data.stops.map((stop: any, i: number) => (
+            <div style="display: grid; grid-template-columns: 48px 1fr; gap: var(--space-3); align-items: start;">
+              <div style="width: 48px; height: 48px; border-radius: 50%; background: var(--surface-sunk); display: flex; align-items: center; justify-content: center; font-size: 1.4rem; flex-shrink: 0; border: 2px solid var(--line);">
+                {stopIcons[stop.kind] || '📍'}
+              </div>
+              <div style="background: var(--surface-raised); border: 1px solid var(--line); border-radius: 12px; padding: var(--space-4) var(--space-5);">
+                <div class="cluster" style="margin-bottom: var(--space-2); gap: var(--space-2);">
+                  <span style="font-size: var(--fs-label); font-weight: 700; color: var(--clay); text-transform: uppercase; letter-spacing: 0.06em;">Stop {i + 1}</span>
+                  <span style="font-size: var(--fs-small); color: var(--text-muted);">·</span>
+                  <span style="font-size: var(--fs-small); color: var(--text-muted); font-weight: 500;">{stop.timing}</span>
+                </div>
+                <h3 style="font-size: var(--fs-h3); font-family: var(--font-display); margin: 0 0 var(--space-2) 0;">{stop.name}</h3>
+                <p style="color: var(--text-muted); font-size: var(--fs-body); margin: 0; line-height: var(--lh-body);">{stop.note}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
 
     <article class="prose" style="max-width: 100%;">
       <Content />
     </article>
 
-    {stateLink && (
+    {stateLinks.length > 0 && (
       <div style="margin-top: var(--space-7); padding-top: var(--space-5); border-top: 1px solid var(--line);">
         <div class="cluster" style="justify-content: space-between; flex-wrap: wrap; gap: var(--space-4);">
           <div class="stack stack-2">
             <span class="eyebrow">Find a farm</span>
-            <p style="margin: 0; color: var(--text-muted);">Browse {guide.data.region} farms in our directory.</p>
+            <p style="margin: 0; color: var(--text-muted);">
+              Browse farms in {stateLinks.map((s: any) => s.abbr).join(', ')}.
+            </p>
           </div>
-          <Button variant="primary" href={stateLink}>Browse farms →</Button>
+          <div class="cluster" style="gap: var(--space-3);">
+            {stateLinks.map((s: any) => (
+              <Button variant="primary" href={s.href}>{s.abbr} farms →</Button>
+            ))}
+          </div>
         </div>
       </div>
     )}
@@ -69,4 +129,16 @@ const stateLink = guide.data.relatedState
       { '@type': 'ListItem', position: 3, name: guide.data.title, item: `/guides/${guide.slug}` },
     ],
   })} />
+
+  {isOuting && guide.data.stops && (
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      headline: guide.data.title,
+      description: guide.data.description,
+      datePublished: guide.data.publishDate.toISOString(),
+      author: { '@type': 'Organization', name: 'HarvestMap' },
+      publisher: { '@type': 'Organization', name: 'HarvestMap' },
+    })} />
+  )}
 </BaseLayout>

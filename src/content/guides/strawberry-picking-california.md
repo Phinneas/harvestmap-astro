@@ -48,4 +48,4 @@ For freezing: hull the berries, spread them on a baking sheet in a single layer,
 
 ## Find a farm
 
-California has over 180 agritourism farms and 345 farmers markets in our directory. [Browse California farms](/ca) to find a u-pick strawberry operation near you.
+California has over 180 u-pick farms and 345 farmers markets in our directory. [Browse California farms](/ca) to find a u-pick strawberry operation near you.

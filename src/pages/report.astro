@@ -51,6 +51,26 @@ const COMMON_CROPS = [
         </div>
       </fieldset>
 
+      <!-- Structured attributes ("the moat") -->
+      <fieldset class="panel" style="border: none; padding: var(--space-4);">
+        <legend class="eyebrow" style="margin-bottom: var(--space-3); display: block;">Also applies to this farm <span style="color: var(--text-muted); font-weight: normal;">(optional)</span></legend>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: var(--space-2);">
+          {[
+            ['freeAdmission', 'Free admission'],
+            ['hasCornMaze', 'Corn maze'],
+            ['hasBrewery', 'Brewery / cidery'],
+            ['nightHours', 'Night hours'],
+            ['dogFriendly', 'Dog friendly'],
+            ['accessible', 'Wheelchair accessible'],
+          ].map(([value, label]) => (
+            <label class="crop-check" style="display: flex; align-items: center; gap: var(--space-2); padding: var(--space-2); border-radius: var(--radius-sm); cursor: pointer; border: 1px solid var(--line);">
+              <input type="checkbox" name="features" value={value} style="accent-color: var(--moss);" />
+              <span style="font-size: var(--fs-small);">{label}</span>
+            </label>
+          ))}
+        </div>
+      </fieldset>
+
       <!-- Other crops not listed -->
       <div class="stack stack-2">
         <label for="other-crops" class="eyebrow">Other crops available</label>
@@ -184,6 +204,7 @@ const COMMON_CROPS = [
         farmName: formData.get('farmName'),
         farmState: formData.get('farmState'),
         crops: crops,
+        features: formData.getAll('features'),
         notes: formData.get('notes') || '',
         reporterName: formData.get('reporterName') || '',
         reporterEmail: formData.get('reporterEmail') || '',

@@ -4,7 +4,6 @@ const USDA_DIRECTORIES: Directory[] = [
   'agritourism',
   'csa',
   'farmersmarket',
-  'foodhub',
   'onfarmmarket',
 ];
 

@@ -8,6 +8,40 @@ export type Directory =
 
 export type Season = 'spring' | 'summer' | 'autumn' | 'winter' | 'year';
 
+export type OpeningHoursDay = 'mon' | 'tue' | 'wed' | 'thu' | 'fri' | 'sat' | 'sun';
+
+/**
+ * Structured weekly opening hours for a single day.
+ * `opens`/`closes` are 24h "HH:MM" local times. `closed` marks an explicit closure.
+ */
+export interface OpeningHours {
+  day: OpeningHoursDay;
+  opens?: string;
+  closes?: string;
+  closed?: boolean;
+}
+
+/**
+ * Derived, queryable listing attributes. These are the fields a qualified
+ * SERP query (e.g. "pumpkin patch with brewery", "free pumpkin patch",
+ * "dog friendly pumpkin patch") can actually be answered from — the moat.
+ *
+ * Each boolean is the *effective* value: an explicit field on the farm wins,
+ * otherwise it is inferred from name/description/hours heuristics. `inferred`
+ * is true when at least one value was derived rather than hand-authored.
+ */
+export interface FarmFeatures {
+  freeAdmission: boolean;
+  hasCornMaze: boolean;
+  hasBrewery: boolean; // brewery, cidery, winery, taproom, distillery
+  nightHours: boolean; // open into the evening / after dark
+  dogFriendly: boolean;
+  accessible: boolean;
+  openToday: boolean;
+  openThisWeekend: boolean;
+  inferred: boolean;
+}
+
 export interface CalendarEntry {
   name: string;
   months: string;
@@ -52,4 +86,13 @@ export interface Farm {
   calendar?: CalendarEntry[];
   lastConfirmedAt?: string; // ISO date when a submission was last approved for this farm
   permanentlyClosed?: boolean; // Set when Exa search reveals farm is closed
+
+  // --- Structured listing attributes (the SERP "moat") ---
+  freeAdmission?: boolean;
+  hasCornMaze?: boolean;
+  hasBrewery?: boolean; // brewery, cidery, winery, taproom, distillery on-site
+  nightHours?: boolean; // open into the evening / after dark
+  dogFriendly?: boolean;
+  accessible?: boolean;
+  openingHours?: OpeningHours[];
 }
