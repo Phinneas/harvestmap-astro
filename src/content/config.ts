@@ -10,6 +10,7 @@ const guides = defineCollection({
     description: z.string(),
     publishDate: z.coerce.date(),
     relatedState: z.string().optional(),
+    regionId: z.string().optional(),
     type: z.enum(['guide', 'outing']).default('guide'),
     stops: z.array(z.object({
       name: z.string(),

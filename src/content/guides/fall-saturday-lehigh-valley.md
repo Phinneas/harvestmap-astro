@@ -2,6 +2,7 @@
 title: "A Perfect Fall Saturday in the Lehigh Valley"
 crop: "Fall outing"
 region: "Lehigh Valley, PA"
+regionId: "lehigh-valley"
 season: "autumn"
 description: "A fall itinerary through Pennsylvania's farm belt — apple picking in the slate belt, a farm market with Pennsylvania Dutch baked goods, a pumpkin patch with a corn maze, and an afternoon farmers' market in Bethlehem or Easton."
 publishDate: 2026-08-18

@@ -492,7 +492,7 @@ ul[role="list"] { list-style: none; padding: 0; }
 .footer { position: relative; border-top: 1px solid var(--line); background: var(--surface-sunk); margin-top: var(--space-9); overflow: clip; }
 .footer__trees { position: absolute; left: 0; right: 0; bottom: 0; width: 100%; height: auto; color: var(--orchard); opacity: 0.5; z-index: 0; }
 [data-theme="dark"] .footer__trees { opacity: 0.4; }
-.footer__inner { position: relative; z-index: 1; display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: var(--space-6); padding-block: var(--space-8) var(--space-9); }
+.footer__inner { position: relative; z-index: 1; display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: var(--space-6); padding-block: var(--space-8) var(--space-9); }
 .footer__brandcol { max-width: 34ch; display: flex; flex-direction: column; gap: var(--space-3); }
 .footer h4 { font-family: var(--font-body); font-size: var(--fs-label); text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin-bottom: var(--space-1); }
 .footer a { color: var(--text-muted); text-decoration: none; font-size: var(--fs-small); }
@@ -826,6 +826,9 @@ ul[role="list"] { list-style: none; padding: 0; }
 .list-checks svg { color: var(--moss); flex: none; margin-top: 3px; width: 16px; height: 16px; }
 .prose p { margin-bottom: var(--space-4); max-width: 62ch; }
 .prose p:last-child { margin-bottom: 0; }
+.prose ul { padding-left: var(--space-5); margin-bottom: var(--space-4); }
+.prose li { margin-bottom: var(--space-2); }
+.prose li:last-child { margin-bottom: 0; }
 
 /* --------------------------------------------------------------------------
    20. REDESIGN WHIMSY LAYER — squiggles, stickers, tape, doodles, marquee
@@ -923,6 +926,38 @@ ul[role="list"] { list-style: none; padding: 0; }
   display: inline-flex;
   white-space: nowrap;
   animation: strip-marquee 28s linear infinite;
+}
+
+/* Farm scene horizontal marquee (u-pick hero band) */
+.farm-marquee {
+  position: relative;
+  overflow: hidden;
+  pointer-events: none;
+  user-select: none;
+  background: color-mix(in srgb, var(--cream-deep) 60%, var(--surface));
+  border-bottom: 1px solid var(--line);
+}
+.farm-scene {
+  display: block;
+  flex: none;
+  width: auto;
+  height: var(--farm-h, 140px);
+  color: var(--bark);
+}
+.farm-track {
+  display: flex;
+  width: max-content;
+  will-change: transform;
+}
+@keyframes farm-scroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .farm-track { animation: farm-scroll var(--farm-dur, 64s) linear infinite; }
+}
+@media (max-width: 860px) {
+  .farm-scene { height: var(--farm-h-mobile, 92px); }
 }
 
 /* --------------------------------------------------------------------------
@@ -1119,6 +1154,36 @@ ul[role="list"] { list-style: none; padding: 0; }
 .footer-redesign h4 { color: rgba(255,255,255,0.5); font-size: var(--fs-label); text-transform: uppercase; letter-spacing: 0.08em; }
 .footer-redesign .brand { color: var(--text-invert); }
 .footer-redesign .brand b { color: var(--honey); }
+
+/* Cookie consent banner */
+.cookie-consent {
+  position: fixed;
+  left: var(--space-4);
+  right: var(--space-4);
+  bottom: var(--space-4);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+  max-width: 640px;
+  margin: 0 auto;
+  padding: var(--space-4);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+}
+.cookie-consent[hidden] { display: none; }
+.cookie-consent__text {
+  margin: 0;
+  flex: 1 1 280px;
+  font-size: var(--fs-small);
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+.cookie-consent__text a { color: var(--clay-deep); }
+.cookie-consent__accept { flex-shrink: 0; }
 
 /* Honesty disclaimer */
 .honesty-note {

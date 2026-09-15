@@ -29,6 +29,7 @@ export const GET: APIRoute = async ({ request, locals }) => {
   const brewery = params.get('brewery') === 'true';
   const free = params.get('free') === 'true';
   const night = params.get('night') === 'true';
+  const haunted = params.get('haunted') === 'true';
   const dogs = params.get('dogs') === 'true';
   const accessible = params.get('accessible') === 'true';
   const openWeekend = params.get('openWeekend') === 'true';
@@ -75,6 +76,7 @@ export const GET: APIRoute = async ({ request, locals }) => {
   if (brewery) results = results.filter((f: any) => f.br === true);
   if (free) results = results.filter((f: any) => f.fr === true);
   if (night) results = results.filter((f: any) => f.nt === true);
+  if (haunted) results = results.filter((f: any) => f.hh === true);
   if (dogs) results = results.filter((f: any) => f.dg === true);
   if (accessible) results = results.filter((f: any) => f.ac === true);
   if (openWeekend) results = results.filter((f: any) => f.owk === true);
@@ -118,6 +120,7 @@ export const GET: APIRoute = async ({ request, locals }) => {
           hasBrewery: f.br,
           freeAdmission: f.fr,
           nightHours: f.nt,
+          hasHauntedHouse: f.hh,
           dogFriendly: f.dg,
           accessible: f.ac,
           openThisWeekend: f.owk,

@@ -29,6 +29,7 @@ export const GET: APIRoute = async () => {
       br: ft.hasBrewery,
       fr: ft.freeAdmission,
       nt: ft.nightHours,
+      hh: ft.hasHauntedHouse,
       dg: ft.dogFriendly,
       ac: ft.accessible,
       owk: ft.openThisWeekend,

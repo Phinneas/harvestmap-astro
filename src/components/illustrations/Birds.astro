@@ -1,12 +1,13 @@
 ---
 /* Animated: a small flock glides across while wings flap.
    Place inside a positioned parent; the .flock class drives the drift. */
-interface Props { class?: string; label?: string; }
-const { class: className = '', label } = Astro.props;
+interface Props { class?: string; label?: string; style?: string; }
+const { class: className = '', label, style } = Astro.props;
 ---
 <svg
   viewBox="0 0 240 120"
   class={`ill ill--stroke ${className}`}
+  style={style}
   fill="none"
   role={label ? 'img' : undefined}
   aria-hidden={label ? undefined : 'true'}

@@ -1,12 +1,13 @@
 ---
 /* Animated: a grove whose canopies sway in the wind. Trunks stay rooted.
    Full-width band — stroke set on the root so <use> instances inherit it. */
-interface Props { class?: string; }
-const { class: className = '' } = Astro.props;
+interface Props { class?: string; style?: string; }
+const { class: className = '', style } = Astro.props;
 ---
 <svg
   viewBox="0 0 1200 220"
   class={`ill ${className}`}
+  style={style}
   fill="none"
   stroke="currentColor"
   stroke-width="2"

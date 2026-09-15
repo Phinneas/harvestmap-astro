@@ -35,6 +35,7 @@ export interface FarmFeatures {
   hasCornMaze: boolean;
   hasBrewery: boolean; // brewery, cidery, winery, taproom, distillery
   nightHours: boolean; // open into the evening / after dark
+  hasHauntedHouse: boolean; // haunted house, haunted trail, haunted hayride
   dogFriendly: boolean;
   accessible: boolean;
   openToday: boolean;
@@ -92,6 +93,7 @@ export interface Farm {
   hasCornMaze?: boolean;
   hasBrewery?: boolean; // brewery, cidery, winery, taproom, distillery on-site
   nightHours?: boolean; // open into the evening / after dark
+  hasHauntedHouse?: boolean; // haunted house, haunted trail, haunted hayride
   dogFriendly?: boolean;
   accessible?: boolean;
   openingHours?: OpeningHours[];

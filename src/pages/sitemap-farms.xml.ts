@@ -11,7 +11,7 @@ import { isIndexable } from '../lib/indexing';
 // so Google never wastes crawl budget on noindex pages.
 export const GET: APIRoute = async () => {
   const dataDir = join(process.cwd(), 'public', 'farm-data');
-  const base = 'https://harvestmap.example';
+  const base = 'https://harvestmap.co';
 
   const slugs: string[] = [];
   const files = readdirSync(dataDir).filter(

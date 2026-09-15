@@ -50,6 +50,9 @@ jobs:
           fi
           npx tsx scripts/refresh-farm-data.ts $ARGS
 
+      - name: Refresh harvest calendars
+        run: npx tsx scripts/refresh-harvest-calendars.ts
+
       - name: Check for changes
         id: changes
         run: |
@@ -65,8 +68,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add src/data/farms/
-          git commit -m "chore: monthly farm data refresh ($(date -u +%Y-%m-%d))"
+          git add src/data/farms/ src/data/regional-harvest-calendars.json
+          git commit -m "chore: monthly farm + harvest calendar refresh ($(date -u +%Y-%m-%d))"
           git push
 
       - name: Trigger Cloudflare Pages rebuild

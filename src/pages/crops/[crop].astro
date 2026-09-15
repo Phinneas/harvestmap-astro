@@ -6,6 +6,7 @@ import Leaf from '../../components/illustrations/Leaf.astro';
 import Button from '../../components/Button.astro';
 import { loadAllAugmentedFarms, augmentFarm } from '../../lib/farm-loader';
 import { getCollection } from 'astro:content';
+import { regionsWithCropInSeason, getRegionCalendars, getRegionCrop, isMonthInWindow } from '../../lib/harvest-calendar';
 
 export function getStaticPaths() {
   const farms = loadAllAugmentedFarms();
@@ -45,6 +46,15 @@ const seasonForCrop = farmsWithCrop.find((f) => f.derivedPeak)?.derivedPeak || '
 const seasonLabels: Record<string, string> = { spring: 'Spring', summer: 'Summer', autumn: 'Autumn', winter: 'Winter', year: 'Year-round' };
 
 const slug = cropName.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+
+// Regional harvest-calendar cross-reference: which fall regions have this crop
+// in season now, and which have it at another point in the year.
+const currentMonth = new Date().getMonth() + 1;
+const regionSeason = regionsWithCropInSeason(slug, currentMonth);
+const regionLater = getRegionCalendars().filter((r) => {
+  const c = getRegionCrop(r, slug);
+  return c && !isMonthInWindow(currentMonth, c.start, c.end);
+});
 ---
 <BaseLayout active="farms" title={`${cropName} farms · HarvestMap`} description={`${farmsWithCrop.length} farms growing ${cropName} across ${statesWithCrop.length} states. Find u-pick ${cropName.toLowerCase()} farms near you.`}>
   <div class="container" style="padding-top: var(--space-6);">
@@ -69,6 +79,42 @@ const slug = cropName.toLowerCase().replace(/[^a-z0-9]+/g, '-');
           </div>
           <Button variant="primary" href={`/guides/${relatedGuide.slug}`}>Read guide &rarr;</Button>
         </div>
+      </div>
+    )}
+
+    {(regionSeason.length > 0 || regionLater.length > 0) && (
+      <div class="panel panel--feature" style="margin-bottom: var(--space-6); padding: var(--space-4);">
+        <h2 style="font-size: var(--fs-h3); display: flex; align-items: center; gap: var(--space-2); margin: 0 0 var(--space-2);">
+          <Leaf style="width: 18px; height: 18px; color: var(--moss);" /> Regional season for {cropName.toLowerCase()}
+        </h2>
+        {regionSeason.length > 0 && (
+          <div style="margin-bottom: var(--space-2);">
+            <span class="eyebrow" style="color: var(--moss);">Ripe now</span>
+            <div class="cluster" style="gap: var(--space-2); margin-top: var(--space-1);">
+              {regionSeason.map(({ region, crop }) => (
+                <a href={`/guides/fall-saturday-${region.id}`} class="code-pill" style="text-decoration: none; background: color-mix(in srgb, var(--moss) 15%, var(--surface));">
+                  {region.name} · {crop.months}
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
+        {regionLater.length > 0 && (
+          <div>
+            <span class="eyebrow" style="color: var(--text-muted);">Later in the year</span>
+            <div class="cluster" style="gap: var(--space-2); margin-top: var(--space-1);">
+              {regionLater.map((r) => {
+                const c = getRegionCrop(r, slug);
+                return (
+                  <a href={`/guides/fall-saturday-${r.id}`} class="code-pill" style="text-decoration: none;">{r.name} · {c?.months}</a>
+                );
+              })}
+            </div>
+          </div>
+        )}
+        <p style="font-size: var(--fs-xs); color: var(--text-muted); margin: var(--space-2) 0 0;">
+          Fall-region windows from PickYourOwn.org and HarvestMap guide research. Confirm with the farm before visiting.
+        </p>
       </div>
     )}
 

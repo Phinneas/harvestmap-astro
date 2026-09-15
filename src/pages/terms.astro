@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const contactEmail = 'chesterbeard@salishseaconsulting.com';
+const lastUpdated = 'September 11, 2026';
+---
+
+<BaseLayout
+  title="Terms of use · HarvestMap"
+  description="The plain-English terms for using HarvestMap, including accuracy disclaimers and limitations of liability."
+>
+  <div class="container" style="padding-top: var(--space-7); max-width: 760px;">
+    <div class="section-head">
+      <span class="eyebrow">Ground rules</span>
+      <h1 class="squiggle squiggle-berry">Terms of use</h1>
+      <p class="lead">Readable, not legalese. Using HarvestMap means you accept the few simple terms below.</p>
+      <p class="honesty-note" style="text-align: left; margin: var(--space-2) 0 0;">Last updated {lastUpdated}</p>
+    </div>
+
+    <div class="prose" style="margin-top: var(--space-6);">
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Content accuracy</h2>
+      <p>
+        HarvestMap is a directory built from public sources and community submissions. We work hard to keep it accurate, but
+        farms change their hours, crops, and availability all the time. Seasonal availability is estimated — it is not
+        guaranteed. Always call ahead before visiting a farm, and treat everything here as a starting point, not a promise.
+      </p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">User conduct</h2>
+      <p>
+        When you submit a farm listing or a "what's ripe" update, you agree to provide accurate information that is yours to
+        share. Don't submit spam, misleading details, or someone else's farm without the right to do so. We review every
+        submission and may edit or decline it at our discretion.
+      </p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Intellectual property</h2>
+      <p>
+        The HarvestMap name, design, and original written content are owned by Salish Sea Consulting and may not be copied or
+        republished without permission. Farm listings themselves are factual directory information. Farm photos belong to
+        their respective owners and are used for identification purposes.
+      </p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Limitation of liability</h2>
+      <p>
+        HarvestMap is provided "as is." We are not responsible for the accuracy of any listing, the condition of any farm, or
+        anything that happens during your visit to a listed location. You use the directory at your own discretion, and we
+        won't be liable for any loss or inconvenience that results from relying on the information here.
+      </p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Questions</h2>
+      <p>
+        If anything here is unclear, email <a href={`mailto:${contactEmail}`}>{contactEmail}</a>.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

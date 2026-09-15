@@ -2,6 +2,7 @@
 title: "A Perfect Fall Saturday in the Finger Lakes"
 crop: "Fall outing"
 region: "Finger Lakes, NY"
+regionId: "finger-lakes"
 season: "autumn"
 description: "A fall itinerary through the Finger Lakes — u-pick apples on the lake hillsides, a farm winery stop, a lakeside farm stand, and a village farmers' market, all within the Seneca and Cayuga lake corridors."
 publishDate: 2026-08-18

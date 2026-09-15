@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Button from '../components/Button.astro';
+
+const contactEmail = 'chesterbeard@salishseaconsulting.com';
+---
+
+<BaseLayout
+  title="Contact · HarvestMap"
+  description="Get in touch with HarvestMap to ask a question, correct a listing, or report an issue."
+>
+  <div class="container" style="padding-top: var(--space-7); max-width: 720px;">
+    <div class="section-head">
+      <span class="eyebrow">Say hello</span>
+      <h1 class="squiggle squiggle-ember">Contact us</h1>
+      <p class="lead">We're a small team, so it may take a day or two to reply — but we read every message.</p>
+    </div>
+
+    <div class="panel panel--feature" style="margin-top: var(--space-5);">
+      <h2 style="margin-bottom: var(--space-2);">Email is best</h2>
+      <p style="color: var(--text-muted); margin-bottom: var(--space-4);">
+        For questions, corrections, or anything else, reach us at:
+      </p>
+      <p style="font-size: var(--fs-h3); margin: 0 0 var(--space-4);">
+        <a href={`mailto:${contactEmail}`} style="color: var(--clay-deep);">{contactEmail}</a>
+      </p>
+      <div class="cluster" style="gap: var(--space-3);">
+        <Button variant="primary" href={`mailto:${contactEmail}`}>Send an email</Button>
+        <Button variant="ghost" href="/report">Report what's ripe</Button>
+      </div>
+    </div>
+
+    <div class="panel" style="margin-top: var(--space-4); padding: var(--space-4); border-style: dashed;">
+      <p style="color: var(--text-muted); margin: 0;">
+        <strong>Have a correction about a specific farm?</strong> The fastest path is the farm's own page — find it on the
+        map and use the "Report what's ripe" button. That drops the note straight into our review queue.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

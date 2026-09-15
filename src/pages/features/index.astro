@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Leaf from '../../components/illustrations/Leaf.astro';
+import { FEATURE_COLLECTIONS, collectionStates } from '../../lib/collections';
+import { loadAllAugmentedFarms } from '../../lib/farm-loader';
+
+const allFarms = loadAllAugmentedFarms().filter((f) => !f.permanentlyClosed);
+const collections = FEATURE_COLLECTIONS.map((c) => ({
+  ...c,
+  count: allFarms.filter(c.predicate).length,
+  states: collectionStates(c, allFarms).length,
+}));
+---
+<BaseLayout active="features" title="Fall farm collections · HarvestMap" description="Corn mazes open at night, pumpkin patches with corn mazes, and haunted pumpkin patches — filtered from America's farm directory.">
+  <div class="container" style="padding-top: var(--space-7);">
+    <div class="section-head" style="max-width: 60ch; margin-bottom: var(--space-7);">
+      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> Collections</span>
+      <h1 class="squiggle squiggle-harvest">Fall farm collections</h1>
+      <p class="lead">Corn mazes, pumpkin patches, and haunted nights — filtered from {allFarms.length.toLocaleString()} farms across America.</p>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: var(--space-4);">
+      {collections.map((c) => (
+        <a href={`/features/${c.id}`} class="card" style="text-decoration: none; padding: var(--space-5);">
+          <div style="font-size: 2rem; line-height: 1;">{c.icon}</div>
+          <h2 style="margin: var(--space-3) 0 var(--space-2); font-size: var(--fs-h3); font-family: var(--font-display);">{c.label}</h2>
+          <p style="color: var(--text-muted); margin: 0 0 var(--space-3); font-size: var(--fs-small);">{c.count} farms · {c.states} states</p>
+          <span class="farm-row__action" aria-hidden="true">Browse &rarr;</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

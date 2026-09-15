@@ -1,12 +1,13 @@
 ---
 /* Animated: two figures gather — they shift their weight (amble) and one
    reaches up to pick (forager-arm). Add "is-drawn" to self-draw on load. */
-interface Props { class?: string; label?: string; }
-const { class: className = '', label } = Astro.props;
+interface Props { class?: string; label?: string; style?: string; }
+const { class: className = '', label, style } = Astro.props;
 ---
 <svg
   viewBox="0 0 180 130"
   class={`ill ill--stroke ${className}`}
+  style={style}
   fill="none"
   role={label ? 'img' : undefined}
   aria-hidden={label ? undefined : 'true'}

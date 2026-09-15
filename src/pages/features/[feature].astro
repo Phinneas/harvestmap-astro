@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import FarmRow from '../../components/FarmRow.astro';
+import Leaf from '../../components/illustrations/Leaf.astro';
+import { FEATURE_COLLECTIONS, getCollection, collectionStates } from '../../lib/collections';
+import { loadAllAugmentedFarms } from '../../lib/farm-loader';
+
+const allFarms = loadAllAugmentedFarms().filter((f) => !f.permanentlyClosed);
+
+export function getStaticPaths() {
+  return FEATURE_COLLECTIONS.map((c) => ({
+    params: { feature: c.id },
+    props: { collectionId: c.id },
+  }));
+}
+
+const { collectionId } = Astro.props;
+const collection = getCollection(collectionId)!;
+const farms = allFarms.filter(collection.predicate);
+const states = collectionStates(collection, allFarms);
+---
+<BaseLayout active="features" title={collection.title()} description={collection.description(farms.length)}>
+  <div class="container" style="padding-top: var(--space-6);">
+    <a href="/features" class="btn btn--ghost" style="margin-bottom: var(--space-4);">&larr; All collections</a>
+
+    <div class="section-head" style="margin-bottom: var(--space-6);">
+      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> {farms.length} farms · {states.length} states</span>
+      <h1 class="squiggle squiggle-harvest">{collection.title()}</h1>
+      <p class="lead">{collection.description(farms.length)}</p>
+    </div>
+
+    {states.length > 1 && (
+      <section style="margin-bottom: var(--space-6);">
+        <div class="section-head" style="margin-bottom: var(--space-4);">
+          <h2 style="font-size: var(--fs-h3);">Browse by state</h2>
+        </div>
+        <div class="cluster" style="gap: var(--space-2);">
+          {states.map((s) => (
+            <a href={`/features/${collection.id}/${s.code.toLowerCase()}`} class="chip" style="text-decoration: none;">{s.name} · {s.count}</a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <section>
+      <div class="section-head" style="margin-bottom: var(--space-4);">
+        <h2 style="font-size: var(--fs-h3);">All {collection.label.toLowerCase()}</h2>
+      </div>
+      <div class="farm-list">
+        {farms.slice(0, 48).map((f) => <FarmRow farm={f} />)}
+      </div>
+      {farms.length > 48 && (
+        <p style="text-align: center; margin-top: var(--space-4); color: var(--text-muted);">
+          Showing 48 of {farms.length}. <a href="/u-pick-farms" style="color: var(--clay-deep);">Use the Finder to narrow by location &rarr;</a>
+        </p>
+      )}
+      {farms.length === 0 && (
+        <div class="panel" style="padding: var(--space-6); text-align: center;">
+          <p style="color: var(--text-muted);">No farms listed for {collection.label.toLowerCase()} yet.</p>
+          <a href="/add-farm" class="btn btn--primary" style="margin-top: var(--space-3);">List your farm</a>
+        </div>
+      )}
+    </section>
+  </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: '/' },
+      { '@type': 'ListItem', position: 2, name: 'Collections', item: '/features' },
+      { '@type': 'ListItem', position: 3, name: collection.label, item: `/features/${collection.id}` },
+    ],
+  })} />
+</BaseLayout>

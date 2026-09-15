@@ -34,8 +34,12 @@ const BREWERY_TERMS = [
   'winery', 'distillery', 'hard cider',
 ];
 const NIGHT_TERMS = [
-  'haunted', 'flashlight', 'moonlight', 'after dark', 'glow', 'evening',
+  'flashlight', 'moonlight', 'after dark', 'glow', 'evening',
   'night hours', 'late night', 'sunset', 'bonfire',
+];
+const HAUNTED_TERMS = [
+  'haunted house', 'haunted trail', 'haunted hayride', 'haunted barn',
+  'haunted maze', 'haunted',
 ];
 const DOG_TERMS = [
   'dog friendly', 'dog-friendly', 'dogs welcome', 'leashed dogs',
@@ -197,6 +201,7 @@ export const FEATURE_LABELS: Record<keyof FarmFeatures, string> = {
   hasCornMaze: 'Corn maze',
   hasBrewery: 'Brewery / cidery',
   nightHours: 'Night hours',
+  hasHauntedHouse: 'Haunted house',
   dogFriendly: 'Dog friendly',
   accessible: 'Wheelchair accessible',
   openToday: 'Open today',
@@ -209,6 +214,7 @@ export const FEATURE_ICONS: Record<keyof FarmFeatures, string> = {
   hasCornMaze: '🌽',
   hasBrewery: '🍺',
   nightHours: '🌙',
+  hasHauntedHouse: '👻',
   dogFriendly: '🐕',
   accessible: '♿',
   openToday: '🕐',
@@ -227,6 +233,7 @@ export function deriveFarmFeatures(farm: Farm, referenceDate: Date = new Date())
   const hasCornMaze = farm.hasCornMaze ?? containsAny(text, CORN_MAZE_TERMS);
   const hasBrewery = farm.hasBrewery ?? containsAny(text, BREWERY_TERMS);
   const nightHours = farm.nightHours ?? (containsAny(text, NIGHT_TERMS) || closesAfterDark(getOpeningHours(farm)));
+  const hasHauntedHouse = farm.hasHauntedHouse ?? containsAny(text, HAUNTED_TERMS);
   const dogFriendly = farm.dogFriendly ?? containsAny(text, DOG_TERMS);
   const accessible = farm.accessible ?? containsAny(text, ACCESSIBLE_TERMS);
 
@@ -236,11 +243,11 @@ export function deriveFarmFeatures(farm: Farm, referenceDate: Date = new Date())
   const openThisWeekend = isOpenOn(hours, 'sat') || isOpenOn(hours, 'sun');
 
   const inferred = [
-    freeAdmission, hasCornMaze, hasBrewery, nightHours, dogFriendly, accessible,
+    freeAdmission, hasCornMaze, hasBrewery, nightHours, hasHauntedHouse, dogFriendly, accessible,
   ].some((value, i) => {
     const explicit = [
       farm.freeAdmission, farm.hasCornMaze, farm.hasBrewery,
-      farm.nightHours, farm.dogFriendly, farm.accessible,
+      farm.nightHours, farm.hasHauntedHouse, farm.dogFriendly, farm.accessible,
     ][i];
     return value === true && explicit === undefined;
   });
@@ -250,6 +257,7 @@ export function deriveFarmFeatures(farm: Farm, referenceDate: Date = new Date())
     hasCornMaze,
     hasBrewery,
     nightHours,
+    hasHauntedHouse,
     dogFriendly,
     accessible,
     openToday,
@@ -279,6 +287,7 @@ export function activeFeatureList(features: FarmFeatures): { key: keyof FarmFeat
     'hasCornMaze',
     'hasBrewery',
     'nightHours',
+    'hasHauntedHouse',
     'dogFriendly',
     'accessible',
     'openToday',

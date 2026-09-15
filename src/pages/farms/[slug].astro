@@ -66,21 +66,24 @@ const related = augmentedState
   })
   .slice(0, 3);
 
-// Gallery: only built from real farm photos in the same state. No placeholder fallback —
-// if no real images exist, the gallery section is skipped entirely.
+// Gallery: show only this farm's own verified photo. An earlier version built
+// the gallery from OTHER farms' photos in the same state by index offset, which
+// cross-contaminated galleries (e.g. adobe-pumpkin-farm showing an
+// argyres-orchard photo). Each farm has a single `image` in the data model, so
+// the gallery is that one owned image — or nothing.
 const PLACEHOLDER = '/images/farm-placeholder.svg';
 const hasRealImage = !!(farm.image && farm.image !== PLACEHOLDER);
-const enrichedStateImages = augmentedState
-  .map((f) => f.image)
-  .filter((src): src is string => !!src && src !== PLACEHOLDER);
-const farmIdx = augmentedState.findIndex((f) => f.slug === farm.slug);
-const gallery = enrichedStateImages.length >= 3
-  ? [
-      enrichedStateImages[(farmIdx + 1) % enrichedStateImages.length],
-      enrichedStateImages[(farmIdx + 2) % enrichedStateImages.length],
-      enrichedStateImages[(farmIdx + 3) % enrichedStateImages.length],
-    ]
-  : (hasRealImage ? [farm.image!] : []);
+
+// Ownership check: only render an image whose filename matches the farm slug.
+// This guards against data contamination too — a photo named for a different
+// farm is never shown on this page.
+function imageOwnedByFarm(image: string, slug: string): boolean {
+  const match = image.match(/\/([^/]+)\.(?:jpe?g|png|webp|avif)$/i);
+  if (!match) return false;
+  return match[1] === slug;
+}
+
+const gallery = hasRealImage && imageOwnedByFarm(farm.image!, farm.slug) ? [farm.image!] : [];
 
 const peakLabels: Record<string, string> = { spring: 'Spring', summer: 'Summer', autumn: 'Autumn', winter: 'Winter', year: 'Year-round' };
 
@@ -104,8 +107,8 @@ const features = farm.features;
 const featureList = activeFeatureList(features);
 const hasFeatures = hasAnyFeature(features);
 
-// Thin-content floor: noindex listings that are just name + address with less
-// than 2 of {hours, crops/products, phone, website}. Editorial farms always index.
+// Thin-content floor: noindex stubs that have no description, no real photo,
+// no crop data, and little usable contact detail. Enriched farms always index.
 const indexable = isIndexable(farm);
 
 const typeLabel = listingTypeLabel(farm);

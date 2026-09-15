@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Leaf from '../components/illustrations/Leaf.astro';
+import PathLine from '../components/illustrations/PathLine.astro';
+
+const contactEmail = 'chesterbeard@salishseaconsulting.com';
+---
+
+<BaseLayout
+  title="About · HarvestMap"
+  description="Who runs HarvestMap, why it exists, where the farm data comes from, and how every listing is reviewed."
+>
+  <div class="container" style="padding-top: var(--space-7); max-width: 760px;">
+    <div class="section-head">
+      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> About the map</span>
+      <h1 class="squiggle squiggle-pine">Why HarvestMap exists</h1>
+      <p class="lead">Finding a good u-pick farm shouldn't require four tabs, three forums, and a guess. HarvestMap brings the farms to one place, organized by what's actually in season.</p>
+    </div>
+
+    <div class="prose" style="margin-top: var(--space-6);">
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Who runs it</h2>
+      <p>
+        HarvestMap is built and maintained by Chester Beard through
+        <a href="https://www.salishseaconsulting.com" rel="noopener">Salish Sea Consulting</a>. It started as a simple
+        idea — a directory that answers one question well: <em>"who is harvesting what, near me, right now?"</em> — and
+        grew into a national map of small farms, orchards, farm stands, and farmers markets.
+      </p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Where the data comes from</h2>
+      <p>Our listings are drawn from a few careful sources, and we try to be honest about which is which:</p>
+      <ul style="padding-left: var(--space-5);">
+        <li><strong>USDA Local Food Portal</strong> — a public directory of farms, markets, and food businesses across the country.</li>
+        <li><strong>PickYourOwn.org</strong> — a long-running community resource for u-pick farms and orchards.</li>
+        <li><strong>Grower submissions</strong> — farms that list themselves or send us a "what's ripe" update directly.</li>
+      </ul>
+      <p>
+        A farm that came from a public directory may not have photos or detailed seasonality yet. We mark those listings
+        honestly so you know what's been verified and what hasn't.
+      </p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">How we review listings</h2>
+      <p>
+        Every grower submission is reviewed by a real person before it goes live — usually within 48 hours. We check the
+        basic facts, clean up anything confusing, and follow up by email if we have questions. This is deliberate: no
+        self-serve dashboard, no instant anonymous edits. A little friction keeps the directory trustworthy.
+      </p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">A word on accuracy</h2>
+      <p>
+        Farms change their hours, their crops, and their minds. Seasonal availability on HarvestMap is estimated from
+        growing zones and crop calendars — it is not a promise from the farm. Always call ahead before you drive out,
+        especially during shoulder seasons.
+      </p>
+    </div>
+
+    <div class="container" aria-hidden="true" style="margin: var(--space-6) 0;">
+      <div class="divider">
+        <span class="divider__seed"><Leaf /></span>
+        <PathLine class="is-drawn" />
+        <span class="divider__seed"><Leaf /></span>
+      </div>
+    </div>
+
+    <div class="panel panel--feature" style="text-align: center;">
+      <p style="color: var(--text-muted); margin: 0;">
+        A product of <a href="https://www.salishseaconsulting.com" rel="noopener" style="color: var(--clay-deep);">Salish Sea Consulting</a>.
+        Questions or corrections? Email <a href={`mailto:${contactEmail}`} style="color: var(--clay-deep);">{contactEmail}</a>.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

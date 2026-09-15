@@ -30,7 +30,7 @@ const showTypeBadge = typeLabel !== 'Farm';
 
 // Structured amenities only (skip temporal "open today/this weekend" — those
 // are stale on prerendered list pages and belong on the SSR detail page).
-const amenityKeys = new Set(['freeAdmission', 'hasCornMaze', 'hasBrewery', 'nightHours', 'dogFriendly', 'accessible']);
+const amenityKeys = new Set(['freeAdmission', 'hasCornMaze', 'hasBrewery', 'nightHours', 'hasHauntedHouse', 'dogFriendly', 'accessible']);
 const amenities = activeFeatureList(farm.features)
   .filter((f) => amenityKeys.has(f.key))
   .slice(0, 4);

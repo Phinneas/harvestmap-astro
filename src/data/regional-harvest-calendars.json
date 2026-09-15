@@ -1,0 +1,1292 @@
+{
+  "generatedAt": "2026-09-13T15:32:01.626Z",
+  "source": "pickyourown.org harvest calendars + HarvestMap guide research",
+  "regions": [
+    {
+      "id": "hudson-valley",
+      "name": "Hudson Valley",
+      "state": "NY",
+      "bestWindow": "Late September through mid-October",
+      "crops": [
+        {
+          "crop": "Sweet corn",
+          "slug": "corn",
+          "start": 7,
+          "end": 9,
+          "peak": [
+            8
+          ],
+          "months": "Jul – Sep",
+          "fall": true,
+          "note": "Last of the sweet corn by late September"
+        },
+        {
+          "crop": "Tomatoes",
+          "slug": "tomatoes",
+          "start": 7,
+          "end": 10,
+          "peak": [
+            8
+          ],
+          "months": "Jul – Oct",
+          "fall": true,
+          "note": "The last heirlooms, often smaller and more intense"
+        },
+        {
+          "crop": "Apples",
+          "slug": "apples",
+          "start": 8,
+          "end": 11,
+          "peak": [
+            9,
+            10
+          ],
+          "months": "Aug – Nov",
+          "fall": true,
+          "note": "Gala & Honeycrisp late Sept; Empire, Macoun, Jonagold mid-Oct"
+        },
+        {
+          "crop": "Pears",
+          "slug": "pears",
+          "start": 8,
+          "end": 10,
+          "peak": [
+            9
+          ],
+          "months": "Aug – Oct",
+          "fall": true
+        },
+        {
+          "crop": "Grapes",
+          "slug": "grapes",
+          "start": 9,
+          "end": 10,
+          "peak": [
+            9
+          ],
+          "months": "Sep – Oct",
+          "fall": true
+        },
+        {
+          "crop": "Pumpkins",
+          "slug": "pumpkins",
+          "start": 9,
+          "end": 10,
+          "peak": [
+            10
+          ],
+          "months": "Sep – Oct",
+          "fall": true,
+          "note": "Howden, Sugar Pie, Lumina, Knucklehead, Jack-Be-Little"
+        },
+        {
+          "crop": "Winter squash",
+          "slug": "squash",
+          "start": 9,
+          "end": 11,
+          "peak": [
+            10
+          ],
+          "months": "Sep – Nov",
+          "fall": true,
+          "note": "Butternut, acorn, delicata peak in October"
+        },
+        {
+          "crop": "Asparagus",
+          "slug": "asparagus",
+          "start": 5,
+          "end": 5,
+          "months": "May",
+          "fall": false
+        },
+        {
+          "crop": "Spinach",
+          "slug": "spinach",
+          "start": 5,
+          "end": 6,
+          "months": "May – Jun",
+          "fall": false
+        },
+        {
+          "crop": "Beets",
+          "slug": "beets",
+          "start": 6,
+          "end": 10,
+          "months": "Jun – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Cabbage",
+          "slug": "cabbage",
+          "start": 6,
+          "end": 10,
+          "months": "Jun – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Kale",
+          "slug": "kale",
+          "start": 6,
+          "end": 8,
+          "months": "Jun – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Lettuce",
+          "slug": "lettuce",
+          "start": 6,
+          "end": 8,
+          "months": "Jun – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Onions",
+          "slug": "onions",
+          "start": 6,
+          "end": 7,
+          "months": "Jun – Jul",
+          "fall": false
+        },
+        {
+          "crop": "Peas",
+          "slug": "peas",
+          "start": 6,
+          "end": 6,
+          "months": "Jun",
+          "fall": false
+        },
+        {
+          "crop": "Rhubarb",
+          "slug": "rhubarb",
+          "start": 6,
+          "end": 7,
+          "months": "Jun – Jul",
+          "fall": false
+        },
+        {
+          "crop": "Strawberries",
+          "slug": "strawberries",
+          "start": 6,
+          "end": 6,
+          "months": "Jun",
+          "fall": false
+        },
+        {
+          "crop": "Swiss chard",
+          "slug": "swiss-chard",
+          "start": 6,
+          "end": 8,
+          "months": "Jun – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Blackberries",
+          "slug": "blackberries",
+          "start": 7,
+          "end": 7,
+          "months": "Jul",
+          "fall": false
+        },
+        {
+          "crop": "Blueberries",
+          "slug": "blueberries",
+          "start": 7,
+          "end": 8,
+          "months": "Jul – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Broccoli",
+          "slug": "broccoli",
+          "start": 7,
+          "end": 10,
+          "months": "Jul – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Cherries",
+          "slug": "cherries",
+          "start": 7,
+          "end": 7,
+          "months": "Jul",
+          "fall": false
+        },
+        {
+          "crop": "Cucumbers",
+          "slug": "cucumbers",
+          "start": 7,
+          "end": 8,
+          "months": "Jul – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Eggplant",
+          "slug": "eggplant",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Flowers",
+          "slug": "flowers",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Green beans",
+          "slug": "green beans",
+          "start": 7,
+          "end": 10,
+          "months": "Jul – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Lima beans",
+          "slug": "lima-beans",
+          "start": 7,
+          "end": 8,
+          "months": "Jul – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Peaches",
+          "slug": "peaches",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Peppers",
+          "slug": "peppers",
+          "start": 7,
+          "end": 10,
+          "months": "Jul – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Potatoes",
+          "slug": "potatoes",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Raspberries",
+          "slug": "raspberries",
+          "start": 7,
+          "end": 7,
+          "months": "Jul",
+          "fall": false
+        },
+        {
+          "crop": "Zucchini",
+          "slug": "zucchini",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Collards",
+          "slug": "collards",
+          "start": 8,
+          "end": 10,
+          "months": "Aug – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Okra",
+          "slug": "okra",
+          "start": 8,
+          "end": 9,
+          "months": "Aug – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Brussels sprouts",
+          "slug": "brussels-sprouts",
+          "start": 9,
+          "end": 11,
+          "months": "Sep – Nov",
+          "fall": false
+        },
+        {
+          "crop": "Cauliflower",
+          "slug": "cauliflower",
+          "start": 10,
+          "end": 11,
+          "months": "Oct – Nov",
+          "fall": false
+        }
+      ]
+    },
+    {
+      "id": "finger-lakes",
+      "name": "Finger Lakes",
+      "state": "NY",
+      "bestWindow": "Late September through mid-October",
+      "crops": [
+        {
+          "crop": "Tomatoes",
+          "slug": "tomatoes",
+          "start": 7,
+          "end": 10,
+          "peak": [
+            8
+          ],
+          "months": "Jul – Oct",
+          "fall": true,
+          "note": "The last heirlooms of the season"
+        },
+        {
+          "crop": "Apples",
+          "slug": "apples",
+          "start": 8,
+          "end": 11,
+          "peak": [
+            9,
+            10
+          ],
+          "months": "Aug – Nov",
+          "fall": true,
+          "note": "Gala, McIntosh, Empire, Honeycrisp; runs about a week behind the Hudson Valley"
+        },
+        {
+          "crop": "Pears",
+          "slug": "pears",
+          "start": 8,
+          "end": 10,
+          "peak": [
+            9
+          ],
+          "months": "Aug – Oct",
+          "fall": true
+        },
+        {
+          "crop": "Sweet corn",
+          "slug": "corn",
+          "start": 8,
+          "end": 9,
+          "months": "Aug – Sep",
+          "fall": true
+        },
+        {
+          "crop": "Grapes",
+          "slug": "grapes",
+          "start": 9,
+          "end": 11,
+          "peak": [
+            9,
+            10
+          ],
+          "months": "Sep – Nov",
+          "fall": true,
+          "note": "Late-harvest Riesling grapes left on the vine into November"
+        },
+        {
+          "crop": "Pumpkins",
+          "slug": "pumpkins",
+          "start": 9,
+          "end": 10,
+          "peak": [
+            10
+          ],
+          "months": "Sep – Oct",
+          "fall": true
+        },
+        {
+          "crop": "Winter squash",
+          "slug": "squash",
+          "start": 9,
+          "end": 11,
+          "peak": [
+            10
+          ],
+          "months": "Sep – Nov",
+          "fall": true,
+          "note": "Butternut, delicata, acorn"
+        },
+        {
+          "crop": "Asparagus",
+          "slug": "asparagus",
+          "start": 5,
+          "end": 5,
+          "months": "May",
+          "fall": false
+        },
+        {
+          "crop": "Spinach",
+          "slug": "spinach",
+          "start": 5,
+          "end": 6,
+          "months": "May – Jun",
+          "fall": false
+        },
+        {
+          "crop": "Beets",
+          "slug": "beets",
+          "start": 6,
+          "end": 10,
+          "months": "Jun – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Cabbage",
+          "slug": "cabbage",
+          "start": 6,
+          "end": 10,
+          "months": "Jun – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Kale",
+          "slug": "kale",
+          "start": 6,
+          "end": 8,
+          "months": "Jun – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Lettuce",
+          "slug": "lettuce",
+          "start": 6,
+          "end": 8,
+          "months": "Jun – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Onions",
+          "slug": "onions",
+          "start": 6,
+          "end": 7,
+          "months": "Jun – Jul",
+          "fall": false
+        },
+        {
+          "crop": "Peas",
+          "slug": "peas",
+          "start": 6,
+          "end": 6,
+          "months": "Jun",
+          "fall": false
+        },
+        {
+          "crop": "Rhubarb",
+          "slug": "rhubarb",
+          "start": 6,
+          "end": 7,
+          "months": "Jun – Jul",
+          "fall": false
+        },
+        {
+          "crop": "Strawberries",
+          "slug": "strawberries",
+          "start": 6,
+          "end": 6,
+          "months": "Jun",
+          "fall": false
+        },
+        {
+          "crop": "Swiss chard",
+          "slug": "swiss-chard",
+          "start": 6,
+          "end": 8,
+          "months": "Jun – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Blackberries",
+          "slug": "blackberries",
+          "start": 7,
+          "end": 7,
+          "months": "Jul",
+          "fall": false
+        },
+        {
+          "crop": "Blueberries",
+          "slug": "blueberries",
+          "start": 7,
+          "end": 8,
+          "months": "Jul – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Broccoli",
+          "slug": "broccoli",
+          "start": 7,
+          "end": 10,
+          "months": "Jul – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Cherries",
+          "slug": "cherries",
+          "start": 7,
+          "end": 7,
+          "months": "Jul",
+          "fall": false
+        },
+        {
+          "crop": "Cucumbers",
+          "slug": "cucumbers",
+          "start": 7,
+          "end": 8,
+          "months": "Jul – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Eggplant",
+          "slug": "eggplant",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Flowers",
+          "slug": "flowers",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Green beans",
+          "slug": "green beans",
+          "start": 7,
+          "end": 10,
+          "months": "Jul – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Lima beans",
+          "slug": "lima-beans",
+          "start": 7,
+          "end": 8,
+          "months": "Jul – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Peaches",
+          "slug": "peaches",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Peppers",
+          "slug": "peppers",
+          "start": 7,
+          "end": 10,
+          "months": "Jul – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Potatoes",
+          "slug": "potatoes",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Raspberries",
+          "slug": "raspberries",
+          "start": 7,
+          "end": 7,
+          "months": "Jul",
+          "fall": false
+        },
+        {
+          "crop": "Zucchini",
+          "slug": "zucchini",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Collards",
+          "slug": "collards",
+          "start": 8,
+          "end": 10,
+          "months": "Aug – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Okra",
+          "slug": "okra",
+          "start": 8,
+          "end": 9,
+          "months": "Aug – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Brussels sprouts",
+          "slug": "brussels-sprouts",
+          "start": 9,
+          "end": 11,
+          "months": "Sep – Nov",
+          "fall": false
+        },
+        {
+          "crop": "Cauliflower",
+          "slug": "cauliflower",
+          "start": 10,
+          "end": 11,
+          "months": "Oct – Nov",
+          "fall": false
+        }
+      ]
+    },
+    {
+      "id": "berkshires",
+      "name": "Berkshires",
+      "state": "MA",
+      "bestWindow": "Late September through mid-October",
+      "crops": [
+        {
+          "crop": "Apples",
+          "slug": "apples",
+          "start": 8,
+          "end": 11,
+          "peak": [
+            9,
+            10
+          ],
+          "months": "Aug – Nov",
+          "fall": true,
+          "note": "McIntosh, Cortland, Empire; Macoun is the signature — elevation runs slightly later"
+        },
+        {
+          "crop": "Pears",
+          "slug": "pears",
+          "start": 8,
+          "end": 10,
+          "peak": [
+            9
+          ],
+          "months": "Aug – Oct",
+          "fall": true
+        },
+        {
+          "crop": "Sweet corn",
+          "slug": "corn",
+          "start": 8,
+          "end": 9,
+          "months": "Aug – Sep",
+          "fall": true
+        },
+        {
+          "crop": "Grapes",
+          "slug": "grapes",
+          "start": 9,
+          "end": 9,
+          "months": "Sep",
+          "fall": true
+        },
+        {
+          "crop": "Pumpkins",
+          "slug": "pumpkins",
+          "start": 9,
+          "end": 10,
+          "peak": [
+            10
+          ],
+          "months": "Sep – Oct",
+          "fall": true,
+          "note": "Howden, Sugar Pie, New England Pie, Lumina"
+        },
+        {
+          "crop": "Winter squash",
+          "slug": "squash",
+          "start": 9,
+          "end": 11,
+          "peak": [
+            10
+          ],
+          "months": "Sep – Nov",
+          "fall": true
+        },
+        {
+          "crop": "Asparagus",
+          "slug": "asparagus",
+          "start": 5,
+          "end": 5,
+          "months": "May",
+          "fall": false
+        },
+        {
+          "crop": "Spinach",
+          "slug": "spinach",
+          "start": 5,
+          "end": 6,
+          "months": "May – Jun",
+          "fall": false
+        },
+        {
+          "crop": "Beets",
+          "slug": "beets",
+          "start": 6,
+          "end": 9,
+          "months": "Jun – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Cabbage",
+          "slug": "cabbage",
+          "start": 6,
+          "end": 10,
+          "months": "Jun – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Cherries",
+          "slug": "cherries",
+          "start": 6,
+          "end": 6,
+          "months": "Jun",
+          "fall": false
+        },
+        {
+          "crop": "Onions",
+          "slug": "onions",
+          "start": 6,
+          "end": 7,
+          "months": "Jun – Jul",
+          "fall": false
+        },
+        {
+          "crop": "Peas",
+          "slug": "peas",
+          "start": 6,
+          "end": 9,
+          "months": "Jun – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Rhubarb",
+          "slug": "rhubarb",
+          "start": 6,
+          "end": 7,
+          "months": "Jun – Jul",
+          "fall": false
+        },
+        {
+          "crop": "Strawberries",
+          "slug": "strawberries",
+          "start": 6,
+          "end": 6,
+          "months": "Jun",
+          "fall": false
+        },
+        {
+          "crop": "Blackberries",
+          "slug": "blackberries",
+          "start": 7,
+          "end": 7,
+          "months": "Jul",
+          "fall": false
+        },
+        {
+          "crop": "Blueberries",
+          "slug": "blueberries",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Broccoli",
+          "slug": "broccoli",
+          "start": 7,
+          "end": 10,
+          "months": "Jul – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Cucumbers",
+          "slug": "cucumbers",
+          "start": 7,
+          "end": 8,
+          "months": "Jul – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Eggplant",
+          "slug": "eggplant",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Flowers",
+          "slug": "flowers",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Green beans",
+          "slug": "green beans",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Lima beans",
+          "slug": "lima-beans",
+          "start": 7,
+          "end": 8,
+          "months": "Jul – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Peppers",
+          "slug": "peppers",
+          "start": 7,
+          "end": 10,
+          "months": "Jul – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Potatoes",
+          "slug": "potatoes",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Raspberries",
+          "slug": "raspberries",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Tomatoes",
+          "slug": "tomatoes",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Collards",
+          "slug": "collards",
+          "start": 8,
+          "end": 10,
+          "months": "Aug – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Okra",
+          "slug": "okra",
+          "start": 8,
+          "end": 9,
+          "months": "Aug – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Peaches",
+          "slug": "peaches",
+          "start": 8,
+          "end": 9,
+          "months": "Aug – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Cauliflower",
+          "slug": "cauliflower",
+          "start": 10,
+          "end": 11,
+          "months": "Oct – Nov",
+          "fall": false
+        }
+      ]
+    },
+    {
+      "id": "lehigh-valley",
+      "name": "Lehigh Valley",
+      "state": "PA",
+      "bestWindow": "Late September through mid-October",
+      "crops": [
+        {
+          "crop": "Sweet corn",
+          "slug": "corn",
+          "start": 7,
+          "end": 9,
+          "peak": [
+            8
+          ],
+          "months": "Jul – Sep",
+          "fall": true,
+          "note": "The slate belt hills run a week behind the valley floor"
+        },
+        {
+          "crop": "Apples",
+          "slug": "apples",
+          "start": 8,
+          "end": 11,
+          "peak": [
+            9,
+            10
+          ],
+          "months": "Aug – Nov",
+          "fall": true,
+          "note": "Stayman is the Pennsylvania apple; Empire, Fuji, Rome by mid-October"
+        },
+        {
+          "crop": "Grapes",
+          "slug": "grapes",
+          "start": 8,
+          "end": 10,
+          "peak": [
+            9
+          ],
+          "months": "Aug – Oct",
+          "fall": true
+        },
+        {
+          "crop": "Pears",
+          "slug": "pears",
+          "start": 8,
+          "end": 10,
+          "peak": [
+            9
+          ],
+          "months": "Aug – Oct",
+          "fall": true
+        },
+        {
+          "crop": "Pumpkins",
+          "slug": "pumpkins",
+          "start": 9,
+          "end": 10,
+          "peak": [
+            10
+          ],
+          "months": "Sep – Oct",
+          "fall": true,
+          "note": "Howden, Sugar Pie, decorative gourds"
+        },
+        {
+          "crop": "Winter squash",
+          "slug": "squash",
+          "start": 9,
+          "end": 11,
+          "peak": [
+            10
+          ],
+          "months": "Sep – Nov",
+          "fall": true
+        },
+        {
+          "crop": "Asparagus",
+          "slug": "asparagus",
+          "start": 5,
+          "end": 5,
+          "months": "May",
+          "fall": false
+        },
+        {
+          "crop": "Spinach",
+          "slug": "spinach",
+          "start": 5,
+          "end": 6,
+          "months": "May – Jun",
+          "fall": false
+        },
+        {
+          "crop": "Cabbage",
+          "slug": "cabbage",
+          "start": 6,
+          "end": 10,
+          "months": "Jun – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Cherries",
+          "slug": "cherries",
+          "start": 6,
+          "end": 6,
+          "months": "Jun",
+          "fall": false
+        },
+        {
+          "crop": "Onions",
+          "slug": "onions",
+          "start": 6,
+          "end": 7,
+          "months": "Jun – Jul",
+          "fall": false
+        },
+        {
+          "crop": "Peas",
+          "slug": "peas",
+          "start": 6,
+          "end": 6,
+          "months": "Jun",
+          "fall": false
+        },
+        {
+          "crop": "Rhubarb",
+          "slug": "rhubarb",
+          "start": 6,
+          "end": 6,
+          "months": "Jun",
+          "fall": false
+        },
+        {
+          "crop": "Snap beans",
+          "slug": "green beans",
+          "start": 6,
+          "end": 7,
+          "months": "Jun – Jul",
+          "fall": false
+        },
+        {
+          "crop": "Strawberries",
+          "slug": "strawberries",
+          "start": 6,
+          "end": 6,
+          "months": "Jun",
+          "fall": false
+        },
+        {
+          "crop": "Apricots",
+          "slug": "apricots",
+          "start": 7,
+          "end": 7,
+          "months": "Jul",
+          "fall": false
+        },
+        {
+          "crop": "Blackberries",
+          "slug": "blackberries",
+          "start": 7,
+          "end": 7,
+          "months": "Jul",
+          "fall": false
+        },
+        {
+          "crop": "Blueberries",
+          "slug": "blueberries",
+          "start": 7,
+          "end": 8,
+          "months": "Jul – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Broccoli",
+          "slug": "broccoli",
+          "start": 7,
+          "end": 10,
+          "months": "Jul – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Cucumbers",
+          "slug": "cucumbers",
+          "start": 7,
+          "end": 8,
+          "months": "Jul – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Eggplant",
+          "slug": "eggplant",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Flowers",
+          "slug": "flowers",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Lima beans",
+          "slug": "lima-beans",
+          "start": 7,
+          "end": 8,
+          "months": "Jul – Aug",
+          "fall": false
+        },
+        {
+          "crop": "Peaches",
+          "slug": "peaches",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Peppers",
+          "slug": "peppers",
+          "start": 7,
+          "end": 10,
+          "months": "Jul – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Plums",
+          "slug": "plums",
+          "start": 7,
+          "end": 7,
+          "months": "Jul",
+          "fall": false
+        },
+        {
+          "crop": "Potatoes",
+          "slug": "potatoes",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Raspberries",
+          "slug": "raspberries",
+          "start": 7,
+          "end": 7,
+          "months": "Jul",
+          "fall": false
+        },
+        {
+          "crop": "Tomatoes",
+          "slug": "tomatoes",
+          "start": 7,
+          "end": 9,
+          "months": "Jul – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Collards",
+          "slug": "collards",
+          "start": 8,
+          "end": 10,
+          "months": "Aug – Oct",
+          "fall": false
+        },
+        {
+          "crop": "Nectarines",
+          "slug": "nectarines",
+          "start": 8,
+          "end": 9,
+          "months": "Aug – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Okra",
+          "slug": "okra",
+          "start": 8,
+          "end": 9,
+          "months": "Aug – Sep",
+          "fall": false
+        },
+        {
+          "crop": "Cauliflower",
+          "slug": "cauliflower",
+          "start": 10,
+          "end": 11,
+          "months": "Oct – Nov",
+          "fall": false
+        }
+      ]
+    },
+    {
+      "id": "loudoun-county",
+      "name": "Loudoun County",
+      "state": "VA",
+      "bestWindow": "Late September through late October",
+      "crops": [
+        {
+          "crop": "Tomatoes",
+          "slug": "tomatoes",
+          "start": 7,
+          "end": 10,
+          "peak": [
+            8
+          ],
+          "months": "Jul – Oct",
+          "fall": true
+        },
+        {
+          "crop": "Apples",
+          "slug": "apples",
+          "start": 8,
+          "end": 11,
+          "peak": [
+            9,
+            10
+          ],
+          "months": "Aug – Nov",
+          "fall": true,
+          "note": "Gala, Honeycrisp, Fuji late Sept; Red Delicious, Rome, Granny Smith mid-Oct — milder climate runs longer"
+        },
+        {
+          "crop": "Grapes",
+          "slug": "grapes",
+          "start": 8,
+          "end": 10,
+          "peak": [
+            9
+          ],
+          "months": "Aug – Oct",
+          "fall": true,
+          "note": "Wine grapes from Loudoun’s 40+ farm wineries"
+        },
+        {
+          "crop": "Pears",
+          "slug": "pears",
+          "start": 8,
+          "end": 10,
+          "peak": [
+            9
+          ],
+          "months": "Aug – Oct",
+          "fall": true
+        },
+        {
+          "crop": "Pumpkins",
+          "slug": "pumpkins",
+          "start": 9,
+          "end": 11,
+          "peak": [
+            10
+          ],
+          "months": "Sep – Nov",
+          "fall": true,
+          "note": "Virginia’s longer season means bigger pumpkins, later close"
+        },
+        {
+          "crop": "Winter squash",
+          "slug": "squash",
+          "start": 9,
+          "end": 11,
+          "peak": [
+            10
+          ],
+          "months": "Sep – Nov",
+          "fall": true
+        }
+      ]
+    }
+  ]
+}

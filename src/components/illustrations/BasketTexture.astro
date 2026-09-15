@@ -1,11 +1,12 @@
 ---
 /* A seamless-ish woven band, used at low opacity as a textural accent. */
-interface Props { class?: string; }
-const { class: className = '' } = Astro.props;
+interface Props { class?: string; style?: string; }
+const { class: className = '', style } = Astro.props;
 ---
 <svg
   viewBox="0 0 120 40"
   class={`ill ill--stroke ${className}`}
+  style={style}
   fill="none"
   aria-hidden="true"
   focusable="false"

@@ -2,6 +2,7 @@
 title: "A Perfect Fall Saturday in the Hudson Valley"
 crop: "Fall outing"
 region: "Hudson Valley, NY"
+regionId: "hudson-valley"
 season: "autumn"
 description: "A timed itinerary through the Hudson Valley's densest farm corridor — u-pick apples, a pumpkin patch, a farm stand lunch, and a riverside farmers' market, all within 30 miles."
 publishDate: 2026-08-18

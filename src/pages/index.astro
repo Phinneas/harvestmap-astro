@@ -46,11 +46,6 @@ const topCrops = Object.entries(cropCounts)
 // Season counts
 const countFor = (k: string) => enrichedFarms.filter((f) => (f.seasons || f.derivedSeasons).includes(k as any)).length;
 
-// Recently confirmed
-const thirtyDaysAgo = new Date();
-thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
-const confirmedCount = enrichedFarms.filter((f) => f.lastConfirmedAt && new Date(f.lastConfirmedAt) >= thirtyDaysAgo).length;
-
 // States sorted by farm count, top 18 for initial display
 const statesSorted = [...states].sort((a, b) => b.count - a.count);
 
@@ -100,10 +95,10 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
     <div class="marquee-track">
       <span>&#127807; {inSeason} farms harvesting right now</span>
       <span>&#129373; {withCrops} farms with crop data</span>
-      <span>&#128721; {confirmedCount} confirmed this week</span>
+      <span>&#127793; {totalListings.toLocaleString()} farms across {states.length} states</span>
       <span>&#127807; {inSeason} farms harvesting right now</span>
       <span>&#129373; {withCrops} farms with crop data</span>
-      <span>&#128721; {confirmedCount} confirmed this week</span>
+      <span>&#127793; {totalListings.toLocaleString()} farms across {states.length} states</span>
     </div>
   </div>
 

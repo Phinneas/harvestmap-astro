@@ -1,0 +1,61 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import FarmRow from '../../../components/FarmRow.astro';
+import Leaf from '../../../components/illustrations/Leaf.astro';
+import { FEATURE_COLLECTIONS, getCollection, STATE_NAMES } from '../../../lib/collections';
+import { loadAllAugmentedFarms } from '../../../lib/farm-loader';
+
+export function getStaticPaths() {
+  // Load inside getStaticPaths — Astro runs this in isolation from the
+  // frontmatter's top-level scope, so it can only see imports + local vars.
+  const farms = loadAllAugmentedFarms().filter((f) => !f.permanentlyClosed);
+  const paths: { params: { feature: string; state: string }; props: { collectionId: string; stateCode: string } }[] = [];
+  for (const c of FEATURE_COLLECTIONS) {
+    const byState = new Map<string, number>();
+    for (const f of farms) {
+      if (c.predicate(f)) byState.set(f.locationState, (byState.get(f.locationState) || 0) + 1);
+    }
+    for (const [code, count] of byState) {
+      if (count > 0) {
+        paths.push({
+          params: { feature: c.id, state: code.toLowerCase() },
+          props: { collectionId: c.id, stateCode: code },
+        });
+      }
+    }
+  }
+  return paths;
+}
+
+const { collectionId, stateCode } = Astro.props;
+const allFarms = loadAllAugmentedFarms().filter((f) => !f.permanentlyClosed);
+const collection = getCollection(collectionId)!;
+const stateName = STATE_NAMES[stateCode] || stateCode;
+const farms = allFarms.filter((f) => collection.predicate(f) && f.locationState === stateCode);
+---
+<BaseLayout active="features" title={collection.title(stateName)} description={collection.description(farms.length, stateName)}>
+  <div class="container" style="padding-top: var(--space-6);">
+    <a href={`/features/${collection.id}`} class="btn btn--ghost" style="margin-bottom: var(--space-4);">&larr; {collection.label} (all states)</a>
+
+    <div class="section-head" style="margin-bottom: var(--space-6);">
+      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> {stateName} · {farms.length} farms</span>
+      <h1 class="squiggle squiggle-harvest">{collection.title(stateName)}</h1>
+      <p class="lead">{collection.description(farms.length, stateName)}</p>
+    </div>
+
+    <div class="farm-list">
+      {farms.map((f) => <FarmRow farm={f} />)}
+    </div>
+  </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: '/' },
+      { '@type': 'ListItem', position: 2, name: 'Collections', item: '/features' },
+      { '@type': 'ListItem', position: 3, name: collection.label, item: `/features/${collection.id}` },
+      { '@type': 'ListItem', position: 4, name: stateName, item: `/features/${collection.id}/${stateCode.toLowerCase()}` },
+    ],
+  })} />
+</BaseLayout>

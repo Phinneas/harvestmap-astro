@@ -8,7 +8,7 @@ import cloudflare from '@astrojs/cloudflare';
 // - Farm detail pages (/farms/[slug]) are server-rendered on demand
 //   to avoid building 27,000+ static pages (which exceeds Cloudflare's build limit)
 export default defineConfig({
-  site: 'https://harvestmap.example',
+  site: 'https://harvestmap.co',
   adapter: cloudflare(),
   build: {
     inlineStylesheets: 'never',

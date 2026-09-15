@@ -5,6 +5,7 @@ import Button from '../../components/Button.astro';
 import Leaf from '../../components/illustrations/Leaf.astro';
 import PathLine from '../../components/illustrations/PathLine.astro';
 import { getCollection, render } from 'astro:content';
+import { getRegionCalendar, cropsInSeason, MONTH_NAMES } from '../../lib/harvest-calendar';
 
 export async function getStaticPaths() {
   const guides = await getCollection('guides');
@@ -18,6 +19,14 @@ const { guide } = Astro.props;
 const { Content } = await render(guide);
 
 const isOuting = guide.data.type === 'outing';
+
+// Regional harvest calendar (only for fall outing guides that declare a regionId).
+const regionCalendar = isOuting && guide.data.regionId ? getRegionCalendar(guide.data.regionId) : undefined;
+const currentMonth = new Date().getMonth() + 1;
+const ripeNow = regionCalendar ? cropsInSeason(regionCalendar, currentMonth) : [];
+const ripeSlugs = new Set(ripeNow.map((c) => c.slug));
+const fallCal = regionCalendar ? regionCalendar.crops.filter((c) => c.fall) : [];
+
 const stateLink = guide.data.relatedState
   ? `/${guide.data.relatedState.toLowerCase()}`
   : null;
@@ -62,6 +71,39 @@ const stateLinks = guide.data.states
       <div style="background: var(--clay-08); border: 1px solid var(--clay-16); border-radius: 12px; padding: var(--space-4) var(--space-5); margin-bottom: var(--space-6); display: flex; align-items: center; gap: var(--space-3); flex-wrap: wrap;">
         <span style="font-weight: 600; color: var(--clay-deep); font-size: var(--fs-small); text-transform: uppercase; letter-spacing: 0.05em;">Best window</span>
         <span style="color: var(--text); font-size: var(--fs-body);">{guide.data.bestWindow}</span>
+      </div>
+    )}
+
+    {isOuting && regionCalendar && fallCal.length > 0 && (
+      <div style="background: var(--cream-deep); border: 1px solid var(--line); border-radius: 12px; padding: var(--space-5); margin-bottom: var(--space-7);">
+        <div class="split" style="margin-bottom: var(--space-1); align-items: flex-start;">
+          <h2 style="font-size: var(--fs-h3); display: flex; align-items: center; gap: var(--space-2); margin: 0;">
+            <Leaf style="width: 20px; height: 20px; color: var(--moss);" /> What's ripe in {regionCalendar.name} now
+          </h2>
+        </div>
+        <p style="color: var(--text-muted); margin: 0 0 var(--space-4);">
+          {MONTH_NAMES[currentMonth - 1]} harvest · best window {regionCalendar.bestWindow}
+        </p>
+        <ul class="cal">
+          {fallCal.map((c) => {
+            const ripe = ripeSlugs.has(c.slug);
+            return (
+              <li>
+                <span class="cal__name">
+                  {ripe && <span class="live-dot" style="margin-right: 8px;" aria-label="Ripening now"></span>}
+                  <a href={`/crops/${c.slug}`} style="color: inherit; text-decoration: none;">{c.crop}</a>
+                </span>
+                <span class="cluster" style="gap: var(--space-3); justify-content: flex-end;">
+                  {c.note && <span style="font-size: var(--fs-xs); color: var(--text-muted); max-width: 34ch; text-align: right;">{c.note}</span>}
+                  <span class="cal__months">{c.months}</span>
+                </span>
+              </li>
+            );
+          })}
+        </ul>
+        <p style="font-size: var(--fs-xs); color: var(--text-muted); margin: var(--space-3) 0 0;">
+          Windows are typical for the region and shift a week or two with the weather. Confirm with the farm before you drive out.
+        </p>
       </div>
     )}
 

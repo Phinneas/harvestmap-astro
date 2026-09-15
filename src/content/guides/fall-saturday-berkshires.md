@@ -2,6 +2,7 @@
 title: "A Perfect Fall Saturday in the Berkshires"
 crop: "Fall outing"
 region: "Berkshires, MA"
+regionId: "berkshires"
 season: "autumn"
 description: "A fall itinerary through the Berkshires — apple picking in the hilltowns, a farm stand with cider donuts, a pumpkin patch with mountain views, and a village farmers' market in the afternoon."
 publishDate: 2026-08-18

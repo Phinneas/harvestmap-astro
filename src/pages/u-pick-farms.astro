@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import Leaf from '../components/illustrations/Leaf.astro';
+import FarmMarquee from '../components/FarmMarquee.astro';
 import { loadAllAugmentedFarms, getStatesWithFarms } from '../lib/farm-loader';
 
 // Precompute the crop list for the filter dropdown at build time.
@@ -17,9 +17,11 @@ const totalListings = allFarms.length;
 const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
 ---
 <BaseLayout active="farms" title="U-Pick Farms Near You · HarvestMap" description="Find u-pick farms near you. Enter your ZIP code to see pick-your-own farms, orchards, and farm stands within driving distance.">
+  <FarmMarquee />
+
   <div class="container" style="padding-top: var(--space-6);">
     <div class="section-head" style="margin-bottom: var(--space-5);">
-      <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> U-pick locator</span>
+      <span class="eyebrow">U-pick locator</span>
       <h1 class="squiggle squiggle-harvest">Find u-pick farms near you</h1>
       <p class="lead">Enter your ZIP code to see pick-your-own farms, orchards, and farm stands within driving distance. {totalListings.toLocaleString()} listings across {states.length} states.</p>
     </div>
@@ -76,6 +78,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
       <button class="chip" data-filter="brewery" aria-pressed="false">🍺 Brewery / cidery</button>
       <button class="chip" data-filter="free" aria-pressed="false">🎟️ Free admission</button>
       <button class="chip" data-filter="night" aria-pressed="false">🌙 Night hours</button>
+      <button class="chip" data-filter="haunted" aria-pressed="false">👻 Haunted house</button>
       <button class="chip" data-filter="dogs" aria-pressed="false">🐕 Dog friendly</button>
       <button class="chip" data-filter="accessible" aria-pressed="false">♿ Accessible</button>
       <button class="chip" data-filter="openWeekend" aria-pressed="false">📅 Open weekends</button>
@@ -273,6 +276,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
         ['hasBrewery', '🍺 Brewery / cidery'],
         ['freeAdmission', '🎟️ Free'],
         ['nightHours', '🌙 Night hours'],
+        ['hasHauntedHouse', '👻 Haunted house'],
         ['dogFriendly', '🐕 Dog friendly'],
         ['accessible', '♿ Accessible'],
         ['openThisWeekend', '📅 Open weekends'],

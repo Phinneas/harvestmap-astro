@@ -2,6 +2,7 @@
 title: "A Perfect Fall Saturday in Loudoun County"
 crop: "Fall outing"
 region: "Loudoun County, VA"
+regionId: "loudoun-county"
 season: "autumn"
 description: "A fall itinerary through Virginia's farm country — apple picking in the Blue Ridge foothills, a farm winery, a pumpkin patch with corn maze, and a village farmers' market, all within Loudoun County's rolling countryside."
 publishDate: 2026-08-18

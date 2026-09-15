@@ -1,0 +1,52 @@
+---
+// Minimal cookie-consent banner.
+// Shows until the visitor accepts; on acceptance we persist consent to
+// localStorage and load the Google AdSense script. Until then, adsbygoogle.js
+// is never requested.
+---
+
+<div class="cookie-consent" id="cookie-consent" hidden role="dialog" aria-label="Cookie notice">
+  <p class="cookie-consent__text">
+    HarvestMap uses cookies — including for Google AdSense advertising — to keep the site running and understand how it's
+    used. Read our <a href="/privacy">privacy policy</a> for details.
+  </p>
+  <button type="button" class="btn btn--primary cookie-consent__accept" id="cookie-accept">Got it</button>
+</div>
+
+<script is:inline>
+  (function () {
+    var KEY = 'harvestmap:consent';
+    var ADSENSE_CLIENT = 'ca-pub-5424097145643842';
+    var el = document.getElementById('cookie-consent');
+    if (!el) return;
+    var accept = document.getElementById('cookie-accept');
+
+    function hasConsent() {
+      try { return localStorage.getItem(KEY) === 'accepted'; } catch (e) { return false; }
+    }
+
+    function loadAdsense() {
+      if (window.__hmAdsenseLoaded) return;
+      window.__hmAdsenseLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + ADSENSE_CLIENT;
+      s.crossOrigin = 'anonymous';
+      document.head.appendChild(s);
+    }
+
+    if (hasConsent()) {
+      loadAdsense();
+    } else {
+      el.hidden = false;
+    }
+
+    if (accept) {
+      accept.addEventListener('click', function () {
+        try { localStorage.setItem(KEY, 'accepted'); } catch (e) {}
+        el.hidden = true;
+        loadAdsense();
+      });
+    }
+  })();
+</script>

@@ -9,6 +9,7 @@ import {
   loadFarmsByState,
   augmentFarm,
 } from '../lib/farm-loader';
+import { FEATURE_COLLECTIONS } from '../lib/collections';
 
 export function getStaticPaths() {
   const states = getStatesWithFarms();
@@ -20,6 +21,11 @@ export function getStaticPaths() {
 
 const { stateCode, stateName, totalCount, enrichedCount } = Astro.props;
 const stateFarms = loadFarmsByState(stateCode).map(augmentFarm);
+
+// Fall collections (corn mazes, haunted patches) with at least one match here.
+const stateCollections = FEATURE_COLLECTIONS
+  .map((c) => ({ ...c, count: stateFarms.filter((f) => !f.permanentlyClosed && c.predicate(f)).length }))
+  .filter((c) => c.count > 0);
 
 // One unified directory list: enriched / with-crops first, then USDA-only, closed last.
 const openFarms = stateFarms.filter((f) => !f.permanentlyClosed);
@@ -88,6 +94,19 @@ const topCrops = Object.entries(cropCounts).sort((a, b) => b[1] - a[1]).slice(0,
                 <span class="code-pill">{count}</span>
               </div>
             </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {stateCollections.length > 0 && (
+      <section style="margin-bottom: var(--space-6);">
+        <div class="section-head" style="margin-bottom: var(--space-3);">
+          <h2 style="font-size: var(--fs-h3);">Seasonal collections in {stateName}</h2>
+        </div>
+        <div class="cluster" style="gap: var(--space-2);">
+          {stateCollections.map((c) => (
+            <a href={`/features/${c.id}/${stateCode.toLowerCase()}`} class="chip" style="text-decoration: none;">{c.icon} {c.label} · {c.count}</a>
           ))}
         </div>
       </section>

@@ -1,10 +1,11 @@
 ---
-interface Props { class?: string; label?: string; }
-const { class: className = '', label } = Astro.props;
+interface Props { class?: string; label?: string; style?: string; }
+const { class: className = '', label, style } = Astro.props;
 ---
 <svg
   viewBox="0 0 220 48"
   class={`ill ill--stroke ${className}`}
+  style={style}
   fill="none"
   role={label ? 'img' : undefined}
   aria-hidden={label ? undefined : 'true'}

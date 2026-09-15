@@ -1,0 +1,14 @@
+---
+// Horizontal, seamless-scrolling farm panorama band. Purely decorative:
+// aria-hidden + pointer-events none. Renders FarmScene four times so the
+// -50% translate loop never reveals a gap, then scrolls sideways via CSS.
+import FarmScene from './FarmScene.astro';
+---
+<div class="farm-marquee" aria-hidden="true">
+  <div class="farm-track">
+    <FarmScene />
+    <FarmScene />
+    <FarmScene />
+    <FarmScene />
+  </div>
+</div>

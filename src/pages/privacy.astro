@@ -1,0 +1,108 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const lastUpdated = 'September 11, 2026';
+const contactEmail = 'chesterbeard@salishseaconsulting.com';
+---
+
+<BaseLayout
+  title="Privacy policy · HarvestMap"
+  description="How HarvestMap collects, uses, and shares your personal information when you use harvestmap.co."
+>
+  <div class="container" style="padding-top: var(--space-7); max-width: 760px;">
+    <div class="section-head">
+      <span class="eyebrow">Your information</span>
+      <h1 class="squiggle squiggle-pine">Privacy policy</h1>
+      <p class="lead">This Privacy Policy describes how HarvestMap ("we," "us," or "our") collects, uses, and shares your personal information when you visit harvestmap.co (the "Site").</p>
+      <p class="honesty-note" style="text-align: left; margin: var(--space-2) 0 0;">Last updated {lastUpdated}</p>
+    </div>
+
+    <div class="prose" style="margin-top: var(--space-6);">
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Information we collect</h2>
+
+      <p><strong>Automatically collected information.</strong> When you visit the Site, we automatically collect certain information about your device, including your IP address, browser type, operating system, and the pages you view. We collect this information using cookies, log files, and similar technologies.</p>
+
+      <p><strong>Location information.</strong> If you use our farm finder, ZIP code search, or location-based features, we may collect your general location (city/region level) based on your IP address or browser geolocation settings. We do not store precise GPS coordinates unless you explicitly enable and grant permission for enhanced location features such as "Use my location."</p>
+
+      <p><strong>User-submitted information.</strong> If you submit a farm listing, a "what's ripe" report, a correction, or a contact form, we collect the information you provide, such as your name, email address, and message content.</p>
+
+      <p><strong>Information from third parties.</strong> We source farm data (names, locations, crops, and contact details) from public directories such as the USDA Local Food Portal and PickYourOwn.org, and from grower submissions. This data is aggregated and displayed on the Site.</p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">How we use your information</h2>
+      <ul>
+        <li>To operate, maintain, and improve the Site and its features</li>
+        <li>To respond to your inquiries and process your submissions</li>
+        <li>To analyze usage trends and optimize the user experience</li>
+        <li>To display personalized or contextual advertising through Google AdSense and similar partners</li>
+      </ul>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Advertising and cookies</h2>
+      <p>
+        We use Google AdSense to serve ads on the Site. Google, as a third-party vendor, uses cookies to serve ads based on
+        your prior visits to this Site and other websites. Google's use of advertising cookies enables it and its partners to
+        serve ads to you based on your visit to our Site and/or other sites on the Internet.
+      </p>
+      <p>
+        You may opt out of personalized advertising by visiting Google Ads Settings at
+        <a href="https://www.google.com/settings/ads" rel="noopener">https://www.google.com/settings/ads</a>. Alternatively,
+        you can opt out of a third-party vendor's use of cookies for personalized advertising by visiting
+        <a href="https://www.aboutads.info/choices/" rel="noopener">https://www.aboutads.info/choices/</a>.
+      </p>
+      <p>
+        We also use a small amount of local storage to remember your preferences — such as your light/dark theme choice, the
+        farms you've saved to your map, and whether you've accepted our cookie notice. You can set your browser to refuse
+        cookies or alert you when cookies are being sent. Note that some parts of the Site may not function properly without
+        cookies.
+      </p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Third-party services</h2>
+      <p>We use the following third-party services:</p>
+      <ul>
+        <li>Google AdSense (advertising)</li>
+        <li>Google Analytics (usage analytics)</li>
+        <li>Mapbox (map tiles on farm pages)</li>
+        <li>Hosting and infrastructure providers</li>
+      </ul>
+      <p>These services may collect and process your data according to their own privacy policies. Mapbox's policy is available at <a href="https://www.mapbox.com/legal/privacy" rel="noopener">https://www.mapbox.com/legal/privacy</a>.</p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Data retention</h2>
+      <p>
+        We retain automatically collected information for as long as necessary to fulfill the purposes described above.
+        User-submitted content (farm listings, corrections) is retained unless you request its removal.
+      </p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Your rights</h2>
+      <p>Depending on your location, you may have the right to:</p>
+      <ul>
+        <li>Access the personal information we hold about you</li>
+        <li>Request correction or deletion of your personal information</li>
+        <li>Object to or restrict certain processing activities</li>
+        <li>Withdraw consent where processing is based on consent</li>
+      </ul>
+      <p>To exercise these rights, contact us at <a href={`mailto:${contactEmail}`}>{contactEmail}</a>.</p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Children's privacy</h2>
+      <p>
+        The Site is not intended for children under 13. We do not knowingly collect personal information from children under
+        13. If you believe we have collected such information, contact us and we will delete it.
+      </p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Changes to this policy</h2>
+      <p>
+        We may update this Privacy Policy from time to time. We will post the updated version on this page with a revised
+        "Last updated" date.
+      </p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Contact us</h2>
+      <p>If you have questions about this Privacy Policy, contact us at <a href={`mailto:${contactEmail}`}>{contactEmail}</a>.</p>
+
+      <h2 style="margin: var(--space-5) 0 var(--space-2);">Third-party ad network disclosure (required by Google AdSense)</h2>
+      <p>
+        Some of the ads on this Site are served by Google. Google's advertising requirements can be found at
+        <a href="https://policies.google.com/technologies/ads" rel="noopener">https://policies.google.com/technologies/ads</a>.
+        Google uses cookies and other technologies to collect and use data for advertising purposes. For more information, see
+        Google's Privacy Policy at <a href="https://policies.google.com/privacy" rel="noopener">https://policies.google.com/privacy</a>.
+      </p>
+    </div>
+  </div>
+</BaseLayout>
