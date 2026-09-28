@@ -829,6 +829,9 @@ ul[role="list"] { list-style: none; padding: 0; }
 .prose ul { padding-left: var(--space-5); margin-bottom: var(--space-4); }
 .prose li { margin-bottom: var(--space-2); }
 .prose li:last-child { margin-bottom: 0; }
+.prose table { border-collapse: collapse; width: 100%; margin: var(--space-4) 0; font-size: var(--fs-small); }
+.prose th, .prose td { border: 1px solid var(--line); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+.prose th { background: var(--surface-sunk); font-weight: 600; }
 
 /* --------------------------------------------------------------------------
    20. REDESIGN WHIMSY LAYER — squiggles, stickers, tape, doodles, marquee

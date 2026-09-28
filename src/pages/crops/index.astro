@@ -14,6 +14,11 @@ for (const f of farms) {
 const sortedCrops = Object.entries(cropCounts)
   .sort((a, b) => b[1] - a[1])
   .map(([name, count]) => ({ name, count, slug: name.toLowerCase().replace(/[^a-z0-9]+/g, '-') }));
+
+// "Berries" is an umbrella over several crops — surface it once at the top.
+const berryTotal = farms.filter((f) =>
+  (f.produce || f.crops || []).some((c) => /blueberr|strawberr|blackberr|raspberr|boysenberr/i.test(String(c))),
+).length;
 ---
 <BaseLayout active="farms" title="Browse by crop · HarvestMap" description="Browse all crops grown at u-pick farms across America. Find farms by what they grow.">
   <div class="container" style="padding-top: var(--space-7);">
@@ -24,6 +29,14 @@ const sortedCrops = Object.entries(cropCounts)
     </div>
 
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: var(--space-3);">
+      {berryTotal > 0 && (
+        <a href="/crops/berries" class="card" style="text-decoration: none; padding: var(--space-3) var(--space-4);">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <span style="font-weight: 600; font-family: var(--font-display);">Berries (all)</span>
+            <span class="code-pill">{berryTotal}</span>
+          </div>
+        </a>
+      )}
       {sortedCrops.map((crop) => (
         <a href={`/crops/${crop.slug}`} class="card" style="text-decoration: none; padding: var(--space-3) var(--space-4);">
           <div style="display: flex; justify-content: space-between; align-items: center;">

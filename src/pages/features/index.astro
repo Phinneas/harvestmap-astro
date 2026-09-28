@@ -11,12 +11,12 @@ const collections = FEATURE_COLLECTIONS.map((c) => ({
   states: collectionStates(c, allFarms).length,
 }));
 ---
-<BaseLayout active="features" title="Fall farm collections · HarvestMap" description="Corn mazes open at night, pumpkin patches with corn mazes, and haunted pumpkin patches — filtered from America's farm directory.">
+<BaseLayout active="features" title="Farm collections · HarvestMap" description="Farmers markets, pumpkin patches, orchards, corn mazes, and more — filtered from America's farm directory.">
   <div class="container" style="padding-top: var(--space-7);">
     <div class="section-head" style="max-width: 60ch; margin-bottom: var(--space-7);">
       <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> Collections</span>
-      <h1 class="squiggle squiggle-harvest">Fall farm collections</h1>
-      <p class="lead">Corn mazes, pumpkin patches, and haunted nights — filtered from {allFarms.length.toLocaleString()} farms across America.</p>
+      <h1 class="squiggle squiggle-harvest">Farm collections</h1>
+      <p class="lead">Farmers markets, pumpkin patches, orchards, corn mazes, and more — filtered from {allFarms.length.toLocaleString()} farms across America.</p>
     </div>
 
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: var(--space-4);">

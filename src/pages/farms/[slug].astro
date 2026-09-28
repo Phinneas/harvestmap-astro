@@ -259,6 +259,12 @@ const hasEstablished = farm.established !== undefined;
               </li>
             )}
             <li><span class="cal__name">Region</span><span class="cal__months">{region}</span></li>
+            {farm.uPick && (
+              <li><span class="cal__name">Picking</span><span class="cal__months">U-pick</span></li>
+            )}
+            {typeof farm.pricePerLb === 'number' && (
+              <li><span class="cal__name">Price</span><span class="cal__months">~${farm.pricePerLb.toFixed(2)}/lb</span></li>
+            )}
             {farm.website && (
               <li><span class="cal__name">Website</span><span class="cal__months"><a href={farm.website} rel="noopener" style="color: var(--clay-deep);">Visit →</a></span></li>
             )}

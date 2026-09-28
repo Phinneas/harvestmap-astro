@@ -97,4 +97,9 @@ export interface Farm {
   dogFriendly?: boolean;
   accessible?: boolean;
   openingHours?: OpeningHours[];
+
+  // Berry u-pick enrichment — hand-authored only, no heuristic derivation yet.
+  // These back price and pick-your-own claims on berry listings and guides.
+  uPick?: boolean; // true when the farm opens rows for pick-your-own
+  pricePerLb?: number; // typical u-pick price per pound in USD, when known
 }
