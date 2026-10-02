@@ -13,7 +13,9 @@ export const GET: APIRoute = async () => {
   const dataDir = join(process.cwd(), 'public', 'farm-data');
   const base = 'https://harvestmap.co';
 
-  const slugs: string[] = [];
+  // A Set, because a few slugs appear in more than one state file and a
+  // sitemap must not list the same URL twice.
+  const slugs = new Set<string>();
   const files = readdirSync(dataDir).filter(
     (f) => f.endsWith('.json') && f !== 'index.json',
   );
@@ -26,11 +28,11 @@ export const GET: APIRoute = async () => {
       continue;
     }
     for (const farm of farms) {
-      if (farm.slug && isIndexable(farm)) slugs.push(farm.slug);
+      if (farm.slug && isIndexable(farm)) slugs.add(farm.slug);
     }
   }
 
-  const urls = slugs
+  const urls = [...slugs]
     .map((slug) => `  <url>\n    <loc>${base}/farms/${slug}</loc>\n    <changefreq>monthly</changefreq>\n    <priority>0.6</priority>\n  </url>`)
     .join('\n');
 
