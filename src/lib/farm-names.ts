@@ -23,7 +23,7 @@ export function slugify(name: string): string {
 
 const GENERIC_SINGLES = new Set([
   'organic', 'organically', 'note', 'notes', 'certified', 'natural',
-  'naturally', 'pyo', 'upick', 'pesticides',
+  'naturally', 'pyo', 'upick', 'pesticides', 'discontinued',
 ]);
 
 /**
