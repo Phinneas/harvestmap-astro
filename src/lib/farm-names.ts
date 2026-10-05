@@ -52,8 +52,13 @@ export function isJunkFarmName(rawName: string): boolean {
   // Practice / status notes
   if (/^no (pesticides|more u.?pick|pyo)\b/.test(normalized)) return true;
   if (/^we (minimize|limit|use)\b/.test(normalized)) return true;
+  if (/^we have u[- ]?pick\b/.test(normalized)) return true;
   if (/^our (berries|farms|produce|fruit)\b/.test(normalized)) return true;
-  if (/^uses (natural|organic|conventional)\b/.test(normalized)) return true;
+  if (/^our only\b/.test(normalized)) return true;
+  if (/^uses (natural|organic|conventional|integrated pest)\b/.test(normalized)) return true;
+  if (/^a visitor writes\b/.test(normalized)) return true;
+  if (/^closed (for|since|until|as of|indefinitely|permanently|all)\b/.test(normalized)) return true;
+  if (/^update\b/.test(normalized)) return true;
   if (/^follow organic methods/.test(normalized)) return true;
   if (normalized === 'organically grown') return true;
 
