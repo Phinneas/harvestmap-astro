@@ -42,7 +42,7 @@ const amenities = activeFeatureList(farm.features)
   .slice(0, 4);
 ---
 {indexable ? (
-  <a class="farm-row" href={`/farms/${farm.slug}`} data-seasons={seasons.join(' ')} data-name={farm.name.toLowerCase()} data-produce={produce.join(' ').toLowerCase()}>
+  <a class="farm-row" href={`/farms/${farm.locationState.toLowerCase()}/${farm.slug}`} data-seasons={seasons.join(' ')} data-name={farm.name.toLowerCase()} data-produce={produce.join(' ').toLowerCase()}>
     <div class="farm-row__main">
       <div class="farm-row__head">
         <h3 class="farm-row__title">{farm.name}</h3>

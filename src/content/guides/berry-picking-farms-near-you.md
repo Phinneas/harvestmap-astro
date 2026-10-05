@@ -77,7 +77,7 @@ current price when you call, since it moves with the season.
 
 ## Free public berry picking
 
-A few places let you pick for free. [Charlotte's Blueberry Park](/farms/charlottes-blueberry-park-402-e-d-street)
+A few places let you pick for free. [Charlotte's Blueberry Park](/farms/wa/charlottes-blueberry-park-402-e-d-street)
 in Tacoma, Washington is a public park with blueberry bushes anyone can pick at
 no charge — a rare find, and one worth knowing if you're in the Puget Sound
 area. These spots are uncommon, so when you find one, treat it gently and leave

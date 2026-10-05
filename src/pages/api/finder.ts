@@ -126,7 +126,7 @@ export const GET: APIRoute = async ({ request, locals }) => {
           openThisWeekend: f.owk,
         },
         distance: hasLocation ? Math.round(f.distance * 10) / 10 : undefined,
-        url: `/farms/${f.s}`,
+        url: `/farms/${(f.st || '').toLowerCase()}/${f.s}`,
       })),
     }),
     {

@@ -1,16 +1,16 @@
 ---
 export const prerender = false;
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import SeasonBadge from '../../components/SeasonBadge.astro';
-import Button from '../../components/Button.astro';
-import FarmRow from '../../components/FarmRow.astro';
-import PathLine from '../../components/illustrations/PathLine.astro';
-import Leaf from '../../components/illustrations/Leaf.astro';
-import { augmentFarm } from '../../lib/augment';
-import { activeFeatureList, hasAnyFeature } from '../../lib/features';
-import { listingTypeLabel, listingTypeCss } from '../../lib/activity';
-import { isIndexable } from '../../lib/indexing';
-import type { Farm } from '../../lib/types';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SeasonBadge from '../../../components/SeasonBadge.astro';
+import Button from '../../../components/Button.astro';
+import FarmRow from '../../../components/FarmRow.astro';
+import PathLine from '../../../components/illustrations/PathLine.astro';
+import Leaf from '../../../components/illustrations/Leaf.astro';
+import { augmentFarm } from '../../../lib/augment';
+import { activeFeatureList, hasAnyFeature } from '../../../lib/features';
+import { listingTypeLabel, listingTypeCss } from '../../../lib/activity';
+import { isIndexable } from '../../../lib/indexing';
+import type { Farm } from '../../../lib/types';
 
 const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
 
@@ -18,21 +18,9 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
 // Farm data is served as static JSON files in /farm-data/.
 // The index maps slug → state code, and each state file has all farms for that state.
 
-const { slug } = Astro.params;
-if (!slug) return new Response('Not found', { status: 404 });
-
-// Cache the slug→state index in module scope (persists across requests on same isolate)
-type FarmIndex = Record<string, string>;
-let _farmIndex: FarmIndex | null = null;
-
-async function getFarmIndex(): Promise<FarmIndex> {
-  if (_farmIndex) return _farmIndex;
-  const runtime = (Astro as any).locals.runtime;
-  if (!runtime?.env?.ASSETS) throw new Error('ASSETS binding not available');
-  const res = await runtime.env.ASSETS.fetch(new URL('/farm-data/index.json', Astro.url));
-  _farmIndex = await res.json();
-  return _farmIndex;
-}
+const { state, slug } = Astro.params;
+if (!state || !slug) return new Response('Not found', { status: 404 });
+const stateCode = state.toUpperCase();
 
 async function getStateFarms(stateCode: string): Promise<Farm[]> {
   const runtime = (Astro as any).locals.runtime;
@@ -40,11 +28,8 @@ async function getStateFarms(stateCode: string): Promise<Farm[]> {
   return await res.json();
 }
 
-// Load farm data
-const index = await getFarmIndex();
-const stateCode = index[slug];
-if (!stateCode) return new Response('Not found', { status: 404 });
-
+// State is scoped in the URL (/farms/{state}/{slug}), so no slug→state index
+// lookup is needed — (state, slug) is unique in the data.
 const stateFarms: Farm[] = await getStateFarms(stateCode);
 const farmData = stateFarms.find((f) => f.slug === slug);
 if (!farmData) return new Response('Not found', { status: 404 });
@@ -282,7 +267,7 @@ const hasEstablished = farm.established !== undefined;
               <Button variant="primary" block href="#">Get directions</Button>
             )}
             <Button variant="secondary" block id="save-farm-btn" data-slug={farm.slug}>Save to my map</Button>
-            <Button variant="ghost" block href={`/report?farm=${farm.slug}&name=${encodeURIComponent(farm.name)}`}>Report what's ripe</Button>
+            <Button variant="ghost" block href={`/report?farm=${farm.slug}&state=${farm.locationState.toLowerCase()}&name=${encodeURIComponent(farm.name)}`}>Report what's ripe</Button>
           </div>
         </div>
 
@@ -390,7 +375,7 @@ const hasEstablished = farm.established !== undefined;
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Home', item: '/' },
     { '@type': 'ListItem', position: 2, name: farm.locationState, item: `/${farm.locationState.toLowerCase()}` },
-    { '@type': 'ListItem', position: 3, name: farm.name, item: `/farms/${farm.slug}` },
+    { '@type': 'ListItem', position: 3, name: farm.name, item: `/farms/${farm.locationState.toLowerCase()}/${farm.slug}` },
   ],
 })} />
 

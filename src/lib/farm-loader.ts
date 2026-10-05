@@ -158,8 +158,3 @@ export function loadAllAugmentedFarms() {
 export function loadEnrichedAugmentedFarms() {
   return loadEnrichedFarms().map(augmentFarm);
 }
-
-export function getFarmBySlug(slug: string): (ReturnType<typeof augmentFarm>) | null {
-  const farms = loadAllAugmentedFarms();
-  return farms.find((f) => f.slug === slug) || null;
-}

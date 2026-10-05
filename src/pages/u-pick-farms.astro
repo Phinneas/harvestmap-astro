@@ -318,7 +318,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
 
         var locText = escapeHtml([f.city, f.state].filter(Boolean).join(', '));
 
-        return '<a class="farm-row" href="' + (f.url || '/farms/' + f.slug) + '">' +
+        return '<a class="farm-row" href="' + (f.url || '/farms/' + (f.state || '').toLowerCase() + '/' + f.slug) + '">' +
           '<div class="farm-row__main">' +
             '<div class="farm-row__head">' +
               '<h3 class="farm-row__title">' + escapeHtml(f.name) + '</h3>' +
@@ -377,7 +377,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
           if (f.lat == null || f.lon == null) return;
           var color = f.inSeason ? '#5f8f4e' : '#c4632c';
           L.circleMarker([f.lat, f.lon], { radius: 6, color: color, fillColor: color, fillOpacity: 0.6, weight: 1 })
-            .bindPopup('<a href="' + (f.url || '/farms/' + f.slug) + '">' + escapeHtml(f.name) + '</a><br>' + escapeHtml([f.city, f.state].filter(Boolean).join(', ')) + (typeof f.distance === 'number' ? '<br>' + f.distance + ' mi away' : ''))
+            .bindPopup('<a href="' + (f.url || '/farms/' + (f.state || '').toLowerCase() + '/' + f.slug) + '">' + escapeHtml(f.name) + '</a><br>' + escapeHtml([f.city, f.state].filter(Boolean).join(', ')) + (typeof f.distance === 'number' ? '<br>' + f.distance + ' mi away' : ''))
             .addTo(markerLayer);
         });
         L.circleMarker([lat, lon], { radius: 8, color: '#2e4f3e', fillColor: '#2e4f3e', fillOpacity: 1 }).addTo(markerLayer);

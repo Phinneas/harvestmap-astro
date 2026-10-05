@@ -13,9 +13,9 @@ export const GET: APIRoute = async () => {
   const dataDir = join(process.cwd(), 'public', 'farm-data');
   const base = 'https://harvestmap.co';
 
-  // Use a Set so duplicate slugs (same-named farms across states, or
-  // malformed records whose slug collides) never emit duplicate <url> entries.
-  const slugSet = new Set<string>();
+  // Farm URLs are state-scoped (/farms/{state}/{slug}), so track the pair —
+  // the Set guards against any duplicate (state, slug) slipping through.
+  const urlSet = new Set<string>();
   const files = readdirSync(dataDir).filter(
     (f) => f.endsWith('.json') && f !== 'index.json',
   );
@@ -28,14 +28,15 @@ export const GET: APIRoute = async () => {
       continue;
     }
     for (const farm of farms) {
-      if (farm.slug && isIndexable(farm)) slugSet.add(farm.slug);
+      if (farm.slug && farm.locationState && isIndexable(farm)) {
+        urlSet.add(`${(farm.locationState as string).toLowerCase()}/${farm.slug}`);
+      }
     }
   }
 
-  const slugs = [...slugSet].sort();
-
-  const urls = slugs
-    .map((slug) => `  <url>\n    <loc>${base}/farms/${slug}</loc>\n    <changefreq>monthly</changefreq>\n    <priority>0.6</priority>\n  </url>`)
+  const urls = [...urlSet]
+    .sort()
+    .map((stateSlug) => `  <url>\n    <loc>${base}/farms/${stateSlug}</loc>\n    <changefreq>monthly</changefreq>\n    <priority>0.6</priority>\n  </url>`)
     .join('\n');
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>`;

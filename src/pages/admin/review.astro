@@ -124,7 +124,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
         var titleHtml = isNewFarm
           ? '<h3 style="margin: var(--space-1) 0;">' + escapeHtml(s.farmName) + '</h3>' +
             '<span class="card__loc">' + escapeHtml(s.farmCity || '') + (s.farmCity ? ', ' : '') + escapeHtml(s.farmState || '') + '</span>'
-          : '<h3 style="margin: var(--space-1) 0;"><a href="/farms/' + escapeHtml(s.farmSlug) + '" style="color: var(--clay-deep);">' + escapeHtml(s.farmName || s.farmSlug) + '</a></h3>' +
+          : '<h3 style="margin: var(--space-1) 0;"><a href="/farms/' + (s.farmState ? escapeHtml(String(s.farmState).toLowerCase()) + '/' : '') + escapeHtml(s.farmSlug) + '" style="color: var(--clay-deep);">' + escapeHtml(s.farmName || s.farmSlug) + '</a></h3>' +
             '<span class="card__loc">' + escapeHtml(s.farmState || '') + '</span>';
 
         var extraHtml = '';

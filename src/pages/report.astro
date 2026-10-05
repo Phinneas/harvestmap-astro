@@ -137,10 +137,12 @@ const COMMON_CROPS = [
 
 <script is:inline>
   (function () {
-    // Read farm slug from URL query param
+    // Read farm slug + state from URL query params
     var params = new URLSearchParams(window.location.search);
     var farmSlug = params.get('farm') || '';
+    var farmState = params.get('state') || '';
     var farmName = params.get('name') || '';
+    var farmPath = farmState ? farmState.toLowerCase() + '/' + farmSlug : farmSlug;
 
     if (!farmSlug) {
       // No farm specified — redirect home
@@ -150,9 +152,10 @@ const COMMON_CROPS = [
 
     // Populate hidden fields
     document.getElementById('farm-slug').value = farmSlug;
+    document.getElementById('farm-state').value = farmState;
     document.getElementById('farm-name-input').value = farmName;
-    document.getElementById('back-link').href = '/farms/' + farmSlug;
-    document.getElementById('success-back').href = '/farms/' + farmSlug;
+    document.getElementById('back-link').href = '/farms/' + farmPath;
+    document.getElementById('success-back').href = '/farms/' + farmPath;
 
     // Set farm name in heading — try fetching the farm page to get the real name
     var nameEl = document.getElementById('farm-name');
@@ -160,7 +163,7 @@ const COMMON_CROPS = [
       nameEl.textContent = farmName;
     } else {
       // Fetch the farm page and extract the h1
-      fetch('/farms/' + farmSlug + '/')
+      fetch('/farms/' + farmPath + '/')
         .then(function (r) { return r.text(); })
         .then(function (html) {
           var match = html.match(/<h1[^>]*>(.*?)<\/h1>/i);
