@@ -385,6 +385,8 @@ ul[role="list"] { list-style: none; padding: 0; }
               transform var(--dur-fast) var(--ease-organic);
 }
 .farm-row:hover { border-color: var(--clay); box-shadow: var(--shadow-sm); transform: translateY(-2px); background: color-mix(in srgb, var(--honey) 5%, var(--surface)); }
+.farm-row--plain { cursor: default; opacity: 0.82; }
+.farm-row--plain:hover { border-color: var(--line); box-shadow: none; transform: none; background: var(--surface); }
 .farm-row__main { display: flex; flex-direction: column; gap: var(--space-2); min-width: 0; }
 .farm-row__head { display: flex; align-items: center; gap: var(--space-3); flex-wrap: wrap; }
 .farm-row__title { font-size: 1.15rem; font-family: var(--font-display); margin: 0; }

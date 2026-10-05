@@ -16,6 +16,10 @@ export default defineConfig({
   integrations: [
     sitemap({
       filter: (page) => !page.includes('/admin/'),
+      // Include the farm sitemap (generated separately from the SSR farm pages)
+      // in sitemap-index.xml so submitting the index in Search Console covers
+      // every indexable farm URL, not just the prerendered pages.
+      customSitemaps: ['https://harvestmap.co/sitemap-farms.xml'],
     }),
   ],
 });

@@ -2,6 +2,7 @@
 import SeasonBadge from './SeasonBadge.astro';
 import { activeFeatureList } from '../lib/features';
 import { listingTypeLabel, listingTypeCss } from '../lib/activity';
+import { isIndexable } from '../lib/indexing';
 import type { Farm, FarmFeatures, Season } from '../lib/types';
 
 interface AugmentedFarm extends Farm {
@@ -28,6 +29,11 @@ const typeCss = listingTypeCss(farm);
 // derived activities always get a badge.
 const showTypeBadge = typeLabel !== 'Farm';
 
+// Crawl-budget hygiene: a farm that fails the indexing quality bar gets a
+// noindex'd detail page, so list pages must not link to it. Render it as
+// name + location text instead until it is enriched.
+const indexable = isIndexable(farm);
+
 // Structured amenities only (skip temporal "open today/this weekend" — those
 // are stale on prerendered list pages and belong on the SSR detail page).
 const amenityKeys = new Set(['freeAdmission', 'hasCornMaze', 'hasBrewery', 'nightHours', 'hasHauntedHouse', 'dogFriendly', 'accessible']);
@@ -35,37 +41,54 @@ const amenities = activeFeatureList(farm.features)
   .filter((f) => amenityKeys.has(f.key))
   .slice(0, 4);
 ---
-<a class="farm-row" href={`/farms/${farm.slug}`} data-seasons={seasons.join(' ')} data-name={farm.name.toLowerCase()} data-produce={produce.join(' ').toLowerCase()}>
-  <div class="farm-row__main">
-    <div class="farm-row__head">
-      <h3 class="farm-row__title">{farm.name}</h3>
-      {showTypeBadge && <span class={`type-badge type-badge--${typeCss}`}>{typeLabel}</span>}
-      {farm.permanentlyClosed && <span class="tag" style="background:var(--ember-15);color:var(--ember);border-color:var(--ember);">Closed</span>}
+{indexable ? (
+  <a class="farm-row" href={`/farms/${farm.slug}`} data-seasons={seasons.join(' ')} data-name={farm.name.toLowerCase()} data-produce={produce.join(' ').toLowerCase()}>
+    <div class="farm-row__main">
+      <div class="farm-row__head">
+        <h3 class="farm-row__title">{farm.name}</h3>
+        {showTypeBadge && <span class={`type-badge type-badge--${typeCss}`}>{typeLabel}</span>}
+        {farm.permanentlyClosed && <span class="tag" style="background:var(--ember-15);color:var(--ember);border-color:var(--ember);">Closed</span>}
+      </div>
+      <span class="card__loc farm-row__loc">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M12 21c5-3 8-7 8-11a8 8 0 1 0-16 0c0 4 3 8 8 11Z"/><circle cx="12" cy="10" r="2.6"/>
+        </svg>
+        {farm.location}
+      </span>
+      {produce.length > 0 && (
+        <div class="card__tags farm-row__crops">
+          {produce.slice(0, 4).map((p) => <span class="tag">{p}</span>)}
+          {produce.length > 4 && <span class="tag tag--muted">+{produce.length - 4}</span>}
+        </div>
+      )}
+      {amenities.length > 0 && (
+        <div class="feature-list farm-row__crops">
+          {amenities.map((f) => (
+            <span class="feature-pill"><span aria-hidden="true">{f.icon}</span>{f.label}</span>
+          ))}
+        </div>
+      )}
     </div>
-    <span class="card__loc farm-row__loc">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-        <path d="M12 21c5-3 8-7 8-11a8 8 0 1 0-16 0c0 4 3 8 8 11Z"/><circle cx="12" cy="10" r="2.6"/>
-      </svg>
-      {farm.location}
-    </span>
-    {produce.length > 0 && (
-      <div class="card__tags farm-row__crops">
-        {produce.slice(0, 4).map((p) => <span class="tag">{p}</span>)}
-        {produce.length > 4 && <span class="tag tag--muted">+{produce.length - 4}</span>}
+    <div class="farm-row__side">
+      {inSeasonNow && peak
+        ? <SeasonBadge season={peak} label="In season now" />
+        : (peak && <SeasonBadge season={peak} label={`${peakLabels[peak]} peak`} />)}
+      <span class="farm-row__action" aria-hidden="true">View →</span>
+    </div>
+  </a>
+) : (
+  <div class="farm-row farm-row--plain">
+    <div class="farm-row__main">
+      <div class="farm-row__head">
+        <h3 class="farm-row__title">{farm.name}</h3>
+        {farm.permanentlyClosed && <span class="tag" style="background:var(--ember-15);color:var(--ember);border-color:var(--ember);">Closed</span>}
       </div>
-    )}
-    {amenities.length > 0 && (
-      <div class="feature-list farm-row__crops">
-        {amenities.map((f) => (
-          <span class="feature-pill"><span aria-hidden="true">{f.icon}</span>{f.label}</span>
-        ))}
-      </div>
-    )}
+      <span class="card__loc farm-row__loc">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M12 21c5-3 8-7 8-11a8 8 0 1 0-16 0c0 4 3 8 8 11Z"/><circle cx="12" cy="10" r="2.6"/>
+        </svg>
+        {farm.location}
+      </span>
+    </div>
   </div>
-  <div class="farm-row__side">
-    {inSeasonNow && peak
-      ? <SeasonBadge season={peak} label="In season now" />
-      : (peak && <SeasonBadge season={peak} label={`${peakLabels[peak]} peak`} />)}
-    <span class="farm-row__action" aria-hidden="true">View →</span>
-  </div>
-</a>
+)}

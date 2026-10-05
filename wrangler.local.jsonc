@@ -1,0 +1,26 @@
+// Local-only Wrangler config, renamed from wrangler.jsonc so Cloudflare Pages'
+// build system stops warning about a Workers-style config that is missing
+// `pages_build_output_dir`. Production Pages configuration lives in the
+// Cloudflare dashboard (Build settings + Settings > Functions for the
+// SUBMISSIONS_KV binding), so this file is for local `wrangler` use only.
+{
+	"name": "harvestmap",
+	"compatibility_date": "2025-01-01",
+	"compatibility_flags": [
+		"nodejs_compat"
+	],
+	"main": "dist/_worker.js/index.js",
+	"assets": {
+		"binding": "ASSETS",
+		"directory": "./dist"
+	},
+	"observability": {
+		"enabled": true
+	},
+	"kv_namespaces": [
+		{
+			"binding": "SUBMISSIONS_KV",
+			"id": "7e2bd73b4984476197c4f6e09425deb2"
+		}
+	]
+}

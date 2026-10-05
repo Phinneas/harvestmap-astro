@@ -10,6 +10,7 @@ import {
   augmentFarm,
 } from '../lib/farm-loader';
 import { FEATURE_COLLECTIONS } from '../lib/collections';
+import { isIndexable } from '../lib/indexing';
 
 export function getStaticPaths() {
   const states = getStatesWithFarms();
@@ -32,8 +33,10 @@ const openFarms = stateFarms.filter((f) => !f.permanentlyClosed);
 const closedFarms = stateFarms.filter((f) => f.permanentlyClosed);
 const sortedFarms = [
   ...openFarms.sort((a, b) => {
-    const aRich = (a.isEnriched ? 2 : 0) + ((a.produce || a.crops || []).length > 0 ? 1 : 0);
-    const bRich = (b.isEnriched ? 2 : 0) + ((b.produce || b.crops || []).length > 0 ? 1 : 0);
+    // Indexable (enriched) farms first, then crop-bearing, then the rest, so a
+    // crawler reading the state page hits enriched farm URLs before thin ones.
+    const aRich = (isIndexable(a) ? 2 : 0) + ((a.produce || a.crops || []).length > 0 ? 1 : 0);
+    const bRich = (isIndexable(b) ? 2 : 0) + ((b.produce || b.crops || []).length > 0 ? 1 : 0);
     if (aRich !== bRich) return bRich - aRich;
     return a.name.localeCompare(b.name);
   }),
