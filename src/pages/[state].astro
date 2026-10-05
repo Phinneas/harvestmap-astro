@@ -11,6 +11,7 @@ import {
 } from '../lib/farm-loader';
 import { FEATURE_COLLECTIONS } from '../lib/collections';
 import { isIndexable } from '../lib/indexing';
+import { getStateIntro } from '../lib/state-intros';
 
 export function getStaticPaths() {
   const states = getStatesWithFarms();
@@ -58,6 +59,28 @@ for (const f of stateFarms) {
   }
 }
 const topCrops = Object.entries(cropCounts).sort((a, b) => b[1] - a[1]).slice(0, 12);
+
+// State-specific intro: season calendar + regional highlights + don't-miss farms.
+const typeCounts = {
+  agritourism: stateFarms.filter((f) => f.directory === 'agritourism').length,
+  markets: stateFarms.filter((f) => f.directory === 'farmersmarket').length,
+  stands: stateFarms.filter((f) => f.directory === 'onfarmmarket').length,
+  csa: stateFarms.filter((f) => f.directory === 'csa').length,
+};
+
+const stateIntro = getStateIntro(
+  stateCode,
+  stateName,
+  totalCount,
+  topCrops.map(([crop]) => crop),
+  typeCounts,
+  stateFarms.map((f) => ({
+    name: f.name,
+    slug: f.slug,
+    crops: f.produce || f.crops || [],
+    isEnriched: isIndexable(f),
+  })),
+);
 ---
 <BaseLayout active="farms" title={`U-Pick Farms in ${stateName} · HarvestMap`} description={`${totalCount} farms and growers in ${stateName}. Find u-pick farms, farm stands, orchards, and farmers markets near you.`}>
   <div class="container" style="padding-top: var(--space-6);">
@@ -68,6 +91,24 @@ const topCrops = Object.entries(cropCounts).sort((a, b) => b[1] - a[1]).slice(0,
       <h1 class="squiggle squiggle-harvest">Farms in {stateName}</h1>
       <p class="lead">{totalCount} farms listed · {enrichedCount} with crop and seasonality data</p>
     </div>
+
+    {stateIntro.paragraphs.length > 0 && (
+      <section style="margin-bottom: var(--space-6);">
+        <div class="prose" style="max-width: 72ch;">
+          {stateIntro.paragraphs.map((p) => <p>{p}</p>)}
+        </div>
+        {stateIntro.highlightFarms.length > 0 && (
+          <div style="margin-top: var(--space-4);">
+            <span class="eyebrow">Don't miss</span>
+            <div class="cluster" style="gap: var(--space-2); margin-top: var(--space-2);">
+              {stateIntro.highlightFarms.map((f) => (
+                <a href={`/farms/${stateCode.toLowerCase()}/${f.slug}`} class="chip" style="text-decoration: none;">{f.name}</a>
+              ))}
+            </div>
+          </div>
+        )}
+      </section>
+    )}
 
     {inSeasonCrops.length > 0 && (
       <section style="margin-bottom: var(--space-6);">
