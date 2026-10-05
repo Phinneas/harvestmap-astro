@@ -94,9 +94,10 @@ function generateDescription(farm: Farm): string[] {
 
   const paragraphs: string[] = [];
 
-  if (crops.length > 0) {
+  if (crops.length > 0 && !['farmersmarket', 'csa', 'onfarmmarket'].includes(farm.directory)) {
     // Crop-bearing farms get the richest descriptions.
     const adj = pick(['family-run', 'working', 'small', 'independent']);
+    const article = /^[aeiou]/i.test(adj) ? 'an' : 'a';
     const seasonList = seasons.length > 0
       ? listCrops(seasons.map((s) => SEASON_LABEL[s]))
       : 'much of the year';
@@ -107,11 +108,11 @@ function generateDescription(farm: Farm): string[] {
 
     if (shape === 'a') {
       paragraphs.push(
-        `${name} is a ${adj} farm in ${city}, ${state}. It grows ${listCrops(crops)}, with seasonal availability through ${seasonList}.${seasonalNote}${practicesClause}${establishedClause} ${contact}`,
+        `${name} is ${article} ${adj} farm in ${city}, ${state}. It grows ${listCrops(crops)}, with seasonal availability through ${seasonList}.${seasonalNote}${practicesClause}${establishedClause} ${contact}`,
       );
     } else if (shape === 'b') {
       paragraphs.push(
-        `In ${city}, ${state}, ${name} raises ${listCrops(crops)} on a ${adj} farm.${seasonalNote}${practicesClause}${establishedClause} Visitors can find seasonal produce and farm-grown goods through ${seasonList}. ${contact}`,
+        `In ${city}, ${state}, ${name} raises ${listCrops(crops)} on ${article} ${adj} farm.${seasonalNote}${practicesClause}${establishedClause} Visitors can find seasonal produce and farm-grown goods through ${seasonList}. ${contact}`,
       );
     } else {
       paragraphs.push(
