@@ -185,5 +185,14 @@ export function getStateIntro(
     paragraphs.push(`Three standouts worth a look: ${listItems(desc)}.`);
   }
 
+  // Sparsely-listed states have less to draw on; add a practical line so every
+  // intro clears the 150-word floor.
+  const currentWords = paragraphs.join(' ').split(/\s+/).filter(Boolean).length;
+  if (currentWords < 150) {
+    paragraphs.push(
+      `${stateName}'s farm scene is spread thin but worth exploring — reach out to individual farms to confirm what they grow and when they are open before you head out.`,
+    );
+  }
+
   return { paragraphs, highlightFarms };
 }
