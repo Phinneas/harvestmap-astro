@@ -2,6 +2,8 @@
 // from each state page, then scrapes farm listings from those sub-pages.
 // Works for all 50 US states + DC.
 
+import { isJunkFarmName as isGenericJunkName } from './farm-names';
+
 const PYO_BASE = 'https://www.pickyourown.org/';
 
 // All 50 states + DC with their PickYourOwn.org page codes
@@ -72,21 +74,10 @@ function extractCrops(text: string): string[] {
 
 const STATE_NAMES = Object.fromEntries(US_STATES.map((s) => [s.code, s.name]));
 
-// Decode common HTML entities in extracted text
-function decodeEntities(s: string): string {
-  return s
-    .replace(/&amp;/g, '&')
-    .replace(/&#39;/g, "'")
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&quot;/g, '"')
-    .replace(/&#\d+;/g, ' ')
-    .replace(/&[a-z]+;/g, ' ')
-    .trim();
-}
-
 // Filter out non-farm content that PYO pages mix in with farm listings.
 // These include visitor comments, status updates, price notes, product
-// affiliate links, section headers, and operational notes.
+// affiliate links, section headers, and operational notes — plus the generic
+// practice/note/certification terms from farm-names.ts.
 function isJunkFarmName(rawName: string): boolean {
   // Decode HTML entities first, then trim
   const name = decodeEntities(rawName);
@@ -152,7 +143,20 @@ function isJunkFarmName(rawName: string): boolean {
   // Very long names (> 80 chars) are notes, not farm names
   if (name.length > 80) return true;
 
-  return false;
+  // Generic practice/note/certification terms (shared with data validation)
+  return isGenericJunkName(rawName);
+}
+
+// Decode common HTML entities in extracted text
+function decodeEntities(s: string): string {
+  return s
+    .replace(/&amp;/g, '&')
+    .replace(/&#39;/g, "'")
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&quot;/g, '"')
+    .replace(/&#\d+;/g, ' ')
+    .replace(/&[a-z]+;/g, ' ')
+    .trim();
 }
 
 // Parse a farm block from PickYourOwn.org HTML.
