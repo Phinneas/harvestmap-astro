@@ -73,6 +73,23 @@ export function isJunkFarmName(rawName: string): boolean {
 const NON_NAME_LEADING =
   /^(about|home|general|pyo|farming methods|natural farming|pick your own|gold|peach|northeast|produce|hood river|mike'?s|moran fruit|cisa|we|our)\b/i;
 
+// Non-farm entities that slipped into the directory from scraping: tourism
+// bureaus, convention centers, chambers of commerce, and standalone festivals.
+// A name is non-farm only when it carries an event/org word AND no farm/market
+// word — so "Barnesville Pumpkin Festival" is an event, but "Festival Farm",
+// "Festival Foods Farmers' Market", and "Farm Bureau Farmers' Market" are kept.
+const EVENT_ORG_WORD = /\b(bureau|convention|tourism|chamber|festivals?)\b/i;
+const FARM_MARKET_WORD =
+  /\b(farms?|farmers?|markets?|orchards?|ranches?|acres|nurser(y|ies)|vineyards?|wineries?|groves?|gardens?|homesteads?|produce|stands?|csa)\b/i;
+
+/** True when `name` is a non-farm entity (event, bureau, chamber) rather than a listing for a real farm or market. */
+export function isNonFarmEntity(name: string): boolean {
+  const n = (name || '').trim();
+  if (!n) return false;
+  if (!EVENT_ORG_WORD.test(n)) return false;
+  return !FARM_MARKET_WORD.test(n);
+}
+
 // A recovered name must end in a farm-type word. This rejects page titles like
 // "Market Report", "Blackberry Season", "Buy Eggs", "Regional Assessment".
 const FARM_SUFFIX =

@@ -17,6 +17,7 @@
  */
 
 import type { Farm } from './types';
+import { isNonFarmEntity } from './farm-names';
 
 export const EXCLUDED_DIRECTORIES = ['foodhub'] as const;
 
@@ -96,6 +97,7 @@ export function meetsQualityBar(farm: Farm): boolean {
 export function isIndexable(farm: Farm): boolean {
   if (!isServedFarm(farm)) return false;
   if (farm.source === 'editorial') return true;
+  if (isNonFarmEntity(farm.name)) return false;
   if (RELEASED_STATES !== 'ALL' && !RELEASED_STATES.includes(farm.locationState)) {
     return false;
   }
