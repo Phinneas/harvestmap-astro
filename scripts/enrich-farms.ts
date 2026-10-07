@@ -18,12 +18,16 @@
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { getFarmPeak, getFarmSeasons, getSeasonalityForFarm } from '../src/lib/seasonality';
+import { deriveActivity, type Activity } from '../src/lib/activity';
+import { isNonFarmEntity } from '../src/lib/farm-names';
 import type { Farm } from '../src/lib/types';
 
 const DRY_RUN = process.argv.includes('--dry-run');
+const FORCE = process.argv.includes('--force');
 const COUNT = (() => {
   const m = process.argv.find((a) => a.startsWith('--count='));
-  return m ? parseInt(m.split('=')[1], 10) : 250;
+  if (m) return parseInt(m.split('=')[1], 10);
+  return FORCE ? Number.MAX_SAFE_INTEGER : 250;
 })();
 
 const FARMS_DIR = join(process.cwd(), 'src', 'data', 'farms');
@@ -66,6 +70,22 @@ function listCrops(crops: string[]): string {
 }
 
 // --- description generation ---
+// Specific activity types so a description says "apple orchard" rather than
+// just "farm". Keyed by deriveActivity() output.
+const TYPE_INFO: Record<Activity, { noun: string; pronoun: string }> = {
+  'pumpkin-patch': { noun: 'pumpkin patch', pronoun: 'the patch' },
+  'corn-maze': { noun: 'corn maze farm', pronoun: 'the farm' },
+  'apple-orchard': { noun: 'apple orchard', pronoun: 'the orchard' },
+  'orchard': { noun: 'orchard', pronoun: 'the orchard' },
+  'farm-tour': { noun: 'farm', pronoun: 'the farm' },
+  'farm-stand': { noun: 'farm stand', pronoun: 'the stand' },
+  'u-pick': { noun: 'u-pick farm', pronoun: 'the farm' },
+  'berry-farm': { noun: 'berry farm', pronoun: 'the farm' },
+  'winery': { noun: 'winery', pronoun: 'the winery' },
+  'christmas-tree': { noun: 'Christmas tree farm', pronoun: 'the farm' },
+  'farm': { noun: 'farm', pronoun: 'the farm' },
+};
+
 function generateDescription(farm: Farm): string[] {
   const rng = mulberry32(hash(farm.slug || farm.name));
   const pick = <T,>(arr: T[]): T => arr[Math.floor(rng() * arr.length)];
@@ -89,13 +109,14 @@ function generateDescription(farm: Farm): string[] {
 
   const establishedClause = established ? ` It has been growing since ${established}.` : '';
   const practicesClause = practices.length > 0
-    ? ` The farm follows ${listCrops(practices).toLowerCase()} practices.`
+    ? ` It follows ${listCrops(practices).toLowerCase()} practices.`
     : '';
 
   const paragraphs: string[] = [];
 
   if (crops.length > 0 && !['farmersmarket', 'csa', 'onfarmmarket'].includes(farm.directory)) {
     // Crop-bearing farms get the richest descriptions.
+    const ti = TYPE_INFO[deriveActivity(farm)];
     const adj = pick(['family-run', 'working', 'small', 'independent']);
     const article = /^[aeiou]/i.test(adj) ? 'an' : 'a';
     const seasonList = seasons.length > 0
@@ -104,19 +125,25 @@ function generateDescription(farm: Farm): string[] {
     const seasonalNote = peak
       ? ` The harvest is typically at its peak in ${SEASON_LABEL[peak] || peak}.`
       : '';
-    const shape = pick(['a', 'b', 'c']);
+    const shape = pick(['a', 'b', 'c', 'd']);
 
     if (shape === 'a') {
       paragraphs.push(
-        `${name} is ${article} ${adj} farm in ${city}, ${state}. It grows ${listCrops(crops)}, with seasonal availability through ${seasonList}.${seasonalNote}${practicesClause}${establishedClause} ${contact}`,
+        `${name} is ${article} ${adj} ${ti.noun} in ${city}, ${state}. It grows ${listCrops(crops)}, with picking through ${seasonList}.${seasonalNote}${practicesClause}${establishedClause} ${contact}`,
       );
     } else if (shape === 'b') {
       paragraphs.push(
-        `In ${city}, ${state}, ${name} raises ${listCrops(crops)} on ${article} ${adj} farm.${seasonalNote}${practicesClause}${establishedClause} Visitors can find seasonal produce and farm-grown goods through ${seasonList}. ${contact}`,
+        `In ${city}, ${state}, ${name} grows ${listCrops(crops)} on ${article} ${adj} ${ti.noun}.${seasonalNote}${practicesClause}${establishedClause} The season runs through ${seasonList}. ${contact}`,
+      );
+    } else if (shape === 'c') {
+      paragraphs.push(
+        `${name} is ${article} ${ti.noun} in ${city}, ${state}. Visitors come for ${listCrops(crops)}${peak ? `, best in ${SEASON_LABEL[peak] || peak}` : ''}.${practicesClause}${establishedClause} ${contact}`,
       );
     } else {
+      const articleCap = article.charAt(0).toUpperCase() + article.slice(1);
+      const pronoun = ti.pronoun.charAt(0).toUpperCase() + ti.pronoun.slice(1);
       paragraphs.push(
-        `${name} grows ${listCrops(crops)} in ${city}, ${state}. The farm is ${adj}, and its seasons run through ${seasonList}.${seasonalNote}${practicesClause}${establishedClause} ${contact}`,
+        `${articleCap} ${adj} ${ti.noun} in ${city}, ${state}, ${name} grows ${listCrops(crops)}. ${pronoun} is busiest ${peak ? `in ${SEASON_LABEL[peak] || peak}` : `through ${seasonList}`}.${practicesClause}${establishedClause} ${contact}`,
       );
     }
   } else if (farm.directory === 'farmersmarket') {
@@ -160,11 +187,11 @@ function main() {
     }
   })(FARMS_DIR);
 
-  const served = records.filter((r) => r.farm.directory !== 'foodhub');
-  const needsDesc = served.filter((r) => {
-    const wc = (r.farm.description || []).join(' ').trim().split(/\s+/).filter(Boolean).length;
-    return wc < 50;
-  });
+  const served = records.filter((r) => r.farm.directory !== 'foodhub' && !isNonFarmEntity(r.farm.name));
+  const descWc = (r: { farm: Farm }) => (r.farm.description || []).join(' ').trim().split(/\s+/).filter(Boolean).length;
+  const needsDesc = FORCE
+    ? served.filter((r) => descWc(r) >= 50) // re-write already-described farms
+    : served.filter((r) => descWc(r) < 50);
 
   const stateRank = (f: Farm) => (TOP_STATES.includes(f.locationState) ? 1 : 0);
   const hasCrops = (f: Farm) => ((f.produce && f.produce.length > 0) || (f.crops && f.crops.length > 0)) ? 1 : 0;
