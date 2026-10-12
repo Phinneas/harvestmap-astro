@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.835Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "Ingram's Strawberries Farm is a small berry farm in High Point, NC. It grows Strawberries, with picking through spring. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 35.9353179442615,
+  "lon": -79.9042737319004
 }

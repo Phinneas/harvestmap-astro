@@ -12,7 +12,7 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-08-05T18:47:42.408Z"
+      "lastSeen": "2026-08-05T18:47:32.760Z"
     }
   ],
   "usdaLastUpdated": "2026-08-05T18:47:42.408Z",
@@ -30,5 +30,6 @@
   "description": [
     "Summerberry Farm is an on-farm market in 3430 Rimer Road, NC, selling produce straight from the field. Because everything is sold where it is grown, selection follows the local harvest calendar. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "crops": []
 }

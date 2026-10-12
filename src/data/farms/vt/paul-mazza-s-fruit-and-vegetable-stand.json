@@ -17,6 +17,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:38.973Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:07.101Z"
     }
@@ -26,5 +30,7 @@
   "description": [
     "A working pumpkin patch in Colchester, VT, Paul Mazza's Fruit and Vegetable Stand grows Strawberries, Blueberries, Raspberries, Peaches, and Pumpkins. The patch is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 44.4781029990306,
+  "lon": -73.0588590228273
 }

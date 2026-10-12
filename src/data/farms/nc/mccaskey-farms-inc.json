@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.870Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -27,5 +31,7 @@
   "description": [
     "McCaskey Farms, Inc. is a working berry farm in Ahoskie, NC. It grows Strawberries, Squash, Corn, Tomatoes, and Peppers, with picking through spring and summer. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 36.3244484766966,
+  "lon": -77.0773466662864
 }

@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.944Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:49.548Z"
     }
@@ -26,5 +30,7 @@
     "Larry Trover Produce is a berry farm in Vienna, IL. Visitors come for Strawberries, Pears, Tomatoes, and Peppers, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 37.5012976709415,
+  "lon": -88.8178394997673
 }

@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.925Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:23.079Z"
     }
@@ -27,5 +31,7 @@
   "description": [
     "Nelson Farms is an independent pumpkin patch in Strafford, NH. It grows Strawberries, Pumpkins, Squash, Tomatoes, and Peppers, with picking through spring, autumn, and summer. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 43.2405578749203,
+  "lon": -71.1106670099455
 }

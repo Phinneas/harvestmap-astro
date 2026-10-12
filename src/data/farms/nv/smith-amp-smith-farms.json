@@ -16,6 +16,10 @@
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:32:57.242Z"
+    },
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:10.923Z"
     }
   ],
   "website": "https://organicfarmfood.org/view/smith-smith-farms",
@@ -23,5 +27,7 @@
   "description": [
     "In Dayton, NV, Smith & Smith Farms grows Blackberries and Flowers on a family-run berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 39.2735550176695,
+  "lon": -119.517226964011
 }

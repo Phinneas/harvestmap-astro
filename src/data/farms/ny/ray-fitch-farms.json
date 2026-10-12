@@ -14,6 +14,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.428Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.546Z"
     }
@@ -23,5 +27,7 @@
   "description": [
     "In Barker, NY, Ray Fitch Farms grows Blueberries and Apples on a working apple orchard. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 43.3670055835354,
+  "lon": -78.5162043657695
 }

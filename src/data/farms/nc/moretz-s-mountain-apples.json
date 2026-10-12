@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.889Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -28,5 +32,7 @@
   "description": [
     "In Boone, NC, Moretz's Mountain Apples grows Blueberries, Raspberries, Blackberries, Apples, and Pears on a small apple orchard. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 36.2761655711924,
+  "lon": -81.6389422405692
 }

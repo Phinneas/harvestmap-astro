@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.908Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.545Z"
     }
@@ -25,5 +29,7 @@
   "description": [
     "In Rexford, NY, Hicks Fruit Farm grows Blueberries, Apples, Cherries, and Honey on a family-run apple orchard. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 42.8184117389929,
+  "lon": -73.8400738564507
 }

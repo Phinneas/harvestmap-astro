@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.479Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.546Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "In New Lebanon, NY, Woodlife Farm grows Flowers, Sunflowers, and Christmas trees on a family-run Christmas tree farm. The season runs through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year."
-  ]
+  ],
+  "lat": 42.47169917564452,
+  "lon": -73.37945382733804
 }

@@ -7,7 +7,7 @@
   "locationCity": "Londonderry",
   "locationState": "NH",
   "locationZipcode": "",
-  "website": "https://elwoodorchards.com",
+  "website": "https://elwoodorchards.com/",
   "phone": "603-434-6017",
   "crops": [
     "Strawberries",
@@ -17,6 +17,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.695Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:23.079Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "Elwood Orchards is a family-run apple orchard in Londonderry, NH. It grows Strawberries, Raspberries, Apples, and Corn, with picking through spring, summer, and autumn. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 42.8402980197409,
+  "lon": -71.4189860184765
 }

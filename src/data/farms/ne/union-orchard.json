@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.388Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:32:34.672Z"
     }
@@ -25,5 +29,7 @@
   "description": [
     "Union Orchard is an independent pumpkin patch in Union, NE. It grows Strawberries, Apples, Pumpkins, and Squash, with picking through spring and autumn. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 40.8159666042304,
+  "lon": -95.9114829921468
 }

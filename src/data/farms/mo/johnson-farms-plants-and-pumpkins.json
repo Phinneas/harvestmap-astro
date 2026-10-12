@@ -7,7 +7,7 @@
   "locationCity": "Belton",
   "locationState": "MO",
   "locationZipcode": "",
-  "website": "https://www.johnsonfarms.net",
+  "website": "https://www.johnsonfarms.net/",
   "phone": "816-331-1067",
   "crops": [
     "Apples",
@@ -21,6 +21,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.722Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:58.887Z"
     }
@@ -28,5 +32,7 @@
   "description": [
     "A working pumpkin patch in Belton, MO, Johnson Farms, Plants and Pumpkins grows Apples, Pumpkins, Squash, Corn, and Tomatoes. The patch is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 38.8058679964421,
+  "lon": -94.5838929873816
 }

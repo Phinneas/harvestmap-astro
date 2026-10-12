@@ -22,6 +22,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.747Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:41.218Z"
     }
@@ -31,5 +35,7 @@
   "description": [
     "Stoneyfield Orchards is a family-run pumpkin patch in Belvidere, NJ. It grows Strawberries, Apples, Pears, Peaches, and Nectarines, with picking through spring, autumn, and summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 40.8331730174055,
+  "lon": -75.0575880403899
 }

@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.915Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "In Saint Paul, OR, Koch Family Farm grows Strawberries and Raspberries on a small berry farm. The harvest is typically at its peak in spring. The season runs through spring and summer. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 45.258319003162114,
+  "lon": -122.96317898806333
 }

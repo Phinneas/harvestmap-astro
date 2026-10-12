@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.770Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "White's Farm and Greenhouses is a small berry farm in Vanceboro, NC. It grows Strawberries, Squash, and Tomatoes, with picking through spring and summer. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 35.2800856186296,
+  "lon": -77.1221300324209
 }

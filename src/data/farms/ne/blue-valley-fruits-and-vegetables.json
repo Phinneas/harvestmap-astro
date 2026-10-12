@@ -20,6 +20,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.682Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:32:34.672Z"
     }
@@ -29,5 +33,7 @@
   "description": [
     "A family-run apple orchard in Ulysses, NE, Blue Valley Fruits and Vegetables grows Apples, Cherries, Corn, Eggplant, and Grapes. The orchard is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 41.0717531373725,
+  "lon": -97.20070661598
 }

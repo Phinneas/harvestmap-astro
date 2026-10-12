@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.892Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -25,5 +29,7 @@
     "Haddock Orchard is a orchard in Winterville, NC. Visitors come for Strawberries, Peaches, Grapes, and Flowers, best in spring. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 35.5026301570667,
+  "lon": -77.3502501595868
 }

@@ -17,6 +17,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.871Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -26,5 +30,7 @@
   "description": [
     "Elroy Farms is a working pumpkin patch in Goldsboro, NC. It grows Strawberries, Pumpkins, Corn, Tomatoes, and Christmas trees, with picking through spring, autumn, and summer. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 35.3411201831611,
+  "lon": -77.9116202881148
 }

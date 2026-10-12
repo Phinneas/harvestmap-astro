@@ -22,6 +22,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.729Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:38:25.632Z"
     }
@@ -32,5 +36,7 @@
     "A working pumpkin patch in Belton, SC, Callaham Orchards grows Strawberries, Blueberries, Blackberries, Peaches, and Nectarines. The patch is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 34.5747429945389,
+  "lon": -82.4840030365083
 }

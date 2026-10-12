@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.888Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -25,5 +29,7 @@
   "description": [
     "In Whiteville, NC, Coval L. Formy-Duval grows Strawberries, Pumpkins, Corn, Tomatoes, and Peas on an independent pumpkin patch. The harvest is typically at its peak in spring. The season runs through spring, autumn, and summer. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 34.222601345272,
+  "lon": -78.6446641506303
 }

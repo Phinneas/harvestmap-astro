@@ -14,6 +14,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.864Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -23,5 +27,7 @@
   "description": [
     "Floyd Farms Strawberries is an independent berry farm in Fairmont, NC. It grows Strawberries and Squash, with picking through spring. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 34.5670767066541,
+  "lon": -79.1643144766508
 }

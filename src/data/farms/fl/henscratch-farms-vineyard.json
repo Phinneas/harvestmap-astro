@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.803Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.323Z"
     }
@@ -26,5 +30,7 @@
     "A working winery in Lake Placid, FL, Henscratch Farms Vineyard grows Strawberries, Blueberries, Grapes, and Eggs. The winery is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 27.3694200149595,
+  "lon": -81.46637503126
 }

@@ -14,6 +14,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.903Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:33.027Z"
     }
@@ -23,5 +27,7 @@
   "description": [
     "Country Fresh Farm is a family-run farm in Parma, ID. It grows Corn and Grapes, with picking through autumn. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Oct in this growing zone."
-  ]
+  ],
+  "lat": 43.8875949021331,
+  "lon": -116.934039991784
 }

@@ -12,6 +12,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.892Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -22,5 +26,7 @@
     "Stedman Blueberries is a berry farm in Stedman, NC. Visitors come for Blueberries, best in summer. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 34.9795003099273,
+  "lon": -78.7208800958236
 }

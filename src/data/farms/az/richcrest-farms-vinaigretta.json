@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.818Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:22:49.079Z"
     }
@@ -23,5 +27,7 @@
     "In Cochise, AZ, Richcrest Farms/Vinaigretta grows Honey on a small farm. The season runs through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 32.0359700089488,
+  "lon": -109.927332081294
 }

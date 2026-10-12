@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.198Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:41.218Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "In Cranbury Township, NJ, Blossom Hill Farms grows Apples, Peaches, and Pumpkins on a small pumpkin patch. The harvest is typically at its peak in autumn. The season runs through autumn and summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 40.3442900070661,
+  "lon": -74.5484999914414
 }

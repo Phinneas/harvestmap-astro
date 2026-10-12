@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.377Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:13.166Z"
     }
@@ -29,5 +33,7 @@
     "A family-run pumpkin patch in Shelbyville, TN, Hickman Valley Farms grows Strawberries, Blackberries, Pumpkins, Squash, and Corn. The patch is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 35.58340299203219,
+  "lon": -86.48985001560759
 }

@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.811Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -29,5 +33,7 @@
     "Eno River Farm is an pumpkin patch in Hillsborough, NC. Visitors come for Strawberries, Blueberries, Blackberries, Pumpkins, and Corn, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 36.1204121185193,
+  "lon": -78.9704301847347
 }

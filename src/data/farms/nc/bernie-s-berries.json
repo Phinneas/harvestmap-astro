@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.645Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -25,5 +29,7 @@
   "description": [
     "In Greensboro, NC, Bernie's Berries grows Strawberries, Squash, Corn, and Tomatoes on a small berry farm. The harvest is typically at its peak in spring. The season runs through spring and summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 36.0345300000001,
+  "lon": -79.86797
 }

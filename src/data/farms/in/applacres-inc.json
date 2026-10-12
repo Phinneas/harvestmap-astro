@@ -21,6 +21,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.242Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:27:18.483Z"
     }
@@ -31,5 +35,7 @@
     "Applacres, Inc. is a pumpkin patch in Bedford, IN. Visitors come for Strawberries, Blackberries, Apples, Pears, and Peaches, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 38.8601620585854,
+  "lon": -86.5207638633676
 }

@@ -12,15 +12,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.891Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:58.887Z"
     }
   ],
-  "website": "https://pickyourown.farm/farm/divine-blueberry-patch-10424/",
+  "website": "https://blueberrypatch.com.au/",
   "tagline": "Divine Blueberry Patch",
   "description": [
     "A family-run berry farm in Neosho, MO, Divine Blueberry Patch grows Blueberries. The farm is busiest in summer. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 36.8523725,
+  "lon": -94.3871601
 }

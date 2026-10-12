@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.877Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:38:25.632Z"
     }
@@ -28,5 +32,7 @@
     "Hinnant Farm is a pumpkin patch in Eutawville, SC. Visitors come for Strawberries, Blueberries, Blackberries, Peaches, and Pumpkins, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 33.4247449987683,
+  "lon": -80.3869989702417
 }

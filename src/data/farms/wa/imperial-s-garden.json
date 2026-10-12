@@ -7,7 +7,7 @@
   "locationCity": "Wapato",
   "locationState": "WA",
   "locationZipcode": "",
-  "website": "https://www.imperialsgarden.com",
+  "website": "https://www.imperialsgarden.com/",
   "phone": "509-877-2766",
   "crops": [
     "Pumpkins",
@@ -16,6 +16,10 @@
     "Asparagus"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.319Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:59.975Z"
@@ -27,5 +31,7 @@
     "Imperial's Garden is a pumpkin patch in Wapato, WA. Visitors come for Pumpkins, Squash, Corn, and Asparagus, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Sep – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 46.504586902459,
+  "lon": -120.480026753969
 }

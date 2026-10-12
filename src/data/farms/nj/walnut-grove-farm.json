@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.333Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:41.218Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "In Augusta, NJ, Walnut Grove Farm grows Herbs, Flowers, and Christmas trees on a working Christmas tree farm. The season runs through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year."
-  ]
+  ],
+  "lat": 41.122777073163,
+  "lon": -74.7328289406519
 }

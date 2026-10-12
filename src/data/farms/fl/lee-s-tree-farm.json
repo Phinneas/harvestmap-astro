@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.882Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.322Z"
     }
@@ -25,5 +29,7 @@
     "A family-run Christmas tree farm in Ridge, FL, Lee's Tree Farm grows Persimmons, Grapes, and Christmas trees. The farm is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Oct – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 30.5985342964915,
+  "lon": -84.9982463371299
 }

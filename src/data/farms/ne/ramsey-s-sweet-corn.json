@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.782Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:32:34.673Z"
     }
@@ -23,5 +27,7 @@
     "Ramsey's Sweet Corn is a family-run farm in Kenesaw, NE. It grows Corn, with picking through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 40.639575489413,
+  "lon": -98.6585382372731
 }

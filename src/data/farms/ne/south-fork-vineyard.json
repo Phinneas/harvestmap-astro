@@ -14,6 +14,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.803Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:32:34.673Z"
     }
@@ -23,5 +27,7 @@
   "description": [
     "In Ogallala, NE, South Fork Vineyard grows Grapes and Honey on a small winery. The harvest is typically at its peak in autumn. The season runs through autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Oct in this growing zone."
-  ]
+  ],
+  "lat": 41.1113180085604,
+  "lon": -101.651930996055
 }

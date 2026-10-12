@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:08.867Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.545Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "In Clifton Park, NY, Devoe's Rainbow Orchards grows Apples on an independent apple orchard. The harvest is typically at its peak in autumn. The season runs through autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 42.84799948625275,
+  "lon": -73.75230238480708
 }

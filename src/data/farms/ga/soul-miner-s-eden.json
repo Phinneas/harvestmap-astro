@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.316Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:54.842Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "An independent farm in Bogart, GA, Soul Miner's Eden grows Herbs, Flowers, and Lavender. The farm is busiest through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year."
-  ]
+  ],
+  "lat": 33.9602989908123,
+  "lon": -83.5280219668187
 }

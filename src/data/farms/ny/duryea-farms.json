@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.369Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.546Z"
     }
@@ -26,5 +30,7 @@
     "Duryea Farms is a pumpkin patch in Chestnut Ridge, NY. Visitors come for Apples, Pumpkins, Tomatoes, and Peppers, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.0836230689118,
+  "lon": -74.0746477870618
 }

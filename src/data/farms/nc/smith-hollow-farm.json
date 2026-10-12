@@ -17,6 +17,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.819Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -27,5 +31,7 @@
     "Smith Hollow Farm is a pumpkin patch in Kernersville, NC. Visitors come for Pumpkins, Corn, Flowers, Honey, and Eggs, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Sep – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 36.0961839817912,
+  "lon": -80.1135228667937
 }

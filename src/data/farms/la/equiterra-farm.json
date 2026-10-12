@@ -22,6 +22,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.159Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:28:27.942Z"
     }
@@ -32,5 +36,7 @@
     "EquiTerra Farm is a berry farm in Clinton, LA. Visitors come for Blueberries, Blackberries, Figs, Squash, and Corn, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 30.8719814114978,
+  "lon": -90.9257858386548
 }

@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.839Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -25,5 +29,7 @@
   "description": [
     "In Walstonburg, NC, Jones Fruit Farm grows Strawberries, Blueberries, Peaches, and Pumpkins on a family-run pumpkin patch. The harvest is typically at its peak in summer. The season runs through spring, summer, and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 35.5365398461362,
+  "lon": -77.7240164324593
 }

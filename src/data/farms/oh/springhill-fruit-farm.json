@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.830Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:36:19.157Z"
     }
@@ -29,5 +33,7 @@
     "Springhill Fruit Farm is a pumpkin patch in Shiloh, OH. Visitors come for Apples, Pears, Peaches, Nectarines, and Plums, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 40.9362652999423,
+  "lon": -82.5818578959845
 }

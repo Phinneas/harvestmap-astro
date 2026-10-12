@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.879Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "Berry Tyme Farms is a family-run berry farm in Jamesville, NC. It grows Strawberries, with picking through spring. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 35.7891942322358,
+  "lon": -76.9134982472881
 }

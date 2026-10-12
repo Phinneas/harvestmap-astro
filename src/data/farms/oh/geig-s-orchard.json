@@ -14,6 +14,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.797Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:36:19.157Z"
     }
@@ -24,5 +28,7 @@
     "Geig's Orchard is a pumpkin patch in Seville, OH. Visitors come for Apples and Pumpkins, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.0315425077303,
+  "lon": -81.864057033981
 }

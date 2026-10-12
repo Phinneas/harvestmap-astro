@@ -22,6 +22,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.783Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:58.887Z"
     }
@@ -30,5 +34,7 @@
   "tagline": "Pinetree Lane Berry Farms",
   "description": [
     "Pinetree Lane Berry Farms is a working pumpkin patch in Easton, MO. It grows Strawberries, Blueberries, Raspberries, Blackberries, and Apples, with picking through spring, summer, and autumn. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season."
-  ]
+  ],
+  "lat": 39.7612660960498,
+  "lon": -94.6832954668483
 }

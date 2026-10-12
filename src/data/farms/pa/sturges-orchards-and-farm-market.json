@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.449Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:47.862Z"
     }
@@ -25,5 +29,7 @@
   "description": [
     "In Fombell, PA, Sturges Orchards and Farm Market grows Apples, Peaches, Plums, and Cherries on a family-run apple orchard. The harvest is typically at its peak in summer. The season runs through autumn and summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 40.8350449897512,
+  "lon": -80.20672502005786
 }

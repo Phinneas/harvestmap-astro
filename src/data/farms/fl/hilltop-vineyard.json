@@ -12,6 +12,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.845Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.323Z"
     }
@@ -20,7 +24,9 @@
   "tagline": "Hilltop Vineyard",
   "description": [
     "Hilltop Vineyard is an winery in Hawthorne, FL. Visitors come for Persimmons, best in autumn. Check the website for current hours and availability.",
-    "Seasonal availability typically runs from Oct – Nov in this growing zone.",
+    "Seasonal availability typically runs from Oct – Dec in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 29.59284,
+  "lon": -82.0865699999999
 }

@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.038Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.545Z"
     }
@@ -25,5 +29,7 @@
   "description": [
     "A small Christmas tree farm in Duanesburg, NY, Scotch Ridge Berry and Tree Farm grows Blueberries, Herbs, Flowers, and Christmas trees. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 42.7840913843831,
+  "lon": -74.1160009209405
 }

@@ -12,6 +12,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.848Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:58.887Z"
     }
@@ -22,5 +26,7 @@
     "A small berry farm in Vernon, MO, Henson Creek Blueberry Farm grows Blueberries. The farm is busiest in summer. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 37.0980050000001,
+  "lon": -93.818155
 }

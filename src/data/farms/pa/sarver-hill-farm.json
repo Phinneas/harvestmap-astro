@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.153Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:47.862Z"
     }
@@ -25,5 +29,7 @@
   "description": [
     "In Greensburg, PA, Sarver Hill Farm grows Strawberries, Pumpkins, Peppers, and Eggs on an independent pumpkin patch. The harvest is typically at its peak in spring. The season runs through spring and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 40.3478630028422,
+  "lon": -79.5732829717795
 }

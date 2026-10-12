@@ -12,6 +12,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.475Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.546Z"
     }
@@ -22,5 +26,7 @@
     "Shortcake Farm is a small berry farm in Hudson, NY. It grows Strawberries, with picking through spring. The harvest is typically at its peak in spring. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.2458349,
+  "lon": -73.7680293
 }

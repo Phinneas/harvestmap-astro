@@ -12,6 +12,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.854Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:33.027Z"
     }
@@ -22,5 +26,7 @@
     "In Emmett, ID, Candy Apple Orchard grows Apples on a family-run apple orchard. The harvest is typically at its peak in autumn. The season runs through autumn. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 43.8347637572322,
+  "lon": -116.510541937591
 }

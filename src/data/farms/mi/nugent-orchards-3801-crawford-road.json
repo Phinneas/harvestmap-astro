@@ -12,7 +12,7 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-08-05T18:42:46.233Z"
+      "lastSeen": "2026-08-05T18:42:38.670Z"
     }
   ],
   "usdaLastUpdated": "2026-08-05T18:42:46.233Z",
@@ -40,5 +40,6 @@
   "description": [
     "Nugent Orchards is an on-farm market in 3801 Crawford Road, MI, selling produce straight from the field. Because everything is sold where it is grown, selection follows the local harvest calendar. Check the website for current hours and availability.",
     "Seasonal availability typically runs from May – Jul in this growing zone."
-  ]
+  ],
+  "crops": []
 }

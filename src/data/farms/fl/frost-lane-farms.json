@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.897Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.322Z"
     }
@@ -26,5 +30,7 @@
     "Frost Lane Farms is a berry farm in Laurel Hill, FL. Visitors come for Blueberries, Pears, Persimmons, and Grapes, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 30.91557535067892,
+  "lon": -86.37250263607538
 }

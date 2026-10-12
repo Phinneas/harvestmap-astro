@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.423Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.546Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "Sugar Shack Blueberry Farm is an independent berry farm in Penn Yan, NY. It grows Blueberries, Raspberries, and Honey, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 42.7236588917317,
+  "lon": -77.1439893344156
 }

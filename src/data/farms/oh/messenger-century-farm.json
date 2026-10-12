@@ -14,6 +14,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.812Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:36:19.157Z"
     }
@@ -24,5 +28,7 @@
     "A small berry farm in Chagrin Falls, OH, Messenger Century Farm grows Blueberries and Eggs. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.4141681956607,
+  "lon": -81.2310246220398
 }

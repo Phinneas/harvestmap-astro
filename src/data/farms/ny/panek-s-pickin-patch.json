@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.267Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.546Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "Panek's Pickin Patch is a working berry farm in Albion, NY. It grows Strawberries, Blueberries, and Raspberries, with picking through spring and summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 43.2187281909746,
+  "lon": -78.2601563427697
 }

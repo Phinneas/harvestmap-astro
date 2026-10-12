@@ -12,6 +12,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.051Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:18.748Z"
     }
@@ -22,5 +26,7 @@
     "In Corning, AR, Country Garden grows Corn on a working farm. The season runs through much of the year. Check the website for current hours and availability.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 36.4148321,
+  "lon": -90.5795643
 }

@@ -12,7 +12,7 @@
   "provenance": [
     {
       "source": "usda",
-      "lastSeen": "2026-08-05T18:50:59.156Z"
+      "lastSeen": "2026-08-05T18:50:49.717Z"
     }
   ],
   "usdaLastUpdated": "2026-08-05T18:50:59.156Z",
@@ -42,5 +42,6 @@
   "description": [
     "Ambert Farm is an on-farm market in 2885 Steeplechase Dr., SC, selling produce straight from the field. Because everything is sold where it is grown, selection follows the local harvest calendar. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Mar – Jun in this growing zone."
-  ]
+  ],
+  "crops": []
 }

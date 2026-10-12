@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.766Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:50.210Z"
     }
@@ -25,5 +29,7 @@
     "Riverdance Farms is an berry farm in Ripon, CA. Visitors come for Strawberries, Blueberries, and Almonds, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Mar – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 37.4125430162123,
+  "lon": -120.708439993071
 }

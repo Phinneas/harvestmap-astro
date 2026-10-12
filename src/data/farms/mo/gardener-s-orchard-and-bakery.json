@@ -7,7 +7,7 @@
   "locationCity": "Brighton",
   "locationState": "MO",
   "locationZipcode": "",
-  "website": "https://gardenersorchardandbakery.com",
+  "website": "https://gardenersorchardandbakery.com/",
   "phone": "417-742-3093",
   "crops": [
     "Strawberries",
@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.796Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:58.887Z"
     }
@@ -28,5 +32,7 @@
   "description": [
     "A working apple orchard in Brighton, MO, Gardener's Orchard and Bakery grows Strawberries, Blueberries, Blackberries, Apples, and Peaches. The orchard is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 37.422891984424965,
+  "lon": -93.36212599340925
 }

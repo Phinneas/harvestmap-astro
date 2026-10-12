@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.198Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:41.218Z"
     }
@@ -28,5 +32,7 @@
   "description": [
     "Hallock's U-Pick is a small pumpkin patch in New Egypt, NJ. It grows Strawberries, Pumpkins, Squash, Tomatoes, and Peppers, with picking through spring, autumn, and summer. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 40.0737559935421,
+  "lon": -74.4919610370379
 }

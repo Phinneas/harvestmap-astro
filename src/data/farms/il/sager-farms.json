@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.879Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:49.548Z"
     }
@@ -28,5 +32,7 @@
   "description": [
     "In Kell, IL, Sager Farms grows Strawberries, Blackberries, Apples, Peaches, and Cherries on a family-run apple orchard. The harvest is typically at its peak in summer. The season runs through spring, summer, and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 38.4912527105378,
+  "lon": -88.9063632236606
 }

@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.043Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:18.748Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "In Poplar Grove, AR, Carruth's Peach Haven grows Blackberries, Peaches, and Corn on a family-run berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 34.5553699855485,
+  "lon": -90.817053093556
 }

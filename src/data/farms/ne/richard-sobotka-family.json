@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.803Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:32:34.672Z"
     }
@@ -25,5 +29,7 @@
   "description": [
     "Richard Sobotka Family is a small pumpkin patch in Inman, NE. It grows Pumpkins, Squash, Corn, and Tomatoes, with picking through autumn and summer. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Sep – Nov in this growing zone."
-  ]
+  ],
+  "lat": 42.3478630102928,
+  "lon": -98.536642034788
 }
