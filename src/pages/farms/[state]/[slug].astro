@@ -96,6 +96,9 @@ const hasFeatures = hasAnyFeature(features);
 // no crop data, and little usable contact detail. Enriched farms always index.
 const indexable = isIndexable(farm);
 
+// Do not serve individual pages for unenriched listings — return 404.
+if (!indexable) return new Response('Not found', { status: 404 });
+
 const typeLabel = listingTypeLabel(farm);
 const typeCss = listingTypeCss(farm);
 const showTypeBadge = typeLabel !== 'Farm';

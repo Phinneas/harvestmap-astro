@@ -10,11 +10,11 @@ import {
   augmentFarm,
 } from '../lib/farm-loader';
 import { FEATURE_COLLECTIONS } from '../lib/collections';
-import { isIndexable } from '../lib/indexing';
+import { isIndexable, MIN_ENRICHED_TO_PUBLISH } from '../lib/indexing';
 import { getStateIntro } from '../lib/state-intros';
 
 export function getStaticPaths() {
-  const states = getStatesWithFarms();
+  const states = getStatesWithFarms().filter((s) => s.enriched >= MIN_ENRICHED_TO_PUBLISH);
   return states.map((s) => ({
     params: { state: s.code.toLowerCase() },
     props: { stateCode: s.code, stateName: s.name, totalCount: s.count, enrichedCount: s.enriched },
@@ -24,25 +24,22 @@ export function getStaticPaths() {
 const { stateCode, stateName, totalCount, enrichedCount } = Astro.props;
 const stateFarms = loadFarmsByState(stateCode).map(augmentFarm);
 
+// Only enriched (indexable) farms get a listing row; bare listings are hidden
+// and summarized as "Plus N more".
+const indexableFarms = stateFarms
+  .filter((f) => isIndexable(f) && !f.permanentlyClosed)
+  .sort((a, b) => {
+    const aRich = (a.produce || a.crops || []).length;
+    const bRich = (b.produce || b.crops || []).length;
+    if (aRich !== bRich) return bRich - aRich;
+    return a.name.localeCompare(b.name);
+  });
+const bareCount = stateFarms.length - indexableFarms.length;
+
 // Fall collections (corn mazes, haunted patches) with at least one match here.
 const stateCollections = FEATURE_COLLECTIONS
   .map((c) => ({ ...c, count: stateFarms.filter((f) => !f.permanentlyClosed && c.predicate(f)).length }))
   .filter((c) => c.count > 0);
-
-// One unified directory list: enriched / with-crops first, then USDA-only, closed last.
-const openFarms = stateFarms.filter((f) => !f.permanentlyClosed);
-const closedFarms = stateFarms.filter((f) => f.permanentlyClosed);
-const sortedFarms = [
-  ...openFarms.sort((a, b) => {
-    // Indexable (enriched) farms first, then crop-bearing, then the rest, so a
-    // crawler reading the state page hits enriched farm URLs before thin ones.
-    const aRich = (isIndexable(a) ? 2 : 0) + ((a.produce || a.crops || []).length > 0 ? 1 : 0);
-    const bRich = (isIndexable(b) ? 2 : 0) + ((b.produce || b.crops || []).length > 0 ? 1 : 0);
-    if (aRich !== bRich) return bRich - aRich;
-    return a.name.localeCompare(b.name);
-  }),
-  ...closedFarms,
-];
 
 
 // What's in season right now in this state
@@ -156,15 +153,20 @@ const stateIntro = getStateIntro(
       </section>
     )}
 
-    {sortedFarms.length > 0 && (
+    {indexableFarms.length > 0 && (
       <section>
         <div class="section-head" style="margin-bottom: var(--space-4);">
-          <h2 style="font-size: var(--fs-h3);">All {stateName} farms</h2>
-          <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">{totalCount} listings · {enrichedCount} enriched. Farms with crop data are listed first.</p>
+          <h2 style="font-size: var(--fs-h3);">Farms in {stateName}</h2>
+          <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">{indexableFarms.length} farms with verified details.</p>
         </div>
         <div class="farm-list">
-          {sortedFarms.map((f) => <FarmRow farm={f} />)}
+          {indexableFarms.map((f) => <FarmRow farm={f} />)}
         </div>
+        {bareCount > 0 && (
+          <p style="color: var(--text-muted); font-size: var(--fs-small); margin: var(--space-3) 0 0;">
+            Plus {bareCount} more listings without verified details yet.
+          </p>
+        )}
       </section>
     )}
 

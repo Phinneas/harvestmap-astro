@@ -4,11 +4,12 @@ import Button from '../components/Button.astro';
 import LeafField from '../components/LeafField.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import { loadAllAugmentedFarms, loadEnrichedAugmentedFarms, loadIndexableFarms, getStatesWithFarms } from '../lib/farm-loader';
+import { MIN_ENRICHED_TO_PUBLISH } from '../lib/indexing';
 import { getCollection } from 'astro:content';
 
 const allFarms = loadAllAugmentedFarms();
 const enrichedFarms = loadEnrichedAugmentedFarms();
-const states = getStatesWithFarms();
+const states = getStatesWithFarms().filter((s) => s.enriched >= MIN_ENRICHED_TO_PUBLISH);
 
 const totalListings = allFarms.length;
 const indexableCount = loadIndexableFarms().length;

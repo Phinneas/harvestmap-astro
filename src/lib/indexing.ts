@@ -27,6 +27,13 @@ export const EXCLUDED_DIRECTORIES = ['foodhub'] as const;
  */
 export const RELEASED_STATES: string[] | 'ALL' = 'ALL';
 
+/**
+ * Minimum number of indexable (enriched) farms a state must have before its
+ * /{state} page is published. Sparse states fall below this and their state
+ * page is removed (404) — the site stays smaller but avoids thin pages.
+ */
+export const MIN_ENRICHED_TO_PUBLISH = 4;
+
 export function isServedFarm(farm: Farm): boolean {
   return !(EXCLUDED_DIRECTORIES as readonly string[]).includes(farm.directory);
 }
