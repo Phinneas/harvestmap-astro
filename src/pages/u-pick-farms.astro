@@ -210,35 +210,47 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
         var picking = pickingToggle.getAttribute('aria-pressed') === 'true';
 
         var lat, lon, zipLabel;
+        var nationwide = false;
         if (userLat != null && userLon != null) {
           lat = userLat; lon = userLon;
           zipLabel = 'your location';
         } else {
           var zip = (zipInput.value || '').trim();
-          if (!/^\d{5}$/.test(zip)) {
-            setStatus('Enter a 5-digit ZIP code to find farms near you.', true);
-            clearResults();
-            return;
+          if (/^\d{5}$/.test(zip)) {
+            try { await loadCentroids(); } catch (e) {
+              setStatus('Couldn\u2019t load the ZIP lookup. Please try again.', true);
+              return;
+            }
+            var coords = resolveZip(zip);
+            if (!coords) {
+              setStatus('We don\u2019t recognize that ZIP code. Double-check it and try again.', true);
+              clearResults();
+              return;
+            }
+            lat = coords.lat; lon = coords.lon;
+            zipLabel = zip;
+          } else {
+            // No location. Only run a nationwide search when a crop/type/filter
+            // narrows it (e.g. /u-pick-farms?crop=Corn); otherwise prompt for a ZIP.
+            var hasFilter = crop || category || picking || Object.keys(activeFilters()).length > 0;
+            if (!hasFilter) {
+              setStatus('Enter a 5-digit ZIP code to find farms near you.', true);
+              clearResults();
+              return;
+            }
+            nationwide = true;
+            zipLabel = 'nationwide';
           }
-          try { await loadCentroids(); } catch (e) {
-            setStatus('Couldn\u2019t load the ZIP lookup. Please try again.', true);
-            return;
-          }
-          var coords = resolveZip(zip);
-          if (!coords) {
-            setStatus('We don\u2019t recognize that ZIP code. Double-check it and try again.', true);
-            clearResults();
-            return;
-          }
-          lat = coords.lat; lon = coords.lon;
-          zipLabel = zip;
         }
 
         writeParams();
-        setStatus('Searching ' + (category || 'all farm types') + ' within ' + radius + ' mi of ' + zipLabel + '\u2026');
+        var what = crop ? crop : (category ? (TYPE_LABELS[category] || 'farm') : 'farm');
+        setStatus(nationwide
+          ? 'Showing ' + what.toLowerCase() + ' farms nationwide\u2026'
+          : 'Searching ' + (category || 'all farm types') + ' within ' + radius + ' mi of ' + zipLabel + '\u2026');
 
         var params = new URLSearchParams();
-        params.set('lat', lat); params.set('lon', lon); params.set('radius', radius);
+        if (!nationwide) { params.set('lat', lat); params.set('lon', lon); params.set('radius', radius); }
         if (crop) params.set('crop', crop);
         if (category) params.set('category', category);
         if (picking) params.set('inSeason', 'true');
@@ -250,22 +262,24 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
           if (!res.ok) throw new Error('Finder error ' + res.status);
           var data = await res.json();
           var farms = data.farms || [];
-          renderResults(farms, radius, zipLabel, category);
-          renderMap(farms, lat, lon, radius);
+          renderResults(farms, radius, zipLabel, category, nationwide);
+          renderMap(farms, lat, lon, radius, nationwide);
         } catch (e) {
           setStatus('Search isn\u2019t available right now. Please try again shortly.', true);
           clearResults();
         }
       }
 
-      function renderResults(farms, radius, label, category) {
+      function renderResults(farms, radius, label, category, nationwide) {
         var typeWord = category ? (TYPE_LABELS[category] || 'farm') : 'farm';
         if (farms.length === 0) {
-          setStatus('No ' + typeWord + 's within ' + radius + ' mi of ' + label + '. Try widening the radius or changing the type filter.');
+          setStatus(nationwide
+            ? 'No ' + typeWord + 's found for this search. Try a different crop or type.'
+            : 'No ' + typeWord + 's within ' + radius + ' mi of ' + label + '. Try widening the radius or changing the type filter.');
           resultsEl.innerHTML = '<p style="color: var(--text-muted);">No farms found. Try a larger radius, a different crop, or switch to "All types".</p>';
           return;
         }
-        setStatus(farms.length + ' ' + typeWord + (farms.length === 1 ? '' : 's') + ' within ' + radius + ' mi of ' + label + ', closest first.');
+        setStatus(farms.length + ' ' + typeWord + (farms.length === 1 ? '' : 's') + (nationwide ? ' nationwide' : ' within ' + radius + ' mi of ' + label + ', closest first.'));
         resultsEl.innerHTML = farms.map(function (f) {
           return rowHtml(f);
         }).join('');
@@ -370,8 +384,8 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
         }
         return true;
       }
-      function renderMap(farms, lat, lon, radius) {
-        if (!ensureMap()) { loadLeafletThen(function () { renderMap(farms, lat, lon, radius); }); return; }
+      function renderMap(farms, lat, lon, radius, nationwide) {
+        if (!ensureMap()) { loadLeafletThen(function () { renderMap(farms, lat, lon, radius, nationwide); }); return; }
         markerLayer.clearLayers();
         farms.forEach(function (f) {
           if (f.lat == null || f.lon == null) return;
@@ -380,12 +394,16 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
             .bindPopup('<a href="' + (f.url || '/farms/' + (f.state || '').toLowerCase() + '/' + f.slug) + '">' + escapeHtml(f.name) + '</a><br>' + escapeHtml([f.city, f.state].filter(Boolean).join(', ')) + (typeof f.distance === 'number' ? '<br>' + f.distance + ' mi away' : ''))
             .addTo(markerLayer);
         });
-        L.circleMarker([lat, lon], { radius: 8, color: '#2e4f3e', fillColor: '#2e4f3e', fillOpacity: 1 }).addTo(markerLayer);
-        L.circle([lat, lon], { radius: radius * 1609.34, color: '#2e4f3e', fillOpacity: 0.05, weight: 1 }).addTo(markerLayer);
+        if (!nationwide) {
+          L.circleMarker([lat, lon], { radius: 8, color: '#2e4f3e', fillColor: '#2e4f3e', fillOpacity: 1 }).addTo(markerLayer);
+          L.circle([lat, lon], { radius: radius * 1609.34, color: '#2e4f3e', fillOpacity: 0.05, weight: 1 }).addTo(markerLayer);
+        }
         if (farms.length > 0) {
           var bounds = L.latLngBounds(farms.filter(function (f) { return f.lat != null; }).map(function (f) { return [f.lat, f.lon]; }));
-          bounds.extend([lat, lon]);
-          map.fitBounds(bounds, { padding: [30, 30], maxZoom: 12 });
+          if (!nationwide) bounds.extend([lat, lon]);
+          map.fitBounds(bounds, { padding: [30, 30], maxZoom: nationwide ? 11 : 12 });
+        } else if (nationwide) {
+          map.setView([39.5, -98.5], 4);
         } else {
           map.setView([lat, lon], Math.min(11, Math.max(7, 12 - Math.log2(radius / 10))));
         }
@@ -428,13 +446,14 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN || '';
         });
       });
 
-      // Auto-run if the URL has search params.
-      var hasParams = readParams();
+      // Auto-run if the URL has any search params (zip, lat, crop, type, …).
+      var p = new URLSearchParams(window.location.search);
+      var hasSearchParams = p.get('zip') || p.get('lat') || p.get('crop') || p.get('category') || p.get('inSeason');
+      readParams();
       // Try to load Leaflet up front so the map is ready when results arrive.
       loadLeafletThen(function () {});
-      if (hasParams) {
+      if (hasSearchParams) {
         // If a lat/lon was shared (not a zip), set userLat/Lon from params.
-        var p = new URLSearchParams(window.location.search);
         if (p.get('lat') && p.get('lon') && !p.get('zip')) {
           userLat = parseFloat(p.get('lat'));
           userLon = parseFloat(p.get('lon'));
