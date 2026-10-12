@@ -1,0 +1,386 @@
+[
+  {
+    "id": "hero-apple-picking",
+    "file": "hero-apple-picking.jpg",
+    "alt": "A person picking apples in an orchard",
+    "pexelsUrl": "https://www.pexels.com/photo/woman-picking-an-apple-from-a-tree-9936557/",
+    "photographer": "Matt Barnard",
+    "photographerUrl": "https://www.pexels.com/@matt-barnard-21952098"
+  },
+  {
+    "id": "growers-harvest",
+    "file": "growers-harvest.jpg",
+    "alt": "A farmer harvesting in an orchard",
+    "pexelsUrl": "https://www.pexels.com/photo/photo-of-a-man-in-a-gray-shirt-harvesting-fruits-6877065/",
+    "photographer": "Quang Nguyen Vinh",
+    "photographerUrl": "https://www.pexels.com/@quang-nguyen-vinh-222549"
+  },
+  {
+    "id": "crop-strawberries",
+    "file": "crop-strawberries.jpg",
+    "alt": "Strawberries",
+    "pexelsUrl": "https://www.pexels.com/photo/strawberries-on-mirror-18018686/",
+    "photographer": "Ebru DOĞAN",
+    "photographerUrl": "https://www.pexels.com/@ebrubodyy"
+  },
+  {
+    "id": "crop-blueberries",
+    "file": "crop-blueberries.jpg",
+    "alt": "Blueberries",
+    "pexelsUrl": "https://www.pexels.com/photo/selective-focus-photography-of-bunch-of-blueberries-583837/",
+    "photographer": "Jessica Lewis 🦋 thepaintedsquare",
+    "photographerUrl": "https://www.pexels.com/@thepaintedsquare"
+  },
+  {
+    "id": "crop-raspberries",
+    "file": "crop-raspberries.jpg",
+    "alt": "Raspberries",
+    "pexelsUrl": "https://www.pexels.com/photo/plastic-containers-with-fresh-raspberries-on-market-stall-3873697/",
+    "photographer": "ready made",
+    "photographerUrl": "https://www.pexels.com/@readymade"
+  },
+  {
+    "id": "crop-blackberries",
+    "file": "crop-blackberries.jpg",
+    "alt": "Blackberries",
+    "pexelsUrl": "https://www.pexels.com/photo/handful-of-fresh-blackberries-in-natural-light-39173257/",
+    "photographer": "Mustafa Akın",
+    "photographerUrl": "https://www.pexels.com/@msaimakin"
+  },
+  {
+    "id": "crop-apples",
+    "file": "crop-apples.jpg",
+    "alt": "Apples",
+    "pexelsUrl": "https://www.pexels.com/photo/two-apples-are-on-a-tree-branch-with-green-leaves-27895576/",
+    "photographer": "Damir K",
+    "photographerUrl": "https://www.pexels.com/@damir"
+  },
+  {
+    "id": "crop-peaches",
+    "file": "crop-peaches.jpg",
+    "alt": "Peaches",
+    "pexelsUrl": "https://www.pexels.com/photo/pessegos-27429847/",
+    "photographer": "Ana Vieira",
+    "photographerUrl": "https://www.pexels.com/@ana-vieira-1110685065"
+  },
+  {
+    "id": "crop-cherries",
+    "file": "crop-cherries.jpg",
+    "alt": "Cherries",
+    "pexelsUrl": "https://www.pexels.com/photo/fresh-red-cherries-at-farmers-market-display-32096797/",
+    "photographer": "Miro Vrlik",
+    "photographerUrl": "https://www.pexels.com/@miro-vrlik-2651115"
+  },
+  {
+    "id": "crop-pumpkins",
+    "file": "crop-pumpkins.jpg",
+    "alt": "Pumpkins",
+    "pexelsUrl": "https://www.pexels.com/photo/fresh-orange-pumpkins-on-rustic-wooden-surface-29122857/",
+    "photographer": "Christina & Peter",
+    "photographerUrl": "https://www.pexels.com/@christina99999"
+  },
+  {
+    "id": "crop-tomatoes",
+    "file": "crop-tomatoes.jpg",
+    "alt": "Tomatoes",
+    "pexelsUrl": "https://www.pexels.com/photo/close-up-of-fresh-ripe-tomatoes-for-sale-36094858/",
+    "photographer": "Fagner  Silva",
+    "photographerUrl": "https://www.pexels.com/@fagner-silva-2159047029"
+  },
+  {
+    "id": "crop-grapes",
+    "file": "crop-grapes.jpg",
+    "alt": "Grapes",
+    "pexelsUrl": "https://www.pexels.com/photo/person-holding-branches-with-fruits-on-it-10922960/",
+    "photographer": "Gonzalo Acuña",
+    "photographerUrl": "https://www.pexels.com/@gonzalo-acuna-166058093"
+  },
+  {
+    "id": "crop-default",
+    "file": "crop-default.jpg",
+    "alt": "Fresh produce",
+    "pexelsUrl": "https://www.pexels.com/photo/vibrant-display-of-fresh-market-vegetables-37321079/",
+    "photographer": "Muhamad Guruh Budi Hartono",
+    "photographerUrl": "https://www.pexels.com/@muhamad-guruh-budi-hartono-430167744"
+  },
+  {
+    "id": "farm-sunhollow-orchard",
+    "file": "sunhollow-orchard.jpg",
+    "alt": "An apple orchard",
+    "pexelsUrl": "https://www.pexels.com/photo/an-apple-orchard-with-a-dirt-path-leading-to-it-28387811/",
+    "photographer": "Mark Stebnicki",
+    "photographerUrl": "https://www.pexels.com/@nc-farm-bureau-mark"
+  },
+  {
+    "id": "farm-frostapple-orchard",
+    "file": "frostapple-orchard.jpg",
+    "alt": "An apple orchard",
+    "pexelsUrl": "https://www.pexels.com/photo/apples-on-snow-15803199/",
+    "photographer": "Alexey Chudin",
+    "photographerUrl": "https://www.pexels.com/@chudin-alexey"
+  },
+  {
+    "id": "farm-goldfield-grainworks",
+    "file": "goldfield-grainworks.jpg",
+    "alt": "A wheat field",
+    "pexelsUrl": "https://www.pexels.com/photo/brown-grass-field-under-the-white-clouds-and-blue-sky-9298428/",
+    "photographer": "Nikolett Emmert",
+    "photographerUrl": "https://www.pexels.com/@nikiemmert"
+  },
+  {
+    "id": "farm-mossgrove-mushrooms",
+    "file": "mossgrove-mushrooms.jpg",
+    "alt": "Mushrooms",
+    "pexelsUrl": "https://www.pexels.com/photo/nature-forest-grass-blur-9875872/",
+    "photographer": "Łukasz Martenka",
+    "photographerUrl": "https://www.pexels.com/@lukaszmartenka"
+  },
+  {
+    "id": "farm-tidewater-greens",
+    "file": "tidewater-greens.jpg",
+    "alt": "Leafy greens",
+    "pexelsUrl": "https://www.pexels.com/photo/green-vegetable-in-close-up-shot-11509871/",
+    "photographer": "Robert Owen-Wahl",
+    "photographerUrl": "https://www.pexels.com/@robert-owen-wahl-98047099"
+  },
+  {
+    "id": "farm-bramble-and-bee",
+    "file": "bramble-and-bee.jpg",
+    "alt": "Blackberries",
+    "pexelsUrl": "https://www.pexels.com/photo/handful-of-fresh-blackberries-in-natural-light-39173257/",
+    "photographer": "Mustafa Akın",
+    "photographerUrl": "https://www.pexels.com/@msaimakin"
+  },
+  {
+    "id": "guide-apple-orchards-pacific-northwest",
+    "file": "guide-apple-orchards-pacific-northwest.jpg",
+    "alt": "Apples",
+    "pexelsUrl": "https://www.pexels.com/photo/an-apple-orchard-with-a-dirt-path-leading-to-it-28387811/",
+    "photographer": "Mark Stebnicki",
+    "photographerUrl": "https://www.pexels.com/@nc-farm-bureau-mark"
+  },
+  {
+    "id": "guide-apple-picking-midwest",
+    "file": "guide-apple-picking-midwest.jpg",
+    "alt": "Apples",
+    "pexelsUrl": "https://www.pexels.com/photo/an-apple-orchard-with-a-dirt-path-leading-to-it-28387811/",
+    "photographer": "Mark Stebnicki",
+    "photographerUrl": "https://www.pexels.com/@nc-farm-bureau-mark"
+  },
+  {
+    "id": "guide-apple-picking-northeast",
+    "file": "guide-apple-picking-northeast.jpg",
+    "alt": "Apples",
+    "pexelsUrl": "https://www.pexels.com/photo/an-apple-orchard-with-a-dirt-path-leading-to-it-28387811/",
+    "photographer": "Mark Stebnicki",
+    "photographerUrl": "https://www.pexels.com/@nc-farm-bureau-mark"
+  },
+  {
+    "id": "guide-asparagus-picking-spring",
+    "file": "guide-asparagus-picking-spring.jpg",
+    "alt": "Asparagus",
+    "pexelsUrl": "https://www.pexels.com/photo/asparagus-field-with-protective-covers-37810516/",
+    "photographer": "Vadim Braydov",
+    "photographerUrl": "https://www.pexels.com/@vadimbraydov"
+  },
+  {
+    "id": "guide-berry-picking-farms-near-you",
+    "file": "guide-berry-picking-farms-near-you.jpg",
+    "alt": "Berries",
+    "pexelsUrl": "https://www.pexels.com/photo/close-up-shot-of-berries-6978242/",
+    "photographer": "Heather Brock",
+    "photographerUrl": "https://www.pexels.com/@heather-brock-31614773"
+  },
+  {
+    "id": "guide-blackberry-picking-southeast",
+    "file": "guide-blackberry-picking-southeast.jpg",
+    "alt": "Blackberries",
+    "pexelsUrl": "https://www.pexels.com/photo/close-up-shot-of-berries-6978242/",
+    "photographer": "Heather Brock",
+    "photographerUrl": "https://www.pexels.com/@heather-brock-31614773"
+  },
+  {
+    "id": "guide-blueberry-picking-pacific-northwest",
+    "file": "guide-blueberry-picking-pacific-northwest.jpg",
+    "alt": "Blueberries",
+    "pexelsUrl": "https://www.pexels.com/photo/close-up-shot-of-berries-6978242/",
+    "photographer": "Heather Brock",
+    "photographerUrl": "https://www.pexels.com/@heather-brock-31614773"
+  },
+  {
+    "id": "guide-cherry-picking-pacific-northwest",
+    "file": "guide-cherry-picking-pacific-northwest.jpg",
+    "alt": "Cherries",
+    "pexelsUrl": "https://www.pexels.com/photo/drone-shot-of-a-farm-field-8056307/",
+    "photographer": "Red Nguyen",
+    "photographerUrl": "https://www.pexels.com/@rednguyen"
+  },
+  {
+    "id": "guide-corn-mazes-how-to-choose",
+    "file": "guide-corn-mazes-how-to-choose.jpg",
+    "alt": "Corn Mazes",
+    "pexelsUrl": "https://www.pexels.com/photo/aerial-footage-of-a-green-field-with-a-maze-18513074/",
+    "photographer": "Mark Stebnicki",
+    "photographerUrl": "https://www.pexels.com/@nc-farm-bureau-mark"
+  },
+  {
+    "id": "guide-fall-saturday-berkshires",
+    "file": "guide-fall-saturday-berkshires.jpg",
+    "alt": "Fall outing",
+    "pexelsUrl": "https://www.pexels.com/photo/idyllic-autumn-farm-landscape-in-pennsylvania-34627886/",
+    "photographer": "Phil Evenden",
+    "photographerUrl": "https://www.pexels.com/@philevenphotos"
+  },
+  {
+    "id": "guide-fall-saturday-finger-lakes",
+    "file": "guide-fall-saturday-finger-lakes.jpg",
+    "alt": "Fall outing",
+    "pexelsUrl": "https://www.pexels.com/photo/idyllic-autumn-farm-landscape-in-pennsylvania-34627886/",
+    "photographer": "Phil Evenden",
+    "photographerUrl": "https://www.pexels.com/@philevenphotos"
+  },
+  {
+    "id": "guide-fall-saturday-hudson-valley",
+    "file": "guide-fall-saturday-hudson-valley.jpg",
+    "alt": "Fall outing",
+    "pexelsUrl": "https://www.pexels.com/photo/idyllic-autumn-farm-landscape-in-pennsylvania-34627886/",
+    "photographer": "Phil Evenden",
+    "photographerUrl": "https://www.pexels.com/@philevenphotos"
+  },
+  {
+    "id": "guide-fall-saturday-lehigh-valley",
+    "file": "guide-fall-saturday-lehigh-valley.jpg",
+    "alt": "Fall outing",
+    "pexelsUrl": "https://www.pexels.com/photo/idyllic-autumn-farm-landscape-in-pennsylvania-34627886/",
+    "photographer": "Phil Evenden",
+    "photographerUrl": "https://www.pexels.com/@philevenphotos"
+  },
+  {
+    "id": "guide-fall-saturday-loudoun-county",
+    "file": "guide-fall-saturday-loudoun-county.jpg",
+    "alt": "Fall outing",
+    "pexelsUrl": "https://www.pexels.com/photo/idyllic-autumn-farm-landscape-in-pennsylvania-34627886/",
+    "photographer": "Phil Evenden",
+    "photographerUrl": "https://www.pexels.com/@philevenphotos"
+  },
+  {
+    "id": "guide-grape-picking-california",
+    "file": "guide-grape-picking-california.jpg",
+    "alt": "Grapes",
+    "pexelsUrl": "https://www.pexels.com/photo/person-holding-branches-with-fruits-on-it-10922960/",
+    "photographer": "Gonzalo Acuña",
+    "photographerUrl": "https://www.pexels.com/@gonzalo-acuna-166058093"
+  },
+  {
+    "id": "guide-mushroom-foraging-pacific-northwest",
+    "file": "guide-mushroom-foraging-pacific-northwest.jpg",
+    "alt": "Mushrooms",
+    "pexelsUrl": "https://www.pexels.com/photo/nature-forest-grass-blur-9875872/",
+    "photographer": "Łukasz Martenka",
+    "photographerUrl": "https://www.pexels.com/@lukaszmartenka"
+  },
+  {
+    "id": "guide-pea-picking-spring",
+    "file": "guide-pea-picking-spring.jpg",
+    "alt": "Peas",
+    "pexelsUrl": "https://www.pexels.com/photo/snap-peas-in-close-up-photography-3957577/",
+    "photographer": "energepic.com",
+    "photographerUrl": "https://www.pexels.com/@energepic-com-27411"
+  },
+  {
+    "id": "guide-peach-picking-southeast",
+    "file": "guide-peach-picking-southeast.jpg",
+    "alt": "Peaches",
+    "pexelsUrl": "https://www.pexels.com/photo/pessegos-27429847/",
+    "photographer": "Ana Vieira",
+    "photographerUrl": "https://www.pexels.com/@ana-vieira-1110685065"
+  },
+  {
+    "id": "guide-peak-apple-season-state-by-state",
+    "file": "guide-peak-apple-season-state-by-state.jpg",
+    "alt": "Apples",
+    "pexelsUrl": "https://www.pexels.com/photo/an-apple-orchard-with-a-dirt-path-leading-to-it-28387811/",
+    "photographer": "Mark Stebnicki",
+    "photographerUrl": "https://www.pexels.com/@nc-farm-bureau-mark"
+  },
+  {
+    "id": "guide-pear-picking-pacific-northwest",
+    "file": "guide-pear-picking-pacific-northwest.jpg",
+    "alt": "Pears",
+    "pexelsUrl": "https://www.pexels.com/photo/fresh-green-pears-stacked-at-a-market-stall-40045577/",
+    "photographer": "Chukwuka Prosper",
+    "photographerUrl": "https://www.pexels.com/@chukwuka-prosper-221100694"
+  },
+  {
+    "id": "guide-pumpkin-patch-season-dates-by-state",
+    "file": "guide-pumpkin-patch-season-dates-by-state.jpg",
+    "alt": "Pumpkins",
+    "pexelsUrl": "https://www.pexels.com/photo/orange-pumpkins-on-the-field-11024445/",
+    "photographer": "Graham Hayward",
+    "photographerUrl": "https://www.pexels.com/@graham-hayward-170982386"
+  },
+  {
+    "id": "guide-pumpkin-patches-midwest",
+    "file": "guide-pumpkin-patches-midwest.jpg",
+    "alt": "Pumpkins",
+    "pexelsUrl": "https://www.pexels.com/photo/orange-pumpkins-on-the-field-11024445/",
+    "photographer": "Graham Hayward",
+    "photographerUrl": "https://www.pexels.com/@graham-hayward-170982386"
+  },
+  {
+    "id": "guide-pumpkin-patches-with-corn-mazes",
+    "file": "guide-pumpkin-patches-with-corn-mazes.jpg",
+    "alt": "Pumpkins",
+    "pexelsUrl": "https://www.pexels.com/photo/orange-pumpkins-on-the-field-11024445/",
+    "photographer": "Graham Hayward",
+    "photographerUrl": "https://www.pexels.com/@graham-hayward-170982386"
+  },
+  {
+    "id": "guide-pumpkin-picking-northeast",
+    "file": "guide-pumpkin-picking-northeast.jpg",
+    "alt": "Pumpkins",
+    "pexelsUrl": "https://www.pexels.com/photo/orange-pumpkins-on-the-field-11024445/",
+    "photographer": "Graham Hayward",
+    "photographerUrl": "https://www.pexels.com/@graham-hayward-170982386"
+  },
+  {
+    "id": "guide-strawberry-picking-california",
+    "file": "guide-strawberry-picking-california.jpg",
+    "alt": "Strawberries",
+    "pexelsUrl": "https://www.pexels.com/photo/close-up-shot-of-berries-6978242/",
+    "photographer": "Heather Brock",
+    "photographerUrl": "https://www.pexels.com/@heather-brock-31614773"
+  },
+  {
+    "id": "guide-sweet-corn-picking-midwest",
+    "file": "guide-sweet-corn-picking-midwest.jpg",
+    "alt": "Sweet Corn",
+    "pexelsUrl": "https://www.pexels.com/photo/aerial-footage-of-a-green-field-with-a-maze-18513074/",
+    "photographer": "Mark Stebnicki",
+    "photographerUrl": "https://www.pexels.com/@nc-farm-bureau-mark"
+  },
+  {
+    "id": "guide-tomato-picking-mid-atlantic",
+    "file": "guide-tomato-picking-mid-atlantic.jpg",
+    "alt": "Tomatoes",
+    "pexelsUrl": "https://www.pexels.com/photo/close-up-of-fresh-ripe-tomatoes-for-sale-36094858/",
+    "photographer": "Fagner  Silva",
+    "photographerUrl": "https://www.pexels.com/@fagner-silva-2159047029"
+  },
+  {
+    "id": "guide-when-do-pumpkin-patches-open-and-close",
+    "file": "guide-when-do-pumpkin-patches-open-and-close.jpg",
+    "alt": "Pumpkins",
+    "pexelsUrl": "https://www.pexels.com/photo/orange-pumpkins-on-the-field-11024445/",
+    "photographer": "Graham Hayward",
+    "photographerUrl": "https://www.pexels.com/@graham-hayward-170982386"
+  },
+  {
+    "id": "guide-winter-squash-picking-autumn",
+    "file": "guide-winter-squash-picking-autumn.jpg",
+    "alt": "Winter Squash",
+    "pexelsUrl": "https://www.pexels.com/photo/decoration-with-pumpkins-and-rotten-branch-18858929/",
+    "photographer": "Dagmara Dombrovska",
+    "photographerUrl": "https://www.pexels.com/@dagmara-dombrovska-22732579"
+  }
+]

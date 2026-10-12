@@ -5,6 +5,9 @@ region: "United States"
 season: "autumn"
 description: "When apple picking peaks in every region, plus why the same orchard can pick for two months straight."
 publishDate: 2026-09-09
+image: "/images/guide-peak-apple-season-state-by-state.jpg"
+imageAlt: "Apples"
+imageCredit: "Photo by Mark Stebnicki on Pexels"
 ---
 
 Apple picking peaks in September and October across most of the country, but the exact window swings more by state and variety than pumpkins do. Northern orchards start in late August. Southern and high-desert orchards run into November.

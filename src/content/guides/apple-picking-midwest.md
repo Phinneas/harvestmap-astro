@@ -5,6 +5,9 @@ region: "Midwest"
 season: "autumn"
 description: "The best Midwest apple orchards, which varieties ripen when, and how to make the most of a fall picking trip."
 publishDate: 2026-10-05
+image: "/images/guide-apple-picking-midwest.jpg"
+imageAlt: "Apples"
+imageCredit: "Photo by Mark Stebnicki on Pexels"
 relatedState: "MI"
 ---
 

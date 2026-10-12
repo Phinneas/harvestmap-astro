@@ -5,6 +5,9 @@ region: "United States"
 season: "autumn"
 description: "Most U.S. pumpkin patches open the last weekend of September and close October 31. Here are the typical windows by region and why the dates move."
 publishDate: 2026-09-09
+image: "/images/guide-when-do-pumpkin-patches-open-and-close.jpg"
+imageAlt: "Pumpkins"
+imageCredit: "Photo by Graham Hayward on Pexels"
 ---
 
 Most pumpkin patches in the US open the last weekend of September and close on October 31. Warm states run a little later and can stay open into mid-November. Opening day has less to do with when pumpkins ripen and more to do with Halloween.

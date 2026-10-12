@@ -5,6 +5,9 @@ region: "Pacific Northwest"
 season: "summer"
 description: "When to go, what to bring, and which varieties to look for at Washington and Oregon u-pick cherry orchards."
 publishDate: 2026-07-28
+image: "/images/guide-cherry-picking-pacific-northwest.jpg"
+imageAlt: "Cherries"
+imageCredit: "Photo by Red Nguyen on Pexels"
 relatedState: "WA"
 ---
 

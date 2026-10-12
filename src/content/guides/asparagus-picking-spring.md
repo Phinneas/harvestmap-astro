@@ -5,6 +5,9 @@ region: "Nationwide"
 season: "spring"
 description: "The short-lived u-pick asparagus season is one of spring's first harvests. Here's how to make the most of it."
 publishDate: 2026-03-01
+image: "/images/guide-asparagus-picking-spring.jpg"
+imageAlt: "Asparagus"
+imageCredit: "Photo by Vadim Braydov on Pexels"
 ---
 
 Asparagus is the first crop to break through the soil each spring, and its u-pick season is notoriously brief. A field may be open for only three to four weeks. If you see asparagus on a farm's calendar, go. Do not wait for the weekend.

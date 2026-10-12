@@ -5,6 +5,9 @@ region: "Nationwide"
 season: "spring"
 description: "Peas are the quintessential cool-weather crop. A guide to picking snap peas, snow peas, and shelling peas at u-pick farms."
 publishDate: 2026-03-15
+image: "/images/guide-pea-picking-spring.jpg"
+imageAlt: "Peas"
+imageCredit: "Photo by energepic.com on Pexels"
 ---
 
 Peas are one of the first crops ready for picking each spring, and one of the most rewarding for families with children. The plants are low, the pods are easy to reach, and the picking is fast. A single row can yield a week's worth of peas in twenty minutes.

@@ -5,6 +5,9 @@ region: "Pacific Northwest"
 season: "autumn"
 description: "Chanterelles, matsutake, and more. A guide to safely foraging wild mushrooms in the forests of Oregon and Washington."
 publishDate: 2026-08-15
+image: "/images/guide-mushroom-foraging-pacific-northwest.jpg"
+imageAlt: "Mushrooms"
+imageCredit: "Photo by Łukasz Martenka on Pexels"
 relatedState: "OR"
 ---
 

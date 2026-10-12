@@ -5,6 +5,9 @@ region: "Nationwide"
 season: "autumn"
 description: "When corn mazes open, how to choose one, what to bring, and how to make it out before dark."
 publishDate: 2026-10-05
+image: "/images/guide-corn-mazes-how-to-choose.jpg"
+imageAlt: "Corn Mazes"
+imageCredit: "Photo by Mark Stebnicki on Pexels"
 ---
 
 A good corn maze turns a field of corn into an afternoon of wandering, dead ends, and — if you are unlucky — a genuine question of whether you will ever find the exit. They open in late summer, peak through October, and shut down with the first hard frost. Here is how to pick one worth your time.

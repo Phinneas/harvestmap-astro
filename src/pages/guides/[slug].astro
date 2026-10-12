@@ -67,6 +67,24 @@ const stateLinks = guide.data.states
       <p class="lead" style="margin-top: var(--space-3);">{guide.data.description}</p>
     </header>
 
+    {guide.data.image && (
+      <figure style="margin: 0 0 var(--space-6);">
+        <img
+          src={guide.data.image}
+          alt={guide.data.imageAlt || guide.data.title}
+          width="1880"
+          height="1253"
+          loading="lazy"
+          style="width: 100%; border-radius: var(--radius-lg); aspect-ratio: 3/2; object-fit: cover;"
+        />
+        {guide.data.imageCredit && (
+          <figcaption style="font-size: var(--fs-xs); color: var(--text-muted); margin-top: var(--space-2);">
+            {guide.data.imageCredit}
+          </figcaption>
+        )}
+      </figure>
+    )}
+
     {isOuting && guide.data.bestWindow && (
       <div style="background: var(--clay-08); border: 1px solid var(--clay-16); border-radius: 12px; padding: var(--space-4) var(--space-5); margin-bottom: var(--space-6); display: flex; align-items: center; gap: var(--space-3); flex-wrap: wrap;">
         <span style="font-weight: 600; color: var(--clay-deep); font-size: var(--fs-small); text-transform: uppercase; letter-spacing: 0.05em;">Best window</span>

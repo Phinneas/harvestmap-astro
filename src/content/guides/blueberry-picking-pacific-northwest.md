@@ -5,6 +5,9 @@ region: "Pacific Northwest"
 season: "summer"
 description: "When blueberries ripen in Oregon and Washington, what to bring, and how to pick the best berries."
 publishDate: 2026-07-28
+image: "/images/guide-blueberry-picking-pacific-northwest.jpg"
+imageAlt: "Blueberries"
+imageCredit: "Photo by Heather Brock on Pexels"
 relatedState: "OR"
 ---
 

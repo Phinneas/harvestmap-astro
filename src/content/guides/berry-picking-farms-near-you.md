@@ -5,6 +5,9 @@ region: "United States"
 season: "summer"
 description: "Where to find berry picking farms near you, when strawberries, blueberries, raspberries, and blackberries ripen state by state, typical prices, and what to bring."
 publishDate: 2026-10-05
+image: "/images/guide-berry-picking-farms-near-you.jpg"
+imageAlt: "Berries"
+imageCredit: "Photo by Heather Brock on Pexels"
 ---
 
 Berries are the shortest, sweetest stretch of the u-pick calendar. Strawberries

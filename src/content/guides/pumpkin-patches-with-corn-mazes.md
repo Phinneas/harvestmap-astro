@@ -5,6 +5,9 @@ region: "Nationwide"
 season: "autumn"
 description: "How to plan a day that combines a pumpkin patch and a corn maze — timing, what to bring, and how to fit it all in before dark."
 publishDate: 2026-10-05
+image: "/images/guide-pumpkin-patches-with-corn-mazes.jpg"
+imageAlt: "Pumpkins"
+imageCredit: "Photo by Graham Hayward on Pexels"
 ---
 
 The best fall farms do double duty: a pumpkin patch for the photo and the porch, and a corn maze for the wandering. Pairing the two turns a quick errand into a full day out. The trick is in the order, the timing, and not underestimating how long a "short" maze actually takes.

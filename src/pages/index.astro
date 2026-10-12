@@ -52,19 +52,19 @@ const statesSorted = [...states].sort((a, b) => b.count - a.count);
 // Recent guides
 const guides = (await getCollection('guides')).sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()).slice(0, 3);
 
-// Crop image URLs (Unsplash, from redesign data)
+// Crop image URLs (self-hosted Pexels photos, see public/images/images.json)
 const CROP_IMAGES: Record<string, string> = {
-  Strawberries: 'https://images.unsplash.com/photo-1464983086-557d8c4b3b89?w=400&q=70',
-  Blueberries: 'https://images.unsplash.com/photo-1582526431847-6aad045483c6?w=400&q=70',
-  Raspberries: 'https://images.unsplash.com/photo-1571772996211-2f02c9727629?w=400&q=70',
-  Blackberries: 'https://images.unsplash.com/photo-1599931314730-66c1f1c9b6b9?w=400&q=70',
-  Apples: 'https://images.unsplash.com/photo-1560806887-1e4cd0b38cbd?w=400&q=70',
-  Peaches: 'https://images.unsplash.com/photo-1540243237295-491bf8db5e2a?w=400&q=70',
-  Cherries: 'https://images.unsplash.com/photo-1546547790-8b2963560dab?w=400&q=70',
-  Pumpkins: 'https://images.unsplash.com/photo-1572294728082-e9e1c7613e1b?w=400&q=70',
-  Tomatoes: 'https://images.unsplash.com/photo-1592841200221-a6895f5b4f9f?w=400&q=70',
-  Grapes: 'https://images.unsplash.com/photo-1597290282696-cf1de5a1b6b2?w=400&q=70',
-  default: 'https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=400&q=70',
+  Strawberries: '/images/crop-strawberries.jpg',
+  Blueberries: '/images/crop-blueberries.jpg',
+  Raspberries: '/images/crop-raspberries.jpg',
+  Blackberries: '/images/crop-blackberries.jpg',
+  Apples: '/images/crop-apples.jpg',
+  Peaches: '/images/crop-peaches.jpg',
+  Cherries: '/images/crop-cherries.jpg',
+  Pumpkins: '/images/crop-pumpkins.jpg',
+  Tomatoes: '/images/crop-tomatoes.jpg',
+  Grapes: '/images/crop-grapes.jpg',
+  default: '/images/crop-default.jpg',
 };
 
 const seasonColors: Record<string, string> = {
@@ -133,8 +133,10 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
         <div style="position: relative;">
           <div class="doodle-ring"></div>
           <img
-            src="https://images.unsplash.com/photo-1542891494-834a4b5b4b3b?w=600&q=70"
-            alt="A basket of freshly picked summer fruit"
+            src="/images/hero-apple-picking.jpg"
+            alt="A woman in overalls picking red apples in a lush orchard"
+            width="1880"
+            height="1253"
             style="width: 100%; border-radius: var(--radius-xl); aspect-ratio: 4/3; object-fit: cover; box-shadow: var(--shadow-lg);"
             loading="eager"
           />
@@ -292,8 +294,10 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
           </div>
         </div>
         <img
-          src="https://images.unsplash.com/photo-1591857170480-79c4e67c7b12?w=600&q=70"
-          alt="Two growers gathering fruit in an orchard"
+          src="/images/growers-harvest.jpg"
+          alt="A farmer harvesting in an orchard"
+          width="1880"
+          height="1253"
           loading="lazy"
         />
       </div>

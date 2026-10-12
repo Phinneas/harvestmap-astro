@@ -5,6 +5,9 @@ region: "Southeast"
 season: "summer"
 description: "When to go, what to bring, and which varieties to look for at Southeast u-pick blackberry farms."
 publishDate: 2026-07-28
+image: "/images/guide-blackberry-picking-southeast.jpg"
+imageAlt: "Blackberries"
+imageCredit: "Photo by Heather Brock on Pexels"
 relatedState: "GA"
 ---
 

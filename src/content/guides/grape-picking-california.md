@@ -5,6 +5,9 @@ region: "California"
 season: "autumn"
 description: "When to go, what to bring, and which varieties to look for at California u-pick grape vineyards."
 publishDate: 2026-07-28
+image: "/images/guide-grape-picking-california.jpg"
+imageAlt: "Grapes"
+imageCredit: "Photo by Gonzalo Acuña on Pexels"
 relatedState: "CA"
 ---
 

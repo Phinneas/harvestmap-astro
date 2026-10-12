@@ -5,6 +5,9 @@ region: "Midwest"
 season: "autumn"
 description: "When Midwest pumpkin patches open, which varieties to pick, and how to choose a patch worth the drive."
 publishDate: 2026-10-05
+image: "/images/guide-pumpkin-patches-midwest.jpg"
+imageAlt: "Pumpkins"
+imageCredit: "Photo by Graham Hayward on Pexels"
 relatedState: "OH"
 ---
 

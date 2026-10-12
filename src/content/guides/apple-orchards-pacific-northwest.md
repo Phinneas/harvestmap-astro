@@ -5,6 +5,9 @@ region: "Pacific Northwest"
 season: "autumn"
 description: "When Pacific Northwest apples ripen, the best orchards to visit, and what to pick in Washington and Oregon."
 publishDate: 2026-10-05
+image: "/images/guide-apple-orchards-pacific-northwest.jpg"
+imageAlt: "Apples"
+imageCredit: "Photo by Mark Stebnicki on Pexels"
 relatedState: "WA"
 ---
 

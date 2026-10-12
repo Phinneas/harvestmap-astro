@@ -5,6 +5,9 @@ region: "Midwest"
 season: "summer"
 description: "Sweet corn loses sweetness by the hour after picking. Here's how to pick the best ears at u-pick corn fields."
 publishDate: 2026-05-15
+image: "/images/guide-sweet-corn-picking-midwest.jpg"
+imageAlt: "Sweet Corn"
+imageCredit: "Photo by Mark Stebnicki on Pexels"
 relatedState: "IA"
 ---
 

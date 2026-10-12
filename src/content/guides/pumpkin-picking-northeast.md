@@ -5,6 +5,9 @@ region: "Northeast"
 season: "autumn"
 description: "When to go, what to bring, and which varieties to look for at Northeast pumpkin patches and farms."
 publishDate: 2026-07-28
+image: "/images/guide-pumpkin-picking-northeast.jpg"
+imageAlt: "Pumpkins"
+imageCredit: "Photo by Graham Hayward on Pexels"
 relatedState: "NY"
 ---
 

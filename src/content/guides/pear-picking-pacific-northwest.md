@@ -5,6 +5,9 @@ region: "Pacific Northwest"
 season: "autumn"
 description: "When to go, what to bring, and which varieties to look for at Oregon and Washington u-pick pear orchards."
 publishDate: 2026-07-28
+image: "/images/guide-pear-picking-pacific-northwest.jpg"
+imageAlt: "Pears"
+imageCredit: "Photo by Chukwuka Prosper on Pexels"
 relatedState: "OR"
 ---
 

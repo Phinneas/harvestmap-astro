@@ -5,6 +5,9 @@ region: "Northeast"
 season: "autumn"
 description: "Your guide to apple picking in New York, Massachusetts, Vermont, and Maine — when to go, what varieties to expect, and how to choose."
 publishDate: 2026-07-28
+image: "/images/guide-apple-picking-northeast.jpg"
+imageAlt: "Apples"
+imageCredit: "Photo by Mark Stebnicki on Pexels"
 relatedState: "NY"
 ---
 

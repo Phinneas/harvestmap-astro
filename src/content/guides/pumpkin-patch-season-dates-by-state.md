@@ -5,6 +5,9 @@ region: "United States"
 season: "autumn"
 description: "Typical pumpkin patch season by state, grouped by region. Use these windows to plan a trip, then confirm with the farm."
 publishDate: 2026-09-09
+image: "/images/guide-pumpkin-patch-season-dates-by-state.jpg"
+imageAlt: "Pumpkins"
+imageCredit: "Photo by Graham Hayward on Pexels"
 ---
 
 Below is the typical pumpkin patch season for every state, grouped by region. Use it to plan your trip, then confirm with the specific farm before you go. Individual patches open and close a week or two on either side of these windows, and a late or early frost can move the whole calendar.

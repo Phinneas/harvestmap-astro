@@ -5,6 +5,9 @@ region: "Nationwide"
 season: "autumn"
 description: "From butternut to acorn to spaghetti squash, a guide to picking and storing winter squash at u-pick farms."
 publishDate: 2026-08-01
+image: "/images/guide-winter-squash-picking-autumn.jpg"
+imageAlt: "Winter Squash"
+imageCredit: "Photo by Dagmara Dombrovska on Pexels"
 ---
 
 Winter squash is the bridge between summer and the cold months. Unlike summer squash, which is picked tender and eaten immediately, winter squash develops a hard shell that allows it to store for months. Picking your own means you can choose the perfect specimens for autumn meals and winter storage.

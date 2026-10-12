@@ -5,6 +5,9 @@ region: "California"
 season: "spring"
 description: "When to go, what to bring, and which varieties to look for at California u-pick strawberry farms."
 publishDate: 2026-07-28
+image: "/images/guide-strawberry-picking-california.jpg"
+imageAlt: "Strawberries"
+imageCredit: "Photo by Heather Brock on Pexels"
 relatedState: "CA"
 ---
 

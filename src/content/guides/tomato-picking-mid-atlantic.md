@@ -5,6 +5,9 @@ region: "Mid-Atlantic"
 season: "summer"
 description: "When to go, what to bring, and which varieties to look for at Mid-Atlantic u-pick tomato farms."
 publishDate: 2026-07-28
+image: "/images/guide-tomato-picking-mid-atlantic.jpg"
+imageAlt: "Tomatoes"
+imageCredit: "Photo by Fagner  Silva on Pexels"
 relatedState: "VA"
 ---
 

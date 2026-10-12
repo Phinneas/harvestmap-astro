@@ -5,6 +5,9 @@ region: "Southeast"
 season: "summer"
 description: "Nothing tastes like a tree-ripe peach eaten in the orchard. A guide to picking peaches and nectarines at u-pick farms."
 publishDate: 2026-05-01
+image: "/images/guide-peach-picking-southeast.jpg"
+imageAlt: "Peaches"
+imageCredit: "Photo by Ana Vieira on Pexels"
 relatedState: "GA"
 ---
 
