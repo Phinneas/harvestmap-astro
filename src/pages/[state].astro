@@ -89,7 +89,7 @@ const stateIntro = getStateIntro(
     <div class="section-head" style="margin-bottom: var(--space-6);">
       <span class="eyebrow"><Leaf class="is-drawn" style="width:18px;height:18px;" /> {stateName}</span>
       <h1 class="squiggle squiggle-harvest">Farms in {stateName}</h1>
-      <p class="lead">{totalCount} farms listed · {enrichedCount} with crop and seasonality data</p>
+      <p class="lead">{totalCount} farms listed · {enrichedCount} enriched</p>
     </div>
 
     {stateIntro.paragraphs.length > 0 && (
@@ -160,7 +160,7 @@ const stateIntro = getStateIntro(
       <section>
         <div class="section-head" style="margin-bottom: var(--space-4);">
           <h2 style="font-size: var(--fs-h3);">All {stateName} farms</h2>
-          <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">{totalCount} listings · {enrichedCount} with crop and seasonality data. Farms with crop data are listed first.</p>
+          <p style="color: var(--text-muted); font-size: var(--fs-small); margin: 0;">{totalCount} listings · {enrichedCount} enriched. Farms with crop data are listed first.</p>
         </div>
         <div class="farm-list">
           {sortedFarms.map((f) => <FarmRow farm={f} />)}

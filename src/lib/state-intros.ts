@@ -182,7 +182,12 @@ export function getStateIntro(
     const desc = highlightFarms.map((f) =>
       `${f.name}${f.crops.length ? ` (${listItems(f.crops.slice(0, 2)).toLowerCase()})` : ''}`,
     );
-    paragraphs.push(`Three standouts worth a look: ${listItems(desc)}.`);
+    const lead = highlightFarms.length === 1
+      ? 'A standout worth a look'
+      : highlightFarms.length === 2
+        ? 'Two standouts worth a look'
+        : 'Three standouts worth a look';
+    paragraphs.push(`${lead}: ${listItems(desc)}.`);
   }
 
   // Sparsely-listed states have less to draw on; add a practical line so every

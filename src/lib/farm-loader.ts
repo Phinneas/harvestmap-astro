@@ -6,7 +6,7 @@ import {
   getFarmPeak,
 } from './seasonality';
 import { deriveFarmFeatures } from './features';
-import { isServedFarm } from './indexing';
+import { isServedFarm, isIndexable } from './indexing';
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 
@@ -60,6 +60,12 @@ export function loadEnrichedFarms(): Farm[] {
   );
 }
 
+// Farms that clear the indexing quality bar (meetsQualityBar) — the number
+// the sitemap/noindex policy is based on, and the "enriched" count we report.
+export function loadIndexableFarms(): Farm[] {
+  return allFarms.filter(isIndexable);
+}
+
 // All farms in a given state
 export function loadFarmsByState(stateCode: string): Farm[] {
   const upper = stateCode.toUpperCase();
@@ -98,12 +104,7 @@ export function getStatesWithFarms(): { code: string; name: string; count: numbe
     const state = farm.locationState;
     if (!counts[state]) counts[state] = { count: 0, enriched: 0 };
     counts[state].count++;
-    if (
-      (farm.produce && farm.produce.length > 0) ||
-      (farm.crops && farm.crops.length > 0) ||
-      (farm.calendar && farm.calendar.length > 0) ||
-      farm.source === 'editorial'
-    ) {
+    if (isIndexable(farm)) {
       counts[state].enriched++;
     }
   }

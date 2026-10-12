@@ -3,7 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Button from '../components/Button.astro';
 import LeafField from '../components/LeafField.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
-import { loadAllAugmentedFarms, loadEnrichedAugmentedFarms, getStatesWithFarms } from '../lib/farm-loader';
+import { loadAllAugmentedFarms, loadEnrichedAugmentedFarms, loadIndexableFarms, getStatesWithFarms } from '../lib/farm-loader';
 import { getCollection } from 'astro:content';
 
 const allFarms = loadAllAugmentedFarms();
@@ -11,10 +11,9 @@ const enrichedFarms = loadEnrichedAugmentedFarms();
 const states = getStatesWithFarms();
 
 const totalListings = allFarms.length;
+const indexableCount = loadIndexableFarms().length;
 const inSeason = enrichedFarms.filter((f) => f.derivedInSeasonNow).length;
 const withCrops = enrichedFarms.length;
-const total = withCrops;
-const enriched = enrichedFarms.filter((f) => f.isEnriched).length;
 
 // Current season
 const now = new Date();
@@ -94,10 +93,10 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
   <div class="announce-bar">
     <div class="marquee-track">
       <span>&#127807; {inSeason} farms harvesting right now</span>
-      <span>&#129373; {withCrops} farms with crop data</span>
+      <span>&#129373; {indexableCount.toLocaleString()} enriched farms</span>
       <span>&#127793; {totalListings.toLocaleString()} farms across {states.length} states</span>
       <span>&#127807; {inSeason} farms harvesting right now</span>
-      <span>&#129373; {withCrops} farms with crop data</span>
+      <span>&#129373; {indexableCount.toLocaleString()} enriched farms</span>
       <span>&#127793; {totalListings.toLocaleString()} farms across {states.length} states</span>
     </div>
   </div>
@@ -127,7 +126,7 @@ const squiggleBerry = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2
             <Button variant="secondary" size="lg" href="/u-pick-farms">Enter a town or ZIP</Button>
           </div>
           <p class="honesty-note" style="margin: 0; text-align: left;">
-            {totalListings.toLocaleString()} directory listings · {total.toLocaleString()} with crop data. Season is estimated from growing zone, not confirmed by the farms. Always call ahead.
+            {totalListings.toLocaleString()} directory listings · {indexableCount.toLocaleString()} enriched. Season is estimated from growing zone, not confirmed by the farms. Always call ahead.
           </p>
         </div>
         <div style="position: relative;">
