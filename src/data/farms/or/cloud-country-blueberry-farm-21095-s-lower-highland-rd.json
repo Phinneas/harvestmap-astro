@@ -13,9 +13,21 @@
     {
       "source": "usda",
       "lastSeen": "2026-08-05T18:47:57.062Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:12.153Z"
     }
   ],
   "usdaLastUpdated": "2026-08-05T18:47:57.062Z",
   "website": "https://blueberry.co.nz/",
-  "tagline": "Blueberry Farms in New Zealand"
+  "tagline": "Blueberry Farms in New Zealand",
+  "crops": [
+    "Blueberries"
+  ],
+  "description": [
+    "A family-run berry farm in 21095 S Lower Highland Rd, OR, Cloud Country Blueberry Farm grows Blueberries. The farm is busiest in summer. Check the website for current hours and availability.",
+    "Seasonal availability typically runs from Jun – Aug in this growing zone.",
+    "Contact the farm directly to confirm current hours and what is ready to pick."
+  ]
 }

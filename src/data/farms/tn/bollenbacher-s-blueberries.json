@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.358Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:13.166Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "Bollenbacher's Blueberries is a family-run berry farm in Sweetwater, TN. It grows Blueberries, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 35.60443,
+  "lon": -84.46764
 }

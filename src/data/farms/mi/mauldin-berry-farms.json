@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.588Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
   ],
-  "website": null,
+  "website": "https://www.mauldinberryfarms.com/",
   "tagline": "Mauldin Berry Farms",
   "description": [
     "Mauldin Berry Farms is an berry farm in Lexington, MI. Visitors come for Strawberries, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 43.2820358467397,
+  "lon": -82.5503705770602
 }

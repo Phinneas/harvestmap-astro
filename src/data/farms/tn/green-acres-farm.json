@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.333Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:13.166Z"
     }
   ],
-  "website": null,
+  "website": "https://tennesseeagritourism.org/green-acres-farm",
   "tagline": "Green Acres Farm",
   "description": [
     "A small berry farm in Clarkrange, TN, Green Acres Farm grows Blueberries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 35.8675130064914,
+  "lon": -88.7476540211344
 }

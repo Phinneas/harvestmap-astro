@@ -16,14 +16,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.349Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:54.842Z"
     }
   ],
-  "website": null,
+  "website": "https://healingpathfarm.com/",
   "tagline": "Healing Acres / Helen DuBose Farm",
   "description": [
     "In Donough, GA, Healing Acres / Helen DuBose Farm grows Blueberries, Blackberries, Corn, and Tomatoes on a small berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 33.44775,
+  "lon": -84.14796
 }

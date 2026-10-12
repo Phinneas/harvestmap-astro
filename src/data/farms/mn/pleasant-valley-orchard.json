@@ -7,7 +7,7 @@
   "locationCity": "Taylors Falls",
   "locationState": "MN",
   "locationZipcode": "",
-  "website": "https://www.pleasantvalleyorchard.com",
+  "website": "https://chisagolakes.org/pleasant-valley-orchard-is-more-than-an-orchard-its-a-tradition-3/",
   "phone": "651-257-9159",
   "crops": [
     "Strawberries",
@@ -16,6 +16,10 @@
     "Squash"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.767Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:07.205Z"
@@ -26,5 +30,7 @@
   "description": [
     "Pleasant Valley Orchard is a working pumpkin patch in Taylors Falls, MN. It grows Strawberries, Apples, Pumpkins, and Squash, with picking through spring and autumn. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 45.40212,
+  "lon": -92.65261
 }

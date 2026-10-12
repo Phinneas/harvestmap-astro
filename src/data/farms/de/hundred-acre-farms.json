@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.196Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:24:38.411Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "In Smyrna, DE, Hundred Acre Farms grows Strawberries, Blackberries, and Christmas trees on a working Christmas tree farm. The harvest is typically at its peak in spring. The season runs through spring and summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 39.3188891586676,
+  "lon": -75.6558198272565
 }

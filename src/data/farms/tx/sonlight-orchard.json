@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.661Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:36.658Z"
     }
@@ -23,5 +27,7 @@
     "Sonlight Orchard is an apple orchard in Mason, TX. Visitors come for Pecans. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 30.7474909865984,
+  "lon": -99.2241849932932
 }

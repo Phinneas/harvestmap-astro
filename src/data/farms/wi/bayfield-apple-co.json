@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.569Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
   ],
-  "website": "https://mappca.com/bayfield-apple-co-i49484.html",
+  "website": "https://www.bayfieldapple.com/our-history",
   "tagline": "Bayfield Apple Co",
   "description": [
     "In Bayfield, WI, Bayfield Apple Co. grows Raspberries and Apples on a family-run apple orchard. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Sep in this growing zone."
-  ]
+  ],
+  "lat": 46.8109900000001,
+  "lon": -90.8207399999999
 }

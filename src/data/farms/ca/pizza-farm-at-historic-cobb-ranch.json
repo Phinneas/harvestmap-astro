@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.807Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:50.210Z"
     }
   ],
-  "website": null,
+  "website": "https://www.123farm.com/",
   "tagline": "Pizza Farm at Historic Cobb Ranch, Fresno, CA",
   "description": [
     "An independent Christmas tree farm in Fresno, CA, Pizza Farm at Historic Cobb Ranch grows Corn and Christmas trees. The farm is busiest through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year."
-  ]
+  ],
+  "lat": 36.8733563282338,
+  "lon": -119.791866782088
 }

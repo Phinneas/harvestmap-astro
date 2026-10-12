@@ -7,8 +7,8 @@
   "locationCity": "12740 Kingston Pike",
   "locationState": "TN",
   "locationZipcode": "12740",
-  "lat": 35.866912,
-  "lon": -84.2096794,
+  "lat": 35.86753591456688,
+  "lon": -84.20909954731042,
   "provenance": [
     {
       "source": "usda",
@@ -17,5 +17,6 @@
   ],
   "usdaLastUpdated": "2026-07-28T19:39:02.418Z",
   "website": "https://dixieleefarmersmarket.com/",
-  "tagline": "Dixie Lee Farmers' Market"
+  "tagline": "Dixie Lee Farmers' Market",
+  "crops": []
 }

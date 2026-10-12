@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.771Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -27,5 +31,7 @@
   "description": [
     "Lyon Farms is a small pumpkin patch in Creedmoor, NC. It grows Strawberries, Blueberries, Blackberries, Pumpkins, and Corn, with picking through spring, summer, and autumn. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 36.0849144606455,
+  "lon": -78.7337708339629
 }

@@ -17,14 +17,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.917Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:49.548Z"
     }
   ],
-  "website": "https://jonamacorchard.com/store-bakery/",
+  "website": "https://jonamacorchard.com/",
   "tagline": "Store & Bakery",
   "description": [
     "In Malta, IL, Jonamac Orchard, Inc. grows Apples, Pumpkins, Squash, Corn, and Honey on an independent pumpkin patch. The harvest is typically at its peak in autumn. The season runs through autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 41.8780344063883,
+  "lon": -88.8863799669251
 }

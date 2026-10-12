@@ -21,13 +21,19 @@
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:50.210Z"
+    },
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.813Z"
     }
   ],
-  "website": null,
+  "website": "https://www.ncapples.com/farms/mccall-farm",
   "tagline": "McCall Farm B&B",
   "description": [
     "An independent pumpkin patch in Cambria, CA, McCall Farm B&B grows Apples, Plums, Oranges, Avocados, and Pumpkins. The patch is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 35.5793109888115,
+  "lon": -121.001148960088
 }

@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.905Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
   ],
-  "website": "https://www.creeksidefamilyfarmuc.com/",
+  "website": "https://creeksidefarms-nc.com/",
   "tagline": "Creekside Farms",
   "description": [
     "In Marshville, NC, Creekside Farms grows Strawberries on a working berry farm. The harvest is typically at its peak in spring. The season runs through spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 34.89350911923383,
+  "lon": -80.38154117780809
 }

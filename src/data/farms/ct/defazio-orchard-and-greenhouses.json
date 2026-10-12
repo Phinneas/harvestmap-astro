@@ -20,6 +20,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.920Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:24:25.507Z"
     }
@@ -28,5 +32,7 @@
     "DeFazio Orchard and Greenhouses is a pumpkin patch in Dayville, CT. Visitors come for Blueberries, Apples, Peaches, Pumpkins, and Corn, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.869740557469,
+  "lon": -71.8207524461943
 }

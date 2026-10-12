@@ -7,8 +7,8 @@
   "locationCity": "Shoreline Highway",
   "locationState": "CA",
   "locationZipcode": "94971",
-  "lat": 38.2477500000001,
-  "lon": -122.9047,
+  "lat": 38.22703480172299,
+  "lon": -122.8778115673353,
   "provenance": [
     {
       "source": "usda",
@@ -17,5 +17,6 @@
   ],
   "usdaLastUpdated": "2026-08-05T18:36:36.803Z",
   "website": "https://marincoastranch.com/",
-  "tagline": "Marin Coast Ranch"
+  "tagline": "Marin Coast Ranch",
+  "crops": []
 }

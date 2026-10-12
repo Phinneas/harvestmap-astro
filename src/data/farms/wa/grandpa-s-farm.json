@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.150Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:59.975Z"
     }
   ],
-  "website": null,
+  "website": "https://www.grandpajohnsfarm.com/pages/about-us",
   "tagline": "Grandpa's Farm In Lynden WA",
   "description": [
     "A working berry farm in Lynden, WA, Grandpa's Farm grows Blueberries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 48.9769471042728,
+  "lon": -122.462797801858
 }

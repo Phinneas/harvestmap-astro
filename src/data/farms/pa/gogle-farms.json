@@ -19,14 +19,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.220Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:47.862Z"
     }
   ],
-  "website": "https://goglefarms.com/",
+  "website": "https://goglefarms.com/about-fruit",
   "tagline": "Gogle Farms",
   "description": [
     "In Coplay, PA, Gogle Farms grows Apples, Pears, Peaches, Apricots, and Plums on a small pumpkin patch. The harvest is typically at its peak in summer. The season runs through autumn and summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 40.69939801036352,
+  "lon": -75.55309598127059
 }

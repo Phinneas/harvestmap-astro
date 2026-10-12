@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.391Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:54.842Z"
     }
@@ -25,5 +29,7 @@
   "description": [
     "In Colbert, GA, Berry Bush Farms grows Strawberries, Blueberries, Pecans, and Eggs on an independent berry farm. The harvest is typically at its peak in spring. The season runs through spring and summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 34.0495691741874,
+  "lon": -83.1897486265292
 }

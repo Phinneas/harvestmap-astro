@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.846Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:50.210Z"
     }
   ],
-  "website": "https://www.debellisranch.com/contact-us",
+  "website": "https://operator.fyi/agricultural-service/acton/debellis-ranch-acton-ca-b2a55973/",
   "tagline": "DeBellis Ranch — Local Honey in Acton, CA",
   "description": [
     "DeBellis Ranch is a farm in Acton, CA. Visitors come for Flowers. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 34.47503598149635,
+  "lon": -118.1678660298548
 }

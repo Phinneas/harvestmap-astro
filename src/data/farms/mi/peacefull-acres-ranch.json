@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.738Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
   ],
-  "website": null,
+  "website": "https://www.muddyacres.com/",
   "tagline": "Peacefull Acres Ranch",
   "description": [
     "A small pumpkin patch in West Olive, MI, Peacefull Acres Ranch grows Strawberries, Pumpkins, and Corn. The patch is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.97974698849941,
+  "lon": -86.06319496690445
 }

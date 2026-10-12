@@ -7,12 +7,16 @@
   "locationCity": "Trempealeau",
   "locationState": "WI",
   "locationZipcode": "",
-  "website": "https://www.eckersapplefarm.com",
+  "website": "https://www.eckersapplefarm.com/about",
   "phone": "608-539-2652",
   "crops": [
     "Apples"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.561Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
@@ -23,5 +27,7 @@
   "description": [
     "Ecker's Apple Farm is an independent apple orchard in Trempealeau, WI. It grows Apples, with picking through autumn. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 44.00552,
+  "lon": -91.44209
 }

@@ -20,6 +20,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.702Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
@@ -28,5 +32,7 @@
   "tagline": "Morrison's Sunny Fields",
   "description": [
     "Morrison's Sunny Fields is a small apple orchard in Paw Paw, MI. It grows Strawberries, Blueberries, Apples, Peaches, and Corn, with picking through spring, summer, and autumn. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season."
-  ]
+  ],
+  "lat": 42.217402331158,
+  "lon": -85.8876668634117
 }

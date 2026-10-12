@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.572Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:36.658Z"
     }
@@ -23,5 +27,7 @@
     "A family-run berry farm in Kountze, TX, The Berry Patch grows Blueberries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 31.6828270171223,
+  "lon": -96.1631680168971
 }

@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.849Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:23.079Z"
     }
   ],
-  "website": null,
+  "website": "https://www.brookdalefruitfarm.com/",
   "tagline": "Great Brook Farm",
   "description": [
     "Great Brook Farm is an independent pumpkin patch in Canterbury, NH. It grows Apples and Pumpkins, with picking through autumn. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 43.3564800086229,
+  "lon": -71.5221369878958
 }

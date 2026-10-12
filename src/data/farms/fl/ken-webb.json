@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.876Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.323Z"
     }
@@ -25,5 +29,7 @@
     "Ken Webb is a farm in Alachua, FL. Visitors come for Peaches, Figs, and Pecans, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Sep in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 29.7930900000001,
+  "lon": -82.4942799999999
 }

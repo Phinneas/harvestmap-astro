@@ -18,14 +18,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.881Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:33.027Z"
     }
   ],
-  "website": "https://www.theberryranch.com/pick-your-own",
+  "website": "https://canada-listing.com/berryranch",
   "tagline": "Fresh Treats And Fruit Picking Come Together At This Idaho Berry Farm",
   "description": [
     "Berry Ranch is an independent pumpkin patch in Nampa, ID. It grows Strawberries, Blueberries, Raspberries, Blackberries, and Pumpkins, with picking through spring, summer, and autumn. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 43.6629573047341,
+  "lon": -116.405490763437
 }

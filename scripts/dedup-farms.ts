@@ -54,11 +54,14 @@ function sameFarm(a: FarmRecord, b: FarmRecord): boolean {
   if (na === nb) return true;
   if (na === norm(b.name) || nb === norm(a.name)) return true;
   const sa = streetKey(addrOf(a)), sb = streetKey(addrOf(b));
-  if (sa && sb && sa === sb) {
+  if (sa && sb && (sa === sb || sa.startsWith(sb) || sb.startsWith(sa))) {
     const numA = numberOf(addrOf(a)), numB = numberOf(addrOf(b));
     if (numA && numB) return numA.includes(numB) || numB.includes(numA);
     return true;
   }
+  // "City vs street": one record holds a street address (has a number), the
+  // other holds the real city (no number) — the same farm recorded twice.
+  if (/\d/.test(addrOf(a)) !== /\d/.test(addrOf(b))) return true;
   return false;
 }
 function mergeFarms(group: FarmRecord[]): FarmRecord {

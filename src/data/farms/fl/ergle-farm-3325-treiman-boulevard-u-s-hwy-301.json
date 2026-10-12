@@ -7,8 +7,8 @@
   "locationCity": "3325 Treiman Boulevard U.S. Hwy. 301",
   "locationState": "FL",
   "locationZipcode": "33523",
-  "lat": 28.483068001681502,
-  "lon": -82.17978797954497,
+  "lat": 28.4945975314141,
+  "lon": -82.17358194076,
   "provenance": [
     {
       "source": "usda",
@@ -17,5 +17,6 @@
   ],
   "usdaLastUpdated": "2026-08-05T18:38:37.837Z",
   "website": "https://www.fox13news.com/news/choose-and-cut-your-christmas-tree-at-ergle-farm",
-  "tagline": "Choose and cut your Christmas tree at Ergle Farm"
+  "tagline": "Choose and cut your Christmas tree at Ergle Farm",
+  "crops": []
 }

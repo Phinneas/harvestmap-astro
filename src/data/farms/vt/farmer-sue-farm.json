@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.233Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:07.101Z"
     }
   ],
-  "website": null,
+  "website": "https://www.news7newslinc.net/index.php/around-the-nek/st-johnsbury/2273-farmer-by-day-chocolatier-by-night",
   "tagline": "Farmer Sue Farm",
   "description": [
     "Farmer Sue Farm is a farm in South Hero, VT. Visitors come for Tomatoes, Peppers, Green beans, and Peas, best in summer. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Jun – Oct in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.626566998021,
+  "lon": -73.3257389875714
 }

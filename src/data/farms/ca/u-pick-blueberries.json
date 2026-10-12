@@ -19,15 +19,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.779Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:50.210Z"
     }
   ],
-  "website": "https://santamaria-gzcms.preview.gochambermaster.com/list/member/u-pick-blueberries-4834",
+  "website": "https://santamariatimes.com/business/agriculture/u-pick-blueberry-farm-open-for-picking/article_2efdb03c-1057-554b-a5df-5198c7667a29.html",
   "tagline": "Welcome to Santa Barbara Blueberries",
   "description": [
     "An independent u-pick farm in Santa Maria, CA, U-Pick Blueberries grows Strawberries, Blueberries, Blackberries, Apricots, and Plums. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Mar – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 34.89222501166734,
+  "lon": -120.347931990562
 }

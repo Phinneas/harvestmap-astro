@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.027Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:18.748Z"
     }
@@ -23,5 +27,7 @@
     "Jerry or Peggy Everett is a farm in El Paso, AR. Visitors come for Grapes, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Oct in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 35.1080337889064,
+  "lon": -92.0760651920345
 }

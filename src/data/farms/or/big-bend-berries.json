@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.061Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
   ],
-  "website": "https://umpquagrown.com/item/big-bend-berries/",
+  "website": "https://brendasberries.blogspot.com/2024/",
   "tagline": "Big Bend Berries",
   "description": [
     "Big Bend Berries is an berry farm in Roseburg, OR. Visitors come for Blueberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 43.29162700255011,
+  "lon": -123.452027003957
 }

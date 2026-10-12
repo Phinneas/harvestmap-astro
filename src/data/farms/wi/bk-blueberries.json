@@ -7,12 +7,16 @@
   "locationCity": "Stevens Point",
   "locationState": "WI",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://spmetrowire.com/from-cancer-to-cultivation-bk-blueberries-is-a-labor-of-love-and-healing/",
   "phone": "6156205950",
   "crops": [
     "Blueberries"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.591Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
@@ -22,5 +26,7 @@
     "BK Blueberries is a berry farm in Stevens Point, WI. Visitors come for Blueberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.45648099968977,
+  "lon": -89.65403598251474
 }

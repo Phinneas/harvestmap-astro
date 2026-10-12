@@ -7,8 +7,8 @@
   "locationCity": "171 Langford Road",
   "locationState": "SC",
   "locationZipcode": "",
-  "lat": 34.215042,
-  "lon": -80.9717842,
+  "lat": 34.214482634235445,
+  "lon": -80.97112052681392,
   "provenance": [
     {
       "source": "usda",
@@ -17,5 +17,6 @@
   ],
   "usdaLastUpdated": "2026-07-28T19:38:17.800Z",
   "website": "https://blythewoodfarmersmarket.com/events",
-  "tagline": "Events — Blythewood Farmers Market"
+  "tagline": "Events — Blythewood Farmers Market",
+  "crops": []
 }

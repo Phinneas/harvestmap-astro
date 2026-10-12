@@ -7,7 +7,7 @@
   "locationCity": "Monroeville",
   "locationState": "NJ",
   "locationZipcode": "",
-  "website": "https://www.fruitwoodorchardshoney.com",
+  "website": "https://fruitwoodorchardshoney.com/pages/about-our-fruit-farm.htm",
   "phone": "(856) 881-7748",
   "crops": [
     "Strawberries",
@@ -21,6 +21,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.633Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:41.218Z"
     }
@@ -30,5 +34,7 @@
   "description": [
     "In Monroeville, NJ, Fruitwood Farms grows Strawberries, Apples, Pears, Peaches, and Cherries on a working pumpkin patch. The harvest is typically at its peak in autumn. The season runs through spring, autumn, and summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 39.6685610058106,
+  "lon": -75.1874379698129
 }

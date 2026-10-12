@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.070Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
   ],
-  "website": null,
+  "website": "http://www.whittierfruitfarm.com/",
   "tagline": "Wittwer LLC",
   "description": [
     "Wittwer LLC is a berry farm in Parkdale, OR. Visitors come for Blueberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 45.55854022254717,
+  "lon": -121.5968000706898
 }

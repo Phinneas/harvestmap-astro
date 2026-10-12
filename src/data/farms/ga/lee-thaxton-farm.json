@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.360Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:54.842Z"
     }
   ],
-  "website": null,
+  "website": "https://southerngracefarms.com/",
   "tagline": "Lee Thaxton Farm",
   "description": [
     "In Rayle, GA, Lee Thaxton Farm grows Blueberries and Grapes on a small berry farm. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 33.7991245057973,
+  "lon": -83.0031709012753
 }

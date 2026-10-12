@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.449Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:22:19.124Z"
     }
   ],
-  "website": null,
+  "website": "https://www.fiveoaksfarmal.com/",
   "tagline": "Five Oak Farm and Kitchen",
   "description": [
     "A family-run berry farm in Holly Pond, AL, Five Oak Farms grows Strawberries. The farm is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 34.218166467949,
+  "lon": -86.6328123437972
 }

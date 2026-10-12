@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.941Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:49.548Z"
     }
@@ -25,5 +29,7 @@
     "Frank Farms, Inc is an Christmas tree farm in Athens, IL. Visitors come for Corn, Asparagus, and Christmas trees, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Mar – May in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 39.9662364907774,
+  "lon": -89.7133955069661
 }

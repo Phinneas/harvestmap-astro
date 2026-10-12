@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.721Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "Clearbrook Farms is an independent farm in Traverse City, MI. It grows Peaches, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Sep in this growing zone."
-  ]
+  ],
+  "lat": 44.7581734,
+  "lon": -85.6022179
 }

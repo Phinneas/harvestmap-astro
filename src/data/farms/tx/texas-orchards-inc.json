@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.540Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:36.658Z"
     }
   ],
-  "website": null,
+  "website": "https://texas.agricultural-crops.org/200309-texas_orchards_inc.htm",
   "tagline": "Texas Orchards Inc",
   "description": [
     "Texas Orchards Inc is an orchard in Waller, TX. Visitors come for Pears, Peaches, and Figs, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Oct in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 30.057780284518,
+  "lon": -95.933961575275
 }

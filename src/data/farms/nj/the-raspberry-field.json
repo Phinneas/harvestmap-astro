@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.368Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:41.218Z"
     }
@@ -23,5 +27,7 @@
     "A small berry farm in Milford, NJ, The Raspberry Field grows Raspberries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Sep in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 40.6219799340278,
+  "lon": -75.0174244780413
 }

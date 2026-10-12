@@ -19,15 +19,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.575Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:36.658Z"
     }
   ],
-  "website": null,
+  "website": "https://www.farmshareaustin.org/",
   "tagline": "Farmshare Austin — Apples in Cedar Creek, TX",
   "description": [
     "Farmshare Austin is an pumpkin patch in Cedar Creek, TX. Visitors come for Blackberries, Pumpkins, Tomatoes, Peppers, and Flowers, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 30.1937980112302,
+  "lon": -97.5138387240584
 }

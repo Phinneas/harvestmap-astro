@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.030Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:18.748Z"
     }
   ],
-  "website": null,
+  "website": "https://arkansas.agricultural-crops.org/2376-ashleys_blueberry.htm",
   "tagline": "Ashley's Blueberries",
   "description": [
     "Ashley's Blueberries is a berry farm in Eureka Springs, AR. Visitors come for Blueberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 36.3858059527434,
+  "lon": -93.6608352981894
 }

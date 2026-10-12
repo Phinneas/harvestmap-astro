@@ -7,12 +7,16 @@
   "locationCity": "Merrill",
   "locationState": "WI",
   "locationZipcode": "",
-  "website": "https://2berryfarms.com",
+  "website": "https://www.wjfw.com/news/local/its-time-for-us-to-retire-family-run-engelberry-farm-in-merrill-to-close-after/article_3f58bf86-30fc-4aef-a452-7edce459f45f.html",
   "phone": "715-536-9091",
   "crops": [
     "Strawberries"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.529Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
@@ -22,5 +26,7 @@
     "An independent berry farm in Merrill, WI, Engelberry Strawberry Farm grows Strawberries. The farm is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 45.1788739514806,
+  "lon": -89.707225216259
 }

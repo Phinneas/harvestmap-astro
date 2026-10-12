@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.035Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
   ],
-  "website": null,
+  "website": "https://www.ungerfarms.com/",
   "tagline": "Mark Unger Family Farm, Inc",
   "description": [
     "Mark Unger Family Farm, Inc. is an independent berry farm in Cornelius, OR. It grows Blueberries and Corn, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 45.4512677388349,
+  "lon": -123.022241419447
 }

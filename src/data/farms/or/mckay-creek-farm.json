@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.067Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
@@ -23,5 +27,7 @@
     "McKay Creek Farm is a berry farm in North Plains, OR. Visitors come for Blueberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 45.60061698574603,
+  "lon": -122.9851040351135
 }

@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.296Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:41.218Z"
     }
@@ -23,5 +27,7 @@
     "Ash PYO Blueberries (aka, Warren Ash) is an u-pick farm in Pemberton, NJ. Visitors come for Blueberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 39.9527309927869,
+  "lon": -74.6658410200224
 }

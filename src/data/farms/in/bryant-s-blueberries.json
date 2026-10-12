@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.252Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:27:18.483Z"
     }
   ],
-  "website": "http://www.bryantsblueberries.com/",
+  "website": "http://www.bryantsblueberries.com/index.html",
   "tagline": "Bryant's Blueberries",
   "description": [
     "In New Salisbury, IN, Bryant's Blueberries grows Blueberries on a working berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 38.300519,
+  "lon": -86.088252
 }

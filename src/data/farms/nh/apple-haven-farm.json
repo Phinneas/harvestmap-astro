@@ -7,7 +7,7 @@
   "locationCity": "Stewartstown",
   "locationState": "NH",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://applehillfarmnh.com/",
   "phone": "603-246-3438",
   "crops": [
     "Blueberries",
@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.743Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:23.079Z"
     }
@@ -26,5 +30,7 @@
     "A family-run apple orchard in Stewartstown, NH, Apple Haven Farm grows Blueberries, Squash, Tomatoes, Peppers, and Herbs. The orchard is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.952681,
+  "lon": -71.49119
 }

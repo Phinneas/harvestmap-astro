@@ -14,6 +14,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.012Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.545Z"
     }
@@ -24,5 +28,7 @@
     "An independent pumpkin patch in Phoenix, NY, Riverside U-Pick Berries and Pumpkins grows Strawberries and Pumpkins. The patch is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 43.2465466703333,
+  "lon": -76.3495530094411
 }

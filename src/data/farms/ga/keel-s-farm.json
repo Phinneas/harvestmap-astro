@@ -17,14 +17,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.293Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:54.842Z"
     }
   ],
-  "website": null,
+  "website": "https://keelstreefarm.com/portfolio",
   "tagline": "Keel's Farm And The Silos At Keel's Farm, Covington, GA",
   "description": [
     "A small Christmas tree farm in Covington, GA, Keel's Farm grows Blueberries, Pomegranates, Grapes, Pecans, and Christmas trees. The farm is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 33.8069480111341,
+  "lon": -83.7933730257301
 }

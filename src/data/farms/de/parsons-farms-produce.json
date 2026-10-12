@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.169Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:24:38.411Z"
     }
@@ -27,5 +31,7 @@
   "description": [
     "Parsons Farms Produce is a working pumpkin patch in Dagsboro, DE. It grows Strawberries, Blueberries, Apples, Peaches, and Pumpkins, with picking through spring, summer, and autumn. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 38.5416158822981,
+  "lon": -75.2225364616108
 }

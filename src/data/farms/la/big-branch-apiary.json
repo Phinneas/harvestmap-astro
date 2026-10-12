@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:26.218Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:28:27.942Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "Big Branch Apiary is a family-run berry farm in Big Branch, LA. It grows Blueberries, Citrus, and Honey, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 30.32859100044173,
+  "lon": -89.9896609643426
 }

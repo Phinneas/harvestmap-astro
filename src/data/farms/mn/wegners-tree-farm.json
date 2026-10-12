@@ -7,13 +7,17 @@
   "locationCity": "Grand Rapids",
   "locationState": "MN",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://www.redwagonfarm.net/",
   "phone": null,
   "crops": [
     "Blueberries",
     "Christmas trees"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:15.230Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:07.205Z"
@@ -23,5 +27,7 @@
     "A working Christmas tree farm in Grand Rapids, MN, Wegners Tree Farm grows Blueberries and Christmas trees. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 47.156081,
+  "lon": -93.399751
 }

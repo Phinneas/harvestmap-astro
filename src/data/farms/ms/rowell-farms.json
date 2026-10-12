@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:23.836Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:33.920Z"
     }
   ],
-  "website": null,
+  "website": "https://extension.msstate.edu/extension-matters/volume-3-number-2/farm-fresh",
   "tagline": "Rowell Farms",
   "description": [
     "Rowell Farms is a farm in Heidelberg, MS. Visitors come for Squash, Tomatoes, and Peas, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Oct in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 31.884449852205503,
+  "lon": -88.87450578172322
 }

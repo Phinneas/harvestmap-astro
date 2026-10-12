@@ -14,6 +14,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.755Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:38:25.632Z"
     }
@@ -23,5 +27,7 @@
   "description": [
     "Hunter Farms and Greenhouse is a working berry farm in Easley, SC. It grows Strawberries and Herbs, with picking through spring. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 34.8801609803364,
+  "lon": -82.5863540370885
 }

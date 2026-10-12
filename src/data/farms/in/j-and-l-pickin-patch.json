@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.271Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:27:18.483Z"
     }
   ],
-  "website": "https://www.neifood.org/shop-local/jandlpickinpatch",
+  "website": "http://www.iluvlocalplaces.com/jandlpickinpatch.html",
   "tagline": "J & L Pickin' Patch — Northeast Indiana Local Food Network",
   "description": [
     "In Fort Wayne, IN, J and L Pickin' Patch grows Pumpkins and Flowers on a working pumpkin patch. The harvest is typically at its peak in autumn. The season runs through autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Sep – Nov in this growing zone."
-  ]
+  ],
+  "lat": 41.0535509796131,
+  "lon": -85.1456970093519
 }

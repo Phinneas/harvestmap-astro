@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.117Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:47.862Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "Snyder's Farm is a family-run berry farm in Chicora, PA. It grows Strawberries, Raspberries, and Blackberries, with picking through spring and summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 40.9587581936308,
+  "lon": -79.7337740500197
 }

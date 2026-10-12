@@ -7,12 +7,16 @@
   "locationCity": "Unity",
   "locationState": "ME",
   "locationZipcode": "",
-  "website": "https://elliesdaylilies.com",
+  "website": "https://a.assets.dandb.com/businessdirectory/elliesperennialgardens-unity-me-28031062.html",
   "phone": "207-948-2101",
   "crops": [
     "Flowers"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.014Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:28:54.225Z"
@@ -22,5 +26,7 @@
     "Ellie's Perennial Gardens is a farm in Unity, ME. Visitors come for Flowers. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.6390119868512,
+  "lon": -69.3126584260318
 }

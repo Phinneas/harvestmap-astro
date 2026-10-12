@@ -7,7 +7,7 @@
   "locationCity": "Monkton",
   "locationState": "VT",
   "locationZipcode": "",
-  "website": "https://www.lastresortfarm.com",
+  "website": "https://www.nofavt.org/last-resort-farm-0",
   "phone": "802-453-2847",
   "crops": [
     "Strawberries",
@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.115Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:07.101Z"
     }
@@ -29,5 +33,7 @@
     "A small pumpkin patch in Monkton, VT, The Last Resort grows Strawberries, Blueberries, Raspberries, Pumpkins, and Eggplant. The patch is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.283983208385,
+  "lon": -73.0738803628334
 }

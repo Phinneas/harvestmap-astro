@@ -7,7 +7,7 @@
   "locationCity": "Galesville",
   "locationState": "WI",
   "locationZipcode": "",
-  "website": "https://fergusonsorchard.com/galesville-home",
+  "website": "https://www.morningsideorchard.com/faqs",
   "phone": "715-830-9370",
   "crops": [
     "Apples",
@@ -15,6 +15,10 @@
     "Corn"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.469Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
@@ -26,5 +30,7 @@
     "Ferguson's Orchards Galesville is an pumpkin patch in Galesville, WI. Visitors come for Apples, Pumpkins, and Corn, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.0867232430715,
+  "lon": -91.4310039401693
 }

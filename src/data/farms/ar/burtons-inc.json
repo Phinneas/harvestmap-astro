@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:30.948Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:18.748Z"
     }
   ],
-  "website": null,
+  "website": "https://www.exploreccmo.com/visit-local-farms-2/burtons-farm/",
   "tagline": "Burtons, Inc",
   "description": [
     "Burtons, Inc is an independent farm in Tupelo, AR. It grows Corn, with picking through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 35.391113,
+  "lon": -91.230382
 }

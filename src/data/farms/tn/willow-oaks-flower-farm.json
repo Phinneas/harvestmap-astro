@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.340Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:13.166Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "Willow Oaks Flower Farm is an independent farm in Brownsville, TN. It grows Flowers, with picking through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year."
-  ]
+  ],
+  "lat": 35.6103428621496,
+  "lon": -89.256531086928
 }

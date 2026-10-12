@@ -14,6 +14,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.682Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:28:11.100Z"
     }
@@ -22,5 +26,7 @@
     "A small berry farm in Pleasureville, KY, Glover Farms grows Strawberries. The farm is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 38.31671999223377,
+  "lon": -85.0955189974492
 }

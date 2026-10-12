@@ -16,14 +16,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.887Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
   ],
-  "website": "https://www.livelyorchards.com/",
+  "website": "https://livelygrovefarms.com/",
   "tagline": "Lively Orchards",
   "description": [
     "In Flat Rock, NC, Lively Farm Outlet grows Strawberries, Raspberries, Blackberries, and Apples on a working apple orchard. The harvest is typically at its peak in summer. The season runs through spring, summer, and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 35.2913324369239,
+  "lon": -82.3940409096118
 }

@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.889Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:36:19.157Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "In Geneva, OH, You Pick Grapes grows Grapes on an independent winery. The harvest is typically at its peak in autumn. The season runs through autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Oct in this growing zone."
-  ]
+  ],
+  "lat": 41.7459194957678,
+  "lon": -80.9408953924331
 }

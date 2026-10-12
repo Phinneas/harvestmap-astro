@@ -14,15 +14,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.217Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:47.862Z"
     }
   ],
-  "website": null,
+  "website": "https://www.bcwinery.com/",
   "tagline": "Bridge Avenue Berries — Blueberries in Allenwood, PA",
   "description": [
     "A small berry farm in Alum Bank, PA, BC Berries grows Blueberries and Raspberries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 40.15850902076741,
+  "lon": -78.64662895847421
 }

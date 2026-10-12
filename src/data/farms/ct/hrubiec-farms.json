@@ -7,13 +7,17 @@
   "locationCity": "Kensington",
   "locationState": "CT",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://www.surowiecfarm.com/",
   "phone": "860-828-4281",
   "crops": [
     "Blueberries",
     "Christmas trees"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.928Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:24:25.507Z"
@@ -23,5 +27,7 @@
     "A family-run Christmas tree farm in Kensington, CT, Hrubiec Farms grows Blueberries and Christmas trees. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.600257010013,
+  "lon": -72.8124179937003
 }

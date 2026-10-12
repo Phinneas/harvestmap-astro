@@ -7,7 +7,7 @@
   "locationCity": "Newport",
   "locationState": "NH",
   "locationZipcode": "",
-  "website": "https://beaverpondfarm.com",
+  "website": "https://sites.google.com/site/beaverpondfarm",
   "phone": "(603) 543-1107",
   "crops": [
     "Blueberries",
@@ -15,6 +15,10 @@
     "Christmas trees"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.801Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:23.079Z"
@@ -25,5 +29,7 @@
   "description": [
     "In Newport, NH, Beaver Pond Farm grows Blueberries, Raspberries, and Christmas trees on a working Christmas tree farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 43.358103372228,
+  "lon": -72.17748047118
 }

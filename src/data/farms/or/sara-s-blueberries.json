@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.876Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
   ],
-  "website": null,
+  "website": "https://oregon.agricultural-crops.org/173352-saras_blueberries.htm",
   "tagline": "Sara's Blueberries — U",
   "description": [
     "Sara's Blueberries is a berry farm in Hillsboro, OR. Visitors come for Blueberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 45.5132400037317,
+  "lon": -122.926579928744
 }

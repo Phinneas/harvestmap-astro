@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.577Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:36.658Z"
     }
@@ -23,5 +27,7 @@
     "Hill Country Lavender is an farm in Blanco, TX. Visitors come for Lavender. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 30.1150040142774,
+  "lon": -98.4741850376475
 }

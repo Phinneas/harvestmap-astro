@@ -7,7 +7,7 @@
   "locationCity": "Fryeburg",
   "locationState": "ME",
   "locationZipcode": "",
-  "website": "https://www.westonsfarm.com",
+  "website": "https://www.rawsonsfarm.com/",
   "phone": "207-935-2567",
   "crops": [
     "Apples",
@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.903Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:28:54.225Z"
     }
@@ -28,5 +32,7 @@
   "description": [
     "In Fryeburg, ME, Weston's Farm Stand grows Apples, Pumpkins, Squash, Corn, and Flowers on a family-run pumpkin patch. The harvest is typically at its peak in autumn. The season runs through autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 44.0157730616703,
+  "lon": -70.987750175869
 }

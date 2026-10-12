@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.022Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
   ],
-  "website": null,
+  "website": "https://bellevuewa.gov/city-government/departments/parks/nature-and-environment/farms-gardens/blueberry-farms",
   "tagline": "Fitchett's U",
   "description": [
     "In Albany, OR, Fitchett's U-Pick Blueberries grows Blueberries on a family-run u-pick farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 44.6353995652365,
+  "lon": -123.125478970075
 }

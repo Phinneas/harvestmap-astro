@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.896Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.323Z"
     }
   ],
-  "website": "https://www.ocalamarion.com/directory/cannon-farms/",
+  "website": "https://cannonfarms.net/",
   "tagline": "Cannon Farms",
   "description": [
     "A family-run farm in Dunnellon, FL, Cannon Farms grows Corn, Flowers, Sunflowers, and Honey. The farm is busiest through much of the year. Check the website for current hours and availability.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 29.04972729685405,
+  "lon": -82.41894689278952
 }

@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.677Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:22:19.124Z"
     }
   ],
-  "website": null,
+  "website": "https://pleasantpastureshoney.com/pages/about-us",
   "tagline": "Pleasant Pastures",
   "description": [
     "Pleasant Pastures is an berry farm in Andalusia, AL. Visitors come for Strawberries, Tomatoes, and Honey, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 31.15886176104605,
+  "lon": -86.59567473196968
 }

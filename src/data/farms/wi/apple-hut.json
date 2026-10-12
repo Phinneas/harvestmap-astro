@@ -7,7 +7,7 @@
   "locationCity": "Beloit",
   "locationState": "WI",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://www.suttersridge.com/plan-your-visit",
   "phone": null,
   "crops": [
     "Raspberries",
@@ -17,6 +17,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.495Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
@@ -25,5 +29,7 @@
     "Apple Hut is an pumpkin patch in Beloit, WI. Visitors come for Raspberries, Apples, Pumpkins, and Honey, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Sep in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.5654899899687,
+  "lon": -89.058407968403
 }

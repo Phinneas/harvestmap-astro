@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.540Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
@@ -24,5 +28,7 @@
     "Hazeltine Strawberries is a berry farm in Janesville, WI. Visitors come for Strawberries, Raspberries, and Asparagus, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.68789,
+  "lon": -89.01821
 }

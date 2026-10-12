@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.337Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:54.842Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "In Carrollton, GA, Taylor Blueberry Farm grows Blueberries on a working berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 33.5314579836705,
+  "lon": -85.0155890011301
 }

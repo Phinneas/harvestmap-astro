@@ -7,7 +7,7 @@
   "locationCity": "Ashland City",
   "locationState": "TN",
   "locationZipcode": "",
-  "website": "https://www.no9farms.com",
+  "website": "https://n09farms.com/about",
   "phone": "615-545-0925",
   "crops": [
     "Blueberries",
@@ -16,6 +16,10 @@
     "Eggs"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.313Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:13.166Z"
@@ -26,5 +30,7 @@
   "description": [
     "No. 9 Farms is an independent berry farm in Ashland City, TN. It grows Blueberries, Herbs, Flowers, and Eggs, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 36.2428541022912,
+  "lon": -86.9940107914047
 }

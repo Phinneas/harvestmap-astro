@@ -14,6 +14,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.382Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.546Z"
     }
@@ -24,5 +28,7 @@
     "Maple Ridge Fruit Farm is an apple orchard in Newark, NY. Visitors come for Strawberries and Apples, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 43.1284250612969,
+  "lon": -77.0975447060063
 }

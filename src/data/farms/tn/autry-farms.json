@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.347Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:13.166Z"
     }
   ],
-  "website": null,
+  "website": "https://andys.farm/about-us",
   "tagline": "Autry Farms",
   "description": [
     "In Brownsville, TN, Autry Farms grows Strawberries on a small berry farm. The harvest is typically at its peak in spring. The season runs through spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 35.5903572125982,
+  "lon": -89.2408680550138
 }

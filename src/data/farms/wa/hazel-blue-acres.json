@@ -12,15 +12,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.153Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:59.975Z"
     }
   ],
-  "website": "https://hazelblueacres.com/",
+  "website": "https://www.heraldnet.com/2018/07/08/hazel-blue-acres-blueberries-with-a-silvana-familys-touch/",
   "tagline": "Hazel Blue Acres – Certified Organic Blueberries",
   "description": [
     "Hazel Blue Acres is a small berry farm in Arlington, WA. It grows Blueberries, with picking through summer. The harvest is typically at its peak in summer. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 48.1996579925528,
+  "lon": -122.223491036437
 }

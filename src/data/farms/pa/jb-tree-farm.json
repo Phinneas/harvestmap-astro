@@ -22,15 +22,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.142Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:47.862Z"
     }
   ],
-  "website": "https://www.jbtreefarm.com/",
+  "website": "https://www.jbtreefarm.com/educational.html",
   "tagline": "JB Tree Farm",
   "description": [
     "An independent pumpkin patch in Alexandria, PA, JB Tree Farm grows Strawberries, Blueberries, Raspberries, Blackberries, and Pumpkins. The patch is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 40.5428759849364,
+  "lon": -78.1905520047017
 }

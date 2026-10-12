@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.212Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:07.101Z"
     }
   ],
-  "website": "https://normanridgeblueberries.com/",
+  "website": "https://blueberries4you.com/about-us",
   "tagline": "Norman Ridge Blueberries",
   "description": [
     "Blueberry Ridge is an berry farm in Troy, VT. Visitors come for Blueberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.9915382330066,
+  "lon": -72.3861462630128
 }

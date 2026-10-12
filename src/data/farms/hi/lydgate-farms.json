@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:08.952Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:15.979Z"
     }
   ],
-  "website": "https://lydgatefarms.com/",
+  "website": "https://lydgatefarms.com/our-story/",
   "tagline": "Lydgate Farms",
   "description": [
     "Lydgate Farms is a working farm in Kapaa, HI. It grows Honey, with picking through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 22.0807409387664,
+  "lon": -159.341762410437
 }

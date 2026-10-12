@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.827Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
   ],
-  "website": null,
+  "website": "https://www.gibsonfarms.ca/",
   "tagline": "Gibson Farms In Siletz OR",
   "description": [
     "A family-run berry farm in Siletz, OR, Gibson Farms grows Blueberries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.7220050000001,
+  "lon": -123.92171
 }

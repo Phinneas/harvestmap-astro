@@ -17,15 +17,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.451Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:27:18.483Z"
     }
   ],
-  "website": null,
+  "website": "https://www.onlyinyourstate.com/nature/indiana/pick-your-own-strawberries-in",
   "tagline": "Berry Best Farm In Nabb IN",
   "description": [
     "Berry Best Farm is a pumpkin patch in Nabb, IN. Visitors come for Strawberries, Pumpkins, Corn, Tomatoes, and Asparagus, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 38.60268500568469,
+  "lon": -85.5248420059331
 }

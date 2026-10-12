@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.591Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
   ],
-  "website": "https://northstarorganics.com/",
+  "website": "https://www.traversecity.com/listings/north-star-organics/6014/",
   "tagline": "North Star Organics",
   "description": [
     "North Star Organics is a small berry farm in Fennville, MI. It grows Blueberries, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 44.6016490351868,
+  "lon": -86.1598705346896
 }

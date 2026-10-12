@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:10.881Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:36:19.157Z"
     }
   ],
-  "website": null,
+  "website": "https://www.afamilyfarm.com/about-us",
   "tagline": "Aufdenkampe Family Farm",
   "description": [
     "In Vermilion, OH, Aufdenkampe Family Farm grows Strawberries on a family-run berry farm. The harvest is typically at its peak in spring. The season runs through spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 41.3774910746106,
+  "lon": -82.3225128955535
 }

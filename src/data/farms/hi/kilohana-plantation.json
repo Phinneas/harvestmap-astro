@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:08.901Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:15.979Z"
     }
   ],
-  "website": "https://www.kilohanakauai.com/plantation-train",
+  "website": "https://www.aaa.com/travelinfo/hawaii/lihue/attractions/kilohana-plantation-547094.html",
   "tagline": "Plantation Train",
   "description": [
     "Kilohana Plantation is an independent farm in Lihue, HI. It grows Mango and Herbs, with picking through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year."
-  ]
+  ],
+  "lat": 21.9635489354337,
+  "lon": -159.417455627391
 }

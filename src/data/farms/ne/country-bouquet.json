@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.756Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:32:34.673Z"
     }
   ],
-  "website": null,
+  "website": "https://crispcountryacres.com/u-pick/",
   "tagline": "Country Bouquet",
   "description": [
     "In Fort Calhoun, NE, Country Bouquet grows Flowers on a small farm. The season runs through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.4316187284175,
+  "lon": -96.0356552536624
 }

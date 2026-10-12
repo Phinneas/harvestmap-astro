@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.656Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:36.658Z"
     }
   ],
-  "website": "http://blueberryhillfarms.com/",
+  "website": "http://blueberryhillfarms.com/home.html",
   "tagline": "Blueberries  blackberries  Texa blueberry farm  farms  Pick your own, Pick 'n Edom Edom, TX Home",
   "description": [
     "Blueberry Farms is a u-pick farm in Nacodoches, TX. Visitors come for Blueberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 31.6581060186299,
+  "lon": -94.579383020559
 }

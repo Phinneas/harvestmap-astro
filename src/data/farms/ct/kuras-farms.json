@@ -7,7 +7,7 @@
   "locationCity": "West Suffield",
   "locationState": "CT",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://allpeople.com/chester+kuras_kuras-berry-farms-us",
   "phone": "(860) 668-2942",
   "crops": [
     "Blueberries",
@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.930Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:24:25.507Z"
     }
@@ -23,5 +27,7 @@
   "description": [
     "Kuras Farms is a family-run berry farm in West Suffield, CT. It grows Blueberries, Raspberries, and Tomatoes, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 41.9848742310539,
+  "lon": -72.6848356055922
 }

@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.677Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:22:19.124Z"
     }
@@ -23,5 +27,7 @@
     "An independent berry farm in Russellville, AL, Oliver Farms grows Strawberries. The farm is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 34.47020371551866,
+  "lon": -87.76713180113336
 }

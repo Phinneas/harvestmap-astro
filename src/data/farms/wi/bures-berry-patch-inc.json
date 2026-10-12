@@ -7,7 +7,7 @@
   "locationCity": "Barneveld",
   "locationState": "WI",
   "locationZipcode": "",
-  "website": "https://www.buresberrypatch.com",
+  "website": "https://www.travelwisconsin.com/things-to-do/farm-fresh-experiences/pick-your-own/bures-berry-patch-inc",
   "crops": [
     "Strawberries",
     "Raspberries",
@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.436Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
@@ -26,5 +30,7 @@
   "description": [
     "Bures Berry Patch, Inc. is a small pumpkin patch in Barneveld, WI. It grows Strawberries, Raspberries, Pumpkins, Squash, and Corn, with picking through spring, summer, and autumn. The harvest is typically at its peak in spring. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 42.9809996920111,
+  "lon": -89.9562679745894
 }

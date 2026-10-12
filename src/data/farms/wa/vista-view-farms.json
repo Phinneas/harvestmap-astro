@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.251Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:59.976Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "In La Center, WA, Vista View Farms grows Strawberries on a small berry farm. The harvest is typically at its peak in spring. The season runs through spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 45.8950121616493,
+  "lon": -122.628919709064
 }

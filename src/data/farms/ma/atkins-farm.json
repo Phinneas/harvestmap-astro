@@ -7,12 +7,16 @@
   "locationCity": "Amherst",
   "locationState": "MA",
   "locationZipcode": "",
-  "website": "https://www.atkinsfarms.com",
+  "website": "https://atkinsfarms.com/",
   "phone": "(413) 253-9528",
   "crops": [
     "Apples"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.697Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:29:34.313Z"
@@ -22,5 +26,7 @@
     "A working apple orchard in Amherst, MA, Atkins Farm grows Apples. The orchard is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.3509442622051,
+  "lon": -72.5200116086556
 }

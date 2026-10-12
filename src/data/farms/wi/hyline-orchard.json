@@ -7,7 +7,7 @@
   "locationCity": "Fish Creek",
   "locationState": "WI",
   "locationZipcode": "",
-  "website": "https://www.hylineorchards.com",
+  "website": "https://doorcountypulse.com/know-your-grower-hyline-orchard-farm-market/",
   "phone": "920-868-3067",
   "crops": [
     "Raspberries",
@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.483Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
@@ -27,5 +31,7 @@
   "description": [
     "In Fish Creek, WI, Hyline Orchard grows Raspberries, Apples, Cherries, Pumpkins, and Corn on a working pumpkin patch. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Sep in this growing zone."
-  ]
+  ],
+  "lat": 45.0707369973281,
+  "lon": -87.2589150291211
 }

@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:42.461Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
   ],
-  "website": null,
+  "website": "https://thederbyfarmnc.com/",
   "tagline": "The Farm Dobson",
   "description": [
     "The Farm is a pumpkin patch in Dobson, NC. Visitors come for Strawberries, Pumpkins, and Corn, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 36.3341786089978,
+  "lon": -80.664537782159
 }

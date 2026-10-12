@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.034Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:28:54.225Z"
     }
   ],
-  "website": null,
+  "website": "https://spillerfarm.com/",
   "tagline": "Country Junction",
   "description": [
     "Country Junction is a family-run farm in Bradford, ME. It grows Flowers, with picking through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 45.08765046788,
+  "lon": -68.9485650173908
 }

@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.257Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:27:18.483Z"
     }
   ],
-  "website": "https://www.deckersberries.com/",
+  "website": "https://www.neifood.org/shop-local/cordes-berry-farm",
   "tagline": "Decker's Berries",
   "description": [
     "Decker's Berries is an berry farm in Hazleton, IN. Visitors come for Blueberries, Raspberries, and Blackberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 38.4881723,
+  "lon": -87.5413177999999
 }

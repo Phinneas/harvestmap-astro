@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.363Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:54.842Z"
     }
   ],
-  "website": "https://serenbefarms.com/serenbe-farms",
+  "website": "https://serenbefarms.com/what-is-a-csa",
   "tagline": "Serenbe Farms — Serenbe Farms",
   "description": [
     "Serenbe Farms is a farm in Hill Country, GA. Visitors come for Herbs, Flowers, and Eggs. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 33.5409459225412,
+  "lon": -84.7250449945976
 }

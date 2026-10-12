@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.653Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:22:19.124Z"
     }
   ],
-  "website": null,
+  "website": "https://gardnersberryfarm.com/",
   "tagline": "Max & Lydia Blackbur",
   "description": [
     "Blackburn is a berry farm in Warrior, AL. Visitors come for Blueberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 33.8057630154331,
+  "lon": -86.8379060303969
 }

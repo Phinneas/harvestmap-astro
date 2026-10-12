@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.027Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:24:25.507Z"
     }
@@ -21,5 +25,7 @@
     "Gilson Farm Greenhouses is a berry farm in Windsorville, CT. Visitors come for Blueberries, best in summer. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.8843049983886,
+  "lon": -72.540033968417
 }

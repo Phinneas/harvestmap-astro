@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.896Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.322Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "Blueberry Lane Farm is an independent berry farm in Cantonment, FL. It grows Blueberries, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 30.66675201089436,
+  "lon": -87.3464189969685
 }

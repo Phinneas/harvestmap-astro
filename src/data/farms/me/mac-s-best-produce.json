@@ -15,14 +15,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:52.029Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:28:54.225Z"
     }
   ],
-  "website": null,
+  "website": "https://www.baersbest.com/",
   "tagline": "Mac's Best Produce",
   "description": [
     "Mac's Best Produce is a small apple orchard in Benedicta, ME. It grows Blueberries, Raspberries, and Apples, with picking through summer and autumn. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 45.8214109837177,
+  "lon": -68.4170776365404
 }

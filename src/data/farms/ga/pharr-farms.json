@@ -17,15 +17,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.308Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:54.842Z"
     }
   ],
-  "website": null,
+  "website": "https://papershellfarms.com/",
   "tagline": "Pharr Farms, LLC",
   "description": [
     "Pharr Farms is a pumpkin patch in Winder, GA. Visitors come for Strawberries, Blueberries, Blackberries, Pumpkins, and Corn, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 33.9608889929768,
+  "lon": -83.6833399737642
 }

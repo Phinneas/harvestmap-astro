@@ -14,15 +14,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.886Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
   ],
-  "website": null,
+  "website": "https://north-carolina.agricultural-crops.org/123420-bonnie_s_berries.htm",
   "tagline": "Bonnie's Berries",
   "description": [
     "A small berry farm in Stella, NC, Bonnie's Berries grows Strawberries and Corn. The farm is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 34.7775662759214,
+  "lon": -77.1308237952789
 }

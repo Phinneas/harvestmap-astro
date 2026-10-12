@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.676Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:22:19.124Z"
     }
   ],
-  "website": "https://www.upickatlas.com/farms/alabama/hines-family-farm-llc",
+  "website": "https://alabamafarms.com/directory/hines-family-farm/",
   "tagline": "Hines Family Farm LLC — Killen, AL U",
   "description": [
     "Hines Family Farm is an independent berry farm in Killen, AL. It grows Strawberries and Tomatoes, with picking through spring and summer. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 34.97596198458967,
+  "lon": -87.51771299518538
 }

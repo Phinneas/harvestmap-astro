@@ -16,12 +16,18 @@
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:49.548Z"
+    },
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.854Z"
     }
   ],
-  "website": null,
+  "website": "https://illinois.agricultural-crops.org/51611-clark_greenhouse.htm",
   "tagline": "Clark's Greenhouse & Herbal Country",
   "description": [
     "A small farm in San Jose, IL, Clark's Greenhouse & Herbal Country grows Herbs and Flowers. The farm is busiest through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year."
-  ]
+  ],
+  "lat": 40.2840417361114,
+  "lon": -89.5832106905624
 }

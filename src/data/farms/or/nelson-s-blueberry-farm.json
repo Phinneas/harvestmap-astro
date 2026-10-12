@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.052Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
   ],
-  "website": null,
+  "website": "http://nelsonsfarmmarket.com/aboutus.html",
   "tagline": "Nelson's Blueberry Farm – All The Farms",
   "description": [
     "A working berry farm in Mount Hood, OR, Nelson's Blueberry Farm grows Blueberries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 45.5416006528509,
+  "lon": -121.586557567957
 }

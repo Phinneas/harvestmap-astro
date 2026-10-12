@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.715Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:36.658Z"
     }
   ],
-  "website": "https://the-blueberry-farm.com/",
+  "website": "http://blueberryhillfarms.com/home.html",
   "tagline": "The Blueberry Farm in East Texas",
   "description": [
     "A family-run berry farm in Livingston, TX, The Blueberry Farm Livingston grows Blueberries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 30.53018444708091,
+  "lon": -94.72114229328983
 }

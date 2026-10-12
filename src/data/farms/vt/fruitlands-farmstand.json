@@ -7,13 +7,17 @@
   "locationCity": "Marshfield",
   "locationState": "VT",
   "locationZipcode": "",
-  "website": "https://www.fruitlands.net",
+  "website": "https://www.fruitlands.net/about",
   "phone": "802-426-3889",
   "crops": [
     "Blueberries",
     "Raspberries"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.111Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:07.101Z"
@@ -24,5 +28,7 @@
   "description": [
     "In Marshfield, VT, Fruitlands Farmstand grows Blueberries and Raspberries on a family-run berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 44.3730500081428,
+  "lon": -72.3096519952219
 }

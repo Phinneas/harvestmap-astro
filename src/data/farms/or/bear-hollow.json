@@ -20,14 +20,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:56.801Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
   ],
-  "website": null,
+  "website": "https://bearfruitberries.com/about/",
   "tagline": "Bear Hollow",
   "description": [
     "In Banks, OR, Bear Hollow grows Blueberries, Apples, Pears, Peaches, and Nectarines on a family-run apple orchard. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 45.3220714026487,
+  "lon": -122.895622219154
 }

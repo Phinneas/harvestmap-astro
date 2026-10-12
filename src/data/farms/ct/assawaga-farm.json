@@ -7,7 +7,7 @@
   "locationCity": "Plainfield",
   "locationState": "CT",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://www.assawagafarm.com/",
   "phone": null,
   "crops": [
     "Blueberries",
@@ -17,6 +17,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.000Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:24:25.507Z"
     }
@@ -25,5 +29,7 @@
     "Assawaga Farm is a apple orchard in Plainfield, CT. Visitors come for Blueberries, Apples, Herbs, and Flowers, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.9204110102357,
+  "lon": -71.8264340198722
 }

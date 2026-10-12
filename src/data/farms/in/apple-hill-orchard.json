@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.428Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:27:18.483Z"
     }
   ],
-  "website": null,
+  "website": "https://secretcharlotte.co/apple-hill-orchard-north-carolina/",
   "tagline": "Apple Hill Orchard, 6235 N Ford Road, Bruceville, IN (2026)",
   "description": [
     "Apple Hill Orchard is a apple orchard in Bruceville, IN. Visitors come for Apples, Peaches, and Nectarines, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 38.7663316383674,
+  "lon": -87.4666403628723
 }

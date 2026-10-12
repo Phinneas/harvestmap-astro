@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.675Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:36.658Z"
     }
   ],
-  "website": null,
+  "website": "https://sandyforkpastures.com/",
   "tagline": "Sandy Foot Farm",
   "description": [
     "In Livingston, TX, Sandy Foot Farm grows Blueberries on a working berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 30.6137653446475,
+  "lon": -94.8377256127556
 }

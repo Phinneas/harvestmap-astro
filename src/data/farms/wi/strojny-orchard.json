@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.584Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
   ],
-  "website": null,
+  "website": "https://doorcountypulse.com/know-your-grower-hyline-orchard-farm-market/",
   "tagline": "Strojny Orchard",
   "description": [
     "A working apple orchard in Oostburg, WI, Strojny Orchard grows Apples, Pears, and Peaches. The orchard is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 43.6192291791587,
+  "lon": -87.8295488019384
 }

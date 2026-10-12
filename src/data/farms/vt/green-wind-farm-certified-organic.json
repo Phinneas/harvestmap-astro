@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.211Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:07.101Z"
     }
   ],
-  "website": "https://vermontbiz.com/news/2019/june/12/green-wind-farm-kicks-new-ownership-cattle-transition",
+  "website": "https://www.nodpa.com/n/619/Green-Wind-Farm-Fairfield-VT",
   "tagline": "Green Wind Farm kicks off new ownership with cattle transition",
   "description": [
     "Green Wind Farm - CERTIFIED ORGANIC is a berry farm in Enosburg Falls, VT. Visitors come for Strawberries, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.8683841846233,
+  "lon": -72.9306245484005
 }

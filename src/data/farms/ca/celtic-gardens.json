@@ -16,15 +16,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.827Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:50.210Z"
     }
   ],
-  "website": null,
+  "website": "https://www.stonesoupfarmca.com/upick",
   "tagline": "Celtic Gardens",
   "description": [
     "A working apple orchard in Camino, CA, Celtic Gardens grows Blackberries, Apples, Pears, and Grapes. The orchard is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from May – Jul in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 38.7596866450616,
+  "lon": -120.711114149403
 }

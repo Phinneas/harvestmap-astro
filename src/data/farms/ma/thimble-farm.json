@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.840Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:29:34.313Z"
     }
@@ -23,5 +27,7 @@
     "A small winery in Vineyard Haven, MA, Thimble Farm grows Strawberries and Raspberries. The winery is busiest in spring. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.4238720660552,
+  "lon": -70.6197325313534
 }

@@ -7,7 +7,7 @@
   "locationCity": "Princeton",
   "locationState": "MN",
   "locationZipcode": "",
-  "website": "https://www.jqfruitfarm.com",
+  "website": "https://minuteman.com/us/locations/mn/princeton/news/u-pick-apples-available-at-princeton-farm-290306",
   "phone": "763-389-2567",
   "crops": [
     "Blueberries",
@@ -15,6 +15,10 @@
     "Apples"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.796Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:07.205Z"
@@ -24,5 +28,7 @@
     "J Q Fruit Farm is a apple orchard in Princeton, MN. Visitors come for Blueberries, Raspberries, and Apples, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 45.5913779380646,
+  "lon": -93.5794163814651
 }

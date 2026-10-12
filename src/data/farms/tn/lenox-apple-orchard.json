@@ -15,14 +15,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.344Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:13.166Z"
     }
   ],
-  "website": null,
+  "website": "https://www.hilltoporchards.com/about",
   "tagline": "Lenox Apple Orchard",
   "description": [
     "In Dyersburg, TN, Lenox Apple Orchard grows Blueberries, Blackberries, and Apples on a small apple orchard. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 36.0948269935766,
+  "lon": -89.4891470156094
 }

@@ -7,7 +7,7 @@
   "locationCity": "Rochester",
   "locationState": "MN",
   "locationZipcode": "",
-  "website": "https://www.sekapporchard.com",
+  "website": "https://www.mystatemls.com/property/3415-college-view-road-e-rochester-mn-55904/11227478/",
   "phone": "(507) 282-4544",
   "crops": [
     "Apples",
@@ -17,6 +17,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.753Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:07.205Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "In Rochester, MN, Sekapp Orchard grows Apples, Pumpkins, Corn, and Honey on a family-run pumpkin patch. The harvest is typically at its peak in autumn. The season runs through autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 44.0218900069696,
+  "lon": -92.4113760201313
 }

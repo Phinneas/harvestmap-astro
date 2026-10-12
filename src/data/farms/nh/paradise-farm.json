@@ -7,7 +7,7 @@
   "locationCity": "Lyndeborough",
   "locationState": "NH",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://paradisefarmnh.com/",
   "phone": "603-345-0860",
   "crops": [
     "Blueberries",
@@ -17,6 +17,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.789Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:23.079Z"
     }
@@ -25,5 +29,7 @@
     "A working berry farm in Lyndeborough, NH, Paradise Farm grows Blueberries, Raspberries, Honey, and Eggs. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.8747410200884,
+  "lon": -71.7277609984054
 }

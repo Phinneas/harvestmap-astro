@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.615Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "In Bangor, MI, Understory Farm and Orchard grows Blueberries, Apples, and Cherries on a small apple orchard. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 42.3024298874923,
+  "lon": -86.0717000002375
 }

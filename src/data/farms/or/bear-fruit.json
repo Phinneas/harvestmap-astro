@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.061Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
   ],
-  "website": "https://bearfruitberries.com/",
+  "website": "https://www.bearfruitfarm.com/",
   "tagline": "Bear Fruit Farms",
   "description": [
     "Bear Fruit is a family-run berry farm in Harrisburg, OR. It grows Blueberries, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 44.20704100942567,
+  "lon": -123.1511079627793
 }

@@ -17,6 +17,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.720Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:58.887Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "In Saint Clair, MO, Huckleberry Hollow Blueberry Farm grows Blueberries, Raspberries, Blackberries, and Pumpkins on a working pumpkin patch. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 38.3073057912344,
+  "lon": -90.9874145291774
 }

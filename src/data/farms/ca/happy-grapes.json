@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.823Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:50.210Z"
     }
   ],
-  "website": null,
+  "website": "https://www.farmtrails.org/business/pqr/",
   "tagline": "Happy Grapes",
   "description": [
     "Happy Grapes is an independent farm in Atascadero, CA. It grows Grapes, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jul – Oct in this growing zone."
-  ]
+  ],
+  "lat": 35.4460261154978,
+  "lon": -120.613372431887
 }

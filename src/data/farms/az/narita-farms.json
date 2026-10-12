@@ -21,6 +21,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:10.836Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:22:49.079Z"
     }
@@ -30,5 +34,7 @@
   "description": [
     "Narita Farms is a family-run berry farm in Willcox, AZ. It grows Strawberries, Squash, Corn, Tomatoes, and Peppers, with picking through spring and summer. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 32.1740621826364,
+  "lon": -109.704365957236
 }

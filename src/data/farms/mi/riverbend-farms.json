@@ -14,15 +14,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:46.148Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
   ],
-  "website": null,
+  "website": "http://lakeshoreharvestcountry.com/farms.html",
   "tagline": "Riverbend Farms — South Haven, MI",
   "description": [
     "Riverbend Farms is a berry farm in South Haven, MI. Visitors come for Raspberries and Blackberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Sep in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.4254424,
+  "lon": -86.246094
 }

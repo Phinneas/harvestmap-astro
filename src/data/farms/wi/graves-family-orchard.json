@@ -7,13 +7,17 @@
   "locationCity": "Brownsville",
   "locationState": "WI",
   "locationZipcode": "",
-  "website": "https://www.gravesorchard.com",
+  "website": "https://business.wilocalfood.org/directory/Details/graves-family-orchard-4133882",
   "phone": "920-273-1665",
   "crops": [
     "Apples",
     "Pumpkins"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.593Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
@@ -24,5 +28,7 @@
   "description": [
     "Graves Family Orchard is a small pumpkin patch in Brownsville, WI. It grows Apples and Pumpkins, with picking through autumn. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 43.61732383902662,
+  "lon": -88.56966845935591
 }

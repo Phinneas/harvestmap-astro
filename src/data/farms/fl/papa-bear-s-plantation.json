@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.887Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.323Z"
     }
@@ -23,5 +27,7 @@
     "A small farm in Ocala, FL, Papa Bear's Plantation grows Pecans. The farm is busiest through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 29.2897864940063,
+  "lon": -82.1257895799939
 }

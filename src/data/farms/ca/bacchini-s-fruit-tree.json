@@ -20,15 +20,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.807Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:50.210Z"
     }
   ],
-  "website": "https://bacchinisfarm.com/",
+  "website": "https://bacchinisfarm.com/faq/",
   "tagline": "Home/Available to Pick",
   "description": [
     "A family-run farm in Brentwood, CA, Bacchini's Fruit Tree grows Peaches, Nectarines, Apricots, Plums, and Cherries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from May – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 37.9038600055053,
+  "lon": -121.696237364888
 }

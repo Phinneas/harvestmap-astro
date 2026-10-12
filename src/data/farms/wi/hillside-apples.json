@@ -14,15 +14,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.515Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
   ],
-  "website": "https://hillsideapples.com/about-us",
+  "website": "https://hillsideapples.com/services",
   "tagline": "Harvesting memories since 1997",
   "description": [
     "A small apple orchard in Casco, WI, Hillside Apples grows Apples and Honey. The orchard is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.5556819972376,
+  "lon": -87.6556740084922
 }

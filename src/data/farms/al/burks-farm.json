@@ -14,6 +14,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.493Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:22:19.124Z"
     }
@@ -23,5 +27,7 @@
   "description": [
     "In Cullman, AL, Burks Farm grows Strawberries and Pumpkins on a small pumpkin patch. The harvest is typically at its peak in spring. The season runs through spring and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 34.2235758702791,
+  "lon": -86.7380114797054
 }

@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:17.824Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.545Z"
     }
   ],
-  "website": "https://altamontorchards.com/about-us/",
+  "website": "https://altamontorchards.com/",
   "tagline": "Altamont Orchards Inc · 6654 Dunnsville Rd, Altamont, NY 12009",
   "description": [
     "A family-run pumpkin patch in Altamont, NY, Altamont Orchards, Inc grows Strawberries, Apples, and Pumpkins. The patch is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.7295280167328,
+  "lon": -74.0128055642809
 }

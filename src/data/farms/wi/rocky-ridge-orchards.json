@@ -15,14 +15,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.568Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
   ],
-  "website": null,
+  "website": "https://rockyridgeorchard.com/",
   "tagline": "Rocky Ridge Orchards, 3482 County Rd E, Baileys Harbor, WI 54202",
   "description": [
     "Rocky Ridge Orchards is an independent apple orchard in Baileys Harbor, WI. It grows Apples, Cherries, and Honey, with picking through autumn and summer. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 45.0546670030126,
+  "lon": -87.1992780394849
 }

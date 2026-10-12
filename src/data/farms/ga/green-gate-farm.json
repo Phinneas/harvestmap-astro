@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.288Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:54.842Z"
     }
   ],
-  "website": "https://www.greengatefarmllc.com/",
+  "website": "https://www.greengatefarmllc.com/general-6",
   "tagline": "Green Gate Farm",
   "description": [
     "Green Gate Farm is a small pumpkin patch in Griffin, GA. It grows Pumpkins and Flowers, with picking through autumn. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Sep – Nov in this growing zone."
-  ]
+  ],
+  "lat": 33.1825020039373,
+  "lon": -84.2151279767114
 }

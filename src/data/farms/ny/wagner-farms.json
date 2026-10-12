@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.435Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.546Z"
     }
   ],
-  "website": null,
+  "website": "https://wagnervineyards.com/",
   "tagline": "Wagner Farms",
   "description": [
     "Wagner Farms is an apple orchard in Valois, NY. Visitors come for Apples, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.5848701728657,
+  "lon": -76.8213603454761
 }

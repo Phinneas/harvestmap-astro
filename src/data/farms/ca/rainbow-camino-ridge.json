@@ -7,7 +7,7 @@
   "locationCity": "Camino",
   "locationState": "CA",
   "locationZipcode": "",
-  "website": "https://rainboworchards.net",
+  "website": "https://foodwise.org/sellers/rainbow-orchards/",
   "phone": "(530) 644-1594",
   "crops": [
     "Blueberries",
@@ -15,6 +15,10 @@
     "Peaches"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.756Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:50.210Z"
@@ -24,5 +28,7 @@
     "Rainbow Camino Ridge is a apple orchard in Camino, CA. Visitors come for Blueberries, Apples, and Peaches, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from May – Jul in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 38.7256442255803,
+  "lon": -120.671827262385
 }

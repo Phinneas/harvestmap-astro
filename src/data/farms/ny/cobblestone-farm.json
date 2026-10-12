@@ -7,7 +7,7 @@
   "locationCity": "Hilton",
   "locationState": "NY",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://rochester.kidsoutandabout.com/content/cobblestone-farm",
   "phone": null,
   "crops": [
     "Apples",
@@ -20,6 +20,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.005Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.546Z"
     }
@@ -28,5 +32,7 @@
     "An independent pumpkin patch in Hilton, NY, Cobblestone Farm grows Apples, Pears, Pumpkins, Squash, and Corn. The patch is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 43.2657619130931,
+  "lon": -77.7522736398119
 }

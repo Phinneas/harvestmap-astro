@@ -15,14 +15,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.797Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.323Z"
     }
   ],
-  "website": "https://www.farmermikesupick.com/u-pick-general",
+  "website": "https://maps.apple.com/place?address=26031+Morton+Ave%2C+Bonita+Springs%2C+FL++34135%2C+United+States&coordinate=26.3588734%2C-81.7506974&name=Farmer+Mike%27s+U+Pick&place-id=I7829B01163722285&_provider=9902",
   "tagline": "Farmer Mike's U",
   "description": [
     "Farmer Mike's U-Pick is an independent u-pick farm in Bonita Springs, FL. It grows Strawberries, Corn, and Tomatoes, with picking through spring and summer. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 26.3533047065179,
+  "lon": -81.7509209573138
 }

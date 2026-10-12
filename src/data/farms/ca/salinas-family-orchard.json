@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.849Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:50.210Z"
     }
   ],
-  "website": null,
+  "website": "https://edibleriograndevalley.com/spring-2024/strawberries-and-families-thrive-at-salinas-family-farm/",
   "tagline": "Salinas Family Orchard",
   "description": [
     "An independent orchard in Littlerock, CA, Salinas Family Orchard grows Peaches. The orchard is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from May – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 34.53354799399783,
+  "lon": -117.9869699748172
 }

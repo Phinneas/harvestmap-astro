@@ -23,13 +23,19 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.669Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:36.658Z"
     }
   ],
-  "website": null,
+  "website": "https://texas.agricultural-crops.org/195603-gallagher_farms.htm",
   "tagline": "Gallaghers Apple Orchard",
   "description": [
     "In Idalou, TX, Gallaghers Apple Orchard, May have closed grows Apples, Peaches, Cherries, Citrus, and Oranges on a working pumpkin patch. The harvest is typically at its peak in summer. The season runs through autumn and summer. Check the website or call ahead for current hours and what is in season."
-  ]
+  ],
+  "lat": 33.5845100000001,
+  "lon": -101.84501
 }

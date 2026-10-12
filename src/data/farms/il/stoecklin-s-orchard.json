@@ -16,15 +16,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.882Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:49.548Z"
     }
   ],
-  "website": null,
+  "website": "https://www.downstateil.org/trip-ideas/prime-time-for-apple-picking-in-illinoisouth",
   "tagline": "Stoecklin's Orchard",
   "description": [
     "A family-run orchard in Donnellson, IL, Stoecklin's Orchard grows Blueberries, Corn, Pecans, and Honey. The orchard is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 38.9783789212238,
+  "lon": -89.4328555710774
 }

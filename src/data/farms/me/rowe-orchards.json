@@ -7,12 +7,16 @@
   "locationCity": "Newport",
   "locationState": "ME",
   "locationZipcode": "",
-  "website": "http://www.roweorchards.com",
+  "website": "https://rowesproducefarm.com/",
   "phone": "207-368-4777",
   "crops": [
     "Apples"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.919Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:28:54.225Z"
@@ -22,5 +26,7 @@
     "Rowe Orchards is a apple orchard in Newport, ME. Visitors come for Apples, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.8643834613717,
+  "lon": -69.2840987601687
 }

@@ -7,7 +7,7 @@
   "locationCity": "Elkhorn",
   "locationState": "WI",
   "locationZipcode": "",
-  "website": "https://www.applebarnorchardandwinery.com",
+  "website": "https://applebarnorchardandwinery.com/apple-barn-winery/",
   "phone": "262-728-3266",
   "crops": [
     "Strawberries",
@@ -15,6 +15,10 @@
     "Pumpkins"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.535Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
@@ -25,5 +29,7 @@
   "description": [
     "A family-run pumpkin patch in Elkhorn, WI, The Apple Barn Orchard and Winery grows Strawberries, Apples, and Pumpkins. The patch is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 42.6983375784414,
+  "lon": -88.6150692201207
 }

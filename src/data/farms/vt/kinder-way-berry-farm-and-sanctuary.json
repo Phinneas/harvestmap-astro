@@ -7,12 +7,16 @@
   "locationCity": "West Pawlet",
   "locationState": "VT",
   "locationZipcode": "",
-  "website": "https://kinder-way-sanctuary.org",
+  "website": "https://kinder-way-sanctuary.org/home-1",
   "crops": [
     "Blueberries",
     "Raspberries"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.266Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:07.101Z"
@@ -23,5 +27,7 @@
   "description": [
     "Kinder Way Berry Farm and Sanctuary is a small berry farm in West Pawlet, VT. It grows Blueberries and Raspberries, with picking through summer. The harvest is typically at its peak in summer. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 43.39994998341425,
+  "lon": -73.24713802581985
 }

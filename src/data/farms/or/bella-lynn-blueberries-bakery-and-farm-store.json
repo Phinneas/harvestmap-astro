@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.061Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "Bella Lynn Blueberries Bakery and Farm Store is an independent berry farm in Grants Pass, OR. It grows Blueberries and Eggs, with picking through summer. The harvest is typically at its peak in summer. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 42.48463199123955,
+  "lon": -123.3757250306084
 }

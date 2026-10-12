@@ -7,7 +7,7 @@
   "locationCity": "Pleasant Hill",
   "locationState": "MO",
   "locationZipcode": "",
-  "website": "http://www.gpopsfarm.com",
+  "website": "http://www.gpopsfarm.com/About-Us.html",
   "phone": "816-987-3752",
   "crops": [
     "Apples",
@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.714Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:58.887Z"
     }
@@ -27,5 +31,7 @@
     "A family-run pumpkin patch in Pleasant Hill, MO, G.Pops' Farm grows Apples, Pumpkins, Corn, Flowers, and Sunflowers. The patch is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 38.7618626231238,
+  "lon": -94.2538445896752
 }

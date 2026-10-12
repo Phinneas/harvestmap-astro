@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.890Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.323Z"
     }
@@ -23,5 +27,7 @@
     "Ken's Orchard is a orchard in Newberry, FL. Visitors come for Persimmons, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Oct – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 29.6558190088979,
+  "lon": -82.5247980107203
 }

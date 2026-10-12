@@ -7,7 +7,7 @@
   "locationCity": "Slatersville",
   "locationState": "RI",
   "locationZipcode": "",
-  "website": "https://theorchards.tripod.com",
+  "website": "https://christiansenshogheaven.blogspot.com/search/label/CSA%20Utah",
   "phone": "(401) 766-6533",
   "crops": [
     "Apples",
@@ -15,6 +15,10 @@
     "Pumpkins"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.253Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:38:08.781Z"
@@ -24,5 +28,7 @@
     "An independent pumpkin patch in Slatersville, RI, Christiansen Orchard and Farm Stand grows Apples, Peaches, and Pumpkins. The patch is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.0054219450098,
+  "lon": -71.5868774901836
 }

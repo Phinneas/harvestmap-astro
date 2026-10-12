@@ -13,9 +13,21 @@
     {
       "source": "usda",
       "lastSeen": "2026-08-05T18:38:24.810Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
     }
   ],
   "usdaLastUpdated": "2026-08-05T18:38:24.810Z",
   "website": "https://smithblueberries.com/our-farm/",
-  "tagline": "About Our Farm"
+  "tagline": "About Our Farm",
+  "crops": [
+    "Pears"
+  ],
+  "description": [
+    "A working berry farm in 595 Stratton Road, FL, Williams Blueberry Farm grows Pears. The farm is busiest through much of the year. Check the website for current hours and availability.",
+    "Availability follows the local growing season, so what is on offer changes through the year.",
+    "Contact the farm directly to confirm current hours and what is ready to pick."
+  ]
 }

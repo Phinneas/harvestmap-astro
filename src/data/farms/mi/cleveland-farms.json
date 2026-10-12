@@ -15,14 +15,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.719Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
   ],
-  "website": "https://blakefarms.com/u-pick/",
+  "website": "http://www.carinifarms.com/",
   "tagline": "windblumefarms.com\n – Windblume Farms",
   "description": [
     "In Bloomingdale, MI, Cleveland Farms grows Apples, Plums, and Cherries on a working apple orchard. The harvest is typically at its peak in summer. The season runs through autumn and summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 42.3539438523675,
+  "lon": -85.9373547672609
 }

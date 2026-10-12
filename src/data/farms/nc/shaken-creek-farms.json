@@ -14,15 +14,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.751Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
   ],
-  "website": null,
+  "website": "http://www.shakencreekfarms.com/blueberries-2",
   "tagline": "Shaken Creek Farms, 687 Pinkney Road, Burgaw, NC (2026)",
   "description": [
     "Shaken Creek Farms is an berry farm in Burgaw, NC. Visitors come for Blueberries and Honey, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 34.6155576214626,
+  "lon": -77.7668722635581
 }

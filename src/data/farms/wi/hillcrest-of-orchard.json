@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.508Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
@@ -26,5 +30,7 @@
   "description": [
     "A small pumpkin patch in Gays Mills, WI, Hillcrest of Orchard grows Strawberries, Raspberries, Apples, Pumpkins, and Corn. The patch is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 43.3269599933769,
+  "lon": -90.741550033326
 }

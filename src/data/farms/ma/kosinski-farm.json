@@ -7,13 +7,17 @@
   "locationCity": "Feeding Hills",
   "locationState": "MA",
   "locationZipcode": "",
-  "website": "https://kosinskifarms.net",
+  "website": "https://www.kosinskifarms.com/Kosinski_Farms/Contact_and_Directions.html",
   "phone": "413-572-4344",
   "crops": [
     "Blueberries",
     "Apples"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.690Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:29:34.313Z"
@@ -24,5 +28,7 @@
   "description": [
     "In Feeding Hills, MA, Kosinski Farm grows Blueberries and Apples on a family-run apple orchard. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 42.0732811661778,
+  "lon": -72.6949462074297
 }

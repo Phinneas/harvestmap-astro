@@ -7,7 +7,7 @@
   "locationCity": "Putney",
   "locationState": "VT",
   "locationZipcode": "",
-  "website": "https://www.harlowssugarhouse.com",
+  "website": "http://davescupboard.blogspot.com/2011/03/harlows-sugar-house-putney-vt.html",
   "phone": "802-387-5832",
   "crops": [
     "Strawberries",
@@ -16,6 +16,10 @@
     "Apples"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.101Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:07.101Z"
@@ -26,5 +30,7 @@
   "description": [
     "In Putney, VT, Harlow's Sugar House grows Strawberries, Blueberries, Raspberries, and Apples on a small apple orchard. The harvest is typically at its peak in summer. The season runs through spring, summer, and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 42.9987149839284,
+  "lon": -72.4768520204708
 }

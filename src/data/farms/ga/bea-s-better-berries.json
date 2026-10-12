@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.387Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:54.842Z"
     }
   ],
-  "website": null,
+  "website": "https://www.ecosystemfarm.com/",
   "tagline": "Bea's Better Berries",
   "description": [
     "In Royston, GA, Bea's Better Berries grows Strawberries on a family-run berry farm. The harvest is typically at its peak in spring. The season runs through spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 34.2305686921055,
+  "lon": -83.1562972325248
 }

@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.728Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:07.205Z"
     }
@@ -26,5 +30,7 @@
   "description": [
     "Leaning Barn Farm U-Pick is a Christmas tree farm in Esko, MN. Visitors come for Blueberries, Raspberries, Tomatoes, Asparagus, and Honey, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 46.6801419931837,
+  "lon": -92.3673150373471
 }

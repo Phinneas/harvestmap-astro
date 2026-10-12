@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.725Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:38:25.632Z"
     }
@@ -28,5 +32,7 @@
     "A working apple orchard in York, SC, Black's Peaches grows Strawberries, Blackberries, Apples, Peaches, and Corn. The orchard is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 35.0229200045685,
+  "lon": -81.2788400059933
 }

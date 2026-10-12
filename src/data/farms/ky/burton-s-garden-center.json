@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.653Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:28:11.100Z"
     }
   ],
-  "website": null,
+  "website": "https://kentucky.food-us.org/161516-burtons_nursery_garden_produce.htm",
   "tagline": "Burton's Garden Center",
   "description": [
     "Burton's Garden Center is a berry farm in Campbellsville, KY. Visitors come for Blackberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 37.4090082559403,
+  "lon": -85.3944618950055
 }

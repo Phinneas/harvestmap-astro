@@ -7,7 +7,7 @@
   "locationCity": "Meredith",
   "locationState": "NH",
   "locationZipcode": "",
-  "website": "https://www.picnicrockfarms.com",
+  "website": "https://picnicrockfarms.com/",
   "phone": "603-630-3625",
   "crops": [
     "Herbs",
@@ -15,6 +15,10 @@
     "Honey"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.789Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:23.079Z"
@@ -24,5 +28,7 @@
     "Picnic Rock Farms is a farm in Meredith, NH. Visitors come for Herbs, Flowers, and Honey. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 43.6344929848027,
+  "lon": -71.4847009775623
 }

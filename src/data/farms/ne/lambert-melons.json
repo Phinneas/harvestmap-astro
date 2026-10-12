@@ -19,15 +19,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:44:42.421Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:32:34.673Z"
     }
   ],
-  "website": "https://buylocalnebraska.org/news/member-spotlight-lambert-melons/",
+  "website": "https://gxregfdwsv.buylocalnebraska.org/lambert-melons/",
   "tagline": "Member Spotlight: Lambert Melons",
   "description": [
     "Lambert Melons is an pumpkin patch in Ewing, NE. Visitors come for Apples, Pumpkins, Squash, Corn, and Tomatoes, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.175899873281,
+  "lon": -98.4757129332669
 }

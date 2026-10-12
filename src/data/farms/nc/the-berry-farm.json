@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.761Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "The Berry Farm is a small berry farm in Marshall, NC. It grows Blueberries, Raspberries, and Blackberries, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 35.9216538784168,
+  "lon": -82.7277015446764
 }

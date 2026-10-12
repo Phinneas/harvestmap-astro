@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:22.778Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:29:34.313Z"
     }
@@ -26,5 +30,7 @@
     "Round Hill Orchard is a apple orchard in Southampton, MA. Visitors come for Blueberries, Raspberries, Apples, and Honey, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.1914553870171,
+  "lon": -72.7262126300696
 }

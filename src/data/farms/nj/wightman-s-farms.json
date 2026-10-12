@@ -22,14 +22,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.779Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:41.218Z"
     }
   ],
-  "website": "https://wightmansfarms.com/farm-tours.html",
+  "website": "https://wightmansfarms.com/our-store.html",
   "tagline": "Pick Your Own",
   "description": [
     "Wightman's Farms is a family-run pumpkin patch in Morristown, NJ. It grows Strawberries, Raspberries, Apples, Peaches, and Pumpkins, with picking through spring, summer, and autumn. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 40.7393360187948,
+  "lon": -74.5392079812191
 }

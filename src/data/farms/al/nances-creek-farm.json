@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.485Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:22:19.124Z"
     }
   ],
-  "website": "https://www.nancescreekfarms.com/",
+  "website": "https://nancescreekfarms.com/",
   "tagline": "Nances Creek Farms – 6th Generation Family Farm",
   "description": [
     "In Jacksonville, AL, Nances Creek Farm grows Strawberries and Eggs on a working berry farm. The harvest is typically at its peak in spring. The season runs through spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 33.842227807148,
+  "lon": -85.6940772298449
 }

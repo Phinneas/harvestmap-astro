@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.836Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:38:25.632Z"
     }
   ],
-  "website": null,
+  "website": "https://www.mcarthurfarms.com/",
   "tagline": "McArthur Farms",
   "description": [
     "McArthur Farms is a berry farm in Bennettsville, SC. Visitors come for Strawberries, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 34.5943914946108,
+  "lon": -79.6773185287833
 }

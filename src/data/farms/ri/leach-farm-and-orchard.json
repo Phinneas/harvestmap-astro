@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.208Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:38:08.781Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "Leach Farm and Orchard is a working pumpkin patch in Greenville, RI. It grows Apples and Pumpkins, with picking through autumn. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 41.8852860163363,
+  "lon": -71.5703409777816
 }

@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:24.339Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:13.166Z"
     }
@@ -25,5 +29,7 @@
   "description": [
     "Bussell's Berries is a family-run pumpkin patch in Carthage, TN. It grows Strawberries, Pumpkins, Corn, and Grapes, with picking through spring and autumn. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 36.2317030114269,
+  "lon": -86.002379984596
 }

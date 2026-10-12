@@ -14,15 +14,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.146Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:59.975Z"
     }
   ],
-  "website": "http://www.fourelementsfarm.com/",
+  "website": "http://www.fourelementsfarm.com/about.html",
   "tagline": "Four Elements Farm",
   "description": [
     "Four Elements Farm is a berry farm in Puyallup, WA. Visitors come for Blueberries and Flowers, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 47.1465161954995,
+  "lon": -122.24339652676
 }

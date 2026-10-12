@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.888Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
   ],
-  "website": null,
+  "website": "https://www.thebryerpatchfarm.com/",
   "tagline": "The Berry Patch",
   "description": [
     "A family-run berry farm in Robersonville, NC, The Berry Patch grows Strawberries. The farm is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 35.5881138809831,
+  "lon": -78.1738942321574
 }

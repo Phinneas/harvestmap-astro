@@ -13,10 +13,21 @@
     {
       "source": "usda",
       "lastSeen": "2026-08-05T18:50:14.218Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:37:47.862Z"
     }
   ],
   "usdaLastUpdated": "2026-08-05T18:50:14.074Z",
   "website": "http://blueberryhillfarms.com/home.html",
   "tagline": "Blueberries  blackberries  Texa blueberry farm  farms  Pick your own, Pick 'n Edom Edom, TX Home",
-  "crops": []
+  "crops": [
+    "Blueberries"
+  ],
+  "description": [
+    "Blueberry Hill Farm is a u-pick farm in 160 Route 322, PA. Visitors come for Blueberries, best in summer. Check the website for current hours and availability.",
+    "Seasonal availability typically runs from Jun – Aug in this growing zone.",
+    "Contact the farm directly to confirm current hours and what is ready to pick."
+  ]
 }

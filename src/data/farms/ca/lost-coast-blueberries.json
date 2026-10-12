@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:36.793Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:50.210Z"
     }
   ],
-  "website": null,
+  "website": "https://oregontaste.com/businesses/twin-creek-ranch-blueberries",
   "tagline": "Local Picks",
   "description": [
     "Lost Coast Blueberries is an independent berry farm in Honeydew, CA. It grows Blueberries and Honey, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from May – Jul in this growing zone."
-  ]
+  ],
+  "lat": 40.24715,
+  "lon": -124.12216
 }

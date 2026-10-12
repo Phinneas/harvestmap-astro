@@ -16,14 +16,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.298Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.545Z"
     }
   ],
-  "website": "https://ecovillageithaca.org/download/kestrel-perch-organic-u-pick-csa-berry-farm/",
+  "website": "https://map.sustainablefingerlakes.org/map/listing/kestrel-perch-berries",
   "tagline": "Kestrel Perch Organic U",
   "description": [
     "In Ithaca, NY, Kestrel Perch Berries grows Strawberries, Blueberries, Raspberries, and Blackberries on a small berry farm. The harvest is typically at its peak in summer. The season runs through spring and summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 42.4416339595065,
+  "lon": -76.5446801560673
 }

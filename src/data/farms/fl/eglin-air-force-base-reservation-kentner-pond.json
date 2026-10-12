@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.884Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.322Z"
     }
   ],
-  "website": "https://fun4emeraldcoastkids.com/Whats-Happening/U-Pick-Farms/Eglin-Air-Force-Base-Reservation-Blueberries/View-details",
+  "website": "https://eglin.isportsman.net/files/Maps%2FFY25RECMAP_LRG_20240919.pdf",
   "tagline": "Eglin Air Force Base Reservation: Berry Picking",
   "description": [
     "Eglin Air Force Base reservation Kentner Pond is a berry farm in FL, FL. Visitors come for Blueberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 30.4613000000001,
+  "lon": -86.5372
 }

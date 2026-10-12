@@ -7,7 +7,7 @@
   "locationCity": "Lebanon",
   "locationState": "NH",
   "locationZipcode": "",
-  "website": "https://www.patchorchards.com",
+  "website": "https://patchorchards.com/",
   "phone": "603-448-4130",
   "crops": [
     "Apples",
@@ -15,6 +15,10 @@
     "Corn"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:55.803Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:23.079Z"
@@ -24,5 +28,7 @@
     "Patch Orchards is a pumpkin patch in Lebanon, NH. Visitors come for Apples, Pumpkins, and Corn, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 43.6164,
+  "lon": -72.2088942
 }

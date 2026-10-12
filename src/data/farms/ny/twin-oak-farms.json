@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:09.410Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:45.546Z"
     }
   ],
-  "website": null,
+  "website": "https://twinleaffarms.com/",
   "tagline": "Twin Oak Farms",
   "description": [
     "In Hector, NY, Twin Oak Farms grows Cherries and Grapes on a working farm. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from May – Jul in this growing zone."
-  ]
+  ],
+  "lat": 42.5205493578327,
+  "lon": -76.8737107596957
 }

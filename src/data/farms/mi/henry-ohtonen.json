@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.720Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
   ],
-  "website": null,
+  "website": "https://www.uppermichiganssource.com/content/news/Ohtonen-Berry-Farms-ready-for-Copper-Countrys-Strawberry-Fest-484772281.html",
   "tagline": "Henry Ohtonen Berry Farm, Klingville Road, Chassell, MI 49916, US",
   "description": [
     "A working berry farm in Chassell, MI, Henry Ohtonen grows Strawberries. The farm is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 46.9664107416783,
+  "lon": -88.4776307230902
 }

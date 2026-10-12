@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:03.296Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:27:18.483Z"
     }
   ],
-  "website": null,
+  "website": "http://indianaplaces.blogspot.com/2009/05/the-very-berry-patch.html",
   "tagline": "Phillips Berry Patch In Guilford IN",
   "description": [
     "A family-run berry farm in Guilford, IN, Phillips Berry Patch grows Strawberries, Blueberries, and Blackberries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 39.1965624555373,
+  "lon": -84.9538131672174
 }

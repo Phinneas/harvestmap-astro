@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.805Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.322Z"
     }
@@ -28,5 +32,7 @@
     "A small farm in Grand Ridge, FL, Jackson Farms grows Squash, Corn, Tomatoes, Peppers, and Eggplant. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Oct in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 30.6566175836422,
+  "lon": -84.9901982911028
 }

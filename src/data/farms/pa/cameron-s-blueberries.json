@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.077Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:47.862Z"
     }
   ],
-  "website": "https://www.pyoblueberries.com/",
+  "website": "https://www.growableground.com/what-grows-in/pennsylvania/county/cameron",
   "tagline": "PYO Berries",
   "description": [
     "Cameron's Blueberries is a u-pick farm in Rossiter, PA. Visitors come for Blueberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 40.8963729116405,
+  "lon": -78.8787628587914
 }

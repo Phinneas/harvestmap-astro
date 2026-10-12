@@ -15,14 +15,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.896Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.323Z"
     }
   ],
-  "website": "https://brownsadventurefarm.com/country-store/",
+  "website": "https://www.simpletix.com/e/strawberry-u-pick-tickets-123201",
   "tagline": "Brown & Brown’s Country Store – Brown's Adventure Farm",
   "description": [
     "An independent berry farm in Oxford, FL, Brown and Brown Farms and Country Store grows Strawberries, Corn, and Honey. The farm is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 28.95934601265907,
+  "lon": -82.04090101739433
 }

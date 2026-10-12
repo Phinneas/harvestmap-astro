@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.889Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
   ],
-  "website": null,
+  "website": "https://www.siclists.com/north-carolina/arden/Riverview-Orchard_wXx.html",
   "tagline": "Riverview Orchard",
   "description": [
     "Riverview Orchard is an apple orchard in Arden, NC. Visitors come for Apples, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 35.444035287308,
+  "lon": -82.5678785530142
 }

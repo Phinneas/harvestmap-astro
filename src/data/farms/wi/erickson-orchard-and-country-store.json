@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.443Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
@@ -27,5 +31,7 @@
   "imageAlt": "Erickson Orchard and Country Store",
   "description": [
     "Erickson Orchard and Country Store is a family-run pumpkin patch in Bayfield, WI. It grows Strawberries, Blueberries, Raspberries, Apples, and Pumpkins, with picking through spring, summer, and autumn. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season."
-  ]
+  ],
+  "lat": 46.8284152813096,
+  "lon": -90.8363218390368
 }

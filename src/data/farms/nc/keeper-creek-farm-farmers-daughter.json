@@ -16,14 +16,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.908Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
   ],
-  "website": "https://www.farmersdaughterorganics.net/keeper-creek",
+  "website": "https://www.farmersdaughterorganics.net/",
   "tagline": "General 1 — Farmer's Daughter Organics",
   "description": [
     "In Mt Ulla, NC, Keeper Creek Farm Farmers Daughter grows Blueberries, Raspberries, Blackberries, and Lavender on an independent berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 35.66661819148186,
+  "lon": -80.77465193382216
 }

@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:49.828Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:38:25.632Z"
     }
@@ -23,5 +27,7 @@
     "Weaver's Strawberries Hopecrest Farm is a berry farm in Blackville, SC. Visitors come for Strawberries, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 33.3738641569502,
+  "lon": -81.2672475138624
 }

@@ -16,15 +16,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.121Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:59.975Z"
     }
   ],
-  "website": "http://www.barbiesberries.com/",
+  "website": "https://sustainableconnections.org/barbies-berries-2/",
   "tagline": "Barbie's Berries — U",
   "description": [
     "A small berry farm in Ferndale, WA, Barbie's Berries grows Strawberries, Blueberries, Raspberries, and Blackberries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 48.9188239858108,
+  "lon": -122.558530961423
 }

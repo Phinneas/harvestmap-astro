@@ -13,9 +13,21 @@
     {
       "source": "usda",
       "lastSeen": "2026-08-05T18:38:24.888Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
     }
   ],
   "usdaLastUpdated": "2026-08-05T18:38:24.888Z",
   "website": "https://www.artesianfarms.com/",
-  "tagline": "Artesian Farms"
+  "tagline": "Artesian Farms",
+  "crops": [
+    "Tomatoes"
+  ],
+  "description": [
+    "Artesian Farms is a farm in 910 East College Avenue, FL. Visitors come for Tomatoes, best in summer. Check the website for current hours and availability.",
+    "Seasonal availability typically runs from Apr – Dec in this growing zone.",
+    "Contact the farm directly to confirm current hours and what is ready to pick."
+  ]
 }

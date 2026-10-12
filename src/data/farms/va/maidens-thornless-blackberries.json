@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:58.349Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:26.954Z"
     }
   ],
-  "website": null,
+  "website": "http://extension.umd.edu/resource/thornless-blackberry-cultivars-suited-mid-atlantic-fs-2024-0709",
   "tagline": "Maidens Thornless Blackberries",
   "description": [
     "Maidens Thornless Blackberries is a berry farm in Maidens, VA. Visitors come for Blackberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 37.6575118628178,
+  "lon": -77.857676294888
 }

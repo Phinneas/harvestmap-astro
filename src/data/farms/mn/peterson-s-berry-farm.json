@@ -7,13 +7,17 @@
   "locationCity": "Eveleth",
   "locationState": "MN",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://www.irpsmn.org/grown-on-the-range/2019/10/26/grown-on-the-range-profile-12-originally-published-in-hometown-focus",
   "phone": "218-744-5759",
   "crops": [
     "Strawberries",
     "Blueberries"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.725Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:07.205Z"
@@ -23,5 +27,7 @@
     "Peterson's Berry Farm is an berry farm in Eveleth, MN. Visitors come for Strawberries and Blueberries, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 47.4720360533005,
+  "lon": -92.4865035460364
 }

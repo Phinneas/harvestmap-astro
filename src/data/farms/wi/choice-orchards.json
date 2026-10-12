@@ -7,13 +7,17 @@
   "locationCity": "Sturgeon Bay",
   "locationState": "WI",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://takingthekids.com/this-wisconsin-cherry-farm-sends-visitors-home-with-baskets-full-of-summer/",
   "phone": "920-743-8980",
   "crops": [
     "Apples",
     "Cherries"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.439Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
@@ -23,5 +27,7 @@
     "Choice Orchards is a apple orchard in Sturgeon Bay, WI. Visitors come for Apples and Cherries, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.6994986204823,
+  "lon": -87.3974193876297
 }

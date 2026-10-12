@@ -7,7 +7,7 @@
   "locationCity": "Nancy",
   "locationState": "KY",
   "locationZipcode": "",
-  "website": "https://www.haneysappledalefarm.com",
+  "website": "https://haneysappledalefarm.com/",
   "phone": "606-636-6148",
   "crops": [
     "Apples",
@@ -21,6 +21,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.628Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:28:11.100Z"
     }
@@ -30,5 +34,7 @@
   "description": [
     "In Nancy, KY, Haney's Appledale Farm grows Apples, Pears, Peaches, Nectarines, and Pumpkins on a family-run pumpkin patch. The harvest is typically at its peak in autumn. The season runs through autumn and summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 37.0471704743651,
+  "lon": -84.6883069966852
 }

@@ -15,15 +15,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:51.881Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:28:54.225Z"
     }
   ],
-  "website": null,
+  "website": "https://bubba.ai/trucking-companies/maine/hodgdon/joel-brian-oliver-2528559",
   "tagline": "Treeland Farms",
   "description": [
     "A family-run pumpkin patch in Hodgdon, ME, Treeland Farms grows Pumpkins, Squash, and Peas. The patch is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Sep – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 46.0737013239757,
+  "lon": -67.8504802602578
 }

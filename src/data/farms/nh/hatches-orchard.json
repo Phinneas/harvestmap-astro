@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:45:47.863Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:23.079Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "Hatches Orchard is an independent apple orchard in Center Conway, NH. It grows Apples, with picking through autumn. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 43.9581759,
+  "lon": -71.013385
 }

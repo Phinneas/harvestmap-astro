@@ -7,7 +7,7 @@
   "locationCity": "West Suffield",
   "locationState": "CT",
   "locationZipcode": "",
-  "website": "https://thesuffieldobserver.com/2022/09/vincent-farms-half-tobacco-half-produce/",
+  "website": "https://www.millstonecreekorchards.com/",
   "crops": [
     "Raspberries",
     "Apples",
@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:15.060Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:24:25.507Z"
     }
@@ -26,5 +30,7 @@
     "Appleberry Farm is a pumpkin patch in West Suffield, CT. Visitors come for Raspberries, Apples, Pears, Peaches, and Pumpkins, best in autumn. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Jun – Sep in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.0149509990658,
+  "lon": -72.7161629836616
 }

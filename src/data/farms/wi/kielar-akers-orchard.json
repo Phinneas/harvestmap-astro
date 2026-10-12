@@ -7,13 +7,17 @@
   "locationCity": "Sturgeon Bay",
   "locationState": "WI",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://www.blasersacres.com/",
   "phone": "920-856-6978",
   "crops": [
     "Apples",
     "Cherries"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.457Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
@@ -23,5 +27,7 @@
     "An independent apple orchard in Sturgeon Bay, WI, Kielar Akers Orchard grows Apples and Cherries. The orchard is busiest in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.7019411788469,
+  "lon": -87.4793994732404
 }

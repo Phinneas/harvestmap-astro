@@ -15,14 +15,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.625Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:36.658Z"
     }
   ],
-  "website": null,
+  "website": "https://orrsfarmmarket.com/about-our-farm-and-family/",
   "tagline": "Orr Farms LLP, La Feria, TX, P.O. BOX 697, Cameron, Agricultural Production",
   "description": [
     "Orr Farms is a family-run farm in La Feria, TX. It grows Peppers, Eggplant, and Herbs, with picking through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year."
-  ]
+  ],
+  "lat": 26.1644753942259,
+  "lon": -97.8364359680792
 }

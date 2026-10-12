@@ -7,7 +7,7 @@
   "locationCity": "Smithfield",
   "locationState": "RI",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://whatsupnewp.com/2024/11/whats-in-season-varieties-of-winter-squash-from-goodwin-brothers-farm-prompts-a-simple-meal-to-recognize-native-american-heritage-month/",
   "phone": null,
   "crops": [
     "Strawberries",
@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:30.918Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:38:08.781Z"
     }
@@ -26,5 +30,7 @@
     "Goodwin Brothers is a berry farm in Smithfield, RI. Visitors come for Strawberries, Blueberries, Tomatoes, Herbs, and Honey, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.9543909942519,
+  "lon": -71.5488569864765
 }

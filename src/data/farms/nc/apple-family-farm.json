@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.640Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
   ],
-  "website": null,
+  "website": "https://kordickfamilyfarm.com/",
   "tagline": "Apple Family Farm",
   "description": [
     "Apple Family Farm is a working apple orchard in Kernersville, NC. It grows Blueberries and Corn, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 36.1097635624544,
+  "lon": -80.0626860241726
 }

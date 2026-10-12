@@ -18,14 +18,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:28.924Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:33.027Z"
     }
   ],
-  "website": "https://www.berryblossomfarms.com/",
+  "website": "https://www.berryblossomfarms.com/about-2",
   "tagline": "U Pick Fruit Farm",
   "description": [
     "Berry Blossom Farms is a small pumpkin patch in Rathdrum, ID. It grows Strawberries, Blueberries, Raspberries, Blackberries, and Pumpkins, with picking through spring, summer, and autumn. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 47.80718792760852,
+  "lon": -116.8293357855253
 }

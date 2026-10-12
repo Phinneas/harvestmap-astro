@@ -14,14 +14,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.687Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
   ],
-  "website": null,
+  "website": "https://blakefarms.com/u-pick/",
   "tagline": "Michigan's Best",
   "description": [
     "In Ellsworth, MI, Best Farm grows Raspberries and Blackberries on an independent berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Sep in this growing zone."
-  ]
+  ],
+  "lat": 45.1434260850869,
+  "lon": -85.2157393052926
 }

@@ -15,6 +15,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.578Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
@@ -24,5 +28,7 @@
   "description": [
     "James Erickson Orchard and Country Store is a family-run apple orchard in Bayfield, WI. It grows Strawberries, Apples, and Pears, with picking through spring and autumn. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 46.8261969912919,
+  "lon": -90.8361089652572
 }

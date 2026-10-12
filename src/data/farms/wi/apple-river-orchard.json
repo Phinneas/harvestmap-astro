@@ -15,14 +15,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.574Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
   ],
-  "website": "https://appleriverfarmtour.org/",
+  "website": "https://www.sunriseapples.com/content/about/about-sunrise-orchards",
   "tagline": "Apple River Farm Tour –  A free, self",
   "description": [
     "In Somerset, WI, Apple River Orchard grows Apples, Pumpkins, and Honey on a working pumpkin patch. The harvest is typically at its peak in autumn. The season runs through autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 45.086458011105,
+  "lon": -92.6816580317363
 }

@@ -21,6 +21,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.657Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
@@ -30,5 +34,7 @@
   "description": [
     "In Ada, MI, Blok Orchard grows Blueberries, Raspberries, Blackberries, Apples, and Peaches on a family-run pumpkin patch. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 43.0287153722797,
+  "lon": -85.4437043586167
 }

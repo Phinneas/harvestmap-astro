@@ -20,6 +20,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:16.052Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:41.218Z"
     }
@@ -29,5 +33,7 @@
   "description": [
     "Heritage Station is a family-run pumpkin patch in Mullica Hill, NJ. It grows Apples, Pears, Peaches, Plums, and Pumpkins, with picking through autumn and summer. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 39.7237109950388,
+  "lon": -75.172571993979
 }

@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.371Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:59.975Z"
     }
@@ -21,5 +25,7 @@
   "description": [
     "Moldboard Farm is a family-run apple orchard in Manson, WA. It grows Apples, with picking through autumn. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 47.8850815980188,
+  "lon": -120.129783405571
 }

@@ -16,13 +16,19 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:52:39.203Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:07.101Z"
     }
   ],
-  "website": null,
+  "website": "https://legarefarms.com/",
   "tagline": "Legare Farms",
   "description": [
     "In Montpelier, VT, Legare Farm Stand (N. Montpelier) grows Strawberries, Blueberries, Raspberries, and Pumpkins on a small pumpkin patch. The harvest is typically at its peak in summer. The season runs through spring, summer, and autumn. Check the website or call ahead for current hours and what is in season."
-  ]
+  ],
+  "lat": 44.3364858,
+  "lon": -72.4447
 }

@@ -14,15 +14,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:40:51.095Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:27:55.625Z"
     }
   ],
-  "website": null,
+  "website": "https://state-kansas.opendi.us/conway-springs-ks/6578023.html",
   "tagline": "Steffen Orchard",
   "description": [
     "Steffen Orchard is an apple orchard in Conway Springs, KS. Visitors come for Apples and Peaches, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 37.3882900158473,
+  "lon": -97.5207191653329
 }

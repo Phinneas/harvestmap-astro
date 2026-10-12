@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.692Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
   ],
-  "website": null,
+  "website": "https://www.hollandsentinel.com/story/business/agricultural/2019/07/19/blueberry-season-off-to-good/4656886007/",
   "tagline": "Plan Your Visit",
   "description": [
     "A working berry farm in Holland, MI, Wa-Hu Blueberry Farm grows Blueberries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 42.8342899972733,
+  "lon": -86.1632520082236
 }

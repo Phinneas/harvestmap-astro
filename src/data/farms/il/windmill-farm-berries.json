@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:39:45.934Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:26:49.548Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "Windmill Farm Berries is a family-run berry farm in Manito, IL. It grows Raspberries, with picking through summer. The harvest is typically at its peak in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Sep in this growing zone."
-  ]
+  ],
+  "lat": 40.4224300000001,
+  "lon": -89.779275
 }

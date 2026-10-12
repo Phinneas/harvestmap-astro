@@ -16,15 +16,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.662Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
   ],
-  "website": null,
+  "website": "https://www.cvent.com/venues/greenville/special-event-venue/frugthaven-farm/venue-697a3822-3af3-4ba2-a9c3-f93597ba6d78",
   "tagline": "Frugthaven Farm, Greenville",
   "description": [
     "Frugthaven Farm is a pumpkin patch in Greenville, MI. Visitors come for Apples, Pumpkins, Asparagus, and Honey, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 43.1775608339765,
+  "lon": -85.2463600565788
 }

@@ -14,15 +14,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:23.541Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:59.975Z"
     }
   ],
-  "website": null,
+  "website": "https://www.historylink.org/file/21282",
   "tagline": "Historic Stratton Berry Farm",
   "description": [
     "A family-run berry farm in La Center, WA, Historic Stratton Berry Farm grows Strawberries and Peaches. The farm is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 45.89811415686185,
+  "lon": -122.63085345860145
 }

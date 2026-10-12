@@ -20,6 +20,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.940Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:24:25.507Z"
     }
@@ -28,5 +32,7 @@
     "A working pumpkin patch in Bolton, CT, Pesce's Farm grows Strawberries, Blueberries, Pears, Peaches, and Pumpkins. The patch is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.7609470206131,
+  "lon": -72.4306559993097
 }

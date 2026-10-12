@@ -17,13 +17,19 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:51:49.561Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:39:36.658Z"
     }
   ],
-  "website": "https://huebnerberrypatch.com/",
+  "website": "https://www.nealsberryfarm.com/",
   "tagline": "Huebner Berry Patch",
   "description": [
     "In Normangee, TX, Huebner Berry Patch and Fruit Farm grows Blackberries, Peaches, Nectarines, Plums, and Grapes on a working berry farm. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season."
-  ]
+  ],
+  "lat": 31.0334539129956,
+  "lon": -96.1084589621365
 }

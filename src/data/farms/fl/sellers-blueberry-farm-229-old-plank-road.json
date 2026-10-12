@@ -13,9 +13,20 @@
     {
       "source": "usda",
       "lastSeen": "2026-08-05T18:38:24.862Z"
+    },
+    {
+      "source": "pickyourown.org",
+      "lastSeen": "2026-07-28T19:25:35.323Z"
     }
   ],
   "usdaLastUpdated": "2026-08-05T18:38:24.862Z",
   "website": "https://www.spillerfarm.com/",
-  "tagline": "Spiller Farm — Wells, Maine"
+  "tagline": "Spiller Farm — Wells, Maine",
+  "crops": [
+    "Blueberries"
+  ],
+  "description": [
+    "Sellers Blueberry Farm is a small berry farm in 229 Old Plank Road, FL. It grows Blueberries, with picking through spring. The harvest is typically at its peak in spring. Check the website for current hours and availability.",
+    "Seasonal availability typically runs from Apr – Jul in this growing zone."
+  ]
 }

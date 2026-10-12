@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:42:38.694Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:30:22.272Z"
     }
   ],
-  "website": "https://russellblueberry.com/",
+  "website": "http://www.carinifarms.com/",
   "tagline": "Russell's Blueberry Farm & Nursery",
   "description": [
     "An independent u-pick farm in Petersburg, MI, U-Pick Blueberries grows Blueberries. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.8960239886753,
+  "lon": -83.6649779899348
 }

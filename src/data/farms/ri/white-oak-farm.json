@@ -7,12 +7,16 @@
   "locationCity": "Scituate",
   "locationState": "RI",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://hopefarmsri.com/",
   "phone": "4363552331",
   "crops": [
     "Apples"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.028Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:38:08.781Z"
@@ -21,5 +25,7 @@
   "description": [
     "In Scituate, RI, White Oak Farm grows Apples on a small apple orchard. The harvest is typically at its peak in autumn. The season runs through autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone."
-  ]
+  ],
+  "lat": 41.8624390018463,
+  "lon": -71.5940170044052
 }

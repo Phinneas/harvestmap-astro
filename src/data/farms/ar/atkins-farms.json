@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:36:24.003Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:23:18.748Z"
     }
@@ -27,5 +31,7 @@
   "description": [
     "In Eudora, AR, Atkins Farms grows Blueberries, Blackberries, Corn, Tomatoes, and Peppers on an independent berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 33.1092891810039,
+  "lon": -91.3679118879921
 }

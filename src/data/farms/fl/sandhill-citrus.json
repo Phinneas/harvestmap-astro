@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:24.845Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:35.323Z"
     }
   ],
-  "website": null,
+  "website": "https://www.sandhillpeachfarm.com/",
   "tagline": "Sandhill Citrus",
   "description": [
     "Sandhill Citrus is a small farm in Arcadia, FL. It grows Citrus, with picking through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 27.1674414981902,
+  "lon": -81.9211782152687
 }

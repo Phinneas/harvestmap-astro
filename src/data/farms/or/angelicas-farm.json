@@ -12,6 +12,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:57.061Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:12.153Z"
     }
@@ -22,5 +26,7 @@
     "In Scio, OR, Angelicas Farm grows Blueberries on a family-run berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.75204999779913,
+  "lon": -122.8136760102649
 }

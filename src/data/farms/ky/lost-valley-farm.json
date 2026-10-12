@@ -16,6 +16,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:41:11.630Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:28:11.100Z"
     }
@@ -23,5 +27,7 @@
   "description": [
     "In Bremen, KY, Lost Valley Farm grows Strawberries, Pumpkins, and Corn on a working pumpkin patch. The harvest is typically at its peak in spring. The season runs through spring and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 37.3122564077566,
+  "lon": -87.284504525103
 }

@@ -14,15 +14,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:14.219Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:47.862Z"
     }
   ],
-  "website": "https://reallancastercounty.com/everfresh-produce/",
+  "website": "https://www.discoverlancaster.com/directory/everfresh-produce/",
   "tagline": "EverFresh Produce",
   "description": [
     "A small berry farm in New Holland, PA, Everfresh Produce grows Strawberries and Flowers. The farm is busiest in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 40.13106901670389,
+  "lon": -76.08388997432026
 }

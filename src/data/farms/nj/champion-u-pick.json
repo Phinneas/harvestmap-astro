@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:15.603Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:33:41.218Z"
     }
   ],
-  "website": null,
+  "website": "https://chefs-garden.com/u-pick-seasonal/",
   "tagline": "Link to Champion U",
   "description": [
     "In Manchester Twp, NJ, Champion U-Pick grows Blueberries on a family-run u-pick farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 39.9478940060119,
+  "lon": -74.3852439869127
 }

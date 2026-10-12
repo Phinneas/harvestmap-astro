@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.869Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
   ],
-  "website": null,
+  "website": "https://www.farmingfishers.com/",
   "tagline": "Fisher Farms",
   "description": [
     "In Rockwell, NC, Fisher Farms grows Blackberries and Tomatoes on a working berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website for current hours and availability.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 35.5520300000001,
+  "lon": -80.40777
 }

@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:46:54.387Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:34:12.509Z"
     }
   ],
-  "website": "https://bigjimfarms.com/",
+  "website": "https://bigjimfarms.com/about-us",
   "tagline": "Fresh Green Chile from Big Jim Farms",
   "description": [
     "A small farm in Albuquerque, NM, Big Jim Farms grows Peppers. The farm is busiest through much of the year. Check the website or call ahead for current hours and what is in season.",
     "Availability follows the local growing season, so what is on offer changes through the year.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 35.0938049122773,
+  "lon": -106.671624425417
 }

@@ -13,6 +13,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:49.747Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:58.887Z"
     }
@@ -22,5 +26,7 @@
   "description": [
     "Rhea Farm is a working berry farm in Fair Grove, MO. It grows Strawberries, with picking through spring. The harvest is typically at its peak in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 37.4438556589902,
+  "lon": -93.0687907448985
 }

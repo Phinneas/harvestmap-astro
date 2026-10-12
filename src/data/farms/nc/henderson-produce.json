@@ -18,6 +18,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.838Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -28,5 +32,7 @@
     "Henderson Produce is a berry farm in Maxton, NC. Visitors come for Blueberries, Squash, Corn, Tomatoes, and Grapes, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 34.7592804134457,
+  "lon": -79.3396350198187
 }

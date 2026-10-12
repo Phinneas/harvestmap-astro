@@ -7,7 +7,7 @@
   "locationCity": "Smithfield",
   "locationState": "RI",
   "locationZipcode": "",
-  "website": "https://www.jaswellsfarm.com",
+  "website": "https://jaswellsfarm.com/our-history/",
   "phone": "401-231-9043",
   "crops": [
     "Apples",
@@ -15,6 +15,10 @@
     "Eggs"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:30.936Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:38:08.781Z"
@@ -26,5 +30,7 @@
     "Jaswell Farm is a apple orchard in Smithfield, RI. Visitors come for Apples, Honey, and Eggs, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.889824020625,
+  "lon": -71.5501990129939
 }

@@ -7,7 +7,7 @@
   "locationCity": "Grand Rapids",
   "locationState": "MN",
   "locationZipcode": "",
-  "website": "https://www.lavaliersberrypatch.com",
+  "website": "https://www.irpsmn.org/grown-on-the-range/2020/8/28/grown-on-the-range-profile-32-originally-published-in-hometown-focus",
   "phone": "218-327-9199",
   "crops": [
     "Strawberries",
@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.769Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:07.205Z"
     }
@@ -28,5 +32,7 @@
   "description": [
     "A family-run pumpkin patch in Grand Rapids, MN, Lavalier's Berry Patch grows Strawberries, Blueberries, Apples, Cherries, and Pumpkins. The patch is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 47.1743275221695,
+  "lon": -93.4310135771968
 }

@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:48:25.293Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:36:45.184Z"
     }
   ],
-  "website": "https://www.n40berries.com/",
+  "website": "http://www.n40berries.com/",
   "description": [
     "N40 Berries is an berry farm in Stillwater, OK. Visitors come for Blackberries, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 36.2125547306174,
+  "lon": -97.0879012084038
 }

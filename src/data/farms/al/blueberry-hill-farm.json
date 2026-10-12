@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:35:43.649Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:22:19.124Z"
     }
   ],
-  "website": "http://blueberryhillfarms.com/",
+  "website": "https://blueberryhavens.com/",
   "tagline": "Blueberries  blackberries  Texa blueberry farm  farms  Pick your own, Pick 'n Edom Edom, TX Home",
   "description": [
     "In Dora, AL, Blueberry Hill Farm grows Blueberries on a family-run u-pick farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 33.671567991223,
+  "lon": -87.052403039789
 }

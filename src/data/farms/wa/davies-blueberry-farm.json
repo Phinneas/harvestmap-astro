@@ -13,14 +13,20 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:16.396Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:40:59.975Z"
     }
   ],
-  "website": "https://dungenessmeadowfarm.com/",
+  "website": "https://www.dungenessmeadowfarm.com/",
   "tagline": "Welcome to Dungeness Meadow Farm",
   "description": [
     "In Lynden, WA, Davies Blueberry Farm grows Blueberries on a small berry farm. The harvest is typically at its peak in summer. The season runs through summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 48.8843727157433,
+  "lon": -122.463989809266
 }

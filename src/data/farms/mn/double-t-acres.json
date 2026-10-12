@@ -22,6 +22,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:43:07.854Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:31:07.205Z"
     }
@@ -32,5 +36,7 @@
     "Double T Acres is a pumpkin patch in Shore, MN. Visitors come for Strawberries, Blueberries, Raspberries, Cherries, and Pumpkins, best in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 46.53091599537569,
+  "lon": -94.3786660276254
 }

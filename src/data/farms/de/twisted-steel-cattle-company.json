@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:37.182Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:24:38.411Z"
     }
   ],
-  "website": null,
+  "website": "https://uw-media.courierpress.com/story/news/2022/06/03/delaware-farms-strawberries-fifer-orchards-hundred-acre-farms-twisted-steel-cattle/9960870002/",
   "tagline": "Twisted Steel Cattle Company",
   "description": [
     "Twisted Steel Cattle Company is a berry farm in Harrington, DE. Visitors come for Strawberries, best in spring. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 38.9201980429193,
+  "lon": -75.5685099540316
 }

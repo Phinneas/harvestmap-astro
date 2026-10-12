@@ -21,6 +21,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:21.370Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:37:47.862Z"
     }
@@ -30,5 +34,7 @@
   "description": [
     "In New Hope, PA, Solebury Orchards grows Blueberries, Raspberries, Blackberries, Apples, and Peaches on a small pumpkin patch. The harvest is typically at its peak in summer. The season runs through summer and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone."
-  ]
+  ],
+  "lat": 40.3846846,
+  "lon": -75.025891
 }

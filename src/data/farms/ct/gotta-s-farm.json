@@ -7,7 +7,7 @@
   "locationCity": "Portland",
   "locationState": "CT",
   "locationZipcode": "",
-  "website": "https://gottasfarm.com",
+  "website": "https://www.ctinsider.com/news/article/Lawmakers-visit-Portland-farm-11836507.php",
   "phone": "(860) 342-1844",
   "crops": [
     "Strawberries",
@@ -19,6 +19,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:37:14.925Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:24:25.507Z"
     }
@@ -28,5 +32,7 @@
   "description": [
     "Gotta's Farm is a small pumpkin patch in Portland, CT. It grows Strawberries, Apples, Pears, Peaches, and Pumpkins, with picking through spring, autumn, and summer. The harvest is typically at its peak in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 41.6162902264531,
+  "lon": -72.5989744731213
 }

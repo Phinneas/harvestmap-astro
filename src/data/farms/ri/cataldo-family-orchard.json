@@ -13,15 +13,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:50:31.274Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:38:08.781Z"
     }
   ],
-  "website": null,
+  "website": "https://bardenfamilyorchard.com/markets-1",
   "tagline": "Cataldo Family Orchard",
   "description": [
     "Cataldo Family Orchard is an apple orchard in Glocester, RI. Visitors come for Apples, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 41.8918456523482,
+  "lon": -71.776146624731
 }

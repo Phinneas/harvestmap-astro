@@ -14,15 +14,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.582Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
     }
   ],
-  "website": "https://www.mapleridgeorchard.com/",
+  "website": "https://www.suttersridge.com/plan-your-visit",
   "tagline": "Plan Your Visit — Sutter's Ridge Apple Orchard, Pumpkin Patch & Corn Maze near Madison WI",
   "description": [
     "Honey Ridge Apple Farm is a corn maze farm in Hillsboro, WI. Visitors come for Apples and Honey, best in autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Aug – Nov in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 43.6694140050884,
+  "lon": -90.4665210146767
 }

@@ -23,6 +23,10 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:47:32.909Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:35:31.984Z"
     }
@@ -32,5 +36,7 @@
   "description": [
     "In King, NC, Robertson Family Farm grows Strawberries, Blueberries, Blackberries, Pumpkins, and Squash on a small pumpkin patch. The harvest is typically at its peak in summer. The season runs through spring, summer, and autumn. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Apr – Jun in this growing zone."
-  ]
+  ],
+  "lat": 36.29519865209944,
+  "lon": -80.33486680143274
 }

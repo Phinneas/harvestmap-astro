@@ -18,15 +18,21 @@
   ],
   "provenance": [
     {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:38:48.359Z"
+    },
+    {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:25:54.842Z"
     }
   ],
-  "website": null,
+  "website": "https://oakhurstfarms.com/faq-1",
   "tagline": "Fresh Peaches Grown in North Georgia",
   "description": [
     "A working berry farm in Monroe, GA, Waits Farm grows Blueberries, Squash, Tomatoes, Peppers, and Peas. The farm is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from Jun – Aug in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 33.8833576834357,
+  "lon": -83.7601154020163
 }

@@ -7,12 +7,16 @@
   "locationCity": "Brussels",
   "locationState": "WI",
   "locationZipcode": "",
-  "website": null,
+  "website": "https://fox11online.com/news/local/end-of-an-era-cherished-door-county-orchard-owners-retire-after-44-fruitful-years-alexanders-cherry-orchard-karen-alexander-gary-alexander-pick-your-own-brussels-debbie-wachholz-jeff-bryant-lora-anderson-karen-uhlenbrauck-",
   "phone": "920-824-5113",
   "crops": [
     "Cherries"
   ],
   "provenance": [
+    {
+      "source": "usda",
+      "lastSeen": "2026-08-05T18:53:44.422Z"
+    },
     {
       "source": "pickyourown.org",
       "lastSeen": "2026-07-28T19:41:43.001Z"
@@ -22,5 +26,7 @@
     "An independent orchard in Brussels, WI, Alexander's Cherry Orchard grows Cherries. The orchard is busiest in summer. Check the website or call ahead for current hours and what is in season.",
     "Seasonal availability typically runs from May – Jul in this growing zone.",
     "Contact the farm directly to confirm current hours and what is ready to pick."
-  ]
+  ],
+  "lat": 44.7908725536095,
+  "lon": -87.5431389356256
 }
