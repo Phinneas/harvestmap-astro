@@ -34,7 +34,47 @@ const stateFarms: Farm[] = await getStateFarms(stateCode);
 const farmData = stateFarms.find((f) => f.slug === slug);
 if (!farmData) return new Response('Not found', { status: 404 });
 
+// Merge crowdsourced confirmations (approved reports) from KV. The admin
+// approve step writes confirmed flags/hours/crops into a KV overlay keyed by
+// (state, slug). We fold them in before augmentation so an explicit flag wins
+// over the heuristic, and a previously-thin listing can now clear the quality
+// bar (e.g. a confirmed crop or hours adds the missing contact/detail signal).
+let crowdConfirmedAt: string | undefined;
+try {
+  const overlayRaw = await (Astro as any).locals.runtime.env.SUBMISSIONS_KV.get(
+    `farm:flags:${stateCode}:${slug}`,
+  );
+  if (overlayRaw) {
+    const overlay = JSON.parse(overlayRaw);
+    const flags = overlay?.flags;
+    if (flags && typeof flags === 'object') {
+      for (const [k, v] of Object.entries(flags)) {
+        if (v === true) (farmData as any)[k] = true;
+      }
+    }
+    const overlayCrops = Array.isArray(overlay?.crops) ? overlay.crops.filter((c: any) => typeof c === 'string') : [];
+    if (overlayCrops.length > 0) {
+      farmData.crops = [...new Set([...(farmData.crops || []), ...overlayCrops])];
+    }
+    if (typeof overlay?.stand === 'string' && overlay.stand.trim()) {
+      farmData.stand = overlay.stand.trim();
+    }
+    if (typeof overlay?.lastConfirmedAt === 'string' && overlay.lastConfirmedAt) {
+      crowdConfirmedAt = overlay.lastConfirmedAt;
+      farmData.lastConfirmedAt = overlay.lastConfirmedAt;
+    }
+  }
+} catch {}
+
 const farm = augmentFarm(farmData);
+
+// Friendly "recently reported" label for the crowdsourcing confirmation date.
+const confirmedLabel = (() => {
+  if (!crowdConfirmedAt) return undefined;
+  const d = new Date(crowdConfirmedAt);
+  if (Number.isNaN(d.getTime())) return undefined;
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+})();
 
 // Edge cache: 1hr fresh, 24hr stale-while-revalidate. Farm data changes monthly;
 // the refresh script purges Cloudflare cache after updating.
@@ -261,6 +301,12 @@ const hasEstablished = farm.established !== undefined;
             )}
             {farm.email && (
               <li><span class="cal__name">Email</span><span class="cal__months"><a href={`mailto:${farm.email}`} style="color: var(--clay-deep);">{farm.email}</a></span></li>
+            )}
+            {crowdConfirmedAt && (
+              <li>
+                <span class="cal__name">Last confirmed</span>
+                <span class="cal__months" style="text-align:right;color:var(--moss);">{confirmedLabel}</span>
+              </li>
             )}
           </ul>
           <div class="stack stack-2">

@@ -24,6 +24,70 @@ async function removeFromPending(env: any, id: string) {
   } catch {}
 }
 
+// The structured attributes a "Report what's ripe" form can confirm. These map
+// 1:1 onto Farm fields, so writing them into the overlay makes deriveFarmFeatures
+// treat them as explicit (confirmed) rather than heuristic (inferred).
+const MOAT_FLAGS = [
+  'freeAdmission',
+  'hasCornMaze',
+  'hasBrewery',
+  'nightHours',
+  'hasHauntedHouse',
+  'dogFriendly',
+  'accessible',
+];
+
+/**
+ * Complete the crowdsourcing loop: when a submission is approved, write its
+ * confirmed flags/hours/crops back into a KV overlay keyed by (state, slug).
+ *
+ * Runtime code cannot write to src/data/farms (that's git source, refreshed
+ * monthly by the data pipeline), so the overlay is the source of truth between
+ * the admin approve step and the next refresh. The SSR farm page merges this
+ * overlay on read, so an approved report is live immediately.
+ */
+async function applyApprovedSubmission(kv: any, submission: any) {
+  const state = String(submission?.farmState || '').toUpperCase();
+  const slug = String(submission?.farmSlug || '').toLowerCase();
+  if (!state || !slug) return;
+
+  const key = `farm:flags:${state}:${slug}`;
+  let overlay: any = {
+    flags: {},
+    crops: [],
+    stand: '',
+    lastConfirmedAt: '',
+    reportCount: 0,
+  };
+  try {
+    const raw = await kv.get(key);
+    if (raw) overlay = { ...overlay, ...JSON.parse(raw) };
+  } catch {}
+
+  for (const f of Array.isArray(submission?.features) ? submission.features : []) {
+    if (typeof f === 'string' && MOAT_FLAGS.includes(f)) overlay.flags[f] = true;
+  }
+
+  const crops = Array.isArray(submission?.crops) ? submission.crops.filter((c: any) => typeof c === 'string') : [];
+  if (crops.length > 0) {
+    overlay.crops = [...new Set([...(overlay.crops || []), ...crops])];
+  }
+
+  if (typeof submission?.stand === 'string' && submission.stand.trim()) {
+    overlay.stand = submission.stand.trim();
+  }
+
+  // A submission is a human confirmation, so it becomes the farm's verification
+  // date — but never regress an existing (newer) confirmation.
+  const candidate = submission?.submittedAt || new Date().toISOString();
+  if (!overlay.lastConfirmedAt || candidate > overlay.lastConfirmedAt) {
+    overlay.lastConfirmedAt = candidate;
+  }
+  overlay.reportCount = (overlay.reportCount || 0) + 1;
+
+  await kv.put(key, JSON.stringify(overlay));
+}
+
 export const GET: APIRoute = async ({ request, locals }) => {
   const runtime = (locals as any).runtime;
   const kv = runtime?.env?.SUBMISSIONS_KV;
@@ -74,6 +138,7 @@ export const POST: APIRoute = async ({ request, locals }) => {
       submission.approvedAt = new Date().toISOString();
       await kv.put(`sub:${id}`, JSON.stringify(submission));
       await removeFromPending(runtime.env, id);
+      await applyApprovedSubmission(kv, submission);
       return json({ ok: true, submission }, 200);
     } catch (e) {
       return json({ error: 'Failed to approve' }, 500);
